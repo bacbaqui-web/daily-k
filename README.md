@@ -11,4 +11,4 @@
 
 `npm ci` 후 `npm run build`를 실행합니다. `python3 scripts/prepare-pages.py`로 경로를 정리한 뒤 main에 반영합니다. GitHub Pages는 main의 /docs에서 배포합니다.
 
-수집은 별도 로컬 작업에서 수행하며 GitHub에는 공개용 feed.json만 전달합니다. Oracle 수집 연결은 아직 구성하지 않았습니다.
+수집은 Oracle의 전용 systemd 타이머에서 매시간 실행하며 GitHub에는 공개용 feed.json만 전달합니다. 이미지와 영상 파일은 저장하지 않습니다. 기존 Mac 수집 예약은 중지했습니다.
