@@ -45,3 +45,5 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .post-preview video{display:block;width:100%;max-height:280px;object-fit:contain;background:#101412;border-radius:6px}
 
 .reader-top{display:grid;grid-template-columns:100px minmax(0,1fr) 100px;gap:12px;margin-top:30px;align-items:center}.reader-heading{display:flex;align-items:baseline;justify-content:center;flex-wrap:wrap;gap:4px 10px;text-align:center;min-width:0}.reader-heading .reader-title[data-slot="dialog-title"]{padding:0;overflow-wrap:anywhere}.reader-counter{white-space:nowrap;font-variant-numeric:tabular-nums}.reader-top button{white-space:nowrap;padding:8px}.reader-top+.laugh-stats{justify-content:center;margin-top:4px}@media(max-width:600px){.reader-top{grid-template-columns:70px minmax(0,1fr) 70px;gap:6px}.reader-top button{font-size:12px;padding:8px 3px}.reader-heading .reader-title[data-slot="dialog-title"]{font-size:16px}.reader-heading{gap:3px 6px}.reader-top .reader-counter{font-size:12px}}
+
+.reader-top{margin-top:0}@media(max-width:767px){.drag-heading{touch-action:none;user-select:none;-webkit-user-select:none;padding:10px 0}}
