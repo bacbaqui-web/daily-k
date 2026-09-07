@@ -11,3 +11,10 @@ export function within24Hours(post:{publishedAt?:string},now:number):boolean{
  const published=Date.parse(post.publishedAt||'');
  return Number.isFinite(published)&&published<=now&&now-published<24*60*60*1000;
 }
+
+export function nextUnreadPost(order:string[],current:string|null,read:string[]):string|undefined{
+ const index=current===null?-1:order.indexOf(current);
+ if(index<0)return undefined;
+ const seen=new Set(read);
+ return [...order.slice(index+1),...order.slice(0,index)].find(id=>!seen.has(id));
+}
