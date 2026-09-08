@@ -20,13 +20,13 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 [data-theme="dark"] .moon-icon{display:none}[data-theme="dark"] .sun-icon{display:block}
 [data-theme="dark"] .posts>li{background:color-mix(in srgb,var(--source-color) 15%,var(--card));border-color:color-mix(in srgb,var(--source-color) 55%,var(--border));border-left-color:var(--source-color)}
 [data-theme="dark"] .posts>li:hover{background:color-mix(in srgb,var(--source-color) 23%,var(--card))}
-[data-theme="dark"] :is(.reader-dialog[data-slot="dialog-content"],.post-preview[data-slot="hover-card-content"],.content){background:var(--card);color:var(--foreground);border-color:var(--border)}
+[data-theme="dark"] :is(.reader-dialog[data-slot="dialog-content"],.post-preview[data-slot="hover-card-content"],.content){background:var(--background);color:var(--foreground);border-color:var(--border)}
 [data-theme="dark"] :is(.reader-close,.empty button,.category-tabs[data-slot="tabs-list"]){background:var(--muted);color:var(--foreground)}
 [data-theme="dark"] :is(.rank,.seen .post-main h2,.empty p,.sources-button,.reader-description,.media-error,.source-list span,.source-list small,.laugh-stats span,.laugh-stats small,.preview-hint,.comment-note,.post-preview .comment-note,.comment-number){color:var(--muted-foreground)}
 [data-theme="dark"] :is(.laugh-stats strong,.sources-button:hover){color:var(--foreground)}
 [data-theme="dark"] .big-k{color:var(--primary)}
 [data-theme="dark"] :is(.source-list li,.preview-comments,.comment-list li,.article-comments){border-color:var(--border)}
-[data-theme="dark"] .preview-comments{background:#172024}[data-theme="dark"] .post-preview img{background:var(--background)}
+[data-theme="dark"] .preview-comments{background:var(--background)}[data-theme="dark"] .post-preview img{background:var(--background)}
 [data-theme="dark"] .category-tabs [data-slot="tabs-trigger"]{color:var(--muted-foreground)}
 [data-theme="dark"] .category-tabs [data-slot="tabs-trigger"][data-active]{background:var(--card);color:var(--primary)}
 [data-theme="dark"] .category-tabs [data-slot="tabs-trigger"]:last-child[data-active]{color:#f4a9c1}
