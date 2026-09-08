@@ -49,3 +49,5 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .reader-top{margin-top:0}@media(max-width:767px){.drag-heading{touch-action:none;user-select:none;-webkit-user-select:none;padding:10px 0}}
 
 .post-preview .preview-article img,.post-preview .preview-article video{width:100%;height:auto;max-height:none;object-fit:contain;margin:12px 0}.post-preview .preview-article p,.post-preview .comment-list p{display:block;-webkit-line-clamp:unset;overflow:visible}.preview-article,.preview-comments{min-width:0;overflow-x:hidden;scrollbar-gutter:stable}
+
+.portal-links{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}.portal-links a{display:block;padding:8px 12px;border:1px solid currentColor;border-radius:8px;color:var(--foreground);font-size:14px;font-weight:700;overflow-wrap:anywhere}
