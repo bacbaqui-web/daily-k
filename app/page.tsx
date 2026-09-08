@@ -27,7 +27,7 @@ function ShareButton({postId}:{postId:string}){
 function LaughStats({post,tab,now,compact=false}:{post:Post;tab:string;now:number;compact?:boolean}){
  const fetched=Date.parse(post.commentsFetchedAt||'');
  const minutes=Math.floor(Math.max(0,now-fetched)/60000);
- const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<1?'방금':minutes<60?`${minutes}분 전`:minutes<1440?`${Math.floor(minutes/60)}시간 ${minutes%60}분 전`:`${Math.floor(minutes/1440)}일 전`;
+ const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<60?'1시간 이내':`${Math.floor(minutes/60)}시간 전`;
  return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:contentMarkers(post).map(({label,url})=><a className="content-marker" key={url} href={url} target="_blank" rel="noopener noreferrer" title={url} onClick={event=>event.stopPropagation()}>{label} ↗</a>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small>{compact&&<ShareButton postId={post.id}/>}</div>
 }
 function ArticleImage({src,alt}:{src:string;alt:string}){
