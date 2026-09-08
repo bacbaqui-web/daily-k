@@ -17,18 +17,18 @@ function isFeed(value:unknown):value is Feed {
  return typeof v.date==='string'&&(v.collectionMessage===undefined||typeof v.collectionMessage==='string')&&v.posts.every(p=>p&&p.kCount>=10&&p.commentCount>0)&&[...v.posts,...(v.taggedPosts||[])].every(p=>p&&typeof p.id==='string'&&typeof p.title==='string'&&typeof p.source==='string'&&typeof p.url==='string'&&p.url.startsWith('https://')&&typeof p.excerpt==='string'&&(p.comments===undefined||(Array.isArray(p.comments)&&p.comments.every(c=>c&&typeof c.id==='string'&&typeof c.text==='string')))&&(p.content===undefined||(Array.isArray(p.content)&&p.content.every(b=>b&&(b.type==='text'?typeof b.text==='string':(b.type==='image'||b.type==='video')&&typeof b.src==='string'&&b.src.startsWith('https://')&&(b.type!=='video'||!b.poster||b.poster.startsWith('https://'))))))&&Number.isFinite(p.kCount)&&p.kCount>=0&&Number.isFinite(p.commentCount)&&p.commentCount>=0&&(p.matchedPosts===undefined||(Array.isArray(p.matchedPosts)&&p.matchedPosts.every(m=>m&&typeof m.url==='string'&&m.url.startsWith('https://')&&typeof m.source==='string')))&&Array.isArray(p.images)&&p.images.every((u:unknown)=>typeof u==='string'&&u.startsWith('https://'))&&(p.videos===undefined||(Array.isArray(p.videos)&&p.videos.every(v=>v&&typeof v.src==='string'&&v.src.startsWith('https://')&&typeof v.poster==='string'&&(v.poster===''||v.poster.startsWith('https://'))))));
 }
 const sourceColors:Record<string,string>={'애객':'#ce3d46','루리웹':'#2367b3','에펨코리아':'#315b99','개드립':'#946500','이토랜드':'#b52326','웃긴대학':'#d62e35','디시인사이드':'#3b4890','오늘의유머':'#357087'};
-function ShareButton({url}:{url:string}){
+function ShareButton({postId}:{postId:string}){
  const [message,setMessage]=useState('');
  const [copying,setCopying]=useState(false);
  useEffect(()=>{if(!message)return;const timer=window.setTimeout(()=>setMessage(''),3000);return ()=>window.clearTimeout(timer)},[message]);
- async function copy(){setCopying(true);setMessage('');try{await navigator.clipboard.writeText(url);setMessage('링크주소가 복사됐습니다.')}catch{setMessage('링크를 복사하지 못했습니다. 다시 시도해 주세요.')}finally{setCopying(false)}}
+ async function copy(){setCopying(true);setMessage('');try{const url=new URL('/daily-k/',window.location.origin);url.searchParams.set('post',postId);await navigator.clipboard.writeText(url.href);setMessage('링크주소가 복사됐습니다.')}catch{setMessage('링크를 복사하지 못했습니다. 다시 시도해 주세요.')}finally{setCopying(false)}}
  return <span className="share-control"><button type="button" className="share-button" onClick={copy} disabled={copying}>공유</button><span className={message?'share-notice':''} role="status" aria-live="polite">{message}</span></span>
 }
 function LaughStats({post,tab,now,compact=false}:{post:Post;tab:string;now:number;compact?:boolean}){
  const fetched=Date.parse(post.commentsFetchedAt||'');
  const minutes=Math.floor(Math.max(0,now-fetched)/60000);
  const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<1?'방금 수집':minutes<60?`${minutes}분 전 수집`:minutes<1440?`${Math.floor(minutes/60)}시간 ${minutes%60}분 전 수집`:`${Math.floor(minutes/1440)}일 전 수집`;
- return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:contentMarkers(post).map(label=><span className="content-marker" key={label} title="수집된 본문·댓글에서 발견">{label}</span>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small>{compact&&<ShareButton url={post.url}/>}</div>
+ return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:contentMarkers(post).map(label=><span className="content-marker" key={label} title="수집된 본문·댓글에서 발견">{label}</span>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small>{compact&&<ShareButton postId={post.id}/>}</div>
 }
 function ArticleImage({src,alt}:{src:string;alt:string}){
  const [failed,setFailed]=useState(false);
@@ -80,6 +80,8 @@ function ThemeToggle(){
  return <Button variant="ghost" size="icon" className="theme-toggle" onClick={toggle} aria-label="다크 모드" aria-pressed={dark} title={dark?'밝은 모드로 전환':'다크 모드로 전환'}><svg className="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M20.5 14A9 9 0 0 1 10 3.5 9 9 0 1 0 20.5 14Z"/></svg><svg className="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg></Button>;
 }
 export default function Home(){
+ const sharedHandled=useRef(false);
+ const [shareNotice,setShareNotice]=useState('');
  const [readerOrder,setReaderOrder]=useState<string[]>([]);
  const [tab,setTab]=useState<'humor'|'tagged'>('humor');
  const [now,setNow]=useState(0),[feed,setFeed]=useState<Feed|null>(null),[error,setError]=useState(false),[read,setRead]=useState<string[]>([]),[opened,setOpened]=useState<string|null>(null),[retry,setRetry]=useState(0);
@@ -108,6 +110,18 @@ export default function Home(){
  const posts=unreadFirst(rankedPosts.filter(p=>within24Hours(p,now)),read);
  const activeOrder=readerOrder.filter(id=>posts.some(p=>p.id===id));
  useEffect(()=>{if(opened&&!rankedPosts.some(p=>p.id===opened&&within24Hours(p,now)))setOpened(null)},[opened,feed,now]);
+ useEffect(()=>{
+  if(!feed||!now||sharedHandled.current)return;
+  sharedHandled.current=true;
+  const id=new URL(window.location.href).searchParams.get('post');
+  if(!id)return;
+  const category=feed.posts.some(p=>p.id===id)?'humor':'tagged';
+  const group=category==='humor'?feed.posts:(feed.taggedPosts||[]);
+  const target=group.find(p=>p.id===id);
+  if(!target||!within24Hours(target,now)){setShareNotice('공유된 글은 24시간이 지났거나 현재 목록에서 삭제되었습니다.');return}
+  const ordered=[...group].filter(p=>within24Hours(p,now)).sort((a,b)=>category==='humor'?b.kCount-a.kCount:b.commentCount-a.commentCount||(b.publishedAt||'').localeCompare(a.publishedAt||''));
+  setTab(category);setReaderOrder(unreadFirst(ordered,read).map(p=>p.id));setOpened(id);mark(id);
+ },[feed,now]);
  function openPost(id:string){setReaderOrder(posts.map(p=>p.id));setOpened(id);mark(id)}
  function nextPost(delta:number){const id=delta>0?nextUnreadPost(activeOrder,opened,read):adjacentPost(activeOrder,opened,delta);if(id){setOpened(id);mark(id)}else if(delta>0)setOpened(null)}
  useEffect(()=>{
@@ -138,6 +152,7 @@ export default function Home(){
   return()=>window.removeEventListener('keydown',navigate,true);
  },[opened,activeOrder,read]);
  return <main>
+  {shareNotice&&<p className="collection-notice" role="status">{shareNotice}</p>}
   <Tabs value={tab} onValueChange={value=>{setTab(value==='tagged'?'tagged':'humor');setOpened(null)}} className="feed-tabs"><header><TabsList className="category-tabs" aria-label="게시글 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header>
   {feed?.collectionMessage&&feed.collectionStatus!=='complete'&&<p className="collection-notice" role="status">{feed.collectionMessage}</p>}<TabsContent value={tab} key={tab}>{error&&!feed?<div className="empty" role="alert"><span className="big-k">ㅋ</span><p>불러오지 못했습니다</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:posts.length===0?<div className="empty" role="status"><span className="big-k" aria-hidden="true">ㅋ</span><p>{feed?.collectionMessage?'수집된 글이 없습니다':tab==='humor'?'ㅋ수집중':'아직 수집한 글이 없어요'}</p></div>:<ol className="posts">{posts.map((p,i)=><li key={p.id} style={{'--source-color':sourceColors[p.source]||'#596661'} as CSSProperties} className={read.includes(p.id)?'seen':''}><Dialog disablePointerDismissal={false} open={opened===p.id} onOpenChange={open=>{if(open)openPost(p.id);else setOpened(current=>current===p.id?null:current)}}><article><div className="post-top"><span className="rank">{String(i+1).padStart(2,'0')}</span><div className="post-main">{(p.source!=='애객'||read.includes(p.id))&&<span className="source">{p.source==='애객'?'읽음':p.source+(read.includes(p.id)?' · 읽음':'')}</span>}<h2><PostTitle post={p} expanded={opened===p.id}/></h2><LaughStats post={p} tab={tab} now={now}/></div></div></article><DialogContent className="reader-dialog" showCloseButton={false} aria-describedby={undefined}><PortalLinks post={p}/><nav className="reader-nav reader-top" aria-label="게시글 이동"><button onClick={()=>nextPost(-1)} disabled={activeOrder.indexOf(p.id)<=0} aria-label="이전 글">← 이전 글</button><ReaderHeading title={p.title} index={activeOrder.indexOf(p.id)+1} total={activeOrder.length} onClose={()=>setOpened(null)}/><button onClick={()=>nextPost(1)} aria-label="다음 글">다음 글 →</button></nav><LaughStats post={p} tab={tab} now={now} compact/>{opened===p.id&&<div className="reader-body" data-reader-active="true"><Body post={p}/><Comments post={p}/>{(p.matchedPosts?.length?p.matchedPosts:[{url:p.url,source:p.source}]).map(m=><a key={m.url} className="original" href={m.url} target="_blank" rel="noopener noreferrer">{m.source==='애객'?'':m.source+' '}원문 보기 ↗</a>)}</div>}</DialogContent></Dialog></li>)}</ol>}</TabsContent></Tabs>
  </main>
