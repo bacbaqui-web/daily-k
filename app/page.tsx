@@ -20,7 +20,7 @@ function LaughStats({post,tab,now,compact=false}:{post:Post;tab:string;now:numbe
  const fetched=Date.parse(post.commentsFetchedAt||'');
  const minutes=Math.floor(Math.max(0,now-fetched)/60000);
  const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<1?'방금 수집':minutes<60?`${minutes}분 전 수집`:minutes<1440?`${Math.floor(minutes/60)}시간 ${minutes%60}분 전 수집`:`${Math.floor(minutes/1440)}일 전 수집`;
- return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:['몸매','엉덩이'].map(word=><span key={word} title="수집한 댓글에 포함된 문자열의 총 등장 횟수">{word} <strong>{(post.comments||[]).reduce((sum,c)=>sum+c.text.split(word).length-1,0).toLocaleString('ko-KR')}</strong></span>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small></div>
+ return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:null}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small></div>
 }
 function ArticleImage({src,alt}:{src:string;alt:string}){
  const [failed,setFailed]=useState(false);
