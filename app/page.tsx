@@ -22,7 +22,7 @@ function ShareButton({postId}:{postId:string}){
  const [copying,setCopying]=useState(false);
  useEffect(()=>{if(!message)return;const timer=window.setTimeout(()=>setMessage(''),3000);return ()=>window.clearTimeout(timer)},[message]);
  async function copy(){setCopying(true);setMessage('');try{const url=new URL('/daily-k/',window.location.origin);url.searchParams.set('post',postId);await navigator.clipboard.writeText(url.href);setMessage('링크주소가 복사됐습니다.')}catch{setMessage('링크를 복사하지 못했습니다. 다시 시도해 주세요.')}finally{setCopying(false)}}
- return <span className="share-control"><button type="button" className="share-button" onClick={copy} disabled={copying} aria-label="공유 링크 복사" title="공유 링크 복사"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M12 16V3m-5 5 5-5 5 5M5 13v7a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-7"/></svg></button><span className={message?'share-notice':''} role="status" aria-live="polite">{message}</span></span>
+ return <span className="share-control"><button type="button" className="share-button" onClick={copy} disabled={copying} aria-label="공유 링크 복사" title="공유 링크 복사">공유하기</button><span className={message?'share-notice':''} role="status" aria-live="polite">{message}</span></span>
 }
 function LaughStats({post,tab,now,compact=false}:{post:Post;tab:string;now:number;compact?:boolean}){
  const fetched=Date.parse(post.commentsFetchedAt||'');
