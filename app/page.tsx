@@ -22,12 +22,12 @@ function ShareButton({postId}:{postId:string}){
  const [copying,setCopying]=useState(false);
  useEffect(()=>{if(!message)return;const timer=window.setTimeout(()=>setMessage(''),3000);return ()=>window.clearTimeout(timer)},[message]);
  async function copy(){setCopying(true);setMessage('');try{const url=new URL('/daily-k/',window.location.origin);url.searchParams.set('post',postId);await navigator.clipboard.writeText(url.href);setMessage('링크주소가 복사됐습니다.')}catch{setMessage('링크를 복사하지 못했습니다. 다시 시도해 주세요.')}finally{setCopying(false)}}
- return <span className="share-control"><button type="button" className="share-button" onClick={copy} disabled={copying}>공유</button><span className={message?'share-notice':''} role="status" aria-live="polite">{message}</span></span>
+ return <span className="share-control"><button type="button" className="share-button" onClick={copy} disabled={copying} aria-label="공유 링크 복사" title="공유 링크 복사"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M12 16V3m-5 5 5-5 5 5M5 13v7a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-7"/></svg></button><span className={message?'share-notice':''} role="status" aria-live="polite">{message}</span></span>
 }
 function LaughStats({post,tab,now,compact=false}:{post:Post;tab:string;now:number;compact?:boolean}){
  const fetched=Date.parse(post.commentsFetchedAt||'');
  const minutes=Math.floor(Math.max(0,now-fetched)/60000);
- const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<1?'방금 수집':minutes<60?`${minutes}분 전 수집`:minutes<1440?`${Math.floor(minutes/60)}시간 ${minutes%60}분 전 수집`:`${Math.floor(minutes/1440)}일 전 수집`;
+ const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<1?'방금':minutes<60?`${minutes}분 전`:minutes<1440?`${Math.floor(minutes/60)}시간 ${minutes%60}분 전`:`${Math.floor(minutes/1440)}일 전`;
  return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:contentMarkers(post).map(({label,url})=><a className="content-marker" key={url} href={url} target="_blank" rel="noopener noreferrer" title={url} onClick={event=>event.stopPropagation()}>{label} ↗</a>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small>{compact&&<ShareButton postId={post.id}/>}</div>
 }
 function ArticleImage({src,alt}:{src:string;alt:string}){
@@ -68,7 +68,7 @@ function ReaderHeading({title,index,total,onClose}:{title:string;index:number;to
   onPointerMove={e=>{const p=start.current;if(p?.id!==e.pointerId||closing.current)return;panel.current?.style.setProperty('--reader-drag-y',`${Math.max(0,e.clientY-p.y)}px`)}}
   onPointerUp={e=>{const p=start.current;if(p?.id!==e.pointerId)return;const close=e.clientY-p.y>=72&&e.clientY-p.y>Math.abs(e.clientX-p.x)*1.2;if(close&&panel.current){closing.current=true;start.current=null;delete panel.current.dataset.dragging;panel.current.style.setProperty('--reader-drag-y',`${window.innerHeight}px`);timer.current=setTimeout(onClose,180)}else reset()}}
   onPointerCancel={()=>{if(!closing.current)reset()}} onLostPointerCapture={()=>{if(!closing.current)reset()}}>
-  <DialogTitle className="reader-title">{title}</DialogTitle><span className="reader-counter">{index} / {total}</span>
+  <DialogTitle className="reader-title">{title} <span className="reader-counter">{index} / {total}</span></DialogTitle>
  </div>;
 }
 
