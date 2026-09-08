@@ -17,11 +17,18 @@ function isFeed(value:unknown):value is Feed {
  return typeof v.date==='string'&&(v.collectionMessage===undefined||typeof v.collectionMessage==='string')&&v.posts.every(p=>p&&p.kCount>=10&&p.commentCount>0)&&[...v.posts,...(v.taggedPosts||[])].every(p=>p&&typeof p.id==='string'&&typeof p.title==='string'&&typeof p.source==='string'&&typeof p.url==='string'&&p.url.startsWith('https://')&&typeof p.excerpt==='string'&&(p.comments===undefined||(Array.isArray(p.comments)&&p.comments.every(c=>c&&typeof c.id==='string'&&typeof c.text==='string')))&&(p.content===undefined||(Array.isArray(p.content)&&p.content.every(b=>b&&(b.type==='text'?typeof b.text==='string':(b.type==='image'||b.type==='video')&&typeof b.src==='string'&&b.src.startsWith('https://')&&(b.type!=='video'||!b.poster||b.poster.startsWith('https://'))))))&&Number.isFinite(p.kCount)&&p.kCount>=0&&Number.isFinite(p.commentCount)&&p.commentCount>=0&&(p.matchedPosts===undefined||(Array.isArray(p.matchedPosts)&&p.matchedPosts.every(m=>m&&typeof m.url==='string'&&m.url.startsWith('https://')&&typeof m.source==='string')))&&Array.isArray(p.images)&&p.images.every((u:unknown)=>typeof u==='string'&&u.startsWith('https://'))&&(p.videos===undefined||(Array.isArray(p.videos)&&p.videos.every(v=>v&&typeof v.src==='string'&&v.src.startsWith('https://')&&typeof v.poster==='string'&&(v.poster===''||v.poster.startsWith('https://'))))));
 }
 const sourceColors:Record<string,string>={'애객':'#ce3d46','루리웹':'#2367b3','에펨코리아':'#315b99','개드립':'#946500','이토랜드':'#b52326','웃긴대학':'#d62e35','디시인사이드':'#3b4890','오늘의유머':'#357087'};
+function ShareButton({url}:{url:string}){
+ const [message,setMessage]=useState('');
+ const [copying,setCopying]=useState(false);
+ useEffect(()=>{if(!message)return;const timer=window.setTimeout(()=>setMessage(''),3000);return ()=>window.clearTimeout(timer)},[message]);
+ async function copy(){setCopying(true);setMessage('');try{await navigator.clipboard.writeText(url);setMessage('링크주소가 복사됐습니다.')}catch{setMessage('링크를 복사하지 못했습니다. 다시 시도해 주세요.')}finally{setCopying(false)}}
+ return <span className="share-control"><button type="button" className="share-button" onClick={copy} disabled={copying}>공유</button><span className={message?'share-notice':''} role="status" aria-live="polite">{message}</span></span>
+}
 function LaughStats({post,tab,now,compact=false}:{post:Post;tab:string;now:number;compact?:boolean}){
  const fetched=Date.parse(post.commentsFetchedAt||'');
  const minutes=Math.floor(Math.max(0,now-fetched)/60000);
  const age=!Number.isFinite(fetched)||!now?'수집 시간 미상':minutes<1?'방금 수집':minutes<60?`${minutes}분 전 수집`:minutes<1440?`${Math.floor(minutes/60)}시간 ${minutes%60}분 전 수집`:`${Math.floor(minutes/1440)}일 전 수집`;
- return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:contentMarkers(post).map(label=><span className="content-marker" key={label} title="수집된 본문·댓글에서 발견">{label}</span>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small></div>
+ return <div className="laugh-stats">{tab==='humor'?<><strong>ㅋ {post.kCount.toLocaleString('ko-KR')}</strong><span>댓글당 ㅋ {post.commentCount?(post.kCount/post.commentCount).toFixed(2):'—'}</span></>:contentMarkers(post).map(label=><span className="content-marker" key={label} title="수집된 본문·댓글에서 발견">{label}</span>)}{!compact&&<small>댓글 {post.commentCount.toLocaleString('ko-KR')}개{post.commentsPartial?' · 일부':''}</small>}<small title={Number.isFinite(fetched)?`댓글 수집 완료: ${new Date(fetched).toLocaleString('ko-KR')}`:undefined}>{age}</small>{compact&&<ShareButton url={post.url}/>}</div>
 }
 function ArticleImage({src,alt}:{src:string;alt:string}){
  const [failed,setFailed]=useState(false);
