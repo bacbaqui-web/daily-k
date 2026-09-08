@@ -78,3 +78,5 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .reader-top .share-button{font-size:11px;line-height:1.2;padding:2px 5px;border-radius:4px}
 
 .laugh-stats .content-marker{align-items:center;justify-content:center;font-size:11px;font-weight:400;line-height:1.2;padding:2px 5px;border-radius:4px;text-decoration:none}.laugh-stats .content-marker[data-social="instagram"]{color:#a92b6b;border-color:#c75290;background:#fce7f2}html[data-theme="dark"] .laugh-stats .content-marker[data-social="instagram"]{color:#ffb6db;border-color:#a94f81;background:#402435}.laugh-stats .content-marker[data-social="x"]{color:#343434;border-color:#888;background:#ededed}html[data-theme="dark"] .laugh-stats .content-marker[data-social="x"]{color:#eee;border-color:#777;background:#303030}
+
+.comment-list a{color:var(--primary);text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}

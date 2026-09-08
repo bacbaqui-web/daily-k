@@ -43,9 +43,19 @@ function Body({post}:{post:Post}){
  if(post.content?.length)return <>{post.content.map((b,i)=>b.type==='text'?<p key={i}>{b.text}</p>:b.type==='image'?<ArticleImage key={`${i}-${b.src}`} src={b.src} alt={b.alt||`${post.title} 본문 이미지`}/>:<Video key={i} src={b.src} poster={b.poster||''}/>)}</>;
  return <>{post.excerpt&&<p>{post.excerpt}</p>}{post.images.map((src,i)=><ArticleImage key={`${i}-${src}`} src={src} alt={`${post.title} 본문 이미지`}/>)}{post.videos?.map(v=><Video key={v.src} src={v.src} poster={v.poster}/>)}</>;
 }
+function CommentText({text}:{text:string}){
+ return <>{text.split(/((?:https?:\/\/|www\.)[^\s<>"']+)/gi).map((part,i)=>{
+  if(!/^(?:https?:\/\/|www\.)/i.test(part))return part;
+  const address=part.replace(/[.,;!?\)\]\}]+$/, '');
+  try{const url=new URL(/^www\./i.test(address)?`https://${address}`:address);
+   if(!['http:','https:'].includes(url.protocol)||url.username||url.password)return part;
+   return <span key={i}><a href={url.href} target="_blank" rel="noopener noreferrer" onClick={event=>event.stopPropagation()}>{address}</a>{part.slice(address.length)}</span>;
+  }catch{return part}
+ })}</>;
+}
 function Comments({post,preview=false}:{post:Post;preview?:boolean}){
  const comments=post.comments;
- return <section className={preview?'preview-comments':'article-comments'} aria-label="원문 댓글"><h3>{preview?'댓글 미리보기':`수집한 댓글 ${comments?.length||0}개`}</h3>{post.commentsError?<p className="comment-note">댓글을 불러오지 못했습니다. 원문에서 확인해 주세요.</p>:comments===undefined?<p className="comment-note">아직 수집한 댓글이 없습니다.</p>:comments.length===0?<p className="comment-note">수집된 댓글이 없습니다.</p>:<>{(preview||post.commentsPartial)&&<p className="comment-note">{post.commentsPartial?`애객 표시 ${post.reportedCommentCount}개 중 ${post.commentCount}개 확인${preview?` · 미리보기 ${comments.length}개`:''}`:preview?`수집한 댓글 ${comments.length}개`:`수집한 댓글 ${comments.length}개`}</p>}<ol className="comment-list">{comments.map((c,i)=><li key={c.id}><span className="comment-number">{i+1}</span><p>{c.text||'이미지·이모티콘 등 텍스트가 없는 댓글입니다.'}</p></li>)}</ol></>}</section>;
+ return <section className={preview?'preview-comments':'article-comments'} aria-label="원문 댓글"><h3>{preview?'댓글 미리보기':`수집한 댓글 ${comments?.length||0}개`}</h3>{post.commentsError?<p className="comment-note">댓글을 불러오지 못했습니다. 원문에서 확인해 주세요.</p>:comments===undefined?<p className="comment-note">아직 수집한 댓글이 없습니다.</p>:comments.length===0?<p className="comment-note">수집된 댓글이 없습니다.</p>:<>{(preview||post.commentsPartial)&&<p className="comment-note">{post.commentsPartial?`애객 표시 ${post.reportedCommentCount}개 중 ${post.commentCount}개 확인${preview?` · 미리보기 ${comments.length}개`:''}`:preview?`수집한 댓글 ${comments.length}개`:`수집한 댓글 ${comments.length}개`}</p>}<ol className="comment-list">{comments.map((c,i)=><li key={c.id}><span className="comment-number">{i+1}</span><p>{c.text?<CommentText text={c.text}/>:'이미지·이모티콘 등 텍스트가 없는 댓글입니다.'}</p></li>)}</ol></>}</section>;
 }
 function PostTitle({post,expanded}:{post:Post;expanded:boolean}){
  const [peek,setPeek]=useState(false),[canHover,setCanHover]=useState(false);
