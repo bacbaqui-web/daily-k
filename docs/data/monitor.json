@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "state": "running",
-  "updatedAt": "2026-09-09T03:13:09.893980+00:00",
+  "state": "stopped",
+  "updatedAt": "2026-09-09T03:30:40.798355+00:00",
   "lastSuccessAt": null,
   "delaySeconds": 5,
-  "startedAt": "2026-09-09T03:13:09.893980+00:00",
-  "expectedUpdateBy": "2026-09-09T06:23:09.893980+00:00"
+  "stoppedAt": "2026-09-09T03:30:40.798355+00:00",
+  "message": "모니터링이 멈췄습니다. 새 글과 댓글 갱신이 중단된 상태입니다."
 }
