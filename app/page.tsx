@@ -7,6 +7,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Button } from '@/components/ui/button';
 import { contentMarkers } from '../lib/content-markers';
 import { unreadFirst, adjacentPost, nextUnreadPost, within24Hours } from '../lib/reading';
+import { isMonitorStatus, monitorNotice, type MonitorStatus } from '../lib/monitoring';
 type ContentBlock = {type:"text";text:string}|{type:"image";src:string;alt?:string}|{type:"video";src:string;poster?:string};
 type Post = {portalLinks?:string[];commentsPartial?:boolean;reportedCommentCount?:number|null;publishedAt?:string;comments?:{id:string;text:string}[];commentsError?:boolean;commentsFetchedAt?:string;content?:ContentBlock[];matchedPosts?:{url:string;source:string}[];kCount:number;commentCount:number;kPerComment?:number;id:string;title:string;url:string;source:string;excerpt:string;images:string[];videos?:{src:string;poster:string;type:string}[]};
 type Feed = {date:string;posts:Post[];taggedPosts?:Post[];collectionStatus?:string;collectionMessage?:string};
@@ -92,6 +93,28 @@ function ThemeToggle(){
  function toggle(){const value=!dark;setDark(value);document.documentElement.dataset.theme=value?'dark':'light';try{localStorage.setItem('daily-k-theme',value?'dark':'light')}catch{}}
  return <Button variant="ghost" size="icon" className="theme-toggle" onClick={toggle} aria-label="다크 모드" aria-pressed={dark} title={dark?'밝은 모드로 전환':'다크 모드로 전환'}><svg className="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M20.5 14A9 9 0 0 1 10 3.5 9 9 0 1 0 20.5 14Z"/></svg><svg className="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg></Button>;
 }
+function MonitorNotice({now}:{now:number}){
+ const [status,setStatus]=useState<MonitorStatus|null>(null);
+ const [unavailable,setUnavailable]=useState(false);
+ useEffect(()=>{
+  let alive=true,loading=false;let controller:AbortController|null=null;
+  async function load(){
+   if(loading)return;loading=true;controller=new AbortController();
+   const timeout=window.setTimeout(()=>controller?.abort(),15000);
+   try{
+    const response=await fetch('/daily-k/data/monitor.json',{cache:'no-store',signal:controller.signal});
+    if(!response.ok)throw Error('Monitoring status unavailable');
+    const value:unknown=await response.json();if(!isMonitorStatus(value))throw Error('Invalid monitoring status');
+    if(alive){setStatus(value);setUnavailable(false)}
+   }catch{if(alive)setUnavailable(true)}finally{clearTimeout(timeout);loading=false}
+  }
+  void load();const timer=window.setInterval(load,60000);window.addEventListener('focus',load);
+  return()=>{alive=false;controller?.abort();clearInterval(timer);window.removeEventListener('focus',load)};
+ },[]);
+ const notice=monitorNotice(status,now);
+ if(!notice&&!unavailable)return null;
+ return <aside className="monitor-notice" role="alert"><strong>{notice?.title||'모니터링 상태를 확인하지 못했습니다'}</strong><p>{notice?.detail||'최근 상태 정보를 불러오지 못했습니다. 잠시 후 다시 확인합니다.'}</p>{notice&&<small>{notice.label}: <time dateTime={notice.at}>{new Date(notice.at).toLocaleString('ko-KR')}</time></small>}</aside>;
+}
 export default function Home(){
  const sharedHandled=useRef(false);
  const [shareNotice,setShareNotice]=useState('');
@@ -167,6 +190,7 @@ export default function Home(){
  return <main>
   {shareNotice&&<p className="collection-notice" role="status">{shareNotice}</p>}
   <Tabs value={tab} onValueChange={value=>{setTab(value==='tagged'?'tagged':'humor');setOpened(null)}} className="feed-tabs"><header><TabsList className="category-tabs" aria-label="게시글 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header>
+  <MonitorNotice now={now}/>
   {feed?.collectionMessage&&feed.collectionStatus!=='complete'&&<p className="collection-notice" role="status">{feed.collectionMessage}</p>}<TabsContent value={tab} key={tab}>{error&&!feed?<div className="empty" role="alert"><span className="big-k">ㅋ</span><p>불러오지 못했습니다</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:posts.length===0?<div className="empty" role="status"><span className="big-k" aria-hidden="true">ㅋ</span><p>{feed?.collectionMessage?'수집된 글이 없습니다':tab==='humor'?'ㅋ수집중':'아직 수집한 글이 없어요'}</p></div>:<ol className="posts">{posts.map((p,i)=><li key={p.id} style={{'--source-color':sourceColors[p.source]||'#596661'} as CSSProperties} className={read.includes(p.id)?'seen':''}><Dialog disablePointerDismissal={false} open={opened===p.id} onOpenChange={open=>{if(open)openPost(p.id);else setOpened(current=>current===p.id?null:current)}}><article><div className="post-top"><span className="rank">{String(i+1).padStart(2,'0')}</span><div className="post-main">{(p.source!=='애객'||read.includes(p.id))&&<span className="source">{p.source==='애객'?'읽음':p.source+(read.includes(p.id)?' · 읽음':'')}</span>}<h2><PostTitle post={p} expanded={opened===p.id}/></h2><LaughStats post={p} tab={tab} now={now}/></div></div></article><DialogContent className="reader-dialog" showCloseButton={false} aria-describedby={undefined}><nav className="reader-nav reader-top" aria-label="게시글 이동"><button onClick={()=>nextPost(-1)} disabled={activeOrder.indexOf(p.id)<=0} aria-label="이전 글">←</button><ReaderHeading title={p.title} index={activeOrder.indexOf(p.id)+1} total={activeOrder.length} onClose={()=>setOpened(null)}/><button onClick={()=>nextPost(1)} aria-label="다음 글">→</button><LaughStats post={p} tab={tab} now={now} compact/></nav>{opened===p.id&&<div className="reader-body" data-reader-active="true"><Body post={p}/><Comments post={p}/>{(p.matchedPosts?.length?p.matchedPosts:[{url:p.url,source:p.source}]).map(m=><a key={m.url} className="original" href={m.url} target="_blank" rel="noopener noreferrer">{m.source==='애객'?'':m.source+' '}원문 보기 ↗</a>)}</div>}</DialogContent></Dialog></li>)}</ol>}</TabsContent></Tabs>
  </main>
 }

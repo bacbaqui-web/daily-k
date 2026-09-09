@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {isMonitorStatus,monitorNotice} from '../lib/monitoring.ts';
+const status={version:1 as const,state:'running' as const,updatedAt:'2026-09-09T03:00:00Z',expectedUpdateBy:'2026-09-09T06:10:00Z'};
+assert.equal(isMonitorStatus(status),true);
+assert.equal(monitorNotice(status,Date.parse('2026-09-09T04:00:00Z')),null);
+assert.equal(monitorNotice(status,Date.parse('2026-09-09T06:11:00Z'))?.label,'마지막 상태 확인');
+const stopped={...status,state:'stopped' as const,stoppedAt:'2026-09-09T03:05:00Z'};
+assert.equal(isMonitorStatus(stopped),true);
+assert.equal(monitorNotice(stopped,Date.parse('2026-09-09T03:06:00Z'))?.title,'모니터링이 멈췄습니다');
+assert.equal(monitorNotice({...status,state:'ok'},Date.parse('2026-09-09T03:06:00Z')),null);
+assert.equal(isMonitorStatus({...status,updatedAt:'invalid'}),false);
+assert.equal(isMonitorStatus({...status,expectedUpdateBy:undefined}),false);
+assert.equal(isMonitorStatus({...stopped,stoppedAt:undefined}),false);
+console.log('Monitoring alert: running, stopped, stale, recovery and invalid data checks passed.');
