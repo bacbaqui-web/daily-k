@@ -1,8 +1,8 @@
 {
   "rolling24Hours": true,
   "date": "2026-09-12",
-  "collectedAt": "2026-09-12T08:08:44.422617+09:00",
-  "windowEnd": "2026-09-12T07:00:07.874032+09:00",
+  "collectedAt": "2026-09-11T23:26:59.795392+00:00",
+  "windowEnd": "2026-09-12T08:26:59.757991+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8844,9 +8844,9 @@
     }
   ],
   "partialCommentPosts": 0,
-  "candidateCount": 149,
-  "collectionStatus": "complete",
-  "collectionMessage": "",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
