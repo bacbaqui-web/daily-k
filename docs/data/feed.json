@@ -1,8 +1,8 @@
 {
   "rolling24Hours": true,
   "date": "2026-09-13",
-  "collectedAt": "2026-09-13T07:11:58.820346+09:00",
-  "windowEnd": "2026-09-13T07:00:06.763894+09:00",
+  "collectedAt": "2026-09-12T23:00:06.745154+00:00",
+  "windowEnd": "2026-09-13T08:00:06.703843+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7410,109 +7410,6 @@
       "sourceTitlesFetchedAt": "2026-09-12T17:07:09.885713+00:00"
     },
     {
-      "id": "aagag-1654256-0",
-      "url": "https://aagag.com/issue/?idx=1654256",
-      "source": "애객",
-      "title": "프로미스마인 백지헌",
-      "publishedAt": "2026-09-12T07:36:38+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KucZd.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KucXs.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KucYH.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "/"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/KucZd.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/KucXs.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/KucYH.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "/",
-      "reportedCommentCount": 9,
-      "commentsPartial": false,
-      "kCount": 2,
-      "commentCount": 9,
-      "laughingComments": 1,
-      "score": 2,
-      "kPerComment": 0.2222222222222222,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8712449",
-          "text": "난 거대 뀨뀨보다 저정도가 딱 좋아"
-        },
-        {
-          "id": "8712483",
-          "text": "나도 좋아"
-        },
-        {
-          "id": "8712521",
-          "text": "나도 좋아"
-        },
-        {
-          "id": "8712597",
-          "text": "말이라도 걸어보고 싶다"
-        },
-        {
-          "id": "8712608",
-          "text": "마인이네"
-        },
-        {
-          "id": "8712678",
-          "text": "아 이거지... 위에 수영장과는 다른 이 끌림"
-        },
-        {
-          "id": "8712700",
-          "text": "카메라맨 자기도 모르게 홀려서 가슴에 줌인했다가 정신차리고 빠진 느낌인데 ㅋㅋ"
-        },
-        {
-          "id": "8712791",
-          "text": "예쁘다"
-        },
-        {
-          "id": "8712935",
-          "text": "그러니까, 잘몰라서 묻는건데, 그룹명에 한 맴버 이름이 써 있는 제목은, 그거인거지?"
-        }
-      ],
-      "commentsFetchedAt": "2026-09-12T19:38:53.873821+09:00",
-      "sourceTitles": [
-        "프로미스마인 백지헌",
-        "17)백지헌",
-        "ㅇㅎ?) 백지헌 검은 끈나시...gif",
-        "파인 땡땡이 민소매 프로미스나인 백지헌"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-09-12T10:39:08.904988+00:00"
-    },
-    {
       "id": "aagag-1654338-0",
       "url": "https://aagag.com/issue/?idx=1654338",
       "source": "애객",
@@ -7574,9 +7471,9 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 154,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
