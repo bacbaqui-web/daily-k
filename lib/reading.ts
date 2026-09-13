@@ -7,8 +7,8 @@ export function adjacentPost(order:string[],current:string|null,delta:number):st
  return index<0?undefined:order[index+delta];
 }
 
-export function within24Hours(post:{publishedAt?:string},now:number):boolean{
- const published=Date.parse(post.publishedAt||'');
+export function within24Hours(post:{firstPublishedAt?:string;collectedAt?:string;commentsFetchedAt?:string;publishedAt?:string},now:number):boolean{
+ const published=Date.parse(post.firstPublishedAt||post.collectedAt||post.commentsFetchedAt||post.publishedAt||'');
  return Number.isFinite(published)&&published<=now&&now-published<24*60*60*1000;
 }
 

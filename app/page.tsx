@@ -9,7 +9,7 @@ import { contentMarkers } from '../lib/content-markers';
 import { unreadFirst, adjacentPost, nextUnreadPost, within24Hours } from '../lib/reading';
 import { isMonitorStatus, monitorNotice, type MonitorStatus } from '../lib/monitoring';
 type ContentBlock = {type:"text";text:string}|{type:"image";src:string;alt?:string}|{type:"video";src:string;poster?:string};
-type Post = {portalLinks?:string[];commentsPartial?:boolean;reportedCommentCount?:number|null;publishedAt?:string;comments?:{id:string;text:string}[];commentsError?:boolean;commentsFetchedAt?:string;content?:ContentBlock[];matchedPosts?:{url:string;source:string}[];kCount:number;commentCount:number;kPerComment?:number;id:string;title:string;url:string;source:string;excerpt:string;images:string[];videos?:{src:string;poster:string;type:string}[]};
+type Post = {portalLinks?:string[];commentsPartial?:boolean;reportedCommentCount?:number|null;publishedAt?:string;firstPublishedAt?:string;collectedAt?:string;comments?:{id:string;text:string}[];commentsError?:boolean;commentsFetchedAt?:string;content?:ContentBlock[];matchedPosts?:{url:string;source:string}[];kCount:number;commentCount:number;kPerComment?:number;id:string;title:string;url:string;source:string;excerpt:string;images:string[];videos?:{src:string;poster:string;type:string}[]};
 type Feed = {date:string;posts:Post[];taggedPosts?:Post[];collectionStatus?:string;collectionMessage?:string};
 function isFeed(value:unknown):value is Feed {
  if(!value||typeof value!=='object')return false;
