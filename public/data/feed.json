@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-14",
-  "collectedAt": "2026-09-13T15:10:55.837328+00:00",
+  "collectedAt": "2026-09-14T00:13:42.052336+09:00",
   "windowEnd": "2026-09-14T00:00:03.112209+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4558,6 +4558,100 @@
       "sourceHistoryCount": 5,
       "sourceTitlesFetchedAt": "2026-09-12T19:09:57.231059+00:00",
       "firstPublishedAt": "2026-09-13T04:10:43+09:00"
+    },
+    {
+      "id": "aagag-1654483-0",
+      "url": "https://aagag.com/issue/?idx=1654483",
+      "source": "애객",
+      "title": "가격대별 콜라 제조",
+      "publishedAt": "2026-09-13T11:12:23+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Kurhp.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Kurhp.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 12,
+      "commentsPartial": false,
+      "kCount": 22,
+      "commentCount": 12,
+      "laughingComments": 7,
+      "score": 22,
+      "kPerComment": 1.8333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8716446",
+          "text": "다재다능한 사람이구만"
+        },
+        {
+          "id": "8716450",
+          "text": "뭐야 내 탄산 돌려줘요!"
+        },
+        {
+          "id": "8716455",
+          "text": "세번째는 그거 아니냐 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8716457",
+          "text": "음소거로 보는데 그BGM이 자동 재생되네 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8717271",
+          "text": "한 잔에 10만원이지만 또 가고 싶은 도쿄의 한 바입니다."
+        },
+        {
+          "id": "8716468",
+          "text": "옷도 달라짐 ㅋㅋㅋ"
+        },
+        {
+          "id": "8716470",
+          "text": "뽀인트가 다 살아있어서 웃기네 ㅋㅋ"
+        },
+        {
+          "id": "8716482",
+          "text": "뭐야 김 다 빠진 콜라가 제일 비싸다니 ㅋㅋㅋ"
+        },
+        {
+          "id": "8716724",
+          "text": "탄산 빼 드립니다. ㅋㅋ (저지방우유도 아니고...ㅎㅎ)"
+        },
+        {
+          "id": "8716758",
+          "text": "콜라병 닦은 콜라가 5만원?"
+        },
+        {
+          "id": "8716768",
+          "text": "ㅋㅋ 그 일본 바텐더 흉낸가 그나저나 요즘 저 아조씨 유두 안 당기시네"
+        },
+        {
+          "id": "8717824",
+          "text": "50달러 내면 늙은 코난이 콜라 말아주네요 ㅌ"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-14T00:12:11.303071+09:00",
+      "sourceTitles": [
+        "콜라 가격이 제각각인 이유",
+        "가격대별 콜라 제조 ㅋㅋㅋ",
+        "가격대별 콜라 제조 ㅋㅋㅋ",
+        "가격대별 콜라 제조",
+        "가격대별 콜라 제조"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-09-13T15:12:26.447586+00:00",
+      "collectedAt": "2026-09-14T00:12:26.447651+09:00",
+      "firstPublishedAt": "2026-09-13T15:13:42.072064+00:00"
     },
     {
       "id": "aagag-1654487-0",
@@ -10731,9 +10825,9 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 154,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 174,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
