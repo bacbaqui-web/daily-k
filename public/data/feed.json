@@ -1,7 +1,7 @@
 {
   "rolling24Hours": true,
   "date": "2026-09-13",
-  "collectedAt": "2026-09-13T01:11:12.341800+00:00",
+  "collectedAt": "2026-09-13T10:14:27.873071+09:00",
   "windowEnd": "2026-09-13T10:00:07.750726+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7706,6 +7706,78 @@
       "sourceTitlesFetchedAt": "2026-09-13T00:08:13.120467+00:00"
     },
     {
+      "id": "aagag-1654398-0",
+      "url": "https://aagag.com/issue/?idx=1654398",
+      "source": "애객",
+      "title": "일본 치과의 현실",
+      "publishedAt": "2026-09-12T21:18:27+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KunRQ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KunRS.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KunRQ.webp",
+        "https://i.aagag.com/o/KunRS.webp"
+      ],
+      "videos": [],
+      "excerpt": ".",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 5,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.4,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8715010",
+          "text": "처음으로 치과의사가 되고싶어지네"
+        },
+        {
+          "id": "8715011",
+          "text": "뭔가 AI 이미지 같구만"
+        },
+        {
+          "id": "8715122",
+          "text": "일본이 핵무기라니 ㅎㄷㄷ"
+        },
+        {
+          "id": "8715124",
+          "text": "우린 돈 잘 벌어서 넘쳐 나드만 어떻게 이빨이 안 좋아서 가는 치과가"
+        },
+        {
+          "id": "8715290",
+          "text": "헤헤~~ㅋㅋ 네? 뭐라구요 내용이 뭐였지;;;"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-13T10:11:42.234214+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 일본 치과의 현실",
+        "ㅇㅎ) 일본 치과의 어마무시함",
+        "ㅇㅎ) 일본 치과의 어마무시함",
+        "일본 치과는 어마무시하구나",
+        "심각한 일본 치과",
+        "일본 치과의 현실",
+        "일본 치과는 어마무시하구나 ㄷㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-09-13T01:11:57.304352+00:00"
+    },
+    {
       "id": "aagag-1654338-0",
       "url": "https://aagag.com/issue/?idx=1654338",
       "source": "애객",
@@ -7767,9 +7839,9 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 109,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 130,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
