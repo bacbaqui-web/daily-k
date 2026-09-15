@@ -11,4 +11,11 @@ assert.equal(monitorNotice({...status,state:'ok'},Date.parse('2026-09-09T03:06:0
 assert.equal(isMonitorStatus({...status,updatedAt:'invalid'}),false);
 assert.equal(isMonitorStatus({...status,expectedUpdateBy:undefined}),false);
 assert.equal(isMonitorStatus({...stopped,stoppedAt:undefined}),false);
+const retrying={...status,state:'retrying' as const,nextRetryAt:'2026-09-09T04:05:00Z',expectedUpdateBy:'2026-09-09T04:15:00Z'};
+assert.equal(isMonitorStatus(retrying),true);
+assert.equal(isMonitorStatus({...retrying,nextRetryAt:undefined}),false);
+assert.equal(isMonitorStatus({...retrying,nextRetryAt:'bad'}),false);
+assert.equal(monitorNotice(retrying,Date.parse('2026-09-09T04:00:00Z'))?.label,'다음 시도');
+assert.equal(monitorNotice(retrying,Date.parse('2026-09-09T04:00:00Z'))?.at,retrying.nextRetryAt);
+assert.equal(monitorNotice(retrying,Date.parse('2026-09-09T04:16:00Z'))?.label,'마지막 상태 확인');
 console.log('Monitoring alert: running, stopped, stale, recovery and invalid data checks passed.');
