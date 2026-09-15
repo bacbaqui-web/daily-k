@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-16",
-  "collectedAt": "2026-09-15T20:11:00.800801+00:00",
+  "collectedAt": "2026-09-16T05:13:48.487315+09:00",
   "windowEnd": "2026-09-16T05:00:07.790043+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3585,6 +3585,95 @@
       "sourceTitlesFetchedAt": "2026-09-15T15:10:57.943792+00:00",
       "collectedAt": "2026-09-16T00:10:57.943816+09:00",
       "firstPublishedAt": "2026-09-15T15:10:57.987836+00:00"
+    },
+    {
+      "id": "aagag-1655038-0",
+      "url": "https://aagag.com/issue/?idx=1655038",
+      "source": "애객",
+      "title": "남편 기 살려주는 연상녀",
+      "publishedAt": "2026-09-15T16:21:05+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KvFEF.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KvFEF.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 11,
+      "commentsPartial": false,
+      "kCount": 28,
+      "commentCount": 11,
+      "laughingComments": 4,
+      "score": 28,
+      "kPerComment": 2.5454545454545454,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8726432",
+          "text": "찌찌는 늘 먹고 싶어요 ㅠ"
+        },
+        {
+          "id": "8726559",
+          "text": "ㅋㅋㅋ조용히 추천수 올라가는것 봐..(나도 누름...)"
+        },
+        {
+          "id": "8726585",
+          "text": "계속올라가내 ㅋㅋㅋ"
+        },
+        {
+          "id": "8726436",
+          "text": "오빠야 쫄았제? 그 분인가... 늙지를 않네요."
+        },
+        {
+          "id": "8726442",
+          "text": "여자들 신데렐라 드라마에 왜 환장하는지 알겠네 ㅋㅋㅋ 엄마 소리가 절로 나오네"
+        },
+        {
+          "id": "8726448",
+          "text": "찌찌먹고 시펑ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8726458",
+          "text": "찌찌!!!!! 나두!!! 나두 누나!!!"
+        },
+        {
+          "id": "8726466",
+          "text": "와 왜 드라마에서 재벌2세 찾는줄 알겠네"
+        },
+        {
+          "id": "8726471",
+          "text": "뭐지? 판타지 드라마입니까?"
+        },
+        {
+          "id": "8726679",
+          "text": "저 누나 찌찌는 누구나 먹고 싶을걸?"
+        },
+        {
+          "id": "8726746",
+          "text": "드라마 재미 있음?"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-16T05:12:18.698934+09:00",
+      "sourceTitles": [
+        "남편 기 살려주는 개쎅씨 누님",
+        "남편 기 살려주는 연상녀",
+        "남편 기 살려주는 연상녀",
+        "남편 기 살려주는 개쎅씨 누님"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-09-15T20:12:31.434707+00:00",
+      "collectedAt": "2026-09-16T05:12:31.434731+09:00",
+      "firstPublishedAt": "2026-09-15T20:13:48.511547+00:00"
     },
     {
       "id": "aagag-1654899-0",
@@ -14008,9 +14097,9 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 154,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 175,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
