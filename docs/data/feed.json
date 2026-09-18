@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-18",
-  "collectedAt": "2026-09-18T13:04:27.202997+09:00",
-  "windowEnd": "2026-09-18T13:00:07.957260+09:00",
+  "collectedAt": "2026-09-18T05:00:07.727964+00:00",
+  "windowEnd": "2026-09-18T14:00:07.670982+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5075,107 +5075,6 @@
       "sourceTitlesFetchedAt": "2026-09-17T08:06:12.492468+00:00",
       "collectedAt": "2026-09-17T17:06:12.492500+09:00",
       "firstPublishedAt": "2026-09-17T08:10:59.602485+00:00"
-    },
-    {
-      "id": "aagag-1619267-0",
-      "url": "https://aagag.com/issue/?idx=1619267",
-      "source": "애객",
-      "title": "대충 보면 존나 자연스러운 사진",
-      "publishedAt": "2026-09-17T00:22:13+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/KT9JO.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/KT9JO.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 12,
-      "commentsPartial": false,
-      "kCount": 26,
-      "commentCount": 12,
-      "laughingComments": 3,
-      "score": 26,
-      "kPerComment": 2.1666666666666665,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8053840",
-          "text": "태일아 통신교환 시켜줘"
-        },
-        {
-          "id": "8053871",
-          "text": "통신교환중 섞여버린"
-        },
-        {
-          "id": "8732402",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8053860",
-          "text": "아구리?"
-        },
-        {
-          "id": "8053888",
-          "text": "디지몽"
-        },
-        {
-          "id": "8053959",
-          "text": "아구몬 입닥쳐"
-        },
-        {
-          "id": "8054118",
-          "text": "크롱... 주황버전?"
-        },
-        {
-          "id": "8054854",
-          "text": "곤 인줄"
-        },
-        {
-          "id": "8732803",
-          "text": "저도ㅋ 곤 재밌었는데 대사대신 역동적인 그림체가 쩔죠"
-        },
-        {
-          "id": "8732384",
-          "text": "아구몬 ㅋㅋㅋㅋㄱ"
-        },
-        {
-          "id": "8732420",
-          "text": "태일아, 내일은 뭐할꺼야?"
-        },
-        {
-          "id": "8732452",
-          "text": "우리 내일 같이 그래 그리 쉽지는 않겠지"
-        }
-      ],
-      "commentsFetchedAt": "2026-09-17T13:05:26.876936+09:00",
-      "sourceTitles": [
-        "대충 보면 존나 자연스러운 사진",
-        "파이리의 상태가?.jpg",
-        "대충 보면 존나 자연스러운 사진",
-        "대충 보면 존나 자연스러운 사진",
-        "\"우리중에 스파이가 있어\"",
-        "대충 보면 존나 자연스러운 사진",
-        "포코피아에 있는 스파이",
-        "대충 보면 존나 자연스러운 사진",
-        "대충 보면 자연스러운 사진",
-        "포코피아에서 나온 어딘가 이상판 파이리",
-        "대충 보면 존나 자연스러운 사진.JPG",
-        "우리중에 스파이가있다",
-        "대충 보면 모르고 넘어갈 단체 사진.jpg",
-        "대충 보면 존나 자연스러운 사진",
-        "대충 보면 존나 자연스러운 사진.JPG",
-        "대충 보면 존나 자연스러운 사진"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 16,
-      "sourceTitlesFetchedAt": "2026-09-17T04:05:41.972997+00:00",
-      "collectedAt": "2026-09-17T13:05:41.973041+09:00",
-      "firstPublishedAt": "2026-09-17T04:05:42.030366+00:00"
     },
     {
       "id": "aagag-1655362-1",
@@ -19946,9 +19845,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 175,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
