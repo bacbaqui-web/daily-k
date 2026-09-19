@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-20",
-  "collectedAt": "2026-09-19T18:00:07.814934+00:00",
+  "collectedAt": "2026-09-19T18:05:26.635295+00:00",
   "windowEnd": "2026-09-20T03:00:07.752352+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4211,6 +4211,115 @@
       "sourceTitlesFetchedAt": "2026-09-19T15:07:27.750649+00:00",
       "collectedAt": "2026-09-20T00:07:27.750680+09:00",
       "firstPublishedAt": "2026-09-19T15:10:28.397732+00:00"
+    },
+    {
+      "id": "aagag-1655965-0",
+      "url": "https://aagag.com/issue/?idx=1655965",
+      "source": "애객",
+      "title": "당신의 몸무게는?",
+      "publishedAt": "2026-09-19T14:43:55+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KvzDE.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KvzDE.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 16,
+      "commentsPartial": false,
+      "kCount": 25,
+      "commentCount": 16,
+      "laughingComments": 8,
+      "score": 25,
+      "kPerComment": 1.5625,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8743179",
+          "text": "잔인해"
+        },
+        {
+          "id": "8743185",
+          "text": "아니 양심이 너무 없잖슴 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8743191",
+          "text": "그래도 유쾌하자너~ 한잔해~ 원래였음 원투 펀치 맞는 질문이여~"
+        },
+        {
+          "id": "8743198",
+          "text": "그래도 몸무게 공개해주네 쿨하게"
+        },
+        {
+          "id": "8743204",
+          "text": "쟤들은 재보지도 않고 그냥 자기 느낌대로 말하는 건가? 그냥 목표 체중 말하는 수준이잖아ㅋㅋㅋ"
+        },
+        {
+          "id": "8743210",
+          "text": "근데 가방을 다 들고 재는건 뭐냐ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8743238",
+          "text": "생각보다 무게가 더 나가네"
+        },
+        {
+          "id": "8743259",
+          "text": "47 씹 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8743279",
+          "text": "신발 신고 측정해버리네 ㅋㅋ"
+        },
+        {
+          "id": "8743281",
+          "text": "와 근데 몸무게에 비해 체형이 이쁘네 ㄷㄷ"
+        },
+        {
+          "id": "8743294",
+          "text": "몇분은 눈바디론 괜찮은데 무게가 꽤 나가시넴"
+        },
+        {
+          "id": "8743375",
+          "text": "마지막 여자분은 키도 큰데 뼈가 굵은듯? 앞에 70킬로대랑 비슷해보임 ㅋㅋ"
+        },
+        {
+          "id": "8743986",
+          "text": "아니 님들아 양심 좀 ㅋㅋㅋ"
+        },
+        {
+          "id": "8744362",
+          "text": ""
+        },
+        {
+          "id": "8744363",
+          "text": "흑누나 .. 죽이네"
+        },
+        {
+          "id": "8744722",
+          "text": "아니 적당히 거짓말을 해야지ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-20T03:04:26.387538+09:00",
+      "sourceTitles": [
+        "여자들의 거짓말",
+        "당신의 몸무게는?",
+        "당신의 몸무게는?",
+        "당신의 몸무게는?"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-09-19T18:04:41.422441+00:00",
+      "collectedAt": "2026-09-20T03:04:41.422456+09:00",
+      "firstPublishedAt": "2026-09-19T18:05:26.650198+00:00"
     },
     {
       "id": "aagag-115801-1",
@@ -12934,7 +13043,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 131,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
