@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-21",
-  "collectedAt": "2026-09-20T21:16:15.912948+00:00",
+  "collectedAt": "2026-09-21T06:20:32.857222+09:00",
   "windowEnd": "2026-09-21T06:00:16.377247+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4100,6 +4100,77 @@
       "sourceTitlesFetchedAt": "2026-09-20T18:08:13.910371+00:00",
       "collectedAt": "2026-09-21T03:08:13.910401+09:00",
       "firstPublishedAt": "2026-09-20T18:11:15.245218+00:00"
+    },
+    {
+      "id": "aagag-1263197-0",
+      "url": "https://aagag.com/issue/?idx=1263197",
+      "source": "애객",
+      "title": "남자들이 환장하는 행동을 하는 여고생",
+      "publishedAt": "2026-09-20T17:25:42+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/H5DQr.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "주인공을 위한 조연의 희생"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/H5DQr.webp"
+      ],
+      "videos": [],
+      "excerpt": "주인공을 위한 조연의 희생",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 5,
+      "laughingComments": 2,
+      "score": 17,
+      "kPerComment": 3.4,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "4267551",
+          "text": "꽃가좈ㅋㅋㄲㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "4267570",
+          "text": "예림이 그 패 봐바 혹시 장이야?"
+        },
+        {
+          "id": "4267664",
+          "text": "장비가 여고생으로 환생했어"
+        },
+        {
+          "id": "8747401",
+          "text": "인간백정ㅋㅋㅋ 진짜 저 작가는 분명 여고생한테 삥 엄청 뜯겼을듯여ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8747575",
+          "text": "장판파...여고생..."
+        }
+      ],
+      "commentsFetchedAt": "2026-09-21T06:16:46.080932+09:00",
+      "sourceTitles": [
+        "역사에 이름이 없는데 족적을 남긴 상남자",
+        "남자의 심금을 울리는 여고생의 대사",
+        "남자의 심금을 울리는 여고생의 대사",
+        "역사에 이름이 없는데 족적을 남긴 바이킹 전사",
+        "남자들을 흥분시키는 여고생의 행동",
+        "남자들이 환장하는 행동을 하는 여고생",
+        "남자들이 환장하는 행동을 하는 여고생",
+        "남자를 흥분시킬 줄 아는 여고생.webtoon",
+        "남자들이 환장하는 행동을 하는 여고생",
+        "남자들이 환장하는 행동을 하는 여고생"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 10,
+      "sourceTitlesFetchedAt": "2026-09-20T21:17:01.106688+00:00",
+      "collectedAt": "2026-09-21T06:17:01.106706+09:00",
+      "firstPublishedAt": "2026-09-20T21:20:32.883292+00:00"
     },
     {
       "id": "aagag-1125032-0",
@@ -10066,9 +10137,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 154,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 197,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
