@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-21",
-  "collectedAt": "2026-09-20T20:00:07.874696+00:00",
+  "collectedAt": "2026-09-20T20:05:12.509396+00:00",
   "windowEnd": "2026-09-21T05:00:07.822748+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9338,6 +9338,99 @@
       "firstPublishedAt": "2026-09-20T09:11:15.864406+00:00"
     },
     {
+      "id": "aagag-1656215-0",
+      "url": "https://aagag.com/issue/?idx=1656215",
+      "source": "애객",
+      "title": "자신의 레전드 직캠 처음으로 보는 라잇썸 초원누나",
+      "publishedAt": "2026-09-20T16:42:59+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KvhQ1.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KvhQD.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KvhQu.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KvhQ1.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KvhQD.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KvhQu.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 7,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8747292",
+          "text": "일본앨범 나왔던데 일본에서라도 잘돼라"
+        },
+        {
+          "id": "8747326",
+          "text": "아무리 피지컬로 밀어봐야 노래가 별로고 컨셉이 뚜렷하지 않으면 외면받는 시장이 한국이란걸 뼈저리게 느낌"
+        },
+        {
+          "id": "8747383",
+          "text": "링크좀"
+        },
+        {
+          "id": "8747462",
+          "text": "여기요 https://i.namu.wiki/i/gViM9aB_ibPCWHoFkRp-RsNll_4BM86umob21rxjZIR3TGfN84sXyfwniRWwJJg_MRJStE9wTTn1UL1eYcDBiQ_pUpn7Ub_xPQvIZcfJwL_eP2xJrtjnH0NHieGkWL2S_y8h7NOUqLDEdHpJcbiqOg.webp"
+        },
+        {
+          "id": "8747706",
+          "text": "젤다말고요"
+        },
+        {
+          "id": "8748488",
+          "text": "아.. 젤다겜 안해보신 분들이 젤다와 링크 헷갈려 하시는데.. 주절주절 오해 설명충"
+        },
+        {
+          "id": "8748284",
+          "text": "이거말고!!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-21T05:04:57.386537+09:00",
+      "sourceTitles": [
+        "자신의 레전드 직캠 처음으로 보는 라잇썸 초원누나",
+        "ㅇㅎ?) 자신의 레전드 직캠 처음으로 보는 라잇썸 초원 ㅋㅋㅋ",
+        "ㅇㅎ?) 자신의 레전드 직캠 처음 본 라잇썸 초원 ㅋㅋㅋ",
+        "ㅇㅎ?) 자신의 레전드 직캠 처음으로 보는 라잇썸 초원 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-09-20T20:05:12.485945+00:00",
+      "collectedAt": "2026-09-21T05:05:12.485962+09:00",
+      "firstPublishedAt": "2026-09-20T20:05:12.523752+00:00"
+    },
+    {
       "id": "aagag-1656205-0",
       "url": "https://aagag.com/issue/?idx=1656205",
       "source": "애객",
@@ -9550,7 +9643,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 173,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
