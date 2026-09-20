@@ -1,12 +1,10 @@
 {
   "version": 1,
-  "state": "retrying",
-  "updatedAt": "2026-09-20T15:03:09.036413+00:00",
+  "state": "running",
+  "updatedAt": "2026-09-20T15:05:15.738353+00:00",
   "lastSuccessAt": "2026-09-20T14:10:45.543507+00:00",
   "delaySeconds": 15,
-  "nextRetryAt": "2026-09-20T15:04:09.036376+00:00",
-  "expectedUpdateBy": "2026-09-20T15:14:09.036376+00:00",
-  "message": "일시적인 연결 오류로 기다리는 중입니다. 잠시 후 자동으로 다시 시도합니다.",
-  "collectorHost": "local",
-  "retryAttempt": 1
+  "startedAt": "2026-09-20T15:05:15.738353+00:00",
+  "expectedUpdateBy": "2026-09-20T18:15:15.738353+00:00",
+  "collectorHost": "local"
 }
