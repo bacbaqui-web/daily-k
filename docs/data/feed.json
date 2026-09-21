@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-21",
-  "collectedAt": "2026-09-21T07:00:08.409786+00:00",
+  "collectedAt": "2026-09-21T07:05:28.536733+00:00",
   "windowEnd": "2026-09-21T16:00:08.358115+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11615,10 +11615,73 @@
       "sourceTitlesFetchedAt": "2026-09-20T07:02:41.191025+00:00",
       "collectedAt": "2026-09-20T16:02:41.191052+09:00",
       "firstPublishedAt": "2026-09-20T07:05:42.658346+00:00"
+    },
+    {
+      "id": "aagag-1656326-0",
+      "url": "https://aagag.com/issue/?idx=1656326",
+      "source": "애객",
+      "title": "ㅇㅎ?) 가려줬는데 이상하게 더 수치스러움.mp4",
+      "publishedAt": "2026-09-21T03:58:09+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KwGPc.mp4",
+          "poster": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/DZ8jo.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/DZ8jo.webp"
+      ],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KwGPc.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 1.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8749042",
+          "text": "고라니율 이기지배는 잠지소리 너무 자연스레 해"
+        },
+        {
+          "id": "8750223",
+          "text": "다 까신분이 부끄러워하시네 ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-21T16:02:57.312661+09:00",
+      "sourceTitles": [
+        "가렸는데 이상하게 더 수치스러운 .mp4",
+        "가려줬는데 이상하게 더 수치스러움.mp4",
+        "ㅇㅎ?) 가려줬는데 이상하게 더 수치스러움.mp4",
+        "ㅇㅎ?) 가려줬는데 이상하게 더 수치스러움 ㅋㅋㅋㅋㅋ",
+        "ㅇㅎ?) 가려줬는데 이상하게 더 수치스러움 ㅋㅋㅋㅋㅋ",
+        "ㅇㅎ?) 가려줬는데 이상하게 더 수치스러움.mp4",
+        "카리나 가리개   ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-09-21T07:03:12.473093+00:00",
+      "collectedAt": "2026-09-21T16:03:12.473120+09:00",
+      "firstPublishedAt": "2026-09-21T07:05:28.553122+00:00"
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 197,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
