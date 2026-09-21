@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-21",
-  "collectedAt": "2026-09-21T12:05:44.148288+00:00",
+  "collectedAt": "2026-09-21T21:10:15.972180+09:00",
   "windowEnd": "2026-09-21T21:00:08.555805+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10566,6 +10566,85 @@
       "firstPublishedAt": "2026-09-21T06:04:57.554023+00:00"
     },
     {
+      "id": "aagag-1656372-0",
+      "url": "https://aagag.com/issue/?idx=1656372",
+      "source": "애객",
+      "title": "요가하는 누나",
+      "publishedAt": "2026-09-21T08:16:17+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Kw8I5.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Kw8I5.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 8,
+      "laughingComments": 4,
+      "score": 14,
+      "kPerComment": 1.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8749366",
+          "text": "와 우 다 가능하네"
+        },
+        {
+          "id": "8749367",
+          "text": "ㅋㅋㅋㅋㅋ 남자라면 다들 상상해보는것ㅋㅋㅋ"
+        },
+        {
+          "id": "8749399",
+          "text": "솔직히 부럽다"
+        },
+        {
+          "id": "8749427",
+          "text": "사람 사는거 다 똑같구나"
+        },
+        {
+          "id": "8749540",
+          "text": "여자들 다리모양 디폴트값이 왜 항상 오므리고 모으고  조이고 꼬고 잇는지 이유를 알거같은 영상 그냥 틈만보이면 삽입각이네 ㅋ"
+        },
+        {
+          "id": "8749755",
+          "text": "유쾌 ㅋㅋㅋ"
+        },
+        {
+          "id": "8750069",
+          "text": "복받은 시키 !"
+        },
+        {
+          "id": "8750416",
+          "text": "저렇게 해놓으니 한국집같네 ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-21T21:09:15.533697+09:00",
+      "sourceTitles": [
+        "요가하는 아내와 철없는 남편 ㄷ",
+        "ㅇㅎㅂ?? 요가하는 눈나",
+        "ㅇㅎ)요가하는 아내와 철없는 남편",
+        "[약19] 유부라면 요가하는 와이프 못 참음.MP4",
+        "요가하는 누나",
+        "요가하는 누나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-09-21T12:09:30.731860+00:00",
+      "collectedAt": "2026-09-21T21:09:30.731899+09:00",
+      "firstPublishedAt": "2026-09-21T12:10:16.000455+00:00"
+    },
+    {
       "id": "aagag-1656215-0",
       "url": "https://aagag.com/issue/?idx=1656215",
       "source": "애객",
@@ -10937,10 +11016,10 @@
       "firstPublishedAt": "2026-09-21T07:05:28.553122+00:00"
     }
   ],
-  "partialCommentPosts": 3,
-  "candidateCount": 220,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "partialCommentPosts": 2,
+  "candidateCount": 240,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
