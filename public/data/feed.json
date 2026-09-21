@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-21",
-  "collectedAt": "2026-09-21T07:05:28.536733+00:00",
+  "collectedAt": "2026-09-21T16:06:28.826178+09:00",
   "windowEnd": "2026-09-21T16:00:08.358115+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11554,69 +11554,6 @@
       "firstPublishedAt": "2026-09-20T19:05:43.000927+00:00"
     },
     {
-      "id": "aagag-1656081-0",
-      "url": "https://aagag.com/issue/?idx=1656081",
-      "source": "애객",
-      "title": "어제 레전드 찍은 르세라핌 사쿠라",
-      "publishedAt": "2026-09-20T04:00:12+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/KvkhZ.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "ㅓㅜㅑ"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/KvkhZ.webp"
-      ],
-      "videos": [],
-      "excerpt": "ㅓㅜㅑ",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 4,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8745253",
-          "text": "르세라핌도 이젠 섹시 컨셉인가 보네요 좋아!!!"
-        },
-        {
-          "id": "8745409",
-          "text": "여기도 찌찌다"
-        },
-        {
-          "id": "8745511",
-          "text": "서..서...섯...다"
-        },
-        {
-          "id": "8745886",
-          "text": "노력 많이 했네"
-        }
-      ],
-      "commentsFetchedAt": "2026-09-20T16:02:26.063616+09:00",
-      "sourceTitles": [
-        "르세라핌 사쿠라 goal",
-        "어제 레전드 찍은 르세라핌 사쿠라",
-        "ㅇㅎ) 18살 사쿠라 \"저는 말랐지만 가슴은 좀 있어요\"",
-        "르세라핌, 사쿠라 국내,해외공연 팬서비스 별도관리?",
-        "ㅇㅎ) 르세라핌 사쿠라 한 장",
-        "사쿠라 단 한장"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-09-20T07:02:41.191025+00:00",
-      "collectedAt": "2026-09-20T16:02:41.191052+09:00",
-      "firstPublishedAt": "2026-09-20T07:05:42.658346+00:00"
-    },
-    {
       "id": "aagag-1656326-0",
       "url": "https://aagag.com/issue/?idx=1656326",
       "source": "애객",
@@ -11681,9 +11618,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 197,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 215,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
