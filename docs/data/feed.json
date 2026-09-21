@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-09-21",
-  "collectedAt": "2026-09-21T08:00:08.215286+00:00",
+  "collectedAt": "2026-09-21T08:05:26.979743+00:00",
   "windowEnd": "2026-09-21T17:00:08.159353+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -738,6 +738,76 @@
       "sourceTitlesFetchedAt": "2026-09-20T13:05:26.446177+00:00",
       "collectedAt": "2026-09-20T22:05:26.446200+09:00",
       "firstPublishedAt": "2026-09-20T13:05:26.487991+00:00"
+    },
+    {
+      "id": "aagag-1656348-0",
+      "url": "https://aagag.com/issue/?idx=1656348",
+      "source": "애객",
+      "title": "와인, 막걸리 계산할 때 차이점 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "publishedAt": "2026-09-21T05:00:08+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/J0mXC.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/J0mXC.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 48,
+      "commentCount": 6,
+      "laughingComments": 5,
+      "score": 48,
+      "kPerComment": 8.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8749036",
+          "text": "뀨뀨럼이 개 찰짐 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8749094",
+          "text": "저러고 3만원 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8749096",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8749130",
+          "text": "섭섭하게 하지마 ㅋㅋㅋㅋㅋㅋ 이러면 너 다시 못봐 ㅋㅋㅋ 아니 멘트 어디서 교육하냐고 다똑같네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8749188",
+          "text": "가슴문신은 적응 쉽지않네"
+        },
+        {
+          "id": "8749258",
+          "text": "에헤이~ ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-09-21T17:03:41.598489+09:00",
+      "sourceTitles": [
+        "와인과 막걸리 차이.gif",
+        "와인과 막걸리의 결정적인 차이점",
+        "와인, 막걸리 계산할 때 차이점 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "와인, 막걸리 계산할 때 차이점",
+        "와인, 막걸리 계산할 때 차이점 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-09-21T08:03:56.620595+00:00",
+      "collectedAt": "2026-09-21T17:03:56.620610+09:00",
+      "firstPublishedAt": "2026-09-21T08:05:26.991397+00:00"
     },
     {
       "id": "aagag-1656311-0",
@@ -11618,7 +11688,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 197,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
