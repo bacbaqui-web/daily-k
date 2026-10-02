@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {isNewsIndex,isNewsBrief,safeNewsUrl,newsLink} from '../lib/news.ts';
+assert.equal(safeNewsUrl('javascript:alert(1)'),false);
+assert.equal(safeNewsUrl('https://user:password@example.com'),false);
+assert.equal(safeNewsUrl('https://example.com/article'),true);
+const entry={id:'2026-10-02-am',date:'2026-10-02',edition:'am',generatedAt:'2026-10-02T10:00:00+09:00',cutoffAt:'2026-10-02T09:00:00+09:00',count:7,path:'2026-10-02/am.json',headline:'검증'};
+const index={schemaVersion:1,timezone:'Asia/Seoul',updatedAt:null,editions:[entry]};
+assert.ok(isNewsIndex(index));
+assert.equal(isNewsIndex({...index,editions:[{...entry,path:'../../feed.json'}]}),false);
+assert.equal(isNewsIndex({...index,editions:[{...entry,edition:'other'}]}),false);
+assert.equal(isNewsBrief({schemaVersion:1,stories:[]}),false);
+assert.equal(newsLink('2026-10-02','pm'),'/daily-k/?tab=news&date=2026-10-02&edition=pm');
+console.log('News data/link checks passed');

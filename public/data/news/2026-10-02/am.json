@@ -1,0 +1,459 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-02-am",
+  "date": "2026-10-02",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-02T09:00:00+09:00",
+  "generatedAt": "2026-10-02T11:05:30+09:00",
+  "intro": "밤사이 미국장과 오늘 아침 물가 발표, 수사·기소 체계의 변화가 핵심입니다. 첫 회차는 오전 9시 기준 기사를 모아 늦게 발행했습니다. 아래 일정도 오전 9시에 확인된 예정 사항을 기준으로 정리했습니다.",
+  "stories": [
+    {
+      "id": "korea-cpi-2026-09",
+      "topicKey": "korea-cpi-2026-09",
+      "category": "경제",
+      "title": "9월 물가 2.9%…상승폭은 줄었지만 기름값 부담은 계속",
+      "status": "확정",
+      "publishedAt": "2026-10-02T08:02:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "2026-10-02 발표 · 통계 대상은 2026년 9월",
+      "summary": [
+        "국가데이터처가 10월 2일 발표한 9월 소비자물가는 1년 전보다 2.9% 올랐습니다. 8월의 3.1%에서 0.2%포인트 낮아졌고, 전달과 비교한 물가 수준은 0.3% 상승했습니다.",
+        "통신 부문의 전년 대비 상승률이 16.6%에서 2.0%로 줄어드는 등 서비스 물가가 둔화한 반면, 석유류는 14.8% 올랐습니다. 물가 상승률이 내려갔다는 말은 물건값 자체가 전반적으로 떨어졌다는 뜻은 아닙니다.",
+        "가계가 자주 쓰는 연료비 부담과 전체 물가 지표의 개선을 함께 봐야 하는 이유입니다. 이번 한 달의 결과만으로 앞으로 물가가 계속 안정되거나 금리 방향이 정해졌다고 단정하기는 어렵습니다."
+      ],
+      "keyFacts": {
+        "yoy": "2.9%",
+        "previousYoy": "3.1%",
+        "petroleumYoy": "14.8%",
+        "mom": "0.3%"
+      },
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "9월 소비자물가 2.9%↑…기름값 14.8% 급등",
+          "url": "https://ir.newspim.com/news/view/20261002000052",
+          "publishedAt": "2026-10-02T08:02:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T08:22:00+09:00"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 96,
+        "interest": 90,
+        "domesticImpact": 100,
+        "reliability": 90,
+        "recency": 100
+      },
+      "scoreReason": "가계 지출과 금리 판단에 영향을 주는 새 월간 물가 통계",
+      "whatChanged": "8월 3.1%에서 9월 2.9%로 둔화",
+      "whyItMatters": "가계 지출과 금리 판단에 영향을 주는 새 월간 물가 통계",
+      "uncertainty": "향후 물가 경로와 금리 결정은 미확정",
+      "score": 96.5,
+      "factsHash": "cae247027063a0c59e3409e4baa434e3dc57bfac71f280cb8ebcbcb89e13a073"
+    },
+    {
+      "id": "us-market-2026-10-01",
+      "topicKey": "us-market-2026-10-01",
+      "category": "증시·반도체",
+      "title": "뉴욕증시 강보합…반도체 실적과 높은 금리를 함께 볼 때",
+      "status": "확정",
+      "publishedAt": "2026-10-02T05:43:44+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 2026-10-01 정규장 마감 · 한국시간 10-02 새벽",
+      "summary": [
+        "미국 10월 첫 거래일은 주요 주가지수가 소폭 오르며 끝났습니다. S&P500은 전 거래일보다 0.19% 오른 7,666.45, 나스닥은 0.04% 오른 26,871.59에 마감했습니다.",
+        "다우지수 종가는 50,926.56으로 0.04% 상승했고, 마이크론 주가는 실적 발표 이후 3.03% 올랐습니다. 반도체 실적에 대한 기대가 이어졌지만 지수 전체의 상승폭은 작았습니다.",
+        "국채금리와 유가 부담이 함께 남아 있어, 반도체 강세를 곧바로 시장 전체의 안도 신호로 해석하기는 어렵습니다. 국내 개장 뒤에는 삼성전자·SK하이닉스의 반응과 외국인 수급이 함께 개선되는지 확인할 필요가 있습니다."
+      ],
+      "keyFacts": {
+        "sp500Close": "7666.45",
+        "sp500Change": "0.19%",
+        "nasdaqClose": "26871.59",
+        "micronChange": "3.03%"
+      },
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "뉴욕증시, 강보합 마감…브렌트유 美 중동 항모 추가에 4%↑",
+          "url": "https://www.newsis.com/view/NISX20261002_0003811635",
+          "publishedAt": "2026-10-02T05:43:44+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T09:30:24+09:00",
+          "verificationNote": "종가 수치는 09시 이전 검색 기사와 대조. 09:30 수정 이후의 신규 내용은 사용하지 않음"
+        },
+        {
+          "name": "더팩트",
+          "title": "뉴욕증시, 국채 금리·유가 경계 속 소폭 상승…엔비디아 1.09%↑",
+          "url": "https://news.tf.co.kr/read/economy/2372242.htm",
+          "publishedAt": "2026-10-02T06:59:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "검색에 제공된 기사 본문으로 종가 교차 확인"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 90,
+        "interest": 100,
+        "domesticImpact": 90,
+        "reliability": 90,
+        "recency": 100
+      },
+      "scoreReason": "국내 반도체주와 위험자산 흐름에 영향을 주는 미국장 결과",
+      "whatChanged": "10월 1일 미국 정규장 종가 확정",
+      "whyItMatters": "국내 반도체주와 위험자산 흐름에 영향을 주는 미국장 결과",
+      "uncertainty": "오늘 국내 증시 방향은 미확정",
+      "score": 95.5,
+      "factsHash": "e3c524177a81ec28b902bba7a2c4d975914c3a221f447f4c5182252e6879c349"
+    },
+    {
+      "id": "usdkrw-2026-10-02-morning",
+      "topicKey": "usdkrw-2026-10-02-morning",
+      "category": "환율·금리",
+      "title": "원·달러 환율, 전일 1,358.4원…유가와 수출기업 달러 매도가 변수",
+      "status": "확정",
+      "publishedAt": "2026-10-02T08:13:59+09:00",
+      "eventAt": null,
+      "eventTimeNote": "2026-10-01 서울 외환시장 종가 및 10-02 개장 전 역외시장 정보",
+      "summary": [
+        "10월 1일 서울 외환시장의 원·달러 종가는 1,358.4원이었습니다. 밤사이 역외 1개월물은 1,357.50원에 최종 호가됐고, 금리 차이를 반영한 환산값은 1,358.20원으로 전일 종가와 비슷했습니다.",
+        "이 환산값은 10월 2일 국내 시장의 실제 개장가나 종가가 아니라 개장 전 참고치입니다. 이데일리는 수출기업이 달러를 원화로 바꾸는 매도 물량과 수입업체의 달러 매수가 맞서는 흐름을 예상했습니다.",
+        "유가 상승은 에너지 수입 비용을 높이는 요인이지만, 반도체 수출기업의 달러 매도는 반대 방향으로 작용할 수 있습니다. 따라서 달러 강세만 보고 원화 방향을 단정하기보다 실제 장중 수급을 함께 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "previousClose": "1358.4원",
+        "ndfQuote": "1357.50원",
+        "convertedReference": "1358.20원",
+        "referenceType": "개장 전 참고치"
+      },
+      "sources": [
+        {
+          "name": "이데일리",
+          "title": "강달러·유가 급등에도 네고 물량…환율 1350원대 등락[외환브리핑]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645608984",
+          "publishedAt": "2026-10-02T08:13:59+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T08:35:09+09:00"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 83,
+        "interest": 95,
+        "domesticImpact": 95,
+        "reliability": 88,
+        "recency": 100
+      },
+      "scoreReason": "수입비용과 기업 환전 수요가 국내 환율에 미치는 영향",
+      "whatChanged": "야간 역외시장 참고치가 새로 확인됨",
+      "whyItMatters": "수입비용과 기업 환전 수요가 국내 환율에 미치는 영향",
+      "uncertainty": "개장가와 종가는 아직 확정되지 않은 시점의 자료",
+      "score": 93.3,
+      "factsHash": "bd26f1dea5881af1c97727f77f918fcb4f754cdb1582453b55159bf64708e94e"
+    },
+    {
+      "id": "korea-prosecution-reorganization-2026",
+      "topicKey": "korea-prosecution-reorganization-2026",
+      "category": "국내 정책·사회",
+      "title": "공소청·중수청 출범…수사와 기소가 나뉩니다",
+      "status": "확정",
+      "publishedAt": "2026-10-02T06:28:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "2026-10-02 새 기관 출범 · 10-01 현판 교체",
+      "summary": [
+        "10월 2일 공소청과 중대범죄수사청이 출범하면서 기존 검찰청 체계가 바뀌었습니다. 공소청은 기소와 재판에서 공소를 유지하는 업무를, 중수청은 중대범죄 수사를 맡습니다.",
+        "매일경제에 따르면 중수청은 정원 2,874명 가운데 약 1,900명, 약 66%의 인력으로 출발합니다. 권한을 한 기관이 함께 행사하던 구조에서 나누어 맡는 구조로 전환됐지만, 인선과 시설 준비가 남아 있습니다.",
+        "국민 입장에서는 실제 사건이 기관 사이에서 어떻게 넘어가고 처리되는지가 중요합니다. 출범 자체와 운영의 안착은 구분해야 하며, 앞으로의 사건 처리 속도나 수사 공백 여부는 실제 결과를 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "launch": "2026-10-02",
+        "staff": "약 1900명",
+        "authorizedStaff": "2874명",
+        "structure": "수사와 기소 분리"
+      },
+      "sources": [
+        {
+          "name": "매일경제",
+          "title": "검찰청, 78년 만에 역사 속으로…공소청·중수청 시대 개막",
+          "url": "https://www.mk.co.kr/news/society/12166709",
+          "publishedAt": "2026-10-02T06:28:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        },
+        {
+          "name": "SBS",
+          "title": "오늘 공소청·중수청 출범…78년 검찰, 역사 속으로",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=ATOM&news_id=N1008779810&plink=ORI",
+          "publishedAt": "2026-10-02T06:07:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 97,
+        "interest": 50,
+        "domesticImpact": 100,
+        "reliability": 90,
+        "recency": 100
+      },
+      "scoreReason": "형사사건 처리 체계의 실제 변화",
+      "whatChanged": "기관 출범이 예정 단계에서 시행 단계로 전환",
+      "whyItMatters": "형사사건 처리 체계의 실제 변화",
+      "uncertainty": "운영 안정성과 인력 충원 결과는 지켜볼 사안",
+      "score": 90.75,
+      "factsHash": "744c15503baf7c75e283d4f6a9bcf91b0cce9dd95adeb79ff0dea732d5f4eb2b"
+    },
+    {
+      "id": "lguplus-optai-token-efficiency",
+      "topicKey": "lguplus-optai-token-efficiency",
+      "category": "기술·IT·AI",
+      "title": "LG유플러스, AI 연산 효율 공동 연구…서버 GPU로 범위 확대",
+      "status": "보도",
+      "publishedAt": "2026-10-02T09:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "2026-10-02 협력 발표 · 공동 세미나는 10-01 개최",
+      "summary": [
+        "LG유플러스가 옵트에이아이와 AI 운영에 드는 자원을 줄이는 토큰 최적화 연구를 진행한다고 10월 2일 밝혔습니다. 토큰은 AI가 질문과 답변을 처리할 때 나누어 읽는 데이터 단위입니다.",
+        "양사는 기기 안에서 AI를 돌리는 기술에 이어 서버 GPU 환경으로 연구 범위를 넓히며, 같은 GPU의 토큰 처리량을 최대 4배 높였다고 설명했습니다. 이는 회사가 제시한 연구 성과로, 모든 서비스에서 비용이 곧바로 4분의 1이 된다는 의미는 아닙니다.",
+        "AI 서비스가 늘수록 칩 확보뿐 아니라 같은 장비로 더 많은 요청을 처리하는 능력이 중요해집니다. 실제 서비스 적용 범위와 조건별 성능, 비용 절감 효과는 추가 검증과 도입 결과를 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "announcement": "2026-10-02",
+        "scope": "서버 GPU로 공동 연구 확대",
+        "companyClaim": "토큰 처리량 최대 4배"
+      },
+      "sources": [
+        {
+          "name": "머니투데이",
+          "title": "LG U+, 옵트에이아이와 토큰 최적화 기술로 AI 효율성 올린다",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/02/2026100208484549601",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "최신 검색에 제공된 기사 본문 확인; 직접 열기는 도구 오류"
+        },
+        {
+          "name": "더팩트",
+          "title": "LGU+. 옵트AI와 토큰 최적화 맞손…GPU 처리량 4배 확대",
+          "url": "https://news.tf.co.kr/read/economy/2372265.htm",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "검색에 제공된 회사 발표 인용 기사로 대조; 독립 성능검증 아님"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 78,
+        "interest": 100,
+        "domesticImpact": 80,
+        "reliability": 82,
+        "recency": 100
+      },
+      "scoreReason": "AI 서비스 원가와 인프라 효율에 대한 사용자 관심",
+      "whatChanged": "온디바이스 중심에서 서버 GPU 연구로 확대",
+      "whyItMatters": "AI 서비스 원가와 인프라 효율에 대한 사용자 관심",
+      "uncertainty": "최대 4배는 회사 설명이며 일반화된 독립 검증 결과가 아님",
+      "score": 90.7,
+      "factsHash": "0d4847cb9934e2f651288407764ecbf63f8f2dc6367fb7f849c2b1e298638f22"
+    },
+    {
+      "id": "us-iran-delegation-departure-2026-09",
+      "topicKey": "us-iran-delegation-departure-2026-09",
+      "category": "국제·외교",
+      "title": "미국의 이란 대표단 출국 요구 보도…협상 상황은 별도 확인 필요",
+      "status": "보도",
+      "publishedAt": "2026-10-02T01:19:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "보도 속 사건은 미국 현지 2026-09-28~29 · 한국어 보도는 10-02",
+      "summary": [
+        "SBS는 악시오스를 인용해 미국이 9월 28일 이란 대표단에 출국을 요구했다고 전했습니다. 이는 오늘 새로 벌어진 사건이 아니라 과거 상황을 전하는 보도입니다.",
+        "외교 접촉의 분위기를 살필 단서지만, 출국 요구의 경위는 관계자 설명에 기반합니다. 이 보도만으로 협상이 완전히 종료됐다고 판단할 수는 없으며, 양측 공식 입장과 후속 협의 결과를 구분해서 봐야 합니다."
+      ],
+      "keyFacts": {
+        "reportedDemandDate": "2026-09-28",
+        "koreanReportDate": "2026-10-02",
+        "verification": "관계자 인용 보도, 공식 확정과 구분"
+      },
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "미 국무, 협상 진전 없자 뉴욕 이란 대표단에 즉시 출국 요구",
+          "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008779753",
+          "publishedAt": "2026-10-02T01:19:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        },
+        {
+          "name": "Axios",
+          "title": "Rubio ordered Iranian delegation to leave the country after negotiations stalled",
+          "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
+          "publishedAt": null,
+          "kind": "original-report",
+          "language": "en",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "SBS가 인용한 원보도 확인. 같은 원보도이므로 독립된 공식 확인으로 보지 않음"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 83,
+        "interest": 35,
+        "domesticImpact": 70,
+        "reliability": 76,
+        "recency": 100
+      },
+      "scoreReason": "외교 보도와 실제 협상 결론을 구분할 필요",
+      "whatChanged": "9월 사건의 경위가 새 한국어 보도로 알려짐",
+      "whyItMatters": "외교 보도와 실제 협상 결론을 구분할 필요",
+      "uncertainty": "미국 당국자 등 취재원 설명이며 양측 공식 확정 아님",
+      "score": 80.6,
+      "factsHash": "1308694109072250cb26ce9cc1b09e316fde593b7c9fafd72c9b0a74097d035d"
+    },
+    {
+      "id": "naver-webtoon-toonradar-2026-09-report",
+      "topicKey": "naver-webtoon-toonradar-2026-09-report",
+      "category": "웹툰 산업",
+      "title": "불법 유통 차단 뒤 유료 구매 증가…네이버웹툰이 공개한 분석",
+      "status": "분석",
+      "publishedAt": "2026-09-30T10:29:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "2026-09-30 리포트 공개 · 분석 대상 2026년 1~8월, 폐쇄 시점은 4월",
+      "summary": [
+        "네이버웹툰이 9월 30일 공개한 리포트는 불법 사이트 폐쇄 전후 정식 서비스 이용이 어떻게 달라졌는지 분석했습니다. 회사에 따르면 당일 불법 유출되던 작품군의 신규 구매 유입이 폐쇄 주에 직전 3주 평균의 7.9배로 늘었습니다.",
+        "같은 작품군의 매출도 폐쇄 직후 3주 동안 29.7% 증가했다고 합니다. 전체 웹툰 시장의 매출이 그만큼 늘었다는 뜻이 아니라, 회사가 구분한 특정 작품군의 비교 결과입니다.",
+        "불법 유통 대응을 단순 접속 차단을 넘어 작가와 플랫폼의 정식 매출 관점에서 볼 수 있는 자료입니다. 다만 회사 자체 데이터 분석인 만큼, 다른 플랫폼에서도 같은 효과가 나거나 증가분 모두가 차단 하나 때문이라고 단정할 수는 없습니다."
+      ],
+      "keyFacts": {
+        "reportDate": "2026-09-30",
+        "purchaseRatio": "7.9배",
+        "revenueChange": "29.7%",
+        "sample": "당일 불법 유출 작품군"
+      },
+      "sources": [
+        {
+          "name": "네이버 공식 발표",
+          "title": "네이버웹툰, 툰레이더 리포트 공개…최신 유료 회차 방어율 99.8%",
+          "url": "https://navercorp.com/media/pressReleasesDetail?seq=10034698",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "publishedDate": "2026-09-30"
+        },
+        {
+          "name": "바이라인네트워크",
+          "title": "뉴토끼 셧다운 후 구매 유입 늘어…네이버웹툰 7.9배 증가",
+          "url": "https://byline.network/2026/09/30-600/",
+          "publishedAt": "2026-09-30T10:29:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 85,
+        "interest": 100,
+        "domesticImpact": 90,
+        "reliability": 85,
+        "recency": 25
+      },
+      "scoreReason": "창작자 수익과 합법 플랫폼 전환에 직접 관련된 산업 자료",
+      "whatChanged": "불법 사이트 폐쇄 전후 구매와 매출 비교 분석 공개",
+      "whyItMatters": "창작자 수익과 합법 플랫폼 전환에 직접 관련된 산업 자료",
+      "uncertainty": "회사 자체 분석, 전체 시장으로 일반화할 수 없음",
+      "fallbackNote": "오늘 오전 9시까지 새 대형 발표를 확인하지 못해, 최근 3일 내 공개된 중요한 웹툰 산업 업데이트를 골랐습니다.",
+      "score": 63.75,
+      "factsHash": "c276ec4807b0ec67d86b249882e3a853dd51f421f6b66ab7b6b249b6ab586a6b"
+    }
+  ],
+  "events": [
+    {
+      "title": "국내 개장 이후 반도체주·외국인 수급·환율 확인",
+      "date": "2026-10-02",
+      "at": null,
+      "timeNote": "09:00 개장 이후 장중",
+      "detail": "미국 반도체주 상승이 국내로 이어지는지, 수출기업 달러 매도와 유가 부담 중 어느 쪽이 강한지 확인할 시장 변수입니다. 가격 방향은 예정된 결과가 아닙니다.",
+      "source": {
+        "name": "이데일리",
+        "title": "강달러·유가 급등에도 네고 물량…환율 1350원대 등락[외환브리핑]",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645608984",
+        "publishedAt": "2026-10-02T08:13:59+09:00",
+        "kind": "major",
+        "language": "ko",
+        "verifiedAt": "2026-10-02T11:05:30+09:00",
+        "updatedAt": "2026-10-02T08:35:09+09:00"
+      }
+    },
+    {
+      "title": "국회운영위원회 전체회의 예정",
+      "date": "2026-10-02",
+      "at": "2026-10-02T10:30:00+09:00",
+      "detail": "국회가 공지한 전체회의 일정입니다. 실제 논의 내용과 결정은 회의 뒤 확인해야 합니다.",
+      "source": {
+        "name": "연합뉴스",
+        "title": "[오늘의 국회일정](2일·금)",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261001183300001",
+        "publishedAt": "2026-10-02T07:00:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-02T11:05:30+09:00"
+      }
+    },
+    {
+      "title": "국회의장, 신임 경제부총리 접견 예정",
+      "date": "2026-10-02",
+      "at": "2026-10-02T14:00:00+09:00",
+      "detail": "경제정책 관련 국회와 정부의 소통 일정입니다. 접견 자체를 새 정책 발표로 해석하지 않고 공식 발표 여부를 확인합니다.",
+      "source": {
+        "name": "연합뉴스",
+        "title": "[오늘의 국회일정](2일·금)",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261001183300001",
+        "publishedAt": "2026-10-02T07:00:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-02T11:05:30+09:00"
+      }
+    },
+    {
+      "title": "산업용 지역 전기요금제 설계안 토론회 예정",
+      "date": "2026-10-02",
+      "at": "2026-10-02T16:00:00+09:00",
+      "detail": "전력 비용과 지역 산업 경쟁력에 연결되는 논의입니다. 토론회 제안과 확정된 요금 정책을 구분해서 보시면 됩니다.",
+      "source": {
+        "name": "연합뉴스",
+        "title": "[오늘의 국회일정](2일·금)",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261001183300001",
+        "publishedAt": "2026-10-02T07:00:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-02T11:05:30+09:00"
+      }
+    },
+    {
+      "title": "미국 9월 고용보고서 발표 예정",
+      "date": "2026-10-02",
+      "at": "2026-10-02T21:30:00+09:00",
+      "detail": "미 노동통계국 일정의 10월 2일 오전 8시 30분(미 동부 서머타임)을 한국시간으로 환산했습니다. 비농업 고용과 실업률, 임금 변화는 미국 금리와 달러의 주요 변수입니다.",
+      "source": {
+        "name": "미 노동통계국(BLS)",
+        "title": "October 2026 release schedule",
+        "url": "https://www.bls.gov/schedule/2026/10_sched.htm",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-02T11:05:30+09:00"
+      }
+    }
+  ],
+  "keywords": []
+}
