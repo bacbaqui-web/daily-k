@@ -1,14 +1,23 @@
 # ㅋㅋㅋ
 
-수집된 유머 글을 최초 공개 후 24시간 동안 모아 보는 개인용 웹사이트입니다.
+유머 글과 하루 두 번 발행되는 한국어 뉴스 브리핑을 보는 개인용 웹사이트입니다.
+
+이 저장소는 `code/02_tools/daily_k/홈페이지`에서 관리합니다.
 
 - 사이트: https://bacbaqui-web.github.io/daily-k/
 - ㅋㅋㅋ: 댓글의 ㅋ 총개수순
 - ㅇㅎㅂ: 제목 표시 기준, 댓글 수순
+- ㄴㅇㅅ: 오전 9시·저녁 9시 한국어 뉴스 브리핑, 날짜·회차별 영구 보관
 - 우리 사이트 최초 공개(`firstPublishedAt`) 후 24시간 자동 만료, 읽음 처리, 영상 미리보기 및 키보드 탐색
 
 ## 빌드 및 배포
 
 `npm ci` 후 `npm run build`를 실행합니다. `python3 scripts/prepare-pages.py`로 경로를 정리한 뒤 main에 반영합니다. GitHub Pages는 main의 /docs에서 배포합니다.
 
-수집은 Mac의 전용 LaunchAgent에서 매시간 실행합니다. 애객에 게시된 지 12~13시간인 글을 15초 요청 간격으로 한 번 읽으며, GitHub에는 공개용 feed.json을 전달합니다. Oracle 수집은 중지되어 있습니다. 이미지와 영상 파일은 저장하지 않습니다. 원문 게시 시각과 우리 사이트 최초 공개 시각을 구분하며, 재배포해도 24시간 보관 기한은 연장되지 않습니다.
+유머 수집은 현재 사용자 요청으로 중지되어 있습니다. 재개 시 Mac의 전용 LaunchAgent에서 매시간 실행하도록 구성되어 있습니다. 애객에 게시된 지 12~13시간인 글을 15초 요청 간격으로 한 번 읽으며, GitHub에는 공개용 feed.json을 전달합니다. Oracle 수집은 중지되어 있습니다. 이미지와 영상 파일은 저장하지 않습니다. 원문 게시 시각과 우리 사이트 최초 공개 시각을 구분하며, 재배포해도 24시간 보관 기한은 연장되지 않습니다.
+
+## 뉴스 운영
+
+뉴스 자동화는 이 저장소의 [운영 지침](ops/news-briefing.md)을 읽어 검증한 기사를 발행합니다. 후보·초안은 `~/Library/Application Support/DailyK/news/`에, 공개 회차는 `public/data/news/`와 `docs/data/news/`에 저장합니다.
+
+이전 `~/Library/Application Support/DailyK/runtime/daily-k-github` 경로는 이 폴더로 연결되는 호환용 심볼릭 링크입니다. 실제 소스와 Git 이력은 이 폴더에만 있습니다.

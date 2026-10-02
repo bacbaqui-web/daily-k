@@ -4,7 +4,7 @@
 
 ## 실행 환경과 일정
 
-- 저장소: `/Users/bacbaqui/Library/Application Support/DailyK/runtime/daily-k-github`
+- 저장소: `/Users/bacbaqui/Desktop/code/02_tools/daily_k/홈페이지`
 - Python: `/Users/bacbaqui/Library/Application Support/DailyK/runtime/venv/bin/python`
 - 초안·후보 기록: `/Users/bacbaqui/Library/Application Support/DailyK/news/`
 - 사이트: https://bacbaqui-web.github.io/daily-k/?tab=news
