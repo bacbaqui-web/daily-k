@@ -1,10 +1,11 @@
 'use client';
 import { useEffect, useState, useMemo, useRef, type CSSProperties } from 'react';
-import { Dialog, DialogTrigger, DialogContent, DialogTitle } from '@/components/ui/dialog';
+import { Dialog, DialogTrigger, DialogContent } from '@/components/ui/dialog';
 import { PreviewCard as PreviewCardPrimitive } from '@base-ui/react/preview-card';
 import { HoverCard, HoverCardTrigger } from '@/components/ui/hover-card';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { NewsBriefing } from '../components/news-briefing';
+import { ReaderHeading } from '../components/reader-heading';
 import { Button } from '@/components/ui/button';
 import { contentMarkers } from '../lib/content-markers';
 import { unreadFirst, adjacentPost, nextUnreadPost, within24Hours } from '../lib/reading';
@@ -66,21 +67,6 @@ function PostTitle({post,expanded}:{post:Post;expanded:boolean}){
  useEffect(()=>{const query=matchMedia('(hover: hover) and (pointer: fine)');const update=()=>setCanHover(query.matches);update();query.addEventListener('change',update);return()=>query.removeEventListener('change',update)},[]);
  useEffect(()=>{if(!peek)return;const close=()=>setPeek(false);window.addEventListener('scroll',close,{passive:true});return()=>window.removeEventListener('scroll',close)},[peek]);
  return <HoverCard open={peek&&canHover&&!expanded} onOpenChange={open=>setPeek(open&&canHover&&!expanded)}><HoverCardTrigger render={<DialogTrigger/>} delay={400} closeDelay={150} onPointerEnter={e=>{if(e.pointerType==='mouse')setPointer({x:e.currentTarget.getBoundingClientRect().right,y:e.clientY,element:e.currentTarget})}} onPointerMove={e=>{if(e.pointerType==='mouse')setPointer({x:e.currentTarget.getBoundingClientRect().right,y:e.clientY,element:e.currentTarget})}} onFocus={e=>{const r=e.currentTarget.getBoundingClientRect();setPointer({x:r.right,y:r.top+r.height/2,element:e.currentTarget})}} onClick={()=>setPeek(false)}>{post.title}</HoverCardTrigger><PreviewCardPrimitive.Portal><PreviewCardPrimitive.Positioner anchor={anchor} positionMethod="fixed" side="right" align="center" sideOffset={14} collisionPadding={12} collisionAvoidance={{side:'shift',align:'shift'}} className="preview-positioner"><PreviewCardPrimitive.Popup data-slot="hover-card-content" className="post-preview split-preview"><div className="preview-article">{post.source!=='애객'&&<span className="preview-source" style={{background:sourceColors[post.source]||'#596661'}}>{post.source}</span>}<h3>{post.title}</h3>{peek&&canHover&&!expanded&&<Body post={post}/>}<span className="preview-hint">제목을 누르면 전체 글을 볼 수 있어요</span></div><Comments post={post} preview/></PreviewCardPrimitive.Popup></PreviewCardPrimitive.Positioner></PreviewCardPrimitive.Portal></HoverCard>;
-}
-function ReaderHeading({title,index,total,onClose}:{title:string;index:number;total:number;onClose:()=>void}){
- const start=useRef<{x:number;y:number;id:number}|null>(null);
- const panel=useRef<HTMLElement|null>(null);
- const closing=useRef(false);
- const timer=useRef<ReturnType<typeof setTimeout>|null>(null);
- function reset(){start.current=null;if(panel.current){panel.current.style.removeProperty('--reader-drag-y');delete panel.current.dataset.dragging}}
- useEffect(()=>()=>{if(timer.current)clearTimeout(timer.current);closing.current=false;reset()},[title]);
- return <div className="reader-heading drag-heading"
-  onPointerDown={e=>{if(closing.current||e.pointerType!=='touch'||!e.isPrimary||!matchMedia('(max-width: 767px)').matches)return;panel.current=e.currentTarget.closest<HTMLElement>('.reader-dialog');start.current={x:e.clientX,y:e.clientY,id:e.pointerId};if(panel.current)panel.current.dataset.dragging='true';e.currentTarget.setPointerCapture(e.pointerId)}}
-  onPointerMove={e=>{const p=start.current;if(p?.id!==e.pointerId||closing.current)return;panel.current?.style.setProperty('--reader-drag-y',`${Math.max(0,e.clientY-p.y)}px`)}}
-  onPointerUp={e=>{const p=start.current;if(p?.id!==e.pointerId)return;const close=e.clientY-p.y>=72&&e.clientY-p.y>Math.abs(e.clientX-p.x)*1.2;if(close&&panel.current){closing.current=true;start.current=null;delete panel.current.dataset.dragging;panel.current.style.setProperty('--reader-drag-y',`${window.innerHeight}px`);timer.current=setTimeout(onClose,180)}else reset()}}
-  onPointerCancel={()=>{if(!closing.current)reset()}} onLostPointerCapture={()=>{if(!closing.current)reset()}}>
-  <DialogTitle className="reader-title">{title} <span className="reader-counter">{index} / {total}</span></DialogTitle>
- </div>;
 }
 
 function ThemeToggle(){
