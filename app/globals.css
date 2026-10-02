@@ -109,3 +109,11 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .news-closing{padding:26px 0 0;margin-top:22px;border-top:1px solid var(--border)}.news-closing h2{font-size:20px;font-weight:700;margin:0 0 16px}.news-keywords{font-size:15px;line-height:2;color:var(--news-accent)}.news-events{list-style:none;padding:0;display:grid;gap:20px}.news-events li>span{font-size:12px;color:var(--news-accent)}.news-events h3{font-size:16px;font-weight:650;margin:4px 0}.news-events p{font-size:14px;line-height:1.8;margin:3px 0}.news-events a{font-size:12px;color:var(--muted-foreground)}.news-message{text-align:center;padding:60px 10px;color:var(--muted-foreground)}.news-message h2{font-size:20px}.news-message p{font-size:14px}
 @media(max-width:600px){.news{padding-top:22px}.news-controls{gap:12px;margin-bottom:24px}.news-story-title{font-size:17px}.news-story-summary{font-size:13px}.news-reader .news-reader-body{padding:0 12px 16px}.reader-dialog .news-reader-body>p{font-size:15px;line-height:1.9}.news-intro>p{font-size:14px}.news-time{font-size:11px;gap:6px 10px}.news-related{grid-template-columns:1fr;gap:9px}.news-link-card{flex-direction:row;align-items:stretch}.news-link-image{width:100px;min-height:100px;aspect-ratio:auto;flex-shrink:0}.news-link-image img{object-fit:cover}.news-link-copy{padding:10px 12px;gap:4px}.news-link-copy strong{font-size:13px}.news-link-copy time{padding-top:2px}}
 @media(max-width:380px){.category-tabs [data-slot="tabs-trigger"]{font-size:20px;padding:3px 8px}.news-link-image{width:82px}.news-time a{margin-left:0}}
+
+/* Share tab accents with unread post cards in both themes. */
+.feed-tabs{--tab-humor:#006949;--tab-tagged:#9a3857;--tab-news:#355fb4;--category-accent:var(--tab-humor)}
+[data-theme="dark"] .feed-tabs{--tab-humor:var(--primary);--tab-tagged:#f4a9c1;--tab-news:#a8c1ff}
+.feed-tabs[data-category="tagged"]{--category-accent:var(--tab-tagged)}
+.feed-tabs[data-category="news"]{--category-accent:var(--tab-news)}
+.feed-tabs .category-tabs [data-slot="tabs-trigger"][data-active]{color:var(--category-accent)}
+.feed-tabs .news-stories{--source-color:var(--tab-news)}
