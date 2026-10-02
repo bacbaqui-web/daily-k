@@ -13,9 +13,10 @@ def fixture(edition='am'):
     cutoff=f'2026-10-02T{hour:02}:00:00+09:00';publication=f'2026-10-02T{hour-1:02}:00:00+09:00';generated=f'2026-10-02T{hour:02}:10:00+09:00'
     def source(i):return dict(name='검증용 매체',title=NAMES[i%5],url=f'https://example.org/{edition}/{i}',publishedAt=publication,verifiedAt=generated,kind='official',language='ko')
     stories=[dict(id=f'topic-{edition}-{i}',topicKey=f'topic-{edition}-{i}',category='웹툰 산업' if i==4 else '경제',title=t,summary=['첫 번째로 확인한 내용과 구체적 숫자를 설명합니다.','이전 상황과 비교한 차이와 남은 불확실성을 설명합니다.'],status='확정',publishedAt=publication,eventAt=None,eventTimeNote='발표 시각 확인',whatChanged='새 결과',whyItMatters='국내 영향',uncertainty='추가 결과 미확인',keyFacts={'metric':str(i),'result':t},sources=[source(i)],scoreComponents=dict(importance=80,interest=80,domesticImpact=80,reliability=80),scoreReason='핵심 통계') for i,t in enumerate(NAMES)]
+    for i,s in enumerate(stories):s.update(emphasis=['구체적 숫자','남은 불확실성'],relatedArticles=[source(i)])
     day='2026-10-02' if edition=='am' else '2026-10-03'
     events=[dict(title=f'예정 일정 {i}',date=day,at=f'{day}T{12+i:02}:00:00+09:00',detail='실제 발표 예정 시간을 기준으로 확인하는 검증 항목',source=source(i)) for i in range(3)]
-    return dict(schemaVersion=1,id=f'2026-10-02-{edition}',date='2026-10-02',edition=edition,timezone='Asia/Seoul',cutoffAt=cutoff,generatedAt=generated,intro='검증용 브리핑',stories=stories,events=events,keywords=[] if edition=='am' else [f'주제{i}' for i in range(8)])
+    return dict(schemaVersion=1,id=f'2026-10-02-{edition}',date='2026-10-02',edition=edition,timezone='Asia/Seoul',cutoffAt=cutoff,generatedAt=generated,intro='검증용 브리핑',overview=['이번 회차 전체 분야의 주요 변화를 요약합니다.','뉴스들을 함께 보고 앞으로 확인할 변수를 설명합니다.'],stories=stories,events=events,keywords=[] if edition=='am' else [f'주제{i}' for i in range(8)])
 
 class PublishingTests(unittest.TestCase):
     def test_score_and_order(self):
@@ -62,6 +63,20 @@ class PublishingTests(unittest.TestCase):
     def test_unsafe_link(self):
         b=fixture();b['stories'][0]['sources'][0]['url']='javascript:alert(1)'
         with self.assertRaisesRegex(ValueError,'URL'):validate(b,[],NOW)
+    def test_related_article_safety_and_cutoff(self):
+        for field,value,message in [('url','javascript:alert(1)','URL'),('imageUrl','data:text/html,bad','URL'),('publishedAt','2026-10-02T12:00:00+09:00','after edition')]:
+            with self.subTest(field=field):
+                b=fixture();b['stories'][0]['relatedArticles'][0][field]=value
+                with self.assertRaisesRegex(ValueError,message):validate(b,[],NOW)
+    def test_missing_or_invented_emphasis_rejected(self):
+        for phrases in [[],['본문에 없는 강조 문구']]:
+            b=fixture();b['stories'][0]['emphasis']=phrases
+            with self.assertRaisesRegex(ValueError,'Emphasis'):validate(b,[],NOW)
+    def test_related_article_revision_keeps_original_generation_time(self):
+        b=fixture();b['updatedAt']='2026-10-02T20:00:00+09:00'
+        for story in b['stories']:
+            for article in story['relatedArticles']:article['verifiedAt']=b['updatedAt']
+        result=validate(b,[],NOW);self.assertEqual(result['generatedAt'],b['generatedAt'])
     def test_publish_preserves_archive_and_humor(self):
         with tempfile.TemporaryDirectory() as d:
             root=Path(d);(root/'public/data').mkdir(parents=True);humor=root/'public/data/feed.json';humor.write_text('untouched')

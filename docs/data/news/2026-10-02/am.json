@@ -52,7 +52,44 @@
       "whyItMatters": "가계 지출과 금리 판단에 영향을 주는 새 월간 물가 통계",
       "uncertainty": "향후 물가 경로와 금리 결정은 미확정",
       "score": 96.5,
-      "factsHash": "cae247027063a0c59e3409e4baa434e3dc57bfac71f280cb8ebcbcb89e13a073"
+      "factsHash": "cae247027063a0c59e3409e4baa434e3dc57bfac71f280cb8ebcbcb89e13a073",
+      "emphasis": [
+        "2.9% 올랐습니다",
+        "석유류는 14.8%",
+        "물건값 자체가 전반적으로 떨어졌다는 뜻은 아닙니다"
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴스핌",
+          "title": "9월 소비자물가 2.9%↑…기름값 14.8% 급등",
+          "url": "https://ir.newspim.com/news/view/20261002000052",
+          "publishedAt": "2026-10-02T08:02:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T08:22:00+09:00",
+          "imageUrl": "https://img.newspim.com/news/2026/10/02/2610020757418460_498_tc.jpg"
+        },
+        {
+          "name": "뉴스1",
+          "title": "9월 물가 2.9%로 다시 2%대…석유류 14.8%↑·밥상물가 부담 여전",
+          "url": "https://www.news1.kr/economy/trend/6308346",
+          "publishedAt": "2026-10-02T08:29:39+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2026/9/27/8127751/high.jpg"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 9월 소비자물가 상승률 2.9%…2%대로 내려와",
+          "url": "https://www.mk.co.kr/news/economy/12166740",
+          "publishedAt": "2026-10-02T08:03:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00"
+        }
+      ]
     },
     {
       "id": "us-market-2026-10-01",
@@ -109,7 +146,46 @@
       "whyItMatters": "국내 반도체주와 위험자산 흐름에 영향을 주는 미국장 결과",
       "uncertainty": "오늘 국내 증시 방향은 미확정",
       "score": 95.5,
-      "factsHash": "e3c524177a81ec28b902bba7a2c4d975914c3a221f447f4c5182252e6879c349"
+      "factsHash": "e3c524177a81ec28b902bba7a2c4d975914c3a221f447f4c5182252e6879c349",
+      "emphasis": [
+        "0.19% 오른 7,666.45",
+        "마이크론 주가는 실적 발표 이후 3.03%",
+        "국채금리와 유가 부담"
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "뉴욕증시, 강보합 마감…브렌트유 美 중동 항모 추가에 4%↑",
+          "url": "https://www.newsis.com/view/NISX20261002_0003811635",
+          "publishedAt": "2026-10-02T05:43:44+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T09:30:24+09:00",
+          "verificationNote": "종가 수치는 09시 이전 검색 기사와 대조. 09:30 수정 이후의 신규 내용은 사용하지 않음",
+          "imageUrl": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215310_web.jpg"
+        },
+        {
+          "name": "더팩트",
+          "title": "뉴욕증시, 국채 금리·유가 경계 속 소폭 상승…엔비디아 1.09%↑",
+          "url": "https://news.tf.co.kr/read/economy/2372242.htm",
+          "publishedAt": "2026-10-02T06:59:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "검색에 제공된 기사 본문으로 종가 교차 확인",
+          "imageUrl": "https://img.tf.co.kr/article/home/2026/10/02/202628201790891292.jpg"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "美 국채금리 진정에 뉴욕증시 반등…AI 관련주 호조에 '10월 첫날' 상승 마감",
+          "url": "https://www.fnnews.com/news/202610020653415950",
+          "publishedAt": "2026-10-02T06:56:41+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00"
+        }
+      ]
     },
     {
       "id": "usdkrw-2026-10-02-morning",
@@ -155,7 +231,46 @@
       "whyItMatters": "수입비용과 기업 환전 수요가 국내 환율에 미치는 영향",
       "uncertainty": "개장가와 종가는 아직 확정되지 않은 시점의 자료",
       "score": 93.3,
-      "factsHash": "bd26f1dea5881af1c97727f77f918fcb4f754cdb1582453b55159bf64708e94e"
+      "factsHash": "bd26f1dea5881af1c97727f77f918fcb4f754cdb1582453b55159bf64708e94e",
+      "emphasis": [
+        "원·달러 종가는 1,358.4원",
+        "실제 개장가나 종가가 아니라 개장 전 참고치",
+        "실제 장중 수급"
+      ],
+      "relatedArticles": [
+        {
+          "name": "이데일리",
+          "title": "강달러·유가 급등에도 네고 물량…환율 1350원대 등락[외환브리핑]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645608984",
+          "publishedAt": "2026-10-02T08:13:59+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T08:35:09+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100200359.jpg"
+        },
+        {
+          "name": "이투데이",
+          "title": "아시아장 하락 속 유럽장이 변수⋯\"1350원 중후반 제한적 하락\" [환율전망]",
+          "url": "https://www.etoday.co.kr/news/view/2631793?trc=view_journalist_news",
+          "publishedAt": "2026-10-02T08:24:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://img.etoday.co.kr/pto_db/2026/09/20260907141105_2384258_1200_737.jpg"
+        },
+        {
+          "name": "더팩트",
+          "title": "뉴욕증시, 국채 금리·유가 경계 속 소폭 상승…엔비디아 1.09%↑",
+          "url": "https://news.tf.co.kr/read/economy/2372242.htm",
+          "publishedAt": "2026-10-02T06:59:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "verificationNote": "검색에 제공된 기사 본문으로 종가 교차 확인",
+          "imageUrl": "https://img.tf.co.kr/article/home/2026/10/02/202628201790891292.jpg"
+        }
+      ]
     },
     {
       "id": "korea-prosecution-reorganization-2026",
@@ -209,7 +324,43 @@
       "whyItMatters": "형사사건 처리 체계의 실제 변화",
       "uncertainty": "운영 안정성과 인력 충원 결과는 지켜볼 사안",
       "score": 90.75,
-      "factsHash": "744c15503baf7c75e283d4f6a9bcf91b0cce9dd95adeb79ff0dea732d5f4eb2b"
+      "factsHash": "744c15503baf7c75e283d4f6a9bcf91b0cce9dd95adeb79ff0dea732d5f4eb2b",
+      "emphasis": [
+        "공소청과 중대범죄수사청이 출범",
+        "약 1,900명, 약 66%",
+        "출범 자체와 운영의 안착은 구분"
+      ],
+      "relatedArticles": [
+        {
+          "name": "매일경제",
+          "title": "검찰청, 78년 만에 역사 속으로…공소청·중수청 시대 개막",
+          "url": "https://www.mk.co.kr/news/society/12166709",
+          "publishedAt": "2026-10-02T06:28:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        },
+        {
+          "name": "SBS",
+          "title": "오늘 공소청·중수청 출범…78년 검찰, 역사 속으로",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=ATOM&news_id=N1008779810&plink=ORI",
+          "publishedAt": "2026-10-02T06:07:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261002/202227819_1280.jpg"
+        },
+        {
+          "name": "이데일리",
+          "title": "중수청·공소청 시대 열렸지만…수장·인력 미완의 '불안한 시작'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02181206645608984",
+          "publishedAt": "2026-10-02T06:10:03+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100200189.jpg"
+        }
+      ]
     },
     {
       "id": "lguplus-optai-token-efficiency",
@@ -264,7 +415,46 @@
       "whyItMatters": "AI 서비스 원가와 인프라 효율에 대한 사용자 관심",
       "uncertainty": "최대 4배는 회사 설명이며 일반화된 독립 검증 결과가 아님",
       "score": 90.7,
-      "factsHash": "0d4847cb9934e2f651288407764ecbf63f8f2dc6367fb7f849c2b1e298638f22"
+      "factsHash": "0d4847cb9934e2f651288407764ecbf63f8f2dc6367fb7f849c2b1e298638f22",
+      "emphasis": [
+        "토큰 최적화 연구",
+        "토큰 처리량을 최대 4배",
+        "회사가 제시한 연구 성과",
+        "추가 검증과 도입 결과"
+      ],
+      "relatedArticles": [
+        {
+          "name": "머니투데이",
+          "title": "LG U+, 옵트에이아이와 토큰 최적화 기술로 AI 효율성 올린다",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/02/2026100208484549601",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "최신 검색에 제공된 기사 본문 확인; 직접 열기는 도구 오류"
+        },
+        {
+          "name": "더팩트",
+          "title": "LGU+. 옵트AI와 토큰 최적화 맞손…GPU 처리량 4배 확대",
+          "url": "https://news.tf.co.kr/read/economy/2372265.htm",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "검색에 제공된 회사 발표 인용 기사로 대조; 독립 성능검증 아님",
+          "imageUrl": "https://img.tf.co.kr/article/home/2026/10/02/202658871790898566.jpg"
+        },
+        {
+          "name": "뉴스1",
+          "title": "LGU+, AI '토큰 다이어트' 나선다…GPU 효율 최대 4배 높여",
+          "url": "https://www.news1.kr/it-science/cc-newmedia/6308426",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2026/10/2/8138660/high.jpg"
+        }
+      ]
     },
     {
       "id": "us-iran-delegation-departure-2026-09",
@@ -317,7 +507,44 @@
       "whyItMatters": "외교 보도와 실제 협상 결론을 구분할 필요",
       "uncertainty": "미국 당국자 등 취재원 설명이며 양측 공식 확정 아님",
       "score": 80.6,
-      "factsHash": "1308694109072250cb26ce9cc1b09e316fde593b7c9fafd72c9b0a74097d035d"
+      "factsHash": "1308694109072250cb26ce9cc1b09e316fde593b7c9fafd72c9b0a74097d035d",
+      "emphasis": [
+        "악시오스를 인용해",
+        "오늘 새로 벌어진 사건이 아니라",
+        "협상이 완전히 종료됐다고 판단할 수는 없으며"
+      ],
+      "relatedArticles": [
+        {
+          "name": "SBS",
+          "title": "미 국무, 협상 진전 없자 뉴욕 이란 대표단에 즉시 출국 요구",
+          "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008779753",
+          "publishedAt": "2026-10-02T01:19:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261002/202227808_1280.jpg"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "\"美국무, 협상 진전 없자 뉴욕 이란 대표단에 즉시 출국 요구\" | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261001200300071",
+          "publishedAt": "2026-10-01T23:04:06+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://img9.yna.co.kr/photo/etc/gt/2026/09/29/PGT20260929009501009_P4.jpg"
+        },
+        {
+          "name": "아시아경제",
+          "title": "트럼프 \"중간선거 뒤 이란 폭격 강화 가능\"…루비오는 대표단 출국 요구",
+          "url": "https://v.daum.net/v/20261002043945157",
+          "publishedAt": "2026-10-02T04:39:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/akn/20261002043945479jdtb.png"
+        }
+      ]
     },
     {
       "id": "naver-webtoon-toonradar-2026-09-report",
@@ -373,7 +600,45 @@
       "uncertainty": "회사 자체 분석, 전체 시장으로 일반화할 수 없음",
       "fallbackNote": "오늘 오전 9시까지 새 대형 발표를 확인하지 못해, 최근 3일 내 공개된 중요한 웹툰 산업 업데이트를 골랐습니다.",
       "score": 63.75,
-      "factsHash": "c276ec4807b0ec67d86b249882e3a853dd51f421f6b66ab7b6b249b6ab586a6b"
+      "factsHash": "c276ec4807b0ec67d86b249882e3a853dd51f421f6b66ab7b6b249b6ab586a6b",
+      "emphasis": [
+        "신규 구매 유입이 폐쇄 주에 직전 3주 평균의 7.9배",
+        "29.7% 증가",
+        "특정 작품군의 비교 결과",
+        "회사 자체 데이터 분석"
+      ],
+      "relatedArticles": [
+        {
+          "name": "네이버 공식 발표",
+          "title": "네이버웹툰, 툰레이더 리포트 공개…최신 유료 회차 방어율 99.8%",
+          "url": "https://navercorp.com/media/pressReleasesDetail?seq=10034698",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "publishedDate": "2026-09-30",
+          "imageUrl": "https://navercorp.com/img/og/OG_TAG_6_Media.png"
+        },
+        {
+          "name": "바이라인네트워크",
+          "title": "뉴토끼 셧다운 후 구매 유입 늘어…네이버웹툰 7.9배 증가",
+          "url": "https://byline.network/2026/09/30-600/",
+          "publishedAt": "2026-09-30T10:29:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        },
+        {
+          "name": "데일리안",
+          "title": "'뉴토끼' 폐쇄 이후 웹툰 신규 구매 최대 7.9배…네이버웹툰 \"불법 유통 차단 효과\"",
+          "url": "https://m.dailian.co.kr/news/view/1696098",
+          "publishedAt": "2026-09-30T10:26:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-02T11:26:26+09:00",
+          "imageUrl": "https://cdnimage.dailian.co.kr/news/202609/news_1790731518468_1696098_m_1.png"
+        }
+      ]
     }
   ],
   "events": [
@@ -455,5 +720,11 @@
       }
     }
   ],
-  "keywords": []
+  "keywords": [],
+  "updatedAt": "2026-10-02T11:26:26+09:00",
+  "overview": [
+    "물가 상승세는 완만해졌지만 생활비 부담이 사라진 것은 아닙니다. 9월 소비자물가 상승률은 2.9%로 낮아졌으나 석유류는 14.8% 올랐습니다. 미국 증시는 반도체주 기대 속에 소폭 상승했고, 원·달러 환율은 전일 종가 1,358.4원 부근의 개장 전 참고치가 나왔습니다. 유가와 금리, 실제 수급을 함께 볼 필요가 있습니다.",
+    "국내에서는 공소청·중수청 출범으로 수사와 기소를 나눠 맡는 체계가 시작됐습니다. AI 분야에서는 LG유플러스가 서버 GPU의 토큰 처리 효율을 높이는 공동 연구를 발표했지만, 최대 4배라는 수치는 회사가 설명한 성과입니다. 국제 뉴스의 이란 대표단 출국 요구 역시 관계자 인용 보도로, 협상의 최종 결론과는 구분해야 합니다.",
+    "웹툰 산업은 최근 공개된 불법 유통 차단 효과 분석을 살펴봅니다. 네이버웹툰은 특정 작품군의 신규 구매 유입이 7.9배 늘었다고 밝혔습니다. 전체 시장으로 확대해 해석하기보다 창작자 수익과 합법 이용 전환의 단서로 볼 자료입니다. 오늘 밤에는 미국 고용보고서가 금리와 달러의 주요 변수가 됩니다."
+  ]
 }
