@@ -4,6 +4,7 @@ import {PreviewCard as PreviewCardPrimitive} from '@base-ui/react/preview-card';
 import {HoverCard,HoverCardTrigger} from './ui/hover-card';
 import {Dialog,DialogContent} from './ui/dialog';
 import {ReaderHeading} from './reader-heading';
+import {NewsQuestionButton} from './news-question-button';
 import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory} from '../lib/news';
 import {combineBriefings,overviewPhrases,type NewsView,type NewsViewStory} from '../lib/news-view';
 
@@ -92,7 +93,7 @@ function NewsStories({brief}:{brief:NewsView}){
   </li>)}</ol>
   <DialogContent className="reader-dialog news-reader" showCloseButton={false} aria-describedby={undefined} initialFocus={body} finalFocus={()=>trigger.current||true}>
    {story&&<>
-    <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span></div></nav>
+    <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span><NewsQuestionButton key={story.id} brief={brief} story={story}/></div></nav>
     <div className="reader-body news-reader-body" ref={body} tabIndex={-1}>
      <NewsDetails key={story.id} story={story} brief={brief}/>
     </div>

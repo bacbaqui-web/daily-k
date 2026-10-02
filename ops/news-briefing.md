@@ -74,6 +74,8 @@
 
 ## 검증과 유지보수
 
+- 읽기 창의 ‘질문하기’는 `lib/news-question.ts`에서 현재 뉴스와 출처·미확인 상태·함께 보관한 기록을 평문으로 구성해 클립보드에 복사합니다. 사용자가 직접 ChatGPT에 붙여넣고 질문합니다. 이전 이슈 링크와 실제로 포함한 본문을 구분하며, API 호출·외부 자동 전송은 없습니다. 출처가 없는 이관 기록을 복사할 때에도 미검증 표시를 보존합니다.
+
 - `python -m unittest discover -s scripts/news -p 'test_*.py'`
 - `node --experimental-strip-types scripts/test-news.ts`
 - `python scripts/news/rebuild-issues.py --check`로 회차 원본과 이슈 기록의 일치를 확인합니다. 복구가 필요하면 `--check` 없이 실행해 이슈 파일만 재생성합니다. 회차 원본과 유머 데이터는 변경하지 않습니다.
