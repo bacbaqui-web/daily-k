@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-02",
-  "collectedAt": "2026-10-02T02:35:10.652254+00:00",
+  "collectedAt": "2026-10-02T11:36:06.361400+09:00",
   "windowEnd": "2026-10-02T11:35:10.622952+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -258,6 +258,121 @@
       "sourceTitlesFetchedAt": "2026-10-02T02:24:52.660010+00:00",
       "collectedAt": "2026-10-02T11:24:52.660022+09:00",
       "firstPublishedAt": "2026-10-02T02:24:52.672901+00:00"
+    },
+    {
+      "id": "aagag-1658793-0",
+      "url": "https://aagag.com/issue/?idx=1658793",
+      "source": "애객",
+      "title": "여자역도..21살 누나..미모..깜짝..",
+      "publishedAt": "2026-10-01T23:32:03+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Ky2yp.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KtVzQ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Ky2yu.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Ky2yw.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Ky2yy.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/Ky2yp.webp",
+        "https://i.aagag.com/o/KtVzQ.webp",
+        "https://i.aagag.com/o/Ky2yu.webp",
+        "https://i.aagag.com/o/Ky2yw.webp",
+        "https://i.aagag.com/o/Ky2yy.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 12,
+      "commentsPartial": false,
+      "kCount": 16,
+      "commentCount": 12,
+      "laughingComments": 1,
+      "score": 16,
+      "kPerComment": 1.3333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8792698",
+          "text": "흐음... 자주 올라오네.."
+        },
+        {
+          "id": "8792718",
+          "text": "애객을 줄이시면 됩니다"
+        },
+        {
+          "id": "8793889",
+          "text": "우문현답 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8792702",
+          "text": "눈썹이 꼭 B4 연필로 한획씩 그려놓은거 같이 예쁘네"
+        },
+        {
+          "id": "8792739",
+          "text": "젠데야보다 훨씬 이쁘다"
+        },
+        {
+          "id": "8792746",
+          "text": "21살이 누나...라고?"
+        },
+        {
+          "id": "8792852",
+          "text": "이쁘면 눈나"
+        },
+        {
+          "id": "8792774",
+          "text": "흉쇄유돌근을 보라... 진짜 건강하다."
+        },
+        {
+          "id": "8792776",
+          "text": "저 그립으로 부랄잡으면...ㅎㄷㄷㄷㄷ"
+        },
+        {
+          "id": "8792935",
+          "text": "심지어 인도라니 저렇게 하얀 인도 사람 거의 못 봤는데"
+        },
+        {
+          "id": "8793111",
+          "text": "인도도 땅덩이가 넓다보니 전혀 인도인같지 않은 사람들이 있더라구요 중국에도 서양인같은 외모의 백인?도 있더군요"
+        },
+        {
+          "id": "8793287",
+          "text": "북부인도 사람은 유럽계랑 거의 같아 보인다더니 전형적인 인도사람 느낌이 안드네"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-02T11:35:56.450806+09:00",
+      "sourceTitles": [
+        "여자역도..21살 누나..미모..깜짝..",
+        "예뻐서 화제라는 21살 역도선수",
+        "예뻐서 화제라는 21살 역도선수.....jpg",
+        "2005년생 이라는 인도의 여자역도선수",
+        "여자역도..21살 누나..미모..깜짝..",
+        "너무예쁜 역도선수"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-10-02T02:36:01.367712+00:00",
+      "collectedAt": "2026-10-02T11:36:01.367731+09:00",
+      "firstPublishedAt": "2026-10-02T02:36:06.363828+00:00"
     }
   ],
   "taggedPosts": [
@@ -471,9 +586,9 @@
     }
   ],
   "partialCommentPosts": 0,
-  "candidateCount": 0,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 154,
+  "collectionStatus": "complete",
+  "collectionMessage": "",
   "sources": [
     {
       "name": "애객",
