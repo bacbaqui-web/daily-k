@@ -82,7 +82,7 @@ def validate(draft, history, now=None):
         for field in ('topicKey','category','title','status','eventTimeNote','whatChanged','whyItMatters','uncertainty'):
             require(isinstance(s.get(field),str) and s[field].strip(),f'{s["id"]}: missing {field}')
         require(s['status'] in ('확정','예정','검토','보도','주장','분석'),'Invalid fact status')
-        require(isinstance(s.get('summary'),list) and 2<=len(s['summary'])<=4 and all(isinstance(p,str) and len(p.strip())>=15 for p in s['summary']),'Use 2–4 short explanatory paragraphs')
+        require(isinstance(s.get('summary'),list) and 2<=len(s['summary'])<=6 and all(isinstance(p,str) and len(p.strip())>=15 for p in s['summary']),'Use 2–6 explanatory paragraphs')
         emphasis=s.get('emphasis',[])
         require(isinstance(emphasis,list) and 1<=len(emphasis)<=6 and all(isinstance(p,str) and p.strip() and any(p in paragraph for paragraph in s['summary']) for p in emphasis),'Emphasis must select 1–6 actual phrases from the summary')
         require(isinstance(s.get('keyFacts'),dict) and len(s['keyFacts'])>=2 and all(isinstance(v,str) and v for v in s['keyFacts'].values()),'Missing comparable factual data')
