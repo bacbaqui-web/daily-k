@@ -57,4 +57,5 @@ export function emphasisParts(text:string,phrases:string[]=[]):{text:string;bold
  return parts;
 }
 export function newsLink(date:string,edition:Edition,archive=false,storyId?:string){return `/daily-k/?tab=news&date=${encodeURIComponent(date)}&edition=${edition}${archive?'&archive=1':''}${storyId?`&story=${encodeURIComponent(storyId)}`:''}`}
+export function newsShareUrl(date:string,edition:Edition,storyId:string){return new URL(newsLink(date,edition,false,storyId),'https://bacbaqui-web.github.io').href}
 export function koreaTime(value:string){return new Intl.DateTimeFormat('ko-KR',{timeZone:'Asia/Seoul',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(value))}
