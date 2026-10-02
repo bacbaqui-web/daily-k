@@ -72,6 +72,10 @@ class PublishingTests(unittest.TestCase):
         for phrases in [[],['본문에 없는 강조 문구']]:
             b=fixture();b['stories'][0]['emphasis']=phrases
             with self.assertRaisesRegex(ValueError,'Emphasis'):validate(b,[],NOW)
+    def test_overview_emphasis_must_be_existing_text(self):
+        b=fixture();b['overviewEmphasis']=['주요 변화','앞으로 확인할 변수'];validate(b,[],NOW)
+        b['overviewEmphasis']=['발표하지 않은 새로운 사실']
+        with self.assertRaisesRegex(ValueError,'Overview emphasis'):validate(b,[],NOW)
     def test_related_article_revision_keeps_original_generation_time(self):
         b=fixture();b['updatedAt']='2026-10-02T20:00:00+09:00'
         for story in b['stories']:

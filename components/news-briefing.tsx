@@ -1,8 +1,11 @@
 'use client';
-import {useEffect,useRef,useState} from 'react';
+import {useEffect,useMemo,useRef,useState,type ReactNode} from 'react';
+import {PreviewCard as PreviewCardPrimitive} from '@base-ui/react/preview-card';
+import {HoverCard,HoverCardTrigger} from './ui/hover-card';
 import {Dialog,DialogContent} from './ui/dialog';
 import {ReaderHeading} from './reader-heading';
-import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsBrief,type NewsIndex,type NewsSource} from '../lib/news';
+import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory} from '../lib/news';
+import {combineBriefings,overviewPhrases,type NewsView,type NewsViewStory} from '../lib/news-view';
 
 function ArticleImage({item}:{item:NewsSource}){
  const [failed,setFailed]=useState(false);
@@ -24,10 +27,43 @@ function Sources({items,related=[],archived=false}:{items:NewsSource[];related?:
 function Emphasis({text,phrases}:{text:string;phrases?:string[]}){
  return <>{emphasisParts(text,phrases).map((part,i)=>part.bold?<strong key={i}>{part.text}</strong>:part.text)}</>;
 }
-function NewsStories({brief}:{brief:NewsBrief}){
+function NewsRecord({story,brief}:{story:NewsStory;brief:NewsView}){
+ return <>
+  {story.followUp&&<p className="news-change">{story.followUp.delta}</p>}{story.fallbackNote&&<p className="news-fallback">{story.fallbackNote}</p>}
+  {story.summary.map((p,j)=><p key={`${story.id}-${j}`}><Emphasis text={p} phrases={story.emphasis}/></p>)}
+  {story.archive?<>
+   <details className="news-archive-detail"><summary>출처·기록 정보</summary><p>이전 ChatGPT 브리핑에서 옮긴 기록이며, 기사 원문으로 전체 내용을 재검증한 상태는 아닙니다.</p><p>{story.archive.sourceNames.length?`당시 적힌 출처: ${story.archive.sourceNames.join(' · ')} · 기사 URL 없음`:'원본 기록에 기사 출처·URL이 남아 있지 않습니다.'}</p><p>{brief.date} {brief.edition==='am'?'오전':'오후'} · 정확한 작성·사건 시각 미상</p>{story.archive.reviewNote&&<p>{story.archive.reviewNote}</p>}</details>
+   {story.archive.previousCoverage&&<a className="news-previous-record" href={newsLink(story.archive.previousCoverage.date,story.archive.previousCoverage.edition,false,story.archive.previousCoverage.storyId)}>앞선 같은 이슈 · {story.archive.previousCoverage.date} {story.archive.previousCoverage.edition==='am'?'오전':'오후'}<br/>{story.archive.previousCoverage.title} →</a>}
+   {!!story.relatedArticles?.length&&<Sources items={[]} related={story.relatedArticles} archived/>}
+  </>:<><p className="news-event-time">사건·발표: {story.eventTimeNote}</p><Sources items={story.sources} related={story.relatedArticles}/></>}
+ </>;
+}
+function NewsDetails({story,brief}:{story:NewsViewStory;brief:NewsView}){
+ return <><NewsRecord key={story.id} story={story} brief={brief}/>{story.additionalRecords.length>0&&<details className="news-additional-records"><summary>함께 보관한 내용 {story.additionalRecords.length}건</summary>{story.additionalRecords.map(s=><div className="news-additional-record" key={s.id}><h3>{s.title}</h3><NewsRecord story={s} brief={brief}/></div>)}</details>}</>;
+}
+function NewsPreview({story,brief,disabled,onOpen,children}:{story:NewsViewStory;brief:NewsView;disabled:boolean;onOpen:(button:HTMLElement)=>void;children:ReactNode}){
+ const [open,setOpen]=useState(false),[canHover,setCanHover]=useState(false);
+ const [pointer,setPointer]=useState<{x:number;y:number;element:HTMLElement|null}>({x:0,y:0,element:null});
+ const anchor=useMemo(()=>({getBoundingClientRect:()=>new DOMRect(pointer.x,pointer.y,0,0),contextElement:pointer.element||undefined}),[pointer]);
+ useEffect(()=>{const media=matchMedia('(hover: hover) and (pointer: fine)');const sync=()=>setCanHover(media.matches);sync();media.addEventListener('change',sync);return()=>media.removeEventListener('change',sync)},[]);
+ useEffect(()=>{if(disabled)setOpen(false)},[disabled]);
+ useEffect(()=>{if(!open)return;const close=()=>setOpen(false);window.addEventListener('scroll',close,{passive:true});window.addEventListener('resize',close);return()=>{window.removeEventListener('scroll',close);window.removeEventListener('resize',close)}},[open]);
+ const visible=open&&canHover&&!disabled;
+ return <HoverCard open={visible} onOpenChange={value=>setOpen(value&&canHover&&!disabled)}>
+  <HoverCardTrigger render={<button type="button"/>} delay={400} closeDelay={180} className="post-top news-story-trigger" aria-haspopup="dialog" aria-labelledby={`news-${story.id}`}
+   onPointerEnter={e=>{if(e.pointerType==='mouse')setPointer({x:e.currentTarget.getBoundingClientRect().right,y:e.clientY,element:e.currentTarget})}}
+   onPointerMove={e=>{if(e.pointerType==='mouse')setPointer({x:e.currentTarget.getBoundingClientRect().right,y:e.clientY,element:e.currentTarget})}}
+   onFocus={e=>{const rect=e.currentTarget.getBoundingClientRect();setPointer({x:rect.right,y:rect.top+rect.height/2,element:e.currentTarget})}}
+   onClick={e=>{setOpen(false);onOpen(e.currentTarget)}}>{children}</HoverCardTrigger>
+  <PreviewCardPrimitive.Portal><PreviewCardPrimitive.Positioner anchor={anchor} positionMethod="fixed" side="right" align="center" sideOffset={14} collisionPadding={12} collisionAvoidance={{side:'shift',align:'shift'}} className="preview-positioner">
+   <PreviewCardPrimitive.Popup className="news-preview" aria-label="뉴스 미리보기">{visible&&<><div className="news-preview-heading"><span>{story.category} · {story.status}</span><h3>{story.title}</h3></div><NewsDetails story={story} brief={brief}/><p className="preview-hint">뉴스를 누르면 읽기 창이 열립니다.</p></>}</PreviewCardPrimitive.Popup>
+  </PreviewCardPrimitive.Positioner></PreviewCardPrimitive.Portal>
+ </HoverCard>;
+}
+function NewsStories({brief}:{brief:NewsView}){
  const [active,setActive]=useState<number|null>(null);
- useEffect(()=>{const id=new URLSearchParams(location.search).get('story');const at=brief.stories.findIndex(s=>s.id===id);if(at>=0)setActive(at)},[brief.id]);
- const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLButtonElement|null>(null);
+ useEffect(()=>{const id=new URLSearchParams(location.search).get('story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id]);
+ const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLElement|null>(null);
  const story=active===null?null:brief.stories[active];
  function move(delta:number){setActive(current=>current===null?null:current+delta>=brief.stories.length?null:Math.max(0,current+delta))}
  useEffect(()=>{body.current?.scrollTo({top:0,behavior:'instant'})},[active]);
@@ -49,23 +85,16 @@ function NewsStories({brief}:{brief:NewsBrief}){
  },[active,brief.stories.length]);
  return <Dialog open={story!==null} disablePointerDismissal={false} onOpenChange={open=>{if(!open)setActive(null)}}>
   <ol className="posts news-stories">{brief.stories.map((s,i)=><li key={s.id}>
-   <button type="button" className="post-top news-story-trigger" aria-haspopup="dialog" aria-labelledby={`news-${s.id}`} onClick={event=>{trigger.current=event.currentTarget;setActive(i)}}>
+   <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(i)}}>
     <span className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</span>
     <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span></span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span><span className="news-story-summary">{s.summary[0]}</span></span>
-   </button>
+   </NewsPreview>
   </li>)}</ol>
   <DialogContent className="reader-dialog news-reader" showCloseButton={false} aria-describedby={undefined} initialFocus={body} finalFocus={()=>trigger.current||true}>
    {story&&<>
     <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span></div></nav>
     <div className="reader-body news-reader-body" ref={body} tabIndex={-1}>
-     {story.followUp&&<p className="news-change">{story.followUp.delta}</p>}{story.fallbackNote&&<p className="news-fallback">{story.fallbackNote}</p>}
-     {story.summary.map((p,j)=><p key={`${story.id}-${j}`}><Emphasis text={p} phrases={story.emphasis}/></p>)}
-     {story.archive?<>
-      <div className="news-archive-detail"><p>이전 ChatGPT 브리핑에서 옮긴 기록입니다. 기사 원문으로 전체 내용을 재검증한 상태는 아닙니다.</p><p>{story.archive.sourceNames.length?`당시 적힌 출처: ${story.archive.sourceNames.join(' · ')} · 기사 URL 없음`:'원본 기록에 기사 출처·URL이 남아 있지 않습니다.'}</p><p>기록 날짜: {brief.date} {brief.edition==='am'?'오전':'오후'} · 정확한 작성·사건 시각 미상</p>{story.timeline&&<p>연결한 이슈: {story.timeline.issueTitle}</p>}{story.archive.reviewNote&&<p>{story.archive.reviewNote}</p>}
-       {story.archive.previousCoverage&&<a href={newsLink(story.archive.previousCoverage.date,story.archive.previousCoverage.edition,true,story.archive.previousCoverage.storyId)}>앞선 같은 이슈 기록 · {story.archive.previousCoverage.date} {story.archive.previousCoverage.edition==='am'?'오전':'오후'}<br/>{story.archive.previousCoverage.title} →</a>}
-      </div>
-      {!!story.relatedArticles?.length&&<Sources key={story.id} items={[]} related={story.relatedArticles} archived/>}
-     </>:<><p className="news-event-time">사건·발표: {story.eventTimeNote}</p><Sources key={story.id} items={story.sources} related={story.relatedArticles}/></>}
+     <NewsDetails key={story.id} story={story} brief={brief}/>
     </div>
    </>}
   </DialogContent>
@@ -73,44 +102,43 @@ function NewsStories({brief}:{brief:NewsBrief}){
 }
 export function NewsBriefing(){
  const [index,setIndex]=useState<NewsIndex|null>(null),[date,setDate]=useState(''),[edition,setEdition]=useState<Edition>('am');
- const [brief,setBrief]=useState<NewsBrief|null>(null),[error,setError]=useState(''),[loading,setLoading]=useState(true),[retry,setRetry]=useState(0);
- const [archiveChoice,setArchiveChoice]=useState(false);
+ const [brief,setBrief]=useState<NewsView|null>(null),[error,setError]=useState(''),[loading,setLoading]=useState(true),[retry,setRetry]=useState(0);
  useEffect(()=>{
   const controller=new AbortController();let initialized=false;
   async function load(){try{
    const r=await fetch('/daily-k/data/news/index.json',{cache:'no-store',signal:controller.signal});
    if(!r.ok)throw Error();const v:unknown=await r.json();if(!isNewsIndex(v))throw Error();
    if(controller.signal.aborted)return;setIndex(v);
-   if(!initialized){const q=new URLSearchParams(location.search);const latest=v.editions[0];const requested=q.get('date');setDate(requested&&/^\d{4}-\d{2}-\d{2}$/.test(requested)?requested:latest?.date||'');setEdition(q.get('edition')==='pm'?'pm':q.get('edition')==='am'?'am':latest?.edition||'am');setArchiveChoice(q.get('archive')==='1');initialized=true}setError('');
+   if(!initialized){const q=new URLSearchParams(location.search);const latest=v.editions[0];const requested=q.get('date');setDate(requested&&/^\d{4}-\d{2}-\d{2}$/.test(requested)?requested:latest?.date||'');setEdition(q.get('edition')==='pm'?'pm':q.get('edition')==='am'?'am':latest?.edition||'am');initialized=true}setError('');
   }catch{if(!controller.signal.aborted){setError('브리핑 목록을 불러오지 못했습니다.');setLoading(false)}}}
   void load();const timer=window.setInterval(load,60000);return()=>{controller.abort();clearInterval(timer)};
  },[retry]);
  const editions=index?.editions.filter(e=>e.date===date&&e.edition===edition)||[];
- const entry=editions.find(e=>!!e.archive===archiveChoice)||editions[0];
- const path=entry?.path,version=index?.updatedAt||entry?.generatedAt;
+ const entriesKey=editions.map(e=>`${e.id}:${e.path}`).join('|'),version=index?.updatedAt;
  useEffect(()=>{
   if(!index)return;setBrief(null);setError('');
-  if(!path){setLoading(false);return}setLoading(true);const controller=new AbortController();
-  void (async()=>{try{const r=await fetch(`/daily-k/data/news/${path}`,{cache:'no-store',signal:controller.signal});if(!r.ok)throw Error();const v:unknown=await r.json();if(!isNewsBrief(v)||v.id!==entry?.id||v.date!==date||v.edition!==edition)throw Error();if(!controller.signal.aborted)setBrief(v)}catch{if(!controller.signal.aborted)setError('브리핑을 불러오지 못했습니다.')}finally{if(!controller.signal.aborted)setLoading(false)}})();return()=>controller.abort();
- },[path,version,date,edition,retry,!!index]);
+  if(!editions.length){setLoading(false);return}setLoading(true);const controller=new AbortController();
+  void (async()=>{try{
+   const parts=await Promise.all(editions.map(async entry=>{const r=await fetch(`/daily-k/data/news/${entry.path}`,{cache:'no-store',signal:controller.signal});if(!r.ok)throw Error();const v:unknown=await r.json();if(!isNewsBrief(v)||v.id!==entry.id||v.date!==date||v.edition!==edition)throw Error();return v}));
+   if(!controller.signal.aborted)setBrief(combineBriefings(parts));
+  }catch{if(!controller.signal.aborted)setError('브리핑을 불러오지 못했습니다.')}finally{if(!controller.signal.aborted)setLoading(false)}})();return()=>controller.abort();
+ },[entriesKey,version,date,edition,retry,!!index]);
  const dates=[...new Set(index?.editions.map(e=>e.date)||[])].sort().reverse();
  const previous=dates.find(d=>d<date),next=[...dates].reverse().find(d=>d>date);
- function choose(d:string,e:Edition,archived=archiveChoice){if(d!==date||e!==edition||archived!==archiveChoice){setBrief(null);setLoading(true)}setDate(d);setEdition(e);setArchiveChoice(archived);history.replaceState(null,'',newsLink(d,e,archived))}
+ function choose(d:string,e:Edition){if(d!==date||e!==edition){setBrief(null);setLoading(true)}setDate(d);setEdition(e);history.replaceState(null,'',newsLink(d,e))}
  return <section className="news" aria-label="한국어 뉴스 브리핑">
-  <div className="news-controls">
+  <div className="news-controls news-controls-inline" role="group" aria-label="브리핑 날짜와 시간">
    <button className="news-date-arrow" aria-label="이전 브리핑 날짜" disabled={!previous} onClick={()=>previous&&choose(previous,edition)}>←</button>
-   <div className="news-date-selection"><label><span className="sr-only">브리핑 날짜</span><input type="date" value={date} onChange={e=>e.target.value&&choose(e.target.value,edition)}/></label>
-    <div className="news-editions" role="group" aria-label="브리핑 시간">{(['am','pm'] as const).map(e=><button key={e} aria-pressed={edition===e} onClick={()=>choose(date,e)}>{e==='am'?'오전':'오후'}</button>)}</div>
-   </div>
+   <button className="news-edition-button" aria-pressed={edition==='am'} onClick={()=>choose(date,'am')}>오전</button>
+   <label className="news-date-selection"><span className="sr-only">브리핑 날짜</span><input type="date" value={date} onChange={e=>e.target.value&&choose(e.target.value,edition)}/></label>
+   <button className="news-edition-button" aria-pressed={edition==='pm'} onClick={()=>choose(date,'pm')}>오후</button>
    <button className="news-date-arrow" aria-label="다음 브리핑 날짜" disabled={!next} onClick={()=>next&&choose(next,edition)}>→</button>
   </div>
-  {editions.length>1&&<div className="news-versions" role="group" aria-label="같은 회차의 브리핑">{editions.map(e=><button key={e.id} aria-pressed={entry?.id===e.id} onClick={()=>choose(date,edition,!!e.archive)}>{e.archive?'이전 ChatGPT 기록':'사이트 브리핑'}</button>)}</div>}
   {loading?<p className="news-message" role="status">브리핑을 불러오고 있습니다.</p>:error?<div className="news-message" role="alert"><p>{error}</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:!brief?<div className="news-message"><h2>아직 발행된 브리핑이 없습니다</h2><p>선택한 날짜의 {editionLabel(edition)}이 발행되면 여기에 표시됩니다.</p></div>:<>
-   {brief.archive&&<p className="news-archive-notice">이전 ChatGPT 기록 · 당시 기록을 보존한 자료이며, 기사 전체를 다시 검증한 브리핑은 아닙니다.</p>}
-   <div className="news-intro"><h1>전체 뉴스 요약</h1>{(brief.overview||[brief.intro]).map((p,i)=><p key={i}>{p}</p>)}<div className="news-time">{brief.archive?<><span>원래 작성 시각 미상</span><span>옮긴 시각 {koreaTime(brief.archive.importedAt)}</span></>:<><span>기사 기준 {brief.cutoffAt&&koreaTime(brief.cutoffAt)}</span><span>생성 {koreaTime(brief.generatedAt)}</span></>}<a href={`/daily-k/data/news/${path}`} target="_blank" rel="noopener noreferrer">JSON ↗</a></div></div>
+   <div className="news-intro"><h1>전체 뉴스 요약</h1>{(brief.overview||[brief.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(brief)}/></p>)}{brief.cutoffAt&&<div className="news-time"><span>기사 기준 {koreaTime(brief.cutoffAt)}</span><span>생성 {koreaTime(brief.generatedAt)}</span></div>}</div>
    <NewsStories key={brief.id} brief={brief}/>
    {brief.edition==='pm'&&brief.keywords.length>0&&<section className="news-closing"><h2>오늘의 핵심 키워드</h2><p className="news-keywords">{brief.keywords.join(' · ')}</p></section>}
-   {!!brief.archive?.watchItems.length&&<section className="news-closing"><h2>당시 주목 변수</h2><ul>{brief.archive.watchItems.map(item=><li key={item}>{item}</li>)}</ul></section>}
+   {brief.watchItems.length>0&&brief.events.length===0&&<section className="news-closing"><h2>주목할 변수</h2><ul>{brief.watchItems.map(item=><li key={item}>{item}</li>)}</ul></section>}
    {brief.events.length>0&&<section className="news-closing"><h2>{brief.edition==='am'?'오늘 일정·시장 변수':'내일 주목할 변수'}</h2><ul className="news-events">{brief.events.map((e,i)=><li key={i}><span>{e.at?koreaTime(e.at):`${e.date} · ${e.timeNote||'시각 미확인'}`}</span><h3>{e.title}</h3><p>{e.detail}</p><a href={e.source.url} target="_blank" rel="noopener noreferrer">확인: {e.source.name} ↗</a></li>)}</ul><small>모든 시각은 한국시간입니다. 일정은 주최 측 사정에 따라 바뀔 수 있습니다.</small></section>}
   </>}
  </section>;

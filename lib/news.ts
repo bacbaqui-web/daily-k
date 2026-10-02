@@ -16,7 +16,7 @@ export type NewsStory = {
  timeline?:NewsTimeline;
 };
 export type NewsEvent = {title:string;at:string|null;date:string;timeNote?:string;detail:string;source:NewsSource};
-export type NewsBrief = {schemaVersion:1;id:string;date:string;edition:Edition;timezone:'Asia/Seoul';cutoffAt:string|null;generatedAt:string;updatedAt?:string;intro:string;overview?:string[];stories:NewsStory[];events:NewsEvent[];keywords:string[];archive?:NewsArchive};
+export type NewsBrief = {schemaVersion:1;id:string;date:string;edition:Edition;timezone:'Asia/Seoul';cutoffAt:string|null;generatedAt:string;updatedAt?:string;intro:string;overview?:string[];overviewEmphasis?:string[];stories:NewsStory[];events:NewsEvent[];keywords:string[];archive?:NewsArchive};
 export type NewsEntry = {id:string;date:string;edition:Edition;generatedAt:string;cutoffAt:string|null;count:number;path:string;headline:string;archive?:true};
 export type NewsIndex = {schemaVersion:1;timezone:'Asia/Seoul';updatedAt:string|null;editions:NewsEntry[]};
 export const editionLabel = (edition:Edition)=>edition==='am'?'오전 브리핑':'저녁 브리핑';
@@ -39,6 +39,8 @@ export function isNewsIndex(v:unknown):v is NewsIndex{
 }
 export function isNewsBrief(v:unknown):v is NewsBrief{
  if(!object(v))return false;const archived=v.archive!==undefined;
+ const overview=v.overview;
+ if(v.overviewEmphasis!==undefined&&(!strings(v.overviewEmphasis)||!strings(overview)||!v.overviewEmphasis.every(p=>p.trim()&&overview.some(text=>text.includes(p)))))return false;
  return v.schemaVersion===1&&v.timezone==='Asia/Seoul'&&dateValue(v.date)&&['am','pm'].includes(String(v.edition))&&v.id===`${v.date}-${v.edition}${archived?'-archive':''}`&&(archived?archiveMetadata(v.archive)&&v.cutoffAt===null:time(v.cutoffAt))&&time(v.generatedAt)&&(v.updatedAt===undefined||time(v.updatedAt))&&typeof v.intro==='string'&&(v.overview===undefined||(strings(v.overview)&&v.overview.length>0))&&strings(v.keywords)&&Array.isArray(v.events)&&v.events.every(e=>object(e)&&typeof e.title==='string'&&typeof e.detail==='string'&&typeof e.date==='string'&&(e.at===null||time(e.at))&&source(e.source))&&Array.isArray(v.stories)&&v.stories.length>=(archived?1:5)&&(archived||v.stories.length<=10)&&v.stories.every(s=>object(s)&&typeof s.id==='string'&&typeof s.title==='string'&&typeof s.category==='string'&&typeof s.status==='string'&&typeof s.eventTimeNote==='string'&&strings(s.summary)&&(s.emphasis===undefined||strings(s.emphasis))&&(s.relatedArticles===undefined||(Array.isArray(s.relatedArticles)&&s.relatedArticles.length<=3&&s.relatedArticles.every(source)))&&Array.isArray(s.sources)&&(archived?archiveStory(s.archive)&&s.publishedAt===null&&s.status==='과거 기록':s.archive===undefined&&s.sources.length>0)&&s.sources.every(source)&&(!s.followUp||(object(s.followUp)&&typeof s.followUp.delta==='string')));
 }
 // Keep summaries as plain text for deduplication; only explicitly selected phrases get emphasis.

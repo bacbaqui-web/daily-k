@@ -72,6 +72,8 @@ def validate(draft, history, now=None):
     require(b.get('id')==f"{b['date']}-{b['edition']}",'Invalid edition ID')
     require(isinstance(b.get('intro'),str) and b['intro'].strip(),'Missing intro')
     require(isinstance(b.get('overview'),list) and 2<=len(b['overview'])<=4 and all(isinstance(p,str) and len(p.strip())>=15 for p in b['overview']),'Provide 2–4 overview paragraphs covering the full edition')
+    if 'overviewEmphasis' in b:
+        require(isinstance(b['overviewEmphasis'],list) and 1<=len(b['overviewEmphasis'])<=12 and all(isinstance(p,str) and p.strip() and any(p in paragraph for paragraph in b['overview']) for p in b['overviewEmphasis']),'Overview emphasis must use 1–12 exact phrases from overview')
     updated=timestamp(b.get('updatedAt',b['generatedAt']))
     require(generated<=updated<=(now or datetime.now(KST))+timedelta(minutes=5),'Invalid presentation update time')
     stories=b['stories']; require(5<=len(stories)<=10,'Must contain 5–10 stories')
