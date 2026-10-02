@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "lguplus-optai-token-efficiency",
+  "title": "LG유플러스·옵트에이아이 토큰 최적화 연구",
+  "entries": [
+    {
+      "id": "2026-10-02-am/lguplus-optai-token-efficiency",
+      "editionId": "2026-10-02-am",
+      "storyId": "lguplus-optai-token-efficiency",
+      "editionDate": "2026-10-02",
+      "edition": "am",
+      "coveredAt": "2026-10-02T11:05:30+09:00",
+      "publishedAt": "2026-10-02T09:00:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "2026-10-02 협력 발표 · 공동 세미나는 10-01 개최",
+      "stage": "발표",
+      "change": "양사가 공동 연구를 서버 GPU로 확대하고 토큰 처리량 최대 4배 성과를 설명했습니다. 독립 검증과 실제 도입 결과는 미확인입니다.",
+      "title": "LG유플러스, AI 연산 효율 공동 연구…서버 GPU로 범위 확대",
+      "category": "기술·IT·AI",
+      "status": "보도",
+      "summary": [
+        "LG유플러스가 옵트에이아이와 AI 운영에 드는 자원을 줄이는 토큰 최적화 연구를 진행한다고 10월 2일 밝혔습니다. 토큰은 AI가 질문과 답변을 처리할 때 나누어 읽는 데이터 단위입니다.",
+        "양사는 기기 안에서 AI를 돌리는 기술에 이어 서버 GPU 환경으로 연구 범위를 넓히며, 같은 GPU의 토큰 처리량을 최대 4배 높였다고 설명했습니다. 이는 회사가 제시한 연구 성과로, 모든 서비스에서 비용이 곧바로 4분의 1이 된다는 의미는 아닙니다.",
+        "AI 서비스가 늘수록 칩 확보뿐 아니라 같은 장비로 더 많은 요청을 처리하는 능력이 중요해집니다. 실제 서비스 적용 범위와 조건별 성능, 비용 절감 효과는 추가 검증과 도입 결과를 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "announcement": "2026-10-02",
+        "scope": "서버 GPU로 공동 연구 확대",
+        "companyClaim": "토큰 처리량 최대 4배"
+      },
+      "uncertainty": "최대 4배는 회사 설명이며 일반화된 독립 검증 결과가 아님",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "title": "LG U+, 옵트에이아이와 토큰 최적화 기술로 AI 효율성 올린다",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/02/2026100208484549601",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "최신 검색에 제공된 기사 본문 확인; 직접 열기는 도구 오류"
+        },
+        {
+          "name": "더팩트",
+          "title": "LGU+. 옵트AI와 토큰 최적화 맞손…GPU 처리량 4배 확대",
+          "url": "https://news.tf.co.kr/read/economy/2372265.htm",
+          "publishedAt": "2026-10-02T09:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "verificationNote": "검색에 제공된 회사 발표 인용 기사로 대조; 독립 성능검증 아님"
+        }
+      ],
+      "briefingPath": "2026-10-02/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-02T11:48:06+09:00"
+}

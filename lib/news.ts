@@ -1,10 +1,17 @@
 export type Edition = 'am' | 'pm';
 export type NewsSource = {name:string;title:string;url:string;language:string;publishedAt:string|null;verifiedAt:string;kind:string;imageUrl?:string|null};
+export type NewsReference = {editionId:string;storyId:string};
+export type NewsTimeline = {
+ issueId:string;issueTitle:string;eventDate:string|null;eventEndDate:string|null;eventTimezone:string|null;
+ stage:'예정'|'발표'|'검토'|'확정'|'시행'|'결과'|'후속'|'보도'|'분석'|'정정'|'철회';change:string;
+ correctionOf?:NewsReference;
+};
 export type NewsStory = {
  id:string;topicKey:string;category:string;title:string;summary:string[];status:string;
  publishedAt:string;eventAt:string|null;eventTimeNote:string;whatChanged:string;whyItMatters:string;uncertainty:string;
  keyFacts:Record<string,string>;sources:NewsSource[];score:number;
  followUp?:{editionId:string;storyId:string;delta:string};fallbackNote?:string;emphasis?:string[];relatedArticles?:NewsSource[];
+ timeline?:NewsTimeline;
 };
 export type NewsEvent = {title:string;at:string|null;date:string;timeNote?:string;detail:string;source:NewsSource};
 export type NewsBrief = {schemaVersion:1;id:string;date:string;edition:Edition;timezone:'Asia/Seoul';cutoffAt:string;generatedAt:string;updatedAt?:string;intro:string;overview?:string[];stories:NewsStory[];events:NewsEvent[];keywords:string[]};

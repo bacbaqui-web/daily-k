@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "usdkrw-oil-export-flows",
+  "title": "유가와 수출기업 수급에 따른 원·달러 환율",
+  "entries": [
+    {
+      "id": "2026-10-02-am/usdkrw-2026-10-02-morning",
+      "editionId": "2026-10-02-am",
+      "storyId": "usdkrw-2026-10-02-morning",
+      "editionDate": "2026-10-02",
+      "edition": "am",
+      "coveredAt": "2026-10-02T11:05:30+09:00",
+      "publishedAt": "2026-10-02T08:13:59+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-01",
+      "eventEndDate": "2026-10-02",
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "2026-10-01 서울 외환시장 종가 및 10-02 개장 전 역외시장 정보",
+      "stage": "결과",
+      "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다.",
+      "title": "원·달러 환율, 전일 1,358.4원…유가와 수출기업 달러 매도가 변수",
+      "category": "환율·금리",
+      "status": "확정",
+      "summary": [
+        "10월 1일 서울 외환시장의 원·달러 종가는 1,358.4원이었습니다. 밤사이 역외 1개월물은 1,357.50원에 최종 호가됐고, 금리 차이를 반영한 환산값은 1,358.20원으로 전일 종가와 비슷했습니다.",
+        "이 환산값은 10월 2일 국내 시장의 실제 개장가나 종가가 아니라 개장 전 참고치입니다. 이데일리는 수출기업이 달러를 원화로 바꾸는 매도 물량과 수입업체의 달러 매수가 맞서는 흐름을 예상했습니다.",
+        "유가 상승은 에너지 수입 비용을 높이는 요인이지만, 반도체 수출기업의 달러 매도는 반대 방향으로 작용할 수 있습니다. 따라서 달러 강세만 보고 원화 방향을 단정하기보다 실제 장중 수급을 함께 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "previousClose": "1358.4원",
+        "ndfQuote": "1357.50원",
+        "convertedReference": "1358.20원",
+        "referenceType": "개장 전 참고치"
+      },
+      "uncertainty": "개장가와 종가는 아직 확정되지 않은 시점의 자료",
+      "sources": [
+        {
+          "name": "이데일리",
+          "title": "강달러·유가 급등에도 네고 물량…환율 1350원대 등락[외환브리핑]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645608984",
+          "publishedAt": "2026-10-02T08:13:59+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T11:05:30+09:00",
+          "updatedAt": "2026-10-02T08:35:09+09:00"
+        }
+      ],
+      "briefingPath": "2026-10-02/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-02T11:48:06+09:00"
+}

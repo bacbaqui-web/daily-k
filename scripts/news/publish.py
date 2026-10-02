@@ -12,6 +12,7 @@ import re
 import subprocess
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 from zoneinfo import ZoneInfo
+from timeline import build_timelines, same_issue, validate_timeline
 
 KST = ZoneInfo('Asia/Seoul')
 ROOT = Path(__file__).resolve().parents[2]
@@ -106,7 +107,7 @@ def validate(draft, history, now=None):
         if s.get('eventAt'): timestamp(s['eventAt'])
         # Same-edition duplicates are never allowed.
         require(not any(duplicate(s,p) for p in stories[:i]),'Duplicate topics inside this edition')
-        matches=[(old,p) for old,p in prior if duplicate(s,p)]
+        matches=[(old,p) for old,p in prior if duplicate(s,p) or same_issue(s,p)]
         follow=s.get('followUp')
         if matches or follow:
             require(isinstance(follow,dict) and len(follow.get('delta','').strip())>=15,'Repeated topic needs a substantive follow-up delta')
@@ -117,6 +118,7 @@ def validate(draft, history, now=None):
             require(normalized(' '.join(s['summary']))!=normalized(' '.join(p['summary'])),'Repeated wording')
             require(fingerprint(s['keyFacts'])!=fingerprint(p['keyFacts']),'No new numbers, result or position')
             require(any(source.get('publishedAt') and timestamp(source['publishedAt'])>timestamp(old['cutoffAt']) for source in s['sources']),'Follow-up needs new evidence after prior cutoff')
+        validate_timeline(s,prior,cutoff)
         c=s.get('scoreComponents',{})
         c['recency']=recency_score(published,cutoff,b['edition'])
         require(all(isinstance(c.get(k),(int,float)) and 0<=c[k]<=100 for k in WEIGHTS),'Scores must be 0–100')
@@ -146,6 +148,7 @@ def publish(draft, root=ROOT, check=False):
     history=[json.loads(p.read_text()) for p in sorted(base.glob('????-??-??/*.json'))]
     require(not any(h['id']==draft['id'] for h in history),'Edition already published; never overwrite an archive silently')
     b=validate(draft,history)
+    timelines=build_timelines(history+[b])
     if check:return b,[]
     rel=f"{b['date']}/{b['edition']}.json"
     def entry(v):return {'id':v['id'],'date':v['date'],'edition':v['edition'],'generatedAt':v['generatedAt'],'cutoffAt':v['cutoffAt'],'count':len(v['stories']),'path':f"{v['date']}/{v['edition']}.json",'headline':v['stories'][0]['title']}
@@ -153,7 +156,7 @@ def publish(draft, root=ROOT, check=False):
     paths=[]
     # Write edition before its manifest, so readers never see a dangling entry.
     for folder in ('public/data/news','docs/data/news'):
-        for relative,data in ((rel,b),('index.json',index)):
+        for relative,data in [(rel,b),*timelines.items(),('index.json',index)]:
             path=root/folder/relative;write_json(path,data);paths.append(str(path.relative_to(root)))
     return b,paths
 

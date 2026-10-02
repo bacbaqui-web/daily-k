@@ -89,7 +89,16 @@
           "kind": "major",
           "verifiedAt": "2026-10-02T11:26:26+09:00"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "korea-consumer-prices",
+        "issueTitle": "한국 소비자물가와 생활비 부담",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "9월 소비자물가 상승률은 2.9%로 낮아졌지만 석유류는 14.8% 상승해 생활비 부담이 이어졌습니다."
+      }
     },
     {
       "id": "us-market-2026-10-01",
@@ -185,7 +194,16 @@
           "kind": "major",
           "verifiedAt": "2026-10-02T11:26:26+09:00"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": "2026-10-01",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "결과",
+        "change": "미국 10월 첫 거래일은 반도체 실적 기대 속에 소폭 상승 마감했지만 금리와 유가 부담이 남았습니다."
+      }
     },
     {
       "id": "usdkrw-2026-10-02-morning",
@@ -270,7 +288,16 @@
           "verificationNote": "검색에 제공된 기사 본문으로 종가 교차 확인",
           "imageUrl": "https://img.tf.co.kr/article/home/2026/10/02/202628201790891292.jpg"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "usdkrw-oil-export-flows",
+        "issueTitle": "유가와 수출기업 수급에 따른 원·달러 환율",
+        "eventDate": "2026-10-01",
+        "eventEndDate": "2026-10-02",
+        "eventTimezone": "Asia/Seoul",
+        "stage": "결과",
+        "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다."
+      }
     },
     {
       "id": "korea-prosecution-reorganization-2026",
@@ -360,7 +387,16 @@
           "verifiedAt": "2026-10-02T11:26:26+09:00",
           "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100200189.jpg"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "korea-investigation-prosecution-separation",
+        "issueTitle": "수사·기소 분리와 공소청·중수청 출범",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "시행",
+        "change": "공소청과 중수청 출범으로 수사·기소 분리 체계가 시행됐으며 인력 충원과 실제 운영은 후속 확인 대상입니다."
+      }
     },
     {
       "id": "lguplus-optai-token-efficiency",
@@ -454,7 +490,16 @@
           "verifiedAt": "2026-10-02T11:26:26+09:00",
           "imageUrl": "https://i3n.news1.kr/system/photos/2026/10/2/8138660/high.jpg"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "lguplus-optai-token-efficiency",
+        "issueTitle": "LG유플러스·옵트에이아이 토큰 최적화 연구",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "양사가 공동 연구를 서버 GPU로 확대하고 토큰 처리량 최대 4배 성과를 설명했습니다. 독립 검증과 실제 도입 결과는 미확인입니다."
+      }
     },
     {
       "id": "us-iran-delegation-departure-2026-09",
@@ -544,7 +589,16 @@
           "verifiedAt": "2026-10-02T11:26:26+09:00",
           "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/akn/20261002043945479jdtb.png"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "us-iran-negotiations",
+        "issueTitle": "미국·이란 협상과 외교적 조치",
+        "eventDate": "2026-09-28",
+        "eventEndDate": "2026-09-29",
+        "eventTimezone": "America/New_York",
+        "stage": "보도",
+        "change": "미국의 이란 대표단 출국 요구 경위가 새로 보도됐습니다. 9월 사건에 관한 관계자 인용 보도이며 협상의 최종 결론은 아닙니다."
+      }
     },
     {
       "id": "naver-webtoon-toonradar-2026-09-report",
@@ -638,7 +692,16 @@
           "verifiedAt": "2026-10-02T11:26:26+09:00",
           "imageUrl": "https://cdnimage.dailian.co.kr/news/202609/news_1790731518468_1696098_m_1.png"
         }
-      ]
+      ],
+      "timeline": {
+        "issueId": "naver-webtoon-antipiracy-toonradar",
+        "issueTitle": "네이버웹툰 불법 유통 차단과 정식 구매 전환",
+        "eventDate": "2026-09-30",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "분석",
+        "change": "네이버웹툰이 불법 사이트 폐쇄 전후 구매 데이터를 공개했습니다. 특정 작품군의 신규 구매 유입 7.9배 증가는 회사 자체 분석입니다."
+      }
     }
   ],
   "events": [
@@ -721,7 +784,7 @@
     }
   ],
   "keywords": [],
-  "updatedAt": "2026-10-02T11:26:26+09:00",
+  "updatedAt": "2026-10-02T11:48:06+09:00",
   "overview": [
     "물가 상승세는 완만해졌지만 생활비 부담이 사라진 것은 아닙니다. 9월 소비자물가 상승률은 2.9%로 낮아졌으나 석유류는 14.8% 올랐습니다. 미국 증시는 반도체주 기대 속에 소폭 상승했고, 원·달러 환율은 전일 종가 1,358.4원 부근의 개장 전 참고치가 나왔습니다. 유가와 금리, 실제 수급을 함께 볼 필요가 있습니다.",
     "국내에서는 공소청·중수청 출범으로 수사와 기소를 나눠 맡는 체계가 시작됐습니다. AI 분야에서는 LG유플러스가 서버 GPU의 토큰 처리 효율을 높이는 공동 연구를 발표했지만, 최대 4배라는 수치는 회사가 설명한 성과입니다. 국제 뉴스의 이란 대표단 출국 요구 역시 관계자 인용 보도로, 협상의 최종 결론과는 구분해야 합니다.",
