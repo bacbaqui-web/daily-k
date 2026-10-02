@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-15-pm-archive",
+  "date": "2026-09-15",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-15 저녁 기록에는 증시·환율, 증시·제도, 국내 정책·사회, 국제·경제, 산업·노동, 기술·IT·AI, 산업·에너지, 국제·에너지, 웹툰 산업 분야의 소식 10개가 담겨 있습니다.",
+    "주요 기록: 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도. 웹툰 산업 기록: 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-15-pm-archive-01",
+      "category": "증시·환율",
+      "title": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원",
+      "summary": [
+        "코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[증시·환율] 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도. 확인: 연합뉴스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[증시·환율] 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도. 확인: 연합뉴스.",
+        "sourceNames": [
+          "연합뉴스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 38,
+        "lineEnd": 39
+      },
+      "emphasis": [
+        "-0.85%",
+        "1,359.4원",
+        "5,700억원"
+      ],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-15-pm-archive-02",
+      "category": "증시·제도",
+      "title": "KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회",
+      "summary": [
+        "KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회.",
+      "whyItMatters": "거래 시간 확대와 변동성 관리 지표를 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[시장제도] KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회. 확인: 뉴시스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[시장제도] KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 40,
+        "lineEnd": 41
+      },
+      "emphasis": [
+        "1조원"
+      ],
+      "timeline": {
+        "issueId": "krx-aftermarket",
+        "issueTitle": "KRX 애프터마켓 운영",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-15-pm-archive-03",
+      "category": "국내 정책·사회",
+      "title": "김승원 청문회 난타전",
+      "summary": [
+        "김승원 청문회 난타전."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "김승원 청문회 난타전.",
+      "whyItMatters": "인사청문회 의혹 제기와 사퇴의 경과를 담은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[국내정치] 김승원 청문회 난타전. 확인: 연합뉴스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[국내정치] 김승원 청문회 난타전. 확인: 연합뉴스.",
+        "sourceNames": [
+          "연합뉴스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 42,
+        "lineEnd": 42,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "김승원 법무장관 후보자 청문회",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kim-seungwon-nomination",
+        "issueTitle": "김승원 법무장관 후보 청문회와 사퇴",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김승원 청문회 난타전."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-15-pm-archive-04",
+      "category": "국제·경제",
+      "title": "한·카자흐 관계 격상, 원유 협력 약정",
+      "summary": [
+        "한·카자흐 관계 격상, 원유 협력 약정."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한·카자흐 관계 격상, 원유 협력 약정.",
+      "whyItMatters": "정상회의와 에너지·광물 협력의 후속 이행을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[외교·에너지] 한·카자흐 관계 격상, 원유 협력 약정. 확인: 뉴시스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[외교·에너지] 한·카자흐 관계 격상, 원유 협력 약정. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 43,
+        "lineEnd": 43,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "am",
+          "storyId": "archive-09",
+          "title": "한·투르크메니스탄·한·카자흐스탄 정상회담",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-central-asia-cooperation",
+        "issueTitle": "한국·중앙아시아 정상외교와 자원 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한·카자흐 관계 격상, 원유 협력 약정."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-15-pm-archive-05",
+      "category": "산업·노동",
+      "title": "포스코 협상 결렬, 120시간 부분파업 예고",
+      "summary": [
+        "포스코 협상 결렬, 120시간 부분파업 예고."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "포스코 협상 결렬, 120시간 부분파업 예고.",
+      "whyItMatters": "파업 예고와 실제 생산 영향은 구분해 볼 필요가 있습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[산업·노동] 포스코 협상 결렬, 120시간 부분파업 예고. 확인: 뉴시스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[산업·노동] 포스코 협상 결렬, 120시간 부분파업 예고. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 44,
+        "lineEnd": 44
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "posco-labor-2026",
+        "issueTitle": "포스코 노사 협상과 부분파업",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 협상 결렬, 120시간 부분파업 예고."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-15-pm-archive-06",
+      "category": "기술·IT·AI",
+      "title": "카나나 독립앱 종료, 카카오톡 AI에 집중",
+      "summary": [
+        "카나나 독립앱 종료, 카카오톡 AI에 집중."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "카나나 독립앱 종료, 카카오톡 AI에 집중.",
+      "whyItMatters": "독립 앱과 카카오톡 AI 서비스의 역할 변화를 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[AI·카카오] 카나나 독립앱 종료, 카카오톡 AI에 집중. 확인: 전자신문."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[AI·카카오] 카나나 독립앱 종료, 카카오톡 AI에 집중. 확인: 전자신문.",
+        "sourceNames": [
+          "전자신문"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 45,
+        "lineEnd": 46
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kakao-kanana-reorganization",
+        "issueTitle": "카카오 카나나 서비스 재편",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카나나 독립앱 종료, 카카오톡 AI에 집중."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-15-pm-archive-07",
+      "category": "산업·에너지",
+      "title": "두산퓨얼셀 미국 3,222억원 추가 수주",
+      "summary": [
+        "두산퓨얼셀 미국 3,222억원 추가 수주."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "두산퓨얼셀 미국 3,222억원 추가 수주.",
+      "whyItMatters": "전력 수요와 관련 기업 수주의 연결을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[AI·전력] 두산퓨얼셀 미국 3,222억원 추가 수주. 확인: 뉴스핌."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[AI·전력] 두산퓨얼셀 미국 3,222억원 추가 수주. 확인: 뉴스핌.",
+        "sourceNames": [
+          "뉴스핌"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 47,
+        "lineEnd": 47
+      },
+      "emphasis": [
+        "3,222억원"
+      ],
+      "timeline": {
+        "issueId": "doosan-fuelcell-us-orders",
+        "issueTitle": "두산퓨얼셀 미국 수주",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 두산퓨얼셀 미국 3,222억원 추가 수주."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-15-pm-archive-08",
+      "category": "국제·경제",
+      "title": "산업생산 +5.2%, 소비 +0.4%",
+      "summary": [
+        "산업생산 +5.2%, 소비 +0.4%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "산업생산 +5.2%, 소비 +0.4%.",
+      "whyItMatters": "생산과 소비의 온도 차이를 살펴볼 통계 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[중국경제] 산업생산 +5.2%, 소비 +0.4%. 확인: 뉴시스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[중국경제] 산업생산 +5.2%, 소비 +0.4%. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 48,
+        "lineEnd": 48
+      },
+      "emphasis": [
+        "+5.2%",
+        "+0.4%"
+      ],
+      "timeline": {
+        "issueId": "china-output-consumption",
+        "issueTitle": "중국 산업생산과 소비",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 산업생산 +5.2%, 소비 +0.4%."
+      }
+    },
+    {
+      "id": "archive-09",
+      "topicKey": "2026-09-15-pm-archive-09",
+      "category": "국제·에너지",
+      "title": "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러",
+      "summary": [
+        "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[중동] 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러. 확인: 연합뉴스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[중동] 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러. 확인: 연합뉴스.",
+        "sourceNames": [
+          "연합뉴스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 49,
+        "lineEnd": 50
+      },
+      "emphasis": [
+        "6.23달러"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러."
+      }
+    },
+    {
+      "id": "archive-10",
+      "topicKey": "2026-09-15-pm-archive-10",
+      "category": "웹툰 산업",
+      "title": "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범",
+      "summary": [
+        "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범.",
+      "whyItMatters": "웹툰을 포함한 콘텐츠 산업의 공동 대응에 관한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범. 확인: 뉴시스."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 10,
+        "lineStart": 51,
+        "lineEnd": 52
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "k-content-industry-council",
+        "issueTitle": "K-콘텐츠산업협의회",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-15 저녁",
+    "watchItems": []
+  }
+}

@@ -25,4 +25,18 @@ assert.equal(isNewsBrief(unsafe),false);
 const legacy=structuredClone(brief);delete legacy.overview;
 for(const story of legacy.stories){delete story.relatedArticles;delete story.emphasis}
 assert.ok(isNewsBrief(legacy),'Older editions must remain readable');
+const archivedIndex=JSON.parse(readFileSync(new URL('../public/data/news/index.json',import.meta.url),'utf8'));
+assert.ok(isNewsIndex(archivedIndex));
+for(const item of archivedIndex.editions){
+ const stored=JSON.parse(readFileSync(new URL(`../public/data/news/${item.path}`,import.meta.url),'utf8'));
+ assert.ok(isNewsBrief(stored),item.id);
+ if(!item.archive)continue;
+ const unlabelled=structuredClone(stored);delete unlabelled.archive;
+ assert.equal(isNewsBrief(unlabelled),false,'An imported record cannot masquerade as a verified edition');
+ const missingProvenance=structuredClone(stored);delete missingProvenance.stories[0].archive;
+ assert.equal(isNewsBrief(missingProvenance),false);
+}
+const archivedEntry=archivedIndex.editions.find((e:{archive?:boolean})=>e.archive);
+assert.equal(isNewsIndex({...index,editions:[{...archivedEntry,path:'archive/../../feed.json'}]}),false);
+assert.equal(newsLink('2026-09-15','am',true,'archive-01'),'/daily-k/?tab=news&date=2026-09-15&edition=am&archive=1&story=archive-01');
 console.log('News data/link checks passed');

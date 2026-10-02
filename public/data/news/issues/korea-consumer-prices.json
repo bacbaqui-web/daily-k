@@ -10,6 +10,7 @@
       "editionDate": "2026-10-02",
       "edition": "am",
       "coveredAt": "2026-10-02T11:05:30+09:00",
+      "coveredOn": "2026-10-02",
       "publishedAt": "2026-10-02T08:02:00+09:00",
       "eventAt": null,
       "eventDate": "2026-10-02",
@@ -46,11 +47,57 @@
         }
       ],
       "briefingPath": "2026-10-02/am.json",
-      "previous": null,
+      "previous": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-01"
+      },
       "followUp": null,
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-02-am-archive/archive-01",
+      "editionId": "2026-10-02-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-10-02",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-10-02",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%.",
+      "title": "9월 소비자물가 2.9%, 두 달 만에 2%대",
+      "category": "경제",
+      "status": "과거 기록",
+      "summary": [
+        "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%."
+      ],
+      "keyFacts": {
+        "originalRecord": "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-10-02/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 424,
+        "lineEnd": 424,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
     }
   ],
-  "updatedAt": "2026-10-02T11:48:06+09:00"
+  "updatedAt": "2026-10-02T12:34:33+09:00"
 }

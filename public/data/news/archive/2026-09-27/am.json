@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-27-am-archive",
+  "date": "2026-09-27",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-27 오전 기록에는 국제·경제, 국제·외교, 증시·환율, 기술·IT·AI, 기술·IT, 사회·스포츠, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견. 웹툰 산업 기록: 29일 카카오 통합 세부안 주목."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-27-am-archive-01",
+      "category": "국제·경제",
+      "title": "미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견",
+      "summary": [
+        "미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 305,
+        "lineEnd": 305,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "시진핑 베이징 귀환, 미중 핵심 이견 지속",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 정상회담 후속: 비민감 품목 관세 인하, 희토류·AI·대만 이견."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-27-am-archive-02",
+      "category": "국제·외교",
+      "title": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인",
+      "summary": [
+        "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인.",
+      "whyItMatters": "제안·수용·거절·후속 접촉의 흐름을 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 306,
+        "lineEnd": 306,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "트럼프, 이란 7일 계획 거부 보도",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-iran-negotiations",
+        "issueTitle": "미국·이란 협상과 외교적 조치",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 호르무즈 7일 제안 거절 직접 확인."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-27-am-archive-03",
+      "category": "증시·환율",
+      "title": "국내장 재개 전 해외시장 점검",
+      "summary": [
+        "국내장 재개 전 해외시장 점검."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "국내장 재개 전 해외시장 점검.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "국내장 재개 전 해외시장 점검."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "국내장 재개 전 해외시장 점검.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 307,
+        "lineEnd": 307,
+        "previousCoverage": {
+          "date": "2026-09-23",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 7,080.92, 연휴 전 마지막 거래일 상승",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 국내장 재개 전 해외시장 점검."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-27-am-archive-04",
+      "category": "기술·IT·AI",
+      "title": "메타 AI 에이전트 '뮤즈' 보안 취약점",
+      "summary": [
+        "메타 AI 에이전트 '뮤즈' 보안 취약점."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "메타 AI 에이전트 '뮤즈' 보안 취약점.",
+      "whyItMatters": "이용 규모와 보안 관련 보도를 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "메타 AI 에이전트 '뮤즈' 보안 취약점."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "메타 AI 에이전트 '뮤즈' 보안 취약점.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 308,
+        "lineEnd": 308
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "meta-muse-agent-2026",
+        "issueTitle": "메타 뮤즈 AI 에이전트",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 메타 AI 에이전트 '뮤즈' 보안 취약점."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-27-am-archive-05",
+      "category": "기술·IT",
+      "title": "애플 탭틱 엔진 특허 침해 배상 평결",
+      "summary": [
+        "애플 탭틱 엔진 특허 침해 배상 평결."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "애플 탭틱 엔진 특허 침해 배상 평결.",
+      "whyItMatters": "평결과 확정 판결·후속 절차는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "애플 탭틱 엔진 특허 침해 배상 평결."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "애플 탭틱 엔진 특허 침해 배상 평결.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 309,
+        "lineEnd": 309
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "apple-taptic-patent",
+        "issueTitle": "애플 탭틱 엔진 특허 소송",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 애플 탭틱 엔진 특허 침해 배상 평결."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-27-am-archive-06",
+      "category": "국제·경제",
+      "title": "이 대통령 북중미 순방 마무리",
+      "summary": [
+        "이 대통령 북중미 순방 마무리."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "이 대통령 북중미 순방 마무리.",
+      "whyItMatters": "정상회담·협정·기업 금융 지원의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "이 대통령 북중미 순방 마무리."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "이 대통령 북중미 순방 마무리.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 310,
+        "lineEnd": 310,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-07",
+          "title": "이 대통령 한·멕시코 무역협정 재개 제안",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-mexico-economic-cooperation",
+        "issueTitle": "한·멕시코 무역·투자 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 북중미 순방 마무리."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-27-am-archive-07",
+      "category": "사회·스포츠",
+      "title": "여자농구 일본 꺾고 아시안게임 금메달",
+      "summary": [
+        "여자농구 일본 꺾고 아시안게임 금메달."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "여자농구 일본 꺾고 아시안게임 금메달.",
+      "whyItMatters": "개막과 경기 결과를 날짜별로 모은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "여자농구 일본 꺾고 아시안게임 금메달."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "여자농구 일본 꺾고 아시안게임 금메달.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 311,
+        "lineEnd": 311,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "아이치·나고야 아시안게임 개막",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "aichi-nagoya-asian-games-2026",
+        "issueTitle": "2026 아이치·나고야 아시안게임",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 여자농구 일본 꺾고 아시안게임 금메달."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-27-am-archive-08",
+      "category": "웹툰 산업",
+      "title": "29일 카카오 통합 세부안 주목",
+      "summary": [
+        "29일 카카오 통합 세부안 주목."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "29일 카카오 통합 세부안 주목.",
+      "whyItMatters": "통합 발표·예정 안내·구체 방안·노사 요구를 구분해 연결한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 29일 카카오 통합 세부안 주목."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 29일 카카오 통합 세부안 주목.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 312,
+        "lineEnd": 312,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-09",
+          "title": "29일 카카오 통합 세부안이 다음 핵심 일정",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kakao-webtoon-platform-integration",
+        "issueTitle": "카카오페이지·카카오웹툰 통합과 타파스",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 29일 카카오 통합 세부안 주목."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-27 오전",
+    "watchItems": []
+  }
+}

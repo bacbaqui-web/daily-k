@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-17-pm-archive",
+  "date": "2026-09-17",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-17 저녁 기록에는 증시·환율, 국내 정책·사회, 사회·교육, 국제·외교, 경제·에너지, 기술·IT·AI, 국제·경제, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도. 웹툰 산업 기록: 월드 웹툰 어워즈 후보 20편 공개."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-17-pm-archive-01",
+      "category": "증시·환율",
+      "title": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도",
+      "summary": [
+        "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 91,
+        "lineEnd": 91,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "-0.04%",
+        "1,382.2원"
+      ],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-17-pm-archive-02",
+      "category": "국내 정책·사회",
+      "title": "김성수 대법관 후보 임명동의안 통과, 찬성 227표",
+      "summary": [
+        "김성수 대법관 후보 임명동의안 통과, 찬성 227표."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "김성수 대법관 후보 임명동의안 통과, 찬성 227표.",
+      "whyItMatters": "표결 예정에서 결과로 이어지는 인사 절차 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "김성수 대법관 후보 임명동의안 통과, 찬성 227표."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "김성수 대법관 후보 임명동의안 통과, 찬성 227표.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 92,
+        "lineEnd": 92,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-09",
+          "title": "김성수 대법관 후보 임명동의안 표결 예정",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kim-seongsu-confirmation",
+        "issueTitle": "김성수 대법관 후보 임명동의안",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김성수 대법관 후보 임명동의안 통과, 찬성 227표."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-17-pm-archive-03",
+      "category": "사회·교육",
+      "title": "수시 원서접수 먹통 최종 구제 354건",
+      "summary": [
+        "수시 원서접수 먹통 최종 구제 354건."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "수시 원서접수 먹통 최종 구제 354건.",
+      "whyItMatters": "피해 구제와 후속 설명을 연결할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "수시 원서접수 먹통 최종 구제 354건."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "수시 원서접수 먹통 최종 구제 354건.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 93,
+        "lineEnd": 93
+      },
+      "emphasis": [
+        "354건"
+      ],
+      "timeline": {
+        "issueId": "college-application-outage-2026",
+        "issueTitle": "수시 원서접수 장애와 구제 조치",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 수시 원서접수 먹통 최종 구제 354건."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-17-pm-archive-04",
+      "category": "국제·외교",
+      "title": "호르무즈 파병 논의 속도조절",
+      "summary": [
+        "호르무즈 파병 논의 속도조절."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "호르무즈 파병 논의 속도조절.",
+      "whyItMatters": "검토안과 실제 결정, 비전투 임무 여부를 구분해야 하는 사안입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "호르무즈 파병 논의 속도조절."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "호르무즈 파병 논의 속도조절.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 94,
+        "lineEnd": 94,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "호르무즈 파병 미정, 18일 한미 외교장관회담 주목",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-hormuz-deployment",
+        "issueTitle": "한국의 호르무즈 기여·파병 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 호르무즈 파병 논의 속도조절."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-17-pm-archive-05",
+      "category": "경제·에너지",
+      "title": "한국-IEA RISE ASIA 출범",
+      "summary": [
+        "한국-IEA RISE ASIA 출범."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한국-IEA RISE ASIA 출범.",
+      "whyItMatters": "국제 에너지 협력 체계에 관한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한국-IEA RISE ASIA 출범."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한국-IEA RISE ASIA 출범.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 95,
+        "lineEnd": 95
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-iea-rise-asia",
+        "issueTitle": "한국·IEA RISE ASIA",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한국-IEA RISE ASIA 출범."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-17-pm-archive-06",
+      "category": "기술·IT·AI",
+      "title": "삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정",
+      "summary": [
+        "삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정.",
+      "whyItMatters": "행사 참가 예정과 발표 결과를 구분해 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 96,
+        "lineEnd": 96
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "samsung-ai-forum-2026",
+        "issueTitle": "삼성 AI 포럼 2026",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-17-pm-archive-07",
+      "category": "국제·경제",
+      "title": "트럼프-시진핑 24일 백악관 회담 확정",
+      "summary": [
+        "트럼프-시진핑 24일 백악관 회담 확정."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프-시진핑 24일 백악관 회담 확정.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프-시진핑 24일 백악관 회담 확정."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프-시진핑 24일 백악관 회담 확정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 97,
+        "lineEnd": 97
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프-시진핑 24일 백악관 회담 확정."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-17-pm-archive-08",
+      "category": "웹툰 산업",
+      "title": "월드 웹툰 어워즈 후보 20편 공개",
+      "summary": [
+        "월드 웹툰 어워즈 후보 20편 공개."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "월드 웹툰 어워즈 후보 20편 공개.",
+      "whyItMatters": "후보 선정과 수상 결과를 구분할 웹툰 산업 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 월드 웹툰 어워즈 후보 20편 공개."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 월드 웹툰 어워즈 후보 20편 공개.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 98,
+        "lineEnd": 98
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "world-webtoon-awards-2026",
+        "issueTitle": "2026 월드 웹툰 어워즈",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 월드 웹툰 어워즈 후보 20편 공개."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-17 저녁",
+    "watchItems": []
+  }
+}

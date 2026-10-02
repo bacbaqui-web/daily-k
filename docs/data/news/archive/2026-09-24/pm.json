@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-24-pm-archive",
+  "date": "2026-09-24",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-24 저녁 기록에는 국제·외교, 환율·금리, 국제·경제, 기술·IT·AI, 국내 정책·사회, 웹툰 산업, 사회·생활 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 우크라이나 생포 북한군 포로 2명 한국 도착 확인. 웹툰 산업 기록: 웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-24-pm-archive-01",
+      "category": "국제·외교",
+      "title": "우크라이나 생포 북한군 포로 2명 한국 도착 확인",
+      "summary": [
+        "우크라이나 생포 북한군 포로 2명 한국 도착 확인."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "우크라이나 생포 북한군 포로 2명 한국 도착 확인.",
+      "whyItMatters": "입국·합의 주장·각국 공식 입장을 구분한 경과 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "우크라이나 생포 북한군 포로 2명 한국 도착 확인."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "우크라이나 생포 북한군 포로 2명 한국 도착 확인.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 247,
+        "lineEnd": 247
+      },
+      "emphasis": [
+        "2명"
+      ],
+      "timeline": {
+        "issueId": "north-korean-pows-ukraine-korea",
+        "issueTitle": "북한군 포로 송환과 한·우크라이나 협의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 우크라이나 생포 북한군 포로 2명 한국 도착 확인."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-24-pm-archive-02",
+      "category": "환율·금리",
+      "title": "원·달러 1,366원, 장중 1,376원",
+      "summary": [
+        "원·달러 1,366원, 장중 1,376원."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "원·달러 1,366원, 장중 1,376원.",
+      "whyItMatters": "환율 수치를 당시 시점과 거래 구분에 맞춰 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "원·달러 1,366원, 장중 1,376원."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "원·달러 1,366원, 장중 1,376원.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 248,
+        "lineEnd": 248,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "원·달러 1,380원대, BOJ 금리결정 주목",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "1,366원",
+        "1,376원"
+      ],
+      "timeline": {
+        "issueId": "usdkrw-oil-export-flows",
+        "issueTitle": "유가와 수출기업 수급에 따른 원·달러 환율",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,366원, 장중 1,376원."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-24-pm-archive-03",
+      "category": "국제·경제",
+      "title": "중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인",
+      "summary": [
+        "중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 249,
+        "lineEnd": 249,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "미중 무역휴전 2개월 연장 합의 발표, 2027년 1월10일까지",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-24-pm-archive-04",
+      "category": "기술·IT·AI",
+      "title": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개",
+      "summary": [
+        "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개.",
+      "whyItMatters": "사고 범위 보도와 기관 조사의 진행을 구분해 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 250,
+        "lineEnd": 250
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "openai-agent-security-2026",
+        "issueTitle": "오픈AI 에이전트 보안사고와 조사 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-24-pm-archive-05",
+      "category": "국내 정책·사회",
+      "title": "청와대, 유시민 검찰개혁 발언 공개 반박",
+      "summary": [
+        "청와대, 유시민 검찰개혁 발언 공개 반박."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "청와대, 유시민 검찰개혁 발언 공개 반박.",
+      "whyItMatters": "조직 출범과 인사·운영 안착을 구분해 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "청와대, 유시민 검찰개혁 발언 공개 반박."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "청와대, 유시민 검찰개혁 발언 공개 반박.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 251,
+        "lineEnd": 251,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "김승원 사퇴 후 공소청·중수청 수장 공백 우려",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-investigation-prosecution-separation",
+        "issueTitle": "수사·기소 분리와 공소청·중수청 출범",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 청와대, 유시민 검찰개혁 발언 공개 반박."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-24-pm-archive-06",
+      "category": "국제·경제",
+      "title": "한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안",
+      "summary": [
+        "한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안.",
+      "whyItMatters": "정상회담·협정·기업 금융 지원의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 252,
+        "lineEnd": 252
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-mexico-economic-cooperation",
+        "issueTitle": "한·멕시코 무역·투자 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-24-pm-archive-07",
+      "category": "웹툰 산업",
+      "title": "웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도",
+      "summary": [
+        "웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도.",
+      "whyItMatters": "원작 IP의 영상화 성과와 지표를 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 253,
+        "lineEnd": 254
+      },
+      "emphasis": [
+        "23.1%"
+      ],
+      "timeline": {
+        "issueId": "webtoon-ip-screen-adaptations",
+        "issueTitle": "웹툰 IP 영상화",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-24-pm-archive-08",
+      "category": "사회·생활",
+      "title": "추석 전국 흐리고 곳곳 비",
+      "summary": [
+        "추석 전국 흐리고 곳곳 비."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "추석 전국 흐리고 곳곳 비.",
+      "whyItMatters": "당시 예보이며 현재 날씨가 아닙니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "추석 전국 흐리고 곳곳 비."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "추석 전국 흐리고 곳곳 비.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 255,
+        "lineEnd": 255
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "chuseok-weather-2026",
+        "issueTitle": "2026 추석 날씨",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 전국 흐리고 곳곳 비."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-24 저녁",
+    "watchItems": []
+  }
+}

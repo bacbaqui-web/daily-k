@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-16-pm-archive",
+  "date": "2026-09-16",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-16 저녁 기록에는 증시·환율, 국내 정책·사회, 국제·경제, 반도체, 산업·노동, 국제·외교, 기술·IT·AI, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원. 웹툰 산업 기록: 경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-16-pm-archive-01",
+      "category": "증시·환율",
+      "title": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원",
+      "summary": [
+        "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 68,
+        "lineEnd": 68,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+1.37%",
+        "1,372.9원"
+      ],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-16-pm-archive-02",
+      "category": "국내 정책·사회",
+      "title": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄",
+      "summary": [
+        "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
+      "whyItMatters": "재판의 사건·심급과 판결 결과를 구분해 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 69,
+        "lineEnd": 69
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "yoon-perjury-appeal",
+        "issueTitle": "윤석열 전 대통령 위증 혐의 항소심",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-16-pm-archive-03",
+      "category": "국제·경제",
+      "title": "한·중앙아 정상회의 '서울선언' 채택",
+      "summary": [
+        "한·중앙아 정상회의 '서울선언' 채택."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한·중앙아 정상회의 '서울선언' 채택.",
+      "whyItMatters": "정상회의와 에너지·광물 협력의 후속 이행을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한·중앙아 정상회의 '서울선언' 채택."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한·중앙아 정상회의 '서울선언' 채택.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 70,
+        "lineEnd": 70,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "첫 한·중앙아시아 5개국 정상회의",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-central-asia-cooperation",
+        "issueTitle": "한국·중앙아시아 정상외교와 자원 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한·중앙아 정상회의 '서울선언' 채택."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-16-pm-archive-04",
+      "category": "반도체",
+      "title": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도",
+      "summary": [
+        "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
+      "whyItMatters": "협상 보도와 확정된 생산 계획을 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 71,
+        "lineEnd": 71
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "hynix-intel-us-memory",
+        "issueTitle": "SK하이닉스·인텔 미국 메모리 협상 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: SK하이닉스, 인텔과 미국 메모리 생산 협상 보도."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-16-pm-archive-05",
+      "category": "산업·노동",
+      "title": "포스코 부분파업 첫날, 생산 차질 없음",
+      "summary": [
+        "포스코 부분파업 첫날, 생산 차질 없음."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "포스코 부분파업 첫날, 생산 차질 없음.",
+      "whyItMatters": "파업 예고와 실제 생산 영향은 구분해 볼 필요가 있습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "포스코 부분파업 첫날, 생산 차질 없음."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "포스코 부분파업 첫날, 생산 차질 없음.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 72,
+        "lineEnd": 72,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "포스코 120시간 2차 부분파업",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "posco-labor-2026",
+        "issueTitle": "포스코 노사 협상과 부분파업",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 부분파업 첫날, 생산 차질 없음."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-16-pm-archive-06",
+      "category": "국제·외교",
+      "title": "호르무즈 파병 미정, 18일 한미 외교장관회담 주목",
+      "summary": [
+        "호르무즈 파병 미정, 18일 한미 외교장관회담 주목."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "호르무즈 파병 미정, 18일 한미 외교장관회담 주목.",
+      "whyItMatters": "검토안과 실제 결정, 비전투 임무 여부를 구분해야 하는 사안입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "호르무즈 파병 미정, 18일 한미 외교장관회담 주목."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "호르무즈 파병 미정, 18일 한미 외교장관회담 주목.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 73,
+        "lineEnd": 73,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "한국 호르무즈 파병 검토, 비전투·최소규모 거론",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-hormuz-deployment",
+        "issueTitle": "한국의 호르무즈 기여·파병 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 호르무즈 파병 미정, 18일 한미 외교장관회담 주목."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-16-pm-archive-07",
+      "category": "기술·IT·AI",
+      "title": "LG AI DevCon, 개발자 1,500명",
+      "summary": [
+        "LG AI DevCon, 개발자 1,500명."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "LG AI DevCon, 개발자 1,500명.",
+      "whyItMatters": "개발자 생태계와 AI 기술 공유 행사에 관한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "LG AI DevCon, 개발자 1,500명."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "LG AI DevCon, 개발자 1,500명.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 74,
+        "lineEnd": 74
+      },
+      "emphasis": [
+        "1,500명"
+      ],
+      "timeline": {
+        "issueId": "lg-ai-devcon-2026",
+        "issueTitle": "LG AI DevCon 2026",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: LG AI DevCon, 개발자 1,500명."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-16-pm-archive-08",
+      "category": "웹툰 산업",
+      "title": "경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수",
+      "summary": [
+        "경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수.",
+      "whyItMatters": "창작자 지원과 숏폼 IP 확장에 관한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 75,
+        "lineEnd": 75
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "gyeongbuk-naver-shorts-contest",
+        "issueTitle": "경북·네이버웹툰 숏애니 공모전",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-16 저녁",
+    "watchItems": []
+  }
+}

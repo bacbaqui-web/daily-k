@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "us-iran-military",
+  "title": "미국·이란 군사 대응",
+  "entries": [
+    {
+      "id": "2026-09-15-am-archive/archive-03",
+      "editionId": "2026-09-15-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-15",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프 \"미국을 돕지 않은 국가들은 전쟁 뒤 배상해야\" 발언. 정책 확정은 아님.",
+      "title": "트럼프 \"미국을 돕지 않은 국가들은 전쟁 뒤 배상해야\" 발언",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "트럼프 \"미국을 돕지 않은 국가들은 전쟁 뒤 배상해야\" 발언. 정책 확정은 아님."
+      ],
+      "keyFacts": {
+        "originalRecord": "[한미·이란전] 트럼프 \"미국을 돕지 않은 국가들은 전쟁 뒤 배상해야\" 발언. 정책 확정은 아님. 확인: 뉴시스."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-15/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[한미·이란전] 트럼프 \"미국을 돕지 않은 국가들은 전쟁 뒤 배상해야\" 발언. 정책 확정은 아님. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 19,
+        "lineEnd": 20,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-16-am-archive/archive-02",
+      "editionId": "2026-09-16-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-16",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-16",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 미군, 이란 소형선박 2척 파괴.",
+      "title": "미군, 이란 소형선박 2척 파괴",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "미군, 이란 소형선박 2척 파괴."
+      ],
+      "keyFacts": {
+        "originalRecord": "미군, 이란 소형선박 2척 파괴."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-16/am.json",
+      "previous": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "미군, 이란 소형선박 2척 파괴.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 57,
+        "lineEnd": 57,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "트럼프 \"미국을 돕지 않은 국가들은 전쟁 뒤 배상해야\" 발언",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-18-am-archive/archive-03",
+      "editionId": "2026-09-18-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-18",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-18",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용.",
+      "title": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용."
+      ],
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-18/am.json",
+      "previous": {
+        "editionId": "2026-09-16-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 104,
+        "lineEnd": 105,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "미군, 이란 소형선박 2척 파괴",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-10-02-am-archive/archive-05",
+      "editionId": "2026-10-02-am-archive",
+      "storyId": "archive-05",
+      "editionDate": "2026-10-02",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-10-02",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 미국, 중동에 항모 1척·병력 최대 1만명 추가 파견.",
+      "title": "미국, 중동에 항모 1척·병력 최대 1만명 추가 파견",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "미국, 중동에 항모 1척·병력 최대 1만명 추가 파견."
+      ],
+      "keyFacts": {
+        "originalRecord": "미국, 중동에 항모 1척·병력 최대 1만명 추가 파견."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-10-02/am.json",
+      "previous": {
+        "editionId": "2026-09-18-am-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "미국, 중동에 항모 1척·병력 최대 1만명 추가 파견.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 428,
+        "lineEnd": 428,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

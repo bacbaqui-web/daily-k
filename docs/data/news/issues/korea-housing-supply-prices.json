@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-housing-supply-prices",
+  "title": "국내 주택 가격과 공급 정책",
+  "entries": [
+    {
+      "id": "2026-09-18-pm-archive/archive-04",
+      "editionId": "2026-09-18-pm-archive",
+      "storyId": "archive-04",
+      "editionDate": "2026-09-18",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-18",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 부동산 공급 속도전, 대통령 주간 점검.",
+      "title": "부동산 공급 속도전, 대통령 주간 점검",
+      "category": "경제·부동산",
+      "status": "과거 기록",
+      "summary": [
+        "부동산 공급 속도전, 대통령 주간 점검."
+      ],
+      "keyFacts": {
+        "originalRecord": "부동산 공급 속도전, 대통령 주간 점검."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-18/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "부동산 공급 속도전, 대통령 주간 점검.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 118,
+        "lineEnd": 118,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-20-am-archive/archive-06",
+      "editionId": "2026-09-20-am-archive",
+      "storyId": "archive-06",
+      "editionDate": "2026-09-20",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-20",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+      "title": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대",
+      "category": "경제·부동산",
+      "status": "과거 기록",
+      "summary": [
+        "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
+      ],
+      "keyFacts": {
+        "originalRecord": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-20/am.json",
+      "previous": {
+        "editionId": "2026-09-18-pm-archive",
+        "storyId": "archive-04"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 153,
+        "lineEnd": 153,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "부동산 공급 속도전, 대통령 주간 점검",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

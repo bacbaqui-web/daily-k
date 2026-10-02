@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "russia-election-2026",
+  "title": "러시아 2026년 총선",
+  "entries": [
+    {
+      "id": "2026-09-21-am-archive/archive-06",
+      "editionId": "2026-09-21-am-archive",
+      "storyId": "archive-06",
+      "editionDate": "2026-09-21",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-21",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 러시아 총선 투표율 55% 넘어.",
+      "title": "러시아 총선 투표율 55% 넘어",
+      "category": "국제·정치",
+      "status": "과거 기록",
+      "summary": [
+        "러시아 총선 투표율 55% 넘어."
+      ],
+      "keyFacts": {
+        "originalRecord": "러시아 총선 투표율 55% 넘어."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-21/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "러시아 총선 투표율 55% 넘어.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 175,
+        "lineEnd": 175,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-21-pm-archive/archive-07",
+      "editionId": "2026-09-21-pm-archive",
+      "storyId": "archive-07",
+      "editionDate": "2026-09-21",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-21",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 러시아 총선 집권당 압승 전망.",
+      "title": "러시아 총선 집권당 압승 전망",
+      "category": "국제·정치",
+      "status": "과거 기록",
+      "summary": [
+        "러시아 총선 집권당 압승 전망."
+      ],
+      "keyFacts": {
+        "originalRecord": "러시아 총선 집권당 압승 전망."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-21/pm.json",
+      "previous": {
+        "editionId": "2026-09-21-am-archive",
+        "storyId": "archive-06"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "러시아 총선 집권당 압승 전망.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 188,
+        "lineEnd": 188,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "러시아 총선 투표율 55% 넘어",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

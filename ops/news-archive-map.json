@@ -1,0 +1,1232 @@
+{
+  "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+  "issues": {
+    "usmarket": {
+      "id": "us-equities-chips-rates-oil",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응",
+      "category": "증시·금리",
+      "context": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다."
+    },
+    "krmarket": {
+      "id": "korea-equities-flows",
+      "title": "한국 증시와 외국인 수급",
+      "category": "증시·환율",
+      "context": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다."
+    },
+    "fx": {
+      "id": "usdkrw-oil-export-flows",
+      "title": "유가와 수출기업 수급에 따른 원·달러 환율",
+      "category": "환율·금리",
+      "context": "환율 수치를 당시 시점과 거래 구분에 맞춰 살펴볼 기록입니다."
+    },
+    "oil": {
+      "id": "middle-east-oil-supply",
+      "title": "중동 원유 공급과 국제유가",
+      "category": "국제·에너지",
+      "context": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다."
+    },
+    "ship": {
+      "id": "el-gaia-incident",
+      "title": "엘 가이아호 폭발과 각국 주장",
+      "category": "국제·안보",
+      "context": "폭발 원인에 관한 당사자 주장이 엇갈리는 사안입니다."
+    },
+    "iranwar": {
+      "id": "us-iran-military",
+      "title": "미국·이란 군사 대응",
+      "category": "국제·안보",
+      "context": "발언·군사 조치·배치 규모를 구분해 살펴볼 기록입니다."
+    },
+    "irantalk": {
+      "id": "us-iran-negotiations",
+      "title": "미국·이란 협상과 외교적 조치",
+      "category": "국제·외교",
+      "context": "제안·수용·거절·후속 접촉의 흐름을 추적할 기록입니다."
+    },
+    "ruenergy": {
+      "id": "russia-ukraine-energy-truce",
+      "title": "러시아·우크라이나 에너지시설 공격 중단 논의",
+      "category": "국제·안보",
+      "context": "당사자의 합의 주장과 실제 이행은 별도 확인이 필요합니다."
+    },
+    "minister": {
+      "id": "kim-seungwon-nomination",
+      "title": "김승원 법무장관 후보 청문회와 사퇴",
+      "category": "국내 정책·사회",
+      "context": "인사청문회 의혹 제기와 사퇴의 경과를 담은 기록입니다."
+    },
+    "rent": {
+      "id": "korea-lease-disputes",
+      "title": "임대차 갱신·종료 분쟁",
+      "category": "경제·부동산",
+      "context": "계약 갱신과 종료를 둘러싼 분쟁 통계를 다룬 기록입니다."
+    },
+    "mscode": {
+      "id": "microsoft-ai-conduct",
+      "title": "마이크로소프트 AI 행동강령",
+      "category": "기술·IT·AI",
+      "context": "AI의 자율성과 통제 원칙에 관한 기록입니다."
+    },
+    "oracle": {
+      "id": "oracle-ai-investment-labor",
+      "title": "오라클 AI 투자와 구조조정",
+      "category": "기술·IT·AI",
+      "context": "인프라 투자와 고용·재무 부담을 연결해 볼 사안입니다."
+    },
+    "centralasia": {
+      "id": "korea-central-asia-cooperation",
+      "title": "한국·중앙아시아 정상외교와 자원 협력",
+      "category": "국제·경제",
+      "context": "정상회의와 에너지·광물 협력의 후속 이행을 살펴볼 기록입니다."
+    },
+    "kstory": {
+      "id": "andong-k-story-2026",
+      "title": "2026 안동 K-스토리 페스티벌",
+      "category": "웹툰 산업",
+      "context": "웹툰 IP의 영상화와 사업 연결 기회를 다룬 기록입니다."
+    },
+    "krx": {
+      "id": "krx-aftermarket",
+      "title": "KRX 애프터마켓 운영",
+      "category": "증시·제도",
+      "context": "거래 시간 확대와 변동성 관리 지표를 다룬 기록입니다."
+    },
+    "posco": {
+      "id": "posco-labor-2026",
+      "title": "포스코 노사 협상과 부분파업",
+      "category": "산업·노동",
+      "context": "파업 예고와 실제 생산 영향은 구분해 볼 필요가 있습니다."
+    },
+    "kanana": {
+      "id": "kakao-kanana-reorganization",
+      "title": "카카오 카나나 서비스 재편",
+      "category": "기술·IT·AI",
+      "context": "독립 앱과 카카오톡 AI 서비스의 역할 변화를 다룬 기록입니다."
+    },
+    "fuelcell": {
+      "id": "doosan-fuelcell-us-orders",
+      "title": "두산퓨얼셀 미국 수주",
+      "category": "산업·에너지",
+      "context": "전력 수요와 관련 기업 수주의 연결을 살펴볼 기록입니다."
+    },
+    "chinaecon": {
+      "id": "china-output-consumption",
+      "title": "중국 산업생산과 소비",
+      "category": "국제·경제",
+      "context": "생산과 소비의 온도 차이를 살펴볼 통계 기록입니다."
+    },
+    "contentcouncil": {
+      "id": "k-content-industry-council",
+      "title": "K-콘텐츠산업협의회",
+      "category": "웹툰 산업",
+      "context": "웹툰을 포함한 콘텐츠 산업의 공동 대응에 관한 기록입니다."
+    },
+    "kdeployment": {
+      "id": "korea-hormuz-deployment",
+      "title": "한국의 호르무즈 기여·파병 논의",
+      "category": "국제·외교",
+      "context": "검토안과 실제 결정, 비전투 임무 여부를 구분해야 하는 사안입니다."
+    },
+    "seoulbus": {
+      "id": "seoul-bus-wage-2026",
+      "title": "서울버스 임금 협상과 파업 철회",
+      "category": "사회·노동",
+      "context": "교통 서비스와 임금 협상의 결과를 다룬 기록입니다."
+    },
+    "aislow": {
+      "id": "ai-development-pace-debate",
+      "title": "AI 개발 속도 조절 논쟁",
+      "category": "기술·IT·AI",
+      "context": "개발 속도와 위험 관리에 관한 입장 차이를 다룬 기록입니다."
+    },
+    "sixg": {
+      "id": "samsung-verizon-6g",
+      "title": "삼성·버라이즌 6G 실증",
+      "category": "기술·IT",
+      "context": "차세대 통신 기술 실증에 관한 기록입니다."
+    },
+    "ace": {
+      "id": "gwangju-ace-fair-2026",
+      "title": "2026 광주 ACE Fair 콘텐츠 상담",
+      "category": "웹툰 산업",
+      "context": "웹툰을 포함한 콘텐츠 수출 상담 기록입니다. 상담액과 계약액은 다릅니다."
+    },
+    "yoontrial": {
+      "id": "yoon-perjury-appeal",
+      "title": "윤석열 전 대통령 위증 혐의 항소심",
+      "category": "국내 정책·사회",
+      "context": "재판의 사건·심급과 판결 결과를 구분해 볼 기록입니다."
+    },
+    "hynixintel": {
+      "id": "hynix-intel-us-memory",
+      "title": "SK하이닉스·인텔 미국 메모리 협상 보도",
+      "category": "반도체",
+      "context": "협상 보도와 확정된 생산 계획을 구분해야 합니다."
+    },
+    "lgdev": {
+      "id": "lg-ai-devcon-2026",
+      "title": "LG AI DevCon 2026",
+      "category": "기술·IT·AI",
+      "context": "개발자 생태계와 AI 기술 공유 행사에 관한 기록입니다."
+    },
+    "shortanime": {
+      "id": "gyeongbuk-naver-shorts-contest",
+      "title": "경북·네이버웹툰 숏애니 공모전",
+      "category": "웹툰 산업",
+      "context": "창작자 지원과 숏폼 IP 확장에 관한 기록입니다."
+    },
+    "fed": {
+      "id": "fed-policy-2026",
+      "title": "미국 연준 금리 결정과 물가 판단",
+      "category": "경제·금리",
+      "context": "금리 결정과 향후 전망, 위원 발언을 구분해 살펴볼 기록입니다."
+    },
+    "nkcontact": {
+      "id": "korea-interkorean-civil-contact",
+      "title": "남북 민간접촉 신고 제도",
+      "category": "국내 정책·외교",
+      "context": "제도 검토와 법적 시행 여부를 구분해야 합니다."
+    },
+    "aigovernance": {
+      "id": "international-ai-governance",
+      "title": "국제 AI 안전 기준과 규제 논의",
+      "category": "기술·IT·AI",
+      "context": "다자 논의와 연구자 제안, 제도 도입 여부를 살펴볼 기록입니다."
+    },
+    "performtax": {
+      "id": "foreign-performance-tax",
+      "title": "해외 아티스트 국내 공연 세금 추징",
+      "category": "경제·정책",
+      "context": "과세 당국의 조사 결과에 관한 기록입니다."
+    },
+    "judge": {
+      "id": "kim-seongsu-confirmation",
+      "title": "김성수 대법관 후보 임명동의안",
+      "category": "국내 정책·사회",
+      "context": "표결 예정에서 결과로 이어지는 인사 절차 기록입니다."
+    },
+    "admission": {
+      "id": "college-application-outage-2026",
+      "title": "수시 원서접수 장애와 구제 조치",
+      "category": "사회·교육",
+      "context": "피해 구제와 후속 설명을 연결할 기록입니다."
+    },
+    "iea": {
+      "id": "korea-iea-rise-asia",
+      "title": "한국·IEA RISE ASIA",
+      "category": "경제·에너지",
+      "context": "국제 에너지 협력 체계에 관한 기록입니다."
+    },
+    "samsungforum": {
+      "id": "samsung-ai-forum-2026",
+      "title": "삼성 AI 포럼 2026",
+      "category": "기술·IT·AI",
+      "context": "행사 참가 예정과 발표 결과를 구분해 볼 기록입니다."
+    },
+    "uschina": {
+      "id": "us-china-trade-ai-2026",
+      "title": "미중 정상회담·무역·AI 협상",
+      "category": "국제·경제",
+      "context": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다."
+    },
+    "awards": {
+      "id": "world-webtoon-awards-2026",
+      "title": "2026 월드 웹툰 어워즈",
+      "category": "웹툰 산업",
+      "context": "후보 선정과 수상 결과를 구분할 웹툰 산업 기록입니다."
+    },
+    "nkdrill": {
+      "id": "north-korea-drill-response",
+      "title": "북한의 한미일 훈련 대응 발언",
+      "category": "국제·안보",
+      "context": "당사자의 경고 발언과 실제 행동은 구분해야 합니다."
+    },
+    "chuseokcost": {
+      "id": "chuseok-costs-2026",
+      "title": "추석 생활비와 차례상 비용",
+      "category": "경제·생활",
+      "context": "표본과 비교 시점에 따라 비용 해석이 달라질 수 있는 기록입니다."
+    },
+    "iphone": {
+      "id": "iphone-18-korea-launch",
+      "title": "아이폰18 국내 출시",
+      "category": "기술·IT",
+      "context": "제품의 국내 출시 시점을 다룬 기록입니다."
+    },
+    "nuclearfault": {
+      "id": "punggye-ri-fault-study",
+      "title": "풍계리 핵실험과 단층 연구",
+      "category": "과학·안보",
+      "context": "연구 분석과 실제 추가 위험은 구분해 볼 필요가 있습니다."
+    },
+    "bicof": {
+      "id": "bicof-2026",
+      "title": "2026 부천국제만화축제",
+      "category": "웹툰 산업",
+      "context": "축제·시상·작품 발표 등 행사 경과를 담은 기록입니다."
+    },
+    "boj": {
+      "id": "boj-policy-2026",
+      "title": "일본은행 금리 결정",
+      "category": "경제·금리",
+      "context": "실제 금리 결정과 추가 인상 전망을 구분할 기록입니다."
+    },
+    "housing": {
+      "id": "korea-housing-supply-prices",
+      "title": "국내 주택 가격과 공급 정책",
+      "category": "경제·부동산",
+      "context": "가격 지표와 공급 정책의 진행을 함께 관찰할 기록입니다."
+    },
+    "fuelcut": {
+      "id": "chuseok-highway-fuel-discount",
+      "title": "추석 고속도로 주유소 할인",
+      "category": "경제·생활",
+      "context": "한시 할인 대상과 기간을 다룬 기록입니다."
+    },
+    "krusforeign": {
+      "id": "korea-us-foreign-minister-2026",
+      "title": "한미 외교장관 협의",
+      "category": "국제·외교",
+      "context": "투자 이행과 협력 의제의 후속을 살펴볼 기록입니다."
+    },
+    "claudeintrusion": {
+      "id": "claude-openai-intrusion-report",
+      "title": "클로드를 이용한 오픈AI 침투 보도",
+      "category": "기술·IT·AI",
+      "context": "보도된 보안 사례의 주체와 확인 범위를 구분해야 합니다."
+    },
+    "aimisinfo": {
+      "id": "ai-military-misinformation",
+      "title": "AI 허위정보와 군사 판단 보도",
+      "category": "기술·IT·AI",
+      "context": "군사 판단에 관한 일방 보도와 확인된 사실을 구분해야 합니다."
+    },
+    "kraibudget": {
+      "id": "korea-ai-budget-2027",
+      "title": "한국 2027년 AI 예산과 GPU 확보",
+      "category": "기술·IT·AI",
+      "context": "예산 계획과 실제 확보·집행 결과를 구분할 기록입니다."
+    },
+    "petrocartel": {
+      "id": "petrochemical-cartel-investigation",
+      "title": "석유화학 가격담합 수사",
+      "category": "산업·사회",
+      "context": "의혹·구속·최종 판결은 서로 다른 단계입니다."
+    },
+    "youth": {
+      "id": "korea-youth-policy-organization",
+      "title": "청년정책 전담조직 검토",
+      "category": "국내 정책·사회",
+      "context": "검토안과 실제 조직 신설을 구분할 기록입니다."
+    },
+    "defense": {
+      "id": "korea-defense-cooperation",
+      "title": "한국 국방·전작권·방산 협력",
+      "category": "국제·안보",
+      "context": "군사 역량과 협력 사업의 계획·진행을 살펴볼 기록입니다."
+    },
+    "climatemarch": {
+      "id": "climate-justice-march-2026",
+      "title": "기후정의행진과 AI 전력 문제 제기",
+      "category": "사회·환경",
+      "context": "집회에서 제기된 주장과 정책 결정을 구분해 볼 기록입니다."
+    },
+    "aidemocracy": {
+      "id": "korea-ai-public-deliberation",
+      "title": "AI 전환과 기본사회 숙의",
+      "category": "국내 정책·AI",
+      "context": "시민 숙의와 정책 결정의 관계를 살펴볼 기록입니다."
+    },
+    "nkus": {
+      "id": "us-north-korea-dialogue",
+      "title": "북미 대화 재개 논의",
+      "category": "국제·외교",
+      "context": "접촉 준비 발언과 확정된 회담을 구분해야 합니다."
+    },
+    "asian": {
+      "id": "aichi-nagoya-asian-games-2026",
+      "title": "2026 아이치·나고야 아시안게임",
+      "category": "사회·스포츠",
+      "context": "개막과 경기 결과를 날짜별로 모은 기록입니다."
+    },
+    "hospital": {
+      "id": "korea-hospital-cybersecurity",
+      "title": "국내 병원 사이버 보안관제",
+      "category": "사회·보안",
+      "context": "기관 조사 범위와 보안 공백을 살펴볼 기록입니다."
+    },
+    "truck": {
+      "id": "anseong-market-incident",
+      "title": "안성 나눔장터 트럭 사고",
+      "category": "사회·사건",
+      "context": "사고 경위와 피해 규모의 후속 확인이 필요한 기록입니다."
+    },
+    "nkmissile": {
+      "id": "north-korea-missiles-sep2026",
+      "title": "북한 2026년 9월 미사일 발사",
+      "category": "국제·안보",
+      "context": "발사 사실과 이후 공개된 기종·주장을 이어 볼 기록입니다."
+    },
+    "reorg": {
+      "id": "korea-investigation-prosecution-separation",
+      "title": "수사·기소 분리와 공소청·중수청 출범",
+      "category": "국내 정책·사회",
+      "context": "조직 출범과 인사·운영 안착을 구분해 살펴볼 기록입니다."
+    },
+    "aidata": {
+      "id": "ai-training-data-incentives",
+      "title": "AI 학습 데이터 연구자 인센티브",
+      "category": "기술·IT·AI",
+      "context": "학습 데이터 구축과 연구자 보상 논의에 관한 기록입니다."
+    },
+    "traffic": {
+      "id": "chuseok-traffic-2026",
+      "title": "2026 추석 교통 흐름",
+      "category": "사회·교통",
+      "context": "예상 혼잡과 실제 교통 상황을 구분할 기록입니다."
+    },
+    "tgs": {
+      "id": "k-games-tokyo-game-show-2026",
+      "title": "도쿄게임쇼 한국 게임 참가",
+      "category": "기술·게임",
+      "context": "게임 기업의 해외 전시와 사업 확장에 관한 기록입니다."
+    },
+    "rusvote": {
+      "id": "russia-election-2026",
+      "title": "러시아 2026년 총선",
+      "category": "국제·정치",
+      "context": "투표율·전망·공식 결과를 구분할 기록입니다."
+    },
+    "anthropic": {
+      "id": "anthropic-financing-2026",
+      "title": "앤트로픽 IPO와 인프라 투자 보도",
+      "category": "기술·IT·AI",
+      "context": "상장·투자 검토 보도와 실제 확정을 구분해야 합니다."
+    },
+    "medical": {
+      "id": "korea-noncovered-medical-spending",
+      "title": "비급여 진료비 지출",
+      "category": "사회·경제",
+      "context": "통계의 집계 범위와 기간을 확인할 필요가 있습니다."
+    },
+    "hackathon": {
+      "id": "ai-content-hackathon-2026",
+      "title": "AI 콘텐츠 해커톤",
+      "category": "웹툰 산업",
+      "context": "AI를 활용한 콘텐츠 제작과 수상 결과를 다룬 기록입니다."
+    },
+    "exports": {
+      "id": "korea-exports-semiconductors",
+      "title": "한국 수출과 반도체 실적",
+      "category": "경제·반도체",
+      "context": "잠정 기간과 월간 실적을 구분해 살펴볼 기록입니다."
+    },
+    "chiefstaff": {
+      "id": "kang-hoonsik-resignation",
+      "title": "강훈식 비서실장 사의",
+      "category": "국내 정책·사회",
+      "context": "사의 표명과 인사 확정은 구분해야 합니다."
+    },
+    "aihub": {
+      "id": "global-ai-hub-korea",
+      "title": "글로벌 AI 허브 추진",
+      "category": "기술·IT·AI",
+      "context": "추진 조직과 실제 사업의 후속을 살펴볼 기록입니다."
+    },
+    "globaldrop": {
+      "id": "naver-webtoon-global-drop",
+      "title": "네이버웹툰 글로벌 드롭",
+      "category": "웹툰 산업",
+      "context": "다국어 동시연재와 해외 독자 확대 전략에 관한 기록입니다."
+    },
+    "krjpus": {
+      "id": "korea-us-japan-diplomacy",
+      "title": "한미일 외교 협의",
+      "category": "국제·외교",
+      "context": "대북 대화와 공급망 공조의 후속을 살펴볼 기록입니다."
+    },
+    "housedebt": {
+      "id": "korea-household-lending",
+      "title": "국내 가계대출 관리",
+      "category": "경제·금융",
+      "context": "대출 총량·규제 예외 등 서로 다른 지표를 구분해야 합니다."
+    },
+    "single": {
+      "id": "korea-single-households",
+      "title": "1인 가구의 사회적 관계",
+      "category": "사회·생활",
+      "context": "조사의 대상과 취약성 정의를 함께 확인할 기록입니다."
+    },
+    "usinvest": {
+      "id": "korea-us-investment-projects",
+      "title": "한국의 미국 에너지·인프라 투자",
+      "category": "경제·외교",
+      "context": "발표·협의·투자 확정의 단계가 다른 사안입니다."
+    },
+    "court": {
+      "id": "korea-supreme-court-appointment-conflict",
+      "title": "대법관 제청과 사법부·정부 갈등",
+      "category": "국내 정책·사회",
+      "context": "기관 입장과 절차 진행을 함께 볼 기록입니다."
+    },
+    "kimtrial": {
+      "id": "kim-keonhee-appeal",
+      "title": "김건희 항소심",
+      "category": "국내 정책·사회",
+      "context": "사건·심급과 판결 내용을 원문으로 구분할 필요가 있습니다."
+    },
+    "sovereignai": {
+      "id": "naver-lg-secure-ai",
+      "title": "네이버클라우드·LG 보안 AI",
+      "category": "기술·IT·AI",
+      "context": "GPU·데이터와 개발 착수에 관한 기록입니다."
+    },
+    "kakaowebtoon": {
+      "id": "kakao-webtoon-platform-integration",
+      "title": "카카오페이지·카카오웹툰 통합과 타파스",
+      "category": "웹툰 산업",
+      "context": "통합 발표·예정 안내·구체 방안·노사 요구를 구분해 연결한 기록입니다."
+    },
+    "ungeneral": {
+      "id": "un-general-assembly-2026",
+      "title": "2026 유엔총회 고위급 회의",
+      "category": "국제·외교",
+      "context": "다자 외교 일정과 발표를 살펴볼 기록입니다."
+    },
+    "consentiment": {
+      "id": "korea-consumer-sentiment",
+      "title": "한국 소비심리와 금리 전망",
+      "category": "경제",
+      "context": "소비심리와 금리 전망 조사 결과를 다룬 기록입니다."
+    },
+    "aisafety": {
+      "id": "ai-research-safety-pressure",
+      "title": "AI 안전 연구와 출시 압력",
+      "category": "기술·IT·AI",
+      "context": "연구자 경험·언론 보도·기업 입장을 구분해야 합니다."
+    },
+    "schoolviolence": {
+      "id": "korea-school-violence",
+      "title": "학교폭력 심의 증가",
+      "category": "사회·교육",
+      "context": "집계 기간과 심의 건수의 의미를 살펴볼 기록입니다."
+    },
+    "naverstrike": {
+      "id": "naver-z-labor-2026",
+      "title": "네이버제트 파업",
+      "category": "산업·노동",
+      "context": "노사 협상과 서비스 영향의 후속을 살펴볼 기록입니다."
+    },
+    "growth": {
+      "id": "oecd-korea-growth-outlook",
+      "title": "OECD 한국 성장률 전망",
+      "category": "경제",
+      "context": "전망치 변경은 실제 성장률 확정과 다릅니다."
+    },
+    "kpow": {
+      "id": "north-korean-pows-ukraine-korea",
+      "title": "북한군 포로 송환과 한·우크라이나 협의",
+      "category": "국제·외교",
+      "context": "입국·합의 주장·각국 공식 입장을 구분한 경과 기록입니다."
+    },
+    "agentsecurity": {
+      "id": "openai-agent-security-2026",
+      "title": "오픈AI 에이전트 보안사고와 조사 보도",
+      "category": "기술·IT·AI",
+      "context": "사고 범위 보도와 기관 조사의 진행을 구분해 추적할 기록입니다."
+    },
+    "mexico": {
+      "id": "korea-mexico-economic-cooperation",
+      "title": "한·멕시코 무역·투자 협력",
+      "category": "국제·경제",
+      "context": "정상회담·협정·기업 금융 지원의 후속을 살펴볼 기록입니다."
+    },
+    "webtoondrama": {
+      "id": "webtoon-ip-screen-adaptations",
+      "title": "웹툰 IP 영상화",
+      "category": "웹툰 산업",
+      "context": "원작 IP의 영상화 성과와 지표를 다룬 기록입니다."
+    },
+    "weather": {
+      "id": "chuseok-weather-2026",
+      "title": "2026 추석 날씨",
+      "category": "사회·생활",
+      "context": "당시 예보이며 현재 날씨가 아닙니다."
+    },
+    "honam": {
+      "id": "honam-semiconductor-cluster",
+      "title": "호남 반도체 클러스터 논의",
+      "category": "반도체",
+      "context": "협의·입지·일정과 실제 확정을 구분할 기록입니다."
+    },
+    "qualcomm": {
+      "id": "qualcomm-on-device-video-agent",
+      "title": "퀄컴 온디바이스 영상편집 AI",
+      "category": "기술·IT·AI",
+      "context": "시연 결과와 실제 서비스 적용은 구분해야 합니다."
+    },
+    "webtoonholiday": {
+      "id": "webtoon-chuseok-promotions-2026",
+      "title": "웹툰 플랫폼 추석 콘텐츠·프로모션",
+      "category": "웹툰 산업",
+      "context": "플랫폼의 신작과 연휴 이용 전략을 묶은 기록입니다."
+    },
+    "airports": {
+      "id": "korea-regional-airport-finances",
+      "title": "지방공항 적자",
+      "category": "경제·교통",
+      "context": "집계 기간과 대상 공항을 확인할 통계 기록입니다."
+    },
+    "ussentiment": {
+      "id": "us-consumer-sentiment",
+      "title": "미국 소비심리",
+      "category": "경제",
+      "context": "표본·지표 기준과 발표 시점을 확인할 기록입니다."
+    },
+    "birth": {
+      "id": "korea-birth-forecasts",
+      "title": "한국 출생아 전망과 실제",
+      "category": "사회·인구",
+      "context": "전망과 실측의 비교 기준을 확인할 기록입니다."
+    },
+    "dmz": {
+      "id": "dmz-mine-incident-2026",
+      "title": "DMZ 폭발·지뢰 조사와 남북 입장",
+      "category": "국제·안보",
+      "context": "조사 착수·발견 내용·각국 입장을 시간순으로 살펴볼 기록입니다."
+    },
+    "fair": {
+      "id": "gyeonggi-webtoon-fair-2026",
+      "title": "2026 경기국제웹툰페어 수출 상담",
+      "category": "웹툰 산업",
+      "context": "상담액과 실제 계약 성과를 구분할 산업 기록입니다."
+    },
+    "meta": {
+      "id": "meta-muse-agent-2026",
+      "title": "메타 뮤즈 AI 에이전트",
+      "category": "기술·IT·AI",
+      "context": "이용 규모와 보안 관련 보도를 다룬 기록입니다."
+    },
+    "applepatent": {
+      "id": "apple-taptic-patent",
+      "title": "애플 탭틱 엔진 특허 소송",
+      "category": "기술·IT",
+      "context": "평결과 확정 판결·후속 절차는 구분해야 합니다."
+    },
+    "econteam": {
+      "id": "korea-economic-team-meeting",
+      "title": "한국 경제팀 현안회의",
+      "category": "경제·정책",
+      "context": "정책 논의와 실제 결정 사이의 후속을 살펴볼 기록입니다."
+    },
+    "cheongong": {
+      "id": "presidential-residence-allegation-case",
+      "title": "관저 개입 의혹 제기자 사건",
+      "category": "국내 정책·사회",
+      "context": "수사 결과의 대상과 의미를 원문으로 확인할 필요가 있습니다."
+    },
+    "disasterai": {
+      "id": "korea-disaster-ai-2030",
+      "title": "재난안전 AI 사업",
+      "category": "기술·IT·AI",
+      "context": "다년 사업 계획과 연도별 집행을 구분할 기록입니다."
+    },
+    "lgnvidia": {
+      "id": "lg-nvidia-data-center",
+      "title": "LG전자·엔비디아 데이터센터 협력",
+      "category": "기술·IT·AI",
+      "context": "전력·냉각 협력의 범위와 실행을 살펴볼 기록입니다."
+    },
+    "rureport": {
+      "id": "russian-media-korea-remarks",
+      "title": "러시아 매체의 한국 대통령 발언 보도 논란",
+      "category": "국제·외교",
+      "context": "원 발언과 보도 내용의 차이를 확인해야 합니다."
+    },
+    "taiwan": {
+      "id": "taiwan-us-arms",
+      "title": "대만의 미국 무기판매 승인 요청",
+      "category": "국제·안보",
+      "context": "승인 촉구와 실제 승인·인도는 다른 단계입니다."
+    },
+    "webtoongame": {
+      "id": "webtoon-ip-games",
+      "title": "웹툰·웹소설 IP 게임화",
+      "category": "웹툰 산업",
+      "context": "원작 IP의 게임 확장과 사전등록 경과를 살펴볼 기록입니다."
+    },
+    "insurance": {
+      "id": "korea-insurance-nonpayment",
+      "title": "보험금 부지급·과소지급",
+      "category": "경제·금융",
+      "context": "분쟁 집계와 지급 기준을 살펴볼 기록입니다."
+    },
+    "hft": {
+      "id": "korea-high-frequency-trading-rules",
+      "title": "국내 고빈도매매 규율 검토",
+      "category": "증시·제도",
+      "context": "검토 단계와 시행된 규정을 구분할 기록입니다."
+    },
+    "bankhours": {
+      "id": "korea-bank-opening-hours-2027",
+      "title": "은행 개점 시간 조정",
+      "category": "경제·금융",
+      "context": "합의 내용과 적용 예정 시점을 다룬 기록입니다."
+    },
+    "aihardware": {
+      "id": "korea-on-device-ai-chip",
+      "title": "국내 온디바이스 AI칩 공동개발",
+      "category": "반도체·AI",
+      "context": "공동개발 발표와 실제 제품 성과를 구분할 기록입니다."
+    },
+    "helix": {
+      "id": "samsung-helix-investment",
+      "title": "삼성의 미국 헬릭스 AI 인프라 투자",
+      "category": "기술·IT·AI",
+      "context": "투자 발표와 자금 집행·성과를 구분해 볼 기록입니다."
+    },
+    "runk": {
+      "id": "north-korea-troops-russia",
+      "title": "러시아 내 북한군 배치 주장",
+      "category": "국제·안보",
+      "context": "병력 수치와 배치 계획에 관한 당사자 주장을 구분해야 합니다."
+    },
+    "aiexplosion": {
+      "id": "ai-rd-intelligence-explosion",
+      "title": "AI 연구 자동화와 지능 폭발 경고",
+      "category": "기술·IT·AI",
+      "context": "연구자 경고와 실제 관찰된 결과를 구분할 기록입니다."
+    },
+    "aiceos": {
+      "id": "white-house-ai-ceo-meeting",
+      "title": "미국 백악관 AI 기업 회동",
+      "category": "기술·IT·AI",
+      "context": "예정된 회동과 실제 발표·합의를 구분할 기록입니다."
+    },
+    "businesssent": {
+      "id": "korea-business-sentiment",
+      "title": "한국 제조·비제조업 체감경기",
+      "category": "경제",
+      "context": "업종별 체감 차이와 조사 기준을 살펴볼 기록입니다."
+    },
+    "devday": {
+      "id": "openai-devday-agents-2026",
+      "title": "OpenAI DevDay와 상시 에이전트 보도",
+      "category": "기술·IT·AI",
+      "context": "행사 예정·제품 공개 보도·실제 제공 범위를 구분할 기록입니다."
+    },
+    "tving": {
+      "id": "tving-data-compensation",
+      "title": "티빙 개인정보 유출 보상",
+      "category": "사회·IT",
+      "context": "신청 대상·기한과 보상 범위를 원문에서 확인할 사안입니다."
+    },
+    "activity": {
+      "id": "korea-industrial-activity",
+      "title": "한국 생산·소비·투자 통계",
+      "category": "경제",
+      "context": "월간 변화와 전년 대비 수치를 구분해 볼 기록입니다."
+    },
+    "anti": {
+      "id": "naver-webtoon-antipiracy-toonradar",
+      "title": "네이버웹툰 불법 유통 차단과 정식 구매 전환",
+      "category": "웹툰 산업",
+      "context": "특정 작품군의 분석과 전체 시장 효과는 구분해야 합니다."
+    },
+    "micron": {
+      "id": "micron-earnings-2026",
+      "title": "마이크론 실적과 데이터센터 매출",
+      "category": "반도체",
+      "context": "회계기간·실적·전망의 구분이 필요한 기록입니다."
+    },
+    "uspce": {
+      "id": "us-pce-inflation",
+      "title": "미국 PCE 물가",
+      "category": "경제·금리",
+      "context": "예상과 실제 발표, 물가 지표 간 차이를 살펴볼 기록입니다."
+    },
+    "ukiran": {
+      "id": "uk-iran-plot-allegation",
+      "title": "영국 공군기지 테러 모의 이란 연루 주장",
+      "category": "국제·안보",
+      "context": "영국의 주장과 이란의 부인을 구분할 기록입니다."
+    },
+    "awsclaude": {
+      "id": "aws-seoul-claude",
+      "title": "AWS 서울 리전 클로드 제공",
+      "category": "기술·IT·AI",
+      "context": "제공 리전과 모델의 실제 이용 범위를 살펴볼 기록입니다."
+    },
+    "kbonds": {
+      "id": "korea-government-bond-issuance",
+      "title": "한국 국채 발행 계획",
+      "category": "경제·금리",
+      "context": "발행 계획 변경과 실제 집행을 구분할 기록입니다."
+    },
+    "claudex": {
+      "id": "claude-fake-x-election-operation",
+      "title": "클로드를 활용한 가짜 계정·여론공작 사례",
+      "category": "기술·IT·AI",
+      "context": "공개된 악용 사례와 확인된 영향 범위를 구분해야 합니다."
+    },
+    "kaliningrad": {
+      "id": "russia-kaliningrad-warning",
+      "title": "러시아 칼리닌그라드 관련 핵 경고",
+      "category": "국제·안보",
+      "context": "조건부 경고 발언과 실제 조치를 구분해야 합니다."
+    },
+    "naverlead": {
+      "id": "naver-webtoon-leadership-2026",
+      "title": "네이버웹툰 공동대표 체제",
+      "category": "웹툰 산업",
+      "context": "국내와 글로벌 경영 역할의 재편을 다룬 기록입니다."
+    },
+    "cheongwang": {
+      "id": "cheongwang-demonstration-2026",
+      "title": "국군의날 천광 시연",
+      "category": "국내·안보",
+      "context": "시연 과정의 사실과 기술 평가를 구분할 기록입니다."
+    },
+    "cpi": {
+      "id": "korea-consumer-prices",
+      "title": "한국 소비자물가와 생활비 부담",
+      "category": "경제",
+      "context": "물가 상승률 둔화와 실제 생활비 부담을 구분해 볼 기록입니다."
+    }
+  },
+  "editions": {
+    "2026-09-15-am": [
+      "usmarket",
+      "ship",
+      "iranwar",
+      "ruenergy",
+      "minister",
+      "rent",
+      "mscode",
+      "oracle",
+      "centralasia",
+      "kstory"
+    ],
+    "2026-09-15-pm": [
+      "krmarket",
+      "krx",
+      "minister",
+      "centralasia",
+      "posco",
+      "kanana",
+      "fuelcell",
+      "chinaecon",
+      "oil",
+      "contentcouncil"
+    ],
+    "2026-09-16-am": [
+      "usmarket",
+      "iranwar",
+      "kdeployment",
+      "seoulbus",
+      "posco",
+      "aislow",
+      "sixg",
+      "centralasia",
+      "ace"
+    ],
+    "2026-09-16-pm": [
+      "krmarket",
+      "yoontrial",
+      "centralasia",
+      "hynixintel",
+      "posco",
+      "kdeployment",
+      "lgdev",
+      "shortanime"
+    ],
+    "2026-09-17-am": [
+      "fed",
+      "usmarket",
+      "fx",
+      "oil",
+      "nkcontact",
+      "aigovernance",
+      "performtax",
+      "kstory",
+      "judge"
+    ],
+    "2026-09-17-pm": [
+      "krmarket",
+      "judge",
+      "admission",
+      "kdeployment",
+      "iea",
+      "samsungforum",
+      "uschina",
+      "awards"
+    ],
+    "2026-09-18-am": [
+      "usmarket",
+      "fx",
+      "iranwar",
+      "nkdrill",
+      "aigovernance",
+      "chuseokcost",
+      "iphone",
+      "nuclearfault",
+      "bicof"
+    ],
+    "2026-09-18-pm": [
+      "krmarket",
+      "boj",
+      "kdeployment",
+      "housing",
+      "fuelcut",
+      "uschina",
+      "bicof",
+      "krusforeign"
+    ],
+    "2026-09-19-am": [
+      "krusforeign",
+      "usmarket",
+      "oil",
+      "claudeintrusion",
+      "aimisinfo",
+      "kraibudget",
+      "petrocartel",
+      "bicof"
+    ],
+    "2026-09-19-pm": [
+      "youth",
+      "defense",
+      "climatemarch",
+      "aidemocracy",
+      "uschina",
+      "nkus",
+      "asian",
+      "bicof"
+    ],
+    "2026-09-20-am": [
+      "oil",
+      "uschina",
+      "aigovernance",
+      "minister",
+      "hospital",
+      "housing",
+      "bicof",
+      "truck"
+    ],
+    "2026-09-20-pm": [
+      "nkmissile",
+      "reorg",
+      "irantalk",
+      "krmarket",
+      "aidata",
+      "traffic",
+      "tgs",
+      "bicof"
+    ],
+    "2026-09-21-am": [
+      "uschina",
+      "irantalk",
+      "fed",
+      "krmarket",
+      "nkmissile",
+      "rusvote",
+      "anthropic",
+      "medical",
+      "hackathon"
+    ],
+    "2026-09-21-pm": [
+      "krmarket",
+      "exports",
+      "chiefstaff",
+      "admission",
+      "aihub",
+      "uschina",
+      "rusvote",
+      "globaldrop"
+    ],
+    "2026-09-22-am": [
+      "usmarket",
+      "oil",
+      "nkmissile",
+      "krjpus",
+      "uschina",
+      "housedebt",
+      "single",
+      "globaldrop"
+    ],
+    "2026-09-22-pm": [
+      "krmarket",
+      "usinvest",
+      "court",
+      "kimtrial",
+      "sovereignai",
+      "kakaowebtoon",
+      "uschina",
+      "ungeneral"
+    ],
+    "2026-09-23-am": [
+      "nkus",
+      "irantalk",
+      "usmarket",
+      "oil",
+      "consentiment",
+      "aisafety",
+      "schoolviolence",
+      "kakaowebtoon"
+    ],
+    "2026-09-23-pm": [
+      "krmarket",
+      "court",
+      "traffic",
+      "naverstrike",
+      "aigovernance",
+      "uschina",
+      "kakaowebtoon"
+    ],
+    "2026-09-24-am": [
+      "uschina",
+      "usmarket",
+      "oil",
+      "aigovernance",
+      "growth",
+      "defense",
+      "traffic",
+      "kakaowebtoon"
+    ],
+    "2026-09-24-pm": [
+      "kpow",
+      "fx",
+      "uschina",
+      "agentsecurity",
+      "reorg",
+      "mexico",
+      "webtoondrama",
+      "weather"
+    ],
+    "2026-09-25-am": [
+      "uschina",
+      "usmarket",
+      "oil",
+      "mexico",
+      "kpow",
+      "uschina",
+      "webtoonholiday",
+      "traffic"
+    ],
+    "2026-09-25-pm": [
+      "irantalk",
+      "honam",
+      "mexico",
+      "kpow",
+      "qualcomm",
+      "webtoonholiday",
+      "traffic",
+      "airports"
+    ],
+    "2026-09-26-am": [
+      "uschina",
+      "usmarket",
+      "oil",
+      "fx",
+      "ussentiment",
+      "agentsecurity",
+      "mexico",
+      "birth",
+      "kakaowebtoon"
+    ],
+    "2026-09-26-pm": [
+      "irantalk",
+      "uschina",
+      "dmz",
+      "agentsecurity",
+      "usmarket",
+      "honam",
+      "traffic",
+      "fair"
+    ],
+    "2026-09-27-am": [
+      "uschina",
+      "irantalk",
+      "krmarket",
+      "meta",
+      "applepatent",
+      "mexico",
+      "asian",
+      "kakaowebtoon"
+    ],
+    "2026-09-27-pm": [
+      "dmz",
+      "econteam",
+      "krmarket",
+      "cheongong",
+      "disasterai",
+      "lgnvidia",
+      "rureport",
+      "taiwan",
+      "webtoongame"
+    ],
+    "2026-09-28-am": [
+      "kpow",
+      "irantalk",
+      "uschina",
+      "krmarket",
+      "insurance",
+      "meta",
+      "kakaowebtoon"
+    ],
+    "2026-09-28-pm": [
+      "dmz",
+      "kpow",
+      "krmarket",
+      "hft",
+      "court",
+      "bankhours",
+      "aihardware",
+      "irantalk",
+      "kakaowebtoon"
+    ],
+    "2026-09-29-am": [
+      "usmarket",
+      "helix",
+      "irantalk",
+      "runk",
+      "aiexplosion",
+      "aiceos",
+      "businesssent",
+      "kakaowebtoon"
+    ],
+    "2026-09-29-pm": [
+      "dmz",
+      "krmarket",
+      "honam",
+      "reorg",
+      "kpow",
+      "devday",
+      "tving",
+      "kakaowebtoon",
+      "asian"
+    ],
+    "2026-09-30-am": [
+      "activity",
+      "dmz",
+      "usmarket",
+      "oil",
+      "usinvest",
+      "devday",
+      "anthropic",
+      "kakaowebtoon"
+    ],
+    "2026-09-30-pm": [
+      "krmarket",
+      "fx",
+      "defense",
+      "dmz",
+      "aisafety",
+      "oil",
+      "anti",
+      "asian"
+    ],
+    "2026-10-01-am": [
+      "usinvest",
+      "micron",
+      "uspce",
+      "ukiran",
+      "awsclaude",
+      "housedebt",
+      "webtoongame",
+      "reorg"
+    ],
+    "2026-10-01-pm": [
+      "krmarket",
+      "exports",
+      "usinvest",
+      "reorg",
+      "kbonds",
+      "claudex",
+      "kaliningrad",
+      "naverlead",
+      "cheongwang"
+    ],
+    "2026-10-02-am": [
+      "cpi",
+      "reorg",
+      "usmarket",
+      "oil",
+      "iranwar",
+      "agentsecurity",
+      "anthropic",
+      "naverlead"
+    ]
+  },
+  "evidence": {
+    "2026-09-15-am/02": {
+      "note": "유조선 사건과 원인에 관한 미·이란의 서로 다른 주장을 다룬 관련 보도를 다시 찾았습니다. 원래 기록 전체의 재검증 완료를 뜻하지는 않습니다.",
+      "articles": [
+        {
+          "name": "뉴시스",
+          "title": "이란 “호르무즈서 기뢰 폭발로 유조선 화재”…美 “거짓말, 드론 공격”",
+          "url": "https://mobile.newsis.com/view/NISX20260915_0003789304",
+          "publishedAt": "2026-09-15T06:09:27+09:00",
+          "verifiedAt": "2026-10-02T12:31:48+09:00",
+          "kind": "press",
+          "language": "ko"
+        }
+      ]
+    },
+    "2026-09-26-pm/08": {
+      "note": "재검색한 기사는 9월 24일 보도이며 행사 기간은 9월 17~18일로 설명합니다. 9월 26일은 이 아카이브의 회차 날짜이며 사건 발생일이 아닙니다.",
+      "articles": [
+        {
+          "name": "서울신문",
+          "title": "‘2026 경기국제웹툰페어’, 역대 최대 2280만 달러 수출 상담",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260924500021",
+          "publishedAt": "2026-09-24T07:36:00+09:00",
+          "verifiedAt": "2026-10-02T12:31:48+09:00",
+          "kind": "press",
+          "language": "ko"
+        }
+      ]
+    },
+    "2026-09-30-pm/07": {
+      "note": "네이버웹툰 구매 유입·매출 분석 부분의 관련 보도입니다. 같은 항목에 적힌 레드아이스스튜디오 지분 협력까지 뒷받침하는 출처는 아닙니다.",
+      "articles": [
+        {
+          "name": "바이라인네트워크",
+          "title": "뉴토끼 셧다운 후 구매 유입 늘어…네이버웹툰 “7.9배 증가”",
+          "url": "https://byline.network/2026/09/30-600/",
+          "publishedAt": "2026-09-30T10:29:00+09:00",
+          "verifiedAt": "2026-10-02T12:31:48+09:00",
+          "kind": "press",
+          "language": "ko"
+        }
+      ]
+    },
+    "2026-10-01-pm/08": {
+      "note": "10월 1일 공동대표 선임은 네이버 공식 발표에서 확인했습니다. 10월 2일의 “신규 대형 발표 없음” 표현까지 검증한 것은 아닙니다.",
+      "articles": [
+        {
+          "name": "네이버 공식 발표",
+          "title": "네이버웹툰, 김용수·김규남 공동대표 선임…글로벌 성장 위한 경영 체계 강화",
+          "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034704",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-02T12:31:48+09:00",
+          "kind": "official",
+          "language": "ko"
+        }
+      ]
+    },
+    "2026-10-02-am/08": {
+      "note": "10월 1일 공동대표 선임은 네이버 공식 발표에서 확인했습니다. 10월 2일의 “신규 대형 발표 없음” 표현까지 검증한 것은 아닙니다.",
+      "articles": [
+        {
+          "name": "네이버 공식 발표",
+          "title": "네이버웹툰, 김용수·김규남 공동대표 선임…글로벌 성장 위한 경영 체계 강화",
+          "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034704",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-02T12:31:48+09:00",
+          "kind": "official",
+          "language": "ko"
+        }
+      ]
+    }
+  }
+}

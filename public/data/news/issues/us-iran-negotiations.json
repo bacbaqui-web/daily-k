@@ -10,6 +10,7 @@
       "editionDate": "2026-10-02",
       "edition": "am",
       "coveredAt": "2026-10-02T11:05:30+09:00",
+      "coveredOn": "2026-10-02",
       "publishedAt": "2026-10-02T01:19:00+09:00",
       "eventAt": null,
       "eventDate": "2026-09-28",
@@ -53,11 +54,481 @@
         }
       ],
       "briefingPath": "2026-10-02/am.json",
-      "previous": null,
+      "previous": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-03"
+      },
       "followUp": null,
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-09-20-pm-archive/archive-03",
+      "editionId": "2026-09-20-pm-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-20",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-20",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 이란 \"조건 안 받으면 호르무즈 계속 폐쇄\".",
+      "title": "이란 \"조건 안 받으면 호르무즈 계속 폐쇄\"",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "이란 \"조건 안 받으면 호르무즈 계속 폐쇄\"."
+      ],
+      "keyFacts": {
+        "originalRecord": "이란 \"조건 안 받으면 호르무즈 계속 폐쇄\"."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-20/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "이란 \"조건 안 받으면 호르무즈 계속 폐쇄\".",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 161,
+        "lineEnd": 161,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-21-am-archive/archive-02",
+      "editionId": "2026-09-21-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-21",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-21",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성.",
+      "title": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성."
+      ],
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-21/am.json",
+      "previous": {
+        "editionId": "2026-09-20-pm-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 171,
+        "lineEnd": 171,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "이란 \"조건 안 받으면 호르무즈 계속 폐쇄\"",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-23-am-archive/archive-02",
+      "editionId": "2026-09-23-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-23",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-23",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 미국·이란 3시간 협상.",
+      "title": "미국·이란 3시간 협상",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "미국·이란 3시간 협상."
+      ],
+      "keyFacts": {
+        "originalRecord": "미국·이란 3시간 협상."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-23/am.json",
+      "previous": {
+        "editionId": "2026-09-21-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "미국·이란 3시간 협상.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 216,
+        "lineEnd": 216,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-25-pm-archive/archive-01",
+      "editionId": "2026-09-25-pm-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-25",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-25",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 이란, 호르무즈 재개방 위한 7일 로드맵 제시.",
+      "title": "이란, 호르무즈 재개방 위한 7일 로드맵 제시",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "이란, 호르무즈 재개방 위한 7일 로드맵 제시."
+      ],
+      "keyFacts": {
+        "originalRecord": "이란, 호르무즈 재개방 위한 7일 로드맵 제시."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-25/pm.json",
+      "previous": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "이란, 호르무즈 재개방 위한 7일 로드맵 제시.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 270,
+        "lineEnd": 270,
+        "previousCoverage": {
+          "date": "2026-09-23",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "미국·이란 3시간 협상",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-26-pm-archive/archive-01",
+      "editionId": "2026-09-26-pm-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-26",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-26",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 7일 계획 거부 보도.",
+      "title": "트럼프, 이란 7일 계획 거부 보도",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "트럼프, 이란 7일 계획 거부 보도."
+      ],
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 7일 계획 거부 보도."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-26/pm.json",
+      "previous": {
+        "editionId": "2026-09-25-pm-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "트럼프, 이란 7일 계획 거부 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 294,
+        "lineEnd": 294,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "이란, 호르무즈 재개방 위한 7일 로드맵 제시",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-27-am-archive/archive-02",
+      "editionId": "2026-09-27-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-27",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-27",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 호르무즈 7일 제안 거절 직접 확인.",
+      "title": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인."
+      ],
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-27/am.json",
+      "previous": {
+        "editionId": "2026-09-26-pm-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 306,
+        "lineEnd": 306,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "트럼프, 이란 7일 계획 거부 보도",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-28-am-archive/archive-02",
+      "editionId": "2026-09-28-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-28",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-28",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란안 거절 하루 만에 \"이번 주 추가 회담 예상\".",
+      "title": "트럼프, 이란안 거절 하루 만에 \"이번 주 추가 회담 예상\"",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "트럼프, 이란안 거절 하루 만에 \"이번 주 추가 회담 예상\"."
+      ],
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란안 거절 하루 만에 \"이번 주 추가 회담 예상\"."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-28/am.json",
+      "previous": {
+        "editionId": "2026-09-27-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "트럼프, 이란안 거절 하루 만에 \"이번 주 추가 회담 예상\".",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 329,
+        "lineEnd": 329,
+        "previousCoverage": {
+          "date": "2026-09-27",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "트럼프, 이란 호르무즈 7일 제안 거절 직접 확인",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-28-pm-archive/archive-08",
+      "editionId": "2026-09-28-pm-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-28",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-28",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 이란 \"뉴욕에서 미국과 새 회담 계획 없어\".",
+      "title": "이란 \"뉴욕에서 미국과 새 회담 계획 없어\"",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "이란 \"뉴욕에서 미국과 새 회담 계획 없어\"."
+      ],
+      "keyFacts": {
+        "originalRecord": "이란 \"뉴욕에서 미국과 새 회담 계획 없어\"."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-28/pm.json",
+      "previous": {
+        "editionId": "2026-09-28-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "이란 \"뉴욕에서 미국과 새 회담 계획 없어\".",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 345,
+        "lineEnd": 345,
+        "previousCoverage": {
+          "date": "2026-09-28",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "트럼프, 이란안 거절 하루 만에 \"이번 주 추가 회담 예상\"",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-29-am-archive/archive-03",
+      "editionId": "2026-09-29-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-29",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-29",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 미국, 이란 핵 양보 시 제재완화·동결자금 해제 가능성 시사.",
+      "title": "미국, 이란 핵 양보 시 제재완화·동결자금 해제 가능성 시사",
+      "category": "국제·외교",
+      "status": "과거 기록",
+      "summary": [
+        "미국, 이란 핵 양보 시 제재완화·동결자금 해제 가능성 시사."
+      ],
+      "keyFacts": {
+        "originalRecord": "미국, 이란 핵 양보 시 제재완화·동결자금 해제 가능성 시사."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-29/am.json",
+      "previous": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-08"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "미국, 이란 핵 양보 시 제재완화·동결자금 해제 가능성 시사.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 352,
+        "lineEnd": 352,
+        "previousCoverage": {
+          "date": "2026-09-28",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "이란 \"뉴욕에서 미국과 새 회담 계획 없어\"",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
     }
   ],
-  "updatedAt": "2026-10-02T11:48:06+09:00"
+  "updatedAt": "2026-10-02T12:34:33+09:00"
 }

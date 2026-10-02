@@ -10,6 +10,7 @@
       "editionDate": "2026-10-02",
       "edition": "am",
       "coveredAt": "2026-10-02T11:05:30+09:00",
+      "coveredOn": "2026-10-02",
       "publishedAt": "2026-09-30T10:29:00+09:00",
       "eventAt": null,
       "eventDate": "2026-09-30",
@@ -55,11 +56,58 @@
         }
       ],
       "briefingPath": "2026-10-02/am.json",
-      "previous": null,
+      "previous": {
+        "editionId": "2026-09-30-pm-archive",
+        "storyId": "archive-07"
+      },
       "followUp": null,
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-09-30-pm-archive/archive-07",
+      "editionId": "2026-09-30-pm-archive",
+      "storyId": "archive-07",
+      "editionDate": "2026-09-30",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-30",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 뉴토끼 폐쇄 직후 불법유출 피해 작품 신규 구매자 최대 7.9배, 매출 29.7% 증가. 레드아이스스튜디오-컴투스엔 지분 협력.",
+      "title": "뉴토끼 폐쇄 직후 불법유출 피해 작품 신규 구매자 최대 7.9배, 매출 29.7% 증가",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "뉴토끼 폐쇄 직후 불법유출 피해 작품 신규 구매자 최대 7.9배, 매출 29.7% 증가. 레드아이스스튜디오-컴투스엔 지분 협력."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 뉴토끼 폐쇄 직후 불법유출 피해 작품 신규 구매자 최대 7.9배, 매출 29.7% 증가. 레드아이스스튜디오-컴투스엔 지분 협력."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-30/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 뉴토끼 폐쇄 직후 불법유출 피해 작품 신규 구매자 최대 7.9배, 매출 29.7% 증가. 레드아이스스튜디오-컴투스엔 지분 협력.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 393,
+        "lineEnd": 394,
+        "reviewNote": "네이버웹툰 구매 유입·매출 분석 부분의 관련 보도입니다. 같은 항목에 적힌 레드아이스스튜디오 지분 협력까지 뒷받침하는 출처는 아닙니다.",
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
     }
   ],
-  "updatedAt": "2026-10-02T11:48:06+09:00"
+  "updatedAt": "2026-10-02T12:34:33+09:00"
 }

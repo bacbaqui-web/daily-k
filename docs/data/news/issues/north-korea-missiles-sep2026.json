@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "north-korea-missiles-sep2026",
+  "title": "북한 2026년 9월 미사일 발사",
+  "entries": [
+    {
+      "id": "2026-09-20-pm-archive/archive-01",
+      "editionId": "2026-09-20-pm-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-20",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-20",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 북한 단거리 탄도미사일 2발 발사.",
+      "title": "북한 단거리 탄도미사일 2발 발사",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "북한 단거리 탄도미사일 2발 발사."
+      ],
+      "keyFacts": {
+        "originalRecord": "북한 단거리 탄도미사일 2발 발사."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-20/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "북한 단거리 탄도미사일 2발 발사.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 159,
+        "lineEnd": 159,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-21-am-archive/archive-05",
+      "editionId": "2026-09-21-am-archive",
+      "storyId": "archive-05",
+      "editionDate": "2026-09-21",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-21",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 북한 미사일 발사 후 관영매체 침묵.",
+      "title": "북한 미사일 발사 후 관영매체 침묵",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "북한 미사일 발사 후 관영매체 침묵."
+      ],
+      "keyFacts": {
+        "originalRecord": "북한 미사일 발사 후 관영매체 침묵."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-21/am.json",
+      "previous": {
+        "editionId": "2026-09-20-pm-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "북한 미사일 발사 후 관영매체 침묵.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 174,
+        "lineEnd": 174,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "북한 단거리 탄도미사일 2발 발사",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-22-am-archive/archive-03",
+      "editionId": "2026-09-22-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-22",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-22",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개.",
+      "title": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개",
+      "category": "국제·안보",
+      "status": "과거 기록",
+      "summary": [
+        "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개."
+      ],
+      "keyFacts": {
+        "originalRecord": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-22/am.json",
+      "previous": {
+        "editionId": "2026-09-21-am-archive",
+        "storyId": "archive-05"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 195,
+        "lineEnd": 195,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "북한 미사일 발사 후 관영매체 침묵",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

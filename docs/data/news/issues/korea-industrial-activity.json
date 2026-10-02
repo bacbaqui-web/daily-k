@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-industrial-activity",
+  "title": "한국 생산·소비·투자 통계",
+  "entries": [
+    {
+      "id": "2026-09-30-am-archive/archive-01",
+      "editionId": "2026-09-30-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-30",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-30",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소.",
+      "title": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소",
+      "category": "경제",
+      "status": "과거 기록",
+      "summary": [
+        "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소."
+      ],
+      "keyFacts": {
+        "originalRecord": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-30/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 375,
+        "lineEnd": 375,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

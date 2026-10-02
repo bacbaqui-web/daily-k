@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "andong-k-story-2026",
+  "title": "2026 안동 K-스토리 페스티벌",
+  "entries": [
+    {
+      "id": "2026-09-15-am-archive/archive-10",
+      "editionId": "2026-09-15-am-archive",
+      "storyId": "archive-10",
+      "editionDate": "2026-09-15",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 안동 K-스토리 페스티벌. 웹툰 IP를 방송·OTT에 직접 피칭.",
+      "title": "안동 K-스토리 페스티벌",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "안동 K-스토리 페스티벌. 웹툰 IP를 방송·OTT에 직접 피칭."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 안동 K-스토리 페스티벌. 웹툰 IP를 방송·OTT에 직접 피칭. 확인: 연합뉴스."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-15/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 안동 K-스토리 페스티벌. 웹툰 IP를 방송·OTT에 직접 피칭. 확인: 연합뉴스.",
+        "sourceNames": [
+          "연합뉴스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 10,
+        "lineStart": 33,
+        "lineEnd": 34,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-17-am-archive/archive-08",
+      "editionId": "2026-09-17-am-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-17",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-17",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: K-스토리 페스티벌 개막.",
+      "title": "K-스토리 페스티벌 개막",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "K-스토리 페스티벌 개막."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] K-스토리 페스티벌 개막."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-17/am.json",
+      "previous": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-10"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] K-스토리 페스티벌 개막.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 86,
+        "lineEnd": 86,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "am",
+          "storyId": "archive-10",
+          "title": "안동 K-스토리 페스티벌",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

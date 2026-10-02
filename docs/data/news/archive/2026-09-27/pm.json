@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-27-pm-archive",
+  "date": "2026-09-27",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-27 저녁 기록에는 국제·안보, 경제·정책, 증시·환율, 국내 정책·사회, 기술·IT·AI, 국제·외교, 웹툰 산업 분야의 소식 9개가 담겨 있습니다.",
+    "주요 기록: 군·유엔사 DMZ 현장조사, 폭발지점 도달 못함. 웹툰 산업 기록: 《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-27-pm-archive-01",
+      "category": "국제·안보",
+      "title": "군·유엔사 DMZ 현장조사, 폭발지점 도달 못함",
+      "summary": [
+        "군·유엔사 DMZ 현장조사, 폭발지점 도달 못함."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "군·유엔사 DMZ 현장조사, 폭발지점 도달 못함.",
+      "whyItMatters": "조사 착수·발견 내용·각국 입장을 시간순으로 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "군·유엔사 DMZ 현장조사, 폭발지점 도달 못함."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "군·유엔사 DMZ 현장조사, 폭발지점 도달 못함.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 316,
+        "lineEnd": 316,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "dmz-mine-incident-2026",
+        "issueTitle": "DMZ 폭발·지뢰 조사와 남북 입장",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 군·유엔사 DMZ 현장조사, 폭발지점 도달 못함."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-27-pm-archive-02",
+      "category": "경제·정책",
+      "title": "경제팀 첫 현안회의, 전기차·퇴직연금 논의",
+      "summary": [
+        "경제팀 첫 현안회의, 전기차·퇴직연금 논의."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "경제팀 첫 현안회의, 전기차·퇴직연금 논의.",
+      "whyItMatters": "정책 논의와 실제 결정 사이의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "경제팀 첫 현안회의, 전기차·퇴직연금 논의."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "경제팀 첫 현안회의, 전기차·퇴직연금 논의.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 317,
+        "lineEnd": 317
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-economic-team-meeting",
+        "issueTitle": "한국 경제팀 현안회의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 경제팀 첫 현안회의, 전기차·퇴직연금 논의."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-27-pm-archive-03",
+      "category": "증시·환율",
+      "title": "국내장 재개 대기, 연휴 해외시장 반영",
+      "summary": [
+        "국내장 재개 대기, 연휴 해외시장 반영."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "국내장 재개 대기, 연휴 해외시장 반영.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "국내장 재개 대기, 연휴 해외시장 반영."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "국내장 재개 대기, 연휴 해외시장 반영.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 318,
+        "lineEnd": 318,
+        "previousCoverage": {
+          "date": "2026-09-27",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "국내장 재개 전 해외시장 점검",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 국내장 재개 대기, 연휴 해외시장 반영."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-27-pm-archive-04",
+      "category": "국내 정책·사회",
+      "title": "'천공 관저 개입 의혹' 제기자 무혐의",
+      "summary": [
+        "'천공 관저 개입 의혹' 제기자 무혐의."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "'천공 관저 개입 의혹' 제기자 무혐의.",
+      "whyItMatters": "수사 결과의 대상과 의미를 원문으로 확인할 필요가 있습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "'천공 관저 개입 의혹' 제기자 무혐의."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "'천공 관저 개입 의혹' 제기자 무혐의.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 319,
+        "lineEnd": 319
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "presidential-residence-allegation-case",
+        "issueTitle": "관저 개입 의혹 제기자 사건",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: '천공 관저 개입 의혹' 제기자 무혐의."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-27-pm-archive-05",
+      "category": "기술·IT·AI",
+      "title": "재난안전 AI 2030년까지 50개 사업·9,400억원",
+      "summary": [
+        "재난안전 AI 2030년까지 50개 사업·9,400억원."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "재난안전 AI 2030년까지 50개 사업·9,400억원.",
+      "whyItMatters": "다년 사업 계획과 연도별 집행을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "재난안전 AI 2030년까지 50개 사업·9,400억원."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "재난안전 AI 2030년까지 50개 사업·9,400억원.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 320,
+        "lineEnd": 320
+      },
+      "emphasis": [
+        "9,400억원"
+      ],
+      "timeline": {
+        "issueId": "korea-disaster-ai-2030",
+        "issueTitle": "재난안전 AI 사업",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 재난안전 AI 2030년까지 50개 사업·9,400억원."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-27-pm-archive-06",
+      "category": "기술·IT·AI",
+      "title": "LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너",
+      "summary": [
+        "LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너.",
+      "whyItMatters": "전력·냉각 협력의 범위와 실행을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 321,
+        "lineEnd": 321
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "lg-nvidia-data-center",
+        "issueTitle": "LG전자·엔비디아 데이터센터 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-27-pm-archive-07",
+      "category": "국제·외교",
+      "title": "러시아 매체의 이 대통령 발언 왜곡 논란",
+      "summary": [
+        "러시아 매체의 이 대통령 발언 왜곡 논란."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "러시아 매체의 이 대통령 발언 왜곡 논란.",
+      "whyItMatters": "원 발언과 보도 내용의 차이를 확인해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "러시아 매체의 이 대통령 발언 왜곡 논란."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "러시아 매체의 이 대통령 발언 왜곡 논란.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 322,
+        "lineEnd": 322
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "russian-media-korea-remarks",
+        "issueTitle": "러시아 매체의 한국 대통령 발언 보도 논란",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 러시아 매체의 이 대통령 발언 왜곡 논란."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-27-pm-archive-08",
+      "category": "국제·안보",
+      "title": "대만, 미국에 140억달러 무기판매 승인 촉구",
+      "summary": [
+        "대만, 미국에 140억달러 무기판매 승인 촉구."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "대만, 미국에 140억달러 무기판매 승인 촉구.",
+      "whyItMatters": "승인 촉구와 실제 승인·인도는 다른 단계입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "대만, 미국에 140억달러 무기판매 승인 촉구."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "대만, 미국에 140억달러 무기판매 승인 촉구.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 323,
+        "lineEnd": 323
+      },
+      "emphasis": [
+        "140억달러"
+      ],
+      "timeline": {
+        "issueId": "taiwan-us-arms",
+        "issueTitle": "대만의 미국 무기판매 승인 요청",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 대만, 미국에 140억달러 무기판매 승인 촉구."
+      }
+    },
+    {
+      "id": "archive-09",
+      "topicKey": "2026-09-27-pm-archive-09",
+      "category": "웹툰 산업",
+      "title": "《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장",
+      "summary": [
+        "《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장.",
+      "whyItMatters": "원작 IP의 게임 확장과 사전등록 경과를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 324,
+        "lineEnd": 324
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "webtoon-ip-games",
+        "issueTitle": "웹툰·웹소설 IP 게임화",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-27 저녁",
+    "watchItems": []
+  }
+}

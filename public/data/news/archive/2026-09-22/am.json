@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-22-am-archive",
+  "date": "2026-09-22",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-22 오전 기록에는 증시·금리, 국제·에너지, 국제·안보, 국제·외교, 국제·경제, 경제·금융, 사회·생활, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 나스닥 +2.3% 사상 최고, AI주 강세. 웹툰 산업 기록: 네이버웹툰 9개 언어 동시연재 전략 재조명."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-22-am-archive-01",
+      "category": "증시·금리",
+      "title": "나스닥 +2.3% 사상 최고, AI주 강세",
+      "summary": [
+        "나스닥 +2.3% 사상 최고, AI주 강세."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "나스닥 +2.3% 사상 최고, AI주 강세.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "나스닥 +2.3% 사상 최고, AI주 강세."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "나스닥 +2.3% 사상 최고, AI주 강세.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 193,
+        "lineEnd": 193,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "나스닥 +0.4%, 美10년물 다시 5%대",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+2.3%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +2.3% 사상 최고, AI주 강세."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-22-am-archive-02",
+      "category": "국제·에너지",
+      "title": "WTI -4.5% 95.78달러, 미·이란 접촉 기대",
+      "summary": [
+        "WTI -4.5% 95.78달러, 미·이란 접촉 기대."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "WTI -4.5% 95.78달러, 미·이란 접촉 기대.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "WTI -4.5% 95.78달러, 미·이란 접촉 기대."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "WTI -4.5% 95.78달러, 미·이란 접촉 기대.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 194,
+        "lineEnd": 194,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "후티, 사우디 리야드 공격",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "-4.5%",
+        "95.78달러"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: WTI -4.5% 95.78달러, 미·이란 접촉 기대."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-22-am-archive-03",
+      "category": "국제·안보",
+      "title": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개",
+      "summary": [
+        "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개.",
+      "whyItMatters": "발사 사실과 이후 공개된 기종·주장을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 195,
+        "lineEnd": 195,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "북한 미사일 발사 후 관영매체 침묵",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "north-korea-missiles-sep2026",
+        "issueTitle": "북한 2026년 9월 미사일 발사",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-22-am-archive-04",
+      "category": "국제·외교",
+      "title": "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응",
+      "summary": [
+        "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응.",
+      "whyItMatters": "대북 대화와 공급망 공조의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 196,
+        "lineEnd": 196
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-us-japan-diplomacy",
+        "issueTitle": "한미일 외교 협의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-22-am-archive-05",
+      "category": "국제·경제",
+      "title": "미중 AI 위험 대화 공식화, AI 핫라인 논의",
+      "summary": [
+        "미중 AI 위험 대화 공식화, AI 핫라인 논의."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 AI 위험 대화 공식화, AI 핫라인 논의.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 AI 위험 대화 공식화, AI 핫라인 논의."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 AI 위험 대화 공식화, AI 핫라인 논의.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 197,
+        "lineEnd": 197,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "미중 8시간 협상, AI 대화채널 합의·무역휴전 연장 미합의",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 AI 위험 대화 공식화, AI 핫라인 논의."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-22-am-archive-06",
+      "category": "경제·금융",
+      "title": "5대 은행 가계대출 총량 목표 재초과",
+      "summary": [
+        "5대 은행 가계대출 총량 목표 재초과."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "5대 은행 가계대출 총량 목표 재초과.",
+      "whyItMatters": "대출 총량·규제 예외 등 서로 다른 지표를 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "5대 은행 가계대출 총량 목표 재초과."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "5대 은행 가계대출 총량 목표 재초과.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 198,
+        "lineEnd": 198
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-household-lending",
+        "issueTitle": "국내 가계대출 관리",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 5대 은행 가계대출 총량 목표 재초과."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-22-am-archive-07",
+      "category": "사회·생활",
+      "title": "1인 가구 46.2% 사회적 관계 취약 분석",
+      "summary": [
+        "1인 가구 46.2% 사회적 관계 취약 분석."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "1인 가구 46.2% 사회적 관계 취약 분석.",
+      "whyItMatters": "조사의 대상과 취약성 정의를 함께 확인할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "1인 가구 46.2% 사회적 관계 취약 분석."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "1인 가구 46.2% 사회적 관계 취약 분석.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 199,
+        "lineEnd": 199
+      },
+      "emphasis": [
+        "46.2%"
+      ],
+      "timeline": {
+        "issueId": "korea-single-households",
+        "issueTitle": "1인 가구의 사회적 관계",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 1인 가구 46.2% 사회적 관계 취약 분석."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-22-am-archive-08",
+      "category": "웹툰 산업",
+      "title": "네이버웹툰 9개 언어 동시연재 전략 재조명",
+      "summary": [
+        "네이버웹툰 9개 언어 동시연재 전략 재조명."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "네이버웹툰 9개 언어 동시연재 전략 재조명.",
+      "whyItMatters": "다국어 동시연재와 해외 독자 확대 전략에 관한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 네이버웹툰 9개 언어 동시연재 전략 재조명."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 네이버웹툰 9개 언어 동시연재 전략 재조명.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 200,
+        "lineEnd": 200,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "naver-webtoon-global-drop",
+        "issueTitle": "네이버웹툰 글로벌 드롭",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버웹툰 9개 언어 동시연재 전략 재조명."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-22 오전",
+    "watchItems": []
+  }
+}

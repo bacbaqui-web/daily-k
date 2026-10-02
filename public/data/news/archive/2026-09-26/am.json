@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-26-am-archive",
+  "date": "2026-09-26",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-26 오전 기록에는 국제·경제, 증시·금리, 국제·에너지, 환율·금리, 경제, 기술·IT·AI, 사회·인구, 웹툰 산업 분야의 소식 9개가 담겨 있습니다.",
+    "주요 기록: 미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고. 웹툰 산업 기록: 29일 카카오 통합 세부안이 다음 핵심 일정."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-26-am-archive-01",
+      "category": "국제·경제",
+      "title": "미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고",
+      "summary": [
+        "미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 282,
+        "lineEnd": 282,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "미중 AI 대화 지속, 규제 시각차",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-26-am-archive-02",
+      "category": "증시·금리",
+      "title": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%",
+      "summary": [
+        "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 283,
+        "lineEnd": 283,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+0.93%",
+        "+0.48%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-26-am-archive-03",
+      "category": "국제·에너지",
+      "title": "이란 7일 로드맵 기대에 WTI -2.33%",
+      "summary": [
+        "이란 7일 로드맵 기대에 WTI -2.33%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "이란 7일 로드맵 기대에 WTI -2.33%.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "이란 7일 로드맵 기대에 WTI -2.33%."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "이란 7일 로드맵 기대에 WTI -2.33%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 284,
+        "lineEnd": 284,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "-2.33%"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이란 7일 로드맵 기대에 WTI -2.33%."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-26-am-archive-04",
+      "category": "환율·금리",
+      "title": "원·달러 1,357원",
+      "summary": [
+        "원·달러 1,357원."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "원·달러 1,357원.",
+      "whyItMatters": "환율 수치를 당시 시점과 거래 구분에 맞춰 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "원·달러 1,357원."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "원·달러 1,357원.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 285,
+        "lineEnd": 285,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "원·달러 1,366원, 장중 1,376원",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "1,357원"
+      ],
+      "timeline": {
+        "issueId": "usdkrw-oil-export-flows",
+        "issueTitle": "유가와 수출기업 수급에 따른 원·달러 환율",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,357원."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-26-am-archive-05",
+      "category": "경제",
+      "title": "미국 소비심리 48.1, 역대 두 번째 낮은 수준",
+      "summary": [
+        "미국 소비심리 48.1, 역대 두 번째 낮은 수준."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미국 소비심리 48.1, 역대 두 번째 낮은 수준.",
+      "whyItMatters": "표본·지표 기준과 발표 시점을 확인할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미국 소비심리 48.1, 역대 두 번째 낮은 수준."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미국 소비심리 48.1, 역대 두 번째 낮은 수준.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 286,
+        "lineEnd": 286
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-consumer-sentiment",
+        "issueTitle": "미국 소비심리",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미국 소비심리 48.1, 역대 두 번째 낮은 수준."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-26-am-archive-06",
+      "category": "기술·IT·AI",
+      "title": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도",
+      "summary": [
+        "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도.",
+      "whyItMatters": "사고 범위 보도와 기관 조사의 진행을 구분해 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 287,
+        "lineEnd": 287,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "openai-agent-security-2026",
+        "issueTitle": "오픈AI 에이전트 보안사고와 조사 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-26-am-archive-07",
+      "category": "국제·경제",
+      "title": "이 대통령 한·멕시코 무역협정 재개 제안",
+      "summary": [
+        "이 대통령 한·멕시코 무역협정 재개 제안."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "이 대통령 한·멕시코 무역협정 재개 제안.",
+      "whyItMatters": "정상회담·협정·기업 금융 지원의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "이 대통령 한·멕시코 무역협정 재개 제안."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "이 대통령 한·멕시코 무역협정 재개 제안.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 288,
+        "lineEnd": 288,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "한멕시코 기업 후속, 수출입은행 1억달러 금융한도",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-mexico-economic-cooperation",
+        "issueTitle": "한·멕시코 무역·투자 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 한·멕시코 무역협정 재개 제안."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-26-am-archive-08",
+      "category": "사회·인구",
+      "title": "출생아 전망과 실제의 큰 괴리",
+      "summary": [
+        "출생아 전망과 실제의 큰 괴리."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "출생아 전망과 실제의 큰 괴리.",
+      "whyItMatters": "전망과 실측의 비교 기준을 확인할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "출생아 전망과 실제의 큰 괴리."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "출생아 전망과 실제의 큰 괴리.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 289,
+        "lineEnd": 289
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-birth-forecasts",
+        "issueTitle": "한국 출생아 전망과 실제",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 출생아 전망과 실제의 큰 괴리."
+      }
+    },
+    {
+      "id": "archive-09",
+      "topicKey": "2026-09-26-am-archive-09",
+      "category": "웹툰 산업",
+      "title": "29일 카카오 통합 세부안이 다음 핵심 일정",
+      "summary": [
+        "29일 카카오 통합 세부안이 다음 핵심 일정."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "29일 카카오 통합 세부안이 다음 핵심 일정.",
+      "whyItMatters": "통합 발표·예정 안내·구체 방안·노사 요구를 구분해 연결한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 29일 카카오 통합 세부안이 다음 핵심 일정."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 29일 카카오 통합 세부안이 다음 핵심 일정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 290,
+        "lineEnd": 290,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kakao-webtoon-platform-integration",
+        "issueTitle": "카카오페이지·카카오웹툰 통합과 타파스",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 29일 카카오 통합 세부안이 다음 핵심 일정."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-26 오전",
+    "watchItems": []
+  }
+}

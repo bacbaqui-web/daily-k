@@ -110,6 +110,9 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 @media(max-width:600px){.news{padding-top:22px}.news-controls{gap:12px;margin-bottom:24px}.news-story-title{font-size:17px}.news-story-summary{font-size:13px}.news-reader .news-reader-body{padding:0 12px 16px}.reader-dialog .news-reader-body>p{font-size:15px;line-height:1.9}.news-intro>p{font-size:14px}.news-time{font-size:11px;gap:6px 10px}.news-related{grid-template-columns:1fr;gap:9px}.news-link-card{flex-direction:row;align-items:stretch}.news-link-image{width:100px;min-height:100px;aspect-ratio:auto;flex-shrink:0}.news-link-image img{object-fit:cover}.news-link-copy{padding:10px 12px;gap:4px}.news-link-copy strong{font-size:13px}.news-link-copy time{padding-top:2px}}
 @media(max-width:380px){.category-tabs [data-slot="tabs-trigger"]{font-size:20px;padding:3px 8px}.news-link-image{width:82px}.news-time a{margin-left:0}}
 
+.news-versions{display:flex;justify-content:center;flex-wrap:wrap;gap:6px;margin:-8px 0 20px}.news-versions button{font-size:12px;min-height:34px;padding:5px 10px}.news-versions button[aria-pressed="true"]{background:var(--muted);font-weight:700;border-color:var(--news-accent)}
+.news-archive-notice{font-size:13px;line-height:1.7;color:var(--muted-foreground);padding:12px 14px;border:1px solid var(--border);border-radius:8px;margin:0 0 18px}.news-archive-detail{border-top:1px solid var(--border);padding-top:12px;margin-top:18px;color:var(--muted-foreground);font-size:13px}.news-archive-detail p{margin:8px 0}.news-archive-detail a{display:block;padding:12px 0;line-height:1.7;color:var(--news-accent)}
+
 /* Share tab accents with unread post cards in both themes. */
 .feed-tabs{--tab-humor:#006949;--tab-tagged:#9a3857;--tab-news:#355fb4;--category-accent:var(--tab-humor)}
 [data-theme="dark"] .feed-tabs{--tab-humor:var(--primary);--tab-tagged:#f4a9c1;--tab-news:#a8c1ff}

@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-23-am-archive",
+  "date": "2026-09-23",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-23 오전 기록에는 국제·외교, 증시·금리, 국제·에너지, 경제, 기술·IT·AI, 사회·교육, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시. 웹툰 산업 기록: 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-23-am-archive-01",
+      "category": "국제·외교",
+      "title": "이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시",
+      "summary": [
+        "이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시.",
+      "whyItMatters": "접촉 준비 발언과 확정된 회담을 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 215,
+        "lineEnd": 215,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "美당국자 \"트럼프, 김정은과 통화·대면 준비\"",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-north-korea-dialogue",
+        "issueTitle": "북미 대화 재개 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-23-am-archive-02",
+      "category": "국제·외교",
+      "title": "미국·이란 3시간 협상",
+      "summary": [
+        "미국·이란 3시간 협상."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미국·이란 3시간 협상.",
+      "whyItMatters": "제안·수용·거절·후속 접촉의 흐름을 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미국·이란 3시간 협상."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미국·이란 3시간 협상.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 216,
+        "lineEnd": 216,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-iran-negotiations",
+        "issueTitle": "미국·이란 협상과 외교적 조치",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미국·이란 3시간 협상."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-23-am-archive-03",
+      "category": "증시·금리",
+      "title": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%",
+      "summary": [
+        "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 217,
+        "lineEnd": 217,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "나스닥 +2.3% 사상 최고, AI주 강세",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+0.45%",
+        "+5%",
+        "+3.45%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-23-am-archive-04",
+      "category": "국제·에너지",
+      "title": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락",
+      "summary": [
+        "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 218,
+        "lineEnd": 218,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "WTI -4.5% 95.78달러, 미·이란 접촉 기대",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "99.25달러",
+        "94.59달러"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-23-am-archive-05",
+      "category": "경제",
+      "title": "한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고",
+      "summary": [
+        "한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고.",
+      "whyItMatters": "소비심리와 금리 전망 조사 결과를 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 219,
+        "lineEnd": 219
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-consumer-sentiment",
+        "issueTitle": "한국 소비심리와 금리 전망",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-23-am-archive-06",
+      "category": "기술·IT·AI",
+      "title": "AI 안전 연구자 이탈·스트레스 보도",
+      "summary": [
+        "AI 안전 연구자 이탈·스트레스 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "AI 안전 연구자 이탈·스트레스 보도.",
+      "whyItMatters": "연구자 경험·언론 보도·기업 입장을 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "AI 안전 연구자 이탈·스트레스 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "AI 안전 연구자 이탈·스트레스 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 220,
+        "lineEnd": 220
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "ai-research-safety-pressure",
+        "issueTitle": "AI 안전 연구와 출시 압력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AI 안전 연구자 이탈·스트레스 보도."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-23-am-archive-07",
+      "category": "사회·교육",
+      "title": "학교폭력 심의 5년 새 88% 증가",
+      "summary": [
+        "학교폭력 심의 5년 새 88% 증가."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "학교폭력 심의 5년 새 88% 증가.",
+      "whyItMatters": "집계 기간과 심의 건수의 의미를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "학교폭력 심의 5년 새 88% 증가."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "학교폭력 심의 5년 새 88% 증가.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 221,
+        "lineEnd": 221
+      },
+      "emphasis": [
+        "88%"
+      ],
+      "timeline": {
+        "issueId": "korea-school-violence",
+        "issueTitle": "학교폭력 심의 증가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 학교폭력 심의 5년 새 88% 증가."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-23-am-archive-08",
+      "category": "웹툰 산업",
+      "title": "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합",
+      "summary": [
+        "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합.",
+      "whyItMatters": "통합 발표·예정 안내·구체 방안·노사 요구를 구분해 연결한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 222,
+        "lineEnd": 222,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "카카오페이지·카카오웹툰 통합 발표, 타파스 종료",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kakao-webtoon-platform-integration",
+        "issueTitle": "카카오페이지·카카오웹툰 통합과 타파스",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-23 오전",
+    "watchItems": []
+  }
+}

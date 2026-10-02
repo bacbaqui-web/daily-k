@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-23-pm-archive",
+  "date": "2026-09-23",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-23 저녁 기록에는 증시·환율, 국내 정책·사회, 사회·교통, 산업·노동, 기술·IT·AI, 국제·경제, 웹툰 산업 분야의 소식 7개가 담겨 있습니다.",
+    "주요 기록: 코스피 7,080.92, 연휴 전 마지막 거래일 상승. 웹툰 산업 기록: 카카오 노조, 타파스 종료 과정 공개 요구."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-23-pm-archive-01",
+      "category": "증시·환율",
+      "title": "코스피 7,080.92, 연휴 전 마지막 거래일 상승",
+      "summary": [
+        "코스피 7,080.92, 연휴 전 마지막 거래일 상승."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "코스피 7,080.92, 연휴 전 마지막 거래일 상승.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "코스피 7,080.92, 연휴 전 마지막 거래일 상승."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "코스피 7,080.92, 연휴 전 마지막 거래일 상승.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 226,
+        "lineEnd": 226,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,080.92, 연휴 전 마지막 거래일 상승."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-23-pm-archive-02",
+      "category": "국내 정책·사회",
+      "title": "대법관 제청 갈등 격화, 청와대 재반박",
+      "summary": [
+        "대법관 제청 갈등 격화, 청와대 재반박."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "대법관 제청 갈등 격화, 청와대 재반박.",
+      "whyItMatters": "기관 입장과 절차 진행을 함께 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "대법관 제청 갈등 격화, 청와대 재반박."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "대법관 제청 갈등 격화, 청와대 재반박.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 227,
+        "lineEnd": 227,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "조희대 대법원장, 청와대 대법관 재제청 요구 거부",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-supreme-court-appointment-conflict",
+        "issueTitle": "대법관 제청과 사법부·정부 갈등",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 대법관 제청 갈등 격화, 청와대 재반박."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-23-pm-archive-03",
+      "category": "사회·교통",
+      "title": "추석 귀성 정체, 서울→부산 7시간",
+      "summary": [
+        "추석 귀성 정체, 서울→부산 7시간."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "추석 귀성 정체, 서울→부산 7시간.",
+      "whyItMatters": "예상 혼잡과 실제 교통 상황을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "추석 귀성 정체, 서울→부산 7시간."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "추석 귀성 정체, 서울→부산 7시간.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 228,
+        "lineEnd": 228,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "chuseok-traffic-2026",
+        "issueTitle": "2026 추석 교통 흐름",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성 정체, 서울→부산 7시간."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-23-pm-archive-04",
+      "category": "산업·노동",
+      "title": "네이버제트 직원 120여명 전면파업",
+      "summary": [
+        "네이버제트 직원 120여명 전면파업."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "네이버제트 직원 120여명 전면파업.",
+      "whyItMatters": "노사 협상과 서비스 영향의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "네이버제트 직원 120여명 전면파업."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "네이버제트 직원 120여명 전면파업.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 229,
+        "lineEnd": 229
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "naver-z-labor-2026",
+        "issueTitle": "네이버제트 파업",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버제트 직원 120여명 전면파업."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-23-pm-archive-05",
+      "category": "기술·IT·AI",
+      "title": "유엔 안보리 AI 회의에 오픈AI·앤트로픽·딥시크·문샷 참여",
+      "summary": [
+        "유엔 안보리 AI 회의에 오픈AI·앤트로픽·딥시크·문샷 참여."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "유엔 안보리 AI 회의에 오픈AI·앤트로픽·딥시크·문샷 참여.",
+      "whyItMatters": "다자 논의와 연구자 제안, 제도 도입 여부를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "유엔 안보리 AI 회의에 오픈AI·앤트로픽·딥시크·문샷 참여."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "유엔 안보리 AI 회의에 오픈AI·앤트로픽·딥시크·문샷 참여.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 230,
+        "lineEnd": 230,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "트럼프 \"AI군 만들겠다\", AI 차르 지명 예고",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "international-ai-governance",
+        "issueTitle": "국제 AI 안전 기준과 규제 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 유엔 안보리 AI 회의에 오픈AI·앤트로픽·딥시크·문샷 참여."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-23-pm-archive-06",
+      "category": "국제·경제",
+      "title": "시진핑 미국 출발, 중국 펜타닐 단속 강화·4대 레드라인 제시",
+      "summary": [
+        "시진핑 미국 출발, 중국 펜타닐 단속 강화·4대 레드라인 제시."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "시진핑 미국 출발, 중국 펜타닐 단속 강화·4대 레드라인 제시.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "시진핑 미국 출발, 중국 펜타닐 단속 강화·4대 레드라인 제시."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "시진핑 미국 출발, 중국 펜타닐 단속 강화·4대 레드라인 제시.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 231,
+        "lineEnd": 231,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "미중 정상회담 앞두고 미일 정상회담",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 시진핑 미국 출발, 중국 펜타닐 단속 강화·4대 레드라인 제시."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-23-pm-archive-07",
+      "category": "웹툰 산업",
+      "title": "카카오 노조, 타파스 종료 과정 공개 요구",
+      "summary": [
+        "카카오 노조, 타파스 종료 과정 공개 요구."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "카카오 노조, 타파스 종료 과정 공개 요구.",
+      "whyItMatters": "통합 발표·예정 안내·구체 방안·노사 요구를 구분해 연결한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오 노조, 타파스 종료 과정 공개 요구."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 카카오 노조, 타파스 종료 과정 공개 요구.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 232,
+        "lineEnd": 232,
+        "previousCoverage": {
+          "date": "2026-09-23",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kakao-webtoon-platform-integration",
+        "issueTitle": "카카오페이지·카카오웹툰 통합과 타파스",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 노조, 타파스 종료 과정 공개 요구."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-23 저녁",
+    "watchItems": []
+  }
+}

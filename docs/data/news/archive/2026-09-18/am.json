@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-18-am-archive",
+  "date": "2026-09-18",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-18 오전 기록에는 증시·금리, 환율·금리, 국제·안보, 기술·IT·AI, 경제·생활, 기술·IT, 과학·안보, 웹툰 산업 분야의 소식 9개가 담겨 있습니다.",
+    "주요 기록: 나스닥 +1.69%, 엔비디아·마이크론 강세. 웹툰 산업 기록: 부천국제만화축제 개막, 경기국제웹툰페어 통합."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-18-am-archive-01",
+      "category": "증시·금리",
+      "title": "나스닥 +1.69%, 엔비디아·마이크론 강세",
+      "summary": [
+        "나스닥 +1.69%, 엔비디아·마이크론 강세."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "나스닥 +1.69%, 엔비디아·마이크론 강세.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "나스닥 +1.69%, 엔비디아·마이크론 강세."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "나스닥 +1.69%, 엔비디아·마이크론 강세.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 102,
+        "lineEnd": 102,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "다우 -1.21%, 美10년물 5.003%",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+1.69%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +1.69%, 엔비디아·마이크론 강세."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-18-am-archive-02",
+      "category": "환율·금리",
+      "title": "원·달러 1,380원대, BOJ 금리결정 주목",
+      "summary": [
+        "원·달러 1,380원대, BOJ 금리결정 주목."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "원·달러 1,380원대, BOJ 금리결정 주목.",
+      "whyItMatters": "환율 수치를 당시 시점과 거래 구분에 맞춰 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "원·달러 1,380원대, BOJ 금리결정 주목."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "원·달러 1,380원대, BOJ 금리결정 주목.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 103,
+        "lineEnd": 103,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "원·달러 NDF 1,377원대",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "1,380원"
+      ],
+      "timeline": {
+        "issueId": "usdkrw-oil-export-flows",
+        "issueTitle": "유가와 수출기업 수급에 따른 원·달러 환율",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,380원대, BOJ 금리결정 주목."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-18-am-archive-03",
+      "category": "국제·안보",
+      "title": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용",
+      "summary": [
+        "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용.",
+      "whyItMatters": "발언·군사 조치·배치 규모를 구분해 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 104,
+        "lineEnd": 105,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "미군, 이란 소형선박 2척 파괴",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-iran-military",
+        "issueTitle": "미국·이란 군사 대응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 대규모 공격 재개 결정 언급 / 이란 대통령 미국 입국 허용."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-18-am-archive-04",
+      "category": "국제·안보",
+      "title": "김여정, 한미일 훈련 강경 대응 경고",
+      "summary": [
+        "김여정, 한미일 훈련 강경 대응 경고."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "김여정, 한미일 훈련 강경 대응 경고.",
+      "whyItMatters": "당사자의 경고 발언과 실제 행동은 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "김여정, 한미일 훈련 강경 대응 경고."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "김여정, 한미일 훈련 강경 대응 경고.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 106,
+        "lineEnd": 106
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "north-korea-drill-response",
+        "issueTitle": "북한의 한미일 훈련 대응 발언",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김여정, 한미일 훈련 강경 대응 경고."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-18-am-archive-05",
+      "category": "기술·IT·AI",
+      "title": "빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도",
+      "summary": [
+        "빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도.",
+      "whyItMatters": "다자 논의와 연구자 제안, 제도 도입 여부를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 107,
+        "lineEnd": 107,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "요슈아 벤지오, AI 국제규제 필요 주장",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "international-ai-governance",
+        "issueTitle": "국제 AI 안전 기준과 규제 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-18-am-archive-06",
+      "category": "경제·생활",
+      "title": "추석 차례상 비용 +5.1%",
+      "summary": [
+        "추석 차례상 비용 +5.1%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "추석 차례상 비용 +5.1%.",
+      "whyItMatters": "표본과 비교 시점에 따라 비용 해석이 달라질 수 있는 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "추석 차례상 비용 +5.1%."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "추석 차례상 비용 +5.1%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 108,
+        "lineEnd": 108
+      },
+      "emphasis": [
+        "+5.1%"
+      ],
+      "timeline": {
+        "issueId": "chuseok-costs-2026",
+        "issueTitle": "추석 생활비와 차례상 비용",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 차례상 비용 +5.1%."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-18-am-archive-07",
+      "category": "기술·IT",
+      "title": "아이폰18 프로 국내 출시",
+      "summary": [
+        "아이폰18 프로 국내 출시."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "아이폰18 프로 국내 출시.",
+      "whyItMatters": "제품의 국내 출시 시점을 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "아이폰18 프로 국내 출시."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "아이폰18 프로 국내 출시.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 109,
+        "lineEnd": 109
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "iphone-18-korea-launch",
+        "issueTitle": "아이폰18 국내 출시",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 아이폰18 프로 국내 출시."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-18-am-archive-08",
+      "category": "과학·안보",
+      "title": "풍계리 핵실험 뒤 단층 재활성화 연구",
+      "summary": [
+        "풍계리 핵실험 뒤 단층 재활성화 연구."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "풍계리 핵실험 뒤 단층 재활성화 연구.",
+      "whyItMatters": "연구 분석과 실제 추가 위험은 구분해 볼 필요가 있습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "풍계리 핵실험 뒤 단층 재활성화 연구."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "풍계리 핵실험 뒤 단층 재활성화 연구.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 110,
+        "lineEnd": 110
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "punggye-ri-fault-study",
+        "issueTitle": "풍계리 핵실험과 단층 연구",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 풍계리 핵실험 뒤 단층 재활성화 연구."
+      }
+    },
+    {
+      "id": "archive-09",
+      "topicKey": "2026-09-18-am-archive-09",
+      "category": "웹툰 산업",
+      "title": "부천국제만화축제 개막, 경기국제웹툰페어 통합",
+      "summary": [
+        "부천국제만화축제 개막, 경기국제웹툰페어 통합."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "부천국제만화축제 개막, 경기국제웹툰페어 통합.",
+      "whyItMatters": "축제·시상·작품 발표 등 행사 경과를 담은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 부천국제만화축제 개막, 경기국제웹툰페어 통합."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 부천국제만화축제 개막, 경기국제웹툰페어 통합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 111,
+        "lineEnd": 111
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "bicof-2026",
+        "issueTitle": "2026 부천국제만화축제",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 부천국제만화축제 개막, 경기국제웹툰페어 통합."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-18 오전",
+    "watchItems": []
+  }
+}

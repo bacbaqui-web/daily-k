@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "micron-earnings-2026",
+  "title": "마이크론 실적과 데이터센터 매출",
+  "entries": [
+    {
+      "id": "2026-10-01-am-archive/archive-02",
+      "editionId": "2026-10-01-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-10-01",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-10-01",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증.",
+      "title": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증",
+      "category": "반도체",
+      "status": "과거 기록",
+      "summary": [
+        "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증."
+      ],
+      "keyFacts": {
+        "originalRecord": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-10-01/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 401,
+        "lineEnd": 401,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

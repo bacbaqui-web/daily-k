@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-26-pm-archive",
+  "date": "2026-09-26",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-26 저녁 기록에는 국제·외교, 국제·경제, 국제·안보, 기술·IT·AI, 증시·금리, 반도체, 사회·교통, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 트럼프, 이란 7일 계획 거부 보도. 웹툰 산업 기록: 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-26-pm-archive-01",
+      "category": "국제·외교",
+      "title": "트럼프, 이란 7일 계획 거부 보도",
+      "summary": [
+        "트럼프, 이란 7일 계획 거부 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프, 이란 7일 계획 거부 보도.",
+      "whyItMatters": "제안·수용·거절·후속 접촉의 흐름을 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 7일 계획 거부 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프, 이란 7일 계획 거부 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 294,
+        "lineEnd": 294,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "이란, 호르무즈 재개방 위한 7일 로드맵 제시",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-iran-negotiations",
+        "issueTitle": "미국·이란 협상과 외교적 조치",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 7일 계획 거부 보도."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-26-pm-archive-02",
+      "category": "국제·경제",
+      "title": "시진핑 베이징 귀환, 미중 핵심 이견 지속",
+      "summary": [
+        "시진핑 베이징 귀환, 미중 핵심 이견 지속."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "시진핑 베이징 귀환, 미중 핵심 이견 지속.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "시진핑 베이징 귀환, 미중 핵심 이견 지속."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "시진핑 베이징 귀환, 미중 핵심 이견 지속.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 295,
+        "lineEnd": 295,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "미중 사흘 회담 종료, 빅딜 없음·추가 결과 발표 예고",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 시진핑 베이징 귀환, 미중 핵심 이견 지속."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-26-pm-archive-03",
+      "category": "국제·안보",
+      "title": "군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수",
+      "summary": [
+        "군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수.",
+      "whyItMatters": "조사 착수·발견 내용·각국 입장을 시간순으로 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 296,
+        "lineEnd": 296
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "dmz-mine-incident-2026",
+        "issueTitle": "DMZ 폭발·지뢰 조사와 남북 입장",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 군·유엔사 DMZ 지뢰 추정 폭발 현장조사 절차 착수."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-26-pm-archive-04",
+      "category": "기술·IT·AI",
+      "title": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례",
+      "summary": [
+        "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례.",
+      "whyItMatters": "사고 범위 보도와 기관 조사의 진행을 구분해 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 297,
+        "lineEnd": 297,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "openai-agent-security-2026",
+        "issueTitle": "오픈AI 에이전트 보안사고와 조사 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-26-pm-archive-05",
+      "category": "증시·금리",
+      "title": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%",
+      "summary": [
+        "월요일 국내장 재개 앞두고 美반도체지수 +1.41%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 298,
+        "lineEnd": 298,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+1.41%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 월요일 국내장 재개 앞두고 美반도체지수 +1.41%."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-26-pm-archive-06",
+      "category": "반도체",
+      "title": "호남 반도체 산단 논의 구체화",
+      "summary": [
+        "호남 반도체 산단 논의 구체화."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "호남 반도체 산단 논의 구체화.",
+      "whyItMatters": "협의·입지·일정과 실제 확정을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "호남 반도체 산단 논의 구체화."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "호남 반도체 산단 논의 구체화.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 299,
+        "lineEnd": 299,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "honam-semiconductor-cluster",
+        "issueTitle": "호남 반도체 클러스터 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 호남 반도체 산단 논의 구체화."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-26-pm-archive-07",
+      "category": "사회·교통",
+      "title": "귀경 정체 완화",
+      "summary": [
+        "귀경 정체 완화."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "귀경 정체 완화.",
+      "whyItMatters": "예상 혼잡과 실제 교통 상황을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "귀경 정체 완화."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "귀경 정체 완화.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 300,
+        "lineEnd": 300,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "귀성길 대부분 해소, 귀경길 정체 지속",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "chuseok-traffic-2026",
+        "issueTitle": "2026 추석 교통 흐름",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 귀경 정체 완화."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-26-pm-archive-08",
+      "category": "웹툰 산업",
+      "title": "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대",
+      "summary": [
+        "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
+      "whyItMatters": "상담액과 실제 계약 성과를 구분할 산업 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 301,
+        "lineEnd": 301,
+        "reviewNote": "재검색한 기사는 9월 24일 보도이며 행사 기간은 9월 17~18일로 설명합니다. 9월 26일은 이 아카이브의 회차 날짜이며 사건 발생일이 아닙니다."
+      },
+      "emphasis": [
+        "2,280만달러"
+      ],
+      "timeline": {
+        "issueId": "gyeonggi-webtoon-fair-2026",
+        "issueTitle": "2026 경기국제웹툰페어 수출 상담",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
+      },
+      "relatedArticles": [
+        {
+          "name": "서울신문",
+          "title": "‘2026 경기국제웹툰페어’, 역대 최대 2280만 달러 수출 상담",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260924500021",
+          "publishedAt": "2026-09-24T07:36:00+09:00",
+          "verifiedAt": "2026-10-02T12:31:48+09:00",
+          "kind": "press",
+          "language": "ko"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-26 저녁",
+    "watchItems": []
+  }
+}

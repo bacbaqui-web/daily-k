@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "us-pce-inflation",
+  "title": "미국 PCE 물가",
+  "entries": [
+    {
+      "id": "2026-10-01-am-archive/archive-03",
+      "editionId": "2026-10-01-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-10-01",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-10-01",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파.",
+      "title": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파",
+      "category": "경제·금리",
+      "status": "과거 기록",
+      "summary": [
+        "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파."
+      ],
+      "keyFacts": {
+        "originalRecord": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-10-01/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 402,
+        "lineEnd": 402,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-21-am-archive",
+  "date": "2026-09-21",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-21 오전 기록에는 국제·경제, 국제·외교, 경제·금리, 증시·환율, 국제·안보, 국제·정치, 기술·IT·AI, 사회·경제, 웹툰 산업 분야의 소식 9개가 담겨 있습니다.",
+    "주요 기록: 미중 뉴욕 협상: 희토류·관세휴전·AI 협상. 웹툰 산업 기록: AI 콘텐츠 해커톤, '해치단 프롤로그' 대상."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-21-am-archive-01",
+      "category": "국제·경제",
+      "title": "미중 뉴욕 협상: 희토류·관세휴전·AI 협상",
+      "summary": [
+        "미중 뉴욕 협상: 희토류·관세휴전·AI 협상."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 뉴욕 협상: 희토류·관세휴전·AI 협상.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 뉴욕 협상: 희토류·관세휴전·AI 협상."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 뉴욕 협상: 희토류·관세휴전·AI 협상.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 170,
+        "lineEnd": 170,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 뉴욕 협상: 희토류·관세휴전·AI 협상."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-21-am-archive-02",
+      "category": "국제·외교",
+      "title": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성",
+      "summary": [
+        "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성.",
+      "whyItMatters": "제안·수용·거절·후속 접촉의 흐름을 추적할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 171,
+        "lineEnd": 171,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "이란 \"조건 안 받으면 호르무즈 계속 폐쇄\"",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-iran-negotiations",
+        "issueTitle": "미국·이란 협상과 외교적 조치",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 이란 대응 \"결정 모드\", 이란 대통령 회동 가능성."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-21-am-archive-03",
+      "category": "경제·금리",
+      "title": "카시카리 \"미국 경제 전반 물가가 너무 높다\"",
+      "summary": [
+        "카시카리 \"미국 경제 전반 물가가 너무 높다\"."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "카시카리 \"미국 경제 전반 물가가 너무 높다\".",
+      "whyItMatters": "금리 결정과 향후 전망, 위원 발언을 구분해 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "카시카리 \"미국 경제 전반 물가가 너무 높다\"."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "카시카리 \"미국 경제 전반 물가가 너무 높다\".",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 172,
+        "lineEnd": 172,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "fed-policy-2026",
+        "issueTitle": "미국 연준 금리 결정과 물가 판단",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카시카리 \"미국 경제 전반 물가가 너무 높다\"."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-21-am-archive-04",
+      "category": "증시·환율",
+      "title": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원",
+      "summary": [
+        "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 173,
+        "lineEnd": 173,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "외국인 주간 코스피 8조7,627억원 순매도",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "1,380~1,391원"
+      ],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-21-am-archive-05",
+      "category": "국제·안보",
+      "title": "북한 미사일 발사 후 관영매체 침묵",
+      "summary": [
+        "북한 미사일 발사 후 관영매체 침묵."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "북한 미사일 발사 후 관영매체 침묵.",
+      "whyItMatters": "발사 사실과 이후 공개된 기종·주장을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "북한 미사일 발사 후 관영매체 침묵."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "북한 미사일 발사 후 관영매체 침묵.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 174,
+        "lineEnd": 174,
+        "previousCoverage": {
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "북한 단거리 탄도미사일 2발 발사",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "north-korea-missiles-sep2026",
+        "issueTitle": "북한 2026년 9월 미사일 발사",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 북한 미사일 발사 후 관영매체 침묵."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-21-am-archive-06",
+      "category": "국제·정치",
+      "title": "러시아 총선 투표율 55% 넘어",
+      "summary": [
+        "러시아 총선 투표율 55% 넘어."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "러시아 총선 투표율 55% 넘어.",
+      "whyItMatters": "투표율·전망·공식 결과를 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "러시아 총선 투표율 55% 넘어."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "러시아 총선 투표율 55% 넘어.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 175,
+        "lineEnd": 175
+      },
+      "emphasis": [
+        "55%"
+      ],
+      "timeline": {
+        "issueId": "russia-election-2026",
+        "issueTitle": "러시아 2026년 총선",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 러시아 총선 투표율 55% 넘어."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-21-am-archive-07",
+      "category": "기술·IT·AI",
+      "title": "앤트로픽 신모델·IPO 일정 검토 보도",
+      "summary": [
+        "앤트로픽 신모델·IPO 일정 검토 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "앤트로픽 신모델·IPO 일정 검토 보도.",
+      "whyItMatters": "상장·투자 검토 보도와 실제 확정을 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "앤트로픽 신모델·IPO 일정 검토 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "앤트로픽 신모델·IPO 일정 검토 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 176,
+        "lineEnd": 176
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "anthropic-financing-2026",
+        "issueTitle": "앤트로픽 IPO와 인프라 투자 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 앤트로픽 신모델·IPO 일정 검토 보도."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-21-am-archive-08",
+      "category": "사회·경제",
+      "title": "비급여 진료비 4년 만에 40% 증가, 연간 22조원",
+      "summary": [
+        "비급여 진료비 4년 만에 40% 증가, 연간 22조원."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
+      "whyItMatters": "통계의 집계 범위와 기간을 확인할 필요가 있습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "비급여 진료비 4년 만에 40% 증가, 연간 22조원."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 177,
+        "lineEnd": 177
+      },
+      "emphasis": [
+        "40%",
+        "22조원"
+      ],
+      "timeline": {
+        "issueId": "korea-noncovered-medical-spending",
+        "issueTitle": "비급여 진료비 지출",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 비급여 진료비 4년 만에 40% 증가, 연간 22조원."
+      }
+    },
+    {
+      "id": "archive-09",
+      "topicKey": "2026-09-21-am-archive-09",
+      "category": "웹툰 산업",
+      "title": "AI 콘텐츠 해커톤, '해치단 프롤로그' 대상",
+      "summary": [
+        "AI 콘텐츠 해커톤, '해치단 프롤로그' 대상."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "AI 콘텐츠 해커톤, '해치단 프롤로그' 대상.",
+      "whyItMatters": "AI를 활용한 콘텐츠 제작과 수상 결과를 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] AI 콘텐츠 해커톤, '해치단 프롤로그' 대상."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] AI 콘텐츠 해커톤, '해치단 프롤로그' 대상.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 178,
+        "lineEnd": 178
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "ai-content-hackathon-2026",
+        "issueTitle": "AI 콘텐츠 해커톤",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AI 콘텐츠 해커톤, '해치단 프롤로그' 대상."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-21 오전",
+    "watchItems": []
+  }
+}

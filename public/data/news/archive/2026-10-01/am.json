@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-01-am-archive",
+  "date": "2026-10-01",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-10-01 오전 기록에는 경제·외교, 반도체, 경제·금리, 국제·안보, 기술·IT·AI, 경제·금융, 웹툰 산업, 국내 정책·사회 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차. 웹툰 산업 기록: 《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-10-01-am-archive-01",
+      "category": "경제·외교",
+      "title": "한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차",
+      "summary": [
+        "한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차.",
+      "whyItMatters": "발표·협의·투자 확정의 단계가 다른 사안입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 399,
+        "lineEnd": 400,
+        "previousCoverage": {
+          "date": "2026-09-30",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-us-investment-projects",
+        "issueTitle": "한국의 미국 에너지·인프라 투자",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한미 대미투자 프로젝트 공개: 텍사스 발전소·미국 원전 8기 추진, 알래스카 LNG는 온도차."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-10-01-am-archive-02",
+      "category": "반도체",
+      "title": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증",
+      "summary": [
+        "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증.",
+      "whyItMatters": "회계기간·실적·전망의 구분이 필요한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 401,
+        "lineEnd": 401
+      },
+      "emphasis": [
+        "542억달러"
+      ],
+      "timeline": {
+        "issueId": "micron-earnings-2026",
+        "issueTitle": "마이크론 실적과 데이터센터 매출",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-10-01-am-archive-03",
+      "category": "경제·금리",
+      "title": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파",
+      "summary": [
+        "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파.",
+      "whyItMatters": "예상과 실제 발표, 물가 지표 간 차이를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 402,
+        "lineEnd": 402
+      },
+      "emphasis": [
+        "3.4%",
+        "5.3%"
+      ],
+      "timeline": {
+        "issueId": "us-pce-inflation",
+        "issueTitle": "미국 PCE 물가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-10-01-am-archive-04",
+      "category": "국제·안보",
+      "title": "영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인",
+      "summary": [
+        "영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인.",
+      "whyItMatters": "영국의 주장과 이란의 부인을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 403,
+        "lineEnd": 403
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "uk-iran-plot-allegation",
+        "issueTitle": "영국 공군기지 테러 모의 이란 연루 주장",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-10-01-am-archive-05",
+      "category": "기술·IT·AI",
+      "title": "AWS 서울 리전에서 최신 클로드 모델 제공",
+      "summary": [
+        "AWS 서울 리전에서 최신 클로드 모델 제공."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "AWS 서울 리전에서 최신 클로드 모델 제공.",
+      "whyItMatters": "제공 리전과 모델의 실제 이용 범위를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "AWS 서울 리전에서 최신 클로드 모델 제공."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "AWS 서울 리전에서 최신 클로드 모델 제공.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 404,
+        "lineEnd": 404
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "aws-seoul-claude",
+        "issueTitle": "AWS 서울 리전 클로드 제공",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AWS 서울 리전에서 최신 클로드 모델 제공."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-10-01-am-archive-06",
+      "category": "경제·금융",
+      "title": "신규 가계대출 DSR 규제 예외 비중 70.5%",
+      "summary": [
+        "신규 가계대출 DSR 규제 예외 비중 70.5%."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "신규 가계대출 DSR 규제 예외 비중 70.5%.",
+      "whyItMatters": "대출 총량·규제 예외 등 서로 다른 지표를 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "신규 가계대출 DSR 규제 예외 비중 70.5%."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "신규 가계대출 DSR 규제 예외 비중 70.5%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 405,
+        "lineEnd": 405,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "5대 은행 가계대출 총량 목표 재초과",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "70.5%"
+      ],
+      "timeline": {
+        "issueId": "korea-household-lending",
+        "issueTitle": "국내 가계대출 관리",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 신규 가계대출 DSR 규제 예외 비중 70.5%."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-10-01-am-archive-07",
+      "category": "웹툰 산업",
+      "title": "《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록",
+      "summary": [
+        "《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록.",
+      "whyItMatters": "원작 IP의 게임 확장과 사전등록 경과를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 406,
+        "lineEnd": 406,
+        "previousCoverage": {
+          "date": "2026-09-27",
+          "edition": "pm",
+          "storyId": "archive-09",
+          "title": "《템빨》·《멸귀수도전》 등 웹툰/웹소설 IP 게임 확장",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "webtoon-ip-games",
+        "issueTitle": "웹툰·웹소설 IP 게임화",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-10-01-am-archive-08",
+      "category": "국내 정책·사회",
+      "title": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비",
+      "summary": [
+        "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비.",
+      "whyItMatters": "조직 출범과 인사·운영 안착을 구분해 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 407,
+        "lineEnd": 407,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "공소청 첫 인사, 192명 이동",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-investigation-prosecution-separation",
+        "issueTitle": "수사·기소 분리와 공소청·중수청 출범",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-10-01 오전",
+    "watchItems": []
+  }
+}

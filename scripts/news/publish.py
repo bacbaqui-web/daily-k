@@ -13,6 +13,7 @@ import subprocess
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 from zoneinfo import ZoneInfo
 from timeline import build_timelines, same_issue, validate_timeline
+from archive import load_editions, build_index
 
 KST = ZoneInfo('Asia/Seoul')
 ROOT = Path(__file__).resolve().parents[2]
@@ -76,7 +77,8 @@ def validate(draft, history, now=None):
     stories=b['stories']; require(5<=len(stories)<=10,'Must contain 5–10 stories')
     require(any(s.get('category')=='웹툰 산업' for s in stories),'A domestic webtoon story is required')
     require(len({s['id'] for s in stories})==len(stories),'Duplicate story ID')
-    prior=[(old,s) for old in history if old['id']!=b['id'] and timestamp(old['cutoffAt'])<cutoff for s in old['stories']]
+    # Imported ChatGPT records are useful context, not independently verified evidence.
+    prior=[(old,s) for old in history if not old.get('archive') and old['id']!=b['id'] and timestamp(old['cutoffAt'])<cutoff for s in old['stories']]
     for i,s in enumerate(stories):
         require(re.fullmatch(r'[a-z0-9][a-z0-9-]*',s['id']) is not None,'Unsafe story ID')
         for field in ('topicKey','category','title','status','eventTimeNote','whatChanged','whyItMatters','uncertainty'):
@@ -145,14 +147,13 @@ def write_json(path,data):
 
 def publish(draft, root=ROOT, check=False):
     base=root/'public/data/news';base.mkdir(parents=True,exist_ok=True)
-    history=[json.loads(p.read_text()) for p in sorted(base.glob('????-??-??/*.json'))]
+    history=load_editions(base)
     require(not any(h['id']==draft['id'] for h in history),'Edition already published; never overwrite an archive silently')
     b=validate(draft,history)
     timelines=build_timelines(history+[b])
     if check:return b,[]
     rel=f"{b['date']}/{b['edition']}.json"
-    def entry(v):return {'id':v['id'],'date':v['date'],'edition':v['edition'],'generatedAt':v['generatedAt'],'cutoffAt':v['cutoffAt'],'count':len(v['stories']),'path':f"{v['date']}/{v['edition']}.json",'headline':v['stories'][0]['title']}
-    index={'schemaVersion':1,'timezone':'Asia/Seoul','updatedAt':b['generatedAt'],'editions':sorted([entry(v) for v in history]+[entry(b)],key=lambda e:e['cutoffAt'],reverse=True)}
+    index=build_index(history+[b],b['generatedAt'])
     paths=[]
     # Write edition before its manifest, so readers never see a dangling entry.
     for folder in ('public/data/news','docs/data/news'):

@@ -1,0 +1,581 @@
+{
+  "schemaVersion": 1,
+  "id": "kakao-webtoon-platform-integration",
+  "title": "카카오페이지·카카오웹툰 통합과 타파스",
+  "entries": [
+    {
+      "id": "2026-09-22-pm-archive/archive-06",
+      "editionId": "2026-09-22-pm-archive",
+      "storyId": "archive-06",
+      "editionDate": "2026-09-22",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-22",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카카오페이지·카카오웹툰 통합 발표, 타파스 종료.",
+      "title": "카카오페이지·카카오웹툰 통합 발표, 타파스 종료",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "카카오페이지·카카오웹툰 통합 발표, 타파스 종료."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오페이지·카카오웹툰 통합 발표, 타파스 종료."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-22/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 카카오페이지·카카오웹툰 통합 발표, 타파스 종료.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 209,
+        "lineEnd": 209,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-23-am-archive/archive-08",
+      "editionId": "2026-09-23-am-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-23",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-23",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합.",
+      "title": "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-23/am.json",
+      "previous": {
+        "editionId": "2026-09-22-pm-archive",
+        "storyId": "archive-06"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 222,
+        "lineEnd": 222,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "카카오페이지·카카오웹툰 통합 발표, 타파스 종료",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-23-pm-archive/archive-07",
+      "editionId": "2026-09-23-pm-archive",
+      "storyId": "archive-07",
+      "editionDate": "2026-09-23",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-23",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 노조, 타파스 종료 과정 공개 요구.",
+      "title": "카카오 노조, 타파스 종료 과정 공개 요구",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "카카오 노조, 타파스 종료 과정 공개 요구."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오 노조, 타파스 종료 과정 공개 요구."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-23/pm.json",
+      "previous": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-08"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 카카오 노조, 타파스 종료 과정 공개 요구.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 232,
+        "lineEnd": 232,
+        "previousCoverage": {
+          "date": "2026-09-23",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "카카오웹툰→카카오페이지 통합, 1만6천 IP·데이터 통합",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-24-am-archive/archive-08",
+      "editionId": "2026-09-24-am-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-24",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-24",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정.",
+      "title": "새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-24/am.json",
+      "previous": {
+        "editionId": "2026-09-23-pm-archive",
+        "storyId": "archive-07"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 243,
+        "lineEnd": 243,
+        "previousCoverage": {
+          "date": "2026-09-23",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "카카오 노조, 타파스 종료 과정 공개 요구",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-26-am-archive/archive-09",
+      "editionId": "2026-09-26-am-archive",
+      "storyId": "archive-09",
+      "editionDate": "2026-09-26",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-26",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 29일 카카오 통합 세부안이 다음 핵심 일정.",
+      "title": "29일 카카오 통합 세부안이 다음 핵심 일정",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "29일 카카오 통합 세부안이 다음 핵심 일정."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 29일 카카오 통합 세부안이 다음 핵심 일정."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-26/am.json",
+      "previous": {
+        "editionId": "2026-09-24-am-archive",
+        "storyId": "archive-08"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 29일 카카오 통합 세부안이 다음 핵심 일정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 290,
+        "lineEnd": 290,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "새 대형 발표 없음, 카카오 통합 후속 안내 29일 예정",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-27-am-archive/archive-08",
+      "editionId": "2026-09-27-am-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-27",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-27",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 29일 카카오 통합 세부안 주목.",
+      "title": "29일 카카오 통합 세부안 주목",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "29일 카카오 통합 세부안 주목."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 29일 카카오 통합 세부안 주목."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-27/am.json",
+      "previous": {
+        "editionId": "2026-09-26-am-archive",
+        "storyId": "archive-09"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 29일 카카오 통합 세부안 주목.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 312,
+        "lineEnd": 312,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-09",
+          "title": "29일 카카오 통합 세부안이 다음 핵심 일정",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-28-am-archive/archive-07",
+      "editionId": "2026-09-28-am-archive",
+      "storyId": "archive-07",
+      "editionDate": "2026-09-28",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-28",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 29일 카카오웹툰 통합 세부안 공개 예정.",
+      "title": "29일 카카오웹툰 통합 세부안 공개 예정",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "29일 카카오웹툰 통합 세부안 공개 예정."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 29일 카카오웹툰 통합 세부안 공개 예정."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-28/am.json",
+      "previous": {
+        "editionId": "2026-09-27-am-archive",
+        "storyId": "archive-08"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 29일 카카오웹툰 통합 세부안 공개 예정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 334,
+        "lineEnd": 334,
+        "previousCoverage": {
+          "date": "2026-09-27",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "29일 카카오 통합 세부안 주목",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-28-pm-archive/archive-09",
+      "editionId": "2026-09-28-pm-archive",
+      "storyId": "archive-09",
+      "editionDate": "2026-09-28",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-28",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 다음 날 카카오 통합 세부안 예정.",
+      "title": "다음 날 카카오 통합 세부안 예정",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "다음 날 카카오 통합 세부안 예정."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 다음 날 카카오 통합 세부안 예정."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-28/pm.json",
+      "previous": {
+        "editionId": "2026-09-28-am-archive",
+        "storyId": "archive-07"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 다음 날 카카오 통합 세부안 예정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 9,
+        "lineStart": 346,
+        "lineEnd": 346,
+        "previousCoverage": {
+          "date": "2026-09-28",
+          "edition": "am",
+          "storyId": "archive-07",
+          "title": "29일 카카오웹툰 통합 세부안 공개 예정",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-29-am-archive/archive-08",
+      "editionId": "2026-09-29-am-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-29",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-29",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카카오페이지·카카오웹툰 통합 세부안 공개 예정.",
+      "title": "카카오페이지·카카오웹툰 통합 세부안 공개 예정",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "카카오페이지·카카오웹툰 통합 세부안 공개 예정."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오페이지·카카오웹툰 통합 세부안 공개 예정."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-29/am.json",
+      "previous": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-09"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 카카오페이지·카카오웹툰 통합 세부안 공개 예정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 357,
+        "lineEnd": 357,
+        "previousCoverage": {
+          "date": "2026-09-28",
+          "edition": "pm",
+          "storyId": "archive-09",
+          "title": "다음 날 카카오 통합 세부안 예정",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-29-pm-archive/archive-08",
+      "editionId": "2026-09-29-pm-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-29",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-29",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화.",
+      "title": "카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-29/pm.json",
+      "previous": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-08"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 370,
+        "lineEnd": 370,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "카카오페이지·카카오웹툰 통합 세부안 공개 예정",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-30-am-archive/archive-08",
+      "editionId": "2026-09-30-am-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-30",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-30",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 통합 후 AI 추천·작품별 프로모션 강화.",
+      "title": "카카오 통합 후 AI 추천·작품별 프로모션 강화",
+      "category": "웹툰 산업",
+      "status": "과거 기록",
+      "summary": [
+        "카카오 통합 후 AI 추천·작품별 프로모션 강화."
+      ],
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오 통합 후 AI 추천·작품별 프로모션 강화."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-30/am.json",
+      "previous": {
+        "editionId": "2026-09-29-pm-archive",
+        "storyId": "archive-08"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[웹툰] 카카오 통합 후 AI 추천·작품별 프로모션 강화.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 383,
+        "lineEnd": 383,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

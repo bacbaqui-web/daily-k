@@ -10,6 +10,7 @@
       "editionDate": "2026-10-02",
       "edition": "am",
       "coveredAt": "2026-10-02T11:05:30+09:00",
+      "coveredOn": "2026-10-02",
       "publishedAt": "2026-10-02T05:43:44+09:00",
       "eventAt": null,
       "eventDate": "2026-10-01",
@@ -57,11 +58,748 @@
         }
       ],
       "briefingPath": "2026-10-02/am.json",
-      "previous": null,
+      "previous": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-03"
+      },
       "followUp": null,
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-09-15-am-archive/archive-01",
+      "editionId": "2026-09-15-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-15",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 美 10년물 장중 5% 돌파. 엔비디아 -3.36%, 마이크론 -5.25%. 뉴욕증시 다우 -0.29%, S&P500 -0.48%, 나스닥 -0.56%. WTI 101.39달러, 브렌트 105.68달러.",
+      "title": "美 10년물 장중 5% 돌파",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "美 10년물 장중 5% 돌파. 엔비디아 -3.36%, 마이크론 -5.25%. 뉴욕증시 다우 -0.29%, S&P500 -0.48%, 나스닥 -0.56%. WTI 101.39달러, 브렌트 105.68달러."
+      ],
+      "keyFacts": {
+        "originalRecord": "[증시·금리] 美 10년물 장중 5% 돌파. 엔비디아 -3.36%, 마이크론 -5.25%. 뉴욕증시 다우 -0.29%, S&P500 -0.48%, 나스닥 -0.56%. WTI 101.39달러, 브렌트 105.68달러. 확인: 뉴시스."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-15/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "[증시·금리] 美 10년물 장중 5% 돌파. 엔비디아 -3.36%, 마이크론 -5.25%. 뉴욕증시 다우 -0.29%, S&P500 -0.48%, 나스닥 -0.56%. WTI 101.39달러, 브렌트 105.68달러. 확인: 뉴시스.",
+        "sourceNames": [
+          "뉴시스"
+        ],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 14,
+        "lineEnd": 16,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-16-am-archive/archive-01",
+      "editionId": "2026-09-16-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-16",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-16",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 5.04%, WTI 105달러, 뉴욕증시 이틀째 하락.",
+      "title": "美10년물 5.04%, WTI 105달러, 뉴욕증시 이틀째 하락",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "美10년물 5.04%, WTI 105달러, 뉴욕증시 이틀째 하락."
+      ],
+      "keyFacts": {
+        "originalRecord": "美10년물 5.04%, WTI 105달러, 뉴욕증시 이틀째 하락."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-16/am.json",
+      "previous": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "美10년물 5.04%, WTI 105달러, 뉴욕증시 이틀째 하락.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 56,
+        "lineEnd": 56,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "美 10년물 장중 5% 돌파",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-17-am-archive/archive-02",
+      "editionId": "2026-09-17-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-17",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-17",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 다우 -1.21%, 美10년물 5.003%.",
+      "title": "다우 -1.21%, 美10년물 5.003%",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "다우 -1.21%, 美10년물 5.003%."
+      ],
+      "keyFacts": {
+        "originalRecord": "다우 -1.21%, 美10년물 5.003%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-17/am.json",
+      "previous": {
+        "editionId": "2026-09-16-am-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "다우 -1.21%, 美10년물 5.003%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 80,
+        "lineEnd": 80,
+        "previousCoverage": {
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "美10년물 5.04%, WTI 105달러, 뉴욕증시 이틀째 하락",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-18-am-archive/archive-01",
+      "editionId": "2026-09-18-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-18",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-18",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +1.69%, 엔비디아·마이크론 강세.",
+      "title": "나스닥 +1.69%, 엔비디아·마이크론 강세",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "나스닥 +1.69%, 엔비디아·마이크론 강세."
+      ],
+      "keyFacts": {
+        "originalRecord": "나스닥 +1.69%, 엔비디아·마이크론 강세."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-18/am.json",
+      "previous": {
+        "editionId": "2026-09-17-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "나스닥 +1.69%, 엔비디아·마이크론 강세.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 102,
+        "lineEnd": 102,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "다우 -1.21%, 美10년물 5.003%",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-19-am-archive/archive-02",
+      "editionId": "2026-09-19-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-19",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-19",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +0.4%, 美10년물 다시 5%대.",
+      "title": "나스닥 +0.4%, 美10년물 다시 5%대",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "나스닥 +0.4%, 美10년물 다시 5%대."
+      ],
+      "keyFacts": {
+        "originalRecord": "나스닥 +0.4%, 美10년물 다시 5%대."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-19/am.json",
+      "previous": {
+        "editionId": "2026-09-18-am-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "나스닥 +0.4%, 美10년물 다시 5%대.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 127,
+        "lineEnd": 127,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "나스닥 +1.69%, 엔비디아·마이크론 강세",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-22-am-archive/archive-01",
+      "editionId": "2026-09-22-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-22",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-22",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +2.3% 사상 최고, AI주 강세.",
+      "title": "나스닥 +2.3% 사상 최고, AI주 강세",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "나스닥 +2.3% 사상 최고, AI주 강세."
+      ],
+      "keyFacts": {
+        "originalRecord": "나스닥 +2.3% 사상 최고, AI주 강세."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-22/am.json",
+      "previous": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "나스닥 +2.3% 사상 최고, AI주 강세.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 193,
+        "lineEnd": 193,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "나스닥 +0.4%, 美10년물 다시 5%대",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-23-am-archive/archive-03",
+      "editionId": "2026-09-23-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-23",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-23",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%.",
+      "title": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%."
+      ],
+      "keyFacts": {
+        "originalRecord": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-23/am.json",
+      "previous": {
+        "editionId": "2026-09-22-am-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 217,
+        "lineEnd": 217,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "나스닥 +2.3% 사상 최고, AI주 강세",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-24-am-archive/archive-02",
+      "editionId": "2026-09-24-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-24",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-24",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 -1.13%, 美10년물 5.13%.",
+      "title": "나스닥 -1.13%, 美10년물 5.13%",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "나스닥 -1.13%, 美10년물 5.13%."
+      ],
+      "keyFacts": {
+        "originalRecord": "나스닥 -1.13%, 美10년물 5.13%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-24/am.json",
+      "previous": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "나스닥 -1.13%, 美10년물 5.13%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 237,
+        "lineEnd": 237,
+        "previousCoverage": {
+          "date": "2026-09-23",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "나스닥 +0.45% 사상 최고, 마이크론 +5%, SK하이닉스 ADR +3.45%",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-25-am-archive/archive-02",
+      "editionId": "2026-09-25-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-25",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-25",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조.",
+      "title": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조."
+      ],
+      "keyFacts": {
+        "originalRecord": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-25/am.json",
+      "previous": {
+        "editionId": "2026-09-24-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 260,
+        "lineEnd": 260,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "나스닥 -1.13%, 美10년물 5.13%",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-26-am-archive/archive-02",
+      "editionId": "2026-09-26-am-archive",
+      "storyId": "archive-02",
+      "editionDate": "2026-09-26",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-26",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%.",
+      "title": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%."
+      ],
+      "keyFacts": {
+        "originalRecord": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-26/am.json",
+      "previous": {
+        "editionId": "2026-09-25-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 283,
+        "lineEnd": 283,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-26-pm-archive/archive-05",
+      "editionId": "2026-09-26-pm-archive",
+      "storyId": "archive-05",
+      "editionDate": "2026-09-26",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-26",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 월요일 국내장 재개 앞두고 美반도체지수 +1.41%.",
+      "title": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "월요일 국내장 재개 앞두고 美반도체지수 +1.41%."
+      ],
+      "keyFacts": {
+        "originalRecord": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-26/pm.json",
+      "previous": {
+        "editionId": "2026-09-26-am-archive",
+        "storyId": "archive-02"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 298,
+        "lineEnd": 298,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "뉴욕증시 반등: 다우 +0.93%, 나스닥 +0.48%",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-29-am-archive/archive-01",
+      "editionId": "2026-09-29-am-archive",
+      "storyId": "archive-01",
+      "editionDate": "2026-09-29",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-29",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%.",
+      "title": "美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%."
+      ],
+      "keyFacts": {
+        "originalRecord": "美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-29/am.json",
+      "previous": {
+        "editionId": "2026-09-26-pm-archive",
+        "storyId": "archive-05"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 350,
+        "lineEnd": 350,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-05",
+          "title": "월요일 국내장 재개 앞두고 美반도체지수 +1.41%",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-09-30-am-archive/archive-03",
+      "editionId": "2026-09-30-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-09-30",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-09-30",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합.",
+      "title": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합."
+      ],
+      "keyFacts": {
+        "originalRecord": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-30/am.json",
+      "previous": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 377,
+        "lineEnd": 377,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    },
+    {
+      "id": "2026-10-02-am-archive/archive-03",
+      "editionId": "2026-10-02-am-archive",
+      "storyId": "archive-03",
+      "editionDate": "2026-10-02",
+      "edition": "am",
+      "coveredAt": null,
+      "coveredOn": "2026-10-02",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 장중 5.342%, 뉴욕증시는 강보합.",
+      "title": "美10년물 장중 5.342%, 뉴욕증시는 강보합",
+      "category": "증시·금리",
+      "status": "과거 기록",
+      "summary": [
+        "美10년물 장중 5.342%, 뉴욕증시는 강보합."
+      ],
+      "keyFacts": {
+        "originalRecord": "美10년물 장중 5.342%, 뉴욕증시는 강보합."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-10-02/am.json",
+      "previous": {
+        "editionId": "2026-09-30-am-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "美10년물 장중 5.342%, 뉴욕증시는 강보합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 426,
+        "lineEnd": 426,
+        "previousCoverage": {
+          "date": "2026-09-30",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합",
+          "archive": true
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
     }
   ],
-  "updatedAt": "2026-10-02T11:48:06+09:00"
+  "updatedAt": "2026-10-02T12:34:33+09:00"
 }

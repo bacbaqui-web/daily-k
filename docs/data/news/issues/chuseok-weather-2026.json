@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "chuseok-weather-2026",
+  "title": "2026 추석 날씨",
+  "entries": [
+    {
+      "id": "2026-09-24-pm-archive/archive-08",
+      "editionId": "2026-09-24-pm-archive",
+      "storyId": "archive-08",
+      "editionDate": "2026-09-24",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-09-24",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 전국 흐리고 곳곳 비.",
+      "title": "추석 전국 흐리고 곳곳 비",
+      "category": "사회·생활",
+      "status": "과거 기록",
+      "summary": [
+        "추석 전국 흐리고 곳곳 비."
+      ],
+      "keyFacts": {
+        "originalRecord": "추석 전국 흐리고 곳곳 비."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-09-24/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "추석 전국 흐리고 곳곳 비.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 255,
+        "lineEnd": 255,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-19-am-archive",
+  "date": "2026-09-19",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-19 오전 기록에는 국제·외교, 증시·금리, 국제·에너지, 기술·IT·AI, 산업·사회, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조. 웹툰 산업 기록: BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-19-am-archive-01",
+      "category": "국제·외교",
+      "title": "한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조",
+      "summary": [
+        "한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조.",
+      "whyItMatters": "투자 이행과 협력 의제의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 126,
+        "lineEnd": 126,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "조현 장관 美의회 면담, 루비오 회담 예정",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-us-foreign-minister-2026",
+        "issueTitle": "한미 외교장관 협의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-19-am-archive-02",
+      "category": "증시·금리",
+      "title": "나스닥 +0.4%, 美10년물 다시 5%대",
+      "summary": [
+        "나스닥 +0.4%, 美10년물 다시 5%대."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "나스닥 +0.4%, 美10년물 다시 5%대.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "나스닥 +0.4%, 美10년물 다시 5%대."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "나스닥 +0.4%, 美10년물 다시 5%대.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 127,
+        "lineEnd": 127,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "나스닥 +1.69%, 엔비디아·마이크론 강세",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+0.4%",
+        "5%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 나스닥 +0.4%, 美10년물 다시 5%대."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-19-am-archive-03",
+      "category": "국제·에너지",
+      "title": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락",
+      "summary": [
+        "WTI 100.30달러, 사우디 송유관 복구 기대에 하락."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 128,
+        "lineEnd": 128,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "WTI 102.43달러, 사우디 송유관 복구 기대",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "100.30달러"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: WTI 100.30달러, 사우디 송유관 복구 기대에 하락."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-19-am-archive-04",
+      "category": "기술·IT·AI",
+      "title": "클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도",
+      "summary": [
+        "클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도.",
+      "whyItMatters": "보도된 보안 사례의 주체와 확인 범위를 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 129,
+        "lineEnd": 129
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "claude-openai-intrusion-report",
+        "issueTitle": "클로드를 이용한 오픈AI 침투 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-19-am-archive-05",
+      "category": "기술·IT·AI",
+      "title": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도",
+      "summary": [
+        "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
+      "whyItMatters": "군사 판단에 관한 일방 보도와 확인된 사실을 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 130,
+        "lineEnd": 130
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "ai-military-misinformation",
+        "issueTitle": "AI 허위정보와 군사 판단 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-19-am-archive-06",
+      "category": "기술·IT·AI",
+      "title": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장",
+      "summary": [
+        "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
+      "whyItMatters": "예산 계획과 실제 확보·집행 결과를 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 131,
+        "lineEnd": 131
+      },
+      "emphasis": [
+        "9.4조원"
+      ],
+      "timeline": {
+        "issueId": "korea-ai-budget-2027",
+        "issueTitle": "한국 2027년 AI 예산과 GPU 확보",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-19-am-archive-07",
+      "category": "산업·사회",
+      "title": "석유화학 가격담합 의혹 경영진 2명 구속",
+      "summary": [
+        "석유화학 가격담합 의혹 경영진 2명 구속."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "석유화학 가격담합 의혹 경영진 2명 구속.",
+      "whyItMatters": "의혹·구속·최종 판결은 서로 다른 단계입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "석유화학 가격담합 의혹 경영진 2명 구속."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "석유화학 가격담합 의혹 경영진 2명 구속.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 132,
+        "lineEnd": 132
+      },
+      "emphasis": [
+        "2명"
+      ],
+      "timeline": {
+        "issueId": "petrochemical-cartel-investigation",
+        "issueTitle": "석유화학 가격담합 수사",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 석유화학 가격담합 의혹 경영진 2명 구속."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-19-am-archive-08",
+      "category": "웹툰 산업",
+      "title": "BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상",
+      "summary": [
+        "BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상.",
+      "whyItMatters": "축제·시상·작품 발표 등 행사 경과를 담은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 133,
+        "lineEnd": 133,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "BICOF 공식 개막, 웹툰페어 연계",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "bicof-2026",
+        "issueTitle": "2026 부천국제만화축제",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: BICOF 본격 진행, 《역대급 영지 설계사》 부천만화대상."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-19 오전",
+    "watchItems": []
+  }
+}

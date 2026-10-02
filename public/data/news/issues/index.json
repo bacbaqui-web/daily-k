@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T11:48:06+09:00",
-  "editionCount": 1,
-  "storyCount": 7,
+  "updatedAt": "2026-10-02T12:34:33+09:00",
+  "editionCount": 36,
+  "storyCount": 298,
   "unlinkedStoryCount": 0,
   "issues": [
     {
@@ -11,15 +11,18 @@
       "categories": [
         "환율·금리"
       ],
-      "firstCoveredAt": "2026-10-02T11:05:30+09:00",
+      "firstCoveredAt": null,
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 1,
+      "eventCount": 6,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "usdkrw-2026-10-02-morning",
         "title": "원·달러 환율, 전일 1,358.4원…유가와 수출기업 달러 매도가 변수",
         "stage": "결과",
-        "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다."
+        "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다.",
+        "archive": false
       },
       "path": "usdkrw-oil-export-flows.json"
     },
@@ -29,15 +32,18 @@
       "categories": [
         "국제·외교"
       ],
-      "firstCoveredAt": "2026-10-02T11:05:30+09:00",
+      "firstCoveredAt": null,
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 1,
+      "eventCount": 10,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "us-iran-delegation-departure-2026-09",
         "title": "미국의 이란 대표단 출국 요구 보도…협상 상황은 별도 확인 필요",
         "stage": "보도",
-        "change": "미국의 이란 대표단 출국 요구 경위가 새로 보도됐습니다. 9월 사건에 관한 관계자 인용 보도이며 협상의 최종 결론은 아닙니다."
+        "change": "미국의 이란 대표단 출국 요구 경위가 새로 보도됐습니다. 9월 사건에 관한 관계자 인용 보도이며 협상의 최종 결론은 아닙니다.",
+        "archive": false
       },
       "path": "us-iran-negotiations.json"
     },
@@ -45,17 +51,21 @@
       "id": "us-equities-chips-rates-oil",
       "title": "미국 증시의 반도체 실적·금리·유가 반응",
       "categories": [
+        "증시·금리",
         "증시·반도체"
       ],
-      "firstCoveredAt": "2026-10-02T11:05:30+09:00",
+      "firstCoveredAt": null,
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 1,
+      "eventCount": 15,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "us-market-2026-10-01",
         "title": "뉴욕증시 강보합…반도체 실적과 높은 금리를 함께 볼 때",
         "stage": "결과",
-        "change": "미국 10월 첫 거래일은 반도체 실적 기대 속에 소폭 상승 마감했지만 금리와 유가 부담이 남았습니다."
+        "change": "미국 10월 첫 거래일은 반도체 실적 기대 속에 소폭 상승 마감했지만 금리와 유가 부담이 남았습니다.",
+        "archive": false
       },
       "path": "us-equities-chips-rates-oil.json"
     },
@@ -65,15 +75,18 @@
       "categories": [
         "웹툰 산업"
       ],
-      "firstCoveredAt": "2026-10-02T11:05:30+09:00",
+      "firstCoveredAt": null,
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 1,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-30",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "naver-webtoon-toonradar-2026-09-report",
         "title": "불법 유통 차단 뒤 유료 구매 증가…네이버웹툰이 공개한 분석",
         "stage": "분석",
-        "change": "네이버웹툰이 불법 사이트 폐쇄 전후 구매 데이터를 공개했습니다. 특정 작품군의 신규 구매 유입 7.9배 증가는 회사 자체 분석입니다."
+        "change": "네이버웹툰이 불법 사이트 폐쇄 전후 구매 데이터를 공개했습니다. 특정 작품군의 신규 구매 유입 7.9배 증가는 회사 자체 분석입니다.",
+        "archive": false
       },
       "path": "naver-webtoon-antipiracy-toonradar.json"
     },
@@ -86,12 +99,15 @@
       "firstCoveredAt": "2026-10-02T11:05:30+09:00",
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
       "eventCount": 1,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "lguplus-optai-token-efficiency",
         "title": "LG유플러스, AI 연산 효율 공동 연구…서버 GPU로 범위 확대",
         "stage": "발표",
-        "change": "양사가 공동 연구를 서버 GPU로 확대하고 토큰 처리량 최대 4배 성과를 설명했습니다. 독립 검증과 실제 도입 결과는 미확인입니다."
+        "change": "양사가 공동 연구를 서버 GPU로 확대하고 토큰 처리량 최대 4배 성과를 설명했습니다. 독립 검증과 실제 도입 결과는 미확인입니다.",
+        "archive": false
       },
       "path": "lguplus-optai-token-efficiency.json"
     },
@@ -101,15 +117,18 @@
       "categories": [
         "국내 정책·사회"
       ],
-      "firstCoveredAt": "2026-10-02T11:05:30+09:00",
+      "firstCoveredAt": null,
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 1,
+      "eventCount": 7,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "korea-prosecution-reorganization-2026",
         "title": "공소청·중수청 출범…수사와 기소가 나뉩니다",
         "stage": "시행",
-        "change": "공소청과 중수청 출범으로 수사·기소 분리 체계가 시행됐으며 인력 충원과 실제 운영은 후속 확인 대상입니다."
+        "change": "공소청과 중수청 출범으로 수사·기소 분리 체계가 시행됐으며 인력 충원과 실제 운영은 후속 확인 대상입니다.",
+        "archive": false
       },
       "path": "korea-investigation-prosecution-separation.json"
     },
@@ -119,17 +138,2666 @@
       "categories": [
         "경제"
       ],
-      "firstCoveredAt": "2026-10-02T11:05:30+09:00",
+      "firstCoveredAt": null,
       "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 1,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
       "latest": {
         "editionId": "2026-10-02-am",
         "storyId": "korea-cpi-2026-09",
         "title": "9월 물가 2.9%…상승폭은 줄었지만 기름값 부담은 계속",
         "stage": "발표",
-        "change": "9월 소비자물가 상승률은 2.9%로 낮아졌지만 석유류는 14.8% 상승해 생활비 부담이 이어졌습니다."
+        "change": "9월 소비자물가 상승률은 2.9%로 낮아졌지만 석유류는 14.8% 상승해 생활비 부담이 이어졌습니다.",
+        "archive": false
       },
       "path": "korea-consumer-prices.json"
+    },
+    {
+      "id": "us-iran-military",
+      "title": "미국·이란 군사 대응",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-05",
+        "title": "미국, 중동에 항모 1척·병력 최대 1만명 추가 파견",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미국, 중동에 항모 1척·병력 최대 1만명 추가 파견.",
+        "archive": true
+      },
+      "path": "us-iran-military.json"
+    },
+    {
+      "id": "openai-agent-security-2026",
+      "title": "오픈AI 에이전트 보안사고와 조사 보도",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-06",
+        "title": "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사.",
+        "archive": true
+      },
+      "path": "openai-agent-security-2026.json"
+    },
+    {
+      "id": "naver-webtoon-leadership-2026",
+      "title": "네이버웹툰 공동대표 체제",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-08",
+        "title": "신규 대형 발표 없음",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 신규 대형 발표 없음. 네이버웹툰 공동대표 체제가 최신 변화.",
+        "archive": true
+      },
+      "path": "naver-webtoon-leadership-2026.json"
+    },
+    {
+      "id": "middle-east-oil-supply",
+      "title": "중동 원유 공급과 국제유가",
+      "categories": [
+        "국제·에너지"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 12,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-04",
+        "title": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등.",
+        "archive": true
+      },
+      "path": "middle-east-oil-supply.json"
+    },
+    {
+      "id": "anthropic-financing-2026",
+      "title": "앤트로픽 IPO와 인프라 투자 보도",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-07",
+        "title": "앤트로픽 IPO 추진 보도, 기업가치 최대 2조달러 거론",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 앤트로픽 IPO 추진 보도, 기업가치 최대 2조달러 거론.",
+        "archive": true
+      },
+      "path": "anthropic-financing-2026.json"
+    },
+    {
+      "id": "webtoon-ip-games",
+      "title": "웹툰·웹소설 IP 게임화",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-am-archive",
+        "storyId": "archive-07",
+        "title": "《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록.",
+        "archive": true
+      },
+      "path": "webtoon-ip-games.json"
+    },
+    {
+      "id": "us-pce-inflation",
+      "title": "미국 PCE 물가",
+      "categories": [
+        "경제·금리"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-am-archive",
+        "storyId": "archive-03",
+        "title": "미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미국 PCE 3.4%, 예상보다 낮았지만 美10년물 5.3% 돌파.",
+        "archive": true
+      },
+      "path": "us-pce-inflation.json"
+    },
+    {
+      "id": "uk-iran-plot-allegation",
+      "title": "영국 공군기지 테러 모의 이란 연루 주장",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-am-archive",
+        "storyId": "archive-04",
+        "title": "영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 영국, 공군기지 테러 모의 사건에 이란 연루 정황 주장 / 이란 부인.",
+        "archive": true
+      },
+      "path": "uk-iran-plot-allegation.json"
+    },
+    {
+      "id": "russia-kaliningrad-warning",
+      "title": "러시아 칼리닌그라드 관련 핵 경고",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-07",
+        "title": "러시아, 칼리닌그라드 봉쇄 시 핵무기 사용 가능성 경고",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 러시아, 칼리닌그라드 봉쇄 시 핵무기 사용 가능성 경고.",
+        "archive": true
+      },
+      "path": "russia-kaliningrad-warning.json"
+    },
+    {
+      "id": "micron-earnings-2026",
+      "title": "마이크론 실적과 데이터센터 매출",
+      "categories": [
+        "반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-am-archive",
+        "storyId": "archive-02",
+        "title": "마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 마이크론 매출 542억달러 사상 최대, 데이터센터 매출 급증.",
+        "archive": true
+      },
+      "path": "micron-earnings-2026.json"
+    },
+    {
+      "id": "korea-us-investment-projects",
+      "title": "한국의 미국 에너지·인프라 투자",
+      "categories": [
+        "경제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-03",
+        "title": "산업장관, 트럼프의 알래스카 LNG 투자 발표에 이의 제기",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 산업장관, 트럼프의 알래스카 LNG 투자 발표에 이의 제기.",
+        "archive": true
+      },
+      "path": "korea-us-investment-projects.json"
+    },
+    {
+      "id": "korea-household-lending",
+      "title": "국내 가계대출 관리",
+      "categories": [
+        "경제·금융"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-am-archive",
+        "storyId": "archive-06",
+        "title": "신규 가계대출 DSR 규제 예외 비중 70.5%",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 신규 가계대출 DSR 규제 예외 비중 70.5%.",
+        "archive": true
+      },
+      "path": "korea-household-lending.json"
+    },
+    {
+      "id": "korea-government-bond-issuance",
+      "title": "한국 국채 발행 계획",
+      "categories": [
+        "경제·금리"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-05",
+        "title": "정부, 10월 국채 발행 5조원 축소",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 정부, 10월 국채 발행 5조원 축소.",
+        "archive": true
+      },
+      "path": "korea-government-bond-issuance.json"
+    },
+    {
+      "id": "korea-exports-semiconductors",
+      "title": "한국 수출과 반도체 실적",
+      "categories": [
+        "경제·반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-02",
+        "title": "9월 수출 1,209억달러 역대 최대, 반도체 603억달러",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 9월 수출 1,209억달러 역대 최대, 반도체 603억달러.",
+        "archive": true
+      },
+      "path": "korea-exports-semiconductors.json"
+    },
+    {
+      "id": "korea-equities-flows",
+      "title": "한국 증시와 외국인 수급",
+      "categories": [
+        "증시·환율"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 16,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-01",
+        "title": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원.",
+        "archive": true
+      },
+      "path": "korea-equities-flows.json"
+    },
+    {
+      "id": "claude-fake-x-election-operation",
+      "title": "클로드를 활용한 가짜 계정·여론공작 사례",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-06",
+        "title": "클로드를 활용한 가짜 X 계정 1,000개·선거 여론공작 시스템 사례 공개",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 클로드를 활용한 가짜 X 계정 1,000개·선거 여론공작 시스템 사례 공개.",
+        "archive": true
+      },
+      "path": "claude-fake-x-election-operation.json"
+    },
+    {
+      "id": "cheongwang-demonstration-2026",
+      "title": "국군의날 천광 시연",
+      "categories": [
+        "국내·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-09",
+        "title": "국군의날 '천광' 시연 중 표적 드론 추락",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 국군의날 '천광' 시연 중 표적 드론 추락.",
+        "archive": true
+      },
+      "path": "cheongwang-demonstration-2026.json"
+    },
+    {
+      "id": "aws-seoul-claude",
+      "title": "AWS 서울 리전 클로드 제공",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-01",
+      "lastCoveredDate": "2026-10-01",
+      "latest": {
+        "editionId": "2026-10-01-am-archive",
+        "storyId": "archive-05",
+        "title": "AWS 서울 리전에서 최신 클로드 모델 제공",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AWS 서울 리전에서 최신 클로드 모델 제공.",
+        "archive": true
+      },
+      "path": "aws-seoul-claude.json"
+    },
+    {
+      "id": "openai-devday-agents-2026",
+      "title": "OpenAI DevDay와 상시 에이전트 보도",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-am-archive",
+        "storyId": "archive-06",
+        "title": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
+        "archive": true
+      },
+      "path": "openai-devday-agents-2026.json"
+    },
+    {
+      "id": "korea-industrial-activity",
+      "title": "한국 생산·소비·투자 통계",
+      "categories": [
+        "경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-30",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-am-archive",
+        "storyId": "archive-01",
+        "title": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소.",
+        "archive": true
+      },
+      "path": "korea-industrial-activity.json"
+    },
+    {
+      "id": "korea-defense-cooperation",
+      "title": "한국 국방·전작권·방산 협력",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-pm-archive",
+        "storyId": "archive-03",
+        "title": "이 대통령 자주국방 강조, 핵추진잠수함·유무인 전력모함 추진 재확인",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 자주국방 강조, 핵추진잠수함·유무인 전력모함 추진 재확인.",
+        "archive": true
+      },
+      "path": "korea-defense-cooperation.json"
+    },
+    {
+      "id": "kakao-webtoon-platform-integration",
+      "title": "카카오페이지·카카오웹툰 통합과 타파스",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 11,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-am-archive",
+        "storyId": "archive-08",
+        "title": "카카오 통합 후 AI 추천·작품별 프로모션 강화",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 통합 후 AI 추천·작품별 프로모션 강화.",
+        "archive": true
+      },
+      "path": "kakao-webtoon-platform-integration.json"
+    },
+    {
+      "id": "dmz-mine-incident-2026",
+      "title": "DMZ 폭발·지뢰 조사와 남북 입장",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 6,
+      "firstCoveredDate": "2026-09-26",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-pm-archive",
+        "storyId": "archive-04",
+        "title": "여당도 DMZ 사안에 \"정전협정 위반, 사과하라\"",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 여당도 DMZ 사안에 \"정전협정 위반, 사과하라\".",
+        "archive": true
+      },
+      "path": "dmz-mine-incident-2026.json"
+    },
+    {
+      "id": "aichi-nagoya-asian-games-2026",
+      "title": "2026 아이치·나고야 아시안게임",
+      "categories": [
+        "사회·스포츠"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-pm-archive",
+        "storyId": "archive-08",
+        "title": "한국 남자축구, 중국 2대1 역전승으로 AG 결승 진출",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한국 남자축구, 중국 2대1 역전승으로 AG 결승 진출.",
+        "archive": true
+      },
+      "path": "aichi-nagoya-asian-games-2026.json"
+    },
+    {
+      "id": "ai-research-safety-pressure",
+      "title": "AI 안전 연구와 출시 압력",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-23",
+      "lastCoveredDate": "2026-09-30",
+      "latest": {
+        "editionId": "2026-09-30-pm-archive",
+        "storyId": "archive-05",
+        "title": "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도.",
+        "archive": true
+      },
+      "path": "ai-research-safety-pressure.json"
+    },
+    {
+      "id": "white-house-ai-ceo-meeting",
+      "title": "미국 백악관 AI 기업 회동",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-06",
+        "title": "트럼프, 오픈AI·앤트로픽·메타 CEO들과 백악관 회동 예정",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 오픈AI·앤트로픽·메타 CEO들과 백악관 회동 예정.",
+        "archive": true
+      },
+      "path": "white-house-ai-ceo-meeting.json"
+    },
+    {
+      "id": "tving-data-compensation",
+      "title": "티빙 개인정보 유출 보상",
+      "categories": [
+        "사회·IT"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-pm-archive",
+        "storyId": "archive-07",
+        "title": "티빙 개인정보 유출 보상 추가 신청",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 티빙 개인정보 유출 보상 추가 신청.",
+        "archive": true
+      },
+      "path": "tving-data-compensation.json"
+    },
+    {
+      "id": "samsung-helix-investment",
+      "title": "삼성의 미국 헬릭스 AI 인프라 투자",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-02",
+        "title": "삼성 6개사, 미국 AI 인프라 '헬릭스'에 10억달러 투자",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 삼성 6개사, 미국 AI 인프라 '헬릭스'에 10억달러 투자.",
+        "archive": true
+      },
+      "path": "samsung-helix-investment.json"
+    },
+    {
+      "id": "north-korean-pows-ukraine-korea",
+      "title": "북한군 포로 송환과 한·우크라이나 협의",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 6,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-pm-archive",
+        "storyId": "archive-05",
+        "title": "우크라이나 공식 답변 아직 없음",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 우크라이나 공식 답변 아직 없음.",
+        "archive": true
+      },
+      "path": "north-korean-pows-ukraine-korea.json"
+    },
+    {
+      "id": "north-korea-troops-russia",
+      "title": "러시아 내 북한군 배치 주장",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-04",
+        "title": "젤렌스키 \"러시아에 북한군 8천명 이상, 1만명 추가 배치 준비\" 주장",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 젤렌스키 \"러시아에 북한군 8천명 이상, 1만명 추가 배치 준비\" 주장.",
+        "archive": true
+      },
+      "path": "north-korea-troops-russia.json"
+    },
+    {
+      "id": "korea-business-sentiment",
+      "title": "한국 제조·비제조업 체감경기",
+      "categories": [
+        "경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-07",
+        "title": "한국 제조업 체감경기 악화, 비제조업은 추석 특수",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한국 제조업 체감경기 악화, 비제조업은 추석 특수.",
+        "archive": true
+      },
+      "path": "korea-business-sentiment.json"
+    },
+    {
+      "id": "honam-semiconductor-cluster",
+      "title": "호남 반도체 클러스터 논의",
+      "categories": [
+        "반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-25",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-pm-archive",
+        "storyId": "archive-03",
+        "title": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시.",
+        "archive": true
+      },
+      "path": "honam-semiconductor-cluster.json"
+    },
+    {
+      "id": "ai-rd-intelligence-explosion",
+      "title": "AI 연구 자동화와 지능 폭발 경고",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-09-29",
+      "latest": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-05",
+        "title": "힌턴·벤지오 등 AI 연구자 22명, AI R&D 자동화와 '지능 폭발' 경고",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 힌턴·벤지오 등 AI 연구자 22명, AI R&D 자동화와 '지능 폭발' 경고.",
+        "archive": true
+      },
+      "path": "ai-rd-intelligence-explosion.json"
+    },
+    {
+      "id": "us-china-trade-ai-2026",
+      "title": "미중 정상회담·무역·AI 협상",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 17,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-am-archive",
+        "storyId": "archive-03",
+        "title": "미중 정상회담 결과에서 북한 '비핵화' 표현 빠짐",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 정상회담 결과에서 북한 '비핵화' 표현 빠짐.",
+        "archive": true
+      },
+      "path": "us-china-trade-ai-2026.json"
+    },
+    {
+      "id": "meta-muse-agent-2026",
+      "title": "메타 뮤즈 AI 에이전트",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-am-archive",
+        "storyId": "archive-06",
+        "title": "메타 뮤즈 출시 12일 만에 280만 다운로드 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 메타 뮤즈 출시 12일 만에 280만 다운로드 보도.",
+        "archive": true
+      },
+      "path": "meta-muse-agent-2026.json"
+    },
+    {
+      "id": "korea-supreme-court-appointment-conflict",
+      "title": "대법관 제청과 사법부·정부 갈등",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-05",
+        "title": "조희대 대법원장 국감 증인 채택",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 조희대 대법원장 국감 증인 채택.",
+        "archive": true
+      },
+      "path": "korea-supreme-court-appointment-conflict.json"
+    },
+    {
+      "id": "korea-on-device-ai-chip",
+      "title": "국내 온디바이스 AI칩 공동개발",
+      "categories": [
+        "반도체·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-28",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-07",
+        "title": "모빌린트·LG·두산·대동 온디바이스 AI칩 공동개발",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 모빌린트·LG·두산·대동 온디바이스 AI칩 공동개발.",
+        "archive": true
+      },
+      "path": "korea-on-device-ai-chip.json"
+    },
+    {
+      "id": "korea-insurance-nonpayment",
+      "title": "보험금 부지급·과소지급",
+      "categories": [
+        "경제·금융"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-28",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-am-archive",
+        "storyId": "archive-05",
+        "title": "보험금 부지급·과소지급 5년간 961건",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 보험금 부지급·과소지급 5년간 961건.",
+        "archive": true
+      },
+      "path": "korea-insurance-nonpayment.json"
+    },
+    {
+      "id": "korea-high-frequency-trading-rules",
+      "title": "국내 고빈도매매 규율 검토",
+      "categories": [
+        "증시·제도"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-28",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-04",
+        "title": "금융위, 고빈도매매 규율 검토",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 금융위, 고빈도매매 규율 검토.",
+        "archive": true
+      },
+      "path": "korea-high-frequency-trading-rules.json"
+    },
+    {
+      "id": "korea-bank-opening-hours-2027",
+      "title": "은행 개점 시간 조정",
+      "categories": [
+        "경제·금융"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-28",
+      "lastCoveredDate": "2026-09-28",
+      "latest": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-06",
+        "title": "2027년 4월부터 은행 오전 9시30분 개점 합의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 2027년 4월부터 은행 오전 9시30분 개점 합의.",
+        "archive": true
+      },
+      "path": "korea-bank-opening-hours-2027.json"
+    },
+    {
+      "id": "taiwan-us-arms",
+      "title": "대만의 미국 무기판매 승인 요청",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-pm-archive",
+        "storyId": "archive-08",
+        "title": "대만, 미국에 140억달러 무기판매 승인 촉구",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 대만, 미국에 140억달러 무기판매 승인 촉구.",
+        "archive": true
+      },
+      "path": "taiwan-us-arms.json"
+    },
+    {
+      "id": "russian-media-korea-remarks",
+      "title": "러시아 매체의 한국 대통령 발언 보도 논란",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-pm-archive",
+        "storyId": "archive-07",
+        "title": "러시아 매체의 이 대통령 발언 왜곡 논란",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 러시아 매체의 이 대통령 발언 왜곡 논란.",
+        "archive": true
+      },
+      "path": "russian-media-korea-remarks.json"
+    },
+    {
+      "id": "presidential-residence-allegation-case",
+      "title": "관저 개입 의혹 제기자 사건",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-pm-archive",
+        "storyId": "archive-04",
+        "title": "'천공 관저 개입 의혹' 제기자 무혐의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: '천공 관저 개입 의혹' 제기자 무혐의.",
+        "archive": true
+      },
+      "path": "presidential-residence-allegation-case.json"
+    },
+    {
+      "id": "lg-nvidia-data-center",
+      "title": "LG전자·엔비디아 데이터센터 협력",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-pm-archive",
+        "storyId": "archive-06",
+        "title": "LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: LG전자, 엔비디아 AI 데이터센터 전력·냉각 공식 파트너.",
+        "archive": true
+      },
+      "path": "lg-nvidia-data-center.json"
+    },
+    {
+      "id": "korea-mexico-economic-cooperation",
+      "title": "한·멕시코 무역·투자 협력",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 5,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-am-archive",
+        "storyId": "archive-06",
+        "title": "이 대통령 북중미 순방 마무리",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 북중미 순방 마무리.",
+        "archive": true
+      },
+      "path": "korea-mexico-economic-cooperation.json"
+    },
+    {
+      "id": "korea-economic-team-meeting",
+      "title": "한국 경제팀 현안회의",
+      "categories": [
+        "경제·정책"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-pm-archive",
+        "storyId": "archive-02",
+        "title": "경제팀 첫 현안회의, 전기차·퇴직연금 논의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 경제팀 첫 현안회의, 전기차·퇴직연금 논의.",
+        "archive": true
+      },
+      "path": "korea-economic-team-meeting.json"
+    },
+    {
+      "id": "korea-disaster-ai-2030",
+      "title": "재난안전 AI 사업",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-pm-archive",
+        "storyId": "archive-05",
+        "title": "재난안전 AI 2030년까지 50개 사업·9,400억원",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 재난안전 AI 2030년까지 50개 사업·9,400억원.",
+        "archive": true
+      },
+      "path": "korea-disaster-ai-2030.json"
+    },
+    {
+      "id": "apple-taptic-patent",
+      "title": "애플 탭틱 엔진 특허 소송",
+      "categories": [
+        "기술·IT"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-09-27",
+      "latest": {
+        "editionId": "2026-09-27-am-archive",
+        "storyId": "archive-05",
+        "title": "애플 탭틱 엔진 특허 침해 배상 평결",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 애플 탭틱 엔진 특허 침해 배상 평결.",
+        "archive": true
+      },
+      "path": "apple-taptic-patent.json"
+    },
+    {
+      "id": "us-consumer-sentiment",
+      "title": "미국 소비심리",
+      "categories": [
+        "경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-26",
+      "lastCoveredDate": "2026-09-26",
+      "latest": {
+        "editionId": "2026-09-26-am-archive",
+        "storyId": "archive-05",
+        "title": "미국 소비심리 48.1, 역대 두 번째 낮은 수준",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미국 소비심리 48.1, 역대 두 번째 낮은 수준.",
+        "archive": true
+      },
+      "path": "us-consumer-sentiment.json"
+    },
+    {
+      "id": "korea-birth-forecasts",
+      "title": "한국 출생아 전망과 실제",
+      "categories": [
+        "사회·인구"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-26",
+      "lastCoveredDate": "2026-09-26",
+      "latest": {
+        "editionId": "2026-09-26-am-archive",
+        "storyId": "archive-08",
+        "title": "출생아 전망과 실제의 큰 괴리",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 출생아 전망과 실제의 큰 괴리.",
+        "archive": true
+      },
+      "path": "korea-birth-forecasts.json"
+    },
+    {
+      "id": "gyeonggi-webtoon-fair-2026",
+      "title": "2026 경기국제웹툰페어 수출 상담",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-26",
+      "lastCoveredDate": "2026-09-26",
+      "latest": {
+        "editionId": "2026-09-26-pm-archive",
+        "storyId": "archive-08",
+        "title": "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
+        "archive": true
+      },
+      "path": "gyeonggi-webtoon-fair-2026.json"
+    },
+    {
+      "id": "chuseok-traffic-2026",
+      "title": "2026 추석 교통 흐름",
+      "categories": [
+        "사회·교통"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 6,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-09-26",
+      "latest": {
+        "editionId": "2026-09-26-pm-archive",
+        "storyId": "archive-07",
+        "title": "귀경 정체 완화",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 귀경 정체 완화.",
+        "archive": true
+      },
+      "path": "chuseok-traffic-2026.json"
+    },
+    {
+      "id": "webtoon-chuseok-promotions-2026",
+      "title": "웹툰 플랫폼 추석 콘텐츠·프로모션",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-25",
+      "lastCoveredDate": "2026-09-25",
+      "latest": {
+        "editionId": "2026-09-25-pm-archive",
+        "storyId": "archive-06",
+        "title": "네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합.",
+        "archive": true
+      },
+      "path": "webtoon-chuseok-promotions-2026.json"
+    },
+    {
+      "id": "qualcomm-on-device-video-agent",
+      "title": "퀄컴 온디바이스 영상편집 AI",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-25",
+      "lastCoveredDate": "2026-09-25",
+      "latest": {
+        "editionId": "2026-09-25-pm-archive",
+        "storyId": "archive-05",
+        "title": "퀄컴 온디바이스 영상편집 AI 에이전트 시연",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 퀄컴 온디바이스 영상편집 AI 에이전트 시연.",
+        "archive": true
+      },
+      "path": "qualcomm-on-device-video-agent.json"
+    },
+    {
+      "id": "korea-regional-airport-finances",
+      "title": "지방공항 적자",
+      "categories": [
+        "경제·교통"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-25",
+      "lastCoveredDate": "2026-09-25",
+      "latest": {
+        "editionId": "2026-09-25-pm-archive",
+        "storyId": "archive-08",
+        "title": "지방공항 적자 10곳, 5년 손실 5,549억원",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 지방공항 적자 10곳, 5년 손실 5,549억원.",
+        "archive": true
+      },
+      "path": "korea-regional-airport-finances.json"
+    },
+    {
+      "id": "webtoon-ip-screen-adaptations",
+      "title": "웹툰 IP 영상화",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-09-24",
+      "latest": {
+        "editionId": "2026-09-24-pm-archive",
+        "storyId": "archive-07",
+        "title": "웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도.",
+        "archive": true
+      },
+      "path": "webtoon-ip-screen-adaptations.json"
+    },
+    {
+      "id": "oecd-korea-growth-outlook",
+      "title": "OECD 한국 성장률 전망",
+      "categories": [
+        "경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-09-24",
+      "latest": {
+        "editionId": "2026-09-24-am-archive",
+        "storyId": "archive-05",
+        "title": "OECD 한국 성장률 전망 2.6%→3.7% 상향",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: OECD 한국 성장률 전망 2.6%→3.7% 상향.",
+        "archive": true
+      },
+      "path": "oecd-korea-growth-outlook.json"
+    },
+    {
+      "id": "international-ai-governance",
+      "title": "국제 AI 안전 기준과 규제 논의",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 5,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-24",
+      "latest": {
+        "editionId": "2026-09-24-am-archive",
+        "storyId": "archive-04",
+        "title": "유엔 안보리 AI 회의: 올트먼·아모데이 국제 안전기준 필요 주장",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 유엔 안보리 AI 회의: 올트먼·아모데이 국제 안전기준 필요 주장.",
+        "archive": true
+      },
+      "path": "international-ai-governance.json"
+    },
+    {
+      "id": "chuseok-weather-2026",
+      "title": "2026 추석 날씨",
+      "categories": [
+        "사회·생활"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-09-24",
+      "latest": {
+        "editionId": "2026-09-24-pm-archive",
+        "storyId": "archive-08",
+        "title": "추석 전국 흐리고 곳곳 비",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 전국 흐리고 곳곳 비.",
+        "archive": true
+      },
+      "path": "chuseok-weather-2026.json"
+    },
+    {
+      "id": "us-north-korea-dialogue",
+      "title": "북미 대화 재개 논의",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-23",
+      "latest": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-01",
+        "title": "이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 유엔 연설: 북미대화 재개 발판·단계적 비핵화 제시.",
+        "archive": true
+      },
+      "path": "us-north-korea-dialogue.json"
+    },
+    {
+      "id": "naver-z-labor-2026",
+      "title": "네이버제트 파업",
+      "categories": [
+        "산업·노동"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-23",
+      "lastCoveredDate": "2026-09-23",
+      "latest": {
+        "editionId": "2026-09-23-pm-archive",
+        "storyId": "archive-04",
+        "title": "네이버제트 직원 120여명 전면파업",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버제트 직원 120여명 전면파업.",
+        "archive": true
+      },
+      "path": "naver-z-labor-2026.json"
+    },
+    {
+      "id": "korea-school-violence",
+      "title": "학교폭력 심의 증가",
+      "categories": [
+        "사회·교육"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-23",
+      "lastCoveredDate": "2026-09-23",
+      "latest": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-07",
+        "title": "학교폭력 심의 5년 새 88% 증가",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 학교폭력 심의 5년 새 88% 증가.",
+        "archive": true
+      },
+      "path": "korea-school-violence.json"
+    },
+    {
+      "id": "korea-consumer-sentiment",
+      "title": "한국 소비심리와 금리 전망",
+      "categories": [
+        "경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-23",
+      "lastCoveredDate": "2026-09-23",
+      "latest": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-05",
+        "title": "한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한국 소비심리 106.6 반등, 금리 전망은 2년11개월 최고.",
+        "archive": true
+      },
+      "path": "korea-consumer-sentiment.json"
+    },
+    {
+      "id": "un-general-assembly-2026",
+      "title": "2026 유엔총회 고위급 회의",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-pm-archive",
+        "storyId": "archive-08",
+        "title": "유엔총회 고위급 회의 개막",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 유엔총회 고위급 회의 개막.",
+        "archive": true
+      },
+      "path": "un-general-assembly-2026.json"
+    },
+    {
+      "id": "north-korea-missiles-sep2026",
+      "title": "북한 2026년 9월 미사일 발사",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-am-archive",
+        "storyId": "archive-03",
+        "title": "북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 북한, 20일 발사 미사일을 '화성포-11마-1형'으로 공개.",
+        "archive": true
+      },
+      "path": "north-korea-missiles-sep2026.json"
+    },
+    {
+      "id": "naver-webtoon-global-drop",
+      "title": "네이버웹툰 글로벌 드롭",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-am-archive",
+        "storyId": "archive-08",
+        "title": "네이버웹툰 9개 언어 동시연재 전략 재조명",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버웹툰 9개 언어 동시연재 전략 재조명.",
+        "archive": true
+      },
+      "path": "naver-webtoon-global-drop.json"
+    },
+    {
+      "id": "naver-lg-secure-ai",
+      "title": "네이버클라우드·LG 보안 AI",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-pm-archive",
+        "storyId": "archive-05",
+        "title": "네이버클라우드·LG, 국산 보안 AI 개발 착수",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버클라우드·LG, 국산 보안 AI 개발 착수. GPU 4,512장·데이터 830TB.",
+        "archive": true
+      },
+      "path": "naver-lg-secure-ai.json"
+    },
+    {
+      "id": "korea-us-japan-diplomacy",
+      "title": "한미일 외교 협의",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-am-archive",
+        "storyId": "archive-04",
+        "title": "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응.",
+        "archive": true
+      },
+      "path": "korea-us-japan-diplomacy.json"
+    },
+    {
+      "id": "korea-single-households",
+      "title": "1인 가구의 사회적 관계",
+      "categories": [
+        "사회·생활"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-am-archive",
+        "storyId": "archive-07",
+        "title": "1인 가구 46.2% 사회적 관계 취약 분석",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 1인 가구 46.2% 사회적 관계 취약 분석.",
+        "archive": true
+      },
+      "path": "korea-single-households.json"
+    },
+    {
+      "id": "kim-keonhee-appeal",
+      "title": "김건희 항소심",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-09-22",
+      "latest": {
+        "editionId": "2026-09-22-pm-archive",
+        "storyId": "archive-04",
+        "title": "김건희 여사 항소심 징역 5년",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김건희 여사 항소심 징역 5년.",
+        "archive": true
+      },
+      "path": "kim-keonhee-appeal.json"
+    },
+    {
+      "id": "russia-election-2026",
+      "title": "러시아 2026년 총선",
+      "categories": [
+        "국제·정치"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-pm-archive",
+        "storyId": "archive-07",
+        "title": "러시아 총선 집권당 압승 전망",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 러시아 총선 집권당 압승 전망.",
+        "archive": true
+      },
+      "path": "russia-election-2026.json"
+    },
+    {
+      "id": "korea-noncovered-medical-spending",
+      "title": "비급여 진료비 지출",
+      "categories": [
+        "사회·경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-am-archive",
+        "storyId": "archive-08",
+        "title": "비급여 진료비 4년 만에 40% 증가, 연간 22조원",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
+        "archive": true
+      },
+      "path": "korea-noncovered-medical-spending.json"
+    },
+    {
+      "id": "kang-hoonsik-resignation",
+      "title": "강훈식 비서실장 사의",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-pm-archive",
+        "storyId": "archive-03",
+        "title": "강훈식 비서실장 사의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 강훈식 비서실장 사의.",
+        "archive": true
+      },
+      "path": "kang-hoonsik-resignation.json"
+    },
+    {
+      "id": "global-ai-hub-korea",
+      "title": "글로벌 AI 허브 추진",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-pm-archive",
+        "storyId": "archive-05",
+        "title": "글로벌 AI 허브 추진위원회 출범",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 글로벌 AI 허브 추진위원회 출범.",
+        "archive": true
+      },
+      "path": "global-ai-hub-korea.json"
+    },
+    {
+      "id": "fed-policy-2026",
+      "title": "미국 연준 금리 결정과 물가 판단",
+      "categories": [
+        "경제·금리"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-am-archive",
+        "storyId": "archive-03",
+        "title": "카시카리 \"미국 경제 전반 물가가 너무 높다\"",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카시카리 \"미국 경제 전반 물가가 너무 높다\".",
+        "archive": true
+      },
+      "path": "fed-policy-2026.json"
+    },
+    {
+      "id": "college-application-outage-2026",
+      "title": "수시 원서접수 장애와 구제 조치",
+      "categories": [
+        "사회·교육"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-pm-archive",
+        "storyId": "archive-04",
+        "title": "교육장관 수시 접수 장애 공식 사과",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 교육장관 수시 접수 장애 공식 사과.",
+        "archive": true
+      },
+      "path": "college-application-outage-2026.json"
+    },
+    {
+      "id": "ai-content-hackathon-2026",
+      "title": "AI 콘텐츠 해커톤",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-21",
+      "lastCoveredDate": "2026-09-21",
+      "latest": {
+        "editionId": "2026-09-21-am-archive",
+        "storyId": "archive-09",
+        "title": "AI 콘텐츠 해커톤, '해치단 프롤로그' 대상",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AI 콘텐츠 해커톤, '해치단 프롤로그' 대상.",
+        "archive": true
+      },
+      "path": "ai-content-hackathon-2026.json"
+    },
+    {
+      "id": "korea-housing-supply-prices",
+      "title": "국내 주택 가격과 공급 정책",
+      "categories": [
+        "경제·부동산"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-am-archive",
+        "storyId": "archive-06",
+        "title": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+        "archive": true
+      },
+      "path": "korea-housing-supply-prices.json"
+    },
+    {
+      "id": "korea-hospital-cybersecurity",
+      "title": "국내 병원 사이버 보안관제",
+      "categories": [
+        "사회·보안"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-am-archive",
+        "storyId": "archive-05",
+        "title": "종합병원 43% 실시간 사이버 보안관제 미실시",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 종합병원 43% 실시간 사이버 보안관제 미실시.",
+        "archive": true
+      },
+      "path": "korea-hospital-cybersecurity.json"
+    },
+    {
+      "id": "kim-seungwon-nomination",
+      "title": "김승원 법무장관 후보 청문회와 사퇴",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-am-archive",
+        "storyId": "archive-04",
+        "title": "김승원 법무장관 후보자 자진사퇴",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김승원 법무장관 후보자 자진사퇴.",
+        "archive": true
+      },
+      "path": "kim-seungwon-nomination.json"
+    },
+    {
+      "id": "k-games-tokyo-game-show-2026",
+      "title": "도쿄게임쇼 한국 게임 참가",
+      "categories": [
+        "기술·게임"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-pm-archive",
+        "storyId": "archive-07",
+        "title": "K게임 도쿄게임쇼 존재감 확대",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: K게임 도쿄게임쇼 존재감 확대.",
+        "archive": true
+      },
+      "path": "k-games-tokyo-game-show-2026.json"
+    },
+    {
+      "id": "bicof-2026",
+      "title": "2026 부천국제만화축제",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 6,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-pm-archive",
+        "storyId": "archive-08",
+        "title": "김금숙 작가 BICOF서 《흰 신》 공개",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김금숙 작가 BICOF서 《흰 신》 공개.",
+        "archive": true
+      },
+      "path": "bicof-2026.json"
+    },
+    {
+      "id": "anseong-market-incident",
+      "title": "안성 나눔장터 트럭 사고",
+      "categories": [
+        "사회·사건"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-am-archive",
+        "storyId": "archive-08",
+        "title": "안성 나눔장터 트럭 돌진 사고",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 안성 나눔장터 트럭 돌진 사고.",
+        "archive": true
+      },
+      "path": "anseong-market-incident.json"
+    },
+    {
+      "id": "ai-training-data-incentives",
+      "title": "AI 학습 데이터 연구자 인센티브",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-09-20",
+      "latest": {
+        "editionId": "2026-09-20-pm-archive",
+        "storyId": "archive-05",
+        "title": "AI 학습 데이터 구축 연구자 인센티브 논의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AI 학습 데이터 구축 연구자 인센티브 논의.",
+        "archive": true
+      },
+      "path": "ai-training-data-incentives.json"
+    },
+    {
+      "id": "petrochemical-cartel-investigation",
+      "title": "석유화학 가격담합 수사",
+      "categories": [
+        "산업·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-07",
+        "title": "석유화학 가격담합 의혹 경영진 2명 구속",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 석유화학 가격담합 의혹 경영진 2명 구속.",
+        "archive": true
+      },
+      "path": "petrochemical-cartel-investigation.json"
+    },
+    {
+      "id": "korea-youth-policy-organization",
+      "title": "청년정책 전담조직 검토",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-pm-archive",
+        "storyId": "archive-01",
+        "title": "청년정책 총괄 전담조직 신설 검토",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 청년정책 총괄 전담조직 신설 검토.",
+        "archive": true
+      },
+      "path": "korea-youth-policy-organization.json"
+    },
+    {
+      "id": "korea-us-foreign-minister-2026",
+      "title": "한미 외교장관 협의",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-01",
+        "title": "한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한미 외교장관회담: 한국 실질적 기여, 미국 대미투자 신속 이행 강조.",
+        "archive": true
+      },
+      "path": "korea-us-foreign-minister-2026.json"
+    },
+    {
+      "id": "korea-ai-public-deliberation",
+      "title": "AI 전환과 기본사회 숙의",
+      "categories": [
+        "국내 정책·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-pm-archive",
+        "storyId": "archive-04",
+        "title": "국민 200명 'AI 전환과 기본사회' 숙의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 국민 200명 'AI 전환과 기본사회' 숙의.",
+        "archive": true
+      },
+      "path": "korea-ai-public-deliberation.json"
+    },
+    {
+      "id": "korea-ai-budget-2027",
+      "title": "한국 2027년 AI 예산과 GPU 확보",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-06",
+        "title": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
+        "archive": true
+      },
+      "path": "korea-ai-budget-2027.json"
+    },
+    {
+      "id": "climate-justice-march-2026",
+      "title": "기후정의행진과 AI 전력 문제 제기",
+      "categories": [
+        "사회·환경"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-pm-archive",
+        "storyId": "archive-03",
+        "title": "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기.",
+        "archive": true
+      },
+      "path": "climate-justice-march-2026.json"
+    },
+    {
+      "id": "claude-openai-intrusion-report",
+      "title": "클로드를 이용한 오픈AI 침투 보도",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-04",
+        "title": "클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 클로드를 이용한 오픈AI 내부 시스템 침투 사례 보도.",
+        "archive": true
+      },
+      "path": "claude-openai-intrusion-report.json"
+    },
+    {
+      "id": "ai-military-misinformation",
+      "title": "AI 허위정보와 군사 판단 보도",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-09-19",
+      "latest": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-05",
+        "title": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
+        "archive": true
+      },
+      "path": "ai-military-misinformation.json"
+    },
+    {
+      "id": "punggye-ri-fault-study",
+      "title": "풍계리 핵실험과 단층 연구",
+      "categories": [
+        "과학·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-am-archive",
+        "storyId": "archive-08",
+        "title": "풍계리 핵실험 뒤 단층 재활성화 연구",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 풍계리 핵실험 뒤 단층 재활성화 연구.",
+        "archive": true
+      },
+      "path": "punggye-ri-fault-study.json"
+    },
+    {
+      "id": "north-korea-drill-response",
+      "title": "북한의 한미일 훈련 대응 발언",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-am-archive",
+        "storyId": "archive-04",
+        "title": "김여정, 한미일 훈련 강경 대응 경고",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김여정, 한미일 훈련 강경 대응 경고.",
+        "archive": true
+      },
+      "path": "north-korea-drill-response.json"
+    },
+    {
+      "id": "korea-hormuz-deployment",
+      "title": "한국의 호르무즈 기여·파병 논의",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-pm-archive",
+        "storyId": "archive-03",
+        "title": "이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의.",
+        "archive": true
+      },
+      "path": "korea-hormuz-deployment.json"
+    },
+    {
+      "id": "iphone-18-korea-launch",
+      "title": "아이폰18 국내 출시",
+      "categories": [
+        "기술·IT"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-am-archive",
+        "storyId": "archive-07",
+        "title": "아이폰18 프로 국내 출시",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 아이폰18 프로 국내 출시.",
+        "archive": true
+      },
+      "path": "iphone-18-korea-launch.json"
+    },
+    {
+      "id": "chuseok-highway-fuel-discount",
+      "title": "추석 고속도로 주유소 할인",
+      "categories": [
+        "경제·생활"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-pm-archive",
+        "storyId": "archive-05",
+        "title": "추석 고속도로 주유소 226곳 ℓ당 100원 인하",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 고속도로 주유소 226곳 ℓ당 100원 인하.",
+        "archive": true
+      },
+      "path": "chuseok-highway-fuel-discount.json"
+    },
+    {
+      "id": "chuseok-costs-2026",
+      "title": "추석 생활비와 차례상 비용",
+      "categories": [
+        "경제·생활"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-am-archive",
+        "storyId": "archive-06",
+        "title": "추석 차례상 비용 +5.1%",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 차례상 비용 +5.1%.",
+        "archive": true
+      },
+      "path": "chuseok-costs-2026.json"
+    },
+    {
+      "id": "boj-policy-2026",
+      "title": "일본은행 금리 결정",
+      "categories": [
+        "경제·금리"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-09-18",
+      "latest": {
+        "editionId": "2026-09-18-pm-archive",
+        "storyId": "archive-02",
+        "title": "BOJ 1.25% 인상, 추가 인상 시사",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: BOJ 1.25% 인상, 추가 인상 시사.",
+        "archive": true
+      },
+      "path": "boj-policy-2026.json"
+    },
+    {
+      "id": "world-webtoon-awards-2026",
+      "title": "2026 월드 웹툰 어워즈",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-pm-archive",
+        "storyId": "archive-08",
+        "title": "월드 웹툰 어워즈 후보 20편 공개",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 월드 웹툰 어워즈 후보 20편 공개.",
+        "archive": true
+      },
+      "path": "world-webtoon-awards-2026.json"
+    },
+    {
+      "id": "samsung-ai-forum-2026",
+      "title": "삼성 AI 포럼 2026",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-pm-archive",
+        "storyId": "archive-06",
+        "title": "삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 삼성 AI 포럼에 오픈AI 하드웨어 총괄 참가 예정.",
+        "archive": true
+      },
+      "path": "samsung-ai-forum-2026.json"
+    },
+    {
+      "id": "korea-interkorean-civil-contact",
+      "title": "남북 민간접촉 신고 제도",
+      "categories": [
+        "국내 정책·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-am-archive",
+        "storyId": "archive-05",
+        "title": "남북 민간접촉 신고 거부 권한 삭제 논의",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 남북 민간접촉 신고 거부 권한 삭제 논의.",
+        "archive": true
+      },
+      "path": "korea-interkorean-civil-contact.json"
+    },
+    {
+      "id": "korea-iea-rise-asia",
+      "title": "한국·IEA RISE ASIA",
+      "categories": [
+        "경제·에너지"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-pm-archive",
+        "storyId": "archive-05",
+        "title": "한국-IEA RISE ASIA 출범",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한국-IEA RISE ASIA 출범.",
+        "archive": true
+      },
+      "path": "korea-iea-rise-asia.json"
+    },
+    {
+      "id": "kim-seongsu-confirmation",
+      "title": "김성수 대법관 후보 임명동의안",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-pm-archive",
+        "storyId": "archive-02",
+        "title": "김성수 대법관 후보 임명동의안 통과, 찬성 227표",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김성수 대법관 후보 임명동의안 통과, 찬성 227표.",
+        "archive": true
+      },
+      "path": "kim-seongsu-confirmation.json"
+    },
+    {
+      "id": "foreign-performance-tax",
+      "title": "해외 아티스트 국내 공연 세금 추징",
+      "categories": [
+        "경제·정책"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-am-archive",
+        "storyId": "archive-07",
+        "title": "해외 아티스트 국내공연 세금 55.6억원 추징",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 해외 아티스트 국내공연 세금 55.6억원 추징.",
+        "archive": true
+      },
+      "path": "foreign-performance-tax.json"
+    },
+    {
+      "id": "andong-k-story-2026",
+      "title": "2026 안동 K-스토리 페스티벌",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-17",
+      "latest": {
+        "editionId": "2026-09-17-am-archive",
+        "storyId": "archive-08",
+        "title": "K-스토리 페스티벌 개막",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: K-스토리 페스티벌 개막.",
+        "archive": true
+      },
+      "path": "andong-k-story-2026.json"
+    },
+    {
+      "id": "yoon-perjury-appeal",
+      "title": "윤석열 전 대통령 위증 혐의 항소심",
+      "categories": [
+        "국내 정책·사회"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-pm-archive",
+        "storyId": "archive-02",
+        "title": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
+        "archive": true
+      },
+      "path": "yoon-perjury-appeal.json"
+    },
+    {
+      "id": "seoul-bus-wage-2026",
+      "title": "서울버스 임금 협상과 파업 철회",
+      "categories": [
+        "사회·노동"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-am-archive",
+        "storyId": "archive-04",
+        "title": "서울버스 파업 철회, 임금 3.2% 인상",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 서울버스 파업 철회, 임금 3.2% 인상.",
+        "archive": true
+      },
+      "path": "seoul-bus-wage-2026.json"
+    },
+    {
+      "id": "samsung-verizon-6g",
+      "title": "삼성·버라이즌 6G 실증",
+      "categories": [
+        "기술·IT"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-am-archive",
+        "storyId": "archive-07",
+        "title": "삼성·버라이즌 6G ISAC 실증",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 삼성·버라이즌 6G ISAC 실증.",
+        "archive": true
+      },
+      "path": "samsung-verizon-6g.json"
+    },
+    {
+      "id": "posco-labor-2026",
+      "title": "포스코 노사 협상과 부분파업",
+      "categories": [
+        "산업·노동"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-pm-archive",
+        "storyId": "archive-05",
+        "title": "포스코 부분파업 첫날, 생산 차질 없음",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 부분파업 첫날, 생산 차질 없음.",
+        "archive": true
+      },
+      "path": "posco-labor-2026.json"
+    },
+    {
+      "id": "lg-ai-devcon-2026",
+      "title": "LG AI DevCon 2026",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-pm-archive",
+        "storyId": "archive-07",
+        "title": "LG AI DevCon, 개발자 1,500명",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: LG AI DevCon, 개발자 1,500명.",
+        "archive": true
+      },
+      "path": "lg-ai-devcon-2026.json"
+    },
+    {
+      "id": "korea-central-asia-cooperation",
+      "title": "한국·중앙아시아 정상외교와 자원 협력",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-pm-archive",
+        "storyId": "archive-03",
+        "title": "한·중앙아 정상회의 '서울선언' 채택",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한·중앙아 정상회의 '서울선언' 채택.",
+        "archive": true
+      },
+      "path": "korea-central-asia-cooperation.json"
+    },
+    {
+      "id": "hynix-intel-us-memory",
+      "title": "SK하이닉스·인텔 미국 메모리 협상 보도",
+      "categories": [
+        "반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-pm-archive",
+        "storyId": "archive-04",
+        "title": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
+        "archive": true
+      },
+      "path": "hynix-intel-us-memory.json"
+    },
+    {
+      "id": "gyeongbuk-naver-shorts-contest",
+      "title": "경북·네이버웹툰 숏애니 공모전",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-pm-archive",
+        "storyId": "archive-08",
+        "title": "경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 경북·네이버웹툰 컷츠 첫 숏애니 공모전 접수.",
+        "archive": true
+      },
+      "path": "gyeongbuk-naver-shorts-contest.json"
+    },
+    {
+      "id": "gwangju-ace-fair-2026",
+      "title": "2026 광주 ACE Fair 콘텐츠 상담",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-am-archive",
+        "storyId": "archive-09",
+        "title": "ACE Fair 웹툰 포함 광주 콘텐츠기업 상담액 약 2,200억원",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: ACE Fair 웹툰 포함 광주 콘텐츠기업 상담액 약 2,200억원.",
+        "archive": true
+      },
+      "path": "gwangju-ace-fair-2026.json"
+    },
+    {
+      "id": "ai-development-pace-debate",
+      "title": "AI 개발 속도 조절 논쟁",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-16",
+      "lastCoveredDate": "2026-09-16",
+      "latest": {
+        "editionId": "2026-09-16-am-archive",
+        "storyId": "archive-06",
+        "title": "아모데이 vs 젠슨 황 AI 감속론 논쟁",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 아모데이 vs 젠슨 황 AI 감속론 논쟁.",
+        "archive": true
+      },
+      "path": "ai-development-pace-debate.json"
+    },
+    {
+      "id": "russia-ukraine-energy-truce",
+      "title": "러시아·우크라이나 에너지시설 공격 중단 논의",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-04",
+        "title": "트럼프, 러·우 에너지시설 공격 중단 합의 주장",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 러·우 에너지시설 공격 중단 합의 주장. 젤렌스키는 조건부 확인.",
+        "archive": true
+      },
+      "path": "russia-ukraine-energy-truce.json"
+    },
+    {
+      "id": "oracle-ai-investment-labor",
+      "title": "오라클 AI 투자와 구조조정",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-08",
+        "title": "오라클 추가 구조조정, AI 투자 부채 부담",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 오라클 추가 구조조정, AI 투자 부채 부담.",
+        "archive": true
+      },
+      "path": "oracle-ai-investment-labor.json"
+    },
+    {
+      "id": "microsoft-ai-conduct",
+      "title": "마이크로소프트 AI 행동강령",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-07",
+        "title": "마이크로소프트 차세대 AI 행동강령 공개",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향.",
+        "archive": true
+      },
+      "path": "microsoft-ai-conduct.json"
+    },
+    {
+      "id": "krx-aftermarket",
+      "title": "KRX 애프터마켓 운영",
+      "categories": [
+        "증시·제도"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-pm-archive",
+        "storyId": "archive-02",
+        "title": "KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: KRX 애프터마켓 이틀째 거래대금 약 1조원, VI 1,249회.",
+        "archive": true
+      },
+      "path": "krx-aftermarket.json"
+    },
+    {
+      "id": "korea-lease-disputes",
+      "title": "임대차 갱신·종료 분쟁",
+      "categories": [
+        "경제·부동산"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-06",
+        "title": "임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%.",
+        "archive": true
+      },
+      "path": "korea-lease-disputes.json"
+    },
+    {
+      "id": "kakao-kanana-reorganization",
+      "title": "카카오 카나나 서비스 재편",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-pm-archive",
+        "storyId": "archive-06",
+        "title": "카나나 독립앱 종료, 카카오톡 AI에 집중",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카나나 독립앱 종료, 카카오톡 AI에 집중.",
+        "archive": true
+      },
+      "path": "kakao-kanana-reorganization.json"
+    },
+    {
+      "id": "k-content-industry-council",
+      "title": "K-콘텐츠산업협의회",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-pm-archive",
+        "storyId": "archive-10",
+        "title": "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범.",
+        "archive": true
+      },
+      "path": "k-content-industry-council.json"
+    },
+    {
+      "id": "el-gaia-incident",
+      "title": "엘 가이아호 폭발과 각국 주장",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-02",
+        "title": "유조선 '엘 가이아' 폭발",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종.",
+        "archive": true
+      },
+      "path": "el-gaia-incident.json"
+    },
+    {
+      "id": "doosan-fuelcell-us-orders",
+      "title": "두산퓨얼셀 미국 수주",
+      "categories": [
+        "산업·에너지"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-pm-archive",
+        "storyId": "archive-07",
+        "title": "두산퓨얼셀 미국 3,222억원 추가 수주",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 두산퓨얼셀 미국 3,222억원 추가 수주.",
+        "archive": true
+      },
+      "path": "doosan-fuelcell-us-orders.json"
+    },
+    {
+      "id": "china-output-consumption",
+      "title": "중국 산업생산과 소비",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": null,
+      "eventCount": 1,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-09-15",
+      "latest": {
+        "editionId": "2026-09-15-pm-archive",
+        "storyId": "archive-08",
+        "title": "산업생산 +5.2%, 소비 +0.4%",
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 산업생산 +5.2%, 소비 +0.4%.",
+        "archive": true
+      },
+      "path": "china-output-consumption.json"
     }
   ]
 }

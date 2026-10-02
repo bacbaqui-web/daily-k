@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-government-bond-issuance",
+  "title": "한국 국채 발행 계획",
+  "entries": [
+    {
+      "id": "2026-10-01-pm-archive/archive-05",
+      "editionId": "2026-10-01-pm-archive",
+      "storyId": "archive-05",
+      "editionDate": "2026-10-01",
+      "edition": "pm",
+      "coveredAt": null,
+      "coveredOn": "2026-10-01",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "stage": "보도",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 정부, 10월 국채 발행 5조원 축소.",
+      "title": "정부, 10월 국채 발행 5조원 축소",
+      "category": "경제·금리",
+      "status": "과거 기록",
+      "summary": [
+        "정부, 10월 국채 발행 5조원 축소."
+      ],
+      "keyFacts": {
+        "originalRecord": "정부, 10월 국채 발행 5조원 축소."
+      },
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "sources": [],
+      "briefingPath": "archive/2026-10-01/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": [],
+      "archive": {
+        "originalText": "정부, 10월 국채 발행 5조원 축소.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 415,
+        "lineEnd": 415,
+        "sourceDocument": "news-briefing-archive.md",
+        "importedAt": "2026-10-02T12:34:33+09:00"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-02T12:34:33+09:00"
+}

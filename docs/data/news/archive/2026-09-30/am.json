@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-30-am-archive",
+  "date": "2026-09-30",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-30 오전 기록에는 경제, 국제·안보, 증시·금리, 국제·에너지, 경제·외교, 기술·IT·AI, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소. 웹툰 산업 기록: 카카오 통합 후 AI 추천·작품별 프로모션 강화."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-30-am-archive-01",
+      "category": "경제",
+      "title": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소",
+      "summary": [
+        "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소.",
+      "whyItMatters": "월간 변화와 전년 대비 수치를 구분해 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 375,
+        "lineEnd": 375
+      },
+      "emphasis": [
+        "-1.3%",
+        "-1.8%",
+        "-9.5%"
+      ],
+      "timeline": {
+        "issueId": "korea-industrial-activity",
+        "issueTitle": "한국 생산·소비·투자 통계",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-30-am-archive-02",
+      "category": "국제·안보",
+      "title": "김여정, DMZ 북한 지뢰 발표에 \"서울의 자작 광대극\" 반발",
+      "summary": [
+        "김여정, DMZ 북한 지뢰 발표에 \"서울의 자작 광대극\" 반발."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "김여정, DMZ 북한 지뢰 발표에 \"서울의 자작 광대극\" 반발.",
+      "whyItMatters": "조사 착수·발견 내용·각국 입장을 시간순으로 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "김여정, DMZ 북한 지뢰 발표에 \"서울의 자작 광대극\" 반발."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "김여정, DMZ 북한 지뢰 발표에 \"서울의 자작 광대극\" 반발.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 376,
+        "lineEnd": 376,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "DMZ 폭발 현장서 북한군 수지형 반보병지뢰 추가 발견, 주변 최소 4발 파악",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "dmz-mine-incident-2026",
+        "issueTitle": "DMZ 폭발·지뢰 조사와 남북 입장",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김여정, DMZ 북한 지뢰 발표에 \"서울의 자작 광대극\" 반발."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-30-am-archive-03",
+      "category": "증시·금리",
+      "title": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합",
+      "summary": [
+        "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 377,
+        "lineEnd": 377,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "美10년물 5.24%, 30년물 5.56%, 나스닥 -0.92%",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "5.293%",
+        "5.621%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 5.293%, 30년물 5.621%, 뉴욕증시 약보합."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-30-am-archive-04",
+      "category": "국제·에너지",
+      "title": "사우디 홍해 원유수출 재개, WTI 89.38달러",
+      "summary": [
+        "사우디 홍해 원유수출 재개, WTI 89.38달러."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "사우디 홍해 원유수출 재개, WTI 89.38달러.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "사우디 홍해 원유수출 재개, WTI 89.38달러."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "사우디 홍해 원유수출 재개, WTI 89.38달러.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 378,
+        "lineEnd": 378,
+        "previousCoverage": {
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "이란 7일 로드맵 기대에 WTI -2.33%",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "89.38달러"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 사우디 홍해 원유수출 재개, WTI 89.38달러."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-30-am-archive-05",
+      "category": "경제·외교",
+      "title": "트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장",
+      "summary": [
+        "트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장.",
+      "whyItMatters": "발표·협의·투자 확정의 단계가 다른 사안입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 379,
+        "lineEnd": 380,
+        "previousCoverage": {
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "대미투자 1호 텍사스 가스발전 확정, 223억달러",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "540억달러"
+      ],
+      "timeline": {
+        "issueId": "korea-us-investment-projects",
+        "issueTitle": "한국의 미국 에너지·인프라 투자",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프의 한국 알래스카 LNG 540억달러 투자 발표 가능성 보도, 한국은 추후 협의 입장."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-30-am-archive-06",
+      "category": "기술·IT·AI",
+      "title": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도",
+      "summary": [
+        "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
+      "whyItMatters": "행사 예정·제품 공개 보도·실제 제공 범위를 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 381,
+        "lineEnd": 381,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "openai-devday-agents-2026",
+        "issueTitle": "OpenAI DevDay와 상시 에이전트 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-30-am-archive-07",
+      "category": "기술·IT·AI",
+      "title": "앤트로픽 장기 AI 인프라 투자 계획 보도",
+      "summary": [
+        "앤트로픽 장기 AI 인프라 투자 계획 보도."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "앤트로픽 장기 AI 인프라 투자 계획 보도.",
+      "whyItMatters": "상장·투자 검토 보도와 실제 확정을 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "앤트로픽 장기 AI 인프라 투자 계획 보도."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "앤트로픽 장기 AI 인프라 투자 계획 보도.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 382,
+        "lineEnd": 382,
+        "previousCoverage": {
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-07",
+          "title": "앤트로픽 신모델·IPO 일정 검토 보도",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "anthropic-financing-2026",
+        "issueTitle": "앤트로픽 IPO와 인프라 투자 보도",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 앤트로픽 장기 AI 인프라 투자 계획 보도."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-30-am-archive-08",
+      "category": "웹툰 산업",
+      "title": "카카오 통합 후 AI 추천·작품별 프로모션 강화",
+      "summary": [
+        "카카오 통합 후 AI 추천·작품별 프로모션 강화."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "카카오 통합 후 AI 추천·작품별 프로모션 강화.",
+      "whyItMatters": "통합 발표·예정 안내·구체 방안·노사 요구를 구분해 연결한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 카카오 통합 후 AI 추천·작품별 프로모션 강화."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 카카오 통합 후 AI 추천·작품별 프로모션 강화.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 383,
+        "lineEnd": 383,
+        "previousCoverage": {
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "카카오 통합 후 핵심은 AI 추천·작품별 프로모션 차등화",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kakao-webtoon-platform-integration",
+        "issueTitle": "카카오페이지·카카오웹툰 통합과 타파스",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 통합 후 AI 추천·작품별 프로모션 강화."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-30 오전",
+    "watchItems": []
+  }
+}

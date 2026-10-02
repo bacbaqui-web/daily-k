@@ -1,0 +1,725 @@
+{
+  "importedAt": "2026-10-02T12:34:33+09:00",
+  "sourceDocument": "news-briefing-archive.md",
+  "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+  "firstDate": "2026-09-15",
+  "lastDate": "2026-10-02",
+  "editionCount": 35,
+  "storyCount": 291,
+  "issueCount": 132,
+  "sourceNamedCount": 20,
+  "relatedArticleRecordCount": 5,
+  "verification": "Original records preserved; not all historical claims have been independently reverified.",
+  "repeatedIssueCount": 44,
+  "repeatedTextRecordCount": 0,
+  "sameSlotAsPublished": [
+    "2026-10-02-am-archive"
+  ],
+  "issues": [
+    {
+      "id": "us-china-trade-ai-2026",
+      "count": 17
+    },
+    {
+      "id": "korea-equities-flows",
+      "count": 16
+    },
+    {
+      "id": "us-equities-chips-rates-oil",
+      "count": 14
+    },
+    {
+      "id": "middle-east-oil-supply",
+      "count": 12
+    },
+    {
+      "id": "kakao-webtoon-platform-integration",
+      "count": 11
+    },
+    {
+      "id": "us-iran-negotiations",
+      "count": 9
+    },
+    {
+      "id": "bicof-2026",
+      "count": 6
+    },
+    {
+      "id": "korea-investigation-prosecution-separation",
+      "count": 6
+    },
+    {
+      "id": "chuseok-traffic-2026",
+      "count": 6
+    },
+    {
+      "id": "north-korean-pows-ukraine-korea",
+      "count": 6
+    },
+    {
+      "id": "dmz-mine-incident-2026",
+      "count": 6
+    },
+    {
+      "id": "usdkrw-oil-export-flows",
+      "count": 5
+    },
+    {
+      "id": "international-ai-governance",
+      "count": 5
+    },
+    {
+      "id": "korea-mexico-economic-cooperation",
+      "count": 5
+    },
+    {
+      "id": "us-iran-military",
+      "count": 4
+    },
+    {
+      "id": "korea-central-asia-cooperation",
+      "count": 4
+    },
+    {
+      "id": "korea-hormuz-deployment",
+      "count": 4
+    },
+    {
+      "id": "aichi-nagoya-asian-games-2026",
+      "count": 4
+    },
+    {
+      "id": "korea-us-investment-projects",
+      "count": 4
+    },
+    {
+      "id": "openai-agent-security-2026",
+      "count": 4
+    },
+    {
+      "id": "kim-seungwon-nomination",
+      "count": 3
+    },
+    {
+      "id": "posco-labor-2026",
+      "count": 3
+    },
+    {
+      "id": "korea-defense-cooperation",
+      "count": 3
+    },
+    {
+      "id": "north-korea-missiles-sep2026",
+      "count": 3
+    },
+    {
+      "id": "anthropic-financing-2026",
+      "count": 3
+    },
+    {
+      "id": "korea-supreme-court-appointment-conflict",
+      "count": 3
+    },
+    {
+      "id": "honam-semiconductor-cluster",
+      "count": 3
+    },
+    {
+      "id": "andong-k-story-2026",
+      "count": 2
+    },
+    {
+      "id": "fed-policy-2026",
+      "count": 2
+    },
+    {
+      "id": "kim-seongsu-confirmation",
+      "count": 2
+    },
+    {
+      "id": "college-application-outage-2026",
+      "count": 2
+    },
+    {
+      "id": "korea-housing-supply-prices",
+      "count": 2
+    },
+    {
+      "id": "korea-us-foreign-minister-2026",
+      "count": 2
+    },
+    {
+      "id": "us-north-korea-dialogue",
+      "count": 2
+    },
+    {
+      "id": "russia-election-2026",
+      "count": 2
+    },
+    {
+      "id": "korea-exports-semiconductors",
+      "count": 2
+    },
+    {
+      "id": "naver-webtoon-global-drop",
+      "count": 2
+    },
+    {
+      "id": "korea-household-lending",
+      "count": 2
+    },
+    {
+      "id": "ai-research-safety-pressure",
+      "count": 2
+    },
+    {
+      "id": "webtoon-chuseok-promotions-2026",
+      "count": 2
+    },
+    {
+      "id": "meta-muse-agent-2026",
+      "count": 2
+    },
+    {
+      "id": "webtoon-ip-games",
+      "count": 2
+    },
+    {
+      "id": "openai-devday-agents-2026",
+      "count": 2
+    },
+    {
+      "id": "naver-webtoon-leadership-2026",
+      "count": 2
+    },
+    {
+      "id": "el-gaia-incident",
+      "count": 1
+    },
+    {
+      "id": "russia-ukraine-energy-truce",
+      "count": 1
+    },
+    {
+      "id": "korea-lease-disputes",
+      "count": 1
+    },
+    {
+      "id": "microsoft-ai-conduct",
+      "count": 1
+    },
+    {
+      "id": "oracle-ai-investment-labor",
+      "count": 1
+    },
+    {
+      "id": "krx-aftermarket",
+      "count": 1
+    },
+    {
+      "id": "kakao-kanana-reorganization",
+      "count": 1
+    },
+    {
+      "id": "doosan-fuelcell-us-orders",
+      "count": 1
+    },
+    {
+      "id": "china-output-consumption",
+      "count": 1
+    },
+    {
+      "id": "k-content-industry-council",
+      "count": 1
+    },
+    {
+      "id": "seoul-bus-wage-2026",
+      "count": 1
+    },
+    {
+      "id": "ai-development-pace-debate",
+      "count": 1
+    },
+    {
+      "id": "samsung-verizon-6g",
+      "count": 1
+    },
+    {
+      "id": "gwangju-ace-fair-2026",
+      "count": 1
+    },
+    {
+      "id": "yoon-perjury-appeal",
+      "count": 1
+    },
+    {
+      "id": "hynix-intel-us-memory",
+      "count": 1
+    },
+    {
+      "id": "lg-ai-devcon-2026",
+      "count": 1
+    },
+    {
+      "id": "gyeongbuk-naver-shorts-contest",
+      "count": 1
+    },
+    {
+      "id": "korea-interkorean-civil-contact",
+      "count": 1
+    },
+    {
+      "id": "foreign-performance-tax",
+      "count": 1
+    },
+    {
+      "id": "korea-iea-rise-asia",
+      "count": 1
+    },
+    {
+      "id": "samsung-ai-forum-2026",
+      "count": 1
+    },
+    {
+      "id": "world-webtoon-awards-2026",
+      "count": 1
+    },
+    {
+      "id": "north-korea-drill-response",
+      "count": 1
+    },
+    {
+      "id": "chuseok-costs-2026",
+      "count": 1
+    },
+    {
+      "id": "iphone-18-korea-launch",
+      "count": 1
+    },
+    {
+      "id": "punggye-ri-fault-study",
+      "count": 1
+    },
+    {
+      "id": "boj-policy-2026",
+      "count": 1
+    },
+    {
+      "id": "chuseok-highway-fuel-discount",
+      "count": 1
+    },
+    {
+      "id": "claude-openai-intrusion-report",
+      "count": 1
+    },
+    {
+      "id": "ai-military-misinformation",
+      "count": 1
+    },
+    {
+      "id": "korea-ai-budget-2027",
+      "count": 1
+    },
+    {
+      "id": "petrochemical-cartel-investigation",
+      "count": 1
+    },
+    {
+      "id": "korea-youth-policy-organization",
+      "count": 1
+    },
+    {
+      "id": "climate-justice-march-2026",
+      "count": 1
+    },
+    {
+      "id": "korea-ai-public-deliberation",
+      "count": 1
+    },
+    {
+      "id": "korea-hospital-cybersecurity",
+      "count": 1
+    },
+    {
+      "id": "anseong-market-incident",
+      "count": 1
+    },
+    {
+      "id": "ai-training-data-incentives",
+      "count": 1
+    },
+    {
+      "id": "k-games-tokyo-game-show-2026",
+      "count": 1
+    },
+    {
+      "id": "korea-noncovered-medical-spending",
+      "count": 1
+    },
+    {
+      "id": "ai-content-hackathon-2026",
+      "count": 1
+    },
+    {
+      "id": "kang-hoonsik-resignation",
+      "count": 1
+    },
+    {
+      "id": "global-ai-hub-korea",
+      "count": 1
+    },
+    {
+      "id": "korea-us-japan-diplomacy",
+      "count": 1
+    },
+    {
+      "id": "korea-single-households",
+      "count": 1
+    },
+    {
+      "id": "kim-keonhee-appeal",
+      "count": 1
+    },
+    {
+      "id": "naver-lg-secure-ai",
+      "count": 1
+    },
+    {
+      "id": "un-general-assembly-2026",
+      "count": 1
+    },
+    {
+      "id": "korea-consumer-sentiment",
+      "count": 1
+    },
+    {
+      "id": "korea-school-violence",
+      "count": 1
+    },
+    {
+      "id": "naver-z-labor-2026",
+      "count": 1
+    },
+    {
+      "id": "oecd-korea-growth-outlook",
+      "count": 1
+    },
+    {
+      "id": "webtoon-ip-screen-adaptations",
+      "count": 1
+    },
+    {
+      "id": "chuseok-weather-2026",
+      "count": 1
+    },
+    {
+      "id": "qualcomm-on-device-video-agent",
+      "count": 1
+    },
+    {
+      "id": "korea-regional-airport-finances",
+      "count": 1
+    },
+    {
+      "id": "us-consumer-sentiment",
+      "count": 1
+    },
+    {
+      "id": "korea-birth-forecasts",
+      "count": 1
+    },
+    {
+      "id": "gyeonggi-webtoon-fair-2026",
+      "count": 1
+    },
+    {
+      "id": "apple-taptic-patent",
+      "count": 1
+    },
+    {
+      "id": "korea-economic-team-meeting",
+      "count": 1
+    },
+    {
+      "id": "presidential-residence-allegation-case",
+      "count": 1
+    },
+    {
+      "id": "korea-disaster-ai-2030",
+      "count": 1
+    },
+    {
+      "id": "lg-nvidia-data-center",
+      "count": 1
+    },
+    {
+      "id": "russian-media-korea-remarks",
+      "count": 1
+    },
+    {
+      "id": "taiwan-us-arms",
+      "count": 1
+    },
+    {
+      "id": "korea-insurance-nonpayment",
+      "count": 1
+    },
+    {
+      "id": "korea-high-frequency-trading-rules",
+      "count": 1
+    },
+    {
+      "id": "korea-bank-opening-hours-2027",
+      "count": 1
+    },
+    {
+      "id": "korea-on-device-ai-chip",
+      "count": 1
+    },
+    {
+      "id": "samsung-helix-investment",
+      "count": 1
+    },
+    {
+      "id": "north-korea-troops-russia",
+      "count": 1
+    },
+    {
+      "id": "ai-rd-intelligence-explosion",
+      "count": 1
+    },
+    {
+      "id": "white-house-ai-ceo-meeting",
+      "count": 1
+    },
+    {
+      "id": "korea-business-sentiment",
+      "count": 1
+    },
+    {
+      "id": "tving-data-compensation",
+      "count": 1
+    },
+    {
+      "id": "korea-industrial-activity",
+      "count": 1
+    },
+    {
+      "id": "naver-webtoon-antipiracy-toonradar",
+      "count": 1
+    },
+    {
+      "id": "micron-earnings-2026",
+      "count": 1
+    },
+    {
+      "id": "us-pce-inflation",
+      "count": 1
+    },
+    {
+      "id": "uk-iran-plot-allegation",
+      "count": 1
+    },
+    {
+      "id": "aws-seoul-claude",
+      "count": 1
+    },
+    {
+      "id": "korea-government-bond-issuance",
+      "count": 1
+    },
+    {
+      "id": "claude-fake-x-election-operation",
+      "count": 1
+    },
+    {
+      "id": "russia-kaliningrad-warning",
+      "count": 1
+    },
+    {
+      "id": "cheongwang-demonstration-2026",
+      "count": 1
+    },
+    {
+      "id": "korea-consumer-prices",
+      "count": 1
+    }
+  ],
+  "editions": [
+    {
+      "id": "2026-09-15-am-archive",
+      "count": 10,
+      "path": "archive/2026-09-15/am.json"
+    },
+    {
+      "id": "2026-09-15-pm-archive",
+      "count": 10,
+      "path": "archive/2026-09-15/pm.json"
+    },
+    {
+      "id": "2026-09-16-am-archive",
+      "count": 9,
+      "path": "archive/2026-09-16/am.json"
+    },
+    {
+      "id": "2026-09-16-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-16/pm.json"
+    },
+    {
+      "id": "2026-09-17-am-archive",
+      "count": 9,
+      "path": "archive/2026-09-17/am.json"
+    },
+    {
+      "id": "2026-09-17-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-17/pm.json"
+    },
+    {
+      "id": "2026-09-18-am-archive",
+      "count": 9,
+      "path": "archive/2026-09-18/am.json"
+    },
+    {
+      "id": "2026-09-18-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-18/pm.json"
+    },
+    {
+      "id": "2026-09-19-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-19/am.json"
+    },
+    {
+      "id": "2026-09-19-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-19/pm.json"
+    },
+    {
+      "id": "2026-09-20-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-20/am.json"
+    },
+    {
+      "id": "2026-09-20-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-20/pm.json"
+    },
+    {
+      "id": "2026-09-21-am-archive",
+      "count": 9,
+      "path": "archive/2026-09-21/am.json"
+    },
+    {
+      "id": "2026-09-21-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-21/pm.json"
+    },
+    {
+      "id": "2026-09-22-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-22/am.json"
+    },
+    {
+      "id": "2026-09-22-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-22/pm.json"
+    },
+    {
+      "id": "2026-09-23-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-23/am.json"
+    },
+    {
+      "id": "2026-09-23-pm-archive",
+      "count": 7,
+      "path": "archive/2026-09-23/pm.json"
+    },
+    {
+      "id": "2026-09-24-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-24/am.json"
+    },
+    {
+      "id": "2026-09-24-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-24/pm.json"
+    },
+    {
+      "id": "2026-09-25-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-25/am.json"
+    },
+    {
+      "id": "2026-09-25-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-25/pm.json"
+    },
+    {
+      "id": "2026-09-26-am-archive",
+      "count": 9,
+      "path": "archive/2026-09-26/am.json"
+    },
+    {
+      "id": "2026-09-26-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-26/pm.json"
+    },
+    {
+      "id": "2026-09-27-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-27/am.json"
+    },
+    {
+      "id": "2026-09-27-pm-archive",
+      "count": 9,
+      "path": "archive/2026-09-27/pm.json"
+    },
+    {
+      "id": "2026-09-28-am-archive",
+      "count": 7,
+      "path": "archive/2026-09-28/am.json"
+    },
+    {
+      "id": "2026-09-28-pm-archive",
+      "count": 9,
+      "path": "archive/2026-09-28/pm.json"
+    },
+    {
+      "id": "2026-09-29-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-29/am.json"
+    },
+    {
+      "id": "2026-09-29-pm-archive",
+      "count": 9,
+      "path": "archive/2026-09-29/pm.json"
+    },
+    {
+      "id": "2026-09-30-am-archive",
+      "count": 8,
+      "path": "archive/2026-09-30/am.json"
+    },
+    {
+      "id": "2026-09-30-pm-archive",
+      "count": 8,
+      "path": "archive/2026-09-30/pm.json"
+    },
+    {
+      "id": "2026-10-01-am-archive",
+      "count": 8,
+      "path": "archive/2026-10-01/am.json"
+    },
+    {
+      "id": "2026-10-01-pm-archive",
+      "count": 9,
+      "path": "archive/2026-10-01/pm.json"
+    },
+    {
+      "id": "2026-10-02-am-archive",
+      "count": 8,
+      "path": "archive/2026-10-02/am.json"
+    }
+  ]
+}

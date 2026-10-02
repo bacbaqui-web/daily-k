@@ -3,6 +3,7 @@ import copy
 from datetime import date, datetime
 import re
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
+from archive import edition_order, edition_path
 
 STAGES = {'예정', '발표', '검토', '확정', '시행', '결과', '후속', '보도', '분석', '정정', '철회'}
 SLUG = r'[a-z0-9][a-z0-9-]{0,119}'
@@ -73,10 +74,10 @@ def validate_timeline(story, prior, cutoff):
 def build_timelines(editions):
     """All history, no retention cutoff. Rebuilding never appends duplicate events."""
     issues, seen, unlinked = {}, set(), 0
-    ordered = sorted(editions, key=lambda b: (b['cutoffAt'], b['id']))
+    ordered = sorted(editions, key=edition_order)
     prior = []
     for edition in ordered:
-        cutoff = datetime.fromisoformat(edition['cutoffAt'].replace('Z', '+00:00'))
+        cutoff = datetime.fromisoformat((edition['cutoffAt'] or edition['generatedAt']).replace('Z', '+00:00'))
         for story in edition['stories']:
             entry_id = f"{edition['id']}/{story['id']}"
             require(entry_id not in seen, 'Duplicate archived timeline record')
@@ -91,18 +92,20 @@ def build_timelines(editions):
             previous = issue['entries'][-1] if issue['entries'] else None
             entry = {
                 'id': entry_id, **reference(edition, story), 'editionDate': edition['date'], 'edition': edition['edition'],
-                'coveredAt': edition['generatedAt'], 'publishedAt': story['publishedAt'],
+                'coveredAt': None if edition.get('archive') else edition['generatedAt'], 'coveredOn': edition['date'], 'publishedAt': story['publishedAt'],
                 'eventAt': story.get('eventAt'), 'eventDate': t['eventDate'], 'eventEndDate': t['eventEndDate'],
                 'eventTimezone': t['eventTimezone'], 'eventTimeNote': story['eventTimeNote'],
                 'stage': t['stage'], 'change': t['change'], 'title': story['title'], 'category': story['category'],
                 'status': story['status'], 'summary': copy.deepcopy(story['summary']),
                 'keyFacts': copy.deepcopy(story['keyFacts']), 'uncertainty': story['uncertainty'],
                 'sources': copy.deepcopy(story['sources']),
-                'briefingPath': f"{edition['date']}/{edition['edition']}.json",
+                'briefingPath': edition_path(edition),
                 'previous': {k: previous[k] for k in ('editionId', 'storyId')} if previous else None,
                 'followUp': copy.deepcopy(story.get('followUp')),
                 'correctionOf': copy.deepcopy(t.get('correctionOf')), 'supersededBy': [],
             }
+            if edition.get('archive'):
+                entry['archive'] = {**copy.deepcopy(story['archive']), 'sourceDocument': edition['archive']['sourceDocument'], 'importedAt': edition['archive']['importedAt']}
             if t.get('correctionOf'):
                 original = next(e for e in issue['entries'] if {k: e[k] for k in ('editionId', 'storyId')} == t['correctionOf'])
                 original['supersededBy'].append({**reference(edition, story), 'stage': t['stage']})
@@ -117,12 +120,13 @@ def build_timelines(editions):
         index['issues'].append({
             'id': issue_id, 'title': issue['title'], 'categories': sorted({e['category'] for e in entries}),
             'firstCoveredAt': first['coveredAt'], 'lastCoveredAt': latest['coveredAt'], 'eventCount': len(entries),
-            'latest': {k: latest[k] for k in ('editionId', 'storyId', 'title', 'stage', 'change')}, 'path': f'{issue_id}.json',
+            'firstCoveredDate': first['coveredOn'], 'lastCoveredDate': latest['coveredOn'],
+            'latest': {**{k: latest[k] for k in ('editionId', 'storyId', 'title', 'stage', 'change')}, 'archive': bool(latest.get('archive'))}, 'path': f'{issue_id}.json',
         })
         # Calendar dates retain their source timezone; unknown dates are placed last.
-        issue['entries'] = sorted(entries, key=lambda e: (e['eventDate'] is None, e['eventDate'] or '', e['eventAt'] or '', e['coveredAt'], e['id']))
+        issue['entries'] = sorted(entries, key=lambda e: (e['eventDate'] is None, e['eventDate'] or '', e['eventAt'] or '', e['coveredOn'], e['edition'], e['id']))
         issue['updatedAt'] = updated
         files[f'issues/{issue_id}.json'] = issue
-    index['issues'].sort(key=lambda i: (i['lastCoveredAt'], i['id']), reverse=True)
+    index['issues'].sort(key=lambda i: (i['lastCoveredDate'], i['lastCoveredAt'] or '', i['id']), reverse=True)
     files['issues/index.json'] = index
     return files

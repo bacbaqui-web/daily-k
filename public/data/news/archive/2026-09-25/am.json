@@ -1,0 +1,394 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-25-am-archive",
+  "date": "2026-09-25",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-25 오전 기록에는 국제·경제, 증시·금리, 국제·에너지, 국제·외교, 웹툰 산업, 사회·교통 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 미중 정상회담 종료, 무역휴전 연장. 대만·AI 이견 지속. 웹툰 산업 기록: 네이버·카카오·리디 추석 신작 경쟁."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-25-am-archive-01",
+      "category": "국제·경제",
+      "title": "미중 정상회담 종료, 무역휴전 연장",
+      "summary": [
+        "미중 정상회담 종료, 무역휴전 연장. 대만·AI 이견 지속."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 정상회담 종료, 무역휴전 연장. 대만·AI 이견 지속.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 정상회담 종료, 무역휴전 연장. 대만·AI 이견 지속."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 정상회담 종료, 무역휴전 연장. 대만·AI 이견 지속.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 259,
+        "lineEnd": 259,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "중국도 미중 무역휴전 2개월 연장·AI 정식 협상 확인",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 정상회담 종료, 무역휴전 연장. 대만·AI 이견 지속."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-25-am-archive-02",
+      "category": "증시·금리",
+      "title": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조",
+      "summary": [
+        "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조.",
+      "whyItMatters": "금리와 반도체주, 유가를 함께 기록한 시장 흐름입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 260,
+        "lineEnd": 260,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "나스닥 -1.13%, 美10년물 5.13%",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "5.22%",
+        "5.50%"
+      ],
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 美10년물 5.22%, 30년물 5.50%, 뉴욕증시 혼조."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-25-am-archive-03",
+      "category": "국제·에너지",
+      "title": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러",
+      "summary": [
+        "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 261,
+        "lineEnd": 261,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "브렌트 +3.86% 103.08달러",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "106.60달러"
+      ],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 후티 사우디 원유 수출거점 공격, 브렌트 106.60달러."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-25-am-archive-04",
+      "category": "국제·경제",
+      "title": "한·멕시코 정상회담: AI 협력선언·투자보장협정 타결",
+      "summary": [
+        "한·멕시코 정상회담: AI 협력선언·투자보장협정 타결."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "한·멕시코 정상회담: AI 협력선언·투자보장협정 타결.",
+      "whyItMatters": "정상회담·협정·기업 금융 지원의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "한·멕시코 정상회담: AI 협력선언·투자보장협정 타결."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "한·멕시코 정상회담: AI 협력선언·투자보장협정 타결.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 262,
+        "lineEnd": 262,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "한·멕시코 FTA 재추진, 전기차·배터리·FA-50·AI 협력 제안",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-mexico-economic-cooperation",
+        "issueTitle": "한·멕시코 무역·투자 협력",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 한·멕시코 정상회담: AI 협력선언·투자보장협정 타결."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-25-am-archive-05",
+      "category": "국제·외교",
+      "title": "북한군 포로 2명 한국 송환, 비공개 합의 논란",
+      "summary": [
+        "북한군 포로 2명 한국 송환, 비공개 합의 논란."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "북한군 포로 2명 한국 송환, 비공개 합의 논란.",
+      "whyItMatters": "입국·합의 주장·각국 공식 입장을 구분한 경과 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "북한군 포로 2명 한국 송환, 비공개 합의 논란."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "북한군 포로 2명 한국 송환, 비공개 합의 논란.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 263,
+        "lineEnd": 263,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "우크라이나 생포 북한군 포로 2명 한국 도착 확인",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "2명"
+      ],
+      "timeline": {
+        "issueId": "north-korean-pows-ukraine-korea",
+        "issueTitle": "북한군 포로 송환과 한·우크라이나 협의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 북한군 포로 2명 한국 송환, 비공개 합의 논란."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-25-am-archive-06",
+      "category": "국제·경제",
+      "title": "미중 AI 대화 지속, 규제 시각차",
+      "summary": [
+        "미중 AI 대화 지속, 규제 시각차."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 AI 대화 지속, 규제 시각차.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 AI 대화 지속, 규제 시각차."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 AI 대화 지속, 규제 시각차.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 264,
+        "lineEnd": 264,
+        "previousCoverage": {
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "미중 정상회담 종료, 무역휴전 연장",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 AI 대화 지속, 규제 시각차."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-25-am-archive-07",
+      "category": "웹툰 산업",
+      "title": "네이버·카카오·리디 추석 신작 경쟁",
+      "summary": [
+        "네이버·카카오·리디 추석 신작 경쟁."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "네이버·카카오·리디 추석 신작 경쟁.",
+      "whyItMatters": "플랫폼의 신작과 연휴 이용 전략을 묶은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 네이버·카카오·리디 추석 신작 경쟁."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] 네이버·카카오·리디 추석 신작 경쟁.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 265,
+        "lineEnd": 265
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "webtoon-chuseok-promotions-2026",
+        "issueTitle": "웹툰 플랫폼 추석 콘텐츠·프로모션",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 네이버·카카오·리디 추석 신작 경쟁."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-25-am-archive-08",
+      "category": "사회·교통",
+      "title": "추석 당일 차량 684만대, 귀경길 최악",
+      "summary": [
+        "추석 당일 차량 684만대, 귀경길 최악."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "추석 당일 차량 684만대, 귀경길 최악.",
+      "whyItMatters": "예상 혼잡과 실제 교통 상황을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "추석 당일 차량 684만대, 귀경길 최악."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "추석 당일 차량 684만대, 귀경길 최악.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 266,
+        "lineEnd": 266,
+        "previousCoverage": {
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-07",
+          "title": "추석 귀성길 최대 혼잡",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "chuseok-traffic-2026",
+        "issueTitle": "2026 추석 교통 흐름",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 당일 차량 684만대, 귀경길 최악."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-25 오전",
+    "watchItems": []
+  }
+}

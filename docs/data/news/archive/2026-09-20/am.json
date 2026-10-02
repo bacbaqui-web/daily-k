@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-20-am-archive",
+  "date": "2026-09-20",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-20 오전 기록에는 국제·에너지, 국제·경제, 기술·IT·AI, 국내 정책·사회, 사회·보안, 경제·부동산, 웹툰 산업, 사회·사건 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질. 웹툰 산업 기록: BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-20-am-archive-01",
+      "category": "국제·에너지",
+      "title": "후티, 사우디 리야드 공격",
+      "summary": [
+        "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질.",
+      "whyItMatters": "운송·공급 차질과 유가 변화에 관한 기록을 묶었습니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 148,
+        "lineEnd": 148,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-20-am-archive-02",
+      "category": "국제·경제",
+      "title": "베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율",
+      "summary": [
+        "베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 149,
+        "lineEnd": 149,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "pm",
+          "storyId": "archive-05",
+          "title": "허리펑 미국행, AI·희토류·관세 협상",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 베선트-허리펑 뉴욕 담판, AI·희토류·무역휴전 조율."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-20-am-archive-03",
+      "category": "기술·IT·AI",
+      "title": "트럼프 \"AI군 만들겠다\", AI 차르 지명 예고",
+      "summary": [
+        "트럼프 \"AI군 만들겠다\", AI 차르 지명 예고."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "트럼프 \"AI군 만들겠다\", AI 차르 지명 예고.",
+      "whyItMatters": "다자 논의와 연구자 제안, 제도 도입 여부를 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "트럼프 \"AI군 만들겠다\", AI 차르 지명 예고."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "트럼프 \"AI군 만들겠다\", AI 차르 지명 예고.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 150,
+        "lineEnd": 150,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "빅테크 CEO 반대로 독립 AI 규제기구 설립안 보류 보도",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "international-ai-governance",
+        "issueTitle": "국제 AI 안전 기준과 규제 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프 \"AI군 만들겠다\", AI 차르 지명 예고."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-20-am-archive-04",
+      "category": "국내 정책·사회",
+      "title": "김승원 법무장관 후보자 자진사퇴",
+      "summary": [
+        "김승원 법무장관 후보자 자진사퇴."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "김승원 법무장관 후보자 자진사퇴.",
+      "whyItMatters": "인사청문회 의혹 제기와 사퇴의 경과를 담은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "김승원 법무장관 후보자 자진사퇴."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "김승원 법무장관 후보자 자진사퇴.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 151,
+        "lineEnd": 151,
+        "previousCoverage": {
+          "date": "2026-09-15",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "김승원 청문회 난타전",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "kim-seungwon-nomination",
+        "issueTitle": "김승원 법무장관 후보 청문회와 사퇴",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 김승원 법무장관 후보자 자진사퇴."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-20-am-archive-05",
+      "category": "사회·보안",
+      "title": "종합병원 43% 실시간 사이버 보안관제 미실시",
+      "summary": [
+        "종합병원 43% 실시간 사이버 보안관제 미실시."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "종합병원 43% 실시간 사이버 보안관제 미실시.",
+      "whyItMatters": "기관 조사 범위와 보안 공백을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "종합병원 43% 실시간 사이버 보안관제 미실시."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "종합병원 43% 실시간 사이버 보안관제 미실시.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 152,
+        "lineEnd": 152
+      },
+      "emphasis": [
+        "43%"
+      ],
+      "timeline": {
+        "issueId": "korea-hospital-cybersecurity",
+        "issueTitle": "국내 병원 사이버 보안관제",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 종합병원 43% 실시간 사이버 보안관제 미실시."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-20-am-archive-06",
+      "category": "경제·부동산",
+      "title": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대",
+      "summary": [
+        "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+      "whyItMatters": "가격 지표와 공급 정책의 진행을 함께 관찰할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 153,
+        "lineEnd": 153,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "부동산 공급 속도전, 대통령 주간 점검",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-housing-supply-prices",
+        "issueTitle": "국내 주택 가격과 공급 정책",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-20-am-archive-07",
+      "category": "웹툰 산업",
+      "title": "BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합",
+      "summary": [
+        "BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합.",
+      "whyItMatters": "축제·시상·작품 발표 등 행사 경과를 담은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 154,
+        "lineEnd": 154,
+        "previousCoverage": {
+          "date": "2026-09-19",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "BICOF 2일차, 웹툰페어·코스프레·OST 결합",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "bicof-2026",
+        "issueTitle": "2026 부천국제만화축제",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: BICOF 마지막 날, 웹툰페어를 부천 산업생태계와 결합."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-20-am-archive-08",
+      "category": "사회·사건",
+      "title": "안성 나눔장터 트럭 돌진 사고",
+      "summary": [
+        "안성 나눔장터 트럭 돌진 사고."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "안성 나눔장터 트럭 돌진 사고.",
+      "whyItMatters": "사고 경위와 피해 규모의 후속 확인이 필요한 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "안성 나눔장터 트럭 돌진 사고."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "안성 나눔장터 트럭 돌진 사고.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 155,
+        "lineEnd": 155
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "anseong-market-incident",
+        "issueTitle": "안성 나눔장터 트럭 사고",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 안성 나눔장터 트럭 돌진 사고."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-20 오전",
+    "watchItems": []
+  }
+}

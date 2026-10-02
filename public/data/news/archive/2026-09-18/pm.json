@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-09-18-pm-archive",
+  "date": "2026-09-18",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": null,
+  "generatedAt": "2026-10-02T12:34:33+09:00",
+  "intro": "이전에 받은 ChatGPT 뉴스 브리핑 기록",
+  "overview": [
+    "당시 2026-09-18 저녁 기록에는 증시·환율, 경제·금리, 국제·외교, 경제·부동산, 경제·생활, 국제·경제, 웹툰 산업 분야의 소식 8개가 담겨 있습니다.",
+    "주요 기록: 코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수. 웹툰 산업 기록: BICOF 공식 개막, 웹툰페어 연계."
+  ],
+  "stories": [
+    {
+      "id": "archive-01",
+      "topicKey": "2026-09-18-pm-archive-01",
+      "category": "증시·환율",
+      "title": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수",
+      "summary": [
+        "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수.",
+      "whyItMatters": "지수와 수급의 날짜별 기록을 비교할 수 있습니다. 장중·종가·예상치는 구분해야 합니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 1,
+        "lineStart": 115,
+        "lineEnd": 115,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도",
+          "archive": true
+        }
+      },
+      "emphasis": [
+        "+2.66%"
+      ],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수."
+      }
+    },
+    {
+      "id": "archive-02",
+      "topicKey": "2026-09-18-pm-archive-02",
+      "category": "경제·금리",
+      "title": "BOJ 1.25% 인상, 추가 인상 시사",
+      "summary": [
+        "BOJ 1.25% 인상, 추가 인상 시사."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "BOJ 1.25% 인상, 추가 인상 시사.",
+      "whyItMatters": "실제 금리 결정과 추가 인상 전망을 구분할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "BOJ 1.25% 인상, 추가 인상 시사."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "BOJ 1.25% 인상, 추가 인상 시사.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 2,
+        "lineStart": 116,
+        "lineEnd": 116
+      },
+      "emphasis": [
+        "1.25%"
+      ],
+      "timeline": {
+        "issueId": "boj-policy-2026",
+        "issueTitle": "일본은행 금리 결정",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: BOJ 1.25% 인상, 추가 인상 시사."
+      }
+    },
+    {
+      "id": "archive-03",
+      "topicKey": "2026-09-18-pm-archive-03",
+      "category": "국제·외교",
+      "title": "이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의",
+      "summary": [
+        "이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의.",
+      "whyItMatters": "검토안과 실제 결정, 비전투 임무 여부를 구분해야 하는 사안입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 3,
+        "lineStart": 117,
+        "lineEnd": 117,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "호르무즈 파병 논의 속도조절",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-hormuz-deployment",
+        "issueTitle": "한국의 호르무즈 기여·파병 논의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"호르무즈 전쟁개입 파병 없다\", 대미투자 재협의."
+      }
+    },
+    {
+      "id": "archive-04",
+      "topicKey": "2026-09-18-pm-archive-04",
+      "category": "경제·부동산",
+      "title": "부동산 공급 속도전, 대통령 주간 점검",
+      "summary": [
+        "부동산 공급 속도전, 대통령 주간 점검."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "부동산 공급 속도전, 대통령 주간 점검.",
+      "whyItMatters": "가격 지표와 공급 정책의 진행을 함께 관찰할 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "부동산 공급 속도전, 대통령 주간 점검."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "부동산 공급 속도전, 대통령 주간 점검.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 4,
+        "lineStart": 118,
+        "lineEnd": 118
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-housing-supply-prices",
+        "issueTitle": "국내 주택 가격과 공급 정책",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 부동산 공급 속도전, 대통령 주간 점검."
+      }
+    },
+    {
+      "id": "archive-05",
+      "topicKey": "2026-09-18-pm-archive-05",
+      "category": "경제·생활",
+      "title": "추석 고속도로 주유소 226곳 ℓ당 100원 인하",
+      "summary": [
+        "추석 고속도로 주유소 226곳 ℓ당 100원 인하."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "추석 고속도로 주유소 226곳 ℓ당 100원 인하.",
+      "whyItMatters": "한시 할인 대상과 기간을 다룬 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "추석 고속도로 주유소 226곳 ℓ당 100원 인하."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "추석 고속도로 주유소 226곳 ℓ당 100원 인하.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 5,
+        "lineStart": 119,
+        "lineEnd": 119
+      },
+      "emphasis": [
+        "226곳",
+        "100원"
+      ],
+      "timeline": {
+        "issueId": "chuseok-highway-fuel-discount",
+        "issueTitle": "추석 고속도로 주유소 할인",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 추석 고속도로 주유소 226곳 ℓ당 100원 인하."
+      }
+    },
+    {
+      "id": "archive-06",
+      "topicKey": "2026-09-18-pm-archive-06",
+      "category": "국제·경제",
+      "title": "미중 AI 안전 시각차",
+      "summary": [
+        "미중 AI 안전 시각차."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "미중 AI 안전 시각차.",
+      "whyItMatters": "관세·희토류·AI 협상의 합의와 미합의 부분을 이어 볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "미중 AI 안전 시각차."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "미중 AI 안전 시각차.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 6,
+        "lineStart": 120,
+        "lineEnd": 120,
+        "previousCoverage": {
+          "date": "2026-09-17",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "트럼프-시진핑 24일 백악관 회담 확정",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "us-china-trade-ai-2026",
+        "issueTitle": "미중 정상회담·무역·AI 협상",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 AI 안전 시각차."
+      }
+    },
+    {
+      "id": "archive-07",
+      "topicKey": "2026-09-18-pm-archive-07",
+      "category": "웹툰 산업",
+      "title": "BICOF 공식 개막, 웹툰페어 연계",
+      "summary": [
+        "BICOF 공식 개막, 웹툰페어 연계."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "BICOF 공식 개막, 웹툰페어 연계.",
+      "whyItMatters": "축제·시상·작품 발표 등 행사 경과를 담은 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "[웹툰] BICOF 공식 개막, 웹툰페어 연계."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "[웹툰] BICOF 공식 개막, 웹툰페어 연계.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 7,
+        "lineStart": 121,
+        "lineEnd": 121,
+        "previousCoverage": {
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-09",
+          "title": "부천국제만화축제 개막, 경기국제웹툰페어 통합",
+          "archive": true
+        }
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "bicof-2026",
+        "issueTitle": "2026 부천국제만화축제",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: BICOF 공식 개막, 웹툰페어 연계."
+      }
+    },
+    {
+      "id": "archive-08",
+      "topicKey": "2026-09-18-pm-archive-08",
+      "category": "국제·외교",
+      "title": "조현 장관 美의회 면담, 루비오 회담 예정",
+      "summary": [
+        "조현 장관 美의회 면담, 루비오 회담 예정."
+      ],
+      "status": "과거 기록",
+      "publishedAt": null,
+      "eventAt": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "whatChanged": "조현 장관 美의회 면담, 루비오 회담 예정.",
+      "whyItMatters": "투자 이행과 협력 의제의 후속을 살펴볼 기록입니다.",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
+      "keyFacts": {
+        "originalRecord": "조현 장관 美의회 면담, 루비오 회담 예정."
+      },
+      "sources": [],
+      "score": null,
+      "archive": {
+        "originalText": "조현 장관 美의회 면담, 루비오 회담 예정.",
+        "sourceNames": [],
+        "verification": "not-reverified",
+        "ordinal": 8,
+        "lineStart": 122,
+        "lineEnd": 122
+      },
+      "emphasis": [],
+      "timeline": {
+        "issueId": "korea-us-foreign-minister-2026",
+        "issueTitle": "한미 외교장관 협의",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "과거 브리핑에 남아 있는 기록입니다: 조현 장관 美의회 면담, 루비오 회담 예정."
+      }
+    }
+  ],
+  "events": [],
+  "keywords": [],
+  "archive": {
+    "sourceDocument": "news-briefing-archive.md",
+    "sourceSha256": "547901de744d5a436d08cfdc6f7857020b3ca4529aa4b3edc839317d78b2377a",
+    "importedAt": "2026-10-02T12:34:33+09:00",
+    "originalGeneratedAt": null,
+    "originalHeading": "2026-09-18 저녁",
+    "watchItems": []
+  }
+}

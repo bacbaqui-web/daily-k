@@ -6,13 +6,14 @@ from pathlib import Path
 
 from publish import ROOT, write_json
 from timeline import build_timelines
+from archive import load_editions
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--check', action='store_true', help='Verify the index and histories without writing')
     args = parser.parse_args()
-    editions = [json.loads(p.read_text()) for p in sorted((ROOT/'public/data/news').glob('????-??-??/*.json'))]
+    editions = load_editions(ROOT/'public/data/news')
     files = build_timelines(editions)
     for folder in ('public/data/news', 'docs/data/news'):
         for relative, data in files.items():
