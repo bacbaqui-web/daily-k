@@ -4,6 +4,62 @@
   "title": "한국 증시와 외국인 수급",
   "entries": [
     {
+      "id": "2026-10-02-pm/korea-market-2026-10-02-close",
+      "editionId": "2026-10-02-pm",
+      "storyId": "korea-market-2026-10-02-close",
+      "editionDate": "2026-10-02",
+      "edition": "pm",
+      "coveredAt": "2026-10-02T21:21:48+09:00",
+      "coveredOn": "2026-10-02",
+      "publishedAt": "2026-10-02T15:58:10+09:00",
+      "eventAt": "2026-10-02T15:30:00+09:00",
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "10월 2일 15시 30분 국내 주식시장 정규장 마감 결과입니다.",
+      "stage": "결과",
+      "change": "10월 2일 국내 정규장 종가가 확정됐습니다. 코스피는 7천선을 회복했지만 코스닥은 소폭 하락했습니다.",
+      "title": "코스피 7,003.74로 마감…7천선 회복에도 외국인은 순매도",
+      "category": "증시·반도체",
+      "status": "확정",
+      "summary": [
+        "코스피가 전일보다 0.46% 오른 7,003.74로 장을 마쳤습니다. 코스닥은 0.11% 내린 893.29로 마감해 두 시장의 방향이 갈렸습니다.",
+        "코스피는 6,938.27에서 하락 출발한 뒤 등락을 거쳐 7천선을 회복했습니다. 기관은 3,813억 원을 순매수했지만 외국인은 1,367억 원을 순매도했습니다.",
+        "반도체 대형주 중 삼성전자는 보합, SK하이닉스는 0.44% 상승으로 정규장을 마쳤습니다. 지수 회복을 반도체 전반의 강한 동반 상승으로 확대해 해석하기에는 종목별 움직임이 제한적이었습니다.",
+        "이날 결과는 지수가 올라도 외국인 자금 흐름까지 함께 개선된 것은 아니라는 점을 보여줍니다. 연휴 뒤에는 해외 금리·유가와 함께 외국인 매매 방향이 바뀌는지를 확인할 필요가 있습니다."
+      ],
+      "keyFacts": {
+        "kospiClose": "7003.74",
+        "kospiChangePct": "+0.46%",
+        "kosdaqClose": "893.29",
+        "kosdaqChangePct": "-0.11%",
+        "foreignNetBuying": "-1367억원",
+        "samsungChangePct": "0.00%",
+        "skHynixChangePct": "+0.44%"
+      },
+      "uncertainty": "정규장 마감 수치이며 이후 거래는 포함하지 않습니다. 하루의 외국인 순매도만으로 중장기 방향을 단정할 수 없습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "코스피, 오르락 내리락 끝에 7000선 '턱걸이'…연휴 앞두고 관망",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812850",
+          "publishedAt": "2026-10-02T15:58:10+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T21:13:56+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/04/23/NISI20260423_0002118294_web.jpg"
+        }
+      ],
+      "briefingPath": "2026-10-02/pm.json",
+      "previous": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-01"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-15-pm-archive/archive-01",
       "editionId": "2026-09-15-pm-archive",
       "storyId": "archive-01",
@@ -844,5 +900,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T12:34:33+09:00"
+  "updatedAt": "2026-10-02T21:21:48+09:00"
 }

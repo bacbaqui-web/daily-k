@@ -1,30 +1,180 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T12:34:33+09:00",
-  "editionCount": 36,
-  "storyCount": 298,
+  "updatedAt": "2026-10-02T21:21:48+09:00",
+  "editionCount": 37,
+  "storyCount": 306,
   "unlinkedStoryCount": 0,
   "issues": [
     {
       "id": "usdkrw-oil-export-flows",
       "title": "유가와 수출기업 수급에 따른 원·달러 환율",
       "categories": [
+        "환율",
         "환율·금리"
       ],
       "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 6,
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 7,
       "firstCoveredDate": "2026-09-17",
       "lastCoveredDate": "2026-10-02",
       "latest": {
-        "editionId": "2026-10-02-am",
-        "storyId": "usdkrw-2026-10-02-morning",
-        "title": "원·달러 환율, 전일 1,358.4원…유가와 수출기업 달러 매도가 변수",
+        "editionId": "2026-10-02-pm",
+        "storyId": "usdkrw-2026-10-02-close",
+        "title": "원·달러 1,350.6원 주간 마감…아침 참고치에서 실제 종가로",
         "stage": "결과",
-        "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다.",
+        "change": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다.",
         "archive": false
       },
       "path": "usdkrw-oil-export-flows.json"
+    },
+    {
+      "id": "korea-investigation-prosecution-separation",
+      "title": "수사·기소 분리와 공소청·중수청 출범",
+      "categories": [
+        "국내 정책·사회",
+        "국내·정책"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 8,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-prosecution-first-day-2026-10-02",
+        "title": "중수청 첫날 16시 기준 26건 접수…출범 뒤 실제 운영 확인",
+        "stage": "후속",
+        "change": "아침의 조직 출범 소식 이후 오후 4시 접수 26건과 민원 전산의 지연·재개 상황이 새로 확인됐습니다.",
+        "archive": false
+      },
+      "path": "korea-investigation-prosecution-separation.json"
+    },
+    {
+      "id": "korea-government-it-disaster-recovery",
+      "title": "국가 정보시스템 재해복구와 대전센터 이전",
+      "categories": [
+        "기술·공공정책"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "government-it-recovery-2026-10",
+        "title": "국가 정보시스템 13개 이중화 착수 계획…완료 목표는 내년 상반기",
+        "stage": "후속",
+        "change": "10월 1일 점검한 추진현황이 2일 공개되며 우선 구축 13개와 내년 상반기 목표가 구체적으로 확인됐습니다.",
+        "archive": false
+      },
+      "path": "korea-government-it-disaster-recovery.json"
+    },
+    {
+      "id": "korea-equities-flows",
+      "title": "한국 증시와 외국인 수급",
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 17,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-market-2026-10-02-close",
+        "title": "코스피 7,003.74로 마감…7천선 회복에도 외국인은 순매도",
+        "stage": "결과",
+        "change": "10월 2일 국내 정규장 종가가 확정됐습니다. 코스피는 7천선을 회복했지만 코스닥은 소폭 하락했습니다.",
+        "archive": false
+      },
+      "path": "korea-equities-flows.json"
+    },
+    {
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+      "categories": [
+        "금융·보안"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-bank-breaches-2026-10-02",
+        "title": "은행권 정보유출 확대…금융위, 외부 노출 시스템 전면 점검 지시",
+        "stage": "후속",
+        "change": "오늘 추가 유출 사례가 확인됐고, 15시 긴급회의에서 금융권 전체의 시스템 점검과 위협정보 공동 대응을 지시했습니다.",
+        "archive": false
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json"
+    },
+    {
+      "id": "euro-area-consumer-prices",
+      "title": "유로존 소비자물가와 에너지 부담",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "euro-area-cpi-2026-09-flash",
+        "title": "유로존 9월 물가 3.8% 속보치…전월보다 0.6%포인트 높아져",
+        "stage": "발표",
+        "change": "10월 2일 발표된 9월 속보치가 8월보다 높아졌습니다. 확정 통계나 ECB의 새 금리 결정은 아닙니다.",
+        "archive": false
+      },
+      "path": "euro-area-consumer-prices.json"
+    },
+    {
+      "id": "daon-new-sister-piccoma",
+      "title": "다온크리에이티브 새언니 웹툰의 일본 픽코마 성과",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "daon-new-sister-piccoma-2026-10",
+        "title": "다온 웹툰, 일본 픽코마 스마툰 1위…국내 IP 해외 성과",
+        "stage": "보도",
+        "change": "오전의 네이버웹툰 불법 유통 분석과 다른 해외 IP 성과입니다. 최초 확인 보도는 10월 1일이며 2일 재보도로 최신 성과처럼 포장하지 않았습니다.",
+        "archive": false
+      },
+      "path": "daon-new-sister-piccoma.json"
+    },
+    {
+      "id": "ai-decision-models",
+      "title": "AI 에이전트의 판단 모델과 비용 효율",
+      "categories": [
+        "AI·개발도구"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-02",
+      "latest": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "ai-decision-models-clef-2026-10",
+        "title": "문장 생성과 판단을 분리하는 AI…Cloudflare도 Clef 두 모델 공개",
+        "stage": "분석",
+        "change": "10월 1일자 Clef 공개를 2일 국내 분석 기사와 공식 발표로 대조했습니다. 오늘 새로 출시됐다고 표현하지 않고 판단 전용 모델 경쟁의 확대로 정리했습니다.",
+        "archive": false
+      },
+      "path": "ai-decision-models.json"
     },
     {
       "id": "us-iran-negotiations",
@@ -110,27 +260,6 @@
         "archive": false
       },
       "path": "lguplus-optai-token-efficiency.json"
-    },
-    {
-      "id": "korea-investigation-prosecution-separation",
-      "title": "수사·기소 분리와 공소청·중수청 출범",
-      "categories": [
-        "국내 정책·사회"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 7,
-      "firstCoveredDate": "2026-09-20",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-am",
-        "storyId": "korea-prosecution-reorganization-2026",
-        "title": "공소청·중수청 출범…수사와 기소가 나뉩니다",
-        "stage": "시행",
-        "change": "공소청과 중수청 출범으로 수사·기소 분리 체계가 시행됐으며 인력 충원과 실제 운영은 후속 확인 대상입니다.",
-        "archive": false
-      },
-      "path": "korea-investigation-prosecution-separation.json"
     },
     {
       "id": "korea-consumer-prices",
@@ -446,27 +575,6 @@
         "archive": true
       },
       "path": "korea-exports-semiconductors.json"
-    },
-    {
-      "id": "korea-equities-flows",
-      "title": "한국 증시와 외국인 수급",
-      "categories": [
-        "증시·환율"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 16,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-01",
-      "latest": {
-        "editionId": "2026-10-01-pm-archive",
-        "storyId": "archive-01",
-        "title": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원.",
-        "archive": true
-      },
-      "path": "korea-equities-flows.json"
     },
     {
       "id": "claude-fake-x-election-operation",

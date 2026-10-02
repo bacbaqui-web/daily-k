@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-02T12:34:33+09:00",
+  "updatedAt": "2026-10-02T21:21:48+09:00",
   "editions": [
+    {
+      "id": "2026-10-02-pm",
+      "date": "2026-10-02",
+      "edition": "pm",
+      "generatedAt": "2026-10-02T21:21:48+09:00",
+      "cutoffAt": "2026-10-02T21:00:00+09:00",
+      "count": 8,
+      "path": "2026-10-02/pm.json",
+      "headline": "은행권 정보유출 확대…금융위, 외부 노출 시스템 전면 점검 지시"
+    },
     {
       "id": "2026-10-02-am",
       "date": "2026-10-02",

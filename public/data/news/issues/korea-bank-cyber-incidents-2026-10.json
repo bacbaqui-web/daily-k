@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-bank-cyber-incidents-2026-10",
+  "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+  "entries": [
+    {
+      "id": "2026-10-02-pm/korea-bank-breaches-2026-10-02",
+      "editionId": "2026-10-02-pm",
+      "storyId": "korea-bank-breaches-2026-10-02",
+      "editionDate": "2026-10-02",
+      "edition": "pm",
+      "coveredAt": "2026-10-02T21:21:48+09:00",
+      "coveredOn": "2026-10-02",
+      "publishedAt": "2026-10-02T18:38:04+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "10월 2일 추가 피해 보도와 같은 날 15시 금융위 회의를 다룹니다. 최초 신한은행 사고는 9월 30일입니다.",
+      "stage": "후속",
+      "change": "오늘 추가 유출 사례가 확인됐고, 15시 긴급회의에서 금융권 전체의 시스템 점검과 위협정보 공동 대응을 지시했습니다.",
+      "title": "은행권 정보유출 확대…금융위, 외부 노출 시스템 전면 점검 지시",
+      "category": "금융·보안",
+      "status": "보도",
+      "summary": [
+        "신한·KB국민은행에 이어 하나은행과 BNK부산은행에서도 정보유출이 확인됐습니다. 금융위원회는 2일 오후 긴급회의를 열고 금융권 공동 점검을 지시했습니다.",
+        "뉴시스가 취합한 은행별 발표에 따르면 신한은행은 고객 약 2만5천 명, KB국민은행은 119명, 하나은행은 89명의 정보가 유출됐습니다. 부산은행의 11명은 고객이 아니라 외주 개발직원으로, 서로 다른 피해 범주를 합산해 고객 피해 총수로 볼 수는 없습니다.",
+        "우리·NH농협은행에서도 공격 시도가 확인됐지만, 해당 보도 시점에는 고객정보 유출이 확인되지 않았습니다. 공격 시도와 실제 유출을 구분해 볼 필요가 있습니다.",
+        "당국은 고객용 서비스뿐 아니라 외부에서 접근 가능한 전산시스템 전체의 인증·접근통제를 점검하도록 했습니다. 한 은행에서 확인한 공격 정보를 다른 금융회사와 공유하는 방식으로 대응 범위를 넓힌 것입니다.",
+        "이번 사건은 금융 앱의 겉모습보다 내부 정보를 조회하는 경로까지 보호되는지가 중요하다는 점을 보여줍니다. 최종 피해 규모와 공격 주체·수법은 조사 중이며, 금융위는 피해보상 등 소비자 보호 이행도 감독하겠다고 밝혔습니다."
+      ],
+      "keyFacts": {
+        "shinhanCustomers": "약 25000명",
+        "kbCustomers": "119명",
+        "hanaCustomers": "89명",
+        "busanContractStaff": "11명",
+        "response": "외부 노출 시스템 전반 보안점검 지시"
+      },
+      "uncertainty": "피해 인원은 보도 시점의 은행별 집계입니다. 최종 조사 결과와 공격 주체는 확정되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "은행권 해킹에…금융당국, 공격 IP 공유해 全금융권 자체점검(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003813185",
+          "publishedAt": "2026-10-02T18:38:04+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T21:13:56+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021470648_web.jpg",
+          "verificationNote": "본문 등록 시각 사용. 19:51:29 수정본도 21시 기준 이전입니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T21:13:56+09:00",
+          "verificationNote": "10월 2일 게시. 정확한 게시 시각은 미표시이며 회의 시각은 15시입니다."
+        },
+        {
+          "name": "이투데이",
+          "title": "신한 이어 국민銀도 뚫렸다⋯금융위 “외부 노출 시스템 전면 보안점검”",
+          "url": "https://v.daum.net/v/20261002170703666",
+          "publishedAt": "2026-10-02T17:07:03+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T21:13:56+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/552786-gygG85f/20261002170703859ttve.jpg"
+        }
+      ],
+      "briefingPath": "2026-10-02/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-02T21:21:48+09:00"
+}

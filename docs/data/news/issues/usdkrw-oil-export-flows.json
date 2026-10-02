@@ -56,6 +56,73 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-02-pm/usdkrw-2026-10-02-close",
+      "editionId": "2026-10-02-pm",
+      "storyId": "usdkrw-2026-10-02-close",
+      "editionDate": "2026-10-02",
+      "edition": "pm",
+      "coveredAt": "2026-10-02T21:21:48+09:00",
+      "coveredOn": "2026-10-02",
+      "publishedAt": "2026-10-02T15:34:20+09:00",
+      "eventAt": "2026-10-02T15:30:00+09:00",
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "10월 2일 서울 외환시장 15시 30분 주간 마감 수치입니다.",
+      "stage": "결과",
+      "change": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다.",
+      "title": "원·달러 1,350.6원 주간 마감…아침 참고치에서 실제 종가로",
+      "category": "환율",
+      "status": "확정",
+      "summary": [
+        "원·달러 환율은 15시 30분 주간 거래를 1,350.6원에 마쳐 전날보다 7.8원 내렸습니다. 아침에 소개한 역외시장 환산 참고치와 구분되는 국내 거래 결과입니다.",
+        "오전 브리핑은 전일 종가 1,358.4원과 개장 전 참고치 1,358.20원을 다뤘습니다. 오후에는 실제 주간 종가가 확인돼, 이날 국내 거래에서 원화가 전일보다 강해졌다는 점을 확인할 수 있게 됐습니다.",
+        "뉴시스는 달러 강세가 약해진 가운데 수출기업의 달러 매도도 환율 하락에 영향을 줬다는 시장 해석을 전했습니다. 수출기업이 받은 달러를 원화로 바꾸는 물량은 시장의 달러 공급을 늘리는 요인입니다.",
+        "환율 하락은 달러로 결제하는 수입 비용에 부담을 덜어줄 수 있지만, 기업별 효과는 결제 시점과 환헤지에 따라 달라집니다. 이 수치는 야간 거래 종료 가격이 아니며, 기준 시각 이후 해외 지표에 따른 움직임은 포함하지 않았습니다."
+      ],
+      "keyFacts": {
+        "previousClose": "1358.4원",
+        "daytimeClose": "1350.6원",
+        "daytimeChange": "-7.8원",
+        "referenceType": "15:30 주간 종가"
+      },
+      "uncertainty": "주간 종가이지 야간 거래까지 마친 최종 가격이 아닙니다. 하락 원인별 기여도는 확정된 통계가 아닌 시장 해석입니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "원·달러 환율, 7.8원 내린 1350.6원 마감(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812801",
+          "publishedAt": "2026-10-02T15:34:20+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T21:13:57+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021470901_web.jpg"
+        },
+        {
+          "name": "뉴시스",
+          "title": "원·달러 환율 1350원대",
+          "url": "https://www.newsis.com/view/NISI20261002_0021472725",
+          "publishedAt": "2026-10-02T15:51:56+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-02T21:13:57+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472725_web.jpg"
+        }
+      ],
+      "briefingPath": "2026-10-02/pm.json",
+      "previous": {
+        "editionId": "2026-10-02-am",
+        "storyId": "usdkrw-2026-10-02-morning"
+      },
+      "followUp": {
+        "editionId": "2026-10-02-am",
+        "storyId": "usdkrw-2026-10-02-morning",
+        "delta": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-17-am-archive/archive-03",
       "editionId": "2026-09-17-am-archive",
       "storyId": "archive-03",
@@ -311,5 +378,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T12:34:33+09:00"
+  "updatedAt": "2026-10-02T21:21:48+09:00"
 }
