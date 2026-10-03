@@ -10,7 +10,9 @@ def validate(v):
  assert v['schemaVersion']==1 and v['timezone']=='Asia/Seoul'
  assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',v['date']) and v['edition'] in ('am','pm')
  assert v['id']==v['date']+'-'+v['edition']
- cutoff=stamp(v['cutoffAt']);assert cutoff.isoformat()==v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00')
+ cutoff=stamp(v['cutoffAt'])
+ assert cutoff.date().isoformat()==v['date'] and cutoff.utcoffset()==dt.timedelta(hours=9)
+ if not v.get('test',False):assert cutoff.isoformat()==v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00')
  assert stamp(v['generatedAt'])>=cutoff
  assert isinstance(v['overview'],list) and 1<=len(v['overview'])<=4 and all(isinstance(p,str) and p.strip() for p in v['overview'])
  assert 3<=len(v['stories'])<=10,'3..10 verified stories required'
@@ -25,7 +27,7 @@ def validate(v):
   for l in s['sources']:
    url(l['url']);assert l['name'].strip() and l['title'].strip()
    assert stamp(l['verifiedAt'])<=stamp(v['generatedAt'])
-   assert l['publishedAt'] is None or stamp(l['publishedAt'])<=cutoff
+   assert l['publishedAt'] is None or cutoff-dt.timedelta(hours=24)<=stamp(l['publishedAt'])<=cutoff
    if l.get('imageUrl'):url(l['imageUrl'])
  return v
 
