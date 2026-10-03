@@ -1,0 +1,784 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-03-am",
+  "date": "2026-10-03",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-03T09:00:00+09:00",
+  "generatedAt": "2026-10-03T12:20:00+09:00",
+  "intro": "10월 3일 오전 9시까지 확인된 뉴스입니다. 지연 실행으로 실제 생성 시각은 정오 이후이며, 기준 시각 뒤에 나온 새 정보는 포함하지 않았습니다.",
+  "overview": [
+    "밤사이 미국 고용 증가폭이 2만9천 명에 그치면서 금리 인상 우려가 약해졌고, 나스닥은 1.19% 상승 마감했습니다. G7은 비축유 1억 배럴 방출에 합의했지만 브렌트유 종가 하락폭은 0.06달러에 그쳐, 정책 발표와 실제 가격 안정은 구분해서 봐야 합니다.",
+    "국내에 영향을 줄 외교·안보 변수도 새로 나왔습니다. 트럼프는 알래스카 투자와 관련해 추가 부담을 언급했지만 한국 참여와 계약 조건은 미확정입니다. 북한은 오전 6시 30분께 탄도미사일을 발사했고, 기준 시각 이전 보도에서 군은 세부 제원을 분석 중이라고 밝혔습니다.",
+    "산업에서는 국산 AI칩을 한전 영상분석 현장에서 검증하는 K-Perf 실증 협약과 밀리의서재의 IP 44개→124개 확대 계획을 다룹니다. 각각 10월 2일과 1일 발표를 보충한 소식이며, 실증 성과나 내년 목표를 이미 달성한 결과처럼 해석하지 않았습니다."
+  ],
+  "overviewEmphasis": [
+    "2만9천 명",
+    "나스닥은 1.19% 상승 마감",
+    "비축유 1억 배럴 방출",
+    "한국 참여와 계약 조건은 미확정",
+    "오전 6시 30분께",
+    "K-Perf 실증 협약",
+    "IP 44개→124개 확대 계획",
+    "10월 2일과 1일 발표"
+  ],
+  "stories": [
+    {
+      "id": "us-market-2026-10-02",
+      "topicKey": "us-market-2026-10-02",
+      "category": "경제·증시",
+      "title": "미 고용 2만9천 명 증가에 그쳐…나스닥은 1.19% 상승 마감",
+      "status": "확정",
+      "publishedAt": "2026-10-03T06:13:07+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 10월 2일 고용 발표와 정규장 마감입니다. 고용보고서 발표는 한국시간 2일 21시 30분이며, 종가는 3일 새벽 확인됐습니다.",
+      "summary": [
+        "미국 9월 비농업 일자리가 2만9천 명 늘어나는 데 그치면서 추가 금리 인상 우려가 약해졌습니다. 10월 2일 미국 정규장은 나스닥 1.19%, S&P500 0.73% 상승으로 끝났습니다.",
+        "미 노동통계국은 실업률을 4.2%로 발표했습니다. 8월 일자리 증가폭의 수정치 13만3천 명과 비교하면 9월의 고용 확대가 크게 둔화됐고, 7~8월 증가분도 합계 6만 명 하향 조정됐습니다.",
+        "종가는 나스닥 27,190.86, S&P500 7,722.72, 다우 51,176.96입니다. 전날 오전 브리핑에서 다룬 10월 1일장의 소폭 상승에 이어, 이번에는 고용 발표 뒤 금리 부담이 완화되면서 주요 지수의 상승폭이 커졌습니다.",
+        "고용이 약한데 주가가 오른 것은 시장이 당장의 경기 둔화보다 금리 인상 가능성의 하락에 더 반응했다는 해석입니다. 다만 연준의 금리 동결이 결정된 것은 아니며, 앞으로 물가가 다시 오르는지에 따라 판단은 달라질 수 있습니다.",
+        "국내 시장을 볼 때도 미국 주가 상승만으로 방향을 단정하기보다 채권금리와 달러 움직임을 함께 확인할 필요가 있습니다. 여기의 지수는 모두 마감 수치이며, 기사 중간에 제시된 장중 국채금리는 종가처럼 옮기지 않았습니다."
+      ],
+      "emphasis": [
+        "2만9천 명",
+        "나스닥 1.19%, S&P500 0.73%",
+        "합계 6만 명 하향 조정",
+        "금리 동결이 결정된 것은 아니며"
+      ],
+      "keyFacts": {
+        "sp500Close": "7722.72",
+        "sp500Change": "0.73%",
+        "nasdaqClose": "27190.86",
+        "nasdaqChange": "1.19%",
+        "dowClose": "51176.96",
+        "payrollChange": "29000명",
+        "unemploymentRate": "4.2%",
+        "augustPayrollRevised": "133000명",
+        "julyAugustRevision": "-60000명"
+      },
+      "whatChanged": "10월 1일장의 강보합을 다룬 뒤, 2일 미국 고용보고서와 같은 날 정규장 종가가 새로 확정됐습니다. 고용 둔화에 금리 인상 우려가 완화되며 나스닥 상승폭이 1.19%로 커졌습니다.",
+      "whyItMatters": "미국 고용·금리 기대의 변화가 기술주와 국내 수출주, 환율을 판단할 새 자료가 됩니다.",
+      "uncertainty": "고용 수치는 이후 수정될 수 있습니다. 금리 동결은 시장의 기대이며 연준의 확정 결정이 아닙니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "뉴욕증시, 연준 금리인상 우려 완화에 상승 마감…나스닥 1.2%↑",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813350",
+          "publishedAt": "2026-10-03T06:13:07+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/07/22/NISI20260722_0002192105_web.jpg"
+        },
+        {
+          "name": "YTN",
+          "title": "뉴욕 증시, 고용 약화·국채 금리 안정에 상승 마감",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030624181153",
+          "publishedAt": "2026-10-03T06:24:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030624181153_t.jpg"
+        },
+        {
+          "name": "SBS",
+          "title": "미국 고용 부진에 금리인상 우려 완화…나스닥 1.2%↑",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781562",
+          "publishedAt": "2026-10-03T06:12:01+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260924/202225555_1280.jpg"
+        },
+        {
+          "name": "미국 노동통계국",
+          "title": "Employment Situation News Release - September 2026",
+          "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+          "publishedAt": "2026-10-02T21:30:00+09:00",
+          "language": "en",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "공식 보존 페이지를 웹 열기로 확인했습니다. 발표는 미국 동부시간 10월 2일 08:30이며 한국시간으로 환산했습니다. 직접 HTTP 요청은 403이어서 이미지 메타데이터는 사용하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "뉴욕증시, 연준 금리인상 우려 완화에 상승 마감…나스닥 1.2%↑",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813350",
+          "publishedAt": "2026-10-03T06:13:07+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/07/22/NISI20260722_0002192105_web.jpg"
+        },
+        {
+          "name": "YTN",
+          "title": "뉴욕 증시, 고용 약화·국채 금리 안정에 상승 마감",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030624181153",
+          "publishedAt": "2026-10-03T06:24:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030624181153_t.jpg"
+        },
+        {
+          "name": "SBS",
+          "title": "미국 고용 부진에 금리인상 우려 완화…나스닥 1.2%↑",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781562",
+          "publishedAt": "2026-10-03T06:12:01+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260924/202225555_1280.jpg"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 97,
+        "interest": 100,
+        "domesticImpact": 93,
+        "reliability": 99,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 확정된 고용 지표와 종가를 공식 통계 및 국내 보도로 대조해 최신성·경제 관심도를 높였습니다.",
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "결과",
+        "change": "10월 1일장의 강보합을 다룬 뒤, 2일 미국 고용보고서와 같은 날 정규장 종가가 새로 확정됐습니다. 고용 둔화에 금리 인상 우려가 완화되며 나스닥 상승폭이 1.19%로 커졌습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-02-am",
+        "storyId": "us-market-2026-10-01",
+        "delta": "10월 1일장의 강보합을 다룬 뒤, 2일 미국 고용보고서와 같은 날 정규장 종가가 새로 확정됐습니다. 고용 둔화에 금리 인상 우려가 완화되며 나스닥 상승폭이 1.19%로 커졌습니다."
+      },
+      "score": 98.45,
+      "factsHash": "6e7dab6b74edf70ce94d0937464496d392188e80dbbbcc1fec2b22e96fef407e"
+    },
+    {
+      "id": "g7-oil-release-2026-10-02",
+      "topicKey": "g7-oil-release-2026-10-02",
+      "category": "국제·에너지",
+      "title": "G7, 비축유 1억 배럴 방출 합의…브렌트유 종가는 102.25달러",
+      "status": "확정",
+      "publishedAt": "2026-10-03T06:19:45+09:00",
+      "eventAt": null,
+      "eventTimeNote": "G7 합의는 10월 2일 현지 화상회의에서 나왔습니다. 연표 날짜는 의장국 프랑스 기준이며, 함께 제시한 유가도 미국 현지 10월 2일 마감 결과입니다.",
+      "summary": [
+        "G7이 앞으로 4개월 동안 경유와 원유 비축분 총 1억 배럴을 시장에 공급하기로 합의했습니다. 초기 20일에는 경유를 우선 방출해 연료 수급 부담을 낮추겠다는 계획입니다.",
+        "미국의 비축 경유 방출 요구에 이어 공동 공급 방침이 나왔고, G7 회원국끼리 경유 수출을 막지 않기로 했다는 설명도 확인됐습니다. 이번 발표는 방출 결정이며 1억 배럴이 이미 모두 공급됐다는 뜻은 아닙니다.",
+        "10월 2일 국제유가 마감 결과는 브렌트유 선물 102.25달러, 서부텍사스산원유(WTI) 91.11달러였습니다. 전 거래일보다 각각 0.06달러, 1.76달러 하락했으며, 발표 직후 장중 급락 보도를 종일 하락률로 읽으면 안 됩니다.",
+        "경유는 화물 운송과 농기계 등에 쓰여 가격 부담이 물류비와 생활물가로 이어질 수 있습니다. 비축분은 단기 공급을 늘리는 수단이므로 실제 방출 속도와 중동의 공급 차질이 함께 중요합니다.",
+        "큰 방출 규모가 발표됐어도 브렌트유의 종가 하락폭은 작았습니다. 공급 대책 발표만으로 에너지 가격 불안이 해소됐다고 단정하기는 이릅니다."
+      ],
+      "emphasis": [
+        "4개월 동안",
+        "총 1억 배럴",
+        "초기 20일",
+        "브렌트유 선물 102.25달러",
+        "이미 모두 공급됐다는 뜻은 아닙니다"
+      ],
+      "keyFacts": {
+        "releaseVolume": "100000000배럴",
+        "releasePeriod": "4개월",
+        "earlyDieselPeriod": "20일",
+        "brentClose": "102.25달러",
+        "brentChange": "-0.06달러",
+        "wtiClose": "91.11달러",
+        "wtiChange": "-1.76달러"
+      },
+      "whatChanged": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다.",
+      "whyItMatters": "연료 공급과 운송비 안정에 연결되는 정책이지만 비축유 발표와 실제 가격 안정의 차이를 확인해야 합니다.",
+      "uncertainty": "방출은 향후 4개월의 계획입니다. 실제 공급 속도와 국가별 이행, 중동 정세에 따른 가격 반응은 추가 확인이 필요합니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "G7 비축유 1억 배럴 방출 결정에도 유가 소폭 하락",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813351",
+          "publishedAt": "2026-10-03T06:19:45+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/06/02/NISI20260602_0002150703_web.jpg"
+        },
+        {
+          "name": "YTN",
+          "title": "트럼프 \"유럽, 비축 경유 방출 합의\"...G7 \"경유 조기 방출\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030028309692",
+          "publishedAt": "2026-10-03T00:28:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030028309692_t.jpg"
+        },
+        {
+          "name": "머니투데이",
+          "title": "G7 \"4달 동안 비축유 1억배럴 방출\"…트럼프 \"경유 풀어야\" 하루만",
+          "url": "https://www.mt.co.kr/world/2026/10/03/2026100301371581840",
+          "publishedAt": "2026-10-03T01:45:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기로 본문과 게시 시각을 확인했습니다. 장중 5% 하락은 종가로 사용하지 않았으며 OG 이미지는 미확인입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "G7 비축유 1억 배럴 방출 결정에도 유가 소폭 하락",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813351",
+          "publishedAt": "2026-10-03T06:19:45+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/06/02/NISI20260602_0002150703_web.jpg"
+        },
+        {
+          "name": "YTN",
+          "title": "트럼프 \"유럽, 비축 경유 방출 합의\"...G7 \"경유 조기 방출\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030028309692",
+          "publishedAt": "2026-10-03T00:28:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030028309692_t.jpg"
+        },
+        {
+          "name": "머니투데이",
+          "title": "G7 \"4달 동안 비축유 1억배럴 방출\"…트럼프 \"경유 풀어야\" 하루만",
+          "url": "https://www.mt.co.kr/world/2026/10/03/2026100301371581840",
+          "publishedAt": "2026-10-03T01:45:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기로 본문과 게시 시각을 확인했습니다. 장중 5% 하락은 종가로 사용하지 않았으며 OG 이미지는 미확인입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 96,
+        "interest": 91,
+        "domesticImpact": 93,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 국제 합의와 확정된 선물 종가를 구분해 확인했고 국내 에너지 비용 파급력을 높게 평가했습니다.",
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "Europe/Paris",
+        "stage": "발표",
+        "change": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다."
+      },
+      "score": 96.35,
+      "factsHash": "86e8126780552899c09d15ea453f3d41c68898840585d5f5c911311ddf20dafe"
+    },
+    {
+      "id": "korea-us-energy-investment-2026-10-02",
+      "topicKey": "korea-us-energy-investment-2026-10-02",
+      "category": "경제·외교",
+      "title": "트럼프, 알래스카 투자 압박…한국 참여는 확정되지 않아",
+      "status": "주장",
+      "publishedAt": "2026-10-03T06:20:59+09:00",
+      "eventAt": null,
+      "eventTimeNote": "기자 문답과 투자 관련 주장은 미국 현지 10월 2일입니다. 한국시간 기사 발행 시각과 실제 발언 날짜를 구분합니다.",
+      "summary": [
+        "트럼프 미국 대통령이 한국이 알래스카 LNG 사업 투자에 합의하지 않으면 부담을 두 배로 높이겠다는 취지로 말했습니다. 한국 정부는 사업의 경제성이 확보돼야 참여할 수 있다는 입장으로 보도됐습니다.",
+        "2일 미국 현지 기자 문답에서 나온 발언이지만, 무엇을 추가 청구하거나 두 배로 올린다는 것인지는 밝히지 않았습니다. 관세 등 무역 조치 가능성이 거론되더라도 실제 관세율 변경이 결정된 것으로 읽을 수는 없습니다.",
+        "트럼프는 별도로 한국이 84억 달러 규모의 원유 회수 증진 사업에 투자할 것이라고도 발표했습니다. 이는 남아 있는 원유를 더 뽑아내는 사업에 관한 미국 대통령의 주장이며, 보도에는 구체적인 사업 위치와 내용이 공개되지 않았습니다.",
+        "앞서 사업을 제시한 데서 더 나아가 한국의 합의를 요구하는 발언이 나온 점이 새 변화입니다. 기업과 재정에 중요한 것은 발표된 총액뿐 아니라 실제 투자 대상, 부담 주체, 수익성 조건이 어떻게 합의되는지입니다.",
+        "이번 소식은 양국의 투자 계약 체결 보도가 아닙니다. 한국 측의 공식 확인과 구체적인 계약 조건이 나오기 전에는 84억 달러나 추가 부담을 확정 지출로 계산하지 않아야 합니다."
+      ],
+      "emphasis": [
+        "무엇을 추가 청구하거나 두 배로 올린다는 것인지는",
+        "84억 달러",
+        "미국 대통령의 주장",
+        "투자 계약 체결 보도가 아닙니다"
+      ],
+      "keyFacts": {
+        "alaskaParticipation": "한국 정부는 경제성 확보를 조건으로 제시, 참여 미확정",
+        "trumpDemand": "합의하지 않으면 두 배 청구 발언",
+        "additionalChargeTarget": "미공개",
+        "eorInvestmentClaim": "84억달러",
+        "eorKoreanConfirmation": "선정 보도에서 확인되지 않음"
+      },
+      "whatChanged": "2일 미국 현지 발언에서 한국의 알래스카 투자 합의를 요구하며 추가 부담을 언급했고, 별도의 84억 달러 원유 사업 투자 주장도 나왔습니다.",
+      "whyItMatters": "실제 투자 계약과 정치적 발언을 구분해야 한국의 자금 부담과 기업 기회를 과대평가하지 않을 수 있습니다.",
+      "uncertainty": "추가 청구 항목·방법은 미공개이고 한국의 사업 참여와 계약 조건도 확정되지 않았습니다. 미국의 발표를 한미 합의로 취급하지 않았습니다.",
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "\"한국, 석유 증산에 84억 달러 투자\"…\"알래스카 투자 안 하면 두 배\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781523",
+          "publishedAt": "2026-10-03T06:20:59+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261003/202228170_1280.jpg",
+          "verificationNote": "06:21:19 수정까지 기준 시각 이전입니다. 투자 유치는 트럼프의 발표·주장으로 구분했습니다."
+        },
+        {
+          "name": "이데일리",
+          "title": "트럼프 \"韓, 알래스카 투자 합의 안하면 두배로 청구\"",
+          "url": "https://m1.edaily.co.kr/news/Read?mediaCodeNo=257&newsId=01708886645609312",
+          "publishedAt": "2026-10-03T06:37:42+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300204.jpg",
+          "verificationNote": "블룸버그·로이터 인용 보도를 SBS 특파원 보도와 대조했습니다. 추가 청구 대상은 미공개입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "SBS",
+          "title": "\"한국, 석유 증산에 84억 달러 투자\"…\"알래스카 투자 안 하면 두 배\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781523",
+          "publishedAt": "2026-10-03T06:20:59+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261003/202228170_1280.jpg",
+          "verificationNote": "06:21:19 수정까지 기준 시각 이전입니다. 투자 유치는 트럼프의 발표·주장으로 구분했습니다."
+        },
+        {
+          "name": "이데일리",
+          "title": "트럼프 \"韓, 알래스카 투자 합의 안하면 두배로 청구\"",
+          "url": "https://m1.edaily.co.kr/news/Read?mediaCodeNo=257&newsId=01708886645609312",
+          "publishedAt": "2026-10-03T06:37:42+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300204.jpg",
+          "verificationNote": "블룸버그·로이터 인용 보도를 SBS 특파원 보도와 대조했습니다. 추가 청구 대상은 미공개입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 94,
+        "interest": 89,
+        "domesticImpact": 100,
+        "reliability": 91,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 새 발언이며 국내 통상·투자 파급력이 큽니다. 확인된 발언과 미확정 투자 내용을 분리했습니다.",
+      "timeline": {
+        "issueId": "korea-us-investment-projects",
+        "issueTitle": "한국의 미국 에너지·인프라 투자",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "보도",
+        "change": "2일 미국 현지 발언에서 한국의 알래스카 투자 합의를 요구하며 추가 부담을 언급했고, 별도의 84억 달러 원유 사업 투자 주장도 나왔습니다."
+      },
+      "score": 95.95,
+      "factsHash": "392dd399a8dd982c81317c85ae92ff0e14c381b49895e12756b39d20b9bbba9c"
+    },
+    {
+      "id": "north-korea-missile-2026-10-03",
+      "topicKey": "north-korea-missile-2026-10-03",
+      "category": "국내·안보",
+      "title": "북한, 오전 6시 30분께 탄도미사일 발사…합참 제원 분석",
+      "status": "확정",
+      "publishedAt": "2026-10-03T07:57:00+09:00",
+      "eventAt": "2026-10-03T06:30:00+09:00",
+      "eventTimeNote": "합참이 밝힌 포착 시각은 한국시간 10월 3일 오전 6시 30분쯤으로, 정확한 초 단위 시각은 아닙니다.",
+      "summary": [
+        "합동참모본부는 3일 오전 6시 30분께 북한 원산 일대에서 동해상으로 발사된 탄도미사일을 포착했다고 밝혔습니다. 군은 감시와 경계를 강화하고 한·미·일 사이에 관련 정보를 공유한다고 설명했습니다.",
+        "선정한 7시 57분 보도에서는 제원과 수량, 비거리 등을 분석 중이라고 전했습니다. 뒤에 수정된 기사에서 추가된 수치를 오전 9시 기준 정보에 섞지 않았습니다.",
+        "지난 9월 20일 발사와 별개의 새 발사이며, 최근 비무장지대 지뢰 사건을 둘러싼 남북 간 입장 차이가 이어지는 가운데 발생했습니다. 다만 이번 발사의 의도와 지뢰 사건의 책임 문제는 발사 포착 사실과 구분해야 합니다.",
+        "오늘 확인할 핵심은 군 당국의 추가 분석과 후속 대응입니다. 군사적 긴장 수준을 판단하는 데 중요한 사안이지만, 초기 정보만으로 미사일 종류나 향후 행동을 단정하지 않겠습니다."
+      ],
+      "emphasis": [
+        "오전 6시 30분께",
+        "제원과 수량, 비거리 등을 분석 중",
+        "발사 포착 사실과 구분"
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "direction": "동해상",
+        "weapon": "탄도미사일",
+        "detailStatusAtSelectedReport": "제원·수량·비거리 분석 중"
+      },
+      "whatChanged": "10월 3일 새벽의 새로운 탄도미사일 발사가 포착됐으며 군의 경계 강화와 정보 공유가 공지됐습니다.",
+      "whyItMatters": "국내 안보 상황과 이후 정부 대응을 판단할 새 사건으로, 확인된 발사 사실과 정치적 해석을 나누어 볼 필요가 있습니다.",
+      "uncertainty": "선정한 기준 시각 이전 보도는 세부 제원을 분석 중이라고 설명합니다. 이후 확인되는 거리·수량·평가를 소급해 넣지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "北, 원산서 동해상 탄도미사일 발사…DMZ 지뢰폭발 12일 만에 도발(종합)",
+          "url": "https://www.news1.kr/amp/diplomacy/defense-diplomacy/6309646",
+          "publishedAt": "2026-10-03T07:57:00+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2026/9/22/8119769/high.jpg",
+          "verificationNote": "본문 07:57 게시 시각과 합참 공지 인용을 확인했습니다. 이후 수정된 다른 기사에서 나온 비행거리·발사 수량을 가져오지 않았습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "[속보]합참 \"北 원산 일대서 동해상으로 발사된 탄도미사일 포착\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813364",
+          "publishedAt": "2026-10-03T07:42:54+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://img1.newsis.com/2020/12/11/NISI20201211_0000654239_web.jpg",
+          "verificationNote": "원산 일대에서 동해상으로 발사된 탄도미사일을 포착했다는 속보 제목을 대조했습니다. 세부 제원은 이 기사에 없습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴스1",
+          "title": "北, 원산서 동해상 탄도미사일 발사…DMZ 지뢰폭발 12일 만에 도발(종합)",
+          "url": "https://www.news1.kr/amp/diplomacy/defense-diplomacy/6309646",
+          "publishedAt": "2026-10-03T07:57:00+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2026/9/22/8119769/high.jpg",
+          "verificationNote": "본문 07:57 게시 시각과 합참 공지 인용을 확인했습니다. 이후 수정된 다른 기사에서 나온 비행거리·발사 수량을 가져오지 않았습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "[속보]합참 \"北 원산 일대서 동해상으로 발사된 탄도미사일 포착\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813364",
+          "publishedAt": "2026-10-03T07:42:54+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://img1.newsis.com/2020/12/11/NISI20201211_0000654239_web.jpg",
+          "verificationNote": "원산 일대에서 동해상으로 발사된 탄도미사일을 포착했다는 속보 제목을 대조했습니다. 세부 제원은 이 기사에 없습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 97,
+        "interest": 65,
+        "domesticImpact": 100,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "당일 새벽 발생한 국내 안보 사건으로 중요도와 국내 파급력이 높습니다. 과거 발사나 지뢰 사건과 별개의 실제 사건으로 기록합니다.",
+      "timeline": {
+        "issueId": "north-korea-missile-2026-10-03",
+        "issueTitle": "북한 2026년 10월 3일 탄도미사일 발사",
+        "eventDate": "2026-10-03",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 3일 새벽의 새로운 탄도미사일 발사가 포착됐으며 군의 경계 강화와 정보 공유가 공지됐습니다."
+      },
+      "score": 93.6,
+      "factsHash": "da88bdc791cf8dc3a14d5e71277f8f970c3f2d3db60997734465e440ac7cc277"
+    },
+    {
+      "id": "k-perf-power-grid-pilot-2026-10",
+      "topicKey": "k-perf-power-grid-pilot-2026-10",
+      "category": "AI·반도체",
+      "title": "국산 AI칩, 한전 영상분석 실증으로…K-Perf를 도입 판단 기준에",
+      "status": "예정",
+      "publishedAt": "2026-10-02T14:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "한전·리벨리온·TTA 협약 체결과 과기정통부 발표는 10월 2일입니다. 정확한 행사 시각은 확인하지 못했습니다.",
+      "summary": [
+        "한전·리벨리온·한국정보통신기술협회(TTA)가 국산 AI 반도체를 전력 현장에서 검증하는 업무협약을 맺었습니다. 공통 성능지표 K-Perf를 실제 도입 판단에 활용하는 첫 사례입니다.",
+        "10월 2일 협약에 따라 한전은 변전소별 영상분석을 국산 NPU 기반 통합 관제 방식으로 실증할 계획입니다. NPU는 인공지능 계산에 특화된 반도체로, 리벨리온이 최적화와 기술지원을 맡고 TTA가 성능·신뢰성을 검증합니다.",
+        "지난 6월에는 국산 반도체 2종을 챗봇과 문서 검색 등 생성형 AI 서비스에서 시험했습니다. 이번에는 전력 현장 영상분석으로 검증 범위를 넓혀 실제 운용 환경에서의 안정성과 비용 효과까지 살펴봅니다.",
+        "의미는 칩의 이론상 속도를 홍보하는 단계에서 수요기관이 같은 기준으로 도입을 판단하는 단계로 옮겨 간다는 점입니다. 다만 협약과 실증 계획이 나온 것이며 대규모 상용 도입이나 특정 비용 절감률이 입증된 것은 아닙니다.",
+        "밤사이 확인한 새 대형 AI 반도체 발표가 부족해 전날 오후 공개된 공공 실증 소식을 보충했습니다. 앞으로 실제 운영 결과와 다른 기관으로의 도입 확대 여부가 중요한 후속 자료가 됩니다."
+      ],
+      "emphasis": [
+        "한전·리벨리온·한국정보통신기술협회(TTA)",
+        "공통 성능지표 K-Perf",
+        "전력 현장 영상분석으로 검증 범위를 넓혀",
+        "비용 절감률이 입증된 것은 아닙니다"
+      ],
+      "keyFacts": {
+        "partners": "한국전력·리벨리온·TTA",
+        "agreementDate": "2026-10-02",
+        "application": "전력 현장 AI 영상분석",
+        "benchmark": "K-Perf",
+        "previousPilot": "2026년 6월 국산 AI반도체 2종",
+        "stage": "협약 체결 및 현장 실증 계획"
+      },
+      "whatChanged": "생성형 AI 서비스 중심의 시범 검증에서 한전의 실제 영상분석 도입 평가로 K-Perf 활용 범위를 넓히는 협약이 체결됐습니다.",
+      "whyItMatters": "공공기관이 국산 AI칩을 비교·도입할 때 사용할 실증 자료를 쌓는 사업으로 국내 반도체 수요 확대와 연결됩니다.",
+      "uncertainty": "현장 실증 완료 결과가 아닙니다. 도입 규모·운영 성능·비용 절감 효과는 후속 검증이 필요합니다.",
+      "sources": [
+        {
+          "name": "과학기술정보통신부·KDI 경제교육정보센터",
+          "title": "국산 AI반도체 성능지표 ‘K-Perf’, 공공 현장 도입 검증에 첫 활용",
+          "url": "https://eiec.kdi.re.kr/policy/materialView.do?depth1=D0000&depth2=D0300&device=&num=287779&pg=&pp=&search_txt=&topic=&type=J",
+          "publishedAt": null,
+          "language": "ko",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://deveiec.kdi.re.kr/res/webUser/img/policy/m0.jpg",
+          "verificationNote": "과기정통부 10월 2일 자료를 KDI가 제공한 공식 정책자료입니다. 게시 날짜만 확인돼 정확한 게시 시각은 비워 둡니다."
+        },
+        {
+          "name": "과학기술정보통신부",
+          "title": "국산 인공지능 반도체 성능지표 'K-Perf',  공공 현장 도입 검증에 첫 활용",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784177&pWise=mSub&pWiseSub=C3",
+          "publishedAt": null,
+          "language": "ko",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
+          "verificationNote": "정책브리핑에 전재된 10월 2일 보도자료입니다. 정확한 게시 시각은 미표시입니다."
+        },
+        {
+          "name": "머니투데이",
+          "title": "한전 변전소에 리벨리온 NPU 투입…국산 AI칩 'K-Perf' 첫 현장 검증",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/02/2026100213551158376",
+          "publishedAt": "2026-10-02T14:00:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기로 기사 본문과 시각 확인. 정부 발표를 전한 기사이며 독립적인 성능 시험 결과가 아닙니다."
+        },
+        {
+          "name": "디지털투데이",
+          "title": "현장으로 간 'K-Perf '…한전 AI 반도체 도입 검증에 첫 적용",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704695",
+          "publishedAt": "2026-10-02T17:20:24+09:00",
+          "language": "ko",
+          "kind": "specialist",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704695_652444_1553.jpg"
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "디지털투데이",
+          "title": "현장으로 간 'K-Perf '…한전 AI 반도체 도입 검증에 첫 적용",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704695",
+          "publishedAt": "2026-10-02T17:20:24+09:00",
+          "language": "ko",
+          "kind": "specialist",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704695_652444_1553.jpg"
+        },
+        {
+          "name": "머니투데이",
+          "title": "한전 변전소에 리벨리온 NPU 투입…국산 AI칩 'K-Perf' 첫 현장 검증",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/02/2026100213551158376",
+          "publishedAt": "2026-10-02T14:00:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기로 기사 본문과 시각 확인. 정부 발표를 전한 기사이며 독립적인 성능 시험 결과가 아닙니다."
+        },
+        {
+          "name": "과학기술정보통신부·KDI 경제교육정보센터",
+          "title": "국산 AI반도체 성능지표 ‘K-Perf’, 공공 현장 도입 검증에 첫 활용",
+          "url": "https://eiec.kdi.re.kr/policy/materialView.do?depth1=D0000&depth2=D0300&device=&num=287779&pg=&pp=&search_txt=&topic=&type=J",
+          "publishedAt": null,
+          "language": "ko",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://deveiec.kdi.re.kr/res/webUser/img/policy/m0.jpg",
+          "verificationNote": "과기정통부 10월 2일 자료를 KDI가 제공한 공식 정책자료입니다. 게시 날짜만 확인돼 정확한 게시 시각은 비워 둡니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 82,
+        "interest": 100,
+        "domesticImpact": 88,
+        "reliability": 98,
+        "recency": 50
+      },
+      "scoreReason": "당일 새벽 새 발표가 부족한 AI·반도체 분야를 전날 공개된 공식 실증 계획으로 보충하되 최신성 점수를 낮췄습니다.",
+      "timeline": {
+        "issueId": "k-perf-public-npu-validation",
+        "issueTitle": "K-Perf 기반 국산 AI 반도체 공공 현장 검증",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "생성형 AI 서비스 중심의 시범 검증에서 한전의 실제 영상분석 도입 평가로 K-Perf 활용 범위를 넓히는 협약이 체결됐습니다."
+      },
+      "fallbackNote": "밤사이 새 대형 AI 반도체 발표가 부족해 10월 2일 오후 공개된 공공 현장 실증 계획을 보충했습니다.",
+      "score": 74.1,
+      "factsHash": "6cb8380a12e08b16fd40cc947a1dfb76af03f966c2ce9bbf6150cfc365dc2d8d"
+    },
+    {
+      "id": "milli-original-ip-expansion-2026",
+      "topicKey": "milli-original-ip-expansion-2026",
+      "category": "웹툰 산업",
+      "title": "밀리의서재, 원천 IP 44개→124개 계획…웹툰·해외 유통 확대",
+      "status": "예정",
+      "publishedAt": "2026-10-01T15:30:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 1일 서울 서교동 간담회에서 발표한 사업 전략입니다. 행사 시작 시각은 미확인이고 IP 확대는 2027년 목표입니다.",
+      "summary": [
+        "kt밀리의서재가 오리지널 IP를 올해 44개에서 2027년 124개로 늘리는 계획을 제시했습니다. 오늘 새 대형 발표가 없어 10월 1일 간담회에서 나온 최근 웹툰·웹소설 사업 업데이트를 골랐습니다.",
+        "IP는 웹툰이나 영상으로 확장할 수 있는 이야기와 권리를 뜻합니다. 회사는 신인 작가와 완결 콘텐츠를 확보하고, 먼저 구독 서비스에서 독자 반응을 확인한 뒤 외부 플랫폼과 해외로 유통하는 경로를 넓히려 합니다.",
+        "이데일리 보도에 따르면 초기에는 일정 선공개 기간을 거쳐 네이버·카카오 등 다른 플랫폼에도 작품을 공급할 계획입니다. 일반 도서 구독에 웹툰을 더하는 데서 나아가, 원천 이야기를 발굴해 여러 형식으로 사업화하려는 변화입니다.",
+        "작가에게는 신규 유통·제작 지원 기회가 될 수 있지만, 실제 기회는 계약 조건과 독자 유입이 얼마나 뒷받침되는지에 달려 있습니다. 124개는 이미 확보한 실적이 아닌 내년 목표이므로 향후 작품 공개와 외부 유통 계약 이행을 확인해야 합니다."
+      ],
+      "emphasis": [
+        "44개에서 2027년 124개",
+        "10월 1일 간담회",
+        "외부 플랫폼과 해외로 유통",
+        "이미 확보한 실적이 아닌 내년 목표"
+      ],
+      "keyFacts": {
+        "originalIpCurrent": "44개",
+        "originalIpTarget": "124개",
+        "targetYear": "2027년",
+        "announcementDate": "2026-10-01",
+        "distributionPlan": "밀리 선공개 후 외부 플랫폼·해외 유통 확대",
+        "targetIsCompleted": "아님"
+      },
+      "whatChanged": "10월 1일 간담회에서 2027년 오리지널 IP 확대와 외부·해외 유통 계획이 제시됐습니다. 전 회차의 다온 일본 순위 소식과 다른 플랫폼 사업 전략입니다.",
+      "whyItMatters": "국내 작가와 IP 제작사의 유통 선택지, 구독형 웹툰 사업의 확대 방향을 살펴볼 수 있는 계획입니다.",
+      "uncertainty": "회사가 제시한 목표와 전략이며 확보·출시 완료 실적이 아닙니다. 작가별 계약 조건과 향후 수익 성과는 공개되지 않았습니다.",
+      "sources": [
+        {
+          "name": "디지털타임스",
+          "title": "웹소설·웹툰 기회 엿보는 kt밀리의서재… 오리지널 IP 키운다",
+          "url": "https://v.daum.net/v/20261001153030486",
+          "publishedAt": "2026-10-01T15:30:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:47+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/dt/20261001153032458uwuz.jpg",
+          "verificationNote": "다음에 제공된 원 매체 기사 본문과 10월 1일 간담회 취재를 확인했습니다."
+        },
+        {
+          "name": "이데일리",
+          "title": "전자책만 보던 밀리의 변신…웹툰·웹소설 'IP 승부수'",
+          "url": "https://www2.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05113526645608656",
+          "publishedAt": "2026-10-01T16:21:42+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100101466.jpg"
+        },
+        {
+          "name": "웹툰가이드",
+          "title": "kt밀리의서재, 웹소설·웹툰 사업 확장…오리지널 IP 기반 성장 도모",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26261",
+          "publishedAt": "2026-10-01T16:42:00+09:00",
+          "language": "ko",
+          "kind": "specialist",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기에서 본문과 게시 시각 확인. 직접 HTTP 요청은 403이어서 이미지 메타데이터는 사용하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "이데일리",
+          "title": "전자책만 보던 밀리의 변신…웹툰·웹소설 'IP 승부수'",
+          "url": "https://www2.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05113526645608656",
+          "publishedAt": "2026-10-01T16:21:42+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100101466.jpg"
+        },
+        {
+          "name": "디지털타임스",
+          "title": "웹소설·웹툰 기회 엿보는 kt밀리의서재… 오리지널 IP 키운다",
+          "url": "https://v.daum.net/v/20261001153030486",
+          "publishedAt": "2026-10-01T15:30:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:47+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/dt/20261001153032458uwuz.jpg",
+          "verificationNote": "다음에 제공된 원 매체 기사 본문과 10월 1일 간담회 취재를 확인했습니다."
+        },
+        {
+          "name": "웹툰가이드",
+          "title": "kt밀리의서재, 웹소설·웹툰 사업 확장…오리지널 IP 기반 성장 도모",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26261",
+          "publishedAt": "2026-10-01T16:42:00+09:00",
+          "language": "ko",
+          "kind": "specialist",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기에서 본문과 게시 시각 확인. 직접 HTTP 요청은 403이어서 이미지 메타데이터는 사용하지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 76,
+        "interest": 100,
+        "domesticImpact": 82,
+        "reliability": 91,
+        "recency": 25
+      },
+      "scoreReason": "웹툰 필수 분야에서 최근 72시간 안의 미보도 플랫폼 사업계획을 골랐고, 10월 1일 최초 확인 기사 시각으로 낮은 최신성 점수를 적용합니다.",
+      "timeline": {
+        "issueId": "milli-story-ip-expansion",
+        "issueTitle": "밀리의서재 웹툰·웹소설 원천 IP 확장",
+        "eventDate": "2026-10-01",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 1일 간담회에서 2027년 오리지널 IP 확대와 외부·해외 유통 계획이 제시됐습니다. 전 회차의 다온 일본 순위 소식과 다른 플랫폼 사업 전략입니다."
+      },
+      "fallbackNote": "오늘 새 대형 웹툰 산업 발표가 없어 최근 1~3일의 중요 업데이트 중 10월 1일 밀리의서재 IP 확장 계획을 골랐습니다.",
+      "score": 61.3,
+      "factsHash": "2066d72cabdd0ea20541efb4e49d26aa98365c4e080a1ae9ef45e1046d26800b"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-03",
+      "at": "2026-10-03T15:00:00+09:00",
+      "title": "국민의힘 서울 도심 집회 예정",
+      "detail": "10월 3일 15시 서울 숭례문 인근 부영태평빌딩 앞에서 집회가 열릴 예정입니다. 현장 발언과 후속 입장을 확인할 일정이며, 정당의 주장 자체를 정책 결과나 확인된 사실로 간주하지 않습니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "국힘, 오늘 숭례문 일대서 장외집회…\"이재명 정권 심판\"",
+        "url": "https://www.newsis.com/view/NISX20261002_0003812962",
+        "publishedAt": "2026-10-03T06:00:00+09:00",
+        "language": "ko",
+        "kind": "wire",
+        "verifiedAt": "2026-10-03T12:14:48+09:00",
+        "imageUrl": "https://img1.newsis.com/2025/09/28/NISI20250928_0020996835_web.jpg",
+        "verificationNote": "본문 등록은 06:00, 수정은 06:12:24입니다. 오후 3시 개최 예정과 장소만 일정에 사용합니다."
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "at": null,
+      "timeNote": "10월 3일 09시 이후 관찰 · 추가 발표 시각 미정",
+      "title": "군 당국의 미사일 분석과 후속 대응",
+      "detail": "오전 발사 포착 이후 제원 분석과 추가 발사 여부, 정부의 공식 대응을 확인할 변수입니다. 새 발사가 예정됐거나 군의 추가 발표 시간이 확정됐다는 뜻은 아닙니다.",
+      "source": {
+        "name": "뉴스1",
+        "title": "北, 원산서 동해상 탄도미사일 발사…DMZ 지뢰폭발 12일 만에 도발(종합)",
+        "url": "https://www.news1.kr/amp/diplomacy/defense-diplomacy/6309646",
+        "publishedAt": "2026-10-03T07:57:00+09:00",
+        "language": "ko",
+        "kind": "wire",
+        "verifiedAt": "2026-10-03T12:14:46+09:00",
+        "imageUrl": "https://i3n.news1.kr/system/photos/2026/9/22/8119769/high.jpg",
+        "verificationNote": "본문 07:57 게시 시각과 합참 공지 인용을 확인했습니다. 이후 수정된 다른 기사에서 나온 비행거리·발사 수량을 가져오지 않았습니다."
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "at": null,
+      "timeNote": "10월 3일 수시 관찰 · 별도 발표 일정 미정",
+      "title": "G7 비축유 실제 방출과 공급 차질",
+      "detail": "비축유 1억 배럴 공급 합의 뒤 국가별 세부 이행과 중동 공급 차질 관련 공지가 나오는지 살펴볼 시장 변수입니다. 오늘 추가 발표가 확정된 일정은 아니며, 발표된 계획을 실제 공급 완료로 보지 않습니다.",
+      "source": {
+        "name": "YTN",
+        "title": "트럼프 \"유럽, 비축 경유 방출 합의\"...G7 \"경유 조기 방출\"",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610030028309692",
+        "publishedAt": "2026-10-03T00:28:00+09:00",
+        "language": "ko",
+        "kind": "major",
+        "verifiedAt": "2026-10-03T12:14:45+09:00",
+        "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030028309692_t.jpg"
+      }
+    }
+  ],
+  "keywords": []
+}

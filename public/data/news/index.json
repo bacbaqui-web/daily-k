@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-02T21:21:48+09:00",
+  "updatedAt": "2026-10-03T12:20:00+09:00",
   "editions": [
+    {
+      "id": "2026-10-03-am",
+      "date": "2026-10-03",
+      "edition": "am",
+      "generatedAt": "2026-10-03T12:20:00+09:00",
+      "cutoffAt": "2026-10-03T09:00:00+09:00",
+      "count": 6,
+      "path": "2026-10-03/am.json",
+      "headline": "미 고용 2만9천 명 증가에 그쳐…나스닥은 1.19% 상승 마감"
+    },
     {
       "id": "2026-10-02-pm",
       "date": "2026-10-02",

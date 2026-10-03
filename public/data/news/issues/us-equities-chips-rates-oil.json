@@ -67,6 +67,99 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-03-am/us-market-2026-10-02",
+      "editionId": "2026-10-03-am",
+      "storyId": "us-market-2026-10-02",
+      "editionDate": "2026-10-03",
+      "edition": "am",
+      "coveredAt": "2026-10-03T12:20:00+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T06:13:07+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "미국 현지 10월 2일 고용 발표와 정규장 마감입니다. 고용보고서 발표는 한국시간 2일 21시 30분이며, 종가는 3일 새벽 확인됐습니다.",
+      "stage": "결과",
+      "change": "10월 1일장의 강보합을 다룬 뒤, 2일 미국 고용보고서와 같은 날 정규장 종가가 새로 확정됐습니다. 고용 둔화에 금리 인상 우려가 완화되며 나스닥 상승폭이 1.19%로 커졌습니다.",
+      "title": "미 고용 2만9천 명 증가에 그쳐…나스닥은 1.19% 상승 마감",
+      "category": "경제·증시",
+      "status": "확정",
+      "summary": [
+        "미국 9월 비농업 일자리가 2만9천 명 늘어나는 데 그치면서 추가 금리 인상 우려가 약해졌습니다. 10월 2일 미국 정규장은 나스닥 1.19%, S&P500 0.73% 상승으로 끝났습니다.",
+        "미 노동통계국은 실업률을 4.2%로 발표했습니다. 8월 일자리 증가폭의 수정치 13만3천 명과 비교하면 9월의 고용 확대가 크게 둔화됐고, 7~8월 증가분도 합계 6만 명 하향 조정됐습니다.",
+        "종가는 나스닥 27,190.86, S&P500 7,722.72, 다우 51,176.96입니다. 전날 오전 브리핑에서 다룬 10월 1일장의 소폭 상승에 이어, 이번에는 고용 발표 뒤 금리 부담이 완화되면서 주요 지수의 상승폭이 커졌습니다.",
+        "고용이 약한데 주가가 오른 것은 시장이 당장의 경기 둔화보다 금리 인상 가능성의 하락에 더 반응했다는 해석입니다. 다만 연준의 금리 동결이 결정된 것은 아니며, 앞으로 물가가 다시 오르는지에 따라 판단은 달라질 수 있습니다.",
+        "국내 시장을 볼 때도 미국 주가 상승만으로 방향을 단정하기보다 채권금리와 달러 움직임을 함께 확인할 필요가 있습니다. 여기의 지수는 모두 마감 수치이며, 기사 중간에 제시된 장중 국채금리는 종가처럼 옮기지 않았습니다."
+      ],
+      "keyFacts": {
+        "sp500Close": "7722.72",
+        "sp500Change": "0.73%",
+        "nasdaqClose": "27190.86",
+        "nasdaqChange": "1.19%",
+        "dowClose": "51176.96",
+        "payrollChange": "29000명",
+        "unemploymentRate": "4.2%",
+        "augustPayrollRevised": "133000명",
+        "julyAugustRevision": "-60000명"
+      },
+      "uncertainty": "고용 수치는 이후 수정될 수 있습니다. 금리 동결은 시장의 기대이며 연준의 확정 결정이 아닙니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "뉴욕증시, 연준 금리인상 우려 완화에 상승 마감…나스닥 1.2%↑",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813350",
+          "publishedAt": "2026-10-03T06:13:07+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/07/22/NISI20260722_0002192105_web.jpg"
+        },
+        {
+          "name": "YTN",
+          "title": "뉴욕 증시, 고용 약화·국채 금리 안정에 상승 마감",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030624181153",
+          "publishedAt": "2026-10-03T06:24:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030624181153_t.jpg"
+        },
+        {
+          "name": "SBS",
+          "title": "미국 고용 부진에 금리인상 우려 완화…나스닥 1.2%↑",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781562",
+          "publishedAt": "2026-10-03T06:12:01+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260924/202225555_1280.jpg"
+        },
+        {
+          "name": "미국 노동통계국",
+          "title": "Employment Situation News Release - September 2026",
+          "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+          "publishedAt": "2026-10-02T21:30:00+09:00",
+          "language": "en",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "공식 보존 페이지를 웹 열기로 확인했습니다. 발표는 미국 동부시간 10월 2일 08:30이며 한국시간으로 환산했습니다. 직접 HTTP 요청은 403이어서 이미지 메타데이터는 사용하지 않았습니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/am.json",
+      "previous": {
+        "editionId": "2026-10-02-am",
+        "storyId": "us-market-2026-10-01"
+      },
+      "followUp": {
+        "editionId": "2026-10-02-am",
+        "storyId": "us-market-2026-10-01",
+        "delta": "10월 1일장의 강보합을 다룬 뒤, 2일 미국 고용보고서와 같은 날 정규장 종가가 새로 확정됐습니다. 고용 둔화에 금리 인상 우려가 완화되며 나스닥 상승폭이 1.19%로 커졌습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-15-am-archive/archive-01",
       "editionId": "2026-09-15-am-archive",
       "storyId": "archive-01",
@@ -801,5 +894,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T21:21:48+09:00"
+  "updatedAt": "2026-10-03T12:20:00+09:00"
 }

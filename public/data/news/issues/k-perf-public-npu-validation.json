@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "k-perf-public-npu-validation",
+  "title": "K-Perf 기반 국산 AI 반도체 공공 현장 검증",
+  "entries": [
+    {
+      "id": "2026-10-03-am/k-perf-power-grid-pilot-2026-10",
+      "editionId": "2026-10-03-am",
+      "storyId": "k-perf-power-grid-pilot-2026-10",
+      "editionDate": "2026-10-03",
+      "edition": "am",
+      "coveredAt": "2026-10-03T12:20:00+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-02T14:00:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "한전·리벨리온·TTA 협약 체결과 과기정통부 발표는 10월 2일입니다. 정확한 행사 시각은 확인하지 못했습니다.",
+      "stage": "발표",
+      "change": "생성형 AI 서비스 중심의 시범 검증에서 한전의 실제 영상분석 도입 평가로 K-Perf 활용 범위를 넓히는 협약이 체결됐습니다.",
+      "title": "국산 AI칩, 한전 영상분석 실증으로…K-Perf를 도입 판단 기준에",
+      "category": "AI·반도체",
+      "status": "예정",
+      "summary": [
+        "한전·리벨리온·한국정보통신기술협회(TTA)가 국산 AI 반도체를 전력 현장에서 검증하는 업무협약을 맺었습니다. 공통 성능지표 K-Perf를 실제 도입 판단에 활용하는 첫 사례입니다.",
+        "10월 2일 협약에 따라 한전은 변전소별 영상분석을 국산 NPU 기반 통합 관제 방식으로 실증할 계획입니다. NPU는 인공지능 계산에 특화된 반도체로, 리벨리온이 최적화와 기술지원을 맡고 TTA가 성능·신뢰성을 검증합니다.",
+        "지난 6월에는 국산 반도체 2종을 챗봇과 문서 검색 등 생성형 AI 서비스에서 시험했습니다. 이번에는 전력 현장 영상분석으로 검증 범위를 넓혀 실제 운용 환경에서의 안정성과 비용 효과까지 살펴봅니다.",
+        "의미는 칩의 이론상 속도를 홍보하는 단계에서 수요기관이 같은 기준으로 도입을 판단하는 단계로 옮겨 간다는 점입니다. 다만 협약과 실증 계획이 나온 것이며 대규모 상용 도입이나 특정 비용 절감률이 입증된 것은 아닙니다.",
+        "밤사이 확인한 새 대형 AI 반도체 발표가 부족해 전날 오후 공개된 공공 실증 소식을 보충했습니다. 앞으로 실제 운영 결과와 다른 기관으로의 도입 확대 여부가 중요한 후속 자료가 됩니다."
+      ],
+      "keyFacts": {
+        "partners": "한국전력·리벨리온·TTA",
+        "agreementDate": "2026-10-02",
+        "application": "전력 현장 AI 영상분석",
+        "benchmark": "K-Perf",
+        "previousPilot": "2026년 6월 국산 AI반도체 2종",
+        "stage": "협약 체결 및 현장 실증 계획"
+      },
+      "uncertainty": "현장 실증 완료 결과가 아닙니다. 도입 규모·운영 성능·비용 절감 효과는 후속 검증이 필요합니다.",
+      "sources": [
+        {
+          "name": "과학기술정보통신부·KDI 경제교육정보센터",
+          "title": "국산 AI반도체 성능지표 ‘K-Perf’, 공공 현장 도입 검증에 첫 활용",
+          "url": "https://eiec.kdi.re.kr/policy/materialView.do?depth1=D0000&depth2=D0300&device=&num=287779&pg=&pp=&search_txt=&topic=&type=J",
+          "publishedAt": null,
+          "language": "ko",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://deveiec.kdi.re.kr/res/webUser/img/policy/m0.jpg",
+          "verificationNote": "과기정통부 10월 2일 자료를 KDI가 제공한 공식 정책자료입니다. 게시 날짜만 확인돼 정확한 게시 시각은 비워 둡니다."
+        },
+        {
+          "name": "과학기술정보통신부",
+          "title": "국산 인공지능 반도체 성능지표 'K-Perf',  공공 현장 도입 검증에 첫 활용",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784177&pWise=mSub&pWiseSub=C3",
+          "publishedAt": null,
+          "language": "ko",
+          "kind": "official",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
+          "verificationNote": "정책브리핑에 전재된 10월 2일 보도자료입니다. 정확한 게시 시각은 미표시입니다."
+        },
+        {
+          "name": "머니투데이",
+          "title": "한전 변전소에 리벨리온 NPU 투입…국산 AI칩 'K-Perf' 첫 현장 검증",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/02/2026100213551158376",
+          "publishedAt": "2026-10-02T14:00:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기로 기사 본문과 시각 확인. 정부 발표를 전한 기사이며 독립적인 성능 시험 결과가 아닙니다."
+        },
+        {
+          "name": "디지털투데이",
+          "title": "현장으로 간 'K-Perf '…한전 AI 반도체 도입 검증에 첫 적용",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704695",
+          "publishedAt": "2026-10-02T17:20:24+09:00",
+          "language": "ko",
+          "kind": "specialist",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704695_652444_1553.jpg"
+        }
+      ],
+      "briefingPath": "2026-10-03/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-03T12:20:00+09:00"
+}

@@ -1,10 +1,138 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T21:21:48+09:00",
-  "editionCount": 37,
-  "storyCount": 306,
+  "updatedAt": "2026-10-03T12:20:00+09:00",
+  "editionCount": 38,
+  "storyCount": 312,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "us-equities-chips-rates-oil",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응",
+      "categories": [
+        "경제·증시",
+        "증시·금리",
+        "증시·반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
+      "eventCount": 16,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-am",
+        "storyId": "us-market-2026-10-02",
+        "title": "미 고용 2만9천 명 증가에 그쳐…나스닥은 1.19% 상승 마감",
+        "stage": "결과",
+        "change": "10월 1일장의 강보합을 다룬 뒤, 2일 미국 고용보고서와 같은 날 정규장 종가가 새로 확정됐습니다. 고용 둔화에 금리 인상 우려가 완화되며 나스닥 상승폭이 1.19%로 커졌습니다.",
+        "archive": false
+      },
+      "path": "us-equities-chips-rates-oil.json"
+    },
+    {
+      "id": "north-korea-missile-2026-10-03",
+      "title": "북한 2026년 10월 3일 탄도미사일 발사",
+      "categories": [
+        "국내·안보"
+      ],
+      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
+      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-am",
+        "storyId": "north-korea-missile-2026-10-03",
+        "title": "북한, 오전 6시 30분께 탄도미사일 발사…합참 제원 분석",
+        "stage": "발표",
+        "change": "10월 3일 새벽의 새로운 탄도미사일 발사가 포착됐으며 군의 경계 강화와 정보 공유가 공지됐습니다.",
+        "archive": false
+      },
+      "path": "north-korea-missile-2026-10-03.json"
+    },
+    {
+      "id": "milli-story-ip-expansion",
+      "title": "밀리의서재 웹툰·웹소설 원천 IP 확장",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
+      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-am",
+        "storyId": "milli-original-ip-expansion-2026",
+        "title": "밀리의서재, 원천 IP 44개→124개 계획…웹툰·해외 유통 확대",
+        "stage": "발표",
+        "change": "10월 1일 간담회에서 2027년 오리지널 IP 확대와 외부·해외 유통 계획이 제시됐습니다. 전 회차의 다온 일본 순위 소식과 다른 플랫폼 사업 전략입니다.",
+        "archive": false
+      },
+      "path": "milli-story-ip-expansion.json"
+    },
+    {
+      "id": "middle-east-oil-supply",
+      "title": "중동 원유 공급과 국제유가",
+      "categories": [
+        "국제·에너지"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
+      "eventCount": 13,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-am",
+        "storyId": "g7-oil-release-2026-10-02",
+        "title": "G7, 비축유 1억 배럴 방출 합의…브렌트유 종가는 102.25달러",
+        "stage": "발표",
+        "change": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다.",
+        "archive": false
+      },
+      "path": "middle-east-oil-supply.json"
+    },
+    {
+      "id": "korea-us-investment-projects",
+      "title": "한국의 미국 에너지·인프라 투자",
+      "categories": [
+        "경제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
+      "eventCount": 5,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-am",
+        "storyId": "korea-us-energy-investment-2026-10-02",
+        "title": "트럼프, 알래스카 투자 압박…한국 참여는 확정되지 않아",
+        "stage": "보도",
+        "change": "2일 미국 현지 발언에서 한국의 알래스카 투자 합의를 요구하며 추가 부담을 언급했고, 별도의 84억 달러 원유 사업 투자 주장도 나왔습니다.",
+        "archive": false
+      },
+      "path": "korea-us-investment-projects.json"
+    },
+    {
+      "id": "k-perf-public-npu-validation",
+      "title": "K-Perf 기반 국산 AI 반도체 공공 현장 검증",
+      "categories": [
+        "AI·반도체"
+      ],
+      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
+      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-am",
+        "storyId": "k-perf-power-grid-pilot-2026-10",
+        "title": "국산 AI칩, 한전 영상분석 실증으로…K-Perf를 도입 판단 기준에",
+        "stage": "발표",
+        "change": "생성형 AI 서비스 중심의 시범 검증에서 한전의 실제 영상분석 도입 평가로 K-Perf 활용 범위를 넓히는 협약이 체결됐습니다.",
+        "archive": false
+      },
+      "path": "k-perf-public-npu-validation.json"
+    },
     {
       "id": "usdkrw-oil-export-flows",
       "title": "유가와 수출기업 수급에 따른 원·달러 환율",
@@ -198,28 +326,6 @@
       "path": "us-iran-negotiations.json"
     },
     {
-      "id": "us-equities-chips-rates-oil",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응",
-      "categories": [
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 15,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-am",
-        "storyId": "us-market-2026-10-01",
-        "title": "뉴욕증시 강보합…반도체 실적과 높은 금리를 함께 볼 때",
-        "stage": "결과",
-        "change": "미국 10월 첫 거래일은 반도체 실적 기대 속에 소폭 상승 마감했지만 금리와 유가 부담이 남았습니다.",
-        "archive": false
-      },
-      "path": "us-equities-chips-rates-oil.json"
-    },
-    {
       "id": "naver-webtoon-antipiracy-toonradar",
       "title": "네이버웹툰 불법 유통 차단과 정식 구매 전환",
       "categories": [
@@ -346,27 +452,6 @@
       "path": "naver-webtoon-leadership-2026.json"
     },
     {
-      "id": "middle-east-oil-supply",
-      "title": "중동 원유 공급과 국제유가",
-      "categories": [
-        "국제·에너지"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 12,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-am-archive",
-        "storyId": "archive-04",
-        "title": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등.",
-        "archive": true
-      },
-      "path": "middle-east-oil-supply.json"
-    },
-    {
       "id": "anthropic-financing-2026",
       "title": "앤트로픽 IPO와 인프라 투자 보도",
       "categories": [
@@ -491,27 +576,6 @@
         "archive": true
       },
       "path": "micron-earnings-2026.json"
-    },
-    {
-      "id": "korea-us-investment-projects",
-      "title": "한국의 미국 에너지·인프라 투자",
-      "categories": [
-        "경제·외교"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 4,
-      "firstCoveredDate": "2026-09-22",
-      "lastCoveredDate": "2026-10-01",
-      "latest": {
-        "editionId": "2026-10-01-pm-archive",
-        "storyId": "archive-03",
-        "title": "산업장관, 트럼프의 알래스카 LNG 투자 발표에 이의 제기",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 산업장관, 트럼프의 알래스카 LNG 투자 발표에 이의 제기.",
-        "archive": true
-      },
-      "path": "korea-us-investment-projects.json"
     },
     {
       "id": "korea-household-lending",

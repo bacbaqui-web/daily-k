@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "north-korea-missile-2026-10-03",
+  "title": "북한 2026년 10월 3일 탄도미사일 발사",
+  "entries": [
+    {
+      "id": "2026-10-03-am/north-korea-missile-2026-10-03",
+      "editionId": "2026-10-03-am",
+      "storyId": "north-korea-missile-2026-10-03",
+      "editionDate": "2026-10-03",
+      "edition": "am",
+      "coveredAt": "2026-10-03T12:20:00+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T07:57:00+09:00",
+      "eventAt": "2026-10-03T06:30:00+09:00",
+      "eventDate": "2026-10-03",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "합참이 밝힌 포착 시각은 한국시간 10월 3일 오전 6시 30분쯤으로, 정확한 초 단위 시각은 아닙니다.",
+      "stage": "발표",
+      "change": "10월 3일 새벽의 새로운 탄도미사일 발사가 포착됐으며 군의 경계 강화와 정보 공유가 공지됐습니다.",
+      "title": "북한, 오전 6시 30분께 탄도미사일 발사…합참 제원 분석",
+      "category": "국내·안보",
+      "status": "확정",
+      "summary": [
+        "합동참모본부는 3일 오전 6시 30분께 북한 원산 일대에서 동해상으로 발사된 탄도미사일을 포착했다고 밝혔습니다. 군은 감시와 경계를 강화하고 한·미·일 사이에 관련 정보를 공유한다고 설명했습니다.",
+        "선정한 7시 57분 보도에서는 제원과 수량, 비거리 등을 분석 중이라고 전했습니다. 뒤에 수정된 기사에서 추가된 수치를 오전 9시 기준 정보에 섞지 않았습니다.",
+        "지난 9월 20일 발사와 별개의 새 발사이며, 최근 비무장지대 지뢰 사건을 둘러싼 남북 간 입장 차이가 이어지는 가운데 발생했습니다. 다만 이번 발사의 의도와 지뢰 사건의 책임 문제는 발사 포착 사실과 구분해야 합니다.",
+        "오늘 확인할 핵심은 군 당국의 추가 분석과 후속 대응입니다. 군사적 긴장 수준을 판단하는 데 중요한 사안이지만, 초기 정보만으로 미사일 종류나 향후 행동을 단정하지 않겠습니다."
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "direction": "동해상",
+        "weapon": "탄도미사일",
+        "detailStatusAtSelectedReport": "제원·수량·비거리 분석 중"
+      },
+      "uncertainty": "선정한 기준 시각 이전 보도는 세부 제원을 분석 중이라고 설명합니다. 이후 확인되는 거리·수량·평가를 소급해 넣지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "北, 원산서 동해상 탄도미사일 발사…DMZ 지뢰폭발 12일 만에 도발(종합)",
+          "url": "https://www.news1.kr/amp/diplomacy/defense-diplomacy/6309646",
+          "publishedAt": "2026-10-03T07:57:00+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2026/9/22/8119769/high.jpg",
+          "verificationNote": "본문 07:57 게시 시각과 합참 공지 인용을 확인했습니다. 이후 수정된 다른 기사에서 나온 비행거리·발사 수량을 가져오지 않았습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "[속보]합참 \"北 원산 일대서 동해상으로 발사된 탄도미사일 포착\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813364",
+          "publishedAt": "2026-10-03T07:42:54+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://img1.newsis.com/2020/12/11/NISI20201211_0000654239_web.jpg",
+          "verificationNote": "원산 일대에서 동해상으로 발사된 탄도미사일을 포착했다는 속보 제목을 대조했습니다. 세부 제원은 이 기사에 없습니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-03T12:20:00+09:00"
+}

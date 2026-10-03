@@ -4,6 +4,83 @@
   "title": "중동 원유 공급과 국제유가",
   "entries": [
     {
+      "id": "2026-10-03-am/g7-oil-release-2026-10-02",
+      "editionId": "2026-10-03-am",
+      "storyId": "g7-oil-release-2026-10-02",
+      "editionDate": "2026-10-03",
+      "edition": "am",
+      "coveredAt": "2026-10-03T12:20:00+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T06:19:45+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "Europe/Paris",
+      "eventTimeNote": "G7 합의는 10월 2일 현지 화상회의에서 나왔습니다. 연표 날짜는 의장국 프랑스 기준이며, 함께 제시한 유가도 미국 현지 10월 2일 마감 결과입니다.",
+      "stage": "발표",
+      "change": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다.",
+      "title": "G7, 비축유 1억 배럴 방출 합의…브렌트유 종가는 102.25달러",
+      "category": "국제·에너지",
+      "status": "확정",
+      "summary": [
+        "G7이 앞으로 4개월 동안 경유와 원유 비축분 총 1억 배럴을 시장에 공급하기로 합의했습니다. 초기 20일에는 경유를 우선 방출해 연료 수급 부담을 낮추겠다는 계획입니다.",
+        "미국의 비축 경유 방출 요구에 이어 공동 공급 방침이 나왔고, G7 회원국끼리 경유 수출을 막지 않기로 했다는 설명도 확인됐습니다. 이번 발표는 방출 결정이며 1억 배럴이 이미 모두 공급됐다는 뜻은 아닙니다.",
+        "10월 2일 국제유가 마감 결과는 브렌트유 선물 102.25달러, 서부텍사스산원유(WTI) 91.11달러였습니다. 전 거래일보다 각각 0.06달러, 1.76달러 하락했으며, 발표 직후 장중 급락 보도를 종일 하락률로 읽으면 안 됩니다.",
+        "경유는 화물 운송과 농기계 등에 쓰여 가격 부담이 물류비와 생활물가로 이어질 수 있습니다. 비축분은 단기 공급을 늘리는 수단이므로 실제 방출 속도와 중동의 공급 차질이 함께 중요합니다.",
+        "큰 방출 규모가 발표됐어도 브렌트유의 종가 하락폭은 작았습니다. 공급 대책 발표만으로 에너지 가격 불안이 해소됐다고 단정하기는 이릅니다."
+      ],
+      "keyFacts": {
+        "releaseVolume": "100000000배럴",
+        "releasePeriod": "4개월",
+        "earlyDieselPeriod": "20일",
+        "brentClose": "102.25달러",
+        "brentChange": "-0.06달러",
+        "wtiClose": "91.11달러",
+        "wtiChange": "-1.76달러"
+      },
+      "uncertainty": "방출은 향후 4개월의 계획입니다. 실제 공급 속도와 국가별 이행, 중동 정세에 따른 가격 반응은 추가 확인이 필요합니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "G7 비축유 1억 배럴 방출 결정에도 유가 소폭 하락",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813351",
+          "publishedAt": "2026-10-03T06:19:45+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/06/02/NISI20260602_0002150703_web.jpg"
+        },
+        {
+          "name": "YTN",
+          "title": "트럼프 \"유럽, 비축 경유 방출 합의\"...G7 \"경유 조기 방출\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030028309692",
+          "publishedAt": "2026-10-03T00:28:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030028309692_t.jpg"
+        },
+        {
+          "name": "머니투데이",
+          "title": "G7 \"4달 동안 비축유 1억배럴 방출\"…트럼프 \"경유 풀어야\" 하루만",
+          "url": "https://www.mt.co.kr/world/2026/10/03/2026100301371581840",
+          "publishedAt": "2026-10-03T01:45:00+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:20:00+09:00",
+          "verificationNote": "웹 열기로 본문과 게시 시각을 확인했습니다. 장중 5% 하락은 종가로 사용하지 않았으며 OG 이미지는 미확인입니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/am.json",
+      "previous": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-04"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-15-pm-archive/archive-09",
       "editionId": "2026-09-15-pm-archive",
       "storyId": "archive-09",
@@ -632,5 +709,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T21:21:48+09:00"
+  "updatedAt": "2026-10-03T12:20:00+09:00"
 }

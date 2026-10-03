@@ -4,6 +4,73 @@
   "title": "한국의 미국 에너지·인프라 투자",
   "entries": [
     {
+      "id": "2026-10-03-am/korea-us-energy-investment-2026-10-02",
+      "editionId": "2026-10-03-am",
+      "storyId": "korea-us-energy-investment-2026-10-02",
+      "editionDate": "2026-10-03",
+      "edition": "am",
+      "coveredAt": "2026-10-03T12:20:00+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T06:20:59+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "기자 문답과 투자 관련 주장은 미국 현지 10월 2일입니다. 한국시간 기사 발행 시각과 실제 발언 날짜를 구분합니다.",
+      "stage": "보도",
+      "change": "2일 미국 현지 발언에서 한국의 알래스카 투자 합의를 요구하며 추가 부담을 언급했고, 별도의 84억 달러 원유 사업 투자 주장도 나왔습니다.",
+      "title": "트럼프, 알래스카 투자 압박…한국 참여는 확정되지 않아",
+      "category": "경제·외교",
+      "status": "주장",
+      "summary": [
+        "트럼프 미국 대통령이 한국이 알래스카 LNG 사업 투자에 합의하지 않으면 부담을 두 배로 높이겠다는 취지로 말했습니다. 한국 정부는 사업의 경제성이 확보돼야 참여할 수 있다는 입장으로 보도됐습니다.",
+        "2일 미국 현지 기자 문답에서 나온 발언이지만, 무엇을 추가 청구하거나 두 배로 올린다는 것인지는 밝히지 않았습니다. 관세 등 무역 조치 가능성이 거론되더라도 실제 관세율 변경이 결정된 것으로 읽을 수는 없습니다.",
+        "트럼프는 별도로 한국이 84억 달러 규모의 원유 회수 증진 사업에 투자할 것이라고도 발표했습니다. 이는 남아 있는 원유를 더 뽑아내는 사업에 관한 미국 대통령의 주장이며, 보도에는 구체적인 사업 위치와 내용이 공개되지 않았습니다.",
+        "앞서 사업을 제시한 데서 더 나아가 한국의 합의를 요구하는 발언이 나온 점이 새 변화입니다. 기업과 재정에 중요한 것은 발표된 총액뿐 아니라 실제 투자 대상, 부담 주체, 수익성 조건이 어떻게 합의되는지입니다.",
+        "이번 소식은 양국의 투자 계약 체결 보도가 아닙니다. 한국 측의 공식 확인과 구체적인 계약 조건이 나오기 전에는 84억 달러나 추가 부담을 확정 지출로 계산하지 않아야 합니다."
+      ],
+      "keyFacts": {
+        "alaskaParticipation": "한국 정부는 경제성 확보를 조건으로 제시, 참여 미확정",
+        "trumpDemand": "합의하지 않으면 두 배 청구 발언",
+        "additionalChargeTarget": "미공개",
+        "eorInvestmentClaim": "84억달러",
+        "eorKoreanConfirmation": "선정 보도에서 확인되지 않음"
+      },
+      "uncertainty": "추가 청구 항목·방법은 미공개이고 한국의 사업 참여와 계약 조건도 확정되지 않았습니다. 미국의 발표를 한미 합의로 취급하지 않았습니다.",
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "\"한국, 석유 증산에 84억 달러 투자\"…\"알래스카 투자 안 하면 두 배\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781523",
+          "publishedAt": "2026-10-03T06:20:59+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:45+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261003/202228170_1280.jpg",
+          "verificationNote": "06:21:19 수정까지 기준 시각 이전입니다. 투자 유치는 트럼프의 발표·주장으로 구분했습니다."
+        },
+        {
+          "name": "이데일리",
+          "title": "트럼프 \"韓, 알래스카 투자 합의 안하면 두배로 청구\"",
+          "url": "https://m1.edaily.co.kr/news/Read?mediaCodeNo=257&newsId=01708886645609312",
+          "publishedAt": "2026-10-03T06:37:42+09:00",
+          "language": "ko",
+          "kind": "major",
+          "verifiedAt": "2026-10-03T12:14:46+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300204.jpg",
+          "verificationNote": "블룸버그·로이터 인용 보도를 SBS 특파원 보도와 대조했습니다. 추가 청구 대상은 미공개입니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/am.json",
+      "previous": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-22-pm-archive/archive-02",
       "editionId": "2026-09-22-pm-archive",
       "storyId": "archive-02",
@@ -206,5 +273,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T21:21:48+09:00"
+  "updatedAt": "2026-10-03T12:20:00+09:00"
 }
