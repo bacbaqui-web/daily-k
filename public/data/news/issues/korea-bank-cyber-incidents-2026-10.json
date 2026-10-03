@@ -75,7 +75,91 @@
       "followUp": null,
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-03-pm/korea-bank-breaches-2026-10-03",
+      "editionId": "2026-10-03-pm",
+      "storyId": "korea-bank-breaches-2026-10-03",
+      "editionDate": "2026-10-03",
+      "edition": "pm",
+      "coveredAt": "2026-10-03T21:19:55+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T19:56:25+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-03",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "10월 3일 현대캐피탈의 당국 신고와 추가 피해 설명을 중심으로 다룹니다. 예가람 이상 접근 확인은 9월 30일, 사과문은 10월 2일이며 현대캐피탈 공격 확인도 10월 2일입니다.",
+      "stage": "후속",
+      "change": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다.",
+      "title": "금융권 유출, 저축은행·캐피탈로 확대…고객과 모집인 피해 구분해야",
+      "category": "금융·보안",
+      "status": "보도",
+      "summary": [
+        "금융권 정보유출 피해가 시중은행을 넘어 예가람저축은행과 현대캐피탈에서도 확인됐습니다. 예가람은 고객 약 4만 명의 정보 유출을 추정했고, 현대캐피탈은 주택대출 모집인 146명의 정보가 유출됐다고 밝혔습니다.",
+        "예가람이 이상 접근을 확인한 때는 9월 30일이며 사과문은 10월 2일 게시됐습니다. 이름·생년월일·연락처 등이 대상이고, 약 4만 명이라는 규모는 조사 중인 추정치입니다.",
+        "현대캐피탈은 10월 2일 오후 5시 8분께 모집인 조회 페이지 공격을 확인했다고 설명했습니다. 회사는 일반 고객정보 유출이나 내부 시스템 접근은 확인되지 않았다고 밝혔으므로, 모집인 146명을 고객 피해 숫자에 합산하면 안 됩니다.",
+        "어제 저녁에는 시중은행 피해와 금융위의 전면 점검 지시까지 다뤘는데, 오늘은 제2금융권의 추가 피해 범위가 드러났습니다. 외부 공개용 조회 페이지에서 내부 개인정보가 함께 노출됐다는 점은 금융 앱뿐 아니라 연결된 업무 화면도 점검해야 한다는 의미입니다.",
+        "금융위는 어제 회의에서 외부 접근 시스템 점검과 공격정보 공유를 주문했습니다. 공격 주체와 AI 도구 사용 여부는 아직 확정되지 않았고, 예가람 측은 현재까지 AI 침투 흔적을 발견하지 못했다고 설명했습니다."
+      ],
+      "keyFacts": {
+        "shinhanCustomers": "약 25000명",
+        "kbCustomers": "119명",
+        "hanaCustomers": "89명",
+        "busanContractStaff": "11명",
+        "response": "외부 노출 시스템 전반 보안점검 지시",
+        "yegaramCustomers": "약 40000명 추정",
+        "hyundaiCapitalLoanAgents": "146명",
+        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
+        "aiAttribution": "미확정"
+      },
+      "uncertainty": "예가람 피해 규모는 추정입니다. 현대캐피탈의 고객정보 미유출은 회사 설명이며, 공격 주체·AI 활용·최종 피해 범위는 조사 결과를 기다려야 합니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "AI 해킹에 비상 걸린 韓금융…은행 이어 현대캐피탈·예가람저축은행도 뚫렸다",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813692",
+          "publishedAt": "2026-10-03T19:56:25+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207209_web.jpg",
+          "verificationNote": "본문 등록 시각을 사용했습니다. 20:30:49 수정본까지 21시 기준 이전입니다. AI 사용과 공격 주체는 추정으로만 취급합니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "예가람저축은행, 해킹 피해로 고객정보 유출...4만명대 추정",
+          "url": "https://www.fnnews.com/news/202610031609525119",
+          "publishedAt": "2026-10-03T16:25:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "웹 열기로 기사 전문을 확인했습니다. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않습니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "10월 2일 공식 자료를 이번 실행에서 다시 확인했습니다. 전날 15시 회의는 배경이며 새로운 회의로 서술하지 않습니다. 정확한 게시 시각은 미표시입니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/pm.json",
+      "previous": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-bank-breaches-2026-10-02"
+      },
+      "followUp": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-bank-breaches-2026-10-02",
+        "delta": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-03T12:20:00+09:00"
+  "updatedAt": "2026-10-03T21:19:55+09:00"
 }

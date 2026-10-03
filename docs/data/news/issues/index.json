@@ -1,10 +1,136 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T12:20:00+09:00",
-  "editionCount": 38,
-  "storyCount": 312,
+  "updatedAt": "2026-10-03T21:19:55+09:00",
+  "editionCount": 39,
+  "storyCount": 318,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "uk-eu-relationship-rejoin-poll",
+      "title": "영국·EU 관계 재검토와 재가입 여론",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": "2026-10-03T21:19:55+09:00",
+      "lastCoveredAt": "2026-10-03T21:19:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "uk-eu-rejoin-poll-2026-10-03",
+        "title": "영국 EU 재가입 찬성 49%…여론 변화와 정책 확정은 별개",
+        "stage": "분석",
+        "change": "영국과 EU의 관계 재검토 논의에 대규모 여론조사 결과가 새로 보도됐습니다. 재가입 결정이나 협상 타결은 아닙니다.",
+        "archive": false
+      },
+      "path": "uk-eu-relationship-rejoin-poll.json"
+    },
+    {
+      "id": "qwen-hirundo-bias-evaluation",
+      "title": "Qwen의 편향 완화와 Hirundo 평가",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": "2026-10-03T21:19:55+09:00",
+      "lastCoveredAt": "2026-10-03T21:19:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "qwen-bias-evaluation-2026-10-03",
+        "title": "Qwen 편향 줄였다는 Hirundo…500문항 자체 평가의 범위를 봐야",
+        "stage": "분석",
+        "change": "오전 9시 기준 이후 국내에 소개된 평가를 원 제작업체의 모델 카드와 대조했습니다. 새 모델이 오늘 처음 출시됐다는 주장은 하지 않습니다.",
+        "archive": false
+      },
+      "path": "qwen-hirundo-bias-evaluation.json"
+    },
+    {
+      "id": "north-korea-missile-2026-10-03",
+      "title": "북한 2026년 10월 3일 탄도미사일 발사",
+      "categories": [
+        "국내·안보"
+      ],
+      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
+      "lastCoveredAt": "2026-10-03T21:19:55+09:00",
+      "eventCount": 2,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "north-korea-missile-update-2026-10-03",
+        "title": "북한 “중거리전략미사일 훈련”…합참은 1발·700㎞ 이상 확인",
+        "stage": "후속",
+        "change": "오전 회차의 초기 포착 보도 이후 합참이 수량과 비행거리를 공개했고, 저녁에는 김여정이 중거리전략미사일 훈련이었다는 북한 측 설명을 내놨습니다.",
+        "archive": false
+      },
+      "path": "north-korea-missile-2026-10-03.json"
+    },
+    {
+      "id": "korea-welfare-application-reform",
+      "title": "복지급여 신청주의 개선과 국가의 선제 지원",
+      "categories": [
+        "국내·정책"
+      ],
+      "firstCoveredAt": "2026-10-03T21:19:55+09:00",
+      "lastCoveredAt": "2026-10-03T21:19:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "welfare-application-reform-2026-10-03",
+        "title": "복지급여 ‘신청 없이 지원’ 추진…오늘 즉시 자동 지급되는 것은 아닙니다",
+        "stage": "발표",
+        "change": "10월 1일 법안 통과 이후 대통령이 3일 국가의 선제 지원 방향을 재확인했습니다. 통과 사실을 오늘의 신규 의결로 바꾸지 않고 적용 범위와 시행 조건을 설명합니다.",
+        "archive": false
+      },
+      "path": "korea-welfare-application-reform.json"
+    },
+    {
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+      "categories": [
+        "금융·보안"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-03T21:19:55+09:00",
+      "eventCount": 2,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "korea-bank-breaches-2026-10-03",
+        "title": "금융권 유출, 저축은행·캐피탈로 확대…고객과 모집인 피해 구분해야",
+        "stage": "후속",
+        "change": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다.",
+        "archive": false
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json"
+    },
+    {
+      "id": "jeju-animation-webtoon-festival-2026",
+      "title": "2026 제주애니아일랜드 페스티벌과 지역 웹툰 창작자",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-03T21:19:55+09:00",
+      "lastCoveredAt": "2026-10-03T21:19:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-03",
+      "latest": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "jeju-animation-webtoon-festival-2026",
+        "title": "제주, 웹툰 작가 10명 참여 콘텐츠 축제…10월 10일 개최 예정",
+        "stage": "예정",
+        "change": "이전 회차에 다루지 않은 지역 웹툰 작가의 작품 전시·체험 행사와 참가 안내를 확인했습니다. 10월 2일 보도를 오늘 발표로 포장하지 않습니다.",
+        "archive": false
+      },
+      "path": "jeju-animation-webtoon-festival-2026.json"
+    },
     {
       "id": "us-equities-chips-rates-oil",
       "title": "미국 증시의 반도체 실적·금리·유가 반응",
@@ -27,27 +153,6 @@
         "archive": false
       },
       "path": "us-equities-chips-rates-oil.json"
-    },
-    {
-      "id": "north-korea-missile-2026-10-03",
-      "title": "북한 2026년 10월 3일 탄도미사일 발사",
-      "categories": [
-        "국내·안보"
-      ],
-      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
-      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
-      "eventCount": 1,
-      "firstCoveredDate": "2026-10-03",
-      "lastCoveredDate": "2026-10-03",
-      "latest": {
-        "editionId": "2026-10-03-am",
-        "storyId": "north-korea-missile-2026-10-03",
-        "title": "북한, 오전 6시 30분께 탄도미사일 발사…합참 제원 분석",
-        "stage": "발표",
-        "change": "10월 3일 새벽의 새로운 탄도미사일 발사가 포착됐으며 군의 경계 강화와 정보 공유가 공지됐습니다.",
-        "archive": false
-      },
-      "path": "north-korea-missile-2026-10-03.json"
     },
     {
       "id": "milli-story-ip-expansion",
@@ -219,27 +324,6 @@
         "archive": false
       },
       "path": "korea-equities-flows.json"
-    },
-    {
-      "id": "korea-bank-cyber-incidents-2026-10",
-      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
-      "categories": [
-        "금융·보안"
-      ],
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
-      "eventCount": 1,
-      "firstCoveredDate": "2026-10-02",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "korea-bank-breaches-2026-10-02",
-        "title": "은행권 정보유출 확대…금융위, 외부 노출 시스템 전면 점검 지시",
-        "stage": "후속",
-        "change": "오늘 추가 유출 사례가 확인됐고, 15시 긴급회의에서 금융권 전체의 시스템 점검과 위협정보 공동 대응을 지시했습니다.",
-        "archive": false
-      },
-      "path": "korea-bank-cyber-incidents-2026-10.json"
     },
     {
       "id": "euro-area-consumer-prices",

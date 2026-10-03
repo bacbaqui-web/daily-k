@@ -1,0 +1,791 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-03-pm",
+  "date": "2026-10-03",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-03T21:00:00+09:00",
+  "generatedAt": "2026-10-03T21:19:55+09:00",
+  "intro": "10월 3일 저녁, 오전 이후 확인된 변화와 공식 자료를 중심으로 정리한 브리핑입니다.",
+  "overview": [
+    "오늘 저녁은 금융 보안과 안보 상황의 후속 변화가 중심입니다. 금융권 유출은 예가람 고객 약 4만 명 추정·현대캐피탈 모집인 146명으로 피해 범위가 넓어졌고, 북한 발사는 합참의 1발·700㎞ 이상 확인에 북한 측의 무기 설명이 더해졌습니다. 공격 배후와 미사일 성능 주장은 아직 확정 사실이 아닙니다.",
+    "국내에서는 복지급여 신청주의 개선의 적용 범위가 중요합니다. 6개 법률안은 10월 1일 통과했지만 시행은 공포 후 3개월 조건입니다. 국제 뉴스의 영국 EU 재가입 찬성 49%도 여론조사 결과이며, 재가입 결정이나 관세 변경을 뜻하지 않습니다.",
+    "AI에서는 Qwen 편향 완화 수치를 제작업체의 자체 평가로 읽어야 합니다. 웹툰은 최근 업데이트인 제주 작가 10명 참여 축제를 골라 지역 창작자의 독자 접점과 참가 일정을 정리했습니다. 오전에 다룬 미국 증시 종가와 유가 결과는 같은 내용으로 반복하지 않았습니다."
+  ],
+  "overviewEmphasis": [
+    "금융 보안과 안보 상황의 후속 변화",
+    "고객 약 4만 명 추정·현대캐피탈 모집인 146명",
+    "1발·700㎞ 이상",
+    "시행은 공포 후 3개월",
+    "영국 EU 재가입 찬성 49%",
+    "제작업체의 자체 평가",
+    "제주 작가 10명 참여 축제"
+  ],
+  "stories": [
+    {
+      "id": "korea-bank-breaches-2026-10-03",
+      "topicKey": "korea-bank-breaches-2026-10",
+      "category": "금융·보안",
+      "title": "금융권 유출, 저축은행·캐피탈로 확대…고객과 모집인 피해 구분해야",
+      "status": "보도",
+      "publishedAt": "2026-10-03T19:56:25+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 3일 현대캐피탈의 당국 신고와 추가 피해 설명을 중심으로 다룹니다. 예가람 이상 접근 확인은 9월 30일, 사과문은 10월 2일이며 현대캐피탈 공격 확인도 10월 2일입니다.",
+      "summary": [
+        "금융권 정보유출 피해가 시중은행을 넘어 예가람저축은행과 현대캐피탈에서도 확인됐습니다. 예가람은 고객 약 4만 명의 정보 유출을 추정했고, 현대캐피탈은 주택대출 모집인 146명의 정보가 유출됐다고 밝혔습니다.",
+        "예가람이 이상 접근을 확인한 때는 9월 30일이며 사과문은 10월 2일 게시됐습니다. 이름·생년월일·연락처 등이 대상이고, 약 4만 명이라는 규모는 조사 중인 추정치입니다.",
+        "현대캐피탈은 10월 2일 오후 5시 8분께 모집인 조회 페이지 공격을 확인했다고 설명했습니다. 회사는 일반 고객정보 유출이나 내부 시스템 접근은 확인되지 않았다고 밝혔으므로, 모집인 146명을 고객 피해 숫자에 합산하면 안 됩니다.",
+        "어제 저녁에는 시중은행 피해와 금융위의 전면 점검 지시까지 다뤘는데, 오늘은 제2금융권의 추가 피해 범위가 드러났습니다. 외부 공개용 조회 페이지에서 내부 개인정보가 함께 노출됐다는 점은 금융 앱뿐 아니라 연결된 업무 화면도 점검해야 한다는 의미입니다.",
+        "금융위는 어제 회의에서 외부 접근 시스템 점검과 공격정보 공유를 주문했습니다. 공격 주체와 AI 도구 사용 여부는 아직 확정되지 않았고, 예가람 측은 현재까지 AI 침투 흔적을 발견하지 못했다고 설명했습니다."
+      ],
+      "emphasis": [
+        "고객 약 4만 명",
+        "주택대출 모집인 146명",
+        "고객 피해 숫자에 합산하면 안 됩니다",
+        "AI 도구 사용 여부는 아직 확정되지 않았고"
+      ],
+      "keyFacts": {
+        "shinhanCustomers": "약 25000명",
+        "kbCustomers": "119명",
+        "hanaCustomers": "89명",
+        "busanContractStaff": "11명",
+        "response": "외부 노출 시스템 전반 보안점검 지시",
+        "yegaramCustomers": "약 40000명 추정",
+        "hyundaiCapitalLoanAgents": "146명",
+        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
+        "aiAttribution": "미확정"
+      },
+      "whatChanged": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다.",
+      "whyItMatters": "피해 금융사와 정보의 종류가 확대돼 금융권 전반의 외부 조회 경로와 소비자 보호 조치를 함께 확인해야 합니다.",
+      "uncertainty": "예가람 피해 규모는 추정입니다. 현대캐피탈의 고객정보 미유출은 회사 설명이며, 공격 주체·AI 활용·최종 피해 범위는 조사 결과를 기다려야 합니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "AI 해킹에 비상 걸린 韓금융…은행 이어 현대캐피탈·예가람저축은행도 뚫렸다",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813692",
+          "publishedAt": "2026-10-03T19:56:25+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207209_web.jpg",
+          "verificationNote": "본문 등록 시각을 사용했습니다. 20:30:49 수정본까지 21시 기준 이전입니다. AI 사용과 공격 주체는 추정으로만 취급합니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "예가람저축은행, 해킹 피해로 고객정보 유출...4만명대 추정",
+          "url": "https://www.fnnews.com/news/202610031609525119",
+          "publishedAt": "2026-10-03T16:25:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "웹 열기로 기사 전문을 확인했습니다. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않습니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "10월 2일 공식 자료를 이번 실행에서 다시 확인했습니다. 전날 15시 회의는 배경이며 새로운 회의로 서술하지 않습니다. 정확한 게시 시각은 미표시입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "AI 해킹에 비상 걸린 韓금융…은행 이어 현대캐피탈·예가람저축은행도 뚫렸다",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813692",
+          "publishedAt": "2026-10-03T19:56:25+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207209_web.jpg",
+          "verificationNote": "본문 등록 시각을 사용했습니다. 20:30:49 수정본까지 21시 기준 이전입니다. AI 사용과 공격 주체는 추정으로만 취급합니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "예가람저축은행, 해킹 피해로 고객정보 유출...4만명대 추정",
+          "url": "https://www.fnnews.com/news/202610031609525119",
+          "publishedAt": "2026-10-03T16:25:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "웹 열기로 기사 전문을 확인했습니다. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않습니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "10월 2일 공식 자료를 이번 실행에서 다시 확인했습니다. 전날 15시 회의는 배경이며 새로운 회의로 서술하지 않습니다. 정확한 게시 시각은 미표시입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 95,
+        "interest": 96,
+        "domesticImpact": 100,
+        "reliability": 95,
+        "recency": 100
+      },
+      "scoreReason": "오후 추가 피해와 공식 점검 배경을 대조했습니다. 금융·보안 관심과 국내 피해 파급력을 높게 평가했습니다.",
+      "timeline": {
+        "issueId": "korea-bank-cyber-incidents-2026-10",
+        "issueTitle": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+        "eventDate": "2026-10-03",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-bank-breaches-2026-10-02",
+        "delta": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다."
+      },
+      "score": 97.65,
+      "factsHash": "7eaab901d0ac9232d9baf5621913123dbc8f4d8855e67ebad7329f52e33ab4e9"
+    },
+    {
+      "id": "north-korea-missile-update-2026-10-03",
+      "topicKey": "north-korea-missile-2026-10-03",
+      "category": "국내·안보",
+      "title": "북한 “중거리전략미사일 훈련”…합참은 1발·700㎞ 이상 확인",
+      "status": "보도",
+      "publishedAt": "2026-10-03T20:02:39+09:00",
+      "eventAt": null,
+      "eventTimeNote": "발사 포착은 3일 06:30경입니다. 김여정 발표는 같은 날로 확인되나 발표 자체의 정확한 시각은 확인되지 않아 eventAt은 비워 둡니다.",
+      "summary": [
+        "오전에는 북한 미사일의 발사 포착을 전했지만, 이후 합참이 1발·700㎞ 이상 비행을 확인했습니다. 저녁에는 김여정이 중거리전략미사일 훈련이었다는 발표를 내놨습니다.",
+        "발사는 10월 3일 오전 6시 30분께 원산 일대에서 동해 방향으로 이뤄졌습니다. 북한은 김정은이 훈련을 참관했으며 저고도 궤도 변경과 AI 기술을 적용했다고 주장했습니다.",
+        "다만 합참은 미사일의 정확한 제원을 한·미가 정밀 분석 중이라고 밝혔습니다. 북한의 무기 분류와 성능 설명은 독립적으로 확인된 군사 평가가 아니며, 탐지된 비행거리만으로 최대 사거리를 확정할 수도 없습니다.",
+        "이번 후속에서 중요한 변화는 발사 수량·비행거리와 북한의 공식 설명이 더해졌다는 점입니다. 실제 위협 수준을 판단하려면 군 당국의 제원 분석과 대응 발표를 더 확인해야 하며, 북한이 내세운 방어 회피 성능을 검증된 사실로 받아들이지는 않아야 합니다."
+      ],
+      "emphasis": [
+        "1발·700㎞ 이상",
+        "중거리전략미사일 훈련",
+        "독립적으로 확인된 군사 평가가 아니며",
+        "정밀 분석 중"
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "direction": "동해상",
+        "weapon": "탄도미사일",
+        "detailStatusAtSelectedReport": "1발·700㎞ 이상 확인, 정확한 제원 분석 중",
+        "detectedCount": "1발",
+        "flightDistance": "700㎞ 이상",
+        "northKoreaDescription": "중거리전략미사일 훈련이라는 김여정 발표",
+        "capabilityVerification": "북한의 궤도 변경·AI 성능 주장 독립 확인 안 됨"
+      },
+      "whatChanged": "오전 회차의 초기 포착 보도 이후 합참이 수량과 비행거리를 공개했고, 저녁에는 김여정이 중거리전략미사일 훈련이었다는 북한 측 설명을 내놨습니다.",
+      "whyItMatters": "발사 사실, 관측 수치, 북한의 성능 주장을 분리해야 안보 상황의 실제 변화를 판단할 수 있습니다.",
+      "uncertainty": "한·미는 정확한 제원을 분석 중입니다. 북한의 AI 적용과 방어 회피 성능은 독립적으로 검증되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "北 김여정 \"오늘 중거리전략미사일 발사 훈련…저고도 비행궤도변경능력 보유\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813694",
+          "publishedAt": "2026-10-03T20:02:39+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217508_web.jpg",
+          "verificationNote": "본문 등록 20:02:39, 수정 20:11:53입니다. 김여정 발표의 성능 주장을 합참 확인과 구분합니다."
+        },
+        {
+          "name": "SBS",
+          "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742",
+          "publishedAt": "2026-10-03T10:00:56+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260912/202221669_1280.jpg",
+          "verificationNote": "본문과 게시 메타데이터를 확인했습니다. 발사 수량과 합참 분석 진행, 국가안보실 회의를 대조했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "北 김여정 \"오늘 중거리전략미사일 발사 훈련…저고도 비행궤도변경능력 보유\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813694",
+          "publishedAt": "2026-10-03T20:02:39+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217508_web.jpg",
+          "verificationNote": "본문 등록 20:02:39, 수정 20:11:53입니다. 김여정 발표의 성능 주장을 합참 확인과 구분합니다."
+        },
+        {
+          "name": "SBS",
+          "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742",
+          "publishedAt": "2026-10-03T10:00:56+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260912/202221669_1280.jpg",
+          "verificationNote": "본문과 게시 메타데이터를 확인했습니다. 발사 수량과 합참 분석 진행, 국가안보실 회의를 대조했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 94,
+        "interest": 70,
+        "domesticImpact": 98,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "오늘 저녁 새 공식 입장과 오전 이후 확인된 수치에 한정해 후속으로 선정했습니다.",
+      "timeline": {
+        "issueId": "north-korea-missile-2026-10-03",
+        "issueTitle": "북한 2026년 10월 3일 탄도미사일 발사",
+        "eventDate": "2026-10-03",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "오전 회차의 초기 포착 보도 이후 합참이 수량과 비행거리를 공개했고, 저녁에는 김여정이 중거리전략미사일 훈련이었다는 북한 측 설명을 내놨습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "north-korea-missile-2026-10-03",
+        "delta": "오전 회차의 초기 포착 보도 이후 합참이 수량과 비행거리를 공개했고, 저녁에는 김여정이 중거리전략미사일 훈련이었다는 북한 측 설명을 내놨습니다."
+      },
+      "score": 93.2,
+      "factsHash": "1c6f344fef2e863e3061ab88723d392920989f9b4ad7bb5965a96b54cfe24130"
+    },
+    {
+      "id": "welfare-application-reform-2026-10-03",
+      "topicKey": "welfare-application-reform-2026",
+      "category": "국내·정책",
+      "title": "복지급여 ‘신청 없이 지원’ 추진…오늘 즉시 자동 지급되는 것은 아닙니다",
+      "status": "확정",
+      "publishedAt": "2026-10-03T12:19:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "대통령의 정책 설명은 10월 3일 오전 X 게시물입니다. 실제 법률안 의결은 10월 1일이며 시행은 공포 후 3개월 조건입니다.",
+      "summary": [
+        "이재명 대통령이 3일 복지급여를 신청하지 못해 놓치는 일이 없도록 국가가 먼저 지원하겠다는 방향을 밝혔습니다. 근거가 되는 6개 법률 개정안은 오늘이 아니라 10월 1일 국회를 통과했습니다.",
+        "정부가 이미 가진 정보로 자격을 확인할 수 있으면 별도 신청을 한 것으로 보고 조사·지급하는 제도입니다. 아동수당·부모급여·첫만남이용권의 신청 절차를 없애고, 원하지 않는 경우에는 지급에서 제외할 수 있도록 했습니다.",
+        "기초연금과 장애인연금은 행정정보로 신청을 간주하는 범위를 넓힙니다. 예를 들어 장애인연금 수급자가 65세가 되면 기초연금을 별도 신청한 것으로 보도록 하는 방식이지, 모든 사람에게 조건 없이 지급한다는 뜻은 아닙니다.",
+        "위기가구는 담당 공무원이 직권으로 급여를 신청해 지원을 시작할 수 있는 범위도 확대됩니다. 신청 방법을 모르거나 신청하기 어려워 생기는 사각지대를 줄이려는 변화이며, 예외적 금융정보 조사에는 대상 제한과 관리 절차가 필요합니다.",
+        "보건복지부가 밝힌 시행 조건은 공포 후 3개월이 지난 날입니다. 국회 통과와 실제 지급 절차 변경 사이에는 공포·하위법령·전산시스템 정비가 남아 있어, 오늘부터 모든 급여가 자동으로 들어온다고 해석하면 안 됩니다."
+      ],
+      "emphasis": [
+        "6개 법률 개정안",
+        "10월 1일",
+        "모든 사람에게 조건 없이 지급한다는 뜻은 아닙니다",
+        "공포 후 3개월"
+      ],
+      "keyFacts": {
+        "billCount": "6개",
+        "assemblyPassDate": "2026-10-01",
+        "presidentStatementDate": "2026-10-03",
+        "effectiveRule": "공포 후 3개월 경과한 날",
+        "automaticScope": "아동수당·부모급여·첫만남이용권 등, 급여별 신청 간주 요건 적용",
+        "implementationNow": "법안 통과, 하위법령·시스템 정비 필요"
+      },
+      "whatChanged": "10월 1일 법안 통과 이후 대통령이 3일 국가의 선제 지원 방향을 재확인했습니다. 통과 사실을 오늘의 신규 의결로 바꾸지 않고 적용 범위와 시행 조건을 설명합니다.",
+      "whyItMatters": "지원 자격이 있어도 신청을 놓쳐 받지 못하는 문제를 줄일 수 있지만, 급여별 요건과 시행 시점을 구별해야 합니다.",
+      "uncertainty": "정확한 공포일과 최종 행정 적용일은 이번 확인 자료에서 특정하지 못했습니다. 모든 복지급여의 무조건 자동 지급을 의미하지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "이 대통령 \"복지급여, 신청하지 않아도 이제 국가가 먼저 챙긴다\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813501",
+          "publishedAt": "2026-10-03T12:19:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472586_web.jpg"
+        },
+        {
+          "name": "보건복지부",
+          "title": "위기 상황에 처한 가구,담당 공무원이 직접 직권신청해 신속 보호'복지급여 신청주의 대폭 개선'",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784001&pWise=mSub&pWiseSub=C5",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
+          "verificationNote": "정책브리핑에 실린 10월 1일 공식 보도자료입니다. 날짜만 확인되므로 시각은 비워 두며 시행 조건과 급여별 적용 범위를 확인했습니다."
+        },
+        {
+          "name": "뉴스1·파이낸셜뉴스",
+          "title": "위기가구 복지급여, 공무원이 직접 직권신청…'신청주의' 개선",
+          "url": "https://www.fnnews.com/news/202610011737467792",
+          "publishedAt": "2026-10-01T17:38:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "웹 열기로 본문 확인. 법률 통과와 공포 후 3개월 시행을 구분했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "이 대통령 \"복지급여, 신청하지 않아도 이제 국가가 먼저 챙긴다\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813501",
+          "publishedAt": "2026-10-03T12:19:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472586_web.jpg"
+        },
+        {
+          "name": "보건복지부",
+          "title": "위기 상황에 처한 가구,담당 공무원이 직접 직권신청해 신속 보호'복지급여 신청주의 대폭 개선'",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784001&pWise=mSub&pWiseSub=C5",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
+          "verificationNote": "정책브리핑에 실린 10월 1일 공식 보도자료입니다. 날짜만 확인되므로 시각은 비워 두며 시행 조건과 급여별 적용 범위를 확인했습니다."
+        },
+        {
+          "name": "뉴스1·파이낸셜뉴스",
+          "title": "위기가구 복지급여, 공무원이 직접 직권신청…'신청주의' 개선",
+          "url": "https://www.fnnews.com/news/202610011737467792",
+          "publishedAt": "2026-10-01T17:38:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "웹 열기로 본문 확인. 법률 통과와 공포 후 3개월 시행을 구분했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 87,
+        "interest": 76,
+        "domesticImpact": 98,
+        "reliability": 99,
+        "recency": 100
+      },
+      "scoreReason": "당일 정책 입장을 공식 법안 설명으로 검증했습니다. 제도의 생활 영향과 즉시 시행으로 오해할 위험을 고려했습니다.",
+      "timeline": {
+        "issueId": "korea-welfare-application-reform",
+        "issueTitle": "복지급여 신청주의 개선과 국가의 선제 지원",
+        "eventDate": "2026-10-03",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 1일 법안 통과 이후 대통령이 3일 국가의 선제 지원 방향을 재확인했습니다. 통과 사실을 오늘의 신규 의결로 바꾸지 않고 적용 범위와 시행 조건을 설명합니다."
+      },
+      "score": 92.85,
+      "factsHash": "5d74db6f1cf61a77024c011469d7dc159c45294628a5380f9c733f55863f0c0b"
+    },
+    {
+      "id": "uk-eu-rejoin-poll-2026-10-03",
+      "topicKey": "uk-eu-rejoin-poll-2026-09",
+      "category": "국제·경제",
+      "title": "영국 EU 재가입 찬성 49%…여론 변화와 정책 확정은 별개",
+      "status": "보도",
+      "publishedAt": "2026-10-03T16:02:46+09:00",
+      "eventAt": null,
+      "eventTimeNote": "실제 조사 기간은 영국 기준 9월 12~24일입니다. 가디언 게시 메타데이터는 10월 3일 05:00:52 UTC이며, 국내 인용 기사에 적힌 2일과 차이가 있어 원문 시각을 우선했습니다.",
+      "summary": [
+        "영국의 EU 재가입에 찬성한다는 응답이 49%, 반대는 28.5%로 집계됐다는 조사가 보도됐습니다. 재가입이 결정됐다는 소식이 아니라, 영국과 EU의 관계를 다시 검토하는 논의 속에 나온 여론 자료입니다.",
+        "메시나그룹은 9월 12~24일 1만1,461명을 조사했습니다. 국내 보도는 오늘 오후에 나왔지만 조사 자체는 지난달 이뤄졌으므로, 이를 오늘 실시한 투표나 국민투표 결과로 읽으면 안 됩니다.",
+        "EU와 현재 관계를 유지하면서 무역장벽을 낮추는 방안에도 48.2%가 찬성했습니다. 서로 다른 정책 선택지를 평가한 조사이므로 각 찬성 비율을 합산해 전체 유권자 지지율로 볼 수는 없습니다.",
+        "무역장벽과 시장 접근 방식은 영국과 유럽에서 사업하는 기업의 비용에 영향을 줄 수 있어 논의 방향이 중요합니다. 다만 이번 자료만으로 재가입 협상 착수나 새 국민투표 일정, 실제 관세 변경을 예상할 수는 없으며 정치권 내부에도 신중론이 보도됐습니다."
+      ],
+      "emphasis": [
+        "찬성한다는 응답이 49%, 반대는 28.5%",
+        "9월 12~24일",
+        "1만1,461명",
+        "재가입이 결정됐다는 소식이 아니라"
+      ],
+      "keyFacts": {
+        "surveyStart": "2026-09-12",
+        "surveyEnd": "2026-09-24",
+        "sample": "11461명",
+        "rejoinSupport": "49%",
+        "rejoinOpposition": "28.5%",
+        "reduceTradeBarriersSupport": "48.2%",
+        "policyStatus": "여론조사 보도, 재가입 확정 아님"
+      },
+      "whatChanged": "영국과 EU의 관계 재검토 논의에 대규모 여론조사 결과가 새로 보도됐습니다. 재가입 결정이나 협상 타결은 아닙니다.",
+      "whyItMatters": "유럽과의 시장 접근·교역 조건에 관한 정책 선택이 다시 논의되고 있으나 여론 지지와 실제 제도 변화의 거리를 봐야 합니다.",
+      "uncertainty": "국내 기사는 가디언의 동일 조사 보도를 인용합니다. 독립적인 두 조사로 확인된 결과가 아니며, 질문 설계·표본오차 전체 자료와 정책 시행 일정은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "英 총리 다시 꺼낸 EU 재가입론…찬성 49%·반대 28.5%",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813585",
+          "publishedAt": "2026-10-03T16:02:46+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0002201970_web.jpg",
+          "verificationNote": "가디언을 인용한 보도이며 독립적인 재조사가 아닙니다. 원문 게시일은 가디언 페이지에서 10월 3일로 확인돼 국내 기사에 적힌 2일을 답습하지 않았습니다."
+        },
+        {
+          "name": "가디언",
+          "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+          "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+          "publishedAt": "2026-10-03T14:00:52+09:00",
+          "kind": "major",
+          "language": "en",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://i.guim.co.uk/img/media/4dbc8fb2d4422331ec4389b62becb2d99cb02c84/891_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=335f3418c3375686c7d7d213109297dc",
+          "verificationNote": "원 보도입니다. 게시 메타데이터 05:00:52 UTC를 한국시간으로 환산했습니다. 뉴시스와 같은 조사이며 별도의 교차검증 표본은 아닙니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "英 총리 다시 꺼낸 EU 재가입론…찬성 49%·반대 28.5%",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813585",
+          "publishedAt": "2026-10-03T16:02:46+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0002201970_web.jpg",
+          "verificationNote": "가디언을 인용한 보도이며 독립적인 재조사가 아닙니다. 원문 게시일은 가디언 페이지에서 10월 3일로 확인돼 국내 기사에 적힌 2일을 답습하지 않았습니다."
+        },
+        {
+          "name": "가디언",
+          "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+          "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+          "publishedAt": "2026-10-03T14:00:52+09:00",
+          "kind": "major",
+          "language": "en",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://i.guim.co.uk/img/media/4dbc8fb2d4422331ec4389b62becb2d99cb02c84/891_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=335f3418c3375686c7d7d213109297dc",
+          "verificationNote": "원 보도입니다. 게시 메타데이터 05:00:52 UTC를 한국시간으로 환산했습니다. 뉴시스와 같은 조사이며 별도의 교차검증 표본은 아닙니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 79,
+        "interest": 75,
+        "domesticImpact": 68,
+        "reliability": 85,
+        "recency": 100
+      },
+      "scoreReason": "오후 국제·교역 후보로 선정했습니다. 조사와 정부 결정을 구분하고 동일 원 보도에 의존하는 점을 신뢰도에 반영했습니다.",
+      "timeline": {
+        "issueId": "uk-eu-relationship-rejoin-poll",
+        "issueTitle": "영국·EU 관계 재검토와 재가입 여론",
+        "eventDate": "2026-09-12",
+        "eventEndDate": "2026-09-24",
+        "eventTimezone": "Europe/London",
+        "stage": "분석",
+        "change": "영국과 EU의 관계 재검토 논의에 대규모 여론조사 결과가 새로 보도됐습니다. 재가입 결정이나 협상 타결은 아닙니다."
+      },
+      "score": 86.3,
+      "factsHash": "b7922d0f808deb3a3edfe40235da2f7e532fd6dd858eb8ddb1372b454d944d7f"
+    },
+    {
+      "id": "qwen-bias-evaluation-2026-10-03",
+      "topicKey": "qwen-hirundo-bias-evaluation",
+      "category": "기술·IT·AI",
+      "title": "Qwen 편향 줄였다는 Hirundo…500문항 자체 평가의 범위를 봐야",
+      "status": "분석",
+      "publishedAt": "2026-10-03T09:12:22+09:00",
+      "eventAt": null,
+      "eventTimeNote": "연구를 수행한 정확한 날짜는 확인되지 않았습니다. CBS는 미국 동부시간 10월 2일 보도했고, 국내 기사는 3일 09:12에 등록됐습니다. 연구일을 기사일로 대신하지 않습니다.",
+      "summary": [
+        "AI 보안업체 Hirundo가 Qwen의 정치적 편향과 검열 반응을 줄였다는 평가가 국내에 보도됐습니다. 업체는 500개 질문 시험에서 문제 반응 비율을 89.8%에서 2.8%로 낮췄다고 설명했습니다.",
+        "한국어 보도는 CBS의 10월 2일 현지 보도를 인용했고, 제작업체의 공개 모델 카드에서도 같은 수치를 확인했습니다. 카드에는 Qwen3.6 기반 모델을 추론 기능을 끈 조건에서 평가했다고 적혀 있습니다.",
+        "핵심은 모델이 가진 특정 반응을 줄이도록 수정한 뒤 같은 평가 기준으로 비교했다는 것입니다. 다만 500문항에서 나온 비율은 해당 시험의 결과이며, 모든 질문에서의 편향이나 전체 모델 제품군의 안전성을 나타내는 수치는 아닙니다.",
+        "기업이 공개 모델을 도입할 때에는 성능과 비용 외에 실제 업무 질문에서의 답변 성향도 살펴야 한다는 의미로 읽을 수 있습니다. 이번 수치는 제작업체의 자체 평가로, 독립 재현이나 한국어 업무에서의 효과까지 검증됐다고 말할 수는 없습니다."
+      ],
+      "emphasis": [
+        "500개 질문",
+        "89.8%에서 2.8%",
+        "추론 기능을 끈 조건",
+        "제작업체의 자체 평가"
+      ],
+      "keyFacts": {
+        "benchmark": "CCPC-500",
+        "promptCount": "500개",
+        "topicCount": "15개",
+        "baseRate": "89.8%",
+        "modifiedRate": "2.8%",
+        "mode": "Thinking-OFF",
+        "attribution": "Hirundo 자체 평가",
+        "independentReplication": "이번 확인 범위에서 미확인"
+      },
+      "whatChanged": "오전 9시 기준 이후 국내에 소개된 평가를 원 제작업체의 모델 카드와 대조했습니다. 새 모델이 오늘 처음 출시됐다는 주장은 하지 않습니다.",
+      "whyItMatters": "AI 모델의 정답률·비용과 별도로 특정 주제의 응답 성향을 검증할 필요성을 보여주는 사례입니다.",
+      "uncertainty": "업체가 자신의 수정 모델을 평가한 결과입니다. 독립 재현, 전체 버전·모든 언어의 일반화, 실제 서비스 효과는 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "알리바바 인공지능 치엔원, 중국 우호 서사와 검열 내장",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813399",
+          "publishedAt": "2026-10-03T09:12:22+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002254994_web.jpg",
+          "verificationNote": "CBS를 인용한 국내 보도입니다. 숫자는 원 연구업체의 모델 카드와 대조했으며 독립적인 성능 검증으로 간주하지 않습니다."
+        },
+        {
+          "name": "Hirundo·Hugging Face",
+          "title": "Qwen3.6-35B-A3B-Westernized 모델 카드",
+          "url": "https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/hirundo-io/Qwen3.6-35B-A3B-Westernized.png",
+          "verificationNote": "제작업체가 공개한 평가 설명입니다. Thinking-OFF 조건과 CCPC-500 수치, 평가 범위 한계를 확인했습니다. 정확한 최초 게시 시각은 미확인입니다."
+        },
+        {
+          "name": "CBS News",
+          "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+          "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+          "publishedAt": "2026-10-03T02:08:00+09:00",
+          "kind": "major",
+          "language": "en",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
+          "verificationNote": "10월 2일 13:08 EDT의 원 보도. 국내 기사의 원 출처를 확인했으며 독립된 두 연구인 것처럼 취급하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "알리바바 인공지능 치엔원, 중국 우호 서사와 검열 내장",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813399",
+          "publishedAt": "2026-10-03T09:12:22+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002254994_web.jpg",
+          "verificationNote": "CBS를 인용한 국내 보도입니다. 숫자는 원 연구업체의 모델 카드와 대조했으며 독립적인 성능 검증으로 간주하지 않습니다."
+        },
+        {
+          "name": "Hirundo·Hugging Face",
+          "title": "Qwen3.6-35B-A3B-Westernized 모델 카드",
+          "url": "https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/hirundo-io/Qwen3.6-35B-A3B-Westernized.png",
+          "verificationNote": "제작업체가 공개한 평가 설명입니다. Thinking-OFF 조건과 CCPC-500 수치, 평가 범위 한계를 확인했습니다. 정확한 최초 게시 시각은 미확인입니다."
+        },
+        {
+          "name": "CBS News",
+          "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+          "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+          "publishedAt": "2026-10-03T02:08:00+09:00",
+          "kind": "major",
+          "language": "en",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
+          "verificationNote": "10월 2일 13:08 EDT의 원 보도. 국내 기사의 원 출처를 확인했으며 독립된 두 연구인 것처럼 취급하지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 79,
+        "interest": 99,
+        "domesticImpact": 78,
+        "reliability": 80,
+        "recency": 85
+      },
+      "scoreReason": "AI 관심 분야로 선정했으며 국내 보도와 제작업체 자료를 대조했습니다. 자체 평가와 오전 기사라는 점 때문에 저녁의 새 확정 결과보다 낮게 배점했습니다.",
+      "timeline": {
+        "issueId": "qwen-hirundo-bias-evaluation",
+        "issueTitle": "Qwen의 편향 완화와 Hirundo 평가",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "분석",
+        "change": "오전 9시 기준 이후 국내에 소개된 평가를 원 제작업체의 모델 카드와 대조했습니다. 새 모델이 오늘 처음 출시됐다는 주장은 하지 않습니다."
+      },
+      "score": 84.4,
+      "factsHash": "ab83716c5d3c0bdb288e075e28a5c4c1ab147d59c46d021bdf94a699d197b6f3"
+    },
+    {
+      "id": "jeju-animation-webtoon-festival-2026",
+      "topicKey": "jeju-animation-webtoon-festival-2026",
+      "category": "웹툰 산업",
+      "title": "제주, 웹툰 작가 10명 참여 콘텐츠 축제…10월 10일 개최 예정",
+      "status": "예정",
+      "publishedAt": "2026-10-02T12:14:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "행사는 한국시간 10월 10일 개최 예정입니다. 이번 확인에서 정확한 시작 시각은 특정하지 않아 eventAt은 비워 두며 참가 접수 마감은 10월 8일 18시입니다.",
+      "summary": [
+        "제주콘텐츠진흥원이 10월 10일 서귀포 아시아CGI애니메이션센터에서 콘텐츠 축제를 열 예정입니다. 웹툰 작가 10명과 애니메이션 기업 8개사의 작품을 전시하고 제작 체험을 함께 운영한다고 안내했습니다.",
+        "오늘 새 대형 발표는 확인되지 않아 10월 2일 나온 지역 웹툰 산업의 중요 업데이트를 골랐습니다. 플랫폼 매출이나 해외 계약 소식과 달리, 지역 창작자가 독자를 직접 만나는 유통·홍보 접점에 관한 내용입니다.",
+        "웹툰과 게임 제작 원데이클래스, 더빙 등 체험 프로그램도 예고됐습니다. 주요 체험과 수업은 10월 8일 오후 6시까지 선착순 사전등록을 받는다는 안내여서, 참가하려면 공식 공지에서 대상과 남은 자리를 확인해야 합니다.",
+        "지역 작가의 작품 노출과 창작 교육을 함께 묶는다는 점이 산업적으로 의미 있습니다. 다만 아직 열리기 전 행사이므로 참가자 수나 판매·계약 성과가 나온 것으로 평가하지는 않습니다."
+      ],
+      "emphasis": [
+        "10월 10일",
+        "웹툰 작가 10명과 애니메이션 기업 8개사",
+        "10월 2일 나온",
+        "10월 8일 오후 6시까지"
+      ],
+      "keyFacts": {
+        "festivalDate": "2026-10-10",
+        "webtoonArtists": "10명",
+        "animationCompanies": "8개사",
+        "venue": "서귀포 아시아CGI애니메이션센터",
+        "registrationDeadline": "2026-10-08 18:00 KST",
+        "status": "개최 예정, 성과 미집계"
+      },
+      "whatChanged": "이전 회차에 다루지 않은 지역 웹툰 작가의 작품 전시·체험 행사와 참가 안내를 확인했습니다. 10월 2일 보도를 오늘 발표로 포장하지 않습니다.",
+      "whyItMatters": "지역 웹툰 작가의 독자 접점과 콘텐츠 제작 교육을 연결하는 행사로, 창작 생태계의 오프라인 기반을 살펴볼 수 있습니다.",
+      "uncertainty": "행사 개최와 프로그램은 예정 사항입니다. 잔여 등록 인원·참가비·매출 성과는 이번 자료에서 확인하지 않았습니다.",
+      "sources": [
+        {
+          "name": "웹툰가이드",
+          "title": "제주 콘텐츠 총출동, ‘2026 제주애니아일랜드 페스티벌’ 개최",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26264",
+          "publishedAt": "2026-10-02T12:14:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "verificationNote": "웹 열기로 본문·게시 시각 확인. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않았습니다."
+        },
+        {
+          "name": "제주 콘텐츠코리아랩",
+          "title": "2026 제주애니아일랜드 페스티벌이 찾아옵니다! 제주의 애니메이션·웹툰·캐릭터가 한자리에!",
+          "url": "https://www.jejuckl.kr/community/notice.htm?act=view&seq=806",
+          "publishedAt": "2026-10-02T16:24:56+09:00",
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://www.jejuckl.kr/pub/site/jejunet/images/ogimage-jeju.png"
+        },
+        {
+          "name": "제주콘텐츠진흥원",
+          "title": "2026 제주애니아일랜드 페스티벌 행사정보 안내",
+          "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&category=2&seq=2073843",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:23+09:00",
+          "imageUrl": "https://www.ofjeju.kr/pub/site/jejunet/images/ogimage-jeju.png",
+          "verificationNote": "10월 2일 게시를 확인했습니다. 시스템의 00:00:00은 날짜 입력의 기본값일 수 있어 정확한 게시 시각으로 사용하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "웹툰가이드",
+          "title": "제주 콘텐츠 총출동, ‘2026 제주애니아일랜드 페스티벌’ 개최",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26264",
+          "publishedAt": "2026-10-02T12:14:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "verificationNote": "웹 열기로 본문·게시 시각 확인. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않았습니다."
+        },
+        {
+          "name": "제주 콘텐츠코리아랩",
+          "title": "2026 제주애니아일랜드 페스티벌이 찾아옵니다! 제주의 애니메이션·웹툰·캐릭터가 한자리에!",
+          "url": "https://www.jejuckl.kr/community/notice.htm?act=view&seq=806",
+          "publishedAt": "2026-10-02T16:24:56+09:00",
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:22+09:00",
+          "imageUrl": "https://www.jejuckl.kr/pub/site/jejunet/images/ogimage-jeju.png"
+        },
+        {
+          "name": "제주콘텐츠진흥원",
+          "title": "2026 제주애니아일랜드 페스티벌 행사정보 안내",
+          "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&category=2&seq=2073843",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:23+09:00",
+          "imageUrl": "https://www.ofjeju.kr/pub/site/jejunet/images/ogimage-jeju.png",
+          "verificationNote": "10월 2일 게시를 확인했습니다. 시스템의 00:00:00은 날짜 입력의 기본값일 수 있어 정확한 게시 시각으로 사용하지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 64,
+        "interest": 98,
+        "domesticImpact": 71,
+        "reliability": 94,
+        "recency": 25
+      },
+      "scoreReason": "필수 웹툰 분야에서 기존 플랫폼/IP 보도 반복을 제외하고 72시간 이내의 공식 행사 안내를 선정했습니다.",
+      "timeline": {
+        "issueId": "jeju-animation-webtoon-festival-2026",
+        "issueTitle": "2026 제주애니아일랜드 페스티벌과 지역 웹툰 창작자",
+        "eventDate": "2026-10-10",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "예정",
+        "change": "이전 회차에 다루지 않은 지역 웹툰 작가의 작품 전시·체험 행사와 참가 안내를 확인했습니다. 10월 2일 보도를 오늘 발표로 포장하지 않습니다."
+      },
+      "fallbackNote": "당일 새 대형 웹툰 산업 발표를 확인하지 못해 최근 72시간 내인 10월 2일의 행사·창작자 참여 안내를 선정했습니다.",
+      "score": 57.2,
+      "factsHash": "43a3676f2ac782454e10cef911fc8951bdedb9163f564fdda9cbab971815b066"
+    }
+  ],
+  "keywords": [
+    "금융권 유출 확대",
+    "예가람 4만 명 추정",
+    "모집인 146명",
+    "미사일 후속 분석",
+    "복지 신청주의 개선",
+    "EU 재가입 여론",
+    "Qwen 자체 평가",
+    "지역 웹툰 창작자",
+    "제주 콘텐츠 축제",
+    "주말 후속 공지"
+  ],
+  "events": [
+    {
+      "date": "2026-10-04",
+      "at": null,
+      "timeNote": "한국시간 10월 4일 수시 관찰 · 별도 발표가 예정된 것은 아닙니다.",
+      "title": "금융권 추가 피해·보호 조치 공지",
+      "detail": "외부 노출 시스템 점검이 진행되는 가운데 금융사·당국의 추가 피해 범위, 개별 통지와 소비자 보호 공지가 나오는지 확인합니다. 이미 열린 10월 2일 회의를 내일 일정으로 제시하는 것은 아닙니다.",
+      "source": {
+        "name": "금융위원회",
+        "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+        "url": "https://www.fsc.go.kr/no010101/87869",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "ko",
+        "verifiedAt": "2026-10-03T21:13:21+09:00",
+        "verificationNote": "10월 2일 공식 자료를 이번 실행에서 다시 확인했습니다. 전날 15시 회의는 배경이며 새로운 회의로 서술하지 않습니다. 정확한 게시 시각은 미표시입니다."
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "at": null,
+      "timeNote": "한국시간 10월 4일 수시 관찰 · 추가 발표 시각은 미정입니다.",
+      "title": "북한 미사일 제원 분석과 공식 대응",
+      "detail": "합참이 정밀 분석 중이라고 밝힌 미사일의 제원과 북한의 성능 주장에 대한 추가 공식 평가를 확인할 변수입니다. 새로운 발사나 발표가 예정됐다는 뜻은 아닙니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "北 김여정 \"오늘 중거리전략미사일 발사 훈련…저고도 비행궤도변경능력 보유\"",
+        "url": "https://www.newsis.com/view/NISX20261003_0003813694",
+        "publishedAt": "2026-10-03T20:02:39+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-03T21:13:21+09:00",
+        "imageUrl": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217508_web.jpg",
+        "verificationNote": "본문 등록 20:02:39, 수정 20:11:53입니다. 김여정 발표의 성능 주장을 합참 확인과 구분합니다."
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "at": null,
+      "timeNote": "한국시간 10월 4일 밤 · 비 시작의 정확한 시각은 지역별로 다릅니다.",
+      "title": "수도권 등 밤부터 비…연휴 이동 변수",
+      "detail": "기상청 예보에 따르면 4일 밤 수도권·강원북부내륙·충남·전북북서부에 비가 시작될 수 있습니다. 연휴 이동 계획은 지역별 최신 예보를 확인하고, 낮과 밤 약 15도 일교차도 살펴보실 필요가 있습니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "중부·경북내륙 일교차 15도…낮엔 최고 27도[내일날씨]",
+        "url": "https://www.newsis.com/view/NISX20261003_0003813634",
+        "publishedAt": "2026-10-03T17:24:17+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-03T21:13:23+09:00",
+        "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002255178_web.jpg",
+        "verificationNote": "기상청의 10월 4일 예보 인용 기사입니다. 수정 18:14:24까지 기준 시각 이전입니다."
+      }
+    }
+  ]
+}

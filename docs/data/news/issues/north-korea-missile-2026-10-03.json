@@ -4,6 +4,80 @@
   "title": "북한 2026년 10월 3일 탄도미사일 발사",
   "entries": [
     {
+      "id": "2026-10-03-pm/north-korea-missile-update-2026-10-03",
+      "editionId": "2026-10-03-pm",
+      "storyId": "north-korea-missile-update-2026-10-03",
+      "editionDate": "2026-10-03",
+      "edition": "pm",
+      "coveredAt": "2026-10-03T21:19:55+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T20:02:39+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-03",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "발사 포착은 3일 06:30경입니다. 김여정 발표는 같은 날로 확인되나 발표 자체의 정확한 시각은 확인되지 않아 eventAt은 비워 둡니다.",
+      "stage": "후속",
+      "change": "오전 회차의 초기 포착 보도 이후 합참이 수량과 비행거리를 공개했고, 저녁에는 김여정이 중거리전략미사일 훈련이었다는 북한 측 설명을 내놨습니다.",
+      "title": "북한 “중거리전략미사일 훈련”…합참은 1발·700㎞ 이상 확인",
+      "category": "국내·안보",
+      "status": "보도",
+      "summary": [
+        "오전에는 북한 미사일의 발사 포착을 전했지만, 이후 합참이 1발·700㎞ 이상 비행을 확인했습니다. 저녁에는 김여정이 중거리전략미사일 훈련이었다는 발표를 내놨습니다.",
+        "발사는 10월 3일 오전 6시 30분께 원산 일대에서 동해 방향으로 이뤄졌습니다. 북한은 김정은이 훈련을 참관했으며 저고도 궤도 변경과 AI 기술을 적용했다고 주장했습니다.",
+        "다만 합참은 미사일의 정확한 제원을 한·미가 정밀 분석 중이라고 밝혔습니다. 북한의 무기 분류와 성능 설명은 독립적으로 확인된 군사 평가가 아니며, 탐지된 비행거리만으로 최대 사거리를 확정할 수도 없습니다.",
+        "이번 후속에서 중요한 변화는 발사 수량·비행거리와 북한의 공식 설명이 더해졌다는 점입니다. 실제 위협 수준을 판단하려면 군 당국의 제원 분석과 대응 발표를 더 확인해야 하며, 북한이 내세운 방어 회피 성능을 검증된 사실로 받아들이지는 않아야 합니다."
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "direction": "동해상",
+        "weapon": "탄도미사일",
+        "detailStatusAtSelectedReport": "1발·700㎞ 이상 확인, 정확한 제원 분석 중",
+        "detectedCount": "1발",
+        "flightDistance": "700㎞ 이상",
+        "northKoreaDescription": "중거리전략미사일 훈련이라는 김여정 발표",
+        "capabilityVerification": "북한의 궤도 변경·AI 성능 주장 독립 확인 안 됨"
+      },
+      "uncertainty": "한·미는 정확한 제원을 분석 중입니다. 북한의 AI 적용과 방어 회피 성능은 독립적으로 검증되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "北 김여정 \"오늘 중거리전략미사일 발사 훈련…저고도 비행궤도변경능력 보유\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813694",
+          "publishedAt": "2026-10-03T20:02:39+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217508_web.jpg",
+          "verificationNote": "본문 등록 20:02:39, 수정 20:11:53입니다. 김여정 발표의 성능 주장을 합참 확인과 구분합니다."
+        },
+        {
+          "name": "SBS",
+          "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742",
+          "publishedAt": "2026-10-03T10:00:56+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260912/202221669_1280.jpg",
+          "verificationNote": "본문과 게시 메타데이터를 확인했습니다. 발사 수량과 합참 분석 진행, 국가안보실 회의를 대조했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/pm.json",
+      "previous": {
+        "editionId": "2026-10-03-am",
+        "storyId": "north-korea-missile-2026-10-03"
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "north-korea-missile-2026-10-03",
+        "delta": "오전 회차의 초기 포착 보도 이후 합참이 수량과 비행거리를 공개했고, 저녁에는 김여정이 중거리전략미사일 훈련이었다는 북한 측 설명을 내놨습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-10-03-am/north-korea-missile-2026-10-03",
       "editionId": "2026-10-03-am",
       "storyId": "north-korea-missile-2026-10-03",
@@ -67,5 +141,5 @@
       "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-03T12:20:00+09:00"
+  "updatedAt": "2026-10-03T21:19:55+09:00"
 }

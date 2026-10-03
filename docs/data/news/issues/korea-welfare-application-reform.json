@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-welfare-application-reform",
+  "title": "복지급여 신청주의 개선과 국가의 선제 지원",
+  "entries": [
+    {
+      "id": "2026-10-03-pm/welfare-application-reform-2026-10-03",
+      "editionId": "2026-10-03-pm",
+      "storyId": "welfare-application-reform-2026-10-03",
+      "editionDate": "2026-10-03",
+      "edition": "pm",
+      "coveredAt": "2026-10-03T21:19:55+09:00",
+      "coveredOn": "2026-10-03",
+      "publishedAt": "2026-10-03T12:19:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-03",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "대통령의 정책 설명은 10월 3일 오전 X 게시물입니다. 실제 법률안 의결은 10월 1일이며 시행은 공포 후 3개월 조건입니다.",
+      "stage": "발표",
+      "change": "10월 1일 법안 통과 이후 대통령이 3일 국가의 선제 지원 방향을 재확인했습니다. 통과 사실을 오늘의 신규 의결로 바꾸지 않고 적용 범위와 시행 조건을 설명합니다.",
+      "title": "복지급여 ‘신청 없이 지원’ 추진…오늘 즉시 자동 지급되는 것은 아닙니다",
+      "category": "국내·정책",
+      "status": "확정",
+      "summary": [
+        "이재명 대통령이 3일 복지급여를 신청하지 못해 놓치는 일이 없도록 국가가 먼저 지원하겠다는 방향을 밝혔습니다. 근거가 되는 6개 법률 개정안은 오늘이 아니라 10월 1일 국회를 통과했습니다.",
+        "정부가 이미 가진 정보로 자격을 확인할 수 있으면 별도 신청을 한 것으로 보고 조사·지급하는 제도입니다. 아동수당·부모급여·첫만남이용권의 신청 절차를 없애고, 원하지 않는 경우에는 지급에서 제외할 수 있도록 했습니다.",
+        "기초연금과 장애인연금은 행정정보로 신청을 간주하는 범위를 넓힙니다. 예를 들어 장애인연금 수급자가 65세가 되면 기초연금을 별도 신청한 것으로 보도록 하는 방식이지, 모든 사람에게 조건 없이 지급한다는 뜻은 아닙니다.",
+        "위기가구는 담당 공무원이 직권으로 급여를 신청해 지원을 시작할 수 있는 범위도 확대됩니다. 신청 방법을 모르거나 신청하기 어려워 생기는 사각지대를 줄이려는 변화이며, 예외적 금융정보 조사에는 대상 제한과 관리 절차가 필요합니다.",
+        "보건복지부가 밝힌 시행 조건은 공포 후 3개월이 지난 날입니다. 국회 통과와 실제 지급 절차 변경 사이에는 공포·하위법령·전산시스템 정비가 남아 있어, 오늘부터 모든 급여가 자동으로 들어온다고 해석하면 안 됩니다."
+      ],
+      "keyFacts": {
+        "billCount": "6개",
+        "assemblyPassDate": "2026-10-01",
+        "presidentStatementDate": "2026-10-03",
+        "effectiveRule": "공포 후 3개월 경과한 날",
+        "automaticScope": "아동수당·부모급여·첫만남이용권 등, 급여별 신청 간주 요건 적용",
+        "implementationNow": "법안 통과, 하위법령·시스템 정비 필요"
+      },
+      "uncertainty": "정확한 공포일과 최종 행정 적용일은 이번 확인 자료에서 특정하지 못했습니다. 모든 복지급여의 무조건 자동 지급을 의미하지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "이 대통령 \"복지급여, 신청하지 않아도 이제 국가가 먼저 챙긴다\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813501",
+          "publishedAt": "2026-10-03T12:19:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472586_web.jpg"
+        },
+        {
+          "name": "보건복지부",
+          "title": "위기 상황에 처한 가구,담당 공무원이 직접 직권신청해 신속 보호'복지급여 신청주의 대폭 개선'",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784001&pWise=mSub&pWiseSub=C5",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "imageUrl": "https://www.korea.kr/images/event/korea_logo_2024.jpg",
+          "verificationNote": "정책브리핑에 실린 10월 1일 공식 보도자료입니다. 날짜만 확인되므로 시각은 비워 두며 시행 조건과 급여별 적용 범위를 확인했습니다."
+        },
+        {
+          "name": "뉴스1·파이낸셜뉴스",
+          "title": "위기가구 복지급여, 공무원이 직접 직권신청…'신청주의' 개선",
+          "url": "https://www.fnnews.com/news/202610011737467792",
+          "publishedAt": "2026-10-01T17:38:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-03T21:13:21+09:00",
+          "verificationNote": "웹 열기로 본문 확인. 법률 통과와 공포 후 3개월 시행을 구분했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-03/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-03T21:19:55+09:00"
+}
