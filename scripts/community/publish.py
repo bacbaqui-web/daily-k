@@ -15,7 +15,7 @@ def validate(v):
  if not v.get('test',False):assert cutoff.isoformat()==v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00')
  assert stamp(v['generatedAt'])>=cutoff
  assert isinstance(v['overview'],list) and 1<=len(v['overview'])<=4 and all(isinstance(p,str) and p.strip() for p in v['overview'])
- assert 3<=len(v['stories'])<=10,'3..10 verified stories required'
+ assert 3<=len(v['stories'])<=20,'3..20 verified stories required'
  seen=set()
  for s in v['stories']:
   assert s['id'] not in seen;seen.add(s['id'])
