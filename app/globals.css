@@ -136,3 +136,19 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .community{--news-accent:var(--tab-humor)}.community-stories{--source-color:var(--tab-humor)}.community-image{max-width:100%;height:auto;object-fit:contain;border-radius:6px}.community-stories .community-image{width:110px;max-height:90px;object-fit:cover;margin-left:12px}.community .news-reader-body>.community-image{display:block;max-height:420px;margin:18px auto}.community .news-related .community-image{width:100%;max-height:160px;object-fit:cover}
 
 .community-reader{--news-accent:var(--primary)}
+
+.community-reader .community-media{margin:16px 0}
+.community-reader .community-media .community-image{max-height:420px;object-fit:contain}
+.community-reader .community-video{max-height:65dvh;background:#101412}
+.community-popularity{display:flex;align-items:center;gap:10px;margin:22px 0;min-width:0;font-size:12px}
+.community-source-total{flex:none;white-space:nowrap;color:var(--muted-foreground)}
+.community-source-total strong{color:var(--foreground);margin-left:3px}
+.community-source-bar{display:flex;flex:1;min-width:0;height:28px;overflow-x:auto;overflow-y:hidden;border-radius:5px}
+.community-source-bar>span{display:flex;align-items:center;justify-content:center;min-width:64px;overflow:hidden;border-right:1px solid #ffffff35;color:#fff}
+.community-source-bar>span:last-child{border-right:0}
+.community-source-bar>span>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0 5px;font-size:11px}
+.community-source-unknown{color:var(--muted-foreground)}
+.community-notes{margin:24px 0 12px;border-top:1px solid var(--border);padding-top:14px}
+.community-notes summary{cursor:pointer;color:var(--muted-foreground);font-size:13px}
+.community-notes[open] summary{color:var(--foreground)}
+.community-notes p{font-size:13px;line-height:1.8}

@@ -23,7 +23,16 @@ def validate(v):
   for k in ('title','selectionReason','popularityEvidence','verificationNote'):assert isinstance(s[k],str) and s[k].strip(),k
   assert 1<=len(s['summary'])<=5 and all(isinstance(p,str) and p.strip() for p in s['summary'])
   assert s['sources']
-  if s.get('imageUrl'):url(s['imageUrl'])
+  for field in ('imageUrl','videoUrl','videoPosterUrl'):
+   if s.get(field):url(s[field])
+  if 'sourceBreakdown' in s:
+   assert isinstance(s['sourceBreakdown'],list) and s['sourceBreakdown']
+   names=set()
+   for item in s['sourceBreakdown']:
+    assert isinstance(item['name'],str) and item['name'].strip() and item['name'] not in names
+    names.add(item['name'])
+    assert type(item['count']) is int and item['count']>0
+   assert stamp(s['sourceStatsVerifiedAt']).tzinfo is not None
   for l in s['sources']:
    url(l['url']);assert l['name'].strip() and l['title'].strip()
    assert stamp(l['verifiedAt'])<=stamp(v['generatedAt'])

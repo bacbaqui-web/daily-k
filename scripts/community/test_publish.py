@@ -14,4 +14,13 @@ class ValidationTests(unittest.TestCase):
  def test_reject_unsubstantiated_popularity(self):
   v=self.sample();v['stories'][0]['popularityEvidence']=''
   with self.assertRaises(AssertionError):validate(v)
+ def test_valid_media_and_source_graph(self):
+  v=self.sample();s=v['stories'][0];s.update(videoUrl='https://example.com/clip.mp4',videoPosterUrl='https://example.com/poster.jpg',sourceBreakdown=[{'name':'루리웹','count':2}],sourceStatsVerifiedAt='2026-10-03T10:00:00+09:00');validate(v)
+ def test_reject_unsafe_video(self):
+  v=self.sample();v['stories'][0]['videoUrl']='javascript:alert(1)'
+  with self.assertRaises(AssertionError):validate(v)
+ def test_reject_invalid_source_counts(self):
+  for count in (0,-1,True,1.5):
+   v=self.sample();v['stories'][0].update(sourceBreakdown=[{'name':'루리웹','count':count}],sourceStatsVerifiedAt='2026-10-03T10:00:00+09:00')
+   with self.assertRaises(AssertionError):validate(v)
 if __name__=='__main__':unittest.main()
