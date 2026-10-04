@@ -144,7 +144,7 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .community-source-total{flex:none;white-space:nowrap;color:var(--muted-foreground)}
 .community-source-total strong{color:var(--foreground);margin-left:3px}
 .community-source-bar{display:flex;flex:1;min-width:0;height:28px;overflow-x:auto;overflow-y:hidden;border-radius:5px}
-.community-source-bar>span{display:flex;align-items:center;justify-content:center;min-width:64px;overflow:hidden;border-right:1px solid #ffffff35;color:#fff}
+.community-source-bar>span{display:flex;align-items:center;justify-content:center;min-width:0;overflow:hidden;border-right:1px solid #ffffff35;color:#fff}
 .community-source-bar>span:last-child{border-right:0}
 .community-source-bar>span>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0 5px;font-size:11px}
 .community-source-unknown{color:var(--muted-foreground)}
