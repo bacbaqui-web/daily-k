@@ -1,10 +1,137 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T09:20:00+09:00",
-  "editionCount": 40,
-  "storyCount": 325,
+  "updatedAt": "2026-10-04T21:13:51+09:00",
+  "editionCount": 41,
+  "storyCount": 331,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "usdkrw-oil-export-flows",
+      "title": "유가와 수출기업 수급에 따른 원·달러 환율",
+      "categories": [
+        "환율",
+        "환율·금리"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
+      "eventCount": 8,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-10-04",
+      "latest": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "ibk-usdkrw-outlook-2026-10",
+        "title": "IBK 인용 보도 “연말 환율 1400원 전후”…오늘의 시세는 아닙니다",
+        "stage": "분석",
+        "change": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
+        "archive": false
+      },
+      "path": "usdkrw-oil-export-flows.json"
+    },
+    {
+      "id": "us-tariff-investment-pressure",
+      "title": "미국의 관세와 생산시설 투자 압박",
+      "categories": [
+        "국제·통상"
+      ],
+      "firstCoveredAt": "2026-10-04T21:13:51+09:00",
+      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-04",
+      "lastCoveredDate": "2026-10-04",
+      "latest": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "trump-factory-tariff-pressure-2026-10-03",
+        "title": "트럼프, 미국 공장 투자 압박하며 ‘최대 300% 관세’ 언급",
+        "stage": "보도",
+        "change": "미국 현지 3일 유세에서 외국 기업의 공장 투자와 150~300% 관세를 연결하는 발언이 나왔습니다. 개별 한국 에너지사업 합의나 세율 시행 확인은 아닙니다.",
+        "archive": false
+      },
+      "path": "us-tariff-investment-pressure.json"
+    },
+    {
+      "id": "seungju-community-webtoon",
+      "title": "순천 승주읍 주민 웹툰 교육과 선암사 콘텐츠",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-04T21:13:51+09:00",
+      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-04",
+      "lastCoveredDate": "2026-10-04",
+      "latest": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "seungju-webtoon-storybook-2026",
+        "title": "순천 주민 약 20명, 선암사 웹툰 책자 제작…창작 교육의 지역 활용",
+        "stage": "보도",
+        "change": "미수록된 주민 웹툰 제작·발간 사례를 72시간 이내의 보도에서 선정했습니다. 오늘 신규 발표나 상업적 성공으로 표현하지 않습니다.",
+        "archive": false
+      },
+      "path": "seungju-community-webtoon.json"
+    },
+    {
+      "id": "korea-startup-funding",
+      "title": "국내 스타트업 투자 규모와 분야별 분포",
+      "categories": [
+        "경제·AI·반도체"
+      ],
+      "firstCoveredAt": "2026-10-04T21:13:51+09:00",
+      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-04",
+      "lastCoveredDate": "2026-10-04",
+      "latest": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "startup-funding-q3-2026",
+        "title": "스타트업 투자 누적 10.2조원…AI 쏠림과 대형 거래가 만든 회복",
+        "stage": "분석",
+        "change": "미수록된 3분기 투자 집계를 오늘 오후 기사와 원자료로 점검했습니다. 오늘 새로 발표되거나 집행된 투자액으로 표현하지 않습니다.",
+        "archive": false
+      },
+      "path": "korea-startup-funding.json"
+    },
+    {
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+      "categories": [
+        "금융·보안"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
+      "eventCount": 4,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-04",
+      "latest": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "bank-emergency-response-2026-10-04",
+        "title": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시",
+        "stage": "후속",
+        "change": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
+        "archive": false
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json"
+    },
+    {
+      "id": "cme-gpu-compute-futures",
+      "title": "CME GPU 연산능력 선물 도입",
+      "categories": [
+        "기술·AI·금융"
+      ],
+      "firstCoveredAt": "2026-10-04T21:13:51+09:00",
+      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-04",
+      "lastCoveredDate": "2026-10-04",
+      "latest": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "cme-compute-futures-launch-preview",
+        "title": "GPU 사용료도 선물로 거래…CME, 10월 5일 출시 계획 점검",
+        "stage": "예정",
+        "change": "오늘 한국어 보도와 기존 공식 발표를 대조해 출시 직전의 계획과 상품 구조를 처음 다뤘습니다. 오늘 새 발표나 출시 완료로 표현하지 않습니다.",
+        "archive": false
+      },
+      "path": "cme-gpu-compute-futures.json"
+    },
     {
       "id": "yongin-samsung-semiconductor-cluster",
       "title": "삼성전자 용인 첨단시스템반도체 국가산단",
@@ -91,27 +218,6 @@
         "archive": false
       },
       "path": "national-employment-support-retention.json"
-    },
-    {
-      "id": "korea-bank-cyber-incidents-2026-10",
-      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
-      "categories": [
-        "금융·보안"
-      ],
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "lastCoveredAt": "2026-10-04T09:20:00+09:00",
-      "eventCount": 3,
-      "firstCoveredDate": "2026-10-02",
-      "lastCoveredDate": "2026-10-04",
-      "latest": {
-        "editionId": "2026-10-04-am",
-        "storyId": "bank-ceo-emergency-meeting-2026-10-04",
-        "title": "금융권 해킹 대응, 오늘 오후 전체 업권 CEO 긴급회의 보도",
-        "stage": "예정",
-        "change": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다.",
-        "archive": false
-      },
-      "path": "korea-bank-cyber-incidents-2026-10.json"
     },
     {
       "id": "daehyun-webtoon-festa-2026",
@@ -322,28 +428,6 @@
         "archive": false
       },
       "path": "k-perf-public-npu-validation.json"
-    },
-    {
-      "id": "usdkrw-oil-export-flows",
-      "title": "유가와 수출기업 수급에 따른 원·달러 환율",
-      "categories": [
-        "환율",
-        "환율·금리"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
-      "eventCount": 7,
-      "firstCoveredDate": "2026-09-17",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "usdkrw-2026-10-02-close",
-        "title": "원·달러 1,350.6원 주간 마감…아침 참고치에서 실제 종가로",
-        "stage": "결과",
-        "change": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다.",
-        "archive": false
-      },
-      "path": "usdkrw-oil-export-flows.json"
     },
     {
       "id": "korea-investigation-prosecution-separation",

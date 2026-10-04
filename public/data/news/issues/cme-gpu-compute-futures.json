@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "cme-gpu-compute-futures",
+  "title": "CME GPU 연산능력 선물 도입",
+  "entries": [
+    {
+      "id": "2026-10-04-pm/cme-compute-futures-launch-preview",
+      "editionId": "2026-10-04-pm",
+      "storyId": "cme-compute-futures-launch-preview",
+      "editionDate": "2026-10-04",
+      "edition": "pm",
+      "coveredAt": "2026-10-04T21:13:51+09:00",
+      "coveredOn": "2026-10-04",
+      "publishedAt": "2026-10-04T11:54:38+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-05",
+      "eventEndDate": null,
+      "eventTimezone": "America/Chicago",
+      "eventTimeNote": "공식 출시 예정일은 미국 기준 10월 5일입니다. 정확한 개시 시각은 확인되지 않아 한국시간 일정표에 임의 환산해 넣지 않습니다.",
+      "stage": "예정",
+      "change": "오늘 한국어 보도와 기존 공식 발표를 대조해 출시 직전의 계획과 상품 구조를 처음 다뤘습니다. 오늘 새 발표나 출시 완료로 표현하지 않습니다.",
+      "title": "GPU 사용료도 선물로 거래…CME, 10월 5일 출시 계획 점검",
+      "category": "기술·AI·금융",
+      "status": "예정",
+      "summary": [
+        "CME가 엔비디아 H100·B200의 사용료 지수를 기초로 한 선물 2종을 미국 기준 10월 5일 출시할 계획입니다. 오늘 국내에 소개된 출시 전 점검 소식으로, 최초 계획 발표는 8월 11일이었습니다.",
+        "공식 상품 설명상 계약 단위는 730 GPU시간이며 실제 GPU를 배송받는 대신 금전으로 결제합니다. AI 연산 자원을 빌리는 비용의 변동을 관리하기 위한 금융상품이라는 뜻입니다.",
+        "AI 개발사는 연산 비용이 오를 위험을, 공급자는 사용료가 떨어질 위험을 줄이는 데 활용할 수 있습니다. 다만 선물 거래 자체가 실제 서버 사용권을 확보해 주는 것은 아니고, 개별 계약의 임대료와 기준 지수도 다를 수 있습니다.",
+        "공식 안내에는 규제 검토를 전제로 한다는 조건이 남아 있습니다. 출시 완료·거래량·가격 안정 효과는 아직 확인되지 않아 결과로 쓰지 않았으며, 실제 거래 개시와 참여 규모를 후속으로 볼 필요가 있습니다."
+      ],
+      "keyFacts": {
+        "targetLaunchDateLocal": "2026-10-05",
+        "announcementDateLocal": "2026-08-11",
+        "products": "H100·B200 임대료 지수 선물2종",
+        "contractUnit": "730 GPU시간",
+        "settlement": "금전 결제",
+        "condition": "규제 검토 전제, 실제 개시 미확인"
+      },
+      "uncertainty": "규제 검토 조건이 남아 있고 실제 개시·유동성은 미확인입니다. 한국 투자자의 거래 가능 여부도 확인하지 않았습니다.",
+      "sources": [
+        {
+          "name": "토큰포스트",
+          "title": "CME, GPU 연산능력 선물 2종 10월 5일 출시 예정",
+          "url": "https://www.tokenpost.kr/news/ai/418049",
+          "publishedAt": "2026-10-04T11:54:38+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "verificationNote": "오늘 보도와 CME 원문·상품 설명을 대조했습니다. 원래 발표는 8월11일이며 규제 검토 조건이 남아 있습니다. 기사 대표 이미지는 AI 생성 이미지입니다."
+        },
+        {
+          "name": "CME Group",
+          "title": "CME Group and Silicon Data to Launch Compute Futures on October 5 to Unlock New Way to Hedge AI Risks",
+          "url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "공식 본문은 미국 8월11일 발표, 10월5일 출시 계획, 규제 검토 조건을 명시합니다. 정확한 발표 시각은 미표시입니다."
+        },
+        {
+          "name": "CME Group",
+          "title": "Compute Futures",
+          "url": "https://www.cmegroup.com/markets/energy/power/compute-futures.html",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "공식 상품 설명에서 730 GPU시간·금전 결제·H100/B200 지수를 확인했습니다. 실제 상장 완료나 최종 승인 확인으로 사용하지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-04/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-04T21:13:51+09:00"
+}

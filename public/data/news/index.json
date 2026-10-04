@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-04T09:20:00+09:00",
+  "updatedAt": "2026-10-04T21:13:51+09:00",
   "editions": [
+    {
+      "id": "2026-10-04-pm",
+      "date": "2026-10-04",
+      "edition": "pm",
+      "generatedAt": "2026-10-04T21:13:51+09:00",
+      "cutoffAt": "2026-10-04T21:00:00+09:00",
+      "count": 6,
+      "path": "2026-10-04/pm.json",
+      "headline": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시"
+    },
     {
       "id": "2026-10-04-am",
       "date": "2026-10-04",

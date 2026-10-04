@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-04-pm",
+  "date": "2026-10-04",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-04T21:00:00+09:00",
+  "generatedAt": "2026-10-04T21:13:51+09:00",
+  "intro": "10월 4일 저녁, 금융권 대응 후속과 통상·환율·AI 자금 흐름을 정리합니다.",
+  "overview": [
+    "아침에 예고됐던 금융권 긴급회의가 열려 보안 대응이 실행 단계로 넘어갔습니다. 당국의 특정 기간 피해 집계는 7곳이며, 은행·카드는 10월 6일, 다른 주요 업권은 8일까지 점검하도록 했다는 보도입니다. AI를 사용한 공격인지와 추가 피해 규모는 아직 확인이 필요합니다.",
+    "통상과 환율에서는 확정 수치와 전망을 구분해야 합니다. 트럼프의 최대 300% 관세 언급은 유세 발언이며 시행 공지가 아닙니다. IBK의 연말 환율 1400원 전후도 예측으로, 오늘 거래된 가격을 뜻하지 않습니다.",
+    "AI 투자에서는 돈이 어디로 모이는지가 핵심입니다. 스타트업 투자 누적 10조1880억원에는 큰 구주 거래가 포함됐고, AI·로보틱스 비중은 3분기 투자금의 45%에 달했습니다. GPU 사용료 선물은 미국 기준 10월 5일 출시 계획을 재확인했지만 규제 검토 조건과 실제 개시는 남아 있습니다.",
+    "웹툰은 10월 2일 보도된 순천 주민 약 20명의 제작 프로젝트를 통해 지역 창작 교육이 작품 배포로 이어지는 사례를 살폈습니다. 내일 국내 증시는 휴장하며, 밤 11시에는 미국 ISM 서비스업 지표 발표가 예정돼 있습니다."
+  ],
+  "overviewEmphasis": [
+    "금융권 긴급회의가 열려",
+    "7곳",
+    "10월 6일",
+    "최대 300% 관세",
+    "연말 환율 1400원 전후",
+    "누적 10조1880억원",
+    "3분기 투자금의 45%",
+    "규제 검토 조건",
+    "10월 2일 보도된",
+    "내일 국내 증시는 휴장",
+    "밤 11시"
+  ],
+  "stories": [
+    {
+      "id": "bank-emergency-response-2026-10-04",
+      "topicKey": "korea-bank-breaches-2026-10",
+      "category": "금융·보안",
+      "title": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시",
+      "status": "보도",
+      "publishedAt": "2026-10-04T15:12:59+09:00",
+      "eventAt": "2026-10-04T14:00:00+09:00",
+      "eventTimeNote": "뉴스웨이 현장 보도가 회의 시작을 10월 4일 14시로 명시했습니다. 기사 등록 시각과 구분합니다.",
+      "summary": [
+        "아침에는 금융권 긴급회의가 예정돼 있었는데, 오후 2시 실제 회의가 열려 대응 지시와 점검 기한이 나왔습니다. 당국은 9월 30일~10월 3일 침해사고가 발생한 금융사를 7곳으로 집계했습니다.",
+        "웰컴저축은행에서는 법인 담당자 연락처 등 약 2200건의 유출이 추가로 보도됐습니다. 이는 2200명의 일반 예금계좌가 털렸다는 뜻이 아니며, 개인정보 유출과 직접적인 금전 피해를 나눠 봐야 합니다.",
+        "금융당국은 인증이 빠진 조회 서비스와 직원용 시스템의 접근통제를 보완하고, 위험한 서비스는 차단하도록 주문했습니다. 은행·카드사는 10월 6일까지, 증권·보험·저축은행·전자금융업자 등은 8일까지 긴급점검을 마치도록 했다는 현장 보도입니다.",
+        "공격이 AI를 활용했는지는 아직 확정되지 않았습니다. 금융 이용자에게 당장 중요한 것은 유출 정보가 스미싱이나 사칭 전화로 악용되는 2차 피해 여부이며, 점검 완료와 추가 피해 집계는 후속 확인이 필요합니다."
+      ],
+      "emphasis": [
+        "오후 2시 실제 회의",
+        "7곳",
+        "약 2200건",
+        "10월 6일까지",
+        "아직 확정되지 않았습니다"
+      ],
+      "keyFacts": {
+        "response": "인증 누락 서비스 보완·차단, 직원용 시스템 접근통제 강화 지시",
+        "aiAttribution": "미확정",
+        "meetingResult": "10월4일14시 개최, 권역별 긴급점검 기한과 취약 서비스 조치 제시",
+        "affectedCompanies": "9월30일~10월3일 집계7곳",
+        "welcomeRecords": "법인고객 관련 정보 약2200건",
+        "bankCardDeadline": "2026-10-06",
+        "otherSectorsDeadline": "2026-10-08"
+      },
+      "whatChanged": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
+      "whyItMatters": "금융권 대응이 일정 예고에서 서비스 차단·접근통제·점검 이행 단계로 넘어갔습니다.",
+      "uncertainty": "AI 활용과 공격 주체는 확정되지 않았고 7곳은 당국의 특정 기간 집계입니다. 추가 의심 사례 전부를 포함한 최종 피해 총계가 아닙니다.",
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "금융당국 긴급 회의…\"7곳 피해, AI 활용 추정\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782626",
+          "publishedAt": "2026-10-04T15:12:59+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228401_1280.jpg",
+          "verificationNote": "본문과 등록 메타데이터를 확인했습니다. 7곳은 9월 30일~10월 3일 금융당국 집계 범위이며 당일 이후 모든 의심 사례를 합한 수가 아닙니다."
+        },
+        {
+          "name": "뉴스웨이",
+          "title": "IP 바꿔가며 동시다발 침투···AI까지 동원한 금융권 해킹 '비상' - 뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100414184833274",
+          "publishedAt": "2026-10-04T14:23:02+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://nimage.newsway.co.kr/photo/2026/10/04/20261004003368_1200.jpg",
+          "verificationNote": "현장 취재 본문에서 14시 회의, 권역별 점검 기한, 서비스 접근통제 조치를 확인했습니다. AI 사용은 가능성으로 구분합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "SBS",
+          "title": "금융당국 긴급 회의…\"7곳 피해, AI 활용 추정\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782626",
+          "publishedAt": "2026-10-04T15:12:59+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228401_1280.jpg",
+          "verificationNote": "본문과 등록 메타데이터를 확인했습니다. 7곳은 9월 30일~10월 3일 금융당국 집계 범위이며 당일 이후 모든 의심 사례를 합한 수가 아닙니다."
+        },
+        {
+          "name": "뉴스웨이",
+          "title": "IP 바꿔가며 동시다발 침투···AI까지 동원한 금융권 해킹 '비상' - 뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100414184833274",
+          "publishedAt": "2026-10-04T14:23:02+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://nimage.newsway.co.kr/photo/2026/10/04/20261004003368_1200.jpg",
+          "verificationNote": "현장 취재 본문에서 14시 회의, 권역별 점검 기한, 서비스 접근통제 조치를 확인했습니다. AI 사용은 가능성으로 구분합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 98,
+        "interest": 96,
+        "domesticImpact": 100,
+        "reliability": 93,
+        "recency": 100
+      },
+      "scoreReason": "오후 실제 회의와 새 수치·조치가 있는 가장 중요한 오전 후속입니다.",
+      "timeline": {
+        "issueId": "korea-bank-cyber-incidents-2026-10",
+        "issueTitle": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+        "eventDate": "2026-10-04",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-04-am",
+        "storyId": "bank-ceo-emergency-meeting-2026-10-04",
+        "delta": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다."
+      },
+      "score": 98.2,
+      "factsHash": "550e0b72f018b7a52eaa3c7eddab2bbccf331866b7025e518817a71cf9f77d0f"
+    },
+    {
+      "id": "trump-factory-tariff-pressure-2026-10-03",
+      "topicKey": "trump-factory-tariff-pressure-2026-10-03",
+      "category": "국제·통상",
+      "title": "트럼프, 미국 공장 투자 압박하며 ‘최대 300% 관세’ 언급",
+      "status": "주장",
+      "publishedAt": "2026-10-04T17:37:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "실제 발언은 미국 오하이오 현지 10월 3일입니다. 정확한 발언 시각은 미확인이라 한국 날짜로 임의 변환하지 않습니다.",
+      "summary": [
+        "트럼프 미국 대통령이 현지시간 10월 3일 오하이오 유세에서 미국에 공장을 짓지 않는 외국 기업에 높은 관세를 물릴 수 있다고 말했습니다. 최대 300%라는 숫자는 유세 발언이며 새 관세가 시행됐다는 뜻은 아닙니다.",
+        "발언에는 미국 내 공장을 세울 기회를 약 1년 반 주고, 그렇지 않으면 150~300% 관세를 부과한다는 취지가 담겼습니다. SBS와 매일경제 보도에서 같은 발언을 확인했지만, 적용 품목과 법적 절차·발효일은 이 자료만으로 확인되지 않습니다.",
+        "어제 다룬 알래스카 투자 요구와 별개로, 이번에는 외국 기업 전반의 생산시설 투자를 관세와 연결했습니다. 한국 기업의 미국 생산 확대와 수출 비용 판단에 영향을 줄 수 있는 정책 위험으로 볼 수 있습니다.",
+        "다만 발언을 바로 기업의 확정 비용이나 한국에 적용될 확정 세율로 계산하면 안 됩니다. 이후 공식 행정조치와 협상 내용이 실제로 나오는지 확인해야 합니다."
+      ],
+      "emphasis": [
+        "최대 300%",
+        "유세 발언",
+        "적용 품목과 법적 절차·발효일",
+        "확정 세율로 계산하면 안 됩니다"
+      ],
+      "keyFacts": {
+        "speechDateLocal": "2026-10-03",
+        "venue": "미국 오하이오 지원 유세",
+        "investmentGraceClaim": "약1년반",
+        "tariffRangeClaim": "150~300%",
+        "implementation": "선정 보도에서 품목·법적절차·발효일 미확인"
+      },
+      "whatChanged": "미국 현지 3일 유세에서 외국 기업의 공장 투자와 150~300% 관세를 연결하는 발언이 나왔습니다. 개별 한국 에너지사업 합의나 세율 시행 확인은 아닙니다.",
+      "whyItMatters": "생산시설 투자 결정과 통상 비용을 둘러싼 불확실성을 보여주는 발언입니다.",
+      "uncertainty": "정책 발언 단계로 실제 부과 대상·법적 근거·발효일과 한국 기업 적용 여부는 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "매일경제",
+          "title": "“공장 안지으면 관세 300%” … 거세지는 트럼프 ‘투자협박’",
+          "url": "https://www.mk.co.kr/news/world/12168175",
+          "publishedAt": "2026-10-04T17:37:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "verificationNote": "검색 결과의 기사 발행시각과 유세 발언을 SBS 원문으로 대조했습니다. 직접 접근은 403으로 대표 이미지는 생략하고 평가적 표현은 요약에 쓰지 않았습니다."
+        },
+        {
+          "name": "SBS",
+          "title": "격전지 간 트럼프 \"미국에 공장 안 지으면 관세 300%까지\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782474",
+          "publishedAt": "2026-10-04T11:16:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228366_1280.jpg",
+          "verificationNote": "미국 현지 10월 3일 오하이오 유세에 관한 본문을 확인했습니다. 발언 사실과 실제 관세 시행을 구분합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "매일경제",
+          "title": "“공장 안지으면 관세 300%” … 거세지는 트럼프 ‘투자협박’",
+          "url": "https://www.mk.co.kr/news/world/12168175",
+          "publishedAt": "2026-10-04T17:37:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "verificationNote": "검색 결과의 기사 발행시각과 유세 발언을 SBS 원문으로 대조했습니다. 직접 접근은 403으로 대표 이미지는 생략하고 평가적 표현은 요약에 쓰지 않았습니다."
+        },
+        {
+          "name": "SBS",
+          "title": "격전지 간 트럼프 \"미국에 공장 안 지으면 관세 300%까지\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782474",
+          "publishedAt": "2026-10-04T11:16:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228366_1280.jpg",
+          "verificationNote": "미국 현지 10월 3일 오하이오 유세에 관한 본문을 확인했습니다. 발언 사실과 실제 관세 시행을 구분합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 93,
+        "interest": 91,
+        "domesticImpact": 96,
+        "reliability": 90,
+        "recency": 100
+      },
+      "scoreReason": "오후 국제·통상 핵심 보도로 평가적 제목을 제거하고 발언과 시행을 구분했습니다.",
+      "timeline": {
+        "issueId": "us-tariff-investment-pressure",
+        "issueTitle": "미국의 관세와 생산시설 투자 압박",
+        "eventDate": "2026-10-03",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "보도",
+        "change": "미국 현지 3일 유세에서 외국 기업의 공장 투자와 150~300% 관세를 연결하는 발언이 나왔습니다. 개별 한국 에너지사업 합의나 세율 시행 확인은 아닙니다."
+      },
+      "score": 95.5,
+      "factsHash": "8b1ded897fb55a5563552bb6c7679972918077410b03741c61c47eadc8b44c41"
+    },
+    {
+      "id": "startup-funding-q3-2026",
+      "topicKey": "startup-funding-q3-2026",
+      "category": "경제·AI·반도체",
+      "title": "스타트업 투자 누적 10.2조원…AI 쏠림과 대형 거래가 만든 회복",
+      "status": "분석",
+      "publishedAt": "2026-10-04T14:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "통계 대상 기간은 1~9월이며 분기별 비교는 7~9월과 4~6월입니다. 원자료 최초 공개 시각은 확인하지 못했으며 국내 분석 보도는 10월 4일 14시입니다.",
+      "summary": [
+        "올해 1~9월 국내 비상장 스타트업·중소기업 투자액이 10조1880억원으로 집계됐습니다. 오늘 오후 보도와 더브이씨 원문을 함께 보면, 투자 총액의 회복이 모든 창업기업의 자금 사정 개선을 뜻하지는 않습니다.",
+        "3분기만 보면 286건·2조2097억원이고, 1~9월 누적 건수는 854건입니다. 누적 총액에는 2분기 두나무 구주 인수 같은 큰 거래도 들어 있어 전부 기업에 새 운영자금이 들어온 금액으로 해석하면 안 됩니다.",
+        "AI·로보틱스는 3분기 투자 건수의 35%, 금액의 45%를 차지했습니다. 직전 분기의 금액 비중 37%에서 높아졌고, 반도체·디스플레이의 1~9월 투자액도 2조원을 넘었습니다.",
+        "핵심은 투자 회복의 범위입니다. AI 인프라 수요가 자본을 끌어들이는 한편 다른 분야의 체감은 다를 수 있으며, 이 통계는 민간의 보도·제보 기반 집계라 추후 추가·수정될 수 있습니다. 오늘 하루의 신규 투자 발표가 아니라 3분기까지의 흐름을 정리한 분석입니다."
+      ],
+      "emphasis": [
+        "10조1880억원",
+        "286건·2조2097억원",
+        "전부 기업에 새 운영자금",
+        "금액의 45%",
+        "민간의 보도·제보 기반 집계"
+      ],
+      "keyFacts": {
+        "period": "2026-01~09",
+        "yearToDateAmount": "10조1880억원",
+        "yearToDateDeals": "854건",
+        "q3Amount": "2조2097억원",
+        "q3Deals": "286건",
+        "aiRoboticsQ3AmountShare": "45%",
+        "aiRoboticsQ2AmountShare": "37%",
+        "coverage": "비상장 스타트업·중소기업, 일부 구주거래 포함, 사후 수정 가능"
+      },
+      "whatChanged": "미수록된 3분기 투자 집계를 오늘 오후 기사와 원자료로 점검했습니다. 오늘 새로 발표되거나 집행된 투자액으로 표현하지 않습니다.",
+      "whyItMatters": "AI·반도체 자금 집중과 창업시장 전반의 자금 회복을 구분하는 데 도움이 됩니다.",
+      "uncertainty": "더브이씨 자체 집계이며 사후 수정될 수 있습니다. 정부의 벤처투자 통계나 기업 신규 자금 유입만의 합계와 동일하지 않습니다.",
+      "sources": [
+        {
+          "name": "블로터",
+          "title": "​韓 스타트업 투자, 4년 만에 10조 돌파…AI 반도체·우주항공 쏠림",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675013",
+          "publishedAt": "2026-10-04T14:00:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://cdn.bloter.net/news/thumbnail/202610/675013_288808_231_v150.jpg",
+          "verificationNote": "본문 수정은 18:01:32로 기준 이전입니다. 3분기 단독 수치와 1~9월 누적을 구분했고 연간 건수와 9개월 건수의 직접 감소율 비교는 쓰지 않았습니다."
+        },
+        {
+          "name": "더브이씨",
+          "title": "2026 Q3 한국 스타트업 투자 통계",
+          "url": "https://thevc.kr/discussions/korea_startup_funding_2026_q3",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "집계 주체의 원문에서 286건·2조2097억원, 누적854건·10조1880억원, AI 분기 비중35%·45%를 대조했습니다. 최초 시각은 미표시이며 오늘 새로 발표된 통계라고 쓰지 않습니다. 구주거래가 포함되고 사후 변경될 수 있습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "블로터",
+          "title": "​韓 스타트업 투자, 4년 만에 10조 돌파…AI 반도체·우주항공 쏠림",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675013",
+          "publishedAt": "2026-10-04T14:00:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://cdn.bloter.net/news/thumbnail/202610/675013_288808_231_v150.jpg",
+          "verificationNote": "본문 수정은 18:01:32로 기준 이전입니다. 3분기 단독 수치와 1~9월 누적을 구분했고 연간 건수와 9개월 건수의 직접 감소율 비교는 쓰지 않았습니다."
+        },
+        {
+          "name": "더브이씨",
+          "title": "2026 Q3 한국 스타트업 투자 통계",
+          "url": "https://thevc.kr/discussions/korea_startup_funding_2026_q3",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "집계 주체의 원문에서 286건·2조2097억원, 누적854건·10조1880억원, AI 분기 비중35%·45%를 대조했습니다. 최초 시각은 미표시이며 오늘 새로 발표된 통계라고 쓰지 않습니다. 구주거래가 포함되고 사후 변경될 수 있습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 86,
+        "interest": 99,
+        "domesticImpact": 92,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "오후 보도에 원자료를 대조한 관심 분야 분석이며, 통계 자체는 오늘의 새 발표가 아니라는 한계를 명시합니다.",
+      "timeline": {
+        "issueId": "korea-startup-funding",
+        "issueTitle": "국내 스타트업 투자 규모와 분야별 분포",
+        "eventDate": "2026-01-01",
+        "eventEndDate": "2026-09-30",
+        "eventTimezone": "Asia/Seoul",
+        "stage": "분석",
+        "change": "미수록된 3분기 투자 집계를 오늘 오후 기사와 원자료로 점검했습니다. 오늘 새로 발표되거나 집행된 투자액으로 표현하지 않습니다."
+      },
+      "score": 94.95,
+      "factsHash": "92c787ad30a8fba746bb8457e95404e590acf1c4fead3789b848d6886e9f5005"
+    },
+    {
+      "id": "cme-compute-futures-launch-preview",
+      "topicKey": "cme-compute-futures-launch-2026-10",
+      "category": "기술·AI·금융",
+      "title": "GPU 사용료도 선물로 거래…CME, 10월 5일 출시 계획 점검",
+      "status": "예정",
+      "publishedAt": "2026-10-04T11:54:38+09:00",
+      "eventAt": null,
+      "eventTimeNote": "공식 출시 예정일은 미국 기준 10월 5일입니다. 정확한 개시 시각은 확인되지 않아 한국시간 일정표에 임의 환산해 넣지 않습니다.",
+      "summary": [
+        "CME가 엔비디아 H100·B200의 사용료 지수를 기초로 한 선물 2종을 미국 기준 10월 5일 출시할 계획입니다. 오늘 국내에 소개된 출시 전 점검 소식으로, 최초 계획 발표는 8월 11일이었습니다.",
+        "공식 상품 설명상 계약 단위는 730 GPU시간이며 실제 GPU를 배송받는 대신 금전으로 결제합니다. AI 연산 자원을 빌리는 비용의 변동을 관리하기 위한 금융상품이라는 뜻입니다.",
+        "AI 개발사는 연산 비용이 오를 위험을, 공급자는 사용료가 떨어질 위험을 줄이는 데 활용할 수 있습니다. 다만 선물 거래 자체가 실제 서버 사용권을 확보해 주는 것은 아니고, 개별 계약의 임대료와 기준 지수도 다를 수 있습니다.",
+        "공식 안내에는 규제 검토를 전제로 한다는 조건이 남아 있습니다. 출시 완료·거래량·가격 안정 효과는 아직 확인되지 않아 결과로 쓰지 않았으며, 실제 거래 개시와 참여 규모를 후속으로 볼 필요가 있습니다."
+      ],
+      "emphasis": [
+        "선물 2종",
+        "최초 계획 발표는 8월 11일",
+        "730 GPU시간",
+        "규제 검토를 전제로",
+        "출시 완료·거래량·가격 안정 효과"
+      ],
+      "keyFacts": {
+        "targetLaunchDateLocal": "2026-10-05",
+        "announcementDateLocal": "2026-08-11",
+        "products": "H100·B200 임대료 지수 선물2종",
+        "contractUnit": "730 GPU시간",
+        "settlement": "금전 결제",
+        "condition": "규제 검토 전제, 실제 개시 미확인"
+      },
+      "whatChanged": "오늘 한국어 보도와 기존 공식 발표를 대조해 출시 직전의 계획과 상품 구조를 처음 다뤘습니다. 오늘 새 발표나 출시 완료로 표현하지 않습니다.",
+      "whyItMatters": "AI 연산 비용을 장기 예산과 위험관리 대상으로 다루려는 시장 변화를 보여줍니다.",
+      "uncertainty": "규제 검토 조건이 남아 있고 실제 개시·유동성은 미확인입니다. 한국 투자자의 거래 가능 여부도 확인하지 않았습니다.",
+      "sources": [
+        {
+          "name": "토큰포스트",
+          "title": "CME, GPU 연산능력 선물 2종 10월 5일 출시 예정",
+          "url": "https://www.tokenpost.kr/news/ai/418049",
+          "publishedAt": "2026-10-04T11:54:38+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "verificationNote": "오늘 보도와 CME 원문·상품 설명을 대조했습니다. 원래 발표는 8월11일이며 규제 검토 조건이 남아 있습니다. 기사 대표 이미지는 AI 생성 이미지입니다."
+        },
+        {
+          "name": "CME Group",
+          "title": "CME Group and Silicon Data to Launch Compute Futures on October 5 to Unlock New Way to Hedge AI Risks",
+          "url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "공식 본문은 미국 8월11일 발표, 10월5일 출시 계획, 규제 검토 조건을 명시합니다. 정확한 발표 시각은 미표시입니다."
+        },
+        {
+          "name": "CME Group",
+          "title": "Compute Futures",
+          "url": "https://www.cmegroup.com/markets/energy/power/compute-futures.html",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "공식 상품 설명에서 730 GPU시간·금전 결제·H100/B200 지수를 확인했습니다. 실제 상장 완료나 최종 승인 확인으로 사용하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "토큰포스트",
+          "title": "CME, GPU 연산능력 선물 2종 10월 5일 출시 예정",
+          "url": "https://www.tokenpost.kr/news/ai/418049",
+          "publishedAt": "2026-10-04T11:54:38+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "verificationNote": "오늘 보도와 CME 원문·상품 설명을 대조했습니다. 원래 발표는 8월11일이며 규제 검토 조건이 남아 있습니다. 기사 대표 이미지는 AI 생성 이미지입니다."
+        },
+        {
+          "name": "CME Group",
+          "title": "CME Group and Silicon Data to Launch Compute Futures on October 5 to Unlock New Way to Hedge AI Risks",
+          "url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "공식 본문은 미국 8월11일 발표, 10월5일 출시 계획, 규제 검토 조건을 명시합니다. 정확한 발표 시각은 미표시입니다."
+        },
+        {
+          "name": "CME Group",
+          "title": "Compute Futures",
+          "url": "https://www.cmegroup.com/markets/energy/power/compute-futures.html",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "공식 상품 설명에서 730 GPU시간·금전 결제·H100/B200 지수를 확인했습니다. 실제 상장 완료나 최종 승인 확인으로 사용하지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 77,
+        "interest": 100,
+        "domesticImpact": 79,
+        "reliability": 96,
+        "recency": 85
+      },
+      "scoreReason": "AI 관심도가 높고 예정일이 임박해 선정했습니다. 최초 발표가8월이라는 점을 명시하고 새 결과로 부풀리지 않습니다.",
+      "timeline": {
+        "issueId": "cme-gpu-compute-futures",
+        "issueTitle": "CME GPU 연산능력 선물 도입",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "America/Chicago",
+        "stage": "예정",
+        "change": "오늘 한국어 보도와 기존 공식 발표를 대조해 출시 직전의 계획과 상품 구조를 처음 다뤘습니다. 오늘 새 발표나 출시 완료로 표현하지 않습니다."
+      },
+      "score": 85.75,
+      "factsHash": "0719c0a96311ac823d46aaf31bb1029402afc2c19a08f5f5fdd6b528e28ef1aa"
+    },
+    {
+      "id": "ibk-usdkrw-outlook-2026-10",
+      "topicKey": "ibk-usdkrw-outlook-2026-10",
+      "category": "환율·금리",
+      "title": "IBK 인용 보도 “연말 환율 1400원 전후”…오늘의 시세는 아닙니다",
+      "status": "분석",
+      "publishedAt": "2026-10-04T10:28:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 4일 10:28은 국내 기사 발행 시각이며 증권사 원보고서 발표일은 미확인입니다. 전망 대상은 2026년 말과 조건부 2027년입니다.",
+      "summary": [
+        "IBK투자증권이 연말 원·달러 환율을 1400원 전후로 예상했다는 분석이 오늘 소개됐습니다. 10월 2일의 실제 주간 종가를 다룬 이전 브리핑과 달리, 이번 숫자는 앞으로의 경로에 대한 전망입니다.",
+        "한경비즈니스에 따르면 IBK는 원화 강세 요인이 상당 부분 반영됐고, 미국의 높은 시장금리와 대미 직접투자에 따른 달러 수요는 환율 상승 요인이 될 수 있다고 봤습니다. 달러 수요가 늘면 원화를 달러로 바꾸려는 압력이 커진다는 설명입니다.",
+        "대외 여건이 악화되면 연말이나 내년에 1400원대 중후반까지 갈 가능성도 제시했습니다. 이는 기본 전망과 구분되는 조건부 시나리오이며 실제 도달한 환율이나 금융시장 전체의 합의된 예상은 아닙니다.",
+        "수입 원가나 해외 지출을 볼 때 한 방향의 환율만 가정하지 말아야 한다는 참고 자료입니다. 이번에는 증권사 보고서 원문과 최초 발표일을 확보하지 못해 기사에 인용된 분석 범위로만 정리했습니다."
+      ],
+      "emphasis": [
+        "1400원 전후",
+        "앞으로의 경로에 대한 전망",
+        "조건부 시나리오",
+        "보고서 원문과 최초 발표일을 확보하지 못해"
+      ],
+      "keyFacts": {
+        "referenceType": "IBK투자증권 전망을 인용한 국내 기사, 실제 시세 아님",
+        "forecastHorizon": "2026년말",
+        "yearEndForecast": "1400원 전후",
+        "adverseScenario": "대외여건 악화 시 연말 또는2027년1400원대중후반 가능성",
+        "originalReportDate": "미확인"
+      },
+      "whatChanged": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
+      "whyItMatters": "관세·미국 금리·해외 투자와 달러 수요가 환율 전망에 어떻게 연결되는지 보여줍니다.",
+      "uncertainty": "단일 증권사의 조건부 전망을 인용한 기사이며 원보고서와 최초 발표일은 미확인입니다. 향후 환율이나 종가를 확정하지 않습니다.",
+      "sources": [
+        {
+          "name": "한경비즈니스",
+          "title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망",
+          "url": "https://magazine.hankyung.com/business/article/202610042279b",
+          "publishedAt": "2026-10-04T10:28:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.hankyung.com/photo/202610/AD.45932464.1.jpg",
+          "verificationNote": "기사 본문과 등록 시각 확인. IBK 보고서 원문·최초 발표일은 확보하지 못했으며 기사에 인용된 전망임을 명시합니다. 장중/종가로 쓰지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "한경비즈니스",
+          "title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망",
+          "url": "https://magazine.hankyung.com/business/article/202610042279b",
+          "publishedAt": "2026-10-04T10:28:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.hankyung.com/photo/202610/AD.45932464.1.jpg",
+          "verificationNote": "기사 본문과 등록 시각 확인. IBK 보고서 원문·최초 발표일은 확보하지 못했으며 기사에 인용된 전망임을 명시합니다. 장중/종가로 쓰지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 77,
+        "interest": 96,
+        "domesticImpact": 92,
+        "reliability": 77,
+        "recency": 85
+      },
+      "scoreReason": "오전9시 이후 발행된 미수록 환율 분석으로, 원보고서 미확인을 신뢰도에 반영했습니다.",
+      "timeline": {
+        "issueId": "usdkrw-oil-export-flows",
+        "issueTitle": "유가와 수출기업 수급에 따른 원·달러 환율",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "분석",
+        "change": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "usdkrw-2026-10-02-close",
+        "delta": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다."
+      },
+      "score": 84.55,
+      "factsHash": "7cff0bff96216fcbb85a4c3b52d4ddd8a26ed7f41e7ac121855f4066a80c18fd"
+    },
+    {
+      "id": "seungju-webtoon-storybook-2026",
+      "topicKey": "seungju-webtoon-storybook-2026",
+      "category": "웹툰 산업",
+      "title": "순천 주민 약 20명, 선암사 웹툰 책자 제작…창작 교육의 지역 활용",
+      "status": "보도",
+      "publishedAt": "2026-10-02T12:11:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 2일은 기사 발행일이고 책자 발간은 최근으로만 적혀 있습니다. 정확한 사건일을 추측하지 않습니다.",
+      "summary": [
+        "순천 승주읍 주민들이 선암사에 관한 기억을 웹툰으로 만들고 책자로 발간했다는 소식입니다. 오늘 새 대형 산업 발표를 확인하지 못해 10월 2일 보도된 최근 창작 교육·지역 콘텐츠 사례를 골랐습니다.",
+        "웹툰가이드에 따르면 스님과 초등학생 등 약 20명이 제작에 참여했습니다. 5월 초부터 제작 교육을 받아 각자의 이야기를 4컷 만화 등으로 표현했고, 책에는 색칠용 그림과 사찰 사진도 담겼습니다.",
+        "주민자치회는 책자를 사찰과 인근 상가에 두고 지역 행사에서도 배포할 계획입니다. 창작 교육이 수업으로 끝나지 않고 실제 콘텐츠 제작과 독자 접점으로 이어졌다는 점에 의미가 있습니다.",
+        "대형 플랫폼 계약이나 상업적 흥행 성과를 발표한 사례는 아닙니다. 정확한 발간일과 인쇄 부수·매출 효과는 확인되지 않아, 주민 창작 역량과 지역 문화자원의 활용 사례로 범위를 한정했습니다."
+      ],
+      "emphasis": [
+        "10월 2일 보도된",
+        "약 20명",
+        "실제 콘텐츠 제작과 독자 접점",
+        "인쇄 부수·매출 효과는 확인되지 않아"
+      ],
+      "keyFacts": {
+        "participants": "약20명",
+        "educationStart": "2026년5월초로 보도",
+        "format": "주민 기억을 담은4컷만화등 웹툰책자",
+        "distributionPlan": "선암사·인근상가·지역행사",
+        "publicationDate": "정확한 날짜 미확인"
+      },
+      "whatChanged": "미수록된 주민 웹툰 제작·발간 사례를 72시간 이내의 보도에서 선정했습니다. 오늘 신규 발표나 상업적 성공으로 표현하지 않습니다.",
+      "whyItMatters": "지역 창작 교육이 작품 제작과 실제 배포로 이어지는 웹툰 생태계의 저변을 보여줍니다.",
+      "uncertainty": "발간일·인쇄부수·판매성과는 확인되지 않았으며 민간 전문매체 보도 범위입니다.",
+      "sources": [
+        {
+          "name": "웹툰가이드",
+          "title": "주민이 직접 그린 선암사 이야기, 승주읍 웹툰 스토리북 발간",
+          "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26263",
+          "publishedAt": "2026-10-02T12:11:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "웹 열기로 제목·기자·등록 시각·본문을 확인했습니다. 직접 요청은403으로 OG 이미지는 생략했습니다. 책 발간일 자체는 미표시입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "웹툰가이드",
+          "title": "주민이 직접 그린 선암사 이야기, 승주읍 웹툰 스토리북 발간",
+          "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26263",
+          "publishedAt": "2026-10-02T12:11:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:13:51+09:00",
+          "verificationNote": "웹 열기로 제목·기자·등록 시각·본문을 확인했습니다. 직접 요청은403으로 OG 이미지는 생략했습니다. 책 발간일 자체는 미표시입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 52,
+        "interest": 94,
+        "domesticImpact": 66,
+        "reliability": 83,
+        "recency": 25
+      },
+      "scoreReason": "필수 웹툰 분야의 기존 보도 반복을 제외하고 최근72시간이내의 미수록 창작 프로젝트를 선정했습니다.",
+      "timeline": {
+        "issueId": "seungju-community-webtoon",
+        "issueTitle": "순천 승주읍 주민 웹툰 교육과 선암사 콘텐츠",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "미수록된 주민 웹툰 제작·발간 사례를 72시간 이내의 보도에서 선정했습니다. 오늘 신규 발표나 상업적 성공으로 표현하지 않습니다."
+      },
+      "fallbackNote": "당일 새 대형 웹툰 산업 발표를 확인하지 못해 최근 72시간 이내인 10월 2일의 지역 창작 교육·콘텐츠 제작 소식을 선정했습니다.",
+      "score": 52.0,
+      "factsHash": "62b8b8526e1c04d41b111dc537224384874681638ae523895272d43d7816550f"
+    }
+  ],
+  "keywords": [
+    "금융권 긴급점검",
+    "피해 7곳 집계",
+    "AI 공격 미확정",
+    "관세 투자 압박",
+    "환율 조건부 전망",
+    "스타트업 10.2조원",
+    "AI 투자 집중",
+    "GPU 선물 계획",
+    "지역 웹툰 창작",
+    "개천절 대체휴장"
+  ],
+  "events": [
+    {
+      "date": "2026-10-05",
+      "at": null,
+      "timeNote": "한국시간 10월 5일 종일 휴장",
+      "title": "국내 증시, 개천절 대체공휴일 휴장",
+      "detail": "한국거래소의 10월 휴장 안내를 확인했습니다. 월요일의 해외 금리·유가 변화를 국내 새 종가로 표시하지 않고 다음 개장에 반영될 변수로 봅니다.",
+      "source": {
+        "name": "한국거래소",
+        "title": "2026년 10월 국내 증시(KRX) 휴장 및 리플레이장 운영 안내",
+        "url": "https://trn.krx.co.kr/index.jsp",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "ko",
+        "verifiedAt": "2026-10-04T21:07:36+09:00",
+        "verificationNote": "KRX 공지의 10월5일 개천절 대체공휴일·국내 증시 휴장을 확인했습니다. 모의거래 리플레이 시간은 실제 증시 개장으로 표시하지 않습니다."
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "at": "2026-10-05T23:00:00+09:00",
+      "title": "미국 9월 ISM 서비스업 PMI 발표 예정",
+      "detail": "미국 동부 10월 5일 10시 발표 예정입니다. 서비스업 경기와 고용·가격 지표가 미국 금리와 달러에 주는 영향을 확인할 일정이며 아직 결과가 나오지 않았습니다.",
+      "source": {
+        "name": "ISM",
+        "title": "August 2026 ISM Services PMI Report",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/august/",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-04T21:13:51+09:00",
+        "verificationNote": "공식 8월 보고서 말미에 다음 발표가10월5일10:00ET임을 확인했습니다. America/New_York의 서머타임을 적용하면 한국시간10월5일23시입니다."
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "at": null,
+      "timeNote": "한국시간 10월 5일 중 관찰 변수 · 정해진 발표 일정 아님",
+      "title": "금융권 추가 피해·보안조치 이행 공지 확인",
+      "detail": "은행·카드 점검 기한인 10월 6일을 앞두고 5일에는 추가 유출 공지와 취약 서비스 조치 상황을 확인합니다. 5일 별도 회의나 중간 결과 발표가 예고됐다는 뜻은 아닙니다.",
+      "source": {
+        "name": "뉴스웨이",
+        "title": "IP 바꿔가며 동시다발 침투···AI까지 동원한 금융권 해킹 '비상' - 뉴스웨이",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026100414184833274",
+        "publishedAt": "2026-10-04T14:23:02+09:00",
+        "kind": "specialist",
+        "language": "ko",
+        "verifiedAt": "2026-10-04T21:07:35+09:00",
+        "imageUrl": "https://nimage.newsway.co.kr/photo/2026/10/04/20261004003368_1200.jpg",
+        "verificationNote": "현장 취재 본문에서 14시 회의, 권역별 점검 기한, 서비스 접근통제 조치를 확인했습니다. AI 사용은 가능성으로 구분합니다."
+      }
+    }
+  ]
+}

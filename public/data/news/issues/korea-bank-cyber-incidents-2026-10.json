@@ -235,7 +235,79 @@
       },
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-04-pm/bank-emergency-response-2026-10-04",
+      "editionId": "2026-10-04-pm",
+      "storyId": "bank-emergency-response-2026-10-04",
+      "editionDate": "2026-10-04",
+      "edition": "pm",
+      "coveredAt": "2026-10-04T21:13:51+09:00",
+      "coveredOn": "2026-10-04",
+      "publishedAt": "2026-10-04T15:12:59+09:00",
+      "eventAt": "2026-10-04T14:00:00+09:00",
+      "eventDate": "2026-10-04",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "뉴스웨이 현장 보도가 회의 시작을 10월 4일 14시로 명시했습니다. 기사 등록 시각과 구분합니다.",
+      "stage": "후속",
+      "change": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
+      "title": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시",
+      "category": "금융·보안",
+      "status": "보도",
+      "summary": [
+        "아침에는 금융권 긴급회의가 예정돼 있었는데, 오후 2시 실제 회의가 열려 대응 지시와 점검 기한이 나왔습니다. 당국은 9월 30일~10월 3일 침해사고가 발생한 금융사를 7곳으로 집계했습니다.",
+        "웰컴저축은행에서는 법인 담당자 연락처 등 약 2200건의 유출이 추가로 보도됐습니다. 이는 2200명의 일반 예금계좌가 털렸다는 뜻이 아니며, 개인정보 유출과 직접적인 금전 피해를 나눠 봐야 합니다.",
+        "금융당국은 인증이 빠진 조회 서비스와 직원용 시스템의 접근통제를 보완하고, 위험한 서비스는 차단하도록 주문했습니다. 은행·카드사는 10월 6일까지, 증권·보험·저축은행·전자금융업자 등은 8일까지 긴급점검을 마치도록 했다는 현장 보도입니다.",
+        "공격이 AI를 활용했는지는 아직 확정되지 않았습니다. 금융 이용자에게 당장 중요한 것은 유출 정보가 스미싱이나 사칭 전화로 악용되는 2차 피해 여부이며, 점검 완료와 추가 피해 집계는 후속 확인이 필요합니다."
+      ],
+      "keyFacts": {
+        "response": "인증 누락 서비스 보완·차단, 직원용 시스템 접근통제 강화 지시",
+        "aiAttribution": "미확정",
+        "meetingResult": "10월4일14시 개최, 권역별 긴급점검 기한과 취약 서비스 조치 제시",
+        "affectedCompanies": "9월30일~10월3일 집계7곳",
+        "welcomeRecords": "법인고객 관련 정보 약2200건",
+        "bankCardDeadline": "2026-10-06",
+        "otherSectorsDeadline": "2026-10-08"
+      },
+      "uncertainty": "AI 활용과 공격 주체는 확정되지 않았고 7곳은 당국의 특정 기간 집계입니다. 추가 의심 사례 전부를 포함한 최종 피해 총계가 아닙니다.",
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "금융당국 긴급 회의…\"7곳 피해, AI 활용 추정\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782626",
+          "publishedAt": "2026-10-04T15:12:59+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228401_1280.jpg",
+          "verificationNote": "본문과 등록 메타데이터를 확인했습니다. 7곳은 9월 30일~10월 3일 금융당국 집계 범위이며 당일 이후 모든 의심 사례를 합한 수가 아닙니다."
+        },
+        {
+          "name": "뉴스웨이",
+          "title": "IP 바꿔가며 동시다발 침투···AI까지 동원한 금융권 해킹 '비상' - 뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100414184833274",
+          "publishedAt": "2026-10-04T14:23:02+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://nimage.newsway.co.kr/photo/2026/10/04/20261004003368_1200.jpg",
+          "verificationNote": "현장 취재 본문에서 14시 회의, 권역별 점검 기한, 서비스 접근통제 조치를 확인했습니다. AI 사용은 가능성으로 구분합니다."
+        }
+      ],
+      "briefingPath": "2026-10-04/pm.json",
+      "previous": {
+        "editionId": "2026-10-04-am",
+        "storyId": "bank-ceo-emergency-meeting-2026-10-04"
+      },
+      "followUp": {
+        "editionId": "2026-10-04-am",
+        "storyId": "bank-ceo-emergency-meeting-2026-10-04",
+        "delta": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-04T09:20:00+09:00"
+  "updatedAt": "2026-10-04T21:13:51+09:00"
 }

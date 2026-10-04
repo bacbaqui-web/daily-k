@@ -376,7 +376,66 @@
         "sourceDocument": "news-briefing-archive.md",
         "importedAt": "2026-10-02T12:34:33+09:00"
       }
+    },
+    {
+      "id": "2026-10-04-pm/ibk-usdkrw-outlook-2026-10",
+      "editionId": "2026-10-04-pm",
+      "storyId": "ibk-usdkrw-outlook-2026-10",
+      "editionDate": "2026-10-04",
+      "edition": "pm",
+      "coveredAt": "2026-10-04T21:13:51+09:00",
+      "coveredOn": "2026-10-04",
+      "publishedAt": "2026-10-04T10:28:00+09:00",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "10월 4일 10:28은 국내 기사 발행 시각이며 증권사 원보고서 발표일은 미확인입니다. 전망 대상은 2026년 말과 조건부 2027년입니다.",
+      "stage": "분석",
+      "change": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
+      "title": "IBK 인용 보도 “연말 환율 1400원 전후”…오늘의 시세는 아닙니다",
+      "category": "환율·금리",
+      "status": "분석",
+      "summary": [
+        "IBK투자증권이 연말 원·달러 환율을 1400원 전후로 예상했다는 분석이 오늘 소개됐습니다. 10월 2일의 실제 주간 종가를 다룬 이전 브리핑과 달리, 이번 숫자는 앞으로의 경로에 대한 전망입니다.",
+        "한경비즈니스에 따르면 IBK는 원화 강세 요인이 상당 부분 반영됐고, 미국의 높은 시장금리와 대미 직접투자에 따른 달러 수요는 환율 상승 요인이 될 수 있다고 봤습니다. 달러 수요가 늘면 원화를 달러로 바꾸려는 압력이 커진다는 설명입니다.",
+        "대외 여건이 악화되면 연말이나 내년에 1400원대 중후반까지 갈 가능성도 제시했습니다. 이는 기본 전망과 구분되는 조건부 시나리오이며 실제 도달한 환율이나 금융시장 전체의 합의된 예상은 아닙니다.",
+        "수입 원가나 해외 지출을 볼 때 한 방향의 환율만 가정하지 말아야 한다는 참고 자료입니다. 이번에는 증권사 보고서 원문과 최초 발표일을 확보하지 못해 기사에 인용된 분석 범위로만 정리했습니다."
+      ],
+      "keyFacts": {
+        "referenceType": "IBK투자증권 전망을 인용한 국내 기사, 실제 시세 아님",
+        "forecastHorizon": "2026년말",
+        "yearEndForecast": "1400원 전후",
+        "adverseScenario": "대외여건 악화 시 연말 또는2027년1400원대중후반 가능성",
+        "originalReportDate": "미확인"
+      },
+      "uncertainty": "단일 증권사의 조건부 전망을 인용한 기사이며 원보고서와 최초 발표일은 미확인입니다. 향후 환율이나 종가를 확정하지 않습니다.",
+      "sources": [
+        {
+          "name": "한경비즈니스",
+          "title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망",
+          "url": "https://magazine.hankyung.com/business/article/202610042279b",
+          "publishedAt": "2026-10-04T10:28:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T21:07:35+09:00",
+          "imageUrl": "https://img.hankyung.com/photo/202610/AD.45932464.1.jpg",
+          "verificationNote": "기사 본문과 등록 시각 확인. IBK 보고서 원문·최초 발표일은 확보하지 못했으며 기사에 인용된 전망임을 명시합니다. 장중/종가로 쓰지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-04/pm.json",
+      "previous": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "usdkrw-2026-10-02-close"
+      },
+      "followUp": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "usdkrw-2026-10-02-close",
+        "delta": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-04T09:20:00+09:00"
+  "updatedAt": "2026-10-04T21:13:51+09:00"
 }
