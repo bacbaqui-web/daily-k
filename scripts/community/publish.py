@@ -35,7 +35,7 @@ def validate(v):
    assert sum(len(text.split()) for text in [s['title'],s.get('originalText',''),*[c['text'] for c in quotes]])<=25,'short quotations only'
    if s['category']=='ㅇㅎㅂ':
     assert s.get('contentReview')=='public-non-explicit','public, non-explicit content review required'
-    tagged=bool(re.search(r'(?<![ㄱ-ㅎ])(?:ㅇㅎㅂ|ㅇㅎ|ㅎㅂ)(?![ㄱ-ㅎ])',s['title'].replace('\u200b','')))
+    tagged=any(re.search(r'(?<![ㄱ-ㅎ])(?:ㅇㅎㅂ|ㅇㅎ|ㅎㅂ)(?![ㄱ-ㅎ])',title.replace('\u200b','')) for title in [s['title'],*[source['title'] for source in s['sources']]])
     assert tagged or s.get('contentSignals'),'tagged title or verified comment signal required'
     assert s.get('imageUrl') or s.get('videoUrl'),'tagged story needs observed media'
     for signal in s.get('contentSignals',[]):

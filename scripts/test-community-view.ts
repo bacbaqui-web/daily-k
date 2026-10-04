@@ -9,3 +9,7 @@ assert.equal(items.length,2);assert.deepEqual(communityStoryIndices(items,'ㅇ�
 assert.equal(prepareCommunityStories([{id:'x',title:source.title,category:'ㅇㅎㅂ',imageUrl:'https://example.com/image.jpg',sources:[source]}]).length,0);
 assert.deepEqual(contentMarkers({portalLinks:['https://instagram.com/example/','https://x.com/example/status/1','https://x.com.evil.test/example']}),[{label:'인스타',url:'https://instagram.com/example/'},{label:'X',url:'https://x.com/example/status/1'}]);
 console.log('Community title routing, tagged ranking and social links passed');
+
+const originOnly={...items[0],title:'공개 공연',category:'유머',kCount:0,sources:[{title:'공개 공연'},source]};
+assert.equal(prepareCommunityStories([originOnly])[0]?.category,'ㅇㅎㅂ');
+assert.equal(prepareCommunityStories([originOnly])[0]?.title,'공개 공연');

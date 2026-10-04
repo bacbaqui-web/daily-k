@@ -5,7 +5,7 @@ type CommunityRecord={id:string;title:string;category:string;kCount?:number;comm
 export function prepareCommunityStories<T extends CommunityRecord>(stories:T[]):T[]{
  return stories.flatMap(s=>{
   const title=s.sources[0]?.title||s.title;
-  if(isTaggedCommunityTitle(title)||s.category==='ㅇㅎㅂ'){
+  if([s.title,...s.sources.map(source=>source.title)].some(isTaggedCommunityTitle)||s.category==='ㅇㅎㅂ'){
    if(s.contentReview!=='public-non-explicit'||!s.imageUrl&&!s.videoUrl)return [];
    return [{...s,title,category:'ㅇㅎㅂ'} as T];
   }

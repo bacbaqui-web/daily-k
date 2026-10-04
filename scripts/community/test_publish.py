@@ -50,4 +50,7 @@ class ValidationTests(unittest.TestCase):
  def test_reject_spoofed_social_domain(self):
   v=self.tagged_sample();v['stories'][0]['portalLinks']=['https://x.com.evil.test/example']
   with self.assertRaises(AssertionError):validate(v)
+ def test_origin_title_tag_without_laughter(self):
+  v=self.tagged_sample();v['stories'][0]['title']='공개 행사';v['stories'][0]['sources'][0]['title']='ㅎㅂ) 공개 행사'
+  validate(v)
 if __name__=='__main__':unittest.main()
