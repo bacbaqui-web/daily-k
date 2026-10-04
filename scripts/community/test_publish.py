@@ -23,4 +23,21 @@ class ValidationTests(unittest.TestCase):
   for count in (0,-1,True,1.5):
    v=self.sample();v['stories'][0].update(sourceBreakdown=[{'name':'루리웹','count':count}],sourceStatsVerifiedAt='2026-10-03T10:00:00+09:00')
    with self.assertRaises(AssertionError):validate(v)
+ def original_sample(self):
+  v=self.sample();v['schemaVersion']=2;v['overview']=[]
+  for s in v['stories']:s.update(summary=[],originalText='짧은 원문',comments=[{'id':'c1','text':'ㅋㅋ'}],kCount=10,commentCount=3,commentsVerifiedAt='2026-10-03T09:02:00+09:00',category='유머')
+  return v
+ def test_original_sample(self):validate(self.original_sample())
+ def test_reject_humor_below_threshold(self):
+  v=self.original_sample();v['stories'][0]['kCount']=9
+  with self.assertRaises(AssertionError):validate(v)
+ def test_reject_unknown_k_count(self):
+  v=self.original_sample();v['stories'][0]['kCount']=None
+  with self.assertRaises(AssertionError):validate(v)
+ def test_reject_long_original_copy(self):
+  v=self.original_sample();v['stories'][0]['originalText']='word '*26
+  with self.assertRaises(AssertionError):validate(v)
+ def test_reject_tagged_without_review(self):
+  v=self.original_sample();v['stories'][0]['category']='ㅇㅎㅂ'
+  with self.assertRaises(AssertionError):validate(v)
 if __name__=='__main__':unittest.main()

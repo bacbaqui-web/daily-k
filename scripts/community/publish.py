@@ -7,21 +7,40 @@ def url(v):
  p=urlsplit(v);assert p.scheme in ('http','https') and p.netloc and not p.username and not p.password,'invalid URL'
 def stamp(v):return dt.datetime.fromisoformat(v.replace('Z','+00:00'))
 def validate(v):
- assert v['schemaVersion']==1 and v['timezone']=='Asia/Seoul'
+ assert v['schemaVersion'] in (1,2) and v['timezone']=='Asia/Seoul'
  assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',v['date']) and v['edition'] in ('am','pm')
  assert v['id']==v['date']+'-'+v['edition']
  cutoff=stamp(v['cutoffAt'])
  assert cutoff.date().isoformat()==v['date'] and cutoff.utcoffset()==dt.timedelta(hours=9)
  if not v.get('test',False):assert cutoff.isoformat()==v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00')
  assert stamp(v['generatedAt'])>=cutoff
- assert isinstance(v['overview'],list) and 1<=len(v['overview'])<=4 and all(isinstance(p,str) and p.strip() for p in v['overview'])
+ assert isinstance(v['overview'],list) and (0 if v['schemaVersion']==2 else 1)<=len(v['overview'])<=4 and all(isinstance(p,str) and p.strip() for p in v['overview'])
  assert 3<=len(v['stories'])<=20,'3..20 verified stories required'
  seen=set()
  for s in v['stories']:
   assert s['id'] not in seen;seen.add(s['id'])
-  assert s['category'] in ('화제','유머','정보') and s['topicKey'].strip()
+  assert s['category'] in ('화제','유머','정보','생활','문화','스포츠','ㅇㅎㅂ') and s['topicKey'].strip()
   for k in ('title','selectionReason','popularityEvidence','verificationNote'):assert isinstance(s[k],str) and s[k].strip(),k
-  assert 1<=len(s['summary'])<=5 and all(isinstance(p,str) and p.strip() for p in s['summary'])
+  assert (0 if v['schemaVersion']==2 else 1)<=len(s['summary'])<=5 and all(isinstance(p,str) and p.strip() for p in s['summary'])
+  if v['schemaVersion']==2:
+   assert not s['summary'] and not v['overview'],'do not write community summaries'
+   assert type(s['kCount']) is int and s['kCount']>=0
+   assert type(s['commentCount']) is int and s['commentCount']>=0
+   assert stamp(s['commentsVerifiedAt']).tzinfo is not None
+   assert stamp(s['commentsVerifiedAt'])<=stamp(v['generatedAt'])
+   if s['category']=='유머':assert s['kCount']>=10,'humor requires 10 verified k characters'
+   quotes=s.get('comments',[]);assert isinstance(quotes,list)
+   assert len({c['id'] for c in quotes})==len(quotes),'duplicate comment quote'
+   assert all(isinstance(c['text'],str) and c['text'].strip() for c in quotes)
+   assert sum(len(text.split()) for text in [s['title'],s.get('originalText',''),*[c['text'] for c in quotes]])<=25,'short quotations only'
+   if s['category']=='ㅇㅎㅂ':
+    assert s.get('contentReview')=='public-non-explicit','public, non-explicit content review required'
+    assert s.get('contentSignals'),'verified comment signal required'
+    for signal in s['contentSignals']:
+     assert signal['kind'] in ('instagram','x','leaked') and str(signal['commentId']).strip()
+     if signal['kind']!='leaked':
+      url(signal['url']);host=urlsplit(signal['url']).hostname
+      assert host in ('instagram.com','www.instagram.com','x.com','www.x.com','twitter.com','www.twitter.com')
   assert s['sources']
   for field in ('imageUrl','videoUrl','videoPosterUrl'):
    if s.get(field):url(s[field])

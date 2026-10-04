@@ -152,3 +152,13 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .community-notes summary{cursor:pointer;color:var(--muted-foreground);font-size:13px}
 .community-notes[open] summary{color:var(--foreground)}
 .community-notes p{font-size:13px;line-height:1.8}
+
+.community-filters{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 22px}
+.community-filters button{border:1px solid var(--border);border-radius:6px;padding:5px 9px;background:transparent;font-size:12px;color:var(--muted-foreground);cursor:pointer}
+.community-filters button[aria-pressed="true"]{color:var(--news-accent);border-color:var(--news-accent);background:color-mix(in srgb,var(--news-accent) 8%,transparent)}
+.community-filters span{font-variant-numeric:tabular-nums;margin-left:3px}
+.community-comments{margin:22px 0}.community-comments h3{font-size:14px;margin-bottom:12px}.community-comments h3 span{font-size:12px;font-weight:400;color:var(--muted-foreground);margin-left:8px}
+.community-comments ol{padding:0;list-style:none}.community-comments li{padding:12px 0;border-bottom:1px solid var(--border)}
+.community-comments blockquote,.community-original{margin:0;white-space:pre-wrap;font-size:15px;line-height:1.8;overflow-wrap:anywhere}
+.community-comments small,.community-comment-note{font-size:12px;color:var(--muted-foreground)}
+.community-comments small{display:block;margin-top:5px}.community-original{margin:16px 0;padding-left:12px;border-left:2px solid var(--news-accent)}
