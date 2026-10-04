@@ -40,4 +40,14 @@ class ValidationTests(unittest.TestCase):
  def test_reject_tagged_without_review(self):
   v=self.original_sample();v['stories'][0]['category']='ㅇㅎㅂ'
   with self.assertRaises(AssertionError):validate(v)
+ def tagged_sample(self):
+  v=self.original_sample();v['stories'][0].update(title='ㅇㅎ) 공개 행사',category='ㅇㅎㅂ',kCount=0,contentReview='public-non-explicit',imageUrl='https://example.com/photo.jpg',portalLinks=['https://www.instagram.com/example/'])
+  return v
+ def test_title_tag_without_laughter_or_signal(self):validate(self.tagged_sample())
+ def test_reject_tagged_without_media(self):
+  v=self.tagged_sample();v['stories'][0]['imageUrl']=None
+  with self.assertRaises(AssertionError):validate(v)
+ def test_reject_spoofed_social_domain(self):
+  v=self.tagged_sample();v['stories'][0]['portalLinks']=['https://x.com.evil.test/example']
+  with self.assertRaises(AssertionError):validate(v)
 if __name__=='__main__':unittest.main()

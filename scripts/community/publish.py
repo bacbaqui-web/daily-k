@@ -35,13 +35,18 @@ def validate(v):
    assert sum(len(text.split()) for text in [s['title'],s.get('originalText',''),*[c['text'] for c in quotes]])<=25,'short quotations only'
    if s['category']=='ㅇㅎㅂ':
     assert s.get('contentReview')=='public-non-explicit','public, non-explicit content review required'
-    assert s.get('contentSignals'),'verified comment signal required'
-    for signal in s['contentSignals']:
+    tagged=bool(re.search(r'(?<![ㄱ-ㅎ])(?:ㅇㅎㅂ|ㅇㅎ|ㅎㅂ)(?![ㄱ-ㅎ])',s['title'].replace('\u200b','')))
+    assert tagged or s.get('contentSignals'),'tagged title or verified comment signal required'
+    assert s.get('imageUrl') or s.get('videoUrl'),'tagged story needs observed media'
+    for signal in s.get('contentSignals',[]):
      assert signal['kind'] in ('instagram','x','leaked') and str(signal['commentId']).strip()
      if signal['kind']!='leaked':
       url(signal['url']);host=urlsplit(signal['url']).hostname
       assert host in ('instagram.com','www.instagram.com','x.com','www.x.com','twitter.com','www.twitter.com')
   assert s['sources']
+  for link in s.get('portalLinks',[]):
+   url(link);host=urlsplit(link).hostname
+   assert host and any(host==d or host.endswith('.'+d) for d in ('instagram.com','x.com','twitter.com'))
   for field in ('imageUrl','videoUrl','videoPosterUrl'):
    if s.get(field):url(s[field])
   if 'sourceBreakdown' in s:

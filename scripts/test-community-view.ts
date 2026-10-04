@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {isTaggedCommunityTitle,prepareCommunityStories,communityStoryIndices} from '../lib/community-view.ts';
+import {contentMarkers} from '../lib/content-markers.ts';
+for(const title of ['ㅇㅎ) 공개 행사','[ㅎㅂ] 공개 행사','ㅇㅎㅂ 공연'])assert(isTaggedCommunityTitle(title));
+for(const title of ['정보 글','ㅋㅋㅇㅎㅋㅋ','ㅇㅎㅎ'])assert(!isTaggedCommunityTitle(title));
+const source={title:'ㅇㅎ) 공개 공연',publishedAt:'2026-10-04T08:00:00+09:00'};
+const items=prepareCommunityStories([{id:'a',title:source.title,category:'ㅇㅎㅂ',kCount:0,commentCount:2,contentReview:'public-non-explicit',imageUrl:'https://example.com/image.jpg',sources:[source]},{id:'b',title:source.title,category:'ㅇㅎㅂ',kCount:0,commentCount:20,contentReview:'public-non-explicit',videoUrl:'https://example.com/video.mp4',sources:[source]}]);
+assert.equal(items.length,2);assert.deepEqual(communityStoryIndices(items,'ㅇㅎㅂ'),[1,0]);
+assert.equal(prepareCommunityStories([{id:'x',title:source.title,category:'ㅇㅎㅂ',imageUrl:'https://example.com/image.jpg',sources:[source]}]).length,0);
+assert.deepEqual(contentMarkers({portalLinks:['https://instagram.com/example/','https://x.com/example/status/1','https://x.com.evil.test/example']}),[{label:'인스타',url:'https://instagram.com/example/'},{label:'X',url:'https://x.com/example/status/1'}]);
+console.log('Community title routing, tagged ranking and social links passed');
