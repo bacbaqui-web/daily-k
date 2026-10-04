@@ -1,0 +1,769 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-04-am",
+  "date": "2026-10-04",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-04T09:00:00+09:00",
+  "generatedAt": "2026-10-04T09:20:00+09:00",
+  "intro": "10월 4일 오전 9시 기준, 밤사이 새 보도와 전 회차 이후의 후속 내용을 정리했습니다.",
+  "overview": [
+    "오늘 아침 기술 뉴스의 핵심은 AI의 확장에 필요한 조건입니다. 애플은 맥의 전체 디스크 접근 권한 강화를 예고했고, 삼성은 용인 반도체 산단의 2029년 첫 공장 가동 목표와 전력·용수 계획을 소개했습니다. 모두 계획 단계인 부분을 실제 시행·완공과 구분했습니다.",
+    "금융권에서는 어제 21시 이후 오늘 오후 전체 업권 CEO 긴급회의 소집 보도가 나왔습니다. 국제 증시는 하루 종가를 반복하는 대신 9월 나스닥100 +3%와 S&P500 종목 약 80% 하락이라는 월간 분석으로 대형 AI주와 나머지 시장의 차이를 살폈습니다.",
+    "국내에서는 취업지원제도의 1년 고용유지율 55% 안팎이라는 자료가 새로 보도됐습니다. 북한의 1000㎞ 명중 주장은 합참 관측 700㎞ 이상과 구분해야 합니다. 웹툰은 최근 업데이트인 주동근 작가의 10월 17일 창작 교육 강연을 정리했습니다."
+  ],
+  "overviewEmphasis": [
+    "전체 디스크 접근 권한 강화",
+    "2029년 첫 공장 가동 목표",
+    "오늘 오후 전체 업권 CEO 긴급회의",
+    "9월 나스닥100 +3%와 S&P500 종목 약 80% 하락",
+    "1년 고용유지율 55% 안팎",
+    "1000㎞ 명중 주장",
+    "10월 17일 창작 교육 강연"
+  ],
+  "stories": [
+    {
+      "id": "samsung-yongin-cluster-exhibition-2026-10",
+      "topicKey": "samsung-yongin-cluster-exhibition-2026-10",
+      "category": "반도체·산업",
+      "title": "삼성, 용인 반도체 산단의 전력·용수 계획 공개…첫 공장 2029년 목표",
+      "status": "예정",
+      "publishedAt": "2026-10-04T06:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "현장 전시는 10월 3~4일이며 회사 설명을 인용한 보도는 4일 06시입니다. 최초 발표의 정확한 시각은 확인하지 못했습니다.",
+      "summary": [
+        "삼성전자가 용인 과학축제에서 반도체 국가산단의 에너지·용수 계획을 소개했습니다. 첫 반도체 공장은 2029년 10월 조기 가동을 목표로 추진한다는 설명입니다.",
+        "회사는 10월 3~4일 용인미르스타디움 행사에 참여했고 전시 부스를 지난해 2개에서 4개로 늘렸습니다. 360조 원 투자 계획과 지역 산업 생태계 구상을 시민들에게 설명한 것으로, 오늘 새로 투자 의결을 했다는 발표는 아닙니다.",
+        "계획에는 LNG 발전시설 3곳과 열병합 에너지 활용, 주변 도시의 하수 처리수를 공업용수로 다시 쓰는 방안이 포함됐습니다. 반도체 생산 확대에는 공장 건물뿐 아니라 안정적인 전력과 물 공급이 필요하다는 점이 핵심입니다.",
+        "회사 설명에 등장하는 고용 160만 명은 기대 효과이며 채용이 완료된 인원으로 읽으면 안 됩니다. 2029년 가동과 기반시설 구축도 목표 단계이므로 실제 공정 진행과 공급시설 확보를 계속 확인해야 합니다."
+      ],
+      "emphasis": [
+        "2029년 10월",
+        "360조 원 투자 계획",
+        "안정적인 전력과 물 공급",
+        "고용 160만 명은 기대 효과"
+      ],
+      "keyFacts": {
+        "plannedInvestment": "360조 원",
+        "firstFabTarget": "2029년 10월",
+        "exhibitionDates": "2026-10-03~2026-10-04",
+        "lngFacilitiesPlanned": "3곳",
+        "employmentEffect": "160만 명 기대 효과, 실현 인원 아님"
+      },
+      "whatChanged": "회사가 지역 행사에서 산단의 전력·용수 인프라와 가동 목표를 함께 설명했습니다. 기존 투자 계획의 현장 공개입니다.",
+      "whyItMatters": "반도체 설비 투자와 전력·수자원 기반시설을 함께 봐야 실제 생산능력 확대 속도를 판단할 수 있습니다.",
+      "uncertainty": "투자·고용 효과·가동 시점은 회사의 계획과 추정입니다. 별도의 신규 투자 의결이나 시설 완공을 뜻하지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "\"160만명 고용 창출\"…삼성전자, 용인 과학축제서 반도체 클러스터 청사진 공개",
+          "url": "https://www.newsis.com/view/NISX20261002_0003813056",
+          "publishedAt": "2026-10-04T06:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002255168_web.jpg",
+          "verificationNote": "등록 06:00, 수정 06:48:24. 회사의 사업 계획·추정 효과로 읽고 신규 투자 의결이나 실현된 고용으로 쓰지 않습니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "삼성전자, '360조 용인 반도체 산단 청사진' 지역 사회에 공개…'2029년 가동' 속도",
+          "url": "https://www.fnnews.com/news/202610021602070390",
+          "publishedAt": "2026-10-04T06:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "verificationNote": "웹 검색의 기사 본문에서 회사 설명과 행사 날짜를 확인했습니다. 직접 요청은 403으로 OG 이미지를 생략합니다. 같은 회사 발표를 인용한 기사여서 독립적 사업성 검증은 아닙니다."
+        },
+        {
+          "name": "문화체육관광부",
+          "title": "용인사이버과학축제",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=4&pSeq=11709",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "verificationNote": "공식 행사 안내의 10월 3~4일, 10~17시 운영 시간을 확인했습니다. 최초 게시 시각은 미표시입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "\"160만명 고용 창출\"…삼성전자, 용인 과학축제서 반도체 클러스터 청사진 공개",
+          "url": "https://www.newsis.com/view/NISX20261002_0003813056",
+          "publishedAt": "2026-10-04T06:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002255168_web.jpg",
+          "verificationNote": "등록 06:00, 수정 06:48:24. 회사의 사업 계획·추정 효과로 읽고 신규 투자 의결이나 실현된 고용으로 쓰지 않습니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "삼성전자, '360조 용인 반도체 산단 청사진' 지역 사회에 공개…'2029년 가동' 속도",
+          "url": "https://www.fnnews.com/news/202610021602070390",
+          "publishedAt": "2026-10-04T06:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "verificationNote": "웹 검색의 기사 본문에서 회사 설명과 행사 날짜를 확인했습니다. 직접 요청은 403으로 OG 이미지를 생략합니다. 같은 회사 발표를 인용한 기사여서 독립적 사업성 검증은 아닙니다."
+        },
+        {
+          "name": "문화체육관광부",
+          "title": "용인사이버과학축제",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=4&pSeq=11709",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "verificationNote": "공식 행사 안내의 10월 3~4일, 10~17시 운영 시간을 확인했습니다. 최초 게시 시각은 미표시입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 91,
+        "interest": 98,
+        "domesticImpact": 97,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "당일 아침 반도체 소식으로 회사 설명과 공식 행사 정보를 대조했습니다.",
+      "timeline": {
+        "issueId": "yongin-samsung-semiconductor-cluster",
+        "issueTitle": "삼성전자 용인 첨단시스템반도체 국가산단",
+        "eventDate": "2026-10-03",
+        "eventEndDate": "2026-10-04",
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "회사가 지역 행사에서 산단의 전력·용수 인프라와 가동 목표를 함께 설명했습니다. 기존 투자 계획의 현장 공개입니다."
+      },
+      "score": 96.55,
+      "factsHash": "c53b3d72ab9d2cafd517546e957fae1b5fb1d98acfb49da30796b7d8550b89ce"
+    },
+    {
+      "id": "apple-full-disk-access-controls-2026-10",
+      "topicKey": "apple-full-disk-access-controls-2026-10",
+      "category": "기술·IT·AI",
+      "title": "애플, 맥 전체 디스크 접근 권한 강화 예고…AI 에이전트도 영향",
+      "status": "예정",
+      "publishedAt": "2026-10-04T00:44:01+09:00",
+      "eventAt": null,
+      "eventTimeNote": "Apple 공식 공지의 미국 날짜는 10월 2일입니다. 정확한 발표 시각은 표시되지 않아 eventAt을 비워 두었습니다. 국내 기사는 10월 4일 새벽에 발행됐습니다.",
+      "summary": [
+        "애플이 맥 앱의 전체 디스크 접근 권한을 허용할 때 사용자 확인을 더 강화하겠다고 밝혔습니다. AI 에이전트가 더 자율적으로 움직일수록 광범위한 데이터 접근의 위험도 커진다는 판단입니다.",
+        "10월 2일자 공식 개발자 공지에 따르면 이 권한은 백업 앱 등에 필요한 예외적 접근 수단입니다. 하지만 일부 앱은 파일뿐 아니라 메일·메시지·인터넷 이용 기록까지 사용자가 충분히 이해하지 못한 채 접근할 수 있다고 애플은 설명했습니다.",
+        "앞으로는 권한을 주려는 사용자의 명시적 행동과 위험 이해를 더 분명히 확인하는 장치를 도입할 계획입니다. 오늘 이미 모든 맥의 권한 설정이 바뀌었다거나 AI 앱 전체가 차단됐다는 뜻은 아닙니다.",
+        "업무를 대신 처리하는 AI의 편리함과 개인정보 보호를 함께 설계해야 한다는 변화로 읽을 수 있습니다. 애플은 이번 공지에서 적용 버전·시행일·구체적인 승인 화면은 밝히지 않았으며, 특정 앱을 공식적으로 지목하지도 않았습니다."
+      ],
+      "emphasis": [
+        "전체 디스크 접근 권한",
+        "사용자의 명시적 행동",
+        "적용 버전·시행일·구체적인 승인 화면은 밝히지 않았으며"
+      ],
+      "keyFacts": {
+        "announcementDate": "2026-10-02 Apple 공지 표기",
+        "policy": "전체 디스크 접근에 추가 통제 도입 예정",
+        "rationale": "자율적인 AI 에이전트의 광범위한 데이터 접근 위험",
+        "effectiveDate": "미공개"
+      },
+      "whatChanged": "광범위한 데이터 권한에 대한 추가 통제 계획을 애플이 공식 공지했고, 오늘 새벽 국내에 소개됐습니다.",
+      "whyItMatters": "맥에서 업무를 수행하는 AI 앱과 개발자의 권한 요청 설계에 영향을 줄 수 있습니다.",
+      "uncertainty": "적용 OS 버전·시행일·세부 승인 절차는 미공개입니다. 변경이 이미 배포됐다고 보지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "애플, 맥 개인정보 접근 문턱 높인다…AI 에이전트 위험 경고",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813754",
+          "publishedAt": "2026-10-04T00:44:01+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/04/NISI20261004_0002255248_web.jpg",
+          "verificationNote": "본문 등록 00:44:01, 수정 02:00:24. 공식 개발자 공지와 대조했습니다."
+        },
+        {
+          "name": "Apple Developer",
+          "title": "Updates to Full Disk Access in macOS",
+          "url": "https://developer.apple.com/news/?id=p6zjojqw",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png",
+          "verificationNote": "공식 공지의 October 2, 2026 날짜와 본문을 확인했습니다. 시각은 미표시이며 특정 앱에 관한 기자의 추정은 사용하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "애플, 맥 개인정보 접근 문턱 높인다…AI 에이전트 위험 경고",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813754",
+          "publishedAt": "2026-10-04T00:44:01+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/04/NISI20261004_0002255248_web.jpg",
+          "verificationNote": "본문 등록 00:44:01, 수정 02:00:24. 공식 개발자 공지와 대조했습니다."
+        },
+        {
+          "name": "Apple Developer",
+          "title": "Updates to Full Disk Access in macOS",
+          "url": "https://developer.apple.com/news/?id=p6zjojqw",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png",
+          "verificationNote": "공식 공지의 October 2, 2026 날짜와 본문을 확인했습니다. 시각은 미표시이며 특정 앱에 관한 기자의 추정은 사용하지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 89,
+        "interest": 100,
+        "domesticImpact": 84,
+        "reliability": 99,
+        "recency": 100
+      },
+      "scoreReason": "새벽 보도와 공식 공지가 일치하며 AI·개발도구 관심도가 높습니다.",
+      "timeline": {
+        "issueId": "apple-macos-full-disk-access-controls",
+        "issueTitle": "애플 macOS 전체 디스크 접근 통제 강화",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "America/Los_Angeles",
+        "stage": "발표",
+        "change": "광범위한 데이터 권한에 대한 추가 통제 계획을 애플이 공식 공지했고, 오늘 새벽 국내에 소개됐습니다."
+      },
+      "score": 95.55,
+      "factsHash": "f2ba695b2b71ad77daa0ecedf98630f62e5877e450d3e0363d8c37c767e216c5"
+    },
+    {
+      "id": "north-korea-missile-claim-2026-10-04",
+      "topicKey": "north-korea-missile-2026-10-03",
+      "category": "국내·안보",
+      "title": "북한, 어제 미사일 ‘1000㎞ 명중’ 주장…군 관측과 구분해야",
+      "status": "주장",
+      "publishedAt": "2026-10-04T08:28:21+09:00",
+      "eventAt": null,
+      "eventTimeNote": "추가 설명 보도는 10월 4일, 실제 발사는 10월 3일입니다. 이번 연표 사건일은 조선중앙통신의 추가 설명 날짜이며 정확한 발표 시각은 미확인입니다.",
+      "summary": [
+        "북한이 10월 3일 발사를 극초음속 미사일 훈련으로 설명하며 1000㎞ 떨어진 목표물을 맞혔다고 주장했습니다. 오늘 아침 조선중앙통신 보도를 인용한 내용으로, 오늘 새 미사일을 발사했다는 뜻은 아닙니다.",
+        "어제 저녁에는 김여정의 중거리전략미사일 훈련 발표까지 확인됐는데, 오늘은 무기 분류와 목표 거리 설명이 더해졌습니다. 북한은 김정은이 훈련을 참관했다고도 전했습니다.",
+        "우리 합참이 공개한 관측은 원산 일대에서 3일 오전 6시 30분께 발사된 1발이 700㎞ 이상 비행했다는 것입니다. 북한의 1000㎞ 주장을 우리 군이 새로 확인한 비행거리로 바꾸면 안 됩니다.",
+        "안보 상황을 판단할 때에는 실제 탐지 결과와 북한의 성능 설명을 분리해서 볼 필요가 있습니다. 극초음속 성능과 명중 여부는 이번 확인 범위에서 독립 검증되지 않았으며, 한·미의 정밀 제원 분석이 남아 있습니다."
+      ],
+      "emphasis": [
+        "1000㎞ 떨어진 목표물을 맞혔다고 주장",
+        "오늘 새 미사일을 발사했다는 뜻은 아닙니다",
+        "1발이 700㎞ 이상 비행",
+        "독립 검증되지 않았으며"
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "direction": "동해상",
+        "weapon": "탄도미사일",
+        "detectedCount": "1발",
+        "flightDistance": "700㎞ 이상",
+        "detailStatusAtSelectedReport": "1발·700㎞ 이상 확인, 정확한 제원 분석 중",
+        "northKoreaDescription": "조선중앙통신이 극초음속 미사일 훈련으로 설명",
+        "claimedTargetDistance": "1000㎞, 북한 주장",
+        "capabilityVerification": "극초음속 성능·명중 여부 독립 확인 안 됨"
+      },
+      "whatChanged": "어제 저녁의 김여정 발표 이후 조선중앙통신이 극초음속 분류와 1000㎞ 목표 명중 주장을 추가했습니다.",
+      "whyItMatters": "북한의 추가 설명과 군 당국의 관측 범위를 구별해 후속 안보 정보를 읽어야 합니다.",
+      "uncertainty": "성능·명중 주장은 독립 확인되지 않았으며 합참의 관측 수치는 기존 700㎞ 이상입니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "北 김정은, 주애와 극초음속미사일 발사 훈련 참관",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813786",
+          "publishedAt": "2026-10-04T08:28:21+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472332_web.jpg",
+          "verificationNote": "수정 08:36:25까지 기준 이전입니다. 조선중앙통신의 무기 성능 주장과 합참 관측을 분리했습니다."
+        },
+        {
+          "name": "SBS",
+          "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742",
+          "publishedAt": "2026-10-03T10:00:56+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260912/202221669_1280.jpg",
+          "verificationNote": "합참이 밝힌 1발·700km 이상을 이번 실행에서 다시 확인했습니다. 오늘의 새 북한 주장에 대한 독립 검증으로 취급하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "北 김정은, 주애와 극초음속미사일 발사 훈련 참관",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813786",
+          "publishedAt": "2026-10-04T08:28:21+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472332_web.jpg",
+          "verificationNote": "수정 08:36:25까지 기준 이전입니다. 조선중앙통신의 무기 성능 주장과 합참 관측을 분리했습니다."
+        },
+        {
+          "name": "SBS",
+          "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742",
+          "publishedAt": "2026-10-03T10:00:56+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20260912/202221669_1280.jpg",
+          "verificationNote": "합참이 밝힌 1발·700km 이상을 이번 실행에서 다시 확인했습니다. 오늘의 새 북한 주장에 대한 독립 검증으로 취급하지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 90,
+        "interest": 72,
+        "domesticImpact": 98,
+        "reliability": 90,
+        "recency": 100
+      },
+      "scoreReason": "기존 발사를 반복하지 않고 기준 시각 이후의 새 북한 설명만 후속으로 정리했습니다.",
+      "timeline": {
+        "issueId": "north-korea-missile-2026-10-03",
+        "issueTitle": "북한 2026년 10월 3일 탄도미사일 발사",
+        "eventDate": "2026-10-04",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "어제 저녁의 김여정 발표 이후 조선중앙통신이 극초음속 분류와 1000㎞ 목표 명중 주장을 추가했습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "north-korea-missile-update-2026-10-03",
+        "delta": "어제 저녁의 김여정 발표 이후 조선중앙통신이 극초음속 분류와 1000㎞ 목표 명중 주장을 추가했습니다."
+      },
+      "score": 92.1,
+      "factsHash": "67cbe612f3d6cbe82c46a191156e45d96d20f5102f541e921cc50933f6149709"
+    },
+    {
+      "id": "bank-ceo-emergency-meeting-2026-10-04",
+      "topicKey": "korea-bank-breaches-2026-10",
+      "category": "금융·보안",
+      "title": "금융권 해킹 대응, 오늘 오후 전체 업권 CEO 긴급회의 보도",
+      "status": "예정",
+      "publishedAt": "2026-10-03T21:15:42+09:00",
+      "eventAt": null,
+      "eventTimeNote": "보도상 회의 예정은 한국시간 10월 4일 오후입니다. 시·분은 공개되지 않아 eventAt은 비워 둡니다.",
+      "summary": [
+        "금융위·금감원이 오늘 오후 전 금융권 경영진과 협회장을 소집해 보안 대응을 점검한다는 보도가 나왔습니다. 어제 저녁 9시 이후 전해진 새 일정이며, 아직 회의가 끝나 대책이 확정된 단계는 아닙니다.",
+        "뉴시스는 금융권을 인용해 10월 4일 오후 정부서울청사에서 회의가 열린다고 전했습니다. 은행뿐 아니라 증권·보험·저축은행·가상자산·핀테크 등으로 참석 범위를 넓힌다는 내용입니다.",
+        "10월 2일 금융위 공식 자료에서는 외부에 노출된 시스템 전체의 접근통제 점검과 위협정보 공유를 지시했습니다. 이번 소집 보도는 회사별 점검 상황을 최고경영진 수준에서 모아 대응하려는 후속 조치입니다.",
+        "오늘 확인할 것은 추가 피해 숫자보다 점검 결과와 소비자 보호 방안이 얼마나 구체화되는지입니다. 정확한 회의 시작 시각과 결과는 아직 확인되지 않았고, 공격 배후나 AI 활용 여부도 모든 사고에 대해 확정된 사실로 다루지 않습니다."
+      ],
+      "emphasis": [
+        "오늘 오후 전 금융권 경영진과 협회장",
+        "어제 저녁 9시 이후",
+        "대책이 확정된 단계는 아닙니다",
+        "점검 결과와 소비자 보호 방안"
+      ],
+      "keyFacts": {
+        "shinhanCustomers": "약 25000명",
+        "kbCustomers": "119명",
+        "hanaCustomers": "89명",
+        "busanContractStaff": "11명",
+        "response": "외부 노출 시스템 전반 보안점검 지시",
+        "yegaramCustomers": "약 40000명 추정",
+        "hyundaiCapitalLoanAgents": "146명",
+        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
+        "aiAttribution": "미확정",
+        "nextMeetingDate": "2026-10-04 오후, 정확한 시각 미확인",
+        "nextMeetingScope": "전 금융권 CEO·업권별 협회장 소집 보도",
+        "meetingResult": "아직 미확인"
+      },
+      "whatChanged": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다.",
+      "whyItMatters": "보안 점검과 소비자 보호 조치가 개별 회사 차원에서 금융권 전반의 경영 책임으로 확대되는지 확인할 시점입니다.",
+      "uncertainty": "소집은 금융권 인용 보도이며 정확한 시각·참석 확정 명단·회의 결과는 아직 미확인입니다. AI 공격이나 배후도 단정하지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "은행·2금융권 줄줄이 'AI 해킹'에…당국, 내일 全금융사 CEO 긴급대응 회의",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813711",
+          "publishedAt": "2026-10-03T21:15:42+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:55+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/03/10/NISI20260310_0021203191_web.jpg",
+          "verificationNote": "어제 저녁 기준 이후의 새 기사입니다. 수정 21:22:10. 회의 소집은 금융권 인용 보도이며 아직 회의 결과가 아닙니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:14:10+09:00",
+          "verificationNote": "10월 2일 15시 회의의 공식 자료를 다시 확인했습니다. 보안점검 배경을 뒷받침하며 10월 4일 회의 소집 자체의 공식 확인 자료로 쓰지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "은행·2금융권 줄줄이 'AI 해킹'에…당국, 내일 全금융사 CEO 긴급대응 회의",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813711",
+          "publishedAt": "2026-10-03T21:15:42+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:55+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/03/10/NISI20260310_0021203191_web.jpg",
+          "verificationNote": "어제 저녁 기준 이후의 새 기사입니다. 수정 21:22:10. 회의 소집은 금융권 인용 보도이며 아직 회의 결과가 아닙니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:14:10+09:00",
+          "verificationNote": "10월 2일 15시 회의의 공식 자료를 다시 확인했습니다. 보안점검 배경을 뒷받침하며 10월 4일 회의 소집 자체의 공식 확인 자료로 쓰지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 97,
+        "interest": 96,
+        "domesticImpact": 100,
+        "reliability": 89,
+        "recency": 82
+      },
+      "scoreReason": "금융권 전체로 확대되는 대응 일정은 새 변화입니다. 전날 밤 기사이므로 최신성은 자동 점수 규칙을 따릅니다.",
+      "timeline": {
+        "issueId": "korea-bank-cyber-incidents-2026-10",
+        "issueTitle": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+        "eventDate": "2026-10-04",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "예정",
+        "change": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "korea-bank-breaches-2026-10-03",
+        "delta": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다."
+      },
+      "score": 90.35,
+      "factsHash": "70ab2ab97cf4249a0283c31782bcaa792bc91425f7613f60d67640f9016ae67c"
+    },
+    {
+      "id": "employment-retention-2026-10-04",
+      "topicKey": "national-employment-support-retention-2025",
+      "category": "사회·고용",
+      "title": "취업지원 성과, 취업 뒤에도 봐야…1년 고용유지율 55% 안팎",
+      "status": "보도",
+      "publishedAt": "2026-10-04T08:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "기사 공개는 10월 4일이고 분석 대상은 2025년 통계입니다. 의원실의 정확한 자료 공개일과 노동부 집계 확정일은 확인되지 않아 사건 날짜를 비워 둡니다.",
+      "summary": [
+        "국민취업지원제도의 2025년 12개월 이상 고용유지율이 1유형 55.4%, 2유형 54.3%였다는 자료가 보도됐습니다. 뉴시스가 이종배 의원실이 고용노동부에서 받은 자료를 인용한 결과입니다.",
+        "분모는 취업자 전체가 아니라 고용보험 가입 뒤 12개월이 지나 유지 여부를 확인할 수 있는 사람입니다. 이 기준에 미달한 사람을 모두 현재 실업자라고 단정하거나, 최근 취업자까지 포함한 실패율로 해석하면 안 됩니다.",
+        "1유형의 같은 지표는 2023년 54.1%, 2024년 54.9%에서 2025년 55.4%로 조금 올랐습니다. 2유형은 2023년 53.7%에서 2024년 54.3%로 오른 뒤 지난해 같은 수준에 머물렀습니다.",
+        "취업 알선 규모와 취업 후 정착 정도를 따로 평가해야 한다는 의미입니다. 다만 이번 확인은 의원실 자료를 인용한 보도 범위이며, 원표·이직 사유별 통계는 확보하지 못해 어떤 지원 방식이 이탈을 유발했는지까지 판단할 수는 없습니다."
+      ],
+      "emphasis": [
+        "1유형 55.4%, 2유형 54.3%",
+        "12개월이 지나 유지 여부를 확인할 수 있는 사람",
+        "모두 현재 실업자라고 단정하거나"
+      ],
+      "keyFacts": {
+        "statisticalYear": "2025년",
+        "type1Retention12m": "55.4%",
+        "type2Retention12m": "54.3%",
+        "denominator": "고용보험 가입 후 12개월 이상 경과해 유지 여부 확인 가능한 사람",
+        "attribution": "이종배 의원실 제공 고용노동부 자료를 인용한 뉴시스 보도"
+      },
+      "whatChanged": "2025년 고용유지 지표와 최근 3년 비교가 오늘 아침 의원실 자료 인용 기사로 공개됐습니다.",
+      "whyItMatters": "취업 인원뿐 아니라 일정 기간 일자리를 유지했는지도 지원 사업의 성과를 판단하는 기준입니다.",
+      "uncertainty": "단독 보도의 원표와 이직 사유별 자료는 별도 확인하지 못했습니다. 지표 미달을 실업이나 제도 효과의 인과관계로 바꾸지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "[단독]'국가 지원' 취업자 절반, 1년도 못 버텼다",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812713",
+          "publishedAt": "2026-10-04T08:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2024/05/17/NISI20240517_0020342632_web.jpg",
+          "verificationNote": "등록 08:00, 수정 08:14:24. 의원실이 제공한 노동부 자료를 인용한 단독 보도입니다. 추가 검색으로 동일 통계 원표는 찾지 못했으므로 매체·자료 제공 주체를 명시했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "[단독]'국가 지원' 취업자 절반, 1년도 못 버텼다",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812713",
+          "publishedAt": "2026-10-04T08:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2024/05/17/NISI20240517_0020342632_web.jpg",
+          "verificationNote": "등록 08:00, 수정 08:14:24. 의원실이 제공한 노동부 자료를 인용한 단독 보도입니다. 추가 검색으로 동일 통계 원표는 찾지 못했으므로 매체·자료 제공 주체를 명시했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 82,
+        "interest": 74,
+        "domesticImpact": 94,
+        "reliability": 82,
+        "recency": 100
+      },
+      "scoreReason": "새 아침 노동시장 자료이나 단독·원표 미확인 한계를 신뢰도에 반영했습니다.",
+      "timeline": {
+        "issueId": "national-employment-support-retention",
+        "issueTitle": "국민취업지원제도 취업 후 고용유지 성과",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "2025년 고용유지 지표와 최근 3년 비교가 오늘 아침 의원실 자료 인용 기사로 공개됐습니다."
+      },
+      "score": 89.2,
+      "factsHash": "9c9c17fef5cea7fd31e7c7d3e6bb2782baaa8de86b5abf644c6a204acc9943dc"
+    },
+    {
+      "id": "us-equity-market-breadth-2026-09",
+      "topicKey": "us-equity-market-breadth-2026-09",
+      "category": "국제·증시",
+      "title": "9월 나스닥100은 3% 상승, S&P500 종목 80%는 하락했다는 분석",
+      "status": "분석",
+      "publishedAt": "2026-10-03T22:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "실제 관찰 기간은 미국 시장의 2026년 9월 한 달입니다. 국내 분석 기사 발행은 10월 3일 22시이며 단일 거래 시각을 지정하지 않습니다.",
+      "summary": [
+        "지난 9월 나스닥100은 약 3% 올랐지만 S&P500 구성 종목의 약 80%는 하락했다는 분석이 국내에 소개됐습니다. 지수 상승과 개별 기업의 주가 흐름이 크게 갈렸다는 월간 시장 점검입니다.",
+        "뉴시스가 인용한 WSJ 분석에 따르면 S&P500의 종목별 평균 수익률은 약 -5%였고, 오른 업종은 11개 중 기술과 커뮤니케이션서비스 두 곳이었습니다. 나스닥100과 S&P500은 구성 종목이 다른 지수라는 점도 함께 보셔야 합니다.",
+        "이는 어제 전한 10월 2일 하루의 종가와 다른 기간을 다룬 수치입니다. 9월 한 달의 비교를 오늘 새 거래 결과나 주말 장중 수치로 읽으면 안 됩니다.",
+        "큰 기업의 비중이 높은 지수는 일부 대형주가 강하면 다수 종목의 부진을 가릴 수 있다는 뜻입니다. AI 관련 투자 기대가 시장 전체로 확산되는지 살필 필요가 있지만, 이번 수치는 WSJ를 인용한 보도이며 원시 종목별 집계는 별도로 재계산하지 못했습니다."
+      ],
+      "emphasis": [
+        "S&P500 구성 종목의 약 80%",
+        "약 -5%",
+        "11개 중",
+        "9월 한 달의 비교"
+      ],
+      "keyFacts": {
+        "period": "2026-09 월간",
+        "nasdaq100MonthlyChange": "약 +3%",
+        "sp500DecliningShare": "약 80%",
+        "sp500AverageStockReturn": "약 -5%",
+        "risingSectors": "11개 중 2개",
+        "attribution": "뉴시스가 인용한 WSJ 분석, 원시 집계 미확인"
+      },
+      "whatChanged": "10월 2일 하루 종가를 다룬 이전 회차와 달리, 어제 밤 새 국내 기사에서 9월 종목별 상승 확산 정도와 월간 수익률 차이가 소개됐습니다.",
+      "whyItMatters": "대표 지수와 실제 보유 종목의 체감 성과가 다른 이유를 이해하는 자료입니다.",
+      "uncertainty": "WSJ를 인용한 분석이며 원문·원시 종목별 집계는 직접 검증하지 못했습니다. 오늘의 종가나 향후 수익률 전망으로 쓰지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "고금리·고유가에도 AI주는 웃었다…S&P500 종목 80%는 하락",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813673",
+          "publishedAt": "2026-10-03T22:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:56+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/27/NISI20260827_0001528376_web.jpg",
+          "verificationNote": "등록 22:00, 수정 23:34:24. WSJ의 10월 2일 분석을 인용한 기사 전체를 확인했습니다. 9월 월간 통계이며 오늘 종가가 아닙니다. WSJ 원문 및 독립 원시 집계는 직접 확인하지 못했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "고금리·고유가에도 AI주는 웃었다…S&P500 종목 80%는 하락",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813673",
+          "publishedAt": "2026-10-03T22:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:56+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/27/NISI20260827_0001528376_web.jpg",
+          "verificationNote": "등록 22:00, 수정 23:34:24. WSJ의 10월 2일 분석을 인용한 기사 전체를 확인했습니다. 9월 월간 통계이며 오늘 종가가 아닙니다. WSJ 원문 및 독립 원시 집계는 직접 확인하지 못했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 86,
+        "interest": 98,
+        "domesticImpact": 82,
+        "reliability": 80,
+        "recency": 82
+      },
+      "scoreReason": "관심도 높은 AI·증시의 새 야간 분석입니다. 하루 종가 반복을 피하고 단일 원보도 의존을 신뢰도에 반영했습니다.",
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": "2026-09-01",
+        "eventEndDate": "2026-09-30",
+        "eventTimezone": "America/New_York",
+        "stage": "분석",
+        "change": "10월 2일 하루 종가를 다룬 이전 회차와 달리, 어제 밤 새 국내 기사에서 9월 종목별 상승 확산 정도와 월간 수익률 차이가 소개됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "us-market-2026-10-02",
+        "delta": "10월 2일 하루 종가를 다룬 이전 회차와 달리, 어제 밤 새 국내 기사에서 9월 종목별 상승 확산 정도와 월간 수익률 차이가 소개됐습니다."
+      },
+      "score": 85.2,
+      "factsHash": "cc4a7e6dd893395e9896cc01b59b673836a878beebdeae3be7ab5e7129a70eaf"
+    },
+    {
+      "id": "daehyun-webtoon-lecture-2026-10",
+      "topicKey": "daehyun-webtoon-lecture-2026-10",
+      "category": "웹툰 산업",
+      "title": "주동근 작가, 10월 17일 창작 경험 강연…지역 웹툰 교육 소식",
+      "status": "예정",
+      "publishedAt": "2026-10-01T16:38:00+09:00",
+      "eventAt": "2026-10-17T14:00:00+09:00",
+      "eventTimeNote": "매일신문이 강연 시작을 10월 17일 14시로 명시했습니다. 축제 전체 운영 시간 11~18시와 구분했습니다.",
+      "summary": [
+        "대구 대현도서관이 10월 17일 오후 2시 웹툰 작가 주동근을 초청해 창작 경험과 직업으로서의 작가 생활을 듣는 강연을 엽니다. 오늘 새 대형 발표를 확인하지 못해 10월 1일 보도된 최근 창작 교육 소식을 골랐습니다.",
+        "강연은 제3회 대현도서관 웹툰 페스타와 연결됩니다. 같은 날 오전 11시부터 오후 6시까지 공모전 시상·수상작 전시·웹툰 체험 등 별도 프로그램도 예정돼 있습니다.",
+        "대표작의 인기뿐 아니라 작품을 계속 만드는 과정과 진로를 공유하는 자리라는 점에 의미가 있습니다. 지역 도서관이 독자 행사와 예비 창작자의 학습 기회를 연결하는 사례로 볼 수 있습니다.",
+        "신청은 10월 1일 오전 9시부터 도서관 홈페이지에서 받는다고 공지됐습니다. 현재 남은 자리나 마감 여부는 확인하지 못했으므로 참가를 원하시면 공식 접수 상태를 먼저 확인하셔야 합니다."
+      ],
+      "emphasis": [
+        "10월 17일 오후 2시",
+        "10월 1일 보도된 최근 창작 교육 소식",
+        "예비 창작자의 학습 기회",
+        "남은 자리나 마감 여부는 확인하지 못했으므로"
+      ],
+      "keyFacts": {
+        "lectureDateTime": "2026-10-17 14:00 KST",
+        "artist": "주동근",
+        "venue": "대구 대현도서관",
+        "festivalHours": "2026-10-17 11:00~18:00 KST",
+        "registrationStart": "2026-10-01 09:00 KST",
+        "remainingSeats": "미확인"
+      },
+      "whatChanged": "이전 회차의 제주 행사·플랫폼 소식과 다른, 지역 작가 강연과 창작 진로 교육 안내를 선정했습니다.",
+      "whyItMatters": "웹툰 산업의 예비 창작자 교육과 독자 접점을 살펴볼 수 있는 지역 프로그램입니다.",
+      "uncertainty": "예정 행사이며 참가 가능 인원·접수 마감·산업적 성과는 미확인입니다.",
+      "sources": [
+        {
+          "name": "웹툰가이드",
+          "title": "웹툰 '지금 우리 학교는' 주동근 작가, 대현도서관서 특별 강연 개최",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26260",
+          "publishedAt": "2026-10-01T16:38:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "verificationNote": "웹 도구로 본문과 시각을 확인했습니다. 직접 요청은 403으로 이미지를 사용하지 않습니다."
+        },
+        {
+          "name": "매일신문",
+          "title": "'지우학' 주동근 작가, 대현도서관서 '좋아하는 일을 계속하면 생기는 일' 강연",
+          "url": "https://www.imaeil.com/page/view/2026092913594520739",
+          "publishedAt": "2026-10-01T15:14:12+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://www.imaeil.com/photos/2026/09/29/2026092913580353169_l.jpg",
+          "verificationNote": "본문·등록 시각·대표 이미지를 확인했습니다. URL의 9월 29일과 실제 입력 10월 1일을 구분하며 강연 14시와 축제 11~18시를 대조했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "웹툰가이드",
+          "title": "웹툰 '지금 우리 학교는' 주동근 작가, 대현도서관서 특별 강연 개최",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26260",
+          "publishedAt": "2026-10-01T16:38:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "verificationNote": "웹 도구로 본문과 시각을 확인했습니다. 직접 요청은 403으로 이미지를 사용하지 않습니다."
+        },
+        {
+          "name": "매일신문",
+          "title": "'지우학' 주동근 작가, 대현도서관서 '좋아하는 일을 계속하면 생기는 일' 강연",
+          "url": "https://www.imaeil.com/page/view/2026092913594520739",
+          "publishedAt": "2026-10-01T15:14:12+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://www.imaeil.com/photos/2026/09/29/2026092913580353169_l.jpg",
+          "verificationNote": "본문·등록 시각·대표 이미지를 확인했습니다. URL의 9월 29일과 실제 입력 10월 1일을 구분하며 강연 14시와 축제 11~18시를 대조했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 57,
+        "interest": 95,
+        "domesticImpact": 64,
+        "reliability": 90,
+        "recency": 25
+      },
+      "scoreReason": "당일 대형 소식이 부족해 72시간 이내의 미수록 창작자 교육 뉴스를 선정했습니다.",
+      "timeline": {
+        "issueId": "daehyun-webtoon-festa-2026",
+        "issueTitle": "2026 대현도서관 웹툰 페스타와 작가 교육",
+        "eventDate": "2026-10-17",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "예정",
+        "change": "이전 회차의 제주 행사·플랫폼 소식과 다른, 지역 작가 강연과 창작 진로 교육 안내를 선정했습니다."
+      },
+      "fallbackNote": "당일 새 대형 웹툰 산업 발표를 확인하지 못해 최근 72시간 내인 10월 1일의 작가 강연·창작 교육 안내를 골랐습니다.",
+      "score": 53.9,
+      "factsHash": "05d65a3c07df012d2f823ec51b67dfd51ea08c3fd379d8d175e994bf4db404f5"
+    }
+  ],
+  "keywords": [],
+  "events": [
+    {
+      "date": "2026-10-04",
+      "at": "2026-10-04T10:00:00+09:00",
+      "title": "용인 과학축제 마지막 날, 반도체·AI 전시",
+      "detail": "공식 운영 시간은 한국시간 10:00~17:00입니다. 용인미르스타디움에서 반도체 산단·로봇·AI 전시가 이어집니다. 기업의 계획 소개를 실제 가동 성과와 구분해 볼 자리입니다.",
+      "source": {
+        "name": "문화체육관광부",
+        "title": "용인사이버과학축제",
+        "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=4&pSeq=11709",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "ko",
+        "verifiedAt": "2026-10-04T09:12:05+09:00",
+        "verificationNote": "공식 행사 안내의 10월 3~4일, 10~17시 운영 시간을 확인했습니다. 최초 게시 시각은 미표시입니다."
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "at": "2026-10-04T15:30:00+09:00",
+      "title": "10·4 남북정상선언 19주년 기념행사",
+      "detail": "도라산 일대 평화기행의 기념행사는 15:30~17:00로 안내됐습니다. 공개되는 공식 발언을 확인할 국내 외교·안보 일정이며, 행사의 개최만으로 새 남북 합의가 나온다고 보지는 않습니다.",
+      "source": {
+        "name": "노무현재단 시민센터",
+        "title": "10.4 남북정상선언 19주년 기념행사 - 평화기행: 평화를 향한 여정",
+        "url": "https://knowhow.or.kr/center/program_detail.php?seq=584",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "ko",
+        "verifiedAt": "2026-10-04T09:12:05+09:00",
+        "verificationNote": "웹 도구로 공식 행사 안내를 확인했습니다. 기념행사는 10월 4일 15:30~17:00이며 신청은 이미 마감됐습니다."
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "at": null,
+      "timeNote": "한국시간 10월 4일 오후 예정 보도 · 정확한 시작 시각 미공개",
+      "title": "전 금융권 CEO 긴급회의와 보안 점검 결과",
+      "detail": "정부서울청사에서 경영진·협회장 회의가 열린다는 보도입니다. 회의 뒤 나올 점검 결과와 소비자 보호 공지가 핵심 변수이며, 현재 대책이 이미 확정됐다는 뜻은 아닙니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "은행·2금융권 줄줄이 'AI 해킹'에…당국, 내일 全금융사 CEO 긴급대응 회의",
+        "url": "https://www.newsis.com/view/NISX20261003_0003813711",
+        "publishedAt": "2026-10-03T21:15:42+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-04T09:12:55+09:00",
+        "imageUrl": "https://img1.newsis.com/2026/03/10/NISI20260310_0021203191_web.jpg",
+        "verificationNote": "어제 저녁 기준 이후의 새 기사입니다. 수정 21:22:10. 회의 소집은 금융권 인용 보도이며 아직 회의 결과가 아닙니다."
+      }
+    }
+  ]
+}

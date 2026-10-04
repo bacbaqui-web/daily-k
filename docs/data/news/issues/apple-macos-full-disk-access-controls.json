@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "apple-macos-full-disk-access-controls",
+  "title": "애플 macOS 전체 디스크 접근 통제 강화",
+  "entries": [
+    {
+      "id": "2026-10-04-am/apple-full-disk-access-controls-2026-10",
+      "editionId": "2026-10-04-am",
+      "storyId": "apple-full-disk-access-controls-2026-10",
+      "editionDate": "2026-10-04",
+      "edition": "am",
+      "coveredAt": "2026-10-04T09:20:00+09:00",
+      "coveredOn": "2026-10-04",
+      "publishedAt": "2026-10-04T00:44:01+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-02",
+      "eventEndDate": null,
+      "eventTimezone": "America/Los_Angeles",
+      "eventTimeNote": "Apple 공식 공지의 미국 날짜는 10월 2일입니다. 정확한 발표 시각은 표시되지 않아 eventAt을 비워 두었습니다. 국내 기사는 10월 4일 새벽에 발행됐습니다.",
+      "stage": "발표",
+      "change": "광범위한 데이터 권한에 대한 추가 통제 계획을 애플이 공식 공지했고, 오늘 새벽 국내에 소개됐습니다.",
+      "title": "애플, 맥 전체 디스크 접근 권한 강화 예고…AI 에이전트도 영향",
+      "category": "기술·IT·AI",
+      "status": "예정",
+      "summary": [
+        "애플이 맥 앱의 전체 디스크 접근 권한을 허용할 때 사용자 확인을 더 강화하겠다고 밝혔습니다. AI 에이전트가 더 자율적으로 움직일수록 광범위한 데이터 접근의 위험도 커진다는 판단입니다.",
+        "10월 2일자 공식 개발자 공지에 따르면 이 권한은 백업 앱 등에 필요한 예외적 접근 수단입니다. 하지만 일부 앱은 파일뿐 아니라 메일·메시지·인터넷 이용 기록까지 사용자가 충분히 이해하지 못한 채 접근할 수 있다고 애플은 설명했습니다.",
+        "앞으로는 권한을 주려는 사용자의 명시적 행동과 위험 이해를 더 분명히 확인하는 장치를 도입할 계획입니다. 오늘 이미 모든 맥의 권한 설정이 바뀌었다거나 AI 앱 전체가 차단됐다는 뜻은 아닙니다.",
+        "업무를 대신 처리하는 AI의 편리함과 개인정보 보호를 함께 설계해야 한다는 변화로 읽을 수 있습니다. 애플은 이번 공지에서 적용 버전·시행일·구체적인 승인 화면은 밝히지 않았으며, 특정 앱을 공식적으로 지목하지도 않았습니다."
+      ],
+      "keyFacts": {
+        "announcementDate": "2026-10-02 Apple 공지 표기",
+        "policy": "전체 디스크 접근에 추가 통제 도입 예정",
+        "rationale": "자율적인 AI 에이전트의 광범위한 데이터 접근 위험",
+        "effectiveDate": "미공개"
+      },
+      "uncertainty": "적용 OS 버전·시행일·세부 승인 절차는 미공개입니다. 변경이 이미 배포됐다고 보지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "애플, 맥 개인정보 접근 문턱 높인다…AI 에이전트 위험 경고",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813754",
+          "publishedAt": "2026-10-04T00:44:01+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/04/NISI20261004_0002255248_web.jpg",
+          "verificationNote": "본문 등록 00:44:01, 수정 02:00:24. 공식 개발자 공지와 대조했습니다."
+        },
+        {
+          "name": "Apple Developer",
+          "title": "Updates to Full Disk Access in macOS",
+          "url": "https://developer.apple.com/news/?id=p6zjojqw",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-04T09:12:05+09:00",
+          "imageUrl": "https://developer.apple.com/news/images/og/full-disk-access-og.png",
+          "verificationNote": "공식 공지의 October 2, 2026 날짜와 본문을 확인했습니다. 시각은 미표시이며 특정 앱에 관한 기자의 추정은 사용하지 않았습니다."
+        }
+      ],
+      "briefingPath": "2026-10-04/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-04T09:20:00+09:00"
+}
