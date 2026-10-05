@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "nuri-fifth-launch-2026",
+  "title": "누리호 2026년 5차 발사와 다중위성 투입",
+  "entries": [
+    {
+      "id": "2026-10-05-pm/nuri-fifth-launch-preparation-2026-10-05",
+      "editionId": "2026-10-05-pm",
+      "storyId": "nuri-fifth-launch-preparation-2026-10-05",
+      "editionDate": "2026-10-05",
+      "edition": "pm",
+      "coveredAt": "2026-10-05T21:17:29+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T12:56:00+09:00",
+      "eventAt": "2026-10-06T06:10:00+09:00",
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "이송 예정 시각 6일06:10경을 뜻합니다. 실제 이송 완료나 확정된 발사 결과가 아닙니다.",
+      "stage": "예정",
+      "change": "10월 5일 오후 보도로 발사대 이송과 이후 점검 순서가 확인됐습니다. 발사 성공을 확인한 보도는 아닙니다.",
+      "title": "누리호, 6일 아침 발사대로 이동 예정…위성 15기 투입 준비",
+      "category": "국내·우주산업",
+      "status": "예정",
+      "summary": [
+        "누리호 5차 발사를 위한 발사대 이송이 10월 6일 오전 6시10분쯤 시작될 예정입니다. 이송과 최종 점검에 문제가 없으면 7일 낮 12시23분 발사를 목표로 합니다.",
+        "나로우주센터 조립동에서 발사대까지는 특수 차량으로 이동한 뒤 로켓을 세웁니다. 이후 전력·연료 공급 계통을 연결하고 발사를 위한 기술 점검을 진행하는 순서입니다.",
+        "이번에는 초소형 군집위성 5기와 큐브위성 10기, 모두 15기가 실립니다. 로켓을 올리는 것뿐 아니라 여러 위성을 서로 부딪치지 않도록 순서대로 목표 궤도에 보내는 능력이 중요합니다.",
+        "군집위성은 여러 대를 함께 운용해 지구를 반복 관측하는 방식입니다. 예정된 재난 감시·관측 기능이 실제로 작동하려면 발사와 궤도 투입 이후 위성의 상태까지 확인해야 합니다.",
+        "아직 이송도 발사도 완료되지 않았습니다. 내일은 이송·기립과 최종 점검 결과, 기상 여건에 따라 계획이 유지되는지를 먼저 확인할 단계입니다."
+      ],
+      "keyFacts": {
+        "transferTarget": "2026-10-06 06:10경 KST",
+        "launchTarget": "2026-10-07 12:23 KST, 기술점검·기상 조건부",
+        "satellites": "주탑재 군집5기+큐브10기=총15기",
+        "state": "발사대 이송 전 준비 단계"
+      },
+      "uncertainty": "기상·기술 점검 결과에 따라 이송과 발사 시각이 바뀔 수 있으며 위성 투입 성공은 아직 미확인입니다.",
+      "sources": [
+        {
+          "name": "경향신문",
+          "title": "누리호, 내일 발사대로 이송…5번째 우주 대장정 시동",
+          "url": "https://v.daum.net/v/20261005125631022",
+          "publishedAt": "2026-10-05T12:56:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/khan/20261005125632543ajop.jpg",
+          "verificationNote": "다음 제공 기사 전문 확인. 12:56 검색 본문에서도 확인된 이송 일정과 15기 탑재·조건부 발사 계획만 사용합니다. 후속으로 바뀐 제목이나 총조립 완료 표현은 새 근거로 사용하지 않습니다."
+        },
+        {
+          "name": "조선일보",
+          "title": "35초마다 위성 하나씩 분리…누리호, 역대 최다 15기 싣고 7일 우주로",
+          "url": "https://www.chosun.com/economy/science/2026/10/05/K2XYE2HAMJB33BMND3OTLI6ASU/",
+          "publishedAt": "2026-10-05T08:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://www.chosun.com/resizer/v2/7I7C6LEANJEKHMGKNPYXTIIZWE.jpg?auth=6c95cbd60e80abea9d1b05b8ddf1564b8761b1547aa89036980e5ebfa2de53b3&width=1200&height=630&smart=true",
+          "verificationNote": "화면 입력 시각은 5일 08:00, 내부 게시 메타데이터는 4일로 불일치합니다. 보조 근거로만 사용하며 핵심 일정은 5일 오후 경향신문과 대조했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-05T21:17:29+09:00"
+}

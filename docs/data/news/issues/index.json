@@ -1,10 +1,160 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T09:11:19+09:00",
-  "editionCount": 42,
-  "storyCount": 336,
+  "updatedAt": "2026-10-05T21:17:29+09:00",
+  "editionCount": 43,
+  "storyCount": 343,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "usdkrw-oil-export-flows",
+      "title": "유가와 수출기업 수급에 따른 원·달러 환율",
+      "categories": [
+        "환율",
+        "환율·금리",
+        "환율·시장"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 9,
+      "firstCoveredDate": "2026-09-17",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "usdkrw-holiday-trading-2026-10-05",
+        "title": "원·달러 15시30분 1344원 보도…휴일의 적은 거래량에 주의",
+        "stage": "보도",
+        "change": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다.",
+        "archive": false
+      },
+      "path": "usdkrw-oil-export-flows.json"
+    },
+    {
+      "id": "nuri-fifth-launch-2026",
+      "title": "누리호 2026년 5차 발사와 다중위성 투입",
+      "categories": [
+        "국내·우주산업"
+      ],
+      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "nuri-fifth-launch-preparation-2026-10-05",
+        "title": "누리호, 6일 아침 발사대로 이동 예정…위성 15기 투입 준비",
+        "stage": "예정",
+        "change": "10월 5일 오후 보도로 발사대 이송과 이후 점검 순서가 확인됐습니다. 발사 성공을 확인한 보도는 아닙니다.",
+        "archive": false
+      },
+      "path": "nuri-fifth-launch-2026.json"
+    },
+    {
+      "id": "nobel-medicine-2026",
+      "title": "2026년 노벨 생리의학상과 광유전학",
+      "categories": [
+        "국제·과학"
+      ],
+      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "nobel-medicine-optogenetics-2026",
+        "title": "노벨 생리의학상, 빛으로 신경세포 조절한 광유전학 연구자 3명",
+        "stage": "결과",
+        "change": "오늘 스웨덴 노벨 생리의학상 수상자 3명과 광유전학 선정 이유가 공식 발표됐습니다.",
+        "archive": false
+      },
+      "path": "nobel-medicine-2026.json"
+    },
+    {
+      "id": "lotto-work-ip-expansion",
+      "title": "로또 1등도 출근합니다 IP의 웹소설·웹툰·드라마 확장",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "lotto-work-webtoon-ip-review-2026-10-03",
+        "title": "최근 IP 해설: 로또 1등도 출근합니다, 웹소설에서 웹툰·드라마로",
+        "stage": "분석",
+        "change": "최근 기사에서 소개한 특정 작품의 복수 매체 활용 사례를 처음 기록합니다. 신규 계약이나 출시가 아닌 기존 IP 확장에 관한 해설입니다.",
+        "archive": false
+      },
+      "path": "lotto-work-ip-expansion.json"
+    },
+    {
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+      "categories": [
+        "금융·보안"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 5,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "p2p-finance-cyber-response-2026-10-05",
+        "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
+        "stage": "보도",
+        "change": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
+        "archive": false
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json"
+    },
+    {
+      "id": "korea-ai-budget-2027",
+      "title": "한국 2027년 AI 예산과 GPU 확보",
+      "categories": [
+        "기술·AI",
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-19",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "frontier-ai-two-track-2026-10-05",
+        "title": "독파모 유지하고 최상위 AI 별도 추진…4.7조원은 아직 예산안",
+        "stage": "발표",
+        "change": "10월 2일 간담회에 관한 오늘 오후 보도로 기존 독파모 지속과 별도 프런티어 AI 공모 구상이 구체적으로 소개됐습니다.",
+        "archive": false
+      },
+      "path": "korea-ai-budget-2027.json"
+    },
+    {
+      "id": "amro-korea-growth-outlook",
+      "title": "AMRO 한국 성장률·물가 전망",
+      "categories": [
+        "경제"
+      ],
+      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
+      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "amro-korea-outlook-october-2026",
+        "title": "AMRO, 한국 성장률 3.1→3.3% 전망…물가 예상도 소폭 상향",
+        "stage": "분석",
+        "change": "7월 전망과 비교해 한국의 올해·내년 성장률 예상이 상향됐고 올해 물가 전망도 높아졌습니다.",
+        "archive": false
+      },
+      "path": "amro-korea-growth-outlook.json"
+    },
     {
       "id": "white-house-ai-ceo-meeting",
       "title": "미국 백악관 AI 기업 회동",
@@ -112,28 +262,6 @@
       "path": "korea-debt-adjustment-reapplication.json"
     },
     {
-      "id": "usdkrw-oil-export-flows",
-      "title": "유가와 수출기업 수급에 따른 원·달러 환율",
-      "categories": [
-        "환율",
-        "환율·금리"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
-      "eventCount": 8,
-      "firstCoveredDate": "2026-09-17",
-      "lastCoveredDate": "2026-10-04",
-      "latest": {
-        "editionId": "2026-10-04-pm",
-        "storyId": "ibk-usdkrw-outlook-2026-10",
-        "title": "IBK 인용 보도 “연말 환율 1400원 전후”…오늘의 시세는 아닙니다",
-        "stage": "분석",
-        "change": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
-        "archive": false
-      },
-      "path": "usdkrw-oil-export-flows.json"
-    },
-    {
       "id": "us-tariff-investment-pressure",
       "title": "미국의 관세와 생산시설 투자 압박",
       "categories": [
@@ -195,27 +323,6 @@
         "archive": false
       },
       "path": "korea-startup-funding.json"
-    },
-    {
-      "id": "korea-bank-cyber-incidents-2026-10",
-      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
-      "categories": [
-        "금융·보안"
-      ],
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "lastCoveredAt": "2026-10-04T21:13:51+09:00",
-      "eventCount": 4,
-      "firstCoveredDate": "2026-10-02",
-      "lastCoveredDate": "2026-10-04",
-      "latest": {
-        "editionId": "2026-10-04-pm",
-        "storyId": "bank-emergency-response-2026-10-04",
-        "title": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시",
-        "stage": "후속",
-        "change": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
-        "archive": false
-      },
-      "path": "korea-bank-cyber-incidents-2026-10.json"
     },
     {
       "id": "cme-gpu-compute-futures",
@@ -2446,27 +2553,6 @@
         "archive": true
       },
       "path": "korea-ai-public-deliberation.json"
-    },
-    {
-      "id": "korea-ai-budget-2027",
-      "title": "한국 2027년 AI 예산과 GPU 확보",
-      "categories": [
-        "기술·IT·AI"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 1,
-      "firstCoveredDate": "2026-09-19",
-      "lastCoveredDate": "2026-09-19",
-      "latest": {
-        "editionId": "2026-09-19-am-archive",
-        "storyId": "archive-06",
-        "title": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
-        "archive": true
-      },
-      "path": "korea-ai-budget-2027.json"
     },
     {
       "id": "climate-justice-march-2026",

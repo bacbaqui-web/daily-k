@@ -123,6 +123,66 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-05-pm/usdkrw-holiday-trading-2026-10-05",
+      "editionId": "2026-10-05-pm",
+      "storyId": "usdkrw-holiday-trading-2026-10-05",
+      "editionDate": "2026-10-05",
+      "edition": "pm",
+      "coveredAt": "2026-10-05T21:17:29+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T18:07:35+09:00",
+      "eventAt": "2026-10-05T15:30:00+09:00",
+      "eventDate": "2026-10-05",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "기사의15:30 거래 수치 관측 시점입니다. 정규장 최종 종가 발표 시각을 뜻하지 않습니다.",
+      "stage": "보도",
+      "change": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다.",
+      "title": "원·달러 15시30분 1344원 보도…휴일의 적은 거래량에 주의",
+      "category": "환율·시장",
+      "status": "보도",
+      "summary": [
+        "연합인포맥스는 오늘 15시30분 원·달러 거래 수치를 1344원으로 전했습니다. 직전 서울장 종가 1350.6원보다 6.6원 낮지만, 대체공휴일의 한산한 거래라는 조건을 함께 봐야 합니다.",
+        "기사에 집계된 장중 범위는 1340~1347.2원이며 현물환 거래량은 6200만달러입니다. 매수·매도 주문이 적은 날의 가격을 평소 시장 전체의 판단처럼 확대 해석하기는 어렵습니다.",
+        "어제 소개한 1400원 전후의 연말 환율 전망과는 성격이 다릅니다. 이번 수치는 오늘 특정 시각의 거래 보도이고, 이전 숫자는 앞으로의 경로에 대한 증권사 예상이었습니다.",
+        "보도는 엔화 움직임과 미국 고용지표 이후 금리 기대를 배경으로 설명했습니다. 원인을 확정하는 통계는 아니며, 오늘의 수치를 정규장 최종 종가로 단정하지 않습니다. 거래가 정상화된 뒤 수출기업 달러 수급과 해외 금리 반응을 다시 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "previousClose": "1350.6원, 직전 서울장",
+        "holiday1530Quote": "1344.00원",
+        "holidayChange": "-6.60원",
+        "range": "1340.00~1347.20원",
+        "spotVolume": "6200만달러, 기사 집계",
+        "referenceType": "2026-10-05 휴일15:30 거래 보도, 정규장 최종 종가로 단정 안 함"
+      },
+      "uncertainty": "한 매체의 휴일 시장 보도 범위이며 최종 종가나 원화 강세 추세 확정으로 해석하지 않습니다.",
+      "sources": [
+        {
+          "name": "연합인포맥스",
+          "title": "[외환-마감] 휴일 달러-엔 연동에 1,340원대 초중반…6.60원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437766",
+          "publishedAt": "2026-10-05T18:07:35+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4437766_347352_81_v150.jpg",
+          "verificationNote": "전문과 게시 메타데이터 확인. 1344원은 기사에 적힌 휴일 15:30 현재 거래 수치이며 정규장 최종 종가라고 단정하지 않습니다. 얇은 거래와 출처 범위를 명시합니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/pm.json",
+      "previous": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "ibk-usdkrw-outlook-2026-10"
+      },
+      "followUp": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "ibk-usdkrw-outlook-2026-10",
+        "delta": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-17-am-archive/archive-03",
       "editionId": "2026-09-17-am-archive",
       "storyId": "archive-03",
@@ -437,5 +497,5 @@
       "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-05T09:11:19+09:00"
+  "updatedAt": "2026-10-05T21:17:29+09:00"
 }

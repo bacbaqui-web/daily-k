@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "amro-korea-growth-outlook",
+  "title": "AMRO 한국 성장률·물가 전망",
+  "entries": [
+    {
+      "id": "2026-10-05-pm/amro-korea-outlook-october-2026",
+      "editionId": "2026-10-05-pm",
+      "storyId": "amro-korea-outlook-october-2026",
+      "editionDate": "2026-10-05",
+      "edition": "pm",
+      "coveredAt": "2026-10-05T21:17:29+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T11:30:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-05",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Singapore",
+      "eventTimeNote": "수정 전망 발표일은 10월 5일로 보도됐습니다. 실제 발표 시각은 특정되지 않아 11:30 기사 시각을 사건 시각으로 쓰지 않습니다.",
+      "stage": "분석",
+      "change": "7월 전망과 비교해 한국의 올해·내년 성장률 예상이 상향됐고 올해 물가 전망도 높아졌습니다.",
+      "title": "AMRO, 한국 성장률 3.1→3.3% 전망…물가 예상도 소폭 상향",
+      "category": "경제",
+      "status": "분석",
+      "summary": [
+        "AMRO가 올해 한국 경제성장률 전망을 3.1%에서 3.3%로 높였습니다. 오늘 오전 11시30분 보도로 확인된 수정 전망으로, 아침 브리핑 이후 새로 공개된 내용입니다.",
+        "아세안+3 거시경제조사기구인 AMRO는 내년 성장률도 2.2%에서 2.7%로 올렸습니다. 올해 물가상승률 전망은 2.6%에서 2.7%로 높였고, 내년은 2.4%에서 2.3%로 낮췄습니다.",
+        "AMRO는 역내 전체에 대해 AI 관련 수출·투자가 에너지 가격 상승의 부담을 일부 덜어 줄 것으로 봤습니다. 다만 한국 전망을 올린 별도 세부 이유는 제시하지 않았으므로 이 설명을 한국만의 상향 근거로 단정하지는 않습니다.",
+        "성장 기대가 나아져도 생활물가 부담이 동시에 사라지는 것은 아니라는 전망입니다. 반도체와 AI 수요가 경제를 받쳐 주는 동안 에너지·물류 비용과 수요 둔화 위험을 함께 볼 필요가 있습니다.",
+        "3.3%는 연간 성장률 실적이 아니라 기관의 예상입니다. AMRO 역시 AI 수요 둔화, 중동 분쟁, 교역 비용 상승과 금융시장 조정 등을 하방 위험으로 지적했습니다."
+      ],
+      "keyFacts": {
+        "growth2026": "3.3%, 7월3.1% 대비+0.2%p",
+        "growth2027": "2.7%, 7월2.2% 대비+0.5%p",
+        "inflation2026": "2.7%, 이전2.6%",
+        "inflation2027": "2.3%, 이전2.4%",
+        "referenceType": "AMRO 10월 수정 전망, 확정 실적 아님",
+        "koreaSpecificReason": "별도 설명 미제공"
+      },
+      "uncertainty": "기관 전망으로 실제 결과가 아닙니다. 한국만의 상향 요인에 관한 별도 상세 설명은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "암로, 韓 성장률 3.1→3.3% 상향…물가도 2.6→2.7%",
+          "url": "https://www.newsis.com/view/NISX20261004_0003814003",
+          "publishedAt": "2026-10-05T11:30:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021469688_web.jpg",
+          "verificationNote": "최초 등록 11:30, 수정 11:50:24를 확인했습니다. AMRO 수정 전망 발표를 인용하며 한국만의 상향 이유와 역내 설명을 구분합니다."
+        },
+        {
+          "name": "연합뉴스",
+          "title": "AMRO, 한국 올해 성장률 3.3%로 상향…내년 2.7% 제시 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004026600002",
+          "publishedAt": "2026-10-05T11:30:01+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2023/02/14/PYH2023021415180001300_P4.jpg",
+          "verificationNote": "한국어 원문과 메타데이터 확인. 성장률·물가는 실적이 아니라 AMRO 전망입니다. 두 기사는 같은 AMRO 발표에 대한 보도입니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-05T21:17:29+09:00"
+}

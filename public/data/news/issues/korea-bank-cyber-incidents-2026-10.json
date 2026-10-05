@@ -307,7 +307,67 @@
       },
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-05-pm/p2p-finance-cyber-response-2026-10-05",
+      "editionId": "2026-10-05-pm",
+      "storyId": "p2p-finance-cyber-response-2026-10-05",
+      "editionDate": "2026-10-05",
+      "edition": "pm",
+      "coveredAt": "2026-10-05T21:17:29+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T15:40:00+09:00",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "소집 예정일은 10월 6일입니다. 계획 결정일과 시각은 기사에 특정되지 않아 사건일은 비워 두며 9월 접근 시점과 기사일을 구분합니다.",
+      "stage": "보도",
+      "change": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
+      "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
+      "category": "금융·보안",
+      "status": "보도",
+      "summary": [
+        "금융위원회가 10월 6일 온라인투자연계금융협회와 정보유출 피해 업체를 소집할 계획이라는 보도가 나왔습니다. 은행뿐 아니라 온라인으로 투자자와 대출자를 연결하는 온투업체의 피해까지 함께 살피는 단계입니다.",
+        "조선비즈는 모우다와 피에프씨테크놀로지스의 정보유출 확인·공지 내용을 전했습니다. 모우다는 9월 27일 정오부터 28일 오전 2시 사이 외부 접근을 설명했고, PFCT는 27일 유출 사실을 파악했다고 밝혔다는 내용입니다.",
+        "어제는 금융권 긴급회의 개최와 업권별 점검 기한을 다뤘습니다. 오늘 추가된 핵심은 온투업권 별도 소집 계획과, 은행 공격에 쓰인 일부 IP가 겹친다는 보도입니다.",
+        "IP는 인터넷 접속 주소입니다. 주소 일부가 같다는 단서만으로 동일 범인이나 공격 경로, AI 사용을 확정할 수는 없습니다. 회의 개최 결과와 당국의 최종 조사, 업체별 실제 유출 정보가 다음 확인 대상입니다."
+      ],
+      "keyFacts": {
+        "response": "온투협회와 피해 업체10월6일 소집 계획 보도",
+        "nextMeetingDate": "2026-10-06, 정확한 시각 미확인",
+        "moudaAccessWindow": "회사 설명 인용:9월27일12시~28일02시",
+        "pfctDetectedDate": "회사 설명 인용:2026-09-27",
+        "attackIpOverlap": "은행권과 일부 겹친다는 업계 보도, 조사결론 아님",
+        "aiAttribution": "미확정"
+      },
+      "uncertainty": "소집과 IP 중복은 업계 취재 보도이며 독립적인 침해 조사 결과를 확보한 것은 아닙니다. 공격 주체·AI 사용·최종 피해 수치는 미확정입니다.",
+      "sources": [
+        {
+          "name": "조선비즈",
+          "title": "금융 당국, 온투업권 긴급 소집… 공격 IP 연관성 확인",
+          "url": "https://biz.chosun.com/stock/finance/2026/10/05/MGAIFZKP6RFMXPHLMOC3G4JCJI/",
+          "publishedAt": "2026-10-05T15:40:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://biz.chosun.com/resizer/v2/GM3DAMJYG42TMNDEMM2TEZRXGM.jpg?auth=8f1cefa74f5f9d80cdb98527931e48265b81b12982809484d8501c43ff3dbe3b&width=1200&height=630&smart=true",
+          "verificationNote": "화면의 입력 시각과 본문 확인. 업계 취재를 근거로 한 소집 계획·IP 중복 보도이며 공식 조사 결론이나 동일 공격자 확인으로 쓰지 않습니다. 원시 게시 메타데이터는 15:39:51, 표시 시각은 15:40입니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/pm.json",
+      "previous": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "bank-emergency-response-2026-10-04"
+      },
+      "followUp": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "bank-emergency-response-2026-10-04",
+        "delta": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-05T09:11:19+09:00"
+  "updatedAt": "2026-10-05T21:17:29+09:00"
 }

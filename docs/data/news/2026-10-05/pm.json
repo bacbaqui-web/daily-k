@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-05-pm",
+  "date": "2026-10-05",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "generatedAt": "2026-10-05T21:17:29+09:00",
+  "cutoffAt": "2026-10-05T21:00:00+09:00",
+  "intro": "오후의 새 정책·과학 소식과 아침 이후 발표된 경제 전망, 금융권 후속 대응을 정리했습니다.",
+  "overview": [
+    "한국 AI 정책은 기존 모델 선발을 유지하며 최상위 AI 개발과 산업 보급을 병행하는 방향입니다. 4조7000억원은 아직 출자 예산안입니다. 금융권에서는 6일 온투업권 소집 계획이 추가 보도됐지만 공격 주체나 AI 사용이 확정된 것은 아닙니다.",
+    "아침 이후 AMRO는 올해 한국 성장률 전망을 3.3%로 높였고 물가 전망도 2.7%로 올렸습니다. 환율은 휴일 15시30분 1344원이라는 거래 보도로, 적은 거래량과 정규장 종가의 차이를 주의해야 합니다.",
+    "국제 과학에서는 광유전학 연구자 3명의 노벨 생리의학상 수상이 확정됐습니다. 국내는 누리호가 6일 아침 발사대로 이동할 예정이며 위성 15기 투입은 아직 준비 단계입니다. 웹툰은 새 계약 발표 대신 최근의 로또 1등도 출근합니다 IP 활용 해설을 담았습니다."
+  ],
+  "overviewEmphasis": [
+    "4조7000억원은 아직 출자 예산안",
+    "6일 온투업권 소집 계획",
+    "성장률 전망을 3.3%",
+    "물가 전망도 2.7%",
+    "휴일 15시30분 1344원",
+    "노벨 생리의학상 수상",
+    "6일 아침 발사대로 이동",
+    "최근의 로또 1등도 출근합니다 IP 활용 해설"
+  ],
+  "stories": [
+    {
+      "id": "frontier-ai-two-track-2026-10-05",
+      "topicKey": "korea-ai-frontier-two-track",
+      "category": "기술·AI",
+      "title": "독파모 유지하고 최상위 AI 별도 추진…4.7조원은 아직 예산안",
+      "status": "예정",
+      "publishedAt": "2026-10-05T12:02:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "간담회는 10월 2일 개최됐고 기사는 10월 5일 공개됐습니다. 간담회와 추가 설명의 정확한 시각은 확인되지 않았습니다.",
+      "summary": [
+        "정부가 국산 AI 모델 경쟁을 계속하면서, 세계 최상위 모델 개발과 산업 현장 보급을 나눠 지원하는 방향을 제시했습니다. 오늘 공개된 보도는 10월 2일 과기정통부 간담회와 추가 설명을 바탕으로 합니다.",
+        "기존 독자 AI 파운데이션 모델 사업은 3차 평가를 진행해 최종 2개 팀을 고르는 계획을 유지합니다. 이를 중단하고 새 사업으로 모두 대체한다고 이해하면 현재 확인된 설명과 다릅니다.",
+        "프런티어 AI는 세계 최고 수준의 모델을 뜻하며, 별도 사업에는 내년 정부 출자 예산안 4조7000억원을 활용한다는 구상입니다. 정부 투자에 민간 자금을 더해 개발에 필요한 연산 자원과 인재를 모으려는 방향입니다.",
+        "국회 예산 확정 뒤 이르면 12월 공모, 내년 2월 사업자 선정과 3월 개발 착수가 목표로 제시됐습니다. 실제 일정과 수행 주체, 기업별 혜택·투자 조건은 아직 확정되지 않았습니다.",
+        "개발자와 기업이 볼 부분은 모델 순위뿐 아니라 어떤 국산 모델을 업무에 사용할 수 있게 되는지입니다. 연구 성능 경쟁과 실제 보급을 분리하는 방향은 나왔지만, 지원 공고와 자원 배분안을 봐야 구체적인 기회를 판단할 수 있습니다."
+      ],
+      "emphasis": [
+        "최종 2개 팀",
+        "내년 정부 출자 예산안 4조7000억원",
+        "이르면 12월 공모",
+        "아직 확정되지 않았습니다"
+      ],
+      "keyFacts": {
+        "currentCompetition": "3차 평가 유지, 최종2팀 선정 예정",
+        "frontierInvestmentBudgetProposal": "2027년 출자 예산안4조7000억원",
+        "callTarget": "2026년12월 예산 확정 후 공모 목표",
+        "selectionTarget": "2027년2월 사업자 선정 검토",
+        "developmentTarget": "2027년3월 또는 가능한 이른 시기 착수 목표",
+        "structure": "수행 주체·출자 조건·참여기업 혜택 미확정"
+      },
+      "whatChanged": "10월 2일 간담회에 관한 오늘 오후 보도로 기존 독파모 지속과 별도 프런티어 AI 공모 구상이 구체적으로 소개됐습니다.",
+      "whyItMatters": "국산 AI를 개발하는 지원과 실제 산업에 쓰게 하는 지원의 역할을 구분하는 변화입니다.",
+      "uncertainty": "예산안은 국회 확정 전이며 사업 구조·선정 조건과 일정은 바뀔 수 있습니다.",
+      "sources": [
+        {
+          "name": "뉴스1",
+          "title": "독파모, 내년부터 '프런티어 AI·산업 확산' 투트랙 개편",
+          "url": "https://v.daum.net/v/20261005120211190",
+          "publishedAt": "2026-10-05T12:02:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/NEWS1/20261005120212897wcxm.jpg",
+          "verificationNote": "다음에 제공된 뉴스1 본문과 표시 시각 확인. 간담회 실제 개최일은 10월 2일이며 5일 신규 개최로 쓰지 않습니다. 4.7조원은 출자 예산안으로, 최종 확정·집행액이 아닙니다."
+        },
+        {
+          "name": "디지털투데이",
+          "title": "독파모 지원 그대로…프런티어 AI 이르면 12월 별도 공모",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704801",
+          "publishedAt": "2026-10-05T12:00:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704801_652545_2239.jpg",
+          "verificationNote": "간담회와 추가 설명 기사 전문 확인. 12월 공모·내년 3월 착수는 목표입니다. 이 기사의 전체 5.2조원과 타 매체의 출자 예산 4.7조원은 범위를 동일시하지 않고 본문에는 뉴스1에서 대조한 출자 예산안만 사용합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴스1",
+          "title": "독파모, 내년부터 '프런티어 AI·산업 확산' 투트랙 개편",
+          "url": "https://v.daum.net/v/20261005120211190",
+          "publishedAt": "2026-10-05T12:02:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/NEWS1/20261005120212897wcxm.jpg",
+          "verificationNote": "다음에 제공된 뉴스1 본문과 표시 시각 확인. 간담회 실제 개최일은 10월 2일이며 5일 신규 개최로 쓰지 않습니다. 4.7조원은 출자 예산안으로, 최종 확정·집행액이 아닙니다."
+        },
+        {
+          "name": "디지털투데이",
+          "title": "독파모 지원 그대로…프런티어 AI 이르면 12월 별도 공모",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704801",
+          "publishedAt": "2026-10-05T12:00:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704801_652545_2239.jpg",
+          "verificationNote": "간담회와 추가 설명 기사 전문 확인. 12월 공모·내년 3월 착수는 목표입니다. 이 기사의 전체 5.2조원과 타 매체의 출자 예산 4.7조원은 범위를 동일시하지 않고 본문에는 뉴스1에서 대조한 출자 예산안만 사용합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 93,
+        "interest": 100,
+        "domesticImpact": 96,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "오후 공개된 정책 설명이며 AI 관심과 국내 지원체계 변화를 높게 평가합니다. 간담회 개최일은 별도로 밝힙니다.",
+      "timeline": {
+        "issueId": "korea-ai-budget-2027",
+        "issueTitle": "한국 2027년 AI 예산과 GPU 확보",
+        "eventDate": "2026-10-02",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 2일 간담회에 관한 오늘 오후 보도로 기존 독파모 지속과 별도 프런티어 AI 공모 구상이 구체적으로 소개됐습니다."
+      },
+      "score": 97.25,
+      "factsHash": "713dc7692a73fb8c7e4f1c9d3e7621a570158e802604f11f73579d7c4bc22310"
+    },
+    {
+      "id": "p2p-finance-cyber-response-2026-10-05",
+      "topicKey": "korea-bank-breaches-2026-10",
+      "category": "금융·보안",
+      "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
+      "status": "보도",
+      "publishedAt": "2026-10-05T15:40:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "소집 예정일은 10월 6일입니다. 계획 결정일과 시각은 기사에 특정되지 않아 사건일은 비워 두며 9월 접근 시점과 기사일을 구분합니다.",
+      "summary": [
+        "금융위원회가 10월 6일 온라인투자연계금융협회와 정보유출 피해 업체를 소집할 계획이라는 보도가 나왔습니다. 은행뿐 아니라 온라인으로 투자자와 대출자를 연결하는 온투업체의 피해까지 함께 살피는 단계입니다.",
+        "조선비즈는 모우다와 피에프씨테크놀로지스의 정보유출 확인·공지 내용을 전했습니다. 모우다는 9월 27일 정오부터 28일 오전 2시 사이 외부 접근을 설명했고, PFCT는 27일 유출 사실을 파악했다고 밝혔다는 내용입니다.",
+        "어제는 금융권 긴급회의 개최와 업권별 점검 기한을 다뤘습니다. 오늘 추가된 핵심은 온투업권 별도 소집 계획과, 은행 공격에 쓰인 일부 IP가 겹친다는 보도입니다.",
+        "IP는 인터넷 접속 주소입니다. 주소 일부가 같다는 단서만으로 동일 범인이나 공격 경로, AI 사용을 확정할 수는 없습니다. 회의 개최 결과와 당국의 최종 조사, 업체별 실제 유출 정보가 다음 확인 대상입니다."
+      ],
+      "emphasis": [
+        "10월 6일",
+        "온투업권 별도 소집 계획",
+        "동일 범인이나 공격 경로, AI 사용을 확정할 수는 없습니다"
+      ],
+      "keyFacts": {
+        "response": "온투협회와 피해 업체10월6일 소집 계획 보도",
+        "nextMeetingDate": "2026-10-06, 정확한 시각 미확인",
+        "moudaAccessWindow": "회사 설명 인용:9월27일12시~28일02시",
+        "pfctDetectedDate": "회사 설명 인용:2026-09-27",
+        "attackIpOverlap": "은행권과 일부 겹친다는 업계 보도, 조사결론 아님",
+        "aiAttribution": "미확정"
+      },
+      "whatChanged": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
+      "whyItMatters": "은행 외 금융 서비스로 점검 범위가 넓어져 업체별 유출 공지와 후속 조치를 확인할 필요가 있습니다.",
+      "uncertainty": "소집과 IP 중복은 업계 취재 보도이며 독립적인 침해 조사 결과를 확보한 것은 아닙니다. 공격 주체·AI 사용·최종 피해 수치는 미확정입니다.",
+      "sources": [
+        {
+          "name": "조선비즈",
+          "title": "금융 당국, 온투업권 긴급 소집… 공격 IP 연관성 확인",
+          "url": "https://biz.chosun.com/stock/finance/2026/10/05/MGAIFZKP6RFMXPHLMOC3G4JCJI/",
+          "publishedAt": "2026-10-05T15:40:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://biz.chosun.com/resizer/v2/GM3DAMJYG42TMNDEMM2TEZRXGM.jpg?auth=8f1cefa74f5f9d80cdb98527931e48265b81b12982809484d8501c43ff3dbe3b&width=1200&height=630&smart=true",
+          "verificationNote": "화면의 입력 시각과 본문 확인. 업계 취재를 근거로 한 소집 계획·IP 중복 보도이며 공식 조사 결론이나 동일 공격자 확인으로 쓰지 않습니다. 원시 게시 메타데이터는 15:39:51, 표시 시각은 15:40입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "조선비즈",
+          "title": "금융 당국, 온투업권 긴급 소집… 공격 IP 연관성 확인",
+          "url": "https://biz.chosun.com/stock/finance/2026/10/05/MGAIFZKP6RFMXPHLMOC3G4JCJI/",
+          "publishedAt": "2026-10-05T15:40:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://biz.chosun.com/resizer/v2/GM3DAMJYG42TMNDEMM2TEZRXGM.jpg?auth=8f1cefa74f5f9d80cdb98527931e48265b81b12982809484d8501c43ff3dbe3b&width=1200&height=630&smart=true",
+          "verificationNote": "화면의 입력 시각과 본문 확인. 업계 취재를 근거로 한 소집 계획·IP 중복 보도이며 공식 조사 결론이나 동일 공격자 확인으로 쓰지 않습니다. 원시 게시 메타데이터는 15:39:51, 표시 시각은 15:40입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 94,
+        "interest": 95,
+        "domesticImpact": 99,
+        "reliability": 85,
+        "recency": 100
+      },
+      "scoreReason": "오늘 오후 확인된 대응 계획을 후속으로 선정하되 단일 매체의 업계 인용이므로 신뢰도 점수를 낮췄습니다.",
+      "timeline": {
+        "issueId": "korea-bank-cyber-incidents-2026-10",
+        "issueTitle": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "bank-emergency-response-2026-10-04",
+        "delta": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다."
+      },
+      "score": 96.15,
+      "factsHash": "e9639420884e1e457d003200423994be46c7df8d2e5dabedf8197fdd6833b322"
+    },
+    {
+      "id": "nuri-fifth-launch-preparation-2026-10-05",
+      "topicKey": "nuri-fifth-launch-2026",
+      "category": "국내·우주산업",
+      "title": "누리호, 6일 아침 발사대로 이동 예정…위성 15기 투입 준비",
+      "status": "예정",
+      "publishedAt": "2026-10-05T12:56:00+09:00",
+      "eventAt": "2026-10-06T06:10:00+09:00",
+      "eventTimeNote": "이송 예정 시각 6일06:10경을 뜻합니다. 실제 이송 완료나 확정된 발사 결과가 아닙니다.",
+      "summary": [
+        "누리호 5차 발사를 위한 발사대 이송이 10월 6일 오전 6시10분쯤 시작될 예정입니다. 이송과 최종 점검에 문제가 없으면 7일 낮 12시23분 발사를 목표로 합니다.",
+        "나로우주센터 조립동에서 발사대까지는 특수 차량으로 이동한 뒤 로켓을 세웁니다. 이후 전력·연료 공급 계통을 연결하고 발사를 위한 기술 점검을 진행하는 순서입니다.",
+        "이번에는 초소형 군집위성 5기와 큐브위성 10기, 모두 15기가 실립니다. 로켓을 올리는 것뿐 아니라 여러 위성을 서로 부딪치지 않도록 순서대로 목표 궤도에 보내는 능력이 중요합니다.",
+        "군집위성은 여러 대를 함께 운용해 지구를 반복 관측하는 방식입니다. 예정된 재난 감시·관측 기능이 실제로 작동하려면 발사와 궤도 투입 이후 위성의 상태까지 확인해야 합니다.",
+        "아직 이송도 발사도 완료되지 않았습니다. 내일은 이송·기립과 최종 점검 결과, 기상 여건에 따라 계획이 유지되는지를 먼저 확인할 단계입니다."
+      ],
+      "emphasis": [
+        "10월 6일 오전 6시10분쯤",
+        "모두 15기",
+        "아직 이송도 발사도 완료되지 않았습니다"
+      ],
+      "keyFacts": {
+        "transferTarget": "2026-10-06 06:10경 KST",
+        "launchTarget": "2026-10-07 12:23 KST, 기술점검·기상 조건부",
+        "satellites": "주탑재 군집5기+큐브10기=총15기",
+        "state": "발사대 이송 전 준비 단계"
+      },
+      "whatChanged": "10월 5일 오후 보도로 발사대 이송과 이후 점검 순서가 확인됐습니다. 발사 성공을 확인한 보도는 아닙니다.",
+      "whyItMatters": "다수 위성을 정확히 나눠 배치하는 능력과 안정적인 반복 발사를 점검하는 일정입니다.",
+      "uncertainty": "기상·기술 점검 결과에 따라 이송과 발사 시각이 바뀔 수 있으며 위성 투입 성공은 아직 미확인입니다.",
+      "sources": [
+        {
+          "name": "경향신문",
+          "title": "누리호, 내일 발사대로 이송…5번째 우주 대장정 시동",
+          "url": "https://v.daum.net/v/20261005125631022",
+          "publishedAt": "2026-10-05T12:56:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/khan/20261005125632543ajop.jpg",
+          "verificationNote": "다음 제공 기사 전문 확인. 12:56 검색 본문에서도 확인된 이송 일정과 15기 탑재·조건부 발사 계획만 사용합니다. 후속으로 바뀐 제목이나 총조립 완료 표현은 새 근거로 사용하지 않습니다."
+        },
+        {
+          "name": "조선일보",
+          "title": "35초마다 위성 하나씩 분리…누리호, 역대 최다 15기 싣고 7일 우주로",
+          "url": "https://www.chosun.com/economy/science/2026/10/05/K2XYE2HAMJB33BMND3OTLI6ASU/",
+          "publishedAt": "2026-10-05T08:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://www.chosun.com/resizer/v2/7I7C6LEANJEKHMGKNPYXTIIZWE.jpg?auth=6c95cbd60e80abea9d1b05b8ddf1564b8761b1547aa89036980e5ebfa2de53b3&width=1200&height=630&smart=true",
+          "verificationNote": "화면 입력 시각은 5일 08:00, 내부 게시 메타데이터는 4일로 불일치합니다. 보조 근거로만 사용하며 핵심 일정은 5일 오후 경향신문과 대조했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "경향신문",
+          "title": "누리호, 내일 발사대로 이송…5번째 우주 대장정 시동",
+          "url": "https://v.daum.net/v/20261005125631022",
+          "publishedAt": "2026-10-05T12:56:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/khan/20261005125632543ajop.jpg",
+          "verificationNote": "다음 제공 기사 전문 확인. 12:56 검색 본문에서도 확인된 이송 일정과 15기 탑재·조건부 발사 계획만 사용합니다. 후속으로 바뀐 제목이나 총조립 완료 표현은 새 근거로 사용하지 않습니다."
+        },
+        {
+          "name": "조선일보",
+          "title": "35초마다 위성 하나씩 분리…누리호, 역대 최다 15기 싣고 7일 우주로",
+          "url": "https://www.chosun.com/economy/science/2026/10/05/K2XYE2HAMJB33BMND3OTLI6ASU/",
+          "publishedAt": "2026-10-05T08:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:34+09:00",
+          "imageUrl": "https://www.chosun.com/resizer/v2/7I7C6LEANJEKHMGKNPYXTIIZWE.jpg?auth=6c95cbd60e80abea9d1b05b8ddf1564b8761b1547aa89036980e5ebfa2de53b3&width=1200&height=630&smart=true",
+          "verificationNote": "화면 입력 시각은 5일 08:00, 내부 게시 메타데이터는 4일로 불일치합니다. 보조 근거로만 사용하며 핵심 일정은 5일 오후 경향신문과 대조했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 88,
+        "interest": 87,
+        "domesticImpact": 91,
+        "reliability": 95,
+        "recency": 100
+      },
+      "scoreReason": "오후 준비 일정과 통신·관측 기반 기술을 다루며 이송 전 상태를 분명히 표시합니다.",
+      "timeline": {
+        "issueId": "nuri-fifth-launch-2026",
+        "issueTitle": "누리호 2026년 5차 발사와 다중위성 투입",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "예정",
+        "change": "10월 5일 오후 보도로 발사대 이송과 이후 점검 순서가 확인됐습니다. 발사 성공을 확인한 보도는 아닙니다."
+      },
+      "score": 93.65,
+      "factsHash": "c7d72144dfedf1cbf2d7f91b5f96328f7be00c357ffbda8279a19d41cd40290a"
+    },
+    {
+      "id": "usdkrw-holiday-trading-2026-10-05",
+      "topicKey": "usdkrw-oil-export-flows",
+      "category": "환율·시장",
+      "title": "원·달러 15시30분 1344원 보도…휴일의 적은 거래량에 주의",
+      "status": "보도",
+      "publishedAt": "2026-10-05T18:07:35+09:00",
+      "eventAt": "2026-10-05T15:30:00+09:00",
+      "eventTimeNote": "기사의15:30 거래 수치 관측 시점입니다. 정규장 최종 종가 발표 시각을 뜻하지 않습니다.",
+      "summary": [
+        "연합인포맥스는 오늘 15시30분 원·달러 거래 수치를 1344원으로 전했습니다. 직전 서울장 종가 1350.6원보다 6.6원 낮지만, 대체공휴일의 한산한 거래라는 조건을 함께 봐야 합니다.",
+        "기사에 집계된 장중 범위는 1340~1347.2원이며 현물환 거래량은 6200만달러입니다. 매수·매도 주문이 적은 날의 가격을 평소 시장 전체의 판단처럼 확대 해석하기는 어렵습니다.",
+        "어제 소개한 1400원 전후의 연말 환율 전망과는 성격이 다릅니다. 이번 수치는 오늘 특정 시각의 거래 보도이고, 이전 숫자는 앞으로의 경로에 대한 증권사 예상이었습니다.",
+        "보도는 엔화 움직임과 미국 고용지표 이후 금리 기대를 배경으로 설명했습니다. 원인을 확정하는 통계는 아니며, 오늘의 수치를 정규장 최종 종가로 단정하지 않습니다. 거래가 정상화된 뒤 수출기업 달러 수급과 해외 금리 반응을 다시 확인해야 합니다."
+      ],
+      "emphasis": [
+        "오늘 15시30분",
+        "1344원",
+        "대체공휴일의 한산한 거래",
+        "정규장 최종 종가로 단정하지 않습니다"
+      ],
+      "keyFacts": {
+        "previousClose": "1350.6원, 직전 서울장",
+        "holiday1530Quote": "1344.00원",
+        "holidayChange": "-6.60원",
+        "range": "1340.00~1347.20원",
+        "spotVolume": "6200만달러, 기사 집계",
+        "referenceType": "2026-10-05 휴일15:30 거래 보도, 정규장 최종 종가로 단정 안 함"
+      },
+      "whatChanged": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다.",
+      "whyItMatters": "휴일의 적은 거래량에서 나온 환율 움직임과 평상시 시장 추세를 구별하는 데 의미가 있습니다.",
+      "uncertainty": "한 매체의 휴일 시장 보도 범위이며 최종 종가나 원화 강세 추세 확정으로 해석하지 않습니다.",
+      "sources": [
+        {
+          "name": "연합인포맥스",
+          "title": "[외환-마감] 휴일 달러-엔 연동에 1,340원대 초중반…6.60원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437766",
+          "publishedAt": "2026-10-05T18:07:35+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4437766_347352_81_v150.jpg",
+          "verificationNote": "전문과 게시 메타데이터 확인. 1344원은 기사에 적힌 휴일 15:30 현재 거래 수치이며 정규장 최종 종가라고 단정하지 않습니다. 얇은 거래와 출처 범위를 명시합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합인포맥스",
+          "title": "[외환-마감] 휴일 달러-엔 연동에 1,340원대 초중반…6.60원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437766",
+          "publishedAt": "2026-10-05T18:07:35+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4437766_347352_81_v150.jpg",
+          "verificationNote": "전문과 게시 메타데이터 확인. 1344원은 기사에 적힌 휴일 15:30 현재 거래 수치이며 정규장 최종 종가라고 단정하지 않습니다. 얇은 거래와 출처 범위를 명시합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 82,
+        "interest": 94,
+        "domesticImpact": 92,
+        "reliability": 88,
+        "recency": 100
+      },
+      "scoreReason": "오늘 오후 환율 보도이지만 휴일 거래와 독립 대조의 제한을 감안해 중요도·신뢰도 점수를 조정했습니다.",
+      "timeline": {
+        "issueId": "usdkrw-oil-export-flows",
+        "issueTitle": "유가와 수출기업 수급에 따른 원·달러 환율",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "보도",
+        "change": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "ibk-usdkrw-outlook-2026-10",
+        "delta": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다."
+      },
+      "score": 92.6,
+      "factsHash": "51e024bf91f3d74b6e094b51ea96b519c1c8bc03fd3655353efbe6545410b30f"
+    },
+    {
+      "id": "nobel-medicine-optogenetics-2026",
+      "topicKey": "nobel-medicine-2026",
+      "category": "국제·과학",
+      "title": "노벨 생리의학상, 빛으로 신경세포 조절한 광유전학 연구자 3명",
+      "status": "확정",
+      "publishedAt": "2026-10-05T19:33:23+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 5일 스웨덴 발표입니다. 공식 기사 게시 11:42 CEST와 실제 발표 시작 시각을 동일시하지 않아 eventAt은 비워 둡니다.",
+      "summary": [
+        "올해 노벨 생리의학상은 칼 다이서로스, 페터 헤게만, 게오르크 나겔에게 돌아갔습니다. 빛을 이용해 신경세포의 활동을 조절하는 광유전학의 토대를 만든 공로입니다.",
+        "헤게만과 나겔은 단세포 조류에서 빛에 반응하는 채널로돕신 단백질을 발견했습니다. 이를 다른 세포에 넣으면 빛을 비췄을 때 전기적 신호를 일으킬 수 있다는 성질을 확인했습니다.",
+        "다이서로스는 이 원리를 신경세포에 적용했고, 2005년 연구를 발표한 뒤 살아 있는 생쥐의 뇌에서도 작동하도록 발전시켰습니다. 뇌의 특정 세포를 선택해 활동을 바꾸고 행동의 변화를 비교할 수 있게 된 것입니다.",
+        "중요한 점은 뇌 활동을 관찰하는 데서 나아가 특정 회로가 어떤 기능을 하는지 직접 시험할 수 있게 했다는 데 있습니다. 시각 기능 회복 등 치료 연구에도 활용되지만, 이번 수상이 뇌 질환 전반의 치료법 완성을 뜻하지는 않습니다.",
+        "오늘은 수상 전망이 실제 선정 결과로 바뀐 날입니다. 다음 발표는 한국시간 10월 6일 18시45분 이후 예정된 노벨 물리학상입니다."
+      ],
+      "emphasis": [
+        "다이서로스, 페터 헤게만, 게오르크 나겔",
+        "광유전학",
+        "특정 회로가 어떤 기능을 하는지 직접 시험",
+        "치료법 완성을 뜻하지는 않습니다"
+      ],
+      "keyFacts": {
+        "laureates": "Karl Deisseroth, Peter Hegemann, Georg Nagel",
+        "award": "2026 Nobel Prize in Physiology or Medicine",
+        "contribution": "빛에 의해 작동하는 이온 채널과 광유전학",
+        "deisserothStudy": "2005년 신경세포 적용 연구 발표",
+        "nextPhysicsAnnouncement": "2026-10-06 18:45 KST 이후 예정"
+      },
+      "whatChanged": "오늘 스웨덴 노벨 생리의학상 수상자 3명과 광유전학 선정 이유가 공식 발표됐습니다.",
+      "whyItMatters": "세포 활동과 기억·행동 사이의 인과관계를 실험할 수 있는 기초 연구 도구의 가치를 인정한 결과입니다.",
+      "uncertainty": "수상은 확정됐지만 광유전학을 활용한 개별 치료의 안전성·효과와 보급은 별도 연구 대상입니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "노벨 생리의학상에 다이서로스·헤게만·나겔…'광유전학' 개척(종합)",
+          "url": "https://www.newsis.com/view/NISX20261005_0003814612",
+          "publishedAt": "2026-10-05T19:33:23+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/05/NISI20261005_0001641470_web.jpg",
+          "verificationNote": "화면 최초 등록 19:33:23과 수정 19:46:33을 확인했습니다. 수정 시각을 싣는 내부 published_time 대신 최초 등록을 사용합니다."
+        },
+        {
+          "name": "카롤린스카연구소",
+          "title": "Nobelpriset i fysiologi eller medicin 2026 till Peter Hegemann, Georg Nagel och Karl Deisseroth",
+          "url": "https://nyheter.ki.se/nobelpriset-i-fysiologi-eller-medicin-2026-till-peter-hegemann-georg-nagel-och-karl-deisseroth",
+          "publishedAt": "2026-10-05T18:42:00+09:00",
+          "kind": "official",
+          "language": "sv",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://nyheter.ki.se/sites/nyheter/files/qbank/Nobel2026_custom20261005115353.jpg",
+          "verificationNote": "공식 발표 원문 확인. 스웨덴 11:42 CEST 게시, 12:29 수정으로 한국시간 18:42·19:29이며 모두 기준 이전입니다. 수상과 연구 기여를 확인했으며 치료 완료로 해석하지 않습니다."
+        },
+        {
+          "name": "스웨덴 왕립과학원",
+          "title": "2026 Nobel Prize announcement dates",
+          "url": "https://www.kva.se/en/news/autumn-nobel-announcements-confirmed-3/",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://www.kva.se/app/uploads/2025/02/KVA_Kemi25_PL_059.jpg",
+          "verificationNote": "공식 일정의 10월 6일 11:45 CEST 이후 발표를 확인했습니다. 한국시간 18:45 이후이며 조기 발표 확정 시각이 아닙니다. 정확한 공지 게시 시각은 미확인입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "노벨 생리의학상에 다이서로스·헤게만·나겔…'광유전학' 개척(종합)",
+          "url": "https://www.newsis.com/view/NISX20261005_0003814612",
+          "publishedAt": "2026-10-05T19:33:23+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/05/NISI20261005_0001641470_web.jpg",
+          "verificationNote": "화면 최초 등록 19:33:23과 수정 19:46:33을 확인했습니다. 수정 시각을 싣는 내부 published_time 대신 최초 등록을 사용합니다."
+        },
+        {
+          "name": "카롤린스카연구소",
+          "title": "Nobelpriset i fysiologi eller medicin 2026 till Peter Hegemann, Georg Nagel och Karl Deisseroth",
+          "url": "https://nyheter.ki.se/nobelpriset-i-fysiologi-eller-medicin-2026-till-peter-hegemann-georg-nagel-och-karl-deisseroth",
+          "publishedAt": "2026-10-05T18:42:00+09:00",
+          "kind": "official",
+          "language": "sv",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://nyheter.ki.se/sites/nyheter/files/qbank/Nobel2026_custom20261005115353.jpg",
+          "verificationNote": "공식 발표 원문 확인. 스웨덴 11:42 CEST 게시, 12:29 수정으로 한국시간 18:42·19:29이며 모두 기준 이전입니다. 수상과 연구 기여를 확인했으며 치료 완료로 해석하지 않습니다."
+        },
+        {
+          "name": "스웨덴 왕립과학원",
+          "title": "2026 Nobel Prize announcement dates",
+          "url": "https://www.kva.se/en/news/autumn-nobel-announcements-confirmed-3/",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://www.kva.se/app/uploads/2025/02/KVA_Kemi25_PL_059.jpg",
+          "verificationNote": "공식 일정의 10월 6일 11:45 CEST 이후 발표를 확인했습니다. 한국시간 18:45 이후이며 조기 발표 확정 시각이 아닙니다. 정확한 공지 게시 시각은 미확인입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 91,
+        "interest": 83,
+        "domesticImpact": 72,
+        "reliability": 100,
+        "recency": 100
+      },
+      "scoreReason": "19시대 한국어 보도와 카롤린스카 공식 발표를 대조한 새 국제 과학 결과입니다.",
+      "timeline": {
+        "issueId": "nobel-medicine-2026",
+        "issueTitle": "2026년 노벨 생리의학상과 광유전학",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "Europe/Stockholm",
+        "stage": "결과",
+        "change": "오늘 스웨덴 노벨 생리의학상 수상자 3명과 광유전학 선정 이유가 공식 발표됐습니다."
+      },
+      "score": 92.4,
+      "factsHash": "1a3ee2959e0cb499ebc8cb8af3c98f607d16f67b29aa8347fb3d722b0546664b"
+    },
+    {
+      "id": "amro-korea-outlook-october-2026",
+      "topicKey": "amro-korea-growth-outlook",
+      "category": "경제",
+      "title": "AMRO, 한국 성장률 3.1→3.3% 전망…물가 예상도 소폭 상향",
+      "status": "분석",
+      "publishedAt": "2026-10-05T11:30:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "수정 전망 발표일은 10월 5일로 보도됐습니다. 실제 발표 시각은 특정되지 않아 11:30 기사 시각을 사건 시각으로 쓰지 않습니다.",
+      "summary": [
+        "AMRO가 올해 한국 경제성장률 전망을 3.1%에서 3.3%로 높였습니다. 오늘 오전 11시30분 보도로 확인된 수정 전망으로, 아침 브리핑 이후 새로 공개된 내용입니다.",
+        "아세안+3 거시경제조사기구인 AMRO는 내년 성장률도 2.2%에서 2.7%로 올렸습니다. 올해 물가상승률 전망은 2.6%에서 2.7%로 높였고, 내년은 2.4%에서 2.3%로 낮췄습니다.",
+        "AMRO는 역내 전체에 대해 AI 관련 수출·투자가 에너지 가격 상승의 부담을 일부 덜어 줄 것으로 봤습니다. 다만 한국 전망을 올린 별도 세부 이유는 제시하지 않았으므로 이 설명을 한국만의 상향 근거로 단정하지는 않습니다.",
+        "성장 기대가 나아져도 생활물가 부담이 동시에 사라지는 것은 아니라는 전망입니다. 반도체와 AI 수요가 경제를 받쳐 주는 동안 에너지·물류 비용과 수요 둔화 위험을 함께 볼 필요가 있습니다.",
+        "3.3%는 연간 성장률 실적이 아니라 기관의 예상입니다. AMRO 역시 AI 수요 둔화, 중동 분쟁, 교역 비용 상승과 금융시장 조정 등을 하방 위험으로 지적했습니다."
+      ],
+      "emphasis": [
+        "3.1%에서 3.3%",
+        "내년 성장률도 2.2%에서 2.7%",
+        "연간 성장률 실적이 아니라 기관의 예상"
+      ],
+      "keyFacts": {
+        "growth2026": "3.3%, 7월3.1% 대비+0.2%p",
+        "growth2027": "2.7%, 7월2.2% 대비+0.5%p",
+        "inflation2026": "2.7%, 이전2.6%",
+        "inflation2027": "2.3%, 이전2.4%",
+        "referenceType": "AMRO 10월 수정 전망, 확정 실적 아님",
+        "koreaSpecificReason": "별도 설명 미제공"
+      },
+      "whatChanged": "7월 전망과 비교해 한국의 올해·내년 성장률 예상이 상향됐고 올해 물가 전망도 높아졌습니다.",
+      "whyItMatters": "경제 전체의 성장 기대와 가계가 느끼는 물가 부담이 다른 방향으로 움직일 수 있음을 보여 줍니다.",
+      "uncertainty": "기관 전망으로 실제 결과가 아닙니다. 한국만의 상향 요인에 관한 별도 상세 설명은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "암로, 韓 성장률 3.1→3.3% 상향…물가도 2.6→2.7%",
+          "url": "https://www.newsis.com/view/NISX20261004_0003814003",
+          "publishedAt": "2026-10-05T11:30:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021469688_web.jpg",
+          "verificationNote": "최초 등록 11:30, 수정 11:50:24를 확인했습니다. AMRO 수정 전망 발표를 인용하며 한국만의 상향 이유와 역내 설명을 구분합니다."
+        },
+        {
+          "name": "연합뉴스",
+          "title": "AMRO, 한국 올해 성장률 3.3%로 상향…내년 2.7% 제시 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004026600002",
+          "publishedAt": "2026-10-05T11:30:01+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2023/02/14/PYH2023021415180001300_P4.jpg",
+          "verificationNote": "한국어 원문과 메타데이터 확인. 성장률·물가는 실적이 아니라 AMRO 전망입니다. 두 기사는 같은 AMRO 발표에 대한 보도입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "암로, 韓 성장률 3.1→3.3% 상향…물가도 2.6→2.7%",
+          "url": "https://www.newsis.com/view/NISX20261004_0003814003",
+          "publishedAt": "2026-10-05T11:30:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021469688_web.jpg",
+          "verificationNote": "최초 등록 11:30, 수정 11:50:24를 확인했습니다. AMRO 수정 전망 발표를 인용하며 한국만의 상향 이유와 역내 설명을 구분합니다."
+        },
+        {
+          "name": "연합뉴스",
+          "title": "AMRO, 한국 올해 성장률 3.3%로 상향…내년 2.7% 제시 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004026600002",
+          "publishedAt": "2026-10-05T11:30:01+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:11:35+09:00",
+          "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2023/02/14/PYH2023021415180001300_P4.jpg",
+          "verificationNote": "한국어 원문과 메타데이터 확인. 성장률·물가는 실적이 아니라 AMRO 전망입니다. 두 기사는 같은 AMRO 발표에 대한 보도입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 96,
+        "interest": 98,
+        "domesticImpact": 100,
+        "reliability": 97,
+        "recency": 85
+      },
+      "scoreReason": "09시 이후 새로 발표된 중요 국내 경제 전망입니다. 오후 이전 기사지만 AM 회차 뒤의 새 수치이므로 포함합니다.",
+      "timeline": {
+        "issueId": "amro-korea-growth-outlook",
+        "issueTitle": "AMRO 한국 성장률·물가 전망",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Singapore",
+        "stage": "분석",
+        "change": "7월 전망과 비교해 한국의 올해·내년 성장률 예상이 상향됐고 올해 물가 전망도 높아졌습니다."
+      },
+      "score": 92.4,
+      "factsHash": "3109035071ba7e7386c32cbcc4041afc4144e572f53c46d983c1a3e381749d6d"
+    },
+    {
+      "id": "lotto-work-webtoon-ip-review-2026-10-03",
+      "topicKey": "lotto-work-ip-expansion",
+      "category": "웹툰 산업",
+      "title": "최근 IP 해설: 로또 1등도 출근합니다, 웹소설에서 웹툰·드라마로",
+      "status": "분석",
+      "publishedAt": "2026-10-03T02:00:03+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 3일은 해설 기사 발행일입니다. 웹툰·드라마 전개 자체의 정확한 사건일은 이 기사로 특정하지 않아 비워 둡니다.",
+      "summary": [
+        "오늘 새 대형 발표는 확인되지 않아 최근 3일 안의 IP 활용 해설을 골랐습니다. 10월 3일 이데일리는 로또 1등도 출근합니다가 웹소설·웹툰·드라마로 전개되는 사례를 소개했습니다.",
+        "원작은 서인하 작가의 웹소설이고, 웹툰은 유극조 작가가 작업해 네이버웹툰에서 연재하는 작품입니다. 같은 웹소설을 바탕으로 한 드라마도 방영 중이라고 기사에서 설명했습니다. 오늘 신규 영상화 계약이 체결됐다는 소식은 아닙니다.",
+        "산업적으로 볼 부분은 하나의 이야기를 세 가지 매체에서 서로 다른 독자·시청자에게 전달한다는 점입니다. 직장인의 현실과 대리만족이라는 소재를 여러 형식으로 활용하는 사례로 읽을 수 있습니다.",
+        "다만 기사에는 채널별 매출, 판권 계약액이나 영상화 뒤 웹툰 결제가 얼마나 늘었는지는 제시되지 않았습니다. 작품 호응에 대한 기자의 평가를 수익 증가의 검증 결과로 받아들이지 않으며, 구체적인 사업 성과는 추가 공개가 필요합니다."
+      ],
+      "emphasis": [
+        "최근 3일 안의 IP 활용 해설",
+        "웹소설·웹툰·드라마",
+        "오늘 신규 영상화 계약이 체결됐다는 소식은 아닙니다",
+        "수익 증가의 검증 결과"
+      ],
+      "keyFacts": {
+        "reportType": "2026-10-03 작품·IP 해설, 신규 계약 발표 아님",
+        "originalAuthor": "서인하",
+        "webtoonCreator": "유극조",
+        "webtoonPlatform": "네이버웹툰",
+        "formats": "웹소설·웹툰·드라마",
+        "financialResults": "계약액·매출·결제 증가 수치 미제시"
+      },
+      "whatChanged": "최근 기사에서 소개한 특정 작품의 복수 매체 활용 사례를 처음 기록합니다. 와이랩의 별도 사업 계획과 같은 사건으로 묶지 않습니다.",
+      "whyItMatters": "웹툰을 포함한 하나의 IP가 여러 매체로 확장되는 구조를 구체적인 작품으로 살펴보는 사례입니다.",
+      "uncertainty": "최근 작품 해설이며 오늘 새 산업 발표가 아닙니다. 각 매체의 최초 공개일·사업 규모와 성과는 이 기사만으로 확인되지 않습니다.",
+      "sources": [
+        {
+          "name": "이데일리",
+          "title": "[김정유의 웹툰파헤치기] '막나갔더니' 잘풀리네?…'로또 1등도 출근합니다'",
+          "url": "https://coinlab.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01289046645609312",
+          "publishedAt": "2026-10-03T02:00:03+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300022.jpg",
+          "verificationNote": "최근 72시간 이내의 작품·IP 해설 전문 확인. 신규 계약·출시 발표가 아닌 기존 웹소설의 웹툰·드라마 확장 사례로 명시합니다. 기존 와이랩 사업과 별개 작품이므로 독립 이슈로 보관합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "이데일리",
+          "title": "[김정유의 웹툰파헤치기] '막나갔더니' 잘풀리네?…'로또 1등도 출근합니다'",
+          "url": "https://coinlab.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01289046645609312",
+          "publishedAt": "2026-10-03T02:00:03+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T21:09:49+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100300022.jpg",
+          "verificationNote": "최근 72시간 이내의 작품·IP 해설 전문 확인. 신규 계약·출시 발표가 아닌 기존 웹소설의 웹툰·드라마 확장 사례로 명시합니다. 기존 와이랩 사업과 별개 작품이므로 독립 이슈로 보관합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 65,
+        "interest": 95,
+        "domesticImpact": 70,
+        "reliability": 87,
+        "recency": 25
+      },
+      "scoreReason": "당일 새 산업 발표와 최근72시간의 미사용 후보를 넓게 조사했습니다. 중복 발표 대신 최근의 개별 IP 해설을 낮은 우선순위로 선정하며 분석임을 명확히 표시합니다.",
+      "timeline": {
+        "issueId": "lotto-work-ip-expansion",
+        "issueTitle": "로또 1등도 출근합니다 IP의 웹소설·웹툰·드라마 확장",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "분석",
+        "change": "최근 기사에서 소개한 특정 작품의 복수 매체 활용 사례를 처음 기록합니다. 신규 계약이나 출시가 아닌 기존 IP 확장에 관한 해설입니다."
+      },
+      "fallbackNote": "당일 새 대형 발표가 없어 10월 3일의 IP 활용 해설을 골랐습니다. 최근 업데이트 범위의 첫 소개이며 신규 계약·출시 결과가 아닙니다.",
+      "score": 56.2,
+      "factsHash": "40fb4fbb1e7af012f850ea11a2611b559008149bc7b367c5b3523254fb4fc34e"
+    }
+  ],
+  "keywords": [
+    "독파모",
+    "프런티어 AI",
+    "온투업권 보안",
+    "AMRO 3.3%",
+    "물가 전망 2.7%",
+    "휴일 환율",
+    "광유전학",
+    "노벨 생리의학상",
+    "누리호 15기",
+    "웹툰 IP"
+  ],
+  "events": [
+    {
+      "date": "2026-10-06",
+      "at": "2026-10-06T06:10:00+09:00",
+      "timeNote": "오전6시10분경 시작 예정, 기상·점검에 따라 변경 가능",
+      "title": "누리호 발사대 이송 예정",
+      "detail": "이송·기립과 발사대 연결 및 점검 결과를 확인합니다. 7일 발사에 앞선 준비 일정으로, 발사나 궤도 투입 완료가 아닙니다.",
+      "source": {
+        "name": "경향신문",
+        "title": "누리호, 내일 발사대로 이송…5번째 우주 대장정 시동",
+        "url": "https://v.daum.net/v/20261005125631022",
+        "publishedAt": "2026-10-05T12:56:00+09:00",
+        "kind": "major",
+        "language": "ko",
+        "verifiedAt": "2026-10-05T21:11:34+09:00",
+        "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/khan/20261005125632543ajop.jpg",
+        "verificationNote": "다음 제공 기사 전문 확인. 12:56 검색 본문에서도 확인된 이송 일정과 15기 탑재·조건부 발사 계획만 사용합니다. 후속으로 바뀐 제목이나 총조립 완료 표현은 새 근거로 사용하지 않습니다."
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "at": null,
+      "timeNote": "10월6일 예정, 정확한 회의 시각 미확인",
+      "title": "금융당국의 온투업권 소집 계획",
+      "detail": "업계 인용 보도에 따른 일정입니다. 실제 개최 여부와 추가 피해 범위, 은행 공격과의 연관성 조사 결과를 확인합니다.",
+      "source": {
+        "name": "조선비즈",
+        "title": "금융 당국, 온투업권 긴급 소집… 공격 IP 연관성 확인",
+        "url": "https://biz.chosun.com/stock/finance/2026/10/05/MGAIFZKP6RFMXPHLMOC3G4JCJI/",
+        "publishedAt": "2026-10-05T15:40:00+09:00",
+        "kind": "major",
+        "language": "ko",
+        "verifiedAt": "2026-10-05T21:09:49+09:00",
+        "imageUrl": "https://biz.chosun.com/resizer/v2/GM3DAMJYG42TMNDEMM2TEZRXGM.jpg?auth=8f1cefa74f5f9d80cdb98527931e48265b81b12982809484d8501c43ff3dbe3b&width=1200&height=630&smart=true",
+        "verificationNote": "화면의 입력 시각과 본문 확인. 업계 취재를 근거로 한 소집 계획·IP 중복 보도이며 공식 조사 결론이나 동일 공격자 확인으로 쓰지 않습니다. 원시 게시 메타데이터는 15:39:51, 표시 시각은 15:40입니다."
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "at": null,
+      "timeNote": "10월6일 개시 예정, 상임위별 상세 시각은 이 기사에서 미확인",
+      "title": "8개 상임위원회 국정감사 시작 예정",
+      "detail": "뉴스1이 보도한 개시 일정입니다. 대미 투자와 금융 보안 등 쟁점은 실제 공식 답변과 새 자료가 나오는지를 확인하며, 예상 공방을 결과로 다루지 않습니다.",
+      "source": {
+        "name": "뉴스1",
+        "title": "국감 개막, 조희대·대미투자 '쟁점'…삼성전자 100조↑·누리호 발사",
+        "url": "https://www.news1.kr/amp/politics/general-politics/6310565",
+        "publishedAt": "2026-10-05T17:05:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-05T21:11:35+09:00",
+        "imageUrl": "https://i3n.news1.kr/system/photos/2026/10/5/8142960/high.jpg",
+        "verificationNote": "기사 본문의 10월 6일 8개 상임위 국정감사 개시 계획만 일정에 사용합니다. 정치적 예상 평가나 확정되지 않은 삼성 실적은 인용하지 않습니다."
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "at": "2026-10-06T18:45:00+09:00",
+      "timeNote": "스톡홀름11:45 CEST 이후, 한국시간18:45 이후",
+      "title": "노벨 물리학상 발표 예정",
+      "detail": "왕립과학원 공식 일정상 가장 이른 발표 시각입니다. 수상자는 아직 공개되지 않았으며 실제 발표 결과를 확인합니다.",
+      "source": {
+        "name": "스웨덴 왕립과학원",
+        "title": "2026 Nobel Prize announcement dates",
+        "url": "https://www.kva.se/en/news/autumn-nobel-announcements-confirmed-3/",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-05T21:11:35+09:00",
+        "imageUrl": "https://www.kva.se/app/uploads/2025/02/KVA_Kemi25_PL_059.jpg",
+        "verificationNote": "공식 일정의 10월 6일 11:45 CEST 이후 발표를 확인했습니다. 한국시간 18:45 이후이며 조기 발표 확정 시각이 아닙니다. 정확한 공지 게시 시각은 미확인입니다."
+      }
+    }
+  ]
+}

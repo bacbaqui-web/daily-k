@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-05T09:11:19+09:00",
+  "updatedAt": "2026-10-05T21:17:29+09:00",
   "editions": [
+    {
+      "id": "2026-10-05-pm",
+      "date": "2026-10-05",
+      "edition": "pm",
+      "generatedAt": "2026-10-05T21:17:29+09:00",
+      "cutoffAt": "2026-10-05T21:00:00+09:00",
+      "count": 7,
+      "path": "2026-10-05/pm.json",
+      "headline": "독파모 유지하고 최상위 AI 별도 추진…4.7조원은 아직 예산안"
+    },
     {
       "id": "2026-10-05-am",
       "date": "2026-10-05",
