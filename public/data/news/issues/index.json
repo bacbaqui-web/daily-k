@@ -1,10 +1,116 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T21:13:51+09:00",
-  "editionCount": 41,
-  "storyCount": 331,
+  "updatedAt": "2026-10-05T09:11:19+09:00",
+  "editionCount": 42,
+  "storyCount": 336,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "white-house-ai-ceo-meeting",
+      "title": "미국 백악관 AI 기업 회동",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-05T09:11:19+09:00",
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-29",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-am",
+        "storyId": "us-super-intelligence-force-2026-10-04",
+        "title": "미국, AI 대응 TF 인선 발표…120일간 위험·정부 역할 검토",
+        "stage": "발표",
+        "change": "기존 AI 기업 회동 기록 이후 정부 조정 TF의 수장과 참여 기관, 120일 검토 계획이 공개됐습니다.",
+        "archive": false
+      },
+      "path": "white-house-ai-ceo-meeting.json"
+    },
+    {
+      "id": "webtoon-ip-screen-adaptations",
+      "title": "웹툰 IP 영상화",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-05T09:11:19+09:00",
+      "eventCount": 2,
+      "firstCoveredDate": "2026-09-24",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-am",
+        "storyId": "ylab-ip-expansion-interview-2026-10-04",
+        "title": "와이랩, 웹툰 105개 기반 확장…중국 애니메이션·AI 영상 협력 구상",
+        "stage": "보도",
+        "change": "기존 영상화 산업 기록에 와이랩의 구체적인 해외 협의·숏폼 개발·파일럿 협력 설명을 추가합니다.",
+        "archive": false
+      },
+      "path": "webtoon-ip-screen-adaptations.json"
+    },
+    {
+      "id": "north-korea-missile-2026-10-03",
+      "title": "북한 2026년 10월 3일 탄도미사일 발사",
+      "categories": [
+        "국내·안보"
+      ],
+      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
+      "lastCoveredAt": "2026-10-05T09:11:19+09:00",
+      "eventCount": 4,
+      "firstCoveredDate": "2026-10-03",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-am",
+        "storyId": "north-korea-defense-assessment-2026-10-05",
+        "title": "국방부, 북한 미사일 탐지·요격 가능 평가…성능 주장과 구분",
+        "stage": "후속",
+        "change": "10월 4일 오전의 북한 설명 보도 이후 국방부가 탐지·추적과 대응 가능성에 관한 공식 평가를 내놨습니다.",
+        "archive": false
+      },
+      "path": "north-korea-missile-2026-10-03.json"
+    },
+    {
+      "id": "korea-equities-flows",
+      "title": "한국 증시와 외국인 수급",
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-05T09:11:19+09:00",
+      "eventCount": 18,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-am",
+        "storyId": "kosdaq-sector-september-review-2026-10-05",
+        "title": "9월 코스닥 제약 10.51% 하락…반도체 관련 업종과 격차",
+        "stage": "분석",
+        "change": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다.",
+        "archive": false
+      },
+      "path": "korea-equities-flows.json"
+    },
+    {
+      "id": "korea-debt-adjustment-reapplication",
+      "title": "채무조정 재신청과 가계 회복",
+      "categories": [
+        "경제·민생"
+      ],
+      "firstCoveredAt": "2026-10-05T09:11:19+09:00",
+      "lastCoveredAt": "2026-10-05T09:11:19+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-05",
+      "latest": {
+        "editionId": "2026-10-05-am",
+        "storyId": "debt-adjustment-repeat-2026-10-05",
+        "title": "채무조정 재신청 1~8월 2만7864명…소득 회복도 과제",
+        "stage": "보도",
+        "change": "오늘 공개 보도에서 1~8월 재신청 현황과 전체 신청 증가에 대한 당국 설명이 제시됐습니다.",
+        "archive": false
+      },
+      "path": "korea-debt-adjustment-reapplication.json"
+    },
     {
       "id": "usdkrw-oil-export-flows",
       "title": "유가와 수출기업 수급에 따른 원·달러 환율",
@@ -176,27 +282,6 @@
         "archive": false
       },
       "path": "us-equities-chips-rates-oil.json"
-    },
-    {
-      "id": "north-korea-missile-2026-10-03",
-      "title": "북한 2026년 10월 3일 탄도미사일 발사",
-      "categories": [
-        "국내·안보"
-      ],
-      "firstCoveredAt": "2026-10-03T12:20:00+09:00",
-      "lastCoveredAt": "2026-10-04T09:20:00+09:00",
-      "eventCount": 3,
-      "firstCoveredDate": "2026-10-03",
-      "lastCoveredDate": "2026-10-04",
-      "latest": {
-        "editionId": "2026-10-04-am",
-        "storyId": "north-korea-missile-claim-2026-10-04",
-        "title": "북한, 어제 미사일 ‘1000㎞ 명중’ 주장…군 관측과 구분해야",
-        "stage": "후속",
-        "change": "어제 저녁의 김여정 발표 이후 조선중앙통신이 극초음속 분류와 1000㎞ 목표 명중 주장을 추가했습니다.",
-        "archive": false
-      },
-      "path": "north-korea-missile-2026-10-03.json"
     },
     {
       "id": "national-employment-support-retention",
@@ -471,28 +556,6 @@
         "archive": false
       },
       "path": "korea-government-it-disaster-recovery.json"
-    },
-    {
-      "id": "korea-equities-flows",
-      "title": "한국 증시와 외국인 수급",
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
-      "eventCount": 17,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "korea-market-2026-10-02-close",
-        "title": "코스피 7,003.74로 마감…7천선 회복에도 외국인은 순매도",
-        "stage": "결과",
-        "change": "10월 2일 국내 정규장 종가가 확정됐습니다. 코스피는 7천선을 회복했지만 코스닥은 소폭 하락했습니다.",
-        "archive": false
-      },
-      "path": "korea-equities-flows.json"
     },
     {
       "id": "euro-area-consumer-prices",
@@ -1104,27 +1167,6 @@
       "path": "ai-research-safety-pressure.json"
     },
     {
-      "id": "white-house-ai-ceo-meeting",
-      "title": "미국 백악관 AI 기업 회동",
-      "categories": [
-        "기술·IT·AI"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 1,
-      "firstCoveredDate": "2026-09-29",
-      "lastCoveredDate": "2026-09-29",
-      "latest": {
-        "editionId": "2026-09-29-am-archive",
-        "storyId": "archive-06",
-        "title": "트럼프, 오픈AI·앤트로픽·메타 CEO들과 백악관 회동 예정",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 트럼프, 오픈AI·앤트로픽·메타 CEO들과 백악관 회동 예정.",
-        "archive": true
-      },
-      "path": "white-house-ai-ceo-meeting.json"
-    },
-    {
       "id": "tving-data-compensation",
       "title": "티빙 개인정보 유출 보상",
       "categories": [
@@ -1732,27 +1774,6 @@
         "archive": true
       },
       "path": "korea-regional-airport-finances.json"
-    },
-    {
-      "id": "webtoon-ip-screen-adaptations",
-      "title": "웹툰 IP 영상화",
-      "categories": [
-        "웹툰 산업"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 1,
-      "firstCoveredDate": "2026-09-24",
-      "lastCoveredDate": "2026-09-24",
-      "latest": {
-        "editionId": "2026-09-24-pm-archive",
-        "storyId": "archive-07",
-        "title": "웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰·웹소설 원작 드라마 강세, 《김부장》 최고시청률 23.1% 보도.",
-        "archive": true
-      },
-      "path": "webtoon-ip-screen-adaptations.json"
     },
     {
       "id": "oecd-korea-growth-outlook",

@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-04T21:13:51+09:00",
+  "updatedAt": "2026-10-05T09:11:19+09:00",
   "editions": [
+    {
+      "id": "2026-10-05-am",
+      "date": "2026-10-05",
+      "edition": "am",
+      "generatedAt": "2026-10-05T09:11:19+09:00",
+      "cutoffAt": "2026-10-05T09:00:00+09:00",
+      "count": 5,
+      "path": "2026-10-05/am.json",
+      "headline": "미국, AI 대응 TF 인선 발표…120일간 위험·정부 역할 검토"
+    },
     {
       "id": "2026-10-04-pm",
       "date": "2026-10-04",

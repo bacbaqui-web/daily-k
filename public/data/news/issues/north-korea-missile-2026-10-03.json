@@ -214,7 +214,79 @@
       },
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-05-am/north-korea-defense-assessment-2026-10-05",
+      "editionId": "2026-10-05-am",
+      "storyId": "north-korea-defense-assessment-2026-10-05",
+      "editionDate": "2026-10-05",
+      "edition": "am",
+      "coveredAt": "2026-10-05T09:11:19+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T06:28:24+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-04",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "이번 후속의 사건일은 국방부 입장 발표일인 10월 4일입니다. 실제 미사일 발사는 3일이며 정확한 입장 발표 시각은 확인되지 않았습니다.",
+      "stage": "후속",
+      "change": "10월 4일 오전의 북한 설명 보도 이후 국방부가 탐지·추적과 대응 가능성에 관한 공식 평가를 내놨습니다.",
+      "title": "국방부, 북한 미사일 탐지·요격 가능 평가…성능 주장과 구분",
+      "category": "국내·안보",
+      "status": "보도",
+      "summary": [
+        "국방부는 북한이 10월 3일 발사한 미사일이 한·미의 방어자산으로 탐지·요격 가능한 수준이라고 평가했습니다. 어제 오후 나온 공식 입장을 오늘 아침 SBS 보도와 함께 확인한 후속 소식입니다.",
+        "어제 오전에는 북한의 극초음속 미사일 설명과 1000㎞ 명중 주장을 전했는데, 이후 우리 군의 대응 능력에 관한 평가가 추가됐습니다. 국방부는 발사 준비부터 감시했고 발사 직후 탐지·추적해 발사 원점을 식별했다고 밝혔습니다.",
+        "우리 군이 공개한 이번 발사 관측은 10월 3일 오전 6시 30분께 원산 일대에서 발사된 1발이 700㎞ 이상 비행했다는 것입니다. 북한의 목표 거리 설명이나 전문가의 최대 사거리 추정과 같은 숫자로 합쳐서는 안 됩니다.",
+        "새 변화는 군 당국의 공식 대응 평가가 더해졌다는 점입니다. 다만 요격 가능하다는 평가는 이번에 실제 요격 시험을 성공했다는 결과가 아니며, 북한의 세부 성능 주장도 독립적으로 검증된 사실로 취급하지 않습니다."
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "detectedCount": "1발",
+        "flightDistance": "700㎞ 이상",
+        "defenseStatementDate": "2026-10-04",
+        "defenseAssessment": "한미 방어자산으로 탐지·요격 가능한 수준이라는 국방부 평가",
+        "interceptionResult": "이번 실제 요격 성공 발표 아님"
+      },
+      "uncertainty": "양측의 상세 기술 자료와 실전 요격 결과는 공개되지 않았으며 북한의 성능 주장은 독립 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "'지뢰' 언급 없이…\"극초음속 미사일 시험 발사\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782916",
+          "publishedAt": "2026-10-05T06:28:24+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261005/202228523_1280.jpg",
+          "verificationNote": "오늘 아침 보도는 10월 3일 발사와 4일 공개 설명을 다룹니다. 추정 사거리나 미사일 성능은 독립 확인 수치로 쓰지 않았습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "국방부 \"北 최근 미사일, 한미가 충분히 탐지·요격 가능 수준\"",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813984",
+          "publishedAt": "2026-10-04T16:11:48+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:07:44+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/04/NISI20261004_0021475588_web.jpg",
+          "verificationNote": "국방부의 10월 4일 입장 발표를 인용한 본문을 확인했습니다. 탐지·요격 가능하다는 평가는 실제 요격 성공과 구분합니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/am.json",
+      "previous": {
+        "editionId": "2026-10-04-am",
+        "storyId": "north-korea-missile-claim-2026-10-04"
+      },
+      "followUp": {
+        "editionId": "2026-10-04-am",
+        "storyId": "north-korea-missile-claim-2026-10-04",
+        "delta": "10월 4일 오전의 북한 설명 보도 이후 국방부가 탐지·추적과 대응 가능성에 관한 공식 평가를 내놨습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-04T21:13:51+09:00"
+  "updatedAt": "2026-10-05T09:11:19+09:00"
 }

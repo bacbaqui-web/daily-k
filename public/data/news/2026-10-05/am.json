@@ -1,0 +1,543 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-05-am",
+  "date": "2026-10-05",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "generatedAt": "2026-10-05T09:11:19+09:00",
+  "cutoffAt": "2026-10-05T09:00:00+09:00",
+  "intro": "밤사이 미국 AI 정책 변화와 오늘 아침 국내 통계, 새로 확인된 안보 대응을 정리했습니다.",
+  "overview": [
+    "미국은 AI 기업 회동에 이어 정부의 초지능 TF 인선을 발표했습니다. 120일 검토 계획이 제시됐지만 새 규제 의무가 확정된 것은 아닙니다. 국내 증시는 오늘 휴장으로, 새 시세 대신 9월 제약 -10.51%와 기계·장비 +14%라는 업종 격차를 짚습니다.",
+    "채무조정 재신청자는 올해 1~8월 2만7864명입니다. 지난해 연간 수치와의 비교를 전년 동기 증감률로 읽지 않아야 하며, 상환을 이어 갈 소득 여건도 중요합니다. 안보 분야에서는 북한의 미사일 성능 주장 이후 국방부가 탐지·요격 가능 평가를 추가했습니다.",
+    "웹툰은 와이랩의 해외 영상화 협의와 AI 영상 파일럿 등 최근 인터뷰를 다뤘습니다. 협의·기획 단계와 출시 확정을 구분했습니다. 오늘 밤에는 한국시간 22시 30분 미국장 개장과 23시 ISM 서비스업 지표를 확인합니다."
+  ],
+  "overviewEmphasis": [
+    "정부의 초지능 TF 인선",
+    "국내 증시는 오늘 휴장",
+    "제약 -10.51%와 기계·장비 +14%",
+    "1~8월 2만7864명",
+    "탐지·요격 가능 평가",
+    "협의·기획 단계와 출시 확정",
+    "23시 ISM 서비스업 지표"
+  ],
+  "stories": [
+    {
+      "id": "us-super-intelligence-force-2026-10-04",
+      "topicKey": "white-house-ai-ceo-meeting",
+      "category": "기술·IT·AI",
+      "title": "미국, AI 대응 TF 인선 발표…120일간 위험·정부 역할 검토",
+      "status": "보도",
+      "publishedAt": "2026-10-05T02:17:38+09:00",
+      "eventAt": null,
+      "eventTimeNote": "대통령 발표는 미국 현지 10월 4일입니다. 정확한 게시 시각은 확인되지 않아 eventAt은 비워 둡니다. 120일 검토 계획은 현지 3일 인터뷰 내용입니다.",
+      "summary": [
+        "트럼프 미국 대통령이 현지 10월 4일 AI 정책 대응을 맡을 초지능 태스크포스(SIF)의 출범과 인선을 발표했습니다. 제이 클레이턴 국가정보국장이 이끌며, 연방거래위원회와 국방부·인사관리처 관계자도 참여합니다.",
+        "지난주 AI 기업 수장들과의 백악관 회동에 이어 정부 차원의 조정 조직이 제시된 것이 변화입니다. 클레이턴 국장은 인터뷰에서 120일 동안 기술의 위험과 활용 가능성, 연방정부가 맡을 역할을 검토해 보고서를 만들 계획이라고 설명했습니다.",
+        "AI 기업의 자율적인 안전 약속을 정부가 어떻게 점검할지가 다음 쟁점입니다. 정보·소비자 보호·국방 담당 기관이 함께 참여한다는 점에서 모델 성능뿐 아니라 안전과 공공부문 활용도 논의 대상이 될 수 있습니다.",
+        "다만 이번 발표가 새로운 AI 규제 법률의 시행이나 구체적인 의무 확정을 뜻하지는 않습니다. 한국 개발사와 기업에는 미국 시장의 규칙을 가늠할 신호지만, 실제 요구사항은 후속 보고서와 공식 조치를 확인해야 합니다."
+      ],
+      "emphasis": [
+        "초지능 태스크포스(SIF)",
+        "120일",
+        "정부 차원의 조정 조직",
+        "새로운 AI 규제 법률의 시행이나 구체적인 의무 확정을 뜻하지는 않습니다"
+      ],
+      "keyFacts": {
+        "announcementDateLocal": "2026-10-04",
+        "taskForce": "Super Intelligence Force (SIF)",
+        "chair": "제이 클레이턴 국가정보국장",
+        "assessmentPeriod": "120일, 국장 인터뷰에서 밝힌 계획",
+        "bindingRules": "새 규제 의무의 구체적 내용·시행일 미확정"
+      },
+      "whatChanged": "기존 AI 기업 회동 기록 이후 정부 조정 TF의 수장과 참여 기관, 120일 검토 계획이 공개됐습니다.",
+      "whyItMatters": "미국 AI 정책이 기업 자율 약속 이후 어떤 정부 감독 체계로 이어질지 보여주는 변화입니다.",
+      "uncertainty": "검토 보고서의 최종 권고와 새로운 법적 의무는 아직 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "트럼프 \"초지능 TF 창설…수장에 클레이턴 DNI 국장\"(종합)",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261005_0003814107",
+          "publishedAt": "2026-10-05T02:17:38+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0001473317_web.jpg",
+          "verificationNote": "본문 최초 등록 02:17:38, 수정 06:01을 확인했습니다. 메타데이터는 수정 시각을 발행 시각으로 담고 있어 최초 등록 시각을 사용합니다. 실제 발표는 미국 현지 10월 4일입니다."
+        },
+        {
+          "name": "AP",
+          "title": "Trump's national intelligence chief will lead a new federal AI task force",
+          "url": "https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901",
+          "publishedAt": "2026-10-04T22:12:05+09:00",
+          "kind": "wire",
+          "language": "en",
+          "verifiedAt": "2026-10-05T09:11:19+09:00",
+          "verificationNote": "웹 열기로 대통령의 발표와 참여 인사를 대조했습니다. 13:12:05 UTC를 한국시간으로 변환했습니다. 직접 요청은 403이므로 이미지 URL은 사용하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "트럼프 \"초지능 TF 창설…수장에 클레이턴 DNI 국장\"(종합)",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261005_0003814107",
+          "publishedAt": "2026-10-05T02:17:38+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0001473317_web.jpg",
+          "verificationNote": "본문 최초 등록 02:17:38, 수정 06:01을 확인했습니다. 메타데이터는 수정 시각을 발행 시각으로 담고 있어 최초 등록 시각을 사용합니다. 실제 발표는 미국 현지 10월 4일입니다."
+        },
+        {
+          "name": "AP",
+          "title": "Trump's national intelligence chief will lead a new federal AI task force",
+          "url": "https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901",
+          "publishedAt": "2026-10-04T22:12:05+09:00",
+          "kind": "wire",
+          "language": "en",
+          "verifiedAt": "2026-10-05T09:11:19+09:00",
+          "verificationNote": "웹 열기로 대통령의 발표와 참여 인사를 대조했습니다. 13:12:05 UTC를 한국시간으로 변환했습니다. 직접 요청은 403이므로 이미지 URL은 사용하지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 94,
+        "interest": 99,
+        "domesticImpact": 89,
+        "reliability": 95,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 발표, AI 관심도와 국제 파급력을 우선했습니다. 대통령 발표를 두 통신사로 대조했습니다.",
+      "timeline": {
+        "issueId": "white-house-ai-ceo-meeting",
+        "issueTitle": "미국 백악관 AI 기업 회동",
+        "eventDate": "2026-10-04",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "발표",
+        "change": "기존 AI 기업 회동 기록 이후 정부 조정 TF의 수장과 참여 기관, 120일 검토 계획이 공개됐습니다."
+      },
+      "score": 96.75,
+      "factsHash": "08fc9323054c0113483950c77897e0d328db54150e7d1c0282af463de4c3b025"
+    },
+    {
+      "id": "kosdaq-sector-september-review-2026-10-05",
+      "topicKey": "korea-equities-sector-performance",
+      "category": "증시·반도체",
+      "title": "9월 코스닥 제약 10.51% 하락…반도체 관련 업종과 격차",
+      "status": "분석",
+      "publishedAt": "2026-10-05T07:38:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "수익률의 대상 기간은 9월 1~30일이며 기사 공개는 10월 5일입니다. 월간 분석에 단일 거래 시각을 부여하지 않았습니다.",
+      "summary": [
+        "오늘 아침 나온 9월 업종별 분석에서 코스닥 제약 지수는 한 달 동안 10.51% 하락한 것으로 집계됐습니다. 같은 기간 반도체 소재·부품·장비 기업이 포함된 기계·장비 업종은 14%, 전기·전자는 10.28% 상승했습니다.",
+        "직전 브리핑에서는 10월 2일 시장 마감을 다뤘지만, 이번에는 9월 한 달의 업종 간 차이를 살폈습니다. 제약 지수의 연초 이후 하락률은 36.65%로, 월간 하락률과 구분해야 하는 숫자입니다.",
+        "보도는 AI·반도체로의 자금 집중, 금리 상승, 개별 기업의 악재가 겹쳤다고 분석합니다. 신약 개발처럼 현금이 들어오기까지 시간이 오래 걸리는 사업은 금리가 높아질수록 미래 수익의 현재 가치가 낮게 평가될 수 있습니다.",
+        "따라서 지수 상승만 보고 모든 업종의 투자 여건이 좋아졌다고 해석하기는 어렵습니다. 이는 지난달 성과에 대한 분석이며 다음 수익률을 보장하는 전망은 아닙니다. 오늘 10월 5일 국내 증시는 휴장이므로 새 장중 수치나 종가가 아닙니다."
+      ],
+      "emphasis": [
+        "9월 업종별 분석",
+        "10.51% 하락",
+        "기계·장비 업종은 14%",
+        "오늘 10월 5일 국내 증시는 휴장"
+      ],
+      "keyFacts": {
+        "measurementPeriod": "2026-09 월간",
+        "kosdaqPharmaMonthly": "-10.51%",
+        "kosdaqMachineryMonthly": "+14.00%",
+        "kosdaqElectricalMonthly": "+10.28%",
+        "kosdaqPharmaYtd": "-36.65%, 9월 말 기준",
+        "marketStatusToday": "10월 5일 KRX 휴장"
+      },
+      "whatChanged": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다.",
+      "whyItMatters": "시장 전체 지수와 업종별 체감 성과가 다른 이유를 보여줍니다.",
+      "uncertainty": "금리·수급과 하락의 인과 기여도를 따로 측정한 분석은 아니며 향후 업종 수익률은 미확정입니다.",
+      "sources": [
+        {
+          "name": "경북매일",
+          "title": "반도체로 돈 몰리자 제약주 ‘찬바람’…코스닥 제약 9월 10.51% 급락",
+          "url": "https://www.kbmaeil.com/article/20261005500028",
+          "publishedAt": "2026-10-05T07:38:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/10/05/.cache/512/20261005500026.jpg",
+          "verificationNote": "본문의 온라인 등록은 10월 5일 07:38이고 지면 게재일은 10월 6일입니다. 두 날짜를 구분했습니다. 연합인포맥스 인용 9월 월간 수치를 확인했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "경북매일",
+          "title": "반도체로 돈 몰리자 제약주 ‘찬바람’…코스닥 제약 9월 10.51% 급락",
+          "url": "https://www.kbmaeil.com/article/20261005500028",
+          "publishedAt": "2026-10-05T07:38:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/10/05/.cache/512/20261005500026.jpg",
+          "verificationNote": "본문의 온라인 등록은 10월 5일 07:38이고 지면 게재일은 10월 6일입니다. 두 날짜를 구분했습니다. 연합인포맥스 인용 9월 월간 수치를 확인했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 82,
+        "interest": 95,
+        "domesticImpact": 94,
+        "reliability": 86,
+        "recency": 100
+      },
+      "scoreReason": "오늘 아침 월간 분석으로 시장 수치의 기간과 휴장을 명시했습니다. 반도체 관심도를 반영했습니다.",
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": "2026-09-01",
+        "eventEndDate": "2026-09-30",
+        "eventTimezone": "Asia/Seoul",
+        "stage": "분석",
+        "change": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-market-2026-10-02-close",
+        "delta": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다."
+      },
+      "score": 92.75,
+      "factsHash": "6c2804c254909cce42bdf95ca3590149795e4757e84dcf5a465049f69870b118"
+    },
+    {
+      "id": "debt-adjustment-repeat-2026-10-05",
+      "topicKey": "korea-debt-adjustment-reapplication",
+      "category": "경제·민생",
+      "title": "채무조정 재신청 1~8월 2만7864명…소득 회복도 과제",
+      "status": "보도",
+      "publishedAt": "2026-10-05T05:52:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "통계 대상은 2026년 1~8월입니다. 의원실 자료 제공의 정확한 시각은 미확인이며 10월 5일 보도로 확인했습니다.",
+      "summary": [
+        "신용회복위원회 자료를 받은 이종욱 의원실에 따르면 올해 1~8월 채무조정 재신청자는 2만7864명입니다. 지난해 연간 3만3718명의 82.6%에 해당하지만, 비교 기간이 다르므로 전년 동기 증가율로 읽으면 안 됩니다.",
+        "재신청에는 약정이 실효된 뒤 다시 신청한 경우뿐 아니라 기존 빚을 갚고 새 채무가 생긴 경우도 포함됩니다. 이 수치만으로 모든 신청자가 같은 빚을 반복해서 탕감받았거나 고의로 상환을 피했다고 단정할 수 없습니다.",
+        "금융당국은 제도가 정착하며 전체 신청자도 늘었고, 실효 이후 재신청 안내를 강화한 영향도 있다고 설명했습니다. 반면 전문가들은 빚 조정만으로 생활이 안정되기 어려운 만큼 취업과 소득 개선 지원을 함께 봐야 한다고 지적했습니다.",
+        "중요한 것은 신청 건수 자체뿐 아니라 지원 이후 상환을 지속할 수 있는지입니다. 이번 보도는 기존 제도의 이용 현황을 보여주는 자료이며, 새 탕감 확대나 심사 기준 변경이 확정됐다는 발표는 아닙니다."
+      ],
+      "emphasis": [
+        "1~8월 채무조정 재신청자는 2만7864명",
+        "전년 동기 증가율로 읽으면 안 됩니다",
+        "전체 신청자도 늘었고",
+        "취업과 소득 개선 지원"
+      ],
+      "keyFacts": {
+        "period": "2026-01~08",
+        "repeatApplicants": "27864명",
+        "priorFullYear": "2025년 33718명",
+        "shareOfPriorFullYear": "82.6%",
+        "comparisonLimit": "동일 기간 전년 대비 증감률 아님",
+        "authorityExplanation": "전체 신청 증가와 재신청 안내 강화 영향도 있음"
+      },
+      "whatChanged": "오늘 공개 보도에서 1~8월 재신청 현황과 전체 신청 증가에 대한 당국 설명이 제시됐습니다.",
+      "whyItMatters": "채무 부담 완화가 지속 가능한 가계 회복으로 이어지는지 점검할 자료입니다.",
+      "uncertainty": "재신청 원인별 비중과 전년 동기 대비 증감률은 선정 자료로 확정하지 않았습니다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "'탕감받고도 또 신청'…채무조정 재신청 올해 3만명 육박 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004014500002",
+          "publishedAt": "2026-10-05T05:52:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:07:07+09:00",
+          "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2023/08/15/PYH2023081502760001300_P4.jpg",
+          "verificationNote": "의원실이 신용회복위원회에서 받은 자료에 대한 보도입니다. 2026년 1~8월과 2025년 연간의 기간 차이, 금융당국의 전체 신청자 증가 설명을 함께 확인했습니다."
+        },
+        {
+          "name": "위키리크스한국",
+          "title": "\"빚 탕감받고 또 연체\"… '채무조정 재신청' 올해 3만 명 육박",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=192834",
+          "publishedAt": "2026-10-05T06:10:01+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "http://www.wikileaks-kr.org/news/thumbnail/202610/192834_209040_950_v150.jpg",
+          "verificationNote": "연합뉴스 등을 인용한 같은 자료의 재보도입니다. 별개의 통계 조사로 취급하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합뉴스",
+          "title": "'탕감받고도 또 신청'…채무조정 재신청 올해 3만명 육박 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004014500002",
+          "publishedAt": "2026-10-05T05:52:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:07:07+09:00",
+          "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2023/08/15/PYH2023081502760001300_P4.jpg",
+          "verificationNote": "의원실이 신용회복위원회에서 받은 자료에 대한 보도입니다. 2026년 1~8월과 2025년 연간의 기간 차이, 금융당국의 전체 신청자 증가 설명을 함께 확인했습니다."
+        },
+        {
+          "name": "위키리크스한국",
+          "title": "\"빚 탕감받고 또 연체\"… '채무조정 재신청' 올해 3만 명 육박",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=192834",
+          "publishedAt": "2026-10-05T06:10:01+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "http://www.wikileaks-kr.org/news/thumbnail/202610/192834_209040_950_v150.jpg",
+          "verificationNote": "연합뉴스 등을 인용한 같은 자료의 재보도입니다. 별개의 통계 조사로 취급하지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 85,
+        "interest": 78,
+        "domesticImpact": 96,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "새벽의 민생 통계를 선정했습니다. 연합뉴스 원문과 동일 자료 재보도를 구분하고 기간 차이를 명시했습니다.",
+      "timeline": {
+        "issueId": "korea-debt-adjustment-reapplication",
+        "issueTitle": "채무조정 재신청과 가계 회복",
+        "eventDate": "2026-01-01",
+        "eventEndDate": "2026-08-31",
+        "eventTimezone": "Asia/Seoul",
+        "stage": "보도",
+        "change": "오늘 공개 보도에서 1~8월 재신청 현황과 전체 신청 증가에 대한 당국 설명이 제시됐습니다."
+      },
+      "score": 91.95,
+      "factsHash": "674c07d602ab225ba0e19d0784d042d1512e49b9c6a10e10ee12023986ca01a4"
+    },
+    {
+      "id": "north-korea-defense-assessment-2026-10-05",
+      "topicKey": "north-korea-missile-2026-10-03",
+      "category": "국내·안보",
+      "title": "국방부, 북한 미사일 탐지·요격 가능 평가…성능 주장과 구분",
+      "status": "보도",
+      "publishedAt": "2026-10-05T06:28:24+09:00",
+      "eventAt": null,
+      "eventTimeNote": "이번 후속의 사건일은 국방부 입장 발표일인 10월 4일입니다. 실제 미사일 발사는 3일이며 정확한 입장 발표 시각은 확인되지 않았습니다.",
+      "summary": [
+        "국방부는 북한이 10월 3일 발사한 미사일이 한·미의 방어자산으로 탐지·요격 가능한 수준이라고 평가했습니다. 어제 오후 나온 공식 입장을 오늘 아침 SBS 보도와 함께 확인한 후속 소식입니다.",
+        "어제 오전에는 북한의 극초음속 미사일 설명과 1000㎞ 명중 주장을 전했는데, 이후 우리 군의 대응 능력에 관한 평가가 추가됐습니다. 국방부는 발사 준비부터 감시했고 발사 직후 탐지·추적해 발사 원점을 식별했다고 밝혔습니다.",
+        "우리 군이 공개한 이번 발사 관측은 10월 3일 오전 6시 30분께 원산 일대에서 발사된 1발이 700㎞ 이상 비행했다는 것입니다. 북한의 목표 거리 설명이나 전문가의 최대 사거리 추정과 같은 숫자로 합쳐서는 안 됩니다.",
+        "새 변화는 군 당국의 공식 대응 평가가 더해졌다는 점입니다. 다만 요격 가능하다는 평가는 이번에 실제 요격 시험을 성공했다는 결과가 아니며, 북한의 세부 성능 주장도 독립적으로 검증된 사실로 취급하지 않습니다."
+      ],
+      "emphasis": [
+        "탐지·요격 가능한 수준이라고 평가",
+        "우리 군의 대응 능력에 관한 평가가 추가",
+        "1발이 700㎞ 이상",
+        "실제 요격 시험을 성공했다는 결과가 아니며"
+      ],
+      "keyFacts": {
+        "detectedAt": "2026-10-03 06:30경 KST",
+        "launchArea": "원산 일대",
+        "detectedCount": "1발",
+        "flightDistance": "700㎞ 이상",
+        "defenseStatementDate": "2026-10-04",
+        "defenseAssessment": "한미 방어자산으로 탐지·요격 가능한 수준이라는 국방부 평가",
+        "interceptionResult": "이번 실제 요격 성공 발표 아님"
+      },
+      "whatChanged": "10월 4일 오전의 북한 설명 보도 이후 국방부가 탐지·추적과 대응 가능성에 관한 공식 평가를 내놨습니다.",
+      "whyItMatters": "북한의 성능 주장과 우리 군의 공식 판단을 나눠 안보 상황을 이해할 수 있습니다.",
+      "uncertainty": "양측의 상세 기술 자료와 실전 요격 결과는 공개되지 않았으며 북한의 성능 주장은 독립 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "SBS",
+          "title": "'지뢰' 언급 없이…\"극초음속 미사일 시험 발사\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782916",
+          "publishedAt": "2026-10-05T06:28:24+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261005/202228523_1280.jpg",
+          "verificationNote": "오늘 아침 보도는 10월 3일 발사와 4일 공개 설명을 다룹니다. 추정 사거리나 미사일 성능은 독립 확인 수치로 쓰지 않았습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "국방부 \"北 최근 미사일, 한미가 충분히 탐지·요격 가능 수준\"",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813984",
+          "publishedAt": "2026-10-04T16:11:48+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:07:44+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/04/NISI20261004_0021475588_web.jpg",
+          "verificationNote": "국방부의 10월 4일 입장 발표를 인용한 본문을 확인했습니다. 탐지·요격 가능하다는 평가는 실제 요격 성공과 구분합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "SBS",
+          "title": "'지뢰' 언급 없이…\"극초음속 미사일 시험 발사\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782916",
+          "publishedAt": "2026-10-05T06:28:24+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261005/202228523_1280.jpg",
+          "verificationNote": "오늘 아침 보도는 10월 3일 발사와 4일 공개 설명을 다룹니다. 추정 사거리나 미사일 성능은 독립 확인 수치로 쓰지 않았습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "국방부 \"北 최근 미사일, 한미가 충분히 탐지·요격 가능 수준\"",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813984",
+          "publishedAt": "2026-10-04T16:11:48+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:07:44+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/04/NISI20261004_0021475588_web.jpg",
+          "verificationNote": "국방부의 10월 4일 입장 발표를 인용한 본문을 확인했습니다. 탐지·요격 가능하다는 평가는 실제 요격 성공과 구분합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 87,
+        "interest": 67,
+        "domesticImpact": 97,
+        "reliability": 95,
+        "recency": 100
+      },
+      "scoreReason": "어제 오전 이후 새 공식 입장에 한정한 후속입니다. 오늘 아침 재보도의 시각과 실제 입장 발표일을 구분했습니다.",
+      "timeline": {
+        "issueId": "north-korea-missile-2026-10-03",
+        "issueTitle": "북한 2026년 10월 3일 탄도미사일 발사",
+        "eventDate": "2026-10-04",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "10월 4일 오전의 북한 설명 보도 이후 국방부가 탐지·추적과 대응 가능성에 관한 공식 평가를 내놨습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-04-am",
+        "storyId": "north-korea-missile-claim-2026-10-04",
+        "delta": "10월 4일 오전의 북한 설명 보도 이후 국방부가 탐지·추적과 대응 가능성에 관한 공식 평가를 내놨습니다."
+      },
+      "score": 91.0,
+      "factsHash": "738387ee0a612000cd2a7d63f42485a0dc2de4c03988bac6ab67f09085d31aab"
+    },
+    {
+      "id": "ylab-ip-expansion-interview-2026-10-04",
+      "topicKey": "webtoon-ip-screen-adaptations",
+      "category": "웹툰 산업",
+      "title": "와이랩, 웹툰 105개 기반 확장…중국 애니메이션·AI 영상 협력 구상",
+      "status": "보도",
+      "publishedAt": "2026-10-04T08:10:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "인터뷰 보도는 10월 4일입니다. 실제 인터뷰와 각 협의·파일럿 시작 시점은 특정되지 않아 사건일·시각을 비워 둡니다.",
+      "summary": [
+        "오늘 새 대형 발표는 확인되지 않아 최근 중요 업데이트인 10월 4일 와이랩 대표 인터뷰를 골랐습니다. 강철구 대표는 보유 웹툰 105개를 바탕으로 영상화 이후에도 원작과 팬덤이 다시 성장하는 사업을 만들겠다고 설명했습니다.",
+        "구체적으로 스터디그룹은 중국 기업과 애니메이션 영화 제작 조건을 협의 중이며, 선의의 경쟁은 숏폼 드라마 기획·개발에 들어갔다고 밝혔습니다. 두 사업 모두 완성작 공개나 제작 계약 확정으로 읽어서는 안 됩니다.",
+        "대표는 바이트댄스의 영상 생성 모델을 활용하는 파일럿 협력과 반다이남코와 준비 중인 프로젝트 2개도 소개했습니다. 이는 회사가 밝힌 진행 상황이며, 공개 일정과 매출 규모까지 확인된 것은 아닙니다.",
+        "핵심은 웹툰을 한 번 영상화하는 데 그치지 않고 다른 형식으로 확장해 오래 수익을 내는 IP를 만들려는 전략입니다. 창작자와 산업에는 활용 경로가 넓어질 가능성이 있지만, 실제 성과는 후속 계약·출시와 수익 배분 조건을 확인해야 합니다."
+      ],
+      "emphasis": [
+        "최근 중요 업데이트인 10월 4일",
+        "보유 웹툰 105개",
+        "애니메이션 영화 제작 조건을 협의 중",
+        "공개 일정과 매출 규모까지 확인된 것은 아닙니다"
+      ],
+      "keyFacts": {
+        "reportedAt": "2026-10-04 08:10 KST",
+        "ownedWebtoons": "105개, 대표 인터뷰 설명",
+        "studyGroup": "중국 기업과 애니메이션 영화 제작 조건 협의",
+        "friendlyRivalry": "숏폼 기획·개발 단계",
+        "bandaiNamco": "프로젝트 2개 준비, 대표 설명",
+        "bytedance": "시댄스 활용 파일럿 협력, 대표 설명"
+      },
+      "whatChanged": "기존 영상화 산업 기록에 와이랩의 구체적인 해외 협의·숏폼 개발·파일럿 협력 설명을 추가합니다.",
+      "whyItMatters": "국내 웹툰 IP가 영상화 이후 다른 형식과 해외 협력으로 확장되는 사업 경로를 보여줍니다.",
+      "uncertainty": "개별 사업의 최종 계약, 출시일, 매출과 수익 배분은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "\"드라마가 다이아라면 웹툰은 원석…글로벌 IP 보유가 목표\" | 연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261003028700005",
+          "publishedAt": "2026-10-04T08:10:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img5.yna.co.kr/etc/inner/KR/2026/10/03/AKR20261003028700005_06_i_P4.jpg",
+          "verificationNote": "대표 직접 인터뷰를 확인했습니다. 105개 보유 IP와 협의·기획·파일럿 사업은 대표 설명이며, 계약 체결·출시 완료로 확대 해석하지 않습니다. 정확한 인터뷰 시각은 공개되지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합뉴스",
+          "title": "\"드라마가 다이아라면 웹툰은 원석…글로벌 IP 보유가 목표\" | 연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261003028700005",
+          "publishedAt": "2026-10-04T08:10:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img5.yna.co.kr/etc/inner/KR/2026/10/03/AKR20261003028700005_06_i_P4.jpg",
+          "verificationNote": "대표 직접 인터뷰를 확인했습니다. 105개 보유 IP와 협의·기획·파일럿 사업은 대표 설명이며, 계약 체결·출시 완료로 확대 해석하지 않습니다. 정확한 인터뷰 시각은 공개되지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 78,
+        "interest": 100,
+        "domesticImpact": 87,
+        "reliability": 92,
+        "recency": 50
+      },
+      "scoreReason": "필수 웹툰 산업 항목입니다. 72시간 이내 직접 인터뷰를 사용하고 이전 회차의 행사·밀리·피코마 보도를 반복하지 않았습니다.",
+      "timeline": {
+        "issueId": "webtoon-ip-screen-adaptations",
+        "issueTitle": "웹툰 IP 영상화",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "stage": "보도",
+        "change": "기존 영상화 산업 기록에 와이랩의 구체적인 해외 협의·숏폼 개발·파일럿 협력 설명을 추가합니다."
+      },
+      "fallbackNote": "오늘 새 대형 발표는 확인되지 않아 10월 4일 08:10 보도된 와이랩 대표 인터뷰를 선정했습니다. 최근 3일 이내 중요 업데이트입니다.",
+      "score": 72.4,
+      "factsHash": "8c0e70accabe45182e1844467d3fd3b895300c4c9dd5f3b993447e13171d8a05"
+    }
+  ],
+  "keywords": [],
+  "events": [
+    {
+      "date": "2026-10-05",
+      "at": null,
+      "timeNote": "한국시간 10월 5일 09시 이후에도 종일 휴장",
+      "title": "국내 증시 휴장…다음 개장 전 해외 변수 점검",
+      "detail": "개천절 대체공휴일로 한국거래소 시장이 쉽니다. 오늘 새 국내 종가는 없으며, 해외 금리·달러와 AI 관련 주가 변화를 다음 개장 전 점검할 변수로 봅니다.",
+      "source": {
+        "name": "한국거래소",
+        "title": "2026년 10월 국내 증시(KRX) 휴장 및 리플레이장 운영 안내",
+        "url": "https://trn.krx.co.kr/index.jsp",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "ko",
+        "verifiedAt": "2026-10-05T09:05:57+09:00",
+        "verificationNote": "9월 29일 공지에서 10월 5일 국내 증시 휴장을 다시 확인했습니다. 모의거래 리플레이 운영시간을 실제 장 운영시간으로 사용하지 않습니다."
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "at": "2026-10-05T22:30:00+09:00",
+      "title": "미국 주식 정규장 개장 예정",
+      "detail": "뉴욕 현지 10월 5일 09:30입니다. 주말 AI 정책 발표의 시장 반응과 개장 30분 뒤 예정된 ISM 지표를 함께 확인할 일정입니다. 아직 장중 가격이나 종가가 나온 것은 아닙니다.",
+      "source": {
+        "name": "NYSE",
+        "title": "Holidays & Trading Hours",
+        "url": "https://www.nyse.com/trade/hours-calendars?ecid=MGJINSGCCAENCB",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-05T09:07:07+09:00",
+        "verificationNote": "2026년 휴장일 목록과 정규장 09:30 ET 개장을 확인했습니다. 10월 5일은 월요일이며 휴장일에 포함되지 않습니다. 한국시간 22:30입니다."
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "at": "2026-10-05T23:00:00+09:00",
+      "title": "미국 9월 ISM 서비스업 PMI 발표 예정",
+      "detail": "미국 동부시간 10월 5일 10:00 발표 예정입니다. 서비스업 경기와 고용·가격 항목이 미국 금리·달러에 주는 영향을 확인합니다. 예상치를 결과처럼 넣지 않았습니다.",
+      "source": {
+        "name": "ISM",
+        "title": "August 2026 ISM Services PMI Report",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/august/",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-05T09:11:19+09:00",
+        "verificationNote": "공식 8월 보고서 말미의 9월 보고서 예정일 10월 5일 10:00 ET를 확인했습니다. America/New_York 서머타임을 적용해 한국시간 23:00으로 환산했습니다."
+      }
+    }
+  ]
+}

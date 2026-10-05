@@ -4,6 +4,71 @@
   "title": "미국 백악관 AI 기업 회동",
   "entries": [
     {
+      "id": "2026-10-05-am/us-super-intelligence-force-2026-10-04",
+      "editionId": "2026-10-05-am",
+      "storyId": "us-super-intelligence-force-2026-10-04",
+      "editionDate": "2026-10-05",
+      "edition": "am",
+      "coveredAt": "2026-10-05T09:11:19+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T02:17:38+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-04",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "대통령 발표는 미국 현지 10월 4일입니다. 정확한 게시 시각은 확인되지 않아 eventAt은 비워 둡니다. 120일 검토 계획은 현지 3일 인터뷰 내용입니다.",
+      "stage": "발표",
+      "change": "기존 AI 기업 회동 기록 이후 정부 조정 TF의 수장과 참여 기관, 120일 검토 계획이 공개됐습니다.",
+      "title": "미국, AI 대응 TF 인선 발표…120일간 위험·정부 역할 검토",
+      "category": "기술·IT·AI",
+      "status": "보도",
+      "summary": [
+        "트럼프 미국 대통령이 현지 10월 4일 AI 정책 대응을 맡을 초지능 태스크포스(SIF)의 출범과 인선을 발표했습니다. 제이 클레이턴 국가정보국장이 이끌며, 연방거래위원회와 국방부·인사관리처 관계자도 참여합니다.",
+        "지난주 AI 기업 수장들과의 백악관 회동에 이어 정부 차원의 조정 조직이 제시된 것이 변화입니다. 클레이턴 국장은 인터뷰에서 120일 동안 기술의 위험과 활용 가능성, 연방정부가 맡을 역할을 검토해 보고서를 만들 계획이라고 설명했습니다.",
+        "AI 기업의 자율적인 안전 약속을 정부가 어떻게 점검할지가 다음 쟁점입니다. 정보·소비자 보호·국방 담당 기관이 함께 참여한다는 점에서 모델 성능뿐 아니라 안전과 공공부문 활용도 논의 대상이 될 수 있습니다.",
+        "다만 이번 발표가 새로운 AI 규제 법률의 시행이나 구체적인 의무 확정을 뜻하지는 않습니다. 한국 개발사와 기업에는 미국 시장의 규칙을 가늠할 신호지만, 실제 요구사항은 후속 보고서와 공식 조치를 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "announcementDateLocal": "2026-10-04",
+        "taskForce": "Super Intelligence Force (SIF)",
+        "chair": "제이 클레이턴 국가정보국장",
+        "assessmentPeriod": "120일, 국장 인터뷰에서 밝힌 계획",
+        "bindingRules": "새 규제 의무의 구체적 내용·시행일 미확정"
+      },
+      "uncertainty": "검토 보고서의 최종 권고와 새로운 법적 의무는 아직 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "트럼프 \"초지능 TF 창설…수장에 클레이턴 DNI 국장\"(종합)",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261005_0003814107",
+          "publishedAt": "2026-10-05T02:17:38+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0001473317_web.jpg",
+          "verificationNote": "본문 최초 등록 02:17:38, 수정 06:01을 확인했습니다. 메타데이터는 수정 시각을 발행 시각으로 담고 있어 최초 등록 시각을 사용합니다. 실제 발표는 미국 현지 10월 4일입니다."
+        },
+        {
+          "name": "AP",
+          "title": "Trump's national intelligence chief will lead a new federal AI task force",
+          "url": "https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901",
+          "publishedAt": "2026-10-04T22:12:05+09:00",
+          "kind": "wire",
+          "language": "en",
+          "verifiedAt": "2026-10-05T09:11:19+09:00",
+          "verificationNote": "웹 열기로 대통령의 발표와 참여 인사를 대조했습니다. 13:12:05 UTC를 한국시간으로 변환했습니다. 직접 요청은 403이므로 이미지 URL은 사용하지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/am.json",
+      "previous": {
+        "editionId": "2026-09-29-am-archive",
+        "storyId": "archive-06"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-29-am-archive/archive-06",
       "editionId": "2026-09-29-am-archive",
       "storyId": "archive-06",
@@ -47,5 +112,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-04T21:13:51+09:00"
+  "updatedAt": "2026-10-05T09:11:19+09:00"
 }

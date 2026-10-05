@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-debt-adjustment-reapplication",
+  "title": "채무조정 재신청과 가계 회복",
+  "entries": [
+    {
+      "id": "2026-10-05-am/debt-adjustment-repeat-2026-10-05",
+      "editionId": "2026-10-05-am",
+      "storyId": "debt-adjustment-repeat-2026-10-05",
+      "editionDate": "2026-10-05",
+      "edition": "am",
+      "coveredAt": "2026-10-05T09:11:19+09:00",
+      "coveredOn": "2026-10-05",
+      "publishedAt": "2026-10-05T05:52:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-01-01",
+      "eventEndDate": "2026-08-31",
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "통계 대상은 2026년 1~8월입니다. 의원실 자료 제공의 정확한 시각은 미확인이며 10월 5일 보도로 확인했습니다.",
+      "stage": "보도",
+      "change": "오늘 공개 보도에서 1~8월 재신청 현황과 전체 신청 증가에 대한 당국 설명이 제시됐습니다.",
+      "title": "채무조정 재신청 1~8월 2만7864명…소득 회복도 과제",
+      "category": "경제·민생",
+      "status": "보도",
+      "summary": [
+        "신용회복위원회 자료를 받은 이종욱 의원실에 따르면 올해 1~8월 채무조정 재신청자는 2만7864명입니다. 지난해 연간 3만3718명의 82.6%에 해당하지만, 비교 기간이 다르므로 전년 동기 증가율로 읽으면 안 됩니다.",
+        "재신청에는 약정이 실효된 뒤 다시 신청한 경우뿐 아니라 기존 빚을 갚고 새 채무가 생긴 경우도 포함됩니다. 이 수치만으로 모든 신청자가 같은 빚을 반복해서 탕감받았거나 고의로 상환을 피했다고 단정할 수 없습니다.",
+        "금융당국은 제도가 정착하며 전체 신청자도 늘었고, 실효 이후 재신청 안내를 강화한 영향도 있다고 설명했습니다. 반면 전문가들은 빚 조정만으로 생활이 안정되기 어려운 만큼 취업과 소득 개선 지원을 함께 봐야 한다고 지적했습니다.",
+        "중요한 것은 신청 건수 자체뿐 아니라 지원 이후 상환을 지속할 수 있는지입니다. 이번 보도는 기존 제도의 이용 현황을 보여주는 자료이며, 새 탕감 확대나 심사 기준 변경이 확정됐다는 발표는 아닙니다."
+      ],
+      "keyFacts": {
+        "period": "2026-01~08",
+        "repeatApplicants": "27864명",
+        "priorFullYear": "2025년 33718명",
+        "shareOfPriorFullYear": "82.6%",
+        "comparisonLimit": "동일 기간 전년 대비 증감률 아님",
+        "authorityExplanation": "전체 신청 증가와 재신청 안내 강화 영향도 있음"
+      },
+      "uncertainty": "재신청 원인별 비중과 전년 동기 대비 증감률은 선정 자료로 확정하지 않았습니다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "'탕감받고도 또 신청'…채무조정 재신청 올해 3만명 육박 | 연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004014500002",
+          "publishedAt": "2026-10-05T05:52:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:07:07+09:00",
+          "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2023/08/15/PYH2023081502760001300_P4.jpg",
+          "verificationNote": "의원실이 신용회복위원회에서 받은 자료에 대한 보도입니다. 2026년 1~8월과 2025년 연간의 기간 차이, 금융당국의 전체 신청자 증가 설명을 함께 확인했습니다."
+        },
+        {
+          "name": "위키리크스한국",
+          "title": "\"빚 탕감받고 또 연체\"… '채무조정 재신청' 올해 3만 명 육박",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=192834",
+          "publishedAt": "2026-10-05T06:10:01+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-05T09:05:57+09:00",
+          "imageUrl": "http://www.wikileaks-kr.org/news/thumbnail/202610/192834_209040_950_v150.jpg",
+          "verificationNote": "연합뉴스 등을 인용한 같은 자료의 재보도입니다. 별개의 통계 조사로 취급하지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-05/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-05T09:11:19+09:00"
+}
