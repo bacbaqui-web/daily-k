@@ -81,6 +81,80 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-06-am/oil-close-2026-10-05",
+      "editionId": "2026-10-06-am",
+      "storyId": "oil-close-2026-10-05",
+      "editionDate": "2026-10-06",
+      "edition": "am",
+      "coveredAt": "2026-10-06T12:05:34+09:00",
+      "coveredOn": "2026-10-06",
+      "publishedAt": "2026-10-06T04:57:06+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-05",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "미국 현지 10월 5일 선물 마감 결과입니다. 수출 관련 통계는 과거기간 관측이므로 오늘 새 발생 사건으로 표기하지 않습니다.",
+      "stage": "결과",
+      "change": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
+      "title": "WTI 89.43달러로 마감…공급 증가 기대에 유가 이틀째 하락",
+      "category": "국제·에너지",
+      "status": "확정",
+      "summary": [
+        "미국 현지 10월 5일 WTI 11월물은 1.84% 내린 배럴당 89.43달러, 브렌트유 12월물은 1.89% 내린 100.32달러로 마감했습니다. 국제유가는 두 거래일 연속 하락했습니다.",
+        "이전 회차의 10월 2일 종가와 비교하면 WTI는 91.11달러에서 1.68달러, 브렌트유는 102.25달러에서 1.93달러 낮아졌습니다. 선물의 인도월과 거래일을 붙인 마감 가격이며 오늘 낮의 실시간 가격을 뜻하지 않습니다.",
+        "보도는 중동 원유 수출의 회복과 G7 비축유 방출 합의를 공급 불안 완화 요인으로 설명했습니다. G7의 1억배럴 방출 합의 자체는 이미 다뤘던 소식이고, 이번에 새로 기록할 사실은 그 이후의 가격 결과입니다.",
+        "원유를 수입하는 한국에는 비용 부담을 덜 수 있는 방향이지만, 국제유가 하루 변동이 곧바로 주유소 가격에 같은 비율로 반영되는 것은 아닙니다. 중동의 선박·시설 위험이 남아 있어 수출 회복의 지속 여부와 실제 방출 진행을 더 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "sessionDate": "2026-10-05 현지 마감",
+        "brentContract": "2026-12",
+        "brentClose": "100.32달러",
+        "brentChange": "-1.93달러, -1.89%",
+        "wtiContract": "2026-11",
+        "wtiClose": "89.43달러",
+        "wtiChange": "-1.68달러, -1.84%",
+        "releaseVolume": "100000000배럴, 기존G7 합의",
+        "marketInterpretation": "중동 수출 회복·비축유 공급 기대, 해상 위험 지속"
+      },
+      "uncertainty": "공급 회복은 보도된 시장 분석이며 모든 비축유가 이미 방출됐거나 중동 위험이 끝났다는 의미가 아닙니다.",
+      "sources": [
+        {
+          "name": "연합뉴스·매일경제",
+          "title": "국제유가, 중동 원유수출 증가·G7 비축유 방출 약속에 1.8%↓",
+          "url": "https://stock.mk.co.kr/news/view/1169869",
+          "publishedAt": "2026-10-06T04:57:06+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://stock.mk.co.kr/photos/20261006/PRU20260925285401009_P4.jpg",
+          "verificationNote": "매일경제에 제공된 연합뉴스 전문을 확인했습니다. 표시된 수정 시각 06:48:53도 기준 이전입니다. 에너지경제연구원의 09:59 재전송본 대신 기준 이전 기사를 사용합니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "[국제유가] 하락 지속…\"중동 원유 수출, 전쟁 이전 수준 웃돌아\"",
+          "url": "https://www.fnnews.com/news/202610060602164553",
+          "publishedAt": "2026-10-06T06:04:26+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060556367689_e.jpg",
+          "verificationNote": "본문·메타데이터 확인. 각 인도월과 종가를 연합뉴스 기사로 대조했습니다. 원유 수출 회복과 가격 관계는 시장 분석으로 서술합니다."
+        }
+      ],
+      "briefingPath": "2026-10-06/am.json",
+      "previous": {
+        "editionId": "2026-10-03-am",
+        "storyId": "g7-oil-release-2026-10-02"
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "g7-oil-release-2026-10-02",
+        "delta": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-15-pm-archive/archive-09",
       "editionId": "2026-09-15-pm-archive",
       "storyId": "archive-09",
@@ -709,5 +783,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-05T21:17:29+09:00"
+  "updatedAt": "2026-10-06T12:05:34+09:00"
 }

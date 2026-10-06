@@ -1,10 +1,119 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T21:17:29+09:00",
-  "editionCount": 43,
-  "storyCount": 343,
+  "updatedAt": "2026-10-06T12:05:34+09:00",
+  "editionCount": 44,
+  "storyCount": 348,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "us-equities-chips-rates-oil",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응",
+      "categories": [
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
+      "eventCount": 18,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-06",
+      "latest": {
+        "editionId": "2026-10-06-am",
+        "storyId": "us-market-2026-10-05",
+        "title": "나스닥 27,477.31 최고 종가…장기금리 부담 속 AI주 강세",
+        "stage": "결과",
+        "change": "9월 시장 편중 분석 이후 새 거래일인 10월 5일의 3대 지수 종가와 나스닥 최고 종가, 장중 국채금리 상승이 확인됐습니다.",
+        "archive": false
+      },
+      "path": "us-equities-chips-rates-oil.json"
+    },
+    {
+      "id": "nuri-fifth-launch-2026",
+      "title": "누리호 2026년 5차 발사와 다중위성 투입",
+      "categories": [
+        "국내·우주산업"
+      ],
+      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
+      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
+      "eventCount": 2,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-06",
+      "latest": {
+        "editionId": "2026-10-06-am",
+        "storyId": "nuri-transfer-result-2026-10-06",
+        "title": "누리호 7시 30분 발사대 도착…어제의 이송 계획이 실제 결과로",
+        "stage": "결과",
+        "change": "어제 저녁의 6일 아침 이송 계획 이후, 오늘 06:00 실제 출발과 07:30 발사대 도착이 확인됐습니다.",
+        "archive": false
+      },
+      "path": "nuri-fifth-launch-2026.json"
+    },
+    {
+      "id": "middle-east-oil-supply",
+      "title": "중동 원유 공급과 국제유가",
+      "categories": [
+        "국제·에너지"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
+      "eventCount": 14,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-06",
+      "latest": {
+        "editionId": "2026-10-06-am",
+        "storyId": "oil-close-2026-10-05",
+        "title": "WTI 89.43달러로 마감…공급 증가 기대에 유가 이틀째 하락",
+        "stage": "결과",
+        "change": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
+        "archive": false
+      },
+      "path": "middle-east-oil-supply.json"
+    },
+    {
+      "id": "korea-us-investment-projects",
+      "title": "한국의 미국 에너지·인프라 투자",
+      "categories": [
+        "경제·외교",
+        "국제·통상"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
+      "eventCount": 6,
+      "firstCoveredDate": "2026-09-22",
+      "lastCoveredDate": "2026-10-06",
+      "latest": {
+        "editionId": "2026-10-06-am",
+        "storyId": "alaska-lng-vance-2026-10-05",
+        "title": "밴스 “한국과 세부 조율 남아”…알래스카 LNG 투자 확정은 별개",
+        "stage": "보도",
+        "change": "10월 3일 오전의 투자 압박 보도 이후 미국 부통령이 5일 현지 발언에서 한국과 세부 조율이 남아 있음을 인정했습니다.",
+        "archive": false
+      },
+      "path": "korea-us-investment-projects.json"
+    },
+    {
+      "id": "korea-foreign-exchange-reserves",
+      "title": "한국 외환보유액과 운용·위탁 변화",
+      "categories": [
+        "경제·외환"
+      ],
+      "firstCoveredAt": "2026-10-06T12:05:34+09:00",
+      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-06",
+      "lastCoveredDate": "2026-10-06",
+      "latest": {
+        "editionId": "2026-10-06-am",
+        "storyId": "korea-fx-reserves-2026-09",
+        "title": "9월 외환보유액 4,405.6억달러…17.2억달러 감소 원인은 나눠 봐야",
+        "stage": "발표",
+        "change": "오늘 06시 공개된 9월 말 통계가 8월 증가에서 감소로 전환됐고, 투자공사 자산 위탁이 감소 요인에 포함됐습니다.",
+        "archive": false
+      },
+      "path": "korea-foreign-exchange-reserves.json"
+    },
     {
       "id": "usdkrw-oil-export-flows",
       "title": "유가와 수출기업 수급에 따른 원·달러 환율",
@@ -27,27 +136,6 @@
         "archive": false
       },
       "path": "usdkrw-oil-export-flows.json"
-    },
-    {
-      "id": "nuri-fifth-launch-2026",
-      "title": "누리호 2026년 5차 발사와 다중위성 투입",
-      "categories": [
-        "국내·우주산업"
-      ],
-      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
-      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
-      "eventCount": 1,
-      "firstCoveredDate": "2026-10-05",
-      "lastCoveredDate": "2026-10-05",
-      "latest": {
-        "editionId": "2026-10-05-pm",
-        "storyId": "nuri-fifth-launch-preparation-2026-10-05",
-        "title": "누리호, 6일 아침 발사대로 이동 예정…위성 15기 투입 준비",
-        "stage": "예정",
-        "change": "10월 5일 오후 보도로 발사대 이송과 이후 점검 순서가 확인됐습니다. 발사 성공을 확인한 보도는 아닙니다.",
-        "archive": false
-      },
-      "path": "nuri-fifth-launch-2026.json"
     },
     {
       "id": "nobel-medicine-2026",
@@ -367,30 +455,6 @@
       "path": "yongin-samsung-semiconductor-cluster.json"
     },
     {
-      "id": "us-equities-chips-rates-oil",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응",
-      "categories": [
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-04T09:20:00+09:00",
-      "eventCount": 17,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-04",
-      "latest": {
-        "editionId": "2026-10-04-am",
-        "storyId": "us-equity-market-breadth-2026-09",
-        "title": "9월 나스닥100은 3% 상승, S&P500 종목 80%는 하락했다는 분석",
-        "stage": "분석",
-        "change": "10월 2일 하루 종가를 다룬 이전 회차와 달리, 어제 밤 새 국내 기사에서 9월 종목별 상승 확산 정도와 월간 수익률 차이가 소개됐습니다.",
-        "archive": false
-      },
-      "path": "us-equities-chips-rates-oil.json"
-    },
-    {
       "id": "national-employment-support-retention",
       "title": "국민취업지원제도 취업 후 고용유지 성과",
       "categories": [
@@ -557,48 +621,6 @@
         "archive": false
       },
       "path": "milli-story-ip-expansion.json"
-    },
-    {
-      "id": "middle-east-oil-supply",
-      "title": "중동 원유 공급과 국제유가",
-      "categories": [
-        "국제·에너지"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
-      "eventCount": 13,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-03",
-      "latest": {
-        "editionId": "2026-10-03-am",
-        "storyId": "g7-oil-release-2026-10-02",
-        "title": "G7, 비축유 1억 배럴 방출 합의…브렌트유 종가는 102.25달러",
-        "stage": "발표",
-        "change": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다.",
-        "archive": false
-      },
-      "path": "middle-east-oil-supply.json"
-    },
-    {
-      "id": "korea-us-investment-projects",
-      "title": "한국의 미국 에너지·인프라 투자",
-      "categories": [
-        "경제·외교"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-03T12:20:00+09:00",
-      "eventCount": 5,
-      "firstCoveredDate": "2026-09-22",
-      "lastCoveredDate": "2026-10-03",
-      "latest": {
-        "editionId": "2026-10-03-am",
-        "storyId": "korea-us-energy-investment-2026-10-02",
-        "title": "트럼프, 알래스카 투자 압박…한국 참여는 확정되지 않아",
-        "stage": "보도",
-        "change": "2일 미국 현지 발언에서 한국의 알래스카 투자 합의를 요구하며 추가 부담을 언급했고, 별도의 84억 달러 원유 사업 투자 주장도 나왔습니다.",
-        "archive": false
-      },
-      "path": "korea-us-investment-projects.json"
     },
     {
       "id": "k-perf-public-npu-validation",

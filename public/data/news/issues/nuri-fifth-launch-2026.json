@@ -65,7 +65,77 @@
       "followUp": null,
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-06-am/nuri-transfer-result-2026-10-06",
+      "editionId": "2026-10-06-am",
+      "storyId": "nuri-transfer-result-2026-10-06",
+      "editionDate": "2026-10-06",
+      "edition": "am",
+      "coveredAt": "2026-10-06T12:05:34+09:00",
+      "coveredOn": "2026-10-06",
+      "publishedAt": "2026-10-06T07:51:40+09:00",
+      "eventAt": "2026-10-06T07:30:00+09:00",
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "우주항공청이 밝힌 실제 발사대 도착 시각입니다. 이후 작업 완료나 발사 시각이 아닙니다.",
+      "stage": "결과",
+      "change": "어제 저녁의 6일 아침 이송 계획 이후, 오늘 06:00 실제 출발과 07:30 발사대 도착이 확인됐습니다.",
+      "title": "누리호 7시 30분 발사대 도착…어제의 이송 계획이 실제 결과로",
+      "category": "국내·우주산업",
+      "status": "확정",
+      "summary": [
+        "누리호가 10월 6일 오전 7시 30분 나로우주센터 제 2발사대에 도착했습니다. 전날 예고했던 발사대 이송이 실제로 끝났다는 후속 결과입니다.",
+        "우주항공청 발표를 인용한 보도에 따르면 실제 출발은 오전 6시였고 이동에 1시간 30분이 걸렸습니다. 어제 브리핑의 6시 10분경이라는 예정 시각과 실제 출발 시각을 구분해 기록합니다.",
+        "오전 9시까지 확인한 다음 단계는 로켓을 수직으로 세운 뒤 전원과 연료·산화제 공급 설비를 연결하고 기밀 상태를 점검하는 일정입니다. 이를 이미 모두 마쳤다는 의미로 읽으면 안 됩니다.",
+        "이번 결과로 발사 전 준비가 한 단계 진행됐지만, 발사 성공이나 위성 궤도 투입을 확인한 것은 아닙니다. 최종 발사 시각은 10월 7일 발사관리위원회가 기술 상태와 기상·우주환경 등을 검토한 뒤 결정할 예정입니다."
+      ],
+      "keyFacts": {
+        "transferStart": "2026-10-06 06:00 KST, 실제",
+        "transferArrival": "2026-10-06 07:30 KST, 완료",
+        "transferDuration": "1시간 30분",
+        "state": "09시 기준 발사대 이송 완료, 기립·연결·점검 후속 예정",
+        "launchTimeDecision": "2026-10-07 발사관리위원회에서 결정 예정"
+      },
+      "uncertainty": "이 회차는 09시까지의 정보입니다. 기립·점검 완료나 최종 발사 시각, 위성 투입 성공은 그 기준에서 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "누리호, 1시간 30분 만에 발사대 도착…오전 중 수직으로 선다",
+          "url": "https://nwww.newsis.com/view/NISX20261006_0003814734",
+          "publishedAt": "2026-10-06T07:51:40+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002255842_web.jpg",
+          "verificationNote": "우주항공청 발표를 인용한 본문 확인.07:30 이송 완료와 이후 기립·연결 예정 상태를 구분했습니다.10:35의 기립 완료 후속 보도는 이번 회차에서 제외합니다."
+        },
+        {
+          "name": "EBN",
+          "title": "누리호, 5차 발사 D-1…발사대 오전 중 기립 완료 - 이비엔(EBN)뉴스센터",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726742",
+          "publishedAt": "2026-10-06T08:25:44+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://cdn.ebn.co.kr/news/thumbnail/202610/1726742_760618_2431_v150.jpg",
+          "verificationNote": "본문에서 06:00 출발·07:30 도착을 대조했습니다. 제목의 기립 완료 표현과 달리 본문은 기립 예정으로 설명하므로 이송 결과만 근거로 사용합니다. 매체별로 엇갈린 7일 예상 발사 시각은 확정치로 쓰지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-06/am.json",
+      "previous": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "nuri-fifth-launch-preparation-2026-10-05"
+      },
+      "followUp": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "nuri-fifth-launch-preparation-2026-10-05",
+        "delta": "어제 저녁의 6일 아침 이송 계획 이후, 오늘 06:00 실제 출발과 07:30 발사대 도착이 확인됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-05T21:17:29+09:00"
+  "updatedAt": "2026-10-06T12:05:34+09:00"
 }

@@ -71,6 +71,76 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-06-am/alaska-lng-vance-2026-10-05",
+      "editionId": "2026-10-06-am",
+      "storyId": "alaska-lng-vance-2026-10-05",
+      "editionDate": "2026-10-06",
+      "edition": "am",
+      "coveredAt": "2026-10-06T12:05:34+09:00",
+      "coveredOn": "2026-10-06",
+      "publishedAt": "2026-10-06T04:02:02+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-05",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "미국 메릴랜드 앤드루스합동기지에서 10월 5일 현지 발언입니다. 정확한 발언 시각은 미확인입니다.",
+      "stage": "보도",
+      "change": "10월 3일 오전의 투자 압박 보도 이후 미국 부통령이 5일 현지 발언에서 한국과 세부 조율이 남아 있음을 인정했습니다.",
+      "title": "밴스 “한국과 세부 조율 남아”…알래스카 LNG 투자 확정은 별개",
+      "category": "국제·통상",
+      "status": "보도",
+      "summary": [
+        "JD 밴스 미국 부통령이 알래스카 LNG 사업에 관해 한국과 협의할 세부 사항이 남아 있다고 밝혔습니다. 사업이 성사될 것이라는 기대도 말했지만, 한국의 투자가 확정됐다는 새 합의 발표는 아닙니다.",
+        "밴스는 미국 현지 10월 5일 알래스카 방문에 앞서 취재진에게 입장을 설명했습니다. 이 사업은 알래스카 북부의 천연가스를 약 1,300㎞의 가스관으로 남부까지 옮긴 뒤 액화해 수출하는 구상입니다.",
+        "앞서 미국 측은 한국의 알래스카 투자액으로 540억달러를 거론했지만, 한국 정부는 참여 여부와 규모가 확정되지 않았다는 입장이었습니다. 이번 변화는 미국 부통령도 협의가 남아 있다는 점을 공개적으로 인정했다는 것으로, 기존의 투자 압박 발언을 반복하는 데 그치지 않습니다.",
+        "가스 공급원을 늘릴 수 있는 사업이라도 실제 참여 판단에는 비용과 수익, 계약 조건이 중요합니다. 미국 측의 사업 성사 기대와 한국의 투자 결정은 구분해야 합니다. 최종 투자 규모·부담 주체·계약 조건은 이번 발언만으로 확인되지 않았습니다."
+      ],
+      "keyFacts": {
+        "alaskaParticipation": "한국 참여 여부·규모 미확정",
+        "usInvestmentClaim": "미국 측이 기존 540억달러 거론, 한국 확정액 아님",
+        "vancePosition": "2026-10-05 현지, 세부 협의가 남았다고 인정하면서 사업 성사 기대",
+        "pipelineLength": "약 1300km",
+        "finalContract": "확인되지 않음"
+      },
+      "uncertainty": "밴스의 성사 전망은 당사자의 기대입니다. 한국의 최종 투자 승인이나 계약 체결은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "美부통령 \"韓 알래스카 투자 이뤄질것…세부협상은 남아\"",
+          "url": "https://www.newsis.com/view/NISX20261006_0003814667",
+          "publishedAt": "2026-10-06T04:02:02+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0001641938_web.jpg",
+          "verificationNote": "워싱턴 특파원 보도 전문 확인. 밴스의 사업 성사 전망과 미측 투자액 주장은 체결된 계약으로 취급하지 않습니다."
+        },
+        {
+          "name": "경향신문",
+          "title": "밴스 “알래스카 LNG 사업, 한국과 세부 조율 필요”···트럼프 설명과 온도차",
+          "url": "https://www.khan.co.kr/article/202610060725001/amp",
+          "publishedAt": "2026-10-06T07:25:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img.khan.co.kr/news/2026/10/06/rcv.YNA.20261006.PRU20261006009201009.jpg",
+          "verificationNote": "로이터 인용 보도로 동일 발언의 내용과 한국의 미확정 입장을 대조했습니다. 별개의 투자 확정 발표는 아닙니다."
+        }
+      ],
+      "briefingPath": "2026-10-06/am.json",
+      "previous": {
+        "editionId": "2026-10-03-am",
+        "storyId": "korea-us-energy-investment-2026-10-02"
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "korea-us-energy-investment-2026-10-02",
+        "delta": "10월 3일 오전의 투자 압박 보도 이후 미국 부통령이 5일 현지 발언에서 한국과 세부 조율이 남아 있음을 인정했습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-22-pm-archive/archive-02",
       "editionId": "2026-09-22-pm-archive",
       "storyId": "archive-02",
@@ -273,5 +343,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-05T21:17:29+09:00"
+  "updatedAt": "2026-10-06T12:05:34+09:00"
 }

@@ -1,0 +1,638 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-06-am",
+  "date": "2026-10-06",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-06T09:00:00+09:00",
+  "generatedAt": "2026-10-06T12:05:34+09:00",
+  "intro": "10월 6일 오전 9시까지 확인된 새벽 뉴스와 전날 이후의 실제 변화를 정리한 지연 발행본입니다.",
+  "overview": [
+    "밤사이 나스닥은 27,477.31로 최고 종가를 경신했지만 미국 장기금리 부담도 이어졌습니다. 국제유가는WTI 89.43달러·브렌트 100.32달러로 하락했습니다. 기술주 기대와 에너지 공급 개선 기대를 높은 금리·중동 위험과 함께 봐야 합니다.",
+    "한국의 9월 말 외환보유액은 4,405.6억달러로 17.2억달러 감소했습니다. 감소액 전체가 대미 송금액이라는 뜻은 아닙니다. 알래스카 LNG에 대해서는 밴스 부통령도 세부 협의가 남았다고 밝혀, 미국의 사업 성사 기대와 한국의 투자 확정을 구분해야 합니다.",
+    "국내 우주산업에서는 누리호가 오전 7시 30분 발사대에 도착해 어제의 이송 계획이 실제 결과로 바뀌었습니다. 오전 9시 기준으로는 이후 설치·점검과 최종 발사 시각 결정이 남아 있습니다. 오늘 일정은 국정감사, 한국은행 이슈노트, 노벨 물리학상 발표를 확인합니다.",
+    "이 회차는 10월 6일 오전 9시까지의 정보로 구성한 지연 발행본입니다. 웹툰은 최근 72시간 안에 새롭게 다룰 만한 소식을 확인하지 못해 이번 회차에서는 제외했습니다. 이미 소개한 기사를 새 뉴스처럼 반복하지 않았으며, 일정도 오전 9시 당시의 예정 상태로 보존했습니다."
+  ],
+  "overviewEmphasis": [
+    "27,477.31",
+    "WTI 89.43달러·브렌트 100.32달러",
+    "17.2억달러 감소",
+    "감소액 전체가 대미 송금액이라는 뜻은 아닙니다",
+    "세부 협의가 남았다고",
+    "오전 7시 30분 발사대에 도착",
+    "오전 9시까지의 정보",
+    "웹툰은 최근 72시간 안에 새롭게 다룰 만한 소식을 확인하지 못해"
+  ],
+  "stories": [
+    {
+      "id": "korea-fx-reserves-2026-09",
+      "topicKey": "korea-fx-reserves-2026-09",
+      "category": "경제·외환",
+      "title": "9월 외환보유액 4,405.6억달러…17.2억달러 감소 원인은 나눠 봐야",
+      "status": "확정",
+      "publishedAt": "2026-10-06T06:00:04+09:00",
+      "eventAt": null,
+      "eventTimeNote": "9월 말 잔액의 발표일은 10월 6일입니다. 기사와 보도계획은 06시 공개를 가리키지만 사건의 정확한 발표 초는 특정하지 않아 eventAt은 비워 둡니다.",
+      "summary": [
+        "한국은행이 발표한 9월 말 외환보유액은 4,405억 6,000만달러로, 전월보다 17억 2,000만달러 줄었습니다. 석 달 연속 늘던 보유액이 감소로 전환한 월간 통계입니다.",
+        "8월 말에는 4,422억 8,000만달러였고, 당시 한 달 증가액은 143억 3,000만달러였습니다. 이번 감소에는 금융기관이 한국은행에 맡긴 외화예수금의 감소, 한미전략투자공사에 대한 자산 위탁, 달러 이외 통화 자산의 달러 환산액 감소가 함께 반영됐습니다.",
+        "따라서 감소분 17억 2,000만달러를 전부 미국에 송금한 돈이나 시장에서 빠져나간 자금으로 해석하면 안 됩니다. 외환보유액은 외화 자산을 달러로 환산한 잔액이어서, 실제 거래 외에도 환율 변화의 영향을 받습니다.",
+        "새로 볼 부분은 대미 투자 집행과 관련한 자산 위탁이 이번 감소 요인에 포함됐다는 점입니다. 보유 외화의 운용과 투자 재원 마련을 함께 살펴야 하지만, 한국은행은 추가 위탁 금액과 일정이 정해지지 않았다고 설명했습니다. 이 통계만으로 앞으로의 송금 규모나 환율 방향을 확정할 수는 없습니다."
+      ],
+      "emphasis": [
+        "4,405억 6,000만달러",
+        "17억 2,000만달러",
+        "전부 미국에 송금한 돈",
+        "추가 위탁 금액과 일정이 정해지지 않았다고"
+      ],
+      "keyFacts": {
+        "referenceMonth": "2026-09 말",
+        "reserves": "4405.6억달러",
+        "previousReserves": "4422.8억달러",
+        "monthlyChange": "-17.2억달러",
+        "factors": "금융기관 외화예수금 감소·한미전략투자공사 자산 위탁·기타 통화 달러 환산액 감소",
+        "additionalEntrustment": "구체적인 금액·일정 미정"
+      },
+      "whatChanged": "오늘 06시 공개된 9월 말 통계가 8월 증가에서 감소로 전환됐고, 투자공사 자산 위탁이 감소 요인에 포함됐습니다.",
+      "whyItMatters": "외화 안전판의 규모 변화와 대미 투자 재원 조달을 구분해 이해하는 데 중요한 월간 수치입니다.",
+      "uncertainty": "요인별 감소 기여액과 향후 추가 위탁 금액·일정은 확인되지 않았습니다. 전체 감소액을 대미 송금액으로 동일시하지 않습니다.",
+      "sources": [
+        {
+          "name": "이데일리",
+          "title": "외환보유액 4개월 만에 감소…대미투자 위탁자산 첫 반영",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02040166645610296",
+          "publishedAt": "2026-10-06T06:00:04+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600147.jpg",
+          "verificationNote": "본문과 발행 메타데이터 확인. 외환보유액과 감소 요인은 머니투데이 보도와 대조했습니다."
+        },
+        {
+          "name": "머니투데이",
+          "title": "외환보유액, 넉 달 만에 감소…대미투자 자산위탁 영향 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/06/2026100514275318974",
+          "publishedAt": "2026-10-06T06:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100514275318974_1.jpg",
+          "verificationNote": "본문 확인. 수정 시각도 06:00:33으로 회차 기준 이전입니다. 감소액 전체를 대미 송금액으로 해석하지 않습니다."
+        },
+        {
+          "name": "한국은행",
+          "title": "2026년 9월말 외환보유액",
+          "url": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?depth=201265&menuNo=201265&nttId=11065307&programType=newsData&relate=Y",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+          "verificationNote": "10월 6일 공식 보도자료의 게시와 첨부 존재를 확인했습니다. 상세 숫자는 한국은행을 인용한 두 한국어 기사 본문으로 대조했으며 PDF 전문 확인으로 간주하지 않습니다. 정확한 홈페이지 게시 시각은 미표시입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "이데일리",
+          "title": "외환보유액 4개월 만에 감소…대미투자 위탁자산 첫 반영",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02040166645610296",
+          "publishedAt": "2026-10-06T06:00:04+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600147.jpg",
+          "verificationNote": "본문과 발행 메타데이터 확인. 외환보유액과 감소 요인은 머니투데이 보도와 대조했습니다."
+        },
+        {
+          "name": "머니투데이",
+          "title": "외환보유액, 넉 달 만에 감소…대미투자 자산위탁 영향 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/06/2026100514275318974",
+          "publishedAt": "2026-10-06T06:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100514275318974_1.jpg",
+          "verificationNote": "본문 확인. 수정 시각도 06:00:33으로 회차 기준 이전입니다. 감소액 전체를 대미 송금액으로 해석하지 않습니다."
+        },
+        {
+          "name": "한국은행",
+          "title": "2026년 9월말 외환보유액",
+          "url": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?depth=201265&menuNo=201265&nttId=11065307&programType=newsData&relate=Y",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+          "verificationNote": "10월 6일 공식 보도자료의 게시와 첨부 존재를 확인했습니다. 상세 숫자는 한국은행을 인용한 두 한국어 기사 본문으로 대조했으며 PDF 전문 확인으로 간주하지 않습니다. 정확한 홈페이지 게시 시각은 미표시입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 96,
+        "interest": 96,
+        "domesticImpact": 100,
+        "reliability": 98,
+        "recency": 100
+      },
+      "scoreReason": "오늘 새벽의 공식 월간 통계로 국내 경제·외환 관심과 파급력을 높게 평가합니다.",
+      "timeline": {
+        "issueId": "korea-foreign-exchange-reserves",
+        "issueTitle": "한국 외환보유액과 운용·위탁 변화",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "오늘 06시 공개된 9월 말 통계가 8월 증가에서 감소로 전환됐고, 투자공사 자산 위탁이 감소 요인에 포함됐습니다."
+      },
+      "score": 98.2,
+      "factsHash": "976d717388a13016b4258e7c8d5fd46c0faa7e737bf5175ab3659c1204781afa"
+    },
+    {
+      "id": "us-market-2026-10-05",
+      "topicKey": "us-market-2026-10-05",
+      "category": "증시·금리",
+      "title": "나스닥 27,477.31 최고 종가…장기금리 부담 속 AI주 강세",
+      "status": "확정",
+      "publishedAt": "2026-10-06T06:36:46+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 10월 5일 정규장 마감 결과입니다. 정확한 체결 시각을 별도 추정하지 않으며 국채금리 장중 수치와 구분합니다.",
+      "summary": [
+        "미국 10월 5일 거래에서 나스닥이 1.05% 오른 27,477.31로 마감하며 최고 종가를 경신했습니다. 미국 장기금리도 올랐지만 기술주 매수세가 지수를 끌어올렸습니다.",
+        "S&P500은 0.66% 상승한 7,773.95, 다우는 0.18% 오른 51,267.90에 마감했습니다. 아주경제는 엔비디아가 2% 넘게 올라 이틀 연속 최고가를 기록했다고 전했습니다.",
+        "반면 미국 10년물 국채금리는 장중 5.347%까지 상승했습니다. 이는 주가지수의 종가와 다른 시점의 관측치입니다. 주가는 올라도 기업과 가계의 장기 자금조달 부담이 함께 줄어든 상황은 아니라는 점이 중요합니다.",
+        "앞선 회차에서 다룬 9월 시장의 상승 종목 편중에 이어, 이번에는 10월 5일의 새 거래 결과를 기록합니다. 국내 반도체·AI 관련주의 관심을 높일 재료이지만 나스닥 강세만으로 국내장 상승이나 시장 전체의 개선을 단정할 수는 없습니다. 실제 국내 거래에서는 외국인 수급과 금리 움직임을 함께 확인할 필요가 있습니다."
+      ],
+      "emphasis": [
+        "27,477.31",
+        "7,773.95",
+        "장중 5.347%",
+        "주가지수의 종가와 다른 시점"
+      ],
+      "keyFacts": {
+        "sessionDate": "2026-10-05 미국 현지",
+        "sp500Close": "7773.95",
+        "sp500Change": "0.66%",
+        "nasdaqClose": "27477.31",
+        "nasdaqChange": "1.05%",
+        "dowClose": "51267.90",
+        "dowChange": "0.18%",
+        "us10yIntradayHigh": "5.347%, 장중",
+        "nvidiaChange": "2% 이상 상승 보도"
+      },
+      "whatChanged": "9월 시장 편중 분석 이후 새 거래일인 10월 5일의 3대 지수 종가와 나스닥 최고 종가, 장중 국채금리 상승이 확인됐습니다.",
+      "whyItMatters": "AI 투자 기대와 높은 금리가 동시에 작용하는 시장이어서 국내 기술주 흐름을 볼 때 두 요인을 함께 살펴야 합니다.",
+      "uncertainty": "국채금리는 장중 수치이며 현재 시세가 아닙니다. 국내장 방향과 상승세 지속 여부는 아직 알 수 없습니다.",
+      "sources": [
+        {
+          "name": "아주경제",
+          "title": "[뉴욕증시 마감] 美 국채금리 최고치에도…엔비디아 강세에 나스닥 사상 최고치 | 아주경제",
+          "url": "https://www.ajunews.com/view/20261006063214310",
+          "publishedAt": "2026-10-06T06:36:46+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.ajunews.com/content/image/2026/10/06/20261006063338189605.jpg",
+          "verificationNote": "기사 전문과 게시 메타데이터 확인. 3대 지수 종가를 한국경제의 공개 본문과 대조했습니다. 10년물 5.347%는 장중 수치입니다."
+        },
+        {
+          "name": "한국경제",
+          "title": "엔비디아 사상 최고가… 밴스 \"알래스카 LNG 협의 해야\" [오늘 아침, 당신이 알아야 할 7가지]",
+          "url": "https://www.hankyung.com/article/202610064150i",
+          "publishedAt": "2026-10-06T07:44:37+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://img.hankyung.com/photo/202610/01.45948479.1.jpg",
+          "verificationNote": "공개 열람 가능한 첫 항목에서 3대 지수 종가와 등락률을 확인했습니다. 나머지 유료 본문은 근거로 사용하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "아주경제",
+          "title": "[뉴욕증시 마감] 美 국채금리 최고치에도…엔비디아 강세에 나스닥 사상 최고치 | 아주경제",
+          "url": "https://www.ajunews.com/view/20261006063214310",
+          "publishedAt": "2026-10-06T06:36:46+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.ajunews.com/content/image/2026/10/06/20261006063338189605.jpg",
+          "verificationNote": "기사 전문과 게시 메타데이터 확인. 3대 지수 종가를 한국경제의 공개 본문과 대조했습니다. 10년물 5.347%는 장중 수치입니다."
+        },
+        {
+          "name": "한국경제",
+          "title": "엔비디아 사상 최고가… 밴스 \"알래스카 LNG 협의 해야\" [오늘 아침, 당신이 알아야 할 7가지]",
+          "url": "https://www.hankyung.com/article/202610064150i",
+          "publishedAt": "2026-10-06T07:44:37+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://img.hankyung.com/photo/202610/01.45948479.1.jpg",
+          "verificationNote": "공개 열람 가능한 첫 항목에서 3대 지수 종가와 등락률을 확인했습니다. 나머지 유료 본문은 근거로 사용하지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 95,
+        "interest": 98,
+        "domesticImpact": 94,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 새 종가와 AI 관련주의 시장 영향을 우선하되 국내장에 대한 전망은 사실과 구분합니다.",
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "결과",
+        "change": "9월 시장 편중 분석 이후 새 거래일인 10월 5일의 3대 지수 종가와 나스닥 최고 종가, 장중 국채금리 상승이 확인됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-04-am",
+        "storyId": "us-equity-market-breadth-2026-09",
+        "delta": "9월 시장 편중 분석 이후 새 거래일인 10월 5일의 3대 지수 종가와 나스닥 최고 종가, 장중 국채금리 상승이 확인됐습니다."
+      },
+      "score": 97.25,
+      "factsHash": "386d52318b372e3b897c7b9c6bcdccd54b62344f6c592a4737b8989700b9fcfe"
+    },
+    {
+      "id": "alaska-lng-vance-2026-10-05",
+      "topicKey": "korea-us-energy-investment-2026-10-02",
+      "category": "국제·통상",
+      "title": "밴스 “한국과 세부 조율 남아”…알래스카 LNG 투자 확정은 별개",
+      "status": "보도",
+      "publishedAt": "2026-10-06T04:02:02+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 메릴랜드 앤드루스합동기지에서 10월 5일 현지 발언입니다. 정확한 발언 시각은 미확인입니다.",
+      "summary": [
+        "JD 밴스 미국 부통령이 알래스카 LNG 사업에 관해 한국과 협의할 세부 사항이 남아 있다고 밝혔습니다. 사업이 성사될 것이라는 기대도 말했지만, 한국의 투자가 확정됐다는 새 합의 발표는 아닙니다.",
+        "밴스는 미국 현지 10월 5일 알래스카 방문에 앞서 취재진에게 입장을 설명했습니다. 이 사업은 알래스카 북부의 천연가스를 약 1,300㎞의 가스관으로 남부까지 옮긴 뒤 액화해 수출하는 구상입니다.",
+        "앞서 미국 측은 한국의 알래스카 투자액으로 540억달러를 거론했지만, 한국 정부는 참여 여부와 규모가 확정되지 않았다는 입장이었습니다. 이번 변화는 미국 부통령도 협의가 남아 있다는 점을 공개적으로 인정했다는 것으로, 기존의 투자 압박 발언을 반복하는 데 그치지 않습니다.",
+        "가스 공급원을 늘릴 수 있는 사업이라도 실제 참여 판단에는 비용과 수익, 계약 조건이 중요합니다. 미국 측의 사업 성사 기대와 한국의 투자 결정은 구분해야 합니다. 최종 투자 규모·부담 주체·계약 조건은 이번 발언만으로 확인되지 않았습니다."
+      ],
+      "emphasis": [
+        "협의할 세부 사항이 남아",
+        "투자가 확정됐다는 새 합의 발표는 아닙니다",
+        "540억달러",
+        "최종 투자 규모·부담 주체·계약 조건"
+      ],
+      "keyFacts": {
+        "alaskaParticipation": "한국 참여 여부·규모 미확정",
+        "usInvestmentClaim": "미국 측이 기존 540억달러 거론, 한국 확정액 아님",
+        "vancePosition": "2026-10-05 현지, 세부 협의가 남았다고 인정하면서 사업 성사 기대",
+        "pipelineLength": "약 1300km",
+        "finalContract": "확인되지 않음"
+      },
+      "whatChanged": "10월 3일 오전의 투자 압박 보도 이후 미국 부통령이 5일 현지 발언에서 한국과 세부 조율이 남아 있음을 인정했습니다.",
+      "whyItMatters": "미국의 발표·기대와 실제 한국의 투자 확정을 구분해야 사업 비용과 자금 부담을 과장하지 않을 수 있습니다.",
+      "uncertainty": "밴스의 성사 전망은 당사자의 기대입니다. 한국의 최종 투자 승인이나 계약 체결은 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "美부통령 \"韓 알래스카 투자 이뤄질것…세부협상은 남아\"",
+          "url": "https://www.newsis.com/view/NISX20261006_0003814667",
+          "publishedAt": "2026-10-06T04:02:02+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0001641938_web.jpg",
+          "verificationNote": "워싱턴 특파원 보도 전문 확인. 밴스의 사업 성사 전망과 미측 투자액 주장은 체결된 계약으로 취급하지 않습니다."
+        },
+        {
+          "name": "경향신문",
+          "title": "밴스 “알래스카 LNG 사업, 한국과 세부 조율 필요”···트럼프 설명과 온도차",
+          "url": "https://www.khan.co.kr/article/202610060725001/amp",
+          "publishedAt": "2026-10-06T07:25:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img.khan.co.kr/news/2026/10/06/rcv.YNA.20261006.PRU20261006009201009.jpg",
+          "verificationNote": "로이터 인용 보도로 동일 발언의 내용과 한국의 미확정 입장을 대조했습니다. 별개의 투자 확정 발표는 아닙니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "美부통령 \"韓 알래스카 투자 이뤄질것…세부협상은 남아\"",
+          "url": "https://www.newsis.com/view/NISX20261006_0003814667",
+          "publishedAt": "2026-10-06T04:02:02+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0001641938_web.jpg",
+          "verificationNote": "워싱턴 특파원 보도 전문 확인. 밴스의 사업 성사 전망과 미측 투자액 주장은 체결된 계약으로 취급하지 않습니다."
+        },
+        {
+          "name": "경향신문",
+          "title": "밴스 “알래스카 LNG 사업, 한국과 세부 조율 필요”···트럼프 설명과 온도차",
+          "url": "https://www.khan.co.kr/article/202610060725001/amp",
+          "publishedAt": "2026-10-06T07:25:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img.khan.co.kr/news/2026/10/06/rcv.YNA.20261006.PRU20261006009201009.jpg",
+          "verificationNote": "로이터 인용 보도로 동일 발언의 내용과 한국의 미확정 입장을 대조했습니다. 별개의 투자 확정 발표는 아닙니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 93,
+        "interest": 90,
+        "domesticImpact": 98,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "새벽에 확인된 새로운 미국 측 입장으로 국내 대미 투자 판단과 관련성이 높습니다. 동일 발언 보도이지 투자 결과의 독립 확인은 아님을 밝힙니다.",
+      "timeline": {
+        "issueId": "korea-us-investment-projects",
+        "issueTitle": "한국의 미국 에너지·인프라 투자",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "보도",
+        "change": "10월 3일 오전의 투자 압박 보도 이후 미국 부통령이 5일 현지 발언에서 한국과 세부 조율이 남아 있음을 인정했습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "korea-us-energy-investment-2026-10-02",
+        "delta": "10월 3일 오전의 투자 압박 보도 이후 미국 부통령이 5일 현지 발언에서 한국과 세부 조율이 남아 있음을 인정했습니다."
+      },
+      "score": 95.95,
+      "factsHash": "6ea5b136e377239f2a365cb37970930a253c52be95fdb9254ea2e393109933f6"
+    },
+    {
+      "id": "oil-close-2026-10-05",
+      "topicKey": "oil-close-2026-10-05",
+      "category": "국제·에너지",
+      "title": "WTI 89.43달러로 마감…공급 증가 기대에 유가 이틀째 하락",
+      "status": "확정",
+      "publishedAt": "2026-10-06T04:57:06+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 10월 5일 선물 마감 결과입니다. 수출 관련 통계는 과거기간 관측이므로 오늘 새 발생 사건으로 표기하지 않습니다.",
+      "summary": [
+        "미국 현지 10월 5일 WTI 11월물은 1.84% 내린 배럴당 89.43달러, 브렌트유 12월물은 1.89% 내린 100.32달러로 마감했습니다. 국제유가는 두 거래일 연속 하락했습니다.",
+        "이전 회차의 10월 2일 종가와 비교하면 WTI는 91.11달러에서 1.68달러, 브렌트유는 102.25달러에서 1.93달러 낮아졌습니다. 선물의 인도월과 거래일을 붙인 마감 가격이며 오늘 낮의 실시간 가격을 뜻하지 않습니다.",
+        "보도는 중동 원유 수출의 회복과 G7 비축유 방출 합의를 공급 불안 완화 요인으로 설명했습니다. G7의 1억배럴 방출 합의 자체는 이미 다뤘던 소식이고, 이번에 새로 기록할 사실은 그 이후의 가격 결과입니다.",
+        "원유를 수입하는 한국에는 비용 부담을 덜 수 있는 방향이지만, 국제유가 하루 변동이 곧바로 주유소 가격에 같은 비율로 반영되는 것은 아닙니다. 중동의 선박·시설 위험이 남아 있어 수출 회복의 지속 여부와 실제 방출 진행을 더 확인해야 합니다."
+      ],
+      "emphasis": [
+        "WTI 11월물",
+        "배럴당 89.43달러",
+        "브렌트유 12월물",
+        "100.32달러",
+        "그 이후의 가격 결과"
+      ],
+      "keyFacts": {
+        "sessionDate": "2026-10-05 현지 마감",
+        "brentContract": "2026-12",
+        "brentClose": "100.32달러",
+        "brentChange": "-1.93달러, -1.89%",
+        "wtiContract": "2026-11",
+        "wtiClose": "89.43달러",
+        "wtiChange": "-1.68달러, -1.84%",
+        "releaseVolume": "100000000배럴, 기존G7 합의",
+        "marketInterpretation": "중동 수출 회복·비축유 공급 기대, 해상 위험 지속"
+      },
+      "whatChanged": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
+      "whyItMatters": "수입 에너지 비용과 물가 부담을 볼 때 공급 기대에 따른 가격 하락과 실제 공급 안전성을 따로 확인해야 합니다.",
+      "uncertainty": "공급 회복은 보도된 시장 분석이며 모든 비축유가 이미 방출됐거나 중동 위험이 끝났다는 의미가 아닙니다.",
+      "sources": [
+        {
+          "name": "연합뉴스·매일경제",
+          "title": "국제유가, 중동 원유수출 증가·G7 비축유 방출 약속에 1.8%↓",
+          "url": "https://stock.mk.co.kr/news/view/1169869",
+          "publishedAt": "2026-10-06T04:57:06+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://stock.mk.co.kr/photos/20261006/PRU20260925285401009_P4.jpg",
+          "verificationNote": "매일경제에 제공된 연합뉴스 전문을 확인했습니다. 표시된 수정 시각 06:48:53도 기준 이전입니다. 에너지경제연구원의 09:59 재전송본 대신 기준 이전 기사를 사용합니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "[국제유가] 하락 지속…\"중동 원유 수출, 전쟁 이전 수준 웃돌아\"",
+          "url": "https://www.fnnews.com/news/202610060602164553",
+          "publishedAt": "2026-10-06T06:04:26+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060556367689_e.jpg",
+          "verificationNote": "본문·메타데이터 확인. 각 인도월과 종가를 연합뉴스 기사로 대조했습니다. 원유 수출 회복과 가격 관계는 시장 분석으로 서술합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합뉴스·매일경제",
+          "title": "국제유가, 중동 원유수출 증가·G7 비축유 방출 약속에 1.8%↓",
+          "url": "https://stock.mk.co.kr/news/view/1169869",
+          "publishedAt": "2026-10-06T04:57:06+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://stock.mk.co.kr/photos/20261006/PRU20260925285401009_P4.jpg",
+          "verificationNote": "매일경제에 제공된 연합뉴스 전문을 확인했습니다. 표시된 수정 시각 06:48:53도 기준 이전입니다. 에너지경제연구원의 09:59 재전송본 대신 기준 이전 기사를 사용합니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "[국제유가] 하락 지속…\"중동 원유 수출, 전쟁 이전 수준 웃돌아\"",
+          "url": "https://www.fnnews.com/news/202610060602164553",
+          "publishedAt": "2026-10-06T06:04:26+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060556367689_e.jpg",
+          "verificationNote": "본문·메타데이터 확인. 각 인도월과 종가를 연합뉴스 기사로 대조했습니다. 원유 수출 회복과 가격 관계는 시장 분석으로 서술합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 88,
+        "interest": 95,
+        "domesticImpact": 95,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 새 종가로 중복 합의 재보도를 피했습니다. 국내 에너지 비용 파급과 환율·물가 관심을 반영합니다.",
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "결과",
+        "change": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-03-am",
+        "storyId": "g7-oil-release-2026-10-02",
+        "delta": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다."
+      },
+      "score": 95.35,
+      "factsHash": "16a3fc0fb191380ab18d8e1db6ced766e41f918918b7349a3f0cdcf62cbc5ea7"
+    },
+    {
+      "id": "nuri-transfer-result-2026-10-06",
+      "topicKey": "nuri-fifth-launch-2026",
+      "category": "국내·우주산업",
+      "title": "누리호 7시 30분 발사대 도착…어제의 이송 계획이 실제 결과로",
+      "status": "확정",
+      "publishedAt": "2026-10-06T07:51:40+09:00",
+      "eventAt": "2026-10-06T07:30:00+09:00",
+      "eventTimeNote": "우주항공청이 밝힌 실제 발사대 도착 시각입니다. 이후 작업 완료나 발사 시각이 아닙니다.",
+      "summary": [
+        "누리호가 10월 6일 오전 7시 30분 나로우주센터 제 2발사대에 도착했습니다. 전날 예고했던 발사대 이송이 실제로 끝났다는 후속 결과입니다.",
+        "우주항공청 발표를 인용한 보도에 따르면 실제 출발은 오전 6시였고 이동에 1시간 30분이 걸렸습니다. 어제 브리핑의 6시 10분경이라는 예정 시각과 실제 출발 시각을 구분해 기록합니다.",
+        "오전 9시까지 확인한 다음 단계는 로켓을 수직으로 세운 뒤 전원과 연료·산화제 공급 설비를 연결하고 기밀 상태를 점검하는 일정입니다. 이를 이미 모두 마쳤다는 의미로 읽으면 안 됩니다.",
+        "이번 결과로 발사 전 준비가 한 단계 진행됐지만, 발사 성공이나 위성 궤도 투입을 확인한 것은 아닙니다. 최종 발사 시각은 10월 7일 발사관리위원회가 기술 상태와 기상·우주환경 등을 검토한 뒤 결정할 예정입니다."
+      ],
+      "emphasis": [
+        "오전 7시 30분",
+        "발사대 이송이 실제로 끝났다는",
+        "실제 출발은 오전 6시",
+        "발사 성공이나 위성 궤도 투입을 확인한 것은 아닙니다"
+      ],
+      "keyFacts": {
+        "transferStart": "2026-10-06 06:00 KST, 실제",
+        "transferArrival": "2026-10-06 07:30 KST, 완료",
+        "transferDuration": "1시간 30분",
+        "state": "09시 기준 발사대 이송 완료, 기립·연결·점검 후속 예정",
+        "launchTimeDecision": "2026-10-07 발사관리위원회에서 결정 예정"
+      },
+      "whatChanged": "어제 저녁의 6일 아침 이송 계획 이후, 오늘 06:00 실제 출발과 07:30 발사대 도착이 확인됐습니다.",
+      "whyItMatters": "발사체의 이동부터 설치·점검까지 각 단계를 구분하면 준비 진행과 최종 발사 성공을 혼동하지 않을 수 있습니다.",
+      "uncertainty": "이 회차는 09시까지의 정보입니다. 기립·점검 완료나 최종 발사 시각, 위성 투입 성공은 그 기준에서 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "누리호, 1시간 30분 만에 발사대 도착…오전 중 수직으로 선다",
+          "url": "https://nwww.newsis.com/view/NISX20261006_0003814734",
+          "publishedAt": "2026-10-06T07:51:40+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002255842_web.jpg",
+          "verificationNote": "우주항공청 발표를 인용한 본문 확인.07:30 이송 완료와 이후 기립·연결 예정 상태를 구분했습니다.10:35의 기립 완료 후속 보도는 이번 회차에서 제외합니다."
+        },
+        {
+          "name": "EBN",
+          "title": "누리호, 5차 발사 D-1…발사대 오전 중 기립 완료 - 이비엔(EBN)뉴스센터",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726742",
+          "publishedAt": "2026-10-06T08:25:44+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://cdn.ebn.co.kr/news/thumbnail/202610/1726742_760618_2431_v150.jpg",
+          "verificationNote": "본문에서 06:00 출발·07:30 도착을 대조했습니다. 제목의 기립 완료 표현과 달리 본문은 기립 예정으로 설명하므로 이송 결과만 근거로 사용합니다. 매체별로 엇갈린 7일 예상 발사 시각은 확정치로 쓰지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "누리호, 1시간 30분 만에 발사대 도착…오전 중 수직으로 선다",
+          "url": "https://nwww.newsis.com/view/NISX20261006_0003814734",
+          "publishedAt": "2026-10-06T07:51:40+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:00:45+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002255842_web.jpg",
+          "verificationNote": "우주항공청 발표를 인용한 본문 확인.07:30 이송 완료와 이후 기립·연결 예정 상태를 구분했습니다.10:35의 기립 완료 후속 보도는 이번 회차에서 제외합니다."
+        },
+        {
+          "name": "EBN",
+          "title": "누리호, 5차 발사 D-1…발사대 오전 중 기립 완료 - 이비엔(EBN)뉴스센터",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726742",
+          "publishedAt": "2026-10-06T08:25:44+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T12:01:57+09:00",
+          "imageUrl": "https://cdn.ebn.co.kr/news/thumbnail/202610/1726742_760618_2431_v150.jpg",
+          "verificationNote": "본문에서 06:00 출발·07:30 도착을 대조했습니다. 제목의 기립 완료 표현과 달리 본문은 기립 예정으로 설명하므로 이송 결과만 근거로 사용합니다. 매체별로 엇갈린 7일 예상 발사 시각은 확정치로 쓰지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 90,
+        "interest": 90,
+        "domesticImpact": 92,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "오늘 아침 실제 이송 결과로 전날 계획을 갱신합니다.09시 이후 기립 완료는 의도적으로 제외했습니다.",
+      "timeline": {
+        "issueId": "nuri-fifth-launch-2026",
+        "issueTitle": "누리호 2026년 5차 발사와 다중위성 투입",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "결과",
+        "change": "어제 저녁의 6일 아침 이송 계획 이후, 오늘 06:00 실제 출발과 07:30 발사대 도착이 확인됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "nuri-fifth-launch-preparation-2026-10-05",
+        "delta": "어제 저녁의 6일 아침 이송 계획 이후, 오늘 06:00 실제 출발과 07:30 발사대 도착이 확인됐습니다."
+      },
+      "score": 94.8,
+      "factsHash": "cf693df01bb53cf37907adbf835c07626a9548b42d98d78676970505428f120d"
+    }
+  ],
+  "keywords": [],
+  "editorialExceptions": {
+    "missingWebtoon": {
+      "editionId": "2026-10-06-am",
+      "reason": "웹툰은 최근 72시간 안에 새롭게 다룰 만한 소식을 확인하지 못해 이번 회차에서는 제외했습니다.",
+      "authorization": "웹툰 후보 부족에 따른 발행 보류 안내 이후 사용자가 이번 회차 발행을 요청했습니다. 이번 회차에만 적용하며 정기 포함 원칙은 유지합니다."
+    }
+  },
+  "events": [
+    {
+      "date": "2026-10-06",
+      "at": "2026-10-06T10:00:00+09:00",
+      "timeNote": "10월 6일 10:00 KST 예정,09시 기준 일정",
+      "title": "8개 상임위원회 국정감사 예정",
+      "detail": "경제·외교·과학기술 등 상임위에서 공개될 새 자료와 공식 답변을 확인합니다. 회의 계획만 확인한 상태로, 예상 발언을 결과처럼 다루지 않습니다.",
+      "source": {
+        "name": "연합뉴스",
+        "title": "[오늘의 국회일정](6일·화) | 연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261005040500001",
+        "publishedAt": "2026-10-06T07:00:04+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-06T12:00:46+09:00",
+        "imageUrl": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg",
+        "verificationNote": "10월 6일 일정 기사에서 8개 상임위의 10:00 국정감사 계획을 확인했습니다. 실제 개최 결과를 미리 단정하지 않습니다."
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "at": "2026-10-06T12:00:00+09:00",
+      "timeNote": "10월 6일 12:00 KST 보도계획",
+      "title": "한국은행, 경상수지 평가 모형 관련 이슈노트 예정",
+      "detail": "IMF EBA 모형 개편이 한국의 경상수지 평가에 미치는 영향을 다룰 예정입니다. 평가 방식의 변화와 실제 경상수지 실적은 구분하며, 발표 결과를 미리 추정하지 않습니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "[오늘의 주요일정]금융·증권(10월 6일 화요일)",
+        "url": "https://nwww.newsis.com/view/NISX20261004_0003814037",
+        "publishedAt": "2026-10-06T05:00:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-06T12:00:46+09:00",
+        "verificationNote": "한국은행 12:00 보도계획을 확인했습니다. 보도 예정 시각과 실제 결과 발표를 구분합니다."
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "at": "2026-10-06T18:45:00+09:00",
+      "timeNote": "스톡홀름 11:45 CEST 이후, 한국시간 18:45 이후",
+      "title": "노벨 물리학상 발표 예정",
+      "detail": "왕립과학원이 공지한 가장 이른 발표 시각입니다. 오전 9시 기준 수상자는 미공개이며 실제 수상 결과는 이후 회차에서 확인합니다.",
+      "source": {
+        "name": "스웨덴 왕립과학원",
+        "title": "Autumn Nobel announcements confirmed",
+        "url": "https://www.kva.se/en/news/autumn-nobel-announcements-confirmed-3/",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-06T12:00:46+09:00",
+        "imageUrl": "https://www.kva.se/app/uploads/2025/02/KVA_Kemi25_PL_059.jpg",
+        "verificationNote": "2026년 2월 2일 게시된 공식 일정 재확인.10월 6일 스톡홀름 11:45 CEST 이후는 한국시간 18:45 이후입니다. 정확한 자료 최초 게시 시각은 미표시입니다."
+      }
+    }
+  ]
+}
