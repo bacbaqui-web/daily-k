@@ -135,7 +135,88 @@
       },
       "correctionOf": null,
       "supersededBy": []
+    },
+    {
+      "id": "2026-10-06-pm/nuri-erection-result-2026-10-06",
+      "editionId": "2026-10-06-pm",
+      "storyId": "nuri-erection-result-2026-10-06",
+      "editionDate": "2026-10-06",
+      "edition": "pm",
+      "coveredAt": "2026-10-06T21:17:18+09:00",
+      "coveredOn": "2026-10-06",
+      "publishedAt": "2026-10-06T11:37:26+09:00",
+      "eventAt": "2026-10-06T10:35:00+09:00",
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "기사 두 곳이 우주청·항우연 발표를 인용해 확인한 기립·고정 완료 시각입니다. 전체 설치나 발사 완료 시각이 아닙니다.",
+      "stage": "후속",
+      "change": "아침의 07:30 발사대 도착 이후 10:35 기립·고정 완료가 새로 확인됐습니다. 오후 전체 설치 완료나 발사 성공으로 확대하지 않습니다.",
+      "title": "누리호 10시 35분 기립·고정 완료…최종 발사 시각은 내일 결정",
+      "category": "국내·우주산업",
+      "status": "확정",
+      "summary": [
+        "누리호가 오늘 10시 35분 발사대에서 기립·고정 작업을 마쳤습니다. 아침에는 발사대 도착까지만 확인됐는데, 이후 로켓을 수직으로 세우고 고정하는 단계까지 진행됐습니다.",
+        "이후 절차는 전원·추진제 공급선을 잇고 누설 여부와 장비 작동 상태를 점검하는 작업입니다. 오전 기사에 적힌 저녁 설치 완료 예정 시각을 실제 완료 발표로 바꾸지는 않았으며, 이번에 확실히 대조한 결과는 기립·고정 완료까지입니다.",
+        "발사 가능 시간창은 내일 10월 7일 12시 23분부터 13시 23분까지입니다. 이는 한 시간의 가능한 구간이고 특정 분에 발사가 확정됐다는 뜻은 아닙니다. 우주항공청은 내일 오전 위원회에서 기술 준비와 기상·우주환경 등을 검토해 최종 시각을 정할 계획입니다.",
+        "이송·기립의 진척은 발사를 위한 다음 점검으로 넘어갈 수 있다는 의미입니다. 그러나 발사 성공과 위성의 정상 궤도 투입은 별도로 확인해야 하며, 바람·낙뢰·우주물체 충돌 가능성 등에 따라 일정은 달라질 수 있습니다."
+      ],
+      "keyFacts": {
+        "transferStart": "2026-10-06 06:00 KST, 실제",
+        "transferArrival": "2026-10-06 07:30 KST, 완료",
+        "erectionCompleted": "2026-10-06 10:35 KST, 기립·고정 완료",
+        "state": "기립·고정 완료 확인, 오후 연결·전체 설치 완료 별도 확인 안 됨",
+        "launchWindow": "2026-10-07 12:23~13:23 KST",
+        "launchTimeDecision": "2026-10-07 발사관리위원회에서 결정 예정"
+      },
+      "uncertainty": "전체 설치·기밀점검의 최종 완료는 별도 대조하지 못했습니다. 내일 발사 시각과 발사 여부는 최종 점검 및 기상 등에 따라 바뀔 수 있습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "무사히 발사대 선 누리호…D-1 마지막 관문은 '점검 또 점검'(종합)",
+          "url": "https://nwww.newsis.com/view/NISX20261006_0003815268",
+          "publishedAt": "2026-10-06T11:37:26+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002256289_web.jpg",
+          "verificationNote": "기립·고정 완료와 오후 설치 예정, 7일 발사 가능 시간창을 구별했습니다. 18:45 설치 완료 예정이라는 문장을 실제 완료로 바꾸지 않습니다."
+        },
+        {
+          "name": "아시아투데이",
+          "title": "누리호, 발사대 기립·고정 완료…오후에 발사 준비 작업 돌입",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001371",
+          "publishedAt": "2026-10-06T10:51:30+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/20261006010001371_1791251686_1.jpg",
+          "verificationNote": "본문10:35 기립·고정 완료, 오후 작업 예정이라는 상태를 확인했습니다. 10:54 수정본까지 기준 시각 이전입니다."
+        },
+        {
+          "name": "한국항공우주연구원",
+          "title": "누리호 5호기, 발사대로 이송 시작",
+          "url": "https://ksatdb.kari.re.kr/media/news/view.do?articleNo=320&page=4",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "항우연 공식 서비스의 10월6일 자료입니다. 이 자료 자체는 오전 이송 시작 발표이고 7일 오전 위원회·최종 시각 결정 계획의 근거로 사용합니다."
+        }
+      ],
+      "briefingPath": "2026-10-06/pm.json",
+      "previous": {
+        "editionId": "2026-10-06-am",
+        "storyId": "nuri-transfer-result-2026-10-06"
+      },
+      "followUp": {
+        "editionId": "2026-10-06-am",
+        "storyId": "nuri-transfer-result-2026-10-06",
+        "delta": "아침의 07:30 발사대 도착 이후 10:35 기립·고정 완료가 새로 확인됐습니다. 오후 전체 설치 완료나 발사 성공으로 확대하지 않습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-06T12:05:34+09:00"
+  "updatedAt": "2026-10-06T21:17:18+09:00"
 }

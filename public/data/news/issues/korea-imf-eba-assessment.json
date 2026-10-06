@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-imf-eba-assessment",
+  "title": "한국 경상수지와 IMF EBA 평가모형",
+  "entries": [
+    {
+      "id": "2026-10-06-pm/bok-imf-eba-model-2026-10-06",
+      "editionId": "2026-10-06-pm",
+      "storyId": "bok-imf-eba-model-2026-10-06",
+      "editionDate": "2026-10-06",
+      "edition": "pm",
+      "coveredAt": "2026-10-06T21:17:18+09:00",
+      "coveredOn": "2026-10-06",
+      "publishedAt": "2026-10-06T12:00:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "한국은행 보고서 공개일입니다. IMF의 기존 평가는 2026년 7월, 대상 실적은 2025년이며 오늘 새 IMF 결론이 아닙니다.",
+      "stage": "분석",
+      "change": "오늘 정오 발표된 한국은행 이슈노트가 IMF 경상수지 평가 변화에서 모형 개편과 한국의 인구·저축 특성을 구분해 분석했습니다.",
+      "title": "한은 “IMF 평가모형이 한국 특수성 놓쳐”…흑자와 평가 기준을 분리해야",
+      "category": "경제·국제금융",
+      "status": "분석",
+      "summary": [
+        "한국은행은 IMF의 경상수지 평가모형 개편이 한국의 고령화·저축 특성을 충분히 반영하지 못했을 가능성을 제기했습니다. 실제 수출입 실적이 새로 바뀌었다는 발표가 아니라, 흑자가 적정한지를 재는 기준에 대한 분석입니다.",
+        "IMF가 경제 여건으로 계산한 한국의 적정 경상수지는 GDP 대비 4.7%에서 3.3%로 낮아졌습니다. 실제 흑자와 적정 수준의 차이는 0.8%에서 3.1%로 커졌으며, IMF의 추가 판단을 반영한 값은 2.5%입니다. 조정 전후 숫자를 섞어 비교하면 안 됩니다.",
+        "한은은 나머지 조건을 같게 두고 모형만 비교하면 이번 개편이 적정 경상수지를 1.10%포인트 낮췄다고 추정했습니다. 고령층의 높은 저축 성향과 빠른 고령화 속도를 충분히 담지 못한다는 것이 한은의 설명입니다.",
+        "쉽게 말해 흑자라는 측정값뿐 아니라 정상 범위로 보는 기준선도 움직였다는 뜻입니다. 이 차이는 한국의 대외 불균형을 논의할 때 중요하지만, 이번 보고서만으로 환율이 적정한지 또는 어떤 정책이 필요한지가 자동으로 결정되지는 않습니다.",
+        "한은은 내년 평가에 추가 모형 변경이 예정돼 있다고 설명했습니다. 아직 올해 연간 실적과 내년 IMF 최종 평가는 확정되지 않았고, 한국은행의 문제 제기가 IMF의 수정 결정으로 이어졌다는 발표도 아닙니다."
+      ],
+      "keyFacts": {
+        "reportDate": "2026-10-06",
+        "imfAssessmentVintage": "2026년7월 ESR, 2025년 실적 평가",
+        "currentAccountNorm": "GDP대비4.7%→3.3%",
+        "currentAccountGap": "0.8%→3.1%, IMF조정후2.5%",
+        "sameConditionsModelEffect": "ESR2026 모형개편으로 적정경상수지-1.10%p, 한국은행 추정",
+        "status": "한국은행 모형 분석, IMF 평가 수정 결정 아님"
+      },
+      "uncertainty": "한국은행의 분석이며 IMF가 이 견해를 수용하거나 평가를 수정한 것은 아닙니다. 연간 실적과 내년 평가는 아직 확정되지 않았습니다.",
+      "sources": [
+        {
+          "name": "조선비즈",
+          "title": "한은 “IMF 경상수지 평가법 변경, 우리나라에 불리하게 작용”",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/KQE3J7UENBEB5CY27RG6VRQR44/",
+          "publishedAt": "2026-10-06T12:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://biz.chosun.com/resizer/v2/TMQDQAYB35IOJFRYNYRD5JMGII.jpg?auth=243e65fac4c9af8a57837896f21f50973826962dbdf96dece3990f6ea16bcad0&width=1200&height=630&smart=true",
+          "verificationNote": "독자에게 표시된 입력 시각 12:00을 사용합니다. 내부 메타데이터는 11:30:48 생성·12:00 수정으로 다릅니다. 모형 개편 연도·수치는 한국은행 원문을 우선했습니다."
+        },
+        {
+          "name": "한국은행",
+          "title": "[제2026-26호] IMF EBA 모형 개편이 우리나라 경상수지 평가에 미치는 영향",
+          "url": "https://www.bok.or.kr/portal/bbs/P0002353/view.do?depth=200433&menuNo=200433&nttId=11065326&programType=newsData&relate=Y",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+          "verificationNote": "10월 6일 공개한 이슈노트의 한국어 HTML 요약을 직접 읽었습니다. 게시 시각은 없으므로 null입니다. 1.10%p는 ESR 2026 개편, 0.74%p는 ESR 2027 예정 개편의 별도 효과입니다."
+        },
+        {
+          "name": "SBS Biz",
+          "title": "한은 “IMF, EBA 모형 개편해 韓 경상수지 과소평가”",
+          "url": "https://biz.sbs.co.kr/amp/article/20000338369",
+          "publishedAt": "2026-10-06T09:56:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "입력09:56·수정12:00 기사입니다. 한국은행의 분석이라는 성격과 조정 전·후 경상수지 갭을 구별했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-06/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-06T21:17:18+09:00"
+}

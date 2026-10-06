@@ -141,6 +141,78 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-06-pm/korea-us-first-remittance-confirmed-2026-10-06",
+      "editionId": "2026-10-06-pm",
+      "storyId": "korea-us-first-remittance-confirmed-2026-10-06",
+      "editionDate": "2026-10-06",
+      "edition": "pm",
+      "coveredAt": "2026-10-06T21:17:18+09:00",
+      "coveredOn": "2026-10-06",
+      "publishedAt": "2026-10-06T18:41:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "사건일은 국감에서 정부가 송금을 공개 확인한 10월 6일입니다. 실제 송금은 10월 1일이며 당일 답변의 정확한 시각은 미확인입니다.",
+      "stage": "후속",
+      "change": "아침 알래스카 LNG 협의 보도 뒤, 오늘 국감에서 별도 텍사스 발전소 사업의 10월 1일 24억달러 송금과 전력구매계약 미체결 상태가 공개 확인됐습니다.",
+      "title": "대미 투자금 24억 달러 송금 확인…전력 판매계약은 미체결",
+      "category": "국내·통상",
+      "status": "보도",
+      "summary": [
+        "정부가 텍사스 가스발전소 사업의 첫 투자금 24억 달러를 10월 1일 송금했다고 오늘 국정감사에서 확인했습니다. 실제 송금일은 오늘이 아니며, 오늘 새로 나온 내용은 정부의 공개 확인과 사업 조건에 대한 답변입니다.",
+        "이형일 부총리는 전력 판매계약인 PPA가 아직 체결되지 않았지만 데이터센터와 연결된 수요가 있고 사업성을 검토했다고 설명했습니다. 발전소를 짓는 계약·투자 집행과 생산한 전력을 팔 계약은 서로 다른 단계입니다.",
+        "의원들은 양해각서의 최소 45영업일 이후 송금 문구와 실제 조기 집행의 차이를 지적했습니다. 부총리는 협의 과정에서는 45일 이내를 논의했고 양국이 합의하면 앞당길 수 있다는 취지로 답했습니다. 이 설명만으로 문구 논란의 법적 판단이 끝난 것은 아닙니다.",
+        "아침에는 알래스카 LNG 사업의 세부 협의가 남았다는 미국 측 입장을 다뤘습니다. 오후에는 별도 사업인 텍사스 발전소의 실제 자금 집행이 확인됐으므로, 이를 알래스카 투자 확정으로 확대해서 읽으면 안 됩니다.",
+        "중요한 변화는 투자 계획이 실제 자금 이동 단계에 들어갔다는 점입니다. 다만 전력 판매조건과 회수 가능성은 추가 확인이 필요하며, 정부의 사업성 판단이 최종 수익을 보장하는 것은 아닙니다."
+      ],
+      "keyFacts": {
+        "texasFirstRemittance": "24억달러",
+        "remittanceDate": "2026-10-01",
+        "publicConfirmationDate": "2026-10-06 국정감사",
+        "powerPurchaseAgreement": "미체결, 정부는 향후 체결 설명",
+        "commercialViability": "정부는 검토·충족 판단, 수익 보장 아님",
+        "alaskaParticipation": "한국 참여 여부·규모 미확정"
+      },
+      "uncertainty": "송금은 부총리의 공개 답변을 복수 매체가 전한 내용입니다. 거래 원장을 별도 검증한 것은 아니며 판매계약·투자수익·알래스카 참여는 확정되지 않았습니다.",
+      "sources": [
+        {
+          "name": "YTN",
+          "title": "이형일, 첫 대미투자금 24억 달러 송금 확인",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610061841322565",
+          "publishedAt": "2026-10-06T18:41:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+          "verificationNote": "국감에서 정부가 송금을 확인한 발언 보도입니다. 두 매체가 같은 발언을 전하며 별도 송금 원장을 검증한 것은 아닙니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "이형일 \"대미투자 24억弗 송금\"…레버리지 ETF 손실엔 \"송구\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816168",
+          "publishedAt": "2026-10-06T17:35:44+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477317_web.jpg",
+          "verificationNote": "본문 등록 17:35:44, 수정 18:40:24를 확인했습니다. 메타데이터의 published_time에는 수정 시간이 들어 있어 본문 등록 시각을 사용합니다. 국감 발언을 전한 보도입니다."
+        }
+      ],
+      "briefingPath": "2026-10-06/pm.json",
+      "previous": {
+        "editionId": "2026-10-06-am",
+        "storyId": "alaska-lng-vance-2026-10-05"
+      },
+      "followUp": {
+        "editionId": "2026-10-06-am",
+        "storyId": "alaska-lng-vance-2026-10-05",
+        "delta": "아침 알래스카 LNG 협의 보도 뒤, 오늘 국감에서 별도 텍사스 발전소 사업의 10월 1일 24억달러 송금과 전력구매계약 미체결 상태가 공개 확인됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-22-pm-archive/archive-02",
       "editionId": "2026-09-22-pm-archive",
       "storyId": "archive-02",
@@ -343,5 +415,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-06T12:05:34+09:00"
+  "updatedAt": "2026-10-06T21:17:18+09:00"
 }

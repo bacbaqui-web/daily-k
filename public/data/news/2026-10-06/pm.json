@@ -1,0 +1,941 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-06-pm",
+  "date": "2026-10-06",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-06T21:00:00+09:00",
+  "generatedAt": "2026-10-06T21:17:18+09:00",
+  "intro": "아침 이후 확인된 시장 마감, 대미 투자 집행, 과학·산업의 새 결과를 정리했습니다.",
+  "overview": [
+    "코스피는 6,941.39로 0.89% 하락했고 코스닥은 919.92로 2.98% 상승해 시장 안의 온도 차가 컸습니다. 원·달러는 15시 30분 주간 종가 1,343.6원입니다. 정부는 텍사스 발전소 투자금 24억 달러의 10월 1일 송금을 오늘 확인했지만 전력 판매계약은 미체결 상태라고 밝혔습니다.",
+    "한국은행은 IMF 경상수지 평가모형이 한국의 인구·저축 특수성을 충분히 담지 못했다는 분석을 내놨습니다. 삼성전기의 2,856억원 MLCC 계약은 내년 공급에 관한 것으로, 올해 확정된 이익과는 다릅니다. 경제 수치와 계약 모두 실제 결과·평가 기준·앞으로의 약속을 구분하는 것이 핵심입니다.",
+    "국제 과학에서는 프란시스 할젠의 노벨 물리학상 단독 수상이 확정됐습니다. 누리호는 아침 이송 이후 10시 35분 기립·고정 완료까지 확인됐고 최종 발사 시각은 내일 결정합니다. 웹툰은 벙커의 낮의 여섯 번째 OST가 오늘 실제 공개된 소식을 담았습니다."
+  ],
+  "overviewEmphasis": [
+    "6,941.39로 0.89% 하락",
+    "919.92로 2.98% 상승",
+    "주간 종가 1,343.6원",
+    "투자금 24억 달러",
+    "전력 판매계약은 미체결",
+    "IMF 경상수지 평가모형",
+    "2,856억원 MLCC 계약",
+    "내년 공급",
+    "노벨 물리학상 단독 수상",
+    "10시 35분 기립·고정 완료",
+    "여섯 번째 OST"
+  ],
+  "stories": [
+    {
+      "id": "korea-market-2026-10-06-close",
+      "topicKey": "korea-market-2026-10-06",
+      "category": "증시·환율",
+      "title": "코스피 6,941.39로 하락…코스닥은 2.98% 상승 마감",
+      "status": "확정",
+      "publishedAt": "2026-10-06T16:06:21+09:00",
+      "eventAt": "2026-10-06T15:30:00+09:00",
+      "eventTimeNote": "국내 주식 정규장 마감과 외환 주간거래 15:30 기준입니다. 기사 작성·야간 외환 마감 시각이 아닙니다.",
+      "summary": [
+        "오늘 코스피는 6,941.39로 0.89% 내렸지만 코스닥은 919.92로 2.98% 올랐습니다. 같은 국내 증시 안에서도 대형 반도체주와 코스닥 주요 종목의 방향이 갈렸습니다.",
+        "코스피는 직전 거래일 종가 7,003.74에서 62.35포인트 떨어져 7,000선 아래로 돌아왔습니다. 삼성전자는 1.45%, SK하이닉스는 3.69% 하락한 반면 삼성전기와 LG에너지솔루션은 각각 5% 넘게 상승했습니다.",
+        "코스닥에서는 HLB와 주성엔지니어링이 각각 17%대 오르고 에코프로비엠은 11%대 상승했습니다. 지수 하나만 보면 약한 장처럼 보이지만, 업종과 종목에 따라 투자자들이 받아들인 재료는 달랐다는 뜻입니다.",
+        "원·달러 환율은 15시 30분 주간거래 기준 1,343.6원으로 보도됐습니다. 이는 주간 종가이며, 밤까지 이어지는 외환시장 전체 거래의 최종 마감값과는 구별해야 합니다.",
+        "아침에 확인한 미국 기술주 상승이 국내 대형 반도체주 상승으로 그대로 이어지지는 않았습니다. 잠정실적과 향후 수급을 기다리는 분위기라는 시장 해석이 나오지만, 하루의 등락만으로 업종 추세가 바뀌었다고 단정하기는 어렵습니다."
+      ],
+      "emphasis": [
+        "6,941.39로 0.89%",
+        "919.92로 2.98%",
+        "15시 30분 주간거래 기준 1,343.6원",
+        "하루의 등락만으로"
+      ],
+      "keyFacts": {
+        "kospiClose": "6941.39",
+        "kospiChangePct": "-0.89%",
+        "kosdaqClose": "919.92",
+        "kosdaqChangePct": "+2.98%",
+        "samsungChangePct": "-1.45%",
+        "skHynixChangePct": "-3.69%",
+        "daytimeClose": "1343.6원",
+        "referenceType": "10월6일 KRX 정규장 지수 종가 및15:30 외환 주간 종가"
+      },
+      "whatChanged": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다.",
+      "whyItMatters": "시장 전체의 약세와 개별 업종 강세가 동시에 나타났으므로 지수·업종·환율을 구별해 흐름을 읽어야 합니다.",
+      "uncertainty": "잠정실적을 앞둔 관망이라는 설명은 시장 해석입니다. 투자자별 매매 수치는 거래소 합산 범위와 집계 시각이 달라 이번 요약에는 넣지 않았습니다.",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "title": "\"곧 성적표 뜬다\" 반도체 관망에 7천피 내줘…코스닥 톱10 '빨간불' - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/06/2026100615343649431",
+          "publishedAt": "2026-10-06T16:06:21+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:12:34+09:00",
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100615343649431_1.jpg",
+          "verificationNote": "16:15:01 수정본까지 확인했습니다. KRX·NXT 합산 수급과 지수 종가를 구분하고, 상충하는 기관 수급 수치는 요약에서 제외합니다."
+        },
+        {
+          "name": "뉴스1",
+          "title": "코스피,  0.89% 하락한 6941.39 마감…코스닥 2.98%↑(2보)",
+          "url": "https://www.news1.kr/finance/general-stock/6311688",
+          "publishedAt": "2026-10-06T15:37:36+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:10:42+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2017/12/7/2860599/high.jpg",
+          "verificationNote": "한국어 기사 검색 본문과 원문 메타데이터를 대조했습니다. 주가·환율 숫자는 다른 접근 가능한 원문에서도 일치합니다."
+        },
+        {
+          "name": "뉴스핌",
+          "title": "[마감시황] 반도체 숨고르기에 코스피 6941선 마감…코스닥은 3%대↑",
+          "url": "https://m.newspim.com/news/view/20261006001098",
+          "publishedAt": "2026-10-06T15:50:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.newspim.com/news/2026/10/06/261006153225767_w.jpg",
+          "verificationNote": "본문과 메타데이터를 직접 열었습니다. 다른 원문과 일치하는 종가·등락률만 사용하며 코스닥 투자자별 수급의 상충 수치는 채택하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "머니투데이",
+          "title": "\"곧 성적표 뜬다\" 반도체 관망에 7천피 내줘…코스닥 톱10 '빨간불' - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/06/2026100615343649431",
+          "publishedAt": "2026-10-06T16:06:21+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:12:34+09:00",
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100615343649431_1.jpg",
+          "verificationNote": "16:15:01 수정본까지 확인했습니다. KRX·NXT 합산 수급과 지수 종가를 구분하고, 상충하는 기관 수급 수치는 요약에서 제외합니다."
+        },
+        {
+          "name": "뉴스1",
+          "title": "코스피,  0.89% 하락한 6941.39 마감…코스닥 2.98%↑(2보)",
+          "url": "https://www.news1.kr/finance/general-stock/6311688",
+          "publishedAt": "2026-10-06T15:37:36+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:10:42+09:00",
+          "imageUrl": "https://i3n.news1.kr/system/photos/2017/12/7/2860599/high.jpg",
+          "verificationNote": "한국어 기사 검색 본문과 원문 메타데이터를 대조했습니다. 주가·환율 숫자는 다른 접근 가능한 원문에서도 일치합니다."
+        },
+        {
+          "name": "뉴스핌",
+          "title": "[마감시황] 반도체 숨고르기에 코스피 6941선 마감…코스닥은 3%대↑",
+          "url": "https://m.newspim.com/news/view/20261006001098",
+          "publishedAt": "2026-10-06T15:50:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.newspim.com/news/2026/10/06/261006153225767_w.jpg",
+          "verificationNote": "본문과 메타데이터를 직접 열었습니다. 다른 원문과 일치하는 종가·등락률만 사용하며 코스닥 투자자별 수급의 상충 수치는 채택하지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 95,
+        "interest": 97,
+        "domesticImpact": 100,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "오후 확정된 지수·환율을 복수 한국어 원문으로 대조했습니다. 상충하는 세부 수급 대신 일치하는 종가를 사용합니다.",
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "결과",
+        "change": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-05-am",
+        "storyId": "kosdaq-sector-september-review-2026-10-05",
+        "delta": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다."
+      },
+      "score": 97.9,
+      "factsHash": "d96c0485d89f266dd1a9980fce5d8e0d334afe88d0d57951d7b9df8d989a0072"
+    },
+    {
+      "id": "korea-us-first-remittance-confirmed-2026-10-06",
+      "topicKey": "korea-us-texas-first-remittance-2026",
+      "category": "국내·통상",
+      "title": "대미 투자금 24억 달러 송금 확인…전력 판매계약은 미체결",
+      "status": "보도",
+      "publishedAt": "2026-10-06T18:41:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "사건일은 국감에서 정부가 송금을 공개 확인한 10월 6일입니다. 실제 송금은 10월 1일이며 당일 답변의 정확한 시각은 미확인입니다.",
+      "summary": [
+        "정부가 텍사스 가스발전소 사업의 첫 투자금 24억 달러를 10월 1일 송금했다고 오늘 국정감사에서 확인했습니다. 실제 송금일은 오늘이 아니며, 오늘 새로 나온 내용은 정부의 공개 확인과 사업 조건에 대한 답변입니다.",
+        "이형일 부총리는 전력 판매계약인 PPA가 아직 체결되지 않았지만 데이터센터와 연결된 수요가 있고 사업성을 검토했다고 설명했습니다. 발전소를 짓는 계약·투자 집행과 생산한 전력을 팔 계약은 서로 다른 단계입니다.",
+        "의원들은 양해각서의 최소 45영업일 이후 송금 문구와 실제 조기 집행의 차이를 지적했습니다. 부총리는 협의 과정에서는 45일 이내를 논의했고 양국이 합의하면 앞당길 수 있다는 취지로 답했습니다. 이 설명만으로 문구 논란의 법적 판단이 끝난 것은 아닙니다.",
+        "아침에는 알래스카 LNG 사업의 세부 협의가 남았다는 미국 측 입장을 다뤘습니다. 오후에는 별도 사업인 텍사스 발전소의 실제 자금 집행이 확인됐으므로, 이를 알래스카 투자 확정으로 확대해서 읽으면 안 됩니다.",
+        "중요한 변화는 투자 계획이 실제 자금 이동 단계에 들어갔다는 점입니다. 다만 전력 판매조건과 회수 가능성은 추가 확인이 필요하며, 정부의 사업성 판단이 최종 수익을 보장하는 것은 아닙니다."
+      ],
+      "emphasis": [
+        "첫 투자금 24억 달러",
+        "실제 송금일은 오늘이 아니며",
+        "PPA가 아직 체결되지 않았지만",
+        "별도 사업인 텍사스 발전소",
+        "최종 수익을 보장하는 것은 아닙니다"
+      ],
+      "keyFacts": {
+        "texasFirstRemittance": "24억달러",
+        "remittanceDate": "2026-10-01",
+        "publicConfirmationDate": "2026-10-06 국정감사",
+        "powerPurchaseAgreement": "미체결, 정부는 향후 체결 설명",
+        "commercialViability": "정부는 검토·충족 판단, 수익 보장 아님",
+        "alaskaParticipation": "한국 참여 여부·규모 미확정"
+      },
+      "whatChanged": "아침 알래스카 LNG 협의 보도 뒤, 오늘 국감에서 별도 텍사스 발전소 사업의 10월 1일 24억달러 송금과 전력구매계약 미체결 상태가 공개 확인됐습니다.",
+      "whyItMatters": "대미 투자 계획의 집행 단계와 미확정 판매·회수 조건을 나눠 보아야 사업 진행과 위험을 함께 이해할 수 있습니다.",
+      "uncertainty": "송금은 부총리의 공개 답변을 복수 매체가 전한 내용입니다. 거래 원장을 별도 검증한 것은 아니며 판매계약·투자수익·알래스카 참여는 확정되지 않았습니다.",
+      "sources": [
+        {
+          "name": "YTN",
+          "title": "이형일, 첫 대미투자금 24억 달러 송금 확인",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610061841322565",
+          "publishedAt": "2026-10-06T18:41:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+          "verificationNote": "국감에서 정부가 송금을 확인한 발언 보도입니다. 두 매체가 같은 발언을 전하며 별도 송금 원장을 검증한 것은 아닙니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "이형일 \"대미투자 24억弗 송금\"…레버리지 ETF 손실엔 \"송구\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816168",
+          "publishedAt": "2026-10-06T17:35:44+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477317_web.jpg",
+          "verificationNote": "본문 등록 17:35:44, 수정 18:40:24를 확인했습니다. 메타데이터의 published_time에는 수정 시간이 들어 있어 본문 등록 시각을 사용합니다. 국감 발언을 전한 보도입니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "YTN",
+          "title": "이형일, 첫 대미투자금 24억 달러 송금 확인",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610061841322565",
+          "publishedAt": "2026-10-06T18:41:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+          "verificationNote": "국감에서 정부가 송금을 확인한 발언 보도입니다. 두 매체가 같은 발언을 전하며 별도 송금 원장을 검증한 것은 아닙니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "이형일 \"대미투자 24억弗 송금\"…레버리지 ETF 손실엔 \"송구\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816168",
+          "publishedAt": "2026-10-06T17:35:44+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477317_web.jpg",
+          "verificationNote": "본문 등록 17:35:44, 수정 18:40:24를 확인했습니다. 메타데이터의 published_time에는 수정 시간이 들어 있어 본문 등록 시각을 사용합니다. 국감 발언을 전한 보도입니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 97,
+        "interest": 90,
+        "domesticImpact": 100,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "오후 국감의 새 자금 집행 확인과 미체결 조건을 중심으로 선정했습니다. 발언과 의원 문제 제기를 각각 귀속합니다.",
+      "timeline": {
+        "issueId": "korea-us-investment-projects",
+        "issueTitle": "한국의 미국 에너지·인프라 투자",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "아침 알래스카 LNG 협의 보도 뒤, 오늘 국감에서 별도 텍사스 발전소 사업의 10월 1일 24억달러 송금과 전력구매계약 미체결 상태가 공개 확인됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-06-am",
+        "storyId": "alaska-lng-vance-2026-10-05",
+        "delta": "아침 알래스카 LNG 협의 보도 뒤, 오늘 국감에서 별도 텍사스 발전소 사업의 10월 1일 24억달러 송금과 전력구매계약 미체결 상태가 공개 확인됐습니다."
+      },
+      "score": 97.35,
+      "factsHash": "ccf7f8691df862c395229139d2564804ae52b05dc24b22ea20087b707d07e9b5"
+    },
+    {
+      "id": "bok-imf-eba-model-2026-10-06",
+      "topicKey": "bok-imf-eba-model-2026",
+      "category": "경제·국제금융",
+      "title": "한은 “IMF 평가모형이 한국 특수성 놓쳐”…흑자와 평가 기준을 분리해야",
+      "status": "분석",
+      "publishedAt": "2026-10-06T12:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "한국은행 보고서 공개일입니다. IMF의 기존 평가는 2026년 7월, 대상 실적은 2025년이며 오늘 새 IMF 결론이 아닙니다.",
+      "summary": [
+        "한국은행은 IMF의 경상수지 평가모형 개편이 한국의 고령화·저축 특성을 충분히 반영하지 못했을 가능성을 제기했습니다. 실제 수출입 실적이 새로 바뀌었다는 발표가 아니라, 흑자가 적정한지를 재는 기준에 대한 분석입니다.",
+        "IMF가 경제 여건으로 계산한 한국의 적정 경상수지는 GDP 대비 4.7%에서 3.3%로 낮아졌습니다. 실제 흑자와 적정 수준의 차이는 0.8%에서 3.1%로 커졌으며, IMF의 추가 판단을 반영한 값은 2.5%입니다. 조정 전후 숫자를 섞어 비교하면 안 됩니다.",
+        "한은은 나머지 조건을 같게 두고 모형만 비교하면 이번 개편이 적정 경상수지를 1.10%포인트 낮췄다고 추정했습니다. 고령층의 높은 저축 성향과 빠른 고령화 속도를 충분히 담지 못한다는 것이 한은의 설명입니다.",
+        "쉽게 말해 흑자라는 측정값뿐 아니라 정상 범위로 보는 기준선도 움직였다는 뜻입니다. 이 차이는 한국의 대외 불균형을 논의할 때 중요하지만, 이번 보고서만으로 환율이 적정한지 또는 어떤 정책이 필요한지가 자동으로 결정되지는 않습니다.",
+        "한은은 내년 평가에 추가 모형 변경이 예정돼 있다고 설명했습니다. 아직 올해 연간 실적과 내년 IMF 최종 평가는 확정되지 않았고, 한국은행의 문제 제기가 IMF의 수정 결정으로 이어졌다는 발표도 아닙니다."
+      ],
+      "emphasis": [
+        "평가모형 개편",
+        "GDP 대비 4.7%에서 3.3%",
+        "조정 전후 숫자를 섞어 비교하면 안 됩니다",
+        "1.10%포인트",
+        "내년 IMF 최종 평가는 확정되지 않았고"
+      ],
+      "keyFacts": {
+        "reportDate": "2026-10-06",
+        "imfAssessmentVintage": "2026년7월 ESR, 2025년 실적 평가",
+        "currentAccountNorm": "GDP대비4.7%→3.3%",
+        "currentAccountGap": "0.8%→3.1%, IMF조정후2.5%",
+        "sameConditionsModelEffect": "ESR2026 모형개편으로 적정경상수지-1.10%p, 한국은행 추정",
+        "status": "한국은행 모형 분석, IMF 평가 수정 결정 아님"
+      },
+      "whatChanged": "오늘 정오 발표된 한국은행 이슈노트가 IMF 경상수지 평가 변화에서 모형 개편과 한국의 인구·저축 특성을 구분해 분석했습니다.",
+      "whyItMatters": "같은 흑자라도 평가 기준 변화에 따라 불균형 판단이 달라질 수 있어, 국제경제 평가의 수치와 방법을 함께 읽어야 합니다.",
+      "uncertainty": "한국은행의 분석이며 IMF가 이 견해를 수용하거나 평가를 수정한 것은 아닙니다. 연간 실적과 내년 평가는 아직 확정되지 않았습니다.",
+      "sources": [
+        {
+          "name": "조선비즈",
+          "title": "한은 “IMF 경상수지 평가법 변경, 우리나라에 불리하게 작용”",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/KQE3J7UENBEB5CY27RG6VRQR44/",
+          "publishedAt": "2026-10-06T12:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://biz.chosun.com/resizer/v2/TMQDQAYB35IOJFRYNYRD5JMGII.jpg?auth=243e65fac4c9af8a57837896f21f50973826962dbdf96dece3990f6ea16bcad0&width=1200&height=630&smart=true",
+          "verificationNote": "독자에게 표시된 입력 시각 12:00을 사용합니다. 내부 메타데이터는 11:30:48 생성·12:00 수정으로 다릅니다. 모형 개편 연도·수치는 한국은행 원문을 우선했습니다."
+        },
+        {
+          "name": "한국은행",
+          "title": "[제2026-26호] IMF EBA 모형 개편이 우리나라 경상수지 평가에 미치는 영향",
+          "url": "https://www.bok.or.kr/portal/bbs/P0002353/view.do?depth=200433&menuNo=200433&nttId=11065326&programType=newsData&relate=Y",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+          "verificationNote": "10월 6일 공개한 이슈노트의 한국어 HTML 요약을 직접 읽었습니다. 게시 시각은 없으므로 null입니다. 1.10%p는 ESR 2026 개편, 0.74%p는 ESR 2027 예정 개편의 별도 효과입니다."
+        },
+        {
+          "name": "SBS Biz",
+          "title": "한은 “IMF, EBA 모형 개편해 韓 경상수지 과소평가”",
+          "url": "https://biz.sbs.co.kr/amp/article/20000338369",
+          "publishedAt": "2026-10-06T09:56:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "입력09:56·수정12:00 기사입니다. 한국은행의 분석이라는 성격과 조정 전·후 경상수지 갭을 구별했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "조선비즈",
+          "title": "한은 “IMF 경상수지 평가법 변경, 우리나라에 불리하게 작용”",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/KQE3J7UENBEB5CY27RG6VRQR44/",
+          "publishedAt": "2026-10-06T12:00:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://biz.chosun.com/resizer/v2/TMQDQAYB35IOJFRYNYRD5JMGII.jpg?auth=243e65fac4c9af8a57837896f21f50973826962dbdf96dece3990f6ea16bcad0&width=1200&height=630&smart=true",
+          "verificationNote": "독자에게 표시된 입력 시각 12:00을 사용합니다. 내부 메타데이터는 11:30:48 생성·12:00 수정으로 다릅니다. 모형 개편 연도·수치는 한국은행 원문을 우선했습니다."
+        },
+        {
+          "name": "한국은행",
+          "title": "[제2026-26호] IMF EBA 모형 개편이 우리나라 경상수지 평가에 미치는 영향",
+          "url": "https://www.bok.or.kr/portal/bbs/P0002353/view.do?depth=200433&menuNo=200433&nttId=11065326&programType=newsData&relate=Y",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+          "verificationNote": "10월 6일 공개한 이슈노트의 한국어 HTML 요약을 직접 읽었습니다. 게시 시각은 없으므로 null입니다. 1.10%p는 ESR 2026 개편, 0.74%p는 ESR 2027 예정 개편의 별도 효과입니다."
+        },
+        {
+          "name": "SBS Biz",
+          "title": "한은 “IMF, EBA 모형 개편해 韓 경상수지 과소평가”",
+          "url": "https://biz.sbs.co.kr/amp/article/20000338369",
+          "publishedAt": "2026-10-06T09:56:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "입력09:56·수정12:00 기사입니다. 한국은행의 분석이라는 성격과 조정 전·후 경상수지 갭을 구별했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 90,
+        "interest": 97,
+        "domesticImpact": 98,
+        "reliability": 100,
+        "recency": 100
+      },
+      "scoreReason": "공식 한국은행 원문으로 주요 숫자와 적용 연도를 확인한 오늘 오후 경제 분석입니다. 기사 간 연도 해석 차이는 공식 문서 기준으로 정리합니다.",
+      "timeline": {
+        "issueId": "korea-imf-eba-assessment",
+        "issueTitle": "한국 경상수지와 IMF EBA 평가모형",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "분석",
+        "change": "오늘 정오 발표된 한국은행 이슈노트가 IMF 경상수지 평가 변화에서 모형 개편과 한국의 인구·저축 특성을 구분해 분석했습니다."
+      },
+      "score": 96.85,
+      "factsHash": "1143366e05c19a0f6c3256cfdc161e8232f267db9f8f5bc998d82d0089f51999"
+    },
+    {
+      "id": "nobel-physics-halzen-2026",
+      "topicKey": "nobel-physics-2026",
+      "category": "국제·과학",
+      "title": "노벨 물리학상, 프란시스 할젠 단독 수상…남극 얼음으로 우주를 읽다",
+      "status": "확정",
+      "publishedAt": "2026-10-06T19:56:02+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 6일 스톡홀름 공식 선정 발표입니다. 기사 게시 시각을 실제 발표 시작 시각으로 대신 쓰지 않습니다.",
+      "summary": [
+        "올해 노벨 물리학상 수상자로 프란시스 할젠 미국 위스콘신대 매디슨 교수가 선정됐습니다. 남극의 아이스큐브 관측소와 우주에서 온 고에너지 중성미자 발견에 기여한 공로로 단독 수상합니다.",
+        "중성미자는 물질과 좀처럼 부딪치지 않아 관측하기 어려운 입자입니다. 아이스큐브는 남극 얼음 1세제곱킬로미터에 설치한 광센서로 드물게 발생하는 충돌의 빛을 포착합니다.",
+        "왕립과학원에 따르면 할젠은 1988년 남극 얼음을 이용한 관측 구상을 제시했고, 아이스큐브는 2011년 완성됐습니다. 오늘 새 관측장비가 만들어졌다는 소식이 아니라, 장기간 이어진 관측 방식과 발견의 가치를 인정한 결과입니다.",
+        "이 입자는 멀리서 오는 동안 방향 정보를 보존할 수 있어 강한 에너지를 내는 천체를 추적하는 단서가 됩니다. 빛을 보는 망원경만으로 알기 어려운 우주 현상을 다른 방식으로 살펴볼 수 있다는 의미입니다.",
+        "아침에는 발표 예정이었던 수상자가 저녁에는 확정됐습니다. 다만 이번 수상 자체가 모든 우주 고에너지 현상의 원인을 규명했다는 뜻은 아니며, 화학상은 한국시간 내일 18시 45분 이후 별도로 발표될 예정입니다."
+      ],
+      "emphasis": [
+        "프란시스 할젠",
+        "단독 수상",
+        "남극 얼음 1세제곱킬로미터",
+        "아침에는 발표 예정이었던 수상자가 저녁에는 확정"
+      ],
+      "keyFacts": {
+        "award": "2026 Nobel Prize in Physics",
+        "laureate": "Francis Halzen, University of Wisconsin–Madison",
+        "recipientCount": "1명",
+        "contribution": "IceCube 관측소와 천체 기원 고에너지 중성미자 발견 기여",
+        "iceVolume": "1세제곱킬로미터",
+        "observatoryCompleted": "2011년"
+      },
+      "whatChanged": "오늘 스웨덴 왕립과학원이 물리학상 수상자와 선정 이유를 발표했습니다. 아침의 발표 일정에서 실제 선정 결과로 바뀌었습니다.",
+      "whyItMatters": "남극 얼음을 이용해 드문 입자를 검출하는 방식이 우주의 고에너지 현상을 이해하는 별도의 관측 수단이 됐음을 인정한 결과입니다.",
+      "uncertainty": "수상은 확정됐지만 개별 우주 현상의 기원을 모두 설명했다는 뜻은 아닙니다. 정확한 발표 개시 시각은 사건 시각으로 추정하지 않습니다.",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)",
+          "url": "https://www.dongascience.com/ko/news/80214",
+          "publishedAt": "2026-10-06T19:56:02+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://image.dongascience.com/Photo/2026/10/17912813585295.png"
+        },
+        {
+          "name": "스웨덴 왕립과학원",
+          "title": "The Nobel Prize in Physics 2026: Elusive particles from the universe captured at the South Pole",
+          "url": "https://www.kva.se/en/news/the-nobel-prize-in-physics-2026/",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://www.kva.se/app/uploads/2026/10/fig_fy_26_featured_2bg8kmser8.jpg",
+          "verificationNote": "10월6일 공식 발표 원문을 직접 열어 수상자·선정 이유·관측 원리를 확인했습니다. 수정19:04:12 KST는 확인됐지만 최초 게시 시각은 미표시입니다."
+        },
+        {
+          "name": "YTN",
+          "title": "노벨물리학상 '뉴트리노 관측' 프란시스 할전 단독수상",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610061924228499",
+          "publishedAt": "2026-10-06T19:24:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "동아사이언스",
+          "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)",
+          "url": "https://www.dongascience.com/ko/news/80214",
+          "publishedAt": "2026-10-06T19:56:02+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://image.dongascience.com/Photo/2026/10/17912813585295.png"
+        },
+        {
+          "name": "스웨덴 왕립과학원",
+          "title": "The Nobel Prize in Physics 2026: Elusive particles from the universe captured at the South Pole",
+          "url": "https://www.kva.se/en/news/the-nobel-prize-in-physics-2026/",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "en",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://www.kva.se/app/uploads/2026/10/fig_fy_26_featured_2bg8kmser8.jpg",
+          "verificationNote": "10월6일 공식 발표 원문을 직접 열어 수상자·선정 이유·관측 원리를 확인했습니다. 수정19:04:12 KST는 확인됐지만 최초 게시 시각은 미표시입니다."
+        },
+        {
+          "name": "YTN",
+          "title": "노벨물리학상 '뉴트리노 관측' 프란시스 할전 단독수상",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610061924228499",
+          "publishedAt": "2026-10-06T19:24:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 88,
+        "interest": 85,
+        "domesticImpact": 70,
+        "reliability": 100,
+        "recency": 100
+      },
+      "scoreReason": "19시대 한국어 보도와 왕립과학원 공식 원문을 대조한 새 국제 과학 결과입니다.",
+      "timeline": {
+        "issueId": "nobel-physics-2026",
+        "issueTitle": "2026년 노벨 물리학상과 아이스큐브 중성미자 관측",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Europe/Stockholm",
+        "stage": "결과",
+        "change": "오늘 스웨덴 왕립과학원이 물리학상 수상자와 선정 이유를 발표했습니다. 아침의 발표 일정에서 실제 선정 결과로 바뀌었습니다."
+      },
+      "score": 91.75,
+      "factsHash": "2933f7708934e5548c09653762c3f733c61513be1a07386a2815a6adcd4cba75"
+    },
+    {
+      "id": "samsung-electromechanics-mlcc-contract-2026-10-06",
+      "topicKey": "samsung-electromechanics-mlcc-contract-2026-10-06",
+      "category": "반도체·AI부품",
+      "title": "삼성전기, AI 서버용 MLCC 2,856억원 계약…공급은 내년 1년간",
+      "status": "확정",
+      "publishedAt": "2026-10-06T11:46:56+09:00",
+      "eventAt": null,
+      "eventTimeNote": "계약 체결일은 DART상 10월 6일입니다. 실제 서명 시각은 미공개이며 공급은 2027년 예정입니다.",
+      "summary": [
+        "삼성전기가 글로벌 대형기업과 AI 서버용 MLCC 공급계약을 맺었습니다. DART 공시의 원화 환산 금액은 2,856억 1,104만원이며 공급 기간은 2027년 1월 1일부터 12월 31일까지입니다.",
+        "MLCC는 전기를 잠시 저장했다가 반도체 등에 안정적으로 공급하는 부품입니다. AI 서버의 안정적 가동에는 연산용 칩 외에도 이런 전자부품이 필요하므로, 이번 계약은 AI 설비 수요가 부품 공급망으로 이어지는 사례입니다.",
+        "삼성전기는 이번 건을 포함해 올해 공시한 장기 공급계약이 6건, 약 3조 9,000억원이라고 설명했습니다. 여기에는 MLCC뿐 아니라 실리콘 캐패시터와 인덕터도 포함되므로 전부 이번 제품의 매출로 읽으면 안 됩니다.",
+        "이번 계약금액은 2025년 연결 매출의 2.5%에 해당합니다. 고객 이름과 주요 조건은 영업비밀을 이유로 공개되지 않았고, 공급 기간과 계약액은 사업 진행 중 바뀔 수 있다고 공시했습니다.",
+        "계약 체결은 확인된 결과지만 내년 공급에 관한 약속이므로 올해 이미 실현한 매출·이익과는 다릅니다. 실제 납품과 수익성은 이후 실적에서 확인할 부분입니다."
+      ],
+      "emphasis": [
+        "2,856억 1,104만원",
+        "2027년 1월 1일부터 12월 31일",
+        "6건, 약 3조 9,000억원",
+        "고객 이름과 주요 조건은",
+        "올해 이미 실현한 매출·이익과는 다릅니다"
+      ],
+      "keyFacts": {
+        "contractAmountKrw": "285611040000원",
+        "contractAmountUsd": "210240000달러",
+        "contractDate": "2026-10-06",
+        "supplyPeriod": "2027-01-01~2027-12-31",
+        "salesRatio": "2025년 연결 매출의2.5%",
+        "counterparty": "글로벌 대형기업, 실명 비공개",
+        "lta2026": "공시6건, 여러 부품 합계약3조9000억원"
+      },
+      "whatChanged": "오늘 새 MLCC 공급계약이 공시됐고 내년 1년간 공급할 금액·기간이 확인됐습니다.",
+      "whyItMatters": "AI 서버 수요가 반도체를 보조하는 핵심 부품의 장기 주문으로 이어지는 사례이며 납품과 실제 실적 사이의 차이를 볼 필요가 있습니다.",
+      "uncertainty": "고객 이름·주요 조건은 비공개이며 계약액과 기간은 변경될 수 있습니다. 계약 총액은 이미 실현한 매출이나 이익이 아닙니다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "삼성전기, 글로벌 기업과 2천900억 AI 서버용 MLCC 공급계약 | 연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261006088900003",
+          "publishedAt": "2026-10-06T11:46:56+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img6.yna.co.kr/photo/cms/2026/07/03/05/PCM20260703000105063_P4.jpg"
+        },
+        {
+          "name": "삼성전기·금융감독원 DART",
+          "title": "삼성전기 단일판매·공급계약 체결 공시",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800130",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "10월 6일 공시의 연결된 report/viewer.do 원문을 직접 읽어 285,611,040,000원, 2027년 공급 기간, 비공개 계약상대를 확인했습니다. 정확한 접수 시각은 비워 둡니다."
+        },
+        {
+          "name": "아시아투데이",
+          "title": "삼성전기, 2900억원 규모 AI 서버용 MLCC 공급 계약 체결",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001415",
+          "publishedAt": "2026-10-06T11:37:01+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/2026100601000282100014671.jpg"
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합뉴스",
+          "title": "삼성전기, 글로벌 기업과 2천900억 AI 서버용 MLCC 공급계약 | 연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261006088900003",
+          "publishedAt": "2026-10-06T11:46:56+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img6.yna.co.kr/photo/cms/2026/07/03/05/PCM20260703000105063_P4.jpg"
+        },
+        {
+          "name": "삼성전기·금융감독원 DART",
+          "title": "삼성전기 단일판매·공급계약 체결 공시",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800130",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "10월 6일 공시의 연결된 report/viewer.do 원문을 직접 읽어 285,611,040,000원, 2027년 공급 기간, 비공개 계약상대를 확인했습니다. 정확한 접수 시각은 비워 둡니다."
+        },
+        {
+          "name": "아시아투데이",
+          "title": "삼성전기, 2900억원 규모 AI 서버용 MLCC 공급 계약 체결",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001415",
+          "publishedAt": "2026-10-06T11:37:01+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/2026100601000282100014671.jpg"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 85,
+        "interest": 100,
+        "domesticImpact": 88,
+        "reliability": 100,
+        "recency": 85
+      },
+      "scoreReason": "09시 이후의 새 공시입니다. AI·반도체 사용자 관심을 반영하며 공시 원문으로 금액과 기간을 검증했습니다.",
+      "timeline": {
+        "issueId": "samsung-electromechanics-ai-components-contracts",
+        "issueTitle": "삼성전기 AI 서버 부품 장기 공급계약",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "확정",
+        "change": "오늘 새 MLCC 공급계약이 공시됐고 내년 1년간 공급할 금액·기간이 확인됐습니다."
+      },
+      "score": 89.05,
+      "factsHash": "6aeb0bc71a72a145990e1ab22082e0c4eef933281af799e7a7974e4220d42d2b"
+    },
+    {
+      "id": "nuri-erection-result-2026-10-06",
+      "topicKey": "nuri-fifth-launch-2026",
+      "category": "국내·우주산업",
+      "title": "누리호 10시 35분 기립·고정 완료…최종 발사 시각은 내일 결정",
+      "status": "확정",
+      "publishedAt": "2026-10-06T11:37:26+09:00",
+      "eventAt": "2026-10-06T10:35:00+09:00",
+      "eventTimeNote": "기사 두 곳이 우주청·항우연 발표를 인용해 확인한 기립·고정 완료 시각입니다. 전체 설치나 발사 완료 시각이 아닙니다.",
+      "summary": [
+        "누리호가 오늘 10시 35분 발사대에서 기립·고정 작업을 마쳤습니다. 아침에는 발사대 도착까지만 확인됐는데, 이후 로켓을 수직으로 세우고 고정하는 단계까지 진행됐습니다.",
+        "이후 절차는 전원·추진제 공급선을 잇고 누설 여부와 장비 작동 상태를 점검하는 작업입니다. 오전 기사에 적힌 저녁 설치 완료 예정 시각을 실제 완료 발표로 바꾸지는 않았으며, 이번에 확실히 대조한 결과는 기립·고정 완료까지입니다.",
+        "발사 가능 시간창은 내일 10월 7일 12시 23분부터 13시 23분까지입니다. 이는 한 시간의 가능한 구간이고 특정 분에 발사가 확정됐다는 뜻은 아닙니다. 우주항공청은 내일 오전 위원회에서 기술 준비와 기상·우주환경 등을 검토해 최종 시각을 정할 계획입니다.",
+        "이송·기립의 진척은 발사를 위한 다음 점검으로 넘어갈 수 있다는 의미입니다. 그러나 발사 성공과 위성의 정상 궤도 투입은 별도로 확인해야 하며, 바람·낙뢰·우주물체 충돌 가능성 등에 따라 일정은 달라질 수 있습니다."
+      ],
+      "emphasis": [
+        "10시 35분",
+        "기립·고정 완료까지",
+        "12시 23분부터 13시 23분",
+        "특정 분에 발사가 확정됐다는 뜻은 아닙니다"
+      ],
+      "keyFacts": {
+        "transferStart": "2026-10-06 06:00 KST, 실제",
+        "transferArrival": "2026-10-06 07:30 KST, 완료",
+        "erectionCompleted": "2026-10-06 10:35 KST, 기립·고정 완료",
+        "state": "기립·고정 완료 확인, 오후 연결·전체 설치 완료 별도 확인 안 됨",
+        "launchWindow": "2026-10-07 12:23~13:23 KST",
+        "launchTimeDecision": "2026-10-07 발사관리위원회에서 결정 예정"
+      },
+      "whatChanged": "아침의 07:30 발사대 도착 이후 10:35 기립·고정 완료가 새로 확인됐습니다. 오후 전체 설치 완료나 발사 성공으로 확대하지 않습니다.",
+      "whyItMatters": "발사 준비가 한 단계 진척됐지만 실제 발사와 임무 성공은 이후 점검 결과에 달려 있습니다.",
+      "uncertainty": "전체 설치·기밀점검의 최종 완료는 별도 대조하지 못했습니다. 내일 발사 시각과 발사 여부는 최종 점검 및 기상 등에 따라 바뀔 수 있습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "무사히 발사대 선 누리호…D-1 마지막 관문은 '점검 또 점검'(종합)",
+          "url": "https://nwww.newsis.com/view/NISX20261006_0003815268",
+          "publishedAt": "2026-10-06T11:37:26+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002256289_web.jpg",
+          "verificationNote": "기립·고정 완료와 오후 설치 예정, 7일 발사 가능 시간창을 구별했습니다. 18:45 설치 완료 예정이라는 문장을 실제 완료로 바꾸지 않습니다."
+        },
+        {
+          "name": "아시아투데이",
+          "title": "누리호, 발사대 기립·고정 완료…오후에 발사 준비 작업 돌입",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001371",
+          "publishedAt": "2026-10-06T10:51:30+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/20261006010001371_1791251686_1.jpg",
+          "verificationNote": "본문10:35 기립·고정 완료, 오후 작업 예정이라는 상태를 확인했습니다. 10:54 수정본까지 기준 시각 이전입니다."
+        },
+        {
+          "name": "한국항공우주연구원",
+          "title": "누리호 5호기, 발사대로 이송 시작",
+          "url": "https://ksatdb.kari.re.kr/media/news/view.do?articleNo=320&page=4",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "항우연 공식 서비스의 10월6일 자료입니다. 이 자료 자체는 오전 이송 시작 발표이고 7일 오전 위원회·최종 시각 결정 계획의 근거로 사용합니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "무사히 발사대 선 누리호…D-1 마지막 관문은 '점검 또 점검'(종합)",
+          "url": "https://nwww.newsis.com/view/NISX20261006_0003815268",
+          "publishedAt": "2026-10-06T11:37:26+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002256289_web.jpg",
+          "verificationNote": "기립·고정 완료와 오후 설치 예정, 7일 발사 가능 시간창을 구별했습니다. 18:45 설치 완료 예정이라는 문장을 실제 완료로 바꾸지 않습니다."
+        },
+        {
+          "name": "아시아투데이",
+          "title": "누리호, 발사대 기립·고정 완료…오후에 발사 준비 작업 돌입",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001371",
+          "publishedAt": "2026-10-06T10:51:30+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/20261006010001371_1791251686_1.jpg",
+          "verificationNote": "본문10:35 기립·고정 완료, 오후 작업 예정이라는 상태를 확인했습니다. 10:54 수정본까지 기준 시각 이전입니다."
+        },
+        {
+          "name": "한국항공우주연구원",
+          "title": "누리호 5호기, 발사대로 이송 시작",
+          "url": "https://ksatdb.kari.re.kr/media/news/view.do?articleNo=320&page=4",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:09+09:00",
+          "verificationNote": "항우연 공식 서비스의 10월6일 자료입니다. 이 자료 자체는 오전 이송 시작 발표이고 7일 오전 위원회·최종 시각 결정 계획의 근거로 사용합니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 88,
+        "interest": 87,
+        "domesticImpact": 91,
+        "reliability": 96,
+        "recency": 85
+      },
+      "scoreReason": "아침 이후 확인된 구체적 완료 결과만 후속으로 반영합니다. 설치 예정 시각을 완료로 오인하지 않도록 범위를 제한했습니다.",
+      "timeline": {
+        "issueId": "nuri-fifth-launch-2026",
+        "issueTitle": "누리호 2026년 5차 발사와 다중위성 투입",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "아침의 07:30 발사대 도착 이후 10:35 기립·고정 완료가 새로 확인됐습니다. 오후 전체 설치 완료나 발사 성공으로 확대하지 않습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-06-am",
+        "storyId": "nuri-transfer-result-2026-10-06",
+        "delta": "아침의 07:30 발사대 도착 이후 10:35 기립·고정 완료가 새로 확인됐습니다. 오후 전체 설치 완료나 발사 성공으로 확대하지 않습니다."
+      },
+      "score": 87.75,
+      "factsHash": "908c0d223dad5713a6b87d4efc982a12785e1700ee14229bf5adb0a4b16efdc4"
+    },
+    {
+      "id": "bunker-day-ouioui-ost-2026-10-06",
+      "topicKey": "bunker-day-ouioui-ost-2026",
+      "category": "웹툰 산업",
+      "title": "웹툰 ‘벙커의 낮’, 여섯 번째 OST 공개…위위의 새 음원으로 IP 확장",
+      "status": "확정",
+      "publishedAt": "2026-10-06T12:15:00+09:00",
+      "eventAt": "2026-10-06T12:00:00+09:00",
+      "eventTimeNote": "정오 공개는 웹툰가이드 본문 근거입니다. 멜론 앨범의 발매일은 10월 6일로 일치하지만 시각은 별도 표시하지 않습니다.",
+      "summary": [
+        "네이버웹툰 ‘벙커의 낮’의 여섯 번째 OST가 오늘 정오 공개됐습니다. 위위(OuiOui)가 부른 Heat Tracing Your Name으로, 실제 음원 플랫폼에서도 10월 6일 발매를 확인했습니다.",
+        "멜론 앨범에는 보컬곡과 반주곡 2개 트랙이 실려 있고, 기획사는 스튜디오 오늘로 표기돼 있습니다. 웹툰을 영상화한 새 작품이 아니라 기존 웹툰에 연계한 음악 상품의 추가 출시입니다.",
+        "산업적으로는 독자가 읽던 이야기를 음악으로도 접하게 하는 IP 활용 방식으로 볼 수 있습니다. 드라마·게임화처럼 큰 제작 투자를 전제한 소식과는 규모가 다르지만, 한 작품의 접점을 다른 콘텐츠 형식으로 넓힌 구체적인 출시 사례입니다.",
+        "확인한 자료에는 계약액, 음원 매출이나 웹툰 유료 결제 증가율은 없습니다. 따라서 새 상품이 나왔다는 사실과 상업적으로 성공했다는 판단은 구분해야 합니다. 오늘의 출시 사실을 담았으며 이전 인터뷰나 불법유통 차단 성과를 다시 반복하지 않았습니다."
+      ],
+      "emphasis": [
+        "여섯 번째 OST",
+        "오늘 정오 공개",
+        "보컬곡과 반주곡 2개 트랙",
+        "계약액, 음원 매출이나 웹툰 유료 결제 증가율은 없습니다"
+      ],
+      "keyFacts": {
+        "webtoon": "벙커의 낮, 네이버웹툰",
+        "releaseDate": "2026-10-06",
+        "releaseTime": "12:00 KST, 웹툰가이드 보도",
+        "artist": "OuiOui(위위)",
+        "song": "Heat Tracing Your Name",
+        "sequence": "여섯 번째 OST",
+        "tracks": "보컬곡+반주곡 총2트랙",
+        "producer": "스튜디오 오늘",
+        "commercialResults": "계약액·매출·전환율 미공개"
+      },
+      "whatChanged": "오늘 정오 여섯 번째 OST가 실제 공개됐고 음원 플랫폼의 발매일·트랙 정보로 대조했습니다.",
+      "whyItMatters": "국내 웹툰 IP를 음악 상품으로 확장하는 작은 규모의 실제 출시 사례를 보여 줍니다.",
+      "uncertainty": "출시 사실은 확인했지만 매출·수익배분·웹툰 결제 증가 효과는 공개 자료에 없습니다.",
+      "sources": [
+        {
+          "name": "웹툰가이드",
+          "title": "R&B 듀오 위위, 웹툰 ‘벙커의 낮’ OST 발매",
+          "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26267",
+          "publishedAt": "2026-10-06T12:15:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://conist-cdn.com/38/c8/717764db0e47a51d6aa8b81917fa.jpg",
+          "verificationNote": "기자명 옆 게시 시각과 본문을 직접 확인했습니다. 출시 사실·여섯 번째 OST라는 설명은 멜론의 음원 상품 원문과 대조했습니다."
+        },
+        {
+          "name": "멜론·스튜디오 오늘",
+          "title": "Heat Tracing Your Name (웹툰 벙커의 낮 OST X OuiOui (위위))",
+          "url": "https://www.melon.com/album/detail.htm?albumId=14609461",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:11:15+09:00",
+          "imageUrl": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/461/14609461_20261001100952_500.jpg?617f007fd10a7c94b73ebf02d7054751",
+          "verificationNote": "멜론의 실제 앨범 상세에서 발매일10월6일, 기획사, 두 수록곡 및 여섯 번째 OST 설명을 확인했습니다. 정오 시각은 한국어 기사 근거이며 앨범 페이지에는 날짜만 있습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "웹툰가이드",
+          "title": "R&B 듀오 위위, 웹툰 ‘벙커의 낮’ OST 발매",
+          "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26267",
+          "publishedAt": "2026-10-06T12:15:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:09:10+09:00",
+          "imageUrl": "https://conist-cdn.com/38/c8/717764db0e47a51d6aa8b81917fa.jpg",
+          "verificationNote": "기자명 옆 게시 시각과 본문을 직접 확인했습니다. 출시 사실·여섯 번째 OST라는 설명은 멜론의 음원 상품 원문과 대조했습니다."
+        },
+        {
+          "name": "멜론·스튜디오 오늘",
+          "title": "Heat Tracing Your Name (웹툰 벙커의 낮 OST X OuiOui (위위))",
+          "url": "https://www.melon.com/album/detail.htm?albumId=14609461",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-06T21:11:15+09:00",
+          "imageUrl": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/461/14609461_20261001100952_500.jpg?617f007fd10a7c94b73ebf02d7054751",
+          "verificationNote": "멜론의 실제 앨범 상세에서 발매일10월6일, 기획사, 두 수록곡 및 여섯 번째 OST 설명을 확인했습니다. 정오 시각은 한국어 기사 근거이며 앨범 페이지에는 날짜만 있습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 65,
+        "interest": 98,
+        "domesticImpact": 65,
+        "reliability": 94,
+        "recency": 100
+      },
+      "scoreReason": "오늘 실제 출시된 국내 웹툰 IP 소식입니다. 당일 기사로 재등장한 9월 교육 개편이나 이미 다룬 와이랩·툰레이더를 제외하고 새 출시를 선정했습니다.",
+      "timeline": {
+        "issueId": "bunker-day-webtoon-ost",
+        "issueTitle": "웹툰 벙커의 낮 OST와 음악 IP 확장",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "결과",
+        "change": "오늘 정오 여섯 번째 OST가 실제 공개됐고 음원 플랫폼의 발매일·트랙 정보로 대조했습니다."
+      },
+      "score": 86.85,
+      "factsHash": "ecdcab20b53a4f14e87f48a9d83ade707eaff9835e7cb8b9c208dee86afee03e"
+    }
+  ],
+  "keywords": [
+    "코스피 6941",
+    "코스닥 2.98%",
+    "주간환율 1,343.6원",
+    "대미송금 24억달러",
+    "전력판매계약",
+    "IMF EBA 모형",
+    "AI 서버 MLCC",
+    "중성미자·노벨상",
+    "누리호 기립",
+    "웹툰 OST"
+  ],
+  "events": [
+    {
+      "date": "2026-10-07",
+      "at": null,
+      "timeNote": "오전 위원회에서 최종 시각 결정 예정, 발사 가능 시간창 12:23~13:23 KST",
+      "title": "누리호 최종 발사 시각 결정과 5차 발사 계획",
+      "detail": "기술 점검·기상·우주환경 검토 뒤 실제 진행 여부와 발사 시각을 확인합니다. 시간창은 확정된 단일 발사 시각이 아니며 발사와 위성 궤도 투입 결과도 별도로 확인해야 합니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "무사히 발사대 선 누리호…D-1 마지막 관문은 '점검 또 점검'(종합)",
+        "url": "https://nwww.newsis.com/view/NISX20261006_0003815268",
+        "publishedAt": "2026-10-06T11:37:26+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-06T21:09:09+09:00",
+        "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0002256289_web.jpg",
+        "verificationNote": "기립·고정 완료와 오후 설치 예정, 7일 발사 가능 시간창을 구별했습니다. 18:45 설치 완료 예정이라는 문장을 실제 완료로 바꾸지 않습니다."
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "at": "2026-10-07T12:00:00+09:00",
+      "timeNote": "한국시간 12:00 발표 예정",
+      "title": "한국은행 2분기 자금순환 잠정통계",
+      "detail": "가계·기업 등 경제 주체가 자금을 어디서 조달하고 어떻게 운용했는지 확인할 통계입니다. 과거 분기의 잠정치이며 발표 전 수치를 예상해 넣지 않습니다.",
+      "source": {
+        "name": "연합인포맥스",
+        "title": "[이번주 한국은행 및 금융위·금감원 일정]",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437787",
+        "publishedAt": "2026-10-06T07:00:12+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-06T21:09:10+09:00",
+        "imageUrl": "https://news.einfomax.co.kr/image/logo/snslogo_20231006045256.png",
+        "verificationNote": "10월7일12:00 자금순환 잠정통계,14:00 금융위,20:00 국민참여성장펀드 판매현황의 예정 시각을 본문에서 확인했습니다."
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "at": "2026-10-07T14:00:00+09:00",
+      "timeNote": "한국시간 14:00 금융위 정례회의 예정",
+      "title": "금융위원회 정례회의와 혁신금융서비스 심의",
+      "detail": "주간 일정에는 개인간 중고거래 신용카드 안전결제 등 25건 신규 지정 관련 발표가 예고돼 있습니다. 현재는 예정 안건으로, 실제 의결 내용과 조건은 결과 발표 후 확인합니다.",
+      "source": {
+        "name": "연합인포맥스",
+        "title": "[이번주 한국은행 및 금융위·금감원 일정]",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437787",
+        "publishedAt": "2026-10-06T07:00:12+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-06T21:09:10+09:00",
+        "imageUrl": "https://news.einfomax.co.kr/image/logo/snslogo_20231006045256.png",
+        "verificationNote": "10월7일12:00 자금순환 잠정통계,14:00 금융위,20:00 국민참여성장펀드 판매현황의 예정 시각을 본문에서 확인했습니다."
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "at": "2026-10-07T18:45:00+09:00",
+      "timeNote": "스톡홀름 11:45 CEST 이후, 한국시간 18:45 이후",
+      "title": "노벨 화학상 수상자 발표 예정",
+      "detail": "왕립과학원이 공지한 가장 이른 발표 시각입니다. 수상자와 공적은 실제 발표 후 확인하며 오늘 물리학상 결과와 구분합니다.",
+      "source": {
+        "name": "스웨덴 왕립과학원",
+        "title": "Autumn Nobel announcements confirmed",
+        "url": "https://www.kva.se/en/news/autumn-nobel-announcements-confirmed-3/",
+        "publishedAt": null,
+        "kind": "official",
+        "language": "en",
+        "verifiedAt": "2026-10-06T21:09:10+09:00",
+        "imageUrl": "https://www.kva.se/app/uploads/2025/02/KVA_Kemi25_PL_059.jpg",
+        "verificationNote": "공식 일정에서 10월7일 화학상 발표가11:45 CEST 이후임을 확인했습니다. 한국시간은18:45 이후입니다."
+      }
+    }
+  ]
+}
