@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-current-account",
+  "title": "한국 경상수지와 국제수지 통계",
+  "entries": [
+    {
+      "id": "2026-10-08-am/korea-current-account-2026-08",
+      "editionId": "2026-10-08-am",
+      "storyId": "korea-current-account-2026-08",
+      "editionDate": "2026-10-08",
+      "edition": "am",
+      "coveredAt": "2026-10-08T08:41:30+09:00",
+      "coveredOn": "2026-10-08",
+      "publishedAt": "2026-10-08T08:00:00+09:00",
+      "eventAt": "2026-10-08T08:00:00+09:00",
+      "eventDate": "2026-10-08",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "한국은행 공식 통계공표일정의 10월 8일 08:00과 같은 시각에 공개된 통계 보도를 대조했습니다. 통계 대상 기간은 8월이고 연표 날짜는 발표일입니다.",
+      "stage": "발표",
+      "change": "8월 국제수지 잠정통계가 8일 08시 새로 공표됐으며 경상흑자 461.1억달러·상품수지 468.1억달러가 확인됐습니다.",
+      "title": "8월 경상흑자 461.1억달러…반도체 호조 속 역대 두 번째",
+      "category": "경제·수출",
+      "status": "확정",
+      "summary": [
+        "한국은행이 발표한 8월 경상수지는 461억 1천만달러 흑자로, 월간 기준 역대 두 번째 규모였습니다. 7월보다 40억 3천만달러 늘었고, 올해 1~8월 누적 흑자는 2,792억달러입니다.",
+        "상품수지는 468억 1천만달러 흑자였으며 상품수출은 1,048억달러로 1년 전보다 82.1% 늘었습니다. 통관 기준 반도체 수출은 206.1%, 컴퓨터 주변기기인 SSD 등은 366.8% 증가해 IT 품목의 기여가 컸습니다.",
+        "반면 같은 통관 기준 승용차 수출은 30.1%, 선박은 45.2% 감소했습니다. 전체 흑자가 크더라도 모든 업종의 수출이 같은 방향으로 움직이는 것은 아니라는 점을 보여줍니다.",
+        "이번 수치는 한국과 해외 사이에서 발생한 상품·서비스·소득 등의 거래를 집계한 8월 잠정 통계입니다. 수출 호조를 확인할 근거이지만 오늘의 환율이나 가계 체감경기 개선을 곧바로 뜻하지 않으며, 이후 수정치와 업종별 확산을 함께 살펴야 합니다."
+      ],
+      "keyFacts": {
+        "period": "2026-08",
+        "currentAccountSurplus": "461.1억달러",
+        "priorMonthSurplus": "420.8억달러",
+        "ytdSurplus": "2792억달러",
+        "goodsSurplus": "468.1억달러",
+        "goodsExports": "1048억달러",
+        "goodsExportsYoY": "82.1%",
+        "customsSemiconductorExportsYoY": "206.1%",
+        "customsPassengerCarExportsYoY": "-30.1%",
+        "customsShipExportsYoY": "-45.2%",
+        "status": "잠정 통계"
+      },
+      "uncertainty": "잠정통계여서 이후 수정될 수 있습니다. 통관수출 품목 증가율과 국제수지 상품수출은 집계기준이 다릅니다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "8월 경상수지 461.1억달러 흑자, 역대 2위…반도체 수출 호조",
+          "url": "https://www.yna.co.kr/view/AKR20261008019500002?section=economy/all",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T08:00:00+09:00",
+          "verifiedAt": "2026-10-08T08:32:58+09:00",
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/08/06/PYH2026080604680005100_P4.jpg",
+          "verificationNote": "기사 본문·송고시각 확인. 부제의 상품수지 1천억달러라는 문구는 본문과 다릅니다. 본문 상품수지 468.1억달러, 상품수출 1048억달러로 구분했습니다. 수입증가율은 타 매체와 통계기준 차이가 있어 제외합니다."
+        },
+        {
+          "name": "이데일리",
+          "title": "[속보] '반도체 강세' 8월 경상흑자 461억달러…누적 2800억달러 육박",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02443606645610952",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T08:00:03+09:00",
+          "verifiedAt": "2026-10-08T08:32:40+09:00",
+          "imageUrl": null,
+          "verificationNote": "웹 열기에서 본문과 등록·수정시각 확인. 월간·누적 흑자, 전월 비교를 교차 확인했습니다.",
+          "updatedAt": "2026-10-08T08:00:03+09:00"
+        },
+        {
+          "name": "뉴스핌",
+          "title": "8월 경상흑자 461억달러 '역대 2위'…반도체 수출 206% 급증",
+          "url": "https://search.newspim.com/news/view/20261008000052",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T08:00:00+09:00",
+          "verifiedAt": "2026-10-08T08:32:58+09:00",
+          "imageUrl": null,
+          "verificationNote": "본문을 열어 461.1억·468.1억·1048억달러와 반도체 통관수출 206.1%를 대조했습니다. AI 자동요약이 아닌 기자 본문 사용.",
+          "updatedAt": "2026-10-08T08:00:00+09:00"
+        },
+        {
+          "name": "한국은행",
+          "title": "경제통계 — 통계공표일정",
+          "url": "https://www.bok.or.kr/portal/submain/submain/sts.do?menuNo=201659",
+          "language": "ko",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T08:41:12+09:00",
+          "imageUrl": null,
+          "verificationNote": "공식 홈페이지 본문 통계공표일정에서 2026.10.08 8:00 2026년 8월 국제수지(잠정)를 직접 확인했습니다. 페이지 자체 게시 시각은 미표시입니다. 08:00에 보도된 실제 통계 기사들과 대조했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-08/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-08T08:41:30+09:00"
+}

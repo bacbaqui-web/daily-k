@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "ankey-toptoon-ai-chat",
+  "title": "엔키AX 탑툰챗과 웹툰 IP의 AI 서비스 확장",
+  "entries": [
+    {
+      "id": "2026-10-08-am/ankey-toptoon-ai-chat-metrics-2026-10-07",
+      "editionId": "2026-10-08-am",
+      "storyId": "ankey-toptoon-ai-chat-metrics-2026-10-07",
+      "editionDate": "2026-10-08",
+      "edition": "am",
+      "coveredAt": "2026-10-08T08:41:30+09:00",
+      "coveredOn": "2026-10-08",
+      "publishedAt": "2026-10-07T11:19:33+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-07",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "10월 7일 회사가 지표를 공개했다고 기사에 명시돼 있으나 발표 시·분은 확인되지 않았습니다. 결제액 비교는 3월·8월, 대화량 비교는 6월·9월과 8월·9월의 과거 집계입니다.",
+      "stage": "분석",
+      "change": "9월 AI 대화량과 8월 플랫폼 결제자당 평균 결제액, 외부 플랫폼 유통 현황을 회사가 공개했습니다. 서비스별 수익 기여는 미확인입니다.",
+      "title": "웹툰 캐릭터 AI 대화, 9월 1259만 회…엔키AX가 공개한 이용 지표",
+      "category": "웹툰 산업",
+      "status": "분석",
+      "summary": [
+        "엔키AX는 웹툰 캐릭터와 대화하는 AI 서비스 ‘탑툰챗’의 9월 대화량이 약 1259만 회로, 전월보다 약 16% 늘었다고 7일 밝혔습니다. 웹툰 IP를 대화형 서비스로 확장한 뒤 공개한 회사 자체 이용 지표입니다.",
+        "회사가 집계한 월간 대화량은 6월 약 1052만 회에서 9월 약 1259만 회로 증가했습니다. 이용자는 캐릭터와 대화를 주고받는 단위인 ‘턴’마다 서비스 재화를 사용하는 구조입니다.",
+        "플랫폼 전체의 결제자당 평균 결제액(ARPPU)은 8월 기준으로 3월보다 약 18% 높아졌다고 회사는 설명했습니다. 8월 탑툰챗 유료 이용자 중 상당수가 같은 달 웹툰 결제층과 겹치지 않았다는 분석도 제시했지만, 구체적인 비중은 밝히지 않았습니다.",
+        "회사는 7월 말 외부 플랫폼 연동을 시작하고 8월부터 유통을 늘렸으며, 앞으로 다른 회사의 IP도 적용할 계획이라고 밝혔습니다. 다만 이번 수치는 회사 발표에 근거하고 서비스별 매출·비용이 공개되지 않아, AI 대화가 전체 결제액 증가나 이익에 얼마나 기여했는지는 판단하기 어렵습니다."
+      ],
+      "keyFacts": {
+        "announcementDate": "2026-10-07",
+        "septemberChatTurns": "약 1259만 회, 회사 집계",
+        "juneChatTurns": "약 1052만 회, 회사 집계",
+        "septemberChatTurnsMoM": "약 16% 증가, 회사 집계",
+        "augustPlatformARPPUVsMarch": "약 18% 증가, 플랫폼 전체·회사 집계",
+        "externalPlatformIntegration": "2026년 7월 말 시작, 8월부터 유통 확대, 회사 설명",
+        "financialContribution": "서비스별 매출·비용 및 ARPPU 증가 인과관계 미확인"
+      },
+      "uncertainty": "모든 이용·결제 수치는 회사 자체 집계입니다. 총매출·서비스별 이익·유료 이용자 수·중복되지 않는 이용자 비율이 공개되지 않았으며, ARPPU 증가와 AI 이용 확대의 인과관계는 확인되지 않았습니다.",
+      "sources": [
+        {
+          "name": "한국경제",
+          "title": "엔키AX, '탑툰챗' 이용 확대…플랫폼 전체 ARPPU 약 18% 상승",
+          "url": "https://www.hankyung.com/article/202610077577O",
+          "language": "ko",
+          "kind": "newspaper",
+          "publishedAt": "2026-10-07T11:19:33+09:00",
+          "verifiedAt": "2026-10-08T08:33:31+09:00",
+          "imageUrl": "https://img.hankyung.com/photo/202610/01.45967110.1.jpg",
+          "verificationNote": "기사 전문을 열어 읽고 HTML article:published_time 및 datePublished를 확인했습니다. 화면 입력·수정 모두 11:19입니다. 수치와 해석은 회사 발표이며, 같은 발표를 전한 다른 매체를 독립 실증으로 취급하지 않습니다."
+        },
+        {
+          "name": "전자신문",
+          "title": "엔키AX, AI챗 이용 확대… 플랫폼 결제자당 평균 결제액 약 18% 상승",
+          "url": "https://www.etnews.com/20261007000172",
+          "language": "ko",
+          "kind": "specialist",
+          "publishedAt": "2026-10-07T11:21:03+09:00",
+          "verifiedAt": "2026-10-08T08:33:33+09:00",
+          "imageUrl": "https://img.etnews.com/news/article/2026/10/07/news-p.v1.20261007.99f355dc75344e279f3eb667cc9e0969_P1.png",
+          "verificationNote": "기사 본문과 HTML article:published_time, og:image를 직접 확인했습니다. 회사 발표 기반이며 한국경제 보도와 독립 조사 결과가 아닙니다."
+        }
+      ],
+      "briefingPath": "2026-10-08/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-08T08:41:30+09:00"
+}

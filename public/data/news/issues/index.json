@@ -1,10 +1,181 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T23:24:57+09:00",
-  "editionCount": 47,
-  "storyCount": 369,
+  "updatedAt": "2026-10-08T08:41:30+09:00",
+  "editionCount": 48,
+  "storyCount": 377,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "yemen-saudi-airport-conflict",
+      "title": "예멘·사우디 교전과 민간공항 피해",
+      "categories": [
+        "국제·안보"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "saudi-airport-casualties-2026-10-07",
+        "title": "사우디, 공항 두 곳 피격에 3명 사망 발표…후티는 공격 주장",
+        "stage": "발표",
+        "change": "현지 10월 7일 사우디 항공청이 두 공항의 사망 3명·부상 36명을 발표했습니다. 후티의 공격 주장과 별도로 당국은 공격주체·수단을 명시하지 않았습니다.",
+        "archive": false
+      },
+      "path": "yemen-saudi-airport-conflict.json"
+    },
+    {
+      "id": "us-opt-fee-policy",
+      "title": "미국 OPT 실무연수 수수료 정책",
+      "categories": [
+        "국제·교육정책"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "us-opt-fee-proposal-2026-10-07",
+        "title": "미국 OPT 첫 추천 7만달러 수수료안…납부 주체는 학교, 아직 미시행",
+        "stage": "발표",
+        "change": "미국 국토안보부가 10월 7일 OPT 첫 추천 7만달러·추가 3만달러 수수료 규정안을 사전공개했습니다. 최종 확정·시행은 남아 있습니다.",
+        "archive": false
+      },
+      "path": "us-opt-fee-policy.json"
+    },
+    {
+      "id": "us-equities-chips-rates-oil",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응",
+      "categories": [
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 20,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "us-market-2026-10-07",
+        "title": "미 장기금리 급등에 뉴욕증시 하락…반도체 1.15% 내려",
+        "stage": "결과",
+        "change": "10월 6일 최고 종가 이후 새 거래일인 7일 주요 지수가 하락했고 장기금리 급등·후반 반락과 반도체지수 하락이 확인됐습니다.",
+        "archive": false
+      },
+      "path": "us-equities-chips-rates-oil.json"
+    },
+    {
+      "id": "samsung-electronics-earnings",
+      "title": "삼성전자 분기 실적과 사업부 수익성",
+      "categories": [
+        "반도체·실적"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "samsung-q3-preliminary-2026",
+        "title": "삼성전자 3분기 영업익 107.4조원…분기 100조원 첫 돌파",
+        "stage": "발표",
+        "change": "3분기 실적 전망 이후 회사의 잠정 매출 195조원·영업이익 107.4조원이 새로 발표됐습니다. 사업부별 상세 실적은 아직 공개되지 않았습니다.",
+        "archive": false
+      },
+      "path": "samsung-electronics-earnings.json"
+    },
+    {
+      "id": "korea-current-account",
+      "title": "한국 경상수지와 국제수지 통계",
+      "categories": [
+        "경제·수출"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "korea-current-account-2026-08",
+        "title": "8월 경상흑자 461.1억달러…반도체 호조 속 역대 두 번째",
+        "stage": "발표",
+        "change": "8월 국제수지 잠정통계가 8일 08시 새로 공표됐으며 경상흑자 461.1억달러·상품수지 468.1억달러가 확인됐습니다.",
+        "archive": false
+      },
+      "path": "korea-current-account.json"
+    },
+    {
+      "id": "korea-2d-semiconductor-nucleation",
+      "title": "국내 2차원 반도체 단일 핵생성 제어 연구",
+      "categories": [
+        "반도체·연구"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "korea-2d-semiconductor-single-nucleation-2026-10",
+        "title": "2차원 반도체 성장 시작점 제어…400개 패턴서 99% 이상 단결정",
+        "stage": "발표",
+        "change": "성장영역 내부의 결정 생성 위치와 개수를 제어한 연구결과가 새로 공개됐습니다. 양산성과 AI 칩 완제품 개선 효과는 아직 확인되지 않았습니다.",
+        "archive": false
+      },
+      "path": "korea-2d-semiconductor-nucleation.json"
+    },
+    {
+      "id": "kctu-social-dialogue-return",
+      "title": "민주노총 사회적 대화 복귀 논의",
+      "categories": [
+        "국내·노동정책"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "kctu-social-dialogue-vote-2026-10-07",
+        "title": "민주노총 사회적 대화 복귀안, 정족수 부족으로 표결 무산",
+        "stage": "결과",
+        "change": "10월 7일 임시대의원대회에서 조건부 사회적 대화 복귀안을 표결하려 했으나 정족수 부족으로 유회했습니다. 온라인 대회 소집 여부는 검토 중입니다.",
+        "archive": false
+      },
+      "path": "kctu-social-dialogue-return.json"
+    },
+    {
+      "id": "ankey-toptoon-ai-chat",
+      "title": "엔키AX 탑툰챗과 웹툰 IP의 AI 서비스 확장",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-am",
+        "storyId": "ankey-toptoon-ai-chat-metrics-2026-10-07",
+        "title": "웹툰 캐릭터 AI 대화, 9월 1259만 회…엔키AX가 공개한 이용 지표",
+        "stage": "분석",
+        "change": "9월 AI 대화량과 8월 플랫폼 결제자당 평균 결제액, 외부 플랫폼 유통 현황을 회사가 공개했습니다. 서비스별 수익 기여는 미확인입니다.",
+        "archive": false
+      },
+      "path": "ankey-toptoon-ai-chat.json"
+    },
     {
       "id": "solo-leveling-overwatch-collaboration",
       "title": "나 혼자만 레벨업·오버워치 협업과 팬 창작",
@@ -173,30 +344,6 @@
         "archive": false
       },
       "path": "youth-future-savings-second-window-2026.json"
-    },
-    {
-      "id": "us-equities-chips-rates-oil",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응",
-      "categories": [
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
-      "eventCount": 19,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-07",
-      "latest": {
-        "editionId": "2026-10-07-am",
-        "storyId": "us-market-2026-10-06",
-        "title": "S&P500 첫 7,800선 마감…AI칩 상승 속 메모리주는 하락",
-        "stage": "결과",
-        "change": "10월 5일 종가 이후 새 거래일인 6일 S&P500이 처음 7,800선을 넘어 마감했고, 나스닥도 최고 종가를 새로 썼습니다. AI 가속기·맞춤형 칩과 메모리주의 등락 차이도 확인됐습니다.",
-        "archive": false
-      },
-      "path": "us-equities-chips-rates-oil.json"
     },
     {
       "id": "middle-east-oil-supply",

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "kctu-social-dialogue-return",
+  "title": "민주노총 사회적 대화 복귀 논의",
+  "entries": [
+    {
+      "id": "2026-10-08-am/kctu-social-dialogue-vote-2026-10-07",
+      "editionId": "2026-10-08-am",
+      "storyId": "kctu-social-dialogue-vote-2026-10-07",
+      "editionDate": "2026-10-08",
+      "edition": "am",
+      "coveredAt": "2026-10-08T08:41:30+09:00",
+      "coveredOn": "2026-10-08",
+      "publishedAt": "2026-10-07T17:50:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-07",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "발생 날짜만 확인되며 정확한 시각은 확인되지 않았습니다.",
+      "stage": "결과",
+      "change": "10월 7일 임시대의원대회에서 조건부 사회적 대화 복귀안을 표결하려 했으나 정족수 부족으로 유회했습니다. 온라인 대회 소집 여부는 검토 중입니다.",
+      "title": "민주노총 사회적 대화 복귀안, 정족수 부족으로 표결 무산",
+      "category": "국내·노동정책",
+      "status": "확정",
+      "summary": [
+        "민주노총의 사회적 대화 복귀 여부를 결정할 표결이 참석 인원 부족으로 이뤄지지 못했습니다. 7일 임시대의원대회에서 토론 뒤 남은 대의원은 790명으로, 의사 진행에 필요한 과반에 못 미쳤습니다.",
+        "논의 대상은 경제사회노동위원회에 즉시 복귀하는 안이 아니라 정부와 세 가지 조건을 협의하는 안이었습니다. 합의제 운영, 산별노조 참여 보장, 기구 명칭 변경에 합의하면 참여 절차를 마무리한다는 내용입니다.",
+        "지도부는 AI 중심 산업 전환과 업종별 교섭에 대응할 필요성을 설명했고, 반대 측은 현재 조건에서 대화에 참여하는 데 반대했습니다. 일부 대의원이 퇴장하면서 복귀안에 대한 찬반 결론도 나오지 않았습니다.",
+        "양경수 위원장은 온라인 대의원대회를 소집할지 1~2주 안에 판단하겠다고 밝혔습니다. 노사정 협의에 참여할 주체와 방식이 아직 결정되지 않은 만큼, 향후 의사결정 절차와 정부의 조건 협의가 다음 변수입니다."
+      ],
+      "keyFacts": {
+        "voteResult": "정족수 미달로 표결 미실시",
+        "delegatesPresent": "790명",
+        "negotiationConditions": "합의제 운영·산별 참여 보장·명칭 변경",
+        "onlineConvention": "소집 여부 1~2주 안 판단 계획"
+      },
+      "uncertainty": "부결된 안건이 아니라 표결 자체가 무산된 상태입니다. 온라인 대회 개최와 최종 복귀 여부는 결정되지 않았습니다.",
+      "sources": [
+        {
+          "name": "연합뉴스·파이낸셜뉴스",
+          "title": "민주노총, 사회적 대화 복귀 표결 무산…정족수 미달 유회(종합)",
+          "url": "https://www.fnnews.com/news/202610071749464307",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-07T17:50:00+09:00",
+          "verifiedAt": "2026-10-08T08:32:39+09:00",
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/10/07/202610071750227513_l.jpg",
+          "verificationNote": "연합뉴스 원보도 재전송 본문과 입력·수정 17:50 확인. 재석 790명, 정족수 부족, 온라인대회 여부 검토, 조건부 복귀안 내용을 확인했습니다."
+        },
+        {
+          "name": "뉴스핌",
+          "title": "민주노총, '경사노위 복귀' 표결 무산…대의원 과반 미달",
+          "url": "https://www.newspim.com/news/view/20261007001500",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T17:40:00+09:00",
+          "verifiedAt": "2026-10-08T08:32:13+09:00",
+          "imageUrl": null,
+          "verificationNote": "입력 17:40·수정 18:01 본문 확인. 과반 미달 790명과 3대 조건을 연합뉴스 보도와 대조했습니다. 자동요약이 아닌 기사본문 확인."
+        },
+        {
+          "name": "YTN",
+          "title": "민주노총 대의원대회 '사회적 대화 복귀' 표결 무산",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610071714164164",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T17:14:00+09:00",
+          "verifiedAt": "2026-10-08T08:34:13+09:00",
+          "imageUrl": null,
+          "verificationNote": "본문·시각 확인. 표결 자체 무산과 논의 지속 방침을 확인했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-08/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-08T08:41:30+09:00"
+}

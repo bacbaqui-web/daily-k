@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "korea-2d-semiconductor-nucleation",
+  "title": "국내 2차원 반도체 단일 핵생성 제어 연구",
+  "entries": [
+    {
+      "id": "2026-10-08-am/korea-2d-semiconductor-single-nucleation-2026-10",
+      "editionId": "2026-10-08-am",
+      "storyId": "korea-2d-semiconductor-single-nucleation-2026-10",
+      "editionDate": "2026-10-08",
+      "edition": "am",
+      "coveredAt": "2026-10-08T08:41:30+09:00",
+      "coveredOn": "2026-10-08",
+      "publishedAt": "2026-10-08T00:00:00+09:00",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimezone": null,
+      "eventTimeNote": "뉴시스는 과기정통부 7일 발표, 이데일리는 연구팀 8일 발표로 적었습니다. 발표 주체·날짜가 달라 실제 사건일을 하나로 추정하지 않고 null로 남깁니다.",
+      "stage": "발표",
+      "change": "성장영역 내부의 결정 생성 위치와 개수를 제어한 연구결과가 새로 공개됐습니다. 양산성과 AI 칩 완제품 개선 효과는 아직 확인되지 않았습니다.",
+      "title": "2차원 반도체 성장 시작점 제어…400개 패턴서 99% 이상 단결정",
+      "category": "반도체·연구",
+      "status": "보도",
+      "summary": [
+        "국내 공동연구팀이 얇은 2차원 반도체의 성장이 시작되는 위치를 제어하는 기술을 공개했습니다. 연구팀은 400개 실험 패턴 가운데 99% 이상에서 중앙에 하나의 단결정을 형성했다고 밝혔습니다.",
+        "KAIST·UNIST·한양대·티디에스이노베이션이 참여한 연구로, 결과는 학술지 네이처에 실렸습니다. 여기서 단결정은 원자 배열이 끊어지는 경계 없이 하나로 이어진 반도체 결정을 뜻합니다.",
+        "연구진은 산화물 장벽 근처에서 결정이 생기는 것을 억제하고 중앙에서 하나만 자라게 하는 방식을 사용했습니다. 기존에 성장 영역을 정하는 데서 더 나아가 그 안의 시작 위치와 개수를 제어했다는 것이 연구의 변화점입니다.",
+        "연산 소자와 메모리를 여러 층으로 가깝게 쌓는 AI 반도체 공정에 활용될 가능성이 제시됐습니다. 다만 99%는 이번 실험 패턴의 결과이고 상용 반도체 양산 수율이나 완제품의 전력 절감률을 확인한 숫자는 아닙니다."
+      ],
+      "keyFacts": {
+        "material": "이황화몰리브덴(MoS2) 2차원 반도체",
+        "patterns": "400개",
+        "singleCrystalFormation": "99% 이상, 연구팀 실험",
+        "method": "산화물 장벽을 이용한 중앙 단일 핵생성",
+        "publication": "Nature 논문 원문 확인; 2026-10-07 발행 표기",
+        "commercialization": "양산 공정 및 완제품 성능 검증 미확인"
+      },
+      "uncertainty": "논문과 기사에 제시된 연구팀의 실험결과입니다. 논문 원문은 확인했지만 독립 재현이나 상용 양산 수율을 검증한 것은 아닙니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "\"원자 경계선 없앴다\"…韓 연구진, 초고성능 AI 반도체 길 열었다",
+          "url": "https://files.newsis.com/view/NISX20261007_0003817979",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T00:00:00+09:00",
+          "verifiedAt": "2026-10-08T08:31:57+09:00",
+          "imageUrl": null,
+          "verificationNote": "본문과 등록·수정시각 확인. 과기정통부 7일 발표로 기술합니다. 연구팀 자체 실험결과로 귀속합니다. 이후 Nature 논문 원문도 대조했으며 양산검증 결과로 쓰지 않습니다.",
+          "updatedAt": "2026-10-08T05:32:24+09:00"
+        },
+        {
+          "name": "이데일리",
+          "title": "“원하는 곳에 반도체 하나만 키운다”…고집적 AI칩 새 기술 나왔다",
+          "url": "https://m.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01082406645610952",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T00:00:03+09:00",
+          "verifiedAt": "2026-10-08T08:32:40+09:00",
+          "imageUrl": null,
+          "verificationNote": "열어 본 원문에서 400개 패턴·99% 이상 단결정, 네이처 게재 보도 확인. 연구팀 8일 발표로 적혀 뉴시스와 날짜 기준이 다릅니다. 실제 발표일은 추정하지 않습니다. 별도 수정시각 미표시."
+        },
+        {
+          "name": "Nature",
+          "title": "Spatially deterministic nucleation of 2D semiconductors by etching flux",
+          "url": "https://www.nature.com/articles/s41586-026-11095-1",
+          "language": "en",
+          "kind": "research",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T08:39:27+09:00",
+          "imageUrl": null,
+          "verificationNote": "논문 원문을 열어 초록·본문·그림 2 설명·발행 정보를 확인했습니다. Published 07 October 2026, Issue date 08 October 2026이며 게시 시·분과 시간대는 미표시입니다. 기준 이전 한국어 기사에서도 해당 결과를 확인했습니다. 2cm 기판의 16영역·영역당 25패턴, 총 400개에서 단결정 형성 99% 초과를 확인했으며 상용 양산 수율로 해석하지 않았습니다."
+        }
+      ],
+      "briefingPath": "2026-10-08/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-08T08:41:30+09:00"
+}

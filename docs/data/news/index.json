@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-07T23:24:57+09:00",
+  "updatedAt": "2026-10-08T08:41:30+09:00",
   "editions": [
+    {
+      "id": "2026-10-08-am",
+      "date": "2026-10-08",
+      "edition": "am",
+      "generatedAt": "2026-10-08T08:41:30+09:00",
+      "cutoffAt": "2026-10-08T08:30:00+09:00",
+      "count": 8,
+      "path": "2026-10-08/am.json",
+      "headline": "삼성전자 3분기 영업익 107.4조원…분기 100조원 첫 돌파"
+    },
     {
       "id": "2026-10-07-pm",
       "date": "2026-10-07",
