@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "lg-electronics-earnings",
+  "title": "LG전자 분기 실적과 사업부 수익성",
+  "entries": [
+    {
+      "id": "2026-10-07-pm/lg-electronics-q3-preliminary-2026",
+      "editionId": "2026-10-07-pm",
+      "storyId": "lg-electronics-q3-preliminary-2026",
+      "editionDate": "2026-10-07",
+      "edition": "pm",
+      "coveredAt": "2026-10-07T23:24:57+09:00",
+      "coveredOn": "2026-10-07",
+      "publishedAt": "2026-10-07T11:51:00+09:00",
+      "eventAt": "2026-10-07T11:00:00+09:00",
+      "eventDate": "2026-10-07",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "머니투데이11:17 보도가11:00 잠정실적 공시를 명시했습니다. 회계기간은2026년3분기이며 eventAt은 실적 발표 시각입니다.",
+      "stage": "발표",
+      "change": "오전 일정에만 담았던3분기 실적 발표가 실제 매출·영업이익 수치로 확인됐습니다. 기존 엔비디아 협력과는 별개의 정기 실적 이슈로 기록합니다.",
+      "title": "LG전자 3분기 매출 23.83조·영업익 7,818억원…전년보다 증가",
+      "category": "경제·기업실적",
+      "status": "보도",
+      "summary": [
+        "LG전자가 3분기 매출 23조8,270억원, 영업이익 7,818억원의 잠정실적을 발표했습니다. 지난해 같은 분기보다 각각 8.9%, 13.5% 증가했지만 증권사들의 평균 예상에는 미치지 못했습니다.",
+        "오전 브리핑에서 예고한 발표일이 실제 수치로 바뀌었습니다. 회사는 생활가전과 자동차 전장 사업의 수익성이 버팀목이 됐고 TV 사업도 전년보다 개선됐다고 설명했습니다.",
+        "3분기까지 누적 매출은 71조3,807억원, 영업이익은 4조346억원입니다. LG전자는 주력 사업이 만든 자금을 AI 데이터센터 냉각과 로봇 부품 등의 생산기반 확대에 연결하고 있다고 밝혔습니다.",
+        "매출·이익이 작년보다 늘었다는 사실과 시장 기대를 충족했는지는 다른 비교입니다. 이번 값은 아직 잠정치이며, 회사는 월말 실적설명회에서 순이익과 사업본부별 상세 성적을 공개할 계획입니다."
+      ],
+      "keyFacts": {
+        "revenue": "23조8270억원, 2026년3분기 연결 잠정",
+        "operatingProfit": "7818억원, 2026년3분기 연결 잠정",
+        "revenueYoY": "+8.9%",
+        "operatingProfitYoY": "+13.5%",
+        "cumulativeRevenue": "71조3807억원, 2026년1~3분기",
+        "cumulativeOperatingProfit": "4조346억원, 2026년1~3분기"
+      },
+      "uncertainty": "외부 검토가 끝난 확정 결산이 아닌 잠정치입니다. 사업부별 정확한 손익은 미공개이고 시장 컨센서스는 집계 시점마다 달라질 수 있습니다.",
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "LG전자 3분기 매출 23.8조... 시장 눈높이 못 미친 역대 최대 실적",
+          "url": "https://www.hankookilbo.com/news/article/A2026100711380000584",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T11:51:00+09:00",
+          "verifiedAt": "2026-10-07T23:17:09+09:00",
+          "imageUrl": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/10/07/bd5a0c2a-b428-4a3b-abc1-b69362108c43.jpg",
+          "verificationNote": "원문 입력시각과 잠정실적 본문 확인. 익명 인용에 의존한 애플 협력 부분은 쓰지 않습니다. 시장 예상치는 집계 시점별로 달라 정확한 수치 대신 기대 미달 여부만 요약합니다. 기사 내 대표 이미지의 링크를 확인했으며 이미지 자체 조회는 캐시 미스로 실패해 표시 실패 시 매체명 대체가 적용됩니다."
+        },
+        {
+          "name": "LG전자 뉴스룸",
+          "title": "LG전자, 3분기 영업이익 전년 比 13.5% ↑",
+          "url": "https://www.lge.co.kr/story/newsroom/236203",
+          "language": "ko",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-07T23:17:09+09:00",
+          "imageUrl": null,
+          "verificationNote": "10월7일 공식 게시일 확인, 시·분 미표시. 회사 발표 수치와 부문별 설명을 대조했으며, 정확한 공시시각은 머니투데이11:17 기사에서11:00으로 확인했습니다."
+        },
+        {
+          "name": "머니투데이",
+          "title": "LG전자 3Q 어닝미스…주가 5%대 하락",
+          "url": "https://www.mt.co.kr/stock/2026/10/07/2026100711150947196",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T11:17:00+09:00",
+          "verifiedAt": "2026-10-07T23:17:09+09:00",
+          "imageUrl": null,
+          "verificationNote": "원문11:00 공시 시각 확인. 자동 갱신 종목시세는 근거에서 제외하고11:09 장중 기록도 종가로 사용하지 않았습니다. 컨퍼런스콜 일정은 공식 뉴스룸과 달라 제외했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-07/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-07T23:24:57+09:00"
+}

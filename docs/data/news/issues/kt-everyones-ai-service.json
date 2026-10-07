@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "kt-everyones-ai-service",
+  "title": "KT 모두의 AI와 이음 인사이드 서비스",
+  "entries": [
+    {
+      "id": "2026-10-07-pm/kt-everyones-ai-rollout-2026-10-07",
+      "editionId": "2026-10-07-pm",
+      "storyId": "kt-everyones-ai-rollout-2026-10-07",
+      "editionDate": "2026-10-07",
+      "edition": "pm",
+      "coveredAt": "2026-10-07T23:24:57+09:00",
+      "coveredOn": "2026-10-07",
+      "publishedAt": "2026-10-07T14:25:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-07",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "KT가 2026년 10월 7일 서울 코엑스 AI 페스타 현장 간담회에서 서비스 방향과 일정을 설명했습니다. 정확한 간담회 시각은 확인하지 않아 null로 두며 베타 시작일도 월 단위 계획까지만 확인했습니다.",
+      "stage": "발표",
+      "change": "10월 7일 간담회와 체험 전시에서 KT 컨소시엄의 단계별 서비스 일정과 외부 생활서비스 연계 방식이 소개됐습니다. 10월 제한 베타·11월 확대·12월 정식 출시 계획이며 현재 전 국민 정식 서비스를 시작한 것은 아닙니다.",
+      "title": "KT 모두의 AI, 이달 제한 베타…11월 확대·12월 정식 출시 계획",
+      "category": "기술·IT·AI",
+      "status": "예정",
+      "summary": [
+        "KT가 여러 국산 AI 모델과 생활 서비스를 연결하는 ‘모두의 AI’를 10월 제한된 이용자 대상 베타로 시작할 계획입니다. 7일 간담회에서는 11월 이용자·서비스 확대를 거쳐 12월 정식 출시한다는 일정을 제시했습니다.",
+        "베타에서는 날씨·생활정보·주식 등 일상적인 질문의 의도를 파악하고 답하는 기능을 먼저 검증합니다. 정식 서비스에서는 검색한 정보를 예약·신청·일정 등록 같은 실제 작업으로 연결하는 기능을 확대할 예정입니다.",
+        "하나의 AI 모델이 모든 질문을 처리하기보다 업스테이지·모티프·NC AI 등 참여사의 모델을 작업에 맞게 연결하는 구조입니다. KT의 ‘토큰 팩토리’가 질문의 성격과 난이도에 따라 모델을 고르고, 인프라에는 리벨리온의 국산 AI 반도체도 활용합니다.",
+        "‘이음 인사이드’는 다음·다나와 등 외부 서비스 안에서도 이 AI를 쓰도록 연결하는 전략입니다. 코엑스 체험존에서는 쇼핑·부동산 검색, 수학 문제 풀이, 이사 민원 안내 등의 사용 사례를 선보였습니다.",
+        "KT는 모델 선택과 연산 최적화를 종합하면 운영비를 약 15~20% 낮출 수 있다고 설명했지만, 이는 회사 측 설명으로 독립적인 실서비스 검증 결과는 아닙니다. 이용자가 실제로 쓸 수 있는 기능과 안정성은 베타 검증과 정식 출시 단계에서 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "closedBetaTarget": "2026년10월",
+        "expansionTarget": "2026년11월 참여규모·제공범위 확대",
+        "publicLaunchTarget": "2026년12월",
+        "betaScope": "날씨·생활정보·주식등 질의응답 우선 검증",
+        "fullServiceDirection": "예약·신청·일정등록등 실제작업 연결 확대",
+        "architecture": "질문별 국산AI모델 선택·연결",
+        "domesticAiChip": "리벨리온NPU 활용 계획",
+        "costReductionClaim": "KT설명 약15~20%, 독립 검증 아님",
+        "status": "단계별 출시 계획"
+      },
+      "uncertainty": "베타·확대·정식 출시 모두 제시된 일정이며 정확한 시작일과 최종 기능 범위는 후속 확인이 필요합니다. 비용 절감률은 KT 설명으로, 독립적인 대규모 실서비스 성과로 확인된 수치가 아닙니다.",
+      "sources": [
+        {
+          "name": "한국경제",
+          "title": "KT '모두의 AI' 12월 출격…AI 운영비 최대 20% 낮춘다",
+          "url": "https://www.hankyung.com/article/202610078380i",
+          "publishedAt": "2026-10-07T14:25:00+09:00",
+          "verifiedAt": "2026-10-07T23:24:21+09:00",
+          "kind": "major",
+          "language": "ko",
+          "updatedAt": "2026-10-07T14:26:00+09:00",
+          "verificationNote": "웹 열기로 전체 본문과 발행·수정 시각 확인. 10월 제한 베타, 11월 확대, 12월 출시가 계획이며 비용 15~20% 절감은 KT 설명으로 독립 검증 결과가 아닙니다."
+        },
+        {
+          "name": "연합뉴스",
+          "title": "[AI픽] KT '모두의 AI' 이달 베타…검색 넘어 '실행형 AI'로",
+          "url": "https://www.yna.co.kr/view/AKR20261007067600017",
+          "publishedAt": "2026-10-07T10:38:00+09:00",
+          "verifiedAt": "2026-10-07T23:24:21+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "verificationNote": "검색 참조 웹 열기로 전체 본문과 송고10:38 확인. 질문 의도·난도에 따른 모델 연결, 리벨리온 NPU 활용 및 베타에서 질의응답을 우선 제공한다는 내용 대조. 11월의 원문 오타는 다른 매체에서 확인한 정상 월 표기를 사용합니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "\"내 고민 한 번에 다 해결해준다\"…KT, '모두의 AI' 체험존 운영",
+          "url": "https://mobile.newsis.com/view/NISX20261007_0003817176",
+          "publishedAt": "2026-10-07T11:37:12+09:00",
+          "verifiedAt": "2026-10-07T23:24:21+09:00",
+          "language": "ko",
+          "kind": "wire",
+          "imageUrl": "https://img1.newsis.com/2026/10/07/NISI20261007_0002257383_web.jpg",
+          "verificationNote": "웹 열기에서 전체 본문 및 11:37:12 기사등록 확인. 직접 HTML article:published_time 및 og:image 대조. 7일 간담회·체험 전시와 이달 베타·12월 정식 서비스 계획 확인. KT 제공 설명을 독립 성능시험으로 취급하지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-07/pm.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-07T23:24:57+09:00"
+}

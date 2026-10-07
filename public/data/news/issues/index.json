@@ -1,10 +1,158 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T12:12:39+09:00",
-  "editionCount": 46,
-  "storyCount": 362,
+  "updatedAt": "2026-10-07T23:24:57+09:00",
+  "editionCount": 47,
+  "storyCount": 369,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "solo-leveling-overwatch-collaboration",
+      "title": "나 혼자만 레벨업·오버워치 협업과 팬 창작",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-07T23:24:57+09:00",
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "solo-leveling-overwatch-collaboration-2026-10-07",
+        "title": "나 혼자만 레벨업, 오버워치 캐릭터로…게임 협업·팬 창작 공모전 시작",
+        "stage": "발표",
+        "change": "오버워치 시즌5에서 나 혼자만 레벨업 캐릭터 협업과 별도의 21일 마감 팬 창작 공모전을 발표했습니다. 계약 및 판매 성과는 미공개입니다.",
+        "archive": false
+      },
+      "path": "solo-leveling-overwatch-collaboration.json"
+    },
+    {
+      "id": "nuri-fifth-launch-2026",
+      "title": "누리호 2026년 5차 발사와 다중위성 투입",
+      "categories": [
+        "국내·우주산업"
+      ],
+      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 4,
+      "firstCoveredDate": "2026-10-05",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "nuri-launch-and-contact-2026-10-07",
+        "title": "누리호 14기 궤도 투입…주탑재위성 5기 모두 첫 교신",
+        "stage": "결과",
+        "change": "전날 발사대 기립·고정 이후 오늘12:25 실제 발사, 14기 궤도 투입, 주탑재5기 전부 첫 교신이라는 결과가 나왔습니다. 큐브1기 미사출과 이후 성능검증은 별도로 남아 있습니다.",
+        "archive": false
+      },
+      "path": "nuri-fifth-launch-2026.json"
+    },
+    {
+      "id": "nobel-chemistry-2026",
+      "title": "2026년 노벨 화학상과 비대칭 유기합성",
+      "categories": [
+        "국제·과학"
+      ],
+      "firstCoveredAt": "2026-10-07T23:24:57+09:00",
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "nobel-chemistry-kagan-soai-2026",
+        "title": "노벨 화학상 카강·소아이…거울상 분자의 작은 차이를 키운 연구",
+        "stage": "결과",
+        "change": "오늘 화학상 수상자2명과 선정 공로가 공식 발표됐습니다. 기존 물리학상·생리의학상과 구분하는 새 수상 분야의 결과입니다.",
+        "archive": false
+      },
+      "path": "nobel-chemistry-2026.json"
+    },
+    {
+      "id": "lg-electronics-earnings",
+      "title": "LG전자 분기 실적과 사업부 수익성",
+      "categories": [
+        "경제·기업실적"
+      ],
+      "firstCoveredAt": "2026-10-07T23:24:57+09:00",
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "lg-electronics-q3-preliminary-2026",
+        "title": "LG전자 3분기 매출 23.83조·영업익 7,818억원…전년보다 증가",
+        "stage": "발표",
+        "change": "오전 일정에만 담았던3분기 실적 발표가 실제 매출·영업이익 수치로 확인됐습니다. 기존 엔비디아 협력과는 별개의 정기 실적 이슈로 기록합니다.",
+        "archive": false
+      },
+      "path": "lg-electronics-earnings.json"
+    },
+    {
+      "id": "kt-everyones-ai-service",
+      "title": "KT 모두의 AI와 이음 인사이드 서비스",
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "firstCoveredAt": "2026-10-07T23:24:57+09:00",
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "kt-everyones-ai-rollout-2026-10-07",
+        "title": "KT 모두의 AI, 이달 제한 베타…11월 확대·12월 정식 출시 계획",
+        "stage": "발표",
+        "change": "10월 7일 간담회와 체험 전시에서 KT 컨소시엄의 단계별 서비스 일정과 외부 생활서비스 연계 방식이 소개됐습니다. 10월 제한 베타·11월 확대·12월 정식 출시 계획이며 현재 전 국민 정식 서비스를 시작한 것은 아닙니다.",
+        "archive": false
+      },
+      "path": "kt-everyones-ai-service.json"
+    },
+    {
+      "id": "korea-green-transition-kgx",
+      "title": "한국형 녹색대전환 K-GX 전략과 산업 전환",
+      "categories": [
+        "국내·경제정책"
+      ],
+      "firstCoveredAt": "2026-10-07T23:24:57+09:00",
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "korea-green-transition-strategy-2026-10-07",
+        "title": "K-GX 10년 지원계획 발표…재정 200조·기후금융 790조원 이상",
+        "stage": "발표",
+        "change": "오늘 오후 정부가 K-GX 전략과 10대 민간 프로젝트를 발표해 2035년까지의 재정·금융 지원 구성과 산업별 전환 방향을 제시했습니다. 실제 집행 완료나 세제 시행을 뜻하지 않습니다.",
+        "archive": false
+      },
+      "path": "korea-green-transition-kgx.json"
+    },
+    {
+      "id": "korea-equities-flows",
+      "title": "한국 증시와 외국인 수급",
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
+      "eventCount": 20,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "korea-market-2026-10-07-close",
+        "title": "코스피 6,803.90으로 1.98% 하락…외국인·기관 동반 순매도",
+        "stage": "결과",
+        "change": "10월 6일 마감 이후 새 거래일인 7일 코스피가 6,803.90, 코스닥이 898.43으로 동반 하락했고 15:30 원·달러 환율은 1,340.4원으로 낮아졌습니다.",
+        "archive": false
+      },
+      "path": "korea-equities-flows.json"
+    },
     {
       "id": "youth-future-savings-second-window-2026",
       "title": "2026년 청년미래적금 2차 가입신청",
@@ -178,27 +326,6 @@
       "path": "samsung-electromechanics-ai-components-contracts.json"
     },
     {
-      "id": "nuri-fifth-launch-2026",
-      "title": "누리호 2026년 5차 발사와 다중위성 투입",
-      "categories": [
-        "국내·우주산업"
-      ],
-      "firstCoveredAt": "2026-10-05T21:17:29+09:00",
-      "lastCoveredAt": "2026-10-06T21:17:18+09:00",
-      "eventCount": 3,
-      "firstCoveredDate": "2026-10-05",
-      "lastCoveredDate": "2026-10-06",
-      "latest": {
-        "editionId": "2026-10-06-pm",
-        "storyId": "nuri-erection-result-2026-10-06",
-        "title": "누리호 10시 35분 기립·고정 완료…최종 발사 시각은 내일 결정",
-        "stage": "후속",
-        "change": "아침의 07:30 발사대 도착 이후 10:35 기립·고정 완료가 새로 확인됐습니다. 오후 전체 설치 완료나 발사 성공으로 확대하지 않습니다.",
-        "archive": false
-      },
-      "path": "nuri-fifth-launch-2026.json"
-    },
-    {
       "id": "nobel-physics-2026",
       "title": "2026년 노벨 물리학상과 아이스큐브 중성미자 관측",
       "categories": [
@@ -262,28 +389,6 @@
         "archive": false
       },
       "path": "korea-imf-eba-assessment.json"
-    },
-    {
-      "id": "korea-equities-flows",
-      "title": "한국 증시와 외국인 수급",
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-06T21:17:18+09:00",
-      "eventCount": 19,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-06",
-      "latest": {
-        "editionId": "2026-10-06-pm",
-        "storyId": "korea-market-2026-10-06-close",
-        "title": "코스피 6,941.39로 하락…코스닥은 2.98% 상승 마감",
-        "stage": "결과",
-        "change": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다.",
-        "archive": false
-      },
-      "path": "korea-equities-flows.json"
     },
     {
       "id": "bunker-day-webtoon-ost",
