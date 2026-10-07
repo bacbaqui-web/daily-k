@@ -3,6 +3,7 @@ import argparse,datetime as dt,fcntl,json,re,subprocess
 from pathlib import Path
 from urllib.parse import urlsplit
 ROOT=Path(__file__).resolve().parents[2]
+EARLY_CUTOFF_START='2026-10-07'
 def url(v):
  p=urlsplit(v);assert p.scheme in ('http','https') and p.netloc and not p.username and not p.password,'invalid URL'
 def stamp(v):return dt.datetime.fromisoformat(v.replace('Z','+00:00'))
@@ -12,7 +13,10 @@ def validate(v):
  assert v['id']==v['date']+'-'+v['edition']
  cutoff=stamp(v['cutoffAt'])
  assert cutoff.date().isoformat()==v['date'] and cutoff.utcoffset()==dt.timedelta(hours=9)
- if not v.get('test',False):assert cutoff.isoformat()==v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00')
+ scheduled=stamp(v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00'))
+ early=v['date']>=EARLY_CUTOFF_START
+ expected_cutoff=scheduled-dt.timedelta(minutes=30) if early else scheduled
+ if early or not v.get('test',False):assert cutoff==expected_cutoff,'cutoff must match the edition source cutoff'
  assert stamp(v['generatedAt'])>=cutoff
  assert isinstance(v['overview'],list) and (0 if v['schemaVersion']==2 else 1)<=len(v['overview'])<=4 and all(isinstance(p,str) and p.strip() for p in v['overview'])
  assert 3<=len(v['stories'])<=20,'3..20 verified stories required'

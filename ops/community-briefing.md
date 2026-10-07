@@ -1,12 +1,12 @@
 # ㅋㅋㅋ 애객 원문·댓글 선별 운영
 
-Asia/Seoul 매일 오전 09:00, 오후 21:00에 Codex가 애객(aagag.com) 화면을 직접 확인해 발행합니다. 기존 수집기 앱, Python 수집기, WebKit, launchd, Oracle과 과거 feed.json은 재개하거나 수정하지 않습니다. ㄴㅇㅅ 뉴스는 변경하지 않습니다.
+2026-10-07부터 클라우드 자동화가 Asia/Seoul 매일 08:30, 20:30에 애객(aagag.com) 화면 확인과 준비를 시작합니다. 해당 날짜의 오전(09:00)·오후(21:00) 회차를 각각 08:55·20:55까지 발행하고 09:00·21:00까지 실서비스 반영 확인을 목표로 합니다. 기존 수집기 앱, Python 수집기, WebKit, launchd, Oracle과 과거 feed.json은 재개하거나 수정하지 않습니다. ㄴㅇㅅ 뉴스는 변경하지 않습니다.
 
 ## 확인과 선정
 
 - public/data/community/index.json과 이전 14개 회차의 topicKey·원문 URL을 먼저 읽습니다. 같은 글·재게시와 동일 회차 중복 발행을 제외합니다.
 - 최근 24시간 애객 후보 30~50개를 확인하고 조건에 맞는 글을 최대 15~20개 고릅니다. 다른 커뮤니티·SNS를 별도로 검색하지 않습니다. 애객이 제공한 원본 링크는 출처로 표시합니다.
-- 회차 기준은 09:00/21:00 KST입니다. 00~08시 지연 실행은 전날 pm입니다. cutoffAt은 회차 시각, generatedAt은 실제 작성 시각입니다. 게시 시각을 실제 확인하고, 미확인은 null과 확인 범위에 한계를 남깁니다. 과거 이미지 재등장은 새 사건으로 표현하지 않습니다.
+- 오전·오후 회차 목표는 09:00/21:00 KST이며 cutoffAt은 2026-10-07 이후 정확히 08:30/20:30인 게시글 포함 기준 시각입니다. 최근 24시간은 이 cutoffAt을 끝으로 계산합니다. 예약 실행의 대상 날짜·회차를 고정하고 재시도에서도 유지합니다. 수동 실행 기본값은 08:30~20:29 당일 am, 20:30 이후 당일 pm, 00:00~08:29 전날 pm입니다. 2026-10-06까지 기존 회차의 09:00/21:00 cutoffAt은 바꾸지 않습니다. generatedAt은 cutoffAt 이후의 실제 작성 완료 시각입니다. 원문·댓글 확인 시각은 실제 확인한 시각을 유지하며, cutoffAt 이후 확인한 댓글 수치를 cutoffAt 당시 수치로 표현하지 않습니다. 게시 시각을 실제 확인하고, 미확인은 null과 확인 범위에 한계를 남깁니다. 과거 이미지 재등장은 새 사건으로 표현하지 않습니다.
 - 유머는 애객 댓글의 전부보기를 누른 뒤 표시된 댓글을 ID로 중복 제거해 실제 댓글 텍스트에 있는 문자 'ㅋ'를 모두 합산합니다. 제목·작성자명·본문의 ㅋ는 세지 않습니다. kCount가 10 이상인 글만 유머로 발행합니다. 내용이 유머인데 수치가 부족한 글을 다른 분류로 바꿔 넣지 않습니다.
 - commentCount는 확인한 애객 댓글 수, commentsVerifiedAt은 확인 시각입니다. 원래 커뮤니티의 모든 댓글을 확인한 수치라고 주장하지 않습니다. 로딩 완료와 표시 댓글 수를 대조하고 일부만 확인했으면 그 범위를 verificationNote에 명시합니다. 미확인 값을 0으로 만들지 않습니다.
 - 분류는 유머·정보·화제·생활·문화·스포츠·ㅇㅎㅂ입니다. 생활은 음식·소비·일상, 문화는 방송·음악·영화·게임, 스포츠는 경기와 선수 등 실제 내용에 맞게 분류합니다.
@@ -25,12 +25,12 @@ Asia/Seoul 매일 오전 09:00, 오후 21:00에 Codex가 애객(aagag.com) 화�
 저장소: /Users/bacbaqui/Desktop/code/02_tools/daily_k/홈페이지
 
 ```json
-{"schemaVersion":2,"timezone":"Asia/Seoul","id":"YYYY-MM-DD-am","date":"YYYY-MM-DD","edition":"am","cutoffAt":"YYYY-MM-DDT09:00:00+09:00","generatedAt":"실제 ISO 시각","overview":[],"stories":[{"id":"짧은 안정된 ID","topicKey":"중복 판별 키","title":"원문 제목","category":"유머","summary":[],"originalText":"짧은 원본 인용","comments":[{"id":"확인한 댓글 ID","text":"짧은 실제 댓글","truncated":false,"likes":1}],"kCount":10,"commentCount":5,"commentsVerifiedAt":"실제 ISO 시각","selectionReason":"실제 선정 근거","popularityEvidence":"실제 확인한 인기 근거","verificationNote":"확인 범위와 한계","imageUrl":null,"videoUrl":null,"videoPosterUrl":null,"sourceBreakdown":[{"name":"커뮤니티 이름","count":2}],"sourceStatsVerifiedAt":"실제 ISO 시각","contentSignals":[],"sources":[{"name":"애객 또는 애객 제공 원출처","title":"실제 원문 제목","url":"확인한 원문 URL","imageUrl":null,"publishedAt":null,"verifiedAt":"실제 ISO 시각"}]}]}
+{"schemaVersion":2,"timezone":"Asia/Seoul","id":"YYYY-MM-DD-am","date":"YYYY-MM-DD","edition":"am","cutoffAt":"YYYY-MM-DDT08:30:00+09:00","generatedAt":"실제 ISO 시각","overview":[],"stories":[{"id":"짧은 안정된 ID","topicKey":"중복 판별 키","title":"원문 제목","category":"유머","summary":[],"originalText":"짧은 원본 인용","comments":[{"id":"확인한 댓글 ID","text":"짧은 실제 댓글","truncated":false,"likes":1}],"kCount":10,"commentCount":5,"commentsVerifiedAt":"실제 ISO 시각","selectionReason":"실제 선정 근거","popularityEvidence":"실제 확인한 인기 근거","verificationNote":"확인 범위와 한계","imageUrl":null,"videoUrl":null,"videoPosterUrl":null,"sourceBreakdown":[{"name":"커뮤니티 이름","count":2}],"sourceStatsVerifiedAt":"실제 ISO 시각","contentSignals":[],"sources":[{"name":"애객 또는 애객 제공 원출처","title":"실제 원문 제목","url":"확인한 원문 URL","imageUrl":null,"publishedAt":null,"verifiedAt":"실제 ISO 시각"}]}]}
 ```
 
 ## 검증·발행
 
-python3 scripts/community/publish.py /절대/초안.json --check로 검증합니다. 원문 제목·인용·ㅋ 수·댓글 확인 범위·미디어·분류·중복을 직접 대조합니다. --push는 해당 회차와 index의 public/docs 네 파일만 커밋해 발행합니다. 뉴스 공용 발행 잠금을 쓰고 다른 변경을 보존합니다. 데이터 발행에는 전체 빌드가 필요 없습니다. GitHub Pages 빌드 성공과 실제 community JSON 반영을 확인합니다. 새 발행·실패·사용자 조치가 필요할 때만 알립니다. Mac과 Codex 앱이 실행 중이어야 예약 작업이 수행되며 09시·21시는 시작 시각입니다.
+python3 scripts/community/publish.py /절대/초안.json --check로 검증합니다. 원문 제목·인용·ㅋ 수·댓글 확인 범위·미디어·분류·중복을 직접 대조합니다. --push는 해당 회차와 index의 public/docs 네 파일만 커밋해 발행합니다. 뉴스 공용 발행 잠금을 쓰고 다른 변경을 보존합니다. 데이터 발행에는 전체 빌드가 필요 없습니다. GitHub Pages 빌드 성공과 실제 community JSON 반영을 확인합니다. 새 발행·실패·사용자 조치가 필요할 때만 알립니다. 클라우드에서는 같은 검증과 최근 14개 회차 중복 검사를 거친 데이터 변경만 GitHub에 반영합니다. 중지된 Mac 예약 작업을 재개하지 않습니다. 검색·검증·Pages 배포가 늦거나 실패하면 실제 상태를 보고하고 기존 회차를 유지하며 생성 시각을 앞당겨 기록하지 않습니다.
 
 이미지 저장 전 본문 미디어의 로딩이 끝난 뒤 실제 img src와 naturalWidth가 0보다 큰지 확인합니다. 첫 로딩 순간 이미지가 없다는 이유만으로 imageUrl을 null로 두지 않습니다. 대표 이미지가 있는 글은 카드와 읽기 창 양쪽에서 로드 성공을 검증합니다. 긴 세로 이미지는 높이 제한 없이 원래 비율로 표시합니다.
 

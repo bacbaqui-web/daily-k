@@ -91,4 +91,64 @@ class PublishingTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError,'already published'):publish(b,root)
             self.assertEqual((root/'public/data/news/index.json').read_bytes(),before);self.assertEqual(humor.read_text(),'untouched')
 
+def early_fixture(edition='am'):
+    b=json.loads(json.dumps(fixture(edition)).replace('2026-10-03','2026-10-08').replace('2026-10-02','2026-10-07'))
+    hour=8 if edition=='am' else 20
+    b['cutoffAt']=f'2026-10-07T{hour:02}:30:00+09:00'
+    b['generatedAt']=f'2026-10-07T{hour:02}:55:00+09:00'
+    for story in b['stories']:
+        for source in story['sources']+story['relatedArticles']:source['verifiedAt']=f'2026-10-07T{hour:02}:50:00+09:00'
+    for event in b['events']:event['source']['verifiedAt']=f'2026-10-07T{hour:02}:50:00+09:00'
+    return b
+
+class EarlyPublishingTests(unittest.TestCase):
+    now=datetime(2026,10,7,22,tzinfo=KST)
+    def test_early_am_and_pm_keep_identity_and_real_timestamps(self):
+        for edition in ('am','pm'):
+            with self.subTest(edition=edition):
+                b=early_fixture(edition);result=validate(b,[],self.now)
+                self.assertEqual(result['id'],f'2026-10-07-{edition}')
+                self.assertEqual(result['cutoffAt'],b['cutoffAt'])
+                self.assertEqual(result['generatedAt'],b['generatedAt'])
+    def test_legacy_cutoffs_still_valid(self):
+        for edition in ('am','pm'):validate(fixture(edition),[],NOW)
+    def test_legacy_editions_cannot_use_early_cutoff(self):
+        b=fixture();b['cutoffAt']='2026-10-02T08:30:00+09:00'
+        with self.assertRaisesRegex(ValueError,'Cutoff'):validate(b,[],self.now)
+    def test_new_editions_require_exact_early_cutoff(self):
+        for value in ('08:29','08:31','09:00','20:30'):
+            b=early_fixture();b['cutoffAt']=f'2026-10-07T{value}:00+09:00'
+            with self.subTest(value=value),self.assertRaisesRegex(ValueError,'Cutoff'):validate(b,[],self.now)
+    def test_generation_before_cutoff_rejected(self):
+        b=early_fixture();b['generatedAt']='2026-10-07T08:29:59+09:00'
+        with self.assertRaisesRegex(ValueError,'generation'):validate(b,[],self.now)
+    def test_future_generation_rejected(self):
+        with self.assertRaisesRegex(ValueError,'generation'):validate(early_fixture(),[],datetime(2026,10,7,8,40,tzinfo=KST))
+    def test_source_and_related_and_event_sources_after_cutoff_rejected(self):
+        for field in ('source','related','event'):
+            b=early_fixture();source={'source':b['stories'][0]['sources'][0],'related':b['stories'][0]['relatedArticles'][0],'event':b['events'][0]['source']}[field]
+            source['publishedAt']='2026-10-07T08:30:01+09:00'
+            with self.subTest(field=field),self.assertRaisesRegex(ValueError,'after edition'):validate(b,[],self.now)
+    def test_morning_events_remain_after_nine(self):
+        for at in ('08:45','09:00'):
+            b=early_fixture();b['events'][0]['at']=f'2026-10-07T{at}:00+09:00'
+            with self.subTest(at=at),self.assertRaisesRegex(ValueError,'already ended'):validate(b,[],self.now)
+        b=early_fixture();b['events'][0]['at']='2026-10-07T09:01:00+09:00';validate(b,[],self.now)
+    def test_existing_content_gates_still_apply_to_early_editions(self):
+        b=early_fixture();b['stories'][-1]['category']='문화'
+        with self.assertRaisesRegex(ValueError,'webtoon'):validate(b,[],self.now)
+        b=early_fixture();b['stories'][0]['sources'][0]['verifiedAt']='2026-10-06T09:00:00+09:00'
+        with self.assertRaisesRegex(ValueError,'freshly'):validate(b,[],self.now)
+        b=early_fixture();b['stories'][1]['topicKey']=b['stories'][0]['topicKey']
+        with self.assertRaisesRegex(ValueError,'Duplicate topics'):validate(b,[],self.now)
+    def test_repeated_news_and_true_follow_up_still_checked(self):
+        with self.assertRaisesRegex(ValueError,'follow-up'):validate(early_fixture('pm'),[early_fixture()],self.now)
+        b=early_fixture('pm')
+        for i,story in enumerate(b['stories']):
+            story['followUp']=dict(editionId='2026-10-07-am',storyId=f'topic-am-{i}',delta='아침 잠정 수치에서 오후 확정 수치로 바뀌었습니다.')
+            story['keyFacts']['metric']=str(100+i);story['summary'][0]+=' 오후에 확정된 수치를 반영했습니다.'
+        validate(b,[early_fixture()],self.now)
+        b['stories'][0]['publishedAt']=b['stories'][0]['sources'][0]['publishedAt']='2026-10-07T08:30:00+09:00'
+        with self.assertRaisesRegex(ValueError,'new evidence'):validate(b,[early_fixture()],self.now)
+
 if __name__=='__main__':unittest.main()

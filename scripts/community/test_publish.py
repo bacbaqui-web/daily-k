@@ -1,4 +1,4 @@
-import copy,unittest
+import copy,json,unittest
 from publish import validate
 class ValidationTests(unittest.TestCase):
  def sample(self):
@@ -53,4 +53,52 @@ class ValidationTests(unittest.TestCase):
  def test_origin_title_tag_without_laughter(self):
   v=self.tagged_sample();v['stories'][0]['title']='공개 행사';v['stories'][0]['sources'][0]['title']='ㅎㅂ) 공개 행사'
   validate(v)
+class EarlyValidationTests(unittest.TestCase):
+ def sample(self,edition='am'):
+  v=json.loads(json.dumps(ValidationTests().original_sample()).replace('2026-10-03','2026-10-07'))
+  hour=8 if edition=='am' else 20
+  v.update(id='2026-10-07-'+edition,edition=edition,cutoffAt=f'2026-10-07T{hour:02}:30:00+09:00',generatedAt=f'2026-10-07T{hour:02}:55:00+09:00')
+  for story in v['stories']:
+   story['commentsVerifiedAt']=f'2026-10-07T{hour:02}:50:00+09:00'
+   for source in story['sources']:source.update(publishedAt=f'2026-10-07T{hour:02}:00:00+09:00',verifiedAt=f'2026-10-07T{hour:02}:50:00+09:00')
+  return v
+ def test_early_am_and_pm_keep_identity_and_real_timestamps(self):
+  for edition in ('am','pm'):
+   with self.subTest(edition=edition):
+    v=self.sample(edition);result=validate(v)
+    self.assertEqual(result['id'],'2026-10-07-'+edition)
+    self.assertEqual(result['cutoffAt'],v['cutoffAt'])
+    self.assertEqual(result['generatedAt'],v['generatedAt'])
+ def test_legacy_cutoff_still_valid(self):validate(ValidationTests().original_sample())
+ def test_new_editions_require_exact_early_cutoff(self):
+  for value in ('08:29','08:31','09:00','20:30'):
+   v=self.sample();v['cutoffAt']=f'2026-10-07T{value}:00+09:00'
+   with self.subTest(value=value),self.assertRaises(AssertionError):validate(v)
+ def test_new_editions_cannot_bypass_cutoff_with_test_flag(self):
+  v=self.sample();v.update(test=True,cutoffAt='2026-10-07T08:00:00+09:00')
+  with self.assertRaises(AssertionError):validate(v)
+ def test_legacy_editions_cannot_use_early_cutoff(self):
+  v=ValidationTests().original_sample();v['cutoffAt']='2026-10-03T08:30:00+09:00'
+  with self.assertRaises(AssertionError):validate(v)
+ def test_generation_before_cutoff_rejected(self):
+  v=self.sample();v['generatedAt']='2026-10-07T08:29:59+09:00'
+  with self.assertRaises(AssertionError):validate(v)
+ def test_source_after_actual_cutoff_rejected(self):
+  v=self.sample();v['stories'][0]['sources'][0]['publishedAt']='2026-10-07T08:30:01+09:00'
+  with self.assertRaises(AssertionError):validate(v)
+ def test_rolling_twenty_four_hours_uses_actual_cutoff(self):
+  v=self.sample();v['stories'][0]['sources'][0]['publishedAt']='2026-10-06T08:30:00+09:00';validate(v)
+  v['stories'][0]['sources'][0]['publishedAt']='2026-10-06T08:29:59+09:00'
+  with self.assertRaises(AssertionError):validate(v)
+ def test_verification_after_generation_rejected(self):
+  for field in ('source','comments'):
+   v=self.sample()
+   if field=='source':v['stories'][0]['sources'][0]['verifiedAt']='2026-10-07T08:56:00+09:00'
+   else:v['stories'][0]['commentsVerifiedAt']='2026-10-07T08:56:00+09:00'
+   with self.subTest(field=field),self.assertRaises(AssertionError):validate(v)
+ def test_original_quote_humor_and_summary_gates_still_apply(self):
+  for field,value in [('originalText','word '*26),('kCount',9),('summary',['invented summary'])]:
+   v=self.sample();v['stories'][0][field]=value
+   with self.subTest(field=field),self.assertRaises(AssertionError):validate(v)
+
 if __name__=='__main__':unittest.main()

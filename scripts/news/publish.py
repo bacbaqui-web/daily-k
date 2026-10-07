@@ -16,6 +16,7 @@ from timeline import build_timelines, same_issue, validate_timeline
 from archive import load_editions, build_index
 
 KST = ZoneInfo('Asia/Seoul')
+EARLY_CUTOFF_START = '2026-10-07'
 ROOT = Path(__file__).resolve().parents[2]
 WEIGHTS = {'recency': .40, 'importance': .25, 'interest': .15, 'domesticImpact': .10, 'reliability': .10}
 
@@ -67,7 +68,9 @@ def validate(draft, history, now=None):
     require(b.get('edition') in ('am','pm'),'Invalid edition')
     day=datetime.strptime(b['date'],'%Y-%m-%d').replace(tzinfo=KST)
     cutoff=timestamp(b['cutoffAt']); generated=timestamp(b['generatedAt'])
-    require(cutoff == day.replace(hour=9 if b['edition']=='am' else 21),'Cutoff must be 09:00 or 21:00 KST')
+    scheduled=day.replace(hour=9 if b['edition']=='am' else 21)
+    expected_cutoff=scheduled-timedelta(minutes=30) if b['date']>=EARLY_CUTOFF_START else scheduled
+    require(cutoff == expected_cutoff,'Cutoff must match the edition source cutoff: 08:30/20:30 KST from 2026-10-07, 09:00/21:00 before')
     require(cutoff <= generated <= (now or datetime.now(KST))+timedelta(minutes=5),'Invalid generation time')
     require(b.get('id')==f"{b['date']}-{b['edition']}",'Invalid edition ID')
     require(isinstance(b.get('intro'),str) and b['intro'].strip(),'Missing intro')
@@ -135,7 +138,7 @@ def validate(draft, history, now=None):
         require(e['date']==target.date().isoformat(),'Event must occur on target date')
         require(e.get('title') and e.get('detail'),'Missing event explanation')
         if e.get('at'):
-            at=timestamp(e['at']);require(at>cutoff and at.date()==target.date(),'Event already ended or wrong date')
+            at=timestamp(e['at']);require(at>scheduled and at.date()==target.date(),'Event already ended or wrong date')
         else: require(bool(e.get('timeNote')),'Disclose unknown event time')
         source_check(e['source'],generated,cutoff)
     keywords=b.get('keywords',[])
