@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "google-constellation-nuclear-power",
+  "title": "구글·컨스텔레이션 전력 계약과 원전 출력 증강",
+  "entries": [
+    {
+      "id": "2026-10-07-am/google-constellation-power-deal-2026-10-06",
+      "editionId": "2026-10-07-am",
+      "storyId": "google-constellation-power-deal-2026-10-06",
+      "editionDate": "2026-10-07",
+      "edition": "am",
+      "coveredAt": "2026-10-07T12:12:39+09:00",
+      "coveredOn": "2026-10-07",
+      "publishedAt": "2026-10-07T07:43:00+09:00",
+      "eventAt": "2026-10-06T06:30:00-04:00",
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "공동 발표는 미국 동부 서머타임 10월 6일 06:30, 한국시간 10월 6일 19:30입니다. 계약 서명 자체의 별도 시각은 공개되지 않아 발표 시각을 표시했습니다.",
+      "stage": "발표",
+      "change": "총 3,590MW 전력 계약을 발표했으며 그중 순증 원전 용량은 890MW입니다. 첫 출력 증강분 공급은 2028년까지의 계획입니다.",
+      "title": "구글, 3,590MW 전력 계약…새 원전 출력 증강분은 890MW",
+      "category": "기술·AI인프라",
+      "status": "확정",
+      "summary": [
+        "구글과 컨스텔레이션이 AI 데이터센터 수요에 대응할 총 3,590MW 규모 전력 계약을 발표했습니다. 이 가운데 새로 늘어나는 원전 발전능력은 890MW이고, 나머지 2,700MW는 기존 발전자산의 장기 공급 계약입니다.",
+        "신규 890MW는 원전 11기의 설비를 개선해 출력을 높이는 방식으로 확보하며, 구글의 구매 기간은 20년입니다. 컨스텔레이션은 43억 달러 이상을 투자하고 첫 출력 증강분을 2028년까지 공급할 계획이라고 밝혔습니다.",
+        "기존 발전자산을 대상으로 한 2,700MW 계약 기간은 15년입니다. 따라서 전체 계약 규모를 그대로 새로 건설되는 원전 용량으로 읽어서는 안 됩니다.",
+        "양사는 5년간의 기술 협력도 맺어 구글 클라우드와 제미나이 엔터프라이즈를 발전 운영과 인프라 보호 등에 적용하기로 했습니다. AI 확대가 전력 확보와 설비 투자로 연결된 사례지만, 공급 일정과 비용 절감 효과는 앞으로 이행 여부를 확인해야 합니다."
+      ],
+      "keyFacts": {
+        "totalContractCapacity": "3590MW",
+        "newNuclearCapacity": "890MW",
+        "newCapacityContractTerm": "20년",
+        "existingAssetSupply": "2700MW",
+        "existingSupplyContractTerm": "15년",
+        "nuclearUnits": "11기",
+        "constellationInvestment": ">43억달러",
+        "firstUprateTarget": "2028년까지",
+        "technologyAllianceTerm": "5년"
+      },
+      "uncertainty": "2028년 공급과 운영 효율 향상은 기업이 밝힌 계획·목표입니다. 이번 발표가 발전능력 증강의 완료나 한국 기업의 수주 확정을 뜻하지 않습니다.",
+      "sources": [
+        {
+          "name": "오피니언뉴스",
+          "title": "구글, 美 원전기업 컨스텔레이션과 대규모 전력구매 계약",
+          "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=145322",
+          "publishedAt": "2026-10-07T07:43:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "본문과 HTML article:published_time·og:image 확인. 전체 3,590MW와 기존 설비 2,700MW의 포함관계는 공식 발표로 정리했습니다. 사이트 상단 전체 갱신 시각은 기사 수정 시각으로 쓰지 않았습니다.",
+          "imageUrl": "http://www.opinionnews.co.kr/news/thumbnail/202610/145322_107273_3237_v150.jpg"
+        },
+        {
+          "name": "Constellation Energy",
+          "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+          "url": "https://investors.constellationenergy.com/news-releases/news-release-details/google-and-constellation-announce-landmark-agreement-bring-890",
+          "publishedAt": "2026-10-06T06:30:00-04:00",
+          "verifiedAt": "2026-10-07T12:07:48+09:00",
+          "kind": "official",
+          "language": "en",
+          "verificationNote": "기업 공식 IR 원문을 열어 October 6, 2026 at 6:30 AM EDT 및 계약 구조·공급 계획을 확인했습니다. 초기 직접 URL 열기 실패 뒤 검색 결과 참조 열기로 전체 본문 확인에 성공했습니다. 같은 공동 발표문을 구글도 게시했으며 별개의 독립 취재로 세지 않습니다."
+        },
+        {
+          "name": "Google Cloud",
+          "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+          "url": "https://www.googlecloudpresscorner.com/2026-10-06-Google-and-Constellation-Announce-Landmark-Agreement-to-Bring-890-MW-of-New-Nuclear-Capacity-to-PJM-Grid-as-Part-of-Long-Term-Power-Deal",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-07T12:07:48+09:00",
+          "kind": "official",
+          "language": "en",
+          "verificationNote": "공식 공동 발표 본문 열어 확인. 이 페이지는 현지 10월 6일 날짜만 표시해 publishedAt은 null로 유지했습니다. 동일 발표의 정확한 시각은 컨스텔레이션 공식 IR에서 06:30 EDT로 별도 확인했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-07/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-07T12:12:39+09:00"
+}

@@ -1,10 +1,161 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T21:17:18+09:00",
-  "editionCount": 45,
-  "storyCount": 355,
+  "updatedAt": "2026-10-07T12:12:39+09:00",
+  "editionCount": 46,
+  "storyCount": 362,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "youth-future-savings-second-window-2026",
+      "title": "2026년 청년미래적금 2차 가입신청",
+      "categories": [
+        "경제·생활정책"
+      ],
+      "firstCoveredAt": "2026-10-07T12:12:39+09:00",
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "youth-future-savings-second-window-2026-10-07",
+        "title": "청년미래적금 2차 신청 기간…오늘은 출생연도 끝자리 홀수",
+        "stage": "예정",
+        "change": "사전 공지된 2차 신청 기간과 홀짝제를 08:30 기준 일정으로 기록합니다. 접수 결과와 개별 가입 확정은 아직 다루지 않습니다.",
+        "archive": false
+      },
+      "path": "youth-future-savings-second-window-2026.json"
+    },
+    {
+      "id": "us-equities-chips-rates-oil",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응",
+      "categories": [
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 19,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "us-market-2026-10-06",
+        "title": "S&P500 첫 7,800선 마감…AI칩 상승 속 메모리주는 하락",
+        "stage": "결과",
+        "change": "10월 5일 종가 이후 새 거래일인 6일 S&P500이 처음 7,800선을 넘어 마감했고, 나스닥도 최고 종가를 새로 썼습니다. AI 가속기·맞춤형 칩과 메모리주의 등락 차이도 확인됐습니다.",
+        "archive": false
+      },
+      "path": "us-equities-chips-rates-oil.json"
+    },
+    {
+      "id": "middle-east-oil-supply",
+      "title": "중동 원유 공급과 국제유가",
+      "categories": [
+        "국제·에너지"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 15,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "oil-close-2026-10-06",
+        "title": "브렌트유 100.58달러·WTI 89.44달러…장중 하락 뒤 강보합",
+        "stage": "결과",
+        "change": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다.",
+        "archive": false
+      },
+      "path": "middle-east-oil-supply.json"
+    },
+    {
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+      "categories": [
+        "금융·보안"
+      ],
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 6,
+      "firstCoveredDate": "2026-10-02",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "bank-threat-sharing-response-2026-10-07",
+        "title": "금융권 공격 IP 28개 공유…점검 결과 검토·2차 피해 대응으로",
+        "stage": "후속",
+        "change": "금융권 점검 결과 제출과 위협정보 공유, 한 달간 2차 피해 대응으로 조치가 구체화됐습니다. 최종 피해와 공격 배후는 미확정입니다.",
+        "archive": false
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json"
+    },
+    {
+      "id": "honam-semiconductor-cluster",
+      "title": "호남 반도체 클러스터 논의",
+      "categories": [
+        "반도체",
+        "반도체·전력"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 4,
+      "firstCoveredDate": "2026-09-25",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "honam-power-grid-review-2026-10-06",
+        "title": "호남 팹 9기 가정에 전력 14GW…정부, 전력망 재검토 방침",
+        "stage": "검토",
+        "change": "호남 팹 확대 가정의 14GW 수요와 전력망 재검토 방침을 처음 원문 검증해 기록합니다. 구체 설계와 입지는 검토 단계입니다.",
+        "archive": false
+      },
+      "path": "honam-semiconductor-cluster.json"
+    },
+    {
+      "id": "google-constellation-nuclear-power",
+      "title": "구글·컨스텔레이션 전력 계약과 원전 출력 증강",
+      "categories": [
+        "기술·AI인프라"
+      ],
+      "firstCoveredAt": "2026-10-07T12:12:39+09:00",
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "google-constellation-power-deal-2026-10-06",
+        "title": "구글, 3,590MW 전력 계약…새 원전 출력 증강분은 890MW",
+        "stage": "발표",
+        "change": "총 3,590MW 전력 계약을 발표했으며 그중 순증 원전 용량은 890MW입니다. 첫 출력 증강분 공급은 2028년까지의 계획입니다.",
+        "archive": false
+      },
+      "path": "google-constellation-nuclear-power.json"
+    },
+    {
+      "id": "frankfurt-korea-pavilion-2026",
+      "title": "2026 프랑크푸르트도서전 공동 한국관과 웹툰·출판 IP 수출",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-07T12:12:39+09:00",
+      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-07",
+      "lastCoveredDate": "2026-10-07",
+      "latest": {
+        "editionId": "2026-10-07-am",
+        "storyId": "frankfurt-korea-pavilion-webtoon-2026",
+        "title": "웹툰·문학 해외 판권을 한곳에서…프랑크푸르트 공동 한국관 첫 운영",
+        "stage": "예정",
+        "change": "출판진흥원·콘진원·번역원이 처음으로 공동 한국관을 운영할 계획이며 웹툰·웹소설을 포함합니다. 실제 수출 계약 성과는 아직 확인되지 않았습니다.",
+        "archive": false
+      },
+      "path": "frankfurt-korea-pavilion-2026.json"
+    },
     {
       "id": "samsung-electromechanics-ai-components-contracts",
       "title": "삼성전기 AI 서버 부품 장기 공급계약",
@@ -156,51 +307,6 @@
       "path": "bunker-day-webtoon-ost.json"
     },
     {
-      "id": "us-equities-chips-rates-oil",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응",
-      "categories": [
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
-      "eventCount": 18,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-06",
-      "latest": {
-        "editionId": "2026-10-06-am",
-        "storyId": "us-market-2026-10-05",
-        "title": "나스닥 27,477.31 최고 종가…장기금리 부담 속 AI주 강세",
-        "stage": "결과",
-        "change": "9월 시장 편중 분석 이후 새 거래일인 10월 5일의 3대 지수 종가와 나스닥 최고 종가, 장중 국채금리 상승이 확인됐습니다.",
-        "archive": false
-      },
-      "path": "us-equities-chips-rates-oil.json"
-    },
-    {
-      "id": "middle-east-oil-supply",
-      "title": "중동 원유 공급과 국제유가",
-      "categories": [
-        "국제·에너지"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-06T12:05:34+09:00",
-      "eventCount": 14,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-06",
-      "latest": {
-        "editionId": "2026-10-06-am",
-        "storyId": "oil-close-2026-10-05",
-        "title": "WTI 89.43달러로 마감…공급 증가 기대에 유가 이틀째 하락",
-        "stage": "결과",
-        "change": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
-        "archive": false
-      },
-      "path": "middle-east-oil-supply.json"
-    },
-    {
       "id": "korea-foreign-exchange-reserves",
       "title": "한국 외환보유액과 운용·위탁 변화",
       "categories": [
@@ -285,27 +391,6 @@
         "archive": false
       },
       "path": "lotto-work-ip-expansion.json"
-    },
-    {
-      "id": "korea-bank-cyber-incidents-2026-10",
-      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
-      "categories": [
-        "금융·보안"
-      ],
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "lastCoveredAt": "2026-10-05T21:17:29+09:00",
-      "eventCount": 5,
-      "firstCoveredDate": "2026-10-02",
-      "lastCoveredDate": "2026-10-05",
-      "latest": {
-        "editionId": "2026-10-05-pm",
-        "storyId": "p2p-finance-cyber-response-2026-10-05",
-        "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
-        "stage": "보도",
-        "change": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
-        "archive": false
-      },
-      "path": "korea-bank-cyber-incidents-2026-10.json"
     },
     {
       "id": "korea-ai-budget-2027",
@@ -1484,27 +1569,6 @@
         "archive": true
       },
       "path": "korea-business-sentiment.json"
-    },
-    {
-      "id": "honam-semiconductor-cluster",
-      "title": "호남 반도체 클러스터 논의",
-      "categories": [
-        "반도체"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 3,
-      "firstCoveredDate": "2026-09-25",
-      "lastCoveredDate": "2026-09-29",
-      "latest": {
-        "editionId": "2026-09-29-pm-archive",
-        "storyId": "archive-03",
-        "title": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시.",
-        "archive": true
-      },
-      "path": "honam-semiconductor-cluster.json"
     },
     {
       "id": "ai-rd-intelligence-explosion",

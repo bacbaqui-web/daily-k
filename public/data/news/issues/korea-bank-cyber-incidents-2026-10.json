@@ -309,6 +309,89 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-07-am/bank-threat-sharing-response-2026-10-07",
+      "editionId": "2026-10-07-am",
+      "storyId": "bank-threat-sharing-response-2026-10-07",
+      "editionDate": "2026-10-07",
+      "edition": "am",
+      "coveredAt": "2026-10-07T12:12:39+09:00",
+      "coveredOn": "2026-10-07",
+      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "공격정보 공유와 보안점검 결과 제출은 10월 6일 확인된 조치입니다. 7일 오전 기사는 그 현황을 정리했으며 공유·제출의 정확한 시각은 미확인입니다.",
+      "stage": "후속",
+      "change": "금융권 점검 결과 제출과 위협정보 공유, 한 달간 2차 피해 대응으로 조치가 구체화됐습니다. 최종 피해와 공격 배후는 미확정입니다.",
+      "title": "금융권 공격 IP 28개 공유…점검 결과 검토·2차 피해 대응으로",
+      "category": "금융·보안",
+      "status": "보도",
+      "summary": [
+        "금융권 해킹에 쓰인 것으로 확인된 IP 주소 28개가 금융회사와 한국인터넷진흥원의 위협정보 공유체계에 전달됐습니다. 은행·카드업권 40곳은 보안점검 결과를 제출했고, 금융당국은 미흡한 부분을 검토하고 있습니다.",
+        "IP는 인터넷 접속 주소입니다. 공유된 목록은 중복을 뺀 28개이며, 이를 막는 것과 함께 과거 접속 기록 및 본인확인·접근권한을 점검해야 한다는 것이 당국과 보안업계의 설명입니다.",
+        "10월 5일 저녁에는 온투업권 회의 소집 계획을 다뤘습니다. 이후 은행 20곳과 카드업권 20곳의 점검 결과 제출이 확인됐으며, 이 40곳을 정보유출 피해 회사 수로 읽으면 안 됩니다.",
+        "금융위원회는 6일부터 한 달간 2차 피해 특별대응기간을 운영하고, 피해고객 전담창구와 이상거래 감시를 강화하도록 했습니다. 유출 여부는 해당 금융회사의 공식 앱·홈페이지나 고객센터에서 확인하라는 안내입니다.",
+        "공격자는 접속 주소를 바꿀 수 있어 목록 차단만으로 모든 위험이 해소되지는 않습니다. 모든 공격에 AI가 사용됐는지와 동일 배후의 소행인지는 미확정이며, 나머지 업권의 8일 점검 결과와 실제 보완 여부가 남은 확인 대상입니다."
+      ],
+      "keyFacts": {
+        "response": "28개 공격IP 공유·점검 결과 검토·2차 피해 특별대응",
+        "aiAttribution": "미확정",
+        "attackIpCount": "중복 제거28개",
+        "bankCardReports": "은행20곳+카드업권20곳, 총40곳 제출",
+        "otherSectorsDeadline": "2026-10-08",
+        "specialResponse": "2026-10-06부터1개월, 연장 가능"
+      },
+      "uncertainty": "28개 주소와 40개 제출기관은 공격자 수나 피해회사 수가 아닙니다. 공격 배후와 모든 사고의 AI 활용 여부, 최종 피해는 조사 중입니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "은행發 'AI 해킹' 공포…공격 IP 28개 막으면 걱정 끝?",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816173",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:09:37+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477801_web.jpg",
+          "verificationNote": "수정 07:59:33까지 컷오프 이전. 공격 IP 중복 제거 28개, C-TAS 공유, 인증·권한 점검 내용을 원문에서 확인했습니다. AI 사용과 배후는 확정하지 않습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "은행·카드 40곳 보안점검 결과 제출…금융당국, 분석 돌입(종합)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816187",
+          "publishedAt": "2026-10-06T17:41:20+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "은행 20곳·카드업권 20곳의 점검 결과 제출 보도와 한 달간 2차 피해 특별대응 내용을 확인했습니다. 40곳은 피해 금융사 수가 아닙니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
+          "url": "https://www.fsc.go.kr/no010101/87882?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "공식 본문 10월 6일 게시와 14시 회의 시각 확인. 정확한 게시 시각은 미표시이므로 null. 같은 내용이 6일 17:41 기사에 있어 컷오프 전 공개를 대조했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-07/am.json",
+      "previous": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "p2p-finance-cyber-response-2026-10-05"
+      },
+      "followUp": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "p2p-finance-cyber-response-2026-10-05",
+        "delta": "온투업권 소집 계획 이후 28개 공격IP 공유, 은행·카드40곳의 점검 결과 제출, 한 달간2차 피해 대응조치가 확인됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-10-05-pm/p2p-finance-cyber-response-2026-10-05",
       "editionId": "2026-10-05-pm",
       "storyId": "p2p-finance-cyber-response-2026-10-05",
@@ -369,5 +452,5 @@
       "supersededBy": []
     }
   ],
-  "updatedAt": "2026-10-06T21:17:18+09:00"
+  "updatedAt": "2026-10-07T12:12:39+09:00"
 }

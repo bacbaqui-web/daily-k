@@ -1,0 +1,905 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-07-am",
+  "date": "2026-10-07",
+  "edition": "am",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-07T08:30:00+09:00",
+  "generatedAt": "2026-10-07T12:12:39+09:00",
+  "intro": "10월7일 오전 브리핑입니다.08시30분까지 공개된 정보만 반영한 지연 발행 회차입니다.",
+  "overview": [
+    "밤사이 미국 증시와 국제유가의 새 마감 결과를 확인하고, AI 투자에 필요한 전력 확보를 함께 살폈습니다. 구글의 전력 계약은 신규 증설과 기존 발전량 구매를 구분해야 하며, 호남 반도체 전력 수요 역시 공장 확대를 가정한 추정입니다.",
+    "국내에서는 금융권 보안점검 결과 제출과 2차 피해 대응이 구체화됐습니다. 공격 IP 차단만으로 문제가 끝나는 것은 아니며, 청년미래적금은 오늘 신청 대상과 이후 심사·계좌개설 일정을 나눠 확인할 필요가 있습니다.",
+    "웹툰·웹소설은 프랑크푸르트도서전 공동 한국관을 통해 해외 판권 상담 접점을 넓힙니다. 이 회차는 10월7일08시30분까지 공개된 정보로 구성했으며, 실제 작성·발행은 늦어졌습니다. 당일 일정은 그 기준의 사전 안내로 읽어야 하고 이후 발표된 실적·회의 결과는 포함하지 않았습니다."
+  ],
+  "overviewEmphasis": [
+    "미국 증시와 국제유가의 새 마감 결과",
+    "신규 증설과 기존 발전량 구매",
+    "공장 확대를 가정한 추정",
+    "2차 피해 대응",
+    "심사·계좌개설 일정을 나눠",
+    "해외 판권 상담",
+    "10월7일08시30분까지 공개된 정보"
+  ],
+  "stories": [
+    {
+      "id": "us-market-2026-10-06",
+      "topicKey": "us-market-2026-10-06",
+      "category": "증시·반도체",
+      "title": "S&P500 첫 7,800선 마감…AI칩 상승 속 메모리주는 하락",
+      "status": "확정",
+      "publishedAt": "2026-10-07T08:01:11+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 2026년 10월 6일 정규장 마감 결과입니다. 기사에 나온 국채금리 관측치는 주가지수 종가와 다른 시점일 수 있어 별도로 구분합니다.",
+      "summary": [
+        "미국 10월 6일 정규장에서 S&P500이 0.58% 오른 7,818.93으로 마감하며 처음으로 종가 7,800선을 넘었습니다. 나스닥도 0.45% 상승한 27,599.79로 최고 종가를 경신했습니다.",
+        "다우지수는 0.49% 오른 51,521.28로 장을 마쳤습니다. 다음 주 본격화할 기업 실적 발표에 대한 기대와 미국 국채금리의 하락이 투자심리를 뒷받침했다는 것이 보도들의 설명입니다.",
+        "종목별로는 마벨이 5.8%, AMD가 2.8%, 브로드컴이 3.67% 올랐습니다. 반면 마이크론은 1.73%, 미국에서 거래되는 SK하이닉스 주식예탁증서(ADR)는 6.39% 하락해 반도체 안에서도 흐름이 갈렸습니다.",
+        "어제 전한 5일장에 이어 지수 최고치가 높아졌지만, 국내 반도체주를 판단할 때는 메모리주의 약세도 함께 봐야 합니다. 뉴시스가 전한 10년물 국채금리 5.281%는 당시 관측치이며, 국내 개장 이후 방향이나 연준의 다음 금리 결정을 뜻하지 않습니다."
+      ],
+      "emphasis": [
+        "7,818.93",
+        "27,599.79",
+        "메모리주의 약세",
+        "5.281%"
+      ],
+      "keyFacts": {
+        "sessionDate": "2026-10-06 미국 현지",
+        "sp500Close": "7818.93",
+        "sp500Change": "0.58%",
+        "nasdaqClose": "27599.79",
+        "nasdaqChange": "0.45%",
+        "dowClose": "51521.28",
+        "dowChange": "0.49%",
+        "amdChange": "2.8%",
+        "broadcomChange": "3.67%",
+        "marvellChange": "5.8%",
+        "micronChange": "-1.73%",
+        "hynixAdrChange": "-6.39%",
+        "us10yObserved": "5.281%, 기사 관측치"
+      },
+      "whatChanged": "10월 5일 종가 이후 새 거래일인 6일 S&P500이 처음 7,800선을 넘어 마감했고, 나스닥도 최고 종가를 새로 썼습니다. AI 가속기·맞춤형 칩과 메모리주의 등락 차이도 확인됐습니다.",
+      "whyItMatters": "미국 AI칩과 메모리주의 차별화는 국내 기술주의 반응을 읽을 때 중요한 변수입니다. 지수 상승을 모든 반도체 기업의 개선으로 일반화하지 않습니다.",
+      "uncertainty": "실적 개선은 기대이며 아직 발표 결과가 아닙니다. 국내장의 실제 개장 결과는 포함 기준 이후이므로 반영하지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "[오늘의 증시]실적 앞두고 美증시 강세…코스피, 반도체 훈풍에 반등 전망",
+          "url": "https://www.newsis.com/view/NISX20261007_0003816538",
+          "publishedAt": "2026-10-07T08:01:11+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verificationNote": "웹 열기로 본문 확인, 직접 HTML의 article:published_time과 og:image 확인. 기사 안 국내장 예상은 전망으로만 읽고 실제 개장 결과는 사용하지 않았습니다.",
+          "imageUrl": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215310_web.jpg"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "[뉴욕증시] S&P500·나스닥 사상 최고…엔비디아, 나흘째 신기록",
+          "url": "https://www.fnnews.com/news/202610070525261635",
+          "publishedAt": "2026-10-07T05:28:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "본문과 화면 입력·수정 05:28 확인. 엔비디아 +0.14%, 마이크론 -1.73%, SK하이닉스 ADR -6.39%를 대조했습니다. 직접 HTML 요청은 403으로 대표 이미지를 추정하지 않았습니다.",
+          "updatedAt": "2026-10-07T05:28:00+09:00"
+        },
+        {
+          "name": "한국경제",
+          "title": "AI 반도체株에 다시 돈 몰렸다…AMD·브로드컴·마벨 등 강세 [뉴욕증시 브리핑]",
+          "url": "https://www.hankyung.com/article/2026100768816",
+          "publishedAt": "2026-10-07T07:17:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "웹 열기로 공개 표시된 기사 본문 전체와 입력·수정 시각 07:17 확인. 마이크론 달러 종가가 다른 매체와 0.06달러 달라 가격은 쓰지 않고 일치하는 -1.73%만 사용합니다.",
+          "updatedAt": "2026-10-07T07:17:00+09:00"
+        },
+        {
+          "name": "아시아경제",
+          "title": "[뉴욕증시] 기업 실적발표 앞두고 S&P500·나스닥 또 사상 최고치(종합)",
+          "url": "https://view.asiae.co.kr/article/2026100706035882986",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T06:03:00+09:00",
+          "updatedAt": "2026-10-07T07:49:00+09:00",
+          "verifiedAt": "2026-10-07T12:11:31+09:00",
+          "verificationNote": "실제 원문 본문에서 S&P500의 사상 첫 종가 7,800선 돌파를 직접 확인했습니다. 검색 요약의 수정 07:02와 달리 실제 열린 페이지는 07:49로 표시되며 둘 다 기준 이전입니다. 국채금리 수치는 매체별 관측시점 차이가 있어 이 매체의 5.27%를 별도 종가로 사용하지 않았습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "[오늘의 증시]실적 앞두고 美증시 강세…코스피, 반도체 훈풍에 반등 전망",
+          "url": "https://www.newsis.com/view/NISX20261007_0003816538",
+          "publishedAt": "2026-10-07T08:01:11+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verificationNote": "웹 열기로 본문 확인, 직접 HTML의 article:published_time과 og:image 확인. 기사 안 국내장 예상은 전망으로만 읽고 실제 개장 결과는 사용하지 않았습니다.",
+          "imageUrl": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215310_web.jpg"
+        },
+        {
+          "name": "한국경제",
+          "title": "AI 반도체株에 다시 돈 몰렸다…AMD·브로드컴·마벨 등 강세 [뉴욕증시 브리핑]",
+          "url": "https://www.hankyung.com/article/2026100768816",
+          "publishedAt": "2026-10-07T07:17:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "웹 열기로 공개 표시된 기사 본문 전체와 입력·수정 시각 07:17 확인. 마이크론 달러 종가가 다른 매체와 0.06달러 달라 가격은 쓰지 않고 일치하는 -1.73%만 사용합니다.",
+          "updatedAt": "2026-10-07T07:17:00+09:00"
+        },
+        {
+          "name": "아시아경제",
+          "title": "[뉴욕증시] 기업 실적발표 앞두고 S&P500·나스닥 또 사상 최고치(종합)",
+          "url": "https://view.asiae.co.kr/article/2026100706035882986",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T06:03:00+09:00",
+          "updatedAt": "2026-10-07T07:49:00+09:00",
+          "verifiedAt": "2026-10-07T12:11:31+09:00",
+          "verificationNote": "실제 원문 본문에서 S&P500의 사상 첫 종가 7,800선 돌파를 직접 확인했습니다. 검색 요약의 수정 07:02와 달리 실제 열린 페이지는 07:49로 표시되며 둘 다 기준 이전입니다. 국채금리 수치는 매체별 관측시점 차이가 있어 이 매체의 5.27%를 별도 종가로 사용하지 않았습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 95,
+        "interest": 98,
+        "domesticImpact": 94,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "밤사이 새 거래 결과와 국내 반도체 관련성이 높고 여러 국내 매체의 종가·등락률을 교차 확인했습니다.",
+      "timeline": {
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "결과",
+        "change": "10월 5일 종가 이후 새 거래일인 6일 S&P500이 처음 7,800선을 넘어 마감했고, 나스닥도 최고 종가를 새로 썼습니다. AI 가속기·맞춤형 칩과 메모리주의 등락 차이도 확인됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-06-am",
+        "storyId": "us-market-2026-10-05",
+        "delta": "10월 5일 종가 이후 새 거래일인 6일 S&P500이 처음 7,800선을 넘어 마감했고, 나스닥도 최고 종가를 새로 썼습니다. AI 가속기·맞춤형 칩과 메모리주의 등락 차이도 확인됐습니다."
+      },
+      "score": 97.45,
+      "factsHash": "976a94dbfa3d13a76b389c7249f089386d859b3edcc8062f374dd47d07d939e4"
+    },
+    {
+      "id": "bank-threat-sharing-response-2026-10-07",
+      "topicKey": "korea-bank-breaches-2026-10",
+      "category": "금융·보안",
+      "title": "금융권 공격 IP 28개 공유…점검 결과 검토·2차 피해 대응으로",
+      "status": "보도",
+      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "공격정보 공유와 보안점검 결과 제출은 10월 6일 확인된 조치입니다. 7일 오전 기사는 그 현황을 정리했으며 공유·제출의 정확한 시각은 미확인입니다.",
+      "summary": [
+        "금융권 해킹에 쓰인 것으로 확인된 IP 주소 28개가 금융회사와 한국인터넷진흥원의 위협정보 공유체계에 전달됐습니다. 은행·카드업권 40곳은 보안점검 결과를 제출했고, 금융당국은 미흡한 부분을 검토하고 있습니다.",
+        "IP는 인터넷 접속 주소입니다. 공유된 목록은 중복을 뺀 28개이며, 이를 막는 것과 함께 과거 접속 기록 및 본인확인·접근권한을 점검해야 한다는 것이 당국과 보안업계의 설명입니다.",
+        "10월 5일 저녁에는 온투업권 회의 소집 계획을 다뤘습니다. 이후 은행 20곳과 카드업권 20곳의 점검 결과 제출이 확인됐으며, 이 40곳을 정보유출 피해 회사 수로 읽으면 안 됩니다.",
+        "금융위원회는 6일부터 한 달간 2차 피해 특별대응기간을 운영하고, 피해고객 전담창구와 이상거래 감시를 강화하도록 했습니다. 유출 여부는 해당 금융회사의 공식 앱·홈페이지나 고객센터에서 확인하라는 안내입니다.",
+        "공격자는 접속 주소를 바꿀 수 있어 목록 차단만으로 모든 위험이 해소되지는 않습니다. 모든 공격에 AI가 사용됐는지와 동일 배후의 소행인지는 미확정이며, 나머지 업권의 8일 점검 결과와 실제 보완 여부가 남은 확인 대상입니다."
+      ],
+      "emphasis": [
+        "IP 주소 28개",
+        "보안점검 결과를 제출",
+        "2차 피해 특별대응기간",
+        "동일 배후의 소행인지는 미확정"
+      ],
+      "whatChanged": "직전 보도 뒤 28개 공격 IP의 업권 외 공유, 은행·카드 40곳 점검 결과 제출 및 10월 6일부터 한 달간 2차 피해 대응 조치가 확인됐습니다.",
+      "whyItMatters": "유출 사실 확인에 이어 취약 시스템 보완과 사칭·스미싱 등 후속 피해 예방이 실제로 이행되는지 점검하는 단계입니다.",
+      "uncertainty": "28개 주소와 40개 제출기관은 공격자 수나 피해회사 수가 아닙니다. 공격 배후와 모든 사고의 AI 활용 여부, 최종 피해는 조사 중입니다.",
+      "keyFacts": {
+        "response": "28개 공격IP 공유·점검 결과 검토·2차 피해 특별대응",
+        "aiAttribution": "미확정",
+        "attackIpCount": "중복 제거28개",
+        "bankCardReports": "은행20곳+카드업권20곳, 총40곳 제출",
+        "otherSectorsDeadline": "2026-10-08",
+        "specialResponse": "2026-10-06부터1개월, 연장 가능"
+      },
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "은행發 'AI 해킹' 공포…공격 IP 28개 막으면 걱정 끝?",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816173",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:09:37+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477801_web.jpg",
+          "verificationNote": "수정 07:59:33까지 컷오프 이전. 공격 IP 중복 제거 28개, C-TAS 공유, 인증·권한 점검 내용을 원문에서 확인했습니다. AI 사용과 배후는 확정하지 않습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "은행·카드 40곳 보안점검 결과 제출…금융당국, 분석 돌입(종합)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816187",
+          "publishedAt": "2026-10-06T17:41:20+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "은행 20곳·카드업권 20곳의 점검 결과 제출 보도와 한 달간 2차 피해 특별대응 내용을 확인했습니다. 40곳은 피해 금융사 수가 아닙니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
+          "url": "https://www.fsc.go.kr/no010101/87882?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "공식 본문 10월 6일 게시와 14시 회의 시각 확인. 정확한 게시 시각은 미표시이므로 null. 같은 내용이 6일 17:41 기사에 있어 컷오프 전 공개를 대조했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "은행發 'AI 해킹' 공포…공격 IP 28개 막으면 걱정 끝?",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816173",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:09:37+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477801_web.jpg",
+          "verificationNote": "수정 07:59:33까지 컷오프 이전. 공격 IP 중복 제거 28개, C-TAS 공유, 인증·권한 점검 내용을 원문에서 확인했습니다. AI 사용과 배후는 확정하지 않습니다."
+        },
+        {
+          "name": "뉴시스",
+          "title": "은행·카드 40곳 보안점검 결과 제출…금융당국, 분석 돌입(종합)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816187",
+          "publishedAt": "2026-10-06T17:41:20+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "은행 20곳·카드업권 20곳의 점검 결과 제출 보도와 한 달간 2차 피해 특별대응 내용을 확인했습니다. 40곳은 피해 금융사 수가 아닙니다."
+        },
+        {
+          "name": "금융위원회",
+          "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
+          "url": "https://www.fsc.go.kr/no010101/87882?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "공식 본문 10월 6일 게시와 14시 회의 시각 확인. 정확한 게시 시각은 미표시이므로 null. 같은 내용이 6일 17:41 기사에 있어 컷오프 전 공개를 대조했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 94,
+        "interest": 92,
+        "domesticImpact": 98,
+        "reliability": 95,
+        "recency": 100
+      },
+      "scoreReason": "당일 아침 확인된 보안 대응 후속으로 금융소비자와 개발·운영 관점 모두에 중요합니다. 공식 금융위 조치와 기사 수치를 구분해 확인했습니다.",
+      "followUp": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "p2p-finance-cyber-response-2026-10-05",
+        "delta": "온투업권 소집 계획 이후 28개 공격IP 공유, 은행·카드40곳의 점검 결과 제출, 한 달간2차 피해 대응조치가 확인됐습니다."
+      },
+      "timeline": {
+        "issueId": "korea-bank-cyber-incidents-2026-10",
+        "issueTitle": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "후속",
+        "change": "금융권 점검 결과 제출과 위협정보 공유, 한 달간 2차 피해 대응으로 조치가 구체화됐습니다. 최종 피해와 공격 배후는 미확정입니다."
+      },
+      "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477801_web.jpg",
+      "score": 96.6,
+      "factsHash": "3ef97efa164acd0f87be0ac2be2124a9df906974e83605eaaa430023e1317431"
+    },
+    {
+      "id": "google-constellation-power-deal-2026-10-06",
+      "topicKey": "google-constellation-power-deal-2026-10-06",
+      "category": "기술·AI인프라",
+      "title": "구글, 3,590MW 전력 계약…새 원전 출력 증강분은 890MW",
+      "status": "확정",
+      "publishedAt": "2026-10-07T07:43:00+09:00",
+      "eventAt": "2026-10-06T06:30:00-04:00",
+      "eventTimeNote": "공동 발표는 미국 동부 서머타임 10월 6일 06:30, 한국시간 10월 6일 19:30입니다. 계약 서명 자체의 별도 시각은 공개되지 않아 발표 시각을 표시했습니다.",
+      "summary": [
+        "구글과 컨스텔레이션이 AI 데이터센터 수요에 대응할 총 3,590MW 규모 전력 계약을 발표했습니다. 이 가운데 새로 늘어나는 원전 발전능력은 890MW이고, 나머지 2,700MW는 기존 발전자산의 장기 공급 계약입니다.",
+        "신규 890MW는 원전 11기의 설비를 개선해 출력을 높이는 방식으로 확보하며, 구글의 구매 기간은 20년입니다. 컨스텔레이션은 43억 달러 이상을 투자하고 첫 출력 증강분을 2028년까지 공급할 계획이라고 밝혔습니다.",
+        "기존 발전자산을 대상으로 한 2,700MW 계약 기간은 15년입니다. 따라서 전체 계약 규모를 그대로 새로 건설되는 원전 용량으로 읽어서는 안 됩니다.",
+        "양사는 5년간의 기술 협력도 맺어 구글 클라우드와 제미나이 엔터프라이즈를 발전 운영과 인프라 보호 등에 적용하기로 했습니다. AI 확대가 전력 확보와 설비 투자로 연결된 사례지만, 공급 일정과 비용 절감 효과는 앞으로 이행 여부를 확인해야 합니다."
+      ],
+      "emphasis": [
+        "총 3,590MW",
+        "새로 늘어나는 원전 발전능력은 890MW",
+        "43억 달러 이상",
+        "2028년까지",
+        "15년"
+      ],
+      "keyFacts": {
+        "totalContractCapacity": "3590MW",
+        "newNuclearCapacity": "890MW",
+        "newCapacityContractTerm": "20년",
+        "existingAssetSupply": "2700MW",
+        "existingSupplyContractTerm": "15년",
+        "nuclearUnits": "11기",
+        "constellationInvestment": ">43억달러",
+        "firstUprateTarget": "2028년까지",
+        "technologyAllianceTerm": "5년"
+      },
+      "whatChanged": "구글과 컨스텔레이션이 전력 계약과 원전 출력 증강 투자 계획을 공식 발표했습니다. 새 용량 890MW와 기존 발전자산 계약 2,700MW의 구조가 확인됐습니다.",
+      "whyItMatters": "AI 데이터센터의 전력 수요가 장기 공급 계약과 기존 원전 설비 투자로 연결된 사례입니다. 전체 계약량과 실제 순증 발전능력을 구분해야 합니다.",
+      "uncertainty": "2028년 공급과 운영 효율 향상은 기업이 밝힌 계획·목표입니다. 이번 발표가 발전능력 증강의 완료나 한국 기업의 수주 확정을 뜻하지 않습니다.",
+      "sources": [
+        {
+          "name": "오피니언뉴스",
+          "title": "구글, 美 원전기업 컨스텔레이션과 대규모 전력구매 계약",
+          "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=145322",
+          "publishedAt": "2026-10-07T07:43:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "본문과 HTML article:published_time·og:image 확인. 전체 3,590MW와 기존 설비 2,700MW의 포함관계는 공식 발표로 정리했습니다. 사이트 상단 전체 갱신 시각은 기사 수정 시각으로 쓰지 않았습니다.",
+          "imageUrl": "http://www.opinionnews.co.kr/news/thumbnail/202610/145322_107273_3237_v150.jpg"
+        },
+        {
+          "name": "Constellation Energy",
+          "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+          "url": "https://investors.constellationenergy.com/news-releases/news-release-details/google-and-constellation-announce-landmark-agreement-bring-890",
+          "publishedAt": "2026-10-06T06:30:00-04:00",
+          "verifiedAt": "2026-10-07T12:07:48+09:00",
+          "kind": "official",
+          "language": "en",
+          "verificationNote": "기업 공식 IR 원문을 열어 October 6, 2026 at 6:30 AM EDT 및 계약 구조·공급 계획을 확인했습니다. 초기 직접 URL 열기 실패 뒤 검색 결과 참조 열기로 전체 본문 확인에 성공했습니다. 같은 공동 발표문을 구글도 게시했으며 별개의 독립 취재로 세지 않습니다."
+        },
+        {
+          "name": "Google Cloud",
+          "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+          "url": "https://www.googlecloudpresscorner.com/2026-10-06-Google-and-Constellation-Announce-Landmark-Agreement-to-Bring-890-MW-of-New-Nuclear-Capacity-to-PJM-Grid-as-Part-of-Long-Term-Power-Deal",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-07T12:07:48+09:00",
+          "kind": "official",
+          "language": "en",
+          "verificationNote": "공식 공동 발표 본문 열어 확인. 이 페이지는 현지 10월 6일 날짜만 표시해 publishedAt은 null로 유지했습니다. 동일 발표의 정확한 시각은 컨스텔레이션 공식 IR에서 06:30 EDT로 별도 확인했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "오피니언뉴스",
+          "title": "구글, 美 원전기업 컨스텔레이션과 대규모 전력구매 계약",
+          "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=145322",
+          "publishedAt": "2026-10-07T07:43:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "본문과 HTML article:published_time·og:image 확인. 전체 3,590MW와 기존 설비 2,700MW의 포함관계는 공식 발표로 정리했습니다. 사이트 상단 전체 갱신 시각은 기사 수정 시각으로 쓰지 않았습니다.",
+          "imageUrl": "http://www.opinionnews.co.kr/news/thumbnail/202610/145322_107273_3237_v150.jpg"
+        },
+        {
+          "name": "Constellation Energy",
+          "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+          "url": "https://investors.constellationenergy.com/news-releases/news-release-details/google-and-constellation-announce-landmark-agreement-bring-890",
+          "publishedAt": "2026-10-06T06:30:00-04:00",
+          "verifiedAt": "2026-10-07T12:07:48+09:00",
+          "kind": "official",
+          "language": "en",
+          "verificationNote": "기업 공식 IR 원문을 열어 October 6, 2026 at 6:30 AM EDT 및 계약 구조·공급 계획을 확인했습니다. 초기 직접 URL 열기 실패 뒤 검색 결과 참조 열기로 전체 본문 확인에 성공했습니다. 같은 공동 발표문을 구글도 게시했으며 별개의 독립 취재로 세지 않습니다."
+        },
+        {
+          "name": "Google Cloud",
+          "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+          "url": "https://www.googlecloudpresscorner.com/2026-10-06-Google-and-Constellation-Announce-Landmark-Agreement-to-Bring-890-MW-of-New-Nuclear-Capacity-to-PJM-Grid-as-Part-of-Long-Term-Power-Deal",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-07T12:07:48+09:00",
+          "kind": "official",
+          "language": "en",
+          "verificationNote": "공식 공동 발표 본문 열어 확인. 이 페이지는 현지 10월 6일 날짜만 표시해 publishedAt은 null로 유지했습니다. 동일 발표의 정확한 시각은 컨스텔레이션 공식 IR에서 06:30 EDT로 별도 확인했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 90,
+        "interest": 98,
+        "domesticImpact": 78,
+        "reliability": 98,
+        "recency": 100
+      },
+      "scoreReason": "AI 인프라 전력 확보라는 높은 관심사이고 공식 공동 발표와 기준 이전 한국어 원문이 있습니다. 국내 개별 기업 수주 등 확인되지 않은 연결은 배제했습니다.",
+      "timeline": {
+        "issueId": "google-constellation-nuclear-power",
+        "issueTitle": "구글·컨스텔레이션 전력 계약과 원전 출력 증강",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "발표",
+        "change": "총 3,590MW 전력 계약을 발표했으며 그중 순증 원전 용량은 890MW입니다. 첫 출력 증강분 공급은 2028년까지의 계획입니다."
+      },
+      "score": 94.8,
+      "factsHash": "c24aad7636939ba3e1b63c8476bef1e92d577e04e8c189ec8992d08a498d9dd2"
+    },
+    {
+      "id": "oil-close-2026-10-06",
+      "topicKey": "oil-close-2026-10-06",
+      "category": "국제·에너지",
+      "title": "브렌트유 100.58달러·WTI 89.44달러…장중 하락 뒤 강보합",
+      "status": "확정",
+      "publishedAt": "2026-10-07T04:43:10+09:00",
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 2026년 10월 6일 원유 선물 마감 결과입니다. 정확한 최종 거래 시각은 추정하지 않았으며 비톨의 수출량은 최근 7~10일간의 관측입니다.",
+      "summary": [
+        "10월 6일 브렌트유 12월물은 0.26% 오른 배럴당 100.58달러, WTI 11월물은 0.01% 오른 89.44달러로 마감했습니다. 장 초반의 하락폭을 되돌리며 전날보다 조금 높은 가격에 거래를 마쳤습니다.",
+        "시장에는 공급 회복 기대와 운송·시설 위험이 동시에 남아 있습니다. 연합뉴스는 중동 원유 수출 증가와 G7 비축유 방출 합의가 수급에 미칠 영향을 투자자들이 살피고 있다고 전했습니다.",
+        "비톨은 최근 7~10일간 중동에서 하루 약 1,200만 배럴의 원유와 200만 배럴의 석유제품이 선적됐다고 설명했습니다. 다만 후티의 공격 등 군사적 긴장은 이어져 수송량 회복을 공급 위험의 해소로 단정하기 어렵습니다.",
+        "이전 회차의 5일장 하락 이후 새로 확인된 변화는 6일의 강보합 종가입니다. G7의 총 1억 배럴 방출 합의는 기존 배경이며, 실제 공급 진행과 중동 시설·항로의 안전성을 계속 구분해 볼 필요가 있습니다."
+      ],
+      "emphasis": [
+        "100.58달러",
+        "89.44달러",
+        "공급 회복 기대와 운송·시설 위험",
+        "6일의 강보합 종가"
+      ],
+      "keyFacts": {
+        "sessionDate": "2026-10-06 현지 마감",
+        "brentContract": "2026-12",
+        "brentClose": "100.58달러",
+        "brentChange": "+0.26%",
+        "wtiContract": "2026-11",
+        "wtiClose": "89.44달러",
+        "wtiChange": "+0.01%",
+        "releaseVolume": "100000000배럴, 기존 G7 합의",
+        "marketInterpretation": "중동 수출 회복 기대와 군사 긴장에 따른 공급 우려 공존"
+      },
+      "whatChanged": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다.",
+      "whyItMatters": "국제유가를 볼 때 하루의 장중 급락과 최종 종가를 구분해야 하며, 공급 회복 기대와 실제 에너지 수송 위험을 함께 확인해야 합니다.",
+      "uncertainty": "수출량은 비톨의 최근 기간 관측입니다. 비축유가 전부 공급됐거나 중동 시설·항로의 위험이 끝났다는 뜻은 아닙니다.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "국제유가, 중동 수출 회복·공급 우려 속 강보합 마감",
+          "url": "https://www.yna.co.kr/view/AKR20261007005000072",
+          "publishedAt": "2026-10-07T04:43:10+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verificationNote": "본문 전체와 HTML의 게시·수정·대표 이미지 메타데이터를 확인했습니다. 수정 06:45:14로 포함 기준 이전이며 선물 인도월·종가·등락률을 확인했습니다.",
+          "imageUrl": "https://img7.yna.co.kr/photo/reuters/2026/09/23/PRU20260923420001009_P4.jpg",
+          "updatedAt": "2026-10-07T06:45:14+09:00"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "[국제유가] 초반 급락세 접고 상승 마감…브렌트유, 100.58달러",
+          "url": "https://www.fnnews.com/news/202610070529170392",
+          "publishedAt": "2026-10-07T05:32:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "웹 열기로 본문과 입력·수정 05:32 확인. 두 원유의 인도월·종가 및 장중 하락 뒤 반전은 일치합니다. 이 기사의 브렌트 등락률 0.23%는 연합뉴스·뉴시스·한국경제의 0.26%와 달라 사용하지 않았습니다. 200달러 시나리오도 채택하지 않았습니다.",
+          "updatedAt": "2026-10-07T05:32:00+09:00"
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합뉴스",
+          "title": "국제유가, 중동 수출 회복·공급 우려 속 강보합 마감",
+          "url": "https://www.yna.co.kr/view/AKR20261007005000072",
+          "publishedAt": "2026-10-07T04:43:10+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verificationNote": "본문 전체와 HTML의 게시·수정·대표 이미지 메타데이터를 확인했습니다. 수정 06:45:14로 포함 기준 이전이며 선물 인도월·종가·등락률을 확인했습니다.",
+          "imageUrl": "https://img7.yna.co.kr/photo/reuters/2026/09/23/PRU20260923420001009_P4.jpg",
+          "updatedAt": "2026-10-07T06:45:14+09:00"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "[국제유가] 초반 급락세 접고 상승 마감…브렌트유, 100.58달러",
+          "url": "https://www.fnnews.com/news/202610070529170392",
+          "publishedAt": "2026-10-07T05:32:00+09:00",
+          "verifiedAt": "2026-10-07T12:06:47+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verificationNote": "웹 열기로 본문과 입력·수정 05:32 확인. 두 원유의 인도월·종가 및 장중 하락 뒤 반전은 일치합니다. 이 기사의 브렌트 등락률 0.23%는 연합뉴스·뉴시스·한국경제의 0.26%와 달라 사용하지 않았습니다. 200달러 시나리오도 채택하지 않았습니다.",
+          "updatedAt": "2026-10-07T05:32:00+09:00"
+        }
+      ],
+      "scoreComponents": {
+        "importance": 86,
+        "interest": 93,
+        "domesticImpact": 95,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "장중 하락 보도와 달라진 종가를 우선하고 인도월·거래일을 확인했습니다. 등락률이 다른 한 매체의 값은 채택하지 않았습니다.",
+      "timeline": {
+        "issueId": "middle-east-oil-supply",
+        "issueTitle": "중동 원유 공급과 국제유가",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "stage": "결과",
+        "change": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-06-am",
+        "storyId": "oil-close-2026-10-05",
+        "delta": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다."
+      },
+      "score": 94.55,
+      "factsHash": "13858ea856d3900c535a095ef203c97fb898511cdda776d7e53daea1a816c016"
+    },
+    {
+      "id": "frankfurt-korea-pavilion-webtoon-2026",
+      "topicKey": "frankfurt-korea-pavilion-webtoon-2026",
+      "category": "웹툰 산업",
+      "title": "웹툰·문학 해외 판권을 한곳에서…프랑크푸르트 공동 한국관 첫 운영",
+      "summary": [
+        "한국출판문화산업진흥원·한국콘텐츠진흥원·한국문학번역원이 프랑크푸르트도서전에 처음으로 공동 한국관을 마련합니다. 독일 현지 10월 7~11일 웹툰·웹소설과 문학·그림책을 함께 소개할 계획입니다.",
+        "문체부 발표에 따르면 수출상담관에는 문피아·문학동네 등 국내 출판사 15곳이 참여합니다. 현장에 오지 못하는 출판사의 위탁도서 103종은 별도로 전시하고 전문 대행사가 해외 출판사와 저작권 상담을 진행합니다.",
+        "이번 공동 운영은 기관별로 나뉘었던 해외 홍보 공간과 메시지를 연결하는 방식입니다. 8일에는 국내외 출판인 교류 행사가, 9일에는 참가사 3곳이 작품을 소개하는 투자 유치 행사가 예정돼 있습니다.",
+        "웹툰 산업 관점에서는 작품의 해외 출간과 원작 지식재산(IP) 활용을 논의할 접점이 넓어지는 기회로 볼 수 있습니다. 다만 15개사·103종은 웹툰만의 참가 규모가 아니며, 이번 행사에서 실제 체결한 계약 수나 금액은 아직 확인되지 않았습니다."
+      ],
+      "emphasis": [
+        "처음으로 공동 한국관",
+        "웹툰·웹소설과 문학·그림책",
+        "국내 출판사 15곳",
+        "위탁도서 103종",
+        "실제 체결한 계약 수나 금액은 아직 확인되지 않았습니다"
+      ],
+      "status": "예정",
+      "publishedAt": "2026-10-07T08:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "공동 한국관 운영 기간은 독일 현지 2026년 10월 7~11일입니다. 시작 시각은 확인하지 못했으며 08:30 KST 기준으로 현장 운영 완료나 계약 성과를 주장하지 않습니다.",
+      "whatChanged": "올해 프랑크푸르트도서전에서 3개 기관이 처음 공동 한국관을 마련해 웹툰·웹소설과 문학·그림책을 함께 소개하는 운영 계획이 오늘 아침 보도로 확인됐습니다.",
+      "whyItMatters": "해외 출판사·대행사와 접촉하는 공동 수출 창구가 생긴다는 점에서 웹툰 원작의 해외 판권과 IP 확장 기회를 살펴볼 수 있습니다.",
+      "uncertainty": "문체부가 밝힌 예정 프로그램입니다. 참가사·위탁도서 전체 규모를 웹툰만의 수치로 해석할 수 없으며, 이번 행사 계약 건수·금액과 작품별 성과는 미확인입니다.",
+      "keyFacts": {
+        "fair": "2026 프랑크푸르트도서전",
+        "localDates": "2026-10-07~2026-10-11",
+        "jointPavilionAgencies": "한국출판문화산업진흥원·한국콘텐츠진흥원·한국문학번역원",
+        "jointPavilionFirstTime": "3개 기관 첫 공동 한국관",
+        "exportPavilionPublishers": "15개사(출판 전 분야, 웹툰 한정 아님)",
+        "consignedBooks": "103종(출판 전 분야, 웹툰 한정 아님)",
+        "confirmedContracts": "미확인"
+      },
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "title": "문학·웹툰 한자리에…프랑크푸르트도서전 한국관 공동 운영",
+          "url": "https://www.fnnews.com/news/202610070430579886",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T08:00:00+09:00",
+          "verifiedAt": "2026-10-07T12:05:26+09:00",
+          "imageUrl": null,
+          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:00)을 직접 열어 확인했습니다. 문체부 발표를 전한 보도입니다."
+        },
+        {
+          "name": "뉴스핌",
+          "title": "문체부, 독일 현지 도서전서 'K-북 글로벌 100 프로젝트' 집중 홍보",
+          "url": "https://www.newspim.com/news/view/20261007000053",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T08:09:00+09:00",
+          "verifiedAt": "2026-10-07T12:05:44+09:00",
+          "imageUrl": null,
+          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:09)을 직접 열어 확인했습니다. 파이낸셜뉴스와 같은 문체부 발표 기반이어서 별개의 독립 확인으로 계산하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "파이낸셜뉴스",
+          "title": "문학·웹툰 한자리에…프랑크푸르트도서전 한국관 공동 운영",
+          "url": "https://www.fnnews.com/news/202610070430579886",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T08:00:00+09:00",
+          "verifiedAt": "2026-10-07T12:05:26+09:00",
+          "imageUrl": null,
+          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:00)을 직접 열어 확인했습니다. 문체부 발표를 전한 보도입니다."
+        },
+        {
+          "name": "뉴스핌",
+          "title": "문체부, 독일 현지 도서전서 'K-북 글로벌 100 프로젝트' 집중 홍보",
+          "url": "https://www.newspim.com/news/view/20261007000053",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-07T08:09:00+09:00",
+          "verifiedAt": "2026-10-07T12:05:44+09:00",
+          "imageUrl": null,
+          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:09)을 직접 열어 확인했습니다. 파이낸셜뉴스와 같은 문체부 발표 기반이어서 별개의 독립 확인으로 계산하지 않습니다."
+        }
+      ],
+      "imageUrl": null,
+      "scoreComponents": {
+        "importance": 75,
+        "interest": 95,
+        "domesticImpact": 80,
+        "reliability": 92,
+        "recency": 100
+      },
+      "scoreReason": "기준 시각 30분 전 발행된 당일 뉴스로 최신성이 높고 필수 웹툰 분야의 해외 판권·IP 유통 관심사에 부합합니다. 여러 출판 분야를 포괄하는 예정 행사이므로 중요도를 과도하게 높이지 않았습니다.",
+      "timeline": {
+        "issueId": "frankfurt-korea-pavilion-2026",
+        "issueTitle": "2026 프랑크푸르트도서전 공동 한국관과 웹툰·출판 IP 수출",
+        "eventDate": "2026-10-07",
+        "eventEndDate": "2026-10-11",
+        "eventTimezone": "Europe/Berlin",
+        "stage": "예정",
+        "change": "출판진흥원·콘진원·번역원이 처음으로 공동 한국관을 운영할 계획이며 웹툰·웹소설을 포함합니다. 실제 수출 계약 성과는 아직 확인되지 않았습니다."
+      },
+      "score": 90.2,
+      "factsHash": "1e405cdd579ac745b6ca6d67945e08c12b419e2afffd5ee28408aeeaa3dc3a9d"
+    },
+    {
+      "id": "youth-future-savings-second-window-2026-10-07",
+      "topicKey": "youth-future-savings-second-window-2026",
+      "category": "경제·생활정책",
+      "title": "청년미래적금 2차 신청 기간…오늘은 출생연도 끝자리 홀수",
+      "status": "예정",
+      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "eventAt": "2026-10-07T09:00:00+09:00",
+      "eventTimeNote": "08:30 기준 확인한 사전 안내에서 신청기간은 10월7~16일, 운영시간은09:00~18:30입니다. 지연 발행 시점의 실제 접수 시스템 운영 결과를 확인한 기사는 아닙니다.",
+      "summary": [
+        "청년미래적금 2차 가입신청 기간은 10월 7~16일입니다. 첫날인 오늘은 출생연도 끝자리가 홀수인 신청자, 8일은 짝수인 신청자가 대상이며 12~16일에는 출생연도와 관계없이 신청할 수 있습니다.",
+        "오전 8시 30분까지 공개된 안내에 따르면 취급기관 앱의 신청시간은 오전 9시부터 오후 6시 30분까지입니다. 토·일요일과 공휴일은 제외되며, 이번 회차는 신청창구 운영 실적이 아니라 사전에 공지된 일정을 전합니다.",
+        "상품은 3년 만기로 매달 최대 50만원을 납입하고, 자격에 따라 정부기여금과 이자소득 비과세 혜택이 적용됩니다. 나이뿐 아니라 소득·가구소득 등 심사가 있어 신청 가능 여부와 일반형·우대형 적용을 구분해야 합니다.",
+        "신청일에 바로 계좌가 개설되는 것은 아닙니다. 심사 결과 안내는 11월 12~13일, 계좌 개설은 11월 16~27일로 공지됐으며 기존 청년도약계좌 가입자의 전환도 별도 절차를 거칩니다."
+      ],
+      "emphasis": [
+        "오늘은 출생연도 끝자리가 홀수",
+        "소득·가구소득 등 심사",
+        "신청일에 바로 계좌가 개설되는 것은 아닙니다"
+      ],
+      "whatChanged": "이미 공지된 2차 모집의 신청 대상일이 도래해 당일 홀짝제와 실제 계좌개설 일정을 구분해 안내합니다. 새로운 상품 출시나 운영결과 발표는 아닙니다.",
+      "whyItMatters": "첫 이틀의 신청 대상과 11월 실제 계좌개설을 혼동하지 않아야 접수 계획을 세울 수 있습니다.",
+      "uncertainty": "개별 가입 및 기여금 자격은 심사 결과에 따릅니다. 08:30 이후 실제 접수 개시·장애·신청 건수는 반영하지 않았습니다.",
+      "keyFacts": {
+        "applicationWindow": "2026-10-07~2026-10-16, 주말·공휴일제외",
+        "oddBirthYearDay": "2026-10-07",
+        "evenBirthYearDay": "2026-10-08",
+        "dailyHours": "09:00~18:30 KST",
+        "accountOpeningWindow": "2026-11-16~2026-11-27"
+      },
+      "sources": [
+        {
+          "name": "한국금융신문",
+          "title": "청년미래적금 2차 가입 시작…10월 7일부터 16일까지 신청",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610062030051653dd55077bc2_18",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "데스크톱 원문을 열어 입력 시각과 모집·심사·개설 일정을 확인했습니다. 새 상품 발표가 아니라 이미 공지된 2차 신청 일정의 당일 안내입니다."
+        },
+        {
+          "name": "대한민국 정책브리핑·금융위원회",
+          "title": "7일부터 청년미래적금 2차 가입 신청…은행 앱으로 간편하게",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973066",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "10월 6일 공식 게시일 확인, 정확한 게시 시각은 미표시. 신청기간, 소득심사, 납입한도, 기여금과 예산안 조건을 확인했습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "한국금융신문",
+          "title": "청년미래적금 2차 가입 시작…10월 7일부터 16일까지 신청",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610062030051653dd55077bc2_18",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "kind": "specialist",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "데스크톱 원문을 열어 입력 시각과 모집·심사·개설 일정을 확인했습니다. 새 상품 발표가 아니라 이미 공지된 2차 신청 일정의 당일 안내입니다."
+        },
+        {
+          "name": "대한민국 정책브리핑·금융위원회",
+          "title": "7일부터 청년미래적금 2차 가입 신청…은행 앱으로 간편하게",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973066",
+          "publishedAt": null,
+          "kind": "official",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "10월 6일 공식 게시일 확인, 정확한 게시 시각은 미표시. 신청기간, 소득심사, 납입한도, 기여금과 예산안 조건을 확인했습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 79,
+        "interest": 70,
+        "domesticImpact": 89,
+        "reliability": 96,
+        "recency": 100
+      },
+      "scoreReason": "당일 신청일이 도래한 생활경제 정책으로 편집상 생활 파급을 보완합니다. 기존 공지의 당일 일정이며 신규 정책 발표로 포장하지 않습니다.",
+      "timeline": {
+        "issueId": "youth-future-savings-second-window-2026",
+        "issueTitle": "2026년 청년미래적금 2차 가입신청",
+        "eventDate": "2026-10-07",
+        "eventEndDate": "2026-10-16",
+        "eventTimezone": "Asia/Seoul",
+        "stage": "예정",
+        "change": "사전 공지된 2차 신청 기간과 홀짝제를 08:30 기준 일정으로 기록합니다. 접수 결과와 개별 가입 확정은 아직 다루지 않습니다."
+      },
+      "score": 88.75,
+      "factsHash": "8938593cf6c638cc616fb5943f88692d7e9cf37184dee2626e070a0ada15cfb4"
+    },
+    {
+      "id": "honam-power-grid-review-2026-10-06",
+      "topicKey": "honam-power-grid-review-2026-10-06",
+      "category": "반도체·전력",
+      "title": "호남 팹 9기 가정에 전력 14GW…정부, 전력망 재검토 방침",
+      "status": "보도",
+      "publishedAt": "2026-10-06T23:39:12+09:00",
+      "eventAt": null,
+      "eventTimeNote": "김성환 장관이 10월 6일 국정감사에서 답변했습니다. 발언의 정확한 시·분은 확인되지 않았습니다.",
+      "summary": [
+        "김성환 기후에너지환경부 장관은 호남 반도체 공장이 9기로 늘어날 경우 약 14GW의 전력이 필요하다고 설명했습니다. 늘어나는 반도체·AI 수요를 반영해 국가 전력망 계획을 다시 점검하겠다는 방침입니다.",
+        "이는 10월 6일 국정감사 답변으로, 공장 9기 건설이나 14GW 공급이 최종 확정됐다는 발표는 아닙니다. 팹은 반도체 생산시설이며, 14GW는 확대 시나리오에 따른 전력 수요 추정치입니다.",
+        "정부는 8월 협약에서 호남 산단에 2029년 3GW를 먼저 공급하는 방안을 제시했습니다. 이번 국감 보도에서는 1단계 전력공급 목표를 2028년 말로 앞당기는 방안이 설명됐지만, 설계와 입지는 기본 검토 단계라고 밝혔습니다.",
+        "산단의 실제 가동에는 공장뿐 아니라 송전선과 변전소가 제때 준비되는지가 중요합니다. 장관은 AI 데이터센터 증가가 가정용 전기요금 부담으로 이어지지 않도록 관리하겠다고 했으며, 구체적인 수요 예측과 전력망 실행계획은 추가 확인이 필요합니다."
+      ],
+      "emphasis": [
+        "9기로 늘어날 경우 약 14GW",
+        "최종 확정됐다는 발표는 아닙니다",
+        "설계와 입지는 기본 검토 단계"
+      ],
+      "whatChanged": "10월 6일 국감에서 팹 9기 확대 가정의 14GW 수요와 전력망 재검토 방침, 1단계 공급 목표 및 설계 상태가 설명됐습니다.",
+      "whyItMatters": "반도체와 AI 투자 확대를 실제 생산능력으로 연결하려면 대규모 전력망의 공급 시기와 실행 가능성을 함께 확인해야 합니다.",
+      "uncertainty": "14GW는 확대를 가정한 추정입니다. 9기 건설 확정, 설계·입지 확정, 전기요금 동결 또는 실제 공급 완료를 의미하지 않습니다.",
+      "keyFacts": {
+        "scenarioFabs": "9기 확대 가정",
+        "scenarioPowerGW": "약14GW, 장관 추정",
+        "firstPowerTarget": "2028년말 목표",
+        "designStatus": "기본 검토 단계",
+        "gridPlan": "제12차 전력수급기본계획 수립 중 원점 재검토 방침"
+      },
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "김성환 \"호남 반도체 팹 9기 땐 14GW…AI 급증에 전력망 계획 원점 점검\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816380",
+          "publishedAt": "2026-10-06T23:39:12+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:09:37+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477424_web.jpg",
+          "verificationNote": "원문 등록 시각과 본문 확인. 다음 전재본(23:41)도 대조했으며 같은 원보도이므로 독립 출처로 세지 않습니다. 14GW는 팹 9기 확대를 가정한 장관 답변입니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "호남권 6GW, 용인 14GW…반도체 메가프로젝트 전력공급 로드맵 확정",
+          "url": "https://www.fnnews.com/news/202608120959201529",
+          "publishedAt": "2026-08-12T11:30:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "8월 12일 협약 배경만 뒷받침합니다. 기사 입력·수정 11:30 확인. 당시 용인 14GW와 이번 호남 확대 가정 14GW를 혼동하지 않습니다."
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "김성환 \"호남 반도체 팹 9기 땐 14GW…AI 급증에 전력망 계획 원점 점검\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816380",
+          "publishedAt": "2026-10-06T23:39:12+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:09:37+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477424_web.jpg",
+          "verificationNote": "원문 등록 시각과 본문 확인. 다음 전재본(23:41)도 대조했으며 같은 원보도이므로 독립 출처로 세지 않습니다. 14GW는 팹 9기 확대를 가정한 장관 답변입니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "호남권 6GW, 용인 14GW…반도체 메가프로젝트 전력공급 로드맵 확정",
+          "url": "https://www.fnnews.com/news/202608120959201529",
+          "publishedAt": "2026-08-12T11:30:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "8월 12일 협약 배경만 뒷받침합니다. 기사 입력·수정 11:30 확인. 당시 용인 14GW와 이번 호남 확대 가정 14GW를 혼동하지 않습니다."
+        }
+      ],
+      "scoreComponents": {
+        "importance": 88,
+        "interest": 98,
+        "domesticImpact": 95,
+        "reliability": 92,
+        "recency": 82
+      },
+      "scoreReason": "전날 심야의 반도체·AI 전력 인프라 핵심 정책 설명으로 산업 관심과 국내 파급이 큽니다. 조건부 추정과 미확정 설계를 구분합니다.",
+      "timeline": {
+        "issueId": "honam-semiconductor-cluster",
+        "issueTitle": "호남 반도체 클러스터 논의",
+        "eventDate": "2026-10-06",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "검토",
+        "change": "호남 팹 확대 가정의 14GW 수요와 전력망 재검토 방침을 처음 원문 검증해 기록합니다. 구체 설계와 입지는 검토 단계입니다."
+      },
+      "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477424_web.jpg",
+      "score": 88.2,
+      "factsHash": "522fc5b5dff0444a508e2db5bb56e17c4a7c7398fa7ca9631fed384085a4b4db"
+    }
+  ],
+  "events": [
+    {
+      "title": "경제부총리·경제6단체장 간담회 사전 일정",
+      "date": "2026-10-07",
+      "at": "2026-10-07T10:00:00+09:00",
+      "detail": "08:30 기준 일정에는 대한상공회의소에서 10시 간담회가 잡혀 있었습니다. 지연 발행 시점에는 예정 시각이 지났으며, 회의 개최·발언·결과는 이 회차에 반영하지 않습니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "[오늘의 주요일정]경제(10월7일수요일)",
+        "url": "https://www.newsis.com/view/NISX20261006_0003814754",
+        "publishedAt": "2026-10-07T06:00:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-07T12:07:21+09:00",
+        "imageUrl": null,
+        "verificationNote": ""
+      }
+    },
+    {
+      "title": "LG전자 3분기 잠정실적 발표일",
+      "date": "2026-10-07",
+      "at": null,
+      "timeNote": "08:30 이전 기사에10월7일 발표일만 명시돼 정확한 시각은 미확인입니다.",
+      "detail": "오전 기사에서 예고한 발표 일정입니다. 매출·영업이익의 시장 예상과 회사의 실제 발표값을 비교할 사안이며, 08:30 이후 공개된 수치나 발표 결과는 이번 회차에 넣지 않았습니다.",
+      "source": {
+        "name": "뉴시스",
+        "title": "LG전자, 오늘 3Q 성적표 발표…사상 첫 분기 매출 24조 돌파하나",
+        "url": "https://www.newsis.com/view/NISX20261006_0003815344",
+        "publishedAt": "2026-10-07T05:00:00+09:00",
+        "kind": "wire",
+        "language": "ko",
+        "verifiedAt": "2026-10-07T12:07:21+09:00",
+        "imageUrl": null,
+        "verificationNote": "수정05:44:24도 컷오프 이전. 본문은 발표예고와 전망치이며 결과가 아닙니다."
+      }
+    },
+    {
+      "title": "청년미래적금 첫날 신청 마감",
+      "date": "2026-10-07",
+      "at": "2026-10-07T18:30:00+09:00",
+      "detail": "사전 공지상 첫날 신청 마감은18시30분입니다. 오늘은 출생연도 끝자리가 홀수인 대상자가 신청하며, 개별 자격은 심사로 결정됩니다. 신청 시스템의 실제 운영상태를 확인한 결과는 아닙니다.",
+      "source": {
+        "name": "한국금융신문",
+        "title": "청년미래적금 2차 가입 시작…10월 7일부터 16일까지 신청",
+        "url": "https://www.fntimes.com/html/view.php?ud=202610062030051653dd55077bc2_18",
+        "publishedAt": "2026-10-07T06:00:00+09:00",
+        "kind": "specialist",
+        "language": "ko",
+        "verifiedAt": "2026-10-07T12:07:21+09:00",
+        "imageUrl": null,
+        "verificationNote": "데스크톱 원문을 열어 입력 시각과 모집·심사·개설 일정을 확인했습니다. 새 상품 발표가 아니라 이미 공지된 2차 신청 일정의 당일 안내입니다."
+      }
+    },
+    {
+      "title": "노벨 화학상 발표",
+      "date": "2026-10-07",
+      "at": "2026-10-07T18:45:00+09:00",
+      "timeNote": "공식 일정은11:45 CEST 이후입니다. 스웨덴 서머타임 UTC+2를 적용해 한국시간18:45 이후로 환산했습니다.",
+      "detail": "스웨덴 왕립과학원의 사전 일정상 오늘18시45분 이후 화학상 수상자 발표입니다. 가장 이른 발표 가능 시각이며 선정 결과는 이번 오전 회차에 포함하지 않았습니다.",
+      "source": {
+        "name": "스웨덴 왕립과학원",
+        "title": "Autumn Nobel announcements confirmed",
+        "url": "https://www.kva.se/en/news/autumn-nobel-announcements-confirmed-3/",
+        "language": "en",
+        "kind": "official",
+        "publishedAt": null,
+        "verifiedAt": "2026-10-07T12:10:18+09:00",
+        "imageUrl": null,
+        "verificationNote": "2026-02-02 공식 게시일과10월7일11:45 CEST 이후 화학상 발표 일정 확인. 게시 시·분은 미표시이며 임의로 자정을 넣지 않았습니다."
+      }
+    }
+  ],
+  "keywords": []
+}

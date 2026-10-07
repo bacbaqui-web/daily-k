@@ -4,6 +4,72 @@
   "title": "호남 반도체 클러스터 논의",
   "entries": [
     {
+      "id": "2026-10-07-am/honam-power-grid-review-2026-10-06",
+      "editionId": "2026-10-07-am",
+      "storyId": "honam-power-grid-review-2026-10-06",
+      "editionDate": "2026-10-07",
+      "edition": "am",
+      "coveredAt": "2026-10-07T12:12:39+09:00",
+      "coveredOn": "2026-10-07",
+      "publishedAt": "2026-10-06T23:39:12+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-06",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "김성환 장관이 10월 6일 국정감사에서 답변했습니다. 발언의 정확한 시·분은 확인되지 않았습니다.",
+      "stage": "검토",
+      "change": "호남 팹 확대 가정의 14GW 수요와 전력망 재검토 방침을 처음 원문 검증해 기록합니다. 구체 설계와 입지는 검토 단계입니다.",
+      "title": "호남 팹 9기 가정에 전력 14GW…정부, 전력망 재검토 방침",
+      "category": "반도체·전력",
+      "status": "보도",
+      "summary": [
+        "김성환 기후에너지환경부 장관은 호남 반도체 공장이 9기로 늘어날 경우 약 14GW의 전력이 필요하다고 설명했습니다. 늘어나는 반도체·AI 수요를 반영해 국가 전력망 계획을 다시 점검하겠다는 방침입니다.",
+        "이는 10월 6일 국정감사 답변으로, 공장 9기 건설이나 14GW 공급이 최종 확정됐다는 발표는 아닙니다. 팹은 반도체 생산시설이며, 14GW는 확대 시나리오에 따른 전력 수요 추정치입니다.",
+        "정부는 8월 협약에서 호남 산단에 2029년 3GW를 먼저 공급하는 방안을 제시했습니다. 이번 국감 보도에서는 1단계 전력공급 목표를 2028년 말로 앞당기는 방안이 설명됐지만, 설계와 입지는 기본 검토 단계라고 밝혔습니다.",
+        "산단의 실제 가동에는 공장뿐 아니라 송전선과 변전소가 제때 준비되는지가 중요합니다. 장관은 AI 데이터센터 증가가 가정용 전기요금 부담으로 이어지지 않도록 관리하겠다고 했으며, 구체적인 수요 예측과 전력망 실행계획은 추가 확인이 필요합니다."
+      ],
+      "keyFacts": {
+        "scenarioFabs": "9기 확대 가정",
+        "scenarioPowerGW": "약14GW, 장관 추정",
+        "firstPowerTarget": "2028년말 목표",
+        "designStatus": "기본 검토 단계",
+        "gridPlan": "제12차 전력수급기본계획 수립 중 원점 재검토 방침"
+      },
+      "uncertainty": "14GW는 확대를 가정한 추정입니다. 9기 건설 확정, 설계·입지 확정, 전기요금 동결 또는 실제 공급 완료를 의미하지 않습니다.",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "김성환 \"호남 반도체 팹 9기 땐 14GW…AI 급증에 전력망 계획 원점 점검\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816380",
+          "publishedAt": "2026-10-06T23:39:12+09:00",
+          "kind": "wire",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:09:37+09:00",
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477424_web.jpg",
+          "verificationNote": "원문 등록 시각과 본문 확인. 다음 전재본(23:41)도 대조했으며 같은 원보도이므로 독립 출처로 세지 않습니다. 14GW는 팹 9기 확대를 가정한 장관 답변입니다."
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "호남권 6GW, 용인 14GW…반도체 메가프로젝트 전력공급 로드맵 확정",
+          "url": "https://www.fnnews.com/news/202608120959201529",
+          "publishedAt": "2026-08-12T11:30:00+09:00",
+          "kind": "major",
+          "language": "ko",
+          "verifiedAt": "2026-10-07T12:07:21+09:00",
+          "imageUrl": null,
+          "verificationNote": "8월 12일 협약 배경만 뒷받침합니다. 기사 입력·수정 11:30 확인. 당시 용인 14GW와 이번 호남 확대 가정 14GW를 혼동하지 않습니다."
+        }
+      ],
+      "briefingPath": "2026-10-07/am.json",
+      "previous": {
+        "editionId": "2026-09-29-pm-archive",
+        "storyId": "archive-03"
+      },
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-25-pm-archive/archive-02",
       "editionId": "2026-09-25-pm-archive",
       "storyId": "archive-02",
@@ -153,5 +219,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-06T21:17:18+09:00"
+  "updatedAt": "2026-10-07T12:12:39+09:00"
 }
