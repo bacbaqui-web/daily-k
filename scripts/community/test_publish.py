@@ -79,6 +79,39 @@ class ValidationTests(unittest.TestCase):
  def test_direct_publish_rejects_retired_posts_before_writing(self):
   v=self.original_sample();v['stories'][0]['title']='ㅇㅎ) 공개 행사'
   with self.assertRaisesRegex(AssertionError,'retired title tag'):publish(v)
+class BodyImageTests(unittest.TestCase):
+ def sample(self):
+  v=ValidationTests().original_sample();s=v['stories'][0]
+  s.update(imageUrl='https://example.com/first.webp',bodyImages=[{'url':'https://example.com/first.webp','width':800,'height':600},{'url':'https://example.com/second.webp','width':800,'height':12000}],bodyImagesSourceUrl=s['sources'][0]['url'],bodyImagesVerifiedAt='2026-10-08T21:00:00+09:00')
+  return v
+ def test_order_dimensions_and_later_media_repair_preserved(self):
+  v=self.sample();before=copy.deepcopy(v);validate(v);self.assertEqual(v,before)
+ def test_images_can_coexist_with_video(self):
+  v=self.sample();v['stories'][0]['videoUrl']='https://example.com/clip.mp4';validate(v)
+ def test_explicit_no_body_images_and_legacy(self):
+  v=self.sample();v['stories'][0]['bodyImages']=[];validate(v)
+  validate(ValidationTests().sample())
+ def test_reject_malformed_or_nonpublic_images(self):
+  for images in (None,{},'https://example.com/a.jpg',[None],[{'url':'data:image/png;base64,a','width':1,'height':1}]):
+   v=self.sample();v['stories'][0]['bodyImages']=images
+   with self.subTest(images=images),self.assertRaises(AssertionError):validate(v)
+  for url in ('javascript:alert(1)','https://user:secret@example.com/a','http://127.0.0.1/a','http://192.168.1.1/a','http://localhost/a','http://test.local/a','https://example.com/a '):
+   v=self.sample();v['stories'][0]['bodyImages'][0]['url']=url
+   with self.subTest(url=url),self.assertRaises(AssertionError):validate(v)
+ def test_reject_unloaded_or_invalid_dimensions(self):
+  for dimension in ('width','height'):
+   for value in (0,-1,True,1.5,None):
+    v=self.sample();v['stories'][0]['bodyImages'][0][dimension]=value
+    with self.subTest(dimension=dimension,value=value),self.assertRaises(AssertionError):validate(v)
+ def test_reject_duplicate_urls_including_fragments(self):
+  for suffix in ('','#again'):
+   v=self.sample();v['stories'][0]['bodyImages'][1]['url']=v['stories'][0]['bodyImages'][0]['url']+suffix
+   with self.assertRaisesRegex(AssertionError,'duplicate body image'):validate(v)
+ def test_reject_missing_or_unrelated_evidence(self):
+  for field,value in (('bodyImagesSourceUrl','https://example.com/unrelated'),('bodyImagesVerifiedAt',None),('bodyImagesVerifiedAt','2026-10-08T21:00:00')):
+   v=self.sample();v['stories'][0][field]=value
+   with self.subTest(field=field,value=value),self.assertRaises(AssertionError):validate(v)
+
 class EarlyValidationTests(unittest.TestCase):
  def sample(self,edition='am'):
   v=json.loads(json.dumps(ValidationTests().original_sample()).replace('2026-10-03','2026-10-07'))

@@ -138,6 +138,7 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .community-reader{--news-accent:var(--primary)}
 
 .community-reader .community-media{margin:16px 0}
+.community-body-images{display:grid;gap:12px;min-width:0}.community-body-image{margin:0;min-width:0}.community-body-image .community-image{display:block}.community-image-count{margin:0;font-size:12px;color:var(--muted-foreground)}.community-media-error a{text-decoration:underline}.community-media video+.community-body-images{margin-top:16px}
 .community-reader .community-media .community-image{width:100%;height:auto;max-height:none;object-fit:contain}
 .community-reader .community-video{max-height:65dvh;background:#101412}
 .community-popularity{display:flex;align-items:center;gap:10px;margin:22px 0;min-width:0;font-size:12px}

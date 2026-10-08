@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import {communityBodyImages,communityThumbnail,isBodyImages,isPublicImageUrl} from '../lib/community-media.ts';
+const a={url:'https://example.com/first.webp',width:800,height:600};
+const b={url:'https://example.com/second.webp',width:800,height:12000};
+assert.deepEqual(communityBodyImages({imageUrl:a.url}),[{url:a.url}]);
+assert.deepEqual(communityBodyImages({imageUrl:a.url,bodyImages:[b,a]}),[b,a]);
+assert.deepEqual(communityBodyImages({imageUrl:a.url,bodyImages:[]}),[]);
+assert.deepEqual(communityBodyImages({imageUrl:a.url,videoUrl:'https://example.com/video.mp4'}),[]);
+assert.deepEqual(communityBodyImages({imageUrl:a.url,videoUrl:'https://example.com/video.mp4',bodyImages:[a,b]}),[a,b]);
+assert.deepEqual(communityBodyImages({bodyImages:[a,b,a,{...a,url:a.url+'#again'}]}),[a,b]);
+assert.equal(communityThumbnail({imageUrl:a.url,bodyImages:[b,a]}),a.url);
+assert.equal(communityThumbnail({bodyImages:[b,a]}),b.url);
+assert.equal(communityThumbnail({videoPosterUrl:a.url,bodyImages:[]}),a.url);
+assert(isBodyImages([a,b]));assert(isBodyImages([]));
+for(const value of [null,{},'url',[a,a],[a,{...a,url:a.url+'#again'}],[{...a,width:0}],[{...a,height:true}],[null]])assert(!isBodyImages(value));
+for(const value of ['javascript:alert(1)','data:image/png;base64,a','https://u:p@example.com/a','http://127.0.0.1/a','http://localhost/a','http://192.168.0.1/a','http://example.local/a','https://example.com/a '])assert(!isPublicImageUrl(value),value);
+console.log('Ordered body images, deduplication, legacy images/video, thumbnails and URL validation passed');

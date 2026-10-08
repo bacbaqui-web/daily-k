@@ -1,5 +1,5 @@
 """Validate and publish source-linked community briefings without rebuilding."""
-import argparse,datetime as dt,fcntl,json,re,subprocess,unicodedata
+import argparse,datetime as dt,fcntl,ipaddress,json,re,subprocess,unicodedata
 from pathlib import Path
 from urllib.parse import urlsplit
 ROOT=Path(__file__).resolve().parents[2]
@@ -11,6 +11,25 @@ def has_retired_tag(title):
 def url(v):
  p=urlsplit(v);assert p.scheme in ('http','https') and p.netloc and not p.username and not p.password,'invalid URL'
 def stamp(v):return dt.datetime.fromisoformat(v.replace('Z','+00:00'))
+def validate_body_images(s):
+ if 'bodyImages' not in s:return # Legacy single-image/video records remain valid.
+ images=s['bodyImages'];assert isinstance(images,list),'bodyImages must be an ordered array'
+ assert s.get('bodyImagesSourceUrl') in [l['url'] for l in s['sources']],'body images need a verified story source'
+ url(s['bodyImagesSourceUrl'])
+ assert isinstance(s.get('bodyImagesVerifiedAt'),str),'body images need a verification timestamp'
+ assert stamp(s['bodyImagesVerifiedAt']).tzinfo is not None,'body image timestamp needs a timezone'
+ seen=set()
+ for image in images:
+  assert isinstance(image,dict),'body image must contain URL and natural dimensions'
+  value=image.get('url');assert isinstance(value,str) and value==value.strip(),'invalid body image URL'
+  url(value);parsed=urlsplit(value);host=parsed.hostname or ''
+  try:ipaddress.ip_address(host);is_ip=True
+  except ValueError:is_ip=False
+  assert not is_ip and '.' in host and not host.endswith(('.', '.local', '.localhost')),'body images require public hostnames'
+  key=parsed._replace(scheme=parsed.scheme.lower(),netloc=parsed.netloc.lower(),fragment='').geturl()
+  assert key not in seen,'duplicate body image';seen.add(key)
+  for dimension in ('width','height'):
+   assert type(image.get(dimension)) is int and 0<image[dimension]<=9007199254740991,'body image needs positive natural dimensions'
 def validate(v):
  assert v['schemaVersion'] in (1,2) and v['timezone']=='Asia/Seoul'
  assert re.fullmatch(r'\d{4}-\d{2}-\d{2}',v['date']) and v['edition'] in ('am','pm')
@@ -50,6 +69,7 @@ def validate(v):
    assert host and any(host==d or host.endswith('.'+d) for d in ('instagram.com','x.com','twitter.com'))
   for field in ('imageUrl','videoUrl','videoPosterUrl'):
    if s.get(field):url(s[field])
+  validate_body_images(s)
   if 'sourceBreakdown' in s:
    assert isinstance(s['sourceBreakdown'],list) and s['sourceBreakdown']
    names=set()
