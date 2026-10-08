@@ -1,0 +1,859 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-08-pm",
+  "date": "2026-10-08",
+  "edition": "pm",
+  "timezone": "Asia/Seoul",
+  "cutoffAt": "2026-10-08T20:30:00+09:00",
+  "generatedAt": "2026-10-08T20:39:55+09:00",
+  "intro": "10월 8일 20시 30분까지 공개된 소식을 검증한 저녁 브리핑입니다.",
+  "overview": [
+    "코스피는 6,625.93으로 하락 마감했고 반도체 대형주와 외국인 수급에 관심이 모였습니다. 주간 주택 통계에서는 서울 아파트값 상승률이 0.12%로 높아져 주식시장과 다른 흐름을 보였습니다.",
+    "통상정책에서는 CPTPP 연내 가입 신청 보류와 한·이집트 CEPA 협상 개시 선언이 함께 나왔습니다. 농어민과의 대화, 새로운 해외 협력 기반 마련이 각각 이어질 과제이며 발표를 실제 재정 집행이나 수주 성과로 해석하지 않아야 합니다.",
+    "카카오는 AI 학습 설정을 효율적으로 찾는 연구 결과를 공개했고, 테슬라 FSD는 국내 검증 절차가 국감 쟁점이 됐습니다. 웹툰엔터와 디즈니의 마블 코믹스는 11월 16일 출시 계획과 구독 조건이 구체화됐으며, 연구·검증·서비스 계획이 실제 성과로 이어지는지 확인할 때입니다."
+  ],
+  "overviewEmphasis": [
+    "코스피는 6,625.93",
+    "서울 아파트값 상승률이 0.12%",
+    "CPTPP 연내 가입 신청 보류",
+    "한·이집트 CEPA 협상 개시 선언",
+    "AI 학습 설정을 효율적으로 찾는 연구",
+    "국내 검증 절차",
+    "11월 16일 출시 계획"
+  ],
+  "stories": [
+    {
+      "id": "korea-market-2026-10-08-close",
+      "topicKey": "korea-market-2026-10-08-close",
+      "category": "증시·환율",
+      "title": "코스피 6,625.93으로 2.62% 하락…외국인·기관 동반 순매도",
+      "status": "확정",
+      "publishedAt": "2026-10-08T16:27:00+09:00",
+      "eventAt": "2026-10-08T15:30:00+09:00",
+      "eventTimeNote": "한국거래소 정규장 종가와 서울 외환시장 15시 30분 주간 거래 기준입니다. 이후 시간외 주가나 야간 환율은 포함하지 않습니다.",
+      "summary": [
+        "코스피가 6,625.93으로 2.62% 하락했고 코스닥도 892.27로 0.69% 내렸습니다. 삼성전자의 실적 발표가 있었던 8일 실제 마감 결과로, 전날에 이어 두 시장이 함께 하락했습니다.",
+        "머니투데이의 16시 27분 보도에서는 유가증권시장 외국인이 약 1조9,921억원, 기관이 1조6,714억원을 순매도한 것으로 집계됐습니다. 개인은 약 2조9,061억원을 순매수했지만 지수 하락을 막지 못했습니다.",
+        "삼성전자는 2.42% 내린 26만2,000원에, SK하이닉스는 2.44% 내린 168만1,000원에 마감했습니다. 실적 발표 후에도 반도체 대형주가 약세를 보였으며, 금리·유가와 연휴 전 경계심리 등이 영향을 줬다는 설명은 시장 전문가의 해석입니다.",
+        "원·달러 환율은 주간 거래에서 1,338.5원으로 마감해 전날 같은 기준보다 1.9원 낮았습니다. 주가와 환율이 함께 내려 이날 국내 시장을 원화 약세 하나로 설명하기는 어렵고, 수급 수치는 보도 시점의 집계라는 점도 구분해 볼 필요가 있습니다."
+      ],
+      "emphasis": [
+        "6,625.93으로 2.62% 하락",
+        "외국인이 약 1조9,921억원, 기관이 1조6,714억원",
+        "주간 거래에서 1,338.5원"
+      ],
+      "whatChanged": "새 거래일인 10월 8일 코스피 6,625.93·코스닥 892.27·주간 환율 1,338.5원의 마감 결과가 나왔습니다. 삼성전자 잠정실적 발표 이후 반도체 대형주의 주가와 수급이 확인됐습니다.",
+      "whyItMatters": "기업의 실적 호조와 주가 상승이 항상 함께 움직이지 않음을 보여주는 실제 마감 결과입니다. 국내 대형 반도체주와 외국인·기관 수급을 함께 점검할 수 있습니다.",
+      "uncertainty": "종가와 당일 등락은 확인된 결과입니다. 수급은 해당 기사 시점 집계이며 이후 정산에서 달라질 수 있고, 금리·유가 등이 미친 영향은 시장 해석으로 단정하지 않습니다.",
+      "keyFacts": {
+        "kospiClose": "6625.93",
+        "kospiChangePct": "-2.62%",
+        "kosdaqClose": "892.27",
+        "kosdaqChangePct": "-0.69%",
+        "samsungClose": "262000원",
+        "samsungChangePct": "-2.42%",
+        "skHynixClose": "1681000원",
+        "skHynixChangePct": "-2.44%",
+        "daytimeClose": "1338.5원",
+        "daytimeChange": "-1.9원",
+        "foreignNetSelling": "1조9921억원, 머니투데이 16:27 보도",
+        "institutionNetSelling": "1조6714억원, 머니투데이 16:27 보도",
+        "referenceType": "10월 8일 KRX 정규장 종가 및 15:30 외환 주간 거래"
+      },
+      "sources": [
+        {
+          "name": "머니투데이",
+          "title": "삼전 대박 성적도 힘 못 썼다…외인·기관 \"팔자\"에 6600피로 '털썩'",
+          "url": "https://www.mt.co.kr/stock/2026/10/08/2026100815501498253",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T16:27:00+09:00",
+          "verifiedAt": "2026-10-08T20:31:38+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴시스",
+          "title": "원·달러 환율, 1.9원 내린 1338.5원 마감",
+          "url": "https://nwww.newsis.com/view/NISX20261008_0003819463",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T15:48:30+09:00",
+          "verifiedAt": "2026-10-08T20:29:33+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴스핌",
+          "title": "사흘째 내린 코스피",
+          "url": "https://www.newspim.com/news/view/20261008001222",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T16:38:00+09:00",
+          "verifiedAt": "2026-10-08T20:29:38+09:00",
+          "imageUrl": null,
+          "updatedAt": "2026-10-08T16:38:00+09:00"
+        }
+      ],
+      "timeline": {
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "결과",
+        "change": "새 거래일인 10월 8일 코스피 6,625.93·코스닥 892.27·주간 환율 1,338.5원의 마감 결과가 나왔습니다. 삼성전자 잠정실적 발표 이후 반도체 대형주의 주가와 수급이 확인됐습니다."
+      },
+      "followUp": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "korea-market-2026-10-07-close",
+        "delta": "새 거래일인 8일 코스피가 6,625.93으로 2.62%, 코스닥은 892.27로 0.69% 하락했습니다. 삼성전자 잠정실적 발표 이후의 주가·수급과 1,338.5원의 주간 환율을 새로 확인했습니다."
+      },
+      "scoreComponents": {
+        "importance": 95,
+        "interest": 98,
+        "domesticImpact": 97,
+        "reliability": 97,
+        "recency": 100
+      },
+      "scoreReason": "실적 발표 이후 새 거래일의 실제 마감 결과로 시장 관심과 국내 파급이 높습니다. 복수 매체 원문을 대조하고 주간 종가·수급 집계 시점을 분리했습니다.",
+      "relatedArticles": [
+        {
+          "name": "머니투데이",
+          "title": "삼전 대박 성적도 힘 못 썼다…외인·기관 \"팔자\"에 6600피로 '털썩'",
+          "url": "https://www.mt.co.kr/stock/2026/10/08/2026100815501498253",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T16:27:00+09:00",
+          "verifiedAt": "2026-10-08T20:31:38+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴시스",
+          "title": "원·달러 환율, 1.9원 내린 1338.5원 마감",
+          "url": "https://nwww.newsis.com/view/NISX20261008_0003819463",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T15:48:30+09:00",
+          "verifiedAt": "2026-10-08T20:29:33+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴스핌",
+          "title": "사흘째 내린 코스피",
+          "url": "https://www.newspim.com/news/view/20261008001222",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T16:38:00+09:00",
+          "verifiedAt": "2026-10-08T20:29:38+09:00",
+          "imageUrl": null,
+          "updatedAt": "2026-10-08T16:38:00+09:00"
+        }
+      ],
+      "imageUrl": null,
+      "score": 97.85,
+      "factsHash": "f8321a831358f19e214124fad3657b745706155acd7e9edae654f307cec5eb6a"
+    },
+    {
+      "id": "korea-cptpp-application-hold-2026-10-08",
+      "topicKey": "korea-cptpp-accession",
+      "category": "국내·통상정책",
+      "title": "CPTPP 연내 가입 신청 보류…농어민 대화와 기금 확보 계획",
+      "summary": [
+        "이재명 대통령이 CPTPP 가입 신청을 올해 안에 진행하지 말라고 지시했습니다. 청와대는 농어민과의 신뢰 회복과 충분한 대화를 먼저 추진하겠다고 밝혔습니다.",
+        "CPTPP는 일본·호주·캐나다 등 12개국이 참여하는 다자무역협정입니다. 청와대 설명에 따르면 11월 회원국 장관회의에서 한국 가입을 논의하려면 10월 중순까지 공청회 계획을 공지해야 한다는 의견이 정부 안에서 제기됐습니다.",
+        "이번 지시는 신청 시한을 정해 절차를 서두르던 흐름을 바꾼 조치입니다. 다만 정부는 CPTPP를 여전히 중요한 통상 선택지로 규정해 가입 검토 자체를 종료한 것은 아닙니다.",
+        "청와대는 기존 농어촌상생협력기금 약속액 1조원 중 부족한 7천억원을 정부 재정으로 확보할 계획도 밝혔습니다. 확보 완료나 지급 개시를 뜻하지 않으며, 앞으로의 대화 방식과 재정 반영, 가입 신청 재추진 시점을 확인해야 합니다."
+      ],
+      "emphasis": [
+        "올해 안에 진행하지 말라고 지시",
+        "가입 검토 자체를 종료한 것은 아닙니다",
+        "부족한 7천억원"
+      ],
+      "status": "확정",
+      "publishedAt": "2026-10-08T17:39:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 8일 발표 사실은 확인했지만 정확한 발표 시각은 확인되지 않았습니다.",
+      "whatChanged": "10월 8일 연내 가입 신청을 하지 않도록 하는 대통령 지시가 공개됐습니다. 가입 검토와 농어민 대화는 계속한다는 입장입니다.",
+      "whyItMatters": "수출시장 확대와 농수산업 영향에 관한 논의의 일정이 달라져 업계의 정책 예상에 영향을 줍니다.",
+      "uncertainty": "재추진 시점과 재정 확보·집행 일정은 이번 발표로 확정되지 않았습니다.",
+      "keyFacts": {
+        "applicationIn2026": "진행하지 않도록 대통령 지시",
+        "fundTarget": "농어촌상생협력기금 1조원",
+        "fundShortfallPlan": "7천억원 정부 재정 확보 예정"
+      },
+      "sources": [
+        {
+          "name": "청와대·대한민국 정책브리핑",
+          "title": "CPTPP 가입 관련 이재명 대통령 지시 사항에 대한 강유정 수석대변인 서면 브리핑",
+          "url": "https://m.korea.kr/briefing/presidentView.do?gubun=president&newsId=148973233&pageIndex=1",
+          "language": "ko",
+          "kind": "공식 브리핑",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:30:06+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "매일경제",
+          "title": "CPTPP 한발 더 물러선 李…“연내 가입 신청하지 말라”",
+          "url": "https://www.mk.co.kr/news/economy/12171848",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:39:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:49+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "한국일보",
+          "title": "이 대통령 “연내 CPTPP 가입 신청하지 말라”... 농민 반발에 속도 조절",
+          "url": "https://www.hankookilbo.com/news/article/amp/A2026100816100003238",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:17:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:49+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "청와대·대한민국 정책브리핑",
+          "title": "CPTPP 가입 관련 이재명 대통령 지시 사항에 대한 강유정 수석대변인 서면 브리핑",
+          "url": "https://m.korea.kr/briefing/presidentView.do?gubun=president&newsId=148973233&pageIndex=1",
+          "language": "ko",
+          "kind": "공식 브리핑",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:30:06+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "매일경제",
+          "title": "CPTPP 한발 더 물러선 李…“연내 가입 신청하지 말라”",
+          "url": "https://www.mk.co.kr/news/economy/12171848",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:39:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:49+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "한국일보",
+          "title": "이 대통령 “연내 CPTPP 가입 신청하지 말라”... 농민 반발에 속도 조절",
+          "url": "https://www.hankookilbo.com/news/article/amp/A2026100816100003238",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:17:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:49+09:00",
+          "imageUrl": null
+        }
+      ],
+      "scoreComponents": {
+        "importance": 92,
+        "interest": 78,
+        "domesticImpact": 95,
+        "reliability": 98,
+        "recency": 100
+      },
+      "scoreReason": "당일 오후 새 정책·공식입장과 국내 산업 파급을 우선하고 직접 발표와 원문 보도를 대조했습니다.",
+      "timeline": {
+        "issueId": "korea-cptpp-accession",
+        "issueTitle": "한국 CPTPP 가입 검토와 농어민 협의",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 8일 연내 가입 신청을 하지 않도록 하는 대통령 지시가 공개됐습니다. 가입 검토와 농어민 대화는 계속한다는 입장입니다."
+      },
+      "score": 94.0,
+      "factsHash": "0571a993589d5dd1029d30c988f4f8149c2ccda440db3d69e55d828fad133c92"
+    },
+    {
+      "id": "korea-housing-weekly-2026-10-05",
+      "topicKey": "korea-housing-weekly-2026-10-05",
+      "category": "경제·부동산",
+      "title": "서울 아파트값 0.12% 상승…87주째 올라, 강남권은 하락 지속",
+      "status": "확정",
+      "publishedAt": "2026-10-08T14:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "한국부동산원 발표일은 10월 8일이며 조사 기준일은 10월 5일입니다. 정확한 공식 발표 시·분은 확인하지 못했습니다.",
+      "summary": [
+        "서울 아파트 매매가격이 전주보다 0.12% 올라 87주 연속 상승했습니다. 한국부동산원이 8일 발표한 10월 첫째 주 조사로, 전주의 0.09%보다 상승폭이 0.03%포인트 커졌습니다.",
+        "이번 수치는 10월 5일을 기준으로 한 주간 조사 결과입니다. 서울 평균의 상승이 모든 지역의 상승을 뜻하지는 않아, 강남·서초·송파·용산 등 네 자치구는 하락했습니다.",
+        "강남구는 0.34%, 서초구는 0.27% 내렸지만 각각 전주보다 낙폭은 줄었습니다. 경기 아파트값은 0.18% 올랐고 수원 영통구 0.62%, 성남 분당구 0.56% 등 지역 간 상승폭 차이도 컸습니다.",
+        "서울 전세가격은 전주와 같은 0.16% 상승을 나타냈습니다. 매매와 임대 비용 부담을 함께 살필 지표지만, 이번 주간 변동률만으로 개별 주택의 가격이나 앞으로의 상승세를 확정할 수는 없습니다."
+      ],
+      "emphasis": [
+        "87주 연속 상승",
+        "상승폭이 0.03%포인트 커졌습니다",
+        "네 자치구는 하락",
+        "서울 전세가격은 전주와 같은 0.16% 상승"
+      ],
+      "whatChanged": "10월 8일 새로 발표된 10월 5일 기준 조사에서 서울 매매 0.12%·경기 매매 0.18%·서울 전세 0.16%의 주간 변동률이 확인됐습니다. 서울 매매 상승폭은 전주 0.09%보다 커졌습니다.",
+      "whyItMatters": "같은 수도권에서도 고가 지역과 다른 지역의 가격 흐름이 달라 주거비 부담과 거래 판단에 평균값만 적용하기 어렵다는 점을 보여줍니다.",
+      "uncertainty": "주간 가격지수 조사 결과이며 개별 실거래가격이나 모든 주택 유형을 뜻하지 않습니다. 금리·대출·공급 여건이 향후 가격에 미칠 영향은 확정되지 않았습니다.",
+      "keyFacts": {
+        "referenceDate": "2026-10-05",
+        "announcementDate": "2026-10-08",
+        "seoulApartmentSaleChange": "0.12%",
+        "priorSeoulApartmentSaleChange": "0.09%",
+        "seoulConsecutiveRisingWeeks": "87주",
+        "gangnamApartmentSaleChange": "-0.34%",
+        "seochoApartmentSaleChange": "-0.27%",
+        "gyeonggiApartmentSaleChange": "0.18%",
+        "yeongtongApartmentSaleChange": "0.62%",
+        "bundangApartmentSaleChange": "0.56%",
+        "seoulApartmentJeonseChange": "0.16%"
+      },
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "서울 집값 87주 연속 상승…상승폭도 6주 만에 다시 커져",
+          "url": "https://files.newsis.com/view/NISX20261008_0003819055",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T14:00:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:44+09:00",
+          "imageUrl": null,
+          "updatedAt": "2026-10-08T15:18:24+09:00"
+        },
+        {
+          "name": "머니투데이",
+          "title": "서울 아파트값 87주 연속 상승…'최장 상승' 기록행진 계속",
+          "url": "https://www.mt.co.kr/estate/2026/10/08/2026100810252191367",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T14:00:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:44+09:00",
+          "imageUrl": null
+        }
+      ],
+      "timeline": {
+        "issueId": "korea-housing-supply-prices",
+        "issueTitle": "국내 주택 가격과 공급 정책",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 8일 새로 발표된 10월 5일 기준 조사에서 서울 매매 0.12%·경기 매매 0.18%·서울 전세 0.16%의 주간 변동률이 확인됐습니다. 서울 매매 상승폭은 전주 0.09%보다 커졌습니다."
+      },
+      "scoreComponents": {
+        "importance": 90,
+        "interest": 80,
+        "domesticImpact": 95,
+        "reliability": 95,
+        "recency": 100
+      },
+      "scoreReason": "오후에 발표된 새 주간 주택가격 수치로 국내 주거비 파급이 큽니다. 두 기사 원문을 대조하고 조사일·발표일·지역별 차이를 구분했습니다.",
+      "relatedArticles": [
+        {
+          "name": "뉴시스",
+          "title": "서울 집값 87주 연속 상승…상승폭도 6주 만에 다시 커져",
+          "url": "https://files.newsis.com/view/NISX20261008_0003819055",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T14:00:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:44+09:00",
+          "imageUrl": null,
+          "updatedAt": "2026-10-08T15:18:24+09:00"
+        },
+        {
+          "name": "머니투데이",
+          "title": "서울 아파트값 87주 연속 상승…'최장 상승' 기록행진 계속",
+          "url": "https://www.mt.co.kr/estate/2026/10/08/2026100810252191367",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T14:00:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:44+09:00",
+          "imageUrl": null
+        }
+      ],
+      "imageUrl": null,
+      "score": 93.5,
+      "factsHash": "ad9afbc229108b1ce13f2a9062670c918a52d716113559ad22c036ac687e4318"
+    },
+    {
+      "id": "korea-egypt-cepa-declaration-2026-10-08",
+      "topicKey": "korea-egypt-cepa-cooperation",
+      "category": "국제·외교·산업",
+      "title": "한·이집트 CEPA 협상 개시 선언…산업·에너지 등 12건 협력 문건",
+      "summary": [
+        "한국과 이집트가 정상회담에서 관계를 전략적 동반자로 격상하고 CEPA 협상 개시를 공식 선언했습니다. 이번 회담을 계기로 조선·청정에너지·정보통신기술 등 총 12건의 협력 문건을 채택했습니다.",
+        "CEPA는 무역 개방뿐 아니라 폭넓은 경제 협력을 다루는 협정입니다. 양국은 지난해 11월 추진에 공감한 데 이어 이번에 협상 개시 공동선언문에 서명했습니다.",
+        "조선과 청정에너지, 전력 인프라 분야의 협력 문건 외에 사회보험 협정과 교육·문화 교류도 포함됐습니다. 정부는 한국 기업의 중동·아프리카 진출 기반과 공급망을 넓히는 계기로 보고 있습니다.",
+        "이번 결과는 협력의 틀과 협상 착수를 공식화한 단계입니다. 관세 인하가 이미 적용되거나 개별 기업의 수주가 확정된 것은 아니므로 후속 협상과 사업별 계약·집행을 나눠 확인해야 합니다."
+      ],
+      "emphasis": [
+        "CEPA 협상 개시를 공식 선언",
+        "총 12건의 협력 문건",
+        "후속 협상과 사업별 계약·집행"
+      ],
+      "status": "확정",
+      "publishedAt": "2026-10-08T17:00:00+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 8일 오전 정상회담과 공동언론발표가 확인됩니다. 행사별 정확한 시각은 원문에서 확인하지 못해 eventAt은 비워 둡니다.",
+      "whatChanged": "10월 8일 정상회담에서 CEPA 협상 개시와 관계 격상, 12건의 협력 문건 채택이 확인됐습니다. 협정 타결과 기업별 수주는 별도 단계입니다.",
+      "whyItMatters": "수출·조선·에너지·디지털 분야에서 협력 가능 범위가 확대됐다는 점이 중요합니다.",
+      "uncertainty": "시장 개방 조건, 협정 발효와 사업별 상업적 성과는 아직 확인되지 않았습니다.",
+      "keyFacts": {
+        "relationship": "전략적 동반자 관계로 격상",
+        "cepa": "협상 개시 공동선언문 서명",
+        "documents": "협력 문건 12건"
+      },
+      "sources": [
+        {
+          "name": "청와대·대한민국 정책브리핑",
+          "title": "이 대통령 “한-이집트, 전략적 동반자 관계 격상…CEPA 협상 개시”",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973206",
+          "language": "ko",
+          "kind": "공식 발표",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:30:06+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "머니투데이",
+          "title": "11개월 만에 한-이집트 상호답방…李대통령 “양국 협력에 새 장”",
+          "url": "https://www.mt.co.kr/politics/2026/10/08/2026100816431395610",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:00:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:55+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "연합뉴스·파이낸셜뉴스",
+          "title": "韓-이집트, 조선·청정에너지 등 협력 문건 12건 채택",
+          "url": "https://www.fnnews.com/news/202610081232523121",
+          "language": "ko",
+          "kind": "통신사 기사",
+          "publishedAt": "2026-10-08T12:32:00+09:00",
+          "verifiedAt": "2026-10-08T20:32:17+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "산업통상부·대한민국 정책브리핑",
+          "title": "(참고자료)북아프리카 핵심 거점 이집트와 산업·통상 협력 가속화",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784661&pWise=mSub&pWiseSub=C2",
+          "language": "ko",
+          "kind": "공식 보도자료",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:30:49+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "청와대·대한민국 정책브리핑",
+          "title": "이 대통령 “한-이집트, 전략적 동반자 관계 격상…CEPA 협상 개시”",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973206",
+          "language": "ko",
+          "kind": "공식 발표",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:30:06+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "머니투데이",
+          "title": "11개월 만에 한-이집트 상호답방…李대통령 “양국 협력에 새 장”",
+          "url": "https://www.mt.co.kr/politics/2026/10/08/2026100816431395610",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:00:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:55+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "연합뉴스·파이낸셜뉴스",
+          "title": "韓-이집트, 조선·청정에너지 등 협력 문건 12건 채택",
+          "url": "https://www.fnnews.com/news/202610081232523121",
+          "language": "ko",
+          "kind": "통신사 기사",
+          "publishedAt": "2026-10-08T12:32:00+09:00",
+          "verifiedAt": "2026-10-08T20:32:17+09:00",
+          "imageUrl": null
+        }
+      ],
+      "scoreComponents": {
+        "importance": 85,
+        "interest": 78,
+        "domesticImpact": 86,
+        "reliability": 98,
+        "recency": 100
+      },
+      "scoreReason": "당일 오후 새 정책·공식입장과 국내 산업 파급을 우선하고 직접 발표와 원문 보도를 대조했습니다.",
+      "timeline": {
+        "issueId": "korea-egypt-cepa-cooperation",
+        "issueTitle": "한·이집트 CEPA와 산업 협력",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 8일 정상회담에서 CEPA 협상 개시와 관계 격상, 12건의 협력 문건 채택이 확인됐습니다. 협정 타결과 기업별 수주는 별도 단계입니다."
+      },
+      "score": 91.35,
+      "factsHash": "fcc7aba6cb82684574ccecd065c98035795eb943e09c0fdc70c2bc2f582e6ca2"
+    },
+    {
+      "id": "tesla-korea-fsd-verification-testimony-2026-10-08",
+      "topicKey": "tesla-korea-fsd-verification",
+      "category": "기술·모빌리티",
+      "title": "테슬라, FSD 공식 검증 요청 없었다고 답변…신청·검증 일정은 미정",
+      "summary": [
+        "테슬라코리아가 국정감사에서 운전자 감독이 필요한 주행보조 기능 FSD에 관한 공식 테스트를 국토교통부 등에 요청한 적이 없다고 밝혔습니다. 관련 제도와 창구가 마련되면 검증에 협조하겠다는 입장이지만 구체적인 일정은 제시하지 않았습니다.",
+        "쟁점은 차량 생산지에 따라 국내에서 기능을 사용할 수 있는지가 달라지는 문제입니다. 회사 대표는 미국산 차량과 다른 나라에서 생산된 차량에 적용되는 규정이 다르다고 설명했습니다.",
+        "국회에서는 정부가 안전성을 직접 검증하지 않았다는 지적과 검증 절차를 마련하라는 요구가 나왔습니다. 국토부 관계자는 FSD 관련 국제기준이 없다고 설명하며 운전자와 제작사의 사고 책임 문제도 언급했습니다.",
+        "이날 확인된 새 사실은 국감에서 나온 회사의 답변과 정부의 입장입니다. 기능의 안전성이나 국내 확대 승인이 독립적으로 확인된 결과는 아니며, 정식 신청과 실제 시험·심사 절차가 뒤따르는지 봐야 합니다."
+      ],
+      "emphasis": [
+        "공식 테스트를 국토교통부 등에 요청한 적이 없다고",
+        "구체적인 일정은 제시하지 않았습니다",
+        "실제 시험·심사 절차"
+      ],
+      "status": "보도",
+      "publishedAt": "2026-10-08T18:02:01+09:00",
+      "eventAt": null,
+      "eventTimeNote": "10월 8일 국회 국토교통위원회 국정감사에서 이뤄진 질의·답변입니다. 정확한 발언 시각은 미확인입니다.",
+      "whatChanged": "10월 8일 국감에서 테슬라코리아 대표가 공식 검증 요청 이력이 없다고 답변하고 조건부 협조 의사를 밝혔습니다. 실제 신청·승인은 미확인입니다.",
+      "whyItMatters": "운전자 보조 기능의 국내 이용 범위와 안전성 확인 책임을 이해하는 데 중요한 쟁점입니다.",
+      "uncertainty": "국감 발언은 시험 결과가 아니며 구체적인 신청·검증·승인 일정은 확인되지 않았습니다.",
+      "keyFacts": {
+        "officialTestRequest": "테슬라코리아 대표는 요청한 바 없다고 답변",
+        "cooperationPosition": "관련 제도·창구 마련 시 검증 협조 의사",
+        "verificationSchedule": "구체 일정 미제시"
+      },
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "[2026 국감] 테슬라 서영득 대표 “FSD 검증 요청한 적 없다…제도 마련되면 협조”",
+          "url": "https://newspim.com/news/view/20261008001266",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:34:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:06+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴시스",
+          "title": "“테슬라 FSD 검증 한번도 안해” 국감서 지적…BYD 개인정보 中이전 우려도 나와",
+          "url": "https://nwww.newsis.com/view/NISX20261008_0003819772",
+          "language": "ko",
+          "kind": "통신사 기사",
+          "publishedAt": "2026-10-08T18:02:01+09:00",
+          "verifiedAt": "2026-10-08T20:30:55+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "뉴스핌",
+          "title": "[2026 국감] 테슬라 서영득 대표 “FSD 검증 요청한 적 없다…제도 마련되면 협조”",
+          "url": "https://newspim.com/news/view/20261008001266",
+          "language": "ko",
+          "kind": "언론사 기사",
+          "publishedAt": "2026-10-08T17:34:00+09:00",
+          "verifiedAt": "2026-10-08T20:30:06+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴시스",
+          "title": "“테슬라 FSD 검증 한번도 안해” 국감서 지적…BYD 개인정보 中이전 우려도 나와",
+          "url": "https://nwww.newsis.com/view/NISX20261008_0003819772",
+          "language": "ko",
+          "kind": "통신사 기사",
+          "publishedAt": "2026-10-08T18:02:01+09:00",
+          "verifiedAt": "2026-10-08T20:30:55+09:00",
+          "imageUrl": null
+        }
+      ],
+      "scoreComponents": {
+        "importance": 80,
+        "interest": 90,
+        "domesticImpact": 85,
+        "reliability": 92,
+        "recency": 100
+      },
+      "scoreReason": "당일 오후 새 정책·공식입장과 국내 산업 파급을 우선하고 직접 발표와 원문 보도를 대조했습니다.",
+      "timeline": {
+        "issueId": "tesla-korea-fsd-verification",
+        "issueTitle": "테슬라 FSD 국내 검증·승인 절차",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "보도",
+        "change": "10월 8일 국감에서 테슬라코리아 대표가 공식 검증 요청 이력이 없다고 답변하고 조건부 협조 의사를 밝혔습니다. 실제 신청·승인은 미확인입니다."
+      },
+      "score": 91.2,
+      "factsHash": "b5c3916006ecf5530a497864bbd62a39cbe07446b7f1d898e7af2140501aec11"
+    },
+    {
+      "id": "kakao-colm-model-efficiency-2026-10-08",
+      "topicKey": "kakao-colm-model-efficiency-2026-10-08",
+      "category": "AI·기술",
+      "title": "카카오, AI 학습률 탐색·경량화 연구 공개…카나나 사전학습에 적용",
+      "status": "보도",
+      "publishedAt": "2026-10-08T09:12:50+09:00",
+      "eventAt": null,
+      "eventTimeNote": "카카오의 연구성과 공개일은 10월 8일입니다. 공개 시·분과 학회에서 각 논문을 발표한 정확한 시각은 확인되지 않았습니다.",
+      "summary": [
+        "카카오가 AI 모델의 학습 설정을 찾는 비용을 줄이고 모델을 가볍게 만드는 두 연구를 공개했습니다. 회사는 언어모델링 국제학회 COLM 2026의 본 행사와 토큰화 워크숍에서 각각 성과를 소개했다고 밝혔습니다.",
+        "첫 연구는 작은 모델에서 얻은 설정을 여러 전문 모듈을 조합한 큰 전문가 혼합형 모델에 옮겨 최적의 학습률을 찾는 방식입니다. 회사 설명에 따르면 전체 학습 비용의 약 1%에 해당하는 비용으로 설정을 예측했으며, 이는 전체 학습비 자체가 99% 줄었다는 뜻은 아닙니다.",
+        "이 방법은 카나나 모델의 사전학습에 적용돼 10조 토큰 규모까지 학습하는 데 쓰였습니다. 토큰은 AI가 글을 처리하는 단위이며, 회사는 이 과정의 학습 안정성을 확인했다고 설명했습니다.",
+        "별도 경량화 연구인 BBT는 비교 실험에서 매개변수 수를 20.2~40.4% 줄이고 테스트 성능을 2.7~6.6% 높였다고 합니다. 실제 서비스의 비용·속도 개선을 확정한 수치는 아니며, 다양한 모델과 언어에서도 같은 효과가 나는지는 후속 검증이 필요합니다."
+      ],
+      "emphasis": [
+        "두 연구를 공개",
+        "전체 학습비 자체가 99% 줄었다는 뜻은 아닙니다",
+        "매개변수 수를 20.2~40.4% 줄이고",
+        "실제 서비스의 비용·속도 개선을 확정한 수치는 아니며"
+      ],
+      "whatChanged": "10월 8일 카카오가 COLM 2026에 소개한 학습률 탐색 방법의 카나나 적용과 BBT 경량화 비교실험 수치를 공개했습니다. 상용 서비스의 실측 개선 효과는 아직 확인되지 않았습니다.",
+      "whyItMatters": "대규모 AI 개발에 필요한 학습 설정 탐색과 모델 메모리 부담을 줄일 수 있는 연구입니다. 비용 절감의 대상과 실제 서비스 효과를 구분해 볼 필요가 있습니다.",
+      "uncertainty": "카카오의 자체 연구·비교실험 발표입니다. 독립 재현 및 상용 서비스의 실측 비용·응답속도 개선은 확인하지 않았습니다.",
+      "keyFacts": {
+        "announcementDate": "2026-10-08",
+        "learningRateSearchCost": "전체 학습 비용의 약 1%, 회사 연구",
+        "appliedModel": "Kanana-2.6-155b-a17b",
+        "pretrainingTokens": "10조 토큰",
+        "bbtParameterReduction": "20.2~40.4%, 비교실험",
+        "bbtTestPerformanceImprovement": "2.7~6.6%, 비교실험",
+        "serviceImpact": "실서비스 비용·속도 개선 미확인"
+      },
+      "sources": [
+        {
+          "name": "카카오",
+          "title": "카카오, 언어모델링 국제학회 ‘COLM 2026’에서 AI 연구 성과 발표",
+          "url": "https://www.kakaocorp.com/page/detail/12157",
+          "language": "ko",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:31:05+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴시스",
+          "title": "카카오, AI 학습 비용 줄이는 기술 개발…국제학회서 성과 공개",
+          "url": "https://www.newsis.com/view/NISX20261008_0003818510",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T09:12:50+09:00",
+          "verifiedAt": "2026-10-08T20:32:53+09:00",
+          "imageUrl": null,
+          "updatedAt": "2026-10-08T09:24:25+09:00"
+        }
+      ],
+      "timeline": {
+        "issueId": "kakao-colm-model-efficiency",
+        "issueTitle": "카카오의 COLM 학습 최적화·모델 경량화 연구",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "stage": "발표",
+        "change": "10월 8일 카카오가 COLM 2026에 소개한 학습률 탐색 방법의 카나나 적용과 BBT 경량화 비교실험 수치를 공개했습니다. 상용 서비스의 실측 개선 효과는 아직 확인되지 않았습니다."
+      },
+      "scoreComponents": {
+        "importance": 79,
+        "interest": 99,
+        "domesticImpact": 88,
+        "reliability": 93,
+        "recency": 85
+      },
+      "scoreReason": "오전 포함기준 이후 공개된 AI 연구로 사용자 관심이 높습니다. 공식 발표와 시각이 있는 한국어 원문을 대조했으나 회사 자체 실험이라는 한계를 반영했습니다.",
+      "relatedArticles": [
+        {
+          "name": "카카오",
+          "title": "카카오, 언어모델링 국제학회 ‘COLM 2026’에서 AI 연구 성과 발표",
+          "url": "https://www.kakaocorp.com/page/detail/12157",
+          "language": "ko",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:31:05+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "뉴시스",
+          "title": "카카오, AI 학습 비용 줄이는 기술 개발…국제학회서 성과 공개",
+          "url": "https://www.newsis.com/view/NISX20261008_0003818510",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-08T09:12:50+09:00",
+          "verifiedAt": "2026-10-08T20:32:53+09:00",
+          "imageUrl": null,
+          "updatedAt": "2026-10-08T09:24:25+09:00"
+        }
+      ],
+      "imageUrl": null,
+      "score": 86.7,
+      "factsHash": "f88b2405d6a65a078f7bea256f0ce115c9a4abc863ea1d754913c22e29226750"
+    },
+    {
+      "id": "webtoon-marvel-comics-launch-plan-2026-10-08",
+      "topicKey": "webtoon-marvel-comics-november-launch-2026",
+      "category": "웹툰 산업",
+      "title": "웹툰엔터·디즈니, 마블 코믹스 11월 16일 출시 예고…3만5천편 구독 서비스",
+      "status": "예정",
+      "publishedAt": "2026-10-08T08:05:01+09:00",
+      "eventAt": null,
+      "eventTimeNote": "한국어 기사 발행은 10월 8일 08시 05분 01초입니다. 실제 공식 발표는 미국 현지 10월 5일이며 정확한 시각은 미공개입니다. 연표에는 로스앤젤레스 발신 발표일을 기록했고, 11월 16일 미국 동부시간의 서비스 출시는 예정입니다.",
+      "summary": [
+        "웹툰엔터테인먼트와 디즈니가 새 디지털 만화 서비스 마블 코믹스를 11월 16일 미국 동부시간에 출시할 예정입니다. 10월 5일 미국에서 발표한 계획을 국내에서는 8일 보도했으며, 현재는 정식 서비스 개시 전입니다.",
+        "서비스는 마블·스타워즈·20세기스튜디오 작품 등 3만5천편 이상을 제공할 계획입니다. 웹툰엔터가 모바일·웹 플랫폼을 개발하며, 책장을 넘기는 방식과 세로 스크롤을 함께 지원합니다.",
+        "세금 별도 월 요금은 기본형 9.99달러, 얼티밋 12.49달러로 예고됐습니다. 인쇄본 신간을 디지털로 볼 수 있는 가장 빠른 시점은 기본형 3개월 뒤, 얼티밋 1개월 뒤로 다릅니다.",
+        "국내 웹툰 기업의 해외 사업이 작품 공급에서 글로벌 만화 플랫폼 개발·운영으로 확장되는 사례입니다. 다만 예정된 콘텐츠와 요금이 공개된 단계로, 실제 가입자 규모나 수익 개선 효과는 아직 확인되지 않았습니다."
+      ],
+      "emphasis": [
+        "11월 16일 미국 동부시간",
+        "3만5천편 이상",
+        "플랫폼 개발·운영"
+      ],
+      "whatChanged": "이전 협력 발표에서 더 나아가 신규 플랫폼 명칭과 11월 16일 출시 예정일, 콘텐츠 규모 및 구독 요금이 구체화됐습니다.",
+      "whyItMatters": "국내 웹툰 플랫폼 기업이 디즈니 보유 만화 IP의 해외 유통 인프라를 맡는 사업 확장입니다.",
+      "uncertainty": "출시와 이용 성과는 미래의 일입니다. 공식 최초 발표는 10월 5일이며 한국 내 이용 가능 범위는 이번 자료만으로 확정하지 않습니다.",
+      "keyFacts": {
+        "announcementDate": "2026-10-05 미국 현지",
+        "plannedLaunchDate": "2026-11-16 미국 동부시간",
+        "catalog": "35000편 이상 예정",
+        "baseMonthly": "9.99 USD + tax",
+        "ultimateMonthly": "12.49 USD + tax",
+        "baseNewIssueWindow": "인쇄본 출간 후 최소 3개월",
+        "ultimateNewIssueWindow": "인쇄본 출간 후 최소 1개월",
+        "stage": "정식 출시 전 계획 발표"
+      },
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "title": "네이버 웹툰엔터-디즈니 합작 '마블 코믹스' 11월 출시⋯\"디지털 만화 시장 확대 기대\"",
+          "url": "https://www.inews24.com/view/2012940",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T08:05:01+09:00",
+          "verifiedAt": "2026-10-08T20:31:16+09:00",
+          "imageUrl": "https://image.inews24.com/v1/0a39ca26918311.jpg"
+        },
+        {
+          "name": "WEBTOON Entertainment",
+          "title": "WEBTOON and Marvel to Unveil the New Marvel Comics App at New York Comic Con",
+          "url": "https://ir.webtoon.com/news-releases/news-release-details/webtoon-and-marvel-unveil-new-marvel-comics-app-new-york-comic",
+          "language": "en",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:31:16+09:00",
+          "imageUrl": null
+        },
+        {
+          "name": "Marvel Comics 공식 사이트",
+          "title": "Marvel Comics Powered by WEBTOON",
+          "url": "https://marvel.webtoon.com/",
+          "language": "en",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:31:16+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "아이뉴스24",
+          "title": "네이버 웹툰엔터-디즈니 합작 '마블 코믹스' 11월 출시⋯\"디지털 만화 시장 확대 기대\"",
+          "url": "https://www.inews24.com/view/2012940",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-08T08:05:01+09:00",
+          "verifiedAt": "2026-10-08T20:31:16+09:00",
+          "imageUrl": "https://image.inews24.com/v1/0a39ca26918311.jpg"
+        },
+        {
+          "name": "WEBTOON Entertainment",
+          "title": "WEBTOON and Marvel to Unveil the New Marvel Comics App at New York Comic Con",
+          "url": "https://ir.webtoon.com/news-releases/news-release-details/webtoon-and-marvel-unveil-new-marvel-comics-app-new-york-comic",
+          "language": "en",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-08T20:31:16+09:00",
+          "imageUrl": null
+        }
+      ],
+      "imageUrl": "https://image.inews24.com/v1/0a39ca26918311.jpg",
+      "scoreComponents": {
+        "importance": 76,
+        "interest": 100,
+        "domesticImpact": 78,
+        "reliability": 90,
+        "recency": 50
+      },
+      "score": 70.8,
+      "scoreReason": "한국 웹툰 기업의 글로벌 플랫폼 확장으로 관심도가 높고 공식 발표로 핵심 조건을 교차 확인했습니다. 국내 보도는 당일 오전이며 아직 계획 단계라는 점을 반영했습니다.",
+      "timeline": {
+        "issueId": "webtoon-disney-marvel-comics-platform",
+        "issueTitle": "웹툰엔터·디즈니 마블 코믹스 플랫폼",
+        "eventDate": "2026-10-05",
+        "eventEndDate": null,
+        "eventTimezone": "America/Los_Angeles",
+        "stage": "발표",
+        "change": "미국 현지 10월 5일 공식 발표에서 11월 16일 플랫폼 출시 계획과 구독 요금·콘텐츠 규모를 공개했습니다. 실제 가입자·매출 성과는 아직 확인되지 않았습니다."
+      },
+      "fallbackNote": "10월 8일 오전 한국어 보도로 확인한 최근 해외 플랫폼 업데이트입니다. 실제 발표는 미국 현지 10월 5일이며 출시 일정과 구독 조건을 정리했습니다.",
+      "factsHash": "386563372fd11a0f5572c491894e743190ccd775226ab2240afc5bc3e86df8aa"
+    }
+  ],
+  "events": [
+    {
+      "title": "580돌 한글날 경축식",
+      "at": "2026-10-09T10:00:00+09:00",
+      "date": "2026-10-09",
+      "detail": "행정안전부가 세종문화회관 대극장에서 한글날 제정 100주년과 훈민정음 반포 580돌을 기념하는 경축식을 개최할 예정입니다.",
+      "source": {
+        "name": "행정안전부·대한민국 정책브리핑",
+        "title": "훈민정음 반포 580돌·한글날 제정 100주년…9일 경축식 개최",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973205",
+        "language": "ko",
+        "kind": "공식 일정",
+        "publishedAt": null,
+        "verifiedAt": "2026-10-08T20:30:06+09:00",
+        "imageUrl": null
+      }
+    },
+    {
+      "title": "2026년 노벨평화상 발표",
+      "at": "2026-10-09T18:00:00+09:00",
+      "date": "2026-10-09",
+      "timeNote": "공식 일정 10월 9일 11:00 CEST(UTC+2)를 한국시간으로 환산했습니다.",
+      "detail": "노르웨이 노벨위원회가 오슬로에서 수상자를 발표할 예정입니다. 수상자 예측이나 베팅 순위는 선정 결과로 다루지 않습니다.",
+      "source": {
+        "name": "노르웨이 노벨연구소",
+        "title": "Announcement Nobel Peace Prize 2026",
+        "url": "https://www.nobelpeaceprize.org/press/events/announcement-nobel-peace-prize-2026",
+        "language": "en",
+        "kind": "공식 일정",
+        "publishedAt": null,
+        "verifiedAt": "2026-10-08T20:30:55+09:00",
+        "imageUrl": null
+      }
+    },
+    {
+      "title": "미시간대 10월 소비자심리 예비치",
+      "at": "2026-10-09T23:00:00+09:00",
+      "date": "2026-10-09",
+      "timeNote": "공식 일정 10월 9일 10:00 미국 동부시간(EDT·UTC-4)을 한국시간으로 환산했습니다.",
+      "detail": "소비자심리와 기대인플레이션의 예비 조사 결과가 발표될 예정입니다. 확정치와 구분해 미국 금리·시장 반응을 살펴볼 변수입니다.",
+      "source": {
+        "name": "미시간대학교 소비자조사",
+        "title": "Surveys of Consumers — Next data release",
+        "url": "https://www.sca.isr.umich.edu/",
+        "language": "en",
+        "kind": "공식 일정",
+        "publishedAt": null,
+        "verifiedAt": "2026-10-08T20:33:38+09:00",
+        "imageUrl": null
+      }
+    }
+  ],
+  "keywords": [
+    "코스피",
+    "반도체주",
+    "외국인 수급",
+    "원·달러 환율",
+    "CPTPP",
+    "한·이집트 CEPA",
+    "서울 아파트값",
+    "카카오 COLM",
+    "FSD 검증",
+    "마블 코믹스"
+  ]
+}

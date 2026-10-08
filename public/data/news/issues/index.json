@@ -1,10 +1,158 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T08:41:30+09:00",
-  "editionCount": 48,
-  "storyCount": 377,
+  "updatedAt": "2026-10-08T20:39:55+09:00",
+  "editionCount": 49,
+  "storyCount": 384,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "webtoon-disney-marvel-comics-platform",
+      "title": "웹툰엔터·디즈니 마블 코믹스 플랫폼",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "webtoon-marvel-comics-launch-plan-2026-10-08",
+        "title": "웹툰엔터·디즈니, 마블 코믹스 11월 16일 출시 예고…3만5천편 구독 서비스",
+        "stage": "발표",
+        "change": "미국 현지 10월 5일 공식 발표에서 11월 16일 플랫폼 출시 계획과 구독 요금·콘텐츠 규모를 공개했습니다. 실제 가입자·매출 성과는 아직 확인되지 않았습니다.",
+        "archive": false
+      },
+      "path": "webtoon-disney-marvel-comics-platform.json"
+    },
+    {
+      "id": "tesla-korea-fsd-verification",
+      "title": "테슬라 FSD 국내 검증·승인 절차",
+      "categories": [
+        "기술·모빌리티"
+      ],
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "tesla-korea-fsd-verification-testimony-2026-10-08",
+        "title": "테슬라, FSD 공식 검증 요청 없었다고 답변…신청·검증 일정은 미정",
+        "stage": "보도",
+        "change": "10월 8일 국감에서 테슬라코리아 대표가 공식 검증 요청 이력이 없다고 답변하고 조건부 협조 의사를 밝혔습니다. 실제 신청·승인은 미확인입니다.",
+        "archive": false
+      },
+      "path": "tesla-korea-fsd-verification.json"
+    },
+    {
+      "id": "korea-housing-supply-prices",
+      "title": "국내 주택 가격과 공급 정책",
+      "categories": [
+        "경제·부동산"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-18",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "korea-housing-weekly-2026-10-05",
+        "title": "서울 아파트값 0.12% 상승…87주째 올라, 강남권은 하락 지속",
+        "stage": "발표",
+        "change": "10월 8일 새로 발표된 10월 5일 기준 조사에서 서울 매매 0.12%·경기 매매 0.18%·서울 전세 0.16%의 주간 변동률이 확인됐습니다. 서울 매매 상승폭은 전주 0.09%보다 커졌습니다.",
+        "archive": false
+      },
+      "path": "korea-housing-supply-prices.json"
+    },
+    {
+      "id": "korea-equities-flows",
+      "title": "한국 증시와 외국인 수급",
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 21,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "korea-market-2026-10-08-close",
+        "title": "코스피 6,625.93으로 2.62% 하락…외국인·기관 동반 순매도",
+        "stage": "결과",
+        "change": "새 거래일인 10월 8일 코스피 6,625.93·코스닥 892.27·주간 환율 1,338.5원의 마감 결과가 나왔습니다. 삼성전자 잠정실적 발표 이후 반도체 대형주의 주가와 수급이 확인됐습니다.",
+        "archive": false
+      },
+      "path": "korea-equities-flows.json"
+    },
+    {
+      "id": "korea-egypt-cepa-cooperation",
+      "title": "한·이집트 CEPA와 산업 협력",
+      "categories": [
+        "국제·외교·산업"
+      ],
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "korea-egypt-cepa-declaration-2026-10-08",
+        "title": "한·이집트 CEPA 협상 개시 선언…산업·에너지 등 12건 협력 문건",
+        "stage": "발표",
+        "change": "10월 8일 정상회담에서 CEPA 협상 개시와 관계 격상, 12건의 협력 문건 채택이 확인됐습니다. 협정 타결과 기업별 수주는 별도 단계입니다.",
+        "archive": false
+      },
+      "path": "korea-egypt-cepa-cooperation.json"
+    },
+    {
+      "id": "korea-cptpp-accession",
+      "title": "한국 CPTPP 가입 검토와 농어민 협의",
+      "categories": [
+        "국내·통상정책"
+      ],
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "korea-cptpp-application-hold-2026-10-08",
+        "title": "CPTPP 연내 가입 신청 보류…농어민 대화와 기금 확보 계획",
+        "stage": "발표",
+        "change": "10월 8일 연내 가입 신청을 하지 않도록 하는 대통령 지시가 공개됐습니다. 가입 검토와 농어민 대화는 계속한다는 입장입니다.",
+        "archive": false
+      },
+      "path": "korea-cptpp-accession.json"
+    },
+    {
+      "id": "kakao-colm-model-efficiency",
+      "title": "카카오의 COLM 학습 최적화·모델 경량화 연구",
+      "categories": [
+        "AI·기술"
+      ],
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-08",
+      "lastCoveredDate": "2026-10-08",
+      "latest": {
+        "editionId": "2026-10-08-pm",
+        "storyId": "kakao-colm-model-efficiency-2026-10-08",
+        "title": "카카오, AI 학습률 탐색·경량화 연구 공개…카나나 사전학습에 적용",
+        "stage": "발표",
+        "change": "10월 8일 카카오가 COLM 2026에 소개한 학습률 탐색 방법의 카나나 적용과 BBT 경량화 비교실험 수치를 공개했습니다. 상용 서비스의 실측 개선 효과는 아직 확인되지 않았습니다.",
+        "archive": false
+      },
+      "path": "kakao-colm-model-efficiency.json"
+    },
     {
       "id": "yemen-saudi-airport-conflict",
       "title": "예멘·사우디 교전과 민간공항 피해",
@@ -301,28 +449,6 @@
         "archive": false
       },
       "path": "korea-green-transition-kgx.json"
-    },
-    {
-      "id": "korea-equities-flows",
-      "title": "한국 증시와 외국인 수급",
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-07T23:24:57+09:00",
-      "eventCount": 20,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-07",
-      "latest": {
-        "editionId": "2026-10-07-pm",
-        "storyId": "korea-market-2026-10-07-close",
-        "title": "코스피 6,803.90으로 1.98% 하락…외국인·기관 동반 순매도",
-        "stage": "결과",
-        "change": "10월 6일 마감 이후 새 거래일인 7일 코스피가 6,803.90, 코스닥이 898.43으로 동반 하락했고 15:30 원·달러 환율은 1,340.4원으로 낮아졌습니다.",
-        "archive": false
-      },
-      "path": "korea-equities-flows.json"
     },
     {
       "id": "youth-future-savings-second-window-2026",
@@ -2745,27 +2871,6 @@
         "archive": true
       },
       "path": "ai-content-hackathon-2026.json"
-    },
-    {
-      "id": "korea-housing-supply-prices",
-      "title": "국내 주택 가격과 공급 정책",
-      "categories": [
-        "경제·부동산"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 2,
-      "firstCoveredDate": "2026-09-18",
-      "lastCoveredDate": "2026-09-20",
-      "latest": {
-        "editionId": "2026-09-20-am-archive",
-        "storyId": "archive-06",
-        "title": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
-        "archive": true
-      },
-      "path": "korea-housing-supply-prices.json"
     },
     {
       "id": "korea-hospital-cybersecurity",
