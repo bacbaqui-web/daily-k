@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-08T20:39:55+09:00",
+  "updatedAt": "2026-10-09T08:40:57+09:00",
   "editions": [
+    {
+      "id": "2026-10-09-am",
+      "date": "2026-10-09",
+      "edition": "am",
+      "generatedAt": "2026-10-09T08:40:57+09:00",
+      "cutoffAt": "2026-10-09T08:30:00+09:00",
+      "count": 6,
+      "path": "2026-10-09/am.json",
+      "headline": "나스닥 1.25% 하락·반도체 3.39%↓…AI 투자 우려 속 뉴욕증시 혼조"
+    },
     {
       "id": "2026-10-08-pm",
       "date": "2026-10-08",

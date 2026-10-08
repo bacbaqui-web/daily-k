@@ -1,10 +1,139 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T20:39:55+09:00",
-  "editionCount": 49,
-  "storyCount": 384,
+  "updatedAt": "2026-10-09T08:40:57+09:00",
+  "editionCount": 50,
+  "storyCount": 390,
   "unlinkedStoryCount": 0,
   "issues": [
+    {
+      "id": "webtoon-ip-games",
+      "title": "웹툰·웹소설 IP 게임화",
+      "categories": [
+        "웹툰 산업"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
+      "eventCount": 3,
+      "firstCoveredDate": "2026-09-27",
+      "lastCoveredDate": "2026-10-09",
+      "latest": {
+        "editionId": "2026-10-09-am",
+        "storyId": "dokkaebi-world-webtoon-ip-launch-2026-10-08",
+        "title": "‘멸귀수도전’ IP 게임 ‘도깨비의세계’ 출시…양대 마켓 인기 1위",
+        "stage": "결과",
+        "change": "웹툰·웹소설 IP 게임화 소개에 머물렀던 과거 기록 이후, ‘멸귀수도전’ 기반 게임의 10월 8일 정식 출시와 회사가 발표한 양대 마켓 인기 순위 1위가 새로 확인됐습니다.",
+        "archive": false
+      },
+      "path": "webtoon-ip-games.json"
+    },
+    {
+      "id": "us-tech-perm-suspension",
+      "title": "미국 기술기업 취업 영주권 노동인증 중단",
+      "categories": [
+        "기술·고용정책"
+      ],
+      "firstCoveredAt": "2026-10-09T08:40:57+09:00",
+      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-09",
+      "lastCoveredDate": "2026-10-09",
+      "latest": {
+        "editionId": "2026-10-09-am",
+        "storyId": "us-perm-tech-employer-suspension-2026-10-08",
+        "title": "미국, MS·어도비의 취업 영주권 노동인증 중단…위법성은 조사 중",
+        "stage": "발표",
+        "change": "MS·어도비 등 특정 기업의 PERM 노동인증 절차 중단 조치가 발표됐습니다. 기업은 정부의 문제 제기에 반박했습니다.",
+        "archive": false
+      },
+      "path": "us-tech-perm-suspension.json"
+    },
+    {
+      "id": "us-iran-negotiations",
+      "title": "미국·이란 협상과 외교적 조치",
+      "categories": [
+        "국제·외교"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
+      "eventCount": 11,
+      "firstCoveredDate": "2026-09-20",
+      "lastCoveredDate": "2026-10-09",
+      "latest": {
+        "editionId": "2026-10-09-am",
+        "storyId": "us-iran-noattack-before-midterms-2026-10-08",
+        "title": "트럼프 “11월 3일 전 이란 공격 않겠다”…해상 봉쇄는 유지",
+        "stage": "발표",
+        "change": "미국 대통령이 중간선거 전 직접 공격을 하지 않겠다는 시점을 새로 제시했습니다. 봉쇄는 유지하며 종전 합의는 확인되지 않았습니다.",
+        "archive": false
+      },
+      "path": "us-iran-negotiations.json"
+    },
+    {
+      "id": "us-equities-chips-rates-oil",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응",
+      "categories": [
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·반도체"
+      ],
+      "firstCoveredAt": null,
+      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
+      "eventCount": 21,
+      "firstCoveredDate": "2026-09-15",
+      "lastCoveredDate": "2026-10-09",
+      "latest": {
+        "editionId": "2026-10-09-am",
+        "storyId": "us-market-2026-10-08",
+        "title": "나스닥 1.25% 하락·반도체 3.39%↓…AI 투자 우려 속 뉴욕증시 혼조",
+        "stage": "결과",
+        "change": "미국 현지 8일 새 정규장 종가와 반도체지수 하락률이 확인됐습니다. 7일 마감 이후의 실제 가격 변화입니다.",
+        "archive": false
+      },
+      "path": "us-equities-chips-rates-oil.json"
+    },
+    {
+      "id": "nobel-literature-2026",
+      "title": "2026년 노벨 문학상",
+      "categories": [
+        "문화·출판"
+      ],
+      "firstCoveredAt": "2026-10-09T08:40:57+09:00",
+      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-09",
+      "lastCoveredDate": "2026-10-09",
+      "latest": {
+        "editionId": "2026-10-09-am",
+        "storyId": "nobel-literature-carson-2026",
+        "title": "노벨 문학상 앤 카슨…고전과 현대, 시와 산문의 경계를 넓힌 작가",
+        "stage": "결과",
+        "change": "노벨 문학상 수상자가 앤 카슨으로 확정됐습니다. 고전과 현대·문학 장르를 잇는 작품세계가 선정 이유로 제시됐습니다.",
+        "archive": false
+      },
+      "path": "nobel-literature-2026.json"
+    },
+    {
+      "id": "korea-hgv-development",
+      "title": "한국 극초음속 활공비행체 개발",
+      "categories": [
+        "국내·안보기술"
+      ],
+      "firstCoveredAt": "2026-10-09T08:40:57+09:00",
+      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-10-09",
+      "lastCoveredDate": "2026-10-09",
+      "latest": {
+        "editionId": "2026-10-09-am",
+        "storyId": "korea-hgv-first-flight-2026-10-08",
+        "title": "국산 극초음속 활공체 첫 시험발사 성공 발표…실전 배치는 다음 단계",
+        "stage": "결과",
+        "change": "국산 활공체의 첫 비행시험 성공이 발표됐습니다. 개발·실전배치는 후속 단계로 남았습니다.",
+        "archive": false
+      },
+      "path": "korea-hgv-development.json"
+    },
     {
       "id": "webtoon-disney-marvel-comics-platform",
       "title": "웹툰엔터·디즈니 마블 코믹스 플랫폼",
@@ -194,30 +323,6 @@
         "archive": false
       },
       "path": "us-opt-fee-policy.json"
-    },
-    {
-      "id": "us-equities-chips-rates-oil",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응",
-      "categories": [
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
-      "eventCount": 20,
-      "firstCoveredDate": "2026-09-15",
-      "lastCoveredDate": "2026-10-08",
-      "latest": {
-        "editionId": "2026-10-08-am",
-        "storyId": "us-market-2026-10-07",
-        "title": "미 장기금리 급등에 뉴욕증시 하락…반도체 1.15% 내려",
-        "stage": "결과",
-        "change": "10월 6일 최고 종가 이후 새 거래일인 7일 주요 지수가 하락했고 장기금리 급등·후반 반락과 반도체지수 하락이 확인됐습니다.",
-        "archive": false
-      },
-      "path": "us-equities-chips-rates-oil.json"
     },
     {
       "id": "samsung-electronics-earnings",
@@ -1298,27 +1403,6 @@
       "path": "ai-decision-models.json"
     },
     {
-      "id": "us-iran-negotiations",
-      "title": "미국·이란 협상과 외교적 조치",
-      "categories": [
-        "국제·외교"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "eventCount": 10,
-      "firstCoveredDate": "2026-09-20",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "editionId": "2026-10-02-am",
-        "storyId": "us-iran-delegation-departure-2026-09",
-        "title": "미국의 이란 대표단 출국 요구 보도…협상 상황은 별도 확인 필요",
-        "stage": "보도",
-        "change": "미국의 이란 대표단 출국 요구 경위가 새로 보도됐습니다. 9월 사건에 관한 관계자 인용 보도이며 협상의 최종 결론은 아닙니다.",
-        "archive": false
-      },
-      "path": "us-iran-negotiations.json"
-    },
-    {
       "id": "naver-webtoon-antipiracy-toonradar",
       "title": "네이버웹툰 불법 유통 차단과 정식 구매 전환",
       "categories": [
@@ -1464,27 +1548,6 @@
         "archive": true
       },
       "path": "anthropic-financing-2026.json"
-    },
-    {
-      "id": "webtoon-ip-games",
-      "title": "웹툰·웹소설 IP 게임화",
-      "categories": [
-        "웹툰 산업"
-      ],
-      "firstCoveredAt": null,
-      "lastCoveredAt": null,
-      "eventCount": 2,
-      "firstCoveredDate": "2026-09-27",
-      "lastCoveredDate": "2026-10-01",
-      "latest": {
-        "editionId": "2026-10-01-am-archive",
-        "storyId": "archive-07",
-        "title": "《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록",
-        "stage": "보도",
-        "change": "과거 브리핑에 남아 있는 기록입니다: 《템빨》 IP MMORPG 《템빨: 오버기어드》 사전등록.",
-        "archive": true
-      },
-      "path": "webtoon-ip-games.json"
     },
     {
       "id": "us-pce-inflation",

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "us-tech-perm-suspension",
+  "title": "미국 기술기업 취업 영주권 노동인증 중단",
+  "entries": [
+    {
+      "id": "2026-10-09-am/us-perm-tech-employer-suspension-2026-10-08",
+      "editionId": "2026-10-09-am",
+      "storyId": "us-perm-tech-employer-suspension-2026-10-08",
+      "editionDate": "2026-10-09",
+      "edition": "am",
+      "coveredAt": "2026-10-09T08:40:57+09:00",
+      "coveredOn": "2026-10-09",
+      "publishedAt": "2026-10-09T05:28:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-08",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "실제 사건일은 2026-10-08(America/New_York)로 확인했으나 정확한 시각은 확인하지 못했습니다. 기사 시각과 사건 시각을 구분합니다.",
+      "stage": "발표",
+      "change": "MS·어도비 등 특정 기업의 PERM 노동인증 절차 중단 조치가 발표됐습니다. 기업은 정부의 문제 제기에 반박했습니다.",
+      "title": "미국, MS·어도비의 취업 영주권 노동인증 중단…위법성은 조사 중",
+      "category": "기술·고용정책",
+      "status": "보도",
+      "summary": [
+        "미국 정부가 마이크로소프트와 어도비 등 일부 기업의 취업 영주권 관련 노동인증 절차를 중단했습니다. 현지 8일 밴스 부통령의 발표를 뉴스핌과 ABC News가 보도했습니다.",
+        "대상은 영주권을 후원하는 고용주가 거치는 PERM 절차입니다. 외국인 채용이 미국 노동자의 임금과 일자리에 불이익을 주지 않는지 확인하는 단계로, 기존 비자를 모두 취소했다는 의미로 확대해서는 안 됩니다.",
+        "정부는 미국인 해고와 외국인 채용 과정에 문제가 있다는 의혹을 제기했습니다. MS는 미국 내 직원 대부분이 미국인이며 같은 업무의 직원에게 같은 보수를 지급한다는 취지로 반박해, 조치의 시행과 기업의 위법성 판단을 나눠 볼 필요가 있습니다.",
+        "개발자를 비롯한 해외 전문인력에게는 채용 이후 장기 체류 경로가 영향을 받을 수 있는 변화입니다. 중단이 얼마나 이어질지와 개별 신청의 처리 범위는 추가 확인이 필요하며, 이번 보도를 모든 기업·비자에 적용되는 일반 규정으로 볼 수는 없습니다."
+      ],
+      "keyFacts": {
+        "action": "일부 기업 PERM 절차 중단",
+        "namedEmployers": "마이크로소프트·어도비 등",
+        "legalFinding": "의혹 조사 중·위법성 확정 아님",
+        "duration": "확정 종료일 미확인"
+      },
+      "uncertainty": "기업의 위법성은 조사 단계이며 중단 기간과 개별 신청 처리는 확인이 필요합니다.",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "美, 마이크로소프트 등 일부 기업 영주권 신청 중단…\"미국인 해고하고 외국인 채용\"",
+          "url": "https://www.newspim.com/news/view/20261009000019",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-09T05:28:00+09:00",
+          "verifiedAt": "2026-10-09T08:35:08+09:00",
+          "imageUrl": null,
+          "verificationNote": "기자 본문에서 PERM 절차 중단과 MS 반박을 확인했습니다. 기업의 위법성 확정이나 기존 비자 일괄 취소로 확대하지 않았습니다.",
+          "updatedAt": "2026-10-09T05:28:00+09:00"
+        },
+        {
+          "name": "ABC News",
+          "title": "Vance suspends Microsoft from a green card program to crack down on alleged fraud",
+          "url": "https://abcnews.com/amp/Politics/vance-suspends-microsoft-green-card-program-crack-alleged/story?id=137100899",
+          "language": "en",
+          "kind": "major",
+          "publishedAt": "2026-10-08T17:40:00-04:00",
+          "verifiedAt": "2026-10-09T08:40:23+09:00",
+          "imageUrl": null,
+          "verificationNote": "원문 전체에서 기자회견 취재와 ABC에 제공된 MS 성명을 확인했습니다. 검색에는 17:35 ET가 보였지만 실제 열린 본문에는17:40 ET로 표시되어 본문 시각을 채택했습니다. 두 시각 모두 컷오프 이전입니다. 회사 반박은 주장으로 구분했습니다."
+        }
+      ],
+      "briefingPath": "2026-10-09/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
+    }
+  ],
+  "updatedAt": "2026-10-09T08:40:57+09:00"
+}

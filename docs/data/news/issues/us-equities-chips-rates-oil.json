@@ -482,6 +482,105 @@
       "supersededBy": []
     },
     {
+      "id": "2026-10-09-am/us-market-2026-10-08",
+      "editionId": "2026-10-09-am",
+      "storyId": "us-market-2026-10-08",
+      "editionDate": "2026-10-09",
+      "edition": "am",
+      "coveredAt": "2026-10-09T08:40:57+09:00",
+      "coveredOn": "2026-10-09",
+      "publishedAt": "2026-10-09T05:12:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-10-08",
+      "eventEndDate": null,
+      "eventTimezone": "America/New_York",
+      "eventTimeNote": "실제 사건일은 2026-10-08(America/New_York)로 확인했으나 정확한 시각은 확인하지 못했습니다. 기사 시각과 사건 시각을 구분합니다.",
+      "stage": "결과",
+      "change": "미국 현지 8일 새 정규장 종가와 반도체지수 하락률이 확인됐습니다. 7일 마감 이후의 실제 가격 변화입니다.",
+      "title": "나스닥 1.25% 하락·반도체 3.39%↓…AI 투자 우려 속 뉴욕증시 혼조",
+      "category": "증시·금리",
+      "status": "확정",
+      "summary": [
+        "미국 현지 8일 뉴욕증시는 다우가 0.10% 올랐지만 S&P500은 0.47%, 나스닥은 1.25% 내리며 엇갈렸습니다. 나스닥 종가는 27,193.34로, 새 거래일의 마감 결과입니다.",
+        "필라델피아 반도체지수는 3.39% 하락해 기술주 안에서도 반도체의 낙폭이 컸습니다. 뉴스핌은 AI 기업의 매출과 대규모 투자 지출에 대한 우려가 매도 배경이었다고 분석했습니다.",
+        "국제유가도 상승했습니다. WTI 11월물은 배럴당 91.49달러, 브렌트유 12월물은 104.28달러로 마감해 각각 3.6%, 4.1% 올랐으며, 이는 장중 고점과 구분한 선물 종가입니다.",
+        "시장 움직임은 확인된 결과이지만 특정 기업 매출에 관한 외신 보도가 사실로 확정된 것은 아닙니다. 한글날인 오늘 국내 증시는 휴장하므로 전날 한국 종가를 오늘 거래 결과처럼 읽지 말고, 이후 해외 기술주와 유가 흐름을 함께 볼 필요가 있습니다."
+      ],
+      "keyFacts": {
+        "session": "2026-10-08 미국 정규장",
+        "dowClose": "51231.64",
+        "dowChange": "+0.10%",
+        "sp500Close": "7765.36",
+        "sp500Change": "-0.47%",
+        "nasdaqClose": "27193.34",
+        "nasdaqChange": "-1.25%",
+        "soxChange": "-3.39%",
+        "brentDecember": "104.28달러",
+        "wtiNovember": "91.49달러"
+      },
+      "uncertainty": "매출 관련 외신 보도와 주가 하락의 인과관계는 시장 해석입니다. 개별 기업의 미검증 매출 수치는 인용하지 않았습니다.",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "뉴욕증시, 혼조 마감…오픈AI 매출 보도 여파에 반도체 약세",
+          "url": "https://www.newspim.com/news/view/20261009000017",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-09T05:12:00+09:00",
+          "verifiedAt": "2026-10-09T08:35:30+09:00",
+          "imageUrl": null,
+          "verificationNote": "기자 본문과 입력·최종수정 05:12 확인. 다우·S&P500·나스닥 종가를 연합뉴스와 대조했습니다. 개별 엔비디아 하락률은 기사 간 차이가 있어 사용하지 않았습니다.",
+          "updatedAt": "2026-10-09T05:12:00+09:00"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "뉴욕증시, 기술주 약세에 혼조 마감…나스닥 1.25%↓",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261009007200072",
+          "language": "ko",
+          "kind": "wire",
+          "publishedAt": "2026-10-09T05:19:00+09:00",
+          "verifiedAt": "2026-10-09T08:38:23+09:00",
+          "imageUrl": null,
+          "verificationNote": "한국어 기사 본문에서 현지 8일 3대 지수 종가와 등락률 대조."
+        },
+        {
+          "name": "뉴스핌",
+          "title": "[금/유가] 중동 긴장·美 허리케인에 유가 4% 급등…금값도 소폭 반등",
+          "url": "https://www.newspim.com/news/view/20261009000020",
+          "language": "ko",
+          "kind": "major",
+          "publishedAt": "2026-10-09T05:47:00+09:00",
+          "verifiedAt": "2026-10-09T08:34:24+09:00",
+          "imageUrl": null,
+          "verificationNote": "기자 본문에서 WTI 11월물 91.49달러(+3.6%), 브렌트유 12월물 104.28달러(+4.1%)의 현지 8일 종가 확인. 전쟁·허리케인 설명은 매체 분석임을 구분.",
+          "updatedAt": "2026-10-09T05:47:00+09:00"
+        },
+        {
+          "name": "한국거래소",
+          "title": "2026년 10월 국내 증시(KRX) 휴장 및 리플레이장 운영 안내",
+          "url": "https://trn.krx.co.kr/index.jsp",
+          "language": "ko",
+          "kind": "official",
+          "publishedAt": null,
+          "verifiedAt": "2026-10-09T08:35:40+09:00",
+          "imageUrl": null,
+          "verificationNote": "KRX 공지 본문에서 2026년10월9일 국내 증시 휴장 확인. 공지 9월29일, 게시 시분 미표시. 모의시장 리플레이 운영과 실제 증시 거래를 구분합니다."
+        }
+      ],
+      "briefingPath": "2026-10-09/am.json",
+      "previous": {
+        "editionId": "2026-10-08-am",
+        "storyId": "us-market-2026-10-07"
+      },
+      "followUp": {
+        "editionId": "2026-10-08-am",
+        "storyId": "us-market-2026-10-07",
+        "delta": "미국 현지 7일 하락 마감 뒤 8일 새 종가가 나왔습니다. 나스닥은 27,193.34로 1.25%, 반도체지수는 3.39% 하락했고 다우는 상승했습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
       "id": "2026-09-15-am-archive/archive-01",
       "editionId": "2026-09-15-am-archive",
       "storyId": "archive-01",
@@ -1216,5 +1315,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-08T20:39:55+09:00"
+  "updatedAt": "2026-10-09T08:40:57+09:00"
 }
