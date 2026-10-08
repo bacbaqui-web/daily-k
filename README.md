@@ -13,7 +13,7 @@
 
 `npm ci` 후 `npm run build`를 실행합니다. `python3 scripts/prepare-pages.py`로 경로를 정리한 뒤 main에 반영합니다. GitHub Pages는 main의 /docs에서 배포합니다.
 
-커뮤니티 브리핑은 [운영 지침](ops/community-briefing.md)에 따라 Codex 예약 작업이 웹을 확인해 선별·발행합니다. 기존 Python/WebKit 수집기와 LaunchAgent는 중지했습니다. 과거 수집 데이터와 앱 소스는 보존합니다. ㅇㅎㅂ 탭은 폐지했고 새 ㅋㅋㅋ 회차는 날짜별로 보관합니다.
+커뮤니티 브리핑은 [운영 지침](ops/community-briefing.md)에 따라 Codex 예약 작업이 웹을 확인해 선별·발행합니다. 기존 Python/WebKit 수집기와 LaunchAgent는 중지했습니다. 과거 수집 데이터와 앱 소스는 보존합니다. ㅇㅎㅂ 수집은 중지했고 해당 분류 필터와 배지도 제거했습니다. 기존 발행 글과 원문 제목은 보존하며 전체 목록에서 볼 수 있습니다. 새 회차는 댓글 ㅋ 합계 11개 이상인 유머를 우선 선정하고 문화·정보·뉴스성 화제 등을 보완하며 날짜별로 보관합니다. 이전 기준으로 발행한 ㅋ 10개 글은 유지합니다.
 
 ## 뉴스 운영
 

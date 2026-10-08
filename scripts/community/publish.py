@@ -1,9 +1,13 @@
 """Validate and publish source-linked community briefings without rebuilding."""
-import argparse,datetime as dt,fcntl,json,re,subprocess
+import argparse,datetime as dt,fcntl,json,re,subprocess,unicodedata
 from pathlib import Path
 from urllib.parse import urlsplit
 ROOT=Path(__file__).resolve().parents[2]
 EARLY_CUTOFF_START='2026-10-07'
+ACTIVE_CATEGORIES=('화제','유머','정보','생활','문화','스포츠')
+MIN_HUMOR_K_COUNT=11
+def has_retired_tag(title):
+ return bool(re.search(r'(?<![ㄱ-ㅎ])(?:ㅇㅎㅂ|ㅇㅎ|ㅎㅂ)(?![ㄱ-ㅎ])',unicodedata.normalize('NFC',title).replace('\u200b','')))
 def url(v):
  p=urlsplit(v);assert p.scheme in ('http','https') and p.netloc and not p.username and not p.password,'invalid URL'
 def stamp(v):return dt.datetime.fromisoformat(v.replace('Z','+00:00'))
@@ -23,7 +27,11 @@ def validate(v):
  seen=set()
  for s in v['stories']:
   assert s['id'] not in seen;seen.add(s['id'])
-  assert s['category'] in ('화제','유머','정보','생활','문화','스포츠','ㅇㅎㅂ') and s['topicKey'].strip()
+  assert s['category'] in ACTIVE_CATEGORIES,'retired or unsupported community category'
+  assert s['topicKey'].strip()
+  assert not any(has_retired_tag(title) for title in [s['title'],*[source['title'] for source in s['sources']]]),'retired title tag: do not collect ㅇㅎ/ㅎㅂ/ㅇㅎㅂ posts'
+  assert not s.get('contentSignals'),'retired ㅇㅎㅂ collection signals must not be republished under another category'
+  if s['category']=='유머':assert type(s.get('kCount')) is int and s['kCount']>=MIN_HUMOR_K_COUNT,'humor requires more than 10 verified k characters (at least 11)'
   for k in ('title','selectionReason','popularityEvidence','verificationNote'):assert isinstance(s[k],str) and s[k].strip(),k
   assert (0 if v['schemaVersion']==2 else 1)<=len(s['summary'])<=5 and all(isinstance(p,str) and p.strip() for p in s['summary'])
   if v['schemaVersion']==2:
@@ -32,21 +40,10 @@ def validate(v):
    assert type(s['commentCount']) is int and s['commentCount']>=0
    assert stamp(s['commentsVerifiedAt']).tzinfo is not None
    assert stamp(s['commentsVerifiedAt'])<=stamp(v['generatedAt'])
-   if s['category']=='유머':assert s['kCount']>=10,'humor requires 10 verified k characters'
    quotes=s.get('comments',[]);assert isinstance(quotes,list)
    assert len({c['id'] for c in quotes})==len(quotes),'duplicate comment quote'
    assert all(isinstance(c['text'],str) and c['text'].strip() for c in quotes)
    assert sum(len(text.split()) for text in [s['title'],s.get('originalText',''),*[c['text'] for c in quotes]])<=25,'short quotations only'
-   if s['category']=='ㅇㅎㅂ':
-    assert s.get('contentReview')=='public-non-explicit','public, non-explicit content review required'
-    tagged=any(re.search(r'(?<![ㄱ-ㅎ])(?:ㅇㅎㅂ|ㅇㅎ|ㅎㅂ)(?![ㄱ-ㅎ])',title.replace('\u200b','')) for title in [s['title'],*[source['title'] for source in s['sources']]])
-    assert tagged or s.get('contentSignals'),'tagged title or verified comment signal required'
-    assert s.get('imageUrl') or s.get('videoUrl'),'tagged story needs observed media'
-    for signal in s.get('contentSignals',[]):
-     assert signal['kind'] in ('instagram','x','leaked') and str(signal['commentId']).strip()
-     if signal['kind']!='leaked':
-      url(signal['url']);host=urlsplit(signal['url']).hostname
-      assert host in ('instagram.com','www.instagram.com','x.com','www.x.com','twitter.com','www.twitter.com')
   assert s['sources']
   for link in s.get('portalLinks',[]):
    url(link);host=urlsplit(link).hostname
@@ -71,6 +68,7 @@ def validate(v):
 def git(*args):
  r=subprocess.run(['git','-C',str(ROOT),*args],capture_output=True,text=True,check=True);return r.stdout.strip()
 def publish(v,push=False):
+ validate(v)
  lock=Path.home()/'Library/Application Support/DailyK/news-publish.lock'
  with lock.open('a') as h:
   fcntl.flock(h,fcntl.LOCK_EX|fcntl.LOCK_NB)

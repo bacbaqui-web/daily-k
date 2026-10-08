@@ -1,5 +1,5 @@
 import copy,json,unittest
-from publish import validate
+from publish import validate,publish
 class ValidationTests(unittest.TestCase):
  def sample(self):
   source={'name':'테스트','title':'원문','url':'https://example.com/post','imageUrl':None,'publishedAt':'2026-10-03T08:00:00+09:00','verifiedAt':'2026-10-03T09:02:00+09:00'}
@@ -25,11 +25,11 @@ class ValidationTests(unittest.TestCase):
    with self.assertRaises(AssertionError):validate(v)
  def original_sample(self):
   v=self.sample();v['schemaVersion']=2;v['overview']=[]
-  for s in v['stories']:s.update(summary=[],originalText='짧은 원문',comments=[{'id':'c1','text':'ㅋㅋ'}],kCount=10,commentCount=3,commentsVerifiedAt='2026-10-03T09:02:00+09:00',category='유머')
+  for s in v['stories']:s.update(summary=[],originalText='짧은 원문',comments=[{'id':'c1','text':'ㅋㅋ'}],kCount=11,commentCount=3,commentsVerifiedAt='2026-10-03T09:02:00+09:00',category='유머')
   return v
  def test_original_sample(self):validate(self.original_sample())
  def test_reject_humor_below_threshold(self):
-  v=self.original_sample();v['stories'][0]['kCount']=9
+  v=self.original_sample();v['stories'][0]['kCount']=10
   with self.assertRaises(AssertionError):validate(v)
  def test_reject_unknown_k_count(self):
   v=self.original_sample();v['stories'][0]['kCount']=None
@@ -37,22 +37,48 @@ class ValidationTests(unittest.TestCase):
  def test_reject_long_original_copy(self):
   v=self.original_sample();v['stories'][0]['originalText']='word '*26
   with self.assertRaises(AssertionError):validate(v)
- def test_reject_tagged_without_review(self):
-  v=self.original_sample();v['stories'][0]['category']='ㅇㅎㅂ'
-  with self.assertRaises(AssertionError):validate(v)
- def tagged_sample(self):
-  v=self.original_sample();v['stories'][0].update(title='ㅇㅎ) 공개 행사',category='ㅇㅎㅂ',kCount=0,contentReview='public-non-explicit',imageUrl='https://example.com/photo.jpg',portalLinks=['https://www.instagram.com/example/'])
-  return v
- def test_title_tag_without_laughter_or_signal(self):validate(self.tagged_sample())
- def test_reject_tagged_without_media(self):
-  v=self.tagged_sample();v['stories'][0]['imageUrl']=None
-  with self.assertRaises(AssertionError):validate(v)
+ def test_reject_retired_category_even_with_previous_review(self):
+  v=self.original_sample();v['stories'][0].update(category='ㅇㅎㅂ',kCount=100,contentReview='public-non-explicit',imageUrl='https://example.com/photo.jpg')
+  with self.assertRaisesRegex(AssertionError,'retired or unsupported'):validate(v)
+ def test_reject_retired_titles_in_any_category_and_source(self):
+  for category in ('유머','정보','화제','생활','문화','스포츠'):
+   for title in ('ㅇㅎ) 공개 행사','[ㅎㅂ] 공개 행사','ㅇㅎㅂ 공연','ㅇ\u200bㅎ) 공개 행사'):
+    for location in ('title','first-source','other-source'):
+     v=self.original_sample();story=v['stories'][0];story.update(category=category,kCount=100)
+     if location=='title':story['title']=title
+     elif location=='first-source':story['sources'][0]['title']=title
+     else:story['sources'].append(dict(story['sources'][0],title=title,url='https://example.com/original'))
+     with self.subTest(category=category,title=title,location=location),self.assertRaisesRegex(AssertionError,'retired title tag'):validate(v)
+ def test_old_date_and_schema_do_not_bypass_collection_stop(self):
+  for field in ('category','title','source','signal'):
+   v=self.sample();story=v['stories'][0]
+   if field=='category':story['category']='ㅇㅎㅂ'
+   elif field=='title':story['title']='ㅇㅎ) 공개 행사'
+   elif field=='source':story['sources'][0]['title']='[ㅎㅂ] 공개 행사'
+   else:story['contentSignals']=[{'kind':'leaked','commentId':'c1'}]
+   with self.subTest(field=field),self.assertRaisesRegex(AssertionError,'retired'):validate(v)
+ def test_reject_retired_signal_route_relabelled_as_normal_content(self):
+  for kind in ('instagram','x','leaked'):
+   v=self.original_sample();v['stories'][0]['contentSignals']=[{'kind':kind,'commentId':'c1','url':'https://x.com/example'}]
+   with self.subTest(kind=kind),self.assertRaisesRegex(AssertionError,'retired ㅇㅎㅂ collection signals'):validate(v)
+ def test_ordinary_social_links_and_non_tag_consonants_remain_valid(self):
+  v=self.original_sample();v['stories'][0].update(title='ㅋㅋㅇㅎㅋㅋ ㅇㅎㅎ 정보',portalLinks=['https://www.instagram.com/example/','https://x.com/example'],contentSignals=[]);validate(v)
  def test_reject_spoofed_social_domain(self):
-  v=self.tagged_sample();v['stories'][0]['portalLinks']=['https://x.com.evil.test/example']
+  v=self.original_sample();v['stories'][0]['portalLinks']=['https://x.com.evil.test/example']
   with self.assertRaises(AssertionError):validate(v)
- def test_origin_title_tag_without_laughter(self):
-  v=self.tagged_sample();v['stories'][0]['title']='공개 행사';v['stories'][0]['sources'][0]['title']='ㅎㅂ) 공개 행사'
-  validate(v)
+ def test_laughter_threshold_requires_eleven_and_does_not_apply_to_other_categories(self):
+  for count in (11,12):
+   v=self.original_sample();v['stories'][0]['kCount']=count;validate(v)
+  for category in ('정보','화제','생활','문화','스포츠'):
+   v=self.original_sample();v['stories'][0].update(category=category,kCount=0);validate(v)
+ def test_humor_threshold_cannot_be_bypassed_with_legacy_schema(self):
+  for count in (None,9,10,True):
+   v=self.sample();v['stories'][0].update(category='유머',kCount=count)
+   with self.subTest(count=count),self.assertRaisesRegex(AssertionError,'at least 11'):validate(v)
+  v=self.sample();v['stories'][0].update(category='유머',kCount=11);validate(v)
+ def test_direct_publish_rejects_retired_posts_before_writing(self):
+  v=self.original_sample();v['stories'][0]['title']='ㅇㅎ) 공개 행사'
+  with self.assertRaisesRegex(AssertionError,'retired title tag'):publish(v)
 class EarlyValidationTests(unittest.TestCase):
  def sample(self,edition='am'):
   v=json.loads(json.dumps(ValidationTests().original_sample()).replace('2026-10-03','2026-10-07'))
@@ -97,7 +123,7 @@ class EarlyValidationTests(unittest.TestCase):
    else:v['stories'][0]['commentsVerifiedAt']='2026-10-07T08:56:00+09:00'
    with self.subTest(field=field),self.assertRaises(AssertionError):validate(v)
  def test_original_quote_humor_and_summary_gates_still_apply(self):
-  for field,value in [('originalText','word '*26),('kCount',9),('summary',['invented summary'])]:
+  for field,value in [('originalText','word '*26),('kCount',10),('summary',['invented summary'])]:
    v=self.sample();v['stories'][0][field]=value
    with self.subTest(field=field),self.assertRaises(AssertionError):validate(v)
 
