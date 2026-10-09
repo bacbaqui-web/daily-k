@@ -1,14 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
+  "revision": 8,
   "fence": 4,
   "operationId": "aagag-20261009T135240Z-post-slice2",
   "claimNonce": "2b060bf74b2c4347b818bd89a136b560",
-  "status": "running",
-  "lease": {
-    "owner": "dailyk-cloud-supervisor",
-    "expiresAt": "2026-10-09T15:21:20.798Z"
-  },
+  "status": "ready",
+  "lease": null,
   "projection": {
     "runKey": "729f20277547cf3d50995a959452de3993d019eed670e1fed36533fc1e3bf9d7",
     "window": {
@@ -16,12 +13,12 @@
       "end": "2026-10-09T13:52:40.672000+00:00"
     },
     "sourceSha256": "4b8f9cc54ec28254f013304d79c1b96902cd9e35d78cbb28c0e4d2f1ca618a11",
-    "privateEvidenceDigest": "6deae975d6b605c7fc573fc2c5bc788e2afb68a2b1afaa8824d7c89f6445d281",
-    "localRevision": 7,
+    "privateEvidenceDigest": "64f80730e301ef8cd788df5b5504ceb05f9023092c9c39234bbc4171021c56e1",
+    "localRevision": 9,
     "progress": {
-      "observedRecords": 6,
-      "qualifiers": 3,
-      "candidates": 3
+      "observedRecords": 12,
+      "qualifiers": 4,
+      "candidates": 4
     },
     "coverage": {
       "listing": false,
@@ -29,8 +26,8 @@
       "nativeComments": false,
       "complete": false
     },
-    "checkpointAt": "2026-10-09T15:09:45.779409+00:00"
+    "checkpointAt": "2026-10-09T15:13:47.521398+00:00"
   },
-  "updatedAt": "2026-10-09T15:11:20.798Z",
-  "lastOutcome": null
+  "updatedAt": "2026-10-09T15:13:48.785Z",
+  "lastOutcome": "checkpointed"
 }
