@@ -1,11 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 18,
-  "fence": 10,
-  "operationId": "aagag-20261009T135240Z-post-slice4",
-  "claimNonce": "5900d35c3e4d4ab4a42985d0b1038ca4",
-  "status": "ready",
-  "lease": null,
+  "revision": 19,
+  "fence": 11,
+  "operationId": "aagag-20261009T135240Z-initial-page6",
+  "claimNonce": "8828356c51d24e0db8ef06fe68120d58",
+  "status": "running",
+  "lease": {
+    "owner": "dailyk-cloud-supervisor",
+    "expiresAt": "2026-10-09T16:12:06.196Z"
+  },
   "projection": {
     "runKey": "729f20277547cf3d50995a959452de3993d019eed670e1fed36533fc1e3bf9d7",
     "window": {
@@ -28,6 +31,6 @@
     },
     "checkpointAt": "2026-10-09T16:00:27.000121+00:00"
   },
-  "updatedAt": "2026-10-09T16:00:28.227Z",
-  "lastOutcome": "checkpointed"
+  "updatedAt": "2026-10-09T16:02:06.196Z",
+  "lastOutcome": null
 }
