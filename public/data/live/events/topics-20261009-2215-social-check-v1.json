@@ -1,0 +1,22 @@
+{
+  "command": "check",
+  "payload": {
+    "check": {
+      "channel": "topics",
+      "checkedAt": "2026-10-09T22:22:40+09:00",
+      "count": 1,
+      "id": "topics-20261009-2215-social",
+      "note": "22:20 X 트렌드에서 Trending in South Korea 및 #CORTISatF1 지속 표시를 확인했다. 새 변화 근거가 없어 해당 주제는 중복 갱신하지 않았다. 공개 검색은 로딩 후 시간초과, 한 차례 새로고침 뒤에도 시간초과여서 대표 게시물·전체 건수·순위는 미확인이다. 봇 차단으로 단정하지 않았다. IG는 동일 STORM 카드 조회 654.5만, 원문 상세 좋아요 67.3만·댓글 1.9천을 관찰해 기존 주제 1건을 갱신한다. IG 지역·집계기간·영상 전체는 미확인이다. SNS 전체 인기의 전수 조사나 한국 전체 순위가 아니다.",
+      "source": "X 한국 트렌드·공개 검색, Instagram 공개 인기 목록·원문",
+      "status": "partial"
+    },
+    "operationId": "topics-20261009-2215-social-check-v1",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-09T22:26:41.254024+09:00",
+  "result": {
+    "operationId": "topics-20261009-2215-social-check-v1",
+    "recordedAt": "2026-10-09T22:26:41.254024+09:00",
+    "windowId": "2026-10-10-am"
+  }
+}
