@@ -4,14 +4,14 @@ import {buildNewsQuestion} from '../lib/news-question';
 import {newsShareUrl} from '../lib/news';
 import type {NewsView,NewsViewStory} from '../lib/news-view';
 
-export function NewsReaderActions({brief,story,sharePath}:{brief:NewsView;story:NewsViewStory;sharePath?:string}){
+export function NewsReaderActions({brief,story,sharePath,recordStatus}:{brief:NewsView;story:NewsViewStory;sharePath?:string;recordStatus?:'preparing'|'finalized'}){
  const [state,setState]=useState<'idle'|'copying'|'copied'|'manual'>('idle');
  const [action,setAction]=useState<'share'|'question'>('question');
  const [notice,setNotice]=useState(false);
  const button=useRef<HTMLButtonElement>(null),manual=useRef<HTMLTextAreaElement>(null);
  const alive=useRef(true);
  const shareUrl=sharePath?`https://bacbaqui-web.github.io${sharePath}`:newsShareUrl(brief.date,brief.edition,story.id);
- const prompt=(sharePath?`기록 상태: ${sharePath.includes('view=live')?'진행 중 준비본 (확정 전)':'불변 확정 기록'}\n`:'')+buildNewsQuestion(brief,story).replace(newsShareUrl(brief.date,brief.edition,story.id),shareUrl);
+ const prompt=(sharePath?`기록 상태: ${(recordStatus==='preparing'||(!recordStatus&&sharePath.includes('view=live')))?'진행 중 준비본 (확정 전)':'불변 확정 기록'}\n`:'')+buildNewsQuestion(brief,story).replace(newsShareUrl(brief.date,brief.edition,story.id),shareUrl);
  useEffect(()=>{alive.current=true;return()=>{alive.current=false}},[]);
  useEffect(()=>{if(state!=='copied'){setNotice(false);return}setNotice(true);const timer=setTimeout(()=>setNotice(false),6500);return()=>clearTimeout(timer)},[state]);
  useEffect(()=>{if(state==='manual'){manual.current?.focus();manual.current?.select()}},[state]);

@@ -3,7 +3,8 @@ import {useEffect,useRef,useState} from 'react';
 import {CommunityBodyImages} from './community-media';
 import {RecordCorrections,LiveSourceReference} from './record-corrections';
 import {communityThumbnail,isPublicImageUrl} from '../lib/community-media';
-import {liveLink,liveTime,type Correction,type LiveItem} from '../lib/live';
+import {liveTime,type Correction,type LiveItem} from '../lib/live';
+import {editionHref,parseEdition} from '../lib/edition-view';
 
 function Summary({text,id}:{text:string;id:string}) {
  const paragraph=useRef<HTMLParagraphElement>(null);
@@ -41,7 +42,7 @@ export function LiveItemCard({item,corrections,channel,record,windowId}:{item:Li
   {instagram&&<p className="live-scope-note">Instagram 보조 자료 · 한국 지역 순위 아님 · 집계 기간·실시간 상승 미확인</p>}
   {unknownX&&<p className="live-scope-note">X 공개 자료 · 한국 지역 트렌드 미확인</p>}
   <div className="live-source-chips" aria-label="확인한 출처">{item.sources.map((source,index)=><a key={`${source.url}:${index}`} href={source.url} target="_blank" rel="noopener noreferrer" title={source.title}>{source.name}<span aria-hidden="true"> ↗</span><span className="sr-only"> — {source.title} (새 창)</span></a>)}</div>
-  <div className="live-card-actions">{original&&<a className="live-original" href={original} target="_blank" rel="noopener noreferrer">원문 보기 <span aria-hidden="true">↗</span><span className="sr-only"> (새 창)</span></a>}<a className="live-permalink" href={liveLink(record?'records':'live',channel,record,item.id)}>이 항목 링크</a></div>
+  <div className="live-card-actions">{original&&<a className="live-original" href={original} target="_blank" rel="noopener noreferrer">원문 보기 <span aria-hidden="true">↗</span><span className="sr-only"> (새 창)</span></a>}<a className="live-permalink" href={editionHref(parseEdition(record||windowId),channel,item.id)}>이 항목 링크</a></div>
   {media&&<details className="live-media-detail"><summary>본문·이미지·댓글 보기</summary><div className="community-media">{media.videoUrl&&isPublicImageUrl(media.videoUrl)&&(videoFailed?<p>영상을 불러오지 못했습니다. 원문 링크에서 확인해 주세요.</p>:<video controls playsInline preload="metadata" src={media.videoUrl} poster={media.videoPosterUrl||undefined} onError={()=>setVideoFailed(true)}/>)}<CommunityBodyImages story={media}/>{media.originalText&&<blockquote>{media.originalText}</blockquote>}{!!media.comments?.length&&<><h3>짧은 댓글 인용</h3>{media.comments.map(c=><blockquote key={c.id}>{c.text}{c.truncated?'…':''}</blockquote>)}<p>확인한 댓글 {media.commentCount}개 중 일부 인용입니다. 전체 내용은 원문에서 확인하세요.</p></>}</div></details>}
   <RecordCorrections items={corrections}/>
   <div className="live-evidence">
