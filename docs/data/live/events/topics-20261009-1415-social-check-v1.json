@@ -1,0 +1,22 @@
+{
+  "command": "check",
+  "payload": {
+    "check": {
+      "channel": "topics",
+      "checkedAt": "2026-10-09T14:20:25+09:00",
+      "count": 1,
+      "id": "topics-20261009-1415-social",
+      "note": "X는 로그인 셸 이후 트렌드·노벨문학상 원문 DOM/화면 판독이 시간초과해 현재 한국 지역과 수치를 재확인하지 못했다. 기존 X 검증시각·지표는 변경하지 않았다. Instagram 같은 가을 네일 카드의 반올림 조회 표시만 332.7만→332.8만, 310.5만→310.7만으로 갱신 제안했다. 정확한 증가량·한국 실시간 상승을 뜻하지 않는다. GRWM은 1,893만 표시 동일. Instagram 지역·게시일·집계기간 불명, 보조 자료다.",
+      "source": "X 공개 트렌드·공개 원문 및 Instagram 공개 Explore/Popular",
+      "status": "partial"
+    },
+    "operationId": "topics-20261009-1415-social-check-v1",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-09T14:31:14.206220+09:00",
+  "result": {
+    "operationId": "topics-20261009-1415-social-check-v1",
+    "recordedAt": "2026-10-09T14:31:14.206220+09:00",
+    "windowId": "2026-10-09-pm"
+  }
+}
