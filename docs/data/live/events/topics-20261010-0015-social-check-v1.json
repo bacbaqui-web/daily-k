@@ -1,0 +1,22 @@
+{
+  "command": "check",
+  "payload": {
+    "check": {
+      "channel": "topics",
+      "checkedAt": "2026-10-10T00:18:29+09:00",
+      "count": 2,
+      "id": "topics-20261010-0015-social",
+      "note": "00:15 X 트렌드 목록에서 훈민정음·노벨문학상 등의 Trending in South Korea 직접 표시를 확인했다. 한글날 기존 주제의 표본 확인만 갱신하고 노벨문학상은 공개 검색이 로딩 후 시간초과, 한 차례 새로고침 뒤에도 시간초과여서 새 주제로 채택하지 않았다. #CORTISatF1은 이번 관찰 목록에 없었으나 트렌드 종료로 해석하지 않는다. 순위·전체 게시물 수·집계기간은 미확인이다. Instagram 동일 STORM 인기 카드 조회 660.8만, 정규 URL 원문 상세 좋아요 67.8만·댓글 1.9천을 확인해 기존 주제를 갱신한다. 표시값 차이는 반올림 수치이며 정확한 증가량·급상승이 아니다. IG 지역·기간·정확한 게시시각·영상 전체는 미확인이다. SNS 전체 인기의 전수 조사나 한국 전체 순위가 아니며 새 사건은 추가하지 않았다.",
+      "source": "X 한국 트렌드·공개 검색 시도, Instagram 공개 인기 목록·원문",
+      "status": "partial"
+    },
+    "operationId": "topics-20261010-0015-social-check-v1",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-10T00:25:39.143149+09:00",
+  "result": {
+    "operationId": "topics-20261010-0015-social-check-v1",
+    "recordedAt": "2026-10-10T00:25:39.143149+09:00",
+    "windowId": "2026-10-10-am"
+  }
+}
