@@ -1,59 +1,59 @@
 {
-  "schemaVersion": 1,
-  "id": "seungju-community-webtoon",
-  "title": "순천 승주읍 주민 웹툰 교육과 선암사 콘텐츠",
   "entries": [
     {
-      "id": "2026-10-04-pm/seungju-webtoon-storybook-2026",
-      "editionId": "2026-10-04-pm",
-      "storyId": "seungju-webtoon-storybook-2026",
-      "editionDate": "2026-10-04",
-      "edition": "pm",
+      "briefingPath": "2026-10-04/pm.json",
+      "category": "웹툰 산업",
+      "change": "미수록된 주민 웹툰 제작·발간 사례를 72시간 이내의 보도에서 선정했습니다. 오늘 신규 발표나 상업적 성공으로 표현하지 않습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-04T21:13:51+09:00",
       "coveredOn": "2026-10-04",
-      "publishedAt": "2026-10-02T12:11:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-04",
+      "editionId": "2026-10-04-pm",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "10월 2일은 기사 발행일이고 책자 발간은 최근으로만 적혀 있습니다. 정확한 사건일을 추측하지 않습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-04-pm/seungju-webtoon-storybook-2026",
+      "keyFacts": {
+        "distributionPlan": "선암사·인근상가·지역행사",
+        "educationStart": "2026년5월초로 보도",
+        "format": "주민 기억을 담은4컷만화등 웹툰책자",
+        "participants": "약20명",
+        "publicationDate": "정확한 날짜 미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-02T12:11:00+09:00",
+      "sources": [
+        {
+          "kind": "specialist",
+          "language": "ko",
+          "name": "웹툰가이드",
+          "publishedAt": "2026-10-02T12:11:00+09:00",
+          "title": "주민이 직접 그린 선암사 이야기, 승주읍 웹툰 스토리북 발간",
+          "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26263",
+          "verificationNote": "웹 열기로 제목·기자·등록 시각·본문을 확인했습니다. 직접 요청은403으로 OG 이미지는 생략했습니다. 책 발간일 자체는 미표시입니다.",
+          "verifiedAt": "2026-10-04T21:13:51+09:00"
+        }
+      ],
       "stage": "보도",
-      "change": "미수록된 주민 웹툰 제작·발간 사례를 72시간 이내의 보도에서 선정했습니다. 오늘 신규 발표나 상업적 성공으로 표현하지 않습니다.",
-      "title": "순천 주민 약 20명, 선암사 웹툰 책자 제작…창작 교육의 지역 활용",
-      "category": "웹툰 산업",
       "status": "보도",
+      "storyId": "seungju-webtoon-storybook-2026",
       "summary": [
         "순천 승주읍 주민들이 선암사에 관한 기억을 웹툰으로 만들고 책자로 발간했다는 소식입니다. 오늘 새 대형 산업 발표를 확인하지 못해 10월 2일 보도된 최근 창작 교육·지역 콘텐츠 사례를 골랐습니다.",
         "웹툰가이드에 따르면 스님과 초등학생 등 약 20명이 제작에 참여했습니다. 5월 초부터 제작 교육을 받아 각자의 이야기를 4컷 만화 등으로 표현했고, 책에는 색칠용 그림과 사찰 사진도 담겼습니다.",
         "주민자치회는 책자를 사찰과 인근 상가에 두고 지역 행사에서도 배포할 계획입니다. 창작 교육이 수업으로 끝나지 않고 실제 콘텐츠 제작과 독자 접점으로 이어졌다는 점에 의미가 있습니다.",
         "대형 플랫폼 계약이나 상업적 흥행 성과를 발표한 사례는 아닙니다. 정확한 발간일과 인쇄 부수·매출 효과는 확인되지 않아, 주민 창작 역량과 지역 문화자원의 활용 사례로 범위를 한정했습니다."
       ],
-      "keyFacts": {
-        "participants": "약20명",
-        "educationStart": "2026년5월초로 보도",
-        "format": "주민 기억을 담은4컷만화등 웹툰책자",
-        "distributionPlan": "선암사·인근상가·지역행사",
-        "publicationDate": "정확한 날짜 미확인"
-      },
-      "uncertainty": "발간일·인쇄부수·판매성과는 확인되지 않았으며 민간 전문매체 보도 범위입니다.",
-      "sources": [
-        {
-          "name": "웹툰가이드",
-          "title": "주민이 직접 그린 선암사 이야기, 승주읍 웹툰 스토리북 발간",
-          "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26263",
-          "publishedAt": "2026-10-02T12:11:00+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:13:51+09:00",
-          "verificationNote": "웹 열기로 제목·기자·등록 시각·본문을 확인했습니다. 직접 요청은403으로 OG 이미지는 생략했습니다. 책 발간일 자체는 미표시입니다."
-        }
-      ],
-      "briefingPath": "2026-10-04/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "순천 주민 약 20명, 선암사 웹툰 책자 제작…창작 교육의 지역 활용",
+      "uncertainty": "발간일·인쇄부수·판매성과는 확인되지 않았으며 민간 전문매체 보도 범위입니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "seungju-community-webtoon",
+  "schemaVersion": 1,
+  "title": "순천 승주읍 주민 웹툰 교육과 선암사 콘텐츠",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

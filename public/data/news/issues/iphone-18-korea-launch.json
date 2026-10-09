@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "iphone-18-korea-launch",
-  "title": "아이폰18 국내 출시",
   "entries": [
     {
-      "id": "2026-09-18-am-archive/archive-07",
-      "editionId": "2026-09-18-am-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-18",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 109,
+        "lineStart": 109,
+        "ordinal": 7,
+        "originalText": "아이폰18 프로 국내 출시.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-18/am.json",
+      "category": "기술·IT",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 아이폰18 프로 국내 출시.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-18",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-18",
+      "editionId": "2026-09-18-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 아이폰18 프로 국내 출시.",
-      "title": "아이폰18 프로 국내 출시",
-      "category": "기술·IT",
-      "status": "과거 기록",
-      "summary": [
-        "아이폰18 프로 국내 출시."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-18-am-archive/archive-07",
       "keyFacts": {
         "originalRecord": "아이폰18 프로 국내 출시."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-18/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "아이폰18 프로 국내 출시."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "아이폰18 프로 국내 출시.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 109,
-        "lineEnd": 109,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "아이폰18 프로 국내 출시",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "iphone-18-korea-launch",
+  "schemaVersion": 1,
+  "title": "아이폰18 국내 출시",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

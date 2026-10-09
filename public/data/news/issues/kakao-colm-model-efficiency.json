@@ -1,72 +1,72 @@
 {
-  "schemaVersion": 1,
-  "id": "kakao-colm-model-efficiency",
-  "title": "카카오의 COLM 학습 최적화·모델 경량화 연구",
   "entries": [
     {
-      "id": "2026-10-08-pm/kakao-colm-model-efficiency-2026-10-08",
-      "editionId": "2026-10-08-pm",
-      "storyId": "kakao-colm-model-efficiency-2026-10-08",
-      "editionDate": "2026-10-08",
-      "edition": "pm",
+      "briefingPath": "2026-10-08/pm.json",
+      "category": "AI·기술",
+      "change": "10월 8일 카카오가 COLM 2026에 소개한 학습률 탐색 방법의 카나나 적용과 BBT 경량화 비교실험 수치를 공개했습니다. 상용 서비스의 실측 개선 효과는 아직 확인되지 않았습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T20:39:55+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T09:12:50+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-pm",
       "eventAt": null,
       "eventDate": "2026-10-08",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "카카오의 연구성과 공개일은 10월 8일입니다. 공개 시·분과 학회에서 각 논문을 발표한 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-08-pm/kakao-colm-model-efficiency-2026-10-08",
+      "keyFacts": {
+        "announcementDate": "2026-10-08",
+        "appliedModel": "Kanana-2.6-155b-a17b",
+        "bbtParameterReduction": "20.2~40.4%, 비교실험",
+        "bbtTestPerformanceImprovement": "2.7~6.6%, 비교실험",
+        "learningRateSearchCost": "전체 학습 비용의 약 1%, 회사 연구",
+        "pretrainingTokens": "10조 토큰",
+        "serviceImpact": "실서비스 비용·속도 개선 미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T09:12:50+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "카카오",
+          "publishedAt": null,
+          "title": "카카오, 언어모델링 국제학회 ‘COLM 2026’에서 AI 연구 성과 발표",
+          "url": "https://www.kakaocorp.com/page/detail/12157",
+          "verifiedAt": "2026-10-08T20:31:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-08T09:12:50+09:00",
+          "title": "카카오, AI 학습 비용 줄이는 기술 개발…국제학회서 성과 공개",
+          "updatedAt": "2026-10-08T09:24:25+09:00",
+          "url": "https://www.newsis.com/view/NISX20261008_0003818510",
+          "verifiedAt": "2026-10-08T20:32:53+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "10월 8일 카카오가 COLM 2026에 소개한 학습률 탐색 방법의 카나나 적용과 BBT 경량화 비교실험 수치를 공개했습니다. 상용 서비스의 실측 개선 효과는 아직 확인되지 않았습니다.",
-      "title": "카카오, AI 학습률 탐색·경량화 연구 공개…카나나 사전학습에 적용",
-      "category": "AI·기술",
       "status": "보도",
+      "storyId": "kakao-colm-model-efficiency-2026-10-08",
       "summary": [
         "카카오가 AI 모델의 학습 설정을 찾는 비용을 줄이고 모델을 가볍게 만드는 두 연구를 공개했습니다. 회사는 언어모델링 국제학회 COLM 2026의 본 행사와 토큰화 워크숍에서 각각 성과를 소개했다고 밝혔습니다.",
         "첫 연구는 작은 모델에서 얻은 설정을 여러 전문 모듈을 조합한 큰 전문가 혼합형 모델에 옮겨 최적의 학습률을 찾는 방식입니다. 회사 설명에 따르면 전체 학습 비용의 약 1%에 해당하는 비용으로 설정을 예측했으며, 이는 전체 학습비 자체가 99% 줄었다는 뜻은 아닙니다.",
         "이 방법은 카나나 모델의 사전학습에 적용돼 10조 토큰 규모까지 학습하는 데 쓰였습니다. 토큰은 AI가 글을 처리하는 단위이며, 회사는 이 과정의 학습 안정성을 확인했다고 설명했습니다.",
         "별도 경량화 연구인 BBT는 비교 실험에서 매개변수 수를 20.2~40.4% 줄이고 테스트 성능을 2.7~6.6% 높였다고 합니다. 실제 서비스의 비용·속도 개선을 확정한 수치는 아니며, 다양한 모델과 언어에서도 같은 효과가 나는지는 후속 검증이 필요합니다."
       ],
-      "keyFacts": {
-        "announcementDate": "2026-10-08",
-        "learningRateSearchCost": "전체 학습 비용의 약 1%, 회사 연구",
-        "appliedModel": "Kanana-2.6-155b-a17b",
-        "pretrainingTokens": "10조 토큰",
-        "bbtParameterReduction": "20.2~40.4%, 비교실험",
-        "bbtTestPerformanceImprovement": "2.7~6.6%, 비교실험",
-        "serviceImpact": "실서비스 비용·속도 개선 미확인"
-      },
-      "uncertainty": "카카오의 자체 연구·비교실험 발표입니다. 독립 재현 및 상용 서비스의 실측 비용·응답속도 개선은 확인하지 않았습니다.",
-      "sources": [
-        {
-          "name": "카카오",
-          "title": "카카오, 언어모델링 국제학회 ‘COLM 2026’에서 AI 연구 성과 발표",
-          "url": "https://www.kakaocorp.com/page/detail/12157",
-          "language": "ko",
-          "kind": "official",
-          "publishedAt": null,
-          "verifiedAt": "2026-10-08T20:31:05+09:00",
-          "imageUrl": null
-        },
-        {
-          "name": "뉴시스",
-          "title": "카카오, AI 학습 비용 줄이는 기술 개발…국제학회서 성과 공개",
-          "url": "https://www.newsis.com/view/NISX20261008_0003818510",
-          "language": "ko",
-          "kind": "wire",
-          "publishedAt": "2026-10-08T09:12:50+09:00",
-          "verifiedAt": "2026-10-08T20:32:53+09:00",
-          "imageUrl": null,
-          "updatedAt": "2026-10-08T09:24:25+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-08/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "카카오, AI 학습률 탐색·경량화 연구 공개…카나나 사전학습에 적용",
+      "uncertainty": "카카오의 자체 연구·비교실험 발표입니다. 독립 재현 및 상용 서비스의 실측 비용·응답속도 개선은 확인하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "kakao-colm-model-efficiency",
+  "schemaVersion": 1,
+  "title": "카카오의 COLM 학습 최적화·모델 경량화 연구",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

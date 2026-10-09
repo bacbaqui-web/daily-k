@@ -1,83 +1,83 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-foreign-exchange-reserves",
-  "title": "한국 외환보유액과 운용·위탁 변화",
   "entries": [
     {
-      "id": "2026-10-06-am/korea-fx-reserves-2026-09",
-      "editionId": "2026-10-06-am",
-      "storyId": "korea-fx-reserves-2026-09",
-      "editionDate": "2026-10-06",
-      "edition": "am",
+      "briefingPath": "2026-10-06/am.json",
+      "category": "경제·외환",
+      "change": "오늘 06시 공개된 9월 말 통계가 8월 증가에서 감소로 전환됐고, 투자공사 자산 위탁이 감소 요인에 포함됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-06T12:05:34+09:00",
       "coveredOn": "2026-10-06",
-      "publishedAt": "2026-10-06T06:00:04+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-06",
+      "editionId": "2026-10-06-am",
       "eventAt": null,
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "9월 말 잔액의 발표일은 10월 6일입니다. 기사와 보도계획은 06시 공개를 가리키지만 사건의 정확한 발표 초는 특정하지 않아 eventAt은 비워 둡니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-06-am/korea-fx-reserves-2026-09",
+      "keyFacts": {
+        "additionalEntrustment": "구체적인 금액·일정 미정",
+        "factors": "금융기관 외화예수금 감소·한미전략투자공사 자산 위탁·기타 통화 달러 환산액 감소",
+        "monthlyChange": "-17.2억달러",
+        "previousReserves": "4422.8억달러",
+        "referenceMonth": "2026-09 말",
+        "reserves": "4405.6억달러"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-06T06:00:04+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600147.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-10-06T06:00:04+09:00",
+          "title": "외환보유액 4개월 만에 감소…대미투자 위탁자산 첫 반영",
+          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02040166645610296",
+          "verificationNote": "본문과 발행 메타데이터 확인. 외환보유액과 감소 요인은 머니투데이 보도와 대조했습니다.",
+          "verifiedAt": "2026-10-06T12:00:45+09:00"
+        },
+        {
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100514275318974_1.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-06T06:00:00+09:00",
+          "title": "외환보유액, 넉 달 만에 감소…대미투자 자산위탁 영향 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/06/2026100514275318974",
+          "verificationNote": "본문 확인. 수정 시각도 06:00:33으로 회차 기준 이전입니다. 감소액 전체를 대미 송금액으로 해석하지 않습니다.",
+          "verifiedAt": "2026-10-06T12:00:45+09:00"
+        },
+        {
+          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+          "kind": "official",
+          "language": "ko",
+          "name": "한국은행",
+          "publishedAt": null,
+          "title": "2026년 9월말 외환보유액",
+          "url": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?depth=201265&menuNo=201265&nttId=11065307&programType=newsData&relate=Y",
+          "verificationNote": "10월 6일 공식 보도자료의 게시와 첨부 존재를 확인했습니다. 상세 숫자는 한국은행을 인용한 두 한국어 기사 본문으로 대조했으며 PDF 전문 확인으로 간주하지 않습니다. 정확한 홈페이지 게시 시각은 미표시입니다.",
+          "verifiedAt": "2026-10-06T12:00:45+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "오늘 06시 공개된 9월 말 통계가 8월 증가에서 감소로 전환됐고, 투자공사 자산 위탁이 감소 요인에 포함됐습니다.",
-      "title": "9월 외환보유액 4,405.6억달러…17.2억달러 감소 원인은 나눠 봐야",
-      "category": "경제·외환",
       "status": "확정",
+      "storyId": "korea-fx-reserves-2026-09",
       "summary": [
         "한국은행이 발표한 9월 말 외환보유액은 4,405억 6,000만달러로, 전월보다 17억 2,000만달러 줄었습니다. 석 달 연속 늘던 보유액이 감소로 전환한 월간 통계입니다.",
         "8월 말에는 4,422억 8,000만달러였고, 당시 한 달 증가액은 143억 3,000만달러였습니다. 이번 감소에는 금융기관이 한국은행에 맡긴 외화예수금의 감소, 한미전략투자공사에 대한 자산 위탁, 달러 이외 통화 자산의 달러 환산액 감소가 함께 반영됐습니다.",
         "따라서 감소분 17억 2,000만달러를 전부 미국에 송금한 돈이나 시장에서 빠져나간 자금으로 해석하면 안 됩니다. 외환보유액은 외화 자산을 달러로 환산한 잔액이어서, 실제 거래 외에도 환율 변화의 영향을 받습니다.",
         "새로 볼 부분은 대미 투자 집행과 관련한 자산 위탁이 이번 감소 요인에 포함됐다는 점입니다. 보유 외화의 운용과 투자 재원 마련을 함께 살펴야 하지만, 한국은행은 추가 위탁 금액과 일정이 정해지지 않았다고 설명했습니다. 이 통계만으로 앞으로의 송금 규모나 환율 방향을 확정할 수는 없습니다."
       ],
-      "keyFacts": {
-        "referenceMonth": "2026-09 말",
-        "reserves": "4405.6억달러",
-        "previousReserves": "4422.8억달러",
-        "monthlyChange": "-17.2억달러",
-        "factors": "금융기관 외화예수금 감소·한미전략투자공사 자산 위탁·기타 통화 달러 환산액 감소",
-        "additionalEntrustment": "구체적인 금액·일정 미정"
-      },
-      "uncertainty": "요인별 감소 기여액과 향후 추가 위탁 금액·일정은 확인되지 않았습니다. 전체 감소액을 대미 송금액으로 동일시하지 않습니다.",
-      "sources": [
-        {
-          "name": "이데일리",
-          "title": "외환보유액 4개월 만에 감소…대미투자 위탁자산 첫 반영",
-          "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02040166645610296",
-          "publishedAt": "2026-10-06T06:00:04+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T12:00:45+09:00",
-          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100600147.jpg",
-          "verificationNote": "본문과 발행 메타데이터 확인. 외환보유액과 감소 요인은 머니투데이 보도와 대조했습니다."
-        },
-        {
-          "name": "머니투데이",
-          "title": "외환보유액, 넉 달 만에 감소…대미투자 자산위탁 영향 - 머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/06/2026100514275318974",
-          "publishedAt": "2026-10-06T06:00:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T12:00:45+09:00",
-          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100514275318974_1.jpg",
-          "verificationNote": "본문 확인. 수정 시각도 06:00:33으로 회차 기준 이전입니다. 감소액 전체를 대미 송금액으로 해석하지 않습니다."
-        },
-        {
-          "name": "한국은행",
-          "title": "2026년 9월말 외환보유액",
-          "url": "https://www.bok.or.kr/portal/bbs/B0000502/view.do?depth=201265&menuNo=201265&nttId=11065307&programType=newsData&relate=Y",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T12:00:45+09:00",
-          "imageUrl": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
-          "verificationNote": "10월 6일 공식 보도자료의 게시와 첨부 존재를 확인했습니다. 상세 숫자는 한국은행을 인용한 두 한국어 기사 본문으로 대조했으며 PDF 전문 확인으로 간주하지 않습니다. 정확한 홈페이지 게시 시각은 미표시입니다."
-        }
-      ],
-      "briefingPath": "2026-10-06/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "9월 외환보유액 4,405.6억달러…17.2억달러 감소 원인은 나눠 봐야",
+      "uncertainty": "요인별 감소 기여액과 향후 추가 위탁 금액·일정은 확인되지 않았습니다. 전체 감소액을 대미 송금액으로 동일시하지 않습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-foreign-exchange-reserves",
+  "schemaVersion": 1,
+  "title": "한국 외환보유액과 운용·위탁 변화",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

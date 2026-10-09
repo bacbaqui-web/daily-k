@@ -1,445 +1,445 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-investigation-prosecution-separation",
-  "title": "수사·기소 분리와 공소청·중수청 출범",
   "entries": [
     {
-      "id": "2026-10-02-am/korea-prosecution-reorganization-2026",
-      "editionId": "2026-10-02-am",
-      "storyId": "korea-prosecution-reorganization-2026",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "briefingPath": "2026-10-02/am.json",
+      "category": "국내 정책·사회",
+      "change": "공소청과 중수청 출범으로 수사·기소 분리 체계가 시행됐으며 인력 충원과 실제 운영은 후속 확인 대상입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T11:05:30+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T06:28:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am",
       "eventAt": null,
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "2026-10-02 새 기관 출범 · 10-01 현판 교체",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-02-am/korea-prosecution-reorganization-2026",
+      "keyFacts": {
+        "authorizedStaff": "2874명",
+        "launch": "2026-10-02",
+        "staff": "약 1900명",
+        "structure": "수사와 기소 분리"
+      },
+      "previous": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-02"
+      },
+      "publishedAt": "2026-10-02T06:28:00+09:00",
+      "sources": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "매일경제",
+          "publishedAt": "2026-10-02T06:28:00+09:00",
+          "title": "검찰청, 78년 만에 역사 속으로…공소청·중수청 시대 개막",
+          "url": "https://www.mk.co.kr/news/society/12166709",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-02T06:07:00+09:00",
+          "title": "오늘 공소청·중수청 출범…78년 검찰, 역사 속으로",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=ATOM&news_id=N1008779810&plink=ORI",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        }
+      ],
       "stage": "시행",
-      "change": "공소청과 중수청 출범으로 수사·기소 분리 체계가 시행됐으며 인력 충원과 실제 운영은 후속 확인 대상입니다.",
-      "title": "공소청·중수청 출범…수사와 기소가 나뉩니다",
-      "category": "국내 정책·사회",
       "status": "확정",
+      "storyId": "korea-prosecution-reorganization-2026",
       "summary": [
         "10월 2일 공소청과 중대범죄수사청이 출범하면서 기존 검찰청 체계가 바뀌었습니다. 공소청은 기소와 재판에서 공소를 유지하는 업무를, 중수청은 중대범죄 수사를 맡습니다.",
         "매일경제에 따르면 중수청은 정원 2,874명 가운데 약 1,900명, 약 66%의 인력으로 출발합니다. 권한을 한 기관이 함께 행사하던 구조에서 나누어 맡는 구조로 전환됐지만, 인선과 시설 준비가 남아 있습니다.",
         "국민 입장에서는 실제 사건이 기관 사이에서 어떻게 넘어가고 처리되는지가 중요합니다. 출범 자체와 운영의 안착은 구분해야 하며, 앞으로의 사건 처리 속도나 수사 공백 여부는 실제 결과를 확인해야 합니다."
       ],
-      "keyFacts": {
-        "launch": "2026-10-02",
-        "staff": "약 1900명",
-        "authorizedStaff": "2874명",
-        "structure": "수사와 기소 분리"
-      },
-      "uncertainty": "운영 안정성과 인력 충원 결과는 지켜볼 사안",
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "검찰청, 78년 만에 역사 속으로…공소청·중수청 시대 개막",
-          "url": "https://www.mk.co.kr/news/society/12166709",
-          "publishedAt": "2026-10-02T06:28:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T11:05:30+09:00"
-        },
-        {
-          "name": "SBS",
-          "title": "오늘 공소청·중수청 출범…78년 검찰, 역사 속으로",
-          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=ATOM&news_id=N1008779810&plink=ORI",
-          "publishedAt": "2026-10-02T06:07:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T11:05:30+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-02/am.json",
-      "previous": {
-        "editionId": "2026-10-02-am-archive",
-        "storyId": "archive-02"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "공소청·중수청 출범…수사와 기소가 나뉩니다",
+      "uncertainty": "운영 안정성과 인력 충원 결과는 지켜볼 사안"
     },
     {
-      "id": "2026-10-02-pm/korea-prosecution-first-day-2026-10-02",
-      "editionId": "2026-10-02-pm",
-      "storyId": "korea-prosecution-first-day-2026-10-02",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "국내·정책",
+      "change": "아침의 조직 출범 소식 이후 오후 4시 접수 26건과 민원 전산의 지연·재개 상황이 새로 확인됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T16:59:12+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": "2026-10-02T16:00:00+09:00",
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "접수 건수는 10월 2일 16시 기준입니다. 민원 전산 지연·재개도 이날 발생한 현장 상황입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "아침의 조직 출범 소식 이후 오후 4시 접수 26건과 민원 전산의 지연·재개 상황이 새로 확인됐습니다.",
+        "editionId": "2026-10-02-am",
+        "storyId": "korea-prosecution-reorganization-2026"
+      },
+      "id": "2026-10-02-pm/korea-prosecution-first-day-2026-10-02",
+      "keyFacts": {
+        "authorizedStaff": "2874명",
+        "civilServiceSystem": "서울중앙지방공소청 오전 지연 후 점심 이후 재개",
+        "filingsAt1600": "26건",
+        "launch": "2026-10-02",
+        "staff": "약 1900명",
+        "structure": "수사와 기소 분리"
+      },
+      "previous": {
+        "editionId": "2026-10-02-am",
+        "storyId": "korea-prosecution-reorganization-2026"
+      },
+      "publishedAt": "2026-10-02T16:59:12+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472099_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T16:59:12+09:00",
+          "title": "중수청·공소청 출범 첫날…민원실도 법정도 곳곳 '혼선·우려'(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812766",
+          "verifiedAt": "2026-10-02T21:13:58+09:00"
+        },
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472105_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T16:44:43+09:00",
+          "title": "중수청 개청 5시간 기준 고소·고발 26건…'검경 불복' 다수(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812936",
+          "verifiedAt": "2026-10-02T21:13:58+09:00"
+        }
+      ],
       "stage": "후속",
-      "change": "아침의 조직 출범 소식 이후 오후 4시 접수 26건과 민원 전산의 지연·재개 상황이 새로 확인됐습니다.",
-      "title": "중수청 첫날 16시 기준 26건 접수…출범 뒤 실제 운영 확인",
-      "category": "국내·정책",
       "status": "보도",
+      "storyId": "korea-prosecution-first-day-2026-10-02",
       "summary": [
         "아침에 출범을 다뤘던 중대범죄수사청에 오후 4시 기준 고소·고발·진정 등 26건이 접수됐습니다. 오후 보도에서는 민원 접수와 전산 운영의 초기 혼선도 확인됐습니다.",
         "접수 건수는 시민이나 단체가 서류를 제출한 규모입니다. 26건 모두 수사가 시작됐거나 제기된 의혹이 사실로 확인됐다는 의미는 아닙니다.",
         "뉴시스 현장 취재에 따르면 서울중앙지방공소청 민원 업무는 오전 전산 준비 문제로 일부 지연됐다가 점심 이후 재개됐습니다. 중수청 내부에서도 장비와 업무 환경을 갖추는 과정이 이어졌다고 전했습니다.",
         "수사와 기소를 나누는 제도 변화가 시민에게는 접수 창구와 사건 처리 방식의 변화로 나타난 것입니다. 첫날 사례만으로 제도의 성패를 판단하기보다 실제 이첩·접수·처리 시간이 안정되는지를 후속으로 확인해야 합니다."
       ],
-      "keyFacts": {
-        "launch": "2026-10-02",
-        "staff": "약 1900명",
-        "authorizedStaff": "2874명",
-        "structure": "수사와 기소 분리",
-        "filingsAt1600": "26건",
-        "civilServiceSystem": "서울중앙지방공소청 오전 지연 후 점심 이후 재개"
-      },
-      "uncertainty": "접수는 수사 개시나 혐의 확인과 다릅니다. 초기 현장 보도로 장기 운영 성과를 평가할 수 없습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "중수청·공소청 출범 첫날…민원실도 법정도 곳곳 '혼선·우려'(종합)",
-          "url": "https://www.newsis.com/view/NISX20261002_0003812766",
-          "publishedAt": "2026-10-02T16:59:12+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:58+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472099_web.jpg"
-        },
-        {
-          "name": "뉴시스",
-          "title": "중수청 개청 5시간 기준 고소·고발 26건…'검경 불복' 다수(종합)",
-          "url": "https://www.newsis.com/view/NISX20261002_0003812936",
-          "publishedAt": "2026-10-02T16:44:43+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:58+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472105_web.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": {
-        "editionId": "2026-10-02-am",
-        "storyId": "korea-prosecution-reorganization-2026"
-      },
-      "followUp": {
-        "editionId": "2026-10-02-am",
-        "storyId": "korea-prosecution-reorganization-2026",
-        "delta": "아침의 조직 출범 소식 이후 오후 4시 접수 26건과 민원 전산의 지연·재개 상황이 새로 확인됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "중수청 첫날 16시 기준 26건 접수…출범 뒤 실제 운영 확인",
+      "uncertainty": "접수는 수사 개시나 혐의 확인과 다릅니다. 초기 현장 보도로 장기 운영 성과를 평가할 수 없습니다."
     },
     {
-      "id": "2026-09-20-pm-archive/archive-02",
-      "editionId": "2026-09-20-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-20",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 160,
+        "lineStart": 160,
+        "ordinal": 2,
+        "originalText": "김승원 사퇴 후 공소청·중수청 수장 공백 우려.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-20/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 김승원 사퇴 후 공소청·중수청 수장 공백 우려.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-20",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-20",
+      "editionId": "2026-09-20-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 김승원 사퇴 후 공소청·중수청 수장 공백 우려.",
-      "title": "김승원 사퇴 후 공소청·중수청 수장 공백 우려",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "김승원 사퇴 후 공소청·중수청 수장 공백 우려."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-20-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "김승원 사퇴 후 공소청·중수청 수장 공백 우려."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-20/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "김승원 사퇴 후 공소청·중수청 수장 공백 우려."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "김승원 사퇴 후 공소청·중수청 수장 공백 우려.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 160,
-        "lineEnd": 160,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "김승원 사퇴 후 공소청·중수청 수장 공백 우려",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-24-pm-archive/archive-05",
-      "editionId": "2026-09-24-pm-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-24",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 251,
+        "lineStart": 251,
+        "ordinal": 5,
+        "originalText": "청와대, 유시민 검찰개혁 발언 공개 반박.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "김승원 사퇴 후 공소청·중수청 수장 공백 우려"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-24/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 청와대, 유시민 검찰개혁 발언 공개 반박.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-24",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-24",
+      "editionId": "2026-09-24-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 청와대, 유시민 검찰개혁 발언 공개 반박.",
-      "title": "청와대, 유시민 검찰개혁 발언 공개 반박",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "청와대, 유시민 검찰개혁 발언 공개 반박."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-24-pm-archive/archive-05",
       "keyFacts": {
         "originalRecord": "청와대, 유시민 검찰개혁 발언 공개 반박."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-24/pm.json",
       "previous": {
         "editionId": "2026-09-20-pm-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "청와대, 유시민 검찰개혁 발언 공개 반박."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "청와대, 유시민 검찰개혁 발언 공개 반박.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 251,
-        "lineEnd": 251,
-        "previousCoverage": {
-          "date": "2026-09-20",
-          "edition": "pm",
-          "storyId": "archive-02",
-          "title": "김승원 사퇴 후 공소청·중수청 수장 공백 우려",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "청와대, 유시민 검찰개혁 발언 공개 반박",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-29-pm-archive/archive-04",
-      "editionId": "2026-09-29-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-29",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 366,
+        "lineStart": 366,
+        "ordinal": 4,
+        "originalText": "공소청 첫 인사, 192명 이동.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-05",
+          "title": "청와대, 유시민 검찰개혁 발언 공개 반박"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-29/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 공소청 첫 인사, 192명 이동.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-29",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-29",
+      "editionId": "2026-09-29-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 공소청 첫 인사, 192명 이동.",
-      "title": "공소청 첫 인사, 192명 이동",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "공소청 첫 인사, 192명 이동."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-29-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "공소청 첫 인사, 192명 이동."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-29/pm.json",
       "previous": {
         "editionId": "2026-09-24-pm-archive",
         "storyId": "archive-05"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "공소청 첫 인사, 192명 이동."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "공소청 첫 인사, 192명 이동.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 366,
-        "lineEnd": 366,
-        "previousCoverage": {
-          "date": "2026-09-24",
-          "edition": "pm",
-          "storyId": "archive-05",
-          "title": "청와대, 유시민 검찰개혁 발언 공개 반박",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "공소청 첫 인사, 192명 이동",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-01-am-archive/archive-08",
-      "editionId": "2026-10-01-am-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-10-01",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 407,
+        "lineStart": 407,
+        "ordinal": 8,
+        "originalText": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "공소청 첫 인사, 192명 이동"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-01/am.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-01",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-10-01",
+      "editionId": "2026-10-01-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비.",
-      "title": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-01-am-archive/archive-08",
       "keyFacts": {
         "originalRecord": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-01/am.json",
       "previous": {
         "editionId": "2026-09-29-pm-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 407,
-        "lineEnd": 407,
-        "previousCoverage": {
-          "date": "2026-09-29",
-          "edition": "pm",
-          "storyId": "archive-04",
-          "title": "공소청 첫 인사, 192명 이동",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-01-pm-archive/archive-04",
-      "editionId": "2026-10-01-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-10-01",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 414,
+        "lineStart": 414,
+        "ordinal": 4,
+        "originalText": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-10-01",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-01/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-01",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-10-01",
+      "editionId": "2026-10-01-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가.",
-      "title": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-01-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-01/pm.json",
       "previous": {
         "editionId": "2026-10-01-am-archive",
         "storyId": "archive-08"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 414,
-        "lineEnd": 414,
-        "previousCoverage": {
-          "date": "2026-10-01",
-          "edition": "am",
-          "storyId": "archive-08",
-          "title": "검찰청 폐지 하루 전, 공소청·중수청 체제로 전환 준비",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-02-am-archive/archive-02",
-      "editionId": "2026-10-02-am-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 425,
+        "lineStart": 425,
+        "ordinal": 2,
+        "originalText": "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-10-01",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-02/am.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 오늘부터 검찰청 폐지, 공소청·중수청 공식 출범.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-02",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 오늘부터 검찰청 폐지, 공소청·중수청 공식 출범.",
-      "title": "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-02-am-archive/archive-02",
       "keyFacts": {
         "originalRecord": "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-02/am.json",
       "previous": {
         "editionId": "2026-10-01-pm-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 425,
-        "lineEnd": 425,
-        "previousCoverage": {
-          "date": "2026-10-01",
-          "edition": "pm",
-          "storyId": "archive-04",
-          "title": "이 대통령 \"정치검찰 시대 막 내려\", 공소청·중수청 출범 평가",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "오늘부터 검찰청 폐지, 공소청·중수청 공식 출범",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-investigation-prosecution-separation",
+  "schemaVersion": 1,
+  "title": "수사·기소 분리와 공소청·중수청 출범",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

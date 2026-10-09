@@ -1,53 +1,53 @@
 {
-  "schemaVersion": 1,
-  "id": "china-output-consumption",
-  "title": "중국 산업생산과 소비",
   "entries": [
     {
-      "id": "2026-09-15-pm-archive/archive-08",
-      "editionId": "2026-09-15-pm-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-15",
-      "edition": "pm",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 산업생산 +5.2%, 소비 +0.4%.",
-      "title": "산업생산 +5.2%, 소비 +0.4%",
-      "category": "국제·경제",
-      "status": "과거 기록",
-      "summary": [
-        "산업생산 +5.2%, 소비 +0.4%."
-      ],
-      "keyFacts": {
-        "originalRecord": "[중국경제] 산업생산 +5.2%, 소비 +0.4%. 확인: 뉴시스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 48,
+        "lineStart": 48,
+        "ordinal": 8,
         "originalText": "[중국경제] 산업생산 +5.2%, 소비 +0.4%. 확인: 뉴시스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "뉴시스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 48,
-        "lineEnd": 48,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/pm.json",
+      "category": "국제·경제",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 산업생산 +5.2%, 소비 +0.4%.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "pm",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-pm-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-pm-archive/archive-08",
+      "keyFacts": {
+        "originalRecord": "[중국경제] 산업생산 +5.2%, 소비 +0.4%. 확인: 뉴시스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "산업생산 +5.2%, 소비 +0.4%."
+      ],
+      "supersededBy": [],
+      "title": "산업생산 +5.2%, 소비 +0.4%",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "china-output-consumption",
+  "schemaVersion": 1,
+  "title": "중국 산업생산과 소비",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

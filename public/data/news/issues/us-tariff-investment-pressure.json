@@ -1,70 +1,70 @@
 {
-  "schemaVersion": 1,
-  "id": "us-tariff-investment-pressure",
-  "title": "미국의 관세와 생산시설 투자 압박",
   "entries": [
     {
-      "id": "2026-10-04-pm/trump-factory-tariff-pressure-2026-10-03",
-      "editionId": "2026-10-04-pm",
-      "storyId": "trump-factory-tariff-pressure-2026-10-03",
-      "editionDate": "2026-10-04",
-      "edition": "pm",
+      "briefingPath": "2026-10-04/pm.json",
+      "category": "국제·통상",
+      "change": "미국 현지 3일 유세에서 외국 기업의 공장 투자와 150~300% 관세를 연결하는 발언이 나왔습니다. 개별 한국 에너지사업 합의나 세율 시행 확인은 아닙니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-04T21:13:51+09:00",
       "coveredOn": "2026-10-04",
-      "publishedAt": "2026-10-04T17:37:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-04",
+      "editionId": "2026-10-04-pm",
       "eventAt": null,
       "eventDate": "2026-10-03",
       "eventEndDate": null,
-      "eventTimezone": "America/New_York",
       "eventTimeNote": "실제 발언은 미국 오하이오 현지 10월 3일입니다. 정확한 발언 시각은 미확인이라 한국 날짜로 임의 변환하지 않습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-04-pm/trump-factory-tariff-pressure-2026-10-03",
+      "keyFacts": {
+        "implementation": "선정 보도에서 품목·법적절차·발효일 미확인",
+        "investmentGraceClaim": "약1년반",
+        "speechDateLocal": "2026-10-03",
+        "tariffRangeClaim": "150~300%",
+        "venue": "미국 오하이오 지원 유세"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-04T17:37:00+09:00",
+      "sources": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "매일경제",
+          "publishedAt": "2026-10-04T17:37:00+09:00",
+          "title": "“공장 안지으면 관세 300%” … 거세지는 트럼프 ‘투자협박’",
+          "url": "https://www.mk.co.kr/news/world/12168175",
+          "verificationNote": "검색 결과의 기사 발행시각과 유세 발언을 SBS 원문으로 대조했습니다. 직접 접근은 403으로 대표 이미지는 생략하고 평가적 표현은 요약에 쓰지 않았습니다.",
+          "verifiedAt": "2026-10-04T21:07:35+09:00"
+        },
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228366_1280.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-04T11:16:00+09:00",
+          "title": "격전지 간 트럼프 \"미국에 공장 안 지으면 관세 300%까지\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782474",
+          "verificationNote": "미국 현지 10월 3일 오하이오 유세에 관한 본문을 확인했습니다. 발언 사실과 실제 관세 시행을 구분합니다.",
+          "verifiedAt": "2026-10-04T21:07:35+09:00"
+        }
+      ],
       "stage": "보도",
-      "change": "미국 현지 3일 유세에서 외국 기업의 공장 투자와 150~300% 관세를 연결하는 발언이 나왔습니다. 개별 한국 에너지사업 합의나 세율 시행 확인은 아닙니다.",
-      "title": "트럼프, 미국 공장 투자 압박하며 ‘최대 300% 관세’ 언급",
-      "category": "국제·통상",
       "status": "주장",
+      "storyId": "trump-factory-tariff-pressure-2026-10-03",
       "summary": [
         "트럼프 미국 대통령이 현지시간 10월 3일 오하이오 유세에서 미국에 공장을 짓지 않는 외국 기업에 높은 관세를 물릴 수 있다고 말했습니다. 최대 300%라는 숫자는 유세 발언이며 새 관세가 시행됐다는 뜻은 아닙니다.",
         "발언에는 미국 내 공장을 세울 기회를 약 1년 반 주고, 그렇지 않으면 150~300% 관세를 부과한다는 취지가 담겼습니다. SBS와 매일경제 보도에서 같은 발언을 확인했지만, 적용 품목과 법적 절차·발효일은 이 자료만으로 확인되지 않습니다.",
         "어제 다룬 알래스카 투자 요구와 별개로, 이번에는 외국 기업 전반의 생산시설 투자를 관세와 연결했습니다. 한국 기업의 미국 생산 확대와 수출 비용 판단에 영향을 줄 수 있는 정책 위험으로 볼 수 있습니다.",
         "다만 발언을 바로 기업의 확정 비용이나 한국에 적용될 확정 세율로 계산하면 안 됩니다. 이후 공식 행정조치와 협상 내용이 실제로 나오는지 확인해야 합니다."
       ],
-      "keyFacts": {
-        "speechDateLocal": "2026-10-03",
-        "venue": "미국 오하이오 지원 유세",
-        "investmentGraceClaim": "약1년반",
-        "tariffRangeClaim": "150~300%",
-        "implementation": "선정 보도에서 품목·법적절차·발효일 미확인"
-      },
-      "uncertainty": "정책 발언 단계로 실제 부과 대상·법적 근거·발효일과 한국 기업 적용 여부는 확인되지 않았습니다.",
-      "sources": [
-        {
-          "name": "매일경제",
-          "title": "“공장 안지으면 관세 300%” … 거세지는 트럼프 ‘투자협박’",
-          "url": "https://www.mk.co.kr/news/world/12168175",
-          "publishedAt": "2026-10-04T17:37:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:07:35+09:00",
-          "verificationNote": "검색 결과의 기사 발행시각과 유세 발언을 SBS 원문으로 대조했습니다. 직접 접근은 403으로 대표 이미지는 생략하고 평가적 표현은 요약에 쓰지 않았습니다."
-        },
-        {
-          "name": "SBS",
-          "title": "격전지 간 트럼프 \"미국에 공장 안 지으면 관세 300%까지\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782474",
-          "publishedAt": "2026-10-04T11:16:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:07:35+09:00",
-          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228366_1280.jpg",
-          "verificationNote": "미국 현지 10월 3일 오하이오 유세에 관한 본문을 확인했습니다. 발언 사실과 실제 관세 시행을 구분합니다."
-        }
-      ],
-      "briefingPath": "2026-10-04/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "트럼프, 미국 공장 투자 압박하며 ‘최대 300% 관세’ 언급",
+      "uncertainty": "정책 발언 단계로 실제 부과 대상·법적 근거·발효일과 한국 기업 적용 여부는 확인되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "us-tariff-investment-pressure",
+  "schemaVersion": 1,
+  "title": "미국의 관세와 생산시설 투자 압박",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

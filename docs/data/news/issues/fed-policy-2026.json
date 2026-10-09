@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "fed-policy-2026",
-  "title": "미국 연준 금리 결정과 물가 판단",
   "entries": [
     {
-      "id": "2026-09-17-am-archive/archive-01",
-      "editionId": "2026-09-17-am-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-17",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 79,
+        "lineStart": 79,
+        "ordinal": 1,
+        "originalText": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-17/am.json",
+      "category": "경제·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-17",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-17",
+      "editionId": "2026-09-17-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성.",
-      "title": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성",
-      "category": "경제·금리",
-      "status": "과거 기록",
-      "summary": [
-        "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-17-am-archive/archive-01",
       "keyFacts": {
         "originalRecord": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-17/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 79,
-        "lineEnd": 79,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-21-am-archive/archive-03",
-      "editionId": "2026-09-21-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-21",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 172,
+        "lineStart": 172,
+        "ordinal": 3,
+        "originalText": "카시카리 \"미국 경제 전반 물가가 너무 높다\".",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/am.json",
+      "category": "경제·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카시카리 \"미국 경제 전반 물가가 너무 높다\".",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 카시카리 \"미국 경제 전반 물가가 너무 높다\".",
-      "title": "카시카리 \"미국 경제 전반 물가가 너무 높다\"",
-      "category": "경제·금리",
-      "status": "과거 기록",
-      "summary": [
-        "카시카리 \"미국 경제 전반 물가가 너무 높다\"."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "카시카리 \"미국 경제 전반 물가가 너무 높다\"."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/am.json",
       "previous": {
         "editionId": "2026-09-17-am-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "카시카리 \"미국 경제 전반 물가가 너무 높다\"."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "카시카리 \"미국 경제 전반 물가가 너무 높다\".",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 172,
-        "lineEnd": 172,
-        "previousCoverage": {
-          "date": "2026-09-17",
-          "edition": "am",
-          "storyId": "archive-01",
-          "title": "Fed 0.25%p 인상, 기준금리 3.75~4.00%, 연내 추가 인상 가능성",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "카시카리 \"미국 경제 전반 물가가 너무 높다\"",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "fed-policy-2026",
+  "schemaVersion": 1,
+  "title": "미국 연준 금리 결정과 물가 판단",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

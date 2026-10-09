@@ -1,71 +1,71 @@
 {
-  "schemaVersion": 1,
-  "id": "youth-future-savings-second-window-2026",
-  "title": "2026년 청년미래적금 2차 가입신청",
   "entries": [
     {
-      "id": "2026-10-07-am/youth-future-savings-second-window-2026-10-07",
-      "editionId": "2026-10-07-am",
-      "storyId": "youth-future-savings-second-window-2026-10-07",
-      "editionDate": "2026-10-07",
-      "edition": "am",
+      "briefingPath": "2026-10-07/am.json",
+      "category": "경제·생활정책",
+      "change": "사전 공지된 2차 신청 기간과 홀짝제를 08:30 기준 일정으로 기록합니다. 접수 결과와 개별 가입 확정은 아직 다루지 않습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T12:12:39+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-am",
       "eventAt": "2026-10-07T09:00:00+09:00",
       "eventDate": "2026-10-07",
       "eventEndDate": "2026-10-16",
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "08:30 기준 확인한 사전 안내에서 신청기간은 10월7~16일, 운영시간은09:00~18:30입니다. 지연 발행 시점의 실제 접수 시스템 운영 결과를 확인한 기사는 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-07-am/youth-future-savings-second-window-2026-10-07",
+      "keyFacts": {
+        "accountOpeningWindow": "2026-11-16~2026-11-27",
+        "applicationWindow": "2026-10-07~2026-10-16, 주말·공휴일제외",
+        "dailyHours": "09:00~18:30 KST",
+        "evenBirthYearDay": "2026-10-08",
+        "oddBirthYearDay": "2026-10-07"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "specialist",
+          "language": "ko",
+          "name": "한국금융신문",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "title": "청년미래적금 2차 가입 시작…10월 7일부터 16일까지 신청",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610062030051653dd55077bc2_18",
+          "verificationNote": "데스크톱 원문을 열어 입력 시각과 모집·심사·개설 일정을 확인했습니다. 새 상품 발표가 아니라 이미 공지된 2차 신청 일정의 당일 안내입니다.",
+          "verifiedAt": "2026-10-07T12:07:21+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "대한민국 정책브리핑·금융위원회",
+          "publishedAt": null,
+          "title": "7일부터 청년미래적금 2차 가입 신청…은행 앱으로 간편하게",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973066",
+          "verificationNote": "10월 6일 공식 게시일 확인, 정확한 게시 시각은 미표시. 신청기간, 소득심사, 납입한도, 기여금과 예산안 조건을 확인했습니다.",
+          "verifiedAt": "2026-10-07T12:07:21+09:00"
+        }
+      ],
       "stage": "예정",
-      "change": "사전 공지된 2차 신청 기간과 홀짝제를 08:30 기준 일정으로 기록합니다. 접수 결과와 개별 가입 확정은 아직 다루지 않습니다.",
-      "title": "청년미래적금 2차 신청 기간…오늘은 출생연도 끝자리 홀수",
-      "category": "경제·생활정책",
       "status": "예정",
+      "storyId": "youth-future-savings-second-window-2026-10-07",
       "summary": [
         "청년미래적금 2차 가입신청 기간은 10월 7~16일입니다. 첫날인 오늘은 출생연도 끝자리가 홀수인 신청자, 8일은 짝수인 신청자가 대상이며 12~16일에는 출생연도와 관계없이 신청할 수 있습니다.",
         "오전 8시 30분까지 공개된 안내에 따르면 취급기관 앱의 신청시간은 오전 9시부터 오후 6시 30분까지입니다. 토·일요일과 공휴일은 제외되며, 이번 회차는 신청창구 운영 실적이 아니라 사전에 공지된 일정을 전합니다.",
         "상품은 3년 만기로 매달 최대 50만원을 납입하고, 자격에 따라 정부기여금과 이자소득 비과세 혜택이 적용됩니다. 나이뿐 아니라 소득·가구소득 등 심사가 있어 신청 가능 여부와 일반형·우대형 적용을 구분해야 합니다.",
         "신청일에 바로 계좌가 개설되는 것은 아닙니다. 심사 결과 안내는 11월 12~13일, 계좌 개설은 11월 16~27일로 공지됐으며 기존 청년도약계좌 가입자의 전환도 별도 절차를 거칩니다."
       ],
-      "keyFacts": {
-        "applicationWindow": "2026-10-07~2026-10-16, 주말·공휴일제외",
-        "oddBirthYearDay": "2026-10-07",
-        "evenBirthYearDay": "2026-10-08",
-        "dailyHours": "09:00~18:30 KST",
-        "accountOpeningWindow": "2026-11-16~2026-11-27"
-      },
-      "uncertainty": "개별 가입 및 기여금 자격은 심사 결과에 따릅니다. 08:30 이후 실제 접수 개시·장애·신청 건수는 반영하지 않았습니다.",
-      "sources": [
-        {
-          "name": "한국금융신문",
-          "title": "청년미래적금 2차 가입 시작…10월 7일부터 16일까지 신청",
-          "url": "https://www.fntimes.com/html/view.php?ud=202610062030051653dd55077bc2_18",
-          "publishedAt": "2026-10-07T06:00:00+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:07:21+09:00",
-          "imageUrl": null,
-          "verificationNote": "데스크톱 원문을 열어 입력 시각과 모집·심사·개설 일정을 확인했습니다. 새 상품 발표가 아니라 이미 공지된 2차 신청 일정의 당일 안내입니다."
-        },
-        {
-          "name": "대한민국 정책브리핑·금융위원회",
-          "title": "7일부터 청년미래적금 2차 가입 신청…은행 앱으로 간편하게",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973066",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:07:21+09:00",
-          "imageUrl": null,
-          "verificationNote": "10월 6일 공식 게시일 확인, 정확한 게시 시각은 미표시. 신청기간, 소득심사, 납입한도, 기여금과 예산안 조건을 확인했습니다."
-        }
-      ],
-      "briefingPath": "2026-10-07/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "청년미래적금 2차 신청 기간…오늘은 출생연도 끝자리 홀수",
+      "uncertainty": "개별 가입 및 기여금 자격은 심사 결과에 따릅니다. 08:30 이후 실제 접수 개시·장애·신청 건수는 반영하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "youth-future-savings-second-window-2026",
+  "schemaVersion": 1,
+  "title": "2026년 청년미래적금 2차 가입신청",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

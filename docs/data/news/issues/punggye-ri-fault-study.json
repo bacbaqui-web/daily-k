@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "punggye-ri-fault-study",
-  "title": "풍계리 핵실험과 단층 연구",
   "entries": [
     {
-      "id": "2026-09-18-am-archive/archive-08",
-      "editionId": "2026-09-18-am-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-18",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 110,
+        "lineStart": 110,
+        "ordinal": 8,
+        "originalText": "풍계리 핵실험 뒤 단층 재활성화 연구.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-18/am.json",
+      "category": "과학·안보",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 풍계리 핵실험 뒤 단층 재활성화 연구.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-18",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-18",
+      "editionId": "2026-09-18-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 풍계리 핵실험 뒤 단층 재활성화 연구.",
-      "title": "풍계리 핵실험 뒤 단층 재활성화 연구",
-      "category": "과학·안보",
-      "status": "과거 기록",
-      "summary": [
-        "풍계리 핵실험 뒤 단층 재활성화 연구."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-18-am-archive/archive-08",
       "keyFacts": {
         "originalRecord": "풍계리 핵실험 뒤 단층 재활성화 연구."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-18/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "풍계리 핵실험 뒤 단층 재활성화 연구."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "풍계리 핵실험 뒤 단층 재활성화 연구.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 110,
-        "lineEnd": 110,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "풍계리 핵실험 뒤 단층 재활성화 연구",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "punggye-ri-fault-study",
+  "schemaVersion": 1,
+  "title": "풍계리 핵실험과 단층 연구",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

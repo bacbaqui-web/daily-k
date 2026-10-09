@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "ai-research-safety-pressure",
-  "title": "AI 안전 연구와 출시 압력",
   "entries": [
     {
-      "id": "2026-09-23-am-archive/archive-06",
-      "editionId": "2026-09-23-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-23",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 220,
+        "lineStart": 220,
+        "ordinal": 6,
+        "originalText": "AI 안전 연구자 이탈·스트레스 보도.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-23/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: AI 안전 연구자 이탈·스트레스 보도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-23",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-23",
+      "editionId": "2026-09-23-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: AI 안전 연구자 이탈·스트레스 보도.",
-      "title": "AI 안전 연구자 이탈·스트레스 보도",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "AI 안전 연구자 이탈·스트레스 보도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-23-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "AI 안전 연구자 이탈·스트레스 보도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-23/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "AI 안전 연구자 이탈·스트레스 보도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "AI 안전 연구자 이탈·스트레스 보도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 220,
-        "lineEnd": 220,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "AI 안전 연구자 이탈·스트레스 보도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-30-pm-archive/archive-05",
-      "editionId": "2026-09-30-pm-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-30",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 391,
+        "lineStart": 391,
+        "ordinal": 5,
+        "originalText": "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-23",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "AI 안전 연구자 이탈·스트레스 보도"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-30/pm.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-30",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-30",
+      "editionId": "2026-09-30-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도.",
-      "title": "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-30-pm-archive/archive-05",
       "keyFacts": {
         "originalRecord": "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-30/pm.json",
       "previous": {
         "editionId": "2026-09-23-am-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 391,
-        "lineEnd": 391,
-        "previousCoverage": {
-          "date": "2026-09-23",
-          "edition": "am",
-          "storyId": "archive-06",
-          "title": "AI 안전 연구자 이탈·스트레스 보도",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "NYT, 오픈AI 내부 안전 경고와 출시 일정 충돌 보도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "ai-research-safety-pressure",
+  "schemaVersion": 1,
+  "title": "AI 안전 연구와 출시 압력",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

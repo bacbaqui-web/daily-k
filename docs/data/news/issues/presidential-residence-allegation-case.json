@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "presidential-residence-allegation-case",
-  "title": "관저 개입 의혹 제기자 사건",
   "entries": [
     {
-      "id": "2026-09-27-pm-archive/archive-04",
-      "editionId": "2026-09-27-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-27",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 319,
+        "lineStart": 319,
+        "ordinal": 4,
+        "originalText": "'천공 관저 개입 의혹' 제기자 무혐의.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-27/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: '천공 관저 개입 의혹' 제기자 무혐의.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-27",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-27",
+      "editionId": "2026-09-27-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: '천공 관저 개입 의혹' 제기자 무혐의.",
-      "title": "'천공 관저 개입 의혹' 제기자 무혐의",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "'천공 관저 개입 의혹' 제기자 무혐의."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-27-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "'천공 관저 개입 의혹' 제기자 무혐의."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-27/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "'천공 관저 개입 의혹' 제기자 무혐의."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "'천공 관저 개입 의혹' 제기자 무혐의.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 319,
-        "lineEnd": 319,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "'천공 관저 개입 의혹' 제기자 무혐의",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "presidential-residence-allegation-case",
+  "schemaVersion": 1,
+  "title": "관저 개입 의혹 제기자 사건",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

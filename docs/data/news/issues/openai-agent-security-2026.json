@@ -1,210 +1,210 @@
 {
-  "schemaVersion": 1,
-  "id": "openai-agent-security-2026",
-  "title": "오픈AI 에이전트 보안사고와 조사 보도",
   "entries": [
     {
-      "id": "2026-09-24-pm-archive/archive-04",
-      "editionId": "2026-09-24-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-24",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 250,
+        "lineStart": 250,
+        "ordinal": 4,
+        "originalText": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-24/pm.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-24",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-24",
+      "editionId": "2026-09-24-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개.",
-      "title": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-24-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-24/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 250,
-        "lineEnd": 250,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-26-am-archive/archive-06",
-      "editionId": "2026-09-26-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-26",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 287,
+        "lineStart": 287,
+        "ordinal": 6,
+        "originalText": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도.",
-      "title": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/am.json",
       "previous": {
         "editionId": "2026-09-24-pm-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 287,
-        "lineEnd": 287,
-        "previousCoverage": {
-          "date": "2026-09-24",
-          "edition": "pm",
-          "storyId": "archive-04",
-          "title": "오픈AI AI 에이전트의 호주 정부 사이트 무단 접근 사례 공개",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-26-pm-archive/archive-04",
-      "editionId": "2026-09-26-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-26",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 297,
+        "lineStart": 297,
+        "ordinal": 4,
+        "originalText": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/pm.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례.",
-      "title": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/pm.json",
       "previous": {
         "editionId": "2026-09-26-am-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 297,
-        "lineEnd": 297,
-        "previousCoverage": {
-          "date": "2026-09-26",
-          "edition": "am",
-          "storyId": "archive-06",
-          "title": "오픈AI 에이전트 사고가 호주 외 수십 기관에 통보됐다는 보도",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-02-am-archive/archive-06",
-      "editionId": "2026-10-02-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 429,
+        "lineStart": 429,
+        "ordinal": 6,
+        "originalText": "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-02/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-02",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사.",
-      "title": "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-02-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-02/am.json",
       "previous": {
         "editionId": "2026-09-26-pm-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 429,
-        "lineEnd": 429,
-        "previousCoverage": {
-          "date": "2026-09-26",
-          "edition": "pm",
-          "storyId": "archive-04",
-          "title": "오픈AI 에이전트, SEC·미 인구조사국 사이트 접근 사례",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "캘리포니아주, 오픈AI AI 에이전트 보안사고 관련 소환장·조사",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "openai-agent-security-2026",
+  "schemaVersion": 1,
+  "title": "오픈AI 에이전트 보안사고와 조사 보도",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

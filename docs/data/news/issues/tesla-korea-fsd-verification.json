@@ -1,67 +1,67 @@
 {
-  "schemaVersion": 1,
-  "id": "tesla-korea-fsd-verification",
-  "title": "테슬라 FSD 국내 검증·승인 절차",
   "entries": [
     {
-      "id": "2026-10-08-pm/tesla-korea-fsd-verification-testimony-2026-10-08",
-      "editionId": "2026-10-08-pm",
-      "storyId": "tesla-korea-fsd-verification-testimony-2026-10-08",
-      "editionDate": "2026-10-08",
-      "edition": "pm",
+      "briefingPath": "2026-10-08/pm.json",
+      "category": "기술·모빌리티",
+      "change": "10월 8일 국감에서 테슬라코리아 대표가 공식 검증 요청 이력이 없다고 답변하고 조건부 협조 의사를 밝혔습니다. 실제 신청·승인은 미확인입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T20:39:55+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T18:02:01+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-pm",
       "eventAt": null,
       "eventDate": "2026-10-08",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 8일 국회 국토교통위원회 국정감사에서 이뤄진 질의·답변입니다. 정확한 발언 시각은 미확인입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-08-pm/tesla-korea-fsd-verification-testimony-2026-10-08",
+      "keyFacts": {
+        "cooperationPosition": "관련 제도·창구 마련 시 검증 협조 의사",
+        "officialTestRequest": "테슬라코리아 대표는 요청한 바 없다고 답변",
+        "verificationSchedule": "구체 일정 미제시"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T18:02:01+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "언론사 기사",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-08T17:34:00+09:00",
+          "title": "[2026 국감] 테슬라 서영득 대표 “FSD 검증 요청한 적 없다…제도 마련되면 협조”",
+          "url": "https://newspim.com/news/view/20261008001266",
+          "verifiedAt": "2026-10-08T20:30:06+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "통신사 기사",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-08T18:02:01+09:00",
+          "title": "“테슬라 FSD 검증 한번도 안해” 국감서 지적…BYD 개인정보 中이전 우려도 나와",
+          "url": "https://nwww.newsis.com/view/NISX20261008_0003819772",
+          "verifiedAt": "2026-10-08T20:30:55+09:00"
+        }
+      ],
       "stage": "보도",
-      "change": "10월 8일 국감에서 테슬라코리아 대표가 공식 검증 요청 이력이 없다고 답변하고 조건부 협조 의사를 밝혔습니다. 실제 신청·승인은 미확인입니다.",
-      "title": "테슬라, FSD 공식 검증 요청 없었다고 답변…신청·검증 일정은 미정",
-      "category": "기술·모빌리티",
       "status": "보도",
+      "storyId": "tesla-korea-fsd-verification-testimony-2026-10-08",
       "summary": [
         "테슬라코리아가 국정감사에서 운전자 감독이 필요한 주행보조 기능 FSD에 관한 공식 테스트를 국토교통부 등에 요청한 적이 없다고 밝혔습니다. 관련 제도와 창구가 마련되면 검증에 협조하겠다는 입장이지만 구체적인 일정은 제시하지 않았습니다.",
         "쟁점은 차량 생산지에 따라 국내에서 기능을 사용할 수 있는지가 달라지는 문제입니다. 회사 대표는 미국산 차량과 다른 나라에서 생산된 차량에 적용되는 규정이 다르다고 설명했습니다.",
         "국회에서는 정부가 안전성을 직접 검증하지 않았다는 지적과 검증 절차를 마련하라는 요구가 나왔습니다. 국토부 관계자는 FSD 관련 국제기준이 없다고 설명하며 운전자와 제작사의 사고 책임 문제도 언급했습니다.",
         "이날 확인된 새 사실은 국감에서 나온 회사의 답변과 정부의 입장입니다. 기능의 안전성이나 국내 확대 승인이 독립적으로 확인된 결과는 아니며, 정식 신청과 실제 시험·심사 절차가 뒤따르는지 봐야 합니다."
       ],
-      "keyFacts": {
-        "officialTestRequest": "테슬라코리아 대표는 요청한 바 없다고 답변",
-        "cooperationPosition": "관련 제도·창구 마련 시 검증 협조 의사",
-        "verificationSchedule": "구체 일정 미제시"
-      },
-      "uncertainty": "국감 발언은 시험 결과가 아니며 구체적인 신청·검증·승인 일정은 확인되지 않았습니다.",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "[2026 국감] 테슬라 서영득 대표 “FSD 검증 요청한 적 없다…제도 마련되면 협조”",
-          "url": "https://newspim.com/news/view/20261008001266",
-          "language": "ko",
-          "kind": "언론사 기사",
-          "publishedAt": "2026-10-08T17:34:00+09:00",
-          "verifiedAt": "2026-10-08T20:30:06+09:00",
-          "imageUrl": null
-        },
-        {
-          "name": "뉴시스",
-          "title": "“테슬라 FSD 검증 한번도 안해” 국감서 지적…BYD 개인정보 中이전 우려도 나와",
-          "url": "https://nwww.newsis.com/view/NISX20261008_0003819772",
-          "language": "ko",
-          "kind": "통신사 기사",
-          "publishedAt": "2026-10-08T18:02:01+09:00",
-          "verifiedAt": "2026-10-08T20:30:55+09:00",
-          "imageUrl": null
-        }
-      ],
-      "briefingPath": "2026-10-08/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "테슬라, FSD 공식 검증 요청 없었다고 답변…신청·검증 일정은 미정",
+      "uncertainty": "국감 발언은 시험 결과가 아니며 구체적인 신청·검증·승인 일정은 확인되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "tesla-korea-fsd-verification",
+  "schemaVersion": 1,
+  "title": "테슬라 FSD 국내 검증·승인 절차",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "cheongwang-demonstration-2026",
-  "title": "국군의날 천광 시연",
   "entries": [
     {
-      "id": "2026-10-01-pm-archive/archive-09",
-      "editionId": "2026-10-01-pm-archive",
-      "storyId": "archive-09",
-      "editionDate": "2026-10-01",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 420,
+        "lineStart": 420,
+        "ordinal": 9,
+        "originalText": "국군의날 '천광' 시연 중 표적 드론 추락.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-01/pm.json",
+      "category": "국내·안보",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 국군의날 '천광' 시연 중 표적 드론 추락.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-01",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-10-01",
+      "editionId": "2026-10-01-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 국군의날 '천광' 시연 중 표적 드론 추락.",
-      "title": "국군의날 '천광' 시연 중 표적 드론 추락",
-      "category": "국내·안보",
-      "status": "과거 기록",
-      "summary": [
-        "국군의날 '천광' 시연 중 표적 드론 추락."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-01-pm-archive/archive-09",
       "keyFacts": {
         "originalRecord": "국군의날 '천광' 시연 중 표적 드론 추락."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-01/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-09",
+      "summary": [
+        "국군의날 '천광' 시연 중 표적 드론 추락."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "국군의날 '천광' 시연 중 표적 드론 추락.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 9,
-        "lineStart": 420,
-        "lineEnd": 420,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "국군의날 '천광' 시연 중 표적 드론 추락",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "cheongwang-demonstration-2026",
+  "schemaVersion": 1,
+  "title": "국군의날 천광 시연",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

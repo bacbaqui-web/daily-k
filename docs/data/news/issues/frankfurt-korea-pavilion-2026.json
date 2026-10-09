@@ -1,73 +1,73 @@
 {
-  "schemaVersion": 1,
-  "id": "frankfurt-korea-pavilion-2026",
-  "title": "2026 프랑크푸르트도서전 공동 한국관과 웹툰·출판 IP 수출",
   "entries": [
     {
-      "id": "2026-10-07-am/frankfurt-korea-pavilion-webtoon-2026",
-      "editionId": "2026-10-07-am",
-      "storyId": "frankfurt-korea-pavilion-webtoon-2026",
-      "editionDate": "2026-10-07",
-      "edition": "am",
+      "briefingPath": "2026-10-07/am.json",
+      "category": "웹툰 산업",
+      "change": "출판진흥원·콘진원·번역원이 처음으로 공동 한국관을 운영할 계획이며 웹툰·웹소설을 포함합니다. 실제 수출 계약 성과는 아직 확인되지 않았습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T12:12:39+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-07T08:00:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-am",
       "eventAt": null,
       "eventDate": "2026-10-07",
       "eventEndDate": "2026-10-11",
-      "eventTimezone": "Europe/Berlin",
       "eventTimeNote": "공동 한국관 운영 기간은 독일 현지 2026년 10월 7~11일입니다. 시작 시각은 확인하지 못했으며 08:30 KST 기준으로 현장 운영 완료나 계약 성과를 주장하지 않습니다.",
+      "eventTimezone": "Europe/Berlin",
+      "followUp": null,
+      "id": "2026-10-07-am/frankfurt-korea-pavilion-webtoon-2026",
+      "keyFacts": {
+        "confirmedContracts": "미확인",
+        "consignedBooks": "103종(출판 전 분야, 웹툰 한정 아님)",
+        "exportPavilionPublishers": "15개사(출판 전 분야, 웹툰 한정 아님)",
+        "fair": "2026 프랑크푸르트도서전",
+        "jointPavilionAgencies": "한국출판문화산업진흥원·한국콘텐츠진흥원·한국문학번역원",
+        "jointPavilionFirstTime": "3개 기관 첫 공동 한국관",
+        "localDates": "2026-10-07~2026-10-11"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-07T08:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-07T08:00:00+09:00",
+          "title": "문학·웹툰 한자리에…프랑크푸르트도서전 한국관 공동 운영",
+          "url": "https://www.fnnews.com/news/202610070430579886",
+          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:00)을 직접 열어 확인했습니다. 문체부 발표를 전한 보도입니다.",
+          "verifiedAt": "2026-10-07T12:05:26+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-07T08:09:00+09:00",
+          "title": "문체부, 독일 현지 도서전서 'K-북 글로벌 100 프로젝트' 집중 홍보",
+          "url": "https://www.newspim.com/news/view/20261007000053",
+          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:09)을 직접 열어 확인했습니다. 파이낸셜뉴스와 같은 문체부 발표 기반이어서 별개의 독립 확인으로 계산하지 않습니다.",
+          "verifiedAt": "2026-10-07T12:05:44+09:00"
+        }
+      ],
       "stage": "예정",
-      "change": "출판진흥원·콘진원·번역원이 처음으로 공동 한국관을 운영할 계획이며 웹툰·웹소설을 포함합니다. 실제 수출 계약 성과는 아직 확인되지 않았습니다.",
-      "title": "웹툰·문학 해외 판권을 한곳에서…프랑크푸르트 공동 한국관 첫 운영",
-      "category": "웹툰 산업",
       "status": "예정",
+      "storyId": "frankfurt-korea-pavilion-webtoon-2026",
       "summary": [
         "한국출판문화산업진흥원·한국콘텐츠진흥원·한국문학번역원이 프랑크푸르트도서전에 처음으로 공동 한국관을 마련합니다. 독일 현지 10월 7~11일 웹툰·웹소설과 문학·그림책을 함께 소개할 계획입니다.",
         "문체부 발표에 따르면 수출상담관에는 문피아·문학동네 등 국내 출판사 15곳이 참여합니다. 현장에 오지 못하는 출판사의 위탁도서 103종은 별도로 전시하고 전문 대행사가 해외 출판사와 저작권 상담을 진행합니다.",
         "이번 공동 운영은 기관별로 나뉘었던 해외 홍보 공간과 메시지를 연결하는 방식입니다. 8일에는 국내외 출판인 교류 행사가, 9일에는 참가사 3곳이 작품을 소개하는 투자 유치 행사가 예정돼 있습니다.",
         "웹툰 산업 관점에서는 작품의 해외 출간과 원작 지식재산(IP) 활용을 논의할 접점이 넓어지는 기회로 볼 수 있습니다. 다만 15개사·103종은 웹툰만의 참가 규모가 아니며, 이번 행사에서 실제 체결한 계약 수나 금액은 아직 확인되지 않았습니다."
       ],
-      "keyFacts": {
-        "fair": "2026 프랑크푸르트도서전",
-        "localDates": "2026-10-07~2026-10-11",
-        "jointPavilionAgencies": "한국출판문화산업진흥원·한국콘텐츠진흥원·한국문학번역원",
-        "jointPavilionFirstTime": "3개 기관 첫 공동 한국관",
-        "exportPavilionPublishers": "15개사(출판 전 분야, 웹툰 한정 아님)",
-        "consignedBooks": "103종(출판 전 분야, 웹툰 한정 아님)",
-        "confirmedContracts": "미확인"
-      },
-      "uncertainty": "문체부가 밝힌 예정 프로그램입니다. 참가사·위탁도서 전체 규모를 웹툰만의 수치로 해석할 수 없으며, 이번 행사 계약 건수·금액과 작품별 성과는 미확인입니다.",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "title": "문학·웹툰 한자리에…프랑크푸르트도서전 한국관 공동 운영",
-          "url": "https://www.fnnews.com/news/202610070430579886",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-07T08:00:00+09:00",
-          "verifiedAt": "2026-10-07T12:05:26+09:00",
-          "imageUrl": null,
-          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:00)을 직접 열어 확인했습니다. 문체부 발표를 전한 보도입니다."
-        },
-        {
-          "name": "뉴스핌",
-          "title": "문체부, 독일 현지 도서전서 'K-북 글로벌 100 프로젝트' 집중 홍보",
-          "url": "https://www.newspim.com/news/view/20261007000053",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-07T08:09:00+09:00",
-          "verifiedAt": "2026-10-07T12:05:44+09:00",
-          "imageUrl": null,
-          "verificationNote": "기사 본문과 입력·수정 시각(모두 08:09)을 직접 열어 확인했습니다. 파이낸셜뉴스와 같은 문체부 발표 기반이어서 별개의 독립 확인으로 계산하지 않습니다."
-        }
-      ],
-      "briefingPath": "2026-10-07/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "웹툰·문학 해외 판권을 한곳에서…프랑크푸르트 공동 한국관 첫 운영",
+      "uncertainty": "문체부가 밝힌 예정 프로그램입니다. 참가사·위탁도서 전체 규모를 웹툰만의 수치로 해석할 수 없으며, 이번 행사 계약 건수·금액과 작품별 성과는 미확인입니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "frankfurt-korea-pavilion-2026",
+  "schemaVersion": 1,
+  "title": "2026 프랑크푸르트도서전 공동 한국관과 웹툰·출판 IP 수출",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,223 +1,307 @@
 {
-  "schemaVersion": 1,
-  "id": "honam-semiconductor-cluster",
-  "title": "호남 반도체 클러스터 논의",
   "entries": [
     {
-      "id": "2026-10-07-am/honam-power-grid-review-2026-10-06",
-      "editionId": "2026-10-07-am",
-      "storyId": "honam-power-grid-review-2026-10-06",
-      "editionDate": "2026-10-07",
-      "edition": "am",
+      "briefingPath": "2026-10-07/am.json",
+      "category": "반도체·전력",
+      "change": "호남 팹 확대 가정의 14GW 수요와 전력망 재검토 방침을 처음 원문 검증해 기록합니다. 구체 설계와 입지는 검토 단계입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T12:12:39+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-06T23:39:12+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-am",
       "eventAt": null,
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "김성환 장관이 10월 6일 국정감사에서 답변했습니다. 발언의 정확한 시·분은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-07-am/honam-power-grid-review-2026-10-06",
+      "keyFacts": {
+        "designStatus": "기본 검토 단계",
+        "firstPowerTarget": "2028년말 목표",
+        "gridPlan": "제12차 전력수급기본계획 수립 중 원점 재검토 방침",
+        "scenarioFabs": "9기 확대 가정",
+        "scenarioPowerGW": "약14GW, 장관 추정"
+      },
+      "previous": {
+        "editionId": "2026-09-29-pm-archive",
+        "storyId": "archive-03"
+      },
+      "publishedAt": "2026-10-06T23:39:12+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477424_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-06T23:39:12+09:00",
+          "title": "김성환 \"호남 반도체 팹 9기 땐 14GW…AI 급증에 전력망 계획 원점 점검\"(종합2보)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816380",
+          "verificationNote": "원문 등록 시각과 본문 확인. 다음 전재본(23:41)도 대조했으며 같은 원보도이므로 독립 출처로 세지 않습니다. 14GW는 팹 9기 확대를 가정한 장관 답변입니다.",
+          "verifiedAt": "2026-10-07T12:09:37+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-08-12T11:30:00+09:00",
+          "title": "호남권 6GW, 용인 14GW…반도체 메가프로젝트 전력공급 로드맵 확정",
+          "url": "https://www.fnnews.com/news/202608120959201529",
+          "verificationNote": "8월 12일 협약 배경만 뒷받침합니다. 기사 입력·수정 11:30 확인. 당시 용인 14GW와 이번 호남 확대 가정 14GW를 혼동하지 않습니다.",
+          "verifiedAt": "2026-10-07T12:07:21+09:00"
+        }
+      ],
       "stage": "검토",
-      "change": "호남 팹 확대 가정의 14GW 수요와 전력망 재검토 방침을 처음 원문 검증해 기록합니다. 구체 설계와 입지는 검토 단계입니다.",
-      "title": "호남 팹 9기 가정에 전력 14GW…정부, 전력망 재검토 방침",
-      "category": "반도체·전력",
       "status": "보도",
+      "storyId": "honam-power-grid-review-2026-10-06",
       "summary": [
         "김성환 기후에너지환경부 장관은 호남 반도체 공장이 9기로 늘어날 경우 약 14GW의 전력이 필요하다고 설명했습니다. 늘어나는 반도체·AI 수요를 반영해 국가 전력망 계획을 다시 점검하겠다는 방침입니다.",
         "이는 10월 6일 국정감사 답변으로, 공장 9기 건설이나 14GW 공급이 최종 확정됐다는 발표는 아닙니다. 팹은 반도체 생산시설이며, 14GW는 확대 시나리오에 따른 전력 수요 추정치입니다.",
         "정부는 8월 협약에서 호남 산단에 2029년 3GW를 먼저 공급하는 방안을 제시했습니다. 이번 국감 보도에서는 1단계 전력공급 목표를 2028년 말로 앞당기는 방안이 설명됐지만, 설계와 입지는 기본 검토 단계라고 밝혔습니다.",
         "산단의 실제 가동에는 공장뿐 아니라 송전선과 변전소가 제때 준비되는지가 중요합니다. 장관은 AI 데이터센터 증가가 가정용 전기요금 부담으로 이어지지 않도록 관리하겠다고 했으며, 구체적인 수요 예측과 전력망 실행계획은 추가 확인이 필요합니다."
       ],
-      "keyFacts": {
-        "scenarioFabs": "9기 확대 가정",
-        "scenarioPowerGW": "약14GW, 장관 추정",
-        "firstPowerTarget": "2028년말 목표",
-        "designStatus": "기본 검토 단계",
-        "gridPlan": "제12차 전력수급기본계획 수립 중 원점 재검토 방침"
-      },
-      "uncertainty": "14GW는 확대를 가정한 추정입니다. 9기 건설 확정, 설계·입지 확정, 전기요금 동결 또는 실제 공급 완료를 의미하지 않습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "김성환 \"호남 반도체 팹 9기 땐 14GW…AI 급증에 전력망 계획 원점 점검\"(종합2보)",
-          "url": "https://www.newsis.com/view/NISX20261006_0003816380",
-          "publishedAt": "2026-10-06T23:39:12+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:09:37+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477424_web.jpg",
-          "verificationNote": "원문 등록 시각과 본문 확인. 다음 전재본(23:41)도 대조했으며 같은 원보도이므로 독립 출처로 세지 않습니다. 14GW는 팹 9기 확대를 가정한 장관 답변입니다."
-        },
-        {
-          "name": "파이낸셜뉴스",
-          "title": "호남권 6GW, 용인 14GW…반도체 메가프로젝트 전력공급 로드맵 확정",
-          "url": "https://www.fnnews.com/news/202608120959201529",
-          "publishedAt": "2026-08-12T11:30:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:07:21+09:00",
-          "imageUrl": null,
-          "verificationNote": "8월 12일 협약 배경만 뒷받침합니다. 기사 입력·수정 11:30 확인. 당시 용인 14GW와 이번 호남 확대 가정 14GW를 혼동하지 않습니다."
-        }
-      ],
-      "briefingPath": "2026-10-07/am.json",
-      "previous": {
-        "editionId": "2026-09-29-pm-archive",
-        "storyId": "archive-03"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "호남 팹 9기 가정에 전력 14GW…정부, 전력망 재검토 방침",
+      "uncertainty": "14GW는 확대를 가정한 추정입니다. 9기 건설 확정, 설계·입지 확정, 전기요금 동결 또는 실제 공급 완료를 의미하지 않습니다."
     },
     {
-      "id": "2026-09-25-pm-archive/archive-02",
-      "editionId": "2026-09-25-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-25",
+      "briefingPath": "2026-10-09/pm.json",
+      "category": "반도체·산업",
+      "change": "전력망 재검토 보도 이후 10월9일 최태원 회장의 첫 부지 방문과 규모·선제 착공 검토 발언이 나왔습니다. 착공일은 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-09T20:44:48+09:00",
+      "coveredOn": "2026-10-09",
       "edition": "pm",
+      "editionDate": "2026-10-09",
+      "editionId": "2026-10-09-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "사건일은 2026-10-09(Asia/Seoul)로 확인되며 정확한 시각은 미확인입니다. 기사 공개 시각과 사건 시각을 구분합니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전력망 재검토 방침 이후 최태원 회장이 광주 현장을 처음 방문해 용인3분의2 규모·인프라와 공사 병행 구상을 밝혔습니다. 착공일은 아직 정해지지 않았습니다.",
+        "editionId": "2026-10-07-am",
+        "storyId": "honam-power-grid-review-2026-10-06"
+      },
+      "id": "2026-10-09-pm/honam-choi-site-visit-2026-10-09",
+      "keyFacts": {
+        "firstProductionTarget": "2030-06, 정부·지자체 목표",
+        "infrastructure": "전력·용수 지연 시 선제 공사 검토",
+        "siteVisit": "2026-10-09 광주 군공항·탄약고 부지 첫 방문",
+        "sizePlan": "용인의 약3분의2, 회장 발언",
+        "startDate": "미확정"
+      },
+      "previous": {
+        "editionId": "2026-10-07-am",
+        "storyId": "honam-power-grid-review-2026-10-06"
+      },
+      "publishedAt": "2026-10-09T15:29:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-09T15:29:00+09:00",
+          "title": "최태원 \"전력·용수 늦어도 먼저 짓겠다\"…호남 반도체 팹 '속도전'",
+          "updatedAt": null,
+          "url": "https://www.mt.co.kr/industry/2026/10/09/2026100915175278474",
+          "verificationNote": "기자 본문에서 첫 방문, 규모 구상, 착공일 미정 직접 확인.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스(매일경제 전재)",
+          "publishedAt": "2026-10-09T16:37:55+09:00",
+          "title": "최태원, 호남 반도체부지 첫 방문…\"가장 빠른 속도로 짓겠다\"(종합)",
+          "updatedAt": "2026-10-09T17:06:36+09:00",
+          "url": "https://stock.mk.co.kr/news/view/1172214",
+          "verificationNote": "연합뉴스 기자 본문 전재를 직접 확인. 2030년6월은 1단계 첫 양산 목표. 동일 연합 전재들은 독립 출처로 중복 집계하지 않습니다.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-09T15:15:00+09:00",
+          "title": "광주 찾은 최태원 \"용수·전력 늦어도 먼저 팹 건설 들어갈 것..반도체 수요 빠르게 늘어\"",
+          "updatedAt": "2026-10-09T15:15:00+09:00",
+          "url": "https://www.fnnews.com/news/202610091511302368",
+          "verificationNote": "기자 현장 발언 본문 확인. 착공 시점에 답하지 못한다고 명시. 3분의2 규모 교차확인.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "honam-choi-site-visit-2026-10-09",
+      "summary": [
+        "최태원 SK그룹 회장이 9일 호남 반도체 클러스터 예정지인 광주 군공항과 탄약고 일대를 처음 방문했습니다. 용인 클러스터의 약 3분의 2 규모를 구상하고 있다며, 부지와 수요가 늘면 더 확대할 가능성도 열어뒀습니다.",
+        "전력·용수 공급이 늦어지더라도 여건에 맞춰 공사를 먼저 시작하는 방안을 검토하겠다고 밝혔습니다. 기반시설과 공장 건설을 병행해 생산시설 확충을 앞당기겠다는 뜻이며, 구체적인 착공일은 아직 정해지지 않았습니다.",
+        "이번에 확인된 변화는 경영진의 현장 점검과 최 회장의 직접적인 규모·추진 속도 발언입니다. 기존 전력망 재검토 논의에서 기업의 건설 계획 조율로 이어졌지만, 발언만으로 착공 승인이나 전력 공급이 완료된 것은 아닙니다.",
+        "정부와 지자체는 2030년 6월 1단계 첫 양산을 목표로 하고 있습니다. 실제 가동까지는 부지 인도, 인허가와 전력·용수 확보가 필요하므로 생산 확대 의지와 확정된 공사 일정을 구분해 봐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "최태원, 광주 반도체 부지 첫 방문…용인 3분의 2 규모 구상",
+      "uncertainty": "3분의2는 회장의 규모 구상이며 확정 투자금액이나 공급전력 비율이 아닙니다. 2030년6월은 정부·지자체 목표이고 확정 가동일이 아닙니다."
+    },
+    {
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 271,
+        "lineStart": 271,
+        "ordinal": 2,
+        "originalText": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-25/pm.json",
+      "category": "반도체",
+      "change": "과거 브리핑에 남아 있는 기록입니다: SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-25",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-25",
+      "editionId": "2026-09-25-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화.",
-      "title": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화",
-      "category": "반도체",
-      "status": "과거 기록",
-      "summary": [
-        "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-25-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-25/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 271,
-        "lineEnd": 271,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-26-pm-archive/archive-06",
-      "editionId": "2026-09-26-pm-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-26",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 299,
+        "lineStart": 299,
+        "ordinal": 6,
+        "originalText": "호남 반도체 산단 논의 구체화.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/pm.json",
+      "category": "반도체",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 호남 반도체 산단 논의 구체화.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 호남 반도체 산단 논의 구체화.",
-      "title": "호남 반도체 산단 논의 구체화",
-      "category": "반도체",
-      "status": "과거 기록",
-      "summary": [
-        "호남 반도체 산단 논의 구체화."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-pm-archive/archive-06",
       "keyFacts": {
         "originalRecord": "호남 반도체 산단 논의 구체화."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/pm.json",
       "previous": {
         "editionId": "2026-09-25-pm-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "호남 반도체 산단 논의 구체화."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "호남 반도체 산단 논의 구체화.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 299,
-        "lineEnd": 299,
-        "previousCoverage": {
-          "date": "2026-09-25",
-          "edition": "pm",
-          "storyId": "archive-02",
-          "title": "SK하이닉스·삼성 호남 반도체 클러스터 협의 구체화",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "호남 반도체 산단 논의 구체화",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-29-pm-archive/archive-03",
-      "editionId": "2026-09-29-pm-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-29",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 365,
+        "lineStart": 364,
+        "ordinal": 3,
+        "originalText": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-26",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "호남 반도체 산단 논의 구체화"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-29/pm.json",
+      "category": "반도체",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-29",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-29",
+      "editionId": "2026-09-29-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시.",
-      "title": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시",
-      "category": "반도체",
-      "status": "과거 기록",
-      "summary": [
-        "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-29-pm-archive/archive-03",
       "keyFacts": {
         "originalRecord": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-29/pm.json",
       "previous": {
         "editionId": "2026-09-26-pm-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 364,
-        "lineEnd": 365,
-        "previousCoverage": {
-          "date": "2026-09-26",
-          "edition": "pm",
-          "storyId": "archive-06",
-          "title": "호남 반도체 산단 논의 구체화",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "이 대통령 \"광주 군공항 2028년 이전은 늦다\", 반도체 클러스터 일정 단축 지시",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "honam-semiconductor-cluster",
+  "schemaVersion": 1,
+  "title": "호남 반도체 클러스터 논의",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

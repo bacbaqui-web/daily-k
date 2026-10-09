@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "climate-justice-march-2026",
-  "title": "기후정의행진과 AI 전력 문제 제기",
   "entries": [
     {
-      "id": "2026-09-19-pm-archive/archive-03",
-      "editionId": "2026-09-19-pm-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-19",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 139,
+        "lineStart": 139,
+        "ordinal": 3,
+        "originalText": "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-19/pm.json",
+      "category": "사회·환경",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-19",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-19",
+      "editionId": "2026-09-19-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기.",
-      "title": "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기",
-      "category": "사회·환경",
-      "status": "과거 기록",
-      "summary": [
-        "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-19-pm-archive/archive-03",
       "keyFacts": {
         "originalRecord": "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-19/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 139,
-        "lineEnd": 139,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "서울 도심 기후정의행진, AI·데이터센터 전력 문제 제기",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "climate-justice-march-2026",
+  "schemaVersion": 1,
+  "title": "기후정의행진과 AI 전력 문제 제기",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

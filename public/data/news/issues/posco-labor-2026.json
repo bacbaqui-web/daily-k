@@ -1,159 +1,159 @@
 {
-  "schemaVersion": 1,
-  "id": "posco-labor-2026",
-  "title": "포스코 노사 협상과 부분파업",
   "entries": [
     {
-      "id": "2026-09-15-pm-archive/archive-05",
-      "editionId": "2026-09-15-pm-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-15",
-      "edition": "pm",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 협상 결렬, 120시간 부분파업 예고.",
-      "title": "포스코 협상 결렬, 120시간 부분파업 예고",
-      "category": "산업·노동",
-      "status": "과거 기록",
-      "summary": [
-        "포스코 협상 결렬, 120시간 부분파업 예고."
-      ],
-      "keyFacts": {
-        "originalRecord": "[산업·노동] 포스코 협상 결렬, 120시간 부분파업 예고. 확인: 뉴시스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 44,
+        "lineStart": 44,
+        "ordinal": 5,
         "originalText": "[산업·노동] 포스코 협상 결렬, 120시간 부분파업 예고. 확인: 뉴시스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "뉴시스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 44,
-        "lineEnd": 44,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
-    },
-    {
-      "id": "2026-09-16-am-archive/archive-05",
-      "editionId": "2026-09-16-am-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-16",
-      "edition": "am",
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/pm.json",
+      "category": "산업·노동",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 협상 결렬, 120시간 부분파업 예고.",
+      "correctionOf": null,
       "coveredAt": null,
-      "coveredOn": "2026-09-16",
-      "publishedAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "pm",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-pm-archive/archive-05",
+      "keyFacts": {
+        "originalRecord": "[산업·노동] 포스코 협상 결렬, 120시간 부분파업 예고. 확인: 뉴시스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
       "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 120시간 2차 부분파업.",
-      "title": "포스코 120시간 2차 부분파업",
-      "category": "산업·노동",
       "status": "과거 기록",
+      "storyId": "archive-05",
       "summary": [
-        "포스코 120시간 2차 부분파업."
+        "포스코 협상 결렬, 120시간 부분파업 예고."
       ],
+      "supersededBy": [],
+      "title": "포스코 협상 결렬, 120시간 부분파업 예고",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
+    },
+    {
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 60,
+        "lineStart": 60,
+        "ordinal": 5,
+        "originalText": "포스코 120시간 2차 부분파업.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-15",
+          "edition": "pm",
+          "storyId": "archive-05",
+          "title": "포스코 협상 결렬, 120시간 부분파업 예고"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-16/am.json",
+      "category": "산업·노동",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 120시간 2차 부분파업.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-16",
+      "edition": "am",
+      "editionDate": "2026-09-16",
+      "editionId": "2026-09-16-am-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-16-am-archive/archive-05",
       "keyFacts": {
         "originalRecord": "포스코 120시간 2차 부분파업."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-16/am.json",
       "previous": {
         "editionId": "2026-09-15-pm-archive",
         "storyId": "archive-05"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "포스코 120시간 2차 부분파업."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "포스코 120시간 2차 부분파업.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 60,
-        "lineEnd": 60,
-        "previousCoverage": {
-          "date": "2026-09-15",
-          "edition": "pm",
-          "storyId": "archive-05",
-          "title": "포스코 협상 결렬, 120시간 부분파업 예고",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "포스코 120시간 2차 부분파업",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-16-pm-archive/archive-05",
-      "editionId": "2026-09-16-pm-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-16",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 72,
+        "lineStart": 72,
+        "ordinal": 5,
+        "originalText": "포스코 부분파업 첫날, 생산 차질 없음.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-16",
+          "edition": "am",
+          "storyId": "archive-05",
+          "title": "포스코 120시간 2차 부분파업"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-16/pm.json",
+      "category": "산업·노동",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 부분파업 첫날, 생산 차질 없음.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-16",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-16",
+      "editionId": "2026-09-16-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 포스코 부분파업 첫날, 생산 차질 없음.",
-      "title": "포스코 부분파업 첫날, 생산 차질 없음",
-      "category": "산업·노동",
-      "status": "과거 기록",
-      "summary": [
-        "포스코 부분파업 첫날, 생산 차질 없음."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-16-pm-archive/archive-05",
       "keyFacts": {
         "originalRecord": "포스코 부분파업 첫날, 생산 차질 없음."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-16/pm.json",
       "previous": {
         "editionId": "2026-09-16-am-archive",
         "storyId": "archive-05"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "포스코 부분파업 첫날, 생산 차질 없음."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "포스코 부분파업 첫날, 생산 차질 없음.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 72,
-        "lineEnd": 72,
-        "previousCoverage": {
-          "date": "2026-09-16",
-          "edition": "am",
-          "storyId": "archive-05",
-          "title": "포스코 120시간 2차 부분파업",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "포스코 부분파업 첫날, 생산 차질 없음",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "posco-labor-2026",
+  "schemaVersion": 1,
+  "title": "포스코 노사 협상과 부분파업",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,175 +1,175 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-housing-supply-prices",
-  "title": "국내 주택 가격과 공급 정책",
   "entries": [
     {
-      "id": "2026-10-08-pm/korea-housing-weekly-2026-10-05",
-      "editionId": "2026-10-08-pm",
-      "storyId": "korea-housing-weekly-2026-10-05",
-      "editionDate": "2026-10-08",
-      "edition": "pm",
+      "briefingPath": "2026-10-08/pm.json",
+      "category": "경제·부동산",
+      "change": "10월 8일 새로 발표된 10월 5일 기준 조사에서 서울 매매 0.12%·경기 매매 0.18%·서울 전세 0.16%의 주간 변동률이 확인됐습니다. 서울 매매 상승폭은 전주 0.09%보다 커졌습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T20:39:55+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T14:00:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-pm",
       "eventAt": null,
       "eventDate": "2026-10-08",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "한국부동산원 발표일은 10월 8일이며 조사 기준일은 10월 5일입니다. 정확한 공식 발표 시·분은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-08-pm/korea-housing-weekly-2026-10-05",
+      "keyFacts": {
+        "announcementDate": "2026-10-08",
+        "bundangApartmentSaleChange": "0.56%",
+        "gangnamApartmentSaleChange": "-0.34%",
+        "gyeonggiApartmentSaleChange": "0.18%",
+        "priorSeoulApartmentSaleChange": "0.09%",
+        "referenceDate": "2026-10-05",
+        "seochoApartmentSaleChange": "-0.27%",
+        "seoulApartmentJeonseChange": "0.16%",
+        "seoulApartmentSaleChange": "0.12%",
+        "seoulConsecutiveRisingWeeks": "87주",
+        "yeongtongApartmentSaleChange": "0.62%"
+      },
+      "previous": {
+        "editionId": "2026-09-20-am-archive",
+        "storyId": "archive-06"
+      },
+      "publishedAt": "2026-10-08T14:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-08T14:00:00+09:00",
+          "title": "서울 집값 87주 연속 상승…상승폭도 6주 만에 다시 커져",
+          "updatedAt": "2026-10-08T15:18:24+09:00",
+          "url": "https://files.newsis.com/view/NISX20261008_0003819055",
+          "verifiedAt": "2026-10-08T20:30:44+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-08T14:00:00+09:00",
+          "title": "서울 아파트값 87주 연속 상승…'최장 상승' 기록행진 계속",
+          "url": "https://www.mt.co.kr/estate/2026/10/08/2026100810252191367",
+          "verifiedAt": "2026-10-08T20:30:44+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "10월 8일 새로 발표된 10월 5일 기준 조사에서 서울 매매 0.12%·경기 매매 0.18%·서울 전세 0.16%의 주간 변동률이 확인됐습니다. 서울 매매 상승폭은 전주 0.09%보다 커졌습니다.",
-      "title": "서울 아파트값 0.12% 상승…87주째 올라, 강남권은 하락 지속",
-      "category": "경제·부동산",
       "status": "확정",
+      "storyId": "korea-housing-weekly-2026-10-05",
       "summary": [
         "서울 아파트 매매가격이 전주보다 0.12% 올라 87주 연속 상승했습니다. 한국부동산원이 8일 발표한 10월 첫째 주 조사로, 전주의 0.09%보다 상승폭이 0.03%포인트 커졌습니다.",
         "이번 수치는 10월 5일을 기준으로 한 주간 조사 결과입니다. 서울 평균의 상승이 모든 지역의 상승을 뜻하지는 않아, 강남·서초·송파·용산 등 네 자치구는 하락했습니다.",
         "강남구는 0.34%, 서초구는 0.27% 내렸지만 각각 전주보다 낙폭은 줄었습니다. 경기 아파트값은 0.18% 올랐고 수원 영통구 0.62%, 성남 분당구 0.56% 등 지역 간 상승폭 차이도 컸습니다.",
         "서울 전세가격은 전주와 같은 0.16% 상승을 나타냈습니다. 매매와 임대 비용 부담을 함께 살필 지표지만, 이번 주간 변동률만으로 개별 주택의 가격이나 앞으로의 상승세를 확정할 수는 없습니다."
       ],
-      "keyFacts": {
-        "referenceDate": "2026-10-05",
-        "announcementDate": "2026-10-08",
-        "seoulApartmentSaleChange": "0.12%",
-        "priorSeoulApartmentSaleChange": "0.09%",
-        "seoulConsecutiveRisingWeeks": "87주",
-        "gangnamApartmentSaleChange": "-0.34%",
-        "seochoApartmentSaleChange": "-0.27%",
-        "gyeonggiApartmentSaleChange": "0.18%",
-        "yeongtongApartmentSaleChange": "0.62%",
-        "bundangApartmentSaleChange": "0.56%",
-        "seoulApartmentJeonseChange": "0.16%"
-      },
-      "uncertainty": "주간 가격지수 조사 결과이며 개별 실거래가격이나 모든 주택 유형을 뜻하지 않습니다. 금리·대출·공급 여건이 향후 가격에 미칠 영향은 확정되지 않았습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "서울 집값 87주 연속 상승…상승폭도 6주 만에 다시 커져",
-          "url": "https://files.newsis.com/view/NISX20261008_0003819055",
-          "language": "ko",
-          "kind": "wire",
-          "publishedAt": "2026-10-08T14:00:00+09:00",
-          "verifiedAt": "2026-10-08T20:30:44+09:00",
-          "imageUrl": null,
-          "updatedAt": "2026-10-08T15:18:24+09:00"
-        },
-        {
-          "name": "머니투데이",
-          "title": "서울 아파트값 87주 연속 상승…'최장 상승' 기록행진 계속",
-          "url": "https://www.mt.co.kr/estate/2026/10/08/2026100810252191367",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T14:00:00+09:00",
-          "verifiedAt": "2026-10-08T20:30:44+09:00",
-          "imageUrl": null
-        }
-      ],
-      "briefingPath": "2026-10-08/pm.json",
-      "previous": {
-        "editionId": "2026-09-20-am-archive",
-        "storyId": "archive-06"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "서울 아파트값 0.12% 상승…87주째 올라, 강남권은 하락 지속",
+      "uncertainty": "주간 가격지수 조사 결과이며 개별 실거래가격이나 모든 주택 유형을 뜻하지 않습니다. 금리·대출·공급 여건이 향후 가격에 미칠 영향은 확정되지 않았습니다."
     },
     {
-      "id": "2026-09-18-pm-archive/archive-04",
-      "editionId": "2026-09-18-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-18",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 118,
+        "lineStart": 118,
+        "ordinal": 4,
+        "originalText": "부동산 공급 속도전, 대통령 주간 점검.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-18/pm.json",
+      "category": "경제·부동산",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 부동산 공급 속도전, 대통령 주간 점검.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-18",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-18",
+      "editionId": "2026-09-18-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 부동산 공급 속도전, 대통령 주간 점검.",
-      "title": "부동산 공급 속도전, 대통령 주간 점검",
-      "category": "경제·부동산",
-      "status": "과거 기록",
-      "summary": [
-        "부동산 공급 속도전, 대통령 주간 점검."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-18-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "부동산 공급 속도전, 대통령 주간 점검."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-18/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "부동산 공급 속도전, 대통령 주간 점검."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "부동산 공급 속도전, 대통령 주간 점검.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 118,
-        "lineEnd": 118,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "부동산 공급 속도전, 대통령 주간 점검",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-20-am-archive/archive-06",
-      "editionId": "2026-09-20-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-20",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 153,
+        "lineStart": 153,
+        "ordinal": 6,
+        "originalText": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-18",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "부동산 공급 속도전, 대통령 주간 점검"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-20/am.json",
+      "category": "경제·부동산",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-20",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-20",
+      "editionId": "2026-09-20-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
-      "title": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대",
-      "category": "경제·부동산",
-      "status": "과거 기록",
-      "summary": [
-        "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-20-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-20/am.json",
       "previous": {
         "editionId": "2026-09-18-pm-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 153,
-        "lineEnd": 153,
-        "previousCoverage": {
-          "date": "2026-09-18",
-          "edition": "pm",
-          "storyId": "archive-04",
-          "title": "부동산 공급 속도전, 대통령 주간 점검",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "서울 집값 84주 연속 상승, 강북·중저가 지역 상승 확대",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-housing-supply-prices",
+  "schemaVersion": 1,
+  "title": "국내 주택 가격과 공급 정책",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

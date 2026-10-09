@@ -1,53 +1,53 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-lease-disputes",
-  "title": "임대차 갱신·종료 분쟁",
   "entries": [
     {
-      "id": "2026-09-15-am-archive/archive-06",
-      "editionId": "2026-09-15-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-15",
-      "edition": "am",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%.",
-      "title": "임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%",
-      "category": "경제·부동산",
-      "status": "과거 기록",
-      "summary": [
-        "임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%."
-      ],
-      "keyFacts": {
-        "originalRecord": "[부동산] 임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%. 확인: 뉴시스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 26,
+        "lineStart": 25,
+        "ordinal": 6,
         "originalText": "[부동산] 임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%. 확인: 뉴시스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "뉴시스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 25,
-        "lineEnd": 26,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/am.json",
+      "category": "경제·부동산",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "am",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-am-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-am-archive/archive-06",
+      "keyFacts": {
+        "originalRecord": "[부동산] 임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%. 확인: 뉴시스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%."
+      ],
+      "supersededBy": [],
+      "title": "임대차 갱신·종료 분쟁 1~7월 131건, 전년 동기 대비 +101.5%",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-lease-disputes",
+  "schemaVersion": 1,
+  "title": "임대차 갱신·종료 분쟁",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

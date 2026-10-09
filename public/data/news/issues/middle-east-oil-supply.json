@@ -1,27 +1,71 @@
 {
-  "schemaVersion": 1,
-  "id": "middle-east-oil-supply",
-  "title": "중동 원유 공급과 국제유가",
   "entries": [
     {
-      "id": "2026-10-03-am/g7-oil-release-2026-10-02",
-      "editionId": "2026-10-03-am",
-      "storyId": "g7-oil-release-2026-10-02",
-      "editionDate": "2026-10-03",
-      "edition": "am",
+      "briefingPath": "2026-10-03/am.json",
+      "category": "국제·에너지",
+      "change": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-03T12:20:00+09:00",
       "coveredOn": "2026-10-03",
-      "publishedAt": "2026-10-03T06:19:45+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-03",
+      "editionId": "2026-10-03-am",
       "eventAt": null,
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Europe/Paris",
       "eventTimeNote": "G7 합의는 10월 2일 현지 화상회의에서 나왔습니다. 연표 날짜는 의장국 프랑스 기준이며, 함께 제시한 유가도 미국 현지 10월 2일 마감 결과입니다.",
+      "eventTimezone": "Europe/Paris",
+      "followUp": null,
+      "id": "2026-10-03-am/g7-oil-release-2026-10-02",
+      "keyFacts": {
+        "brentChange": "-0.06달러",
+        "brentClose": "102.25달러",
+        "earlyDieselPeriod": "20일",
+        "releasePeriod": "4개월",
+        "releaseVolume": "100000000배럴",
+        "wtiChange": "-1.76달러",
+        "wtiClose": "91.11달러"
+      },
+      "previous": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-04"
+      },
+      "publishedAt": "2026-10-03T06:19:45+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/06/02/NISI20260602_0002150703_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-03T06:19:45+09:00",
+          "title": "G7 비축유 1억 배럴 방출 결정에도 유가 소폭 하락",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813351",
+          "verifiedAt": "2026-10-03T12:14:45+09:00"
+        },
+        {
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030028309692_t.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-03T00:28:00+09:00",
+          "title": "트럼프 \"유럽, 비축 경유 방출 합의\"...G7 \"경유 조기 방출\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610030028309692",
+          "verifiedAt": "2026-10-03T12:14:45+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-03T01:45:00+09:00",
+          "title": "G7 \"4달 동안 비축유 1억배럴 방출\"…트럼프 \"경유 풀어야\" 하루만",
+          "url": "https://www.mt.co.kr/world/2026/10/03/2026100301371581840",
+          "verificationNote": "웹 열기로 본문과 게시 시각을 확인했습니다. 장중 5% 하락은 종가로 사용하지 않았으며 OG 이미지는 미확인입니다.",
+          "verifiedAt": "2026-10-03T12:20:00+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "미국의 요구 단계에서 G7의 공동 방출 합의로 진행됐으며, 이후 10월 2일 유가 종가가 확인됐습니다.",
-      "title": "G7, 비축유 1억 배럴 방출 합의…브렌트유 종가는 102.25달러",
-      "category": "국제·에너지",
       "status": "확정",
+      "storyId": "g7-oil-release-2026-10-02",
       "summary": [
         "G7이 앞으로 4개월 동안 경유와 원유 비축분 총 1억 배럴을 시장에 공급하기로 합의했습니다. 초기 20일에는 경유를 우선 방출해 연료 수급 부담을 낮추겠다는 계획입니다.",
         "미국의 비축 경유 방출 요구에 이어 공동 공급 방침이 나왔고, G7 회원국끼리 경유 수출을 막지 않기로 했다는 설명도 확인됐습니다. 이번 발표는 방출 결정이며 1억 배럴이 이미 모두 공급됐다는 뜻은 아닙니다.",
@@ -29,834 +73,790 @@
         "경유는 화물 운송과 농기계 등에 쓰여 가격 부담이 물류비와 생활물가로 이어질 수 있습니다. 비축분은 단기 공급을 늘리는 수단이므로 실제 방출 속도와 중동의 공급 차질이 함께 중요합니다.",
         "큰 방출 규모가 발표됐어도 브렌트유의 종가 하락폭은 작았습니다. 공급 대책 발표만으로 에너지 가격 불안이 해소됐다고 단정하기는 이릅니다."
       ],
-      "keyFacts": {
-        "releaseVolume": "100000000배럴",
-        "releasePeriod": "4개월",
-        "earlyDieselPeriod": "20일",
-        "brentClose": "102.25달러",
-        "brentChange": "-0.06달러",
-        "wtiClose": "91.11달러",
-        "wtiChange": "-1.76달러"
-      },
-      "uncertainty": "방출은 향후 4개월의 계획입니다. 실제 공급 속도와 국가별 이행, 중동 정세에 따른 가격 반응은 추가 확인이 필요합니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "G7 비축유 1억 배럴 방출 결정에도 유가 소폭 하락",
-          "url": "https://www.newsis.com/view/NISX20261003_0003813351",
-          "publishedAt": "2026-10-03T06:19:45+09:00",
-          "language": "ko",
-          "kind": "wire",
-          "verifiedAt": "2026-10-03T12:14:45+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/06/02/NISI20260602_0002150703_web.jpg"
-        },
-        {
-          "name": "YTN",
-          "title": "트럼프 \"유럽, 비축 경유 방출 합의\"...G7 \"경유 조기 방출\"",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610030028309692",
-          "publishedAt": "2026-10-03T00:28:00+09:00",
-          "language": "ko",
-          "kind": "major",
-          "verifiedAt": "2026-10-03T12:14:45+09:00",
-          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1003/202610030028309692_t.jpg"
-        },
-        {
-          "name": "머니투데이",
-          "title": "G7 \"4달 동안 비축유 1억배럴 방출\"…트럼프 \"경유 풀어야\" 하루만",
-          "url": "https://www.mt.co.kr/world/2026/10/03/2026100301371581840",
-          "publishedAt": "2026-10-03T01:45:00+09:00",
-          "language": "ko",
-          "kind": "major",
-          "verifiedAt": "2026-10-03T12:20:00+09:00",
-          "verificationNote": "웹 열기로 본문과 게시 시각을 확인했습니다. 장중 5% 하락은 종가로 사용하지 않았으며 OG 이미지는 미확인입니다."
-        }
-      ],
-      "briefingPath": "2026-10-03/am.json",
-      "previous": {
-        "editionId": "2026-10-02-am-archive",
-        "storyId": "archive-04"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "G7, 비축유 1억 배럴 방출 합의…브렌트유 종가는 102.25달러",
+      "uncertainty": "방출은 향후 4개월의 계획입니다. 실제 공급 속도와 국가별 이행, 중동 정세에 따른 가격 반응은 추가 확인이 필요합니다."
     },
     {
-      "id": "2026-10-06-am/oil-close-2026-10-05",
-      "editionId": "2026-10-06-am",
-      "storyId": "oil-close-2026-10-05",
-      "editionDate": "2026-10-06",
-      "edition": "am",
+      "briefingPath": "2026-10-06/am.json",
+      "category": "국제·에너지",
+      "change": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-06T12:05:34+09:00",
       "coveredOn": "2026-10-06",
-      "publishedAt": "2026-10-06T04:57:06+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-06",
+      "editionId": "2026-10-06-am",
       "eventAt": null,
       "eventDate": "2026-10-05",
       "eventEndDate": null,
-      "eventTimezone": "America/New_York",
       "eventTimeNote": "미국 현지 10월 5일 선물 마감 결과입니다. 수출 관련 통계는 과거기간 관측이므로 오늘 새 발생 사건으로 표기하지 않습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
+        "editionId": "2026-10-03-am",
+        "storyId": "g7-oil-release-2026-10-02"
+      },
+      "id": "2026-10-06-am/oil-close-2026-10-05",
+      "keyFacts": {
+        "brentChange": "-1.93달러, -1.89%",
+        "brentClose": "100.32달러",
+        "brentContract": "2026-12",
+        "marketInterpretation": "중동 수출 회복·비축유 공급 기대, 해상 위험 지속",
+        "releaseVolume": "100000000배럴, 기존G7 합의",
+        "sessionDate": "2026-10-05 현지 마감",
+        "wtiChange": "-1.68달러, -1.84%",
+        "wtiClose": "89.43달러",
+        "wtiContract": "2026-11"
+      },
+      "previous": {
+        "editionId": "2026-10-03-am",
+        "storyId": "g7-oil-release-2026-10-02"
+      },
+      "publishedAt": "2026-10-06T04:57:06+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://stock.mk.co.kr/photos/20261006/PRU20260925285401009_P4.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스·매일경제",
+          "publishedAt": "2026-10-06T04:57:06+09:00",
+          "title": "국제유가, 중동 원유수출 증가·G7 비축유 방출 약속에 1.8%↓",
+          "url": "https://stock.mk.co.kr/news/view/1169869",
+          "verificationNote": "매일경제에 제공된 연합뉴스 전문을 확인했습니다. 표시된 수정 시각 06:48:53도 기준 이전입니다. 에너지경제연구원의 09:59 재전송본 대신 기준 이전 기사를 사용합니다.",
+          "verifiedAt": "2026-10-06T12:01:57+09:00"
+        },
+        {
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060556367689_e.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-06T06:04:26+09:00",
+          "title": "[국제유가] 하락 지속…\"중동 원유 수출, 전쟁 이전 수준 웃돌아\"",
+          "url": "https://www.fnnews.com/news/202610060602164553",
+          "verificationNote": "본문·메타데이터 확인. 각 인도월과 종가를 연합뉴스 기사로 대조했습니다. 원유 수출 회복과 가격 관계는 시장 분석으로 서술합니다.",
+          "verifiedAt": "2026-10-06T12:00:45+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다.",
-      "title": "WTI 89.43달러로 마감…공급 증가 기대에 유가 이틀째 하락",
-      "category": "국제·에너지",
       "status": "확정",
+      "storyId": "oil-close-2026-10-05",
       "summary": [
         "미국 현지 10월 5일 WTI 11월물은 1.84% 내린 배럴당 89.43달러, 브렌트유 12월물은 1.89% 내린 100.32달러로 마감했습니다. 국제유가는 두 거래일 연속 하락했습니다.",
         "이전 회차의 10월 2일 종가와 비교하면 WTI는 91.11달러에서 1.68달러, 브렌트유는 102.25달러에서 1.93달러 낮아졌습니다. 선물의 인도월과 거래일을 붙인 마감 가격이며 오늘 낮의 실시간 가격을 뜻하지 않습니다.",
         "보도는 중동 원유 수출의 회복과 G7 비축유 방출 합의를 공급 불안 완화 요인으로 설명했습니다. G7의 1억배럴 방출 합의 자체는 이미 다뤘던 소식이고, 이번에 새로 기록할 사실은 그 이후의 가격 결과입니다.",
         "원유를 수입하는 한국에는 비용 부담을 덜 수 있는 방향이지만, 국제유가 하루 변동이 곧바로 주유소 가격에 같은 비율로 반영되는 것은 아닙니다. 중동의 선박·시설 위험이 남아 있어 수출 회복의 지속 여부와 실제 방출 진행을 더 확인해야 합니다."
       ],
-      "keyFacts": {
-        "sessionDate": "2026-10-05 현지 마감",
-        "brentContract": "2026-12",
-        "brentClose": "100.32달러",
-        "brentChange": "-1.93달러, -1.89%",
-        "wtiContract": "2026-11",
-        "wtiClose": "89.43달러",
-        "wtiChange": "-1.68달러, -1.84%",
-        "releaseVolume": "100000000배럴, 기존G7 합의",
-        "marketInterpretation": "중동 수출 회복·비축유 공급 기대, 해상 위험 지속"
-      },
-      "uncertainty": "공급 회복은 보도된 시장 분석이며 모든 비축유가 이미 방출됐거나 중동 위험이 끝났다는 의미가 아닙니다.",
-      "sources": [
-        {
-          "name": "연합뉴스·매일경제",
-          "title": "국제유가, 중동 원유수출 증가·G7 비축유 방출 약속에 1.8%↓",
-          "url": "https://stock.mk.co.kr/news/view/1169869",
-          "publishedAt": "2026-10-06T04:57:06+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T12:01:57+09:00",
-          "imageUrl": "https://stock.mk.co.kr/photos/20261006/PRU20260925285401009_P4.jpg",
-          "verificationNote": "매일경제에 제공된 연합뉴스 전문을 확인했습니다. 표시된 수정 시각 06:48:53도 기준 이전입니다. 에너지경제연구원의 09:59 재전송본 대신 기준 이전 기사를 사용합니다."
-        },
-        {
-          "name": "파이낸셜뉴스",
-          "title": "[국제유가] 하락 지속…\"중동 원유 수출, 전쟁 이전 수준 웃돌아\"",
-          "url": "https://www.fnnews.com/news/202610060602164553",
-          "publishedAt": "2026-10-06T06:04:26+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T12:00:45+09:00",
-          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/10/06/202610060556367689_e.jpg",
-          "verificationNote": "본문·메타데이터 확인. 각 인도월과 종가를 연합뉴스 기사로 대조했습니다. 원유 수출 회복과 가격 관계는 시장 분석으로 서술합니다."
-        }
-      ],
-      "briefingPath": "2026-10-06/am.json",
-      "previous": {
-        "editionId": "2026-10-03-am",
-        "storyId": "g7-oil-release-2026-10-02"
-      },
-      "followUp": {
-        "editionId": "2026-10-03-am",
-        "storyId": "g7-oil-release-2026-10-02",
-        "delta": "G7 방출 합의를 다룬 10월 3일 오전 이후 새 거래일 마감에서WTI 89.43달러·브렌트 100.32달러로 추가 하락했습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "WTI 89.43달러로 마감…공급 증가 기대에 유가 이틀째 하락",
+      "uncertainty": "공급 회복은 보도된 시장 분석이며 모든 비축유가 이미 방출됐거나 중동 위험이 끝났다는 의미가 아닙니다."
     },
     {
-      "id": "2026-10-07-am/oil-close-2026-10-06",
-      "editionId": "2026-10-07-am",
-      "storyId": "oil-close-2026-10-06",
-      "editionDate": "2026-10-07",
-      "edition": "am",
+      "briefingPath": "2026-10-07/am.json",
+      "category": "국제·에너지",
+      "change": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T12:12:39+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-07T04:43:10+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-am",
       "eventAt": null,
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "America/New_York",
       "eventTimeNote": "미국 현지 2026년 10월 6일 원유 선물 마감 결과입니다. 정확한 최종 거래 시각은 추정하지 않았으며 비톨의 수출량은 최근 7~10일간의 관측입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다.",
+        "editionId": "2026-10-06-am",
+        "storyId": "oil-close-2026-10-05"
+      },
+      "id": "2026-10-07-am/oil-close-2026-10-06",
+      "keyFacts": {
+        "brentChange": "+0.26%",
+        "brentClose": "100.58달러",
+        "brentContract": "2026-12",
+        "marketInterpretation": "중동 수출 회복 기대와 군사 긴장에 따른 공급 우려 공존",
+        "releaseVolume": "100000000배럴, 기존 G7 합의",
+        "sessionDate": "2026-10-06 현지 마감",
+        "wtiChange": "+0.01%",
+        "wtiClose": "89.44달러",
+        "wtiContract": "2026-11"
+      },
+      "previous": {
+        "editionId": "2026-10-06-am",
+        "storyId": "oil-close-2026-10-05"
+      },
+      "publishedAt": "2026-10-07T04:43:10+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img7.yna.co.kr/photo/reuters/2026/09/23/PRU20260923420001009_P4.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-07T04:43:10+09:00",
+          "title": "국제유가, 중동 수출 회복·공급 우려 속 강보합 마감",
+          "updatedAt": "2026-10-07T06:45:14+09:00",
+          "url": "https://www.yna.co.kr/view/AKR20261007005000072",
+          "verificationNote": "본문 전체와 HTML의 게시·수정·대표 이미지 메타데이터를 확인했습니다. 수정 06:45:14로 포함 기준 이전이며 선물 인도월·종가·등락률을 확인했습니다.",
+          "verifiedAt": "2026-10-07T12:06:47+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-07T05:32:00+09:00",
+          "title": "[국제유가] 초반 급락세 접고 상승 마감…브렌트유, 100.58달러",
+          "updatedAt": "2026-10-07T05:32:00+09:00",
+          "url": "https://www.fnnews.com/news/202610070529170392",
+          "verificationNote": "웹 열기로 본문과 입력·수정 05:32 확인. 두 원유의 인도월·종가 및 장중 하락 뒤 반전은 일치합니다. 이 기사의 브렌트 등락률 0.23%는 연합뉴스·뉴시스·한국경제의 0.26%와 달라 사용하지 않았습니다. 200달러 시나리오도 채택하지 않았습니다.",
+          "verifiedAt": "2026-10-07T12:06:47+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다.",
-      "title": "브렌트유 100.58달러·WTI 89.44달러…장중 하락 뒤 강보합",
-      "category": "국제·에너지",
       "status": "확정",
+      "storyId": "oil-close-2026-10-06",
       "summary": [
         "10월 6일 브렌트유 12월물은 0.26% 오른 배럴당 100.58달러, WTI 11월물은 0.01% 오른 89.44달러로 마감했습니다. 장 초반의 하락폭을 되돌리며 전날보다 조금 높은 가격에 거래를 마쳤습니다.",
         "시장에는 공급 회복 기대와 운송·시설 위험이 동시에 남아 있습니다. 연합뉴스는 중동 원유 수출 증가와 G7 비축유 방출 합의가 수급에 미칠 영향을 투자자들이 살피고 있다고 전했습니다.",
         "비톨은 최근 7~10일간 중동에서 하루 약 1,200만 배럴의 원유와 200만 배럴의 석유제품이 선적됐다고 설명했습니다. 다만 후티의 공격 등 군사적 긴장은 이어져 수송량 회복을 공급 위험의 해소로 단정하기 어렵습니다.",
         "이전 회차의 5일장 하락 이후 새로 확인된 변화는 6일의 강보합 종가입니다. G7의 총 1억 배럴 방출 합의는 기존 배경이며, 실제 공급 진행과 중동 시설·항로의 안전성을 계속 구분해 볼 필요가 있습니다."
       ],
-      "keyFacts": {
-        "sessionDate": "2026-10-06 현지 마감",
-        "brentContract": "2026-12",
-        "brentClose": "100.58달러",
-        "brentChange": "+0.26%",
-        "wtiContract": "2026-11",
-        "wtiClose": "89.44달러",
-        "wtiChange": "+0.01%",
-        "releaseVolume": "100000000배럴, 기존 G7 합의",
-        "marketInterpretation": "중동 수출 회복 기대와 군사 긴장에 따른 공급 우려 공존"
-      },
-      "uncertainty": "수출량은 비톨의 최근 기간 관측입니다. 비축유가 전부 공급됐거나 중동 시설·항로의 위험이 끝났다는 뜻은 아닙니다.",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "국제유가, 중동 수출 회복·공급 우려 속 강보합 마감",
-          "url": "https://www.yna.co.kr/view/AKR20261007005000072",
-          "publishedAt": "2026-10-07T04:43:10+09:00",
-          "verifiedAt": "2026-10-07T12:06:47+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verificationNote": "본문 전체와 HTML의 게시·수정·대표 이미지 메타데이터를 확인했습니다. 수정 06:45:14로 포함 기준 이전이며 선물 인도월·종가·등락률을 확인했습니다.",
-          "imageUrl": "https://img7.yna.co.kr/photo/reuters/2026/09/23/PRU20260923420001009_P4.jpg",
-          "updatedAt": "2026-10-07T06:45:14+09:00"
-        },
-        {
-          "name": "파이낸셜뉴스",
-          "title": "[국제유가] 초반 급락세 접고 상승 마감…브렌트유, 100.58달러",
-          "url": "https://www.fnnews.com/news/202610070529170392",
-          "publishedAt": "2026-10-07T05:32:00+09:00",
-          "verifiedAt": "2026-10-07T12:06:47+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verificationNote": "웹 열기로 본문과 입력·수정 05:32 확인. 두 원유의 인도월·종가 및 장중 하락 뒤 반전은 일치합니다. 이 기사의 브렌트 등락률 0.23%는 연합뉴스·뉴시스·한국경제의 0.26%와 달라 사용하지 않았습니다. 200달러 시나리오도 채택하지 않았습니다.",
-          "updatedAt": "2026-10-07T05:32:00+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-07/am.json",
-      "previous": {
-        "editionId": "2026-10-06-am",
-        "storyId": "oil-close-2026-10-05"
-      },
-      "followUp": {
-        "editionId": "2026-10-06-am",
-        "storyId": "oil-close-2026-10-05",
-        "delta": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "브렌트유 100.58달러·WTI 89.44달러…장중 하락 뒤 강보합",
+      "uncertainty": "수출량은 비톨의 최근 기간 관측입니다. 비축유가 전부 공급됐거나 중동 시설·항로의 위험이 끝났다는 뜻은 아닙니다."
     },
     {
-      "id": "2026-09-15-pm-archive/archive-09",
-      "editionId": "2026-09-15-pm-archive",
-      "storyId": "archive-09",
-      "editionDate": "2026-09-15",
-      "edition": "pm",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러.",
-      "title": "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러."
-      ],
-      "keyFacts": {
-        "originalRecord": "[중동] 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러. 확인: 연합뉴스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 50,
+        "lineStart": 49,
+        "ordinal": 9,
         "originalText": "[중동] 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러. 확인: 연합뉴스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "연합뉴스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 9,
-        "lineStart": 49,
-        "lineEnd": 50,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
-    },
-    {
-      "id": "2026-09-17-am-archive/archive-04",
-      "editionId": "2026-09-17-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-17",
-      "edition": "am",
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/pm.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러.",
+      "correctionOf": null,
       "coveredAt": null,
-      "coveredOn": "2026-09-17",
-      "publishedAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "pm",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-pm-archive/archive-09",
+      "keyFacts": {
+        "originalRecord": "[중동] 사우디 동서 송유관 공격 여파, 미국 경유 6.23달러. 확인: 연합뉴스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
       "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: WTI 102.43달러, 사우디 송유관 복구 기대.",
-      "title": "WTI 102.43달러, 사우디 송유관 복구 기대",
-      "category": "국제·에너지",
       "status": "과거 기록",
+      "storyId": "archive-09",
       "summary": [
-        "WTI 102.43달러, 사우디 송유관 복구 기대."
+        "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러."
       ],
+      "supersededBy": [],
+      "title": "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
+    },
+    {
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 82,
+        "lineStart": 82,
+        "ordinal": 4,
+        "originalText": "WTI 102.43달러, 사우디 송유관 복구 기대.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-15",
+          "edition": "pm",
+          "storyId": "archive-09",
+          "title": "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-17/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: WTI 102.43달러, 사우디 송유관 복구 기대.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-17",
+      "edition": "am",
+      "editionDate": "2026-09-17",
+      "editionId": "2026-09-17-am-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-17-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "WTI 102.43달러, 사우디 송유관 복구 기대."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-17/am.json",
       "previous": {
         "editionId": "2026-09-15-pm-archive",
         "storyId": "archive-09"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "WTI 102.43달러, 사우디 송유관 복구 기대."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "WTI 102.43달러, 사우디 송유관 복구 기대.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 82,
-        "lineEnd": 82,
-        "previousCoverage": {
-          "date": "2026-09-15",
-          "edition": "pm",
-          "storyId": "archive-09",
-          "title": "사우디 동서 송유관 공격 여파, 미국 경유 6.23달러",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "WTI 102.43달러, 사우디 송유관 복구 기대",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-19-am-archive/archive-03",
-      "editionId": "2026-09-19-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-19",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 128,
+        "lineStart": 128,
+        "ordinal": 3,
+        "originalText": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "WTI 102.43달러, 사우디 송유관 복구 기대"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-19/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: WTI 100.30달러, 사우디 송유관 복구 기대에 하락.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-19",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-19",
+      "editionId": "2026-09-19-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: WTI 100.30달러, 사우디 송유관 복구 기대에 하락.",
-      "title": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "WTI 100.30달러, 사우디 송유관 복구 기대에 하락."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-19-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-19/am.json",
       "previous": {
         "editionId": "2026-09-17-am-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "WTI 100.30달러, 사우디 송유관 복구 기대에 하락."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 128,
-        "lineEnd": 128,
-        "previousCoverage": {
-          "date": "2026-09-17",
-          "edition": "am",
-          "storyId": "archive-04",
-          "title": "WTI 102.43달러, 사우디 송유관 복구 기대",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-20-am-archive/archive-01",
-      "editionId": "2026-09-20-am-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-20",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 148,
+        "lineStart": 148,
+        "ordinal": 1,
+        "originalText": "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-19",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-20/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-20",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-20",
+      "editionId": "2026-09-20-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질.",
-      "title": "후티, 사우디 리야드 공격",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-20-am-archive/archive-01",
       "keyFacts": {
         "originalRecord": "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-20/am.json",
       "previous": {
         "editionId": "2026-09-19-am-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "후티, 사우디 리야드 공격. 아람코 연료탱크 화재·항공편 차질.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 148,
-        "lineEnd": 148,
-        "previousCoverage": {
-          "date": "2026-09-19",
-          "edition": "am",
-          "storyId": "archive-03",
-          "title": "WTI 100.30달러, 사우디 송유관 복구 기대에 하락",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "후티, 사우디 리야드 공격",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-22-am-archive/archive-02",
-      "editionId": "2026-09-22-am-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-22",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 194,
+        "lineStart": 194,
+        "ordinal": 2,
+        "originalText": "WTI -4.5% 95.78달러, 미·이란 접촉 기대.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-20",
+          "edition": "am",
+          "storyId": "archive-01",
+          "title": "후티, 사우디 리야드 공격"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-22/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: WTI -4.5% 95.78달러, 미·이란 접촉 기대.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-22",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-22",
+      "editionId": "2026-09-22-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: WTI -4.5% 95.78달러, 미·이란 접촉 기대.",
-      "title": "WTI -4.5% 95.78달러, 미·이란 접촉 기대",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "WTI -4.5% 95.78달러, 미·이란 접촉 기대."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-22-am-archive/archive-02",
       "keyFacts": {
         "originalRecord": "WTI -4.5% 95.78달러, 미·이란 접촉 기대."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-22/am.json",
       "previous": {
         "editionId": "2026-09-20-am-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "WTI -4.5% 95.78달러, 미·이란 접촉 기대."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "WTI -4.5% 95.78달러, 미·이란 접촉 기대.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 194,
-        "lineEnd": 194,
-        "previousCoverage": {
-          "date": "2026-09-20",
-          "edition": "am",
-          "storyId": "archive-01",
-          "title": "후티, 사우디 리야드 공격",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "WTI -4.5% 95.78달러, 미·이란 접촉 기대",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-23-am-archive/archive-04",
-      "editionId": "2026-09-23-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-23",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 218,
+        "lineStart": 218,
+        "ordinal": 4,
+        "originalText": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-22",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "WTI -4.5% 95.78달러, 미·이란 접촉 기대"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-23/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-23",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-23",
+      "editionId": "2026-09-23-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락.",
-      "title": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-23-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-23/am.json",
       "previous": {
         "editionId": "2026-09-22-am-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 218,
-        "lineEnd": 218,
-        "previousCoverage": {
-          "date": "2026-09-22",
-          "edition": "am",
-          "storyId": "archive-02",
-          "title": "WTI -4.5% 95.78달러, 미·이란 접촉 기대",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-24-am-archive/archive-03",
-      "editionId": "2026-09-24-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-24",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 238,
+        "lineStart": 238,
+        "ordinal": 3,
+        "originalText": "브렌트 +3.86% 103.08달러.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-23",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-24/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 브렌트 +3.86% 103.08달러.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-24",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-24",
+      "editionId": "2026-09-24-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 브렌트 +3.86% 103.08달러.",
-      "title": "브렌트 +3.86% 103.08달러",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "브렌트 +3.86% 103.08달러."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-24-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "브렌트 +3.86% 103.08달러."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-24/am.json",
       "previous": {
         "editionId": "2026-09-23-am-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "브렌트 +3.86% 103.08달러."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "브렌트 +3.86% 103.08달러.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 238,
-        "lineEnd": 238,
-        "previousCoverage": {
-          "date": "2026-09-23",
-          "edition": "am",
-          "storyId": "archive-04",
-          "title": "브렌트 99.25달러·WTI 94.59달러, 유가 5거래일 하락",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "브렌트 +3.86% 103.08달러",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-25-am-archive/archive-03",
-      "editionId": "2026-09-25-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-25",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 261,
+        "lineStart": 261,
+        "ordinal": 3,
+        "originalText": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "브렌트 +3.86% 103.08달러"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-25/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 후티 사우디 원유 수출거점 공격, 브렌트 106.60달러.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-25",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-25",
+      "editionId": "2026-09-25-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 후티 사우디 원유 수출거점 공격, 브렌트 106.60달러.",
-      "title": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-25-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-25/am.json",
       "previous": {
         "editionId": "2026-09-24-am-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 261,
-        "lineEnd": 261,
-        "previousCoverage": {
-          "date": "2026-09-24",
-          "edition": "am",
-          "storyId": "archive-03",
-          "title": "브렌트 +3.86% 103.08달러",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-26-am-archive/archive-03",
-      "editionId": "2026-09-26-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-26",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 284,
+        "lineStart": 284,
+        "ordinal": 3,
+        "originalText": "이란 7일 로드맵 기대에 WTI -2.33%.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 이란 7일 로드맵 기대에 WTI -2.33%.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 이란 7일 로드맵 기대에 WTI -2.33%.",
-      "title": "이란 7일 로드맵 기대에 WTI -2.33%",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "이란 7일 로드맵 기대에 WTI -2.33%."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "이란 7일 로드맵 기대에 WTI -2.33%."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/am.json",
       "previous": {
         "editionId": "2026-09-25-am-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "이란 7일 로드맵 기대에 WTI -2.33%."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "이란 7일 로드맵 기대에 WTI -2.33%.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 284,
-        "lineEnd": 284,
-        "previousCoverage": {
-          "date": "2026-09-25",
-          "edition": "am",
-          "storyId": "archive-03",
-          "title": "후티 사우디 원유 수출거점 공격, 브렌트 106.60달러",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "이란 7일 로드맵 기대에 WTI -2.33%",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-30-am-archive/archive-04",
-      "editionId": "2026-09-30-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-30",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 378,
+        "lineStart": 378,
+        "ordinal": 4,
+        "originalText": "사우디 홍해 원유수출 재개, WTI 89.38달러.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "이란 7일 로드맵 기대에 WTI -2.33%"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-30/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 사우디 홍해 원유수출 재개, WTI 89.38달러.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-30",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-30",
+      "editionId": "2026-09-30-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 사우디 홍해 원유수출 재개, WTI 89.38달러.",
-      "title": "사우디 홍해 원유수출 재개, WTI 89.38달러",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "사우디 홍해 원유수출 재개, WTI 89.38달러."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-30-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "사우디 홍해 원유수출 재개, WTI 89.38달러."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-30/am.json",
       "previous": {
         "editionId": "2026-09-26-am-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "사우디 홍해 원유수출 재개, WTI 89.38달러."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "사우디 홍해 원유수출 재개, WTI 89.38달러.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 378,
-        "lineEnd": 378,
-        "previousCoverage": {
-          "date": "2026-09-26",
-          "edition": "am",
-          "storyId": "archive-03",
-          "title": "이란 7일 로드맵 기대에 WTI -2.33%",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "사우디 홍해 원유수출 재개, WTI 89.38달러",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-30-pm-archive/archive-06",
-      "editionId": "2026-09-30-pm-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-30",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 392,
+        "lineStart": 392,
+        "ordinal": 6,
+        "originalText": "미국 전략비축유 최대 4천만배럴 추가 방출.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-30",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "사우디 홍해 원유수출 재개, WTI 89.38달러"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-30/pm.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 미국 전략비축유 최대 4천만배럴 추가 방출.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-30",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-30",
+      "editionId": "2026-09-30-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 미국 전략비축유 최대 4천만배럴 추가 방출.",
-      "title": "미국 전략비축유 최대 4천만배럴 추가 방출",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "미국 전략비축유 최대 4천만배럴 추가 방출."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-30-pm-archive/archive-06",
       "keyFacts": {
         "originalRecord": "미국 전략비축유 최대 4천만배럴 추가 방출."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-30/pm.json",
       "previous": {
         "editionId": "2026-09-30-am-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "미국 전략비축유 최대 4천만배럴 추가 방출."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "미국 전략비축유 최대 4천만배럴 추가 방출.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 392,
-        "lineEnd": 392,
-        "previousCoverage": {
-          "date": "2026-09-30",
-          "edition": "am",
-          "storyId": "archive-04",
-          "title": "사우디 홍해 원유수출 재개, WTI 89.38달러",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "미국 전략비축유 최대 4천만배럴 추가 방출",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-02-am-archive/archive-04",
-      "editionId": "2026-10-02-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 427,
+        "lineStart": 427,
+        "ordinal": 4,
+        "originalText": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-30",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "미국 전략비축유 최대 4천만배럴 추가 방출"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-02/am.json",
+      "category": "국제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-02",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등.",
-      "title": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등",
-      "category": "국제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-02-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-02/am.json",
       "previous": {
         "editionId": "2026-09-30-pm-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 427,
-        "lineEnd": 427,
-        "previousCoverage": {
-          "date": "2026-09-30",
-          "edition": "pm",
-          "storyId": "archive-06",
-          "title": "미국 전략비축유 최대 4천만배럴 추가 방출",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "중국 석유제품 수출 중단 보도 + 미국 중동 증파로 브렌트유 급등",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "middle-east-oil-supply",
+  "schemaVersion": 1,
+  "title": "중동 원유 공급과 국제유가",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

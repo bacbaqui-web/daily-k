@@ -1,85 +1,85 @@
 {
-  "schemaVersion": 1,
-  "id": "qwen-hirundo-bias-evaluation",
-  "title": "Qwen의 편향 완화와 Hirundo 평가",
   "entries": [
     {
-      "id": "2026-10-03-pm/qwen-bias-evaluation-2026-10-03",
-      "editionId": "2026-10-03-pm",
-      "storyId": "qwen-bias-evaluation-2026-10-03",
-      "editionDate": "2026-10-03",
-      "edition": "pm",
+      "briefingPath": "2026-10-03/pm.json",
+      "category": "기술·IT·AI",
+      "change": "오전 9시 기준 이후 국내에 소개된 평가를 원 제작업체의 모델 카드와 대조했습니다. 새 모델이 오늘 처음 출시됐다는 주장은 하지 않습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-03T21:19:55+09:00",
       "coveredOn": "2026-10-03",
-      "publishedAt": "2026-10-03T09:12:22+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-03",
+      "editionId": "2026-10-03-pm",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "연구를 수행한 정확한 날짜는 확인되지 않았습니다. CBS는 미국 동부시간 10월 2일 보도했고, 국내 기사는 3일 09:12에 등록됐습니다. 연구일을 기사일로 대신하지 않습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-03-pm/qwen-bias-evaluation-2026-10-03",
+      "keyFacts": {
+        "attribution": "Hirundo 자체 평가",
+        "baseRate": "89.8%",
+        "benchmark": "CCPC-500",
+        "independentReplication": "이번 확인 범위에서 미확인",
+        "mode": "Thinking-OFF",
+        "modifiedRate": "2.8%",
+        "promptCount": "500개",
+        "topicCount": "15개"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-03T09:12:22+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002254994_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-03T09:12:22+09:00",
+          "title": "알리바바 인공지능 치엔원, 중국 우호 서사와 검열 내장",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813399",
+          "verificationNote": "CBS를 인용한 국내 보도입니다. 숫자는 원 연구업체의 모델 카드와 대조했으며 독립적인 성능 검증으로 간주하지 않습니다.",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        },
+        {
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/hirundo-io/Qwen3.6-35B-A3B-Westernized.png",
+          "kind": "official",
+          "language": "en",
+          "name": "Hirundo·Hugging Face",
+          "publishedAt": null,
+          "title": "Qwen3.6-35B-A3B-Westernized 모델 카드",
+          "url": "https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized",
+          "verificationNote": "제작업체가 공개한 평가 설명입니다. Thinking-OFF 조건과 CCPC-500 수치, 평가 범위 한계를 확인했습니다. 정확한 최초 게시 시각은 미확인입니다.",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        },
+        {
+          "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
+          "kind": "major",
+          "language": "en",
+          "name": "CBS News",
+          "publishedAt": "2026-10-03T02:08:00+09:00",
+          "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+          "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+          "verificationNote": "10월 2일 13:08 EDT의 원 보도. 국내 기사의 원 출처를 확인했으며 독립된 두 연구인 것처럼 취급하지 않습니다.",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        }
+      ],
       "stage": "분석",
-      "change": "오전 9시 기준 이후 국내에 소개된 평가를 원 제작업체의 모델 카드와 대조했습니다. 새 모델이 오늘 처음 출시됐다는 주장은 하지 않습니다.",
-      "title": "Qwen 편향 줄였다는 Hirundo…500문항 자체 평가의 범위를 봐야",
-      "category": "기술·IT·AI",
       "status": "분석",
+      "storyId": "qwen-bias-evaluation-2026-10-03",
       "summary": [
         "AI 보안업체 Hirundo가 Qwen의 정치적 편향과 검열 반응을 줄였다는 평가가 국내에 보도됐습니다. 업체는 500개 질문 시험에서 문제 반응 비율을 89.8%에서 2.8%로 낮췄다고 설명했습니다.",
         "한국어 보도는 CBS의 10월 2일 현지 보도를 인용했고, 제작업체의 공개 모델 카드에서도 같은 수치를 확인했습니다. 카드에는 Qwen3.6 기반 모델을 추론 기능을 끈 조건에서 평가했다고 적혀 있습니다.",
         "핵심은 모델이 가진 특정 반응을 줄이도록 수정한 뒤 같은 평가 기준으로 비교했다는 것입니다. 다만 500문항에서 나온 비율은 해당 시험의 결과이며, 모든 질문에서의 편향이나 전체 모델 제품군의 안전성을 나타내는 수치는 아닙니다.",
         "기업이 공개 모델을 도입할 때에는 성능과 비용 외에 실제 업무 질문에서의 답변 성향도 살펴야 한다는 의미로 읽을 수 있습니다. 이번 수치는 제작업체의 자체 평가로, 독립 재현이나 한국어 업무에서의 효과까지 검증됐다고 말할 수는 없습니다."
       ],
-      "keyFacts": {
-        "benchmark": "CCPC-500",
-        "promptCount": "500개",
-        "topicCount": "15개",
-        "baseRate": "89.8%",
-        "modifiedRate": "2.8%",
-        "mode": "Thinking-OFF",
-        "attribution": "Hirundo 자체 평가",
-        "independentReplication": "이번 확인 범위에서 미확인"
-      },
-      "uncertainty": "업체가 자신의 수정 모델을 평가한 결과입니다. 독립 재현, 전체 버전·모든 언어의 일반화, 실제 서비스 효과는 확인되지 않았습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "알리바바 인공지능 치엔원, 중국 우호 서사와 검열 내장",
-          "url": "https://www.newsis.com/view/NISX20261003_0003813399",
-          "publishedAt": "2026-10-03T09:12:22+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/03/NISI20261003_0002254994_web.jpg",
-          "verificationNote": "CBS를 인용한 국내 보도입니다. 숫자는 원 연구업체의 모델 카드와 대조했으며 독립적인 성능 검증으로 간주하지 않습니다."
-        },
-        {
-          "name": "Hirundo·Hugging Face",
-          "title": "Qwen3.6-35B-A3B-Westernized 모델 카드",
-          "url": "https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "en",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/hirundo-io/Qwen3.6-35B-A3B-Westernized.png",
-          "verificationNote": "제작업체가 공개한 평가 설명입니다. Thinking-OFF 조건과 CCPC-500 수치, 평가 범위 한계를 확인했습니다. 정확한 최초 게시 시각은 미확인입니다."
-        },
-        {
-          "name": "CBS News",
-          "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-          "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-          "publishedAt": "2026-10-03T02:08:00+09:00",
-          "kind": "major",
-          "language": "en",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
-          "verificationNote": "10월 2일 13:08 EDT의 원 보도. 국내 기사의 원 출처를 확인했으며 독립된 두 연구인 것처럼 취급하지 않습니다."
-        }
-      ],
-      "briefingPath": "2026-10-03/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "Qwen 편향 줄였다는 Hirundo…500문항 자체 평가의 범위를 봐야",
+      "uncertainty": "업체가 자신의 수정 모델을 평가한 결과입니다. 독립 재현, 전체 버전·모든 언어의 일반화, 실제 서비스 효과는 확인되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "qwen-hirundo-bias-evaluation",
+  "schemaVersion": 1,
+  "title": "Qwen의 편향 완화와 Hirundo 평가",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

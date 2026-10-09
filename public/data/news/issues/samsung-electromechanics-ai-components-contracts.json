@@ -1,27 +1,68 @@
 {
-  "schemaVersion": 1,
-  "id": "samsung-electromechanics-ai-components-contracts",
-  "title": "삼성전기 AI 서버 부품 장기 공급계약",
   "entries": [
     {
-      "id": "2026-10-06-pm/samsung-electromechanics-mlcc-contract-2026-10-06",
-      "editionId": "2026-10-06-pm",
-      "storyId": "samsung-electromechanics-mlcc-contract-2026-10-06",
-      "editionDate": "2026-10-06",
-      "edition": "pm",
+      "briefingPath": "2026-10-06/pm.json",
+      "category": "반도체·AI부품",
+      "change": "오늘 새 MLCC 공급계약이 공시됐고 내년 1년간 공급할 금액·기간이 확인됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-06T21:17:18+09:00",
       "coveredOn": "2026-10-06",
-      "publishedAt": "2026-10-06T11:46:56+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-06",
+      "editionId": "2026-10-06-pm",
       "eventAt": null,
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "계약 체결일은 DART상 10월 6일입니다. 실제 서명 시각은 미공개이며 공급은 2027년 예정입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-06-pm/samsung-electromechanics-mlcc-contract-2026-10-06",
+      "keyFacts": {
+        "contractAmountKrw": "285611040000원",
+        "contractAmountUsd": "210240000달러",
+        "contractDate": "2026-10-06",
+        "counterparty": "글로벌 대형기업, 실명 비공개",
+        "lta2026": "공시6건, 여러 부품 합계약3조9000억원",
+        "salesRatio": "2025년 연결 매출의2.5%",
+        "supplyPeriod": "2027-01-01~2027-12-31"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-06T11:46:56+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img6.yna.co.kr/photo/cms/2026/07/03/05/PCM20260703000105063_P4.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-06T11:46:56+09:00",
+          "title": "삼성전기, 글로벌 기업과 2천900억 AI 서버용 MLCC 공급계약 | 연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261006088900003",
+          "verifiedAt": "2026-10-06T21:09:09+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "삼성전기·금융감독원 DART",
+          "publishedAt": null,
+          "title": "삼성전기 단일판매·공급계약 체결 공시",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800130",
+          "verificationNote": "10월 6일 공시의 연결된 report/viewer.do 원문을 직접 읽어 285,611,040,000원, 2027년 공급 기간, 비공개 계약상대를 확인했습니다. 정확한 접수 시각은 비워 둡니다.",
+          "verifiedAt": "2026-10-06T21:09:09+09:00"
+        },
+        {
+          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/2026100601000282100014671.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "아시아투데이",
+          "publishedAt": "2026-10-06T11:37:01+09:00",
+          "title": "삼성전기, 2900억원 규모 AI 서버용 MLCC 공급 계약 체결",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001415",
+          "verifiedAt": "2026-10-06T21:09:09+09:00"
+        }
+      ],
       "stage": "확정",
-      "change": "오늘 새 MLCC 공급계약이 공시됐고 내년 1년간 공급할 금액·기간이 확인됐습니다.",
-      "title": "삼성전기, AI 서버용 MLCC 2,856억원 계약…공급은 내년 1년간",
-      "category": "반도체·AI부품",
       "status": "확정",
+      "storyId": "samsung-electromechanics-mlcc-contract-2026-10-06",
       "summary": [
         "삼성전기가 글로벌 대형기업과 AI 서버용 MLCC 공급계약을 맺었습니다. DART 공시의 원화 환산 금액은 2,856억 1,104만원이며 공급 기간은 2027년 1월 1일부터 12월 31일까지입니다.",
         "MLCC는 전기를 잠시 저장했다가 반도체 등에 안정적으로 공급하는 부품입니다. AI 서버의 안정적 가동에는 연산용 칩 외에도 이런 전자부품이 필요하므로, 이번 계약은 AI 설비 수요가 부품 공급망으로 이어지는 사례입니다.",
@@ -29,54 +70,13 @@
         "이번 계약금액은 2025년 연결 매출의 2.5%에 해당합니다. 고객 이름과 주요 조건은 영업비밀을 이유로 공개되지 않았고, 공급 기간과 계약액은 사업 진행 중 바뀔 수 있다고 공시했습니다.",
         "계약 체결은 확인된 결과지만 내년 공급에 관한 약속이므로 올해 이미 실현한 매출·이익과는 다릅니다. 실제 납품과 수익성은 이후 실적에서 확인할 부분입니다."
       ],
-      "keyFacts": {
-        "contractAmountKrw": "285611040000원",
-        "contractAmountUsd": "210240000달러",
-        "contractDate": "2026-10-06",
-        "supplyPeriod": "2027-01-01~2027-12-31",
-        "salesRatio": "2025년 연결 매출의2.5%",
-        "counterparty": "글로벌 대형기업, 실명 비공개",
-        "lta2026": "공시6건, 여러 부품 합계약3조9000억원"
-      },
-      "uncertainty": "고객 이름·주요 조건은 비공개이며 계약액과 기간은 변경될 수 있습니다. 계약 총액은 이미 실현한 매출이나 이익이 아닙니다.",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "삼성전기, 글로벌 기업과 2천900억 AI 서버용 MLCC 공급계약 | 연합뉴스",
-          "url": "https://www.yna.co.kr/amp/view/AKR20261006088900003",
-          "publishedAt": "2026-10-06T11:46:56+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:09:09+09:00",
-          "imageUrl": "https://img6.yna.co.kr/photo/cms/2026/07/03/05/PCM20260703000105063_P4.jpg"
-        },
-        {
-          "name": "삼성전기·금융감독원 DART",
-          "title": "삼성전기 단일판매·공급계약 체결 공시",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800130",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:09:09+09:00",
-          "verificationNote": "10월 6일 공시의 연결된 report/viewer.do 원문을 직접 읽어 285,611,040,000원, 2027년 공급 기간, 비공개 계약상대를 확인했습니다. 정확한 접수 시각은 비워 둡니다."
-        },
-        {
-          "name": "아시아투데이",
-          "title": "삼성전기, 2900억원 규모 AI 서버용 MLCC 공급 계약 체결",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001415",
-          "publishedAt": "2026-10-06T11:37:01+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:09:09+09:00",
-          "imageUrl": "https://img.asiatoday.co.kr/file/2026y/10m/06d/2026100601000282100014671.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-06/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "삼성전기, AI 서버용 MLCC 2,856억원 계약…공급은 내년 1년간",
+      "uncertainty": "고객 이름·주요 조건은 비공개이며 계약액과 기간은 변경될 수 있습니다. 계약 총액은 이미 실현한 매출이나 이익이 아닙니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "samsung-electromechanics-ai-components-contracts",
+  "schemaVersion": 1,
+  "title": "삼성전기 AI 서버 부품 장기 공급계약",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "un-general-assembly-2026",
-  "title": "2026 유엔총회 고위급 회의",
   "entries": [
     {
-      "id": "2026-09-22-pm-archive/archive-08",
-      "editionId": "2026-09-22-pm-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-22",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 211,
+        "lineStart": 211,
+        "ordinal": 8,
+        "originalText": "유엔총회 고위급 회의 개막.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-22/pm.json",
+      "category": "국제·외교",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 유엔총회 고위급 회의 개막.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-22",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-22",
+      "editionId": "2026-09-22-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 유엔총회 고위급 회의 개막.",
-      "title": "유엔총회 고위급 회의 개막",
-      "category": "국제·외교",
-      "status": "과거 기록",
-      "summary": [
-        "유엔총회 고위급 회의 개막."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-22-pm-archive/archive-08",
       "keyFacts": {
         "originalRecord": "유엔총회 고위급 회의 개막."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-22/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "유엔총회 고위급 회의 개막."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "유엔총회 고위급 회의 개막.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 211,
-        "lineEnd": 211,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "유엔총회 고위급 회의 개막",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "un-general-assembly-2026",
+  "schemaVersion": 1,
+  "title": "2026 유엔총회 고위급 회의",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

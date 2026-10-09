@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "seoul-bus-wage-2026",
-  "title": "서울버스 임금 협상과 파업 철회",
   "entries": [
     {
-      "id": "2026-09-16-am-archive/archive-04",
-      "editionId": "2026-09-16-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-16",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 59,
+        "lineStart": 59,
+        "ordinal": 4,
+        "originalText": "서울버스 파업 철회, 임금 3.2% 인상.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-16/am.json",
+      "category": "사회·노동",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 서울버스 파업 철회, 임금 3.2% 인상.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-16",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-16",
+      "editionId": "2026-09-16-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 서울버스 파업 철회, 임금 3.2% 인상.",
-      "title": "서울버스 파업 철회, 임금 3.2% 인상",
-      "category": "사회·노동",
-      "status": "과거 기록",
-      "summary": [
-        "서울버스 파업 철회, 임금 3.2% 인상."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-16-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "서울버스 파업 철회, 임금 3.2% 인상."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-16/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "서울버스 파업 철회, 임금 3.2% 인상."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "서울버스 파업 철회, 임금 3.2% 인상.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 59,
-        "lineEnd": 59,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "서울버스 파업 철회, 임금 3.2% 인상",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "seoul-bus-wage-2026",
+  "schemaVersion": 1,
+  "title": "서울버스 임금 협상과 파업 철회",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

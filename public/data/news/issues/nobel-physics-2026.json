@@ -1,27 +1,68 @@
 {
-  "schemaVersion": 1,
-  "id": "nobel-physics-2026",
-  "title": "2026년 노벨 물리학상과 아이스큐브 중성미자 관측",
   "entries": [
     {
-      "id": "2026-10-06-pm/nobel-physics-halzen-2026",
-      "editionId": "2026-10-06-pm",
-      "storyId": "nobel-physics-halzen-2026",
-      "editionDate": "2026-10-06",
-      "edition": "pm",
+      "briefingPath": "2026-10-06/pm.json",
+      "category": "국제·과학",
+      "change": "오늘 스웨덴 왕립과학원이 물리학상 수상자와 선정 이유를 발표했습니다. 아침의 발표 일정에서 실제 선정 결과로 바뀌었습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-06T21:17:18+09:00",
       "coveredOn": "2026-10-06",
-      "publishedAt": "2026-10-06T19:56:02+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-06",
+      "editionId": "2026-10-06-pm",
       "eventAt": null,
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "Europe/Stockholm",
       "eventTimeNote": "10월 6일 스톡홀름 공식 선정 발표입니다. 기사 게시 시각을 실제 발표 시작 시각으로 대신 쓰지 않습니다.",
+      "eventTimezone": "Europe/Stockholm",
+      "followUp": null,
+      "id": "2026-10-06-pm/nobel-physics-halzen-2026",
+      "keyFacts": {
+        "award": "2026 Nobel Prize in Physics",
+        "contribution": "IceCube 관측소와 천체 기원 고에너지 중성미자 발견 기여",
+        "iceVolume": "1세제곱킬로미터",
+        "laureate": "Francis Halzen, University of Wisconsin–Madison",
+        "observatoryCompleted": "2011년",
+        "recipientCount": "1명"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-06T19:56:02+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.dongascience.com/Photo/2026/10/17912813585295.png",
+          "kind": "specialist",
+          "language": "ko",
+          "name": "동아사이언스",
+          "publishedAt": "2026-10-06T19:56:02+09:00",
+          "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)",
+          "url": "https://www.dongascience.com/ko/news/80214",
+          "verifiedAt": "2026-10-06T21:09:10+09:00"
+        },
+        {
+          "imageUrl": "https://www.kva.se/app/uploads/2026/10/fig_fy_26_featured_2bg8kmser8.jpg",
+          "kind": "official",
+          "language": "en",
+          "name": "스웨덴 왕립과학원",
+          "publishedAt": null,
+          "title": "The Nobel Prize in Physics 2026: Elusive particles from the universe captured at the South Pole",
+          "url": "https://www.kva.se/en/news/the-nobel-prize-in-physics-2026/",
+          "verificationNote": "10월6일 공식 발표 원문을 직접 열어 수상자·선정 이유·관측 원리를 확인했습니다. 수정19:04:12 KST는 확인됐지만 최초 게시 시각은 미표시입니다.",
+          "verifiedAt": "2026-10-06T21:09:10+09:00"
+        },
+        {
+          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-06T19:24:00+09:00",
+          "title": "노벨물리학상 '뉴트리노 관측' 프란시스 할전 단독수상",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610061924228499",
+          "verifiedAt": "2026-10-06T21:09:10+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "오늘 스웨덴 왕립과학원이 물리학상 수상자와 선정 이유를 발표했습니다. 아침의 발표 일정에서 실제 선정 결과로 바뀌었습니다.",
-      "title": "노벨 물리학상, 프란시스 할젠 단독 수상…남극 얼음으로 우주를 읽다",
-      "category": "국제·과학",
       "status": "확정",
+      "storyId": "nobel-physics-halzen-2026",
       "summary": [
         "올해 노벨 물리학상 수상자로 프란시스 할젠 미국 위스콘신대 매디슨 교수가 선정됐습니다. 남극의 아이스큐브 관측소와 우주에서 온 고에너지 중성미자 발견에 기여한 공로로 단독 수상합니다.",
         "중성미자는 물질과 좀처럼 부딪치지 않아 관측하기 어려운 입자입니다. 아이스큐브는 남극 얼음 1세제곱킬로미터에 설치한 광센서로 드물게 발생하는 충돌의 빛을 포착합니다.",
@@ -29,54 +70,13 @@
         "이 입자는 멀리서 오는 동안 방향 정보를 보존할 수 있어 강한 에너지를 내는 천체를 추적하는 단서가 됩니다. 빛을 보는 망원경만으로 알기 어려운 우주 현상을 다른 방식으로 살펴볼 수 있다는 의미입니다.",
         "아침에는 발표 예정이었던 수상자가 저녁에는 확정됐습니다. 다만 이번 수상 자체가 모든 우주 고에너지 현상의 원인을 규명했다는 뜻은 아니며, 화학상은 한국시간 내일 18시 45분 이후 별도로 발표될 예정입니다."
       ],
-      "keyFacts": {
-        "award": "2026 Nobel Prize in Physics",
-        "laureate": "Francis Halzen, University of Wisconsin–Madison",
-        "recipientCount": "1명",
-        "contribution": "IceCube 관측소와 천체 기원 고에너지 중성미자 발견 기여",
-        "iceVolume": "1세제곱킬로미터",
-        "observatoryCompleted": "2011년"
-      },
-      "uncertainty": "수상은 확정됐지만 개별 우주 현상의 기원을 모두 설명했다는 뜻은 아닙니다. 정확한 발표 개시 시각은 사건 시각으로 추정하지 않습니다.",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "title": "[노벨상 2026] 불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)",
-          "url": "https://www.dongascience.com/ko/news/80214",
-          "publishedAt": "2026-10-06T19:56:02+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:09:10+09:00",
-          "imageUrl": "https://image.dongascience.com/Photo/2026/10/17912813585295.png"
-        },
-        {
-          "name": "스웨덴 왕립과학원",
-          "title": "The Nobel Prize in Physics 2026: Elusive particles from the universe captured at the South Pole",
-          "url": "https://www.kva.se/en/news/the-nobel-prize-in-physics-2026/",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "en",
-          "verifiedAt": "2026-10-06T21:09:10+09:00",
-          "imageUrl": "https://www.kva.se/app/uploads/2026/10/fig_fy_26_featured_2bg8kmser8.jpg",
-          "verificationNote": "10월6일 공식 발표 원문을 직접 열어 수상자·선정 이유·관측 원리를 확인했습니다. 수정19:04:12 KST는 확인됐지만 최초 게시 시각은 미표시입니다."
-        },
-        {
-          "name": "YTN",
-          "title": "노벨물리학상 '뉴트리노 관측' 프란시스 할전 단독수상",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610061924228499",
-          "publishedAt": "2026-10-06T19:24:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:09:10+09:00",
-          "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-06/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "노벨 물리학상, 프란시스 할젠 단독 수상…남극 얼음으로 우주를 읽다",
+      "uncertainty": "수상은 확정됐지만 개별 우주 현상의 기원을 모두 설명했다는 뜻은 아닙니다. 정확한 발표 개시 시각은 사건 시각으로 추정하지 않습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "nobel-physics-2026",
+  "schemaVersion": 1,
+  "title": "2026년 노벨 물리학상과 아이스큐브 중성미자 관측",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

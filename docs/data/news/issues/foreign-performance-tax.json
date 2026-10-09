@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "foreign-performance-tax",
-  "title": "해외 아티스트 국내 공연 세금 추징",
   "entries": [
     {
-      "id": "2026-09-17-am-archive/archive-07",
-      "editionId": "2026-09-17-am-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-17",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 85,
+        "lineStart": 85,
+        "ordinal": 7,
+        "originalText": "해외 아티스트 국내공연 세금 55.6억원 추징.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-17/am.json",
+      "category": "경제·정책",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 해외 아티스트 국내공연 세금 55.6억원 추징.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-17",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-17",
+      "editionId": "2026-09-17-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 해외 아티스트 국내공연 세금 55.6억원 추징.",
-      "title": "해외 아티스트 국내공연 세금 55.6억원 추징",
-      "category": "경제·정책",
-      "status": "과거 기록",
-      "summary": [
-        "해외 아티스트 국내공연 세금 55.6억원 추징."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-17-am-archive/archive-07",
       "keyFacts": {
         "originalRecord": "해외 아티스트 국내공연 세금 55.6억원 추징."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-17/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "해외 아티스트 국내공연 세금 55.6억원 추징."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "해외 아티스트 국내공연 세금 55.6억원 추징.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 85,
-        "lineEnd": 85,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "해외 아티스트 국내공연 세금 55.6억원 추징",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "foreign-performance-tax",
+  "schemaVersion": 1,
+  "title": "해외 아티스트 국내 공연 세금 추징",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

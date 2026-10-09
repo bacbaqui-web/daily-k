@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "openai-devday-agents-2026",
-  "title": "OpenAI DevDay와 상시 에이전트 보도",
   "entries": [
     {
-      "id": "2026-09-29-pm-archive/archive-06",
-      "editionId": "2026-09-29-pm-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-29",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 368,
+        "lineStart": 368,
+        "ordinal": 6,
+        "originalText": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-29/pm.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-29",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-29",
+      "editionId": "2026-09-29-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사.",
-      "title": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-29-pm-archive/archive-06",
       "keyFacts": {
         "originalRecord": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-29/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 368,
-        "lineEnd": 368,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-30-am-archive/archive-06",
-      "editionId": "2026-09-30-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-30",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 381,
+        "lineStart": 381,
+        "ordinal": 6,
+        "originalText": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-30/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-30",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-30",
+      "editionId": "2026-09-30-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
-      "title": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-30-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-30/am.json",
       "previous": {
         "editionId": "2026-09-29-pm-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 381,
-        "lineEnd": 381,
-        "previousCoverage": {
-          "date": "2026-09-29",
-          "edition": "pm",
-          "storyId": "archive-06",
-          "title": "OpenAI DevDay 예정, 상시 작동 AI 비서가 관심사",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "오픈AI 상시 작동형 에이전트 '닷츠' 공개 보도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "openai-devday-agents-2026",
+  "schemaVersion": 1,
+  "title": "OpenAI DevDay와 상시 에이전트 보도",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

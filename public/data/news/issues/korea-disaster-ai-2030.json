@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-disaster-ai-2030",
-  "title": "재난안전 AI 사업",
   "entries": [
     {
-      "id": "2026-09-27-pm-archive/archive-05",
-      "editionId": "2026-09-27-pm-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-27",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 320,
+        "lineStart": 320,
+        "ordinal": 5,
+        "originalText": "재난안전 AI 2030년까지 50개 사업·9,400억원.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-27/pm.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 재난안전 AI 2030년까지 50개 사업·9,400억원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-27",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-27",
+      "editionId": "2026-09-27-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 재난안전 AI 2030년까지 50개 사업·9,400억원.",
-      "title": "재난안전 AI 2030년까지 50개 사업·9,400억원",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "재난안전 AI 2030년까지 50개 사업·9,400억원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-27-pm-archive/archive-05",
       "keyFacts": {
         "originalRecord": "재난안전 AI 2030년까지 50개 사업·9,400억원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-27/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "재난안전 AI 2030년까지 50개 사업·9,400억원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "재난안전 AI 2030년까지 50개 사업·9,400억원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 320,
-        "lineEnd": 320,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "재난안전 AI 2030년까지 50개 사업·9,400억원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-disaster-ai-2030",
+  "schemaVersion": 1,
+  "title": "재난안전 AI 사업",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

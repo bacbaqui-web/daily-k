@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "yoon-perjury-appeal",
-  "title": "윤석열 전 대통령 위증 혐의 항소심",
   "entries": [
     {
-      "id": "2026-09-16-pm-archive/archive-02",
-      "editionId": "2026-09-16-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-16",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 69,
+        "lineStart": 69,
+        "ordinal": 2,
+        "originalText": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-16/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-16",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-16",
+      "editionId": "2026-09-16-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
-      "title": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-16-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-16/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 69,
-        "lineEnd": 69,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "윤석열 전 대통령 한덕수 재판 위증 혐의 항소심 무죄",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "yoon-perjury-appeal",
+  "schemaVersion": 1,
+  "title": "윤석열 전 대통령 위증 혐의 항소심",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

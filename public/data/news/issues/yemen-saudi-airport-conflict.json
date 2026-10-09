@@ -1,82 +1,82 @@
 {
-  "schemaVersion": 1,
-  "id": "yemen-saudi-airport-conflict",
-  "title": "예멘·사우디 교전과 민간공항 피해",
   "entries": [
     {
-      "id": "2026-10-08-am/saudi-airport-casualties-2026-10-07",
-      "editionId": "2026-10-08-am",
-      "storyId": "saudi-airport-casualties-2026-10-07",
-      "editionDate": "2026-10-08",
-      "edition": "am",
+      "briefingPath": "2026-10-08/am.json",
+      "category": "국제·안보",
+      "change": "현지 10월 7일 사우디 항공청이 두 공항의 사망 3명·부상 36명을 발표했습니다. 후티의 공격 주장과 별도로 당국은 공격주체·수단을 명시하지 않았습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T08:41:30+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T04:29:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-am",
       "eventAt": null,
       "eventDate": "2026-10-07",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Riyadh",
       "eventTimeNote": "eventDate는 사우디 민간항공청 성명 발표일인 현지 10월 7일입니다. 성명은 6~7일 공격 피해를 집계하며 공항별 피격시각은 미공개입니다.",
+      "eventTimezone": "Asia/Riyadh",
+      "followUp": null,
+      "id": "2026-10-08-am/saudi-airport-casualties-2026-10-07",
+      "keyFacts": {
+        "airports": "리야드 킹칼리드·아브하 국제공항",
+        "attackClaim": "후티의 리야드 공항 공격 주장",
+        "deaths": "3명",
+        "injured": "36명",
+        "officialAttribution": "사우디 민간항공청은 공격주체·수단 미명시"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T04:29:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-08T04:29:00+09:00",
+          "title": "사우디 \"리야드·아브하 공항서 3명 사망\"...후티 공습 주장",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610080429484106",
+          "verificationNote": "한국어 본문·시각 확인. 사우디 민간항공청 피해 발표와 후티의 공격 주장을 구분하고 공격 주체·수단 미명시를 반영했습니다.",
+          "verifiedAt": "2026-10-08T08:32:39+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-08T03:46:00+09:00",
+          "title": "후티 반군, 사우디 공항 2곳 공격…최소 3명 사망",
+          "url": "https://www.fnnews.com/news/202610080335175430",
+          "verificationNote": "본문과 입력 03:46·수정 03:57 확인. 성명은 현지 6~7일 공격을 집계하며 공항별 피격시각 미공개. 제목의 공격주체 단정을 따르지 않고 YTN의 공식 성명 범위를 적용했습니다.",
+          "verifiedAt": "2026-10-08T08:32:39+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-08T06:05:00+09:00",
+          "title": "미·이란 '핵 농축' 평행선...후티 공습에 사우디 3명 사망",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610080605364037",
+          "verificationNote": "후속 한국어 본문에서 피해 3명·36명과 공격주체 미명시 재확인. 첫 YTN 기사와 독립 출처로 세지 않았습니다.",
+          "verifiedAt": "2026-10-08T08:32:13+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "현지 10월 7일 사우디 항공청이 두 공항의 사망 3명·부상 36명을 발표했습니다. 후티의 공격 주장과 별도로 당국은 공격주체·수단을 명시하지 않았습니다.",
-      "title": "사우디, 공항 두 곳 피격에 3명 사망 발표…후티는 공격 주장",
-      "category": "국제·안보",
       "status": "보도",
+      "storyId": "saudi-airport-casualties-2026-10-07",
       "summary": [
         "사우디 민간항공청은 리야드 킹칼리드·아브하 국제공항이 공격받아 3명이 숨지고 36명이 다쳤다고 발표했습니다. 후티는 공항 공격을 주장했지만, 사우디 항공청 성명은 공격 주체와 무기를 특정하지 않았습니다.",
         "당국 집계상 아브하 공항에서는 2명이 숨지고 28명이 다쳤으며, 킹칼리드 공항에서는 1명이 숨지고 8명이 다쳤습니다. 현지 6~7일 공격에 대한 발표로, 각 공항이 피해를 본 정확한 시각은 공개되지 않았습니다.",
         "예멘 정부군과 사우디 주도 연합군이 지난 4일 후티 장악 지역 탈환 공세에 나선 뒤 후티는 사우디 공항과 정유시설을 공격했다고 잇달아 주장했습니다. 이번에는 민간공항 피해와 사상자가 사우디 당국 발표로 구체화됐다는 점이 새로 확인됐습니다.",
         "항공청은 관계기관과 시설 안전을 확인하고 승객 보호와 운항 안전을 위한 조치를 취하고 있다고 밝혔습니다. 실제 운항 정상화 범위와 추가 피해, 공격에 관한 상충하는 주장은 후속 확인이 필요합니다."
       ],
-      "keyFacts": {
-        "airports": "리야드 킹칼리드·아브하 국제공항",
-        "deaths": "3명",
-        "injured": "36명",
-        "officialAttribution": "사우디 민간항공청은 공격주체·수단 미명시",
-        "attackClaim": "후티의 리야드 공항 공격 주장"
-      },
-      "uncertainty": "사상자는 발표 시점 집계입니다. 가해 주체·무기·공항별 정확한 피격시각과 실제 정상운항 범위는 확인되지 않았습니다.",
-      "sources": [
-        {
-          "name": "YTN",
-          "title": "사우디 \"리야드·아브하 공항서 3명 사망\"...후티 공습 주장",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610080429484106",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T04:29:00+09:00",
-          "verifiedAt": "2026-10-08T08:32:39+09:00",
-          "imageUrl": null,
-          "verificationNote": "한국어 본문·시각 확인. 사우디 민간항공청 피해 발표와 후티의 공격 주장을 구분하고 공격 주체·수단 미명시를 반영했습니다."
-        },
-        {
-          "name": "파이낸셜뉴스",
-          "title": "후티 반군, 사우디 공항 2곳 공격…최소 3명 사망",
-          "url": "https://www.fnnews.com/news/202610080335175430",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T03:46:00+09:00",
-          "verifiedAt": "2026-10-08T08:32:39+09:00",
-          "imageUrl": null,
-          "verificationNote": "본문과 입력 03:46·수정 03:57 확인. 성명은 현지 6~7일 공격을 집계하며 공항별 피격시각 미공개. 제목의 공격주체 단정을 따르지 않고 YTN의 공식 성명 범위를 적용했습니다."
-        },
-        {
-          "name": "YTN",
-          "title": "미·이란 '핵 농축' 평행선...후티 공습에 사우디 3명 사망",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610080605364037",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T06:05:00+09:00",
-          "verifiedAt": "2026-10-08T08:32:13+09:00",
-          "imageUrl": null,
-          "verificationNote": "후속 한국어 본문에서 피해 3명·36명과 공격주체 미명시 재확인. 첫 YTN 기사와 독립 출처로 세지 않았습니다."
-        }
-      ],
-      "briefingPath": "2026-10-08/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "사우디, 공항 두 곳 피격에 3명 사망 발표…후티는 공격 주장",
+      "uncertainty": "사상자는 발표 시점 집계입니다. 가해 주체·무기·공항별 정확한 피격시각과 실제 정상운항 범위는 확인되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "yemen-saudi-airport-conflict",
+  "schemaVersion": 1,
+  "title": "예멘·사우디 교전과 민간공항 피해",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

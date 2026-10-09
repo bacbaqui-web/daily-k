@@ -1,82 +1,82 @@
 {
-  "schemaVersion": 1,
-  "id": "nobel-literature-2026",
-  "title": "2026년 노벨 문학상",
   "entries": [
     {
-      "id": "2026-10-09-am/nobel-literature-carson-2026",
-      "editionId": "2026-10-09-am",
-      "storyId": "nobel-literature-carson-2026",
-      "editionDate": "2026-10-09",
-      "edition": "am",
+      "briefingPath": "2026-10-09/am.json",
+      "category": "문화·출판",
+      "change": "노벨 문학상 수상자가 앤 카슨으로 확정됐습니다. 고전과 현대·문학 장르를 잇는 작품세계가 선정 이유로 제시됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-09T08:40:57+09:00",
       "coveredOn": "2026-10-09",
-      "publishedAt": "2026-10-09T06:38:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-09",
+      "editionId": "2026-10-09-am",
       "eventAt": null,
       "eventDate": "2026-10-08",
       "eventEndDate": null,
-      "eventTimezone": "Europe/Stockholm",
       "eventTimeNote": "실제 사건일은 2026-10-08(Europe/Stockholm)로 확인했으나 정확한 시각은 확인하지 못했습니다. 기사 시각과 사건 시각을 구분합니다.",
+      "eventTimezone": "Europe/Stockholm",
+      "followUp": null,
+      "id": "2026-10-09-am/nobel-literature-carson-2026",
+      "keyFacts": {
+        "announcementDate": "2026-10-08 스웨덴 현지",
+        "award": "2026년 노벨 문학상",
+        "representativeWork": "빨강의 자서전",
+        "winner": "앤 카슨"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-09T06:38:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-09T06:38:00+09:00",
+          "title": "노벨문학상에 캐나다 시인 앤 카슨...\"시대·장르 허문 문학세계\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610090638000936",
+          "verificationNote": "기사 본문과 06:38 표시 확인. 수상자·선정 취지·빨강의 자서전 형식을 SBS와 대조했습니다.",
+          "verifiedAt": "2026-10-09T08:33:52+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-08T21:39:00+09:00",
+          "title": "노벨문학상, 캐나다 시인 앤 카슨…\"단어에 대한 집요한 관심\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789860",
+          "verificationNote": "본문에서 수상자, 대표작, 2001년 T.S.엘리엇상 수상 확인. 평론은 한림원 평가로 귀속합니다.",
+          "verifiedAt": "2026-10-09T08:34:53+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-08T20:32:03+09:00",
+          "title": "캐나다 시인·수필가 앤 카슨, 노벨 문학상 수상(3보)",
+          "updatedAt": "2026-10-08T20:34:39+09:00",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819886",
+          "verificationNote": "본문 및 등록·수정 시각 확인. 일부 작품 제목 오자는 채택하지 않고 SBS·YTN 표기와 대조했습니다.",
+          "verifiedAt": "2026-10-09T08:35:40+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "노벨 문학상 수상자가 앤 카슨으로 확정됐습니다. 고전과 현대·문학 장르를 잇는 작품세계가 선정 이유로 제시됐습니다.",
-      "title": "노벨 문학상 앤 카슨…고전과 현대, 시와 산문의 경계를 넓힌 작가",
-      "category": "문화·출판",
       "status": "확정",
+      "storyId": "nobel-literature-carson-2026",
       "summary": [
         "캐나다 시인·고전학자 앤 카슨이 2026년 노벨 문학상 수상자로 선정됐습니다. 스웨덴 한림원이 현지 8일 발표한 결과로, 수상자 예측이 실제 결정으로 바뀌었습니다.",
         "한림원은 카슨이 고전 전통을 새롭게 읽으며 현대 문학의 형식을 확장했다고 평가했습니다. 시, 소설, 에세이와 번역을 넘나드는 방식이 그의 작품을 이해하는 핵심입니다.",
         "대표작 빨강의 자서전은 고대 그리스 게리온 신화를 현대의 성장과 사랑 이야기로 바꾼 작품입니다. 운문으로 쓰였지만 서사를 이어 가는 소설이기도 해, 장르가 섞이는 특징을 살펴볼 수 있습니다.",
         "카슨은 남편의 아름다움으로 2001년 여성 최초 T.S. 엘리엇상도 받았습니다. 이번 선정이 국내 출판시장에 미친 영향은 이후 판매·출간 자료로 확인할 부분입니다."
       ],
-      "keyFacts": {
-        "award": "2026년 노벨 문학상",
-        "winner": "앤 카슨",
-        "announcementDate": "2026-10-08 스웨덴 현지",
-        "representativeWork": "빨강의 자서전"
-      },
-      "uncertainty": "수상 사실은 확정이며 국내 판매·번역 출간 효과는 아직 집계되지 않았습니다.",
-      "sources": [
-        {
-          "name": "YTN",
-          "title": "노벨문학상에 캐나다 시인 앤 카슨...\"시대·장르 허문 문학세계\"",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610090638000936",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-09T06:38:00+09:00",
-          "verifiedAt": "2026-10-09T08:33:52+09:00",
-          "imageUrl": null,
-          "verificationNote": "기사 본문과 06:38 표시 확인. 수상자·선정 취지·빨강의 자서전 형식을 SBS와 대조했습니다."
-        },
-        {
-          "name": "SBS",
-          "title": "노벨문학상, 캐나다 시인 앤 카슨…\"단어에 대한 집요한 관심\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789860",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T21:39:00+09:00",
-          "verifiedAt": "2026-10-09T08:34:53+09:00",
-          "imageUrl": null,
-          "verificationNote": "본문에서 수상자, 대표작, 2001년 T.S.엘리엇상 수상 확인. 평론은 한림원 평가로 귀속합니다."
-        },
-        {
-          "name": "뉴시스",
-          "title": "캐나다 시인·수필가 앤 카슨, 노벨 문학상 수상(3보)",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819886",
-          "language": "ko",
-          "kind": "wire",
-          "publishedAt": "2026-10-08T20:32:03+09:00",
-          "verifiedAt": "2026-10-09T08:35:40+09:00",
-          "imageUrl": null,
-          "verificationNote": "본문 및 등록·수정 시각 확인. 일부 작품 제목 오자는 채택하지 않고 SBS·YTN 표기와 대조했습니다.",
-          "updatedAt": "2026-10-08T20:34:39+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-09/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "노벨 문학상 앤 카슨…고전과 현대, 시와 산문의 경계를 넓힌 작가",
+      "uncertainty": "수상 사실은 확정이며 국내 판매·번역 출간 효과는 아직 집계되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "nobel-literature-2026",
+  "schemaVersion": 1,
+  "title": "2026년 노벨 문학상",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

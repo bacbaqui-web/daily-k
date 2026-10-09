@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "hynix-intel-us-memory",
-  "title": "SK하이닉스·인텔 미국 메모리 협상 보도",
   "entries": [
     {
-      "id": "2026-09-16-pm-archive/archive-04",
-      "editionId": "2026-09-16-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-16",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 71,
+        "lineStart": 71,
+        "ordinal": 4,
+        "originalText": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-16/pm.json",
+      "category": "반도체",
+      "change": "과거 브리핑에 남아 있는 기록입니다: SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-16",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-16",
+      "editionId": "2026-09-16-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
-      "title": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도",
-      "category": "반도체",
-      "status": "과거 기록",
-      "summary": [
-        "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-16-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-16/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 71,
-        "lineEnd": 71,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "SK하이닉스, 인텔과 미국 메모리 생산 협상 보도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "hynix-intel-us-memory",
+  "schemaVersion": 1,
+  "title": "SK하이닉스·인텔 미국 메모리 협상 보도",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

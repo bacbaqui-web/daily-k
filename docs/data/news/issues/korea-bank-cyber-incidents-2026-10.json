@@ -1,27 +1,67 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-bank-cyber-incidents-2026-10",
-  "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
   "entries": [
     {
-      "id": "2026-10-02-pm/korea-bank-breaches-2026-10-02",
-      "editionId": "2026-10-02-pm",
-      "storyId": "korea-bank-breaches-2026-10-02",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "금융·보안",
+      "change": "오늘 추가 유출 사례가 확인됐고, 15시 긴급회의에서 금융권 전체의 시스템 점검과 위협정보 공동 대응을 지시했습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T18:38:04+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": null,
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 2일 추가 피해 보도와 같은 날 15시 금융위 회의를 다룹니다. 최초 신한은행 사고는 9월 30일입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-02-pm/korea-bank-breaches-2026-10-02",
+      "keyFacts": {
+        "busanContractStaff": "11명",
+        "hanaCustomers": "89명",
+        "kbCustomers": "119명",
+        "response": "외부 노출 시스템 전반 보안점검 지시",
+        "shinhanCustomers": "약 25000명"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-02T18:38:04+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021470648_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T18:38:04+09:00",
+          "title": "은행권 해킹에…금융당국, 공격 IP 공유해 全금융권 자체점검(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003813185",
+          "verificationNote": "본문 등록 시각 사용. 19:51:29 수정본도 21시 기준 이전입니다.",
+          "verifiedAt": "2026-10-02T21:13:56+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "금융위원회",
+          "publishedAt": null,
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "verificationNote": "10월 2일 게시. 정확한 게시 시각은 미표시이며 회의 시각은 15시입니다.",
+          "verifiedAt": "2026-10-02T21:13:56+09:00"
+        },
+        {
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/552786-gygG85f/20261002170703859ttve.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "이투데이",
+          "publishedAt": "2026-10-02T17:07:03+09:00",
+          "title": "신한 이어 국민銀도 뚫렸다⋯금융위 “외부 노출 시스템 전면 보안점검”",
+          "url": "https://v.daum.net/v/20261002170703666",
+          "verifiedAt": "2026-10-02T21:13:56+09:00"
+        }
+      ],
       "stage": "후속",
-      "change": "오늘 추가 유출 사례가 확인됐고, 15시 긴급회의에서 금융권 전체의 시스템 점검과 위협정보 공동 대응을 지시했습니다.",
-      "title": "은행권 정보유출 확대…금융위, 외부 노출 시스템 전면 점검 지시",
-      "category": "금융·보안",
       "status": "보도",
+      "storyId": "korea-bank-breaches-2026-10-02",
       "summary": [
         "신한·KB국민은행에 이어 하나은행과 BNK부산은행에서도 정보유출이 확인됐습니다. 금융위원회는 2일 오후 긴급회의를 열고 금융권 공동 점검을 지시했습니다.",
         "뉴시스가 취합한 은행별 발표에 따르면 신한은행은 고객 약 2만5천 명, KB국민은행은 119명, 하나은행은 89명의 정보가 유출됐습니다. 부산은행의 11명은 고객이 아니라 외주 개발직원으로, 서로 다른 피해 범주를 합산해 고객 피해 총수로 볼 수는 없습니다.",
@@ -29,72 +69,83 @@
         "당국은 고객용 서비스뿐 아니라 외부에서 접근 가능한 전산시스템 전체의 인증·접근통제를 점검하도록 했습니다. 한 은행에서 확인한 공격 정보를 다른 금융회사와 공유하는 방식으로 대응 범위를 넓힌 것입니다.",
         "이번 사건은 금융 앱의 겉모습보다 내부 정보를 조회하는 경로까지 보호되는지가 중요하다는 점을 보여줍니다. 최종 피해 규모와 공격 주체·수법은 조사 중이며, 금융위는 피해보상 등 소비자 보호 이행도 감독하겠다고 밝혔습니다."
       ],
-      "keyFacts": {
-        "shinhanCustomers": "약 25000명",
-        "kbCustomers": "119명",
-        "hanaCustomers": "89명",
-        "busanContractStaff": "11명",
-        "response": "외부 노출 시스템 전반 보안점검 지시"
-      },
-      "uncertainty": "피해 인원은 보도 시점의 은행별 집계입니다. 최종 조사 결과와 공격 주체는 확정되지 않았습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "은행권 해킹에…금융당국, 공격 IP 공유해 全금융권 자체점검(종합)",
-          "url": "https://www.newsis.com/view/NISX20261002_0003813185",
-          "publishedAt": "2026-10-02T18:38:04+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:56+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021470648_web.jpg",
-          "verificationNote": "본문 등록 시각 사용. 19:51:29 수정본도 21시 기준 이전입니다."
-        },
-        {
-          "name": "금융위원회",
-          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
-          "url": "https://www.fsc.go.kr/no010101/87869",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:56+09:00",
-          "verificationNote": "10월 2일 게시. 정확한 게시 시각은 미표시이며 회의 시각은 15시입니다."
-        },
-        {
-          "name": "이투데이",
-          "title": "신한 이어 국민銀도 뚫렸다⋯금융위 “외부 노출 시스템 전면 보안점검”",
-          "url": "https://v.daum.net/v/20261002170703666",
-          "publishedAt": "2026-10-02T17:07:03+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:56+09:00",
-          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/552786-gygG85f/20261002170703859ttve.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "은행권 정보유출 확대…금융위, 외부 노출 시스템 전면 점검 지시",
+      "uncertainty": "피해 인원은 보도 시점의 은행별 집계입니다. 최종 조사 결과와 공격 주체는 확정되지 않았습니다."
     },
     {
-      "id": "2026-10-03-pm/korea-bank-breaches-2026-10-03",
-      "editionId": "2026-10-03-pm",
-      "storyId": "korea-bank-breaches-2026-10-03",
-      "editionDate": "2026-10-03",
-      "edition": "pm",
+      "briefingPath": "2026-10-03/pm.json",
+      "category": "금융·보안",
+      "change": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-03T21:19:55+09:00",
       "coveredOn": "2026-10-03",
-      "publishedAt": "2026-10-03T19:56:25+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-03",
+      "editionId": "2026-10-03-pm",
       "eventAt": null,
       "eventDate": "2026-10-03",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 3일 현대캐피탈의 당국 신고와 추가 피해 설명을 중심으로 다룹니다. 예가람 이상 접근 확인은 9월 30일, 사과문은 10월 2일이며 현대캐피탈 공격 확인도 10월 2일입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다.",
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-bank-breaches-2026-10-02"
+      },
+      "id": "2026-10-03-pm/korea-bank-breaches-2026-10-03",
+      "keyFacts": {
+        "aiAttribution": "미확정",
+        "busanContractStaff": "11명",
+        "hanaCustomers": "89명",
+        "hyundaiCapitalLoanAgents": "146명",
+        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
+        "kbCustomers": "119명",
+        "response": "외부 노출 시스템 전반 보안점검 지시",
+        "shinhanCustomers": "약 25000명",
+        "yegaramCustomers": "약 40000명 추정"
+      },
+      "previous": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-bank-breaches-2026-10-02"
+      },
+      "publishedAt": "2026-10-03T19:56:25+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207209_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-03T19:56:25+09:00",
+          "title": "AI 해킹에 비상 걸린 韓금융…은행 이어 현대캐피탈·예가람저축은행도 뚫렸다",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813692",
+          "verificationNote": "본문 등록 시각을 사용했습니다. 20:30:49 수정본까지 21시 기준 이전입니다. AI 사용과 공격 주체는 추정으로만 취급합니다.",
+          "verifiedAt": "2026-10-03T21:13:21+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-03T16:25:00+09:00",
+          "title": "예가람저축은행, 해킹 피해로 고객정보 유출...4만명대 추정",
+          "url": "https://www.fnnews.com/news/202610031609525119",
+          "verificationNote": "웹 열기로 기사 전문을 확인했습니다. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않습니다.",
+          "verifiedAt": "2026-10-03T21:13:21+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "금융위원회",
+          "publishedAt": null,
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "verificationNote": "10월 2일 공식 자료를 이번 실행에서 다시 확인했습니다. 전날 15시 회의는 배경이며 새로운 회의로 서술하지 않습니다. 정확한 게시 시각은 미표시입니다.",
+          "verifiedAt": "2026-10-03T21:13:21+09:00"
+        }
+      ],
       "stage": "후속",
-      "change": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다.",
-      "title": "금융권 유출, 저축은행·캐피탈로 확대…고객과 모집인 피해 구분해야",
-      "category": "금융·보안",
       "status": "보도",
+      "storyId": "korea-bank-breaches-2026-10-03",
       "summary": [
         "금융권 정보유출 피해가 시중은행을 넘어 예가람저축은행과 현대캐피탈에서도 확인됐습니다. 예가람은 고객 약 4만 명의 정보 유출을 추정했고, 현대캐피탈은 주택대출 모집인 146명의 정보가 유출됐다고 밝혔습니다.",
         "예가람이 이상 접근을 확인한 때는 9월 30일이며 사과문은 10월 2일 게시됐습니다. 이름·생년월일·연락처 등이 대상이고, 약 4만 명이라는 규모는 조사 중인 추정치입니다.",
@@ -102,231 +153,230 @@
         "어제 저녁에는 시중은행 피해와 금융위의 전면 점검 지시까지 다뤘는데, 오늘은 제2금융권의 추가 피해 범위가 드러났습니다. 외부 공개용 조회 페이지에서 내부 개인정보가 함께 노출됐다는 점은 금융 앱뿐 아니라 연결된 업무 화면도 점검해야 한다는 의미입니다.",
         "금융위는 어제 회의에서 외부 접근 시스템 점검과 공격정보 공유를 주문했습니다. 공격 주체와 AI 도구 사용 여부는 아직 확정되지 않았고, 예가람 측은 현재까지 AI 침투 흔적을 발견하지 못했다고 설명했습니다."
       ],
-      "keyFacts": {
-        "shinhanCustomers": "약 25000명",
-        "kbCustomers": "119명",
-        "hanaCustomers": "89명",
-        "busanContractStaff": "11명",
-        "response": "외부 노출 시스템 전반 보안점검 지시",
-        "yegaramCustomers": "약 40000명 추정",
-        "hyundaiCapitalLoanAgents": "146명",
-        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
-        "aiAttribution": "미확정"
-      },
-      "uncertainty": "예가람 피해 규모는 추정입니다. 현대캐피탈의 고객정보 미유출은 회사 설명이며, 공격 주체·AI 활용·최종 피해 범위는 조사 결과를 기다려야 합니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "AI 해킹에 비상 걸린 韓금융…은행 이어 현대캐피탈·예가람저축은행도 뚫렸다",
-          "url": "https://www.newsis.com/view/NISX20261003_0003813692",
-          "publishedAt": "2026-10-03T19:56:25+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:21+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207209_web.jpg",
-          "verificationNote": "본문 등록 시각을 사용했습니다. 20:30:49 수정본까지 21시 기준 이전입니다. AI 사용과 공격 주체는 추정으로만 취급합니다."
-        },
-        {
-          "name": "파이낸셜뉴스",
-          "title": "예가람저축은행, 해킹 피해로 고객정보 유출...4만명대 추정",
-          "url": "https://www.fnnews.com/news/202610031609525119",
-          "publishedAt": "2026-10-03T16:25:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:21+09:00",
-          "verificationNote": "웹 열기로 기사 전문을 확인했습니다. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않습니다."
-        },
-        {
-          "name": "금융위원회",
-          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
-          "url": "https://www.fsc.go.kr/no010101/87869",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:21+09:00",
-          "verificationNote": "10월 2일 공식 자료를 이번 실행에서 다시 확인했습니다. 전날 15시 회의는 배경이며 새로운 회의로 서술하지 않습니다. 정확한 게시 시각은 미표시입니다."
-        }
-      ],
-      "briefingPath": "2026-10-03/pm.json",
-      "previous": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "korea-bank-breaches-2026-10-02"
-      },
-      "followUp": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "korea-bank-breaches-2026-10-02",
-        "delta": "10월 2일 저녁의 시중은행 피해 집계 이후 예가람저축은행 고객 약 4만 명 추정과 현대캐피탈 모집인 146명의 정보유출이 새로 보도됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "금융권 유출, 저축은행·캐피탈로 확대…고객과 모집인 피해 구분해야",
+      "uncertainty": "예가람 피해 규모는 추정입니다. 현대캐피탈의 고객정보 미유출은 회사 설명이며, 공격 주체·AI 활용·최종 피해 범위는 조사 결과를 기다려야 합니다."
     },
     {
-      "id": "2026-10-04-am/bank-ceo-emergency-meeting-2026-10-04",
-      "editionId": "2026-10-04-am",
-      "storyId": "bank-ceo-emergency-meeting-2026-10-04",
-      "editionDate": "2026-10-04",
-      "edition": "am",
+      "briefingPath": "2026-10-04/am.json",
+      "category": "금융·보안",
+      "change": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-04T09:20:00+09:00",
       "coveredOn": "2026-10-04",
-      "publishedAt": "2026-10-03T21:15:42+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-04",
+      "editionId": "2026-10-04-am",
       "eventAt": null,
       "eventDate": "2026-10-04",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "보도상 회의 예정은 한국시간 10월 4일 오후입니다. 시·분은 공개되지 않아 eventAt은 비워 둡니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다.",
+        "editionId": "2026-10-03-pm",
+        "storyId": "korea-bank-breaches-2026-10-03"
+      },
+      "id": "2026-10-04-am/bank-ceo-emergency-meeting-2026-10-04",
+      "keyFacts": {
+        "aiAttribution": "미확정",
+        "busanContractStaff": "11명",
+        "hanaCustomers": "89명",
+        "hyundaiCapitalLoanAgents": "146명",
+        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
+        "kbCustomers": "119명",
+        "meetingResult": "아직 미확인",
+        "nextMeetingDate": "2026-10-04 오후, 정확한 시각 미확인",
+        "nextMeetingScope": "전 금융권 CEO·업권별 협회장 소집 보도",
+        "response": "외부 노출 시스템 전반 보안점검 지시",
+        "shinhanCustomers": "약 25000명",
+        "yegaramCustomers": "약 40000명 추정"
+      },
+      "previous": {
+        "editionId": "2026-10-03-pm",
+        "storyId": "korea-bank-breaches-2026-10-03"
+      },
+      "publishedAt": "2026-10-03T21:15:42+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/03/10/NISI20260310_0021203191_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-03T21:15:42+09:00",
+          "title": "은행·2금융권 줄줄이 'AI 해킹'에…당국, 내일 全금융사 CEO 긴급대응 회의",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813711",
+          "verificationNote": "어제 저녁 기준 이후의 새 기사입니다. 수정 21:22:10. 회의 소집은 금융권 인용 보도이며 아직 회의 결과가 아닙니다.",
+          "verifiedAt": "2026-10-04T09:12:55+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "금융위원회",
+          "publishedAt": null,
+          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
+          "url": "https://www.fsc.go.kr/no010101/87869",
+          "verificationNote": "10월 2일 15시 회의의 공식 자료를 다시 확인했습니다. 보안점검 배경을 뒷받침하며 10월 4일 회의 소집 자체의 공식 확인 자료로 쓰지 않습니다.",
+          "verifiedAt": "2026-10-04T09:14:10+09:00"
+        }
+      ],
       "stage": "예정",
-      "change": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다.",
-      "title": "금융권 해킹 대응, 오늘 오후 전체 업권 CEO 긴급회의 보도",
-      "category": "금융·보안",
       "status": "예정",
+      "storyId": "bank-ceo-emergency-meeting-2026-10-04",
       "summary": [
         "금융위·금감원이 오늘 오후 전 금융권 경영진과 협회장을 소집해 보안 대응을 점검한다는 보도가 나왔습니다. 어제 저녁 9시 이후 전해진 새 일정이며, 아직 회의가 끝나 대책이 확정된 단계는 아닙니다.",
         "뉴시스는 금융권을 인용해 10월 4일 오후 정부서울청사에서 회의가 열린다고 전했습니다. 은행뿐 아니라 증권·보험·저축은행·가상자산·핀테크 등으로 참석 범위를 넓힌다는 내용입니다.",
         "10월 2일 금융위 공식 자료에서는 외부에 노출된 시스템 전체의 접근통제 점검과 위협정보 공유를 지시했습니다. 이번 소집 보도는 회사별 점검 상황을 최고경영진 수준에서 모아 대응하려는 후속 조치입니다.",
         "오늘 확인할 것은 추가 피해 숫자보다 점검 결과와 소비자 보호 방안이 얼마나 구체화되는지입니다. 정확한 회의 시작 시각과 결과는 아직 확인되지 않았고, 공격 배후나 AI 활용 여부도 모든 사고에 대해 확정된 사실로 다루지 않습니다."
       ],
-      "keyFacts": {
-        "shinhanCustomers": "약 25000명",
-        "kbCustomers": "119명",
-        "hanaCustomers": "89명",
-        "busanContractStaff": "11명",
-        "response": "외부 노출 시스템 전반 보안점검 지시",
-        "yegaramCustomers": "약 40000명 추정",
-        "hyundaiCapitalLoanAgents": "146명",
-        "hyundaiGeneralCustomers": "회사 설명상 유출 미확인",
-        "aiAttribution": "미확정",
-        "nextMeetingDate": "2026-10-04 오후, 정확한 시각 미확인",
-        "nextMeetingScope": "전 금융권 CEO·업권별 협회장 소집 보도",
-        "meetingResult": "아직 미확인"
-      },
-      "uncertainty": "소집은 금융권 인용 보도이며 정확한 시각·참석 확정 명단·회의 결과는 아직 미확인입니다. AI 공격이나 배후도 단정하지 않습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "은행·2금융권 줄줄이 'AI 해킹'에…당국, 내일 全금융사 CEO 긴급대응 회의",
-          "url": "https://www.newsis.com/view/NISX20261003_0003813711",
-          "publishedAt": "2026-10-03T21:15:42+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T09:12:55+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/03/10/NISI20260310_0021203191_web.jpg",
-          "verificationNote": "어제 저녁 기준 이후의 새 기사입니다. 수정 21:22:10. 회의 소집은 금융권 인용 보도이며 아직 회의 결과가 아닙니다."
-        },
-        {
-          "name": "금융위원회",
-          "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
-          "url": "https://www.fsc.go.kr/no010101/87869",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T09:14:10+09:00",
-          "verificationNote": "10월 2일 15시 회의의 공식 자료를 다시 확인했습니다. 보안점검 배경을 뒷받침하며 10월 4일 회의 소집 자체의 공식 확인 자료로 쓰지 않습니다."
-        }
-      ],
-      "briefingPath": "2026-10-04/am.json",
-      "previous": {
-        "editionId": "2026-10-03-pm",
-        "storyId": "korea-bank-breaches-2026-10-03"
-      },
-      "followUp": {
-        "editionId": "2026-10-03-pm",
-        "storyId": "korea-bank-breaches-2026-10-03",
-        "delta": "어제 21시 브리핑 이후 오늘 오후 전체 업권 CEO·협회장 긴급회의 소집이 새로 보도됐습니다. 기존 피해 집계 자체는 재등장 근거로 삼지 않았습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "금융권 해킹 대응, 오늘 오후 전체 업권 CEO 긴급회의 보도",
+      "uncertainty": "소집은 금융권 인용 보도이며 정확한 시각·참석 확정 명단·회의 결과는 아직 미확인입니다. AI 공격이나 배후도 단정하지 않습니다."
     },
     {
-      "id": "2026-10-04-pm/bank-emergency-response-2026-10-04",
-      "editionId": "2026-10-04-pm",
-      "storyId": "bank-emergency-response-2026-10-04",
-      "editionDate": "2026-10-04",
-      "edition": "pm",
+      "briefingPath": "2026-10-04/pm.json",
+      "category": "금융·보안",
+      "change": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-04T21:13:51+09:00",
       "coveredOn": "2026-10-04",
-      "publishedAt": "2026-10-04T15:12:59+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-04",
+      "editionId": "2026-10-04-pm",
       "eventAt": "2026-10-04T14:00:00+09:00",
       "eventDate": "2026-10-04",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "뉴스웨이 현장 보도가 회의 시작을 10월 4일 14시로 명시했습니다. 기사 등록 시각과 구분합니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
+        "editionId": "2026-10-04-am",
+        "storyId": "bank-ceo-emergency-meeting-2026-10-04"
+      },
+      "id": "2026-10-04-pm/bank-emergency-response-2026-10-04",
+      "keyFacts": {
+        "affectedCompanies": "9월30일~10월3일 집계7곳",
+        "aiAttribution": "미확정",
+        "bankCardDeadline": "2026-10-06",
+        "meetingResult": "10월4일14시 개최, 권역별 긴급점검 기한과 취약 서비스 조치 제시",
+        "otherSectorsDeadline": "2026-10-08",
+        "response": "인증 누락 서비스 보완·차단, 직원용 시스템 접근통제 강화 지시",
+        "welcomeRecords": "법인고객 관련 정보 약2200건"
+      },
+      "previous": {
+        "editionId": "2026-10-04-am",
+        "storyId": "bank-ceo-emergency-meeting-2026-10-04"
+      },
+      "publishedAt": "2026-10-04T15:12:59+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228401_1280.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-04T15:12:59+09:00",
+          "title": "금융당국 긴급 회의…\"7곳 피해, AI 활용 추정\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782626",
+          "verificationNote": "본문과 등록 메타데이터를 확인했습니다. 7곳은 9월 30일~10월 3일 금융당국 집계 범위이며 당일 이후 모든 의심 사례를 합한 수가 아닙니다.",
+          "verifiedAt": "2026-10-04T21:07:35+09:00"
+        },
+        {
+          "imageUrl": "https://nimage.newsway.co.kr/photo/2026/10/04/20261004003368_1200.jpg",
+          "kind": "specialist",
+          "language": "ko",
+          "name": "뉴스웨이",
+          "publishedAt": "2026-10-04T14:23:02+09:00",
+          "title": "IP 바꿔가며 동시다발 침투···AI까지 동원한 금융권 해킹 '비상' - 뉴스웨이",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100414184833274",
+          "verificationNote": "현장 취재 본문에서 14시 회의, 권역별 점검 기한, 서비스 접근통제 조치를 확인했습니다. AI 사용은 가능성으로 구분합니다.",
+          "verifiedAt": "2026-10-04T21:07:35+09:00"
+        }
+      ],
       "stage": "후속",
-      "change": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다.",
-      "title": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시",
-      "category": "금융·보안",
       "status": "보도",
+      "storyId": "bank-emergency-response-2026-10-04",
       "summary": [
         "아침에는 금융권 긴급회의가 예정돼 있었는데, 오후 2시 실제 회의가 열려 대응 지시와 점검 기한이 나왔습니다. 당국은 9월 30일~10월 3일 침해사고가 발생한 금융사를 7곳으로 집계했습니다.",
         "웰컴저축은행에서는 법인 담당자 연락처 등 약 2200건의 유출이 추가로 보도됐습니다. 이는 2200명의 일반 예금계좌가 털렸다는 뜻이 아니며, 개인정보 유출과 직접적인 금전 피해를 나눠 봐야 합니다.",
         "금융당국은 인증이 빠진 조회 서비스와 직원용 시스템의 접근통제를 보완하고, 위험한 서비스는 차단하도록 주문했습니다. 은행·카드사는 10월 6일까지, 증권·보험·저축은행·전자금융업자 등은 8일까지 긴급점검을 마치도록 했다는 현장 보도입니다.",
         "공격이 AI를 활용했는지는 아직 확정되지 않았습니다. 금융 이용자에게 당장 중요한 것은 유출 정보가 스미싱이나 사칭 전화로 악용되는 2차 피해 여부이며, 점검 완료와 추가 피해 집계는 후속 확인이 필요합니다."
       ],
-      "keyFacts": {
-        "response": "인증 누락 서비스 보완·차단, 직원용 시스템 접근통제 강화 지시",
-        "aiAttribution": "미확정",
-        "meetingResult": "10월4일14시 개최, 권역별 긴급점검 기한과 취약 서비스 조치 제시",
-        "affectedCompanies": "9월30일~10월3일 집계7곳",
-        "welcomeRecords": "법인고객 관련 정보 약2200건",
-        "bankCardDeadline": "2026-10-06",
-        "otherSectorsDeadline": "2026-10-08"
-      },
-      "uncertainty": "AI 활용과 공격 주체는 확정되지 않았고 7곳은 당국의 특정 기간 집계입니다. 추가 의심 사례 전부를 포함한 최종 피해 총계가 아닙니다.",
-      "sources": [
-        {
-          "name": "SBS",
-          "title": "금융당국 긴급 회의…\"7곳 피해, AI 활용 추정\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782626",
-          "publishedAt": "2026-10-04T15:12:59+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:07:35+09:00",
-          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228401_1280.jpg",
-          "verificationNote": "본문과 등록 메타데이터를 확인했습니다. 7곳은 9월 30일~10월 3일 금융당국 집계 범위이며 당일 이후 모든 의심 사례를 합한 수가 아닙니다."
-        },
-        {
-          "name": "뉴스웨이",
-          "title": "IP 바꿔가며 동시다발 침투···AI까지 동원한 금융권 해킹 '비상' - 뉴스웨이",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026100414184833274",
-          "publishedAt": "2026-10-04T14:23:02+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:07:35+09:00",
-          "imageUrl": "https://nimage.newsway.co.kr/photo/2026/10/04/20261004003368_1200.jpg",
-          "verificationNote": "현장 취재 본문에서 14시 회의, 권역별 점검 기한, 서비스 접근통제 조치를 확인했습니다. AI 사용은 가능성으로 구분합니다."
-        }
-      ],
-      "briefingPath": "2026-10-04/pm.json",
-      "previous": {
-        "editionId": "2026-10-04-am",
-        "storyId": "bank-ceo-emergency-meeting-2026-10-04"
-      },
-      "followUp": {
-        "editionId": "2026-10-04-am",
-        "storyId": "bank-ceo-emergency-meeting-2026-10-04",
-        "delta": "아침의 회의 소집 보도 이후 14시 개최와 피해 7곳 집계, 웰컴 법인정보 약 2200건, 권역별 점검 기한이 확인됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "금융권 긴급회의 개최…피해 7곳 집계·보안점검 기한 제시",
+      "uncertainty": "AI 활용과 공격 주체는 확정되지 않았고 7곳은 당국의 특정 기간 집계입니다. 추가 의심 사례 전부를 포함한 최종 피해 총계가 아닙니다."
     },
     {
-      "id": "2026-10-07-am/bank-threat-sharing-response-2026-10-07",
-      "editionId": "2026-10-07-am",
-      "storyId": "bank-threat-sharing-response-2026-10-07",
-      "editionDate": "2026-10-07",
-      "edition": "am",
+      "briefingPath": "2026-10-07/am.json",
+      "category": "금융·보안",
+      "change": "금융권 점검 결과 제출과 위협정보 공유, 한 달간 2차 피해 대응으로 조치가 구체화됐습니다. 최종 피해와 공격 배후는 미확정입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T12:12:39+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-am",
       "eventAt": null,
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "공격정보 공유와 보안점검 결과 제출은 10월 6일 확인된 조치입니다. 7일 오전 기사는 그 현황을 정리했으며 공유·제출의 정확한 시각은 미확인입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "온투업권 소집 계획 이후 28개 공격IP 공유, 은행·카드40곳의 점검 결과 제출, 한 달간2차 피해 대응조치가 확인됐습니다.",
+        "editionId": "2026-10-05-pm",
+        "storyId": "p2p-finance-cyber-response-2026-10-05"
+      },
+      "id": "2026-10-07-am/bank-threat-sharing-response-2026-10-07",
+      "keyFacts": {
+        "aiAttribution": "미확정",
+        "attackIpCount": "중복 제거28개",
+        "bankCardReports": "은행20곳+카드업권20곳, 총40곳 제출",
+        "otherSectorsDeadline": "2026-10-08",
+        "response": "28개 공격IP 공유·점검 결과 검토·2차 피해 특별대응",
+        "specialResponse": "2026-10-06부터1개월, 연장 가능"
+      },
+      "previous": {
+        "editionId": "2026-10-05-pm",
+        "storyId": "p2p-finance-cyber-response-2026-10-05"
+      },
+      "publishedAt": "2026-10-07T06:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477801_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-07T06:00:00+09:00",
+          "title": "은행發 'AI 해킹' 공포…공격 IP 28개 막으면 걱정 끝?",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816173",
+          "verificationNote": "수정 07:59:33까지 컷오프 이전. 공격 IP 중복 제거 28개, C-TAS 공유, 인증·권한 점검 내용을 원문에서 확인했습니다. AI 사용과 배후는 확정하지 않습니다.",
+          "verifiedAt": "2026-10-07T12:09:37+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-06T17:41:20+09:00",
+          "title": "은행·카드 40곳 보안점검 결과 제출…금융당국, 분석 돌입(종합)",
+          "url": "https://www.newsis.com/view/NISX20261006_0003816187",
+          "verificationNote": "은행 20곳·카드업권 20곳의 점검 결과 제출 보도와 한 달간 2차 피해 특별대응 내용을 확인했습니다. 40곳은 피해 금융사 수가 아닙니다.",
+          "verifiedAt": "2026-10-07T12:07:21+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "금융위원회",
+          "publishedAt": null,
+          "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
+          "url": "https://www.fsc.go.kr/no010101/87882?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+          "verificationNote": "공식 본문 10월 6일 게시와 14시 회의 시각 확인. 정확한 게시 시각은 미표시이므로 null. 같은 내용이 6일 17:41 기사에 있어 컷오프 전 공개를 대조했습니다.",
+          "verifiedAt": "2026-10-07T12:07:21+09:00"
+        }
+      ],
       "stage": "후속",
-      "change": "금융권 점검 결과 제출과 위협정보 공유, 한 달간 2차 피해 대응으로 조치가 구체화됐습니다. 최종 피해와 공격 배후는 미확정입니다.",
-      "title": "금융권 공격 IP 28개 공유…점검 결과 검토·2차 피해 대응으로",
-      "category": "금융·보안",
       "status": "보도",
+      "storyId": "bank-threat-sharing-response-2026-10-07",
       "summary": [
         "금융권 해킹에 쓰인 것으로 확인된 IP 주소 28개가 금융회사와 한국인터넷진흥원의 위협정보 공유체계에 전달됐습니다. 은행·카드업권 40곳은 보안점검 결과를 제출했고, 금융당국은 미흡한 부분을 검토하고 있습니다.",
         "IP는 인터넷 접속 주소입니다. 공유된 목록은 중복을 뺀 28개이며, 이를 막는 것과 함께 과거 접속 기록 및 본인확인·접근권한을 점검해야 한다는 것이 당국과 보안업계의 설명입니다.",
@@ -334,123 +384,173 @@
         "금융위원회는 6일부터 한 달간 2차 피해 특별대응기간을 운영하고, 피해고객 전담창구와 이상거래 감시를 강화하도록 했습니다. 유출 여부는 해당 금융회사의 공식 앱·홈페이지나 고객센터에서 확인하라는 안내입니다.",
         "공격자는 접속 주소를 바꿀 수 있어 목록 차단만으로 모든 위험이 해소되지는 않습니다. 모든 공격에 AI가 사용됐는지와 동일 배후의 소행인지는 미확정이며, 나머지 업권의 8일 점검 결과와 실제 보완 여부가 남은 확인 대상입니다."
       ],
-      "keyFacts": {
-        "response": "28개 공격IP 공유·점검 결과 검토·2차 피해 특별대응",
-        "aiAttribution": "미확정",
-        "attackIpCount": "중복 제거28개",
-        "bankCardReports": "은행20곳+카드업권20곳, 총40곳 제출",
-        "otherSectorsDeadline": "2026-10-08",
-        "specialResponse": "2026-10-06부터1개월, 연장 가능"
-      },
-      "uncertainty": "28개 주소와 40개 제출기관은 공격자 수나 피해회사 수가 아닙니다. 공격 배후와 모든 사고의 AI 활용 여부, 최종 피해는 조사 중입니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "은행發 'AI 해킹' 공포…공격 IP 28개 막으면 걱정 끝?",
-          "url": "https://www.newsis.com/view/NISX20261006_0003816173",
-          "publishedAt": "2026-10-07T06:00:00+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:09:37+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/06/NISI20261006_0021477801_web.jpg",
-          "verificationNote": "수정 07:59:33까지 컷오프 이전. 공격 IP 중복 제거 28개, C-TAS 공유, 인증·권한 점검 내용을 원문에서 확인했습니다. AI 사용과 배후는 확정하지 않습니다."
-        },
-        {
-          "name": "뉴시스",
-          "title": "은행·카드 40곳 보안점검 결과 제출…금융당국, 분석 돌입(종합)",
-          "url": "https://www.newsis.com/view/NISX20261006_0003816187",
-          "publishedAt": "2026-10-06T17:41:20+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:07:21+09:00",
-          "imageUrl": null,
-          "verificationNote": "은행 20곳·카드업권 20곳의 점검 결과 제출 보도와 한 달간 2차 피해 특별대응 내용을 확인했습니다. 40곳은 피해 금융사 수가 아닙니다."
-        },
-        {
-          "name": "금융위원회",
-          "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
-          "url": "https://www.fsc.go.kr/no010101/87882?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-07T12:07:21+09:00",
-          "imageUrl": null,
-          "verificationNote": "공식 본문 10월 6일 게시와 14시 회의 시각 확인. 정확한 게시 시각은 미표시이므로 null. 같은 내용이 6일 17:41 기사에 있어 컷오프 전 공개를 대조했습니다."
-        }
-      ],
-      "briefingPath": "2026-10-07/am.json",
-      "previous": {
-        "editionId": "2026-10-05-pm",
-        "storyId": "p2p-finance-cyber-response-2026-10-05"
-      },
-      "followUp": {
-        "editionId": "2026-10-05-pm",
-        "storyId": "p2p-finance-cyber-response-2026-10-05",
-        "delta": "온투업권 소집 계획 이후 28개 공격IP 공유, 은행·카드40곳의 점검 결과 제출, 한 달간2차 피해 대응조치가 확인됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "금융권 공격 IP 28개 공유…점검 결과 검토·2차 피해 대응으로",
+      "uncertainty": "28개 주소와 40개 제출기관은 공격자 수나 피해회사 수가 아닙니다. 공격 배후와 모든 사고의 AI 활용 여부, 최종 피해는 조사 중입니다."
     },
     {
-      "id": "2026-10-05-pm/p2p-finance-cyber-response-2026-10-05",
-      "editionId": "2026-10-05-pm",
-      "storyId": "p2p-finance-cyber-response-2026-10-05",
-      "editionDate": "2026-10-05",
+      "briefingPath": "2026-10-09/pm.json",
+      "category": "금융·보안",
+      "change": "전담수사팀43명 증원이9일 공개됐고, 기업은행의9월29일 공격 시도 자동 차단 및10월6일IP대조 사실이 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-09T20:44:48+09:00",
+      "coveredOn": "2026-10-09",
       "edition": "pm",
+      "editionDate": "2026-10-09",
+      "editionId": "2026-10-09-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-07",
+      "eventEndDate": null,
+      "eventTimeNote": "수사팀 증원은10월7일, 공개 발표는10월9일입니다. 기업은행 공격 시도9월29일·IP대조확인10월6일은 별도 사건일입니다. 각각의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "공격IP 공유와 점검 결과 제출 이후 경찰 수사팀43명 확대와 국제공조가 발표됐습니다. IBK의 과거 공격 시도 자동차단 사례도 새로 확인됐습니다.",
+        "editionId": "2026-10-07-am",
+        "storyId": "bank-threat-sharing-response-2026-10-07"
+      },
+      "id": "2026-10-09-pm/bank-hacking-investigation-expanded-2026-10-09",
+      "keyFacts": {
+        "addedStaff": "15",
+        "announcementDate": "2026-10-09",
+        "attribution": "미확정",
+        "expandedDate": "2026-10-07",
+        "ibkAttemptDate": "2026-09-29",
+        "ibkIpMatchedDate": "2026-10-06",
+        "ibkOutcome": "은행 설명:자동차단·해당경로 고객정보없음",
+        "teamAfter": "43",
+        "teamBefore": "28"
+      },
+      "previous": {
+        "editionId": "2026-10-07-am",
+        "storyId": "bank-threat-sharing-response-2026-10-07"
+      },
+      "publishedAt": "2026-10-09T14:03:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-09T14:03:00+09:00",
+          "title": "경찰, '금융권 해킹' 전담수사팀 규모 확대…\"국제 공조 수사\"",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0103_202610091403333412",
+          "verificationNote": "기자 본문에서 9일보도자료·그제증원(7일)·28→43명·국제공조 직접 확인.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1(파이낸셜뉴스 전재)",
+          "publishedAt": "2026-10-09T11:54:00+09:00",
+          "title": "경찰 \"금융기관 해킹 수사팀 43명으로 확대…수사 공백 없을 것\"",
+          "updatedAt": "2026-10-09T11:54:00+09:00",
+          "url": "https://www.fnnews.com/news/202610091154099634",
+          "verificationNote": "뉴스1 기자 본문 전재 직접확인. 1일내사·5일28명팀·7일43명증원 날짜 교차확인.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-09T17:11:00+09:00",
+          "title": "지난달 기업은행에도 해킹 시도…\"자동 차단\"",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0102_202610091711169657",
+          "verificationNote": "기업은행 설명을 인용한 기자 본문 확인. 공격일9/29·IP대조확인10/6·자동차단 및 해당경로 고객정보없음을 구분.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-10-09T17:32:00+09:00",
+          "title": "금융기관 해킹 수사팀 증원…경찰, 해외 공격 배후 추적",
+          "updatedAt": "2026-10-09T17:32:00+09:00",
+          "url": "https://www.hankyung.com/article/2026100928551",
+          "verificationNote": "기자 본문 직접확인. 수사팀43명·국제공조·이첩전수사 지속 확인. 공격자 신원은 단정하지 않습니다.",
+          "verifiedAt": "2026-10-09T20:41:36+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "bank-hacking-investigation-expanded-2026-10-09",
+      "summary": [
+        "경찰이 금융기관 해킹 사건 전담수사팀을 28명에서 43명으로 늘렸다고 9일 밝혔습니다. 디지털포렌식과 국제공조 지원인력 15명을 7일 추가했으며, 피해 시스템과 자료를 분석하고 해외 공격 서버 차단도 병행하고 있습니다.",
+        "경찰은 중대범죄수사청으로 사건이 넘어가더라도 실제 이첩 전까지 수사를 계속하겠다고 설명했습니다. 이번 발표는 수사 인력과 대응 경로가 구체화됐다는 의미이며, 범인 검거나 최종 피해 규모 확정은 아닙니다.",
+        "기업은행에서도 9월 29일 비정상 접근 시도가 있었던 사실이 추가로 보도됐습니다. 은행은 당시 시도가 자동 차단됐으며 해당 경로에 고객 정보가 없었다고 설명했습니다. 이후 당국이 공유한 공격 IP와 접속 기록을 대조해 10월 6일 일치를 확인했습니다.",
+        "이전의 공격 IP 공유·금융회사 점검에서 실제 수사 확대와 차단 사례 확인으로 이어진 후속입니다. 공격자의 신원과 AI 활용 범위는 조사 중이며, 차단된 시도와 실제 정보유출 피해를 합쳐 집계하면 안 됩니다."
+      ],
+      "supersededBy": [],
+      "title": "금융권 해킹 수사팀 43명으로 확대…기업은행은 차단 사례 확인",
+      "uncertainty": "수사팀 확대일은10월7일, 발표일은9일입니다. IBK 무유출은 은행의 설명이며 독립 포렌식 결론을 확보한 것은 아닙니다. 동일IP만으로 동일범인이나 AI 활용을 확정하지 않습니다."
+    },
+    {
+      "briefingPath": "2026-10-05/pm.json",
+      "category": "금융·보안",
+      "change": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-05T21:17:29+09:00",
       "coveredOn": "2026-10-05",
-      "publishedAt": "2026-10-05T15:40:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-05",
+      "editionId": "2026-10-05-pm",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "소집 예정일은 10월 6일입니다. 계획 결정일과 시각은 기사에 특정되지 않아 사건일은 비워 두며 9월 접근 시점과 기사일을 구분합니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
+        "editionId": "2026-10-04-pm",
+        "storyId": "bank-emergency-response-2026-10-04"
+      },
+      "id": "2026-10-05-pm/p2p-finance-cyber-response-2026-10-05",
+      "keyFacts": {
+        "aiAttribution": "미확정",
+        "attackIpOverlap": "은행권과 일부 겹친다는 업계 보도, 조사결론 아님",
+        "moudaAccessWindow": "회사 설명 인용:9월27일12시~28일02시",
+        "nextMeetingDate": "2026-10-06, 정확한 시각 미확인",
+        "pfctDetectedDate": "회사 설명 인용:2026-09-27",
+        "response": "온투협회와 피해 업체10월6일 소집 계획 보도"
+      },
+      "previous": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "bank-emergency-response-2026-10-04"
+      },
+      "publishedAt": "2026-10-05T15:40:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://biz.chosun.com/resizer/v2/GM3DAMJYG42TMNDEMM2TEZRXGM.jpg?auth=8f1cefa74f5f9d80cdb98527931e48265b81b12982809484d8501c43ff3dbe3b&width=1200&height=630&smart=true",
+          "kind": "major",
+          "language": "ko",
+          "name": "조선비즈",
+          "publishedAt": "2026-10-05T15:40:00+09:00",
+          "title": "금융 당국, 온투업권 긴급 소집… 공격 IP 연관성 확인",
+          "url": "https://biz.chosun.com/stock/finance/2026/10/05/MGAIFZKP6RFMXPHLMOC3G4JCJI/",
+          "verificationNote": "화면의 입력 시각과 본문 확인. 업계 취재를 근거로 한 소집 계획·IP 중복 보도이며 공식 조사 결론이나 동일 공격자 확인으로 쓰지 않습니다. 원시 게시 메타데이터는 15:39:51, 표시 시각은 15:40입니다.",
+          "verifiedAt": "2026-10-05T21:09:49+09:00"
+        }
+      ],
       "stage": "보도",
-      "change": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다.",
-      "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
-      "category": "금융·보안",
       "status": "보도",
+      "storyId": "p2p-finance-cyber-response-2026-10-05",
       "summary": [
         "금융위원회가 10월 6일 온라인투자연계금융협회와 정보유출 피해 업체를 소집할 계획이라는 보도가 나왔습니다. 은행뿐 아니라 온라인으로 투자자와 대출자를 연결하는 온투업체의 피해까지 함께 살피는 단계입니다.",
         "조선비즈는 모우다와 피에프씨테크놀로지스의 정보유출 확인·공지 내용을 전했습니다. 모우다는 9월 27일 정오부터 28일 오전 2시 사이 외부 접근을 설명했고, PFCT는 27일 유출 사실을 파악했다고 밝혔다는 내용입니다.",
         "어제는 금융권 긴급회의 개최와 업권별 점검 기한을 다뤘습니다. 오늘 추가된 핵심은 온투업권 별도 소집 계획과, 은행 공격에 쓰인 일부 IP가 겹친다는 보도입니다.",
         "IP는 인터넷 접속 주소입니다. 주소 일부가 같다는 단서만으로 동일 범인이나 공격 경로, AI 사용을 확정할 수는 없습니다. 회의 개최 결과와 당국의 최종 조사, 업체별 실제 유출 정보가 다음 확인 대상입니다."
       ],
-      "keyFacts": {
-        "response": "온투협회와 피해 업체10월6일 소집 계획 보도",
-        "nextMeetingDate": "2026-10-06, 정확한 시각 미확인",
-        "moudaAccessWindow": "회사 설명 인용:9월27일12시~28일02시",
-        "pfctDetectedDate": "회사 설명 인용:2026-09-27",
-        "attackIpOverlap": "은행권과 일부 겹친다는 업계 보도, 조사결론 아님",
-        "aiAttribution": "미확정"
-      },
-      "uncertainty": "소집과 IP 중복은 업계 취재 보도이며 독립적인 침해 조사 결과를 확보한 것은 아닙니다. 공격 주체·AI 사용·최종 피해 수치는 미확정입니다.",
-      "sources": [
-        {
-          "name": "조선비즈",
-          "title": "금융 당국, 온투업권 긴급 소집… 공격 IP 연관성 확인",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/05/MGAIFZKP6RFMXPHLMOC3G4JCJI/",
-          "publishedAt": "2026-10-05T15:40:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-05T21:09:49+09:00",
-          "imageUrl": "https://biz.chosun.com/resizer/v2/GM3DAMJYG42TMNDEMM2TEZRXGM.jpg?auth=8f1cefa74f5f9d80cdb98527931e48265b81b12982809484d8501c43ff3dbe3b&width=1200&height=630&smart=true",
-          "verificationNote": "화면의 입력 시각과 본문 확인. 업계 취재를 근거로 한 소집 계획·IP 중복 보도이며 공식 조사 결론이나 동일 공격자 확인으로 쓰지 않습니다. 원시 게시 메타데이터는 15:39:51, 표시 시각은 15:40입니다."
-        }
-      ],
-      "briefingPath": "2026-10-05/pm.json",
-      "previous": {
-        "editionId": "2026-10-04-pm",
-        "storyId": "bank-emergency-response-2026-10-04"
-      },
-      "followUp": {
-        "editionId": "2026-10-04-pm",
-        "storyId": "bank-emergency-response-2026-10-04",
-        "delta": "어제 전 업권 회의 결과 이후 오늘 오후 온투업권 별도 소집과 일부 공격 IP 연관성 조사 계획이 보도됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
+      "uncertainty": "소집과 IP 중복은 업계 취재 보도이며 독립적인 침해 조사 결과를 확보한 것은 아닙니다. 공격 주체·AI 사용·최종 피해 수치는 미확정입니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-bank-cyber-incidents-2026-10",
+  "schemaVersion": 1,
+  "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,54 +1,54 @@
 {
-  "schemaVersion": 1,
-  "id": "el-gaia-incident",
-  "title": "엘 가이아호 폭발과 각국 주장",
   "entries": [
     {
-      "id": "2026-09-15-am-archive/archive-02",
-      "editionId": "2026-09-15-am-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-15",
-      "edition": "am",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종.",
-      "title": "유조선 '엘 가이아' 폭발",
-      "category": "국제·안보",
-      "status": "과거 기록",
-      "summary": [
-        "유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종."
-      ],
-      "keyFacts": {
-        "originalRecord": "[중동·호르무즈] 유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종. 확인: 뉴시스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 18,
+        "lineStart": 17,
+        "ordinal": 2,
         "originalText": "[중동·호르무즈] 유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종. 확인: 뉴시스.",
+        "reviewNote": "유조선 사건과 원인에 관한 미·이란의 서로 다른 주장을 다룬 관련 보도를 다시 찾았습니다. 원래 기록 전체의 재검증 완료를 뜻하지는 않습니다.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "뉴시스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 17,
-        "lineEnd": 18,
-        "reviewNote": "유조선 사건과 원인에 관한 미·이란의 서로 다른 주장을 다룬 관련 보도를 다시 찾았습니다. 원래 기록 전체의 재검증 완료를 뜻하지는 않습니다.",
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/am.json",
+      "category": "국제·안보",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "am",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-am-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-am-archive/archive-02",
+      "keyFacts": {
+        "originalRecord": "[중동·호르무즈] 유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종. 확인: 뉴시스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "유조선 '엘 가이아' 폭발. 이란은 기뢰, 미국은 이란 드론 공격 주장. 13명 구조·1명 실종."
+      ],
+      "supersededBy": [],
+      "title": "유조선 '엘 가이아' 폭발",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "el-gaia-incident",
+  "schemaVersion": 1,
+  "title": "엘 가이아호 폭발과 각국 주장",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

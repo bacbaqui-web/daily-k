@@ -1,52 +1,52 @@
 {
-  "schemaVersion": 1,
-  "id": "gyeonggi-webtoon-fair-2026",
-  "title": "2026 경기국제웹툰페어 수출 상담",
   "entries": [
     {
-      "id": "2026-09-26-pm-archive/archive-08",
-      "editionId": "2026-09-26-pm-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-26",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 301,
+        "lineStart": 301,
+        "ordinal": 8,
+        "originalText": "[웹툰] 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
+        "reviewNote": "재검색한 기사는 9월 24일 보도이며 행사 기간은 9월 17~18일로 설명합니다. 9월 26일은 이 아카이브의 회차 날짜이며 사건 발생일이 아닙니다.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/pm.json",
+      "category": "웹툰 산업",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
-      "title": "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대",
-      "category": "웹툰 산업",
-      "status": "과거 기록",
-      "summary": [
-        "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-pm-archive/archive-08",
       "keyFacts": {
         "originalRecord": "[웹툰] 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "[웹툰] 경기국제웹툰페어 수출상담 2,280만달러, 역대 최대.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 301,
-        "lineEnd": 301,
-        "reviewNote": "재검색한 기사는 9월 24일 보도이며 행사 기간은 9월 17~18일로 설명합니다. 9월 26일은 이 아카이브의 회차 날짜이며 사건 발생일이 아닙니다.",
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "경기국제웹툰페어 수출상담 2,280만달러, 역대 최대",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "gyeonggi-webtoon-fair-2026",
+  "schemaVersion": 1,
+  "title": "2026 경기국제웹툰페어 수출 상담",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

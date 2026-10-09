@@ -1,81 +1,81 @@
 {
-  "schemaVersion": 1,
-  "id": "jeju-animation-webtoon-festival-2026",
-  "title": "2026 제주애니아일랜드 페스티벌과 지역 웹툰 창작자",
   "entries": [
     {
-      "id": "2026-10-03-pm/jeju-animation-webtoon-festival-2026",
-      "editionId": "2026-10-03-pm",
-      "storyId": "jeju-animation-webtoon-festival-2026",
-      "editionDate": "2026-10-03",
-      "edition": "pm",
+      "briefingPath": "2026-10-03/pm.json",
+      "category": "웹툰 산업",
+      "change": "이전 회차에 다루지 않은 지역 웹툰 작가의 작품 전시·체험 행사와 참가 안내를 확인했습니다. 10월 2일 보도를 오늘 발표로 포장하지 않습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-03T21:19:55+09:00",
       "coveredOn": "2026-10-03",
-      "publishedAt": "2026-10-02T12:14:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-03",
+      "editionId": "2026-10-03-pm",
       "eventAt": null,
       "eventDate": "2026-10-10",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "행사는 한국시간 10월 10일 개최 예정입니다. 이번 확인에서 정확한 시작 시각은 특정하지 않아 eventAt은 비워 두며 참가 접수 마감은 10월 8일 18시입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-03-pm/jeju-animation-webtoon-festival-2026",
+      "keyFacts": {
+        "animationCompanies": "8개사",
+        "festivalDate": "2026-10-10",
+        "registrationDeadline": "2026-10-08 18:00 KST",
+        "status": "개최 예정, 성과 미집계",
+        "venue": "서귀포 아시아CGI애니메이션센터",
+        "webtoonArtists": "10명"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-02T12:14:00+09:00",
+      "sources": [
+        {
+          "kind": "specialist",
+          "language": "ko",
+          "name": "웹툰가이드",
+          "publishedAt": "2026-10-02T12:14:00+09:00",
+          "title": "제주 콘텐츠 총출동, ‘2026 제주애니아일랜드 페스티벌’ 개최",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26264",
+          "verificationNote": "웹 열기로 본문·게시 시각 확인. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않았습니다.",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        },
+        {
+          "imageUrl": "https://www.jejuckl.kr/pub/site/jejunet/images/ogimage-jeju.png",
+          "kind": "official",
+          "language": "ko",
+          "name": "제주 콘텐츠코리아랩",
+          "publishedAt": "2026-10-02T16:24:56+09:00",
+          "title": "2026 제주애니아일랜드 페스티벌이 찾아옵니다! 제주의 애니메이션·웹툰·캐릭터가 한자리에!",
+          "url": "https://www.jejuckl.kr/community/notice.htm?act=view&seq=806",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        },
+        {
+          "imageUrl": "https://www.ofjeju.kr/pub/site/jejunet/images/ogimage-jeju.png",
+          "kind": "official",
+          "language": "ko",
+          "name": "제주콘텐츠진흥원",
+          "publishedAt": null,
+          "title": "2026 제주애니아일랜드 페스티벌 행사정보 안내",
+          "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&category=2&seq=2073843",
+          "verificationNote": "10월 2일 게시를 확인했습니다. 시스템의 00:00:00은 날짜 입력의 기본값일 수 있어 정확한 게시 시각으로 사용하지 않았습니다.",
+          "verifiedAt": "2026-10-03T21:13:23+09:00"
+        }
+      ],
       "stage": "예정",
-      "change": "이전 회차에 다루지 않은 지역 웹툰 작가의 작품 전시·체험 행사와 참가 안내를 확인했습니다. 10월 2일 보도를 오늘 발표로 포장하지 않습니다.",
-      "title": "제주, 웹툰 작가 10명 참여 콘텐츠 축제…10월 10일 개최 예정",
-      "category": "웹툰 산업",
       "status": "예정",
+      "storyId": "jeju-animation-webtoon-festival-2026",
       "summary": [
         "제주콘텐츠진흥원이 10월 10일 서귀포 아시아CGI애니메이션센터에서 콘텐츠 축제를 열 예정입니다. 웹툰 작가 10명과 애니메이션 기업 8개사의 작품을 전시하고 제작 체험을 함께 운영한다고 안내했습니다.",
         "오늘 새 대형 발표는 확인되지 않아 10월 2일 나온 지역 웹툰 산업의 중요 업데이트를 골랐습니다. 플랫폼 매출이나 해외 계약 소식과 달리, 지역 창작자가 독자를 직접 만나는 유통·홍보 접점에 관한 내용입니다.",
         "웹툰과 게임 제작 원데이클래스, 더빙 등 체험 프로그램도 예고됐습니다. 주요 체험과 수업은 10월 8일 오후 6시까지 선착순 사전등록을 받는다는 안내여서, 참가하려면 공식 공지에서 대상과 남은 자리를 확인해야 합니다.",
         "지역 작가의 작품 노출과 창작 교육을 함께 묶는다는 점이 산업적으로 의미 있습니다. 다만 아직 열리기 전 행사이므로 참가자 수나 판매·계약 성과가 나온 것으로 평가하지는 않습니다."
       ],
-      "keyFacts": {
-        "festivalDate": "2026-10-10",
-        "webtoonArtists": "10명",
-        "animationCompanies": "8개사",
-        "venue": "서귀포 아시아CGI애니메이션센터",
-        "registrationDeadline": "2026-10-08 18:00 KST",
-        "status": "개최 예정, 성과 미집계"
-      },
-      "uncertainty": "행사 개최와 프로그램은 예정 사항입니다. 잔여 등록 인원·참가비·매출 성과는 이번 자료에서 확인하지 않았습니다.",
-      "sources": [
-        {
-          "name": "웹툰가이드",
-          "title": "제주 콘텐츠 총출동, ‘2026 제주애니아일랜드 페스티벌’ 개최",
-          "url": "https://www.webtoonguide.com/ko/board/news-column/26264",
-          "publishedAt": "2026-10-02T12:14:00+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "verificationNote": "웹 열기로 본문·게시 시각 확인. 직접 HTTP 요청은 403이어서 OG 이미지는 사용하지 않았습니다."
-        },
-        {
-          "name": "제주 콘텐츠코리아랩",
-          "title": "2026 제주애니아일랜드 페스티벌이 찾아옵니다! 제주의 애니메이션·웹툰·캐릭터가 한자리에!",
-          "url": "https://www.jejuckl.kr/community/notice.htm?act=view&seq=806",
-          "publishedAt": "2026-10-02T16:24:56+09:00",
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "imageUrl": "https://www.jejuckl.kr/pub/site/jejunet/images/ogimage-jeju.png"
-        },
-        {
-          "name": "제주콘텐츠진흥원",
-          "title": "2026 제주애니아일랜드 페스티벌 행사정보 안내",
-          "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&category=2&seq=2073843",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:23+09:00",
-          "imageUrl": "https://www.ofjeju.kr/pub/site/jejunet/images/ogimage-jeju.png",
-          "verificationNote": "10월 2일 게시를 확인했습니다. 시스템의 00:00:00은 날짜 입력의 기본값일 수 있어 정확한 게시 시각으로 사용하지 않았습니다."
-        }
-      ],
-      "briefingPath": "2026-10-03/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "제주, 웹툰 작가 10명 참여 콘텐츠 축제…10월 10일 개최 예정",
+      "uncertainty": "행사 개최와 프로그램은 예정 사항입니다. 잔여 등록 인원·참가비·매출 성과는 이번 자료에서 확인하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "jeju-animation-webtoon-festival-2026",
+  "schemaVersion": 1,
+  "title": "2026 제주애니아일랜드 페스티벌과 지역 웹툰 창작자",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

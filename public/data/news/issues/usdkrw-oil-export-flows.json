@@ -1,501 +1,501 @@
 {
-  "schemaVersion": 1,
-  "id": "usdkrw-oil-export-flows",
-  "title": "유가와 수출기업 수급에 따른 원·달러 환율",
   "entries": [
     {
-      "id": "2026-10-02-am/usdkrw-2026-10-02-morning",
-      "editionId": "2026-10-02-am",
-      "storyId": "usdkrw-2026-10-02-morning",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "briefingPath": "2026-10-02/am.json",
+      "category": "환율·금리",
+      "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T11:05:30+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T08:13:59+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am",
       "eventAt": null,
       "eventDate": "2026-10-01",
       "eventEndDate": "2026-10-02",
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "2026-10-01 서울 외환시장 종가 및 10-02 개장 전 역외시장 정보",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-02-am/usdkrw-2026-10-02-morning",
+      "keyFacts": {
+        "convertedReference": "1358.20원",
+        "ndfQuote": "1357.50원",
+        "previousClose": "1358.4원",
+        "referenceType": "개장 전 참고치"
+      },
+      "previous": {
+        "editionId": "2026-09-30-pm-archive",
+        "storyId": "archive-02"
+      },
+      "publishedAt": "2026-10-02T08:13:59+09:00",
+      "sources": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-10-02T08:13:59+09:00",
+          "title": "강달러·유가 급등에도 네고 물량…환율 1350원대 등락[외환브리핑]",
+          "updatedAt": "2026-10-02T08:35:09+09:00",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645608984",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "전일 원·달러 종가 1,358.4원에 이어 역외 환산 참고치는 1,358.20원으로 확인됐습니다. 국내 개장가나 종가는 아닙니다.",
-      "title": "원·달러 환율, 전일 1,358.4원…유가와 수출기업 달러 매도가 변수",
-      "category": "환율·금리",
       "status": "확정",
+      "storyId": "usdkrw-2026-10-02-morning",
       "summary": [
         "10월 1일 서울 외환시장의 원·달러 종가는 1,358.4원이었습니다. 밤사이 역외 1개월물은 1,357.50원에 최종 호가됐고, 금리 차이를 반영한 환산값은 1,358.20원으로 전일 종가와 비슷했습니다.",
         "이 환산값은 10월 2일 국내 시장의 실제 개장가나 종가가 아니라 개장 전 참고치입니다. 이데일리는 수출기업이 달러를 원화로 바꾸는 매도 물량과 수입업체의 달러 매수가 맞서는 흐름을 예상했습니다.",
         "유가 상승은 에너지 수입 비용을 높이는 요인이지만, 반도체 수출기업의 달러 매도는 반대 방향으로 작용할 수 있습니다. 따라서 달러 강세만 보고 원화 방향을 단정하기보다 실제 장중 수급을 함께 확인해야 합니다."
       ],
-      "keyFacts": {
-        "previousClose": "1358.4원",
-        "ndfQuote": "1357.50원",
-        "convertedReference": "1358.20원",
-        "referenceType": "개장 전 참고치"
-      },
-      "uncertainty": "개장가와 종가는 아직 확정되지 않은 시점의 자료",
-      "sources": [
-        {
-          "name": "이데일리",
-          "title": "강달러·유가 급등에도 네고 물량…환율 1350원대 등락[외환브리핑]",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645608984",
-          "publishedAt": "2026-10-02T08:13:59+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T11:05:30+09:00",
-          "updatedAt": "2026-10-02T08:35:09+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-02/am.json",
-      "previous": {
-        "editionId": "2026-09-30-pm-archive",
-        "storyId": "archive-02"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "원·달러 환율, 전일 1,358.4원…유가와 수출기업 달러 매도가 변수",
+      "uncertainty": "개장가와 종가는 아직 확정되지 않은 시점의 자료"
     },
     {
-      "id": "2026-10-02-pm/usdkrw-2026-10-02-close",
-      "editionId": "2026-10-02-pm",
-      "storyId": "usdkrw-2026-10-02-close",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "환율",
+      "change": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T15:34:20+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": "2026-10-02T15:30:00+09:00",
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 2일 서울 외환시장 15시 30분 주간 마감 수치입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다.",
+        "editionId": "2026-10-02-am",
+        "storyId": "usdkrw-2026-10-02-morning"
+      },
+      "id": "2026-10-02-pm/usdkrw-2026-10-02-close",
+      "keyFacts": {
+        "daytimeChange": "-7.8원",
+        "daytimeClose": "1350.6원",
+        "previousClose": "1358.4원",
+        "referenceType": "15:30 주간 종가"
+      },
+      "previous": {
+        "editionId": "2026-10-02-am",
+        "storyId": "usdkrw-2026-10-02-morning"
+      },
+      "publishedAt": "2026-10-02T15:34:20+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021470901_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T15:34:20+09:00",
+          "title": "원·달러 환율, 7.8원 내린 1350.6원 마감(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812801",
+          "verifiedAt": "2026-10-02T21:13:57+09:00"
+        },
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472725_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T15:51:56+09:00",
+          "title": "원·달러 환율 1350원대",
+          "url": "https://www.newsis.com/view/NISI20261002_0021472725",
+          "verifiedAt": "2026-10-02T21:13:57+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다.",
-      "title": "원·달러 1,350.6원 주간 마감…아침 참고치에서 실제 종가로",
-      "category": "환율",
       "status": "확정",
+      "storyId": "usdkrw-2026-10-02-close",
       "summary": [
         "원·달러 환율은 15시 30분 주간 거래를 1,350.6원에 마쳐 전날보다 7.8원 내렸습니다. 아침에 소개한 역외시장 환산 참고치와 구분되는 국내 거래 결과입니다.",
         "오전 브리핑은 전일 종가 1,358.4원과 개장 전 참고치 1,358.20원을 다뤘습니다. 오후에는 실제 주간 종가가 확인돼, 이날 국내 거래에서 원화가 전일보다 강해졌다는 점을 확인할 수 있게 됐습니다.",
         "뉴시스는 달러 강세가 약해진 가운데 수출기업의 달러 매도도 환율 하락에 영향을 줬다는 시장 해석을 전했습니다. 수출기업이 받은 달러를 원화로 바꾸는 물량은 시장의 달러 공급을 늘리는 요인입니다.",
         "환율 하락은 달러로 결제하는 수입 비용에 부담을 덜어줄 수 있지만, 기업별 효과는 결제 시점과 환헤지에 따라 달라집니다. 이 수치는 야간 거래 종료 가격이 아니며, 기준 시각 이후 해외 지표에 따른 움직임은 포함하지 않았습니다."
       ],
-      "keyFacts": {
-        "previousClose": "1358.4원",
-        "daytimeClose": "1350.6원",
-        "daytimeChange": "-7.8원",
-        "referenceType": "15:30 주간 종가"
-      },
-      "uncertainty": "주간 종가이지 야간 거래까지 마친 최종 가격이 아닙니다. 하락 원인별 기여도는 확정된 통계가 아닌 시장 해석입니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "원·달러 환율, 7.8원 내린 1350.6원 마감(종합)",
-          "url": "https://www.newsis.com/view/NISX20261002_0003812801",
-          "publishedAt": "2026-10-02T15:34:20+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:57+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/01/NISI20261001_0021470901_web.jpg"
-        },
-        {
-          "name": "뉴시스",
-          "title": "원·달러 환율 1350원대",
-          "url": "https://www.newsis.com/view/NISI20261002_0021472725",
-          "publishedAt": "2026-10-02T15:51:56+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:57+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/10/02/NISI20261002_0021472725_web.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": {
-        "editionId": "2026-10-02-am",
-        "storyId": "usdkrw-2026-10-02-morning"
-      },
-      "followUp": {
-        "editionId": "2026-10-02-am",
-        "storyId": "usdkrw-2026-10-02-morning",
-        "delta": "아침에는 개장 전 참고치만 확인됐지만, 오후에는 주간 종가 1,350.6원과 전일 대비 7.8원 하락이 확정됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "원·달러 1,350.6원 주간 마감…아침 참고치에서 실제 종가로",
+      "uncertainty": "주간 종가이지 야간 거래까지 마친 최종 가격이 아닙니다. 하락 원인별 기여도는 확정된 통계가 아닌 시장 해석입니다."
     },
     {
-      "id": "2026-10-05-pm/usdkrw-holiday-trading-2026-10-05",
-      "editionId": "2026-10-05-pm",
-      "storyId": "usdkrw-holiday-trading-2026-10-05",
-      "editionDate": "2026-10-05",
-      "edition": "pm",
+      "briefingPath": "2026-10-05/pm.json",
+      "category": "환율·시장",
+      "change": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-05T21:17:29+09:00",
       "coveredOn": "2026-10-05",
-      "publishedAt": "2026-10-05T18:07:35+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-05",
+      "editionId": "2026-10-05-pm",
       "eventAt": "2026-10-05T15:30:00+09:00",
       "eventDate": "2026-10-05",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "기사의15:30 거래 수치 관측 시점입니다. 정규장 최종 종가 발표 시각을 뜻하지 않습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다.",
+        "editionId": "2026-10-04-pm",
+        "storyId": "ibk-usdkrw-outlook-2026-10"
+      },
+      "id": "2026-10-05-pm/usdkrw-holiday-trading-2026-10-05",
+      "keyFacts": {
+        "holiday1530Quote": "1344.00원",
+        "holidayChange": "-6.60원",
+        "previousClose": "1350.6원, 직전 서울장",
+        "range": "1340.00~1347.20원",
+        "referenceType": "2026-10-05 휴일15:30 거래 보도, 정규장 최종 종가로 단정 안 함",
+        "spotVolume": "6200만달러, 기사 집계"
+      },
+      "previous": {
+        "editionId": "2026-10-04-pm",
+        "storyId": "ibk-usdkrw-outlook-2026-10"
+      },
+      "publishedAt": "2026-10-05T18:07:35+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4437766_347352_81_v150.jpg",
+          "kind": "specialist",
+          "language": "ko",
+          "name": "연합인포맥스",
+          "publishedAt": "2026-10-05T18:07:35+09:00",
+          "title": "[외환-마감] 휴일 달러-엔 연동에 1,340원대 초중반…6.60원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437766",
+          "verificationNote": "전문과 게시 메타데이터 확인. 1344원은 기사에 적힌 휴일 15:30 현재 거래 수치이며 정규장 최종 종가라고 단정하지 않습니다. 얇은 거래와 출처 범위를 명시합니다.",
+          "verifiedAt": "2026-10-05T21:09:49+09:00"
+        }
+      ],
       "stage": "보도",
-      "change": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다.",
-      "title": "원·달러 15시30분 1344원 보도…휴일의 적은 거래량에 주의",
-      "category": "환율·시장",
       "status": "보도",
+      "storyId": "usdkrw-holiday-trading-2026-10-05",
       "summary": [
         "연합인포맥스는 오늘 15시30분 원·달러 거래 수치를 1344원으로 전했습니다. 직전 서울장 종가 1350.6원보다 6.6원 낮지만, 대체공휴일의 한산한 거래라는 조건을 함께 봐야 합니다.",
         "기사에 집계된 장중 범위는 1340~1347.2원이며 현물환 거래량은 6200만달러입니다. 매수·매도 주문이 적은 날의 가격을 평소 시장 전체의 판단처럼 확대 해석하기는 어렵습니다.",
         "어제 소개한 1400원 전후의 연말 환율 전망과는 성격이 다릅니다. 이번 수치는 오늘 특정 시각의 거래 보도이고, 이전 숫자는 앞으로의 경로에 대한 증권사 예상이었습니다.",
         "보도는 엔화 움직임과 미국 고용지표 이후 금리 기대를 배경으로 설명했습니다. 원인을 확정하는 통계는 아니며, 오늘의 수치를 정규장 최종 종가로 단정하지 않습니다. 거래가 정상화된 뒤 수출기업 달러 수급과 해외 금리 반응을 다시 확인해야 합니다."
       ],
-      "keyFacts": {
-        "previousClose": "1350.6원, 직전 서울장",
-        "holiday1530Quote": "1344.00원",
-        "holidayChange": "-6.60원",
-        "range": "1340.00~1347.20원",
-        "spotVolume": "6200만달러, 기사 집계",
-        "referenceType": "2026-10-05 휴일15:30 거래 보도, 정규장 최종 종가로 단정 안 함"
-      },
-      "uncertainty": "한 매체의 휴일 시장 보도 범위이며 최종 종가나 원화 강세 추세 확정으로 해석하지 않습니다.",
-      "sources": [
-        {
-          "name": "연합인포맥스",
-          "title": "[외환-마감] 휴일 달러-엔 연동에 1,340원대 초중반…6.60원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437766",
-          "publishedAt": "2026-10-05T18:07:35+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-05T21:09:49+09:00",
-          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202610/4437766_347352_81_v150.jpg",
-          "verificationNote": "전문과 게시 메타데이터 확인. 1344원은 기사에 적힌 휴일 15:30 현재 거래 수치이며 정규장 최종 종가라고 단정하지 않습니다. 얇은 거래와 출처 범위를 명시합니다."
-        }
-      ],
-      "briefingPath": "2026-10-05/pm.json",
-      "previous": {
-        "editionId": "2026-10-04-pm",
-        "storyId": "ibk-usdkrw-outlook-2026-10"
-      },
-      "followUp": {
-        "editionId": "2026-10-04-pm",
-        "storyId": "ibk-usdkrw-outlook-2026-10",
-        "delta": "어제의 연말 전망 소개 이후 오늘 15:30의 실제 거래 수치 보도가 나왔습니다. 휴일 거래라는 조건을 붙여 전망과 구분합니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "원·달러 15시30분 1344원 보도…휴일의 적은 거래량에 주의",
+      "uncertainty": "한 매체의 휴일 시장 보도 범위이며 최종 종가나 원화 강세 추세 확정으로 해석하지 않습니다."
     },
     {
-      "id": "2026-09-17-am-archive/archive-03",
-      "editionId": "2026-09-17-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-17",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 81,
+        "lineStart": 81,
+        "ordinal": 3,
+        "originalText": "원·달러 NDF 1,377원대.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-17/am.json",
+      "category": "환율·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 NDF 1,377원대.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-17",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-17",
+      "editionId": "2026-09-17-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 NDF 1,377원대.",
-      "title": "원·달러 NDF 1,377원대",
-      "category": "환율·금리",
-      "status": "과거 기록",
-      "summary": [
-        "원·달러 NDF 1,377원대."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-17-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "원·달러 NDF 1,377원대."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-17/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "원·달러 NDF 1,377원대."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "원·달러 NDF 1,377원대.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 81,
-        "lineEnd": 81,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "원·달러 NDF 1,377원대",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-18-am-archive/archive-02",
-      "editionId": "2026-09-18-am-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-18",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 103,
+        "lineStart": 103,
+        "ordinal": 2,
+        "originalText": "원·달러 1,380원대, BOJ 금리결정 주목.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-17",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "원·달러 NDF 1,377원대"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-18/am.json",
+      "category": "환율·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,380원대, BOJ 금리결정 주목.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-18",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-18",
+      "editionId": "2026-09-18-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,380원대, BOJ 금리결정 주목.",
-      "title": "원·달러 1,380원대, BOJ 금리결정 주목",
-      "category": "환율·금리",
-      "status": "과거 기록",
-      "summary": [
-        "원·달러 1,380원대, BOJ 금리결정 주목."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-18-am-archive/archive-02",
       "keyFacts": {
         "originalRecord": "원·달러 1,380원대, BOJ 금리결정 주목."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-18/am.json",
       "previous": {
         "editionId": "2026-09-17-am-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "원·달러 1,380원대, BOJ 금리결정 주목."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "원·달러 1,380원대, BOJ 금리결정 주목.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 103,
-        "lineEnd": 103,
-        "previousCoverage": {
-          "date": "2026-09-17",
-          "edition": "am",
-          "storyId": "archive-03",
-          "title": "원·달러 NDF 1,377원대",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "원·달러 1,380원대, BOJ 금리결정 주목",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-24-pm-archive/archive-02",
-      "editionId": "2026-09-24-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-24",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 248,
+        "lineStart": 248,
+        "ordinal": 2,
+        "originalText": "원·달러 1,366원, 장중 1,376원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-18",
+          "edition": "am",
+          "storyId": "archive-02",
+          "title": "원·달러 1,380원대, BOJ 금리결정 주목"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-24/pm.json",
+      "category": "환율·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,366원, 장중 1,376원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-24",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-24",
+      "editionId": "2026-09-24-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,366원, 장중 1,376원.",
-      "title": "원·달러 1,366원, 장중 1,376원",
-      "category": "환율·금리",
-      "status": "과거 기록",
-      "summary": [
-        "원·달러 1,366원, 장중 1,376원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-24-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "원·달러 1,366원, 장중 1,376원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-24/pm.json",
       "previous": {
         "editionId": "2026-09-18-am-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "원·달러 1,366원, 장중 1,376원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "원·달러 1,366원, 장중 1,376원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 248,
-        "lineEnd": 248,
-        "previousCoverage": {
-          "date": "2026-09-18",
-          "edition": "am",
-          "storyId": "archive-02",
-          "title": "원·달러 1,380원대, BOJ 금리결정 주목",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "원·달러 1,366원, 장중 1,376원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-26-am-archive/archive-04",
-      "editionId": "2026-09-26-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-26",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 285,
+        "lineStart": 285,
+        "ordinal": 4,
+        "originalText": "원·달러 1,357원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-24",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "원·달러 1,366원, 장중 1,376원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/am.json",
+      "category": "환율·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,357원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 원·달러 1,357원.",
-      "title": "원·달러 1,357원",
-      "category": "환율·금리",
-      "status": "과거 기록",
-      "summary": [
-        "원·달러 1,357원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "원·달러 1,357원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/am.json",
       "previous": {
         "editionId": "2026-09-24-pm-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "원·달러 1,357원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "원·달러 1,357원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 285,
-        "lineEnd": 285,
-        "previousCoverage": {
-          "date": "2026-09-24",
-          "edition": "pm",
-          "storyId": "archive-02",
-          "title": "원·달러 1,366원, 장중 1,376원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "원·달러 1,357원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-30-pm-archive/archive-02",
-      "editionId": "2026-09-30-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-30",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 388,
+        "lineStart": 388,
+        "ordinal": 2,
+        "originalText": "외환당국 2분기 달러 96억달러 순매도.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-26",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "원·달러 1,357원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-30/pm.json",
+      "category": "환율·금리",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 외환당국 2분기 달러 96억달러 순매도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-30",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-30",
+      "editionId": "2026-09-30-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 외환당국 2분기 달러 96억달러 순매도.",
-      "title": "외환당국 2분기 달러 96억달러 순매도",
-      "category": "환율·금리",
-      "status": "과거 기록",
-      "summary": [
-        "외환당국 2분기 달러 96억달러 순매도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-30-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "외환당국 2분기 달러 96억달러 순매도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-30/pm.json",
       "previous": {
         "editionId": "2026-09-26-am-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "외환당국 2분기 달러 96억달러 순매도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "외환당국 2분기 달러 96억달러 순매도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 388,
-        "lineEnd": 388,
-        "previousCoverage": {
-          "date": "2026-09-26",
-          "edition": "am",
-          "storyId": "archive-04",
-          "title": "원·달러 1,357원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "외환당국 2분기 달러 96억달러 순매도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-04-pm/ibk-usdkrw-outlook-2026-10",
-      "editionId": "2026-10-04-pm",
-      "storyId": "ibk-usdkrw-outlook-2026-10",
-      "editionDate": "2026-10-04",
-      "edition": "pm",
+      "briefingPath": "2026-10-04/pm.json",
+      "category": "환율·금리",
+      "change": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-04T21:13:51+09:00",
       "coveredOn": "2026-10-04",
-      "publishedAt": "2026-10-04T10:28:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-04",
+      "editionId": "2026-10-04-pm",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "10월 4일 10:28은 국내 기사 발행 시각이며 증권사 원보고서 발표일은 미확인입니다. 전망 대상은 2026년 말과 조건부 2027년입니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
+        "editionId": "2026-10-02-pm",
+        "storyId": "usdkrw-2026-10-02-close"
+      },
+      "id": "2026-10-04-pm/ibk-usdkrw-outlook-2026-10",
+      "keyFacts": {
+        "adverseScenario": "대외여건 악화 시 연말 또는2027년1400원대중후반 가능성",
+        "forecastHorizon": "2026년말",
+        "originalReportDate": "미확인",
+        "referenceType": "IBK투자증권 전망을 인용한 국내 기사, 실제 시세 아님",
+        "yearEndForecast": "1400원 전후"
+      },
+      "previous": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "usdkrw-2026-10-02-close"
+      },
+      "publishedAt": "2026-10-04T10:28:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img.hankyung.com/photo/202610/AD.45932464.1.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "한경비즈니스",
+          "publishedAt": "2026-10-04T10:28:00+09:00",
+          "title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망",
+          "url": "https://magazine.hankyung.com/business/article/202610042279b",
+          "verificationNote": "기사 본문과 등록 시각 확인. IBK 보고서 원문·최초 발표일은 확보하지 못했으며 기사에 인용된 전망임을 명시합니다. 장중/종가로 쓰지 않습니다.",
+          "verifiedAt": "2026-10-04T21:07:35+09:00"
+        }
+      ],
       "stage": "분석",
-      "change": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다.",
-      "title": "IBK 인용 보도 “연말 환율 1400원 전후”…오늘의 시세는 아닙니다",
-      "category": "환율·금리",
       "status": "분석",
+      "storyId": "ibk-usdkrw-outlook-2026-10",
       "summary": [
         "IBK투자증권이 연말 원·달러 환율을 1400원 전후로 예상했다는 분석이 오늘 소개됐습니다. 10월 2일의 실제 주간 종가를 다룬 이전 브리핑과 달리, 이번 숫자는 앞으로의 경로에 대한 전망입니다.",
         "한경비즈니스에 따르면 IBK는 원화 강세 요인이 상당 부분 반영됐고, 미국의 높은 시장금리와 대미 직접투자에 따른 달러 수요는 환율 상승 요인이 될 수 있다고 봤습니다. 달러 수요가 늘면 원화를 달러로 바꾸려는 압력이 커진다는 설명입니다.",
         "대외 여건이 악화되면 연말이나 내년에 1400원대 중후반까지 갈 가능성도 제시했습니다. 이는 기본 전망과 구분되는 조건부 시나리오이며 실제 도달한 환율이나 금융시장 전체의 합의된 예상은 아닙니다.",
         "수입 원가나 해외 지출을 볼 때 한 방향의 환율만 가정하지 말아야 한다는 참고 자료입니다. 이번에는 증권사 보고서 원문과 최초 발표일을 확보하지 못해 기사에 인용된 분석 범위로만 정리했습니다."
       ],
-      "keyFacts": {
-        "referenceType": "IBK투자증권 전망을 인용한 국내 기사, 실제 시세 아님",
-        "forecastHorizon": "2026년말",
-        "yearEndForecast": "1400원 전후",
-        "adverseScenario": "대외여건 악화 시 연말 또는2027년1400원대중후반 가능성",
-        "originalReportDate": "미확인"
-      },
-      "uncertainty": "단일 증권사의 조건부 전망을 인용한 기사이며 원보고서와 최초 발표일은 미확인입니다. 향후 환율이나 종가를 확정하지 않습니다.",
-      "sources": [
-        {
-          "name": "한경비즈니스",
-          "title": "“원·달러 환율 다시 오르나” 1400원 대 넘어설 전망",
-          "url": "https://magazine.hankyung.com/business/article/202610042279b",
-          "publishedAt": "2026-10-04T10:28:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:07:35+09:00",
-          "imageUrl": "https://img.hankyung.com/photo/202610/AD.45932464.1.jpg",
-          "verificationNote": "기사 본문과 등록 시각 확인. IBK 보고서 원문·최초 발표일은 확보하지 못했으며 기사에 인용된 전망임을 명시합니다. 장중/종가로 쓰지 않습니다."
-        }
-      ],
-      "briefingPath": "2026-10-04/pm.json",
-      "previous": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "usdkrw-2026-10-02-close"
-      },
-      "followUp": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "usdkrw-2026-10-02-close",
-        "delta": "이전의 실제 종가 기록 이후, 오늘 새 국내 기사에 연말 1400원 전후의 증권사 전망이 소개됐습니다. 환율이 이미 그 수준으로 올랐다는 후속 결과는 아닙니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "IBK 인용 보도 “연말 환율 1400원 전후”…오늘의 시세는 아닙니다",
+      "uncertainty": "단일 증권사의 조건부 전망을 인용한 기사이며 원보고서와 최초 발표일은 미확인입니다. 향후 환율이나 종가를 확정하지 않습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "usdkrw-oil-export-flows",
+  "schemaVersion": 1,
+  "title": "유가와 수출기업 수급에 따른 원·달러 환율",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

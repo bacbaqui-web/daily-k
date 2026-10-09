@@ -1,81 +1,81 @@
 {
-  "schemaVersion": 1,
-  "id": "milli-story-ip-expansion",
-  "title": "밀리의서재 웹툰·웹소설 원천 IP 확장",
   "entries": [
     {
-      "id": "2026-10-03-am/milli-original-ip-expansion-2026",
-      "editionId": "2026-10-03-am",
-      "storyId": "milli-original-ip-expansion-2026",
-      "editionDate": "2026-10-03",
-      "edition": "am",
+      "briefingPath": "2026-10-03/am.json",
+      "category": "웹툰 산업",
+      "change": "10월 1일 간담회에서 2027년 오리지널 IP 확대와 외부·해외 유통 계획이 제시됐습니다. 전 회차의 다온 일본 순위 소식과 다른 플랫폼 사업 전략입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-03T12:20:00+09:00",
       "coveredOn": "2026-10-03",
-      "publishedAt": "2026-10-01T15:30:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-03",
+      "editionId": "2026-10-03-am",
       "eventAt": null,
       "eventDate": "2026-10-01",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 1일 서울 서교동 간담회에서 발표한 사업 전략입니다. 행사 시작 시각은 미확인이고 IP 확대는 2027년 목표입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-03-am/milli-original-ip-expansion-2026",
+      "keyFacts": {
+        "announcementDate": "2026-10-01",
+        "distributionPlan": "밀리 선공개 후 외부 플랫폼·해외 유통 확대",
+        "originalIpCurrent": "44개",
+        "originalIpTarget": "124개",
+        "targetIsCompleted": "아님",
+        "targetYear": "2027년"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-01T15:30:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/dt/20261001153032458uwuz.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "디지털타임스",
+          "publishedAt": "2026-10-01T15:30:00+09:00",
+          "title": "웹소설·웹툰 기회 엿보는 kt밀리의서재… 오리지널 IP 키운다",
+          "url": "https://v.daum.net/v/20261001153030486",
+          "verificationNote": "다음에 제공된 원 매체 기사 본문과 10월 1일 간담회 취재를 확인했습니다.",
+          "verifiedAt": "2026-10-03T12:14:47+09:00"
+        },
+        {
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100101466.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-10-01T16:21:42+09:00",
+          "title": "전자책만 보던 밀리의 변신…웹툰·웹소설 'IP 승부수'",
+          "url": "https://www2.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05113526645608656",
+          "verifiedAt": "2026-10-03T12:14:46+09:00"
+        },
+        {
+          "kind": "specialist",
+          "language": "ko",
+          "name": "웹툰가이드",
+          "publishedAt": "2026-10-01T16:42:00+09:00",
+          "title": "kt밀리의서재, 웹소설·웹툰 사업 확장…오리지널 IP 기반 성장 도모",
+          "url": "https://www.webtoonguide.com/ko/board/news-column/26261",
+          "verificationNote": "웹 열기에서 본문과 게시 시각 확인. 직접 HTTP 요청은 403이어서 이미지 메타데이터는 사용하지 않았습니다.",
+          "verifiedAt": "2026-10-03T12:20:00+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "10월 1일 간담회에서 2027년 오리지널 IP 확대와 외부·해외 유통 계획이 제시됐습니다. 전 회차의 다온 일본 순위 소식과 다른 플랫폼 사업 전략입니다.",
-      "title": "밀리의서재, 원천 IP 44개→124개 계획…웹툰·해외 유통 확대",
-      "category": "웹툰 산업",
       "status": "예정",
+      "storyId": "milli-original-ip-expansion-2026",
       "summary": [
         "kt밀리의서재가 오리지널 IP를 올해 44개에서 2027년 124개로 늘리는 계획을 제시했습니다. 오늘 새 대형 발표가 없어 10월 1일 간담회에서 나온 최근 웹툰·웹소설 사업 업데이트를 골랐습니다.",
         "IP는 웹툰이나 영상으로 확장할 수 있는 이야기와 권리를 뜻합니다. 회사는 신인 작가와 완결 콘텐츠를 확보하고, 먼저 구독 서비스에서 독자 반응을 확인한 뒤 외부 플랫폼과 해외로 유통하는 경로를 넓히려 합니다.",
         "이데일리 보도에 따르면 초기에는 일정 선공개 기간을 거쳐 네이버·카카오 등 다른 플랫폼에도 작품을 공급할 계획입니다. 일반 도서 구독에 웹툰을 더하는 데서 나아가, 원천 이야기를 발굴해 여러 형식으로 사업화하려는 변화입니다.",
         "작가에게는 신규 유통·제작 지원 기회가 될 수 있지만, 실제 기회는 계약 조건과 독자 유입이 얼마나 뒷받침되는지에 달려 있습니다. 124개는 이미 확보한 실적이 아닌 내년 목표이므로 향후 작품 공개와 외부 유통 계약 이행을 확인해야 합니다."
       ],
-      "keyFacts": {
-        "originalIpCurrent": "44개",
-        "originalIpTarget": "124개",
-        "targetYear": "2027년",
-        "announcementDate": "2026-10-01",
-        "distributionPlan": "밀리 선공개 후 외부 플랫폼·해외 유통 확대",
-        "targetIsCompleted": "아님"
-      },
-      "uncertainty": "회사가 제시한 목표와 전략이며 확보·출시 완료 실적이 아닙니다. 작가별 계약 조건과 향후 수익 성과는 공개되지 않았습니다.",
-      "sources": [
-        {
-          "name": "디지털타임스",
-          "title": "웹소설·웹툰 기회 엿보는 kt밀리의서재… 오리지널 IP 키운다",
-          "url": "https://v.daum.net/v/20261001153030486",
-          "publishedAt": "2026-10-01T15:30:00+09:00",
-          "language": "ko",
-          "kind": "major",
-          "verifiedAt": "2026-10-03T12:14:47+09:00",
-          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/dt/20261001153032458uwuz.jpg",
-          "verificationNote": "다음에 제공된 원 매체 기사 본문과 10월 1일 간담회 취재를 확인했습니다."
-        },
-        {
-          "name": "이데일리",
-          "title": "전자책만 보던 밀리의 변신…웹툰·웹소설 'IP 승부수'",
-          "url": "https://www2.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05113526645608656",
-          "publishedAt": "2026-10-01T16:21:42+09:00",
-          "language": "ko",
-          "kind": "major",
-          "verifiedAt": "2026-10-03T12:14:46+09:00",
-          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100101466.jpg"
-        },
-        {
-          "name": "웹툰가이드",
-          "title": "kt밀리의서재, 웹소설·웹툰 사업 확장…오리지널 IP 기반 성장 도모",
-          "url": "https://www.webtoonguide.com/ko/board/news-column/26261",
-          "publishedAt": "2026-10-01T16:42:00+09:00",
-          "language": "ko",
-          "kind": "specialist",
-          "verifiedAt": "2026-10-03T12:20:00+09:00",
-          "verificationNote": "웹 열기에서 본문과 게시 시각 확인. 직접 HTTP 요청은 403이어서 이미지 메타데이터는 사용하지 않았습니다."
-        }
-      ],
-      "briefingPath": "2026-10-03/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "밀리의서재, 원천 IP 44개→124개 계획…웹툰·해외 유통 확대",
+      "uncertainty": "회사가 제시한 목표와 전략이며 확보·출시 완료 실적이 아닙니다. 작가별 계약 조건과 향후 수익 성과는 공개되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "milli-story-ip-expansion",
+  "schemaVersion": 1,
+  "title": "밀리의서재 웹툰·웹소설 원천 IP 확장",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

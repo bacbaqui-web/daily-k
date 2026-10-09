@@ -1,73 +1,73 @@
 {
-  "schemaVersion": 1,
-  "id": "uk-eu-relationship-rejoin-poll",
-  "title": "영국·EU 관계 재검토와 재가입 여론",
   "entries": [
     {
-      "id": "2026-10-03-pm/uk-eu-rejoin-poll-2026-10-03",
-      "editionId": "2026-10-03-pm",
-      "storyId": "uk-eu-rejoin-poll-2026-10-03",
-      "editionDate": "2026-10-03",
-      "edition": "pm",
+      "briefingPath": "2026-10-03/pm.json",
+      "category": "국제·경제",
+      "change": "영국과 EU의 관계 재검토 논의에 대규모 여론조사 결과가 새로 보도됐습니다. 재가입 결정이나 협상 타결은 아닙니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-03T21:19:55+09:00",
       "coveredOn": "2026-10-03",
-      "publishedAt": "2026-10-03T16:02:46+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-03",
+      "editionId": "2026-10-03-pm",
       "eventAt": null,
       "eventDate": "2026-09-12",
       "eventEndDate": "2026-09-24",
-      "eventTimezone": "Europe/London",
       "eventTimeNote": "실제 조사 기간은 영국 기준 9월 12~24일입니다. 가디언 게시 메타데이터는 10월 3일 05:00:52 UTC이며, 국내 인용 기사에 적힌 2일과 차이가 있어 원문 시각을 우선했습니다.",
+      "eventTimezone": "Europe/London",
+      "followUp": null,
+      "id": "2026-10-03-pm/uk-eu-rejoin-poll-2026-10-03",
+      "keyFacts": {
+        "policyStatus": "여론조사 보도, 재가입 확정 아님",
+        "reduceTradeBarriersSupport": "48.2%",
+        "rejoinOpposition": "28.5%",
+        "rejoinSupport": "49%",
+        "sample": "11461명",
+        "surveyEnd": "2026-09-24",
+        "surveyStart": "2026-09-12"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-03T16:02:46+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0002201970_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-03T16:02:46+09:00",
+          "title": "英 총리 다시 꺼낸 EU 재가입론…찬성 49%·반대 28.5%",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813585",
+          "verificationNote": "가디언을 인용한 보도이며 독립적인 재조사가 아닙니다. 원문 게시일은 가디언 페이지에서 10월 3일로 확인돼 국내 기사에 적힌 2일을 답습하지 않았습니다.",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        },
+        {
+          "imageUrl": "https://i.guim.co.uk/img/media/4dbc8fb2d4422331ec4389b62becb2d99cb02c84/891_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=335f3418c3375686c7d7d213109297dc",
+          "kind": "major",
+          "language": "en",
+          "name": "가디언",
+          "publishedAt": "2026-10-03T14:00:52+09:00",
+          "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+          "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+          "verificationNote": "원 보도입니다. 게시 메타데이터 05:00:52 UTC를 한국시간으로 환산했습니다. 뉴시스와 같은 조사이며 별도의 교차검증 표본은 아닙니다.",
+          "verifiedAt": "2026-10-03T21:13:22+09:00"
+        }
+      ],
       "stage": "분석",
-      "change": "영국과 EU의 관계 재검토 논의에 대규모 여론조사 결과가 새로 보도됐습니다. 재가입 결정이나 협상 타결은 아닙니다.",
-      "title": "영국 EU 재가입 찬성 49%…여론 변화와 정책 확정은 별개",
-      "category": "국제·경제",
       "status": "보도",
+      "storyId": "uk-eu-rejoin-poll-2026-10-03",
       "summary": [
         "영국의 EU 재가입에 찬성한다는 응답이 49%, 반대는 28.5%로 집계됐다는 조사가 보도됐습니다. 재가입이 결정됐다는 소식이 아니라, 영국과 EU의 관계를 다시 검토하는 논의 속에 나온 여론 자료입니다.",
         "메시나그룹은 9월 12~24일 1만1,461명을 조사했습니다. 국내 보도는 오늘 오후에 나왔지만 조사 자체는 지난달 이뤄졌으므로, 이를 오늘 실시한 투표나 국민투표 결과로 읽으면 안 됩니다.",
         "EU와 현재 관계를 유지하면서 무역장벽을 낮추는 방안에도 48.2%가 찬성했습니다. 서로 다른 정책 선택지를 평가한 조사이므로 각 찬성 비율을 합산해 전체 유권자 지지율로 볼 수는 없습니다.",
         "무역장벽과 시장 접근 방식은 영국과 유럽에서 사업하는 기업의 비용에 영향을 줄 수 있어 논의 방향이 중요합니다. 다만 이번 자료만으로 재가입 협상 착수나 새 국민투표 일정, 실제 관세 변경을 예상할 수는 없으며 정치권 내부에도 신중론이 보도됐습니다."
       ],
-      "keyFacts": {
-        "surveyStart": "2026-09-12",
-        "surveyEnd": "2026-09-24",
-        "sample": "11461명",
-        "rejoinSupport": "49%",
-        "rejoinOpposition": "28.5%",
-        "reduceTradeBarriersSupport": "48.2%",
-        "policyStatus": "여론조사 보도, 재가입 확정 아님"
-      },
-      "uncertainty": "국내 기사는 가디언의 동일 조사 보도를 인용합니다. 독립적인 두 조사로 확인된 결과가 아니며, 질문 설계·표본오차 전체 자료와 정책 시행 일정은 확인되지 않았습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "英 총리 다시 꺼낸 EU 재가입론…찬성 49%·반대 28.5%",
-          "url": "https://www.newsis.com/view/NISX20261003_0003813585",
-          "publishedAt": "2026-10-03T16:02:46+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/08/02/NISI20260802_0002201970_web.jpg",
-          "verificationNote": "가디언을 인용한 보도이며 독립적인 재조사가 아닙니다. 원문 게시일은 가디언 페이지에서 10월 3일로 확인돼 국내 기사에 적힌 2일을 답습하지 않았습니다."
-        },
-        {
-          "name": "가디언",
-          "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
-          "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
-          "publishedAt": "2026-10-03T14:00:52+09:00",
-          "kind": "major",
-          "language": "en",
-          "verifiedAt": "2026-10-03T21:13:22+09:00",
-          "imageUrl": "https://i.guim.co.uk/img/media/4dbc8fb2d4422331ec4389b62becb2d99cb02c84/891_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=335f3418c3375686c7d7d213109297dc",
-          "verificationNote": "원 보도입니다. 게시 메타데이터 05:00:52 UTC를 한국시간으로 환산했습니다. 뉴시스와 같은 조사이며 별도의 교차검증 표본은 아닙니다."
-        }
-      ],
-      "briefingPath": "2026-10-03/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "영국 EU 재가입 찬성 49%…여론 변화와 정책 확정은 별개",
+      "uncertainty": "국내 기사는 가디언의 동일 조사 보도를 인용합니다. 독립적인 두 조사로 확인된 결과가 아니며, 질문 설계·표본오차 전체 자료와 정책 시행 일정은 확인되지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "uk-eu-relationship-rejoin-poll",
+  "schemaVersion": 1,
+  "title": "영국·EU 관계 재검토와 재가입 여론",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

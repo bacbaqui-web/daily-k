@@ -1,82 +1,82 @@
 {
-  "schemaVersion": 1,
-  "id": "webtoon-disney-marvel-comics-platform",
-  "title": "웹툰엔터·디즈니 마블 코믹스 플랫폼",
   "entries": [
     {
-      "id": "2026-10-08-pm/webtoon-marvel-comics-launch-plan-2026-10-08",
-      "editionId": "2026-10-08-pm",
-      "storyId": "webtoon-marvel-comics-launch-plan-2026-10-08",
-      "editionDate": "2026-10-08",
-      "edition": "pm",
+      "briefingPath": "2026-10-08/pm.json",
+      "category": "웹툰 산업",
+      "change": "미국 현지 10월 5일 공식 발표에서 11월 16일 플랫폼 출시 계획과 구독 요금·콘텐츠 규모를 공개했습니다. 실제 가입자·매출 성과는 아직 확인되지 않았습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T20:39:55+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T08:05:01+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-pm",
       "eventAt": null,
       "eventDate": "2026-10-05",
       "eventEndDate": null,
-      "eventTimezone": "America/Los_Angeles",
       "eventTimeNote": "한국어 기사 발행은 10월 8일 08시 05분 01초입니다. 실제 공식 발표는 미국 현지 10월 5일이며 정확한 시각은 미공개입니다. 연표에는 로스앤젤레스 발신 발표일을 기록했고, 11월 16일 미국 동부시간의 서비스 출시는 예정입니다.",
+      "eventTimezone": "America/Los_Angeles",
+      "followUp": null,
+      "id": "2026-10-08-pm/webtoon-marvel-comics-launch-plan-2026-10-08",
+      "keyFacts": {
+        "announcementDate": "2026-10-05 미국 현지",
+        "baseMonthly": "9.99 USD + tax",
+        "baseNewIssueWindow": "인쇄본 출간 후 최소 3개월",
+        "catalog": "35000편 이상 예정",
+        "plannedLaunchDate": "2026-11-16 미국 동부시간",
+        "stage": "정식 출시 전 계획 발표",
+        "ultimateMonthly": "12.49 USD + tax",
+        "ultimateNewIssueWindow": "인쇄본 출간 후 최소 1개월"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T08:05:01+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.inews24.com/v1/0a39ca26918311.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "아이뉴스24",
+          "publishedAt": "2026-10-08T08:05:01+09:00",
+          "title": "네이버 웹툰엔터-디즈니 합작 '마블 코믹스' 11월 출시⋯\"디지털 만화 시장 확대 기대\"",
+          "url": "https://www.inews24.com/view/2012940",
+          "verifiedAt": "2026-10-08T20:31:16+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "WEBTOON Entertainment",
+          "publishedAt": null,
+          "title": "WEBTOON and Marvel to Unveil the New Marvel Comics App at New York Comic Con",
+          "url": "https://ir.webtoon.com/news-releases/news-release-details/webtoon-and-marvel-unveil-new-marvel-comics-app-new-york-comic",
+          "verifiedAt": "2026-10-08T20:31:16+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "Marvel Comics 공식 사이트",
+          "publishedAt": null,
+          "title": "Marvel Comics Powered by WEBTOON",
+          "url": "https://marvel.webtoon.com/",
+          "verifiedAt": "2026-10-08T20:31:16+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "미국 현지 10월 5일 공식 발표에서 11월 16일 플랫폼 출시 계획과 구독 요금·콘텐츠 규모를 공개했습니다. 실제 가입자·매출 성과는 아직 확인되지 않았습니다.",
-      "title": "웹툰엔터·디즈니, 마블 코믹스 11월 16일 출시 예고…3만5천편 구독 서비스",
-      "category": "웹툰 산업",
       "status": "예정",
+      "storyId": "webtoon-marvel-comics-launch-plan-2026-10-08",
       "summary": [
         "웹툰엔터테인먼트와 디즈니가 새 디지털 만화 서비스 마블 코믹스를 11월 16일 미국 동부시간에 출시할 예정입니다. 10월 5일 미국에서 발표한 계획을 국내에서는 8일 보도했으며, 현재는 정식 서비스 개시 전입니다.",
         "서비스는 마블·스타워즈·20세기스튜디오 작품 등 3만5천편 이상을 제공할 계획입니다. 웹툰엔터가 모바일·웹 플랫폼을 개발하며, 책장을 넘기는 방식과 세로 스크롤을 함께 지원합니다.",
         "세금 별도 월 요금은 기본형 9.99달러, 얼티밋 12.49달러로 예고됐습니다. 인쇄본 신간을 디지털로 볼 수 있는 가장 빠른 시점은 기본형 3개월 뒤, 얼티밋 1개월 뒤로 다릅니다.",
         "국내 웹툰 기업의 해외 사업이 작품 공급에서 글로벌 만화 플랫폼 개발·운영으로 확장되는 사례입니다. 다만 예정된 콘텐츠와 요금이 공개된 단계로, 실제 가입자 규모나 수익 개선 효과는 아직 확인되지 않았습니다."
       ],
-      "keyFacts": {
-        "announcementDate": "2026-10-05 미국 현지",
-        "plannedLaunchDate": "2026-11-16 미국 동부시간",
-        "catalog": "35000편 이상 예정",
-        "baseMonthly": "9.99 USD + tax",
-        "ultimateMonthly": "12.49 USD + tax",
-        "baseNewIssueWindow": "인쇄본 출간 후 최소 3개월",
-        "ultimateNewIssueWindow": "인쇄본 출간 후 최소 1개월",
-        "stage": "정식 출시 전 계획 발표"
-      },
-      "uncertainty": "출시와 이용 성과는 미래의 일입니다. 공식 최초 발표는 10월 5일이며 한국 내 이용 가능 범위는 이번 자료만으로 확정하지 않습니다.",
-      "sources": [
-        {
-          "name": "아이뉴스24",
-          "title": "네이버 웹툰엔터-디즈니 합작 '마블 코믹스' 11월 출시⋯\"디지털 만화 시장 확대 기대\"",
-          "url": "https://www.inews24.com/view/2012940",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T08:05:01+09:00",
-          "verifiedAt": "2026-10-08T20:31:16+09:00",
-          "imageUrl": "https://image.inews24.com/v1/0a39ca26918311.jpg"
-        },
-        {
-          "name": "WEBTOON Entertainment",
-          "title": "WEBTOON and Marvel to Unveil the New Marvel Comics App at New York Comic Con",
-          "url": "https://ir.webtoon.com/news-releases/news-release-details/webtoon-and-marvel-unveil-new-marvel-comics-app-new-york-comic",
-          "language": "en",
-          "kind": "official",
-          "publishedAt": null,
-          "verifiedAt": "2026-10-08T20:31:16+09:00",
-          "imageUrl": null
-        },
-        {
-          "name": "Marvel Comics 공식 사이트",
-          "title": "Marvel Comics Powered by WEBTOON",
-          "url": "https://marvel.webtoon.com/",
-          "language": "en",
-          "kind": "official",
-          "publishedAt": null,
-          "verifiedAt": "2026-10-08T20:31:16+09:00",
-          "imageUrl": null
-        }
-      ],
-      "briefingPath": "2026-10-08/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "웹툰엔터·디즈니, 마블 코믹스 11월 16일 출시 예고…3만5천편 구독 서비스",
+      "uncertainty": "출시와 이용 성과는 미래의 일입니다. 공식 최초 발표는 10월 5일이며 한국 내 이용 가능 범위는 이번 자료만으로 확정하지 않습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "webtoon-disney-marvel-comics-platform",
+  "schemaVersion": 1,
+  "title": "웹툰엔터·디즈니 마블 코믹스 플랫폼",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

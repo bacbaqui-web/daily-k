@@ -1,53 +1,53 @@
 {
-  "schemaVersion": 1,
-  "id": "kakao-kanana-reorganization",
-  "title": "카카오 카나나 서비스 재편",
   "entries": [
     {
-      "id": "2026-09-15-pm-archive/archive-06",
-      "editionId": "2026-09-15-pm-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-15",
-      "edition": "pm",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 카나나 독립앱 종료, 카카오톡 AI에 집중.",
-      "title": "카나나 독립앱 종료, 카카오톡 AI에 집중",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "카나나 독립앱 종료, 카카오톡 AI에 집중."
-      ],
-      "keyFacts": {
-        "originalRecord": "[AI·카카오] 카나나 독립앱 종료, 카카오톡 AI에 집중. 확인: 전자신문."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 46,
+        "lineStart": 45,
+        "ordinal": 6,
         "originalText": "[AI·카카오] 카나나 독립앱 종료, 카카오톡 AI에 집중. 확인: 전자신문.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "전자신문"
         ],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 45,
-        "lineEnd": 46,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/pm.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 카나나 독립앱 종료, 카카오톡 AI에 집중.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "pm",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-pm-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-pm-archive/archive-06",
+      "keyFacts": {
+        "originalRecord": "[AI·카카오] 카나나 독립앱 종료, 카카오톡 AI에 집중. 확인: 전자신문."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "카나나 독립앱 종료, 카카오톡 AI에 집중."
+      ],
+      "supersededBy": [],
+      "title": "카나나 독립앱 종료, 카카오톡 AI에 집중",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "kakao-kanana-reorganization",
+  "schemaVersion": 1,
+  "title": "카카오 카나나 서비스 재편",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

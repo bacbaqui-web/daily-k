@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-single-households",
-  "title": "1인 가구의 사회적 관계",
   "entries": [
     {
-      "id": "2026-09-22-am-archive/archive-07",
-      "editionId": "2026-09-22-am-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-22",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 199,
+        "lineStart": 199,
+        "ordinal": 7,
+        "originalText": "1인 가구 46.2% 사회적 관계 취약 분석.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-22/am.json",
+      "category": "사회·생활",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 1인 가구 46.2% 사회적 관계 취약 분석.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-22",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-22",
+      "editionId": "2026-09-22-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 1인 가구 46.2% 사회적 관계 취약 분석.",
-      "title": "1인 가구 46.2% 사회적 관계 취약 분석",
-      "category": "사회·생활",
-      "status": "과거 기록",
-      "summary": [
-        "1인 가구 46.2% 사회적 관계 취약 분석."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-22-am-archive/archive-07",
       "keyFacts": {
         "originalRecord": "1인 가구 46.2% 사회적 관계 취약 분석."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-22/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "1인 가구 46.2% 사회적 관계 취약 분석."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "1인 가구 46.2% 사회적 관계 취약 분석.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 199,
-        "lineEnd": 199,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "1인 가구 46.2% 사회적 관계 취약 분석",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-single-households",
+  "schemaVersion": 1,
+  "title": "1인 가구의 사회적 관계",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

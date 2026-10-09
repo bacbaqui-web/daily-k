@@ -1,316 +1,316 @@
 {
-  "schemaVersion": 1,
-  "id": "chuseok-traffic-2026",
-  "title": "2026 추석 교통 흐름",
   "entries": [
     {
-      "id": "2026-09-20-pm-archive/archive-06",
-      "editionId": "2026-09-20-pm-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-20",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 164,
+        "lineStart": 164,
+        "ordinal": 6,
+        "originalText": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-20/pm.json",
+      "category": "사회·교통",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성 24일 오전·귀경 25일 오후 최악 전망.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-20",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-20",
+      "editionId": "2026-09-20-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성 24일 오전·귀경 25일 오후 최악 전망.",
-      "title": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망",
-      "category": "사회·교통",
-      "status": "과거 기록",
-      "summary": [
-        "추석 귀성 24일 오전·귀경 25일 오후 최악 전망."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-20-pm-archive/archive-06",
       "keyFacts": {
         "originalRecord": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-20/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "추석 귀성 24일 오전·귀경 25일 오후 최악 전망."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 164,
-        "lineEnd": 164,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-23-pm-archive/archive-03",
-      "editionId": "2026-09-23-pm-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-23",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 228,
+        "lineStart": 228,
+        "ordinal": 3,
+        "originalText": "추석 귀성 정체, 서울→부산 7시간.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-06",
+          "title": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-23/pm.json",
+      "category": "사회·교통",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성 정체, 서울→부산 7시간.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-23",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-23",
+      "editionId": "2026-09-23-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성 정체, 서울→부산 7시간.",
-      "title": "추석 귀성 정체, 서울→부산 7시간",
-      "category": "사회·교통",
-      "status": "과거 기록",
-      "summary": [
-        "추석 귀성 정체, 서울→부산 7시간."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-23-pm-archive/archive-03",
       "keyFacts": {
         "originalRecord": "추석 귀성 정체, 서울→부산 7시간."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-23/pm.json",
       "previous": {
         "editionId": "2026-09-20-pm-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "추석 귀성 정체, 서울→부산 7시간."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "추석 귀성 정체, 서울→부산 7시간.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 228,
-        "lineEnd": 228,
-        "previousCoverage": {
-          "date": "2026-09-20",
-          "edition": "pm",
-          "storyId": "archive-06",
-          "title": "추석 귀성 24일 오전·귀경 25일 오후 최악 전망",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "추석 귀성 정체, 서울→부산 7시간",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-24-am-archive/archive-07",
-      "editionId": "2026-09-24-am-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-24",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 242,
+        "lineStart": 242,
+        "ordinal": 7,
+        "originalText": "추석 귀성길 최대 혼잡.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-23",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "추석 귀성 정체, 서울→부산 7시간"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-24/am.json",
+      "category": "사회·교통",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성길 최대 혼잡.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-24",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-24",
+      "editionId": "2026-09-24-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 귀성길 최대 혼잡.",
-      "title": "추석 귀성길 최대 혼잡",
-      "category": "사회·교통",
-      "status": "과거 기록",
-      "summary": [
-        "추석 귀성길 최대 혼잡."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-24-am-archive/archive-07",
       "keyFacts": {
         "originalRecord": "추석 귀성길 최대 혼잡."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-24/am.json",
       "previous": {
         "editionId": "2026-09-23-pm-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "추석 귀성길 최대 혼잡."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "추석 귀성길 최대 혼잡.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 242,
-        "lineEnd": 242,
-        "previousCoverage": {
-          "date": "2026-09-23",
-          "edition": "pm",
-          "storyId": "archive-03",
-          "title": "추석 귀성 정체, 서울→부산 7시간",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "추석 귀성길 최대 혼잡",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-25-am-archive/archive-08",
-      "editionId": "2026-09-25-am-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-25",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 266,
+        "lineStart": 266,
+        "ordinal": 8,
+        "originalText": "추석 당일 차량 684만대, 귀경길 최악.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-24",
+          "edition": "am",
+          "storyId": "archive-07",
+          "title": "추석 귀성길 최대 혼잡"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-25/am.json",
+      "category": "사회·교통",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 당일 차량 684만대, 귀경길 최악.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-25",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-25",
+      "editionId": "2026-09-25-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 당일 차량 684만대, 귀경길 최악.",
-      "title": "추석 당일 차량 684만대, 귀경길 최악",
-      "category": "사회·교통",
-      "status": "과거 기록",
-      "summary": [
-        "추석 당일 차량 684만대, 귀경길 최악."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-25-am-archive/archive-08",
       "keyFacts": {
         "originalRecord": "추석 당일 차량 684만대, 귀경길 최악."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-25/am.json",
       "previous": {
         "editionId": "2026-09-24-am-archive",
         "storyId": "archive-07"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "추석 당일 차량 684만대, 귀경길 최악."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "추석 당일 차량 684만대, 귀경길 최악.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 266,
-        "lineEnd": 266,
-        "previousCoverage": {
-          "date": "2026-09-24",
-          "edition": "am",
-          "storyId": "archive-07",
-          "title": "추석 귀성길 최대 혼잡",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "추석 당일 차량 684만대, 귀경길 최악",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-25-pm-archive/archive-07",
-      "editionId": "2026-09-25-pm-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-25",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 277,
+        "lineStart": 277,
+        "ordinal": 7,
+        "originalText": "귀성길 대부분 해소, 귀경길 정체 지속.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-08",
+          "title": "추석 당일 차량 684만대, 귀경길 최악"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-25/pm.json",
+      "category": "사회·교통",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 귀성길 대부분 해소, 귀경길 정체 지속.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-25",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-25",
+      "editionId": "2026-09-25-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 귀성길 대부분 해소, 귀경길 정체 지속.",
-      "title": "귀성길 대부분 해소, 귀경길 정체 지속",
-      "category": "사회·교통",
-      "status": "과거 기록",
-      "summary": [
-        "귀성길 대부분 해소, 귀경길 정체 지속."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-25-pm-archive/archive-07",
       "keyFacts": {
         "originalRecord": "귀성길 대부분 해소, 귀경길 정체 지속."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-25/pm.json",
       "previous": {
         "editionId": "2026-09-25-am-archive",
         "storyId": "archive-08"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "귀성길 대부분 해소, 귀경길 정체 지속."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "귀성길 대부분 해소, 귀경길 정체 지속.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 277,
-        "lineEnd": 277,
-        "previousCoverage": {
-          "date": "2026-09-25",
-          "edition": "am",
-          "storyId": "archive-08",
-          "title": "추석 당일 차량 684만대, 귀경길 최악",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "귀성길 대부분 해소, 귀경길 정체 지속",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-26-pm-archive/archive-07",
-      "editionId": "2026-09-26-pm-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-26",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 300,
+        "lineStart": 300,
+        "ordinal": 7,
+        "originalText": "귀경 정체 완화.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-25",
+          "edition": "pm",
+          "storyId": "archive-07",
+          "title": "귀성길 대부분 해소, 귀경길 정체 지속"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-26/pm.json",
+      "category": "사회·교통",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 귀경 정체 완화.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-26",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-26",
+      "editionId": "2026-09-26-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 귀경 정체 완화.",
-      "title": "귀경 정체 완화",
-      "category": "사회·교통",
-      "status": "과거 기록",
-      "summary": [
-        "귀경 정체 완화."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-26-pm-archive/archive-07",
       "keyFacts": {
         "originalRecord": "귀경 정체 완화."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-26/pm.json",
       "previous": {
         "editionId": "2026-09-25-pm-archive",
         "storyId": "archive-07"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "귀경 정체 완화."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "귀경 정체 완화.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 300,
-        "lineEnd": 300,
-        "previousCoverage": {
-          "date": "2026-09-25",
-          "edition": "pm",
-          "storyId": "archive-07",
-          "title": "귀성길 대부분 해소, 귀경길 정체 지속",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "귀경 정체 완화",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "chuseok-traffic-2026",
+  "schemaVersion": 1,
+  "title": "2026 추석 교통 흐름",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

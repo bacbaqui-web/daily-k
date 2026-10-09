@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-household-lending",
-  "title": "국내 가계대출 관리",
   "entries": [
     {
-      "id": "2026-09-22-am-archive/archive-06",
-      "editionId": "2026-09-22-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-22",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 198,
+        "lineStart": 198,
+        "ordinal": 6,
+        "originalText": "5대 은행 가계대출 총량 목표 재초과.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-22/am.json",
+      "category": "경제·금융",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 5대 은행 가계대출 총량 목표 재초과.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-22",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-22",
+      "editionId": "2026-09-22-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 5대 은행 가계대출 총량 목표 재초과.",
-      "title": "5대 은행 가계대출 총량 목표 재초과",
-      "category": "경제·금융",
-      "status": "과거 기록",
-      "summary": [
-        "5대 은행 가계대출 총량 목표 재초과."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-22-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "5대 은행 가계대출 총량 목표 재초과."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-22/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "5대 은행 가계대출 총량 목표 재초과."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "5대 은행 가계대출 총량 목표 재초과.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 198,
-        "lineEnd": 198,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "5대 은행 가계대출 총량 목표 재초과",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-01-am-archive/archive-06",
-      "editionId": "2026-10-01-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-10-01",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 405,
+        "lineStart": 405,
+        "ordinal": 6,
+        "originalText": "신규 가계대출 DSR 규제 예외 비중 70.5%.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-22",
+          "edition": "am",
+          "storyId": "archive-06",
+          "title": "5대 은행 가계대출 총량 목표 재초과"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-01/am.json",
+      "category": "경제·금융",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 신규 가계대출 DSR 규제 예외 비중 70.5%.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-01",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-10-01",
+      "editionId": "2026-10-01-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 신규 가계대출 DSR 규제 예외 비중 70.5%.",
-      "title": "신규 가계대출 DSR 규제 예외 비중 70.5%",
-      "category": "경제·금융",
-      "status": "과거 기록",
-      "summary": [
-        "신규 가계대출 DSR 규제 예외 비중 70.5%."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-01-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "신규 가계대출 DSR 규제 예외 비중 70.5%."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-01/am.json",
       "previous": {
         "editionId": "2026-09-22-am-archive",
         "storyId": "archive-06"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "신규 가계대출 DSR 규제 예외 비중 70.5%."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "신규 가계대출 DSR 규제 예외 비중 70.5%.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 405,
-        "lineEnd": 405,
-        "previousCoverage": {
-          "date": "2026-09-22",
-          "edition": "am",
-          "storyId": "archive-06",
-          "title": "5대 은행 가계대출 총량 목표 재초과",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "신규 가계대출 DSR 규제 예외 비중 70.5%",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-household-lending",
+  "schemaVersion": 1,
+  "title": "국내 가계대출 관리",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

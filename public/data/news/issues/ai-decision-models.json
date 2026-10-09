@@ -1,69 +1,69 @@
 {
-  "schemaVersion": 1,
-  "id": "ai-decision-models",
-  "title": "AI 에이전트의 판단 모델과 비용 효율",
   "entries": [
     {
-      "id": "2026-10-02-pm/ai-decision-models-clef-2026-10",
-      "editionId": "2026-10-02-pm",
-      "storyId": "ai-decision-models-clef-2026-10",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "AI·개발도구",
+      "change": "10월 1일자 Clef 공개를 2일 국내 분석 기사와 공식 발표로 대조했습니다. 오늘 새로 출시됐다고 표현하지 않고 판단 전용 모델 경쟁의 확대로 정리했습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T15:33:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "국내 기사는 10월 2일 15시 33분입니다. 공식 발표는 October 1로 표시되지만 정확한 사건 시각·기준 시간대가 불명확해 사건 날짜는 비워 두었습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-02-pm/ai-decision-models-clef-2026-10",
+      "keyFacts": {
+        "announcementDateLabel": "2026-10-01",
+        "modelCount": "2종",
+        "models": "Clef, Clef-flash",
+        "performanceEvidence": "회사 자체 평가",
+        "weightsLicense": "Apache 2.0"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-02T15:33:00+09:00",
+      "sources": [
+        {
+          "kind": "specialist",
+          "language": "ko",
+          "name": "바이라인네트워크",
+          "publishedAt": "2026-10-02T15:33:00+09:00",
+          "title": "오픈AI・AWS도 참전, Jev가 터뜨린 ‘디시전 AI’ 전쟁",
+          "url": "https://byline.network/2026/10/2-472/",
+          "verificationNote": "웹 검색 도구에서 본문과 시각 확인. 기술 설명은 Cloudflare 공식 발표와 대조한 Clef 부분에 한정했습니다.",
+          "verifiedAt": "2026-10-02T21:21:48+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "en",
+          "name": "Cloudflare",
+          "publishedAt": null,
+          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+          "url": "https://blog.cloudflare.com/clef-decision-models/",
+          "verificationNote": "공식 글에 October 1, 2026 표시. 정확한 게시 시각·시간대는 확인되지 않았습니다. 성능 수치는 회사 자체 평가입니다.",
+          "verifiedAt": "2026-10-02T21:21:48+09:00"
+        }
+      ],
       "stage": "분석",
-      "change": "10월 1일자 Clef 공개를 2일 국내 분석 기사와 공식 발표로 대조했습니다. 오늘 새로 출시됐다고 표현하지 않고 판단 전용 모델 경쟁의 확대로 정리했습니다.",
-      "title": "문장 생성과 판단을 분리하는 AI…Cloudflare도 Clef 두 모델 공개",
-      "category": "AI·개발도구",
       "status": "분석",
+      "storyId": "ai-decision-models-clef-2026-10",
       "summary": [
         "AI가 매번 긴 답변을 만드는 대신 선택지를 고르는 데 특화된 ‘판단 모델’ 경쟁이 확대되고 있습니다. 오늘 국내 기술 보도가 이 흐름을 정리했고, Cloudflare의 공식 발표로 Clef와 Clef-flash 두 모델 공개를 확인했습니다.",
         "예를 들어 요청을 어느 도구로 보낼지 정하는 작업은 긴 설명보다 일관된 선택이 중요합니다. 판단 모델은 정해진 답과 확률을 내보내고, 복잡한 설명이나 계획은 별도의 언어모델이 맡도록 역할을 나누는 접근입니다.",
         "Cloudflare는 10월 1일자 공식 글에서 두 모델의 가중치를 Apache 2.0 라이선스로 제공한다고 밝혔습니다. 회사는 자체 평가에서 빠른 응답과 낮은 비용을 강조했지만, 이를 모든 업무에서 검증된 절감률로 받아들일 수는 없습니다.",
         "개발자에게는 AI 자동화의 모든 단계에 큰 생성 모델을 호출할 필요가 있는지 재검토할 계기가 됩니다. 다만 확률값이 붙었다고 판단이 항상 옳은 것은 아니므로, 실제 업무의 오류율과 실패 시 처리까지 함께 비교해야 합니다."
       ],
-      "keyFacts": {
-        "models": "Clef, Clef-flash",
-        "modelCount": "2종",
-        "weightsLicense": "Apache 2.0",
-        "announcementDateLabel": "2026-10-01",
-        "performanceEvidence": "회사 자체 평가"
-      },
-      "uncertainty": "성능·비용 우위는 작업과 환경에 따라 다릅니다. 공식 글의 게시 시간대와 독립적인 운영 성능 검증은 확인하지 못했습니다.",
-      "sources": [
-        {
-          "name": "바이라인네트워크",
-          "title": "오픈AI・AWS도 참전, Jev가 터뜨린 ‘디시전 AI’ 전쟁",
-          "url": "https://byline.network/2026/10/2-472/",
-          "publishedAt": "2026-10-02T15:33:00+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:21:48+09:00",
-          "verificationNote": "웹 검색 도구에서 본문과 시각 확인. 기술 설명은 Cloudflare 공식 발표와 대조한 Clef 부분에 한정했습니다."
-        },
-        {
-          "name": "Cloudflare",
-          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-          "url": "https://blog.cloudflare.com/clef-decision-models/",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "en",
-          "verifiedAt": "2026-10-02T21:21:48+09:00",
-          "verificationNote": "공식 글에 October 1, 2026 표시. 정확한 게시 시각·시간대는 확인되지 않았습니다. 성능 수치는 회사 자체 평가입니다."
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "문장 생성과 판단을 분리하는 AI…Cloudflare도 Clef 두 모델 공개",
+      "uncertainty": "성능·비용 우위는 작업과 환경에 따라 다릅니다. 공식 글의 게시 시간대와 독립적인 운영 성능 검증은 확인하지 못했습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "ai-decision-models",
+  "schemaVersion": 1,
+  "title": "AI 에이전트의 판단 모델과 비용 효율",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

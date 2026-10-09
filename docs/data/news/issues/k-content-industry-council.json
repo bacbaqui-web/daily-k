@@ -1,53 +1,53 @@
 {
-  "schemaVersion": 1,
-  "id": "k-content-industry-council",
-  "title": "K-콘텐츠산업협의회",
   "entries": [
     {
-      "id": "2026-09-15-pm-archive/archive-10",
-      "editionId": "2026-09-15-pm-archive",
-      "storyId": "archive-10",
-      "editionDate": "2026-09-15",
-      "edition": "pm",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범.",
-      "title": "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범",
-      "category": "웹툰 산업",
-      "status": "과거 기록",
-      "summary": [
-        "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범."
-      ],
-      "keyFacts": {
-        "originalRecord": "[웹툰] 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범. 확인: 뉴시스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 52,
+        "lineStart": 51,
+        "ordinal": 10,
         "originalText": "[웹툰] 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범. 확인: 뉴시스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "뉴시스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 10,
-        "lineStart": 51,
-        "lineEnd": 52,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/pm.json",
+      "category": "웹툰 산업",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "pm",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-pm-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-pm-archive/archive-10",
+      "keyFacts": {
+        "originalRecord": "[웹툰] 웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범. 확인: 뉴시스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-10",
+      "summary": [
+        "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범."
+      ],
+      "supersededBy": [],
+      "title": "웹툰 포함 11개 콘텐츠 단체 'K-콘텐츠산업협의회' 출범",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "k-content-industry-council",
+  "schemaVersion": 1,
+  "title": "K-콘텐츠산업협의회",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

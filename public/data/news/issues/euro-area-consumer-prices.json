@@ -1,69 +1,69 @@
 {
-  "schemaVersion": 1,
-  "id": "euro-area-consumer-prices",
-  "title": "유로존 소비자물가와 에너지 부담",
   "entries": [
     {
-      "id": "2026-10-02-pm/euro-area-cpi-2026-09-flash",
-      "editionId": "2026-10-02-pm",
-      "storyId": "euro-area-cpi-2026-09-flash",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "국제·경제",
+      "change": "10월 2일 발표된 9월 속보치가 8월보다 높아졌습니다. 확정 통계나 ECB의 새 금리 결정은 아닙니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T19:07:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": null,
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Europe/Luxembourg",
       "eventTimeNote": "유로스타트의 10월 2일 현지 발표를 한국시간 18~19시 국내 기사로 확인했습니다. 정확한 발표 시각은 미확인입니다.",
+      "eventTimezone": "Europe/Luxembourg",
+      "followUp": null,
+      "id": "2026-10-02-pm/euro-area-cpi-2026-09-flash",
+      "keyFacts": {
+        "changePp": "+0.6%포인트",
+        "headlineYoY": "3.8%",
+        "previousMonthYoY": "3.2%",
+        "releaseType": "9월 속보 추정치"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-02T19:07:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img.newspim.com/news/2024/04/13/2404130050289550_t1.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-02T19:07:00+09:00",
+          "title": "유로존 인플레이션 전달보다 0.6%p 높아진 3.8%… 이란 전쟁 발발 직후보다 높아",
+          "url": "https://ir.newspim.com/news/view/20261002001282",
+          "verifiedAt": "2026-10-02T21:13:57+09:00"
+        },
+        {
+          "imageUrl": "https://img1.newsis.com/2025/01/30/NISI20250130_0000071304_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T18:45:39+09:00",
+          "title": "유로존 9월 인플레 3.8%로 ↑…8월의 3.2%에서",
+          "url": "https://www.newsis.com/view/NISX20261002_0003813159",
+          "verificationNote": "본문 등록 시각 사용. 수정 시각 19:22:24. 에너지·서비스 세부 수치가 뉴스핌과 달라 본문에서는 제외했습니다.",
+          "verifiedAt": "2026-10-02T21:13:58+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "10월 2일 발표된 9월 속보치가 8월보다 높아졌습니다. 확정 통계나 ECB의 새 금리 결정은 아닙니다.",
-      "title": "유로존 9월 물가 3.8% 속보치…전월보다 0.6%포인트 높아져",
-      "category": "국제·경제",
       "status": "보도",
+      "storyId": "euro-area-cpi-2026-09-flash",
       "summary": [
         "유로존의 9월 소비자물가 상승률 속보치가 전년 대비 3.8%로 발표됐습니다. 8월의 3.2%보다 0.6%포인트 높아져 물가 압력이 다시 커졌습니다.",
         "이는 물가가 한 달 사이 3.8% 올랐다는 뜻이 아니라, 지난해 같은 달과 비교한 상승률입니다. 아직 속보 추정치이므로 최종 통계에서 수정될 수 있습니다.",
         "두 국내 보도는 에너지 가격 상승이 물가 부담을 키웠다는 데 공통점을 보였습니다. 다만 세부 항목 수치에는 차이가 있어 이번 브리핑에는 교차 확인된 전체 상승률을 중심으로 담았습니다.",
         "물가가 높아지면 유럽중앙은행이 금리를 낮추기 어려워질 수 있다는 해석이 나옵니다. 이번 발표 자체가 금리 변경 결정은 아니며, 국내 기업에는 유럽 수요와 에너지 비용이 함께 움직일 수 있는 대외 변수라는 의미가 있습니다."
       ],
-      "keyFacts": {
-        "headlineYoY": "3.8%",
-        "previousMonthYoY": "3.2%",
-        "changePp": "+0.6%포인트",
-        "releaseType": "9월 속보 추정치"
-      },
-      "uncertainty": "속보치는 수정될 수 있습니다. 에너지·서비스 세부 수치는 매체 간 불일치로 제외했으며 통화정책 전망은 확정 사실이 아닙니다.",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "유로존 인플레이션 전달보다 0.6%p 높아진 3.8%… 이란 전쟁 발발 직후보다 높아",
-          "url": "https://ir.newspim.com/news/view/20261002001282",
-          "publishedAt": "2026-10-02T19:07:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:57+09:00",
-          "imageUrl": "https://img.newspim.com/news/2024/04/13/2404130050289550_t1.jpg"
-        },
-        {
-          "name": "뉴시스",
-          "title": "유로존 9월 인플레 3.8%로 ↑…8월의 3.2%에서",
-          "url": "https://www.newsis.com/view/NISX20261002_0003813159",
-          "publishedAt": "2026-10-02T18:45:39+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:58+09:00",
-          "imageUrl": "https://img1.newsis.com/2025/01/30/NISI20250130_0000071304_web.jpg",
-          "verificationNote": "본문 등록 시각 사용. 수정 시각 19:22:24. 에너지·서비스 세부 수치가 뉴스핌과 달라 본문에서는 제외했습니다."
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "유로존 9월 물가 3.8% 속보치…전월보다 0.6%포인트 높아져",
+      "uncertainty": "속보치는 수정될 수 있습니다. 에너지·서비스 세부 수치는 매체 간 불일치로 제외했으며 통화정책 전망은 확정 사실이 아닙니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "euro-area-consumer-prices",
+  "schemaVersion": 1,
+  "title": "유로존 소비자물가와 에너지 부담",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,0 +1,77 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-09/pm.json",
+      "category": "사회·문화",
+      "change": "오전의 경축식 예정 일정 이후 실제 행사 개최와 한국어 말뭉치·해외 교육의 2030년 목표가 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-09T20:44:48+09:00",
+      "coveredOn": "2026-10-09",
+      "edition": "pm",
+      "editionDate": "2026-10-09",
+      "editionId": "2026-10-09-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "기자 본문으로 사건 날짜를 확인했으며 정확한 시각은 기사에 없으면 추정하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-09-pm/hangul-centenary-language-policy-2026-10-09",
+      "keyFacts": {
+        "anniversary": "훈민정음 반포 580돌·한글날 제정 100주년",
+        "corpus2030Target": "340",
+        "corpusCurrent": "174",
+        "eventDate": "2026-10-09",
+        "schoolCountries2030Target": "70여개국 이상",
+        "schoolCountriesCurrent": "51",
+        "sejong2030Target": "350곳 이상",
+        "sejongCurrent": "273",
+        "speaker": "한성숙 국무총리"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-09T11:04:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-09T11:04:00+09:00",
+          "title": "韓총리 \"AI시대에도 한글 가치 이어갈 것…정부, 적극 뒷받침\"",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/amp/view/AKR20261009027400001",
+          "verificationNote": "한국어 기자 본문 직접 열람. 경축식 개최·100주년·총리 인명·말뭉치/세종학당/한국어교육 국가 목표·번역 지원. 별도 수정시각 미표기",
+          "verifiedAt": "2026-10-09T20:37:00+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "아시아투데이",
+          "publishedAt": "2026-10-09T11:29:00+09:00",
+          "title": "韓총리 “AI 시대에도 한글 가치 이어갈 것…정부가 적극 뒷받침”",
+          "updatedAt": null,
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261009010002673",
+          "verificationNote": "한국어 기자 본문 직접 열람. 경축식 인명·장소·한국어 말뭉치 174→340종·세종학당 273→350곳 이상 교차확인. 승인시각, 별도 수정시각 미표기",
+          "verifiedAt": "2026-10-09T20:37:00+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "hangul-centenary-language-policy-2026-10-09",
+      "summary": [
+        "훈민정음 반포 580돌이자 한글날 제정 100주년인 9일 서울 세종문화회관에서 경축식이 열렸습니다. 한성숙 국무총리는 인공지능 시대에도 한글의 가치를 이어가도록 정부 지원을 강화하겠다고 밝혔습니다.",
+        "AI 학습 등에 쓰이는 한국어 말뭉치를 현재 174종에서 2030년 340종으로 늘릴 계획입니다. 말뭉치는 연구와 기계 학습에 쓸 수 있도록 모은 언어 자료로, 한국어를 읽고 이해하는 기술의 기반입니다.",
+        "해외 교육도 확대할 방침입니다. 2030년까지 세종학당은 273곳에서 350곳 이상으로, 정규 교육기관에서 한국어 과정을 운영하는 나라는 51개국에서 70여 개국 이상으로 늘린다는 계획입니다.",
+        "총리는 한국문학 번역 인력 육성과 번역·출판 지원, 외래어 순화도 언급했습니다. 오늘 확인된 것은 경축식 개최와 중기 지원 목표로, 목표 수치가 이미 달성되거나 예산·집행이 모두 확정된 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "한글날 제정 100주년…한국어 AI 자료 340종·해외 교육 확대 목표",
+      "uncertainty": "340종·350곳·70여 개국은 2030년 목표이며 현재 실적이 아니다. 두 원문 모두 발언자를 '한성숙 국무총리'로 확인했다. 기사에 없는 경축식 실제 시작시간은 추정하지 않았다."
+    }
+  ],
+  "id": "hangul-centenary-language-policy-2026",
+  "schemaVersion": 1,
+  "title": "한글날 제정 100주년과 한국어 AI·교육 정책",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
+}

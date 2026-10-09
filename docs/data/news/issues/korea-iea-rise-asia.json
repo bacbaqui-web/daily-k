@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-iea-rise-asia",
-  "title": "한국·IEA RISE ASIA",
   "entries": [
     {
-      "id": "2026-09-17-pm-archive/archive-05",
-      "editionId": "2026-09-17-pm-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-17",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 95,
+        "lineStart": 95,
+        "ordinal": 5,
+        "originalText": "한국-IEA RISE ASIA 출범.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-17/pm.json",
+      "category": "경제·에너지",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 한국-IEA RISE ASIA 출범.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-17",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-17",
+      "editionId": "2026-09-17-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 한국-IEA RISE ASIA 출범.",
-      "title": "한국-IEA RISE ASIA 출범",
-      "category": "경제·에너지",
-      "status": "과거 기록",
-      "summary": [
-        "한국-IEA RISE ASIA 출범."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-17-pm-archive/archive-05",
       "keyFacts": {
         "originalRecord": "한국-IEA RISE ASIA 출범."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-17/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "한국-IEA RISE ASIA 출범."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "한국-IEA RISE ASIA 출범.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 95,
-        "lineEnd": 95,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "한국-IEA RISE ASIA 출범",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-iea-rise-asia",
+  "schemaVersion": 1,
+  "title": "한국·IEA RISE ASIA",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

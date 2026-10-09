@@ -1,0 +1,16 @@
+{
+  "command": "finalize",
+  "payload": {
+    "edition": "2026-10-09-pm",
+    "operationId": "finalize-2026-10-09-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-09T21:00:07.909748+09:00",
+  "result": {
+    "id": "2026-10-09-pm",
+    "operationId": "finalize-2026-10-09-pm",
+    "recordedAt": "2026-10-09T21:00:07.909748+09:00",
+    "sha256": "2431674ae9dc18eec76bf35e4e73743006bfbf2382f66167cdc946900e1106f2",
+    "windowId": "2026-10-10-am"
+  }
+}

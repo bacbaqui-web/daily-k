@@ -1,81 +1,81 @@
 {
-  "schemaVersion": 1,
-  "id": "nobel-chemistry-2026",
-  "title": "2026년 노벨 화학상과 비대칭 유기합성",
   "entries": [
     {
-      "id": "2026-10-07-pm/nobel-chemistry-kagan-soai-2026",
-      "editionId": "2026-10-07-pm",
-      "storyId": "nobel-chemistry-kagan-soai-2026",
-      "editionDate": "2026-10-07",
-      "edition": "pm",
+      "briefingPath": "2026-10-07/pm.json",
+      "category": "국제·과학",
+      "change": "오늘 화학상 수상자2명과 선정 공로가 공식 발표됐습니다. 기존 물리학상·생리의학상과 구분하는 새 수상 분야의 결과입니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T23:24:57+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-07T19:13:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-pm",
       "eventAt": null,
       "eventDate": "2026-10-07",
       "eventEndDate": null,
-      "eventTimezone": "Europe/Stockholm",
       "eventTimeNote": "10월7일 스웨덴 현지 발표입니다. 공식 예정시각11:45 CEST 이후는 확인했지만 실제 발표의 정확한 분은 단정하지 않았습니다.",
+      "eventTimezone": "Europe/Stockholm",
+      "followUp": null,
+      "id": "2026-10-07-pm/nobel-chemistry-kagan-soai-2026",
+      "keyFacts": {
+        "awardYear": "2026",
+        "citation": "비대칭 유기합성에서 비선형 효과와 자기촉매 발견",
+        "field": "화학",
+        "laureates": "앙리B.카강·소아이겐소"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-07T19:13:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-07T19:13:00+09:00",
+          "title": "'거울상 분자' 비밀 밝힌 앙리 카강·소아이 겐소, 2026 노벨화학상 수상",
+          "url": "https://www.mt.co.kr/tech/2026/10/07/2026100717114988224",
+          "verificationNote": "원문 본문과 표시시각19:13을 확인했습니다. 검색색인의 초기 제목과 현재 본문 제목이 다르며 현행 제목을 저장합니다. 선정 결과·공로는 공식 발표로 대조했습니다.",
+          "verifiedAt": "2026-10-07T23:17:09+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "스웨덴 왕립과학원",
+          "publishedAt": null,
+          "title": "The Nobel Prize in Chemistry 2026: They made chemistry choose a mirror image",
+          "url": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/",
+          "verificationNote": "공식10월7일 발표 본문에서 수상자·공로·연구연도 확인. 게시 시·분은 미표시하므로 null. 동일 사실은19:13 한국어 기사로 기준 이전 공개를 확인했습니다.",
+          "verifiedAt": "2026-10-07T23:17:09+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "스웨덴 왕립과학원",
+          "publishedAt": null,
+          "title": "They solved chemistry’s asymmetric mystery",
+          "url": "https://www.kva.se/en/prizes/nobel-prizes/they-solved-chemistrys-asymmetric-mystery/",
+          "verificationNote": "올해 수상연구의 공식 해설 본문 확인. 인공 소아이 반응은 생명계의 화학과 다르며 생명기원 자체가 해결됐다는 과장은 피했습니다.",
+          "verifiedAt": "2026-10-07T23:17:09+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "오늘 화학상 수상자2명과 선정 공로가 공식 발표됐습니다. 기존 물리학상·생리의학상과 구분하는 새 수상 분야의 결과입니다.",
-      "title": "노벨 화학상 카강·소아이…거울상 분자의 작은 차이를 키운 연구",
-      "category": "국제·과학",
       "status": "확정",
+      "storyId": "nobel-chemistry-kagan-soai-2026",
       "summary": [
         "2026년 노벨 화학상은 앙리 카강과 소아이 겐소에게 돌아갔습니다. 스웨덴 왕립과학원은 비대칭 유기합성에서 비선형 효과와 자기촉매를 발견한 공로를 선정 이유로 밝혔습니다.",
         "일부 분자는 왼손과 오른손처럼 모양이 서로 거울상인 두 형태로 존재합니다. 원자 구성이 같아도 생체 안에서는 다르게 작용할 수 있어 의약품 제조에서는 원하는 형태를 선택적으로 만드는 기술이 중요합니다.",
         "카강은 촉매의 작은 비대칭이 생성물에서 훨씬 큰 차이로 이어질 수 있음을 보였습니다. 소아이는 만들어진 물질이 다시 반응을 돕는 자기촉매를 이용해 한쪽 거울상 분자가 증폭되는 반응을 구현했습니다.",
         "오전의 수상자 발표 일정이 실제 선정 결과로 바뀐 소식입니다. 공식 해설은 소아이 반응이 생명계와 다른 인공 반응이라고 구분하고 있어, 생명의 기원 전체를 밝혔다는 뜻으로 확대해서는 안 됩니다."
       ],
-      "keyFacts": {
-        "laureates": "앙리B.카강·소아이겐소",
-        "awardYear": "2026",
-        "field": "화학",
-        "citation": "비대칭 유기합성에서 비선형 효과와 자기촉매 발견"
-      },
-      "uncertainty": "기존 연구의 노벨상 선정이지 오늘 새 의약품이나 상용제품이 출시됐다는 발표가 아닙니다. 인공 반응의 성과를 생명기원 전체의 해명으로 일반화하지 않습니다.",
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "'거울상 분자' 비밀 밝힌 앙리 카강·소아이 겐소, 2026 노벨화학상 수상",
-          "url": "https://www.mt.co.kr/tech/2026/10/07/2026100717114988224",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-07T19:13:00+09:00",
-          "verifiedAt": "2026-10-07T23:17:09+09:00",
-          "imageUrl": null,
-          "verificationNote": "원문 본문과 표시시각19:13을 확인했습니다. 검색색인의 초기 제목과 현재 본문 제목이 다르며 현행 제목을 저장합니다. 선정 결과·공로는 공식 발표로 대조했습니다."
-        },
-        {
-          "name": "스웨덴 왕립과학원",
-          "title": "The Nobel Prize in Chemistry 2026: They made chemistry choose a mirror image",
-          "url": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/",
-          "language": "en",
-          "kind": "official",
-          "publishedAt": null,
-          "verifiedAt": "2026-10-07T23:17:09+09:00",
-          "imageUrl": null,
-          "verificationNote": "공식10월7일 발표 본문에서 수상자·공로·연구연도 확인. 게시 시·분은 미표시하므로 null. 동일 사실은19:13 한국어 기사로 기준 이전 공개를 확인했습니다."
-        },
-        {
-          "name": "스웨덴 왕립과학원",
-          "title": "They solved chemistry’s asymmetric mystery",
-          "url": "https://www.kva.se/en/prizes/nobel-prizes/they-solved-chemistrys-asymmetric-mystery/",
-          "language": "en",
-          "kind": "official",
-          "publishedAt": null,
-          "verifiedAt": "2026-10-07T23:17:09+09:00",
-          "imageUrl": null,
-          "verificationNote": "올해 수상연구의 공식 해설 본문 확인. 인공 소아이 반응은 생명계의 화학과 다르며 생명기원 자체가 해결됐다는 과장은 피했습니다."
-        }
-      ],
-      "briefingPath": "2026-10-07/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "노벨 화학상 카강·소아이…거울상 분자의 작은 차이를 키운 연구",
+      "uncertainty": "기존 연구의 노벨상 선정이지 오늘 새 의약품이나 상용제품이 출시됐다는 발표가 아닙니다. 인공 반응의 성과를 생명기원 전체의 해명으로 일반화하지 않습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "nobel-chemistry-2026",
+  "schemaVersion": 1,
+  "title": "2026년 노벨 화학상과 비대칭 유기합성",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

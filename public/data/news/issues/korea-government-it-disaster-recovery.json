@@ -1,27 +1,68 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-government-it-disaster-recovery",
-  "title": "국가 정보시스템 재해복구와 대전센터 이전",
   "entries": [
     {
-      "id": "2026-10-02-pm/government-it-recovery-2026-10",
-      "editionId": "2026-10-02-pm",
-      "storyId": "government-it-recovery-2026-10",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "기술·공공정책",
+      "change": "10월 1일 점검한 추진현황이 2일 공개되며 우선 구축 13개와 내년 상반기 목표가 구체적으로 확인됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T11:55:08+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": null,
       "eventDate": "2026-10-01",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "장관의 추진현황 점검은 10월 1일, 자료 공개와 기사 보도는 10월 2일입니다. 구축과 센터 이전은 미래 계획입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-02-pm/government-it-recovery-2026-10",
+      "keyFacts": {
+        "daejeonClosureTarget": "2030년",
+        "planningSystems": "97개",
+        "priorityCompletionTarget": "2027년 상반기",
+        "prioritySystems": "13개",
+        "replacementPlanTarget": "2027년 1분기"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-02T11:55:08+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2025/09/28/NISI20250928_0020996750_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T11:55:08+09:00",
+          "title": "국정자원 시스템 13개, 첫 '이중화' 착수…2030년 대전 폐쇄(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812254",
+          "verificationNote": "본문 등록 시각 사용. 수정 시각은 13:38:25입니다.",
+          "verifiedAt": "2026-10-02T21:13:58+09:00"
+        },
+        {
+          "imageUrl": "https://mois.go.kr/images/og_logo.jpg",
+          "kind": "official",
+          "language": "ko",
+          "name": "행정안전부",
+          "publishedAt": null,
+          "title": "행정안전부장관, 국가 정보시스템 안정성 강화에 총력",
+          "url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129939",
+          "verificationNote": "10월 2일 게시. 장관의 추진현황 점검은 10월 1일이며 구축 완료 발표가 아닙니다.",
+          "verifiedAt": "2026-10-02T21:13:58+09:00"
+        },
+        {
+          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100200610.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-10-02T10:31:57+09:00",
+          "title": "국정자원 화재 1년…재해복구체계 단계적 구축·대전센터 2030년 폐쇄(종합)",
+          "url": "https://coinlab.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03250486645608984",
+          "verifiedAt": "2026-10-02T21:13:59+09:00"
+        }
+      ],
       "stage": "후속",
-      "change": "10월 1일 점검한 추진현황이 2일 공개되며 우선 구축 13개와 내년 상반기 목표가 구체적으로 확인됐습니다.",
-      "title": "국가 정보시스템 13개 이중화 착수 계획…완료 목표는 내년 상반기",
-      "category": "기술·공공정책",
       "status": "예정",
+      "storyId": "government-it-recovery-2026-10",
       "summary": [
         "정부가 중요 국가 정보시스템 13개의 재해복구체계 구축을 이달 시작해 2027년 상반기까지 마치겠다고 밝혔습니다. 장애가 나도 다른 장소에서 서비스를 이어가기 위한 조치입니다.",
         "행정안전부는 대전센터의 중요 시스템 97개를 대상으로 계획을 세우고, 이 중 13개를 우선 추진한다고 설명했습니다. 주민등록과 안전디딤돌 등이 포함되며, 데이터를 복사하는 단계와 실제 서버를 운영할 수 있게 하는 단계를 구분해 추진합니다.",
@@ -29,54 +70,13 @@
         "대전센터는 2030년까지 폐쇄할 계획이며, 대체 장소와 재배치 방안은 2027년 1분기까지 마련한다는 목표입니다. 신축·임대 등 방식도 검토 중이어서 이전 방식이 모두 확정된 것은 아닙니다.",
         "중요한 변화는 백업 파일 보관에서 서비스 연속성 확보로 복구 범위를 넓힌다는 점입니다. 이번에는 일정과 대상을 제시한 것이므로 실제 장애 전환 시험과 구축 완료 여부를 따로 확인해야 합니다."
       ],
-      "keyFacts": {
-        "prioritySystems": "13개",
-        "planningSystems": "97개",
-        "priorityCompletionTarget": "2027년 상반기",
-        "daejeonClosureTarget": "2030년",
-        "replacementPlanTarget": "2027년 1분기"
-      },
-      "uncertainty": "구축 완료 성과가 아니라 추진 계획입니다. 대체센터 입지·방식과 실제 복구 성능은 추가 확인이 필요합니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "국정자원 시스템 13개, 첫 '이중화' 착수…2030년 대전 폐쇄(종합)",
-          "url": "https://www.newsis.com/view/NISX20261002_0003812254",
-          "publishedAt": "2026-10-02T11:55:08+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:58+09:00",
-          "imageUrl": "https://img1.newsis.com/2025/09/28/NISI20250928_0020996750_web.jpg",
-          "verificationNote": "본문 등록 시각 사용. 수정 시각은 13:38:25입니다."
-        },
-        {
-          "name": "행정안전부",
-          "title": "행정안전부장관, 국가 정보시스템 안정성 강화에 총력",
-          "url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129939",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:58+09:00",
-          "imageUrl": "https://mois.go.kr/images/og_logo.jpg",
-          "verificationNote": "10월 2일 게시. 장관의 추진현황 점검은 10월 1일이며 구축 완료 발표가 아닙니다."
-        },
-        {
-          "name": "이데일리",
-          "title": "국정자원 화재 1년…재해복구체계 단계적 구축·대전센터 2030년 폐쇄(종합)",
-          "url": "https://coinlab.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03250486645608984",
-          "publishedAt": "2026-10-02T10:31:57+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:59+09:00",
-          "imageUrl": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26100200610.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "국가 정보시스템 13개 이중화 착수 계획…완료 목표는 내년 상반기",
+      "uncertainty": "구축 완료 성과가 아니라 추진 계획입니다. 대체센터 입지·방식과 실제 복구 성능은 추가 확인이 필요합니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-government-it-disaster-recovery",
+  "schemaVersion": 1,
+  "title": "국가 정보시스템 재해복구와 대전센터 이전",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

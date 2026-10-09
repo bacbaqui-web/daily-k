@@ -1,143 +1,195 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-equities-flows",
-  "title": "한국 증시와 외국인 수급",
   "entries": [
     {
-      "id": "2026-10-05-am/kosdaq-sector-september-review-2026-10-05",
-      "editionId": "2026-10-05-am",
-      "storyId": "kosdaq-sector-september-review-2026-10-05",
-      "editionDate": "2026-10-05",
-      "edition": "am",
+      "briefingPath": "2026-10-05/am.json",
+      "category": "증시·반도체",
+      "change": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-05T09:11:19+09:00",
       "coveredOn": "2026-10-05",
-      "publishedAt": "2026-10-05T07:38:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-05",
+      "editionId": "2026-10-05-am",
       "eventAt": null,
       "eventDate": "2026-09-01",
       "eventEndDate": "2026-09-30",
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "수익률의 대상 기간은 9월 1~30일이며 기사 공개는 10월 5일입니다. 월간 분석에 단일 거래 시각을 부여하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다.",
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-market-2026-10-02-close"
+      },
+      "id": "2026-10-05-am/kosdaq-sector-september-review-2026-10-05",
+      "keyFacts": {
+        "kosdaqElectricalMonthly": "+10.28%",
+        "kosdaqMachineryMonthly": "+14.00%",
+        "kosdaqPharmaMonthly": "-10.51%",
+        "kosdaqPharmaYtd": "-36.65%, 9월 말 기준",
+        "marketStatusToday": "10월 5일 KRX 휴장",
+        "measurementPeriod": "2026-09 월간"
+      },
+      "previous": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "korea-market-2026-10-02-close"
+      },
+      "publishedAt": "2026-10-05T07:38:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/10/05/.cache/512/20261005500026.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "경북매일",
+          "publishedAt": "2026-10-05T07:38:00+09:00",
+          "title": "반도체로 돈 몰리자 제약주 ‘찬바람’…코스닥 제약 9월 10.51% 급락",
+          "url": "https://www.kbmaeil.com/article/20261005500028",
+          "verificationNote": "본문의 온라인 등록은 10월 5일 07:38이고 지면 게재일은 10월 6일입니다. 두 날짜를 구분했습니다. 연합인포맥스 인용 9월 월간 수치를 확인했습니다.",
+          "verifiedAt": "2026-10-05T09:05:57+09:00"
+        }
+      ],
       "stage": "분석",
-      "change": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다.",
-      "title": "9월 코스닥 제약 10.51% 하락…반도체 관련 업종과 격차",
-      "category": "증시·반도체",
       "status": "분석",
+      "storyId": "kosdaq-sector-september-review-2026-10-05",
       "summary": [
         "오늘 아침 나온 9월 업종별 분석에서 코스닥 제약 지수는 한 달 동안 10.51% 하락한 것으로 집계됐습니다. 같은 기간 반도체 소재·부품·장비 기업이 포함된 기계·장비 업종은 14%, 전기·전자는 10.28% 상승했습니다.",
         "직전 브리핑에서는 10월 2일 시장 마감을 다뤘지만, 이번에는 9월 한 달의 업종 간 차이를 살폈습니다. 제약 지수의 연초 이후 하락률은 36.65%로, 월간 하락률과 구분해야 하는 숫자입니다.",
         "보도는 AI·반도체로의 자금 집중, 금리 상승, 개별 기업의 악재가 겹쳤다고 분석합니다. 신약 개발처럼 현금이 들어오기까지 시간이 오래 걸리는 사업은 금리가 높아질수록 미래 수익의 현재 가치가 낮게 평가될 수 있습니다.",
         "따라서 지수 상승만 보고 모든 업종의 투자 여건이 좋아졌다고 해석하기는 어렵습니다. 이는 지난달 성과에 대한 분석이며 다음 수익률을 보장하는 전망은 아닙니다. 오늘 10월 5일 국내 증시는 휴장이므로 새 장중 수치나 종가가 아닙니다."
       ],
-      "keyFacts": {
-        "measurementPeriod": "2026-09 월간",
-        "kosdaqPharmaMonthly": "-10.51%",
-        "kosdaqMachineryMonthly": "+14.00%",
-        "kosdaqElectricalMonthly": "+10.28%",
-        "kosdaqPharmaYtd": "-36.65%, 9월 말 기준",
-        "marketStatusToday": "10월 5일 KRX 휴장"
-      },
-      "uncertainty": "금리·수급과 하락의 인과 기여도를 따로 측정한 분석은 아니며 향후 업종 수익률은 미확정입니다.",
-      "sources": [
-        {
-          "name": "경북매일",
-          "title": "반도체로 돈 몰리자 제약주 ‘찬바람’…코스닥 제약 9월 10.51% 급락",
-          "url": "https://www.kbmaeil.com/article/20261005500028",
-          "publishedAt": "2026-10-05T07:38:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-05T09:05:57+09:00",
-          "imageUrl": "https://umq1gm7a8386.edge.naverncp.com/data2/content/image/2026/10/05/.cache/512/20261005500026.jpg",
-          "verificationNote": "본문의 온라인 등록은 10월 5일 07:38이고 지면 게재일은 10월 6일입니다. 두 날짜를 구분했습니다. 연합인포맥스 인용 9월 월간 수치를 확인했습니다."
-        }
-      ],
-      "briefingPath": "2026-10-05/am.json",
-      "previous": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "korea-market-2026-10-02-close"
-      },
-      "followUp": {
-        "editionId": "2026-10-02-pm",
-        "storyId": "korea-market-2026-10-02-close",
-        "delta": "직전 10월 2일 종가 보도와 달리 오늘 아침 보도에서 9월 업종별 수익률 격차가 제시됐습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "9월 코스닥 제약 10.51% 하락…반도체 관련 업종과 격차",
+      "uncertainty": "금리·수급과 하락의 인과 기여도를 따로 측정한 분석은 아니며 향후 업종 수익률은 미확정입니다."
     },
     {
-      "id": "2026-10-02-pm/korea-market-2026-10-02-close",
-      "editionId": "2026-10-02-pm",
-      "storyId": "korea-market-2026-10-02-close",
-      "editionDate": "2026-10-02",
-      "edition": "pm",
+      "briefingPath": "2026-10-02/pm.json",
+      "category": "증시·반도체",
+      "change": "10월 2일 국내 정규장 종가가 확정됐습니다. 코스피는 7천선을 회복했지만 코스닥은 소폭 하락했습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T21:21:48+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T15:58:10+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-pm",
       "eventAt": "2026-10-02T15:30:00+09:00",
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 2일 15시 30분 국내 주식시장 정규장 마감 결과입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-02-pm/korea-market-2026-10-02-close",
+      "keyFacts": {
+        "foreignNetBuying": "-1367억원",
+        "kosdaqChangePct": "-0.11%",
+        "kosdaqClose": "893.29",
+        "kospiChangePct": "+0.46%",
+        "kospiClose": "7003.74",
+        "samsungChangePct": "0.00%",
+        "skHynixChangePct": "+0.44%"
+      },
+      "previous": {
+        "editionId": "2026-10-01-pm-archive",
+        "storyId": "archive-01"
+      },
+      "publishedAt": "2026-10-02T15:58:10+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/04/23/NISI20260423_0002118294_web.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-02T15:58:10+09:00",
+          "title": "코스피, 오르락 내리락 끝에 7000선 '턱걸이'…연휴 앞두고 관망",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812850",
+          "verifiedAt": "2026-10-02T21:13:56+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "10월 2일 국내 정규장 종가가 확정됐습니다. 코스피는 7천선을 회복했지만 코스닥은 소폭 하락했습니다.",
-      "title": "코스피 7,003.74로 마감…7천선 회복에도 외국인은 순매도",
-      "category": "증시·반도체",
       "status": "확정",
+      "storyId": "korea-market-2026-10-02-close",
       "summary": [
         "코스피가 전일보다 0.46% 오른 7,003.74로 장을 마쳤습니다. 코스닥은 0.11% 내린 893.29로 마감해 두 시장의 방향이 갈렸습니다.",
         "코스피는 6,938.27에서 하락 출발한 뒤 등락을 거쳐 7천선을 회복했습니다. 기관은 3,813억 원을 순매수했지만 외국인은 1,367억 원을 순매도했습니다.",
         "반도체 대형주 중 삼성전자는 보합, SK하이닉스는 0.44% 상승으로 정규장을 마쳤습니다. 지수 회복을 반도체 전반의 강한 동반 상승으로 확대해 해석하기에는 종목별 움직임이 제한적이었습니다.",
         "이날 결과는 지수가 올라도 외국인 자금 흐름까지 함께 개선된 것은 아니라는 점을 보여줍니다. 연휴 뒤에는 해외 금리·유가와 함께 외국인 매매 방향이 바뀌는지를 확인할 필요가 있습니다."
       ],
-      "keyFacts": {
-        "kospiClose": "7003.74",
-        "kospiChangePct": "+0.46%",
-        "kosdaqClose": "893.29",
-        "kosdaqChangePct": "-0.11%",
-        "foreignNetBuying": "-1367억원",
-        "samsungChangePct": "0.00%",
-        "skHynixChangePct": "+0.44%"
-      },
-      "uncertainty": "정규장 마감 수치이며 이후 거래는 포함하지 않습니다. 하루의 외국인 순매도만으로 중장기 방향을 단정할 수 없습니다.",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "title": "코스피, 오르락 내리락 끝에 7000선 '턱걸이'…연휴 앞두고 관망",
-          "url": "https://www.newsis.com/view/NISX20261002_0003812850",
-          "publishedAt": "2026-10-02T15:58:10+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T21:13:56+09:00",
-          "imageUrl": "https://img1.newsis.com/2026/04/23/NISI20260423_0002118294_web.jpg"
-        }
-      ],
-      "briefingPath": "2026-10-02/pm.json",
-      "previous": {
-        "editionId": "2026-10-01-pm-archive",
-        "storyId": "archive-01"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "코스피 7,003.74로 마감…7천선 회복에도 외국인은 순매도",
+      "uncertainty": "정규장 마감 수치이며 이후 거래는 포함하지 않습니다. 하루의 외국인 순매도만으로 중장기 방향을 단정할 수 없습니다."
     },
     {
-      "id": "2026-10-06-pm/korea-market-2026-10-06-close",
-      "editionId": "2026-10-06-pm",
-      "storyId": "korea-market-2026-10-06-close",
-      "editionDate": "2026-10-06",
-      "edition": "pm",
+      "briefingPath": "2026-10-06/pm.json",
+      "category": "증시·환율",
+      "change": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-06T21:17:18+09:00",
       "coveredOn": "2026-10-06",
-      "publishedAt": "2026-10-06T16:06:21+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-06",
+      "editionId": "2026-10-06-pm",
       "eventAt": "2026-10-06T15:30:00+09:00",
       "eventDate": "2026-10-06",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "국내 주식 정규장 마감과 외환 주간거래 15:30 기준입니다. 기사 작성·야간 외환 마감 시각이 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다.",
+        "editionId": "2026-10-05-am",
+        "storyId": "kosdaq-sector-september-review-2026-10-05"
+      },
+      "id": "2026-10-06-pm/korea-market-2026-10-06-close",
+      "keyFacts": {
+        "daytimeClose": "1343.6원",
+        "kosdaqChangePct": "+2.98%",
+        "kosdaqClose": "919.92",
+        "kospiChangePct": "-0.89%",
+        "kospiClose": "6941.39",
+        "referenceType": "10월6일 KRX 정규장 지수 종가 및15:30 외환 주간 종가",
+        "samsungChangePct": "-1.45%",
+        "skHynixChangePct": "-3.69%"
+      },
+      "previous": {
+        "editionId": "2026-10-05-am",
+        "storyId": "kosdaq-sector-september-review-2026-10-05"
+      },
+      "publishedAt": "2026-10-06T16:06:21+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100615343649431_1.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-06T16:06:21+09:00",
+          "title": "\"곧 성적표 뜬다\" 반도체 관망에 7천피 내줘…코스닥 톱10 '빨간불' - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/06/2026100615343649431",
+          "verificationNote": "16:15:01 수정본까지 확인했습니다. KRX·NXT 합산 수급과 지수 종가를 구분하고, 상충하는 기관 수급 수치는 요약에서 제외합니다.",
+          "verifiedAt": "2026-10-06T21:12:34+09:00"
+        },
+        {
+          "imageUrl": "https://i3n.news1.kr/system/photos/2017/12/7/2860599/high.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-10-06T15:37:36+09:00",
+          "title": "코스피,  0.89% 하락한 6941.39 마감…코스닥 2.98%↑(2보)",
+          "url": "https://www.news1.kr/finance/general-stock/6311688",
+          "verificationNote": "한국어 기사 검색 본문과 원문 메타데이터를 대조했습니다. 주가·환율 숫자는 다른 접근 가능한 원문에서도 일치합니다.",
+          "verifiedAt": "2026-10-06T21:10:42+09:00"
+        },
+        {
+          "imageUrl": "https://img.newspim.com/news/2026/10/06/261006153225767_w.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-06T15:50:00+09:00",
+          "title": "[마감시황] 반도체 숨고르기에 코스피 6941선 마감…코스닥은 3%대↑",
+          "url": "https://m.newspim.com/news/view/20261006001098",
+          "verificationNote": "본문과 메타데이터를 직접 열었습니다. 다른 원문과 일치하는 종가·등락률만 사용하며 코스닥 투자자별 수급의 상충 수치는 채택하지 않았습니다.",
+          "verifiedAt": "2026-10-06T21:09:09+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다.",
-      "title": "코스피 6,941.39로 하락…코스닥은 2.98% 상승 마감",
-      "category": "증시·환율",
       "status": "확정",
+      "storyId": "korea-market-2026-10-06-close",
       "summary": [
         "오늘 코스피는 6,941.39로 0.89% 내렸지만 코스닥은 919.92로 2.98% 올랐습니다. 같은 국내 증시 안에서도 대형 반도체주와 코스닥 주요 종목의 방향이 갈렸습니다.",
         "코스피는 직전 거래일 종가 7,003.74에서 62.35포인트 떨어져 7,000선 아래로 돌아왔습니다. 삼성전자는 1.45%, SK하이닉스는 3.69% 하락한 반면 삼성전기와 LG에너지솔루션은 각각 5% 넘게 상승했습니다.",
@@ -145,1065 +197,1013 @@
         "원·달러 환율은 15시 30분 주간거래 기준 1,343.6원으로 보도됐습니다. 이는 주간 종가이며, 밤까지 이어지는 외환시장 전체 거래의 최종 마감값과는 구별해야 합니다.",
         "아침에 확인한 미국 기술주 상승이 국내 대형 반도체주 상승으로 그대로 이어지지는 않았습니다. 잠정실적과 향후 수급을 기다리는 분위기라는 시장 해석이 나오지만, 하루의 등락만으로 업종 추세가 바뀌었다고 단정하기는 어렵습니다."
       ],
-      "keyFacts": {
-        "kospiClose": "6941.39",
-        "kospiChangePct": "-0.89%",
-        "kosdaqClose": "919.92",
-        "kosdaqChangePct": "+2.98%",
-        "samsungChangePct": "-1.45%",
-        "skHynixChangePct": "-3.69%",
-        "daytimeClose": "1343.6원",
-        "referenceType": "10월6일 KRX 정규장 지수 종가 및15:30 외환 주간 종가"
-      },
-      "uncertainty": "잠정실적을 앞둔 관망이라는 설명은 시장 해석입니다. 투자자별 매매 수치는 거래소 합산 범위와 집계 시각이 달라 이번 요약에는 넣지 않았습니다.",
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "\"곧 성적표 뜬다\" 반도체 관망에 7천피 내줘…코스닥 톱10 '빨간불' - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/06/2026100615343649431",
-          "publishedAt": "2026-10-06T16:06:21+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:12:34+09:00",
-          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100615343649431_1.jpg",
-          "verificationNote": "16:15:01 수정본까지 확인했습니다. KRX·NXT 합산 수급과 지수 종가를 구분하고, 상충하는 기관 수급 수치는 요약에서 제외합니다."
-        },
-        {
-          "name": "뉴스1",
-          "title": "코스피,  0.89% 하락한 6941.39 마감…코스닥 2.98%↑(2보)",
-          "url": "https://www.news1.kr/finance/general-stock/6311688",
-          "publishedAt": "2026-10-06T15:37:36+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:10:42+09:00",
-          "imageUrl": "https://i3n.news1.kr/system/photos/2017/12/7/2860599/high.jpg",
-          "verificationNote": "한국어 기사 검색 본문과 원문 메타데이터를 대조했습니다. 주가·환율 숫자는 다른 접근 가능한 원문에서도 일치합니다."
-        },
-        {
-          "name": "뉴스핌",
-          "title": "[마감시황] 반도체 숨고르기에 코스피 6941선 마감…코스닥은 3%대↑",
-          "url": "https://m.newspim.com/news/view/20261006001098",
-          "publishedAt": "2026-10-06T15:50:00+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-06T21:09:09+09:00",
-          "imageUrl": "https://img.newspim.com/news/2026/10/06/261006153225767_w.jpg",
-          "verificationNote": "본문과 메타데이터를 직접 열었습니다. 다른 원문과 일치하는 종가·등락률만 사용하며 코스닥 투자자별 수급의 상충 수치는 채택하지 않았습니다."
-        }
-      ],
-      "briefingPath": "2026-10-06/pm.json",
-      "previous": {
-        "editionId": "2026-10-05-am",
-        "storyId": "kosdaq-sector-september-review-2026-10-05"
-      },
-      "followUp": {
-        "editionId": "2026-10-05-am",
-        "storyId": "kosdaq-sector-september-review-2026-10-05",
-        "delta": "직전 회차의 9월 업종별 성과 분석 이후 오늘의 새 정규장 종가가 나왔습니다. 코스피는 직전 거래일 7,003.74에서 6,941.39로 하락했고 코스닥은 919.92로 상승했습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "코스피 6,941.39로 하락…코스닥은 2.98% 상승 마감",
+      "uncertainty": "잠정실적을 앞둔 관망이라는 설명은 시장 해석입니다. 투자자별 매매 수치는 거래소 합산 범위와 집계 시각이 달라 이번 요약에는 넣지 않았습니다."
     },
     {
-      "id": "2026-10-07-pm/korea-market-2026-10-07-close",
-      "editionId": "2026-10-07-pm",
-      "storyId": "korea-market-2026-10-07-close",
-      "editionDate": "2026-10-07",
-      "edition": "pm",
+      "briefingPath": "2026-10-07/pm.json",
+      "category": "증시·환율",
+      "change": "10월 6일 마감 이후 새 거래일인 7일 코스피가 6,803.90, 코스닥이 898.43으로 동반 하락했고 15:30 원·달러 환율은 1,340.4원으로 낮아졌습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-07T23:24:57+09:00",
       "coveredOn": "2026-10-07",
-      "publishedAt": "2026-10-07T16:09:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-07",
+      "editionId": "2026-10-07-pm",
       "eventAt": "2026-10-07T15:30:00+09:00",
       "eventDate": "2026-10-07",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "KRX 정규장 종가와 같은 시각의 서울 외환시장 주간 거래 기준입니다. 시간외 거래나 밤사이 환율은 포함하지 않습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "10월 6일 마감 이후 새 거래일인 7일 코스피가 6,803.90, 코스닥이 898.43으로 동반 하락했고 15:30 원·달러 환율은 1,340.4원으로 낮아졌습니다.",
+        "editionId": "2026-10-06-pm",
+        "storyId": "korea-market-2026-10-06-close"
+      },
+      "id": "2026-10-07-pm/korea-market-2026-10-07-close",
+      "keyFacts": {
+        "daytimeClose": "1340.4원",
+        "kosdaqChangePct": "-2.34%",
+        "kosdaqClose": "898.43",
+        "kospiChangePct": "-1.98%",
+        "kospiClose": "6803.90",
+        "referenceType": "10월7일 KRX 정규장 지수 종가 및15:30 외환 주간 거래 기준",
+        "samsungChangePct": "-1.29%",
+        "skHynixChangePct": "-2.82%"
+      },
+      "previous": {
+        "editionId": "2026-10-06-pm",
+        "storyId": "korea-market-2026-10-06-close"
+      },
+      "publishedAt": "2026-10-07T16:09:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/10/07/PYH2026100723700001300_P4.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-07T16:09:00+09:00",
+          "title": "코스피, 美금리 반등·삼전 실적 경계에 하락…6,800선 턱걸이(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261007145851008",
+          "verificationNote": "원문 본문과 송고시각 확인. 정규장 종가와 15:30 환율, 보도 당시 외국인·기관 수급을 구분했습니다. 이후 달라질 수 있는 수급 정산값·시간외 가격을 섞지 않았습니다. 대표 이미지 링크도 기사 본문에서 직접 열어 확인했습니다.",
+          "verifiedAt": "2026-10-07T23:17:09+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-07T15:40:00+09:00",
+          "title": "[속보] 코스피 6,800선 마감...삼성전자 1%대 하락",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610071540346995_005.html",
+          "verificationNote": "기사 본문을 열어 지수 종가·삼성전자·SK하이닉스 등락률과 15:30 환율을 대조했습니다. URL 내부 초는 시각으로 추정하지 않았습니다.",
+          "verifiedAt": "2026-10-07T23:17:09+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "10월 6일 마감 이후 새 거래일인 7일 코스피가 6,803.90, 코스닥이 898.43으로 동반 하락했고 15:30 원·달러 환율은 1,340.4원으로 낮아졌습니다.",
-      "title": "코스피 6,803.90으로 1.98% 하락…외국인·기관 동반 순매도",
-      "category": "증시·환율",
       "status": "확정",
+      "storyId": "korea-market-2026-10-07-close",
       "summary": [
         "코스피는 6,803.90으로 1.98% 하락했고 코스닥은 898.43으로 2.34% 내렸습니다. 10월 6일과 달리 두 시장이 함께 하락한 새 거래일의 마감 결과입니다.",
         "연합뉴스의 16시 9분 집계에서 외국인은 유가증권시장에서 약 2조6천억원, 기관은 약 6천7백억원을 순매도했습니다. 개인은 약 2조6천억원을 순매수했지만 지수 하락을 막지 못했습니다.",
         "삼성전자는 1.29%, SK하이닉스는 2.82% 떨어졌습니다. 보도는 미국 국채금리 반등과 8일 삼성전자 잠정실적 발표를 앞둔 경계감을 배경으로 제시했으며, 이는 가격 변화의 원인을 설명하는 시장 해석입니다.",
         "원·달러 환율은 15시 30분 기준 1,340.4원으로 전날 같은 기준보다 3.2원 낮았습니다. 주가와 환율이 함께 내려 원화 약세만으로 이날 장세를 설명하기는 어렵고, 내일은 기업이 공개할 실제 실적과 외국인 수급을 함께 확인할 필요가 있습니다."
       ],
-      "keyFacts": {
-        "kospiClose": "6803.90",
-        "kospiChangePct": "-1.98%",
-        "kosdaqClose": "898.43",
-        "kosdaqChangePct": "-2.34%",
-        "samsungChangePct": "-1.29%",
-        "skHynixChangePct": "-2.82%",
-        "daytimeClose": "1340.4원",
-        "referenceType": "10월7일 KRX 정규장 지수 종가 및15:30 외환 주간 거래 기준"
-      },
-      "uncertainty": "장세 원인은 시장 분석이며 한 가지 요인으로 확정할 수 없습니다. 수급은 보도 시점 집계이고, 15:30 이후 주가·환율 변화는 반영하지 않습니다.",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "title": "코스피, 美금리 반등·삼전 실적 경계에 하락…6,800선 턱걸이(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261007145851008",
-          "language": "ko",
-          "kind": "wire",
-          "publishedAt": "2026-10-07T16:09:00+09:00",
-          "verifiedAt": "2026-10-07T23:17:09+09:00",
-          "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/10/07/PYH2026100723700001300_P4.jpg",
-          "verificationNote": "원문 본문과 송고시각 확인. 정규장 종가와 15:30 환율, 보도 당시 외국인·기관 수급을 구분했습니다. 이후 달라질 수 있는 수급 정산값·시간외 가격을 섞지 않았습니다. 대표 이미지 링크도 기사 본문에서 직접 열어 확인했습니다."
-        },
-        {
-          "name": "YTN",
-          "title": "[속보] 코스피 6,800선 마감...삼성전자 1%대 하락",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610071540346995_005.html",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-07T15:40:00+09:00",
-          "verifiedAt": "2026-10-07T23:17:09+09:00",
-          "imageUrl": null,
-          "verificationNote": "기사 본문을 열어 지수 종가·삼성전자·SK하이닉스 등락률과 15:30 환율을 대조했습니다. URL 내부 초는 시각으로 추정하지 않았습니다."
-        }
-      ],
-      "briefingPath": "2026-10-07/pm.json",
-      "previous": {
-        "editionId": "2026-10-06-pm",
-        "storyId": "korea-market-2026-10-06-close"
-      },
-      "followUp": {
-        "editionId": "2026-10-06-pm",
-        "storyId": "korea-market-2026-10-06-close",
-        "delta": "10월 6일 마감 이후 새 거래일인 7일 코스피가 6,803.90, 코스닥이 898.43으로 동반 하락했고 15:30 원·달러 환율은 1,340.4원으로 낮아졌습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "코스피 6,803.90으로 1.98% 하락…외국인·기관 동반 순매도",
+      "uncertainty": "장세 원인은 시장 분석이며 한 가지 요인으로 확정할 수 없습니다. 수급은 보도 시점 집계이고, 15:30 이후 주가·환율 변화는 반영하지 않습니다."
     },
     {
-      "id": "2026-10-08-pm/korea-market-2026-10-08-close",
-      "editionId": "2026-10-08-pm",
-      "storyId": "korea-market-2026-10-08-close",
-      "editionDate": "2026-10-08",
-      "edition": "pm",
+      "briefingPath": "2026-10-08/pm.json",
+      "category": "증시·환율",
+      "change": "새 거래일인 10월 8일 코스피 6,625.93·코스닥 892.27·주간 환율 1,338.5원의 마감 결과가 나왔습니다. 삼성전자 잠정실적 발표 이후 반도체 대형주의 주가와 수급이 확인됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T20:39:55+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T16:27:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-pm",
       "eventAt": "2026-10-08T15:30:00+09:00",
       "eventDate": "2026-10-08",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "한국거래소 정규장 종가와 서울 외환시장 15시 30분 주간 거래 기준입니다. 이후 시간외 주가나 야간 환율은 포함하지 않습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "새 거래일인 8일 코스피가 6,625.93으로 2.62%, 코스닥은 892.27로 0.69% 하락했습니다. 삼성전자 잠정실적 발표 이후의 주가·수급과 1,338.5원의 주간 환율을 새로 확인했습니다.",
+        "editionId": "2026-10-07-pm",
+        "storyId": "korea-market-2026-10-07-close"
+      },
+      "id": "2026-10-08-pm/korea-market-2026-10-08-close",
+      "keyFacts": {
+        "daytimeChange": "-1.9원",
+        "daytimeClose": "1338.5원",
+        "foreignNetSelling": "1조9921억원, 머니투데이 16:27 보도",
+        "institutionNetSelling": "1조6714억원, 머니투데이 16:27 보도",
+        "kosdaqChangePct": "-0.69%",
+        "kosdaqClose": "892.27",
+        "kospiChangePct": "-2.62%",
+        "kospiClose": "6625.93",
+        "referenceType": "10월 8일 KRX 정규장 종가 및 15:30 외환 주간 거래",
+        "samsungChangePct": "-2.42%",
+        "samsungClose": "262000원",
+        "skHynixChangePct": "-2.44%",
+        "skHynixClose": "1681000원"
+      },
+      "previous": {
+        "editionId": "2026-10-07-pm",
+        "storyId": "korea-market-2026-10-07-close"
+      },
+      "publishedAt": "2026-10-08T16:27:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-08T16:27:00+09:00",
+          "title": "삼전 대박 성적도 힘 못 썼다…외인·기관 \"팔자\"에 6600피로 '털썩'",
+          "url": "https://www.mt.co.kr/stock/2026/10/08/2026100815501498253",
+          "verifiedAt": "2026-10-08T20:31:38+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-08T15:48:30+09:00",
+          "title": "원·달러 환율, 1.9원 내린 1338.5원 마감",
+          "url": "https://nwww.newsis.com/view/NISX20261008_0003819463",
+          "verifiedAt": "2026-10-08T20:29:33+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-08T16:38:00+09:00",
+          "title": "사흘째 내린 코스피",
+          "updatedAt": "2026-10-08T16:38:00+09:00",
+          "url": "https://www.newspim.com/news/view/20261008001222",
+          "verifiedAt": "2026-10-08T20:29:38+09:00"
+        }
+      ],
       "stage": "결과",
-      "change": "새 거래일인 10월 8일 코스피 6,625.93·코스닥 892.27·주간 환율 1,338.5원의 마감 결과가 나왔습니다. 삼성전자 잠정실적 발표 이후 반도체 대형주의 주가와 수급이 확인됐습니다.",
-      "title": "코스피 6,625.93으로 2.62% 하락…외국인·기관 동반 순매도",
-      "category": "증시·환율",
       "status": "확정",
+      "storyId": "korea-market-2026-10-08-close",
       "summary": [
         "코스피가 6,625.93으로 2.62% 하락했고 코스닥도 892.27로 0.69% 내렸습니다. 삼성전자의 실적 발표가 있었던 8일 실제 마감 결과로, 전날에 이어 두 시장이 함께 하락했습니다.",
         "머니투데이의 16시 27분 보도에서는 유가증권시장 외국인이 약 1조9,921억원, 기관이 1조6,714억원을 순매도한 것으로 집계됐습니다. 개인은 약 2조9,061억원을 순매수했지만 지수 하락을 막지 못했습니다.",
         "삼성전자는 2.42% 내린 26만2,000원에, SK하이닉스는 2.44% 내린 168만1,000원에 마감했습니다. 실적 발표 후에도 반도체 대형주가 약세를 보였으며, 금리·유가와 연휴 전 경계심리 등이 영향을 줬다는 설명은 시장 전문가의 해석입니다.",
         "원·달러 환율은 주간 거래에서 1,338.5원으로 마감해 전날 같은 기준보다 1.9원 낮았습니다. 주가와 환율이 함께 내려 이날 국내 시장을 원화 약세 하나로 설명하기는 어렵고, 수급 수치는 보도 시점의 집계라는 점도 구분해 볼 필요가 있습니다."
       ],
-      "keyFacts": {
-        "kospiClose": "6625.93",
-        "kospiChangePct": "-2.62%",
-        "kosdaqClose": "892.27",
-        "kosdaqChangePct": "-0.69%",
-        "samsungClose": "262000원",
-        "samsungChangePct": "-2.42%",
-        "skHynixClose": "1681000원",
-        "skHynixChangePct": "-2.44%",
-        "daytimeClose": "1338.5원",
-        "daytimeChange": "-1.9원",
-        "foreignNetSelling": "1조9921억원, 머니투데이 16:27 보도",
-        "institutionNetSelling": "1조6714억원, 머니투데이 16:27 보도",
-        "referenceType": "10월 8일 KRX 정규장 종가 및 15:30 외환 주간 거래"
-      },
-      "uncertainty": "종가와 당일 등락은 확인된 결과입니다. 수급은 해당 기사 시점 집계이며 이후 정산에서 달라질 수 있고, 금리·유가 등이 미친 영향은 시장 해석으로 단정하지 않습니다.",
-      "sources": [
-        {
-          "name": "머니투데이",
-          "title": "삼전 대박 성적도 힘 못 썼다…외인·기관 \"팔자\"에 6600피로 '털썩'",
-          "url": "https://www.mt.co.kr/stock/2026/10/08/2026100815501498253",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T16:27:00+09:00",
-          "verifiedAt": "2026-10-08T20:31:38+09:00",
-          "imageUrl": null
-        },
-        {
-          "name": "뉴시스",
-          "title": "원·달러 환율, 1.9원 내린 1338.5원 마감",
-          "url": "https://nwww.newsis.com/view/NISX20261008_0003819463",
-          "language": "ko",
-          "kind": "wire",
-          "publishedAt": "2026-10-08T15:48:30+09:00",
-          "verifiedAt": "2026-10-08T20:29:33+09:00",
-          "imageUrl": null
-        },
-        {
-          "name": "뉴스핌",
-          "title": "사흘째 내린 코스피",
-          "url": "https://www.newspim.com/news/view/20261008001222",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T16:38:00+09:00",
-          "verifiedAt": "2026-10-08T20:29:38+09:00",
-          "imageUrl": null,
-          "updatedAt": "2026-10-08T16:38:00+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-08/pm.json",
-      "previous": {
-        "editionId": "2026-10-07-pm",
-        "storyId": "korea-market-2026-10-07-close"
-      },
-      "followUp": {
-        "editionId": "2026-10-07-pm",
-        "storyId": "korea-market-2026-10-07-close",
-        "delta": "새 거래일인 8일 코스피가 6,625.93으로 2.62%, 코스닥은 892.27로 0.69% 하락했습니다. 삼성전자 잠정실적 발표 이후의 주가·수급과 1,338.5원의 주간 환율을 새로 확인했습니다."
-      },
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "코스피 6,625.93으로 2.62% 하락…외국인·기관 동반 순매도",
+      "uncertainty": "종가와 당일 등락은 확인된 결과입니다. 수급은 해당 기사 시점 집계이며 이후 정산에서 달라질 수 있고, 금리·유가 등이 미친 영향은 시장 해석으로 단정하지 않습니다."
     },
     {
-      "id": "2026-09-15-pm-archive/archive-01",
-      "editionId": "2026-09-15-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-15",
-      "edition": "pm",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도.",
-      "title": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도."
-      ],
-      "keyFacts": {
-        "originalRecord": "[증시·환율] 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도. 확인: 연합뉴스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 39,
+        "lineStart": 38,
+        "ordinal": 1,
         "originalText": "[증시·환율] 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도. 확인: 연합뉴스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "연합뉴스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 38,
-        "lineEnd": 39,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
-    },
-    {
-      "id": "2026-09-16-pm-archive/archive-01",
-      "editionId": "2026-09-16-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-16",
-      "edition": "pm",
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도.",
+      "correctionOf": null,
       "coveredAt": null,
-      "coveredOn": "2026-09-16",
-      "publishedAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "pm",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-pm-archive/archive-01",
+      "keyFacts": {
+        "originalRecord": "[증시·환율] 코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도. 확인: 연합뉴스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
       "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원.",
-      "title": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원",
-      "category": "증시·환율",
       "status": "과거 기록",
+      "storyId": "archive-01",
       "summary": [
-        "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원."
+        "코스피 6,627.26(-0.85%), 원·달러 1,359.4원. 외국인 약 1조5,700억원 순매도."
       ],
+      "supersededBy": [],
+      "title": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
+    },
+    {
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 68,
+        "lineStart": 68,
+        "ordinal": 1,
+        "originalText": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-15",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-16/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-16",
+      "edition": "pm",
+      "editionDate": "2026-09-16",
+      "editionId": "2026-09-16-pm-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-16-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-16/pm.json",
       "previous": {
         "editionId": "2026-09-15-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 68,
-        "lineEnd": 68,
-        "previousCoverage": {
-          "date": "2026-09-15",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 6,627.26(-0.85%), 원·달러 1,359.4원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-17-pm-archive/archive-01",
-      "editionId": "2026-09-17-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-17",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 91,
+        "lineStart": 91,
+        "ordinal": 1,
+        "originalText": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-16",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-17/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-17",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-17",
+      "editionId": "2026-09-17-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도.",
-      "title": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-17-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-17/pm.json",
       "previous": {
         "editionId": "2026-09-16-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 91,
-        "lineEnd": 91,
-        "previousCoverage": {
-          "date": "2026-09-16",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 6,717.97(+1.37%), 원·달러 장중 1,372.9원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-18-pm-archive/archive-01",
-      "editionId": "2026-09-18-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-18",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 115,
+        "lineStart": 115,
+        "ordinal": 1,
+        "originalText": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-17",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-18/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-18",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-18",
+      "editionId": "2026-09-18-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수.",
-      "title": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-18-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-18/pm.json",
       "previous": {
         "editionId": "2026-09-17-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 115,
-        "lineEnd": 115,
-        "previousCoverage": {
-          "date": "2026-09-17",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 -0.04%, 원·달러 1,382.2원, 외국인 2.28조 순매도",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-20-pm-archive/archive-04",
-      "editionId": "2026-09-20-pm-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-20",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 162,
+        "lineStart": 162,
+        "ordinal": 4,
+        "originalText": "외국인 주간 코스피 8조7,627억원 순매도.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-18",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-20/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 외국인 주간 코스피 8조7,627억원 순매도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-20",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-20",
+      "editionId": "2026-09-20-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 외국인 주간 코스피 8조7,627억원 순매도.",
-      "title": "외국인 주간 코스피 8조7,627억원 순매도",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "외국인 주간 코스피 8조7,627억원 순매도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-20-pm-archive/archive-04",
       "keyFacts": {
         "originalRecord": "외국인 주간 코스피 8조7,627억원 순매도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-20/pm.json",
       "previous": {
         "editionId": "2026-09-18-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "외국인 주간 코스피 8조7,627억원 순매도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "외국인 주간 코스피 8조7,627억원 순매도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 162,
-        "lineEnd": 162,
-        "previousCoverage": {
-          "date": "2026-09-18",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 +2.66% 6,894, 외국인 8거래일 만에 순매수",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "외국인 주간 코스피 8조7,627억원 순매도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-21-am-archive/archive-04",
-      "editionId": "2026-09-21-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-21",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 173,
+        "lineStart": 173,
+        "ordinal": 4,
+        "originalText": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-20",
+          "edition": "pm",
+          "storyId": "archive-04",
+          "title": "외국인 주간 코스피 8조7,627억원 순매도"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/am.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원.",
-      "title": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/am.json",
       "previous": {
         "editionId": "2026-09-20-pm-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 173,
-        "lineEnd": 173,
-        "previousCoverage": {
-          "date": "2026-09-20",
-          "edition": "pm",
-          "storyId": "archive-04",
-          "title": "외국인 주간 코스피 8조7,627억원 순매도",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-21-pm-archive/archive-01",
-      "editionId": "2026-09-21-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-21",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 182,
+        "lineStart": 182,
+        "ordinal": 1,
+        "originalText": "코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-21",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%.",
-      "title": "코스피 7,007.72, 7천선 회복",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/pm.json",
       "previous": {
         "editionId": "2026-09-21-am-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 7,007.72, 7천선 회복. 삼성전자 +4.98%.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 182,
-        "lineEnd": 182,
-        "previousCoverage": {
-          "date": "2026-09-21",
-          "edition": "am",
-          "storyId": "archive-04",
-          "title": "코스피 6,900선 재도전, 원·달러 예상 1,380~1,391원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 7,007.72, 7천선 회복",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-22-pm-archive/archive-01",
-      "editionId": "2026-09-22-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-22",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 204,
+        "lineStart": 204,
+        "ordinal": 1,
+        "originalText": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-21",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 7,007.72, 7천선 회복"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-22/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-22",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-22",
+      "editionId": "2026-09-22-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원.",
-      "title": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-22-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-22/pm.json",
       "previous": {
         "editionId": "2026-09-21-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납. 원·달러 1,358.2원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 204,
-        "lineEnd": 204,
-        "previousCoverage": {
-          "date": "2026-09-21",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 7,007.72, 7천선 회복",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-23-pm-archive/archive-01",
-      "editionId": "2026-09-23-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-23",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 226,
+        "lineStart": 226,
+        "ordinal": 1,
+        "originalText": "코스피 7,080.92, 연휴 전 마지막 거래일 상승.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-22",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-23/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,080.92, 연휴 전 마지막 거래일 상승.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-23",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-23",
+      "editionId": "2026-09-23-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 7,080.92, 연휴 전 마지막 거래일 상승.",
-      "title": "코스피 7,080.92, 연휴 전 마지막 거래일 상승",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 7,080.92, 연휴 전 마지막 거래일 상승."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-23-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 7,080.92, 연휴 전 마지막 거래일 상승."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-23/pm.json",
       "previous": {
         "editionId": "2026-09-22-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 7,080.92, 연휴 전 마지막 거래일 상승."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 7,080.92, 연휴 전 마지막 거래일 상승.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 226,
-        "lineEnd": 226,
-        "previousCoverage": {
-          "date": "2026-09-22",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 7,017.91, 장중 +2.34% 후 상승폭 반납",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 7,080.92, 연휴 전 마지막 거래일 상승",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-27-am-archive/archive-03",
-      "editionId": "2026-09-27-am-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-27",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 307,
+        "lineStart": 307,
+        "ordinal": 3,
+        "originalText": "국내장 재개 전 해외시장 점검.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-23",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 7,080.92, 연휴 전 마지막 거래일 상승"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-27/am.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 국내장 재개 전 해외시장 점검.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-27",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-27",
+      "editionId": "2026-09-27-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 국내장 재개 전 해외시장 점검.",
-      "title": "국내장 재개 전 해외시장 점검",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "국내장 재개 전 해외시장 점검."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-27-am-archive/archive-03",
       "keyFacts": {
         "originalRecord": "국내장 재개 전 해외시장 점검."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-27/am.json",
       "previous": {
         "editionId": "2026-09-23-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "국내장 재개 전 해외시장 점검."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "국내장 재개 전 해외시장 점검.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 307,
-        "lineEnd": 307,
-        "previousCoverage": {
-          "date": "2026-09-23",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 7,080.92, 연휴 전 마지막 거래일 상승",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "국내장 재개 전 해외시장 점검",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-27-pm-archive/archive-03",
-      "editionId": "2026-09-27-pm-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-27",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 318,
+        "lineStart": 318,
+        "ordinal": 3,
+        "originalText": "국내장 재개 대기, 연휴 해외시장 반영.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-27",
+          "edition": "am",
+          "storyId": "archive-03",
+          "title": "국내장 재개 전 해외시장 점검"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-27/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 국내장 재개 대기, 연휴 해외시장 반영.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-27",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-27",
+      "editionId": "2026-09-27-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 국내장 재개 대기, 연휴 해외시장 반영.",
-      "title": "국내장 재개 대기, 연휴 해외시장 반영",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "국내장 재개 대기, 연휴 해외시장 반영."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-27-pm-archive/archive-03",
       "keyFacts": {
         "originalRecord": "국내장 재개 대기, 연휴 해외시장 반영."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-27/pm.json",
       "previous": {
         "editionId": "2026-09-27-am-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "국내장 재개 대기, 연휴 해외시장 반영."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "국내장 재개 대기, 연휴 해외시장 반영.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 318,
-        "lineEnd": 318,
-        "previousCoverage": {
-          "date": "2026-09-27",
-          "edition": "am",
-          "storyId": "archive-03",
-          "title": "국내장 재개 전 해외시장 점검",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "국내장 재개 대기, 연휴 해외시장 반영",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-28-am-archive/archive-04",
-      "editionId": "2026-09-28-am-archive",
-      "storyId": "archive-04",
-      "editionDate": "2026-09-28",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 331,
+        "lineStart": 331,
+        "ordinal": 4,
+        "originalText": "추석 연휴 끝, 코스피 7,080.92에서 재개장.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-27",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "국내장 재개 대기, 연휴 해외시장 반영"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-28/am.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 연휴 끝, 코스피 7,080.92에서 재개장.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-28",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-28",
+      "editionId": "2026-09-28-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 추석 연휴 끝, 코스피 7,080.92에서 재개장.",
-      "title": "추석 연휴 끝, 코스피 7,080.92에서 재개장",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "추석 연휴 끝, 코스피 7,080.92에서 재개장."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-28-am-archive/archive-04",
       "keyFacts": {
         "originalRecord": "추석 연휴 끝, 코스피 7,080.92에서 재개장."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-28/am.json",
       "previous": {
         "editionId": "2026-09-27-pm-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-04",
+      "summary": [
+        "추석 연휴 끝, 코스피 7,080.92에서 재개장."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "추석 연휴 끝, 코스피 7,080.92에서 재개장.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 4,
-        "lineStart": 331,
-        "lineEnd": 331,
-        "previousCoverage": {
-          "date": "2026-09-27",
-          "edition": "pm",
-          "storyId": "archive-03",
-          "title": "국내장 재개 대기, 연휴 해외시장 반영",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "추석 연휴 끝, 코스피 7,080.92에서 재개장",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-28-pm-archive/archive-03",
-      "editionId": "2026-09-28-pm-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-28",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 340,
+        "lineStart": 340,
+        "ordinal": 3,
+        "originalText": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-28",
+          "edition": "am",
+          "storyId": "archive-04",
+          "title": "추석 연휴 끝, 코스피 7,080.92에서 재개장"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-28/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-28",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-28",
+      "editionId": "2026-09-28-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원.",
-      "title": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-28-pm-archive/archive-03",
       "keyFacts": {
         "originalRecord": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-28/pm.json",
       "previous": {
         "editionId": "2026-09-28-am-archive",
         "storyId": "archive-04"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 340,
-        "lineEnd": 340,
-        "previousCoverage": {
-          "date": "2026-09-28",
-          "edition": "am",
-          "storyId": "archive-04",
-          "title": "추석 연휴 끝, 코스피 7,080.92에서 재개장",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-29-pm-archive/archive-02",
-      "editionId": "2026-09-29-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-29",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 363,
+        "lineStart": 363,
+        "ordinal": 2,
+        "originalText": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-28",
+          "edition": "pm",
+          "storyId": "archive-03",
+          "title": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-29/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-29",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-29",
+      "editionId": "2026-09-29-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원.",
-      "title": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-29-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-29/pm.json",
       "previous": {
         "editionId": "2026-09-28-pm-archive",
         "storyId": "archive-03"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 363,
-        "lineEnd": 363,
-        "previousCoverage": {
-          "date": "2026-09-28",
-          "edition": "pm",
-          "storyId": "archive-03",
-          "title": "코스피 -2.70% 6,889.74, 외국인 3.24조 매도, 원·달러 1,365.1원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-30-pm-archive/archive-01",
-      "editionId": "2026-09-30-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-09-30",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 387,
+        "lineStart": 387,
+        "ordinal": 1,
+        "originalText": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-29",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-30/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-30",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-30",
+      "editionId": "2026-09-30-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원.",
-      "title": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-30-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-30/pm.json",
       "previous": {
         "editionId": "2026-09-29-pm-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 387,
-        "lineEnd": 387,
-        "previousCoverage": {
-          "date": "2026-09-29",
-          "edition": "pm",
-          "storyId": "archive-02",
-          "title": "코스피 -0.27% 6,870.81, 외국인 2.9조 매도, 원·달러 1,356.7원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-01-pm-archive/archive-01",
-      "editionId": "2026-10-01-pm-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-10-01",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 411,
+        "lineStart": 411,
+        "ordinal": 1,
+        "originalText": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-30",
+          "edition": "pm",
+          "storyId": "archive-01",
+          "title": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-01/pm.json",
+      "category": "증시·환율",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-01",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-10-01",
+      "editionId": "2026-10-01-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원.",
-      "title": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원",
-      "category": "증시·환율",
-      "status": "과거 기록",
-      "summary": [
-        "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-01-pm-archive/archive-01",
       "keyFacts": {
         "originalRecord": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-01/pm.json",
       "previous": {
         "editionId": "2026-09-30-pm-archive",
         "storyId": "archive-01"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 411,
-        "lineEnd": 411,
-        "previousCoverage": {
-          "date": "2026-09-30",
-          "edition": "pm",
-          "storyId": "archive-01",
-          "title": "코스피 6,838.04(-0.48%), 외국인 4일째 매도, 원·달러 1,352.8원",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "코스피 +1.95% 6,971.35, 코스닥 +4.48%, 원·달러 1,358.4원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-equities-flows",
+  "schemaVersion": 1,
+  "title": "한국 증시와 외국인 수급",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

@@ -1,103 +1,103 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-consumer-prices",
-  "title": "한국 소비자물가와 생활비 부담",
   "entries": [
     {
-      "id": "2026-10-02-am/korea-cpi-2026-09",
-      "editionId": "2026-10-02-am",
-      "storyId": "korea-cpi-2026-09",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "briefingPath": "2026-10-02/am.json",
+      "category": "경제",
+      "change": "9월 소비자물가 상승률은 2.9%로 낮아졌지만 석유류는 14.8% 상승해 생활비 부담이 이어졌습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-02T11:05:30+09:00",
       "coveredOn": "2026-10-02",
-      "publishedAt": "2026-10-02T08:02:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am",
       "eventAt": null,
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "2026-10-02 발표 · 통계 대상은 2026년 9월",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-02-am/korea-cpi-2026-09",
+      "keyFacts": {
+        "mom": "0.3%",
+        "petroleumYoy": "14.8%",
+        "previousYoy": "3.1%",
+        "yoy": "2.9%"
+      },
+      "previous": {
+        "editionId": "2026-10-02-am-archive",
+        "storyId": "archive-01"
+      },
+      "publishedAt": "2026-10-02T08:02:00+09:00",
+      "sources": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-02T08:02:00+09:00",
+          "title": "9월 소비자물가 2.9%↑…기름값 14.8% 급등",
+          "updatedAt": "2026-10-02T08:22:00+09:00",
+          "url": "https://ir.newspim.com/news/view/20261002000052",
+          "verifiedAt": "2026-10-02T11:05:30+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "9월 소비자물가 상승률은 2.9%로 낮아졌지만 석유류는 14.8% 상승해 생활비 부담이 이어졌습니다.",
-      "title": "9월 물가 2.9%…상승폭은 줄었지만 기름값 부담은 계속",
-      "category": "경제",
       "status": "확정",
+      "storyId": "korea-cpi-2026-09",
       "summary": [
         "국가데이터처가 10월 2일 발표한 9월 소비자물가는 1년 전보다 2.9% 올랐습니다. 8월의 3.1%에서 0.2%포인트 낮아졌고, 전달과 비교한 물가 수준은 0.3% 상승했습니다.",
         "통신 부문의 전년 대비 상승률이 16.6%에서 2.0%로 줄어드는 등 서비스 물가가 둔화한 반면, 석유류는 14.8% 올랐습니다. 물가 상승률이 내려갔다는 말은 물건값 자체가 전반적으로 떨어졌다는 뜻은 아닙니다.",
         "가계가 자주 쓰는 연료비 부담과 전체 물가 지표의 개선을 함께 봐야 하는 이유입니다. 이번 한 달의 결과만으로 앞으로 물가가 계속 안정되거나 금리 방향이 정해졌다고 단정하기는 어렵습니다."
       ],
-      "keyFacts": {
-        "yoy": "2.9%",
-        "previousYoy": "3.1%",
-        "petroleumYoy": "14.8%",
-        "mom": "0.3%"
-      },
-      "uncertainty": "향후 물가 경로와 금리 결정은 미확정",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "title": "9월 소비자물가 2.9%↑…기름값 14.8% 급등",
-          "url": "https://ir.newspim.com/news/view/20261002000052",
-          "publishedAt": "2026-10-02T08:02:00+09:00",
-          "kind": "major",
-          "language": "ko",
-          "verifiedAt": "2026-10-02T11:05:30+09:00",
-          "updatedAt": "2026-10-02T08:22:00+09:00"
-        }
-      ],
-      "briefingPath": "2026-10-02/am.json",
-      "previous": {
-        "editionId": "2026-10-02-am-archive",
-        "storyId": "archive-01"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "9월 물가 2.9%…상승폭은 줄었지만 기름값 부담은 계속",
+      "uncertainty": "향후 물가 경로와 금리 결정은 미확정"
     },
     {
-      "id": "2026-10-02-am-archive/archive-01",
-      "editionId": "2026-10-02-am-archive",
-      "storyId": "archive-01",
-      "editionDate": "2026-10-02",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 424,
+        "lineStart": 424,
+        "ordinal": 1,
+        "originalText": "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-02/am.json",
+      "category": "경제",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-02",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-10-02",
+      "editionId": "2026-10-02-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%.",
-      "title": "9월 소비자물가 2.9%, 두 달 만에 2%대",
-      "category": "경제",
-      "status": "과거 기록",
-      "summary": [
-        "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-02-am-archive/archive-01",
       "keyFacts": {
         "originalRecord": "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-02/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-01",
+      "summary": [
+        "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "9월 소비자물가 2.9%, 두 달 만에 2%대. 석유류 +14.8%.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 1,
-        "lineStart": 424,
-        "lineEnd": 424,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "9월 소비자물가 2.9%, 두 달 만에 2%대",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-consumer-prices",
+  "schemaVersion": 1,
+  "title": "한국 소비자물가와 생활비 부담",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

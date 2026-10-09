@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "webtoon-chuseok-promotions-2026",
-  "title": "웹툰 플랫폼 추석 콘텐츠·프로모션",
   "entries": [
     {
-      "id": "2026-09-25-am-archive/archive-07",
-      "editionId": "2026-09-25-am-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-25",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 265,
+        "lineStart": 265,
+        "ordinal": 7,
+        "originalText": "[웹툰] 네이버·카카오·리디 추석 신작 경쟁.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-25/am.json",
+      "category": "웹툰 산업",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버·카카오·리디 추석 신작 경쟁.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-25",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-25",
+      "editionId": "2026-09-25-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버·카카오·리디 추석 신작 경쟁.",
-      "title": "네이버·카카오·리디 추석 신작 경쟁",
-      "category": "웹툰 산업",
-      "status": "과거 기록",
-      "summary": [
-        "네이버·카카오·리디 추석 신작 경쟁."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-25-am-archive/archive-07",
       "keyFacts": {
         "originalRecord": "[웹툰] 네이버·카카오·리디 추석 신작 경쟁."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-25/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "네이버·카카오·리디 추석 신작 경쟁."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "[웹툰] 네이버·카카오·리디 추석 신작 경쟁.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 265,
-        "lineEnd": 265,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "네이버·카카오·리디 추석 신작 경쟁",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-25-pm-archive/archive-06",
-      "editionId": "2026-09-25-pm-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-25",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 276,
+        "lineStart": 275,
+        "ordinal": 6,
+        "originalText": "[웹툰] 네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-25",
+          "edition": "am",
+          "storyId": "archive-07",
+          "title": "네이버·카카오·리디 추석 신작 경쟁"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-25/pm.json",
+      "category": "웹툰 산업",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-25",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-25",
+      "editionId": "2026-09-25-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합.",
-      "title": "네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합",
-      "category": "웹툰 산업",
-      "status": "과거 기록",
-      "summary": [
-        "네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-25-pm-archive/archive-06",
       "keyFacts": {
         "originalRecord": "[웹툰] 네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-25/pm.json",
       "previous": {
         "editionId": "2026-09-25-am-archive",
         "storyId": "archive-07"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "[웹툰] 네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 275,
-        "lineEnd": 276,
-        "previousCoverage": {
-          "date": "2026-09-25",
-          "edition": "am",
-          "storyId": "archive-07",
-          "title": "네이버·카카오·리디 추석 신작 경쟁",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "네이버·카카오, 연휴 체류시간 잡기 위해 웹툰·숏폼을 교통·쇼핑 서비스와 결합",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "webtoon-chuseok-promotions-2026",
+  "schemaVersion": 1,
+  "title": "웹툰 플랫폼 추석 콘텐츠·프로모션",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

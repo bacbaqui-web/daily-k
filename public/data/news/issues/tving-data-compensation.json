@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "tving-data-compensation",
-  "title": "티빙 개인정보 유출 보상",
   "entries": [
     {
-      "id": "2026-09-29-pm-archive/archive-07",
-      "editionId": "2026-09-29-pm-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-29",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 369,
+        "lineStart": 369,
+        "ordinal": 7,
+        "originalText": "티빙 개인정보 유출 보상 추가 신청.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-29/pm.json",
+      "category": "사회·IT",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 티빙 개인정보 유출 보상 추가 신청.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-29",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-29",
+      "editionId": "2026-09-29-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 티빙 개인정보 유출 보상 추가 신청.",
-      "title": "티빙 개인정보 유출 보상 추가 신청",
-      "category": "사회·IT",
-      "status": "과거 기록",
-      "summary": [
-        "티빙 개인정보 유출 보상 추가 신청."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-29-pm-archive/archive-07",
       "keyFacts": {
         "originalRecord": "티빙 개인정보 유출 보상 추가 신청."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-29/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "티빙 개인정보 유출 보상 추가 신청."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "티빙 개인정보 유출 보상 추가 신청.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 369,
-        "lineEnd": 369,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "티빙 개인정보 유출 보상 추가 신청",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "tving-data-compensation",
+  "schemaVersion": 1,
+  "title": "티빙 개인정보 유출 보상",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

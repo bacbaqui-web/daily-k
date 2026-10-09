@@ -1,85 +1,85 @@
 {
-  "schemaVersion": 1,
-  "id": "samsung-electronics-earnings",
-  "title": "삼성전자 분기 실적과 사업부 수익성",
   "entries": [
     {
-      "id": "2026-10-08-am/samsung-q3-preliminary-2026",
-      "editionId": "2026-10-08-am",
-      "storyId": "samsung-q3-preliminary-2026",
-      "editionDate": "2026-10-08",
-      "edition": "am",
+      "briefingPath": "2026-10-08/am.json",
+      "category": "반도체·실적",
+      "change": "3분기 실적 전망 이후 회사의 잠정 매출 195조원·영업이익 107.4조원이 새로 발표됐습니다. 사업부별 상세 실적은 아직 공개되지 않았습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T08:41:30+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T07:45:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-am",
       "eventAt": null,
       "eventDate": "2026-10-08",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "10월 8일 회사 발표일은 기사들에서 확인되지만 실제 공시의 시·분은 직접 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-08-am/samsung-q3-preliminary-2026",
+      "keyFacts": {
+        "operatingProfit": "107조 4000억원",
+        "operatingProfitYoY": "782.5%",
+        "period": "2026년 3분기",
+        "revenue": "195조원",
+        "revenueYoY": "126.6%",
+        "scope": "연결 기준 잠정실적, 사업부별 실적 미공개"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T07:45:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-10-08T07:45:00+09:00",
+          "title": "[속보] 삼성전자 영업익 100조 돌파…분기 기준 '국내 최초'",
+          "updatedAt": "2026-10-08T07:46:00+09:00",
+          "url": "https://www.hankyung.com/article/202610089704g",
+          "verificationNote": "웹 열기로 기사 본문과 입력·수정시각 확인. 잠정 매출·영업이익을 매일경제와 YTN에서 교차 확인했습니다. 주가 위젯은 사용하지 않습니다.",
+          "verifiedAt": "2026-10-08T08:32:26+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "매일경제",
+          "publishedAt": "2026-10-08T07:50:00+09:00",
+          "title": "[속보] 석 달에 100조 넘게 벌었다…삼성전자, 한국 기업 새 역사 썼다",
+          "updatedAt": "2026-10-08T07:54:00+09:00",
+          "url": "https://www.mk.co.kr/news/business/12171076",
+          "verificationNote": "웹 열기로 본문 확인. 사업부별 실적은 아직 공개하지 않았다는 부분과 증권가의 메모리 해석을 구분했습니다.",
+          "verifiedAt": "2026-10-08T08:31:57+09:00"
+        },
+        {
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1008/202610080800410809_t.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-08T08:00:00+09:00",
+          "title": "[속보] 삼성전자 3분기 영업이익 107.4조 원 잠정 집계",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610080800410809",
+          "verificationNote": "기사 본문과 표시시각 08:00 확인. 기사 본문의 대표 이미지 링크는 직접 확인했으나 이미지 자체 불러오기는 캐시 실패입니다.",
+          "verifiedAt": "2026-10-08T08:33:57+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "3분기 실적 전망 이후 회사의 잠정 매출 195조원·영업이익 107.4조원이 새로 발표됐습니다. 사업부별 상세 실적은 아직 공개되지 않았습니다.",
-      "title": "삼성전자 3분기 영업익 107.4조원…분기 100조원 첫 돌파",
-      "category": "반도체·실적",
       "status": "확정",
+      "storyId": "samsung-q3-preliminary-2026",
       "summary": [
         "삼성전자가 3분기 잠정 영업이익 107조 4천억원, 매출 195조원을 발표했습니다. 국내 기업의 분기 영업이익이 100조원을 넘은 것은 처음입니다.",
         "지난해 같은 분기와 비교하면 영업이익은 782.5%, 매출은 126.6% 증가했습니다. 발표 전 실적 전망이 이번에는 회사가 공개한 연결 기준 잠정 수치로 바뀌었습니다.",
         "매일경제는 AI 서버용 메모리 수요와 메모리 가격 상승을 실적 개선 배경으로 설명했습니다. 다만 이번 발표에 사업부별 실적은 포함되지 않아 반도체·모바일 등 각 사업의 기여도를 확정할 수는 없습니다.",
         "기록적인 실적과 주가의 반응은 구분해서 볼 필요가 있습니다. 정규장에서는 이미 높아진 기대를 실제 실적이 얼마나 충족했는지, 이후 상세 실적에서는 이익 증가가 어떤 사업과 제품에서 나왔는지가 확인할 변수입니다."
       ],
-      "keyFacts": {
-        "period": "2026년 3분기",
-        "revenue": "195조원",
-        "operatingProfit": "107조 4000억원",
-        "revenueYoY": "126.6%",
-        "operatingProfitYoY": "782.5%",
-        "scope": "연결 기준 잠정실적, 사업부별 실적 미공개"
-      },
-      "uncertainty": "잠정치이며 결산 뒤 달라질 수 있습니다. 메모리 기여도·세부 사업부 수익성은 아직 미공개입니다.",
-      "sources": [
-        {
-          "name": "한국경제",
-          "title": "[속보] 삼성전자 영업익 100조 돌파…분기 기준 '국내 최초'",
-          "url": "https://www.hankyung.com/article/202610089704g",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T07:45:00+09:00",
-          "verifiedAt": "2026-10-08T08:32:26+09:00",
-          "imageUrl": null,
-          "verificationNote": "웹 열기로 기사 본문과 입력·수정시각 확인. 잠정 매출·영업이익을 매일경제와 YTN에서 교차 확인했습니다. 주가 위젯은 사용하지 않습니다.",
-          "updatedAt": "2026-10-08T07:46:00+09:00"
-        },
-        {
-          "name": "매일경제",
-          "title": "[속보] 석 달에 100조 넘게 벌었다…삼성전자, 한국 기업 새 역사 썼다",
-          "url": "https://www.mk.co.kr/news/business/12171076",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T07:50:00+09:00",
-          "verifiedAt": "2026-10-08T08:31:57+09:00",
-          "imageUrl": null,
-          "verificationNote": "웹 열기로 본문 확인. 사업부별 실적은 아직 공개하지 않았다는 부분과 증권가의 메모리 해석을 구분했습니다.",
-          "updatedAt": "2026-10-08T07:54:00+09:00"
-        },
-        {
-          "name": "YTN",
-          "title": "[속보] 삼성전자 3분기 영업이익 107.4조 원 잠정 집계",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610080800410809",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T08:00:00+09:00",
-          "verifiedAt": "2026-10-08T08:33:57+09:00",
-          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1008/202610080800410809_t.jpg",
-          "verificationNote": "기사 본문과 표시시각 08:00 확인. 기사 본문의 대표 이미지 링크는 직접 확인했으나 이미지 자체 불러오기는 캐시 실패입니다."
-        }
-      ],
-      "briefingPath": "2026-10-08/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "삼성전자 3분기 영업익 107.4조원…분기 100조원 첫 돌파",
+      "uncertainty": "잠정치이며 결산 뒤 달라질 수 있습니다. 메모리 기여도·세부 사업부 수익성은 아직 미공개입니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "samsung-electronics-earnings",
+  "schemaVersion": 1,
+  "title": "삼성전자 분기 실적과 사업부 수익성",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

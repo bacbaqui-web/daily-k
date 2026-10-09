@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "ai-military-misinformation",
-  "title": "AI 허위정보와 군사 판단 보도",
   "entries": [
     {
-      "id": "2026-09-19-am-archive/archive-05",
-      "editionId": "2026-09-19-am-archive",
-      "storyId": "archive-05",
-      "editionDate": "2026-09-19",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 130,
+        "lineStart": 130,
+        "ordinal": 5,
+        "originalText": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-19/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-19",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-19",
+      "editionId": "2026-09-19-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
-      "title": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-19-am-archive/archive-05",
       "keyFacts": {
         "originalRecord": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-19/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-05",
+      "summary": [
+        "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 5,
-        "lineStart": 130,
-        "lineEnd": 130,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "AI 허위정보로 미군이 중국 선박 공격 직전까지 갔다는 보도",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "ai-military-misinformation",
+  "schemaVersion": 1,
+  "title": "AI 허위정보와 군사 판단 보도",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

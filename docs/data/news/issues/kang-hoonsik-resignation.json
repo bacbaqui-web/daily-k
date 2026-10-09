@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "kang-hoonsik-resignation",
-  "title": "강훈식 비서실장 사의",
   "entries": [
     {
-      "id": "2026-09-21-pm-archive/archive-03",
-      "editionId": "2026-09-21-pm-archive",
-      "storyId": "archive-03",
-      "editionDate": "2026-09-21",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 184,
+        "lineStart": 184,
+        "ordinal": 3,
+        "originalText": "강훈식 비서실장 사의.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/pm.json",
+      "category": "국내 정책·사회",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 강훈식 비서실장 사의.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 강훈식 비서실장 사의.",
-      "title": "강훈식 비서실장 사의",
-      "category": "국내 정책·사회",
-      "status": "과거 기록",
-      "summary": [
-        "강훈식 비서실장 사의."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-pm-archive/archive-03",
       "keyFacts": {
         "originalRecord": "강훈식 비서실장 사의."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-03",
+      "summary": [
+        "강훈식 비서실장 사의."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "강훈식 비서실장 사의.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 3,
-        "lineStart": 184,
-        "lineEnd": 184,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "강훈식 비서실장 사의",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "kang-hoonsik-resignation",
+  "schemaVersion": 1,
+  "title": "강훈식 비서실장 사의",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

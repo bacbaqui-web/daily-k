@@ -1,83 +1,83 @@
 {
-  "schemaVersion": 1,
-  "id": "us-opt-fee-policy",
-  "title": "미국 OPT 실무연수 수수료 정책",
   "entries": [
     {
-      "id": "2026-10-08-am/us-opt-fee-proposal-2026-10-07",
-      "editionId": "2026-10-08-am",
-      "storyId": "us-opt-fee-proposal-2026-10-07",
-      "editionDate": "2026-10-08",
-      "edition": "am",
+      "briefingPath": "2026-10-08/am.json",
+      "category": "국제·교육정책",
+      "change": "미국 국토안보부가 10월 7일 OPT 첫 추천 7만달러·추가 3만달러 수수료 규정안을 사전공개했습니다. 최종 확정·시행은 남아 있습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-08T08:41:30+09:00",
       "coveredOn": "2026-10-08",
-      "publishedAt": "2026-10-08T04:24:00+09:00",
+      "edition": "am",
+      "editionDate": "2026-10-08",
+      "editionId": "2026-10-08-am",
       "eventAt": null,
       "eventDate": "2026-10-07",
       "eventEndDate": null,
-      "eventTimezone": "America/New_York",
       "eventTimeNote": "10월 7일 미국 현지 사전공개일 기준입니다. 정확한 발표행사 시각은 확인되지 않아 eventAt은 null입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-08-am/us-opt-fee-proposal-2026-10-07",
+      "keyFacts": {
+        "generalCommentPeriod": "30일",
+        "informationCollectionCommentPeriod": "60일",
+        "initialOptFeeProposal": "70000 USD",
+        "legalStatus": "규정안 사전공개·미시행",
+        "payerUnderProposal": "SEVP 인증 학교",
+        "subsequentOptFeeProposal": "30000 USD"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T04:24:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-10-08T04:24:00+09:00",
+          "title": "美에 남으려면 1억부터?…\"너네 나라로 돌아가란 뜻\" 날벼락 [이상은의 워싱턴나우]",
+          "url": "https://www.hankyung.com/article/202610089581i",
+          "verificationNote": "원문 본문과 입력 04:24·수정 06:50 확인. 일부 기사와 달리 규정안 전체 30일 / 정보수집 부분 60일 의견수렴을 구분한 공식 사전공개 문서를 추가 확인했습니다.",
+          "verifiedAt": "2026-10-08T08:32:13+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "미국 국토안보부·연방관보",
+          "publishedAt": null,
+          "title": "Optional Practical Training Fees — Public Inspection Proposed Rule",
+          "url": "https://public-inspection.federalregister.gov/2026-20660.pdf",
+          "verificationNote": "사전공개 PDF 1·36~39·89~91쪽 확인. 마지막 쪽 Filed 10/7/2026 8:45am, Publication Date10/8/2026 표기. 최종 규정이 아닌 NPRM임을 확인했습니다. 공식 관보 발행일을 이미 시행된 날짜로 취급하지 않았습니다.",
+          "verifiedAt": "2026-10-08T08:34:13+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "조선비즈",
+          "publishedAt": "2026-10-08T06:35:00+09:00",
+          "title": "美, 유학생 취업 허가에 최대 약 1억원 수수료 추진",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/08/CKOOJDXGQNEQTI5FLNFR25LR5U/",
+          "verificationNote": "한국어 기사 본문 확인. 수수료·학교 납부·미시행 상태를 대조했습니다. 본문의 일괄 60일 의견수렴 설명은 공식 원문과 달라 요약 근거로 사용하지 않았습니다.",
+          "verifiedAt": "2026-10-08T08:32:39+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "미국 국토안보부가 10월 7일 OPT 첫 추천 7만달러·추가 3만달러 수수료 규정안을 사전공개했습니다. 최종 확정·시행은 남아 있습니다.",
-      "title": "미국 OPT 첫 추천 7만달러 수수료안…납부 주체는 학교, 아직 미시행",
-      "category": "국제·교육정책",
       "status": "검토",
+      "storyId": "us-opt-fee-proposal-2026-10-07",
       "summary": [
         "미국 국토안보부가 외국인 유학생의 실무연수 제도인 OPT에 첫 추천 7만달러, 이후 추천 3만달러의 수수료를 신설하는 규정안을 공개했습니다. 의견수렴을 거쳐야 하는 제안이어서 아직 시행된 제도는 아닙니다.",
         "OPT는 F-1 유학생이 전공과 관련된 실무 경험을 쌓도록 허용하는 제도입니다. 일반 과정은 최대 12개월이며 과학·기술·공학·수학 분야는 별도의 24개월 연장을 신청할 수 있습니다.",
         "규정안의 납부 주체는 학생을 추천하는 학교입니다. 회사가 바뀔 때마다 매기는 방식이 아니라 학교가 새로운 OPT 추천을 할 때 수수료를 적용하며, 실제 비용이 학생이나 고용주에게 옮겨갈 가능성은 남아 있습니다.",
         "공식 사전공개 문서는 규정안 전체에 30일, 정보수집 관련 부분에 60일의 의견수렴 기간을 제시합니다. 한국 유학생과 채용 기업에는 중요한 비용 변수지만 최종 문구와 적용 시점이 확정될 때까지 현재 의무처럼 받아들이지 않는 것이 중요합니다."
       ],
-      "keyFacts": {
-        "initialOptFeeProposal": "70000 USD",
-        "subsequentOptFeeProposal": "30000 USD",
-        "payerUnderProposal": "SEVP 인증 학교",
-        "legalStatus": "규정안 사전공개·미시행",
-        "generalCommentPeriod": "30일",
-        "informationCollectionCommentPeriod": "60일"
-      },
-      "uncertainty": "제안 단계이며 최종 규정과 실제 비용 부담 주체는 미확정입니다. 한국어 일부 보도의 의견수렴 60일 설명은 공식 원문과 구분했습니다.",
-      "sources": [
-        {
-          "name": "한국경제",
-          "title": "美에 남으려면 1억부터?…\"너네 나라로 돌아가란 뜻\" 날벼락 [이상은의 워싱턴나우]",
-          "url": "https://www.hankyung.com/article/202610089581i",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T04:24:00+09:00",
-          "verifiedAt": "2026-10-08T08:32:13+09:00",
-          "imageUrl": null,
-          "verificationNote": "원문 본문과 입력 04:24·수정 06:50 확인. 일부 기사와 달리 규정안 전체 30일 / 정보수집 부분 60일 의견수렴을 구분한 공식 사전공개 문서를 추가 확인했습니다."
-        },
-        {
-          "name": "미국 국토안보부·연방관보",
-          "title": "Optional Practical Training Fees — Public Inspection Proposed Rule",
-          "url": "https://public-inspection.federalregister.gov/2026-20660.pdf",
-          "language": "en",
-          "kind": "official",
-          "publishedAt": null,
-          "verifiedAt": "2026-10-08T08:34:13+09:00",
-          "imageUrl": null,
-          "verificationNote": "사전공개 PDF 1·36~39·89~91쪽 확인. 마지막 쪽 Filed 10/7/2026 8:45am, Publication Date10/8/2026 표기. 최종 규정이 아닌 NPRM임을 확인했습니다. 공식 관보 발행일을 이미 시행된 날짜로 취급하지 않았습니다."
-        },
-        {
-          "name": "조선비즈",
-          "title": "美, 유학생 취업 허가에 최대 약 1억원 수수료 추진",
-          "url": "https://biz.chosun.com/international/international_general/2026/10/08/CKOOJDXGQNEQTI5FLNFR25LR5U/",
-          "language": "ko",
-          "kind": "major",
-          "publishedAt": "2026-10-08T06:35:00+09:00",
-          "verifiedAt": "2026-10-08T08:32:39+09:00",
-          "imageUrl": null,
-          "verificationNote": "한국어 기사 본문 확인. 수수료·학교 납부·미시행 상태를 대조했습니다. 본문의 일괄 60일 의견수렴 설명은 공식 원문과 달라 요약 근거로 사용하지 않았습니다."
-        }
-      ],
-      "briefingPath": "2026-10-08/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "미국 OPT 첫 추천 7만달러 수수료안…납부 주체는 학교, 아직 미시행",
+      "uncertainty": "제안 단계이며 최종 규정과 실제 비용 부담 주체는 미확정입니다. 한국어 일부 보도의 의견수렴 60일 설명은 공식 원문과 구분했습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "us-opt-fee-policy",
+  "schemaVersion": 1,
+  "title": "미국 OPT 실무연수 수수료 정책",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

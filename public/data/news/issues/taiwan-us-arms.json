@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "taiwan-us-arms",
-  "title": "대만의 미국 무기판매 승인 요청",
   "entries": [
     {
-      "id": "2026-09-27-pm-archive/archive-08",
-      "editionId": "2026-09-27-pm-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-27",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 323,
+        "lineStart": 323,
+        "ordinal": 8,
+        "originalText": "대만, 미국에 140억달러 무기판매 승인 촉구.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-27/pm.json",
+      "category": "국제·안보",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 대만, 미국에 140억달러 무기판매 승인 촉구.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-27",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-27",
+      "editionId": "2026-09-27-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 대만, 미국에 140억달러 무기판매 승인 촉구.",
-      "title": "대만, 미국에 140억달러 무기판매 승인 촉구",
-      "category": "국제·안보",
-      "status": "과거 기록",
-      "summary": [
-        "대만, 미국에 140억달러 무기판매 승인 촉구."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-27-pm-archive/archive-08",
       "keyFacts": {
         "originalRecord": "대만, 미국에 140억달러 무기판매 승인 촉구."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-27/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "대만, 미국에 140억달러 무기판매 승인 촉구."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "대만, 미국에 140억달러 무기판매 승인 촉구.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 323,
-        "lineEnd": 323,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "대만, 미국에 140억달러 무기판매 승인 촉구",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "taiwan-us-arms",
+  "schemaVersion": 1,
+  "title": "대만의 미국 무기판매 승인 요청",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

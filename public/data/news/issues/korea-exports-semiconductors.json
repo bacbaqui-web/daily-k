@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-exports-semiconductors",
-  "title": "한국 수출과 반도체 실적",
   "entries": [
     {
-      "id": "2026-09-21-pm-archive/archive-02",
-      "editionId": "2026-09-21-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-09-21",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 183,
+        "lineStart": 183,
+        "ordinal": 2,
+        "originalText": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/pm.json",
+      "category": "경제·반도체",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%.",
-      "title": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%",
-      "category": "경제·반도체",
-      "status": "과거 기록",
-      "summary": [
-        "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 183,
-        "lineEnd": 183,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-10-01-pm-archive/archive-02",
-      "editionId": "2026-10-01-pm-archive",
-      "storyId": "archive-02",
-      "editionDate": "2026-10-01",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 412,
+        "lineStart": 412,
+        "ordinal": 2,
+        "originalText": "9월 수출 1,209억달러 역대 최대, 반도체 603억달러.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-21",
+          "edition": "pm",
+          "storyId": "archive-02",
+          "title": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-10-01/pm.json",
+      "category": "경제·반도체",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 수출 1,209억달러 역대 최대, 반도체 603억달러.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-10-01",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-10-01",
+      "editionId": "2026-10-01-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 9월 수출 1,209억달러 역대 최대, 반도체 603억달러.",
-      "title": "9월 수출 1,209억달러 역대 최대, 반도체 603억달러",
-      "category": "경제·반도체",
-      "status": "과거 기록",
-      "summary": [
-        "9월 수출 1,209억달러 역대 최대, 반도체 603억달러."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-01-pm-archive/archive-02",
       "keyFacts": {
         "originalRecord": "9월 수출 1,209억달러 역대 최대, 반도체 603억달러."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-10-01/pm.json",
       "previous": {
         "editionId": "2026-09-21-pm-archive",
         "storyId": "archive-02"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-02",
+      "summary": [
+        "9월 수출 1,209억달러 역대 최대, 반도체 603억달러."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "9월 수출 1,209억달러 역대 최대, 반도체 603억달러.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 2,
-        "lineStart": 412,
-        "lineEnd": 412,
-        "previousCoverage": {
-          "date": "2026-09-21",
-          "edition": "pm",
-          "storyId": "archive-02",
-          "title": "9월 1~20일 수출 714억달러 역대 최대, 반도체 +259%",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "9월 수출 1,209억달러 역대 최대, 반도체 603억달러",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-exports-semiconductors",
+  "schemaVersion": 1,
+  "title": "한국 수출과 반도체 실적",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

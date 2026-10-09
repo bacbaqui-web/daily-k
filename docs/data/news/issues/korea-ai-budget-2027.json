@@ -1,27 +1,62 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-ai-budget-2027",
-  "title": "한국 2027년 AI 예산과 GPU 확보",
   "entries": [
     {
-      "id": "2026-10-05-pm/frontier-ai-two-track-2026-10-05",
-      "editionId": "2026-10-05-pm",
-      "storyId": "frontier-ai-two-track-2026-10-05",
-      "editionDate": "2026-10-05",
-      "edition": "pm",
+      "briefingPath": "2026-10-05/pm.json",
+      "category": "기술·AI",
+      "change": "10월 2일 간담회에 관한 오늘 오후 보도로 기존 독파모 지속과 별도 프런티어 AI 공모 구상이 구체적으로 소개됐습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-05T21:17:29+09:00",
       "coveredOn": "2026-10-05",
-      "publishedAt": "2026-10-05T12:02:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-05",
+      "editionId": "2026-10-05-pm",
       "eventAt": null,
       "eventDate": "2026-10-02",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "간담회는 10월 2일 개최됐고 기사는 10월 5일 공개됐습니다. 간담회와 추가 설명의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-05-pm/frontier-ai-two-track-2026-10-05",
+      "keyFacts": {
+        "callTarget": "2026년12월 예산 확정 후 공모 목표",
+        "currentCompetition": "3차 평가 유지, 최종2팀 선정 예정",
+        "developmentTarget": "2027년3월 또는 가능한 이른 시기 착수 목표",
+        "frontierInvestmentBudgetProposal": "2027년 출자 예산안4조7000억원",
+        "selectionTarget": "2027년2월 사업자 선정 검토",
+        "structure": "수행 주체·출자 조건·참여기업 혜택 미확정"
+      },
+      "previous": {
+        "editionId": "2026-09-19-am-archive",
+        "storyId": "archive-06"
+      },
+      "publishedAt": "2026-10-05T12:02:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/NEWS1/20261005120212897wcxm.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-10-05T12:02:00+09:00",
+          "title": "독파모, 내년부터 '프런티어 AI·산업 확산' 투트랙 개편",
+          "url": "https://v.daum.net/v/20261005120211190",
+          "verificationNote": "다음에 제공된 뉴스1 본문과 표시 시각 확인. 간담회 실제 개최일은 10월 2일이며 5일 신규 개최로 쓰지 않습니다. 4.7조원은 출자 예산안으로, 최종 확정·집행액이 아닙니다.",
+          "verifiedAt": "2026-10-05T21:11:34+09:00"
+        },
+        {
+          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704801_652545_2239.jpg",
+          "kind": "specialist",
+          "language": "ko",
+          "name": "디지털투데이",
+          "publishedAt": "2026-10-05T12:00:00+09:00",
+          "title": "독파모 지원 그대로…프런티어 AI 이르면 12월 별도 공모",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704801",
+          "verificationNote": "간담회와 추가 설명 기사 전문 확인. 12월 공모·내년 3월 착수는 목표입니다. 이 기사의 전체 5.2조원과 타 매체의 출자 예산 4.7조원은 범위를 동일시하지 않고 본문에는 뉴스1에서 대조한 출자 예산안만 사용합니다.",
+          "verifiedAt": "2026-10-05T21:09:49+09:00"
+        }
+      ],
       "stage": "발표",
-      "change": "10월 2일 간담회에 관한 오늘 오후 보도로 기존 독파모 지속과 별도 프런티어 AI 공모 구상이 구체적으로 소개됐습니다.",
-      "title": "독파모 유지하고 최상위 AI 별도 추진…4.7조원은 아직 예산안",
-      "category": "기술·AI",
       "status": "예정",
+      "storyId": "frontier-ai-two-track-2026-10-05",
       "summary": [
         "정부가 국산 AI 모델 경쟁을 계속하면서, 세계 최상위 모델 개발과 산업 현장 보급을 나눠 지원하는 방향을 제시했습니다. 오늘 공개된 보도는 10월 2일 과기정통부 간담회와 추가 설명을 바탕으로 합니다.",
         "기존 독자 AI 파운데이션 모델 사업은 3차 평가를 진행해 최종 2개 팀을 고르는 계획을 유지합니다. 이를 중단하고 새 사업으로 모두 대체한다고 이해하면 현재 확인된 설명과 다릅니다.",
@@ -29,91 +64,56 @@
         "국회 예산 확정 뒤 이르면 12월 공모, 내년 2월 사업자 선정과 3월 개발 착수가 목표로 제시됐습니다. 실제 일정과 수행 주체, 기업별 혜택·투자 조건은 아직 확정되지 않았습니다.",
         "개발자와 기업이 볼 부분은 모델 순위뿐 아니라 어떤 국산 모델을 업무에 사용할 수 있게 되는지입니다. 연구 성능 경쟁과 실제 보급을 분리하는 방향은 나왔지만, 지원 공고와 자원 배분안을 봐야 구체적인 기회를 판단할 수 있습니다."
       ],
-      "keyFacts": {
-        "currentCompetition": "3차 평가 유지, 최종2팀 선정 예정",
-        "frontierInvestmentBudgetProposal": "2027년 출자 예산안4조7000억원",
-        "callTarget": "2026년12월 예산 확정 후 공모 목표",
-        "selectionTarget": "2027년2월 사업자 선정 검토",
-        "developmentTarget": "2027년3월 또는 가능한 이른 시기 착수 목표",
-        "structure": "수행 주체·출자 조건·참여기업 혜택 미확정"
-      },
-      "uncertainty": "예산안은 국회 확정 전이며 사업 구조·선정 조건과 일정은 바뀔 수 있습니다.",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "title": "독파모, 내년부터 '프런티어 AI·산업 확산' 투트랙 개편",
-          "url": "https://v.daum.net/v/20261005120211190",
-          "publishedAt": "2026-10-05T12:02:00+09:00",
-          "kind": "wire",
-          "language": "ko",
-          "verifiedAt": "2026-10-05T21:11:34+09:00",
-          "imageUrl": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/05/NEWS1/20261005120212897wcxm.jpg",
-          "verificationNote": "다음에 제공된 뉴스1 본문과 표시 시각 확인. 간담회 실제 개최일은 10월 2일이며 5일 신규 개최로 쓰지 않습니다. 4.7조원은 출자 예산안으로, 최종 확정·집행액이 아닙니다."
-        },
-        {
-          "name": "디지털투데이",
-          "title": "독파모 지원 그대로…프런티어 AI 이르면 12월 별도 공모",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704801",
-          "publishedAt": "2026-10-05T12:00:00+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-05T21:09:49+09:00",
-          "imageUrl": "https://cdn.digitaltoday.co.kr/news/photo/202610/704801_652545_2239.jpg",
-          "verificationNote": "간담회와 추가 설명 기사 전문 확인. 12월 공모·내년 3월 착수는 목표입니다. 이 기사의 전체 5.2조원과 타 매체의 출자 예산 4.7조원은 범위를 동일시하지 않고 본문에는 뉴스1에서 대조한 출자 예산안만 사용합니다."
-        }
-      ],
-      "briefingPath": "2026-10-05/pm.json",
-      "previous": {
-        "editionId": "2026-09-19-am-archive",
-        "storyId": "archive-06"
-      },
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "독파모 유지하고 최상위 AI 별도 추진…4.7조원은 아직 예산안",
+      "uncertainty": "예산안은 국회 확정 전이며 사업 구조·선정 조건과 일정은 바뀔 수 있습니다."
     },
     {
-      "id": "2026-09-19-am-archive/archive-06",
-      "editionId": "2026-09-19-am-archive",
-      "storyId": "archive-06",
-      "editionDate": "2026-09-19",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 131,
+        "lineStart": 131,
+        "ordinal": 6,
+        "originalText": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-19/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-19",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-19",
+      "editionId": "2026-09-19-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
-      "title": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-19-am-archive/archive-06",
       "keyFacts": {
         "originalRecord": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-19/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-06",
+      "summary": [
+        "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 6,
-        "lineStart": 131,
-        "lineEnd": 131,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "정부 \"AI 늦출 여유 없다\", 2027년 AI 9.4조원·GPU 1만장",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-ai-budget-2027",
+  "schemaVersion": 1,
+  "title": "한국 2027년 AI 예산과 GPU 확보",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

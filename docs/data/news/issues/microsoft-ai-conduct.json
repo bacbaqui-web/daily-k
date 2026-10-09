@@ -1,53 +1,53 @@
 {
-  "schemaVersion": 1,
-  "id": "microsoft-ai-conduct",
-  "title": "마이크로소프트 AI 행동강령",
   "entries": [
     {
-      "id": "2026-09-15-am-archive/archive-07",
-      "editionId": "2026-09-15-am-archive",
-      "storyId": "archive-07",
-      "editionDate": "2026-09-15",
-      "edition": "am",
-      "coveredAt": null,
-      "coveredOn": "2026-09-15",
-      "publishedAt": null,
-      "eventAt": null,
-      "eventDate": null,
-      "eventEndDate": null,
-      "eventTimezone": null,
-      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향.",
-      "title": "마이크로소프트 차세대 AI 행동강령 공개",
-      "category": "기술·IT·AI",
-      "status": "과거 기록",
-      "summary": [
-        "마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향."
-      ],
-      "keyFacts": {
-        "originalRecord": "[AI] 마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향. 확인: 뉴시스."
-      },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-15/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": [],
       "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 28,
+        "lineStart": 27,
+        "ordinal": 7,
         "originalText": "[AI] 마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향. 확인: 뉴시스.",
+        "sourceDocument": "news-briefing-archive.md",
         "sourceNames": [
           "뉴시스"
         ],
-        "verification": "not-reverified",
-        "ordinal": 7,
-        "lineStart": 27,
-        "lineEnd": 28,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-15/am.json",
+      "category": "기술·IT·AI",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향.",
+      "correctionOf": null,
+      "coveredAt": null,
+      "coveredOn": "2026-09-15",
+      "edition": "am",
+      "editionDate": "2026-09-15",
+      "editionId": "2026-09-15-am-archive",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-15-am-archive/archive-07",
+      "keyFacts": {
+        "originalRecord": "[AI] 마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향. 확인: 뉴시스."
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-07",
+      "summary": [
+        "마이크로소프트 차세대 AI 행동강령 공개. AI의 자율 목표 설정 금지 방향."
+      ],
+      "supersededBy": [],
+      "title": "마이크로소프트 차세대 AI 행동강령 공개",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "microsoft-ai-conduct",
+  "schemaVersion": 1,
+  "title": "마이크로소프트 AI 행동강령",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

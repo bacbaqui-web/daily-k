@@ -1,104 +1,104 @@
 {
-  "schemaVersion": 1,
-  "id": "naver-webtoon-global-drop",
-  "title": "네이버웹툰 글로벌 드롭",
   "entries": [
     {
-      "id": "2026-09-21-pm-archive/archive-08",
-      "editionId": "2026-09-21-pm-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-21",
-      "edition": "pm",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 189,
+        "lineStart": 189,
+        "ordinal": 8,
+        "originalText": "[웹툰] 네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/pm.json",
+      "category": "웹툰 산업",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "pm",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-pm-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작.",
-      "title": "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작",
-      "category": "웹툰 산업",
-      "status": "과거 기록",
-      "summary": [
-        "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-pm-archive/archive-08",
       "keyFacts": {
         "originalRecord": "[웹툰] 네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/pm.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "[웹툰] 네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 189,
-        "lineEnd": 189,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     },
     {
-      "id": "2026-09-22-am-archive/archive-08",
-      "editionId": "2026-09-22-am-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-22",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 200,
+        "lineStart": 200,
+        "ordinal": 8,
+        "originalText": "[웹툰] 네이버웹툰 9개 언어 동시연재 전략 재조명.",
+        "previousCoverage": {
+          "archive": true,
+          "date": "2026-09-21",
+          "edition": "pm",
+          "storyId": "archive-08",
+          "title": "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작"
+        },
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-22/am.json",
+      "category": "웹툰 산업",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버웹툰 9개 언어 동시연재 전략 재조명.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-22",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-22",
+      "editionId": "2026-09-22-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 네이버웹툰 9개 언어 동시연재 전략 재조명.",
-      "title": "네이버웹툰 9개 언어 동시연재 전략 재조명",
-      "category": "웹툰 산업",
-      "status": "과거 기록",
-      "summary": [
-        "네이버웹툰 9개 언어 동시연재 전략 재조명."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-22-am-archive/archive-08",
       "keyFacts": {
         "originalRecord": "[웹툰] 네이버웹툰 9개 언어 동시연재 전략 재조명."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-22/am.json",
       "previous": {
         "editionId": "2026-09-21-pm-archive",
         "storyId": "archive-08"
       },
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "네이버웹툰 9개 언어 동시연재 전략 재조명."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "[웹툰] 네이버웹툰 9개 언어 동시연재 전략 재조명.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 200,
-        "lineEnd": 200,
-        "previousCoverage": {
-          "date": "2026-09-21",
-          "edition": "pm",
-          "storyId": "archive-08",
-          "title": "네이버웹툰 '글로벌 드롭', 9개 언어 동시연재 시작",
-          "archive": true
-        },
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "네이버웹툰 9개 언어 동시연재 전략 재조명",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "naver-webtoon-global-drop",
+  "schemaVersion": 1,
+  "title": "네이버웹툰 글로벌 드롭",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

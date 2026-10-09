@@ -1,73 +1,73 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-startup-funding",
-  "title": "국내 스타트업 투자 규모와 분야별 분포",
   "entries": [
     {
-      "id": "2026-10-04-pm/startup-funding-q3-2026",
-      "editionId": "2026-10-04-pm",
-      "storyId": "startup-funding-q3-2026",
-      "editionDate": "2026-10-04",
-      "edition": "pm",
+      "briefingPath": "2026-10-04/pm.json",
+      "category": "경제·AI·반도체",
+      "change": "미수록된 3분기 투자 집계를 오늘 오후 기사와 원자료로 점검했습니다. 오늘 새로 발표되거나 집행된 투자액으로 표현하지 않습니다.",
+      "correctionOf": null,
       "coveredAt": "2026-10-04T21:13:51+09:00",
       "coveredOn": "2026-10-04",
-      "publishedAt": "2026-10-04T14:00:00+09:00",
+      "edition": "pm",
+      "editionDate": "2026-10-04",
+      "editionId": "2026-10-04-pm",
       "eventAt": null,
       "eventDate": "2026-01-01",
       "eventEndDate": "2026-09-30",
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "통계 대상 기간은 1~9월이며 분기별 비교는 7~9월과 4~6월입니다. 원자료 최초 공개 시각은 확인하지 못했으며 국내 분석 보도는 10월 4일 14시입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-04-pm/startup-funding-q3-2026",
+      "keyFacts": {
+        "aiRoboticsQ2AmountShare": "37%",
+        "aiRoboticsQ3AmountShare": "45%",
+        "coverage": "비상장 스타트업·중소기업, 일부 구주거래 포함, 사후 수정 가능",
+        "period": "2026-01~09",
+        "q3Amount": "2조2097억원",
+        "q3Deals": "286건",
+        "yearToDateAmount": "10조1880억원",
+        "yearToDateDeals": "854건"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-04T14:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://cdn.bloter.net/news/thumbnail/202610/675013_288808_231_v150.jpg",
+          "kind": "specialist",
+          "language": "ko",
+          "name": "블로터",
+          "publishedAt": "2026-10-04T14:00:00+09:00",
+          "title": "​韓 스타트업 투자, 4년 만에 10조 돌파…AI 반도체·우주항공 쏠림",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675013",
+          "verificationNote": "본문 수정은 18:01:32로 기준 이전입니다. 3분기 단독 수치와 1~9월 누적을 구분했고 연간 건수와 9개월 건수의 직접 감소율 비교는 쓰지 않았습니다.",
+          "verifiedAt": "2026-10-04T21:07:35+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "더브이씨",
+          "publishedAt": null,
+          "title": "2026 Q3 한국 스타트업 투자 통계",
+          "url": "https://thevc.kr/discussions/korea_startup_funding_2026_q3",
+          "verificationNote": "집계 주체의 원문에서 286건·2조2097억원, 누적854건·10조1880억원, AI 분기 비중35%·45%를 대조했습니다. 최초 시각은 미표시이며 오늘 새로 발표된 통계라고 쓰지 않습니다. 구주거래가 포함되고 사후 변경될 수 있습니다.",
+          "verifiedAt": "2026-10-04T21:13:51+09:00"
+        }
+      ],
       "stage": "분석",
-      "change": "미수록된 3분기 투자 집계를 오늘 오후 기사와 원자료로 점검했습니다. 오늘 새로 발표되거나 집행된 투자액으로 표현하지 않습니다.",
-      "title": "스타트업 투자 누적 10.2조원…AI 쏠림과 대형 거래가 만든 회복",
-      "category": "경제·AI·반도체",
       "status": "분석",
+      "storyId": "startup-funding-q3-2026",
       "summary": [
         "올해 1~9월 국내 비상장 스타트업·중소기업 투자액이 10조1880억원으로 집계됐습니다. 오늘 오후 보도와 더브이씨 원문을 함께 보면, 투자 총액의 회복이 모든 창업기업의 자금 사정 개선을 뜻하지는 않습니다.",
         "3분기만 보면 286건·2조2097억원이고, 1~9월 누적 건수는 854건입니다. 누적 총액에는 2분기 두나무 구주 인수 같은 큰 거래도 들어 있어 전부 기업에 새 운영자금이 들어온 금액으로 해석하면 안 됩니다.",
         "AI·로보틱스는 3분기 투자 건수의 35%, 금액의 45%를 차지했습니다. 직전 분기의 금액 비중 37%에서 높아졌고, 반도체·디스플레이의 1~9월 투자액도 2조원을 넘었습니다.",
         "핵심은 투자 회복의 범위입니다. AI 인프라 수요가 자본을 끌어들이는 한편 다른 분야의 체감은 다를 수 있으며, 이 통계는 민간의 보도·제보 기반 집계라 추후 추가·수정될 수 있습니다. 오늘 하루의 신규 투자 발표가 아니라 3분기까지의 흐름을 정리한 분석입니다."
       ],
-      "keyFacts": {
-        "period": "2026-01~09",
-        "yearToDateAmount": "10조1880억원",
-        "yearToDateDeals": "854건",
-        "q3Amount": "2조2097억원",
-        "q3Deals": "286건",
-        "aiRoboticsQ3AmountShare": "45%",
-        "aiRoboticsQ2AmountShare": "37%",
-        "coverage": "비상장 스타트업·중소기업, 일부 구주거래 포함, 사후 수정 가능"
-      },
-      "uncertainty": "더브이씨 자체 집계이며 사후 수정될 수 있습니다. 정부의 벤처투자 통계나 기업 신규 자금 유입만의 합계와 동일하지 않습니다.",
-      "sources": [
-        {
-          "name": "블로터",
-          "title": "​韓 스타트업 투자, 4년 만에 10조 돌파…AI 반도체·우주항공 쏠림",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675013",
-          "publishedAt": "2026-10-04T14:00:00+09:00",
-          "kind": "specialist",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:07:35+09:00",
-          "imageUrl": "https://cdn.bloter.net/news/thumbnail/202610/675013_288808_231_v150.jpg",
-          "verificationNote": "본문 수정은 18:01:32로 기준 이전입니다. 3분기 단독 수치와 1~9월 누적을 구분했고 연간 건수와 9개월 건수의 직접 감소율 비교는 쓰지 않았습니다."
-        },
-        {
-          "name": "더브이씨",
-          "title": "2026 Q3 한국 스타트업 투자 통계",
-          "url": "https://thevc.kr/discussions/korea_startup_funding_2026_q3",
-          "publishedAt": null,
-          "kind": "official",
-          "language": "ko",
-          "verifiedAt": "2026-10-04T21:13:51+09:00",
-          "verificationNote": "집계 주체의 원문에서 286건·2조2097억원, 누적854건·10조1880억원, AI 분기 비중35%·45%를 대조했습니다. 최초 시각은 미표시이며 오늘 새로 발표된 통계라고 쓰지 않습니다. 구주거래가 포함되고 사후 변경될 수 있습니다."
-        }
-      ],
-      "briefingPath": "2026-10-04/pm.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "스타트업 투자 누적 10.2조원…AI 쏠림과 대형 거래가 만든 회복",
+      "uncertainty": "더브이씨 자체 집계이며 사후 수정될 수 있습니다. 정부의 벤처투자 통계나 기업 신규 자금 유입만의 합계와 동일하지 않습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-startup-funding",
+  "schemaVersion": 1,
+  "title": "국내 스타트업 투자 규모와 분야별 분포",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }

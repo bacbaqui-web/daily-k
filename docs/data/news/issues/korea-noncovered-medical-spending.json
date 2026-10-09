@@ -1,51 +1,51 @@
 {
-  "schemaVersion": 1,
-  "id": "korea-noncovered-medical-spending",
-  "title": "비급여 진료비 지출",
   "entries": [
     {
-      "id": "2026-09-21-am-archive/archive-08",
-      "editionId": "2026-09-21-am-archive",
-      "storyId": "archive-08",
-      "editionDate": "2026-09-21",
-      "edition": "am",
+      "archive": {
+        "importedAt": "2026-10-02T12:34:33+09:00",
+        "lineEnd": 177,
+        "lineStart": 177,
+        "ordinal": 8,
+        "originalText": "비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
+        "sourceDocument": "news-briefing-archive.md",
+        "sourceNames": [],
+        "verification": "not-reverified"
+      },
+      "briefingPath": "archive/2026-09-21/am.json",
+      "category": "사회·경제",
+      "change": "과거 브리핑에 남아 있는 기록입니다: 비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
+      "correctionOf": null,
       "coveredAt": null,
       "coveredOn": "2026-09-21",
-      "publishedAt": null,
+      "edition": "am",
+      "editionDate": "2026-09-21",
+      "editionId": "2026-09-21-am-archive",
       "eventAt": null,
       "eventDate": null,
       "eventEndDate": null,
-      "eventTimezone": null,
       "eventTimeNote": "아카이브에 실제 사건·기사 시각이 없어 추정하지 않았습니다.",
-      "stage": "보도",
-      "change": "과거 브리핑에 남아 있는 기록입니다: 비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
-      "title": "비급여 진료비 4년 만에 40% 증가, 연간 22조원",
-      "category": "사회·경제",
-      "status": "과거 기록",
-      "summary": [
-        "비급여 진료비 4년 만에 40% 증가, 연간 22조원."
-      ],
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-09-21-am-archive/archive-08",
       "keyFacts": {
         "originalRecord": "비급여 진료비 4년 만에 40% 증가, 연간 22조원."
       },
-      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다.",
-      "sources": [],
-      "briefingPath": "archive/2026-09-21/am.json",
       "previous": null,
-      "followUp": null,
-      "correctionOf": null,
+      "publishedAt": null,
+      "sources": [],
+      "stage": "보도",
+      "status": "과거 기록",
+      "storyId": "archive-08",
+      "summary": [
+        "비급여 진료비 4년 만에 40% 증가, 연간 22조원."
+      ],
       "supersededBy": [],
-      "archive": {
-        "originalText": "비급여 진료비 4년 만에 40% 증가, 연간 22조원.",
-        "sourceNames": [],
-        "verification": "not-reverified",
-        "ordinal": 8,
-        "lineStart": 177,
-        "lineEnd": 177,
-        "sourceDocument": "news-briefing-archive.md",
-        "importedAt": "2026-10-02T12:34:33+09:00"
-      }
+      "title": "비급여 진료비 4년 만에 40% 증가, 연간 22조원",
+      "uncertainty": "이전 ChatGPT 브리핑 기록이며 항목 전체를 기사 원문으로 재검증하지 않았습니다."
     }
   ],
-  "updatedAt": "2026-10-09T08:40:57+09:00"
+  "id": "korea-noncovered-medical-spending",
+  "schemaVersion": 1,
+  "title": "비급여 진료비 지출",
+  "updatedAt": "2026-10-09T20:44:48+09:00"
 }
