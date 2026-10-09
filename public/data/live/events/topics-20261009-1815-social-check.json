@@ -1,0 +1,22 @@
+{
+  "command": "check",
+  "payload": {
+    "check": {
+      "channel": "topics",
+      "checkedAt": "2026-10-09T09:21:36.201Z",
+      "count": 1,
+      "id": "topics-20261009-1815-social",
+      "note": "X 한국 지역 트렌드 표시를 실제 화면에서 확인했다. 보핍보핍 공개 검색은 브라우저 시간초과로 상세 내용을 확인하지 못해 새로운 사건으로 선정하지 않았다. Instagram Explore·STORM 안무 카드와 원문 릴의 공개 캡션/반올림 지표를 읽어 참고자료 1개를 제안했다. 최초 관측이며 한국 순위·실시간 상승 주장이 아니다. 지역·집계기간과 정확한 게시 시각은 미확인, 영상 전체·미리보기 확인은 시간초과로 못했다. 기존 관측값은 보존한다.",
+      "source": "X 한국 공개 트렌드·Instagram 공개 Explore/Popular 및 대표 릴",
+      "status": "partial"
+    },
+    "operationId": "topics-20261009-1815-social-check",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-09T18:27:42.327410+09:00",
+  "result": {
+    "operationId": "topics-20261009-1815-social-check",
+    "recordedAt": "2026-10-09T18:27:42.327410+09:00",
+    "windowId": "2026-10-09-pm"
+  }
+}
