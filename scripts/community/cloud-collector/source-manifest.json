@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "package": "dailyk-cloud-macro",
+  "version": "0.3.0",
+  "hashAlgorithm": "sha256",
+  "sourceTreeSha256": "cfa6de729637cb197e18c0e04838f03c08ce7aebc61da5513f0ab6354013538b",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "763497cc792524ac6c6afcdb2ed14fa4cd7d32fbf1006f255a6d1e446329134f",
+      "byteSize": 10614
+    },
+    {
+      "path": "RUNNER.md",
+      "sha256": "a1462056c8bd27126db9374236ee9bb9d3282609f18f3d23d9a4544b0e131462",
+      "byteSize": 14215
+    },
+    {
+      "path": "SUPERVISOR.md",
+      "sha256": "7e668fd0fac804b8a79443a5aa2fcd20395ac2a6d21c71f99d18176fb2f3daab",
+      "byteSize": 10393
+    },
+    {
+      "path": "VERSION",
+      "sha256": "d915cc95d6ca8f47ae297713ed46d4e5c5d99ddd29fc3c61e263bdf305f2b5b0",
+      "byteSize": 6
+    },
+    {
+      "path": "history/README.md",
+      "sha256": "8e93466732379a4b79c5cdafbe8f64bc65c978021c047d161aa78b8e98b360ee",
+      "byteSize": 5510
+    },
+    {
+      "path": "history/compare_history.py",
+      "sha256": "40cbe604cc47af1b8460a39cfda2bb68d0b5f70f3d2c29f783ec3e6fb0726566",
+      "byteSize": 14915
+    },
+    {
+      "path": "history/test_compare_history.py",
+      "sha256": "87a4d74180e17d7027b45fd35be7a835039df0cae6dee4453f7b2ae557f9526f",
+      "byteSize": 6788
+    },
+    {
+      "path": "src/browser-macro.js",
+      "sha256": "368e09d9aa8efe721cfdee26bafdbab58bdfb750df4350bc74d2e74105a2f333",
+      "byteSize": 13238
+    },
+    {
+      "path": "src/checkpoint.py",
+      "sha256": "a09e276db61517e2e4598468b856c91650e3de8264bb81c8581094955082a48b",
+      "byteSize": 16653
+    },
+    {
+      "path": "src/core.py",
+      "sha256": "d1ffb2066639b03ad21c721ada43b34d4a1c49c36e956c15ca1eabcc329ed0d9",
+      "byteSize": 11389
+    },
+    {
+      "path": "src/export_public.py",
+      "sha256": "2ba60c84cf3070e48a4ab82f3a83b031aefda5c0fe083ddc592a0884e2a8ad72",
+      "byteSize": 33978
+    },
+    {
+      "path": "src/runtime_state.py",
+      "sha256": "025213ffc980c4acadf417b8422b4afd8ffbec2645f6158e412baeec459b837c",
+      "byteSize": 8140
+    },
+    {
+      "path": "src/supervised_tick.js",
+      "sha256": "13d6710f50b0af84255058efa1c52a6840be3b55d3c03de05e0d916de30d6824",
+      "byteSize": 12306
+    },
+    {
+      "path": "src/supervisor_state.py",
+      "sha256": "d638fc717734000eb59258879b2a231dd33d47ad62815cb7541c61ca71be8baf",
+      "byteSize": 2991
+    },
+    {
+      "path": "src/supported_tool_runner.js",
+      "sha256": "bee4d212ffa6b8eb22533adc6269579cde1838bccd8508532a161cfda79d8d82",
+      "byteSize": 13093
+    },
+    {
+      "path": "tests/README.md",
+      "sha256": "e60dc7b51a7397e64a1c546900e3096ef422b1556bf4d87d47362eba4e88b663",
+      "byteSize": 14598
+    },
+    {
+      "path": "tests/audit_snapshot.py",
+      "sha256": "5f4e338a43db345764a54815d99142d8d1ee14bcef7fcf510c2b7f09f847a519",
+      "byteSize": 3623
+    },
+    {
+      "path": "tests/test_browser_macro.cjs",
+      "sha256": "63630f2bb545dc12dbfabf1576bac4d907b5beb2289a8a7983dd38ac64041708",
+      "byteSize": 35216
+    },
+    {
+      "path": "tests/test_checkpoint.py",
+      "sha256": "a62a7002cbc012b1783f5462521e7e7f2a0bfa9d95cb733b0e5e6c9a45aa1e45",
+      "byteSize": 34371
+    },
+    {
+      "path": "tests/test_core.py",
+      "sha256": "5e31f0851e3cfd00e3161166181fcc751679de919f5d0cb6e6b63b57c615eec8",
+      "byteSize": 26858
+    },
+    {
+      "path": "tests/test_export_public.py",
+      "sha256": "93b07a00c58f57286967c04502f3e70636bcddc5e74073a17204f7e32973b3a4",
+      "byteSize": 28149
+    },
+    {
+      "path": "tests/test_run_configuration.py",
+      "sha256": "54822129bd18957a9fab410ddad802f1412beb7de6f56fc3ce510318a4f717ca",
+      "byteSize": 8223
+    },
+    {
+      "path": "tests/test_runtime_state.py",
+      "sha256": "b7e25c5b460e352658f9d146115c12be4b6159bc084d2cda1c7795423ca142d4",
+      "byteSize": 5142
+    },
+    {
+      "path": "tests/test_supervised_tick.cjs",
+      "sha256": "06a8ec46c8e9a3e11a0dcb0af527cbbeef362e0d6980d6b47ed1c8f95c1b71b6",
+      "byteSize": 8415
+    },
+    {
+      "path": "tests/test_supervisor_integration.cjs",
+      "sha256": "fa3d48a36e551f0ebdd0b209d039b312ee2193b4f6d7c6e7c0a19557d47bef63",
+      "byteSize": 3546
+    },
+    {
+      "path": "tests/test_supervisor_state.py",
+      "sha256": "a419bb63e66ca28db0f44b970d0c24a5b84789bf9838fd83bd9aafc529210a1f",
+      "byteSize": 2621
+    },
+    {
+      "path": "tests/test_supported_tool_runner.cjs",
+      "sha256": "7b0e78cac3639366bf92dd4770815b4e62e54508d48f519d48e3b980c397c7f4",
+      "byteSize": 10312
+    },
+    {
+      "path": "tests/title-safety-cases.json",
+      "sha256": "65596b2b290b25fc3a000a96ca189efa209420266b533fbe98b7ab612c7c7b7e",
+      "byteSize": 4740
+    }
+  ],
+  "scope": "Allowlisted source, offline tests, and documentation only; excludes raw runs, private evidence, images, videos, and history snapshots."
+}

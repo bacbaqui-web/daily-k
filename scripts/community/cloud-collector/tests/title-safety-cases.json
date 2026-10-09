@@ -1,0 +1,254 @@
+[
+  {
+    "title": "일반적인 웃긴 이야기",
+    "expected": []
+  },
+  {
+    "title": "ㅎㅎㅎㅂㅋㅋ",
+    "expected": []
+  },
+  {
+    "title": "정치 풍자 이야기",
+    "expected": []
+  },
+  {
+    "title": "교통사고 관련 안내",
+    "expected": []
+  },
+  {
+    "title": "",
+    "expected": []
+  },
+  {
+    "title": null,
+    "expected": []
+  },
+  {
+    "title": "[ㅇㅎ] 제목",
+    "expected": [
+      {
+        "code": "source_title_nsfw_marker",
+        "matchedText": "ㅇㅎ"
+      }
+    ]
+  },
+  {
+    "title": "[ㅎㅂ] 제목",
+    "expected": [
+      {
+        "code": "source_title_nsfw_marker",
+        "matchedText": "ㅎㅂ"
+      }
+    ]
+  },
+  {
+    "title": "[ㅇㅎㅂ] 제목",
+    "expected": [
+      {
+        "code": "source_title_nsfw_marker",
+        "matchedText": "ㅇㅎㅂ"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 비키니 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "비키니"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: ㅂㅋㄴ 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "ㅂㅋㄴ"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 섹스 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "섹스"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 성관계 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "성관계"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 야동 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "야동"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 젖꼭지 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "젖꼭지"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 알몸 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "알몸"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 성인물 이야기",
+    "expected": [
+      {
+        "code": "sexual_title",
+        "matchedText": "성인물"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 총살 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "총살"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 처형 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "처형"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 참수 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "참수"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 시신 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "시신"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 시체 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "시체"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 자살 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "자살"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 고문 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "고문"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 성폭행 이야기",
+    "expected": [
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "성폭행"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 불륜 이야기",
+    "expected": [
+      {
+        "code": "private_allegation_title",
+        "matchedText": "불륜"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 성추행 이야기",
+    "expected": [
+      {
+        "code": "private_allegation_title",
+        "matchedText": "성추행"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 몰카 이야기",
+    "expected": [
+      {
+        "code": "private_allegation_title",
+        "matchedText": "몰카"
+      }
+    ]
+  },
+  {
+    "title": "관찰된 제목: 강간 이야기",
+    "expected": [
+      {
+        "code": "private_allegation_title",
+        "matchedText": "강간"
+      }
+    ]
+  },
+  {
+    "title": "[ㅇㅎ] 비키니 고문 몰카",
+    "expected": [
+      {
+        "code": "source_title_nsfw_marker",
+        "matchedText": "ㅇㅎ"
+      },
+      {
+        "code": "sexual_title",
+        "matchedText": "비키니"
+      },
+      {
+        "code": "graphic_or_death_title",
+        "matchedText": "고문"
+      },
+      {
+        "code": "private_allegation_title",
+        "matchedText": "몰카"
+      }
+    ]
+  }
+]

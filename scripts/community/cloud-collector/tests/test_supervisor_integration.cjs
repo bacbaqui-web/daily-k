@@ -1,0 +1,20 @@
+'use strict';
+const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),cp=require('node:child_process'),vm=require('node:vm');
+test('real local state, checkpoint and persistence work through injected CAS tick',async t=>{
+ const root=path.resolve(__dirname,'..'),tmp=fs.mkdtempSync(path.join(__dirname,'integration-'));t.after(()=>fs.rmSync(tmp,{recursive:true,force:true}));
+ const run=path.join(tmp,'run'),state=path.join(tmp,'state.json');
+ const py=(file,...args)=>JSON.parse(cp.execFileSync('python',[path.join(root,'src',file),...args],{encoding:'utf8'}));
+ py('checkpoint.py','init','--end','2026-10-09T02:03:32Z','--run-dir',run);
+ for(const folder of ['posts','listings'])fs.mkdirSync(path.join(run,folder),{recursive:true});
+ const sha=cp.execFileSync('python',['-c',`import sys;sys.path.insert(0,${JSON.stringify(root+'/src')});from runtime_state import source_digest;print(source_digest())`],{encoding:'utf8'}).trim();
+ py('runtime_state.py',state,'init','--args',JSON.stringify({sourceSha256:sha}));py('runtime_state.py',state,'start-run','--args',JSON.stringify({revision:0,sourceSha256:sha,runDir:run}));
+ let browsers=0;
+ const tools={exec_command:async a=>{try{return {exit_code:0,output:cp.execFileSync('/bin/bash',['-c',a.cmd],{encoding:'utf8',stdio:['ignore','pipe','pipe']})}}catch(e){return {exit_code:1,output:String(e.stderr)}}},apply_patch:async patch=>{const lines=patch.split('\n');for(let i=0;i<lines.length;i++){if(!lines[i].startsWith('*** Add File: '))continue;const file=lines[i].slice(14),data=[];while(++i<lines.length&&lines[i].startsWith('+'))data.push(lines[i].slice(1));i--;assert.ok(file.startsWith(tmp+'/'));fs.mkdirSync(path.dirname(file),{recursive:true});fs.writeFileSync(file,data.join('\n')+'\n')}return {}},mcp__cua_repl__js:async()=>{browsers++;return {content:[{type:'text',text:JSON.stringify({url:'https://aagag.com/issue/',observedAt:'2026-10-09T02:03:32Z',items:[{id:'123',title:'ordinary fixture',url:'https://aagag.com/issue/?idx=123',age:'1시간'}],pages:[]})}]}}};
+ const context={module:{exports:{}}};vm.runInNewContext(fs.readFileSync(root+'/src/supported_tool_runner.js','utf8')+'\n'+fs.readFileSync(root+'/src/supervised_tick.js','utf8'),context);
+ const api=context.module.exports;let remoteState=null,mainSha='a'.repeat(40);
+ const remote={read:async()=>({state:remoteState,mainSha}),compareAndSwap:async a=>{assert.equal(a.force,false);assert.equal(a.expectedMainSha,mainSha);remoteState=JSON.parse(JSON.stringify(a.nextState));mainSha=(mainSha[0]==='a'?'b':'c').repeat(40);return {status:'committed',mainSha}}};
+ const ctx={rootDir:root,runDir:run,statePath:state,journalPath:path.join(tmp,'journal.json'),tools,owner:'test',action:'listing',pageNumber:1,phase:'initial',url:'https://aagag.com/issue/'};
+ const r=await api.runSupervisedCollectorTick({operationId:'integration-1',claimNonce:'0123456789abcdef0123456789abcdef',owner:'test',remote,local:api.createCollectorLocalAdapter(ctx)});
+ assert.equal(r.status,'checkpointed');assert.equal(browsers,1);assert.ok(fs.existsSync(run+'/listings/initial-0001.json'));assert.equal(remoteState.status,'ready');assert.equal(remoteState.projection.progress.observedRecords,0);
+ const r2=await api.runSupervisedCollectorTick({operationId:'integration-2',claimNonce:'abcdef0123456789abcdef0123456789',owner:'test',remote,local:api.createCollectorLocalAdapter({...ctx,action:'slice',reviewedIds:[]})});assert.equal(r2.outcome,'title_review_required');assert.equal(browsers,1);
+});
