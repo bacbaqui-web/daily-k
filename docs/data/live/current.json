@@ -74,6 +74,48 @@
         "windowId": "2026-10-09-pm"
       }
     },
+    "topics-20261009-1715-community-check-v1": {
+      "hash": "9c9410079371233590a6d22cf69fcbf54a5fdc38197c050cb34712a44146327c",
+      "result": {
+        "operationId": "topics-20261009-1715-community-check-v1",
+        "recordedAt": "2026-10-09T17:26:28.051736+09:00",
+        "windowId": "2026-10-09-pm"
+      }
+    },
+    "topics-20261009-1715-community-v1": {
+      "hash": "77e51e9eca665e209471c12efe90946c8b338b5e3c26dc4e02df052e19fce1b4",
+      "result": {
+        "items": [
+          {
+            "id": "worlds-2026-know-my-name",
+            "revision": 6
+          },
+          {
+            "id": "ai-math-release-verification-20261006",
+            "revision": 3
+          },
+          {
+            "id": "coupang-outage-20261009",
+            "revision": 6
+          },
+          {
+            "id": "self-service-fueling-ui-2026",
+            "revision": 6
+          }
+        ],
+        "operationId": "topics-20261009-1715-community-v1",
+        "recordedAt": "2026-10-09T17:26:27.977967+09:00",
+        "windowId": "2026-10-09-pm"
+      }
+    },
+    "topics-20261009-1715-social-check-v1": {
+      "hash": "da609b0e102b5fc7d9a3a4b30bfa1901b0e8a7b8a9d7eceb652f34631858009d",
+      "result": {
+        "operationId": "topics-20261009-1715-social-check-v1",
+        "recordedAt": "2026-10-09T17:26:28.115706+09:00",
+        "windowId": "2026-10-09-pm"
+      }
+    },
     "topics-20261009-hourly-1315-v1": {
       "hash": "3524dc92d059eb4440eb15cc1d3b6d827665b427740df7b5f464a8174e9a2554",
       "result": {
@@ -276,8 +318,8 @@
       "firstObservedAt": "2026-10-09T14:21:25.862+09:00",
       "firstRecordedAt": "2026-10-09T14:31:14.134232+09:00",
       "kind": "topic",
-      "lastVerifiedAt": "2026-10-09T15:22:14+09:00",
-      "revision": 2,
+      "lastVerifiedAt": "2026-10-09T17:18:36.253+09:00",
+      "revision": 3,
       "topicKey": "ai-math-release-verification-20261006"
     },
     "arts-sports-military-service": {
@@ -303,8 +345,8 @@
       "firstObservedAt": "2026-10-09T11:16:05.810+09:00",
       "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
       "kind": "topic",
-      "lastVerifiedAt": "2026-10-09T16:18:32.289+09:00",
-      "revision": 5,
+      "lastVerifiedAt": "2026-10-09T17:17:23.054+09:00",
+      "revision": 6,
       "topicKey": "coupang-outage-20261009"
     },
     "gaming-brain-2024-recirculation": {
@@ -384,8 +426,8 @@
       "firstObservedAt": "2026-10-09T11:16:05.774000+09:00",
       "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
       "kind": "topic",
-      "lastVerifiedAt": "2026-10-09T16:18:39.868+09:00",
-      "revision": 5,
+      "lastVerifiedAt": "2026-10-09T17:17:13.103+09:00",
+      "revision": 6,
       "topicKey": "self-service-fueling-ui-2026"
     },
     "worlds-2026-know-my-name": {
@@ -393,15 +435,15 @@
       "firstObservedAt": "2026-10-09T11:54:36+09:00",
       "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
       "kind": "topic",
-      "lastVerifiedAt": "2026-10-09T16:19:19.075+09:00",
-      "revision": 5,
+      "lastVerifiedAt": "2026-10-09T17:19:06.246+09:00",
+      "revision": 6,
       "topicKey": "worlds-2026-know-my-name"
     }
   },
   "schemaVersion": 1,
   "snapshots": [],
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-09T16:27:16.474583+09:00",
+  "updatedAt": "2026-10-09T17:26:28.115706+09:00",
   "windows": [
     {
       "checks": [
@@ -492,6 +534,26 @@
           "id": "topics-20261009-1615-social",
           "note": "16:16 X 트렌드에서 Trending in South Korea와 노벨문학상·세종대왕·한글날 기념·애니멀 1위 표현을 재확인했다. 주제 전체 수·순위·시청자 지역은 미확인이다. NobelPrize 상세는 로딩 후 1회 재로드에도 AX 시간초과, KOREA 상세도 DOM 시간초과하여 이전 게시물 수치와 검증시각을 유지했다. Instagram 공개 Explore와 같은 카드들을 확인했다. Fall Nails 두 카드 332.9만·310.7만, GRWM 1,893만, Inktober 두 카드 52.1만·8.6만은 반올림 표시다. 작은 표시 차이는 의미 있는 화제·관심 변화로 판단하지 않았고 한국 지역·게시일·집계기간 미확인인 보조 자료다. count는 이번에 갱신한 주제 수 0이다. 접근 실패한 게시물이 0건이라는 뜻은 아니다.",
           "recordedAt": "2026-10-09T16:27:16.474583+09:00",
+          "source": "X 한국 공개 트렌드 및 Instagram 공개 Explore/Popular",
+          "status": "partial"
+        },
+        {
+          "channel": "topics",
+          "checkedAt": "2026-10-09T17:21:56.561+09:00",
+          "count": 4,
+          "id": "topics-20261009-1715-community",
+          "note": "17:15–17:21 네 기본 목록, 기존 원문 상세 4개와 롤·국내드라마·해외축구·주식·컴퓨터·음식의 일반글 첫 페이지를 확인했다. 기존 월즈·쿠팡 장애 후속 반응·셀프주유·AI 수학 주제의 같은 상세 표시값을 갱신했고, 실질적인 새 사건으로 충분히 검증한 신규 주제는 없었다. 수치 변화만으로 새 화제 확산이나 급상승을 주장하지 않는다. AI 수학은 16시 상세 실패로 15:18→17:18 약 2시간 간격이며 10월 6일 공개 자료 재노출이다. 개드립 월즈 상세는 도구 지연·목록 잔류로 미확인하여 과거 수치와 검증시각을 유지했다. 6갤러리는 일반글 첫 페이지 표본이며 개념글 목록은 이번 재확인하지 않았다. 성적·미성년 성적·사생활·미확인 악의적 추측을 제외했고 이전 제한 사이트를 우회하지 않았다.",
+          "recordedAt": "2026-10-09T17:26:28.051736+09:00",
+          "source": "루리웹 BEST·보배드림 BEST·개드립·디시 실베 및 주요 6개 갤러리 일반글 첫 페이지",
+          "status": "partial"
+        },
+        {
+          "channel": "topics",
+          "checkedAt": "2026-10-09T17:18:21+09:00",
+          "count": null,
+          "id": "topics-20261009-1715-social",
+          "note": "17:15 X 화면의 Trending in South Korea 표시와 노벨문학상·세종대왕·한글날 기념 등을 재확인했다. 직전 표본에 없던 전민재 홈런·쓰리런 등의 야구 표현은 공개 검색 클릭 및 후속 읽기 시간초과로 맥락·원문을 검증하지 못해 선정하지 않았다. X 새로고침 1회 후에도 읽기 시간초과가 이어졌다. Instagram Explore는 공개 URL과 페이지 제목만 확인됐으며 본문·Popular 카드 읽기는 시간초과했다. 사이트 차단 여부는 확인되지 않았다. 새로운 게시물 수치나 의미 있는 관심도 변화는 입증하지 못했으므로 topic 갱신 0건, 기존 관측값·최초관측·검증시각을 보존한다. 한국 트렌드 지역을 시청자 국적으로 해석하지 않으며 Instagram 지역은 미확인이다.",
+          "recordedAt": "2026-10-09T17:26:28.115706+09:00",
           "source": "X 한국 공개 트렌드 및 Instagram 공개 Explore/Popular",
           "status": "partial"
         }
@@ -1868,155 +1930,6 @@
         },
         {
           "canonicalUrl": null,
-          "firstObservedAt": "2026-10-09T14:21:25.862+09:00",
-          "firstRecordedAt": "2026-10-09T14:31:14.134232+09:00",
-          "id": "ai-math-release-verification-20261006",
-          "kind": "topic",
-          "lastVerifiedAt": "2026-10-09T15:22:14+09:00",
-          "limitations": "10월 6일 공식 공개 자료의 커뮤니티 재노출이다. 리만가설 전체 해결·모든 결과 확정 검증·특정 개인의 개선배수를 주장하지 않는다. 커뮤니티 게시물의 이미지 전체를 판독하지 않았고 개별 논문·증명 실행을 검토하지 않았다. 같은 게시물의 상세 관찰끼리만 비교하며 주제 전체 급상승·시간당 증가율·전국 순위를 판단하지 않는다. 지표를 합산하지 않는다. 이번 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다.",
-          "observations": [
-            {
-              "metric": "조회",
-              "observedAt": "2026-10-09T14:22:17.156+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 470
-            },
-            {
-              "metric": "추천",
-              "observedAt": "2026-10-09T14:22:17.156+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 5
-            },
-            {
-              "metric": "댓글",
-              "observedAt": "2026-10-09T14:22:17.156+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 7
-            },
-            {
-              "metric": "조회",
-              "observedAt": "2026-10-09T14:24:07.000+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 기록 시각은 열람 구간 종료 경계(2026-10-09T14:23:43+09:00 ~ 2026-10-09T14:24:07+09:00). ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 15533
-            },
-            {
-              "metric": "추천",
-              "observedAt": "2026-10-09T14:24:07.000+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 기록 시각은 열람 구간 종료 경계(2026-10-09T14:23:43+09:00 ~ 2026-10-09T14:24:07+09:00). ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 78
-            },
-            {
-              "metric": "댓글",
-              "observedAt": "2026-10-09T14:24:07.000+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 기록 시각은 열람 구간 종료 경계(2026-10-09T14:23:43+09:00 ~ 2026-10-09T14:24:07+09:00). ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 105
-            },
-            {
-              "metric": "조회",
-              "observedAt": "2026-10-09T15:18:58.492+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 4098
-            },
-            {
-              "metric": "추천",
-              "observedAt": "2026-10-09T15:18:58.492+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 24
-            },
-            {
-              "metric": "댓글",
-              "observedAt": "2026-10-09T15:18:58.492+09:00",
-              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
-              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "unit": "건",
-              "value": 101
-            }
-          ],
-          "recordedAt": "2026-10-09T15:26:06.700299+09:00",
-          "revision": 2,
-          "rightsChecked": true,
-          "safetyChecked": true,
-          "selectionReason": "14:22→15:18 같은 디시 상세는 조회 470→4,098(+3,628), 추천 5→24(+19), 댓글 7→101(+94). 15:22 공식 발표·저장소의 검증 한계를 다시 대조했다. 오전 후속개선 글은 이번 상세 재관찰 없음.",
-          "sources": [
-            {
-              "limitations": "제목은 원제 인용이 아닌 편집 설명. 헤더·짧은 본문·관련글 링크 확인. 보도 캡처 20장 전체 판독은 하지 않았다. 이용자 지역 분포와 주제 전체 반응량은 미측정.",
-              "name": "디시 실시간 베스트",
-              "periodEnd": null,
-              "periodStart": null,
-              "platform": "dcinside",
-              "publishedAt": "2026-10-09T14:20:02+09:00",
-              "quotes": [],
-              "region": "unknown",
-              "regionEvidenceUrl": null,
-              "title": "AI 수학 연구 공개 보도를 공유한 게시물 (내용 설명)",
-              "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
-              "verifiedAt": "2026-10-09T15:18:58.492+09:00"
-            },
-            {
-              "limitations": "제목은 원제 인용이 아닌 편집 설명. 원문 헤더·짧은 본문·X 링크 확인. 첨부 11장 전체·X 원문 미검증. 원제·본문의 개선배수는 확인되지 않아 인용하지 않는다. 열람 시각은 14:23:43–14:24:07 KST 구간 종료 경계.",
-              "name": "디시 실시간 베스트",
-              "periodEnd": null,
-              "periodStart": null,
-              "platform": "dcinside",
-              "publishedAt": "2026-10-09T07:40:02+09:00",
-              "quotes": [],
-              "region": "unknown",
-              "regionEvidenceUrl": null,
-              "title": "AI 수학 연구의 후속 개선을 다룬 게시물 (내용 설명)",
-              "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
-              "verifiedAt": "2026-10-09T14:24:07.000+09:00"
-            },
-            {
-              "limitations": "공식 원문 web 열람. 페이지에는 2026년 10월 6일만 표시되어 정확한 게시 시각·시간대는 null. 일부 증명의 Lean 형식화와 자료 공개를 설명한다. 이번 시간대의 새 발표가 아니다. 이번 공식 원문 재열람 시각은 도구 구간 종료 경계.",
-              "name": "OpenAI 공식 발표",
-              "periodEnd": null,
-              "periodStart": null,
-              "platform": "other",
-              "publishedAt": null,
-              "quotes": [],
-              "region": "unknown",
-              "regionEvidenceUrl": null,
-              "title": "Sharing AI progress in mathematics",
-              "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-              "verifiedAt": "2026-10-09T15:22:14+09:00"
-            },
-            {
-              "limitations": "공식 저장소 README web 열람. 결과마다 검증 단계가 다르고 모두 Lean 형식화를 갖춘 것은 아니며 미형식화 결과에 문제가 있을 수 있다고 명시. 개별 논문의 증명 자체를 검증하지 않았다. 자료수는 변동 가능해 요약에 쓰지 않았다. 이번 공식 원문 재열람 시각은 도구 구간 종료 경계.",
-              "name": "OpenAI 공식 연구 저장소",
-              "periodEnd": null,
-              "periodStart": null,
-              "platform": "other",
-              "publishedAt": null,
-              "quotes": [],
-              "region": "unknown",
-              "regionEvidenceUrl": null,
-              "title": "openai/math",
-              "url": "https://github.com/openai/math",
-              "verifiedAt": "2026-10-09T15:22:14+09:00"
-            }
-          ],
-          "summary": "AI 수학 연구 공개를 다룬 같은 실베 글의 조회·댓글이 늘었다. 10월 6일 공개 자료의 재노출이며, 공식 자료에 적힌 결과별 검증 단계와 형식화의 한계를 함께 유지했다.",
-          "title": "AI 수학 연구 공개와 후속 검증 논의",
-          "topicKey": "ai-math-release-verification-20261006"
-        },
-        {
-          "canonicalUrl": null,
           "firstObservedAt": "2026-10-09T11:54:50+09:00",
           "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
           "id": "nobel-literature-2026-anne-carson",
@@ -2378,8 +2291,8 @@
           "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
           "id": "worlds-2026-know-my-name",
           "kind": "topic",
-          "lastVerifiedAt": "2026-10-09T16:19:19.075+09:00",
-          "limitations": "공식 발표에 따르면 영상 공개 시각은 10월 9일 오전 10시 KST다. 팬이 해석한 장면의 의미를 공식 설명으로 단정하지 않는다. 전국 통합 순위가 아닌 표본의 편집 목록이다. 지표는 서로 합산하지 않는다. 배경 Riot Games / LoL Esports: https://lolesports.com/en-AU/news/worlds-anthem-presented-by-true-damage (배경자료의 개별 열람 시각은 미기록). 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 이번 16시 갱신은 동일 상세 지표의 후속 관찰이다. 새 사실·전국 급상승을 뜻하지 않으며 재관찰하지 않은 출처의 검증시각과 과거 관찰값은 보존했다.",
+          "lastVerifiedAt": "2026-10-09T17:19:06.246+09:00",
+          "limitations": "공식 발표에 따르면 영상 공개 시각은 10월 9일 오전 10시 KST다. 팬이 해석한 장면의 의미를 공식 설명으로 단정하지 않는다. 전국 통합 순위가 아닌 표본의 편집 목록이다. 지표는 서로 합산하지 않는다. 배경 Riot Games / LoL Esports: https://lolesports.com/en-AU/news/worlds-anthem-presented-by-true-damage (배경자료의 개별 열람 시각은 미기록). 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 앞선 16시 갱신은 동일 상세 지표의 후속 관찰이다. 새 사실·전국 급상승을 뜻하지 않으며 재관찰하지 않은 출처의 검증시각과 과거 관찰값은 보존했다. 이번 17시 갱신은 기존 원문 상세의 후속 반응만 확인했다. 새 사건·화제 확산·주제 전체 급상승을 주장하지 않는다. 재관찰하지 않은 출처의 검증시각과 모든 과거 관찰값을 보존했다.",
           "observations": [
             {
               "metric": "조회",
@@ -2652,16 +2565,40 @@
               "sourceUrl": "https://www.dogdrip.net/728713448",
               "unit": "건",
               "value": 40
+            },
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T17:19:06.246+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=leagueoflegends6&no=15894088&exception_mode=recommend&page=1",
+              "unit": "건",
+              "value": 22102
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T17:19:06.246+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=leagueoflegends6&no=15894088&exception_mode=recommend&page=1",
+              "unit": "건",
+              "value": 424
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T17:19:06.246+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=leagueoflegends6&no=15894088&exception_mode=recommend&page=1",
+              "unit": "건",
+              "value": 212
             }
           ],
-          "recordedAt": "2026-10-09T16:27:16.319989+09:00",
-          "revision": 5,
+          "recordedAt": "2026-10-09T17:26:27.977967+09:00",
+          "revision": 6,
           "rightsChecked": true,
           "safetyChecked": true,
-          "selectionReason": "15:19→16:19 같은 롤갤 상세에서 조회 18,399→20,438(+2,039), 추천 351→398(+47), 댓글 195→210(+15)를 확인했다. 같은 개드립 상세는 15:21→16:18 추천 31→33(+2), 댓글 35→40(+5)의 작은 변화다. 사이트별 값은 합산하지 않는다.",
+          "selectionReason": "16:19→17:19 같은 롤갤 상세에서 조회 20,438→22,102(+1,664), 추천 398→424(+26), 댓글 210→212(+2)를 확인했다. 기존 글에 관심이 이어진 관찰이며 새 화제 확산이나 급상승으로 해석하지 않는다. 이번 개드립 상세는 미확인이라 과거 관찰을 유지했다.",
           "sources": [
             {
-              "limitations": "본문·일부 첨부와 대표 댓글을 확인했다. 영상 전체를 시청한 것은 아니며 팬 해석은 공식 설명과 구분한다. 이용자 지역 분포와 플랫폼 전체 반응량은 측정하지 않았다. 앞선 15시 관찰은 15:18:59–15:19:20 KST 열람 구간 종료 경계다. 이번 16시 관찰 시각은 AX 반환 경계 16:19:19.075 KST다.",
+              "limitations": "본문·일부 첨부와 대표 댓글을 확인했다. 영상 전체를 시청한 것은 아니며 팬 해석은 공식 설명과 구분한다. 이용자 지역 분포와 플랫폼 전체 반응량은 측정하지 않았다. 앞선 15시 관찰은 15:18:59–15:19:20 KST 열람 구간 종료 경계다. 앞선 16시 관찰 시각은 AX 반환 경계 16:19:19.075 KST다.",
               "name": "디시 리그 오브 레전드",
               "periodEnd": null,
               "periodStart": null,
@@ -2672,7 +2609,7 @@
               "regionEvidenceUrl": null,
               "title": "뮤비 근데 이건 씹잘알인디 ㄹㅇ?;;;",
               "url": "https://gall.dcinside.com/board/view/?id=leagueoflegends6&no=15894088&exception_mode=recommend&page=1",
-              "verifiedAt": "2026-10-09T16:19:19.075+09:00"
+              "verifiedAt": "2026-10-09T17:19:06.246+09:00"
             },
             {
               "limitations": "제목은 원제 인용이 아닌 내용 설명이다. 한국은 확인한 트렌드 설정의 지역이며 게시물 시청자의 지역을 뜻하지 않는다. 집계기간·주제 전체 게시물 수는 미확인이다. 대표 게시물 지표는 게시물 단위 표시값이며 주제 전체 인기도·속도가 아니다.",
@@ -2731,9 +2668,182 @@
               "verifiedAt": "2026-10-09T16:18:23.138+09:00"
             }
           ],
-          "summary": "월즈 ‘Know My Name’의 곡·연출·선수 서사에 대한 반응이 이어졌다. 같은 롤갤과 개드립 원문에서 반응 증가를 각각 확인했다.",
+          "summary": "월즈 ‘Know My Name’의 곡·연출·선수 서사를 다룬 같은 롤갤 원문에 반응이 이어졌다. 개드립 상세는 이번에 확인하지 못해 직전 관찰을 유지했다.",
           "title": "월즈 ‘Know My Name’ MV 반응",
           "topicKey": "worlds-2026-know-my-name"
+        },
+        {
+          "canonicalUrl": null,
+          "firstObservedAt": "2026-10-09T14:21:25.862+09:00",
+          "firstRecordedAt": "2026-10-09T14:31:14.134232+09:00",
+          "id": "ai-math-release-verification-20261006",
+          "kind": "topic",
+          "lastVerifiedAt": "2026-10-09T17:18:36.253+09:00",
+          "limitations": "10월 6일 공식 공개 자료의 커뮤니티 재노출이다. 리만가설 전체 해결·모든 결과 확정 검증·특정 개인의 개선배수를 주장하지 않는다. 커뮤니티 게시물의 이미지 전체를 판독하지 않았고 개별 논문·증명 실행을 검토하지 않았다. 같은 게시물의 상세 관찰끼리만 비교하며 주제 전체 급상승·시간당 증가율·전국 순위를 판단하지 않는다. 지표를 합산하지 않는다. 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 이번 17시 갱신은 기존 원문 상세의 후속 반응만 확인했다. 새 사건·화제 확산·주제 전체 급상승을 주장하지 않는다. 재관찰하지 않은 출처의 검증시각과 모든 과거 관찰값을 보존했다. 16시 상세 실패 때문에 이번 수치 비교는 15:18→17:18 약 2시간 간격이다. 공식 발표와 저장소는 이번에 재열람하지 않았다.",
+          "observations": [
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T14:22:17.156+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 470
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T14:22:17.156+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 5
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T14:22:17.156+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 7
+            },
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T14:24:07.000+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 기록 시각은 열람 구간 종료 경계(2026-10-09T14:23:43+09:00 ~ 2026-10-09T14:24:07+09:00). ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 15533
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T14:24:07.000+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 기록 시각은 열람 구간 종료 경계(2026-10-09T14:23:43+09:00 ~ 2026-10-09T14:24:07+09:00). ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 78
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T14:24:07.000+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 기록 시각은 열람 구간 종료 경계(2026-10-09T14:23:43+09:00 ~ 2026-10-09T14:24:07+09:00). ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 105
+            },
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T15:18:58.492+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 4098
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T15:18:58.492+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 24
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T15:18:58.492+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. ",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 101
+            },
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T17:18:36.253+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 6938
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T17:18:36.253+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 33
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T17:18:36.253+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "unit": "건",
+              "value": 150
+            }
+          ],
+          "recordedAt": "2026-10-09T17:26:27.977967+09:00",
+          "revision": 3,
+          "rightsChecked": true,
+          "safetyChecked": true,
+          "selectionReason": "15:18→17:18 같은 실베 상세에서 조회 4,098→6,938(+2,840), 추천 24→33(+9), 댓글 101→150(+49)를 확인했다. 16시 상세 실패로 약 2시간 간격이며 한 시간 증가량이 아니다. 10월 6일 공개 자료의 재노출이고 공식 검증 범위에 관한 기존 한계를 유지했다.",
+          "sources": [
+            {
+              "limitations": "제목은 원제 인용이 아닌 편집 설명. 헤더·짧은 본문·관련글 링크 확인. 보도 캡처 20장 전체 판독은 하지 않았다. 이용자 지역 분포와 주제 전체 반응량은 미측정.",
+              "name": "디시 실시간 베스트",
+              "periodEnd": null,
+              "periodStart": null,
+              "platform": "dcinside",
+              "publishedAt": "2026-10-09T14:20:02+09:00",
+              "quotes": [],
+              "region": "unknown",
+              "regionEvidenceUrl": null,
+              "title": "AI 수학 연구 공개 보도를 공유한 게시물 (내용 설명)",
+              "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469051&_dcbest=1&page=1",
+              "verifiedAt": "2026-10-09T17:18:36.253+09:00"
+            },
+            {
+              "limitations": "제목은 원제 인용이 아닌 편집 설명. 원문 헤더·짧은 본문·X 링크 확인. 첨부 11장 전체·X 원문 미검증. 원제·본문의 개선배수는 확인되지 않아 인용하지 않는다. 열람 시각은 14:23:43–14:24:07 KST 구간 종료 경계.",
+              "name": "디시 실시간 베스트",
+              "periodEnd": null,
+              "periodStart": null,
+              "platform": "dcinside",
+              "publishedAt": "2026-10-09T07:40:02+09:00",
+              "quotes": [],
+              "region": "unknown",
+              "regionEvidenceUrl": null,
+              "title": "AI 수학 연구의 후속 개선을 다룬 게시물 (내용 설명)",
+              "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468971&_dcbest=1&page=1",
+              "verifiedAt": "2026-10-09T14:24:07.000+09:00"
+            },
+            {
+              "limitations": "공식 원문 web 열람. 페이지에는 2026년 10월 6일만 표시되어 정확한 게시 시각·시간대는 null. 일부 증명의 Lean 형식화와 자료 공개를 설명한다. 이번 시간대의 새 발표가 아니다. 이번 공식 원문 재열람 시각은 도구 구간 종료 경계.",
+              "name": "OpenAI 공식 발표",
+              "periodEnd": null,
+              "periodStart": null,
+              "platform": "other",
+              "publishedAt": null,
+              "quotes": [],
+              "region": "unknown",
+              "regionEvidenceUrl": null,
+              "title": "Sharing AI progress in mathematics",
+              "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+              "verifiedAt": "2026-10-09T15:22:14+09:00"
+            },
+            {
+              "limitations": "공식 저장소 README web 열람. 결과마다 검증 단계가 다르고 모두 Lean 형식화를 갖춘 것은 아니며 미형식화 결과에 문제가 있을 수 있다고 명시. 개별 논문의 증명 자체를 검증하지 않았다. 자료수는 변동 가능해 요약에 쓰지 않았다. 이번 공식 원문 재열람 시각은 도구 구간 종료 경계.",
+              "name": "OpenAI 공식 연구 저장소",
+              "periodEnd": null,
+              "periodStart": null,
+              "platform": "other",
+              "publishedAt": null,
+              "quotes": [],
+              "region": "unknown",
+              "regionEvidenceUrl": null,
+              "title": "openai/math",
+              "url": "https://github.com/openai/math",
+              "verifiedAt": "2026-10-09T15:22:14+09:00"
+            }
+          ],
+          "summary": "AI 수학 연구 공개를 다룬 같은 실베 글의 조회·댓글이 늘었다. 10월 6일 공개 자료의 재노출이며, 공식 자료에 적힌 결과별 검증 단계와 형식화의 한계를 함께 유지했다.",
+          "title": "AI 수학 연구 공개와 후속 검증 논의",
+          "topicKey": "ai-math-release-verification-20261006"
         },
         {
           "canonicalUrl": null,
@@ -2741,8 +2851,8 @@
           "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
           "id": "coupang-outage-20261009",
           "kind": "topic",
-          "lastVerifiedAt": "2026-10-09T16:18:32.289+09:00",
-          "limitations": "현재도 서비스가 중단돼 있다는 뜻이 아니다. 장애 원인이 해킹으로 확인됐다고 표현하지 않는다. 전국 통합 순위가 아닌 표본의 편집 목록이다. 지표는 서로 합산하지 않는다. 배경 SBS: https://news.sbs.co.kr/news/endPage.do?news_id=N1008790041 (배경자료의 개별 열람 시각은 미기록). 13시 갱신에서 보상 기사 직접 열람은 실패해 보상액·조건을 확정 사실로 추가하지 않았다. 개드립 이미지 전체와 문자 수신 횟수도 검증하지 못했다. 14:22 디시 같은 원문은 502 응답이었다. 최신 상세값 미확인. 보배드림의 개별 배달·폐기·정산 주장과 댓글의 보상조건은 회사 발표로 취급하지 않는다. 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 이번 16시 갱신은 동일 상세 지표의 후속 관찰이다. 새 사실·전국 급상승을 뜻하지 않으며 재관찰하지 않은 출처의 검증시각과 과거 관찰값은 보존했다.",
+          "lastVerifiedAt": "2026-10-09T17:17:23.054+09:00",
+          "limitations": "현재도 서비스가 중단돼 있다는 뜻이 아니다. 장애 원인이 해킹으로 확인됐다고 표현하지 않는다. 전국 통합 순위가 아닌 표본의 편집 목록이다. 지표는 서로 합산하지 않는다. 배경 SBS: https://news.sbs.co.kr/news/endPage.do?news_id=N1008790041 (배경자료의 개별 열람 시각은 미기록). 13시 갱신에서 보상 기사 직접 열람은 실패해 보상액·조건을 확정 사실로 추가하지 않았다. 개드립 이미지 전체와 문자 수신 횟수도 검증하지 못했다. 14:22 디시 같은 원문은 502 응답이었다. 최신 상세값 미확인. 보배드림의 개별 배달·폐기·정산 주장과 댓글의 보상조건은 회사 발표로 취급하지 않는다. 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 앞선 16시 갱신은 동일 상세 지표의 후속 관찰이다. 새 사실·전국 급상승을 뜻하지 않으며 재관찰하지 않은 출처의 검증시각과 과거 관찰값은 보존했다. 이번 17시 갱신은 기존 원문 상세의 후속 반응만 확인했다. 새 사건·화제 확산·주제 전체 급상승을 주장하지 않는다. 재관찰하지 않은 출처의 검증시각과 모든 과거 관찰값을 보존했다.",
           "observations": [
             {
               "metric": "조회",
@@ -2935,13 +3045,37 @@
               "sourceUrl": "https://www.bobaedream.co.kr/view?code=best&No=1038456&vdate=",
               "unit": "건",
               "value": 18
+            },
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T17:17:23.054+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://www.bobaedream.co.kr/view?code=best&No=1038456&vdate=",
+              "unit": "건",
+              "value": 11473
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T17:17:23.054+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://www.bobaedream.co.kr/view?code=best&No=1038456&vdate=",
+              "unit": "건",
+              "value": 81
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T17:17:23.054+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://www.bobaedream.co.kr/view?code=best&No=1038456&vdate=",
+              "unit": "건",
+              "value": 19
             }
           ],
-          "recordedAt": "2026-10-09T16:27:16.319989+09:00",
-          "revision": 5,
+          "recordedAt": "2026-10-09T17:26:27.977967+09:00",
+          "revision": 6,
           "rightsChecked": true,
           "safetyChecked": true,
-          "selectionReason": "15:19→16:18 같은 보배드림 BEST 상세에서 조회 7,723→9,887(+2,164), 추천 48→72(+24), 댓글 12→18(+6)를 확인했다. 이번 목록 9,850과 상세를 비교하지 않았다. 개별 라이더 경험은 이용자 주장이다.",
+          "selectionReason": "16:18→17:17 같은 보배드림 BEST 상세에서 조회 9,887→11,473(+1,586), 추천 72→81(+9), 댓글 18→19(+1)를 확인했다. 기존 글의 관심 지속이며 이용자 경험의 진위·범위나 새 사건을 확인한 것은 아니다.",
           "sources": [
             {
               "limitations": "머리말·보이는 본문을 확인했다. 첨부 10개 전체는 읽지 못했으며 로딩 전 댓글 0 대신 머리말 댓글 수를 기록했다. 이용자 지역 분포와 플랫폼 전체 반응량은 측정하지 않았다.",
@@ -2983,7 +3117,7 @@
               "regionEvidenceUrl": null,
               "title": "쿠팡 장애 뒤 라이더 경험담 공유 (내용 설명)",
               "url": "https://www.bobaedream.co.kr/view?code=best&No=1038456&vdate=",
-              "verifiedAt": "2026-10-09T16:18:32.289+09:00"
+              "verifiedAt": "2026-10-09T17:17:23.054+09:00"
             }
           ],
           "summary": "새벽 쿠팡 장애 뒤 라이더 경험담을 공유한 같은 보배드림 BEST 글에서 조회·추천·댓글이 늘었다. 개별 배달·폐기·정산 경험은 이용자 주장으로 구분했다.",
@@ -2996,8 +3130,8 @@
           "firstRecordedAt": "2026-10-09T12:48:39.025561+09:00",
           "id": "self-service-fueling-ui-2026",
           "kind": "topic",
-          "lastVerifiedAt": "2026-10-09T16:18:39.868+09:00",
-          "limitations": "보배드림에 공유된 KBS 영상은 10월 7일 보도다. 이번 관찰 시각에 새 사건이 발생한 것은 아니다. 보도 속 1천억원을 확정 부당이익이나 피해액으로 표현하지 않는다. 업계는 실제 추가 공급한 유류의 매출이라며 이익과 구별해야 한다고 반박했다. 영상 전체를 시청한 것은 아니며 제목·삽입 미리보기와 관련 반론을 확인했다. 전국 통합 순위가 아닌 표본의 편집 목록이다. 지표는 서로 합산하지 않는다. 배경 관련 업계 반론: https://www.energy-news.co.kr/news/articleView.html?idxno=228863 / 배경 KBS 영상: https://www.youtube.com/embed/JY1tSruoJ4g (배경자료의 개별 열람 시각은 미기록). 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 이번 16시 갱신은 동일 상세 지표의 후속 관찰이다. 새 사실·전국 급상승을 뜻하지 않으며 재관찰하지 않은 출처의 검증시각과 과거 관찰값은 보존했다.",
+          "lastVerifiedAt": "2026-10-09T17:17:13.103+09:00",
+          "limitations": "보배드림에 공유된 KBS 영상은 10월 7일 보도다. 이번 관찰 시각에 새 사건이 발생한 것은 아니다. 보도 속 1천억원을 확정 부당이익이나 피해액으로 표현하지 않는다. 업계는 실제 추가 공급한 유류의 매출이라며 이익과 구별해야 한다고 반박했다. 영상 전체를 시청한 것은 아니며 제목·삽입 미리보기와 관련 반론을 확인했다. 전국 통합 순위가 아닌 표본의 편집 목록이다. 지표는 서로 합산하지 않는다. 배경 관련 업계 반론: https://www.energy-news.co.kr/news/articleView.html?idxno=228863 / 배경 KBS 영상: https://www.youtube.com/embed/JY1tSruoJ4g (배경자료의 개별 열람 시각은 미기록). 앞선 15시 커뮤니티 갱신에서 재관찰하지 않은 출처의 verifiedAt은 과거 그대로 보존했다. 앞선 16시 갱신은 동일 상세 지표의 후속 관찰이다. 새 사실·전국 급상승을 뜻하지 않으며 재관찰하지 않은 출처의 검증시각과 과거 관찰값은 보존했다. 이번 17시 갱신은 기존 원문 상세의 후속 반응만 확인했다. 새 사건·화제 확산·주제 전체 급상승을 주장하지 않는다. 재관찰하지 않은 출처의 검증시각과 모든 과거 관찰값을 보존했다.",
           "observations": [
             {
               "metric": "조회",
@@ -3214,13 +3348,37 @@
               "sourceUrl": "https://bbs.ruliweb.com/best/board/300143/read/76961888?m=humor_only&t=now",
               "unit": "건",
               "value": 144
+            },
+            {
+              "metric": "조회",
+              "observedAt": "2026-10-09T17:17:13.103+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://bbs.ruliweb.com/best/board/300143/read/76961888?m=humor_only&t=now",
+              "unit": "건",
+              "value": 43678
+            },
+            {
+              "metric": "추천",
+              "observedAt": "2026-10-09T17:17:13.103+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://bbs.ruliweb.com/best/board/300143/read/76961888?m=humor_only&t=now",
+              "unit": "건",
+              "value": 180
+            },
+            {
+              "metric": "댓글",
+              "observedAt": "2026-10-09T17:17:13.103+09:00",
+              "scope": "클라우드 브라우저 · 원문 상세 화면 · 해당 게시물 표시값. 관찰시각은 AX 읽기 직후 또는 도구 응답완료 경계.",
+              "sourceUrl": "https://bbs.ruliweb.com/best/board/300143/read/76961888?m=humor_only&t=now",
+              "unit": "건",
+              "value": 146
             }
           ],
-          "recordedAt": "2026-10-09T16:27:16.319989+09:00",
-          "revision": 5,
+          "recordedAt": "2026-10-09T17:26:27.977967+09:00",
+          "revision": 6,
           "rightsChecked": true,
           "safetyChecked": true,
-          "selectionReason": "15:20→16:18 같은 루리웹 상세에서 조회 34,274→39,965(+5,691), 추천 151→170(+19), 댓글 133→144(+11)를 확인했다. 기존 BEST 게시물의 후속 반응이며 새 진입이나 주제 전체 급상승을 의미하지 않는다.",
+          "selectionReason": "16:18→17:17 같은 루리웹 상세에서 조회 39,965→43,678(+3,713), 추천 170→180(+10), 댓글 144→146(+2)를 확인했다. 기존 글의 관심 지속이며 새 진입·새 사건·주제 전체 급상승을 뜻하지 않는다.",
           "sources": [
             {
               "limitations": "보이는 본문·대표 댓글을 확인했다. 금액을 확정 피해액·부당이익으로 해석하지 않는다. 이용자 지역 분포와 플랫폼 전체 반응량은 측정하지 않았다. 제목은 원제 인용이 아닌 게시물 주제의 편집 설명이다.",
@@ -3234,7 +3392,7 @@
               "regionEvidenceUrl": null,
               "title": "셀프주유 정액·정량 선택 UI 논의 (게시물 설명)",
               "url": "https://bbs.ruliweb.com/best/board/300143/read/76961888?m=humor_only&t=now",
-              "verifiedAt": "2026-10-09T16:18:39.868+09:00"
+              "verifiedAt": "2026-10-09T17:17:13.103+09:00"
             },
             {
               "limitations": "머리말·댓글·KBS 삽입 영상의 제목과 미리보기를 확인했다. 영상 전체는 시청하지 않았고 인기글 진입도 확인되지 않았다. 이용자 지역 분포와 플랫폼 전체 반응량은 측정하지 않았다. 제목은 원제 인용이 아닌 게시물 주제의 편집 설명이다.",
