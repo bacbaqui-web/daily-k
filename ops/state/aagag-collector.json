@@ -1,14 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 15,
+  "revision": 16,
   "fence": 9,
   "operationId": "aagag-20261009T135240Z-initial-page5",
   "claimNonce": "f2a9a2c416a34c91b10a33ca1c3e593d",
-  "status": "running",
-  "lease": {
-    "owner": "dailyk-cloud-supervisor",
-    "expiresAt": "2026-10-09T16:04:00.658Z"
-  },
+  "status": "ready",
+  "lease": null,
   "projection": {
     "runKey": "729f20277547cf3d50995a959452de3993d019eed670e1fed36533fc1e3bf9d7",
     "window": {
@@ -16,8 +13,8 @@
       "end": "2026-10-09T13:52:40.672000+00:00"
     },
     "sourceSha256": "4b8f9cc54ec28254f013304d79c1b96902cd9e35d78cbb28c0e4d2f1ca618a11",
-    "privateEvidenceDigest": "c7941e77a761dc9ad39f6b9c5e6a47c9bc7a9d570db18d38376b2ab79545646d",
-    "localRevision": 16,
+    "privateEvidenceDigest": "44e5c9bc3fcfc660ca7fdf1002f8f5986c8bac851ba82851f3d032953941b440",
+    "localRevision": 18,
     "progress": {
       "observedRecords": 18,
       "qualifiers": 5,
@@ -29,8 +26,8 @@
       "nativeComments": false,
       "complete": false
     },
-    "checkpointAt": "2026-10-09T15:52:14.541564+00:00"
+    "checkpointAt": "2026-10-09T15:55:30.716328+00:00"
   },
-  "updatedAt": "2026-10-09T15:54:00.658Z",
-  "lastOutcome": null
+  "updatedAt": "2026-10-09T15:55:31.852Z",
+  "lastOutcome": "checkpointed"
 }
