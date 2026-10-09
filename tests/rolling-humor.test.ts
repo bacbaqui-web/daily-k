@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {activeHumor,isHumorState,type HumorItem} from '../lib/rolling-humor.ts';
+import {communityBodyImages} from '../lib/community-media.ts';
+const published='2026-10-09T09:00:00+09:00';
+const record={id:'aagag-1',canonicalUrl:'https://aagag.com/issue/?idx=1',title:'테스트',publishedAt:published,expiresAt:'2026-10-10T09:00:00+09:00',firstObservedAt:published,lastVerifiedAt:published,recordedAt:published,commentsVerifiedAt:published,kCount:10,commentCount:1,revision:1,limitations:'테스트',publicationEvidence:{method:'aagag-otime',value:published,sourceUrl:'https://aagag.com/issue/?idx=1',semanticsVerified:true,raw:String(Date.parse(published)/1000),observedAt:published},sources:[{name:'애객',title:'테스트',url:'https://aagag.com/issue/?idx=1',publishedAt:published,verifiedAt:published}],content:{imageUrl:'https://i.aagag.com/a.jpg'}} as HumorItem;
+const state={schemaVersion:1,mode:'rolling-humor',timezone:'Asia/Seoul',retentionHours:24,minimumLiteralK:10,updatedAt:null,lastCheck:null,items:[record]};
+assert.equal(isHumorState(state),true);
+assert.equal(isHumorState({...state,items:[{...record,kCount:9}]}),false);
+assert.equal(isHumorState({...state,items:[{...record,publishedAt:null}]}),false);
+assert.equal(isHumorState({...state,items:[{...record,publicationEvidence:{...record.publicationEvidence,semanticsVerified:false}}]}),false);
+assert.equal(isHumorState({...state,items:[record,record]}),false);
+assert.equal(isHumorState({...state,items:[{...record,expiresAt:'2026-10-11T09:00:00+09:00'}]}),false);
+for(const [time,count] of [['2026-10-09T08:59:59.999+09:00',0],['2026-10-09T09:00:00+09:00',1],['2026-10-10T08:59:59.999+09:00',1],['2026-10-10T09:00:00+09:00',0],['2026-10-10T00:00:00Z',0],['2026-10-12T09:00:00+09:00',0]] as const)assert.equal(activeHumor([record],Date.parse(time)).length,count);
+assert.equal(communityBodyImages(record.content).length,1);
+assert.equal(communityBodyImages({...record.content,bodyImages:[],videoUrl:'https://i.aagag.com/a.mp4'}).length,0);
+console.log('Rolling guards, literal threshold, 24h exact boundary, timezone, stale refresh/background resume filtering and legacy media compatibility passed');

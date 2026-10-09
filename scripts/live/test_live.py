@@ -70,6 +70,47 @@ class LiveTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             m.stamp('2026-10-07T09:00:00')
 
+    def test_news_only_finalization_preserves_old_items_and_rolling_feed(self):
+        self.run_op()
+        original=copy.deepcopy(self.state()['windows'][0]['items'])
+        rolling=self.root/'public/data/humor/current.json';rolling.parent.mkdir(parents=True)
+        rolling.write_text('{"preserve":"rolling data is independent"}\n')
+        rolling_bytes=rolling.read_bytes()
+        result=self.run_op('finalize-news',payload('news-only',edition='2026-10-07-am'),AFTER)
+        self.assertEqual(self.snapshot()['items'],[])
+        self.assertEqual(self.snapshot()['channel'],'news')
+        legacy=next(w for w in self.state()['windows'] if w['id']=='2026-10-07-am')
+        self.assertEqual(legacy['items'],original)
+        self.assertEqual(rolling.read_bytes(),rolling_bytes)
+        self.assertTrue(self.run_op('finalize-news',payload('news-only',edition='2026-10-07-am'),AFTER)['replayed'])
+        self.assertEqual(result['id'],'2026-10-07-am')
+
+    def test_rolling_mode_blocks_retired_writes_and_all_channel_finalization(self):
+        self.run_op()
+        rolling=self.root/'public/data/humor/current.json';rolling.parent.mkdir(parents=True);rolling.write_text('{}')
+        with self.assertRaisesRegex(ValueError,'finalize-news'):self.final()
+        with self.assertRaisesRegex(ValueError,'no longer'):self.run_op(data=payload('new-topic',items=[item('two')]))
+
+    def test_news_only_existing_snapshot_is_never_rewritten(self):
+        self.run_op();self.final()
+        before=(self.root/'public/data/live/snapshots/2026-10-07-am.json').read_bytes()
+        result=self.run_op('finalize-news',payload('news-again',edition='2026-10-07-am'),AFTER)
+        self.assertTrue(result['replayed'])
+        self.assertEqual((self.root/'public/data/live/snapshots/2026-10-07-am.json').read_bytes(),before)
+
+    def test_news_only_finalization_keeps_issue_generation_with_legacy_items(self):
+        self.run_op()
+        fixtures=m.load_module('news_only_fixtures',m.ROOT/'scripts/news/test_publish.py')
+        self.run_op('stage-news',payload('prepare-news-only',expectedRevision=0,brief=fixtures.early_fixture()))
+        self.run_op('finalize-news',payload('finish-news-only',edition='2026-10-07-am'),AFTER)
+        published=json.loads((self.root/'public/data/news/2026-10-07/am.json').read_text())
+        self.assertEqual(published['cutoffAt'],'2026-10-07T08:30:00+09:00')
+        self.assertEqual(published['generatedAt'],'2026-10-07T08:55:00+09:00')
+        self.assertEqual(published['finalizedAt'],m.iso(AFTER))
+        self.assertTrue((self.root/'public/data/news/issues/index.json').exists())
+        self.assertEqual(self.snapshot()['items'],[])
+        self.assertIsNotNone(self.snapshot()['news'])
+
     def test_new_item_and_dry_run_never_write(self):
         self.run_op(check=True)
         self.assertFalse((self.root / 'public' / m.CURRENT).exists())

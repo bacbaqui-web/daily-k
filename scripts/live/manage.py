@@ -262,6 +262,11 @@ def plan(root, command, payload, now):
     current = root / 'public' / CURRENT
     state = json.loads(current.read_text()) if current.exists() else initial()
     require(state.get('schemaVersion') == 1 and state.get('timezone') == 'Asia/Seoul', 'unsupported live state')
+    rolling = (root / 'public/data/humor/current.json').exists()
+    if rolling:
+        require(command != 'finalize', 'rolling humor enabled: use finalize-news; legacy all-channel finalization is disabled')
+        require(command != 'upsert', 'community/topics no longer enter edition windows; use scripts/humor/manage.py for verified humor')
+        require(command != 'check' or payload.get('check', {}).get('channel') == 'news', 'edition checks are news-only; use rolling humor check')
     operation_id = slug(payload['operationId'])
     operation_hash = digest({'command': command, 'payload': payload})
     old = state['operations'].get(operation_id)
@@ -269,7 +274,7 @@ def plan(root, command, payload, now):
         require(old['hash'] == operation_hash, 'operationId reused with different content')
         return {}, dict(old['result'], replayed=True)
     require(payload.get('schemaVersion') == 1, 'input schemaVersion must be 1')
-    if command == 'finalize':
+    if command in ('finalize', 'finalize-news'):
         prior = next((s for s in state['snapshots'] if s['id'] == payload['edition']), None)
         if prior:
             value = json.loads((root / 'public/data/live' / prior['path']).read_text())
@@ -322,20 +327,28 @@ def plan(root, command, payload, now):
         require(not any(b['id'] == brief['id'] for b in history), 'news edition already published')
         brief = NEWS.validate(brief, history, now=now)
         active['news'] = {'brief': brief, 'recordedAt': iso(now), 'revision': payload['expectedRevision'] + 1}
-    elif command == 'finalize':
+    elif command in ('finalize', 'finalize-news'):
         target = next(w for w in state['windows'] if w['id'] == payload['edition'])
-        snapshot = dict(target, schemaVersion=1, timezone='Asia/Seoul', status='finalized', finalizedAt=iso(now),
-                        activatedAt=state['activatedAt'], empty=not target['items'] and target['news'] is None)
+        selected = dict(target, items=[], checks=[c for c in target['checks'] if c['channel'] == 'news']) if command == 'finalize-news' else target
+        snapshot = dict(selected, schemaVersion=1, timezone='Asia/Seoul', status='finalized', finalizedAt=iso(now),
+                        activatedAt=state['activatedAt'], empty=not selected['items'] and selected['news'] is None)
+        if command == 'finalize-news': snapshot['channel'] = 'news'
         path = f"snapshots/{target['id']}.json"
         for folder in ('public', 'docs'):
             writes[f'{folder}/data/live/{path}'] = snapshot
         ref = {k: snapshot[k] for k in ('id', 'opensAt', 'scheduledFor', 'finalizedAt', 'empty')}
-        ref.update(path=path, sha256=digest(snapshot), itemCount=len(target['items']), hasNews=target['news'] is not None)
+        ref.update(path=path, sha256=digest(snapshot), itemCount=len(selected['items']), hasNews=selected['news'] is not None)
         state['snapshots'].append(ref)
         state['snapshots'].sort(key=lambda s: s['scheduledFor'], reverse=True)
-        state['windows'].remove(target)
-        if target['news']:
-            writes.update(news_files(root, target['news']['brief'], iso(now), target['id']))
+        # Preserve pre-transition humor/topics byte-for-byte as an unfrozen legacy
+        # window; the new snapshot contains only news. Rolling data is independent.
+        if command == 'finalize-news' and (target['items'] or any(c['channel'] != 'news' for c in target['checks'])):
+            target['news'] = None
+            target['checks'] = [c for c in target['checks'] if c['channel'] != 'news']
+        else:
+            state['windows'].remove(target)
+        if selected['news']:
+            writes.update(news_files(root, selected['news']['brief'], iso(now), target['id']))
         result.update(id=target['id'], sha256=ref['sha256'])
     elif command == 'correct':
         correction = payload['correction']
@@ -458,7 +471,7 @@ def push_operation(root, command, payload):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['init', 'upsert', 'check', 'stage-news', 'finalize', 'correct', 'recover', 'status'])
+    parser.add_argument('command', choices=['init', 'upsert', 'check', 'stage-news', 'finalize', 'finalize-news', 'correct', 'recover', 'status'])
     parser.add_argument('input', nargs='?', type=Path)
     parser.add_argument('--edition')
     parser.add_argument('--operation-id')
@@ -471,8 +484,8 @@ def main():
         print(encoded({k: state[k] for k in ('activatedAt', 'updatedAt', 'windows', 'snapshots')}))
         return
     payload = json.loads(args.input.read_text()) if args.input else {
-        'schemaVersion': 1, 'operationId': args.operation_id or (f'finalize-{args.edition}' if args.command == 'finalize' else 'initialize-live-v1')}
-    if args.command == 'finalize':
+        'schemaVersion': 1, 'operationId': args.operation_id or (f'{args.command}-{args.edition}' if args.command in ('finalize', 'finalize-news') else 'initialize-live-v1')}
+    if args.command in ('finalize', 'finalize-news'):
         payload['edition'] = args.edition
     result = push_operation(ROOT, args.command, payload) if args.push else execute(ROOT, args.command, payload, args.check)[0]
     print(encoded(result))
