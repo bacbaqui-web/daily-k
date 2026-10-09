@@ -1,0 +1,22 @@
+{
+  "command": "check",
+  "payload": {
+    "check": {
+      "channel": "topics",
+      "checkedAt": "2026-10-09T16:19:24+09:00",
+      "count": 0,
+      "id": "topics-20261009-1615-social",
+      "note": "16:16 X 트렌드에서 Trending in South Korea와 노벨문학상·세종대왕·한글날 기념·애니멀 1위 표현을 재확인했다. 주제 전체 수·순위·시청자 지역은 미확인이다. NobelPrize 상세는 로딩 후 1회 재로드에도 AX 시간초과, KOREA 상세도 DOM 시간초과하여 이전 게시물 수치와 검증시각을 유지했다. Instagram 공개 Explore와 같은 카드들을 확인했다. Fall Nails 두 카드 332.9만·310.7만, GRWM 1,893만, Inktober 두 카드 52.1만·8.6만은 반올림 표시다. 작은 표시 차이는 의미 있는 화제·관심 변화로 판단하지 않았고 한국 지역·게시일·집계기간 미확인인 보조 자료다. count는 이번에 갱신한 주제 수 0이다. 접근 실패한 게시물이 0건이라는 뜻은 아니다.",
+      "source": "X 한국 공개 트렌드 및 Instagram 공개 Explore/Popular",
+      "status": "partial"
+    },
+    "operationId": "topics-20261009-1615-social-check-v1",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-09T16:27:16.474583+09:00",
+  "result": {
+    "operationId": "topics-20261009-1615-social-check-v1",
+    "recordedAt": "2026-10-09T16:27:16.474583+09:00",
+    "windowId": "2026-10-09-pm"
+  }
+}
