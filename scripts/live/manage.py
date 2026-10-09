@@ -232,6 +232,22 @@ def validate_check(check, now):
     require(check['status'] != 'empty' or check.get('count') == 0, 'empty check requires count 0')
 
 
+def check_legacy_community_duplicate(root, item):
+    """Do not relaunch a recently published legacy post as a new macro discovery."""
+    index_path = root / 'public/data/community/index.json'
+    if item['kind'] != 'community' or not index_path.exists():
+        return
+    entries = json.loads(index_path.read_text())['editions'][:14]
+    for entry in entries:
+        relative = Path(entry['path'])
+        require(not relative.is_absolute() and '..' not in relative.parts, 'unsafe legacy edition path')
+        prior = json.loads((index_path.parent / relative).read_text())
+        for story in prior['stories']:
+            require(item['topicKey'] != story.get('topicKey') and
+                    canonical(item['canonicalUrl']) not in {canonical(s['url']) for s in story['sources']},
+                    'recent legacy community post repeated; preserve its existing archive')
+
+
 def news_files(root, brief, finalized_at, record_id):
     # Existing edition and long-term issue builders are reused on an isolated copy.
     with tempfile.TemporaryDirectory(prefix='daily-k-news-') as tmp:
@@ -273,10 +289,12 @@ def plan(root, command, payload, now):
             validate_item(item, now)
             old = state['registry'].get(item['id'])
             require(item['expectedRevision'] == (old['revision'] if old else 0), 'revision conflict; read latest current.json')
+            if not old:
+                check_legacy_community_duplicate(root, item)
             identity = (item['kind'], item['topicKey'])
             link = canonical(item['canonicalUrl']) if item.get('canonicalUrl') else None
             for other_id, registered in state['registry'].items():
-                require(other_id == item['id'] or (identity != (registered['kind'], registered['topicKey']) and
+                require(other_id == item['id'] or (item['topicKey'] != registered['topicKey'] and
                         (not link or link != registered['canonicalUrl'])), 'duplicate topic or original URL; reuse stable ID')
             if old:
                 require(identity == (old['kind'], old['topicKey']) and link == old['canonicalUrl'], 'stable identity cannot be changed')

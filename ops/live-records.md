@@ -71,7 +71,7 @@ python3 scripts/live/manage.py correct /absolute/correction.json --push
 - source.platform: `aagag|community|dcinside|instagram|x|other`. source.region: `KR|unknown`. `KR`은 지역을 실제 확인한 regionEvidenceUrl 필수. **인스타는 unknown만 허용**하며 화면에서 ‘보조 자료, 한국 지역 순위 아님’, 집계 기간 미확인을 표시합니다. **X는 한국 지역 설정을 확인한 자료만 KR**, 그 밖에는 unknown으로 명시합니다. 제3자 추적 사이트의 지역·집계 한계도 limitations에 남깁니다.
 - 출처 title+quotes는 출처별 합계 25단어 이하. community content의 제목·원문·댓글 인용도 합계 25단어 이하. 전문 복제 금지, URL만 연결. 독립된 ㅇㅎ/ㅎㅂ/ㅇㅎㅂ 표시는 원출처 제목까지 제외. 성적 유출물·노골적 성적 콘텐츠·미성년 성적 대상화·개인정보 노출·악성 루머 제외. safetyChecked/rightsChecked는 실제 사람/에이전트 검토 확인이며 자동 진위 판정이 아닙니다.
 - 미확인 metric value는 null, 관측 자체가 없으면 observations=[]. 숫자 0은 실제 0일 때만. 기간은 두 끝을 모두 확인하거나 둘 다 null. 시각은 시간대가 필수이며 미래 관찰은 거부합니다.
-- 같은 ID의 kind/topicKey/canonicalUrl/firstObservedAt은 바꿀 수 없습니다. 같은 topicKey나 같은 개별 원문에 새 ID를 부여하면 거부합니다. 다음 창에서 다시 관찰할 때도 같은 ID와 다음 revision을 씁니다. 창이 바뀌면 과거 항목을 자동 복사하지 않습니다.
+- 같은 ID의 kind/topicKey/canonicalUrl/firstObservedAt은 바꿀 수 없습니다. 두 수집 경로를 통틀어 같은 topicKey나 같은 개별 원문에 새 ID를 부여하면 거부합니다. 새 매크로 항목은 최근 14개 기존 커뮤니티 회차의 topicKey·원문 URL과도 대조하여 재수집을 막습니다. 다음 창에서 다시 관찰할 때도 같은 ID와 다음 revision을 씁니다. 창이 바뀌면 과거 항목을 자동 복사하지 않습니다.
 
 수집 상태 입력:
 

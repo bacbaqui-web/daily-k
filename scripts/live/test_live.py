@@ -202,6 +202,20 @@ class LiveTests(unittest.TestCase):
         a=self.community_item();a['content']['originalText']='word '*26
         with self.assertRaisesRegex(AssertionError,'quotations'):m.validate_item(a,BEFORE)
 
+    def test_macro_deduplicates_recent_legacy_archive(self):
+        a=self.community_item();base=self.root/'public/data/community';base.mkdir(parents=True)
+        (base/'index.json').write_text(json.dumps({'editions':[{'path':'old.json'}]}))
+        original=json.dumps({'stories':[a['content']]});(base/'old.json').write_text(original)
+        with self.assertRaisesRegex(ValueError,'recent legacy'):
+            self.run_op(data=payload(items=[a]))
+        self.assertEqual((base/'old.json').read_text(),original)
+
+    def test_macro_and_editorial_routes_share_topic_deduplication(self):
+        self.run_op()
+        a=self.community_item();a['id']='other-id';a['content']['id']='other-id'
+        with self.assertRaisesRegex(ValueError,'duplicate topic'):
+            self.run_op(data=payload('other-route',items=[a]))
+
     def test_explicit_correction_preserves_snapshot(self):
         self.run_op();self.final();before=m.encoded(self.snapshot())
         c=dict(id='correction-one',snapshotId='2026-10-07-am',itemId='topic-one',action='correction',

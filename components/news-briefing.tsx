@@ -7,7 +7,8 @@ import {ReaderHeading} from './reader-heading';
 import {NewsReaderActions} from './news-question-button';
 import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
 import {combineBriefings,overviewPhrases,type NewsView,type NewsViewStory} from '../lib/news-view';
-import {liveLink} from '../lib/live';
+import {liveLink,type Correction} from '../lib/live';
+import {RecordCorrections} from './record-corrections';
 
 function ArticleImage({item}:{item:NewsSource}){
  const [failed,setFailed]=useState(false);
@@ -62,7 +63,7 @@ function NewsPreview({story,brief,disabled,onOpen,children}:{story:NewsViewStory
   </PreviewCardPrimitive.Positioner></PreviewCardPrimitive.Portal>
  </HoverCard>;
 }
-function NewsStories({brief,liveRecord}:{brief:NewsView;liveRecord?:string}){
+function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecord?:string;corrections?:Correction[]}){
  const [active,setActive]=useState<number|null>(null);
  useEffect(()=>{const q=new URLSearchParams(location.search),id=q.get(liveRecord!==undefined?'item':'story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id,liveRecord]);
  const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLElement|null>(null);
@@ -89,14 +90,14 @@ function NewsStories({brief,liveRecord}:{brief:NewsView;liveRecord?:string}){
   <ol className="posts news-stories">{brief.stories.map((s,i)=><li key={s.id}>
    <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(i)}}>
     <span className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</span>
-    <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span></span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span><span className="news-story-summary">{s.summary[0]}</span></span>
+    <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span>{corrections.some(c=>c.itemId===s.id)&&<span className="live-correction-badge">정정·철회 기록 있음</span>}</span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span><span className="news-story-summary">{s.summary[0]}</span></span>
    </NewsPreview>
   </li>)}</ol>
   <DialogContent className="reader-dialog news-reader" showCloseButton={false} aria-describedby={undefined} initialFocus={body} finalFocus={()=>trigger.current||true}>
    {story&&<>
     <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span><NewsReaderActions key={story.id} brief={brief} story={story} sharePath={liveRecord!==undefined?liveLink(liveRecord?'records':'live','news',liveRecord||undefined,story.id):undefined}/></div></nav>
     <div className="reader-body news-reader-body" ref={body} tabIndex={-1}>
-     <NewsDetails key={story.id} story={story} brief={brief}/>
+     <RecordCorrections items={corrections.filter(c=>c.itemId===story.id)}/><NewsDetails key={story.id} story={story} brief={brief}/>
     </div>
    </>}
   </DialogContent>
@@ -107,10 +108,10 @@ function NewsClosing({brief}:{brief:NewsView}){return <>
    {brief.watchItems.length>0&&brief.events.length===0&&<section className="news-closing"><h2>주목할 변수</h2><ul>{brief.watchItems.map(item=><li key={item}>{item}</li>)}</ul></section>}
    {brief.events.length>0&&<section className="news-closing"><h2>{brief.edition==='am'?'오늘 일정·시장 변수':'내일 주목할 변수'}</h2><ul className="news-events">{brief.events.map((e,i)=><li key={i}><span>{e.at?koreaTime(e.at):`${e.date} · ${e.timeNote||'시각 미확인'}`}</span><h3>{e.title}</h3><p>{e.detail}</p><a href={e.source.url} target="_blank" rel="noopener noreferrer">확인: {e.source.name} ↗</a></li>)}</ul><small>모든 시각은 한국시간입니다. 일정은 주최 측 사정에 따라 바뀔 수 있습니다.</small></section>}
 </>}
-export function NewsPrepared({brief,record}:{brief:NewsBrief;record?:string}){
+export function NewsPrepared({brief,record,corrections=[]}:{brief:NewsBrief;record?:string;corrections?:Correction[]}){
  const view=combineBriefings([brief]);
  if(!view)return null;
- return <section className="news"><div className="news-intro"><h2>전체 뉴스 요약</h2>{(view.overview||[view.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(view)}/></p>)}<div className="news-time">{view.cutoffAt&&<span>기사 기준 {koreaTime(view.cutoffAt)}</span>}<span>실제 작성 {koreaTime(view.generatedAt)}</span></div></div><NewsStories brief={view} liveRecord={record||''}/><NewsClosing brief={view}/></section>;
+ return <section className="news"><div className="news-intro"><h2>전체 뉴스 요약</h2>{(view.overview||[view.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(view)}/></p>)}<div className="news-time">{view.cutoffAt&&<span>기사 기준 {koreaTime(view.cutoffAt)}</span>}<span>실제 작성 {koreaTime(view.generatedAt)}</span></div></div><NewsStories brief={view} liveRecord={record||''} corrections={corrections}/><NewsClosing brief={view}/></section>;
 }
 export function NewsBriefing(){
  const [index,setIndex]=useState<NewsIndex|null>(null),[date,setDate]=useState(''),[edition,setEdition]=useState<Edition>('am');
