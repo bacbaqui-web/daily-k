@@ -1,0 +1,22 @@
+{
+  "command": "check",
+  "payload": {
+    "check": {
+      "channel": "topics",
+      "checkedAt": "2026-10-09T12:18:32.564+09:00",
+      "count": 14,
+      "id": "topics-20261009-1215-coverage",
+      "note": "14개 주제를 편집 선정했다(Instagram 참고 3개 포함). 11:53–11:59와 12:15–12:18 관찰을 보존하고 일부 11:16 비교값을 포함했다. 디시 일반·개념 첫 페이지는 표본이며 한 시간 전수 조사나 전국 순위가 아니다. FM코리아 429·더쿠 403·클리앙 접근 불가·뽐뿌 기존 오류로 누락됐고 우회하지 않았다. X 검색 카드와 상세 화면 사이의 증감 비교를 제외했다. Instagram은 지역·집계기간 미확인이다. 이미지·영상 전체를 확인하지 못한 출처는 해당 한계에 표시했다. 별도 애객 매크로 수집은 이 결과에 포함하지 않았다.",
+      "source": "공개 커뮤니티·디시 6개 갤러리·X 한국 트렌드·Instagram 공개 인기 페이지",
+      "status": "partial"
+    },
+    "operationId": "topics-20261009-initial-coverage-v1",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-09T12:48:39.095269+09:00",
+  "result": {
+    "operationId": "topics-20261009-initial-coverage-v1",
+    "recordedAt": "2026-10-09T12:48:39.095269+09:00",
+    "windowId": "2026-10-09-pm"
+  }
+}
