@@ -20,6 +20,24 @@
         "windowId": "2026-10-09-pm"
       }
     },
+    "macro-reviewed-two-20261010-am-20261009t1612z": {
+      "hash": "b7001bd39de8b8c6bd905d3e2aec8fa2ada479b15c86d6c02586f78c260988bd",
+      "result": {
+        "items": [
+          {
+            "id": "aagag-1660581",
+            "revision": 1
+          },
+          {
+            "id": "aagag-1660593",
+            "revision": 1
+          }
+        ],
+        "operationId": "macro-reviewed-two-20261010-am-20261009t1612z",
+        "recordedAt": "2026-10-10T01:14:48.442836+09:00",
+        "windowId": "2026-10-10-am"
+      }
+    },
     "news-prepare-20261009-pm": {
       "hash": "ddcf3a442e3b25c71289b60c296bc2e1e7d743cc5123bec41a7857ec207af0d3",
       "result": {
@@ -664,6 +682,24 @@
     }
   },
   "registry": {
+    "aagag-1660581": {
+      "canonicalUrl": "https://aagag.com/issue?idx=1660581",
+      "firstObservedAt": "2026-10-09T13:54:53.876Z",
+      "firstRecordedAt": "2026-10-10T01:14:48.442836+09:00",
+      "kind": "community",
+      "lastVerifiedAt": "2026-10-09T16:08:32.796157+00:00",
+      "revision": 1,
+      "topicKey": "aagag-1660581"
+    },
+    "aagag-1660593": {
+      "canonicalUrl": "https://aagag.com/issue?idx=1660593",
+      "firstObservedAt": "2026-10-09T13:54:53.876Z",
+      "firstRecordedAt": "2026-10-10T01:14:48.442836+09:00",
+      "kind": "community",
+      "lastVerifiedAt": "2026-10-09T16:08:32.796157+00:00",
+      "revision": 1,
+      "topicKey": "aagag-1660593"
+    },
     "ai-comments-dead-internet": {
       "canonicalUrl": null,
       "firstObservedAt": "2026-10-09T11:57:52+09:00",
@@ -842,7 +878,7 @@
     }
   ],
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-10T00:25:39.143149+09:00",
+  "updatedAt": "2026-10-10T01:14:48.442836+09:00",
   "windows": [
     {
       "checks": [
@@ -3407,6 +3443,236 @@
           "summary": "STORM 군무 참고 릴의 같은 인기 카드 조회가 657.8만→660.8만, 같은 원문 상세 좋아요가 67.6만→67.8만으로 표시됐다. 기존 자료에 대한 관심의 후속 관찰이며 신규 발표나 한국 지역 급상승을 뜻하지 않는다.",
           "title": "STORM 군무·무대 연출 참고",
           "topicKey": "instagram-storm-choreography-reference"
+        },
+        {
+          "canonicalUrl": "https://aagag.com/issue/?idx=1660581",
+          "content": {
+            "bodyImages": [
+              {
+                "height": 770,
+                "url": "https://i.aagag.com/KzKYu.jpg",
+                "width": 691
+              }
+            ],
+            "bodyImagesSourceUrl": "https://aagag.com/issue/?idx=1660581",
+            "bodyImagesVerifiedAt": "2026-10-09T16:08:32.796157+00:00",
+            "category": "유머",
+            "commentCount": 13,
+            "comments": [],
+            "commentsVerifiedAt": "2026-10-09T15:59:27.624Z",
+            "contentSignals": [],
+            "id": "aagag-1660581",
+            "imageUrl": "https://i.aagag.com/KzKYu.jpg",
+            "kCount": 15,
+            "originalText": "엄청 빠지네",
+            "popularityEvidence": "확인한 애객 누적 댓글 13개 · 문자 ㅋ 15개. 당일 순위가 아닙니다.",
+            "portalLinks": [],
+            "selectionReason": "애객 고유 댓글 13개에서 문자 ㅋ 15개를 확인했고, 본문 미디어와 맥락을 직접 검토했습니다.",
+            "sourceBreakdown": [
+              {
+                "count": 1,
+                "name": "인벤"
+              },
+              {
+                "count": 1,
+                "name": "이토렌드"
+              },
+              {
+                "count": 1,
+                "name": "루리웹"
+              },
+              {
+                "count": 1,
+                "name": "펨코"
+              }
+            ],
+            "sourceStatsVerifiedAt": "2026-10-09T15:59:27.624Z",
+            "sources": [
+              {
+                "imageUrl": "https://i.aagag.com/KzKYu.jpg",
+                "name": "애객",
+                "publishedAt": null,
+                "title": "한미약품 다이어트 신약 효과 확실하네",
+                "url": "https://aagag.com/issue/?idx=1660581",
+                "verifiedAt": "2026-10-09T16:08:32.796157+00:00"
+              }
+            ],
+            "summary": [],
+            "title": "한미약품 다이어트 신약 효과 확실하네",
+            "topicKey": "aagag-1660581",
+            "verificationNote": "원 호스트와 최초 게시 시각은 미확인입니다. 댓글 수치는 실제 관측 시각의 누적값이며 수집 창 마감 당시 수치가 아닙니다. 약효가 아닌 주가 하락을 체중 감소에 빗댄 농담입니다. 이미지의 시세는 현재 가격이나 의약품 효과의 근거가 아닙니다. 본문 이미지·영상은 공개 URL만 사용하며 파일을 복제 저장하지 않습니다.",
+            "videoPosterUrl": null,
+            "videoUrl": null
+          },
+          "firstObservedAt": "2026-10-09T13:54:53.876Z",
+          "firstRecordedAt": "2026-10-10T01:14:48.442836+09:00",
+          "id": "aagag-1660581",
+          "kind": "community",
+          "lastVerifiedAt": "2026-10-09T16:08:32.796157+00:00",
+          "limitations": "원 호스트와 최초 게시 시각은 미확인입니다. 댓글 수치는 실제 관측 시각의 누적값이며 수집 창 마감 당시 수치가 아닙니다. 약효가 아닌 주가 하락을 체중 감소에 빗댄 농담입니다. 이미지의 시세는 현재 가격이나 의약품 효과의 근거가 아닙니다.",
+          "observations": [
+            {
+              "metric": "literal_k_count",
+              "observedAt": "2026-10-09T15:59:27.624Z",
+              "scope": "native aagag cumulative comments at actual observation; ID-deduplicated literal ㅋ; not external-community totals, cutoff-time totals, or 24-hour-only totals",
+              "sourceUrl": "https://aagag.com/issue/?idx=1660581",
+              "unit": "문자",
+              "value": 15
+            },
+            {
+              "metric": "native_comment_count",
+              "observedAt": "2026-10-09T15:59:27.624Z",
+              "scope": "native aagag cumulative comments at actual observation; ID-deduplicated literal ㅋ; not external-community totals, cutoff-time totals, or 24-hour-only totals",
+              "sourceUrl": "https://aagag.com/issue/?idx=1660581",
+              "unit": "개",
+              "value": 13
+            },
+            {
+              "metric": "expanded_source_row_count",
+              "observedAt": "2026-10-09T15:59:27.624Z",
+              "scope": "Cumulative expanded aagag source rows; not source-platform reactions",
+              "sourceUrl": "https://aagag.com/issue/?idx=1660581",
+              "unit": "개",
+              "value": 4
+            }
+          ],
+          "recordedAt": "2026-10-10T01:14:48.442836+09:00",
+          "revision": 1,
+          "rightsChecked": true,
+          "safetyChecked": true,
+          "selectionReason": "애객 고유 댓글 13개에서 문자 ㅋ 15개를 확인했고, 본문 미디어와 맥락을 직접 검토했습니다.",
+          "sources": [
+            {
+              "limitations": "애객 페이지를 직접 확인했습니다. 원 호스트 게시물과 최초 작성 시각은 미확인입니다. 애객 재노출과 누적 댓글 관측을 원문 최초 발행·실시간 순위로 보지 않습니다.",
+              "name": "애객",
+              "periodEnd": null,
+              "periodStart": null,
+              "platform": "aagag",
+              "publishedAt": null,
+              "quotes": [
+                "엄청 빠지네"
+              ],
+              "region": "unknown",
+              "regionEvidenceUrl": null,
+              "title": "한미약품 다이어트 신약 효과 확실하네",
+              "url": "https://aagag.com/issue/?idx=1660581",
+              "verifiedAt": "2026-10-09T16:08:32.796157+00:00"
+            }
+          ],
+          "summary": "",
+          "title": "한미약품 다이어트 신약 효과 확실하네",
+          "topicKey": "aagag-1660581"
+        },
+        {
+          "canonicalUrl": "https://aagag.com/issue/?idx=1660593",
+          "content": {
+            "bodyImages": [],
+            "bodyImagesSourceUrl": "https://aagag.com/issue/?idx=1660593",
+            "bodyImagesVerifiedAt": "2026-10-09T16:08:32.796157+00:00",
+            "category": "유머",
+            "commentCount": 6,
+            "comments": [],
+            "commentsVerifiedAt": "2026-10-09T15:58:31.411Z",
+            "contentSignals": [],
+            "id": "aagag-1660593",
+            "imageUrl": null,
+            "kCount": 15,
+            "originalText": "",
+            "popularityEvidence": "확인한 애객 누적 댓글 6개 · 문자 ㅋ 15개. 당일 순위가 아닙니다.",
+            "portalLinks": [],
+            "selectionReason": "애객 고유 댓글 6개에서 문자 ㅋ 15개를 확인했고, 본문 미디어와 맥락을 직접 검토했습니다.",
+            "sourceBreakdown": [
+              {
+                "count": 2,
+                "name": "개드립"
+              },
+              {
+                "count": 1,
+                "name": "다모앙"
+              },
+              {
+                "count": 2,
+                "name": "뽐뿌"
+              },
+              {
+                "count": 1,
+                "name": "펨코"
+              }
+            ],
+            "sourceStatsVerifiedAt": "2026-10-09T15:58:31.411Z",
+            "sources": [
+              {
+                "imageUrl": null,
+                "name": "애객",
+                "publishedAt": null,
+                "title": "크보 야구 시합중 심판에게 경고 받은 마스코트 ㅋㅋㅋ",
+                "url": "https://aagag.com/issue/?idx=1660593",
+                "verifiedAt": "2026-10-09T16:08:32.796157+00:00"
+              }
+            ],
+            "summary": [],
+            "title": "크보 야구 시합중 심판에게 경고 받은 마스코트 ㅋㅋㅋ",
+            "topicKey": "aagag-1660593",
+            "verificationNote": "원 호스트와 최초 게시 시각은 미확인입니다. 댓글 수치는 실제 관측 시각의 누적값이며 수집 창 마감 당시 수치가 아닙니다. 경기장 마스코트와 심판의 몸짓을 담은 영상입니다. 공식 징계나 규정 위반 여부는 확인하지 않았습니다. 본문 이미지·영상은 공개 URL만 사용하며 파일을 복제 저장하지 않습니다.",
+            "videoPosterUrl": "https://i.aagag.com/o/KzWBv.jpg",
+            "videoUrl": "https://i.aagag.com/KzWBv.mp4"
+          },
+          "firstObservedAt": "2026-10-09T13:54:53.876Z",
+          "firstRecordedAt": "2026-10-10T01:14:48.442836+09:00",
+          "id": "aagag-1660593",
+          "kind": "community",
+          "lastVerifiedAt": "2026-10-09T16:08:32.796157+00:00",
+          "limitations": "원 호스트와 최초 게시 시각은 미확인입니다. 댓글 수치는 실제 관측 시각의 누적값이며 수집 창 마감 당시 수치가 아닙니다. 경기장 마스코트와 심판의 몸짓을 담은 영상입니다. 공식 징계나 규정 위반 여부는 확인하지 않았습니다.",
+          "observations": [
+            {
+              "metric": "literal_k_count",
+              "observedAt": "2026-10-09T15:58:31.411Z",
+              "scope": "native aagag cumulative comments at actual observation; ID-deduplicated literal ㅋ; not external-community totals, cutoff-time totals, or 24-hour-only totals",
+              "sourceUrl": "https://aagag.com/issue/?idx=1660593",
+              "unit": "문자",
+              "value": 15
+            },
+            {
+              "metric": "native_comment_count",
+              "observedAt": "2026-10-09T15:58:31.411Z",
+              "scope": "native aagag cumulative comments at actual observation; ID-deduplicated literal ㅋ; not external-community totals, cutoff-time totals, or 24-hour-only totals",
+              "sourceUrl": "https://aagag.com/issue/?idx=1660593",
+              "unit": "개",
+              "value": 6
+            },
+            {
+              "metric": "expanded_source_row_count",
+              "observedAt": "2026-10-09T15:58:31.411Z",
+              "scope": "Cumulative expanded aagag source rows; not source-platform reactions",
+              "sourceUrl": "https://aagag.com/issue/?idx=1660593",
+              "unit": "개",
+              "value": 6
+            }
+          ],
+          "recordedAt": "2026-10-10T01:14:48.442836+09:00",
+          "revision": 1,
+          "rightsChecked": true,
+          "safetyChecked": true,
+          "selectionReason": "애객 고유 댓글 6개에서 문자 ㅋ 15개를 확인했고, 본문 미디어와 맥락을 직접 검토했습니다.",
+          "sources": [
+            {
+              "limitations": "애객 페이지를 직접 확인했습니다. 원 호스트 게시물과 최초 작성 시각은 미확인입니다. 애객 재노출과 누적 댓글 관측을 원문 최초 발행·실시간 순위로 보지 않습니다.",
+              "name": "애객",
+              "periodEnd": null,
+              "periodStart": null,
+              "platform": "aagag",
+              "publishedAt": null,
+              "quotes": [],
+              "region": "unknown",
+              "regionEvidenceUrl": null,
+              "title": "크보 야구 시합중 심판에게 경고 받은 마스코트 ㅋㅋㅋ",
+              "url": "https://aagag.com/issue/?idx=1660593",
+              "verifiedAt": "2026-10-09T16:08:32.796157+00:00"
+            }
+          ],
+          "summary": "",
+          "title": "크보 야구 시합중 심판에게 경고 받은 마스코트 ㅋㅋㅋ",
+          "topicKey": "aagag-1660593"
         }
       ],
       "news": null,
