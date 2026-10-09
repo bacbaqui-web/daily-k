@@ -5,8 +5,9 @@ import {HoverCard,HoverCardTrigger} from './ui/hover-card';
 import {Dialog,DialogContent} from './ui/dialog';
 import {ReaderHeading} from './reader-heading';
 import {NewsReaderActions} from './news-question-button';
-import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory} from '../lib/news';
+import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
 import {combineBriefings,overviewPhrases,type NewsView,type NewsViewStory} from '../lib/news-view';
+import {liveLink} from '../lib/live';
 
 function ArticleImage({item}:{item:NewsSource}){
  const [failed,setFailed]=useState(false);
@@ -61,9 +62,9 @@ function NewsPreview({story,brief,disabled,onOpen,children}:{story:NewsViewStory
   </PreviewCardPrimitive.Positioner></PreviewCardPrimitive.Portal>
  </HoverCard>;
 }
-function NewsStories({brief}:{brief:NewsView}){
+function NewsStories({brief,liveRecord}:{brief:NewsView;liveRecord?:string}){
  const [active,setActive]=useState<number|null>(null);
- useEffect(()=>{const id=new URLSearchParams(location.search).get('story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id]);
+ useEffect(()=>{const q=new URLSearchParams(location.search),id=q.get(liveRecord!==undefined?'item':'story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id,liveRecord]);
  const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLElement|null>(null);
  const story=active===null?null:brief.stories[active];
  function move(delta:number){setActive(current=>current===null?null:current+delta>=brief.stories.length?null:Math.max(0,current+delta))}
@@ -93,13 +94,23 @@ function NewsStories({brief}:{brief:NewsView}){
   </li>)}</ol>
   <DialogContent className="reader-dialog news-reader" showCloseButton={false} aria-describedby={undefined} initialFocus={body} finalFocus={()=>trigger.current||true}>
    {story&&<>
-    <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span><NewsReaderActions key={story.id} brief={brief} story={story}/></div></nav>
+    <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span><NewsReaderActions key={story.id} brief={brief} story={story} sharePath={liveRecord!==undefined?liveLink(liveRecord?'records':'live','news',liveRecord||undefined,story.id):undefined}/></div></nav>
     <div className="reader-body news-reader-body" ref={body} tabIndex={-1}>
      <NewsDetails key={story.id} story={story} brief={brief}/>
     </div>
    </>}
   </DialogContent>
  </Dialog>;
+}
+function NewsClosing({brief}:{brief:NewsView}){return <>
+   {brief.edition==='pm'&&brief.keywords.length>0&&<section className="news-closing"><h2>오늘의 핵심 키워드</h2><p className="news-keywords">{brief.keywords.join(' · ')}</p></section>}
+   {brief.watchItems.length>0&&brief.events.length===0&&<section className="news-closing"><h2>주목할 변수</h2><ul>{brief.watchItems.map(item=><li key={item}>{item}</li>)}</ul></section>}
+   {brief.events.length>0&&<section className="news-closing"><h2>{brief.edition==='am'?'오늘 일정·시장 변수':'내일 주목할 변수'}</h2><ul className="news-events">{brief.events.map((e,i)=><li key={i}><span>{e.at?koreaTime(e.at):`${e.date} · ${e.timeNote||'시각 미확인'}`}</span><h3>{e.title}</h3><p>{e.detail}</p><a href={e.source.url} target="_blank" rel="noopener noreferrer">확인: {e.source.name} ↗</a></li>)}</ul><small>모든 시각은 한국시간입니다. 일정은 주최 측 사정에 따라 바뀔 수 있습니다.</small></section>}
+</>}
+export function NewsPrepared({brief,record}:{brief:NewsBrief;record?:string}){
+ const view=combineBriefings([brief]);
+ if(!view)return null;
+ return <section className="news"><div className="news-intro"><h2>전체 뉴스 요약</h2>{(view.overview||[view.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(view)}/></p>)}<div className="news-time">{view.cutoffAt&&<span>기사 기준 {koreaTime(view.cutoffAt)}</span>}<span>실제 작성 {koreaTime(view.generatedAt)}</span></div></div><NewsStories brief={view} liveRecord={record||''}/><NewsClosing brief={view}/></section>;
 }
 export function NewsBriefing(){
  const [index,setIndex]=useState<NewsIndex|null>(null),[date,setDate]=useState(''),[edition,setEdition]=useState<Edition>('am');
@@ -138,9 +149,7 @@ export function NewsBriefing(){
   {loading?<p className="news-message" role="status">브리핑을 불러오고 있습니다.</p>:error?<div className="news-message" role="alert"><p>{error}</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:!brief?<div className="news-message"><h2>아직 발행된 브리핑이 없습니다</h2><p>선택한 날짜의 {editionLabel(edition)}이 발행되면 여기에 표시됩니다.</p></div>:<>
    <div className="news-intro"><h1>전체 뉴스 요약</h1>{(brief.overview||[brief.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(brief)}/></p>)}{brief.cutoffAt&&<div className="news-time"><span>기사 기준 {koreaTime(brief.cutoffAt)}</span><span>생성 {koreaTime(brief.generatedAt)}</span></div>}</div>
    <NewsStories key={brief.id} brief={brief}/>
-   {brief.edition==='pm'&&brief.keywords.length>0&&<section className="news-closing"><h2>오늘의 핵심 키워드</h2><p className="news-keywords">{brief.keywords.join(' · ')}</p></section>}
-   {brief.watchItems.length>0&&brief.events.length===0&&<section className="news-closing"><h2>주목할 변수</h2><ul>{brief.watchItems.map(item=><li key={item}>{item}</li>)}</ul></section>}
-   {brief.events.length>0&&<section className="news-closing"><h2>{brief.edition==='am'?'오늘 일정·시장 변수':'내일 주목할 변수'}</h2><ul className="news-events">{brief.events.map((e,i)=><li key={i}><span>{e.at?koreaTime(e.at):`${e.date} · ${e.timeNote||'시각 미확인'}`}</span><h3>{e.title}</h3><p>{e.detail}</p><a href={e.source.url} target="_blank" rel="noopener noreferrer">확인: {e.source.name} ↗</a></li>)}</ul><small>모든 시각은 한국시간입니다. 일정은 주최 측 사정에 따라 바뀔 수 있습니다.</small></section>}
+   <NewsClosing brief={brief}/>
   </>}
  </section>;
 }

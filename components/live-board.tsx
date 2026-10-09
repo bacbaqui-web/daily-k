@@ -1,0 +1,55 @@
+'use client';
+import {useEffect,useState} from 'react';
+import {CommunityBodyImages} from './community-media';
+import {NewsPrepared} from './news-briefing';
+import {communityThumbnail,isPublicImageUrl} from '../lib/community-media';
+import {isLiveState,isSnapshot,snapshotHash,liveTime,nextWindow,sourceScope,liveLink,type LiveState,type LiveItem,type Snapshot,type LiveSource,type Correction,type LiveWindow} from '../lib/live';
+
+function Source({source:s}:{source:LiveSource}) {
+ return <li><a href={s.url} target="_blank" rel="noopener noreferrer">{s.name} · {s.title} ↗</a><p>{sourceScope(s)}</p><p>원문 게시 {s.publishedAt?liveTime(s.publishedAt):'시각 미확인'} · 확인 {liveTime(s.verifiedAt)}</p><p>집계 기간 {s.periodStart&&s.periodEnd?`${liveTime(s.periodStart)} ~ ${liveTime(s.periodEnd)}`:'미확인'}</p>{s.regionEvidenceUrl&&<a href={s.regionEvidenceUrl} target="_blank" rel="noopener noreferrer">지역 기준 확인 자료 ↗</a>}<p>{s.limitations}</p>{s.quotes?.map((q,i)=><blockquote key={i}>{q}</blockquote>)}</li>;
+}
+function Corrections({items}:{items:Correction[]}) {
+ return items.length>0?<section className="live-corrections" aria-label="명시적 정정 기록"><h3>정정 · 철회 기록</h3>{items.map(c=><article key={c.id}><strong>{c.action==='withdrawal'?'철회':'정정'} · {liveTime(c.recordedAt)}</strong><p>{c.text}</p><p>사유: {c.reason}</p><p>근거 확인: {liveTime(c.verifiedAt)}</p><ul>{c.sources.map(s=><Source key={s.url} source={s}/>)}</ul><small>확정본 원본은 그대로 보존됩니다.</small></article>)}</section>:null;
+}
+function Item({item,corrections,channel,record}:{item:LiveItem;corrections:Correction[];channel:'humor'|'news';record?:string}) {
+ const media=item.content,thumbnail=media?communityThumbnail(media):null;
+ const [imageFailed,setImageFailed]=useState(false),[videoFailed,setVideoFailed]=useState(false);
+ const [expanded,setExpanded]=useState(false);
+ useEffect(()=>{if(new URLSearchParams(location.search).get('item')===item.id)setExpanded(true)},[item.id]);
+ return <li className="live-item" id={`item-${item.id}`}><details open={expanded} onToggle={e=>setExpanded(e.currentTarget.open)}><summary><span className="live-item-heading"><span className="live-eyebrow">{item.kind==='community'?`애객 유머 · ㅋ ${media?.kCount??'미확인'}`:'화제 주제'} · 확인 {liveTime(item.lastVerifiedAt)}</span><strong>{item.title}</strong>{item.summary&&<span className="live-summary">{item.summary}</span>}</span>{thumbnail&&isPublicImageUrl(thumbnail)&&!imageFailed&&<img className="live-thumbnail" src={thumbnail} alt="" loading="lazy" referrerPolicy="no-referrer" onError={()=>setImageFailed(true)}/>}</summary>
+ <div className="live-detail"><p className="live-item-times">첫 발견 {liveTime(item.firstObservedAt)}<br/>최종 확인 {liveTime(item.lastVerifiedAt)}<br/>데이터 반영 {liveTime(item.recordedAt)} · 수정 {item.revision}차</p>{media&&<div className="community-media">{media.videoUrl&&isPublicImageUrl(media.videoUrl)&&(videoFailed?<p>영상을 불러오지 못했습니다. 원문 링크에서 확인해 주세요.</p>:<video controls playsInline preload="metadata" src={media.videoUrl} poster={media.videoPosterUrl||undefined} onError={()=>setVideoFailed(true)}/>)}<CommunityBodyImages story={media}/>{media.originalText&&<blockquote>{media.originalText}</blockquote>}{!!media.comments?.length&&<><h3>짧은 댓글 인용</h3>{media.comments.map(c=><blockquote key={c.id}>{c.text}{c.truncated?'…':''}</blockquote>)}<p>확인한 댓글 {media.commentCount}개 중 일부 인용입니다. 전체 내용은 원문에서 확인하세요.</p></>}</div>}
+ {!!item.observations.length&&<><h3>실제로 관찰한 지표</h3><ul className="live-observations">{item.observations.map((o,i)=><li key={i}><strong>{o.metric} {o.value===null?'미확인':`${o.value.toLocaleString('ko-KR')} ${o.unit}`}</strong><span>{liveTime(o.observedAt)} · {o.scope}</span><a href={o.sourceUrl} target="_blank" rel="noopener noreferrer">지표 출처 ↗</a></li>)}</ul><p className="live-disclaimer">각 지표는 표시된 확인 시각의 관찰입니다. 9시 당시 수치나 플랫폼 전체 순위를 뜻하지 않습니다.</p></>}
+ <h3>선정 근거 · 확인 한계</h3><p>{item.selectionReason}</p><p>{item.limitations}</p><h3>원문 · 출처</h3><ul className="live-sources">{item.sources.map(s=><Source key={s.url} source={s}/>)}</ul><Corrections items={corrections}/><a className="live-permalink" href={liveLink(record?'records':'live',channel,record,item.id)}>이 항목 링크</a></div></details></li>;
+}
+const checkLabels={ok:'확인 완료',empty:'조건에 맞는 자료 없음',blocked:'접근 차단',failed:'확인 실패',partial:'일부 확인'};
+function Checks({window:w,channel}:{window:LiveWindow;channel:'humor'|'news'}) {
+ const checks=w.checks.filter(c=>channel==='news'?c.channel==='news':c.channel!=='news');
+ return <details className="live-checks"><summary>수집 상태 · 누락 범위 {checks.length}건</summary>{checks.length?<ul>{checks.map(c=><li key={c.id}><strong>{c.source} · {checkLabels[c.status]}</strong><p>{liveTime(c.checkedAt)} · {c.count===null?'개수 미확인':`${c.count}건`}</p><p>{c.note}</p></li>)}</ul>:<p>이 회차에 등록된 수집 확인 기록이 없습니다. 자료가 없다는 뜻으로 해석하지 않습니다.</p>}</details>;
+}
+export function LiveBoard({channel,view}:{channel:'humor'|'news';view:'live'|'records'}) {
+ const [state,setState]=useState<LiveState|null>(null),[error,setError]=useState(''),[retry,setRetry]=useState(0),[now,setNow]=useState(Date.now());
+ const [record,setRecord]=useState(''),[snapshot,setSnapshot]=useState<Snapshot|null>(null),[snapshotError,setSnapshotError]=useState('');
+ useEffect(()=>{setRecord(new URLSearchParams(location.search).get('record')||'')},[]);
+ useEffect(()=>{const controller=new AbortController();let running=false;async function load(){if(running)return;running=true;try{const r=await fetch('/daily-k/data/live/current.json',{cache:'no-store',signal:controller.signal});if(!r.ok)throw Error();const v:unknown=await r.json();if(!isLiveState(v))throw Error();if(!controller.signal.aborted){setState(v);setError('');setNow(Date.now())}}catch{if(!controller.signal.aborted)setError('최신 데이터를 확인하지 못했습니다. 표시된 내용이 이전 상태일 수 있습니다.')}finally{running=false}}void load();const timer=setInterval(load,60000);const tick=setInterval(()=>setNow(Date.now()),1000);return()=>{controller.abort();clearInterval(timer);clearInterval(tick)}},[retry]);
+ const selected=state?.snapshots.find(s=>s.id===record)||(record?null:state?.snapshots[0]);
+ useEffect(()=>{setSnapshot(null);setSnapshotError('');if(view!=='records'||!selected)return;const controller=new AbortController();void(async()=>{try{const r=await fetch(`/daily-k/data/live/${selected.path}`,{cache:'no-store',signal:controller.signal});if(!r.ok)throw Error();const raw=await r.text();if(await snapshotHash(raw)!==selected.sha256)throw Error();const v:unknown=JSON.parse(raw);if(!isSnapshot(v)||v.id!==selected.id)throw Error();if(!controller.signal.aborted)setSnapshot(v)}catch{if(!controller.signal.aborted)setSnapshotError('확정 기록을 불러오지 못했습니다. 다시 시도해 주세요.')}})();return()=>controller.abort()},[view,selected?.id,selected?.sha256,retry]);
+ const active=state?.windows.find(w=>Date.parse(w.opensAt)<=now&&now<Date.parse(w.scheduledFor));
+ const pending=state?.windows.filter(w=>Date.parse(w.scheduledFor)<=now)||[];
+ const visible=view==='records'?snapshot:active;
+ const boundary=active||nextWindow(now);
+ const corrections=state?.corrections.filter(c=>c.snapshotId===snapshot?.id)||[];
+ function choose(id:string){setRecord(id);history.replaceState(null,'',liveLink('records',channel,id))}
+ return <section className="live-board" aria-label={view==='live'?'진행 중 목록':'오전 오후 9시 확정 기록'}>
+ <div className="live-heading"><span className="live-status">{view==='live'?'진행 중':'확정 기록'}</span><h1>{view==='live'?(channel==='news'?'다음 뉴스 기록을 준비하고 있습니다':'새로 확인한 내용을 쌓고 있습니다'):'오전·오후 9시의 기록'}</h1><p>{view==='live'?'검증한 자료가 들어오면 목록을 갱신하고, 한국시간 오전 9시·오후 9시를 기준으로 보관합니다.':'그 시점까지 등록된 내용을 보관합니다. 이후 정정은 원본과 별도의 기록으로 남깁니다.'}</p>
+ {channel==='news'&&<p>뉴스 기사 기준·준비 시작은 08:30 / 20:30, 확정 기준은 09:00 / 21:00입니다.</p>}
+ <div className="live-timing"><span>최근 데이터 반영 <strong>{liveTime(state?.updatedAt)}</strong></span>{view==='live'&&<span>다음 확정 기준 <strong>{liveTime(boundary.scheduledFor)}</strong></span>}</div><small>모든 시각은 한국시간(KST)입니다. 데이터 반영 시각과 실제 웹 배포 완료 시각은 다를 수 있습니다.</small></div>
+ {error&&<div className="live-alert" role="alert"><p>{error}</p><button onClick={()=>setRetry(n=>n+1)}>다시 시도</button></div>}
+ {!state&&!error&&<p className="news-message" role="status">진행 중 기록을 불러오고 있습니다.</p>}
+ {state&&view==='live'&&pending.length>0&&<div className="live-alert"><strong>확정을 기다리는 회차 {pending.length}개</strong>{pending.map(w=><details key={w.id}><summary>{liveTime(w.scheduledFor)} 기준 · 확정 지연</summary><p>기존 내용은 보존 중입니다. 9시에 확정된 것으로 표시하지 않습니다.</p><WindowContent window={w} channel={channel} corrections={[]}/></details>)}</div>}
+ {state&&view==='records'&&<><label className="live-record-select">확정 회차 <select value={selected?.id||''} onChange={e=>choose(e.target.value)}><option value="" disabled>회차 선택</option>{state.snapshots.map(s=><option value={s.id} key={s.id}>{s.id.slice(0,10)} {s.id.endsWith('am')?'오전 9시':'오후 9시'} · {channel==='news'?(s.hasNews?'뉴스 있음':'뉴스 없음'):`${s.itemCount}건`}</option>)}</select></label>{record&&!selected?<p className="news-message">요청한 확정 기록이 없습니다.</p>:!state.snapshots.length?<div className="live-empty"><h2>아직 새 구조의 확정 기록이 없습니다</h2><p>첫 확정 실행 이후 회차가 쌓입니다. 기존 회차는 ‘이전 회차’에서 그대로 볼 수 있습니다.</p></div>:snapshotError?<div role="alert"><p>{snapshotError}</p><button onClick={()=>setRetry(n=>n+1)}>다시 시도</button></div>:!snapshot?<p className="news-message">확정 기록을 불러오고 있습니다.</p>:<div className="live-record-meta"><strong>확정 기준 {liveTime(snapshot.scheduledFor)}</strong><span>실제 확정 {liveTime(snapshot.finalizedAt)}</span><span>수집 창 {liveTime(snapshot.opensAt)} 이상 ~ {liveTime(snapshot.scheduledFor)} 미만</span><span>운영 시작 {liveTime(snapshot.activatedAt)} · 이전 시간의 수집을 소급하지 않습니다.</span><a href={`/daily-k/data/live/${selected?.path}`} target="_blank" rel="noopener noreferrer">확정 원본 JSON ↗</a><small>원본 SHA-256 {selected?.sha256}</small></div>}</>}
+ {visible?<WindowContent window={visible} channel={channel} corrections={view==='records'?corrections:[]} record={view==='records'?snapshot?.id:undefined}/>:state&&view==='live'&&<div className="live-empty"><h2>아직 검증된 새 내용이 등록되지 않았습니다</h2><p>새 창은 빈 목록에서 시작합니다. 수집 실패나 누락이 확인되면 함께 표시합니다.</p></div>}
+ </section>;
+}
+function WindowContent({window:w,channel,corrections,record}:{window:LiveWindow;channel:'humor'|'news';corrections:Correction[];record?:string}) {
+ return <>{channel==='news'?(w.news?<><p className="live-disclaimer">{record?'이 회차에 보관한 뉴스입니다.':'진행 중 뉴스 준비본입니다. 확정 전까지 수정될 수 있습니다.'} · 준비본 반영 {liveTime(w.news.recordedAt)}</p><NewsPrepared brief={w.news.brief} record={record}/><Corrections items={corrections}/></>:<div className="live-empty"><h2>등록된 뉴스 준비본이 없습니다</h2><p>미등록 상태를 ‘뉴스가 없음’으로 해석하지 않습니다.</p></div>):w.items.length?<ol className="live-items">{w.items.map(item=><Item key={`${w.id}:${item.id}`} item={item} channel={channel} record={record} corrections={corrections.filter(c=>c.itemId===item.id)}/>)}</ol>:<div className="live-empty"><h2>등록된 새 내용이 없습니다</h2><p>조건을 충족한 자료만 추가합니다. 수집 상태와 확인 한계는 아래에 남깁니다.</p></div>}<Checks window={w} channel={channel}/></>;
+}

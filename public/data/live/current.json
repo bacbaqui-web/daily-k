@@ -1,0 +1,29 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "corrections": [],
+  "operations": {
+    "initialize-live-v1": {
+      "hash": "7e952b830b09df7ce1f135059c8b590f805e5c402ab9858836dd05b097daad5c",
+      "result": {
+        "operationId": "initialize-live-v1",
+        "recordedAt": "2026-10-09T12:20:40.979182+09:00",
+        "windowId": "2026-10-09-pm"
+      }
+    }
+  },
+  "registry": {},
+  "schemaVersion": 1,
+  "snapshots": [],
+  "timezone": "Asia/Seoul",
+  "updatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "windows": [
+    {
+      "checks": [],
+      "id": "2026-10-09-pm",
+      "items": [],
+      "news": null,
+      "opensAt": "2026-10-09T09:00:00+09:00",
+      "scheduledFor": "2026-10-09T21:00:00+09:00"
+    }
+  ]
+}
