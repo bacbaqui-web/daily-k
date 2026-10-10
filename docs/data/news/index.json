@@ -2,6 +2,16 @@
   "editions": [
     {
       "count": 6,
+      "cutoffAt": "2026-10-10T20:30:00+09:00",
+      "date": "2026-10-10",
+      "edition": "pm",
+      "generatedAt": "2026-10-10T20:41:04+09:00",
+      "headline": "대구 천장 마감재 사고 38명 경상…경찰, 11일 합동감식 예정",
+      "id": "2026-10-10-pm",
+      "path": "2026-10-10/pm.json"
+    },
+    {
+      "count": 6,
       "cutoffAt": "2026-10-10T08:30:00+09:00",
       "date": "2026-10-10",
       "edition": "am",
@@ -558,5 +568,5 @@
   ],
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-10T08:35:23+09:00"
+  "updatedAt": "2026-10-10T20:41:04+09:00"
 }

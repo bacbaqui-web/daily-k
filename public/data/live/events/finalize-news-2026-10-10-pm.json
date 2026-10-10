@@ -1,0 +1,16 @@
+{
+  "command": "finalize-news",
+  "payload": {
+    "edition": "2026-10-10-pm",
+    "operationId": "finalize-news-2026-10-10-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-10T21:00:06.689133+09:00",
+  "result": {
+    "id": "2026-10-10-pm",
+    "operationId": "finalize-news-2026-10-10-pm",
+    "recordedAt": "2026-10-10T21:00:06.689133+09:00",
+    "sha256": "5ff33e64951eb1126db4e66e0a0614ee9af4b5c467cea7d5ec0a83b9baf48683",
+    "windowId": "2026-10-11-am"
+  }
+}

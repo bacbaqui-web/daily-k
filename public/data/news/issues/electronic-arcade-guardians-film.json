@@ -1,0 +1,75 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-10/pm.json",
+      "category": "웹툰 산업",
+      "change": "7일 순천 특별시사회가 열렸고 8일 보도로 14일 전국 개봉 계획과 제작·유통 구조를 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T20:41:04+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "pm",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-07",
+      "eventEndDate": null,
+      "eventTimeNote": "특별시사회는 2026년 10월 7일 열렸고 이를 전한 보도는 10월 8일입니다. 행사 시작 시각은 기사에 없어 eventAt은 null입니다. 10월 14일 전국 개봉은 미래 예정이며 이번 회차의 사건 발생일로 앞당기지 않습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-10-pm/electronic-arcade-guardians-suncheon-film-2026-10",
+      "keyFacts": {
+        "commercialPerformance": "개봉 전, 실적 미확인",
+        "distributors": "로커스 · CJ CGV",
+        "originalCreator": "가스파드",
+        "plannedReleaseDate": "2026-10-14",
+        "producer": "로커스",
+        "reportDate": "2026-10-08",
+        "screeningAttendees": "약 200명, 보도에 인용된 발표 수치",
+        "screeningDate": "2026-10-07",
+        "work": "전자오락수호대"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-08T15:35:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "브릿지경제",
+          "publishedAt": "2026-10-08T15:35:00+09:00",
+          "title": "순천서 만든 애니메이션, 전국 극장 정조준…‘전자오락수호대’ 오는 14일 개봉",
+          "updatedAt": "2026-10-08T15:35:00+09:00",
+          "url": "https://www.viva100.com/article/20261008500671",
+          "verifiedAt": "2026-10-10T20:35:16+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "specialist",
+          "language": "ko",
+          "name": "아이러브캐릭터",
+          "publishedAt": null,
+          "title": "[10월의 뉴 극장판 애니메이션] 전자오락수호대, 플레이어에게 절대로 들키지 말 것",
+          "updatedAt": null,
+          "url": "https://m.ilovecharacter.com/news/amp.html?ncode=1065575527035829",
+          "verifiedAt": "2026-10-10T20:35:16+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "electronic-arcade-guardians-suncheon-film-2026-10",
+      "summary": [
+        "가스파드의 웹툰 ‘전자오락수호대’를 바탕으로 만든 극장용 애니메이션이 10월 14일 개봉할 예정입니다. 로커스가 제작하고 로커스와 CJ CGV가 배급합니다. 게임을 움직이는 비밀요원들의 이야기가 웹툰에서 영화 유통으로 확장되는 사례입니다.",
+        "순천시는 개봉에 앞서 10월 7일 CGV 순천신대에서 특별시사회를 열었습니다. 원작 팬과 대학생, 예비 창작자, 시민 등 약 200명이 참석했다고 8일 보도됐습니다.",
+        "브릿지경제는 올해 순천으로 이전한 로커스가 그곳에서 제작한 첫 극장용 애니메이션이라고 전했습니다. 영상에는 8비트 픽셀과 3D 표현이 함께 쓰이며 순천만국가정원과 지역 캐릭터도 등장합니다. 기업 유치가 실제 작품 제작과 극장 배급으로 이어진 점이 산업적 의미입니다.",
+        "순천시는 창작 인력 양성, 제작 투자와 유통, 해외 진출 지원을 이어가겠다는 계획을 밝혔습니다. 다만 아직 정식 개봉 전이어서 관객 수나 수익 성과를 평가할 단계는 아닙니다. 제작비와 배급 계약의 세부 조건도 이번 기사들에는 공개되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "웹툰 ‘전자오락수호대’ 극장으로…순천 제작 애니메이션 14일 개봉 예정",
+      "uncertainty": "개봉은 예정이며 흥행·제작비·배급 조건은 미확인입니다. 브릿지경제의 지역 산업 성과 설명은 순천시 발표 기반이며 독립적인 수익성 검증은 아닙니다."
+    }
+  ],
+  "id": "electronic-arcade-guardians-film",
+  "schemaVersion": 1,
+  "title": "전자오락수호대 웹툰의 극장 애니메이션 확장",
+  "updatedAt": "2026-10-10T20:41:04+09:00"
+}

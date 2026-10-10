@@ -547,10 +547,69 @@
       "supersededBy": [],
       "title": "금융당국, 6일 온투업권 소집 보도…은행 공격과 연관성 조사",
       "uncertainty": "소집과 IP 중복은 업계 취재 보도이며 독립적인 침해 조사 결과를 확보한 것은 아닙니다. 공격 주체·AI 사용·최종 피해 수치는 미확정입니다."
+    },
+    {
+      "briefingPath": "2026-10-10/pm.json",
+      "category": "IT·과학",
+      "change": "9일 회차 이후 새로 확인한 10일 보도는 개발자가 8일 발표한 공개 개발·업데이트 중단 방침입니다. 행동 날짜와 보도 확인 시점을 구분합니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T20:41:04+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "pm",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "한국어 기사는 개발자 게시물을 10월 8일이라고 전하지만 게시물 날짜의 기준 시간대와 정확한 시각은 확인되지 않았습니다. 10월 10일은 한국어 보도일이며 개발자 행동 시각으로 대신하지 않습니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "9일 회차 이후 새로 확인한 10일 보도는 개발자가 8일 발표한 공개 개발·업데이트 중단 방침입니다. 행동 날짜와 보도 확인 시점을 구분합니다.",
+        "editionId": "2026-10-09-pm",
+        "storyId": "bank-hacking-investigation-expanded-2026-10-09"
+      },
+      "id": "2026-10-10-pm/artex-public-development-stop-2026-10-10",
+      "keyFacts": {
+        "developerPostDateAsReported": "10월 8일, 기준 시간대 미확인",
+        "existingCopies": "이미 배포된 사본은 회수 불가",
+        "futureVersions": "추가 버전 공개·유지 지원 중단",
+        "koreanReportDate": "2026-10-10",
+        "publicDevelopment": "공개 개발·업데이트 중단 방침"
+      },
+      "previous": {
+        "editionId": "2026-10-09-pm",
+        "storyId": "bank-hacking-investigation-expanded-2026-10-09"
+      },
+      "publishedAt": "2026-10-10T10:59:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스·파이낸셜뉴스",
+          "publishedAt": "2026-10-10T10:59:00+09:00",
+          "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+          "updatedAt": "2026-10-10T12:24:00+09:00",
+          "url": "https://www.fnnews.com/news/202610101059400018",
+          "verifiedAt": "2026-10-10T20:38:47+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "artex-public-development-stop-2026-10-10",
+      "summary": [
+        "한국 금융기관을 겨냥한 해킹에 활용된 것으로 지목된 AI 침투테스트 도구 아르텍스가 공개 개발을 중단합니다. 개발자는 8일 게시물에서 악용 우려를 들어 업데이트 중단과 비공개 소스 전환 방침을 밝혔고, 이 내용이 10일 국내에 보도됐습니다.",
+        "추가 버전 공개와 유지 지원도 중단하며, 깃허브의 관련 페이지가 사라졌다는 외신 보도가 나왔습니다. 원래 보안 취약점을 점검하는 용도로 개발됐지만 공격에 악용된 것이 중단 이유로 제시됐습니다.",
+        "다만 이미 배포된 사본은 회수할 수 없습니다. 개발자의 공개 중단과 금융기관 보안 위협의 해소는 같은 의미가 아니므로, 이번 조치를 해킹 사태의 종결로 받아들여서는 안 됩니다.",
+        "9일 브리핑 이후 새로 확인한 내용은, 개발자가 8일 발표한 공개 개발 중단 방침에 관한 10일 보도입니다. 개발자 조치가 9일 수사 확대 때문에 이뤄졌다고 단정하지 않습니다. 도구 사용 여부는 보안업체 분석으로 전하며 공격자의 신원이나 국적에 관한 미확정 추정은 싣지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "금융권 해킹에 악용된 아르텍스 공개 개발 중단…기존 배포본 위험은 남아",
+      "uncertainty": "도구의 공격 활용은 보안업체 분석입니다. 개발 중단으로 이미 배포된 사본까지 회수되거나 해킹 위험이 사라지는 것은 아닙니다."
     }
   ],
   "id": "korea-bank-cyber-incidents-2026-10",
   "schemaVersion": 1,
   "title": "2026년 10월 은행권 정보유출과 공동 보안 대응",
-  "updatedAt": "2026-10-10T08:35:23+09:00"
+  "updatedAt": "2026-10-10T20:41:04+09:00"
 }

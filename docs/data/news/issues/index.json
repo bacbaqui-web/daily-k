@@ -1,6 +1,134 @@
 {
-  "editionCount": 52,
+  "editionCount": 53,
   "issues": [
+    {
+      "categories": [
+        "국제",
+        "국제·안보"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "firstCoveredDate": "2026-10-08",
+      "id": "yemen-saudi-airport-conflict",
+      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "앞서 사우디 공항 피격이 보도된 뒤 사우디군이 10일 후티를 겨냥한 대규모 공습과 목표물 파괴를 발표했습니다.",
+        "editionId": "2026-10-10-pm",
+        "stage": "후속",
+        "storyId": "saudi-houthi-airstrikes-2026-10-10",
+        "title": "사우디군,후티 군사목표136개 파괴 주장…공항 공격 이후 공방 확대"
+      },
+      "path": "yemen-saudi-airport-conflict.json",
+      "title": "예멘·사우디 교전과 민간공항 피해"
+    },
+    {
+      "categories": [
+        "사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T20:41:04+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "pediatric-hospital-workforce-2026",
+      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "협회가 회원 병원 71곳의 의료인력 조사 결과를 공개해 전문의 부족과 진료 축소 경험을 수치로 제시했습니다.",
+        "editionId": "2026-10-10-pm",
+        "stage": "발표",
+        "storyId": "pediatric-hospital-workforce-survey-2026-10-10",
+        "title": "소아청소년병원71곳 조사…74.6% 전문의 부족,60.6% 진료 축소·중단 경험"
+      },
+      "path": "pediatric-hospital-workforce-2026.json",
+      "title": "소아청소년병원 의료인력 부족"
+    },
+    {
+      "categories": [
+        "IT·과학",
+        "금융·보안"
+      ],
+      "eventCount": 8,
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "firstCoveredDate": "2026-10-02",
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "9일 회차 이후 새로 확인한 10일 보도는 개발자가 8일 발표한 공개 개발·업데이트 중단 방침입니다. 행동 날짜와 보도 확인 시점을 구분합니다.",
+        "editionId": "2026-10-10-pm",
+        "stage": "후속",
+        "storyId": "artex-public-development-stop-2026-10-10",
+        "title": "금융권 해킹에 악용된 아르텍스 공개 개발 중단…기존 배포본 위험은 남아"
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T20:41:04+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "electronic-arcade-guardians-film",
+      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "7일 순천 특별시사회가 열렸고 8일 보도로 14일 전국 개봉 계획과 제작·유통 구조를 확인했습니다.",
+        "editionId": "2026-10-10-pm",
+        "stage": "보도",
+        "storyId": "electronic-arcade-guardians-suncheon-film-2026-10",
+        "title": "웹툰 ‘전자오락수호대’ 극장으로…순천 제작 애니메이션 14일 개봉 예정"
+      },
+      "path": "electronic-arcade-guardians-film.json",
+      "title": "전자오락수호대 웹툰의 극장 애니메이션 확장"
+    },
+    {
+      "categories": [
+        "사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T20:41:04+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "daegu-ceiling-collapse-2026-10",
+      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "10일 오전 대구 상가 2층에서 천장 마감재가 떨어졌고 경찰은 33명 수사팀과 11일 합동감식 계획을 발표했습니다.",
+        "editionId": "2026-10-10-pm",
+        "stage": "보도",
+        "storyId": "daegu-ceiling-collapse-2026-10-10",
+        "title": "대구 천장 마감재 사고 38명 경상…경찰, 11일 합동감식 예정"
+      },
+      "path": "daegu-ceiling-collapse-2026-10.json",
+      "title": "대구 상가 천장 마감재 사고"
+    },
+    {
+      "categories": [
+        "문화"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T20:41:04+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "bong-ally-animation-release",
+      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "봉준호의 첫 장편 애니메이션에 대해 프랑스 2027년 7월14일과 한국 같은 해 7월 개봉 계획이 보도됐습니다.",
+        "editionId": "2026-10-10-pm",
+        "stage": "보도",
+        "storyId": "bong-ally-animation-release-2026-10-10",
+        "title": "봉준호 첫 장편 애니 앨리,2027년7월 개봉 예고…프랑스는7월14일"
+      },
+      "path": "bong-ally-animation-release.json",
+      "title": "봉준호 애니메이션 앨리 개봉"
+    },
     {
       "categories": [
         "국제·인권"
@@ -172,27 +300,6 @@
       },
       "path": "ldf-hayate-crunchyroll-anime-partnership.json",
       "title": "LDF·하야테·크런치롤 웹툰 애니메이션 공동 제작"
-    },
-    {
-      "categories": [
-        "금융·보안"
-      ],
-      "eventCount": 7,
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "firstCoveredDate": "2026-10-02",
-      "id": "korea-bank-cyber-incidents-2026-10",
-      "lastCoveredAt": "2026-10-09T20:44:48+09:00",
-      "lastCoveredDate": "2026-10-09",
-      "latest": {
-        "archive": false,
-        "change": "전담수사팀43명 증원이9일 공개됐고, 기업은행의9월29일 공격 시도 자동 차단 및10월6일IP대조 사실이 보도됐습니다.",
-        "editionId": "2026-10-09-pm",
-        "stage": "후속",
-        "storyId": "bank-hacking-investigation-expanded-2026-10-09",
-        "title": "금융권 해킹 수사팀 43명으로 확대…기업은행은 차단 사례 확인"
-      },
-      "path": "korea-bank-cyber-incidents-2026-10.json",
-      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응"
     },
     {
       "categories": [
@@ -511,27 +618,6 @@
       },
       "path": "kakao-colm-model-efficiency.json",
       "title": "카카오의 COLM 학습 최적화·모델 경량화 연구"
-    },
-    {
-      "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
-      "firstCoveredDate": "2026-10-08",
-      "id": "yemen-saudi-airport-conflict",
-      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
-      "lastCoveredDate": "2026-10-08",
-      "latest": {
-        "archive": false,
-        "change": "현지 10월 7일 사우디 항공청이 두 공항의 사망 3명·부상 36명을 발표했습니다. 후티의 공격 주장과 별도로 당국은 공격주체·수단을 명시하지 않았습니다.",
-        "editionId": "2026-10-08-am",
-        "stage": "발표",
-        "storyId": "saudi-airport-casualties-2026-10-07",
-        "title": "사우디, 공항 두 곳 피격에 3명 사망 발표…후티는 공격 주장"
-      },
-      "path": "yemen-saudi-airport-conflict.json",
-      "title": "예멘·사우디 교전과 민간공항 피해"
     },
     {
       "categories": [
@@ -4090,7 +4176,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 402,
+  "storyCount": 408,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-10T08:35:23+09:00"
+  "updatedAt": "2026-10-10T20:41:04+09:00"
 }

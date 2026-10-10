@@ -73,10 +73,68 @@
       "supersededBy": [],
       "title": "사우디, 공항 두 곳 피격에 3명 사망 발표…후티는 공격 주장",
       "uncertainty": "사상자는 발표 시점 집계입니다. 가해 주체·무기·공항별 정확한 피격시각과 실제 정상운항 범위는 확인되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-10-10/pm.json",
+      "category": "국제",
+      "change": "앞서 사우디 공항 피격이 보도된 뒤 사우디군이 10일 후티를 겨냥한 대규모 공습과 목표물 파괴를 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T20:41:04+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "pm",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-10",
+      "eventEndDate": null,
+      "eventTimeNote": "발생일과 기사발행일을 구분했습니다. 정확한 사건 시각은 본문에 명시된 경우에만 사용합니다.",
+      "eventTimezone": "Asia/Riyadh",
+      "followUp": {
+        "delta": "앞서 사우디 공항 피격이 보도된 뒤 사우디군이 10일 후티를 겨냥한 대규모 공습과 목표물 파괴를 발표했습니다.",
+        "editionId": "2026-10-08-am",
+        "storyId": "saudi-airport-casualties-2026-10-07"
+      },
+      "id": "2026-10-10-pm/saudi-houthi-airstrikes-2026-10-10",
+      "keyFacts": {
+        "destroyedTargetsClaim": "136개, 사우디군 발표",
+        "houthiMediaReport": "알마시라TV가 사다주 미사일 공격 보도",
+        "independentDamageAssessment": "미확인",
+        "saudiAnnouncementDate": "2026-10-10 현지"
+      },
+      "previous": {
+        "editionId": "2026-10-08-am",
+        "storyId": "saudi-airport-casualties-2026-10-07"
+      },
+      "publishedAt": "2026-10-10T16:46:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-10T16:46:00+09:00",
+          "title": "사우디, 예멘 후티 반군에 공습…\"군사 목표물 136개 파괴\"",
+          "updatedAt": null,
+          "url": "https://www.mt.co.kr/world/2026/10/10/2026101016284475387",
+          "verifiedAt": "2026-10-10T20:35:05+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "saudi-houthi-airstrikes-2026-10-10",
+      "summary": [
+        "사우디아라비아군은 10일 현지시간 예멘 후티 반군을 겨냥한 대규모 작전으로 군사 목표물 136개를 파괴했다고 발표했습니다. 이 숫자는 사우디군의 발표이며 독립적으로 확인된 피해 집계는 아닙니다.",
+        "후티 측이 운영하는 알마시라TV도 예멘 북서부 사다주 여러 지역에 사우디의 미사일 공격이 있었다고 보도했습니다. 양측 보도는 공격 사실을 설명하지만 피해 규모와 군사적 효과까지 동일하게 확인하는 것은 아닙니다.",
+        "6~7일 사우디 공항 피격으로 3명이 사망했다는 발표와 8일 추가 공격 이후, 이번에는 사우디군이 확대된 공습을 발표한 것입니다. 앞선 브리핑 이후 실제 군사행동의 변화로 다룹니다.",
+        "리야드 항공편과 국제행사 참석에도 안전 우려가 커지고 있다는 보도가 나왔습니다. 당사자의 전과 주장을 확정 사실로 확대하지 않으며 추가 민간 피해나 휴전 여부는 별도 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "사우디군,후티 군사목표136개 파괴 주장…공항 공격 이후 공방 확대",
+      "uncertainty": "군사 목표물 136개 파괴는 사우디군의 주장입니다. 독립 검증된 피해 집계가 아니며 민간 피해 규모와 향후 확전 여부도 확정할 수 없습니다."
     }
   ],
   "id": "yemen-saudi-airport-conflict",
   "schemaVersion": 1,
   "title": "예멘·사우디 교전과 민간공항 피해",
-  "updatedAt": "2026-10-10T08:35:23+09:00"
+  "updatedAt": "2026-10-10T20:41:04+09:00"
 }

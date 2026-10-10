@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-10/pm.json",
+      "category": "사회",
+      "change": "10일 오전 대구 상가 2층에서 천장 마감재가 떨어졌고 경찰은 33명 수사팀과 11일 합동감식 계획을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T20:41:04+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "pm",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-pm",
+      "eventAt": "2026-10-10T10:16:00+09:00",
+      "eventDate": "2026-10-10",
+      "eventEndDate": null,
+      "eventTimeNote": "발생일과 기사발행일을 구분했습니다. 정확한 사건 시각은 본문에 명시된 경우에만 사용합니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-10-pm/daegu-ceiling-collapse-2026-10-10",
+      "keyFacts": {
+        "asReportedAt": "2026-10-10T16:33:00+09:00",
+        "evacuated": "66명",
+        "hospitalTransport": "9명",
+        "injured": "38명 경상",
+        "inspectionAt": "2026-10-11T09:00:00+09:00",
+        "investigators": "33명"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-10T16:33:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-10T16:33:00+09:00",
+          "title": "경찰, 대구 천장 마감재 붕괴 사고 수사 전담팀 편성…33명 규모",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261010036300053",
+          "verifiedAt": "2026-10-10T20:37:58+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "daegu-ceiling-collapse-2026-10-10",
+      "summary": [
+        "10일 오전 10시 16분 대구 북구 관음동 상가건물 2층에서 천장 마감재가 떨어져 66명이 대피했습니다. 오후 4시 33분 연합뉴스 보도에서는 38명이 경상을 입고 9명이 병원으로 이송된 것으로 집계됐습니다. 건물 전체가 붕괴한 사고와는 구분됩니다.",
+        "대구경찰청은 광역수사대장을 팀장으로 하는 33명 규모의 전담수사팀을 꾸렸습니다. 11일 오전 9시 국립과학수사연구원 등과 현장 합동감식을 진행할 예정입니다.",
+        "초기에는 마트 천장 사고로 알려졌지만, 실제 사고 장소는 영업을 중단한 마트와 같은 건물의 2층 판매행사장이었습니다. 경찰은 구조물 결함과 안전조치 이행 여부를 조사할 방침입니다.",
+        "사고 원인과 책임은 아직 확정되지 않았습니다. 인명 피해 수치는 기사 보도 시점의 집계이며, 향후 감식 결과와 피해 집계의 변화를 확인할 필요가 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "대구 천장 마감재 사고 38명 경상…경찰, 11일 합동감식 예정",
+      "uncertainty": "사고 원인과 책임은 조사 중입니다. 부상자 수는 16시 33분 기사 시점 집계이며 33명은 수사팀 인원입니다."
+    }
+  ],
+  "id": "daegu-ceiling-collapse-2026-10",
+  "schemaVersion": 1,
+  "title": "대구 상가 천장 마감재 사고",
+  "updatedAt": "2026-10-10T20:41:04+09:00"
+}
