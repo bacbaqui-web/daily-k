@@ -252,9 +252,12 @@ def news_files(root, brief, finalized_at, record_id):
     # Existing edition and long-term issue builders are reused on an isolated copy.
     with tempfile.TemporaryDirectory(prefix='daily-k-news-') as tmp:
         staging = Path(tmp)
-        shutil.copytree(root / 'public/data/news', staging / 'public/data/news')
+        if (root / 'public/data/news').exists():
+            shutil.copytree(root / 'public/data/news', staging / 'public/data/news')
+        else:
+            (staging / 'public/data/news').mkdir(parents=True)
         draft = dict(brief, finalizedAt=finalized_at, recordId=record_id, scheduledFor=iso(deadline(record_id)))
-        _, paths = NEWS.publish(draft, root=staging)
+        _, paths = NEWS.publish(draft, root=staging, now=stamp(finalized_at))
         return {p: json.loads((staging / p).read_text()) for p in paths}
 
 
@@ -262,6 +265,13 @@ def plan(root, command, payload, now):
     current = root / 'public' / CURRENT
     state = json.loads(current.read_text()) if current.exists() else initial()
     require(state.get('schemaVersion') == 1 and state.get('timezone') == 'Asia/Seoul', 'unsupported live state')
+    if command in ('finalize', 'finalize-news'):
+        require('brief' not in payload, 'finalize cannot accept or ignore brief; use publish-news with the researched brief')
+        require(str(payload.get('edition',''))[:10] < NEWS.SINGLE_RUN_START,
+                'Single-run news uses publish-news; separate finalization is retired')
+    if command == 'stage-news':
+        require(payload.get('brief',{}).get('date','') < NEWS.SINGLE_RUN_START,
+                'Advance preparation is retired; use publish-news at or after 09:00/21:00')
     rolling = (root / 'public/data/humor/current.json').exists()
     if rolling:
         require(command != 'finalize', 'rolling humor enabled: use finalize-news; legacy all-channel finalization is disabled')
@@ -274,6 +284,42 @@ def plan(root, command, payload, now):
         require(old['hash'] == operation_hash, 'operationId reused with different content')
         return {}, dict(old['result'], replayed=True)
     require(payload.get('schemaVersion') == 1, 'input schemaVersion must be 1')
+    if command == 'publish-news':
+        require(set(payload) <= {'schemaVersion','operationId','brief'}, 'publish-news accepts schemaVersion, operationId and brief only')
+        brief = payload['brief']
+        require(brief.get('date','') >= NEWS.SINGLE_RUN_START, 'Single-run contract starts 2026-10-11; never backfill old editions with a new cutoff')
+        edition = brief['id']
+        cutoff = deadline(edition)
+        require(cutoff <= now, 'Cannot publish before the 09:00/21:00 cutoff')
+        require(stamp(brief['cutoffAt']) == cutoff, 'Input cutoff must match the explicit target edition')
+        require(not any(k in brief for k in ('finalizedAt','scheduledFor','recordId','publicationMode','newsInputSha256','publishedAt','deployedAt')),
+                'Publication metadata is recorded by the publisher, not supplied or backdated')
+        prior = next((s for s in state['snapshots'] if s['id'] == edition), None)
+        if prior:
+            value = json.loads((root / 'public/data/live' / prior['path']).read_text())
+            require(digest(value) == prior['sha256'], 'immutable snapshot was modified')
+            require(value.get('newsInputSha256') == digest(brief), 'Edition already finalized with different input; preserve it and publish an explicit correction')
+            return {}, {'id': edition, 'replayed': True, 'sha256': prior['sha256']}
+        history = NEWS.load_editions(root / 'public/data/news')
+        require(not any(b['id'] == edition for b in history), 'News edition already published; never overwrite')
+        validated = NEWS.validate(brief, history, now=now)
+        recorded = iso(now)
+        snapshot = dict(window_for(cutoff-timedelta(microseconds=1)), schemaVersion=1, timezone='Asia/Seoul',
+                        channel='news', publicationMode='single-run', status='finalized', finalizedAt=recorded,
+                        activatedAt=state['activatedAt'] or recorded, empty=False, newsInputSha256=digest(brief),
+                        news={'brief': validated, 'recordedAt': recorded, 'revision': 1})
+        path = f'snapshots/{edition}.json'
+        writes = news_files(root, validated, recorded, edition)
+        for folder in ('public','docs'):
+            writes[f'{folder}/data/live/{path}'] = snapshot
+        ref = {k: snapshot[k] for k in ('id','opensAt','scheduledFor','finalizedAt','empty')}
+        ref.update(path=path, sha256=digest(snapshot), itemCount=0, hasNews=True)
+        state['snapshots'].append(ref)
+        state['snapshots'].sort(key=lambda s:s['scheduledFor'], reverse=True)
+        # No preparation window is created or advanced. Legacy windows are preserved.
+        state['activatedAt'] = state['activatedAt'] or recorded
+        result = {'operationId':operation_id, 'id':edition, 'windowId':edition, 'recordedAt':recorded, 'sha256':ref['sha256']}
+        return finish_plan(state, command, payload, writes, result, now)
     if command in ('finalize', 'finalize-news'):
         prior = next((s for s in state['snapshots'] if s['id'] == payload['edition']), None)
         if prior:
@@ -374,6 +420,12 @@ def plan(root, command, payload, now):
             writes[f"{folder}/data/live/corrections/{correction['id']}.json"] = value
     elif command != 'init':
         raise ValueError('unknown command')
+    return finish_plan(state, command, payload, writes, result, now)
+
+
+def finish_plan(state, command, payload, writes, result, now):
+    operation_id = payload['operationId']
+    operation_hash = digest({'command':command, 'payload':payload})
     state['updatedAt'] = iso(now)
     state['operations'][operation_id] = {'hash': operation_hash, 'result': result}
     # Immutable operation records preserve superseded live revisions, too.
@@ -471,7 +523,7 @@ def push_operation(root, command, payload):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['init', 'upsert', 'check', 'stage-news', 'finalize', 'finalize-news', 'correct', 'recover', 'status'])
+    parser.add_argument('command', choices=['init', 'upsert', 'check', 'stage-news', 'publish-news', 'finalize', 'finalize-news', 'correct', 'recover', 'status'])
     parser.add_argument('input', nargs='?', type=Path)
     parser.add_argument('--edition')
     parser.add_argument('--operation-id')
@@ -479,6 +531,8 @@ def main():
     mode.add_argument('--check', action='store_true')
     mode.add_argument('--push', action='store_true')
     args = parser.parse_args()
+    require(args.command != 'publish-news' or args.input is not None and args.edition is None,
+            'publish-news requires an input envelope; target edition is brief.id, not --edition')
     if args.command == 'status':
         state = json.loads((ROOT / 'public' / CURRENT).read_text())
         print(encoded({k: state[k] for k in ('activatedAt', 'updatedAt', 'windows', 'snapshots')}))

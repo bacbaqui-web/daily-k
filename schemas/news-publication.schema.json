@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily K single-run final news publication",
+  "description": "Structural envelope. scripts/live/manage.py publish-news validates every source, actual time, topic, issue and immutable retry. It accepts only new editions from 2026-10-11, cutoff 09:00/21:00 Asia/Seoul.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "operationId", "brief"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "operationId": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]{0,119}$"},
+    "brief": {
+      "type": "object",
+      "required": ["schemaVersion", "id", "date", "edition", "timezone", "cutoffAt", "generatedAt", "intro", "overview", "stories", "events", "keywords"],
+      "properties": {
+        "schemaVersion": {"const": 1},
+        "id": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}-(am|pm)$"},
+        "date": {"type": "string", "format": "date"},
+        "edition": {"enum": ["am", "pm"]},
+        "timezone": {"const": "Asia/Seoul"},
+        "cutoffAt": {"type": "string", "format": "date-time"},
+        "generatedAt": {"type": "string", "format": "date-time"},
+        "updatedAt": {"type": "string", "format": "date-time"},
+        "stories": {"type": "array", "minItems": 5, "maxItems": 10},
+        "events": {"type": "array", "minItems": 3, "maxItems": 6},
+        "finalizedAt": false,
+        "scheduledFor": false,
+        "recordId": false,
+        "publicationMode": false,
+        "publishedAt": false,
+        "deployedAt": false,
+        "newsInputSha256": false
+      }
+    }
+  }
+}

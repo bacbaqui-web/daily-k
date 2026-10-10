@@ -1,6 +1,6 @@
 # 진행 중 목록과 오전·오후 9시 확정 기록
 
-> **유머 운영 변경:** [rolling-humor.md](rolling-humor.md)가 현재 우선 계약입니다. 유머는 게시 후 24시간·literal ㅋ 10개 기준의 독립 JSON을 사용합니다. 아래 유머/topic upsert와 일반 finalize 명령은 과거 기록입니다. 뉴스 stage-news는 유지하고 09/21 예약 명령은 `finalize-news --edition ... --push`로 교체합니다. 기존 데이터는 보존합니다.
+> **과거 운영 계약:** 현재 뉴스는 [news-single-run.md](news-single-run.md)의 09/21 단일 조사·발행이 우선합니다. 아래 stage-news·finalize-news·준비 창 설명은 과거 기록이며 새 회차에는 사용하지 않습니다. 유머는 [rolling-humor.md](rolling-humor.md)의 독립 24시간 JSON을 유지합니다. 기존 데이터는 보존합니다.
 
 이 문서는 새 수집·갱신·확정 경로의 우선 지침입니다. 기존 `community-briefing.md`와 `news-briefing.md`의 콘텐츠 검증·인용·출처·안전 규칙은 유지하되, 08:55/20:55 직접 발행 절차는 아래 준비→확정 절차로 대체합니다. 기존 과거 JSON·공유 링크·미디어·뉴스 이슈 기록은 수정하지 않습니다. 저장소에 새 수집기나 예약 실행을 설치하지 않습니다.
 

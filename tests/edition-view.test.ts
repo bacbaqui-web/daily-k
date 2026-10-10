@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {containsItem,currentEdition,editionBoundary,editionDates,editionHref,editionId,editionSource,parseEdition,requestedEdition,validDate,type ArchiveEdition} from '../lib/edition-view.ts';
+import {containsItem,currentEdition,latestNewsEdition,editionBoundary,editionDates,editionHref,editionId,editionSource,parseEdition,requestedEdition,validDate,type ArchiveEdition} from '../lib/edition-view.ts';
 import type {LiveState,LiveWindow,SnapshotRef} from '../lib/live.ts';
 
 // Pure read-model fixtures only: nothing is written to public or docs.
@@ -36,7 +36,7 @@ const ref={id:window.id,path:'snapshots/2026-10-09-pm.json',sha256:'a'.repeat(64
 const finalized={...state,windows:[],snapshots:[ref]};
 assert.equal(editionSource(current,after,finalized,archives).kind,'snapshot');
 assert.equal(editionSource(currentEdition(after),after,finalized,archives).kind,'current');
-assert.equal(editionId(requestedEdition(new URLSearchParams('view=records'),after,finalized,archives,'news')),window.id);
+assert.equal(editionId(requestedEdition(new URLSearchParams('view=records'),after,finalized,archives,'news')),'2026-10-09-am');
 const duplicate=[...archives,{id:window.id,...current,path:'2026-10-09/pm.json'}];
 assert.equal(editionSource(current,after,finalized,duplicate).kind,'snapshot');
 assert.equal(editionSource(current,after,finalized,duplicate,true).kind,'archive');
@@ -48,4 +48,12 @@ assert.deepEqual(editionDates(after,finalized,archives),['2026-10-09','2026-10-1
 assert.equal(containsItem(window,'humor','missing'),false);
 assert.equal(containsItem(window,'news','missing'),false);
 const original=JSON.stringify(state);editionSource(current,after,state,archives);requestedEdition(new URLSearchParams(),after,state,archives,'humor');assert.equal(JSON.stringify(state),original);
+// News follows actual publications, never the next preparation window.
+for(const now of [before,after,Date.parse('2026-10-10T09:00:00+09:00')]){
+ assert.equal(editionId(requestedEdition(new URLSearchParams(),now,state,archives,'news')),'2026-10-09-am');
+ assert.equal(editionSource(current,now,state,archives,false,'news').kind,now<after?'future':'missing');
+}
+assert.equal(editionId(latestNewsEdition(after,duplicate)),'2026-10-09-pm');
+for(const [time,id] of [['2026-10-11T08:59:59+09:00','2026-10-10-pm'],['2026-10-11T09:00:00+09:00','2026-10-11-am'],['2026-10-11T21:00:00+09:00','2026-10-11-pm'],['2026-10-11T00:00:00Z','2026-10-11-am']])assert.equal(editionId(latestNewsEdition(Date.parse(time),[])),id);
+assert.equal(editionId(requestedEdition(new URLSearchParams('record=2026-10-09-pm'),after,finalized,archives,'news')),window.id);
 console.log('Edition boundaries, KST rollover, pinned/default selection, legacy URLs, source precedence, empty/pending/finalized states and immutable read mapping passed');

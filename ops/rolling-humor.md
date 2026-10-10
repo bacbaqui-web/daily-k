@@ -55,18 +55,13 @@ python3 scripts/humor/collector.py --state /PERSISTENT_PRIVATE_PATH/aagag.json -
 
 현재 GitHub Pages는 정적 파일 호스팅으로 이 프로그램을 실행하지 않습니다. 기존 cloud-collector는 AI 도구 실행 세션에 종속되며 지속 Python 호스트가 아닙니다. Mac은 개발·테스트만 했고 서비스·예약·수집기·자격증명·새 서버를 설치하거나 재가동하지 않았습니다. Mac 없이 상시 운영하려면 **기존 권한 내에서 사용 가능한 지속 클라우드 Python 실행환경, private 체크포인트 디스크, 허용된 애객 접근, 기존 Git 게시 인증**이 확인돼야 합니다. 그 환경이 아직 확인되지 않았으므로 상시 클라우드 수집은 미가동입니다. 새 서버/인증/API/유료 서비스나 GitHub 예약 workflow를 임의 생성하지 않습니다.
 
-## 부모 예약 pin 변경: 뉴스만 회차 확정
+## 뉴스 예약: 09/21 단일 조사·발행
 
-유머/시간별 topic 예약은 중지 상태를 유지합니다. 뉴스 08:30/20:30 준비는 기존 `stage-news`를 그대로 사용합니다. 09:00/21:00 확정은 아래 명령으로 **반드시 교체**합니다.
+뉴스는 [news-single-run.md](news-single-run.md)의 계약을 따릅니다. 2026-10-11 오전부터 09:00/21:00에 한 번 조사·검증·작성한 봉투 입력을 아래 명령으로 최종 게시합니다. 08:30/20:30 준비와 별도 finalize-news 예약은 사용하지 않습니다. 과거 cutoff와 확정 원본은 보존합니다.
 
 ```sh
-python3 scripts/live/manage.py stage-news /absolute/prepared-news.json --check
-python3 scripts/live/manage.py stage-news /absolute/prepared-news.json --push
-python3 scripts/live/manage.py finalize-news --edition YYYY-MM-DD-am --check
-python3 scripts/live/manage.py finalize-news --edition YYYY-MM-DD-am --push
-python3 scripts/live/manage.py finalize-news --edition YYYY-MM-DD-pm --push
+python3 scripts/live/manage.py publish-news /absolute/final-news.json --check
+python3 scripts/live/manage.py publish-news /absolute/final-news.json --push
 ```
 
-edition은 예약 대상 날짜/오전·오후로 고정하고 재시도에도 동일하게 사용합니다. 기본 operationId는 `finalize-news-<edition>`입니다. 실제 실행 시각을 finalizedAt에 쓰며 기사 기준 08:30/20:30을 09/21로 바꾸지 않습니다. 뉴스 이슈 파생 파일은 기존 생성 경로를 유지합니다. 새 스냅샷은 items=[]/뉴스 check만 포함하며 오래된 window의 유머·topic은 별도 기존 데이터로 보존합니다. 이미 확정한 스냅샷은 재작성하지 않습니다. rolling 파일이 있는 운영에서는 과거 `finalize`, `upsert`(community/topics), 비뉴스 `check` 명령을 거부해 잘못된 옛 예약이 유머를 확정하지 못하게 합니다. 과거 정정 경로는 유지합니다.
-
-코드 배포/단일 게시 순서는 부모가 배정합니다. 뉴스 예약은 이 계약을 구현한 코드가 배포된 뒤 해당 커밋에 고정합니다. 테스트용 유머는 임시 디렉터리에만 만들고 빈 실서비스용 rolling 상태 외에는 샘플을 넣지 않습니다. 홈페이지 코드 배포와 상시 수집기 가동은 별개이며, 수집 확인 기록이 없으면 가동 중이라고 표시하지 않습니다.
+유머 경로·기록은 뉴스 발행과 독립입니다. 홈페이지 코드 배포와 수집기 가동도 별개이며, 수집 확인 기록이 없으면 가동 중이라고 표시하지 않습니다. 수집기나 예약 설정 변경은 별도 작업의 권한과 범위를 따릅니다.

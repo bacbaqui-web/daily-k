@@ -17,6 +17,7 @@ from archive import load_editions, build_index
 
 KST = ZoneInfo('Asia/Seoul')
 EARLY_CUTOFF_START = '2026-10-07'
+SINGLE_RUN_START = '2026-10-11'
 ROOT = Path(__file__).resolve().parents[2]
 WEIGHTS = {'recency': .40, 'importance': .25, 'interest': .15, 'domesticImpact': .10, 'reliability': .10}
 
@@ -40,13 +41,15 @@ def canonical_url(value):
 def fingerprint(facts):
     return hashlib.sha256(json.dumps({normalized(k):normalized(v) for k,v in facts.items()}, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
 
-def source_check(source, generated, cutoff):
+def source_check(source, generated, cutoff, single_run=False):
     for field in ('name', 'title', 'url', 'language', 'kind'):
         require(isinstance(source.get(field),str) and source[field].strip(), f'Source missing {field}')
     canonical_url(source['url'])
     if source.get('imageUrl') is not None: canonical_url(source['imageUrl'])
     checked = timestamp(source['verifiedAt'])
     require(generated-timedelta(hours=6) <= checked <= generated, 'Source must be freshly verified for this run')
+    if single_run:
+        require(checked >= cutoff, 'Single-run sources must be verified at or after the 09:00/21:00 cutoff')
     if source.get('publishedAt'):
         require(timestamp(source['publishedAt']) <= cutoff, 'Source published after edition cutoff')
 
@@ -69,16 +72,18 @@ def validate(draft, history, now=None):
     day=datetime.strptime(b['date'],'%Y-%m-%d').replace(tzinfo=KST)
     cutoff=timestamp(b['cutoffAt']); generated=timestamp(b['generatedAt'])
     scheduled=day.replace(hour=9 if b['edition']=='am' else 21)
-    expected_cutoff=scheduled-timedelta(minutes=30) if b['date']>=EARLY_CUTOFF_START else scheduled
-    require(cutoff == expected_cutoff,'Cutoff must match the edition source cutoff: 08:30/20:30 KST from 2026-10-07, 09:00/21:00 before')
-    require(cutoff <= generated <= (now or datetime.now(KST))+timedelta(minutes=5),'Invalid generation time')
+    single_run=b['date']>=SINGLE_RUN_START
+    expected_cutoff=scheduled-timedelta(minutes=30) if EARLY_CUTOFF_START<=b['date']<SINGLE_RUN_START else scheduled
+    require(cutoff == expected_cutoff,'Cutoff must be 09:00/21:00 KST; historical 2026-10-07 through 2026-10-10 retain 08:30/20:30')
+    latest=(now or datetime.now(KST))+(timedelta(0) if single_run else timedelta(minutes=5))
+    require(cutoff <= generated <= latest,'Invalid generation time')
     require(b.get('id')==f"{b['date']}-{b['edition']}",'Invalid edition ID')
     require(isinstance(b.get('intro'),str) and b['intro'].strip(),'Missing intro')
     require(isinstance(b.get('overview'),list) and 2<=len(b['overview'])<=4 and all(isinstance(p,str) and len(p.strip())>=15 for p in b['overview']),'Provide 2–4 overview paragraphs covering the full edition')
     if 'overviewEmphasis' in b:
         require(isinstance(b['overviewEmphasis'],list) and 1<=len(b['overviewEmphasis'])<=12 and all(isinstance(p,str) and p.strip() and any(p in paragraph for paragraph in b['overview']) for p in b['overviewEmphasis']),'Overview emphasis must use 1–12 exact phrases from overview')
     updated=timestamp(b.get('updatedAt',b['generatedAt']))
-    require(generated<=updated<=(now or datetime.now(KST))+timedelta(minutes=5),'Invalid presentation update time')
+    require(generated<=updated<=latest,'Invalid presentation update time')
     stories=b['stories']; require(5<=len(stories)<=10,'Must contain 5–10 stories')
     require(any(s.get('category')=='웹툰 산업' for s in stories),'A domestic webtoon story is required')
     require(len({s['id'] for s in stories})==len(stories),'Duplicate story ID')
@@ -94,10 +99,10 @@ def validate(draft, history, now=None):
         require(isinstance(emphasis,list) and 1<=len(emphasis)<=6 and all(isinstance(p,str) and p.strip() and any(p in paragraph for paragraph in s['summary']) for p in emphasis),'Emphasis must select 1–6 actual phrases from the summary')
         require(isinstance(s.get('keyFacts'),dict) and len(s['keyFacts'])>=2 and all(isinstance(v,str) and v for v in s['keyFacts'].values()),'Missing comparable factual data')
         require(isinstance(s.get('sources'),list) and s['sources'],'Missing sources')
-        for source in s['sources']: source_check(source,generated,cutoff)
+        for source in s['sources']: source_check(source,generated,cutoff,single_run)
         related=s.get('relatedArticles',[])
         require(isinstance(related,list) and 1<=len(related)<=3,'Provide up to three verified related articles')
-        for article in related: source_check(article,updated,cutoff)
+        for article in related: source_check(article,updated,cutoff,single_run)
         require(len({canonical_url(article['url']) for article in related})==len(related),'Duplicate related articles')
         require(any(source['language']=='ko' for source in s['sources']),'A Korean source is mandatory')
         published=timestamp(s['publishedAt'])
@@ -140,7 +145,7 @@ def validate(draft, history, now=None):
         if e.get('at'):
             at=timestamp(e['at']);require(at>scheduled and at.date()==target.date(),'Event already ended or wrong date')
         else: require(bool(e.get('timeNote')),'Disclose unknown event time')
-        source_check(e['source'],generated,cutoff)
+        source_check(e['source'],generated,cutoff,single_run)
     keywords=b.get('keywords',[])
     require(isinstance(keywords,list) and all(isinstance(k,str) and k for k in keywords),'Invalid keywords')
     require((b['edition']=='am' and not keywords) or (b['edition']=='pm' and 8<=len(set(keywords))<=12),'Evening requires 8–12 keywords; morning none')
@@ -150,11 +155,11 @@ def write_json(path,data):
     path.parent.mkdir(parents=True,exist_ok=True)
     temp=path.with_suffix('.tmp');temp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n');temp.replace(path)
 
-def publish(draft, root=ROOT, check=False):
+def publish(draft, root=ROOT, check=False, now=None):
     base=root/'public/data/news';base.mkdir(parents=True,exist_ok=True)
     history=load_editions(base)
     require(not any(h['id']==draft['id'] for h in history),'Edition already published; never overwrite an archive silently')
-    b=validate(draft,history)
+    b=validate(draft,history,now=now)
     timelines=build_timelines(history+[b])
     if check:return b,[]
     rel=f"{b['date']}/{b['edition']}.json"
@@ -169,13 +174,16 @@ def publish(draft, root=ROOT, check=False):
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('draft',type=Path);parser.add_argument('--check',action='store_true');parser.add_argument('--push',action='store_true');args=parser.parse_args()
     require(not(args.check and args.push),'Choose check or push')
+    draft=json.loads(args.draft.read_text())
+    require(args.check or draft.get('date','')<SINGLE_RUN_START,
+            'Use scripts/live/manage.py publish-news for single-run editions; direct writes are disabled')
     lock=Path.home()/'Library/Application Support/DailyK/news-publish.lock';lock.parent.mkdir(parents=True,exist_ok=True)
     with lock.open('w') as handle:
         fcntl.flock(handle,fcntl.LOCK_EX|fcntl.LOCK_NB)
         if args.push:
             require(not subprocess.check_output(['git','status','--porcelain'],cwd=ROOT,text=True).strip(),'Checkout has other work; inspect before publishing')
             subprocess.run(['git','pull','--ff-only'],cwd=ROOT,check=True)
-        b,paths=publish(json.loads(args.draft.read_text()),check=args.check)
+        b,paths=publish(draft,check=args.check)
         if args.push:
             subprocess.run(['git','add','--',*paths],cwd=ROOT,check=True)
             subprocess.run(['git','commit','-m',f"Publish {b['id']} Korean news briefing"],cwd=ROOT,check=True)

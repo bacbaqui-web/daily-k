@@ -1,10 +1,10 @@
 'use client';
 import {useEffect,useRef,useState} from 'react';
 import {CommunityBriefing} from './community-briefing';
-import {NewsBriefing} from './news-briefing';
+import {NewsBriefing,NewsPrepared} from './news-briefing';
 import {WindowContent} from './live-board';
 import {isLiveState,isSnapshot,liveTime,snapshotHash,type LiveState,type Snapshot,type SnapshotRef} from '../lib/live';
-import {containsItem,currentEdition,editionBoundary,editionDates,editionHref,editionId,editionSource,parseEdition,requestedEdition,validDate,type ArchiveEdition,type Channel,type EditionSelection} from '../lib/edition-view';
+import {containsItem,currentEdition,latestNewsEdition,editionBoundary,editionDates,editionHref,editionId,editionSource,parseEdition,requestedEdition,validDate,type ArchiveEdition,type Channel,type EditionSelection} from '../lib/edition-view';
 
 const shortTime=(value:string|null|undefined)=>value?new Intl.DateTimeFormat('ko-KR',{timeZone:'Asia/Seoul',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(value)):'아직 없음';
 function archiveEntries(value:unknown):ArchiveEdition[] {
@@ -45,7 +45,7 @@ export function EditionBoard({channel,search,onNavigate}:{channel:Channel;search
  },[retry]);
  const query=new URLSearchParams(search),entries=archives[channel];
  const item=query.get('item'),explicit=validDate(query.get('date'))||!!parseEdition(query.get('record'));
- const needsLookup=!!item&&!explicit&&!state?.windows.some(w=>containsItem(w,channel,item));
+ const needsLookup=!!item&&!explicit&&(channel==='news'||!state?.windows.some(w=>containsItem(w,channel,item)));
  const lookupKey=`${channel}:${search}:${state?.snapshots.map(s=>`${s.id}:${s.sha256}`).join(',')}`;
  useEffect(()=>{
   if(!loaded||!state||!needsLookup||!item)return;
@@ -57,8 +57,8 @@ export function EditionBoard({channel,search,onNavigate}:{channel:Channel;search
   return()=>controller.abort();
  },[loaded,state,needsLookup,item,channel,lookupKey,retry]);
  const selection=needsLookup&&lookup?.key===lookupKey&&lookup.selection?lookup.selection:requestedEdition(query,now,state,entries,channel);
- const id=editionId(selection),current=currentEdition(now);
- const source=editionSource(selection,now,state,entries,query.get('view')==='archive'||query.get('archive')==='1');
+ const id=editionId(selection),current=channel==='news'?latestNewsEdition(now,entries):currentEdition(now);
+ const source=editionSource(selection,now,state,entries,query.get('view')==='archive'||query.get('archive')==='1',channel);
  const ref=source.kind==='snapshot'?source.ref:null;
  useEffect(()=>{
   setSnapshotError('');if(!ref){setSnapshot(null);return}
@@ -68,10 +68,10 @@ export function EditionBoard({channel,search,onNavigate}:{channel:Channel;search
  },[ref?.id,ref?.sha256,retry]);
  const visible=source.kind==='window'?source.window:source.kind==='snapshot'&&snapshot?.id===id?snapshot:null;
  const corrections=state?.corrections.filter(c=>c.snapshotId===id)||[];
- const updated=channel==='news'?visible?.news?.recordedAt:visible?.items.reduce<string|null>((latest,item)=>!latest||Date.parse(item.recordedAt)>Date.parse(latest)?item.recordedAt:latest,null);
- const dates=editionDates(now,state,entries),previous=dates.filter(d=>d<selection.date).at(-1),next=dates.find(d=>d>selection.date);
+ const updated=channel==='news'?(source.kind==='snapshot'&&snapshot?.id===id?snapshot.finalizedAt:null):visible?.items.reduce<string|null>((latest,item)=>!latest||Date.parse(item.recordedAt)>Date.parse(latest)?item.recordedAt:latest,null);
+ const dates=channel==='news'?[...new Set([current.date,...entries.map(e=>e.date)])].sort():editionDates(now,state,entries),previous=dates.filter(d=>d<selection.date).at(-1),next=dates.find(d=>d>selection.date);
  const incomplete=errors.some(message=>message.startsWith('회차 상태')||message.startsWith(channel==='news'?'뉴스 기록':'커뮤니티 기록'));
- const status=incomplete&&(source.kind==='missing'||source.kind==='current')?'확인 필요':source.kind==='snapshot'?'확정':source.kind==='archive'?'기존 기록':source.kind==='window'&&source.pending?'확정 대기':source.kind==='current'||source.kind==='window'?'진행 중':source.kind==='future'?'예정':'기록 없음';
+ const status=incomplete&&(source.kind==='missing'||source.kind==='current')?'확인 필요':source.kind==='snapshot'?'확정':source.kind==='archive'?'기존 기록':channel==='news'?'미발행':source.kind==='window'&&source.pending?'확정 대기':source.kind==='current'||source.kind==='window'?'진행 중':source.kind==='future'?'예정':'기록 없음';
  const isCurrent=id===editionId(current);
  const choose=(value:EditionSelection)=>{if(editionId(value)!==id)onNavigate(editionHref(value,channel))};
  const unresolved=needsLookup&&(!state||lookup?.key!==lookupKey);
@@ -86,13 +86,13 @@ export function EditionBoard({channel,search,onNavigate}:{channel:Channel;search
    <button className="news-date-arrow" disabled={!next} onClick={()=>next&&choose({...selection,date:next})} aria-label="다음 브리핑 날짜">→</button>
   </div>
   <h1 className="sr-only">{selection.date} {selection.edition==='am'?'오전':'오후'} {channel==='news'?'뉴스':'커뮤니티'} 회차</h1>
-  <div className="edition-status-row"><span><span className="live-status">{status}</span> {selection.edition==='am'?'오전':'오후'} 9시 회차{visible&&channel==='humor'?` · ${visible.items.length}건`:''}</span>{(!isCurrent||explicit)&&<button className="edition-current" onClick={()=>onNavigate(editionHref(null,channel))}>현재 회차 ↗</button>}</div>
-  {source.kind!=='archive'&&<div className="edition-meta"><span>확정 기준 {shortTime(editionBoundary(selection))}</span><span>{channel==='news'?'뉴스 준비본 반영':'목록 반영'} {shortTime(updated)}</span><span>한국시간</span></div>}
+  <div className="edition-status-row"><span><span className="live-status">{status}</span> {selection.edition==='am'?'오전':'오후'} 9시 회차{visible&&channel==='humor'?` · ${visible.items.length}건`:''}</span>{(!isCurrent||explicit)&&<button className="edition-current" onClick={()=>onNavigate(editionHref(null,channel))}>{channel==='news'?'최근 발행 ↗':'현재 회차 ↗'}</button>}</div>
+  {source.kind!=='archive'&&<div className="edition-meta"><span>회차 기준 {shortTime(editionBoundary(selection))}</span><span>{channel==='news'?'실제 확정':'목록 반영'} {shortTime(updated)}</span><span>한국시간</span></div>}
   {errors.length>0&&<div className="live-alert" role="alert">{errors.map(message=><p key={message}>{message}</p>)}<button onClick={()=>setRetry(n=>n+1)}>다시 시도</button></div>}
   {!loaded||unresolved?<p className="news-message" role="status">회차를 불러오고 있습니다.</p>:missingLink?<div className="news-message" role="alert"><p>{lookup?.error||'공유한 항목이 등록된 회차를 찾지 못했습니다.'}</p>{lookup?.error&&<button onClick={()=>setRetry(n=>n+1)}>다시 시도</button>}</div>:source.kind==='archive'?(channel==='news'?<NewsBriefing key={`${id}:${search}`} selection={selection}/>:<CommunityBriefing key={`${id}:${search}`} selection={selection}/>):source.kind==='snapshot'&&!visible?(snapshotError?<div className="live-alert" role="alert"><p>{snapshotError}</p><button onClick={()=>setRetry(n=>n+1)}>다시 시도</button></div>:<p className="news-message" role="status">확정 기록을 불러오고 있습니다.</p>):visible?<>
    {source.kind==='window'&&source.pending&&<p className="edition-pending" role="status">확정 기준 시각이 지났습니다. 등록된 내용은 보존 중이며 실제 확정은 아직 확인되지 않았습니다.</p>}
-   <WindowContent key={`${id}:${search}`} window={visible} channel={channel} corrections={corrections} record={source.kind==='snapshot'?id:undefined}/>
-  </>:incomplete?<div className="live-empty"><h2>이 회차의 등록 상태를 확인하지 못했습니다</h2><p>위의 다시 시도로 최신 데이터를 확인해 주세요.</p></div>:source.kind==='current'?<><div className="live-empty"><h2>아직 등록된 내용이 없습니다</h2><p>확인한 새 자료가 들어오면 이 회차에 표시됩니다.<br/>{selection.edition==='am'?'전날 오후 9시부터 이날 오전 9시까지':'이날 오전 9시부터 오후 9시까지'}의 수집 창입니다.</p></div><p className="live-disclaimer">등록된 수집 확인 기록이 없습니다. 수집기의 가동 상태나 수집 결과 0건을 의미하지 않습니다.</p></>:<div className="live-empty"><h2>{source.kind==='future'?'아직 시작하지 않은 회차입니다':'이 회차에 보관된 내용이 없습니다'}</h2><p>다른 날짜나 오전·오후를 선택해 주세요.</p></div>}
-  <details className="edition-record-info"><summary>회차·확인 정보</summary><p>오전 회차는 전날 21:00 이상~당일 09:00 미만, 오후 회차는 당일 09:00 이상~21:00 미만입니다. 같은 회차에 자료를 추가하고 확정 후에는 원본을 보존합니다. 이후 정정은 별도로 표시합니다.</p><p>‘진행 중’은 수집 창의 상태이며 수집기 정상 가동을 뜻하지 않습니다. 첫 발견·확인 시각·관측 이력은 각 항목에 남깁니다.</p>{channel==='news'&&<p>뉴스 기사 기준·준비 시작은 08:30 / 20:30, 확정 기준은 09:00 / 21:00입니다.</p>}<p>전체 데이터 반영 {liveTime(state?.updatedAt)} · 실제 웹 배포 완료 시각과 다를 수 있습니다.</p>{source.kind==='snapshot'&&snapshot?.id===id&&<><p>실제 확정 {liveTime(snapshot.finalizedAt)}<br/>수집 창 {liveTime(snapshot.opensAt)} ~ {liveTime(snapshot.scheduledFor)}<br/>운영 시작 {liveTime(snapshot.activatedAt)} · 이전 시간의 수집을 소급하지 않습니다.</p><a href={`/daily-k/data/live/${source.ref.path}`} target="_blank" rel="noopener noreferrer">확정 원본 JSON ↗</a><p className="edition-hash">SHA-256 {source.ref.sha256}</p></>}</details>
+   {channel==='news'&&visible.news?<NewsPrepared key={`${id}:${search}`} brief={visible.news.brief} record={id} corrections={corrections}/>:<WindowContent key={`${id}:${search}`} window={visible} channel={channel} corrections={corrections} record={source.kind==='snapshot'?id:undefined}/>}
+  </>:incomplete?<div className="live-empty"><h2>이 회차의 등록 상태를 확인하지 못했습니다</h2><p>위의 다시 시도로 최신 데이터를 확인해 주세요.</p></div>:channel==='news'?<div className="live-empty"><h2>아직 발행된 브리핑이 없습니다</h2><p>매일 한국시간 09:00·21:00에 뉴스를 조사·검증하고 정리가 끝나면 게시합니다. 최근 발행 회차나 다른 날짜를 선택해 주세요.</p></div>:source.kind==='current'?<><div className="live-empty"><h2>아직 등록된 내용이 없습니다</h2><p>확인한 새 자료가 들어오면 이 회차에 표시됩니다.<br/>{selection.edition==='am'?'전날 오후 9시부터 이날 오전 9시까지':'이날 오전 9시부터 오후 9시까지'}의 수집 창입니다.</p></div><p className="live-disclaimer">등록된 수집 확인 기록이 없습니다. 수집기의 가동 상태나 수집 결과 0건을 의미하지 않습니다.</p></>:<div className="live-empty"><h2>{source.kind==='future'?'아직 시작하지 않은 회차입니다':'이 회차에 보관된 내용이 없습니다'}</h2><p>다른 날짜나 오전·오후를 선택해 주세요.</p></div>}
+  <details className="edition-record-info"><summary>회차·확인 정보</summary>{channel==='news'?<p>매일 한국시간 09:00·21:00을 기사 기준으로 한 번 조사·검증한 뒤 최종 브리핑을 게시합니다. 새 발행 전에는 최근 발행 회차를 보여줍니다. 기사 기준·실제 작성·실제 확정 시각은 구분하며, 이전 회차의 시간과 원본은 보존합니다.</p>:<><p>오전 회차는 전날 21:00 이상~당일 09:00 미만, 오후 회차는 당일 09:00 이상~21:00 미만입니다. 같은 회차에 자료를 추가하고 확정 후에는 원본을 보존합니다. 이후 정정은 별도로 표시합니다.</p><p>‘진행 중’은 수집 창의 상태이며 수집기 정상 가동을 뜻하지 않습니다. 첫 발견·확인 시각·관측 이력은 각 항목에 남깁니다.</p></>}<p>전체 데이터 반영 {liveTime(state?.updatedAt)} · 실제 웹 배포 완료 시각과 다를 수 있습니다.</p>{source.kind==='snapshot'&&snapshot?.id===id&&<><p>실제 확정 {liveTime(snapshot.finalizedAt)}<br/>회차 기준 {liveTime(snapshot.scheduledFor)}</p><a href={`/daily-k/data/live/${source.ref.path}`} target="_blank" rel="noopener noreferrer">확정 원본 JSON ↗</a><p className="edition-hash">SHA-256 {source.ref.sha256}</p></>}</details>
  </section>;
 }
