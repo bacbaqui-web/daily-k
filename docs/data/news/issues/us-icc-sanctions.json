@@ -1,0 +1,83 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-10/am.json",
+      "category": "국제·인권",
+      "change": "노벨평화상 선정 보도 뒤 미국의 ICC 기관 전체 제재와 유럽의 대응이 발표됐습니다. 수상 결과 반복이 아니라 별도 정책 변화입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T08:35:23+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "am",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-am",
+      "eventAt": null,
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "사건 날짜는 2026-10-09(America/New_York)입니다. 정확한 사건 시각은 미확인이며 기사 공개 시각과 구분합니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-10-am/us-icc-institution-sanctions-2026-10-09",
+      "keyFacts": {
+        "assets": "미국 관할 ICC 자산 동결",
+        "blockingStatute": "발동 미확정",
+        "euAction": "협상·법적 대응 검토",
+        "nobelCausation": "확인되지 않음",
+        "usAction": "ICC 개인 대상 제재를 기관 전체로 확대",
+        "windDown": "미국 기업·개인의 ICC 거래 정리 6개월"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-10T03:30:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T04:15:49+09:00",
+          "title": "유럽, 美 ICC 제재에 반발…협상·법적 대응 병행",
+          "updatedAt": "2026-10-10T06:38:24+09:00",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261010_0003820393",
+          "verifiedAt": "2026-10-10T08:30:57+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-10T06:53:00+09:00",
+          "title": "미국, 노벨 평화상 발표 직후 ICC 제재...ICC·EU, 강력 반발",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0104_202610100653114847",
+          "verifiedAt": "2026-10-10T08:30:28+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-10-10T03:30:00+09:00",
+          "title": "트럼프, 노벨평화상 수상자 발표 뒤 ICC 제재…유럽 \"대화로 풀자\"",
+          "updatedAt": "2026-10-10T03:30:00+09:00",
+          "url": "https://www.fnnews.com/news/202610100258343497",
+          "verifiedAt": "2026-10-10T08:30:57+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "us-icc-institution-sanctions-2026-10-09",
+      "summary": [
+        "미국이 현지 9일 국제형사재판소 ICC의 개별 인사에 대한 기존 제재를 기관 전체로 확대했습니다. 미국 관할권 내 ICC 자산이 동결되고, 미국 기업과 개인은 6개월 안에 ICC와의 거래를 정리해야 한다는 내용입니다.",
+        "6개월은 거래 정리 기간입니다. 모든 제재가 6개월 뒤에야 시작된다는 의미로 읽으면 안 됩니다. 이번 조치는 재판소의 금융·기술 서비스 이용 등 운영 전반에 영향을 줄 수 있습니다.",
+        "유럽연합은 ICC가 독립적으로 임무를 수행할 수 있도록 지원하겠다고 밝혔고, 외교적 해결과 법적 대응을 함께 검토하고 있습니다. 네덜란드와 벨기에가 제기한 EU 차단규정 적용은 아직 확정된 조치가 아닙니다.",
+        "제재 발표는 나비 필레이의 노벨평화상 수상자 발표 뒤 나왔지만, 수상 결과가 제재의 원인이었다고 단정할 근거는 부족합니다. 전날 저녁의 수상자 소개와 구분해 새로 발표된 제재 범위와 국제사회의 대응을 중심으로 볼 사안입니다."
+      ],
+      "supersededBy": [],
+      "title": "미국, ICC 기관 전체로 제재 확대…유럽은 협상·대응 검토",
+      "uncertainty": "노벨상 발표와 제재 발표의 선후관계는 확인됐지만 보복 동기는 미확인입니다. 6개월은 거래 정리 기간이며 제재 전체 유예가 아닙니다. EU 차단규정 발동도 아직 검토 단계입니다."
+    }
+  ],
+  "id": "us-icc-sanctions",
+  "schemaVersion": 1,
+  "title": "미국의 ICC 제재와 국제사회 대응",
+  "updatedAt": "2026-10-10T08:35:23+09:00"
+}

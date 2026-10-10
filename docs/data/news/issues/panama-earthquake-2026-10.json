@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-10/am.json",
+      "category": "국제·재난",
+      "change": "현지 9일 강진과 초기 교통·전력 영향이 새로 발생했습니다. 8.0·7.6 속보 대신 컷오프 전 수정된 7.7 보도를 적용했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T08:35:23+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "am",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-am",
+      "eventAt": "2026-10-09T12:56:00-05:00",
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "발생 시각은 현지 10월9일 12시56분(파나마 UTC-5), 한국시간 10월10일 02시56분입니다. 기사 발행·수정시각과 구분합니다.",
+      "eventTimezone": "America/Panama",
+      "followUp": null,
+      "id": "2026-10-10-am/panama-earthquake-2026-10-09",
+      "keyFacts": {
+        "airport": "토쿠맨 국제공항 일시 폐쇄",
+        "canal": "한국시간 06:19 보도에서 정상 운영",
+        "casualtyTotal": "미확인",
+        "initialMagnitudeRevisions": "8.0 → 7.6 → 7.7",
+        "localEventTime": "2026-10-09 12:56 America/Panama",
+        "magnitude": "7.7, USGS를 인용한 06:34 수정 보도",
+        "metro": "일시 운행 중단"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-10T03:37:04+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T03:37:04+09:00",
+          "title": "파나마서 규모 7.7 강진…주민 대피·쓰나미 우려",
+          "updatedAt": "2026-10-10T06:34:24+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820392",
+          "verifiedAt": "2026-10-10T08:29:23+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스(파이낸셜뉴스 전재)",
+          "publishedAt": "2026-10-10T05:17:00+09:00",
+          "title": "파나마 남서부서 7.7 강진…수도서 대피소동·공항 폐쇄(종합)",
+          "updatedAt": "2026-10-10T05:17:00+09:00",
+          "url": "https://www.fnnews.com/news/202610100517258719",
+          "verifiedAt": "2026-10-10T08:29:23+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-10T06:19:00+09:00",
+          "title": "파나마서 규모 7.7 강진 발생…공항 일시 폐쇄",
+          "updatedAt": null,
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790800",
+          "verifiedAt": "2026-10-10T08:29:09+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "panama-earthquake-2026-10-09",
+      "summary": [
+        "파나마 남서부에서 현지 9일 낮 12시 56분 규모 7.7의 강진이 발생했습니다. 수도 파나마시티에서도 흔들림이 감지돼 주민들이 대피했습니다. 미국 지질조사국의 초기 규모는 8.0에서 7.6을 거쳐 7.7로 조정됐습니다.",
+        "당국은 안전 점검을 위해 토쿠맨 국제공항을 일시 폐쇄하고 지하철 운행도 멈췄습니다. 한국시간 오전 보도에서는 파나마 운하가 정상 운영 중인 것으로 확인됐습니다. 공항과 운하의 운영 상태를 혼동하지 않아야 합니다.",
+        "현지 중부 지역의 건물 파손과 일부 지역 전력 차질도 보도됐습니다. 피해 조사가 진행 중이므로 인명 피해나 최종 피해 규모는 이번 브리핑에서 확정하지 않습니다.",
+        "지진 직후 일부 태평양 연안에는 쓰나미 가능성 경고가 나왔습니다. 이는 초기 경고 내용이며 오전 8시 30분 현재 모든 지역에 같은 경보가 유지된다는 뜻은 아닙니다. 이후 이동·운항 판단에는 현지 당국과 운영기관의 최신 공지를 확인해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "파나마 규모 7.7 강진…공항·지하철 일시 중단, 운하는 정상",
+      "uncertainty": "규모와 피해는 속보 상황에서 변경될 수 있습니다. 진원 깊이·세부 진앙은 매체 간 차이가 있어 제외했습니다. 초기 쓰나미 경고의 현재 유지 여부와 전체 인명 피해는 미확인입니다."
+    }
+  ],
+  "id": "panama-earthquake-2026-10",
+  "schemaVersion": 1,
+  "title": "2026년 10월 파나마 강진",
+  "updatedAt": "2026-10-10T08:35:23+09:00"
+}

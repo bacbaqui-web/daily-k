@@ -1,6 +1,136 @@
 {
-  "editionCount": 51,
+  "editionCount": 52,
   "issues": [
+    {
+      "categories": [
+        "국제·인권"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T08:35:23+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "us-icc-sanctions",
+      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "노벨평화상 선정 보도 뒤 미국의 ICC 기관 전체 제재와 유럽의 대응이 발표됐습니다. 수상 결과 반복이 아니라 별도 정책 변화입니다.",
+        "editionId": "2026-10-10-am",
+        "stage": "보도",
+        "storyId": "us-icc-institution-sanctions-2026-10-09",
+        "title": "미국, ICC 기관 전체로 제재 확대…유럽은 협상·대응 검토"
+      },
+      "path": "us-icc-sanctions.json",
+      "title": "미국의 ICC 제재와 국제사회 대응"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·반도체"
+      ],
+      "eventCount": 22,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "10월 8일 기술주·반도체 하락 뒤, 9일 정규장 3대 지수 상승 종가가 새로 확정됐습니다. 반도체지수는 하락을 이어갔습니다.",
+        "editionId": "2026-10-10-am",
+        "stage": "후속",
+        "storyId": "us-market-2026-10-09",
+        "title": "나스닥 0.64% 반등…3대 지수 상승에도 반도체는 0.41% 하락"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T08:35:23+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "poptale-webtoon-novel-format",
+      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "영산대가 팝테일을 통한 김재호 교수의 신작 론칭을 알렸고 글·삽화 결합형 포맷이 소개됐습니다. 실제 최초 공개 시각은 미확인입니다.",
+        "editionId": "2026-10-10-am",
+        "stage": "보도",
+        "storyId": "poptale-kim-jaeho-webtoon-novel-launch-2026-10",
+        "title": "웹툰·웹소설 섞은 새 포맷…김재호 신작, ‘팝테일’에 공개"
+      },
+      "path": "poptale-webtoon-novel-format.json",
+      "title": "팝테일 웹툰소설 포맷과 김재호 신작"
+    },
+    {
+      "categories": [
+        "국제·재난"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T08:35:23+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "panama-earthquake-2026-10",
+      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "현지 9일 강진과 초기 교통·전력 영향이 새로 발생했습니다. 8.0·7.6 속보 대신 컷오프 전 수정된 7.7 보도를 적용했습니다.",
+        "editionId": "2026-10-10-am",
+        "stage": "보도",
+        "storyId": "panama-earthquake-2026-10-09",
+        "title": "파나마 규모 7.7 강진…공항·지하철 일시 중단, 운하는 정상"
+      },
+      "path": "panama-earthquake-2026-10.json",
+      "title": "2026년 10월 파나마 강진"
+    },
+    {
+      "categories": [
+        "국제·에너지"
+      ],
+      "eventCount": 16,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "기존 비축유·호르무즈 공급 논의 이후 미국과 러시아가 경유 공급 계획을 발표했고, 미국 재무부의 한시 거래 허가 발표가 뒤따랐습니다.",
+        "editionId": "2026-10-10-am",
+        "stage": "후속",
+        "storyId": "russian-diesel-supply-license-2026-10-09",
+        "title": "미·러 경유 공급 합의 발표…미 재무부, 한시 거래 허가"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "외교·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-10T08:35:23+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "korea-us-intelligence-cooperation",
+      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
+      "lastCoveredDate": "2026-10-10",
+      "latest": {
+        "archive": false,
+        "change": "국정원의 8일 해명 뒤 미국 고위관계자들의 정보·방첩 기준 관련 답변이 9일 현지에서 새로 나왔습니다.",
+        "editionId": "2026-10-10-am",
+        "stage": "보도",
+        "storyId": "korea-us-intelligence-standards-2026-10-09",
+        "title": "미국, 한미 정보 협력 논란에 “정보·방첩 동맹 기준 기대”"
+      },
+      "path": "korea-us-intelligence-cooperation.json",
+      "title": "한미 정보 공유와 보안 협력"
+    },
     {
       "categories": [
         "국제·인권"
@@ -191,30 +321,6 @@
       },
       "path": "us-iran-negotiations.json",
       "title": "미국·이란 협상과 외교적 조치"
-    },
-    {
-      "categories": [
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "eventCount": 21,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
-      "lastCoveredDate": "2026-10-09",
-      "latest": {
-        "archive": false,
-        "change": "미국 현지 8일 새 정규장 종가와 반도체지수 하락률이 확인됐습니다. 7일 마감 이후의 실제 가격 변화입니다.",
-        "editionId": "2026-10-09-am",
-        "stage": "결과",
-        "storyId": "us-market-2026-10-08",
-        "title": "나스닥 1.25% 하락·반도체 3.39%↓…AI 투자 우려 속 뉴욕증시 혼조"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -699,27 +805,6 @@
       },
       "path": "youth-future-savings-second-window-2026.json",
       "title": "2026년 청년미래적금 2차 가입신청"
-    },
-    {
-      "categories": [
-        "국제·에너지"
-      ],
-      "eventCount": 15,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-10-07T12:12:39+09:00",
-      "lastCoveredDate": "2026-10-07",
-      "latest": {
-        "archive": false,
-        "change": "10월 5일 하락 마감 이후 6일 WTI는 89.44달러, 브렌트유는 100.58달러로 강보합 전환했습니다. 장중 하락세가 마감까지 이어지지 않은 새 거래 결과입니다.",
-        "editionId": "2026-10-07-am",
-        "stage": "결과",
-        "storyId": "oil-close-2026-10-06",
-        "title": "브렌트유 100.58달러·WTI 89.44달러…장중 하락 뒤 강보합"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
     },
     {
       "categories": [
@@ -4005,7 +4090,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 396,
+  "storyCount": 402,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-09T20:44:48+09:00"
+  "updatedAt": "2026-10-10T08:35:23+09:00"
 }

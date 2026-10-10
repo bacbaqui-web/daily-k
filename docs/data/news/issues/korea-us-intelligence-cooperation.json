@@ -1,0 +1,72 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-10/am.json",
+      "category": "외교·안보",
+      "change": "국정원의 8일 해명 뒤 미국 고위관계자들의 정보·방첩 기준 관련 답변이 9일 현지에서 새로 나왔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-10T08:35:23+09:00",
+      "coveredOn": "2026-10-10",
+      "edition": "am",
+      "editionDate": "2026-10-10",
+      "editionId": "2026-10-10-am",
+      "eventAt": null,
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "사건 날짜는 2026-10-09(America/New_York)입니다. 정확한 사건 시각은 미확인이며 기사 공개 시각과 구분합니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-10-am/korea-us-intelligence-standards-2026-10-09",
+      "keyFacts": {
+        "nisResponse": "현재 한미 정보당국 간 오해 없다는 입장",
+        "nisResponseDate": "2026-10-08",
+        "sharingStatus": "합참의장 10월8일 일부 제한 인정",
+        "specificIncidentNamed": "아니오",
+        "usComment": "정보·방첩 사안 적절 처리와 동맹 기준 준수 기대",
+        "usCommentDate": "2026-10-09 America/New_York"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-10T03:10:47+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T03:10:47+09:00",
+          "title": "美, 韓 정보·방첩 관리 불신 표출…\"동맹 기준 준수해야\"(종합)",
+          "updatedAt": "2026-10-10T04:48:04+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820389",
+          "verifiedAt": "2026-10-10T08:29:50+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-10T07:39:00+09:00",
+          "title": "\"동맹 기준 지켜라\"...미, '정보 공유 차질' 한국에 경고",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0104_202610100739420861",
+          "verifiedAt": "2026-10-10T08:29:59+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "korea-us-intelligence-standards-2026-10-09",
+      "summary": [
+        "미 행정부 고위 관계자들이 현지 9일 한국과의 정보 협력 논란에 대해 정보·방첩 사안을 적절히 다루고 동맹의 기준을 준수하기를 기대한다고 밝혔습니다. 북한 사이버 위협 대응 한미일 회의에서 국정원이 배제됐다는 보도에 대한 질의 답변입니다.",
+        "뉴시스가 확인한 국무부와 행정부 관계자들은 구체적인 사건이나 위반 기준을 지목하지 않았습니다. 따라서 미국이 특정 한국 인사의 책임이나 새로운 제재를 공식 확정한 것으로 확대해석할 수는 없습니다.",
+        "국정원은 앞서 8일 일부 오해는 수개월 전의 일이며 현재 한미 정보당국 사이에 오해가 없다고 설명했습니다. 외교부 역시 대북 정책 관련 한미 소통을 유지하고 있다고 밝혔습니다. 미국의 이번 답변과 한국 측 설명을 나란히 확인할 필요가 있습니다.",
+        "진영승 합참의장은 8일 국회에서 미국의 대북 정보 공유가 일부 제한되고 있음을 인정했습니다. 이번의 새 변화는 미국 측 관계자의 공개 답변이며, 정보 공유가 전면 중단되거나 완전히 복원됐다는 발표는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "미국, 한미 정보 협력 논란에 “정보·방첩 동맹 기준 기대”",
+      "uncertainty": "관계자는 익명이며 구체적인 기준·사건을 지목하지 않았습니다. 언론의 불신·경고 해석과 당국의 직접 발언을 구분했습니다. 전면 중단·복원 또는 특정 인사의 비자 거부가 새로 확정된 것은 아닙니다."
+    }
+  ],
+  "id": "korea-us-intelligence-cooperation",
+  "schemaVersion": 1,
+  "title": "한미 정보 공유와 보안 협력",
+  "updatedAt": "2026-10-10T08:35:23+09:00"
+}

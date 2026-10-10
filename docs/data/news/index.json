@@ -2,6 +2,16 @@
   "editions": [
     {
       "count": 6,
+      "cutoffAt": "2026-10-10T08:30:00+09:00",
+      "date": "2026-10-10",
+      "edition": "am",
+      "generatedAt": "2026-10-10T08:35:23+09:00",
+      "headline": "나스닥 0.64% 반등…3대 지수 상승에도 반도체는 0.41% 하락",
+      "id": "2026-10-10-am",
+      "path": "2026-10-10/am.json"
+    },
+    {
+      "count": 6,
       "cutoffAt": "2026-10-09T20:30:00+09:00",
       "date": "2026-10-09",
       "edition": "pm",
@@ -548,5 +558,5 @@
   ],
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-09T20:44:48+09:00"
+  "updatedAt": "2026-10-10T08:35:23+09:00"
 }
