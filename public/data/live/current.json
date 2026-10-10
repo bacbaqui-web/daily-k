@@ -64,6 +64,14 @@
         "windowId": "2026-10-10-am"
       }
     },
+    "news-prepare-20261010-pm": {
+      "hash": "ccf3815ab4abdef2037b7ccbb10647bb16424749587d0e9ba10d7d2bc309f4bf",
+      "result": {
+        "operationId": "news-prepare-20261010-pm",
+        "recordedAt": "2026-10-10T20:41:49.791773+09:00",
+        "windowId": "2026-10-10-pm"
+      }
+    },
     "topics-20261009-1315-community-check-v1": {
       "hash": "7903fc12d7243bb4d08f5e75f08daf32b04bc0f26c9e36df4ca6fa7b830cb274",
       "result": {
@@ -907,7 +915,7 @@
     }
   ],
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-10T09:04:04.057950+09:00",
+  "updatedAt": "2026-10-10T20:41:49.791773+09:00",
   "windows": [
     {
       "checks": [
@@ -3712,7 +3720,599 @@
       "checks": [],
       "id": "2026-10-10-pm",
       "items": [],
-      "news": null,
+      "news": {
+        "brief": {
+          "cutoffAt": "2026-10-10T20:30:00+09:00",
+          "date": "2026-10-10",
+          "edition": "pm",
+          "events": [
+            {
+              "at": "2026-10-11T07:30:00+09:00",
+              "date": "2026-10-11",
+              "detail": "서울광장 등에서 열리는 서울달리기가 오전 7시 30분 출발합니다. 남대문로·을지로·청계천로 등은 오전 5시 30분부터 11시 10분 사이 구간별 통제가 예정돼 있어 이동 전에 해당 구간의 통제·해제 시각을 확인할 필요가 있습니다.",
+              "source": {
+                "kind": "official",
+                "language": "ko",
+                "name": "서울특별시",
+                "publishedAt": null,
+                "title": "2026 서울달리기 대회(10.11. 일요일) 관련 교통통제 안내",
+                "url": "https://news.seoul.go.kr/culture/archives/534780?listPage=1",
+                "verifiedAt": "2026-10-10T20:39:27+09:00"
+              },
+              "timeNote": "대회 출발은 07:30이며 교통통제는 05:30~11:10 구간별로 다르게 적용됩니다.",
+              "title": "서울달리기 출발·도심 구간별 교통통제"
+            },
+            {
+              "at": "2026-10-11T09:00:00+09:00",
+              "date": "2026-10-11",
+              "detail": "경찰과 국립과학수사연구원 등이 오전 9시 현장 합동감식을 할 예정입니다. 천장 마감재가 떨어진 원인과 구조물 결함, 안전조치 여부를 확인하는 절차이며 현재 원인이나 책임이 확정된 것은 아닙니다.",
+              "source": {
+                "kind": "wire",
+                "language": "ko",
+                "name": "연합뉴스",
+                "publishedAt": "2026-10-10T16:33:00+09:00",
+                "title": "경찰, 대구 천장 마감재 붕괴 사고 수사 전담팀 편성…33명 규모",
+                "updatedAt": null,
+                "url": "https://www.yna.co.kr/view/AKR20261010036300053",
+                "verifiedAt": "2026-10-10T20:37:58+09:00"
+              },
+              "timeNote": "경찰이 예고한 오전 9시 합동감식이며 실제 진행 여부와 결과는 추후 확인해야 합니다.",
+              "title": "대구 천장 마감재 사고 현장 합동감식 예정"
+            },
+            {
+              "at": null,
+              "date": "2026-10-11",
+              "detail": "11일 오후부터 저녁 사이 내륙에 소나기가 예보됐습니다. 경기 남부·강원 남부·충청은 5~20mm, 전라 동부와 영남 일부는 5~10mm가 예상되며, 중부 내륙은 일교차가 약15도로 커 야외 활동 전 최신 예보를 확인할 필요가 있습니다.",
+              "source": {
+                "kind": "major",
+                "language": "ko",
+                "name": "머니투데이",
+                "publishedAt": "2026-10-10T18:00:00+09:00",
+                "title": "[내일 날씨] 연휴 마지막날, 전국 곳곳 소나기…아침 최저 10도",
+                "url": "https://www.mt.co.kr/index.php/society/2026/10/10/2026101017285779191",
+                "verifiedAt": "2026-10-10T20:36:00+09:00"
+              },
+              "timeNote": "오후부터 저녁 사이 예보이며 지역별 정확한 시작 시각은 확인되지 않았습니다.",
+              "title": "연휴 마지막 날 내륙 소나기·큰 일교차 확인"
+            }
+          ],
+          "generatedAt": "2026-10-10T20:41:04+09:00",
+          "id": "2026-10-10-pm",
+          "intro": "10월 10일 저녁 브리핑입니다. 오후 8시 30분까지 나온 보도와 최근 미수록 웹툰 산업 소식을 확인했습니다.",
+          "keywords": [
+            "대구 천장 사고",
+            "합동감식",
+            "소아청소년과",
+            "전문의 부족",
+            "아르텍스",
+            "금융권 보안",
+            "사우디·후티",
+            "앨리",
+            "전자오락수호대",
+            "웹툰 IP"
+          ],
+          "overview": [
+            "대구 상가 천장 마감재 사고 뒤 경찰이 전담수사팀을 꾸리고 11일 합동감식을 예고했습니다. 소아청소년병원 설문에서는 응답 병원의 74.6%가 전문의 부족을 호소했습니다. 사고 원인과 전국 의료기관 전체의 상황을 이번 보도만으로 단정하지 않았습니다.",
+            "금융권 해킹에 악용된 것으로 지목된 아르텍스는 공개 개발과 업데이트 중단 방침이 알려졌습니다. 이미 배포된 사본의 위험이 사라진 것은 아닙니다. 사우디군이 후티 군사 목표물 136개를 파괴했다고 발표했지만, 이는 당사자의 주장으로 독립 확인된 피해 규모와 구분했습니다.",
+            "문화산업에서는 봉준호 감독의 장편 애니메이션 앨리가 내년 7월 개봉을 예고했습니다. 웹툰 전자오락수호대의 극장 애니메이션 제작·배급 소식은 최근 72시간 미수록 기사로 보충했습니다. 내일은 서울달리기 교통통제와 대구 합동감식, 내륙 소나기 예보를 확인할 만합니다."
+          ],
+          "overviewEmphasis": [
+            "11일 합동감식",
+            "74.6%가 전문의 부족",
+            "공개 개발과 업데이트 중단",
+            "당사자의 주장",
+            "내년 7월",
+            "최근 72시간"
+          ],
+          "schemaVersion": 1,
+          "stories": [
+            {
+              "category": "사회",
+              "emphasis": [
+                "38명이 경상",
+                "33명 규모",
+                "11일 오전 9시"
+              ],
+              "eventAt": "2026-10-10T10:16:00+09:00",
+              "eventTimeNote": "발생일과 기사발행일을 구분했습니다. 정확한 사건 시각은 본문에 명시된 경우에만 사용합니다.",
+              "factsHash": "000f6c4318d6732e9d3c0c6a82eae65c18c1aa81686f0f206b5d6b58c683c7de",
+              "followUp": null,
+              "id": "daegu-ceiling-collapse-2026-10-10",
+              "imageUrl": null,
+              "keyFacts": {
+                "asReportedAt": "2026-10-10T16:33:00+09:00",
+                "evacuated": "66명",
+                "hospitalTransport": "9명",
+                "injured": "38명 경상",
+                "inspectionAt": "2026-10-11T09:00:00+09:00",
+                "investigators": "33명"
+              },
+              "publishedAt": "2026-10-10T16:33:00+09:00",
+              "relatedArticles": [
+                {
+                  "imageUrl": null,
+                  "kind": "wire",
+                  "language": "ko",
+                  "name": "연합뉴스",
+                  "publishedAt": "2026-10-10T16:33:00+09:00",
+                  "title": "경찰, 대구 천장 마감재 붕괴 사고 수사 전담팀 편성…33명 규모",
+                  "updatedAt": null,
+                  "url": "https://www.yna.co.kr/view/AKR20261010036300053",
+                  "verifiedAt": "2026-10-10T20:37:58+09:00"
+                }
+              ],
+              "score": 96.5,
+              "scoreComponents": {
+                "domesticImpact": 95,
+                "importance": 95,
+                "interest": 95,
+                "recency": 100,
+                "reliability": 90
+              },
+              "scoreReason": "편집 점수입니다. 최신 변화, 국내 영향, 독자 관심과 근거 명확성을 평가했습니다. 판매행사장 안전과 구조물 관리가 쟁점이며 내일 합동감식에서 원인을 조사할 예정입니다.",
+              "sources": [
+                {
+                  "imageUrl": null,
+                  "kind": "wire",
+                  "language": "ko",
+                  "name": "연합뉴스",
+                  "publishedAt": "2026-10-10T16:33:00+09:00",
+                  "title": "경찰, 대구 천장 마감재 붕괴 사고 수사 전담팀 편성…33명 규모",
+                  "updatedAt": null,
+                  "url": "https://www.yna.co.kr/view/AKR20261010036300053",
+                  "verifiedAt": "2026-10-10T20:37:58+09:00"
+                }
+              ],
+              "status": "보도",
+              "summary": [
+                "10일 오전 10시 16분 대구 북구 관음동 상가건물 2층에서 천장 마감재가 떨어져 66명이 대피했습니다. 오후 4시 33분 연합뉴스 보도에서는 38명이 경상을 입고 9명이 병원으로 이송된 것으로 집계됐습니다. 건물 전체가 붕괴한 사고와는 구분됩니다.",
+                "대구경찰청은 광역수사대장을 팀장으로 하는 33명 규모의 전담수사팀을 꾸렸습니다. 11일 오전 9시 국립과학수사연구원 등과 현장 합동감식을 진행할 예정입니다.",
+                "초기에는 마트 천장 사고로 알려졌지만, 실제 사고 장소는 영업을 중단한 마트와 같은 건물의 2층 판매행사장이었습니다. 경찰은 구조물 결함과 안전조치 이행 여부를 조사할 방침입니다.",
+                "사고 원인과 책임은 아직 확정되지 않았습니다. 인명 피해 수치는 기사 보도 시점의 집계이며, 향후 감식 결과와 피해 집계의 변화를 확인할 필요가 있습니다."
+              ],
+              "timeline": {
+                "change": "10일 오전 대구 상가 2층에서 천장 마감재가 떨어졌고 경찰은 33명 수사팀과 11일 합동감식 계획을 발표했습니다.",
+                "eventDate": "2026-10-10",
+                "eventEndDate": null,
+                "eventTimezone": "Asia/Seoul",
+                "issueId": "daegu-ceiling-collapse-2026-10",
+                "issueTitle": "대구 상가 천장 마감재 사고",
+                "stage": "보도"
+              },
+              "title": "대구 천장 마감재 사고 38명 경상…경찰, 11일 합동감식 예정",
+              "topicKey": "daegu-ceiling-collapse-2026-10-10",
+              "uncertainty": "사고 원인과 책임은 조사 중입니다. 부상자 수는 16시 33분 기사 시점 집계이며 33명은 수사팀 인원입니다.",
+              "whatChanged": "10일 오전 대구 상가 2층에서 천장 마감재가 떨어졌고 경찰은 33명 수사팀과 11일 합동감식 계획을 발표했습니다.",
+              "whyItMatters": "판매행사장 안전과 구조물 관리가 쟁점이며 내일 합동감식에서 원인을 조사할 예정입니다."
+            },
+            {
+              "category": "사회",
+              "emphasis": [
+                "74.6%",
+                "회원 병원 71곳",
+                "60.6%"
+              ],
+              "eventAt": null,
+              "eventTimeNote": "발생일과 기사발행일을 구분했습니다. 정확한 사건 시각은 본문에 명시된 경우에만 사용합니다.",
+              "factsHash": "50038733c82cf416db2e9d9827706fcf8392f3ed73aa41e0c909a7c9635da7e0",
+              "followUp": null,
+              "id": "pediatric-hospital-workforce-survey-2026-10-10",
+              "imageUrl": null,
+              "keyFacts": {
+                "scope": "협회 회원 병원 설문, 전국 전수조사 아님",
+                "serviceReductionExperience": "60.6%, 최근 3년 내 경험",
+                "specialistShortageHospitals": "53곳",
+                "specialistShortageRate": "74.6%",
+                "surveyPeriod": "2026-09-29~2026-10-04",
+                "surveyRespondents": "회원 병원 71곳"
+              },
+              "publishedAt": "2026-10-10T17:12:00+09:00",
+              "relatedArticles": [
+                {
+                  "imageUrl": null,
+                  "kind": "wire",
+                  "language": "ko",
+                  "name": "연합뉴스·파이낸셜뉴스",
+                  "publishedAt": "2026-10-10T17:12:00+09:00",
+                  "title": "\"소청과병원 75%가 전문의 부족…압수수색으로 기피 강화 우려\"",
+                  "updatedAt": "2026-10-10T17:12:00+09:00",
+                  "url": "https://www.fnnews.com/news/202610101712442348",
+                  "verifiedAt": "2026-10-10T20:38:37+09:00"
+                }
+              ],
+              "score": 93.5,
+              "scoreComponents": {
+                "domesticImpact": 89,
+                "importance": 89,
+                "interest": 89,
+                "recency": 100,
+                "reliability": 90
+              },
+              "scoreReason": "편집 점수입니다. 최신 변화, 국내 영향, 독자 관심과 근거 명확성을 평가했습니다. 소아 야간·휴일·입원 진료 공급의 취약성을 보여주는 회원 병원 표본 조사입니다.",
+              "sources": [
+                {
+                  "imageUrl": null,
+                  "kind": "wire",
+                  "language": "ko",
+                  "name": "연합뉴스·파이낸셜뉴스",
+                  "publishedAt": "2026-10-10T17:12:00+09:00",
+                  "title": "\"소청과병원 75%가 전문의 부족…압수수색으로 기피 강화 우려\"",
+                  "updatedAt": "2026-10-10T17:12:00+09:00",
+                  "url": "https://www.fnnews.com/news/202610101712442348",
+                  "verifiedAt": "2026-10-10T20:38:37+09:00"
+                }
+              ],
+              "status": "보도",
+              "summary": [
+                "대한소아청소년병원협회가 회원 병원 71곳을 조사한 결과, 53곳인 74.6%가 진료 유지에 필요한 소아청소년과 전문의가 부족하다고 답했습니다. 조사는 9월29일부터 10월4일까지 진행됐고 결과는 10일 공개됐습니다.",
+                "전문의가 부족한 병원들은 지원자가 없거나 야간·휴일·입원 근무를 기피하는 점 등을 채용의 어려움으로 꼽았습니다. 이는 협회 회원 병원들의 응답이며 전국 모든 소아과 의원을 조사한 결과는 아닙니다.",
+                "응답 병원의 60.6%는 최근 3년 사이 인력 부족으로 진료를 줄이거나 중단한 경험이 있다고 밝혔습니다. 전문의 부족이 단순한 채용 공고를 넘어 실제 진료 공급과 연결될 수 있음을 보여줍니다.",
+                "경찰의 소아 응급실 압수수색이 전공 기피를 심화할 것이라는 주장은 협회의 우려입니다. 이번 설문만으로 그 인과관계나 개별 병원의 향후 폐쇄를 확정할 수는 없습니다."
+              ],
+              "timeline": {
+                "change": "협회가 회원 병원 71곳의 의료인력 조사 결과를 공개해 전문의 부족과 진료 축소 경험을 수치로 제시했습니다.",
+                "eventDate": "2026-10-10",
+                "eventEndDate": null,
+                "eventTimezone": "Asia/Seoul",
+                "issueId": "pediatric-hospital-workforce-2026",
+                "issueTitle": "소아청소년병원 의료인력 부족",
+                "stage": "발표"
+              },
+              "title": "소아청소년병원71곳 조사…74.6% 전문의 부족,60.6% 진료 축소·중단 경험",
+              "topicKey": "pediatric-hospital-workforce-survey-2026-10-10",
+              "uncertainty": "협회 회원 병원 71곳의 응답으로 전국 모든 소아과를 대표하는 전수통계가 아닙니다. 압수수색과 인력 부족의 인과관계는 이번 설문으로 입증되지 않았습니다.",
+              "whatChanged": "협회가 회원 병원 71곳의 의료인력 조사 결과를 공개해 전문의 부족과 진료 축소 경험을 수치로 제시했습니다.",
+              "whyItMatters": "소아 야간·휴일·입원 진료 공급의 취약성을 보여주는 회원 병원 표본 조사입니다."
+            },
+            {
+              "category": "국제",
+              "emphasis": [
+                "군사 목표물 136개",
+                "사우디군의 발표"
+              ],
+              "eventAt": null,
+              "eventTimeNote": "발생일과 기사발행일을 구분했습니다. 정확한 사건 시각은 본문에 명시된 경우에만 사용합니다.",
+              "factsHash": "d5c23fcbe2ab8906c18cf102f0004acd8367c96f5c6408f67c40a27a2e94837e",
+              "followUp": {
+                "delta": "앞서 사우디 공항 피격이 보도된 뒤 사우디군이 10일 후티를 겨냥한 대규모 공습과 목표물 파괴를 발표했습니다.",
+                "editionId": "2026-10-08-am",
+                "storyId": "saudi-airport-casualties-2026-10-07"
+              },
+              "id": "saudi-houthi-airstrikes-2026-10-10",
+              "imageUrl": null,
+              "keyFacts": {
+                "destroyedTargetsClaim": "136개, 사우디군 발표",
+                "houthiMediaReport": "알마시라TV가 사다주 미사일 공격 보도",
+                "independentDamageAssessment": "미확인",
+                "saudiAnnouncementDate": "2026-10-10 현지"
+              },
+              "publishedAt": "2026-10-10T16:46:00+09:00",
+              "relatedArticles": [
+                {
+                  "imageUrl": null,
+                  "kind": "major",
+                  "language": "ko",
+                  "name": "머니투데이",
+                  "publishedAt": "2026-10-10T16:46:00+09:00",
+                  "title": "사우디, 예멘 후티 반군에 공습…\"군사 목표물 136개 파괴\"",
+                  "updatedAt": null,
+                  "url": "https://www.mt.co.kr/world/2026/10/10/2026101016284475387",
+                  "verifiedAt": "2026-10-10T20:35:05+09:00"
+                }
+              ],
+              "score": 92.0,
+              "scoreComponents": {
+                "domesticImpact": 86,
+                "importance": 86,
+                "interest": 86,
+                "recency": 100,
+                "reliability": 90
+              },
+              "scoreReason": "편집 점수입니다. 최신 변화, 국내 영향, 독자 관심과 근거 명확성을 평가했습니다. 사우디와 후티의 공방 확대는 지역 민간시설과 항공·행사의 안전 우려로 이어집니다.",
+              "sources": [
+                {
+                  "imageUrl": null,
+                  "kind": "major",
+                  "language": "ko",
+                  "name": "머니투데이",
+                  "publishedAt": "2026-10-10T16:46:00+09:00",
+                  "title": "사우디, 예멘 후티 반군에 공습…\"군사 목표물 136개 파괴\"",
+                  "updatedAt": null,
+                  "url": "https://www.mt.co.kr/world/2026/10/10/2026101016284475387",
+                  "verifiedAt": "2026-10-10T20:35:05+09:00"
+                }
+              ],
+              "status": "보도",
+              "summary": [
+                "사우디아라비아군은 10일 현지시간 예멘 후티 반군을 겨냥한 대규모 작전으로 군사 목표물 136개를 파괴했다고 발표했습니다. 이 숫자는 사우디군의 발표이며 독립적으로 확인된 피해 집계는 아닙니다.",
+                "후티 측이 운영하는 알마시라TV도 예멘 북서부 사다주 여러 지역에 사우디의 미사일 공격이 있었다고 보도했습니다. 양측 보도는 공격 사실을 설명하지만 피해 규모와 군사적 효과까지 동일하게 확인하는 것은 아닙니다.",
+                "6~7일 사우디 공항 피격으로 3명이 사망했다는 발표와 8일 추가 공격 이후, 이번에는 사우디군이 확대된 공습을 발표한 것입니다. 앞선 브리핑 이후 실제 군사행동의 변화로 다룹니다.",
+                "리야드 항공편과 국제행사 참석에도 안전 우려가 커지고 있다는 보도가 나왔습니다. 당사자의 전과 주장을 확정 사실로 확대하지 않으며 추가 민간 피해나 휴전 여부는 별도 확인이 필요합니다."
+              ],
+              "timeline": {
+                "change": "앞서 사우디 공항 피격이 보도된 뒤 사우디군이 10일 후티를 겨냥한 대규모 공습과 목표물 파괴를 발표했습니다.",
+                "eventDate": "2026-10-10",
+                "eventEndDate": null,
+                "eventTimezone": "Asia/Riyadh",
+                "issueId": "yemen-saudi-airport-conflict",
+                "issueTitle": "예멘·사우디 교전과 민간공항 피해",
+                "stage": "후속"
+              },
+              "title": "사우디군,후티 군사목표136개 파괴 주장…공항 공격 이후 공방 확대",
+              "topicKey": "saudi-houthi-airstrikes-2026-10-10",
+              "uncertainty": "군사 목표물 136개 파괴는 사우디군의 주장입니다. 독립 검증된 피해 집계가 아니며 민간 피해 규모와 향후 확전 여부도 확정할 수 없습니다.",
+              "whatChanged": "앞서 사우디 공항 피격이 보도된 뒤 사우디군이 10일 후티를 겨냥한 대규모 공습과 목표물 파괴를 발표했습니다.",
+              "whyItMatters": "사우디와 후티의 공방 확대는 지역 민간시설과 항공·행사의 안전 우려로 이어집니다."
+            },
+            {
+              "category": "문화",
+              "emphasis": [
+                "2027년 7월",
+                "7월14일",
+                "12개국 제작진"
+              ],
+              "eventAt": null,
+              "eventTimeNote": "현재 확인한 것은 2026-10-10 기사 공개 시각입니다. 제작·배급사의 정확한 최초 발표일과 시각은 확인되지 않아 사건 날짜를 따로 기입하지 않았습니다. 프랑스 개봉은2027-07-14, 한국은2027-07 예정입니다.",
+              "factsHash": "e8c3f9932060704010b379f1a96e089512484dbf85d9ef395af3ad56430a7242",
+              "followUp": null,
+              "id": "bong-ally-animation-release-2026-10-10",
+              "imageUrl": null,
+              "keyFacts": {
+                "director": "봉준호",
+                "format": "첫 장편 애니메이션",
+                "francePlannedRelease": "2027-07-14",
+                "koreaPlannedRelease": "2027-07, 일자 미확인",
+                "productionCountries": "12개국"
+              },
+              "publishedAt": "2026-10-10T13:06:54+09:00",
+              "relatedArticles": [
+                {
+                  "imageUrl": null,
+                  "kind": "major",
+                  "language": "ko",
+                  "name": "이데일리",
+                  "publishedAt": "2026-10-10T13:06:54+09:00",
+                  "title": "봉준호 첫 장편 애니 ‘앨리’, 내년 7월 극장가 출격",
+                  "updatedAt": null,
+                  "url": "https://m.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01895846645611608",
+                  "verifiedAt": "2026-10-10T20:35:55+09:00"
+                }
+              ],
+              "score": 88.0,
+              "scoreComponents": {
+                "domesticImpact": 78,
+                "importance": 78,
+                "interest": 78,
+                "recency": 100,
+                "reliability": 90
+              },
+              "scoreReason": "편집 점수입니다. 최신 변화, 국내 영향, 독자 관심과 근거 명확성을 평가했습니다. 한국 창작 콘텐츠의 다국적 제작과 해외 배급 협업을 보여주는 인접 문화산업 소식입니다.",
+              "sources": [
+                {
+                  "imageUrl": null,
+                  "kind": "major",
+                  "language": "ko",
+                  "name": "이데일리",
+                  "publishedAt": "2026-10-10T13:06:54+09:00",
+                  "title": "봉준호 첫 장편 애니 ‘앨리’, 내년 7월 극장가 출격",
+                  "updatedAt": null,
+                  "url": "https://m.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01895846645611608",
+                  "verifiedAt": "2026-10-10T20:35:55+09:00"
+                }
+              ],
+              "status": "보도",
+              "summary": [
+                "봉준호 감독의 첫 장편 애니메이션 앨리가 2027년 7월 극장에서 공개될 예정입니다. 프랑스 개봉일은 7월14일로 안내됐고 한국 개봉도 같은 달로 예고됐습니다.",
+                "보도에 따르면 이번 작품에는 12개국 제작진이 참여했습니다. 제작 단계에서 여러 나라의 인력과 배급망을 결합한 프로젝트라는 점이 특징입니다.",
+                "실사 영화로 알려진 감독이 장편 애니메이션으로 제작 영역을 넓히는 사례입니다. 한국 창작 콘텐츠의 해외 제작·배급 협업이 어떤 형태로 진행되는지 보여주는 문화산업 소식입니다.",
+                "한국의 정확한 개봉 날짜와 흥행 결과는 아직 확인할 수 없습니다. 프랑스의 7월 14일 일정을 한국 개봉일로 옮겨 적지 않으며, 발표된 계획과 실제 개봉 성과를 구분해야 합니다."
+              ],
+              "timeline": {
+                "change": "봉준호의 첫 장편 애니메이션에 대해 프랑스 2027년 7월14일과 한국 같은 해 7월 개봉 계획이 보도됐습니다.",
+                "eventDate": null,
+                "eventEndDate": null,
+                "eventTimezone": null,
+                "issueId": "bong-ally-animation-release",
+                "issueTitle": "봉준호 애니메이션 앨리 개봉",
+                "stage": "보도"
+              },
+              "title": "봉준호 첫 장편 애니 앨리,2027년7월 개봉 예고…프랑스는7월14일",
+              "topicKey": "bong-ally-animation-release-2026-10-10",
+              "uncertainty": "한국의 정확한 개봉 날짜와 흥행 성과는 미정입니다. 웹툰 원작이나 웹툰 산업 기사로 대체 분류하지 않습니다.",
+              "whatChanged": "봉준호의 첫 장편 애니메이션에 대해 프랑스 2027년 7월14일과 한국 같은 해 7월 개봉 계획이 보도됐습니다.",
+              "whyItMatters": "한국 창작 콘텐츠의 다국적 제작과 해외 배급 협업을 보여주는 인접 문화산업 소식입니다."
+            },
+            {
+              "category": "IT·과학",
+              "emphasis": [
+                "공개 개발을 중단",
+                "이미 배포된 사본은 회수할 수 없습니다"
+              ],
+              "eventAt": null,
+              "eventTimeNote": "한국어 기사는 개발자 게시물을 10월 8일이라고 전하지만 게시물 날짜의 기준 시간대와 정확한 시각은 확인되지 않았습니다. 10월 10일은 한국어 보도일이며 개발자 행동 시각으로 대신하지 않습니다.",
+              "factsHash": "dab5aa6ba9b793adbc63f50a8b6412d5aeca14473e1b33f824bdcf46e9649b2e",
+              "followUp": {
+                "delta": "9일 회차 이후 새로 확인한 10일 보도는 개발자가 8일 발표한 공개 개발·업데이트 중단 방침입니다. 행동 날짜와 보도 확인 시점을 구분합니다.",
+                "editionId": "2026-10-09-pm",
+                "storyId": "bank-hacking-investigation-expanded-2026-10-09"
+              },
+              "id": "artex-public-development-stop-2026-10-10",
+              "imageUrl": null,
+              "keyFacts": {
+                "developerPostDateAsReported": "10월 8일, 기준 시간대 미확인",
+                "existingCopies": "이미 배포된 사본은 회수 불가",
+                "futureVersions": "추가 버전 공개·유지 지원 중단",
+                "koreanReportDate": "2026-10-10",
+                "publicDevelopment": "공개 개발·업데이트 중단 방침"
+              },
+              "publishedAt": "2026-10-10T10:59:00+09:00",
+              "relatedArticles": [
+                {
+                  "imageUrl": null,
+                  "kind": "wire",
+                  "language": "ko",
+                  "name": "연합뉴스·파이낸셜뉴스",
+                  "publishedAt": "2026-10-10T10:59:00+09:00",
+                  "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+                  "updatedAt": "2026-10-10T12:24:00+09:00",
+                  "url": "https://www.fnnews.com/news/202610101059400018",
+                  "verifiedAt": "2026-10-10T20:38:47+09:00"
+                }
+              ],
+              "score": 87.0,
+              "scoreComponents": {
+                "domesticImpact": 88,
+                "importance": 88,
+                "interest": 88,
+                "recency": 85,
+                "reliability": 90
+              },
+              "scoreReason": "편집 점수입니다. 최신 변화, 국내 영향, 독자 관심과 근거 명확성을 평가했습니다. 도구 공개 중단만으로 기존 배포본의 악용을 막을 수 없어 금융기관 보안 대응은 계속 필요합니다.",
+              "sources": [
+                {
+                  "imageUrl": null,
+                  "kind": "wire",
+                  "language": "ko",
+                  "name": "연합뉴스·파이낸셜뉴스",
+                  "publishedAt": "2026-10-10T10:59:00+09:00",
+                  "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+                  "updatedAt": "2026-10-10T12:24:00+09:00",
+                  "url": "https://www.fnnews.com/news/202610101059400018",
+                  "verifiedAt": "2026-10-10T20:38:47+09:00"
+                }
+              ],
+              "status": "보도",
+              "summary": [
+                "한국 금융기관을 겨냥한 해킹에 활용된 것으로 지목된 AI 침투테스트 도구 아르텍스가 공개 개발을 중단합니다. 개발자는 8일 게시물에서 악용 우려를 들어 업데이트 중단과 비공개 소스 전환 방침을 밝혔고, 이 내용이 10일 국내에 보도됐습니다.",
+                "추가 버전 공개와 유지 지원도 중단하며, 깃허브의 관련 페이지가 사라졌다는 외신 보도가 나왔습니다. 원래 보안 취약점을 점검하는 용도로 개발됐지만 공격에 악용된 것이 중단 이유로 제시됐습니다.",
+                "다만 이미 배포된 사본은 회수할 수 없습니다. 개발자의 공개 중단과 금융기관 보안 위협의 해소는 같은 의미가 아니므로, 이번 조치를 해킹 사태의 종결로 받아들여서는 안 됩니다.",
+                "9일 브리핑 이후 새로 확인한 내용은, 개발자가 8일 발표한 공개 개발 중단 방침에 관한 10일 보도입니다. 개발자 조치가 9일 수사 확대 때문에 이뤄졌다고 단정하지 않습니다. 도구 사용 여부는 보안업체 분석으로 전하며 공격자의 신원이나 국적에 관한 미확정 추정은 싣지 않았습니다."
+              ],
+              "timeline": {
+                "change": "9일 회차 이후 새로 확인한 10일 보도는 개발자가 8일 발표한 공개 개발·업데이트 중단 방침입니다. 행동 날짜와 보도 확인 시점을 구분합니다.",
+                "eventDate": null,
+                "eventEndDate": null,
+                "eventTimezone": null,
+                "issueId": "korea-bank-cyber-incidents-2026-10",
+                "issueTitle": "2026년 10월 은행권 정보유출과 공동 보안 대응",
+                "stage": "후속"
+              },
+              "title": "금융권 해킹에 악용된 아르텍스 공개 개발 중단…기존 배포본 위험은 남아",
+              "topicKey": "artex-public-development-stop-2026-10-10",
+              "uncertainty": "도구의 공격 활용은 보안업체 분석입니다. 개발 중단으로 이미 배포된 사본까지 회수되거나 해킹 위험이 사라지는 것은 아닙니다.",
+              "whatChanged": "9일 회차 이후 새로 확인한 10일 보도는 개발자가 8일 발표한 공개 개발·업데이트 중단 방침입니다. 행동 날짜와 보도 확인 시점을 구분합니다.",
+              "whyItMatters": "도구 공개 중단만으로 기존 배포본의 악용을 막을 수 없어 금융기관 보안 대응은 계속 필요합니다."
+            },
+            {
+              "category": "웹툰 산업",
+              "emphasis": [
+                "10월 14일 개봉할 예정",
+                "10월 7일",
+                "첫 극장용 애니메이션"
+              ],
+              "eventAt": null,
+              "eventTimeNote": "특별시사회는 2026년 10월 7일 열렸고 이를 전한 보도는 10월 8일입니다. 행사 시작 시각은 기사에 없어 eventAt은 null입니다. 10월 14일 전국 개봉은 미래 예정이며 이번 회차의 사건 발생일로 앞당기지 않습니다.",
+              "factsHash": "1038fb0f881aa21d53112b73965573a020358b18cf02af5ff82cc4c67d9865db",
+              "fallbackNote": "최근 24시간 내 미중복 웹툰 산업 기사가 제한적이어서 최근 72시간 안의 10월 8일 보도에서 웹툰 원작 애니메이션의 제작·유통 소식을 보충 선정했습니다. 전체 과거 회차와 이슈에서 같은 작품·원문이 사용되지 않았음을 확인했으며 7일 행사와 14일 개봉 예정은 구분했습니다.",
+              "id": "electronic-arcade-guardians-suncheon-film-2026-10",
+              "imageUrl": null,
+              "keyFacts": {
+                "commercialPerformance": "개봉 전, 실적 미확인",
+                "distributors": "로커스 · CJ CGV",
+                "originalCreator": "가스파드",
+                "plannedReleaseDate": "2026-10-14",
+                "producer": "로커스",
+                "reportDate": "2026-10-08",
+                "screeningAttendees": "약 200명, 보도에 인용된 발표 수치",
+                "screeningDate": "2026-10-07",
+                "work": "전자오락수호대"
+              },
+              "publishedAt": "2026-10-08T15:35:00+09:00",
+              "relatedArticles": [
+                {
+                  "imageUrl": null,
+                  "kind": "major",
+                  "language": "ko",
+                  "name": "브릿지경제",
+                  "publishedAt": "2026-10-08T15:35:00+09:00",
+                  "title": "순천서 만든 애니메이션, 전국 극장 정조준…‘전자오락수호대’ 오는 14일 개봉",
+                  "updatedAt": "2026-10-08T15:35:00+09:00",
+                  "url": "https://www.viva100.com/article/20261008500671",
+                  "verifiedAt": "2026-10-10T20:35:16+09:00"
+                },
+                {
+                  "imageUrl": null,
+                  "kind": "specialist",
+                  "language": "ko",
+                  "name": "아이러브캐릭터",
+                  "publishedAt": null,
+                  "title": "[10월의 뉴 극장판 애니메이션] 전자오락수호대, 플레이어에게 절대로 들키지 말 것",
+                  "updatedAt": null,
+                  "url": "https://m.ilovecharacter.com/news/amp.html?ncode=1065575527035829",
+                  "verifiedAt": "2026-10-10T20:35:16+09:00"
+                }
+              ],
+              "score": 53.2,
+              "scoreComponents": {
+                "domesticImpact": 70,
+                "importance": 58,
+                "interest": 86,
+                "recency": 25,
+                "reliability": 88
+              },
+              "scoreReason": "웹툰 IP 영상화·지역 제작 거점과 배급 연결을 확인한 미수록 산업 소식입니다. 경제지와 전문지 원문을 대조했지만 개봉 전이며 현재 보도 시의성은 72시간 보충 수준이어서 점수를 제한했습니다.",
+              "sources": [
+                {
+                  "imageUrl": null,
+                  "kind": "major",
+                  "language": "ko",
+                  "name": "브릿지경제",
+                  "publishedAt": "2026-10-08T15:35:00+09:00",
+                  "title": "순천서 만든 애니메이션, 전국 극장 정조준…‘전자오락수호대’ 오는 14일 개봉",
+                  "updatedAt": "2026-10-08T15:35:00+09:00",
+                  "url": "https://www.viva100.com/article/20261008500671",
+                  "verifiedAt": "2026-10-10T20:35:16+09:00"
+                },
+                {
+                  "imageUrl": null,
+                  "kind": "specialist",
+                  "language": "ko",
+                  "name": "아이러브캐릭터",
+                  "publishedAt": null,
+                  "title": "[10월의 뉴 극장판 애니메이션] 전자오락수호대, 플레이어에게 절대로 들키지 말 것",
+                  "updatedAt": null,
+                  "url": "https://m.ilovecharacter.com/news/amp.html?ncode=1065575527035829",
+                  "verifiedAt": "2026-10-10T20:35:16+09:00"
+                }
+              ],
+              "status": "보도",
+              "summary": [
+                "가스파드의 웹툰 ‘전자오락수호대’를 바탕으로 만든 극장용 애니메이션이 10월 14일 개봉할 예정입니다. 로커스가 제작하고 로커스와 CJ CGV가 배급합니다. 게임을 움직이는 비밀요원들의 이야기가 웹툰에서 영화 유통으로 확장되는 사례입니다.",
+                "순천시는 개봉에 앞서 10월 7일 CGV 순천신대에서 특별시사회를 열었습니다. 원작 팬과 대학생, 예비 창작자, 시민 등 약 200명이 참석했다고 8일 보도됐습니다.",
+                "브릿지경제는 올해 순천으로 이전한 로커스가 그곳에서 제작한 첫 극장용 애니메이션이라고 전했습니다. 영상에는 8비트 픽셀과 3D 표현이 함께 쓰이며 순천만국가정원과 지역 캐릭터도 등장합니다. 기업 유치가 실제 작품 제작과 극장 배급으로 이어진 점이 산업적 의미입니다.",
+                "순천시는 창작 인력 양성, 제작 투자와 유통, 해외 진출 지원을 이어가겠다는 계획을 밝혔습니다. 다만 아직 정식 개봉 전이어서 관객 수나 수익 성과를 평가할 단계는 아닙니다. 제작비와 배급 계약의 세부 조건도 이번 기사들에는 공개되지 않았습니다."
+              ],
+              "timeline": {
+                "change": "7일 순천 특별시사회가 열렸고 8일 보도로 14일 전국 개봉 계획과 제작·유통 구조를 확인했습니다.",
+                "eventDate": "2026-10-07",
+                "eventEndDate": null,
+                "eventTimezone": "Asia/Seoul",
+                "issueId": "electronic-arcade-guardians-film",
+                "issueTitle": "전자오락수호대 웹툰의 극장 애니메이션 확장",
+                "stage": "보도"
+              },
+              "title": "웹툰 ‘전자오락수호대’ 극장으로…순천 제작 애니메이션 14일 개봉 예정",
+              "topicKey": "electronic-arcade-guardians-suncheon-film-2026",
+              "uncertainty": "개봉은 예정이며 흥행·제작비·배급 조건은 미확인입니다. 브릿지경제의 지역 산업 성과 설명은 순천시 발표 기반이며 독립적인 수익성 검증은 아닙니다.",
+              "whatChanged": "전체 발행 이력에 없던 웹툰 원작 애니메이션의 순천 제작 완료·7일 특별시사회와 14일 전국 개봉 계획을 확인했습니다.",
+              "whyItMatters": "웹툰 IP가 극장용 애니메이션으로 옮겨가고 지역 제작 거점·인력·유통과 연결되는 사례입니다."
+            }
+          ],
+          "timezone": "Asia/Seoul"
+        },
+        "recordedAt": "2026-10-10T20:41:49.791773+09:00",
+        "revision": 1
+      },
       "opensAt": "2026-10-10T09:00:00+09:00",
       "scheduledFor": "2026-10-10T21:00:00+09:00"
     }
