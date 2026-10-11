@@ -3,7 +3,6 @@ import argparse,datetime as dt,fcntl,ipaddress,json,re,subprocess,unicodedata
 from pathlib import Path
 from urllib.parse import urlsplit
 ROOT=Path(__file__).resolve().parents[2]
-EARLY_CUTOFF_START='2026-10-07'
 ACTIVE_CATEGORIES=('화제','유머','정보','생활','문화','스포츠')
 MIN_HUMOR_K_COUNT=11
 def has_retired_tag(title):
@@ -37,9 +36,7 @@ def validate(v):
  cutoff=stamp(v['cutoffAt'])
  assert cutoff.date().isoformat()==v['date'] and cutoff.utcoffset()==dt.timedelta(hours=9)
  scheduled=stamp(v['date']+('T09:00:00+09:00' if v['edition']=='am' else 'T21:00:00+09:00'))
- early=v['date']>=EARLY_CUTOFF_START
- expected_cutoff=scheduled-dt.timedelta(minutes=30) if early else scheduled
- if early or not v.get('test',False):assert cutoff==expected_cutoff,'cutoff must match the edition source cutoff'
+ assert cutoff==scheduled,'cutoff must match the scheduled edition time'
  assert stamp(v['generatedAt'])>=cutoff
  assert isinstance(v['overview'],list) and (0 if v['schemaVersion']==2 else 1)<=len(v['overview'])<=4 and all(isinstance(p,str) and p.strip() for p in v['overview'])
  assert 3<=len(v['stories'])<=20,'3..20 verified stories required'
@@ -81,7 +78,9 @@ def validate(v):
   for l in s['sources']:
    url(l['url']);assert l['name'].strip() and l['title'].strip()
    assert stamp(l['verifiedAt'])<=stamp(v['generatedAt'])
-   assert l['publishedAt'] is None or cutoff-dt.timedelta(hours=24)<=stamp(l['publishedAt'])<=cutoff
+   if l['publishedAt'] is not None:
+    age=cutoff-stamp(l['publishedAt'])
+    assert dt.timedelta(hours=12)<=age<=dt.timedelta(hours=24),'community post must be 12..24 hours old at cutoff'
    if l.get('imageUrl'):url(l['imageUrl'])
  return v
 
