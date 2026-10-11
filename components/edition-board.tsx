@@ -58,7 +58,7 @@ export function EditionBoard({channel,search,onNavigate}:{channel:Channel;search
  },[loaded,state,needsLookup,item,channel,lookupKey,retry]);
  const selection=needsLookup&&lookup?.key===lookupKey&&lookup.selection?lookup.selection:requestedEdition(query,now,state,entries,channel);
  const id=editionId(selection),current=channel==='news'?latestNewsEdition(now,entries):currentEdition(now);
- const source=editionSource(selection,now,state,entries,query.get('view')==='archive'||query.get('archive')==='1',channel);
+ const source=editionSource(selection,now,state,entries,channel==='humor'||query.get('view')==='archive'||query.get('archive')==='1',channel);
  const ref=source.kind==='snapshot'?source.ref:null;
  useEffect(()=>{
   setSnapshotError('');if(!ref){setSnapshot(null);return}
