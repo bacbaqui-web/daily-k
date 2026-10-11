@@ -56,7 +56,8 @@ export function EditionBoard({channel,search,onNavigate}:{channel:Channel;search
   }catch{if(!controller.signal.aborted)setLookup({key:lookupKey,selection:null,error:'공유한 항목의 보관 회차를 확인하지 못했습니다.'})}})();
   return()=>controller.abort();
  },[loaded,state,needsLookup,item,channel,lookupKey,retry]);
- const selection=needsLookup&&lookup?.key===lookupKey&&lookup.selection?lookup.selection:requestedEdition(query,now,state,entries,channel);
+ const hasExplicitSelection=validDate(query.get('date'))||!!parseEdition(query.get('record'))||!!query.get('item')||query.get('view')==='archive'||query.get('archive')==='1'||query.get('view')==='records';
+ const selection=needsLookup&&lookup?.key===lookupKey&&lookup.selection?lookup.selection:channel==='humor'&&!hasExplicitSelection&&entries.length?{date:entries[0].date,edition:entries[0].edition}:requestedEdition(query,now,state,entries,channel);
  const id=editionId(selection),current=channel==='news'?latestNewsEdition(now,entries):currentEdition(now);
  const source=editionSource(selection,now,state,entries,channel==='humor'||query.get('view')==='archive'||query.get('archive')==='1',channel);
  const ref=source.kind==='snapshot'?source.ref:null;
