@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-11/pm.json",
+      "category": "국제",
+      "change": "교황이 폐 결절 제거 수술 계획을 공개했지만 날짜와 구체적인 진단은 아직 공개하지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T21:07:48+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "pm",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "교황은 며칠 안에 수술한다고 밝혔지만 날짜와 시각, 구체적인 진단은 공개하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-11-pm/pope-leo-xiv-lung-nodule-surgery-plan-2026-10-11",
+      "keyFacts": {
+        "announcementDate": "2026-10-11",
+        "diagnosis": "미공개; 발표만으로 암 여부 판단 불가",
+        "finding": "최근 건강검진에서 폐 결절 발견",
+        "patient": "교황 레오 14세, 71세",
+        "plannedProcedure": "며칠 안에 결절 제거 수술 예정",
+        "plannedSouthAmericaVisit": "2026-11-06~17 예정, 수술로 인한 변경 여부 미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-11T19:49:37+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/10/11/NISI20261011_0021481475_web.jpg",
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T19:49:37+09:00",
+          "title": "레오 교황, 폐 결절 발견되어 곧 제거 수술 예정",
+          "updatedAt": "2026-10-11T19:56:23+09:00",
+          "url": "https://nwww.newsis.com/view/NISX20261011_0003821167",
+          "verifiedAt": "2026-10-11T21:07:48+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "pope-leo-xiv-lung-nodule-surgery-plan-2026-10-11",
+      "summary": [
+        "레오 14세 교황이 11일 주일 정오기도 뒤, 최근 건강검진에서 발견된 폐 결절 한 곳을 며칠 안에 제거할 예정이라고 밝혔습니다. 뉴시스는 AP 통신을 인용해 결절이 초기 단계에서 발견됐다고 전했습니다.",
+        "발표에는 수술 날짜나 구체적인 크기·검사 결과가 포함되지 않았습니다. 기사에서 설명하듯 폐 결절은 영상 검사에서 보이는 소견을 가리키는 말로, 그 자체가 특정 질환이나 암 진단을 뜻하지 않습니다.",
+        "교황은 11월 6일부터 17일까지 우루과이·아르헨티나·페루를 방문할 계획이었습니다. 이번 수술 계획이 순방 일정에 변화를 줄지는 아직 발표되지 않아, 교황청의 후속 공지와 수술 결과가 다음 확인 지점입니다."
+      ],
+      "supersededBy": [],
+      "title": "레오 14세 교황, 폐 결절 제거 수술 예정…구체적 진단은 미공개",
+      "uncertainty": "폐 결절은 영상 검사에서 발견되는 소견이며 이번 발표만으로 암이나 다른 진단을 확정할 수 없습니다. 수술 날짜와 상태 세부 정보도 미공개입니다."
+    }
+  ],
+  "id": "pope-leo-xiv-lung-nodule-surgery",
+  "schemaVersion": 1,
+  "title": "레오 14세 교황의 폐 결절 수술 계획",
+  "updatedAt": "2026-10-11T21:07:48+09:00"
+}

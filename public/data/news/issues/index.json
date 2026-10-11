@@ -1,6 +1,112 @@
 {
-  "editionCount": 54,
+  "editionCount": 55,
   "issues": [
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "firstCoveredDate": "2026-10-08",
+      "id": "webtoon-disney-marvel-comics-platform",
+      "lastCoveredAt": "2026-10-11T21:07:48+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "기존 플랫폼 협력 발표 이후 뉴욕 코믹콘에서 웹툰형 마블 신작 세 편의 구체적인 줄거리와 세로 스크롤 활용 방식이 공개됐습니다.",
+        "editionId": "2026-10-11-pm",
+        "stage": "후속",
+        "storyId": "marvel-x-men-korea-webtoon-details-2026-10-11",
+        "title": "마블·웹툰, 뉴욕 코믹콘서 ‘엑스맨 코리아’ 등 웹툰 신작 줄거리 공개"
+      },
+      "path": "webtoon-disney-marvel-comics-platform.json",
+      "title": "웹툰엔터·디즈니 마블 코믹스 플랫폼"
+    },
+    {
+      "categories": [
+        "국제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T21:07:48+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "pope-leo-xiv-lung-nodule-surgery",
+      "lastCoveredAt": "2026-10-11T21:07:48+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "교황이 폐 결절 제거 수술 계획을 공개했지만 날짜와 구체적인 진단은 아직 공개하지 않았습니다.",
+        "editionId": "2026-10-11-pm",
+        "stage": "예정",
+        "storyId": "pope-leo-xiv-lung-nodule-surgery-plan-2026-10-11",
+        "title": "레오 14세 교황, 폐 결절 제거 수술 예정…구체적 진단은 미공개"
+      },
+      "path": "pope-leo-xiv-lung-nodule-surgery.json",
+      "title": "레오 14세 교황의 폐 결절 수술 계획"
+    },
+    {
+      "categories": [
+        "스포츠"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T21:07:48+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "park-shinja-cup-fujitsu-threepeat-2026",
+      "lastCoveredAt": "2026-10-11T21:07:48+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "후지쯔가 결승에서 우리은행을 78-71로 꺾고 해외팀 최초로 박신자컵 3연패를 달성했습니다.",
+        "editionId": "2026-10-11-pm",
+        "stage": "결과",
+        "storyId": "park-shinja-cup-fujitsu-threepeat-2026-10-11",
+        "title": "후지쯔, 우리은행 꺾고 박신자컵 3연패…해외팀 첫 기록"
+      },
+      "path": "park-shinja-cup-fujitsu-threepeat-2026.json",
+      "title": "2026 박신자컵 후지쯔 3연패와 우리은행 준우승"
+    },
+    {
+      "categories": [
+        "사회",
+        "사회·안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-10T20:41:04+09:00",
+      "firstCoveredDate": "2026-10-10",
+      "id": "daegu-ceiling-collapse-2026-10",
+      "lastCoveredAt": "2026-10-11T21:07:48+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "전날 예고된 현장 감식이 진행됐고 홈캠으로 무대 위 마감재가 먼저 떨어진 순서가 확인됐습니다. 구조 결함과 책임은 아직 조사 중입니다.",
+        "editionId": "2026-10-11-pm",
+        "stage": "후속",
+        "storyId": "daegu-ceiling-collapse-followup-2026-10-11",
+        "title": "대구 천장 붕괴, 무대 위부터 시작…경찰 합동감식·홈캠 분석"
+      },
+      "path": "daegu-ceiling-collapse-2026-10.json",
+      "title": "대구 상가 천장 마감재 사고"
+    },
+    {
+      "categories": [
+        "국내 정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T21:07:48+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "central-investigation-agency-first-supervisory-audit",
+      "lastCoveredAt": "2026-10-11T21:07:48+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "윤호중 행정안전부 장관이 임은정 광주지방중수청장 감찰을 지시해 중수청 출범 뒤 첫 감독권을 행사했습니다. 감찰 결과는 아직 나오지 않았습니다.",
+        "editionId": "2026-10-11-pm",
+        "stage": "발표",
+        "storyId": "central-investigation-agency-supervisory-audit-2026-10-11",
+        "title": "중수청 출범 뒤 첫 감독권 행사…윤호중 장관, 임은정 청장 감찰 지시"
+      },
+      "path": "central-investigation-agency-first-supervisory-audit.json",
+      "title": "중대범죄수사청 출범 뒤 첫 감독권 행사와 감찰"
+    },
     {
       "categories": [
         "국제·사회"
@@ -233,27 +339,6 @@
       },
       "path": "electronic-arcade-guardians-film.json",
       "title": "전자오락수호대 웹툰의 극장 애니메이션 확장"
-    },
-    {
-      "categories": [
-        "사회"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-10T20:41:04+09:00",
-      "firstCoveredDate": "2026-10-10",
-      "id": "daegu-ceiling-collapse-2026-10",
-      "lastCoveredAt": "2026-10-10T20:41:04+09:00",
-      "lastCoveredDate": "2026-10-10",
-      "latest": {
-        "archive": false,
-        "change": "10일 오전 대구 상가 2층에서 천장 마감재가 떨어졌고 경찰은 33명 수사팀과 11일 합동감식 계획을 발표했습니다.",
-        "editionId": "2026-10-10-pm",
-        "stage": "보도",
-        "storyId": "daegu-ceiling-collapse-2026-10-10",
-        "title": "대구 천장 마감재 사고 38명 경상…경찰, 11일 합동감식 예정"
-      },
-      "path": "daegu-ceiling-collapse-2026-10.json",
-      "title": "대구 상가 천장 마감재 사고"
     },
     {
       "categories": [
@@ -617,27 +702,6 @@
       },
       "path": "korea-hgv-development.json",
       "title": "한국 극초음속 활공비행체 개발"
-    },
-    {
-      "categories": [
-        "웹툰 산업"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
-      "firstCoveredDate": "2026-10-08",
-      "id": "webtoon-disney-marvel-comics-platform",
-      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
-      "lastCoveredDate": "2026-10-08",
-      "latest": {
-        "archive": false,
-        "change": "미국 현지 10월 5일 공식 발표에서 11월 16일 플랫폼 출시 계획과 구독 요금·콘텐츠 규모를 공개했습니다. 실제 가입자·매출 성과는 아직 확인되지 않았습니다.",
-        "editionId": "2026-10-08-pm",
-        "stage": "발표",
-        "storyId": "webtoon-marvel-comics-launch-plan-2026-10-08",
-        "title": "웹툰엔터·디즈니, 마블 코믹스 11월 16일 출시 예고…3만5천편 구독 서비스"
-      },
-      "path": "webtoon-disney-marvel-comics-platform.json",
-      "title": "웹툰엔터·디즈니 마블 코믹스 플랫폼"
     },
     {
       "categories": [
@@ -4281,7 +4345,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 415,
+  "storyCount": 420,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-11T09:07:20+09:00"
+  "updatedAt": "2026-10-11T21:07:48+09:00"
 }

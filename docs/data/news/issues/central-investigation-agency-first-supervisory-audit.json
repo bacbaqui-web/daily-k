@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-11/pm.json",
+      "category": "국내 정치·정책",
+      "change": "윤호중 행정안전부 장관이 임은정 광주지방중수청장 감찰을 지시해 중수청 출범 뒤 첫 감독권을 행사했습니다. 감찰 결과는 아직 나오지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T21:07:48+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "pm",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-11",
+      "eventEndDate": null,
+      "eventTimeNote": "장관의 지시 발표일은 10월 11일이며, 실제 감찰 착수·접수 시각은 기사 기준 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-11-pm/central-investigation-agency-supervisory-audit-2026-10-11",
+      "keyFacts": {
+        "auditStatus": "감찰 지시; 실제 착수·결과는 미확인",
+        "directiveDate": "2026-10-11",
+        "firstSupervisoryAction": "중수청 출범 후 행안부 장관의 첫 감독권 행사로 보도",
+        "minister": "윤호중 행정안전부 장관",
+        "target": "임은정 광주지방중수청장"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-11T12:23:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-11T12:23:00+09:00",
+          "title": "행안장관 임은정 광주중수청장 감찰 지시…중수청 정치기관 착각",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261011020851530",
+          "verifiedAt": "2026-10-11T21:07:48+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-11T16:49:00+09:00",
+          "title": "중수청 출범 9일만 임은정 광주청장 감찰 지시…기강 세우기 포석",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/amp/view/AKR20261011036600004",
+          "verifiedAt": "2026-10-11T21:07:48+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "central-investigation-agency-supervisory-audit-2026-10-11",
+      "summary": [
+        "윤호중 행정안전부 장관이 11일 임은정 광주지방중대범죄수사청장에 대한 감찰을 중수청에 지시하겠다고 밝혔습니다. 연합뉴스는 이를 중수청 출범 뒤 행안부 장관의 첫 감독권 행사로 보도했습니다.",
+        "임 청장은 초대 중수청장 후보자를 공개적으로 비판해 왔고, 윤 장관은 그 발언을 문제 삼았습니다. 감찰 지시는 장관의 조치이며, 기사 시점에는 감찰 결과나 위법 판단이 나온 상태가 아닙니다.",
+        "중수청은 검찰청 폐지 뒤 새로 출범한 수사기관입니다. 감독권의 첫 적용 사례인 만큼, 법률이 허용한 감독 범위와 수사기관 간부의 공개 발언에 대한 내부 기준이 어떻게 정리될지 주목됩니다.",
+        "연합뉴스 후속 보도는 감찰 지시가 조직 출범 9일째에 나왔고, 감찰관 등 일부 직위가 공석인 상황을 전했습니다. 다만 감찰이 실제 접수되었는지, 어떤 절차와 결론으로 이어질지는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "중수청 출범 뒤 첫 감독권 행사…윤호중 장관, 임은정 청장 감찰 지시",
+      "uncertainty": "확인된 것은 장관의 감찰 지시입니다. 감찰이 실제로 접수·개시됐는지, 위법이나 징계 사유가 있는지는 확정되지 않았습니다."
+    }
+  ],
+  "id": "central-investigation-agency-first-supervisory-audit",
+  "schemaVersion": 1,
+  "title": "중대범죄수사청 출범 뒤 첫 감독권 행사와 감찰",
+  "updatedAt": "2026-10-11T21:07:48+09:00"
+}

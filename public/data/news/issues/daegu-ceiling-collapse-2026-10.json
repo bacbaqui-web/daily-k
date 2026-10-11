@@ -52,10 +52,83 @@
       "supersededBy": [],
       "title": "대구 천장 마감재 사고 38명 경상…경찰, 11일 합동감식 예정",
       "uncertainty": "사고 원인과 책임은 조사 중입니다. 부상자 수는 16시 33분 기사 시점 집계이며 33명은 수사팀 인원입니다."
+    },
+    {
+      "briefingPath": "2026-10-11/pm.json",
+      "category": "사회·안전",
+      "change": "전날 예고된 현장 감식이 진행됐고 홈캠으로 무대 위 마감재가 먼저 떨어진 순서가 확인됐습니다. 구조 결함과 책임은 아직 조사 중입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T21:07:48+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "pm",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-pm",
+      "eventAt": "2026-10-10T10:16:00+09:00",
+      "eventDate": "2026-10-10",
+      "eventEndDate": null,
+      "eventTimeNote": "사고는 10월 10일 오전 10시 16분 발생했습니다. 합동감식은 다음 날 오전 9시부터 약 2시간 진행됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "예고에 그쳤던 합동감식이 실제 진행됐고 홈캠으로 최초 낙하지점과 붕괴 순서가 확인됐습니다. 피해 집계와 책임 판단은 새로 확정되지 않았습니다.",
+        "editionId": "2026-10-10-pm",
+        "storyId": "daegu-ceiling-collapse-2026-10-10"
+      },
+      "id": "2026-10-11-pm/daegu-ceiling-collapse-followup-2026-10-11",
+      "keyFacts": {
+        "cause": "미확정; 정밀 감식·홈캠 분석 중",
+        "evacuated": "66명; 전날 집계와 동일",
+        "incidentAt": "2026-10-10 10:16 KST",
+        "injured": "38명 경상; 전날 집계와 동일",
+        "inspection": "2026-10-11 09시부터 약 2시간",
+        "structure": "석고보드·종이합판 등 삼중 마감으로 보도",
+        "suspectsBooked": "기사 시점 없음",
+        "videoFinding": "무대 위 천장 마감재부터 떨어진 장면 확인"
+      },
+      "previous": {
+        "editionId": "2026-10-10-pm",
+        "storyId": "daegu-ceiling-collapse-2026-10-10"
+      },
+      "publishedAt": "2026-10-11T11:39:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img8.yna.co.kr/photo/cms/2026/10/11/20261011AKR20261011011252053_01_i_P4.jpg",
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-11T11:39:00+09:00",
+          "title": "대구 상가천장 붕괴, 무대위부터 시작…경찰, 합동감식·영상분석(종합2보)",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261011011252053",
+          "verifiedAt": "2026-10-11T21:07:48+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-11T13:54:00+09:00",
+          "title": "대구 천장 붕괴 현장 합동감식 낙하지점 확인",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0115_202610111354141168",
+          "verifiedAt": "2026-10-11T21:07:48+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "daegu-ceiling-collapse-followup-2026-10-11",
+      "summary": [
+        "대구 북구 상가 천장 마감재 사고의 홈캠 영상에서 무대 위쪽이 먼저 떨어진 뒤 다른 천장 부분이 잇따라 내려앉는 모습이 확인됐습니다. 경찰과 국립과학수사연구원 등은 11일 오전 현장 합동감식을 마쳤습니다.",
+        "경찰은 건물 2층 전체를 살피고 잔해를 수거했으며, 천장 마감재가 석고보드와 종이합판 등을 포함한 삼중 구조였다고 밝혔습니다. 사고 순간의 영상과 구조물 분석을 결합해 최초 낙하지점과 구조적 결함 여부를 조사하고 있습니다.",
+        "전날 보도된 피해 집계는 66명 대피, 38명 경상, 9명 병원 이송이었습니다. 이번 기사에서 새로 확인된 것은 피해 규모의 확대가 아니라 사고가 시작된 위치와 현장 감식 진행 상황입니다.",
+        "경찰은 시공 시점과 업체·건물 관계자의 업무상과실치상 적용 가능성을 살펴보고 있지만, 기사 시점에 입건된 사람은 없습니다. 와이어 노후화는 행정당국 관계자가 제기한 가능성일 뿐, 감식으로 확정된 원인이 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "대구 천장 붕괴, 무대 위부터 시작…경찰 합동감식·홈캠 분석",
+      "uncertainty": "경찰은 정밀 분석과 시공 시점 확인을 진행 중이며 아직 입건된 피의자는 없습니다. 노후 와이어 가능성은 행정당국 관계자의 추정입니다."
     }
   ],
   "id": "daegu-ceiling-collapse-2026-10",
   "schemaVersion": 1,
   "title": "대구 상가 천장 마감재 사고",
-  "updatedAt": "2026-10-11T09:07:20+09:00"
+  "updatedAt": "2026-10-11T21:07:48+09:00"
 }
