@@ -1,6 +1,153 @@
 {
-  "editionCount": 53,
+  "editionCount": 54,
   "issues": [
+    {
+      "categories": [
+        "국제·사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "nepal-flood-missing-death-declaration-2026",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "네팔 대통령이 재난 실종자의 사망 선고 대기기간을 기존 12년에서 약 45일로 줄이는 법령 개정을 발표했습니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "발표",
+        "storyId": "nepal-flood-missing-person-law-2026-10-10",
+        "title": "네팔, 재난 실종자 사망 선고 대기기간 12년에서 45일 안팎으로 단축"
+      },
+      "path": "nepal-flood-missing-death-declaration-2026.json",
+      "title": "네팔 대홍수 실종자와 법적 사망 선고 절차"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-30",
+      "id": "naver-webtoon-antipiracy-toonradar",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "네이버웹툰이 10월 8일 설명한 툰레이더 V6의 식별 정확도와 2025년·2026년 1분기 유출 지연 지표가 11일 보도로 구체화됐습니다. 수치는 회사 자체 집계입니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "분석",
+        "storyId": "naver-webtoon-toonradar-v6-performance-2026-10-11",
+        "title": "네이버웹툰 툰레이더, 유출자 추적 넘어 최신 회차 유출 지연에 초점"
+      },
+      "path": "naver-webtoon-antipiracy-toonradar.json",
+      "title": "네이버웹툰 불법 유통 차단과 정식 구매 전환"
+    },
+    {
+      "categories": [
+        "국내·노동정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
+      "firstCoveredDate": "2026-10-08",
+      "id": "kctu-social-dialogue-return",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "10월 7일 표결 무산 뒤 11일 장관 인터뷰에서 정부가 복귀 조건에 문서로 공감했다고 설명하고, 대통령도 합의제가 가능하다고 말했다고 전했습니다. 복귀 결정은 아직 없습니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "후속",
+        "storyId": "kctu-social-dialogue-minister-interview-2026-10-11",
+        "title": "김영훈 장관 \"민주노총, 경사노위 복귀해야\"…정부는 조건에 공감했다고 밝혀"
+      },
+      "path": "kctu-social-dialogue-return.json",
+      "title": "민주노총 사회적 대화 복귀 논의"
+    },
+    {
+      "categories": [
+        "사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "jeju-air-7c227-powerbank-fire-2026-10-10",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "청주공항 대기 중인 제주행 항공기 안에서 연기가 발생해 승객 168명이 대피했고 항공사가 기체를 점검했습니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "보도",
+        "storyId": "jeju-air-7c227-battery-fire-2026-10-10",
+        "title": "청주발 제주행 여객기서 연기…승객 168명 전원 대피"
+      },
+      "path": "jeju-air-7c227-powerbank-fire-2026-10-10.json",
+      "title": "제주항공 7C227편 기내 배터리 연기 사고"
+    },
+    {
+      "categories": [
+        "스포츠"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "hyeonji-lee-judo-world-championship-2026",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "이현지가 세계선수권 여자 최중량급 결승에서 우승해 한국의 2년 연속 체급 금메달을 이었습니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "결과",
+        "storyId": "hyeonji-lee-judo-world-champion-2026-10-10",
+        "title": "유도 이현지, 세계선수권 여자 최중량급 우승…한국 2년 연속 금메달"
+      },
+      "path": "hyeonji-lee-judo-world-championship-2026.json",
+      "title": "유도 선수 이현지의 세계선수권 성과"
+    },
+    {
+      "categories": [
+        "국제·기후"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "hurricane-isaias-us-southeast-2026",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "이사이아스가 미국 남부에 2등급으로 상륙한 뒤 약화했지만 정전·홍수 위험과 멕시코만 원유 생산 중단이 이어졌습니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "보도",
+        "storyId": "hurricane-isaias-us-gulf-impact-2026-10-09",
+        "title": "허리케인 이사이아스, 미 남부 상륙 뒤 약화…폭우·정전 위험 이어져"
+      },
+      "path": "hurricane-isaias-us-southeast-2026.json",
+      "title": "허리케인 이사이아스의 미국 남부 피해와 에너지 공급 영향"
+    },
+    {
+      "categories": [
+        "기술·AI"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "ai-compute-shortage-cloud-prices-2026",
+      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
+      "lastCoveredDate": "2026-10-11",
+      "latest": {
+        "archive": false,
+        "change": "H100 기반 1년 계약 임대비가 1년 새 60% 상승했다는 분석과 대형 모델 기업·스타트업의 GPU 확보 경쟁이 보도됐습니다.",
+        "editionId": "2026-10-11-am",
+        "stage": "보도",
+        "storyId": "ai-compute-rental-price-surge-2026-10-11",
+        "title": "AI 연산 자원 부족에 GPU 임대료 상승…H100 1년 계약 시간당 비용 60%↑"
+      },
+      "path": "ai-compute-shortage-cloud-prices-2026.json",
+      "title": "AI 연산 자원 공급 부족과 임대 비용 상승"
+    },
     {
       "categories": [
         "국제",
@@ -702,27 +849,6 @@
       },
       "path": "korea-2d-semiconductor-nucleation.json",
       "title": "국내 2차원 반도체 단일 핵생성 제어 연구"
-    },
-    {
-      "categories": [
-        "국내·노동정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-08T08:41:30+09:00",
-      "firstCoveredDate": "2026-10-08",
-      "id": "kctu-social-dialogue-return",
-      "lastCoveredAt": "2026-10-08T08:41:30+09:00",
-      "lastCoveredDate": "2026-10-08",
-      "latest": {
-        "archive": false,
-        "change": "10월 7일 임시대의원대회에서 조건부 사회적 대화 복귀안을 표결하려 했으나 정족수 부족으로 유회했습니다. 온라인 대회 소집 여부는 검토 중입니다.",
-        "editionId": "2026-10-08-am",
-        "stage": "결과",
-        "storyId": "kctu-social-dialogue-vote-2026-10-07",
-        "title": "민주노총 사회적 대화 복귀안, 정족수 부족으로 표결 무산"
-      },
-      "path": "kctu-social-dialogue-return.json",
-      "title": "민주노총 사회적 대화 복귀 논의"
     },
     {
       "categories": [
@@ -1653,27 +1779,6 @@
       },
       "path": "ai-decision-models.json",
       "title": "AI 에이전트의 판단 모델과 비용 효율"
-    },
-    {
-      "categories": [
-        "웹툰 산업"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-30",
-      "id": "naver-webtoon-antipiracy-toonradar",
-      "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "archive": false,
-        "change": "네이버웹툰이 불법 사이트 폐쇄 전후 구매 데이터를 공개했습니다. 특정 작품군의 신규 구매 유입 7.9배 증가는 회사 자체 분석입니다.",
-        "editionId": "2026-10-02-am",
-        "stage": "분석",
-        "storyId": "naver-webtoon-toonradar-2026-09-report",
-        "title": "불법 유통 차단 뒤 유료 구매 증가…네이버웹툰이 공개한 분석"
-      },
-      "path": "naver-webtoon-antipiracy-toonradar.json",
-      "title": "네이버웹툰 불법 유통 차단과 정식 구매 전환"
     },
     {
       "categories": [
@@ -4176,7 +4281,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 408,
+  "storyCount": 415,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-10T20:41:04+09:00"
+  "updatedAt": "2026-10-11T09:07:20+09:00"
 }

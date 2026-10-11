@@ -1,0 +1,652 @@
+{
+  "cutoffAt": "2026-10-11T09:00:00+09:00",
+  "date": "2026-10-11",
+  "edition": "am",
+  "events": [
+    {
+      "at": "2026-10-11T10:30:00+09:00",
+      "date": "2026-10-11",
+      "detail": "국회 본관 원내대표실에서 국정감사 현안 관련 기자간담회가 예정돼 있습니다. 공개 일정이며 실제 발언과 추가 일정은 현장에서 확인해야 합니다.",
+      "source": {
+        "imageUrl": null,
+        "kind": "major",
+        "language": "ko",
+        "name": "뉴시스",
+        "publishedAt": "2026-10-11T06:00:00+09:00",
+        "title": "오늘의 주요일정 정치(10월11일 일요일)",
+        "updatedAt": null,
+        "url": "https://www.newsis.com/view/NISX20261010_0003820688",
+        "verifiedAt": "2026-10-11T09:07:20+09:00"
+      },
+      "timeNote": "한국시간 10:30 예정",
+      "title": "국민의힘 원내대표, 국정감사 현안 기자간담회"
+    },
+    {
+      "at": "2026-10-11T12:00:00+09:00",
+      "date": "2026-10-11",
+      "detail": "국무총리 서울공관에서 제6회 열린 브런치 일정이 예정돼 있습니다. 공개된 일정표에 적힌 행사 일정이며 논의 내용은 사전에 확인되지 않았습니다.",
+      "source": {
+        "imageUrl": null,
+        "kind": "major",
+        "language": "ko",
+        "name": "뉴시스",
+        "publishedAt": "2026-10-11T06:00:00+09:00",
+        "title": "오늘의 주요일정 정치(10월11일 일요일)",
+        "updatedAt": null,
+        "url": "https://www.newsis.com/view/NISX20261010_0003820688",
+        "verifiedAt": "2026-10-11T09:07:20+09:00"
+      },
+      "timeNote": "한국시간 12:00 예정",
+      "title": "국무총리 제6회 열린 브런치"
+    },
+    {
+      "at": null,
+      "date": "2026-10-11",
+      "detail": "기상청 05시 예보는 오늘 오후부터 저녁 사이 전국 내륙 곳곳에 소나기를 예상했습니다. 경기 남부 내륙 5~20mm 등 지역별 강수량이 달라 외출 전 지역 예보를 확인할 필요가 있습니다.",
+      "source": {
+        "imageUrl": null,
+        "kind": "official",
+        "language": "ko",
+        "name": "기상청",
+        "publishedAt": "2026-10-11T05:00:00+09:00",
+        "title": "예보 종합: 2026년 10월 11일 05:00 발표",
+        "updatedAt": null,
+        "url": "https://www.weather.go.kr/w/forecast/overall/short-term.do",
+        "verifiedAt": "2026-10-11T09:07:20+09:00"
+      },
+      "timeNote": "한국시간 12:00~21:00 사이, 지역별 차이",
+      "title": "전국 내륙 오후 소나기 예보"
+    }
+  ],
+  "finalizedAt": "2026-10-11T09:08:32.740341+09:00",
+  "generatedAt": "2026-10-11T09:07:20+09:00",
+  "id": "2026-10-11-am",
+  "intro": "10월 11일 오전 브리핑입니다. 밤사이 국내 노동정책·항공 안전, 국제 재난과 AI 인프라, 웹툰 산업 및 스포츠 소식을 확인했습니다. 일요일이라 국내 증시 종가·환율 수치는 포함하지 않았습니다.",
+  "keywords": [],
+  "overview": [
+    "노동부 장관은 민주노총의 사회적 대화 복귀 조건에 정부가 공감했다고 밝혔지만, 노조의 복귀 결정은 아직 남아 있습니다. AI 산업에서는 GPU 연산 자원 임대비가 오르고 있으며 네이버웹툰은 불법 유출 지연 성과를 자체 수치로 제시했습니다.",
+    "청주발 항공기에서는 보조배터리가 든 파우치에서 연기가 나 승객 168명이 대피했고, 네팔은 대홍수 실종자의 법적 사망 선고 대기기간을 줄였습니다. 미국 허리케인 피해와 원유 생산 중단은 확인됐지만 연료 가격 영향은 아직 전망 단계입니다.",
+    "국제유도선수권에서는 이현지가 여자 최중량급 정상에 올랐습니다. 오늘은 국내 증시가 열리지 않아 종가·환율 비교 대신 정치 일정과 오후 소나기, 각 사안의 후속 확인을 살펴볼 필요가 있습니다."
+  ],
+  "overviewEmphasis": [
+    "노조의 복귀 결정은 아직 남아 있습니다",
+    "GPU 연산 자원 임대비가 오르고 있으며",
+    "승객 168명이 대피했고",
+    "연료 가격 영향은 아직 전망 단계입니다",
+    "이현지가 여자 최중량급 정상에 올랐습니다"
+  ],
+  "recordId": "2026-10-11-am",
+  "scheduledFor": "2026-10-11T09:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "category": "기술·AI",
+      "emphasis": [
+        "H100 기반 연산 자원의 1년 계약 시간당 비용이 1년 사이 60% 올랐습니다.",
+        "모든 GPU 가격이나 모든 클라우드 고객의 비용이 같은 폭으로 올랐다는 뜻은 아닙니다."
+      ],
+      "eventAt": null,
+      "eventTimeNote": "임대료 비교의 정확한 시작·종료일은 기사에 월 단위로만 표현됐습니다.",
+      "factsHash": "31ea11dd27653b110fe161c9256c27ed944378c13ba54c6b647d5fd5d764032d",
+      "fallbackNote": null,
+      "followUp": null,
+      "id": "ai-compute-rental-price-surge-2026-10-11",
+      "imageUrl": null,
+      "keyFacts": {
+        "anthropicCompute": "SpaceX로부터 전력 기준 300MW 초과 연산자원 임대 계약 (기사 인용)",
+        "contract": "1년 임대 계약 시간당 비용",
+        "gpu": "NVIDIA H100 기반 연산자원",
+        "priceChange": "1년 새 60% 상승 (SemiAnalysis 집계 인용)",
+        "startupAdvancePayment": "계약액 최대 30% 선납 요구 사례"
+      },
+      "publishedAt": "2026-10-11T04:00:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T04:00:00+09:00",
+          "title": "AI칩 빌리는 값 1년새 60% 뛰었다…클로드도 연산 모자라 장애 잦았다",
+          "updatedAt": null,
+          "url": "https://www.newsis.com/view/NISX20261011_0003820733",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 93.15,
+      "scoreComponents": {
+        "domesticImpact": 80,
+        "importance": 91,
+        "interest": 96,
+        "recency": 100,
+        "reliability": 80
+      },
+      "scoreReason": "AI 인프라 공급 병목과 비용은 모델·서비스 사업자의 경쟁력 및 스타트업 진입 비용에 영향을 줍니다. 60% 수치의 기준 범위를 한정했습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T04:00:00+09:00",
+          "title": "AI칩 빌리는 값 1년새 60% 뛰었다…클로드도 연산 모자라 장애 잦았다",
+          "updatedAt": null,
+          "url": "https://www.newsis.com/view/NISX20261011_0003820733",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "AI 모델 개발과 서비스 운영에 필요한 GPU 연산 자원을 확보하기 어려워지면서 임대료와 장기 계약 부담이 커지고 있다고 뉴시스가 보도했습니다. 데이터·컨설팅업체 세미애널리시스 집계로는 엔비디아 H100 기반 연산 자원의 1년 계약 시간당 비용이 1년 사이 60% 올랐습니다.",
+        "보도는 앤트로픽의 코딩 도구 수요가 늘면서 회사가 연산 자원을 추가 확보했고, 구글 내부에서도 제한된 자원을 어느 프로젝트에 먼저 배정할지를 두고 갈등이 있었다고 전했습니다. 새 데이터센터 건설은 수년이 걸려 발표된 계획이 즉시 사용 가능한 공급으로 이어지지 않는다는 지적도 나왔습니다.",
+        "대형 사업자는 자원 계약에 더 많은 돈을 쓸 수 있지만, 스타트업은 공급업체가 요구하는 다년 계약이나 최대 30% 선납금에 노출될 수 있습니다. 결국 AI 경쟁은 모델 성능뿐 아니라 전력·데이터센터·GPU를 언제 얼마에 확보하느냐의 문제로 넓어지고 있습니다.",
+        "60%는 H100 기반 자원의 특정 1년 임대 계약 비용을 비교한 수치입니다. 모든 GPU 가격이나 모든 클라우드 고객의 비용이 같은 폭으로 올랐다는 뜻은 아닙니다."
+      ],
+      "timeline": {
+        "change": "H100 기반 1년 계약 임대비가 1년 새 60% 상승했다는 분석과 대형 모델 기업·스타트업의 GPU 확보 경쟁이 보도됐습니다.",
+        "eventDate": "2026-10-11",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "ai-compute-shortage-cloud-prices-2026",
+        "issueTitle": "AI 연산 자원 공급 부족과 임대 비용 상승",
+        "stage": "보도"
+      },
+      "title": "AI 연산 자원 부족에 GPU 임대료 상승…H100 1년 계약 시간당 비용 60%↑",
+      "topicKey": "ai-compute-rental-price-surge-2026",
+      "uncertainty": "비용 비교는 H100 기반 1년 계약의 시간당 임대비이며 전체 GPU 시장 가격을 뜻하지 않습니다.",
+      "whatChanged": "AI 서비스 확산 속도가 데이터센터 공급 증가보다 빨라 연산 자원을 선점하려는 계약 경쟁이 커지고 있습니다.",
+      "whyItMatters": "GPU 접근성과 비용은 AI 서비스의 확장 속도, 스타트업의 자금 부담, 데이터센터 투자를 좌우할 수 있습니다."
+    },
+    {
+      "category": "웹툰 산업",
+      "emphasis": [
+        "유출 원고에서 계정을 식별하는 정확도가 99% 이상입니다.",
+        "최신 유료 회차가 공개 24시간 안에 유출되는 작품 수가 연초 대비 약 90% 감소했고"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "기사에서 성과의 기준 기간과 최초 도입 시각은 일부 구간별로만 제시됐습니다.",
+      "factsHash": "31a2ccbb96f2726808e9fe8a1f4a76f06ef0221ffd813440f7cfe66f69854c75",
+      "fallbackNote": null,
+      "followUp": {
+        "delta": "9월 30일 불법 사이트 폐쇄 전후 구매 분석 이후, 이번에는 툰레이더 V6의 워터마크·사전탐지 방식과 2025년 유출 지연, 2026년 1분기 24시간 내 유출 감소 수치가 새로 보도됐습니다. 모두 회사 자체 지표입니다.",
+        "editionId": "2026-10-02-am",
+        "storyId": "naver-webtoon-toonradar-2026-09-report"
+      },
+      "id": "naver-webtoon-toonradar-v6-performance-2026-10-11",
+      "imageUrl": null,
+      "keyFacts": {
+        "averageDomesticLeakDelay": "3~4주 (회사 설명)",
+        "costPerLeakedEpisodeSet": "2025년 계정당 평균 대여 회차 기존의 1/10",
+        "identificationAccuracy": "회사 발표 99% 이상",
+        "payments": "효과가 컸던 10개 작품 합계 결제액 평균 23% 증가",
+        "sameDayLeaks": "인기 상위 50작품 공개 당일 유출 약 80% 감소",
+        "toonRadarVersion": "V6 (2024년 개편)",
+        "within24hLeaks": "2026년 1분기 연초 대비 약 90% 감소"
+      },
+      "publishedAt": "2026-10-11T06:00:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T06:00:00+09:00",
+          "title": "\"몰래 퍼간 웹툰, 누가 훔쳤는지 안다\"…그림 속 숨은 AI 추적자",
+          "updatedAt": null,
+          "url": "https://mobile.newsis.com/view/NISX20261008_0003819485",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 92.55,
+      "scoreComponents": {
+        "domesticImpact": 78,
+        "importance": 90,
+        "interest": 95,
+        "recency": 100,
+        "reliability": 80
+      },
+      "scoreReason": "국내 웹툰 산업 필수 항목입니다. 기술 방식과 수치는 네이버웹툰 발표를 인용한 보도이므로 회사 자체 성과 지표로 한정했습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T06:00:00+09:00",
+          "title": "\"몰래 퍼간 웹툰, 누가 훔쳤는지 안다\"…그림 속 숨은 AI 추적자",
+          "updatedAt": null,
+          "url": "https://mobile.newsis.com/view/NISX20261008_0003819485",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "네이버웹툰의 불법유통 추적 기술 ‘툰레이더’가 이미지에 보이지 않는 사용자 식별 정보를 심어 유출 계정을 찾아내고, 의심 계정을 사전에 탐지한다고 뉴시스가 보도했습니다. 네이버웹툰에 따르면 2024년 고도화한 V6는 유출 원고에서 계정을 식별하는 정확도가 99% 이상입니다.",
+        "회사는 2025년 유출 시도 계정당 평균 대여 회차가 기존의 10분의 1로 줄어 같은 양을 확보하는 비용이 10배 이상 늘었다고 설명했습니다. 국내 최대 불법 사이트 기준으로 인기 상위 50개 작품의 유출 지연 회차는 전년 초보다 약 3배 늘고, 공개 당일 유출 작품 수는 약 80% 줄었다는 수치도 제시했습니다.",
+        "올해 1분기에는 최신 유료 회차가 공개 24시간 안에 유출되는 작품 수가 연초 대비 약 90% 감소했고, 효과가 컸던 10개 작품의 합계 결제액은 평균 23% 올랐다고 회사는 밝혔습니다. 국내 웹툰의 평균 유출까지 걸리는 시간이 3~4주라는 설명도 포함됐습니다.",
+        "이번 기사는 지난 9월 네이버웹툰이 공개한 불법사이트 폐쇄 후 결제 증가 분석에 이어, 탐지 기술과 유출 지연 성과를 구체화합니다. 다만 수치는 네이버웹툰 자체 분석이므로 독립적인 감사 결과나 모든 플랫폼에 일반화된 효과로 볼 수 없습니다."
+      ],
+      "timeline": {
+        "change": "네이버웹툰이 10월 8일 설명한 툰레이더 V6의 식별 정확도와 2025년·2026년 1분기 유출 지연 지표가 11일 보도로 구체화됐습니다. 수치는 회사 자체 집계입니다.",
+        "eventDate": "2026-10-08",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "naver-webtoon-antipiracy-toonradar",
+        "issueTitle": "네이버웹툰 불법 유통 차단과 정식 구매 전환",
+        "stage": "분석"
+      },
+      "title": "네이버웹툰 툰레이더, 유출자 추적 넘어 최신 회차 유출 지연에 초점",
+      "topicKey": "naver-webtoon-antipiracy-toonradar",
+      "uncertainty": "99%·90%·23% 등 성과는 네이버웹툰이 제시한 수치이며 독립 검증 결과는 기사에서 확인되지 않았습니다.",
+      "whatChanged": "툰레이더의 워터마크와 AI 사전탐지가 유출 계정 식별 및 최신 회차 유출 억제를 겨냥합니다.",
+      "whyItMatters": "유료 회차를 불법 사이트에 먼저 올리는 시간 차를 줄이면 정식 공개와 창작자 수익을 보호하는 데 도움이 될 수 있습니다."
+    },
+    {
+      "category": "국내·노동정책",
+      "emphasis": [
+        "정부가 민주노총의 복귀 조건에 이미 문서로 공감 입장을 전달했다고 장관은 연합뉴스 인터뷰에서 밝혔습니다.",
+        "민주노총의 복귀 결정도 아직 나오지 않았습니다."
+      ],
+      "eventAt": null,
+      "eventTimeNote": "정확한 인터뷰 시각과 정부 문서 전달 시점은 기사에 특정되지 않았습니다.",
+      "factsHash": "bbb3b667104c60be88e4a41a6489e777508d9da1ba08149a911af979c47a219f",
+      "fallbackNote": null,
+      "followUp": {
+        "delta": "10월 7일 표결 무산 이후 11일 공개된 장관 인터뷰에서 정부가 복귀 조건에 문서로 공감했다고 밝혔고 대통령도 합의제가 가능하다는 입장이라고 설명했습니다. 민주노총의 복귀는 미결정입니다.",
+        "editionId": "2026-10-08-am",
+        "storyId": "kctu-social-dialogue-vote-2026-10-07"
+      },
+      "id": "kctu-social-dialogue-minister-interview-2026-10-11",
+      "imageUrl": null,
+      "keyFacts": {
+        "decision": "민주노총의 상설 대화 복귀 미결정",
+        "ministerPosition": "장관 인터뷰에서 정부가 조건에 문서로 공감했다고 설명",
+        "returnConditions": "합의제·산별 참여 보장·명칭 변경",
+        "voteDate": "2026-10-07"
+      },
+      "publishedAt": "2026-10-11T05:59:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-11T05:59:00+09:00",
+          "title": "김영훈 \"민주노총, 경사노위 들어와야…복귀조건에 정부도 공감\"",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261010024800530",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 91.35,
+      "scoreComponents": {
+        "domesticImpact": 90,
+        "importance": 85,
+        "interest": 82,
+        "recency": 100,
+        "reliability": 88
+      },
+      "scoreReason": "새 인터뷰에서 정부의 조건 수용 입장과 대통령의 합의제 가능 입장이 전해졌습니다. 다만 발언 보도와 실제 복귀 확정은 구분했습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-11T05:59:00+09:00",
+          "title": "김영훈 \"민주노총, 경사노위 들어와야…복귀조건에 정부도 공감\"",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261010024800530",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "김영훈 고용노동부 장관이 민주노총에 경제사회노동위원회(경사노위) 중심의 상설 사회적 대화에 복귀하라고 촉구했습니다. 정부가 민주노총의 복귀 조건에 이미 문서로 공감 입장을 전달했다고 장관은 연합뉴스 인터뷰에서 밝혔습니다.",
+        "민주노총은 10월 7일 합의제 운영, 산별노조 참여 보장, 기구 명칭 변경을 조건으로 복귀안을 표결하려 했지만 정족수 부족으로 결론을 내지 못했습니다. 이번 보도에서 김 장관은 이재명 대통령도 합의제 운영이 가능하다는 입장이라고 설명했습니다.",
+        "다만 이는 장관 인터뷰에서 전한 정부·대통령의 입장입니다. 별도의 공식 문서나 대통령실 발표를 이 회차에서 독립적으로 확인한 것은 아니며, 민주노총의 복귀 결정도 아직 나오지 않았습니다.",
+        "상설 대화가 재개되면 AI 도입, 플랫폼 노동, 정년 연장 같은 쟁점을 노사정이 함께 논의할 통로가 넓어질 수 있습니다. 다음 변수는 민주노총의 내부 의사결정과 메가특구 관련 원포인트 대화의 진행입니다."
+      ],
+      "timeline": {
+        "change": "10월 7일 표결 무산 뒤 11일 장관 인터뷰에서 정부가 복귀 조건에 문서로 공감했다고 설명하고, 대통령도 합의제가 가능하다고 말했다고 전했습니다. 복귀 결정은 아직 없습니다.",
+        "eventDate": "2026-10-11",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kctu-social-dialogue-return",
+        "issueTitle": "민주노총 사회적 대화 복귀 논의",
+        "stage": "후속"
+      },
+      "title": "김영훈 장관 \"민주노총, 경사노위 복귀해야\"…정부는 조건에 공감했다고 밝혀",
+      "topicKey": "kctu-social-dialogue-return",
+      "uncertainty": "정부 입장은 장관의 인터뷰 발언을 통해 확인됐으며 민주노총의 복귀나 제도 변경은 확정되지 않았습니다.",
+      "whatChanged": "장관이 민주노총의 경사노위 복귀를 촉구하며 정부가 조건에 공감했다고 밝혔습니다.",
+      "whyItMatters": "AI·플랫폼 노동과 정년 등 갈등 사안을 논의할 상설 통로의 재개 가능성과 관련됩니다."
+    },
+    {
+      "category": "스포츠",
+      "emphasis": [
+        "한국은 지난해 김하윤에 이어 여자 최중량급에서 2년 연속 세계선수권 금메달을 따냈습니다.",
+        "여자 78kg 이상급 결승에서 프랑스의 로만 디코를 한판으로 꺾고 우승했습니다."
+      ],
+      "eventAt": null,
+      "eventTimeNote": "결승은 바쿠 현지 10월 10일에 열렸으며 정확한 경기 시각은 확인하지 않았습니다.",
+      "factsHash": "88c66297bdb751688a71c1695efad98cbc0ff1bc2fdb5260eb96c0893c54992d",
+      "fallbackNote": null,
+      "followUp": null,
+      "id": "hyeonji-lee-judo-world-champion-2026-10-10",
+      "imageUrl": null,
+      "keyFacts": {
+        "asianGames": "10월 2일 아시안게임 은메달",
+        "athlete": "이현지 (19·용인대)",
+        "event": "2026 국제유도연맹 세계선수권 여자 78kg 이상급",
+        "final": "로만 디코(프랑스)에 한판승",
+        "korea": "여자 최중량급 2년 연속 우승"
+      },
+      "publishedAt": "2026-10-11T07:56:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-11T07:56:00+09:00",
+          "title": "유도 이현지, 세계선수권대회 최중량급 우승",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0107_202610110756401210",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 89.85,
+      "scoreComponents": {
+        "domesticImpact": 84,
+        "importance": 75,
+        "interest": 90,
+        "recency": 100,
+        "reliability": 92
+      },
+      "scoreReason": "확정된 국제대회 성과이며 YTN과 조선일보가 결승 결과를 각각 보도했습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-11T07:56:00+09:00",
+          "title": "유도 이현지, 세계선수권대회 최중량급 우승",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0107_202610110756401210",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "조선일보",
+          "publishedAt": "2026-10-11T08:01:00+09:00",
+          "title": "이현지, 유도 세계선수권 여자 최중량급 우승",
+          "updatedAt": "2026-10-11T08:04:00+09:00",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/11/LXIOWCYQINFH3MU67JUDYYPUPI/",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "이현지(19·용인대)가 10일(현지시간) 아제르바이잔 바쿠에서 열린 세계유도선수권 여자 78kg 이상급 결승에서 프랑스의 로만 디코를 한판으로 꺾고 우승했습니다. YTN 보도에 따르면 다리대돌리기로 절반을 얻은 뒤 곁누르기로 승부를 끝냈습니다.",
+        "이현지는 1라운드부터 준결승까지 모든 경기를 1분 안에 한판승으로 마쳤고 결승도 한판으로 이겼습니다. 한국은 지난해 김하윤에 이어 여자 최중량급에서 2년 연속 세계선수권 금메달을 따냈습니다.",
+        "이번 우승은 지난 10월 2일 아시안게임 결승에서 중국 뉴신란에게 패해 은메달에 그친 뒤 거둔 결과입니다. 한 체급에서 세계선수권 정상권을 유지하면서 차세대 선수의 국제 경쟁력을 보여줬습니다.",
+        "대회 결과 자체는 확정됐습니다. 다만 한 번의 우승만으로 향후 올림픽 성적이나 세대교체의 완결을 단정할 수는 없습니다."
+      ],
+      "timeline": {
+        "change": "이현지가 세계선수권 여자 최중량급 결승에서 우승해 한국의 2년 연속 체급 금메달을 이었습니다.",
+        "eventDate": "2026-10-10",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Baku",
+        "issueId": "hyeonji-lee-judo-world-championship-2026",
+        "issueTitle": "유도 선수 이현지의 세계선수권 성과",
+        "stage": "결과"
+      },
+      "title": "유도 이현지, 세계선수권 여자 최중량급 우승…한국 2년 연속 금메달",
+      "topicKey": "hyeonji-lee-judo-world-championship-2026",
+      "uncertainty": "대회 우승은 확정됐지만 향후 올림픽 성적까지 예측할 근거는 아닙니다.",
+      "whatChanged": "아시안게임 은메달 뒤 세계선수권 정상에 올랐고 토너먼트에서 연속 한판승을 거뒀습니다.",
+      "whyItMatters": "한국 유도의 국제 경쟁력과 차세대 선수층을 확인할 수 있는 결과입니다."
+    },
+    {
+      "category": "사회",
+      "emphasis": [
+        "승객 168명은 모두 항공기에서 대피했습니다.",
+        "보조배터리 자체가 발화 원인으로 확정됐다는 조사 결과는 아직 보도되지 않았습니다."
+      ],
+      "eventAt": "2026-10-10T19:36:00+09:00",
+      "eventTimeNote": "뉴시스는 10일 오후 7시 36분 발생으로 보도했습니다.",
+      "factsHash": "5f0ba44165d2e685066d15d41dab86dd06310756b30111a596b2f09cad2eaf6d",
+      "fallbackNote": null,
+      "followUp": null,
+      "id": "jeju-air-7c227-battery-fire-2026-10-10",
+      "imageUrl": null,
+      "keyFacts": {
+        "cause": "보조배터리 발화로 추정, 원인 조사 미확정",
+        "evacuated": "168명 전원",
+        "flight": "제주항공 7C227",
+        "incidentAt": "2026-10-10T19:36:00+09:00",
+        "injuries": "보도 당시 인명 피해 없음",
+        "route": "청주→제주"
+      },
+      "publishedAt": "2026-10-10T21:34:30+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T21:34:30+09:00",
+          "title": "청주→제주 제주항공 여객기서 보조배터리 발화…승객 168명 전원 대피",
+          "updatedAt": "2026-10-10T21:40:52+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820697",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 86.1,
+      "scoreComponents": {
+        "domesticImpact": 90,
+        "importance": 90,
+        "interest": 88,
+        "recency": 82,
+        "reliability": 86
+      },
+      "scoreReason": "항공기 내 안전사고로 승객 전원 대피가 있었으며 항공사 점검과 원인 확인이 남아 있습니다. 원인을 확정하지 않았습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T21:34:30+09:00",
+          "title": "청주→제주 제주항공 여객기서 보조배터리 발화…승객 168명 전원 대피",
+          "updatedAt": "2026-10-10T21:40:52+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820697",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "10일 오후 7시 36분 청주공항에서 제주로 향하려던 제주항공 7C227편이 활주로 이동을 기다리던 중 승객의 파우치에서 연기가 났습니다. 파우치에는 보조배터리가 있었고 승무원이 리튬 배터리 화재 진압용 파우치로 진화했다고 뉴시스가 보도했습니다.",
+        "기내에 연기가 퍼져 승객 168명은 모두 항공기에서 대피했습니다. 보도 당시까지 인명 피해는 없는 것으로 전해졌고, 항공사는 연기를 빼낸 뒤 해당 항공기의 운항 가능 여부를 점검하고 있었습니다.",
+        "현재 확인된 것은 배터리가 든 파우치에서 연기가 발생했다는 점입니다. 보조배터리 자체가 발화 원인으로 확정됐다는 조사 결과는 아직 보도되지 않았습니다.",
+        "기내 배터리 사고는 짧은 시간에 객실 전체 대피로 이어질 수 있어 초기 진압 장비와 승무원 대응이 중요합니다. 항공기 점검 결과와 정확한 발화 원인은 후속 확인이 필요합니다."
+      ],
+      "timeline": {
+        "change": "청주공항 대기 중인 제주행 항공기 안에서 연기가 발생해 승객 168명이 대피했고 항공사가 기체를 점검했습니다.",
+        "eventDate": "2026-10-10",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "jeju-air-7c227-powerbank-fire-2026-10-10",
+        "issueTitle": "제주항공 7C227편 기내 배터리 연기 사고",
+        "stage": "보도"
+      },
+      "title": "청주발 제주행 여객기서 연기…승객 168명 전원 대피",
+      "topicKey": "jeju-air-7c227-battery-fire-2026-10-10",
+      "uncertainty": "보도 시점에는 인명 피해가 없다고 전해졌으며 정확한 발화 원인과 기체 점검 결과는 미확정입니다.",
+      "whatChanged": "보조배터리가 든 파우치에서 연기가 발생해 승무원이 리튬 배터리 화재용 파우치로 진화했습니다.",
+      "whyItMatters": "항공기 내 배터리 화재 대응과 승객 대피 절차의 중요성을 보여줍니다."
+    },
+    {
+      "category": "국제·사회",
+      "emphasis": [
+        "법적 사망 선고 대기 기간을 기존 12년에서 약 45일로 줄이는 법령 개정을 발표했다고 뉴시스가 AFP 보도를 인용해 전했습니다.",
+        "10월 3일 기준 1,455명이 숨지고 5,285명 넘게 실종 상태였습니다."
+      ],
+      "eventAt": null,
+      "eventTimeNote": "개정 발표는 10월 9일 현지 날짜만 확인되며 시각은 보도되지 않았습니다.",
+      "factsHash": "0bc79c76828f3f901de0245862dfaae4fb322b55a58e855f1bb5e60af5d98392",
+      "fallbackNote": null,
+      "followUp": null,
+      "id": "nepal-flood-missing-person-law-2026-10-10",
+      "imageUrl": null,
+      "keyFacts": {
+        "deathsAsOf2026-10-03": "최소 1,455명",
+        "firstVictimCompensation": "20만 네팔루피",
+        "missingAsOf2026-10-03": "5,285명 초과",
+        "previousWaitPeriod": "12년",
+        "revisedWaitPeriod": "약 45일"
+      },
+      "publishedAt": "2026-10-10T23:42:42+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T23:42:42+09:00",
+          "title": "네팔, 실종자 5000여 명 곧 사망 처리…네팔 정부 법령 개정",
+          "updatedAt": "2026-10-10T23:45:48+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820717",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 79.2,
+      "scoreComponents": {
+        "domesticImpact": 45,
+        "importance": 88,
+        "interest": 78,
+        "recency": 82,
+        "reliability": 82
+      },
+      "scoreReason": "대규모 재난 피해자 가족의 법적 지위와 보상 접근에 직접 영향을 주는 법 개정입니다. 피해 수치는 10월 3일 기준으로 표시했습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T23:42:42+09:00",
+          "title": "네팔, 실종자 5000여 명 곧 사망 처리…네팔 정부 법령 개정",
+          "updatedAt": "2026-10-10T23:45:48+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820717",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "네팔 정부가 재난으로 실종된 사람의 법적 사망 선고 대기 기간을 기존 12년에서 약 45일로 줄이는 법령 개정을 발표했다고 뉴시스가 AFP 보도를 인용해 전했습니다. 대통령은 10월 9일 현지시간 개정 사실을 밝혔습니다.",
+        "네팔 당국 집계로는 8월 26일 대홍수 이후 10월 3일 기준 1,455명이 숨지고 5,285명 넘게 실종 상태였습니다. 사망 증명서를 받지 못해 보상 신청과 상속 등 행정 절차가 막혀 있던 유족에게 법적 절차를 열어주려는 조치입니다.",
+        "네팔 정부는 첫 사망자에 20만 루피, 추가 사망자마다 10만 루피의 보상금과 장례비 지원을 운영한다고 보도됐습니다. 다만 법령 개정이 개별 실종자의 자동 사망 확정이나 보상금 즉시 지급을 뜻하지는 않습니다.",
+        "대규모 재난 뒤 수색이 장기화될 때 유족의 법적·경제적 공백을 어떻게 줄일지가 쟁점입니다. 개별 사건의 사망 선고 절차와 신청 요건이 실제로 어떻게 적용될지 지켜봐야 합니다."
+      ],
+      "timeline": {
+        "change": "네팔 대통령이 재난 실종자의 사망 선고 대기기간을 기존 12년에서 약 45일로 줄이는 법령 개정을 발표했습니다.",
+        "eventDate": "2026-10-09",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Kathmandu",
+        "issueId": "nepal-flood-missing-death-declaration-2026",
+        "issueTitle": "네팔 대홍수 실종자와 법적 사망 선고 절차",
+        "stage": "발표"
+      },
+      "title": "네팔, 재난 실종자 사망 선고 대기기간 12년에서 45일 안팎으로 단축",
+      "topicKey": "nepal-flood-missing-person-law-2026",
+      "uncertainty": "피해 집계는 10월 3일 기준이며, 개별 신청·심사 절차는 별도로 진행되어야 합니다.",
+      "whatChanged": "실종 상태가 이어져 사망증명서·보상·상속 처리가 막힌 유족에게 법적 절차를 앞당기려는 조치입니다.",
+      "whyItMatters": "개별 사망 선고와 보상 신청의 기준이 바뀌며 대규모 재난 뒤 행정 공백을 줄일 수 있습니다."
+    },
+    {
+      "category": "국제·기후",
+      "emphasis": [
+        "상륙 당시 2등급이던 세력이 약해진 뒤 앨라배마를 지나 북상했다고 전했습니다.",
+        "하루 약 150만 배럴 규모가 중단됐다는 미 연방 기관 발표도 기사에 인용됐습니다."
+      ],
+      "eventAt": null,
+      "eventTimeNote": "미국 현지 10월 9일 상륙으로 보도됐으며 정확한 시각은 사용하지 않았습니다.",
+      "factsHash": "368d17b6ab737cedd5a62a2dc0501a2578f43625f8d34444ace89fe61934818e",
+      "fallbackNote": null,
+      "followUp": null,
+      "id": "hurricane-isaias-us-gulf-impact-2026-10-09",
+      "imageUrl": null,
+      "keyFacts": {
+        "landfall": "2026-10-09 현지",
+        "landfallCategory": "2등급",
+        "maximumWind": "시속 약 170km",
+        "offshoreProductionSuspended": "하루 약 150만 배럴 (미 연방 기관 발표 인용)",
+        "refineryCapacityAtRisk": "미국 정제능력의 2.4% (전문가 추산)"
+      },
+      "publishedAt": "2026-10-10T21:37:42+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스(AP 인용)",
+          "publishedAt": "2026-10-10T21:37:42+09:00",
+          "title": "美 플로리다 등 첫 허리케인 이사이아스 상륙…폭우·정전 피해",
+          "updatedAt": "2026-10-10T23:01:51+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820695",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "score": 79.0,
+      "scoreComponents": {
+        "domesticImpact": 65,
+        "importance": 82,
+        "interest": 76,
+        "recency": 82,
+        "reliability": 78
+      },
+      "scoreReason": "기상 재난과 멕시코만 원유 공급 차질을 함께 살피되 연료 가격 영향은 전문가 전망이 엇갈려 확정적으로 쓰지 않았습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스(AP 인용)",
+          "publishedAt": "2026-10-10T21:37:42+09:00",
+          "title": "美 플로리다 등 첫 허리케인 이사이아스 상륙…폭우·정전 피해",
+          "updatedAt": "2026-10-10T23:01:51+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820695",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "올해 대서양 첫 허리케인 이사이아스가 9일(미국 현지시간) 최고 시속 약 170km의 강풍을 동반해 미국 남부 걸프만 연안에 상륙했습니다. 뉴시스가 AP 보도를 인용한 10일 기사에서는 상륙 당시 2등급이던 세력이 약해진 뒤 앨라배마를 지나 북상했다고 전했습니다.",
+        "플로리다 팬핸들과 앨라배마 일부에서 수십만 명이 정전 피해를 입었고, 해안 침수와 내륙 홍수·토네이도 가능성이 남아 있었습니다. 멕시코만 원유 생산은 예방 차원에서 하루 약 150만 배럴 규모가 중단됐다는 미 연방 기관 발표도 기사에 인용됐습니다.",
+        "정유시설이 실제로 얼마나 멈추느냐에 따라 연료 가격 영향이 달라질 수 있다는 전문가 전망은 엇갈렸습니다. 한 분석가는 미국 전체 정제 능력의 2.4%에 해당하는 시설이 위험에 놓였다고 했지만, 다른 전문가는 전국 휘발유 가격 영향이 제한적일 수 있다고 봤습니다.",
+        "현재 확인되는 핵심은 폭풍의 상륙과 정전·생산 중단이며, 유가 상승은 확정 결과가 아니라 전망입니다. 피해 규모와 정유시설 가동 현황이 후속 변수입니다."
+      ],
+      "timeline": {
+        "change": "이사이아스가 미국 남부에 2등급으로 상륙한 뒤 약화했지만 정전·홍수 위험과 멕시코만 원유 생산 중단이 이어졌습니다.",
+        "eventDate": "2026-10-09",
+        "eventEndDate": null,
+        "eventTimezone": "America/Chicago",
+        "issueId": "hurricane-isaias-us-southeast-2026",
+        "issueTitle": "허리케인 이사이아스의 미국 남부 피해와 에너지 공급 영향",
+        "stage": "보도"
+      },
+      "title": "허리케인 이사이아스, 미 남부 상륙 뒤 약화…폭우·정전 위험 이어져",
+      "topicKey": "hurricane-isaias-us-southeast-2026",
+      "uncertainty": "유가·휘발유 가격 변화는 확정되지 않았고 전문가 전망도 달랐습니다.",
+      "whatChanged": "폭풍이 재난 대응과 원유 생산·정유 시설 가동에 동시에 영향을 주고 있습니다.",
+      "whyItMatters": "피해 복구뿐 아니라 공급 차질이 에너지 가격으로 번지는지도 중요합니다."
+    }
+  ],
+  "timezone": "Asia/Seoul",
+  "updatedAt": "2026-10-11T09:07:20+09:00"
+}

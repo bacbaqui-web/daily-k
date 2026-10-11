@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-11/am.json",
+      "category": "국제·기후",
+      "change": "이사이아스가 미국 남부에 2등급으로 상륙한 뒤 약화했지만 정전·홍수 위험과 멕시코만 원유 생산 중단이 이어졌습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T09:07:20+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "am",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-am",
+      "eventAt": null,
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 10월 9일 상륙으로 보도됐으며 정확한 시각은 사용하지 않았습니다.",
+      "eventTimezone": "America/Chicago",
+      "followUp": null,
+      "id": "2026-10-11-am/hurricane-isaias-us-gulf-impact-2026-10-09",
+      "keyFacts": {
+        "landfall": "2026-10-09 현지",
+        "landfallCategory": "2등급",
+        "maximumWind": "시속 약 170km",
+        "offshoreProductionSuspended": "하루 약 150만 배럴 (미 연방 기관 발표 인용)",
+        "refineryCapacityAtRisk": "미국 정제능력의 2.4% (전문가 추산)"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-10T21:37:42+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스(AP 인용)",
+          "publishedAt": "2026-10-10T21:37:42+09:00",
+          "title": "美 플로리다 등 첫 허리케인 이사이아스 상륙…폭우·정전 피해",
+          "updatedAt": "2026-10-10T23:01:51+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820695",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "hurricane-isaias-us-gulf-impact-2026-10-09",
+      "summary": [
+        "올해 대서양 첫 허리케인 이사이아스가 9일(미국 현지시간) 최고 시속 약 170km의 강풍을 동반해 미국 남부 걸프만 연안에 상륙했습니다. 뉴시스가 AP 보도를 인용한 10일 기사에서는 상륙 당시 2등급이던 세력이 약해진 뒤 앨라배마를 지나 북상했다고 전했습니다.",
+        "플로리다 팬핸들과 앨라배마 일부에서 수십만 명이 정전 피해를 입었고, 해안 침수와 내륙 홍수·토네이도 가능성이 남아 있었습니다. 멕시코만 원유 생산은 예방 차원에서 하루 약 150만 배럴 규모가 중단됐다는 미 연방 기관 발표도 기사에 인용됐습니다.",
+        "정유시설이 실제로 얼마나 멈추느냐에 따라 연료 가격 영향이 달라질 수 있다는 전문가 전망은 엇갈렸습니다. 한 분석가는 미국 전체 정제 능력의 2.4%에 해당하는 시설이 위험에 놓였다고 했지만, 다른 전문가는 전국 휘발유 가격 영향이 제한적일 수 있다고 봤습니다.",
+        "현재 확인되는 핵심은 폭풍의 상륙과 정전·생산 중단이며, 유가 상승은 확정 결과가 아니라 전망입니다. 피해 규모와 정유시설 가동 현황이 후속 변수입니다."
+      ],
+      "supersededBy": [],
+      "title": "허리케인 이사이아스, 미 남부 상륙 뒤 약화…폭우·정전 위험 이어져",
+      "uncertainty": "유가·휘발유 가격 변화는 확정되지 않았고 전문가 전망도 달랐습니다."
+    }
+  ],
+  "id": "hurricane-isaias-us-southeast-2026",
+  "schemaVersion": 1,
+  "title": "허리케인 이사이아스의 미국 남부 피해와 에너지 공급 영향",
+  "updatedAt": "2026-10-11T09:07:20+09:00"
+}

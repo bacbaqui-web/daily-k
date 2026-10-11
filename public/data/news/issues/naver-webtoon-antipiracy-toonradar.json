@@ -62,6 +62,67 @@
       "uncertainty": "회사 자체 분석, 전체 시장으로 일반화할 수 없음"
     },
     {
+      "briefingPath": "2026-10-11/am.json",
+      "category": "웹툰 산업",
+      "change": "네이버웹툰이 10월 8일 설명한 툰레이더 V6의 식별 정확도와 2025년·2026년 1분기 유출 지연 지표가 11일 보도로 구체화됐습니다. 수치는 회사 자체 집계입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T09:07:20+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "am",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-am",
+      "eventAt": null,
+      "eventDate": "2026-10-08",
+      "eventEndDate": null,
+      "eventTimeNote": "기사에서 성과의 기준 기간과 최초 도입 시각은 일부 구간별로만 제시됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "9월 30일 불법 사이트 폐쇄 전후 구매 분석 이후, 이번에는 툰레이더 V6의 워터마크·사전탐지 방식과 2025년 유출 지연, 2026년 1분기 24시간 내 유출 감소 수치가 새로 보도됐습니다. 모두 회사 자체 지표입니다.",
+        "editionId": "2026-10-02-am",
+        "storyId": "naver-webtoon-toonradar-2026-09-report"
+      },
+      "id": "2026-10-11-am/naver-webtoon-toonradar-v6-performance-2026-10-11",
+      "keyFacts": {
+        "averageDomesticLeakDelay": "3~4주 (회사 설명)",
+        "costPerLeakedEpisodeSet": "2025년 계정당 평균 대여 회차 기존의 1/10",
+        "identificationAccuracy": "회사 발표 99% 이상",
+        "payments": "효과가 컸던 10개 작품 합계 결제액 평균 23% 증가",
+        "sameDayLeaks": "인기 상위 50작품 공개 당일 유출 약 80% 감소",
+        "toonRadarVersion": "V6 (2024년 개편)",
+        "within24hLeaks": "2026년 1분기 연초 대비 약 90% 감소"
+      },
+      "previous": {
+        "editionId": "2026-10-02-am",
+        "storyId": "naver-webtoon-toonradar-2026-09-report"
+      },
+      "publishedAt": "2026-10-11T06:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T06:00:00+09:00",
+          "title": "\"몰래 퍼간 웹툰, 누가 훔쳤는지 안다\"…그림 속 숨은 AI 추적자",
+          "updatedAt": null,
+          "url": "https://mobile.newsis.com/view/NISX20261008_0003819485",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "stage": "분석",
+      "status": "보도",
+      "storyId": "naver-webtoon-toonradar-v6-performance-2026-10-11",
+      "summary": [
+        "네이버웹툰의 불법유통 추적 기술 ‘툰레이더’가 이미지에 보이지 않는 사용자 식별 정보를 심어 유출 계정을 찾아내고, 의심 계정을 사전에 탐지한다고 뉴시스가 보도했습니다. 네이버웹툰에 따르면 2024년 고도화한 V6는 유출 원고에서 계정을 식별하는 정확도가 99% 이상입니다.",
+        "회사는 2025년 유출 시도 계정당 평균 대여 회차가 기존의 10분의 1로 줄어 같은 양을 확보하는 비용이 10배 이상 늘었다고 설명했습니다. 국내 최대 불법 사이트 기준으로 인기 상위 50개 작품의 유출 지연 회차는 전년 초보다 약 3배 늘고, 공개 당일 유출 작품 수는 약 80% 줄었다는 수치도 제시했습니다.",
+        "올해 1분기에는 최신 유료 회차가 공개 24시간 안에 유출되는 작품 수가 연초 대비 약 90% 감소했고, 효과가 컸던 10개 작품의 합계 결제액은 평균 23% 올랐다고 회사는 밝혔습니다. 국내 웹툰의 평균 유출까지 걸리는 시간이 3~4주라는 설명도 포함됐습니다.",
+        "이번 기사는 지난 9월 네이버웹툰이 공개한 불법사이트 폐쇄 후 결제 증가 분석에 이어, 탐지 기술과 유출 지연 성과를 구체화합니다. 다만 수치는 네이버웹툰 자체 분석이므로 독립적인 감사 결과나 모든 플랫폼에 일반화된 효과로 볼 수 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "네이버웹툰 툰레이더, 유출자 추적 넘어 최신 회차 유출 지연에 초점",
+      "uncertainty": "99%·90%·23% 등 성과는 네이버웹툰이 제시한 수치이며 독립 검증 결과는 기사에서 확인되지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 394,
@@ -109,5 +170,5 @@
   "id": "naver-webtoon-antipiracy-toonradar",
   "schemaVersion": 1,
   "title": "네이버웹툰 불법 유통 차단과 정식 구매 전환",
-  "updatedAt": "2026-10-10T20:41:04+09:00"
+  "updatedAt": "2026-10-11T09:07:20+09:00"
 }

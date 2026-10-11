@@ -72,10 +72,68 @@
       "supersededBy": [],
       "title": "민주노총 사회적 대화 복귀안, 정족수 부족으로 표결 무산",
       "uncertainty": "부결된 안건이 아니라 표결 자체가 무산된 상태입니다. 온라인 대회 개최와 최종 복귀 여부는 결정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-10-11/am.json",
+      "category": "국내·노동정책",
+      "change": "10월 7일 표결 무산 뒤 11일 장관 인터뷰에서 정부가 복귀 조건에 문서로 공감했다고 설명하고, 대통령도 합의제가 가능하다고 말했다고 전했습니다. 복귀 결정은 아직 없습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T09:07:20+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "am",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-am",
+      "eventAt": null,
+      "eventDate": "2026-10-11",
+      "eventEndDate": null,
+      "eventTimeNote": "정확한 인터뷰 시각과 정부 문서 전달 시점은 기사에 특정되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "10월 7일 표결 무산 이후 11일 공개된 장관 인터뷰에서 정부가 복귀 조건에 문서로 공감했다고 밝혔고 대통령도 합의제가 가능하다는 입장이라고 설명했습니다. 민주노총의 복귀는 미결정입니다.",
+        "editionId": "2026-10-08-am",
+        "storyId": "kctu-social-dialogue-vote-2026-10-07"
+      },
+      "id": "2026-10-11-am/kctu-social-dialogue-minister-interview-2026-10-11",
+      "keyFacts": {
+        "decision": "민주노총의 상설 대화 복귀 미결정",
+        "ministerPosition": "장관 인터뷰에서 정부가 조건에 문서로 공감했다고 설명",
+        "returnConditions": "합의제·산별 참여 보장·명칭 변경",
+        "voteDate": "2026-10-07"
+      },
+      "previous": {
+        "editionId": "2026-10-08-am",
+        "storyId": "kctu-social-dialogue-vote-2026-10-07"
+      },
+      "publishedAt": "2026-10-11T05:59:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-11T05:59:00+09:00",
+          "title": "김영훈 \"민주노총, 경사노위 들어와야…복귀조건에 정부도 공감\"",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261010024800530",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "kctu-social-dialogue-minister-interview-2026-10-11",
+      "summary": [
+        "김영훈 고용노동부 장관이 민주노총에 경제사회노동위원회(경사노위) 중심의 상설 사회적 대화에 복귀하라고 촉구했습니다. 정부가 민주노총의 복귀 조건에 이미 문서로 공감 입장을 전달했다고 장관은 연합뉴스 인터뷰에서 밝혔습니다.",
+        "민주노총은 10월 7일 합의제 운영, 산별노조 참여 보장, 기구 명칭 변경을 조건으로 복귀안을 표결하려 했지만 정족수 부족으로 결론을 내지 못했습니다. 이번 보도에서 김 장관은 이재명 대통령도 합의제 운영이 가능하다는 입장이라고 설명했습니다.",
+        "다만 이는 장관 인터뷰에서 전한 정부·대통령의 입장입니다. 별도의 공식 문서나 대통령실 발표를 이 회차에서 독립적으로 확인한 것은 아니며, 민주노총의 복귀 결정도 아직 나오지 않았습니다.",
+        "상설 대화가 재개되면 AI 도입, 플랫폼 노동, 정년 연장 같은 쟁점을 노사정이 함께 논의할 통로가 넓어질 수 있습니다. 다음 변수는 민주노총의 내부 의사결정과 메가특구 관련 원포인트 대화의 진행입니다."
+      ],
+      "supersededBy": [],
+      "title": "김영훈 장관 \"민주노총, 경사노위 복귀해야\"…정부는 조건에 공감했다고 밝혀",
+      "uncertainty": "정부 입장은 장관의 인터뷰 발언을 통해 확인됐으며 민주노총의 복귀나 제도 변경은 확정되지 않았습니다."
     }
   ],
   "id": "kctu-social-dialogue-return",
   "schemaVersion": 1,
   "title": "민주노총 사회적 대화 복귀 논의",
-  "updatedAt": "2026-10-10T20:41:04+09:00"
+  "updatedAt": "2026-10-11T09:07:20+09:00"
 }

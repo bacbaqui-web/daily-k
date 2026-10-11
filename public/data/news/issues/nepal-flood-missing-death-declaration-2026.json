@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-11/am.json",
+      "category": "국제·사회",
+      "change": "네팔 대통령이 재난 실종자의 사망 선고 대기기간을 기존 12년에서 약 45일로 줄이는 법령 개정을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T09:07:20+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "am",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-am",
+      "eventAt": null,
+      "eventDate": "2026-10-09",
+      "eventEndDate": null,
+      "eventTimeNote": "개정 발표는 10월 9일 현지 날짜만 확인되며 시각은 보도되지 않았습니다.",
+      "eventTimezone": "Asia/Kathmandu",
+      "followUp": null,
+      "id": "2026-10-11-am/nepal-flood-missing-person-law-2026-10-10",
+      "keyFacts": {
+        "deathsAsOf2026-10-03": "최소 1,455명",
+        "firstVictimCompensation": "20만 네팔루피",
+        "missingAsOf2026-10-03": "5,285명 초과",
+        "previousWaitPeriod": "12년",
+        "revisedWaitPeriod": "약 45일"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-10T23:42:42+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-10T23:42:42+09:00",
+          "title": "네팔, 실종자 5000여 명 곧 사망 처리…네팔 정부 법령 개정",
+          "updatedAt": "2026-10-10T23:45:48+09:00",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820717",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "nepal-flood-missing-person-law-2026-10-10",
+      "summary": [
+        "네팔 정부가 재난으로 실종된 사람의 법적 사망 선고 대기 기간을 기존 12년에서 약 45일로 줄이는 법령 개정을 발표했다고 뉴시스가 AFP 보도를 인용해 전했습니다. 대통령은 10월 9일 현지시간 개정 사실을 밝혔습니다.",
+        "네팔 당국 집계로는 8월 26일 대홍수 이후 10월 3일 기준 1,455명이 숨지고 5,285명 넘게 실종 상태였습니다. 사망 증명서를 받지 못해 보상 신청과 상속 등 행정 절차가 막혀 있던 유족에게 법적 절차를 열어주려는 조치입니다.",
+        "네팔 정부는 첫 사망자에 20만 루피, 추가 사망자마다 10만 루피의 보상금과 장례비 지원을 운영한다고 보도됐습니다. 다만 법령 개정이 개별 실종자의 자동 사망 확정이나 보상금 즉시 지급을 뜻하지는 않습니다.",
+        "대규모 재난 뒤 수색이 장기화될 때 유족의 법적·경제적 공백을 어떻게 줄일지가 쟁점입니다. 개별 사건의 사망 선고 절차와 신청 요건이 실제로 어떻게 적용될지 지켜봐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "네팔, 재난 실종자 사망 선고 대기기간 12년에서 45일 안팎으로 단축",
+      "uncertainty": "피해 집계는 10월 3일 기준이며, 개별 신청·심사 절차는 별도로 진행되어야 합니다."
+    }
+  ],
+  "id": "nepal-flood-missing-death-declaration-2026",
+  "schemaVersion": 1,
+  "title": "네팔 대홍수 실종자와 법적 사망 선고 절차",
+  "updatedAt": "2026-10-11T09:07:20+09:00"
+}

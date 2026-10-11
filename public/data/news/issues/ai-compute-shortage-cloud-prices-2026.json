@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-11/am.json",
+      "category": "기술·AI",
+      "change": "H100 기반 1년 계약 임대비가 1년 새 60% 상승했다는 분석과 대형 모델 기업·스타트업의 GPU 확보 경쟁이 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-11T09:07:20+09:00",
+      "coveredOn": "2026-10-11",
+      "edition": "am",
+      "editionDate": "2026-10-11",
+      "editionId": "2026-10-11-am",
+      "eventAt": null,
+      "eventDate": "2026-10-11",
+      "eventEndDate": null,
+      "eventTimeNote": "임대료 비교의 정확한 시작·종료일은 기사에 월 단위로만 표현됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-11-am/ai-compute-rental-price-surge-2026-10-11",
+      "keyFacts": {
+        "anthropicCompute": "SpaceX로부터 전력 기준 300MW 초과 연산자원 임대 계약 (기사 인용)",
+        "contract": "1년 임대 계약 시간당 비용",
+        "gpu": "NVIDIA H100 기반 연산자원",
+        "priceChange": "1년 새 60% 상승 (SemiAnalysis 집계 인용)",
+        "startupAdvancePayment": "계약액 최대 30% 선납 요구 사례"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-11T04:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-11T04:00:00+09:00",
+          "title": "AI칩 빌리는 값 1년새 60% 뛰었다…클로드도 연산 모자라 장애 잦았다",
+          "updatedAt": null,
+          "url": "https://www.newsis.com/view/NISX20261011_0003820733",
+          "verifiedAt": "2026-10-11T09:07:20+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "ai-compute-rental-price-surge-2026-10-11",
+      "summary": [
+        "AI 모델 개발과 서비스 운영에 필요한 GPU 연산 자원을 확보하기 어려워지면서 임대료와 장기 계약 부담이 커지고 있다고 뉴시스가 보도했습니다. 데이터·컨설팅업체 세미애널리시스 집계로는 엔비디아 H100 기반 연산 자원의 1년 계약 시간당 비용이 1년 사이 60% 올랐습니다.",
+        "보도는 앤트로픽의 코딩 도구 수요가 늘면서 회사가 연산 자원을 추가 확보했고, 구글 내부에서도 제한된 자원을 어느 프로젝트에 먼저 배정할지를 두고 갈등이 있었다고 전했습니다. 새 데이터센터 건설은 수년이 걸려 발표된 계획이 즉시 사용 가능한 공급으로 이어지지 않는다는 지적도 나왔습니다.",
+        "대형 사업자는 자원 계약에 더 많은 돈을 쓸 수 있지만, 스타트업은 공급업체가 요구하는 다년 계약이나 최대 30% 선납금에 노출될 수 있습니다. 결국 AI 경쟁은 모델 성능뿐 아니라 전력·데이터센터·GPU를 언제 얼마에 확보하느냐의 문제로 넓어지고 있습니다.",
+        "60%는 H100 기반 자원의 특정 1년 임대 계약 비용을 비교한 수치입니다. 모든 GPU 가격이나 모든 클라우드 고객의 비용이 같은 폭으로 올랐다는 뜻은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "AI 연산 자원 부족에 GPU 임대료 상승…H100 1년 계약 시간당 비용 60%↑",
+      "uncertainty": "비용 비교는 H100 기반 1년 계약의 시간당 임대비이며 전체 GPU 시장 가격을 뜻하지 않습니다."
+    }
+  ],
+  "id": "ai-compute-shortage-cloud-prices-2026",
+  "schemaVersion": 1,
+  "title": "AI 연산 자원 공급 부족과 임대 비용 상승",
+  "updatedAt": "2026-10-11T09:07:20+09:00"
+}

@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "count": 7,
+      "cutoffAt": "2026-10-11T09:00:00+09:00",
+      "date": "2026-10-11",
+      "edition": "am",
+      "generatedAt": "2026-10-11T09:07:20+09:00",
+      "headline": "AI 연산 자원 부족에 GPU 임대료 상승…H100 1년 계약 시간당 비용 60%↑",
+      "id": "2026-10-11-am",
+      "path": "2026-10-11/am.json"
+    },
+    {
       "count": 6,
       "cutoffAt": "2026-10-10T20:30:00+09:00",
       "date": "2026-10-10",
@@ -568,5 +578,5 @@
   ],
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-10T20:41:04+09:00"
+  "updatedAt": "2026-10-11T09:07:20+09:00"
 }
