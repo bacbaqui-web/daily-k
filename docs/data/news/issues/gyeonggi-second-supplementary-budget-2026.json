@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-12/pm.json",
+      "category": "국내·정책",
+      "change": "경기도의회가 제2회 추경을 의결하고 민생 예산 복원분을 확정했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T21:12:05+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "pm",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-12",
+      "eventEndDate": null,
+      "eventTimeNote": "경기도의회 의결은 10월 12일 보도됐으나 표결의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-12-pm/gyeonggi-second-supplementary-budget-2026-10-12",
+      "keyFacts": {
+        "보도된 전체 규모": "약 39조9천억원",
+        "복원된 민생 예산": "216억원",
+        "실제 집행 결과": "후속 확인 필요",
+        "추경": "2026년 제2회 추가경정예산 의결"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-12T18:49:37+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T18:49:37+09:00",
+          "title": "경기도 2회 추경 39조 9천억원 의결…민생예산 216억원 복원",
+          "updatedAt": "2026-10-12T18:59:02+09:00",
+          "url": "https://nwww.newsis.com/view/NISX20261012_0003822583",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "gyeonggi-second-supplementary-budget-2026-10-12",
+      "summary": [
+        "경기도의회가 12일 제2회 추가경정예산안을 의결했습니다. 뉴시스 보도는 전체 추경 규모를 약 39조9천억원으로 전하고, 심사 과정에서 삭감됐던 민생 관련 예산 216억원이 복원됐다고 설명했습니다.",
+        "예산안 의결로 관련 사업을 집행할 수 있는 재정상 근거가 마련됐지만, 각 사업이 실제로 언제 시작되고 누가 지원을 받는지는 집행부의 세부 계획과 공고를 확인해야 합니다.",
+        "예산 편성액과 실제 지출액은 다를 수 있습니다. 따라서 이번 의결은 사업의 최종 성과나 모든 신청자의 지원 확정을 뜻하지 않습니다."
+      ],
+      "supersededBy": [],
+      "title": "경기도 2차 추경 의결…삭감됐던 민생 예산 216억원 복원",
+      "uncertainty": "기사에 나온 216억원은 복원된 예산 규모입니다. 실제 집행액·수혜 규모는 확정된 결과가 아닙니다."
+    }
+  ],
+  "id": "gyeonggi-second-supplementary-budget-2026",
+  "schemaVersion": 1,
+  "title": "경기도 2026년 제2회 추가경정예산",
+  "updatedAt": "2026-10-12T21:12:05+09:00"
+}

@@ -1,0 +1,768 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-10-12T21:00:00+09:00",
+      "date": "2026-10-12",
+      "edition": "pm",
+      "events": [
+        {
+          "at": "2026-10-13T09:00:00+09:00",
+          "date": "2026-10-13",
+          "detail": "오늘 급락 이후 외국인 현물 수급과 반도체 대형주 흐름을 확인할 첫 거래 시점입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "en",
+            "name": "한국거래소",
+            "publishedAt": null,
+            "title": "Trading Hours",
+            "updatedAt": null,
+            "url": "https://global.krx.co.kr/contents/GLB/06/0602/0602020204/GLB0602020204T1.jsp",
+            "verifiedAt": "2026-10-12T21:12:05+09:00"
+          },
+          "timeNote": "한국거래소 정규 주식시장 개장 시각입니다.",
+          "title": "한국거래소 정규시장 개장"
+        },
+        {
+          "at": "2026-10-13T10:00:00+09:00",
+          "date": "2026-10-13",
+          "detail": "정부세종청사에서 국무회의가 예정돼 있습니다. 안건·정책 발표는 확인되지 않았으므로 결과를 미리 단정하지 않습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "병무청",
+            "publishedAt": null,
+            "title": "2026년 10월 청장 일정",
+            "updatedAt": null,
+            "url": "https://mma.go.kr/boncheong/cheongjang/scheduleMonth.do",
+            "verifiedAt": "2026-10-12T21:12:05+09:00"
+          },
+          "timeNote": "정부 일정표 기준 시각입니다.",
+          "title": "국무회의"
+        },
+        {
+          "at": "2026-10-13T10:00:00+09:00",
+          "date": "2026-10-13",
+          "detail": "코엑스에서 10월 13~16일 열립니다. AX·로보틱스·디지털헬스·모빌리티 등 전자·IT 기술이 전시됩니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "코엑스",
+            "publishedAt": null,
+            "title": "KES 2026(한국전자전)",
+            "updatedAt": null,
+            "url": "https://www.coex.co.kr/exhibitions/kes-2026%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%A0%84/?list_type=LIST&search_end_date=2026.11.03&search_start_date=2026.10.03&var_page=1",
+            "verifiedAt": "2026-10-12T21:12:05+09:00"
+          },
+          "timeNote": "전시 관람 시간 기준이며 개막식 시각은 별도 확인되지 않았습니다.",
+          "title": "KES 2026 한국전자전 개막"
+        },
+        {
+          "at": "2026-10-13T22:30:00+09:00",
+          "date": "2026-10-13",
+          "detail": "미국 증시가 개장합니다. 한국 시장 급락 뒤 반도체·AI 관련주의 해외 투자심리와 미국 주요 지수 흐름을 확인할 변수입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "en",
+            "name": "NYSE",
+            "publishedAt": null,
+            "title": "Holidays & Trading Hours",
+            "updatedAt": null,
+            "url": "https://www.nyse.com/trade/hours-calendars",
+            "verifiedAt": "2026-10-12T21:12:05+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 09:30을 한국시간으로 환산했습니다.",
+          "title": "뉴욕증권거래소 정규장 개장"
+        }
+      ],
+      "generatedAt": "2026-10-12T21:12:05+09:00",
+      "id": "2026-10-12-pm",
+      "intro": "10월 12일 저녁 브리핑입니다. 오늘 국내 시장 마감과 오후에 새로 확인된 결과·발표를 중심으로 정리했습니다.",
+      "keywords": [
+        "코스피 6384.24",
+        "외국인 2조원 순매도",
+        "4거래일 연속 하락",
+        "노벨경제학상 공동 수상",
+        "EU 러시아 제재 확대",
+        "한전채 발행 한도",
+        "전기요금 25조 선납 제안",
+        "경기도 추경 216억원 복원",
+        "CacheX 체크포인트 저장",
+        "뉴욕 코믹콘 포그랜드 5만명"
+      ],
+      "overview": [
+        "연휴 뒤 국내 증시는 외국인 현물 매도가 이어지며 코스피 6,400선 아래에서 마감했습니다. 종가와 투자자별 수급이 확정된 만큼, 다음 거래일에는 외국인 매도 흐름과 반도체 대형주 반응을 함께 볼 필요가 있습니다.",
+        "국제 분야에서는 노벨경제학상 수상 결과와 EU의 러시아 제재 확대가 발표됐습니다. 제재의 실제 효과는 집행을 지켜봐야 하며, 경제학상 연구도 특정 정책의 성과를 보장하는 처방으로 읽어서는 안 됩니다.",
+        "국내에서는 한전 사장이 전기요금 선납 제안과 전력망 비용 분담 구상을 설명했고, 경기도의회는 추경을 의결했습니다. 두 사안 모두 의결·발언과 실제 집행 또는 요금 변화를 구분해야 합니다.",
+        "기술과 콘텐츠에서는 서강대의 AI 학습 저장 연구가 국제학회에 채택됐고, 네이버웹툰은 뉴욕 코믹콘에서 포그랜드 부스 방문 수치를 공개했습니다. 학술 실험 성능과 행사 방문자 수가 각각 실제 서비스 성과·매출로 이어졌는지는 아직 확인되지 않았습니다."
+      ],
+      "overviewEmphasis": [
+        "코스피 6,400선 아래에서 마감했습니다",
+        "외국인 현물 매도가 이어지며",
+        "노벨경제학상 수상 결과와 EU의 러시아 제재 확대",
+        "발언과 실제 집행 또는 요금 변화를 구분",
+        "학회에 채택됐고",
+        "아직 확인되지 않았습니다"
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "증시·환율",
+          "emphasis": [
+            "6,384.24로 마감했습니다",
+            "43.08포인트(4.83%) 하락한 849.19",
+            "외국인은 현물시장에서 2조205억원",
+            "하루 하락을 하나의 원인으로 단정하기는 어렵습니다"
+          ],
+          "eventAt": "2026-10-12T15:30:00+09:00",
+          "eventTimeNote": "정규시장 종가 기준이며 장중 수치와 구분했습니다.",
+          "fallbackNote": null,
+          "followUp": {
+            "delta": "10월 8일 코스피 6,625.93·코스닥 892.27 마감 뒤 연휴 후 첫 거래일인 10월 12일 코스피는 6,384.24, 코스닥은 849.19로 추가 하락했습니다. 외국인 현물 순매도 약 2조원과 4거래일 연속 하락이 새로 확인됐습니다.",
+            "editionId": "2026-10-08-pm",
+            "storyId": "korea-market-2026-10-08-close"
+          },
+          "id": "korea-market-2026-10-12-close",
+          "keyFacts": {
+            "개인 순매수": "1조4,748억원",
+            "연속 하락": "4거래일",
+            "외국인 현물 순매도": "2조205억원",
+            "코스닥 종가": "849.19 (-4.83%)",
+            "코스피 종가": "6,384.24 (-3.65%)"
+          },
+          "publishedAt": "2026-10-12T15:33:22+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T15:33:22+09:00",
+              "title": "코스피, 6400선도 반납…3.65% 내린 6384.24 마감",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822440",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-12T16:23:00+09:00",
+              "title": "코스피, 외국인 매도 썰물에 3%대 하락…6380선 마감",
+              "updatedAt": null,
+              "url": "https://www.yna.co.kr/amp/view/AKR20261012082251008",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 100,
+            "importance": 96,
+            "interest": 94,
+            "recency": 0,
+            "reliability": 95
+          },
+          "scoreReason": "국내 금융시장 전체에 파급되는 종가 결과이며, 거래소·연합뉴스 계열 보도를 교차 확인했습니다. 과거 10월 8일 마감 기사와 수치·거래일 변화를 비교했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T15:33:22+09:00",
+              "title": "코스피, 6400선도 반납…3.65% 내린 6384.24 마감",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822440",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-12T16:23:00+09:00",
+              "title": "코스피, 외국인 매도 썰물에 3%대 하락…6380선 마감",
+              "updatedAt": null,
+              "url": "https://www.yna.co.kr/amp/view/AKR20261012082251008",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피는 12일 전 거래일보다 241.69포인트(3.65%) 내린 6,384.24로 마감했습니다. 코스닥도 43.08포인트(4.83%) 하락한 849.19를 기록했습니다.",
+            "연휴 전 마지막 거래일인 8일 코스피 종가는 6,625.93이었습니다. 이날 외국인은 현물시장에서 2조205억원, 기관은 1,228억원을 순매도했고 개인은 1조4,748억원 순매수했습니다.",
+            "시장은 미국 AI 산업 수익성 우려와 실적 시즌 경계 등을 배경으로 거론했지만, 하루 하락을 하나의 원인으로 단정하기는 어렵습니다. 다음 거래일에는 외국인 수급이 이어지는지, 반도체 대형주가 낙폭을 줄이는지 확인할 필요가 있습니다."
+          ],
+          "timeline": {
+            "change": "10월 12일 코스피·코스닥 종가와 투자자별 순매매가 확정됐습니다. 10월 8일 종가 이후 추가 하락을 기록했습니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피 6,384.24로 3.65% 하락…외국인 2조원 순매도",
+          "topicKey": "korea-market-close-2026-10-12",
+          "uncertainty": "장중 변동과 종가를 구분했습니다. 하락 배경에 대한 시장 해석은 확정 인과관계가 아닙니다.",
+          "whatChanged": "코스피가 4거래일 연속 하락해 6,400선을 내줬고, 외국인은 현물시장에서 약 2조원 순매도했습니다.",
+          "whyItMatters": "연휴 뒤 첫 거래일의 급락이어서 반도체·대형주 수급과 미국장 반응이 다음 거래일 투자심리에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "국제·경제",
+          "emphasis": [
+            "2026년 노벨 경제학상은 로버트 E. 홀 스탠퍼드대 교수와 마이클 우드포드 컬럼비아대 교수에게 돌아갔습니다",
+            "거시경제 안정화의 미시경제적 기초",
+            "가계와 기업의 개별 선택",
+            "특정 정책의 효과가 자동 확정되는 것은 아닙니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "수상 발표는 10월 12일에 이뤄졌으나 정확한 현지 발표 시각은 이 브리핑에서 확인한 한국어 기사에 명시되지 않았습니다.",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "nobel-economics-2026-hall-woodford",
+          "keyFacts": {
+            "발표일": "2026-10-12",
+            "수상 분야": "거시경제 안정화의 미시경제적 기초",
+            "수상 상태": "공동 수상자 선정 확정",
+            "수상자": "Robert E. Hall·Michael Woodford"
+          },
+          "publishedAt": "2026-10-12T20:14:43+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T20:14:43+09:00",
+              "title": "노벨경제학상 받은 로버트 홀·마이클 우드포드 교수는 누구",
+              "updatedAt": "2026-10-12T20:17:28+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822896",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-12T18:55:03+09:00",
+              "title": "[속보] 노벨경제학상에 로버트 홀·마이클 우드퍼드 공동 수상",
+              "updatedAt": "2026-10-12T18:55:03+09:00",
+              "url": "https://www1.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04480486645612264",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 62,
+            "importance": 86,
+            "interest": 82,
+            "recency": 0,
+            "reliability": 94
+          },
+          "scoreReason": "해당 연도 노벨상 결과라는 국제 주요 소식이며, 한국어 보도 두 곳에서 수상자와 선정 이유를 확인했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T20:14:43+09:00",
+              "title": "노벨경제학상 받은 로버트 홀·마이클 우드포드 교수는 누구",
+              "updatedAt": "2026-10-12T20:17:28+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822896",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-12T18:55:03+09:00",
+              "title": "[속보] 노벨경제학상에 로버트 홀·마이클 우드퍼드 공동 수상",
+              "updatedAt": "2026-10-12T18:55:03+09:00",
+              "url": "https://www1.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04480486645612264",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "2026년 노벨 경제학상은 로버트 E. 홀 스탠퍼드대 교수와 마이클 우드포드 컬럼비아대 교수에게 돌아갔습니다. 뉴시스와 이데일리는 12일 수상자와 선정 결과를 보도했습니다.",
+            "위원회가 밝힌 공로는 ‘거시경제 안정화의 미시경제적 기초’입니다. 가계와 기업의 개별 선택, 미래에 대한 기대가 물가·생산·고용과 통화정책 효과에 어떻게 이어지는지 설명하는 이론적 틀을 발전시킨 연구입니다.",
+            "이는 경제 충격에 대응하는 정책을 분석할 때 미시적 행동과 거시 결과를 함께 살펴야 한다는 접근을 보여줍니다. 다만 실제 정책은 데이터와 제도, 충격의 종류에 따라 달라지므로 수상 연구만으로 특정 정책의 효과가 자동 확정되는 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "2026년 경제학상 공동 수상자가 10월 12일 발표됐습니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Stockholm",
+            "issueId": "nobel-economics-2026",
+            "issueTitle": "2026년 노벨 경제학상",
+            "stage": "발표"
+          },
+          "title": "노벨경제학상, 로버트 홀·마이클 우드포드 공동 수상",
+          "topicKey": "nobel-economics-hall-woodford-2026",
+          "uncertainty": "수상 사유는 위원회의 설명을 요약했습니다. 수상자 연구가 모든 정책 상황에서 같은 결과를 보장한다는 뜻은 아닙니다.",
+          "whatChanged": "스웨덴 왕립과학원은 로버트 홀과 마이클 우드포드를 2026년 경제학상 공동 수상자로 선정했습니다.",
+          "whyItMatters": "가계·기업의 선택과 기대를 반영해 경기와 정책 효과를 설명하는 경제 모형의 기반을 다룬 연구여서 중앙은행·재정정책 분석과 연결됩니다."
+        },
+        {
+          "category": "국제·외교",
+          "emphasis": [
+            "개인·기업 1,600여 곳을 추가 제재",
+            "드론·미사일 부품 조달",
+            "제재 대상 전체는 4,500곳을 넘었습니다",
+            "제3국을 통한 우회 조달"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "제재 발표일은 10월 12일로 보도됐으나, 결정의 정확한 시각은 기사에서 확인되지 않았습니다.",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "eu-russia-sanctions-supply-networks-2026-10-12",
+          "keyFacts": {
+            "관련 품목": "미사일·드론 부품 공급망",
+            "전체 제재 대상": "4,500곳 초과",
+            "점령지 연계 인사": "77명 추가로 보도",
+            "추가 대상": "개인·기업 1,600여 곳"
+          },
+          "publishedAt": "2026-10-12T20:33:57+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T20:33:57+09:00",
+              "title": "EU, 러시아 개인·기업 1600여곳 추가 제재…미사일·드론 부품 공급망 겨냥",
+              "updatedAt": "2026-10-12T20:36:23+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822908",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "en",
+              "name": "AP통신",
+              "publishedAt": "2026-10-12T19:49:00+09:00",
+              "title": "EU sanctions 1,600 Russian people and companies over military supply networks",
+              "updatedAt": null,
+              "url": "https://apnews.com/article/12e244a70e6930f47acefde1754fa264",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 58,
+            "importance": 86,
+            "interest": 76,
+            "recency": 0,
+            "reliability": 90
+          },
+          "scoreReason": "EU의 공식 조치로 보도됐고 한국어 뉴시스와 AP 보도를 대조했습니다. 제재 발표와 실제 공급망 차단 성과를 분리했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T20:33:57+09:00",
+              "title": "EU, 러시아 개인·기업 1600여곳 추가 제재…미사일·드론 부품 공급망 겨냥",
+              "updatedAt": "2026-10-12T20:36:23+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822908",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "en",
+              "name": "AP통신",
+              "publishedAt": "2026-10-12T19:49:00+09:00",
+              "title": "EU sanctions 1,600 Russian people and companies over military supply networks",
+              "updatedAt": null,
+              "url": "https://apnews.com/article/12e244a70e6930f47acefde1754fa264",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "유럽연합이 12일 러시아의 군수품 공급망과 관련된 개인·기업 1,600여 곳을 추가 제재했다고 뉴시스와 AP가 보도했습니다. 대상에는 드론·미사일 부품 조달에 관여한 중간 공급자와 점령지 관련 인사들이 포함됐습니다.",
+            "보도에 따르면 점령 지역의 선거와 연관된 인사 77명도 명단에 추가됐으며, 제재 대상 전체는 4,500곳을 넘었습니다. EU가 내세운 목적은 러시아의 군수 생산과 전쟁 수행을 뒷받침하는 조달 경로를 제한하는 것입니다.",
+            "제재 발표는 대상자의 자산 동결·여행 제한과 기업 거래 제한으로 이어질 수 있지만, 공급망을 완전히 차단하는지는 별개입니다. 제3국을 통한 우회 조달과 실제 집행 결과는 아직 이번 발표만으로 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "EU가 러시아 전쟁 관련 제재 대상을 확대했다고 10월 12일 보도됐습니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Brussels",
+            "issueId": "eu-russia-sanctions-russia-war",
+            "issueTitle": "EU의 러시아 전쟁 관련 제재",
+            "stage": "확정"
+          },
+          "title": "EU, 러시아 군수 공급망 겨냥해 개인·기업 1,600여 곳 추가 제재",
+          "topicKey": "eu-russia-sanctions-supply-networks-2026-10-12",
+          "uncertainty": "EU의 결정과 제재 대상 추가 규모는 보도됐지만, 제재 회피를 얼마나 줄일지는 이후 집행 자료로 확인해야 합니다.",
+          "whatChanged": "유럽연합이 러시아의 미사일·드론 부품 조달과 점령지 관련 인사 등을 대상으로 제재 명단을 확대했습니다.",
+          "whyItMatters": "제재가 실제 조달망을 얼마나 끊는지는 집행과 제3국 경유 거래 차단에 달려 있습니다."
+        },
+        {
+          "category": "경제·에너지",
+          "emphasis": [
+            "전기요금 25조원을 미리 납부하는 방안",
+            "2027년 말 한전채 발행 한도",
+            "전기요금 조정이 필요할 수 있다고 말했습니다",
+            "확정됐다는 뜻은 아닙니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "국회 국정감사 발언은 10월 12일 보도됐으며 발언의 정확한 시각은 확인되지 않았습니다.",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "kepco-bond-cap-prepayment-tariff-2026-10-12",
+          "keyFacts": {
+            "기업 부담 구상": "삼성전자·SK하이닉스가 약 80% 부담",
+            "선납 제안 규모": "25조원",
+            "한전채 한도": "2027년 말 자기자본의 5배에서 2배로 축소 예정이라고 설명",
+            "호남 반도체 클러스터 1단계 전력 공급": "약 1조4천억원"
+          },
+          "publishedAt": "2026-10-12T20:42:42+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T20:42:42+09:00",
+              "title": "한전 사장 “삼성·SK 전기료 선납 25조 제안은 한전채 발행 최소화 목적”",
+              "updatedAt": "2026-10-12T20:52:24+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822557",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 82,
+            "interest": 87,
+            "recency": 0,
+            "reliability": 85
+          },
+          "scoreReason": "전기요금·공기업 부채·반도체 전력 공급이 연결된 사안입니다. 국정감사 발언과 확정된 정책을 구분했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T20:42:42+09:00",
+              "title": "한전 사장 “삼성·SK 전기료 선납 25조 제안은 한전채 발행 최소화 목적”",
+              "updatedAt": "2026-10-12T20:52:24+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822557",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "김동철 한국전력 사장은 국회 국정감사에서 삼성전자와 SK하이닉스에 전기요금 25조원을 미리 납부하는 방안을 제안한 이유를 설명했습니다. 한전채 발행을 최소화해 재무 부담을 줄이려는 취지라고 밝혔습니다.",
+            "김 사장은 2027년 말 한전채 발행 한도가 기존 자기자본의 5배에서 2배로 낮아질 예정이라고 설명하며, 그 경우 전기요금 조정이 필요할 수 있다고 말했습니다. 호남 반도체 클러스터 1단계 전력 공급에는 약 1조4천억원이 들고, 비용의 약 80%를 삼성전자와 SK하이닉스가 부담하는 구상도 언급했습니다.",
+            "이 발언은 국정감사에서 나온 한전 사장의 설명이며, 25조원 선납이나 전기요금 인상이 확정됐다는 뜻은 아닙니다. 실제 계약·요금 조정 여부와 채권 한도 관련 법령·재무 상황을 더 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "한전 사장이 국정감사에서 선납 제안의 재무적 배경과 요금·전력망 비용 부담 구상을 설명했습니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kepco-bond-cap-prepayment-tariff",
+            "issueTitle": "한전채 한도와 대규모 전력망 재원 조달",
+            "stage": "보도"
+          },
+          "title": "한전 사장 “삼성·SK 전기료 선납 25조 제안은 채권 발행 부담 완화 목적”",
+          "topicKey": "kepco-bond-cap-prepayment-tariff-2026-10-12",
+          "uncertainty": "25조원 선납과 요금 인상은 확정된 정책이 아니라 한전 사장의 설명·전망입니다.",
+          "whatChanged": "김동철 한전 사장은 국정감사에서 삼성전자·SK하이닉스에 제안한 전기요금 선납 구상을 한전채 발행 부담을 줄이려는 방안이라고 설명했습니다.",
+          "whyItMatters": "한전 부채 조달 규정과 반도체 산단 전력망 비용이 기업 전기요금·공공재정 논의로 이어질 수 있습니다."
+        },
+        {
+          "category": "국내·정책",
+          "emphasis": [
+            "제2회 추가경정예산안을 의결했습니다",
+            "민생 관련 예산 216억원이 복원",
+            "실제 지출액은 다를 수 있습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "경기도의회 의결은 10월 12일 보도됐으나 표결의 정확한 시각은 확인되지 않았습니다.",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "gyeonggi-second-supplementary-budget-2026-10-12",
+          "keyFacts": {
+            "보도된 전체 규모": "약 39조9천억원",
+            "복원된 민생 예산": "216억원",
+            "실제 집행 결과": "후속 확인 필요",
+            "추경": "2026년 제2회 추가경정예산 의결"
+          },
+          "publishedAt": "2026-10-12T18:49:37+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T18:49:37+09:00",
+              "title": "경기도 2회 추경 39조 9천억원 의결…민생예산 216억원 복원",
+              "updatedAt": "2026-10-12T18:59:02+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822583",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 87,
+            "importance": 77,
+            "interest": 70,
+            "recency": 0,
+            "reliability": 82
+          },
+          "scoreReason": "도 단위 예산의 의결 결과를 다룹니다. 의결된 예산과 향후 실제 집행·수혜 결과를 구별했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T18:49:37+09:00",
+              "title": "경기도 2회 추경 39조 9천억원 의결…민생예산 216억원 복원",
+              "updatedAt": "2026-10-12T18:59:02+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003822583",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "경기도의회가 12일 제2회 추가경정예산안을 의결했습니다. 뉴시스 보도는 전체 추경 규모를 약 39조9천억원으로 전하고, 심사 과정에서 삭감됐던 민생 관련 예산 216억원이 복원됐다고 설명했습니다.",
+            "예산안 의결로 관련 사업을 집행할 수 있는 재정상 근거가 마련됐지만, 각 사업이 실제로 언제 시작되고 누가 지원을 받는지는 집행부의 세부 계획과 공고를 확인해야 합니다.",
+            "예산 편성액과 실제 지출액은 다를 수 있습니다. 따라서 이번 의결은 사업의 최종 성과나 모든 신청자의 지원 확정을 뜻하지 않습니다."
+          ],
+          "timeline": {
+            "change": "경기도의회가 제2회 추경을 의결하고 민생 예산 복원분을 확정했습니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "gyeonggi-second-supplementary-budget-2026",
+            "issueTitle": "경기도 2026년 제2회 추가경정예산",
+            "stage": "확정"
+          },
+          "title": "경기도 2차 추경 의결…삭감됐던 민생 예산 216억원 복원",
+          "topicKey": "gyeonggi-second-supplementary-budget-2026-10-12",
+          "uncertainty": "기사에 나온 216억원은 복원된 예산 규모입니다. 실제 집행액·수혜 규모는 확정된 결과가 아닙니다.",
+          "whatChanged": "경기도의회가 2026년 제2회 추가경정예산안을 의결했고, 논의 과정에서 삭감됐던 민생 관련 예산 216억원이 복원됐습니다.",
+          "whyItMatters": "예산 의결은 사업 집행의 전제지만, 실제 지원 시기와 대상은 개별 사업의 후속 공고·집행 계획에서 확인해야 합니다."
+        },
+        {
+          "category": "기술·AI",
+          "emphasis": [
+            "CacheX 논문이 인공지능·머신러닝 학술대회 NeurIPS 2026에 채택됐다고",
+            "평가된 워크로드에서 최대 43배 줄였습니다",
+            "Frontier 슈퍼컴퓨터와 KISTI Neuron 시스템",
+            "실제 서비스에서의 비용·성능이나 운영 배포 여부는 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "연구 발표·실험의 정확한 발생 시각은 기사에 특정되지 않았습니다.",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "sogang-cachex-neurips-checkpoint-2026-10-12",
+          "keyFacts": {
+            "기술": "CacheX 분산 체크포인트 저장 계층",
+            "논문": "NeurIPS 2026 채택",
+            "저장 시간 편차": "평가 워크로드에서 최대 43배 감소했다고 연구팀 설명",
+            "평가 환경": "Frontier·KISTI Neuron"
+          },
+          "publishedAt": "2026-10-12T14:05:48+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T14:05:48+09:00",
+              "title": "서강대 연구팀, AI 학습 체크포인트 저장 편차 최대 43배 줄인 기술 개발",
+              "updatedAt": "2026-10-12T14:58:24+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821896",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "미주중앙일보",
+              "publishedAt": "2026-10-12T08:05:39+09:00",
+              "title": "서강대 연구팀, AI 학습 체크포인트 최적화 연구 ‘NeurIPS 2026’ 채택",
+              "updatedAt": null,
+              "url": "https://www.koreadaily.com/article/20261011230539699",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 78,
+            "importance": 81,
+            "interest": 91,
+            "recency": 0,
+            "reliability": 88
+          },
+          "scoreReason": "AI 인프라의 작업 안정성과 학습시간에 관계된 기술 연구입니다. 수치가 평가된 워크로드 결과라는 점을 명시하고 서로 다른 한국어 보도를 확인했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T14:05:48+09:00",
+              "title": "서강대 연구팀, AI 학습 체크포인트 저장 편차 최대 43배 줄인 기술 개발",
+              "updatedAt": "2026-10-12T14:58:24+09:00",
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821896",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "미주중앙일보",
+              "publishedAt": "2026-10-12T08:05:39+09:00",
+              "title": "서강대 연구팀, AI 학습 체크포인트 최적화 연구 ‘NeurIPS 2026’ 채택",
+              "updatedAt": null,
+              "url": "https://www.koreadaily.com/article/20261011230539699",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "서강대학교 김영재 교수 연구팀의 CacheX 논문이 인공지능·머신러닝 학술대회 NeurIPS 2026에 채택됐다고 뉴시스가 보도했습니다. 연구팀은 Frontier 슈퍼컴퓨터와 KISTI Neuron 시스템에서 성능을 평가했습니다.",
+            "연구팀 설명에 따르면 CacheX는 체크포인트 쓰기 시간의 변동계수를 평가된 워크로드에서 최대 43배 줄였습니다. 체크포인트는 학습 중인 모델의 상태를 저장해 장애가 났을 때 이전 시점부터 복구할 수 있도록 하는 데이터입니다.",
+            "이 기술은 로컬 메모리와 파트너 노드의 NVMe 저장장치를 거쳐 공유 파일시스템으로 데이터를 보내는 방식으로 지연·경합을 줄이려 합니다. 다만 수치는 특정 실험환경의 결과이며, 실제 서비스에서의 비용·성능이나 운영 배포 여부는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "AI 학습 저장 계층 연구의 학회 채택과 슈퍼컴퓨터 실험 결과가 보도됐습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "sogang-cachex-ai-training-checkpoint",
+            "issueTitle": "서강대 CacheX 분산 AI 학습 체크포인트 연구",
+            "stage": "발표"
+          },
+          "title": "서강대 CacheX, 대규모 AI 학습 체크포인트 저장 편차 최대 43배 줄여",
+          "topicKey": "sogang-cachex-neurips-checkpoint-2026-10-12",
+          "uncertainty": "43배 개선은 연구팀이 평가한 워크로드의 실험 결과입니다. 모든 AI 학습 환경에서 같은 성능이 보장되거나 상용 배포가 확인된 것은 아닙니다.",
+          "whatChanged": "서강대 연구팀이 체크포인트 저장 시간의 편차를 줄이는 CacheX 연구를 발표했고 논문은 NeurIPS 2026에 채택됐습니다.",
+          "whyItMatters": "대형 모델 학습 중 저장 지연을 줄이면 작업 중단·복구 시간을 관리하는 데 도움이 될 수 있습니다."
+        },
+        {
+          "category": "웹툰 산업",
+          "emphasis": [
+            "행사 나흘 동안 약 5만명이 방문",
+            "포고의 미국 첫 사인회",
+            "북미 행사 현장에서 확인된 팬 참여",
+            "실제 구독자 증가나 매출 효과도 공개되지 않아"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "뉴욕 코믹콘은 10월 8~11일 개최됐습니다. 네이버 발표가 전한 현장 방문 수치를 12일 한국어 보도가 소개했습니다.",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "webtoon-fogland-nycc-us-fandom-2026-10-12",
+          "keyFacts": {
+            "방문": "약 5만명; 회사 발표 인용",
+            "부스": "WEBTOON·포그랜드",
+            "작가 행사": "포고의 미국 첫 사인회",
+            "행사": "New York Comic Con 2026",
+            "행사 기간": "2026-10-08~2026-10-11 America/New_York"
+          },
+          "publishedAt": "2026-10-12T10:35:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "파이낸셜뉴스",
+              "publishedAt": "2026-10-12T10:35:00+09:00",
+              "title": "네이버웹툰 뉴욕 코믹콘 포그랜드 부스, 나흘간 5만명 방문",
+              "updatedAt": null,
+              "url": "https://www.fnnews.com/news/202610121035345074",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "네이버",
+              "publishedAt": null,
+              "title": "WEBTOON Entertainment, 3년 연속 뉴욕 코믹콘 참가…포그랜드 팬 행사 진행",
+              "updatedAt": null,
+              "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034744",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 75,
+            "interest": 93,
+            "recency": 0,
+            "reliability": 86
+          },
+          "scoreReason": "오늘 오전에 다룬 웹툰 애니메이션 협력 발표나 전날 마블 신작 소개와 다른 행사 현장 팬 참여 지표입니다. 공식 기업 발표와 한국어 기사를 함께 확인했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "파이낸셜뉴스",
+              "publishedAt": "2026-10-12T10:35:00+09:00",
+              "title": "네이버웹툰 뉴욕 코믹콘 포그랜드 부스, 나흘간 5만명 방문",
+              "updatedAt": null,
+              "url": "https://www.fnnews.com/news/202610121035345074",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "네이버",
+              "publishedAt": null,
+              "title": "WEBTOON Entertainment, 3년 연속 뉴욕 코믹콘 참가…포그랜드 팬 행사 진행",
+              "updatedAt": null,
+              "url": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034744",
+              "verifiedAt": "2026-10-12T21:12:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "네이버웹툰이 뉴욕 코믹콘 2026에 마련한 ‘포그랜드’ 부스에 행사 나흘 동안 약 5만명이 방문했다고 파이낸셜뉴스가 보도했습니다. 회사 측 발표에는 작품 창작자 포고의 미국 첫 사인회 등 현지 팬과의 만남도 포함됐습니다.",
+            "이번 소식의 초점은 작품의 새 영상화 발표가 아니라 북미 행사 현장에서 확인된 팬 참여입니다. 웹툰 IP가 디지털 연재를 넘어 오프라인 체험·작가 행사·팝컬처 팬덤과 연결되는 사례입니다.",
+            "5만명은 회사가 집계해 발표한 부스 방문 규모이며, 순방문자 수인지 행사 전체 관람객을 포함하는지의 세부 산정 방식은 보도자료에서 확인되지 않았습니다. 실제 구독자 증가나 매출 효과도 공개되지 않아 행사 성과와 사업 성과를 같은 것으로 볼 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "뉴욕 코믹콘의 포그랜드 부스에 약 5만명이 방문했다고 회사가 발표했습니다. 기존 애니메이션·마블 협력 발표와 구별되는 현장 팬 참여 지표입니다.",
+            "eventDate": "2026-10-08",
+            "eventEndDate": "2026-10-11",
+            "eventTimezone": "America/New_York",
+            "issueId": "webtoon-fogland-nycc-us-fandom-2026",
+            "issueTitle": "뉴욕 코믹콘에서 확인된 포그랜드 현지 팬덤",
+            "stage": "후속"
+          },
+          "title": "뉴욕 코믹콘 포그랜드 부스 나흘간 약 5만명 방문…미국 팬 접점 확대",
+          "topicKey": "webtoon-fogland-nycc-fandom-2026-10-12",
+          "uncertainty": "방문자 수는 회사가 밝힌 행사 집계입니다. 현장 방문이 유료 독자·구독·매출로 이어졌는지는 공개되지 않았습니다.",
+          "whatChanged": "네이버웹툰은 뉴욕 코믹콘 기간 포그랜드 부스에 약 5만명이 방문했다고 밝혔고, 작가 사인회 등 현지 팬 행사를 진행했습니다.",
+          "whyItMatters": "온라인 연재 IP가 북미 대형 팝컬처 행사에서 직접 독자와 만나는 방식과 현지 인지도를 살펴볼 수 있습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul",
+      "updatedAt": "2026-10-12T21:12:05+09:00"
+    },
+    "operationId": "publish-news-2026-10-12-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-12T21:14:45.561327+09:00",
+  "result": {
+    "id": "2026-10-12-pm",
+    "operationId": "publish-news-2026-10-12-pm",
+    "recordedAt": "2026-10-12T21:14:45.561327+09:00",
+    "sha256": "9c8b8a555a00c1e86f381649fd8763e99301a3e86139052e786b5133d8b5064b",
+    "windowId": "2026-10-12-pm"
+  }
+}

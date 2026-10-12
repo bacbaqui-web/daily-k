@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-12/pm.json",
+      "category": "국제·외교",
+      "change": "EU가 러시아 전쟁 관련 제재 대상을 확대했다고 10월 12일 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T21:12:05+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "pm",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-12",
+      "eventEndDate": null,
+      "eventTimeNote": "제재 발표일은 10월 12일로 보도됐으나, 결정의 정확한 시각은 기사에서 확인되지 않았습니다.",
+      "eventTimezone": "Europe/Brussels",
+      "followUp": null,
+      "id": "2026-10-12-pm/eu-russia-sanctions-supply-networks-2026-10-12",
+      "keyFacts": {
+        "관련 품목": "미사일·드론 부품 공급망",
+        "전체 제재 대상": "4,500곳 초과",
+        "점령지 연계 인사": "77명 추가로 보도",
+        "추가 대상": "개인·기업 1,600여 곳"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-12T20:33:57+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T20:33:57+09:00",
+          "title": "EU, 러시아 개인·기업 1600여곳 추가 제재…미사일·드론 부품 공급망 겨냥",
+          "updatedAt": "2026-10-12T20:36:23+09:00",
+          "url": "https://nwww.newsis.com/view/NISX20261012_0003822908",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "en",
+          "name": "AP통신",
+          "publishedAt": "2026-10-12T19:49:00+09:00",
+          "title": "EU sanctions 1,600 Russian people and companies over military supply networks",
+          "updatedAt": null,
+          "url": "https://apnews.com/article/12e244a70e6930f47acefde1754fa264",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "eu-russia-sanctions-supply-networks-2026-10-12",
+      "summary": [
+        "유럽연합이 12일 러시아의 군수품 공급망과 관련된 개인·기업 1,600여 곳을 추가 제재했다고 뉴시스와 AP가 보도했습니다. 대상에는 드론·미사일 부품 조달에 관여한 중간 공급자와 점령지 관련 인사들이 포함됐습니다.",
+        "보도에 따르면 점령 지역의 선거와 연관된 인사 77명도 명단에 추가됐으며, 제재 대상 전체는 4,500곳을 넘었습니다. EU가 내세운 목적은 러시아의 군수 생산과 전쟁 수행을 뒷받침하는 조달 경로를 제한하는 것입니다.",
+        "제재 발표는 대상자의 자산 동결·여행 제한과 기업 거래 제한으로 이어질 수 있지만, 공급망을 완전히 차단하는지는 별개입니다. 제3국을 통한 우회 조달과 실제 집행 결과는 아직 이번 발표만으로 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "EU, 러시아 군수 공급망 겨냥해 개인·기업 1,600여 곳 추가 제재",
+      "uncertainty": "EU의 결정과 제재 대상 추가 규모는 보도됐지만, 제재 회피를 얼마나 줄일지는 이후 집행 자료로 확인해야 합니다."
+    }
+  ],
+  "id": "eu-russia-sanctions-russia-war",
+  "schemaVersion": 1,
+  "title": "EU의 러시아 전쟁 관련 제재",
+  "updatedAt": "2026-10-12T21:12:05+09:00"
+}

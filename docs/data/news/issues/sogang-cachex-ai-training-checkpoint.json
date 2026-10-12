@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-12/pm.json",
+      "category": "기술·AI",
+      "change": "AI 학습 저장 계층 연구의 학회 채택과 슈퍼컴퓨터 실험 결과가 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T21:12:05+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "pm",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "연구 발표·실험의 정확한 발생 시각은 기사에 특정되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-12-pm/sogang-cachex-neurips-checkpoint-2026-10-12",
+      "keyFacts": {
+        "기술": "CacheX 분산 체크포인트 저장 계층",
+        "논문": "NeurIPS 2026 채택",
+        "저장 시간 편차": "평가 워크로드에서 최대 43배 감소했다고 연구팀 설명",
+        "평가 환경": "Frontier·KISTI Neuron"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-12T14:05:48+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T14:05:48+09:00",
+          "title": "서강대 연구팀, AI 학습 체크포인트 저장 편차 최대 43배 줄인 기술 개발",
+          "updatedAt": "2026-10-12T14:58:24+09:00",
+          "url": "https://nwww.newsis.com/view/NISX20261012_0003821896",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "미주중앙일보",
+          "publishedAt": "2026-10-12T08:05:39+09:00",
+          "title": "서강대 연구팀, AI 학습 체크포인트 최적화 연구 ‘NeurIPS 2026’ 채택",
+          "updatedAt": null,
+          "url": "https://www.koreadaily.com/article/20261011230539699",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "sogang-cachex-neurips-checkpoint-2026-10-12",
+      "summary": [
+        "서강대학교 김영재 교수 연구팀의 CacheX 논문이 인공지능·머신러닝 학술대회 NeurIPS 2026에 채택됐다고 뉴시스가 보도했습니다. 연구팀은 Frontier 슈퍼컴퓨터와 KISTI Neuron 시스템에서 성능을 평가했습니다.",
+        "연구팀 설명에 따르면 CacheX는 체크포인트 쓰기 시간의 변동계수를 평가된 워크로드에서 최대 43배 줄였습니다. 체크포인트는 학습 중인 모델의 상태를 저장해 장애가 났을 때 이전 시점부터 복구할 수 있도록 하는 데이터입니다.",
+        "이 기술은 로컬 메모리와 파트너 노드의 NVMe 저장장치를 거쳐 공유 파일시스템으로 데이터를 보내는 방식으로 지연·경합을 줄이려 합니다. 다만 수치는 특정 실험환경의 결과이며, 실제 서비스에서의 비용·성능이나 운영 배포 여부는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "서강대 CacheX, 대규모 AI 학습 체크포인트 저장 편차 최대 43배 줄여",
+      "uncertainty": "43배 개선은 연구팀이 평가한 워크로드의 실험 결과입니다. 모든 AI 학습 환경에서 같은 성능이 보장되거나 상용 배포가 확인된 것은 아닙니다."
+    }
+  ],
+  "id": "sogang-cachex-ai-training-checkpoint",
+  "schemaVersion": 1,
+  "title": "서강대 CacheX 분산 AI 학습 체크포인트 연구",
+  "updatedAt": "2026-10-12T21:12:05+09:00"
+}

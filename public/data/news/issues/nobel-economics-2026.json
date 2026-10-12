@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-12/pm.json",
+      "category": "국제·경제",
+      "change": "2026년 경제학상 공동 수상자가 10월 12일 발표됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T21:12:05+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "pm",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-12",
+      "eventEndDate": null,
+      "eventTimeNote": "수상 발표는 10월 12일에 이뤄졌으나 정확한 현지 발표 시각은 이 브리핑에서 확인한 한국어 기사에 명시되지 않았습니다.",
+      "eventTimezone": "Europe/Stockholm",
+      "followUp": null,
+      "id": "2026-10-12-pm/nobel-economics-2026-hall-woodford",
+      "keyFacts": {
+        "발표일": "2026-10-12",
+        "수상 분야": "거시경제 안정화의 미시경제적 기초",
+        "수상 상태": "공동 수상자 선정 확정",
+        "수상자": "Robert E. Hall·Michael Woodford"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-12T20:14:43+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T20:14:43+09:00",
+          "title": "노벨경제학상 받은 로버트 홀·마이클 우드포드 교수는 누구",
+          "updatedAt": "2026-10-12T20:17:28+09:00",
+          "url": "https://nwww.newsis.com/view/NISX20261012_0003822896",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-10-12T18:55:03+09:00",
+          "title": "[속보] 노벨경제학상에 로버트 홀·마이클 우드퍼드 공동 수상",
+          "updatedAt": "2026-10-12T18:55:03+09:00",
+          "url": "https://www1.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04480486645612264",
+          "verifiedAt": "2026-10-12T21:12:05+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "nobel-economics-2026-hall-woodford",
+      "summary": [
+        "2026년 노벨 경제학상은 로버트 E. 홀 스탠퍼드대 교수와 마이클 우드포드 컬럼비아대 교수에게 돌아갔습니다. 뉴시스와 이데일리는 12일 수상자와 선정 결과를 보도했습니다.",
+        "위원회가 밝힌 공로는 ‘거시경제 안정화의 미시경제적 기초’입니다. 가계와 기업의 개별 선택, 미래에 대한 기대가 물가·생산·고용과 통화정책 효과에 어떻게 이어지는지 설명하는 이론적 틀을 발전시킨 연구입니다.",
+        "이는 경제 충격에 대응하는 정책을 분석할 때 미시적 행동과 거시 결과를 함께 살펴야 한다는 접근을 보여줍니다. 다만 실제 정책은 데이터와 제도, 충격의 종류에 따라 달라지므로 수상 연구만으로 특정 정책의 효과가 자동 확정되는 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "노벨경제학상, 로버트 홀·마이클 우드포드 공동 수상",
+      "uncertainty": "수상 사유는 위원회의 설명을 요약했습니다. 수상자 연구가 모든 정책 상황에서 같은 결과를 보장한다는 뜻은 아닙니다."
+    }
+  ],
+  "id": "nobel-economics-2026",
+  "schemaVersion": 1,
+  "title": "2026년 노벨 경제학상",
+  "updatedAt": "2026-10-12T21:12:05+09:00"
+}
