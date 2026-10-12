@@ -1,6 +1,70 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-10-12/am.json",
+      "category": "국제·안보",
+      "change": "트럼프 대통령의 에너지 휴전 발표 뒤에도 공격이 계속됐다는 러시아 국방부와 우크라이나 대통령의 발표가 보도됐지만, 휴전 조건과 러시아의 공식 수용은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T15:31:39+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "am",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-am",
+      "eventAt": null,
+      "eventDate": "2026-10-11",
+      "eventEndDate": null,
+      "eventTimeNote": "11일(현지시간) 휴전 발표와 공격 관련 보도가 있었으나 정확한 공격 시각은 공개되지 않았습니다.",
+      "eventTimezone": "Europe/Kyiv",
+      "followUp": null,
+      "id": "2026-10-12-am/russia-ukraine-energy-truce-attacks-2026-10-12",
+      "keyFacts": {
+        "러시아 측 입장": "오전 9시까지 공식 수용 입장 확인되지 않음",
+        "우크라이나 측": "에너지 시설 공격 지속 주장",
+        "트럼프 발표": "에너지 시설 공격 중단 합의·즉시 발효라고 발표",
+        "휴전 조건": "범위·기간·감시 절차 미공개"
+      },
+      "previous": {
+        "editionId": "2026-09-15-am-archive",
+        "storyId": "archive-04"
+      },
+      "publishedAt": "2026-10-12T05:26:38+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T05:26:38+09:00",
+          "title": "러, 우크라군 관련 시설·화물선 공격…트럼프 “에너지 휴전” 발표 뒤에도 공습",
+          "updatedAt": null,
+          "url": "https://nwww.newsis.com/view/NISX20261012_0003821238",
+          "verifiedAt": "2026-10-12T15:31:39+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-12T03:22:00+09:00",
+          "title": "트럼프 ‘에너지 휴전’ 일방적 발표…젤렌스키 “처음 들어”",
+          "updatedAt": null,
+          "url": "https://m.ytn.co.kr/news_view.php?key=202610120322188816&s_mcd=0104",
+          "verifiedAt": "2026-10-12T15:31:39+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "russia-ukraine-energy-truce-attacks-2026-10-12",
+      "summary": [
+        "도널드 트럼프 미국 대통령은 11일(현지시간) 러시아와 우크라이나가 에너지 기반시설 공격을 중단하기로 했고 휴전이 즉시 발효된다고 발표했습니다. 다만 적용 범위·기간·감시 절차는 공개하지 않았습니다.",
+        "뉴시스가 전한 후속 보도에서 러시아 국방부는 밤사이 우크라이나의 군 관련 시설과 오데사 항만의 화물선 등을 공격했다고 발표했습니다. 젤렌스키 대통령은 키이우와 하르키우의 에너지 시설에 공격이 계속됐다고 주장했습니다.",
+        "러시아 정부가 트럼프 대통령의 에너지 휴전 발표를 수용했다는 공식 입장은 오전 9시 기준 확인되지 않았습니다. 따라서 휴전 합의가 실제로 이행 중이라고 단정하기 어렵고, 공격 대상과 종료 조건이 먼저 명확해져야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "에너지 휴전 발표 직후에도 공습 보도…러·우 합의 이행은 미확인",
+      "uncertainty": "공격 지속은 러시아·우크라이나 당사자 발표로 전해졌으며 독립적인 현장 검증은 확인되지 않았습니다. 휴전의 공식 범위와 러시아의 수용 여부도 미확인입니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 22,
@@ -49,5 +113,5 @@
   "id": "russia-ukraine-energy-truce",
   "schemaVersion": 1,
   "title": "러시아·우크라이나 에너지시설 공격 중단 논의",
-  "updatedAt": "2026-10-11T21:07:48+09:00"
+  "updatedAt": "2026-10-12T15:31:39+09:00"
 }

@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-12/am.json",
+      "category": "국제·경제",
+      "change": "이란 혁명수비대가 11일 유조선 폭발을 추가로 발표하며 10일 이후 세 번째라고 주장했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T15:31:39+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "am",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-am",
+      "eventAt": null,
+      "eventDate": "2026-10-11",
+      "eventEndDate": null,
+      "eventTimeNote": "이란 측 발표일은 11일(현지시간)이며 사고의 구체적 시각은 공개되지 않았습니다.",
+      "eventTimezone": "Asia/Tehran",
+      "followUp": null,
+      "id": "2026-10-12-am/iran-hormuz-tanker-mine-claim-2026-10-12",
+      "keyFacts": {
+        "독립 확인": "선박·운항사·피해·위치 독립 확인 미제시",
+        "발표 주체": "이란 혁명수비대 해군",
+        "사고": "대형 유조선 폭발·기관실 화재라고 주장",
+        "횟수": "10일 이후 세 번째라고 이란 측 발표"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-12T07:39:36+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T07:39:36+09:00",
+          "title": "이란군 “호르무즈 불법통과 유조선 11일 기뢰에 또 폭발”…벌써 3척",
+          "updatedAt": null,
+          "url": "https://nwww.newsis.com/view/NISX20261012_0003821275",
+          "verifiedAt": "2026-10-12T15:31:39+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "주장",
+      "storyId": "iran-hormuz-tanker-mine-claim-2026-10-12",
+      "summary": [
+        "이란 혁명수비대 해군은 11일(현지시간) 호르무즈 해협 남단의 통제선을 벗어나려던 대형 유조선이 기뢰에 걸려 폭발하고 기관실에 불이 났다고 발표했습니다. 이란 측은 10일 이후 세 번째 사고라고 주장했습니다.",
+        "보도는 이란 관영통신 발표를 주요 근거로 전했습니다. 선박의 이름·운항사·선원 피해와 사고 위치는 기사에 구체적으로 나오지 않았고, 이란 외부의 독립적인 확인도 제시되지 않았습니다.",
+        "호르무즈 해협의 실제 통항 제한과 선박 안전에 관한 주장은 유가와 해상 보험·운임에 영향을 줄 수 있습니다. 다만 이번 발표만으로 기뢰 사고의 원인이나 책임을 확정해서는 안 됩니다."
+      ],
+      "supersededBy": [],
+      "title": "이란 혁명수비대 “호르무즈서 유조선 또 폭발”…사실관계는 독립 확인 필요",
+      "uncertainty": "사고와 기뢰 원인은 이란 군 당국의 발표에 근거합니다. 선박 신원·피해·운항 데이터에 대한 독립 확인은 찾지 못했습니다."
+    }
+  ],
+  "id": "hormuz-tanker-mine-explosions-2026-10",
+  "schemaVersion": 1,
+  "title": "호르무즈 해협 통제와 유조선 폭발 주장",
+  "updatedAt": "2026-10-12T15:31:39+09:00"
+}

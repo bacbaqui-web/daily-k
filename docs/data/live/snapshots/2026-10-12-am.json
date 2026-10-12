@@ -1,0 +1,765 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-10-12T15:32:56.346320+09:00",
+  "id": "2026-10-12-am",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-10-12T09:00:00+09:00",
+      "date": "2026-10-12",
+      "edition": "am",
+      "events": [
+        {
+          "at": "2026-10-12T15:30:00+09:00",
+          "date": "2026-10-12",
+          "detail": "한국거래소 정규 주식시장은 한국시간 09:00~15:30입니다. 오전 회차 기준으로 정규장이 막 시작한 만큼 종가·장중 등락과 주말 이후 거래 흐름은 아직 알 수 없습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "en",
+            "name": "한국거래소",
+            "publishedAt": null,
+            "title": "Trading Hours",
+            "updatedAt": null,
+            "url": "https://global.krx.co.kr/contents/GLB/06/0602/0602020204/GLB0602020204T1.jsp",
+            "verifiedAt": "2026-10-12T15:31:39+09:00"
+          },
+          "timeNote": "정규 거래 종료 15:30 KST",
+          "title": "한국거래소 정규시장 마감"
+        },
+        {
+          "at": "2026-10-12T18:00:00+09:00",
+          "date": "2026-10-12",
+          "detail": "과학기술정보통신부와 한국연구재단이 첫 리더급 국가과학기술자 신청을 오늘 18시까지 받습니다. 선정 인원은 아직 확정되지 않았습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "business",
+            "language": "ko",
+            "name": "머니투데이",
+            "publishedAt": "2026-10-12T06:00:00+09:00",
+            "title": "‘한국 대표’ 국가과학기술자 20人, 오늘 공모 마감",
+            "updatedAt": null,
+            "url": "https://www.mt.co.kr/index.php/tech/2026/10/12/2026100814311539547",
+            "verifiedAt": "2026-10-12T15:31:39+09:00"
+          },
+          "timeNote": "신청 마감 18:00 KST",
+          "title": "국가과학기술자 첫 공모 마감"
+        },
+        {
+          "at": null,
+          "date": "2026-10-12",
+          "detail": "국립김해박물관 가야 웹툰 공모전의 작품 접수가 오늘부터 18일까지 진행됩니다. 만 16세 이상이 대상이며 총 10개 작품, 총상금 1,000만원 규모입니다. 접수 시작 시각은 안내문에서 확인되지 않았습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "국립중앙박물관",
+            "publishedAt": "2026-07-06T00:00:00+09:00",
+            "title": "국립김해박물관, 제9회 가야 웹툰 공모전 개최",
+            "updatedAt": null,
+            "url": "https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?arcId=23780&catCustomType=post&catId=93&cp=&schM=view&sv=",
+            "verifiedAt": "2026-10-12T15:31:39+09:00"
+          },
+          "timeNote": "접수 시작 시각 미공개; 작품 접수 기간 10월 12~18일",
+          "title": "가야 웹툰 공모전 작품 접수 시작"
+        },
+        {
+          "at": "2026-10-12T22:30:00+09:00",
+          "date": "2026-10-12",
+          "detail": "NYSE 정규 세션은 미국 동부시간 09:30~16:00입니다. 10월 12일은 NYSE의 2026년 휴장일 목록에 없어 정규장이 열릴 예정입니다. 오전 기준 개장 전이므로 당일 주가·지수 움직임은 아직 없습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "en",
+            "name": "NYSE",
+            "publishedAt": null,
+            "title": "Holidays & Trading Hours",
+            "updatedAt": null,
+            "url": "https://www.nyse.com/trade/hours-calendars",
+            "verifiedAt": "2026-10-12T15:31:39+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 09:30 = 한국시간 22:30",
+          "title": "뉴욕증권거래소 정규장 개장"
+        }
+      ],
+      "generatedAt": "2026-10-12T15:31:39+09:00",
+      "id": "2026-10-12-am",
+      "intro": "10월 12일 오전 브리핑입니다. 밤사이 발표와 오늘 아침 확인된 변화를 정리했습니다.",
+      "keywords": [],
+      "overview": [
+        "가장 큰 국제 변수는 러시아·우크라이나 에너지 휴전 발표입니다. 트럼프 대통령은 즉시 발효라고 밝혔지만, 공격이 이어졌다는 당사자 발표가 뒤따랐고 범위와 감시 방식도 공개되지 않아 실제 휴전은 확인되지 않았습니다.",
+        "유럽에서는 폴란드 당국이 총리 공격을 모의한 혐의로 용의자를 체포했고, 영국 총리는 러시아의 브렉시트 개입 판단을 공개적으로 언급했습니다. 두 사안 모두 구체적 근거·배후가 확정된 범위와 당국의 설명을 구분해야 합니다. 호르무즈 유조선 폭발 역시 이란 군 당국의 발표를 독립 확인 없이 보도한 단계입니다.",
+        "국내 과학기술 정책에서는 첫 국가과학기술자 모집이 오늘 18시에 마감됩니다. 경제 분야에서는 K브랜드의 현지 생산·판매 전략을 다룬 분석이 나왔지만, 기사에 등장한 수출 1조 달러는 전망이지 확정 실적이 아닙니다.",
+        "기상청 예보는 월·화 비 뒤 수요일부터 기온이 내려갈 것으로 봅니다. 웹툰 분야에서는 네이버웹툰 계열사와 하야테·크런치롤의 공동 개발 협력 및 ‘재혼 황후’·‘더 복서’ 애니화 발표를 담았습니다."
+      ],
+      "overviewEmphasis": [
+        "실제 휴전은 확인되지 않았습니다",
+        "구체적 근거·배후가 확정된 범위",
+        "이란 군 당국의 발표를 독립 확인 없이",
+        "오늘 18시에 마감됩니다",
+        "전망이지 확정 실적이 아닙니다",
+        "월·화 비 뒤 수요일부터 기온이 내려갈",
+        "공동 개발 협력 및 ‘재혼 황후’·‘더 복서’ 애니화 발표"
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "즉시 발효된다고 발표했습니다",
+            "적용 범위·기간·감시 절차는 공개하지 않았습니다",
+            "러시아 정부가 트럼프 대통령의 에너지 휴전 발표를 수용했다는 공식 입장은 오전 9시 기준 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11일(현지시간) 휴전 발표와 공격 관련 보도가 있었으나 정확한 공격 시각은 공개되지 않았습니다.",
+          "factsHash": "64dd389e3973f695bb46afd5fa0fa5389890c26b83eb57c0c519d279ca49ea34",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "russia-ukraine-energy-truce-attacks-2026-10-12",
+          "keyFacts": {
+            "러시아 측 입장": "오전 9시까지 공식 수용 입장 확인되지 않음",
+            "우크라이나 측": "에너지 시설 공격 지속 주장",
+            "트럼프 발표": "에너지 시설 공격 중단 합의·즉시 발효라고 발표",
+            "휴전 조건": "범위·기간·감시 절차 미공개"
+          },
+          "publishedAt": "2026-10-12T05:26:38+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T05:26:38+09:00",
+              "title": "러, 우크라군 관련 시설·화물선 공격…트럼프 “에너지 휴전” 발표 뒤에도 공습",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821238",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 93.7,
+          "scoreComponents": {
+            "domesticImpact": 68,
+            "importance": 96,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "휴전 발표와 당사자들의 상반된 상황 설명을 다뤄 중요도가 높습니다. 전쟁 당사자의 주장은 각각 주체를 밝혔고 휴전 조건 미공개를 반영했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T05:26:38+09:00",
+              "title": "러, 우크라군 관련 시설·화물선 공격…트럼프 “에너지 휴전” 발표 뒤에도 공습",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821238",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-10-12T03:22:00+09:00",
+              "title": "트럼프 ‘에너지 휴전’ 일방적 발표…젤렌스키 “처음 들어”",
+              "updatedAt": null,
+              "url": "https://m.ytn.co.kr/news_view.php?key=202610120322188816&s_mcd=0104",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "도널드 트럼프 미국 대통령은 11일(현지시간) 러시아와 우크라이나가 에너지 기반시설 공격을 중단하기로 했고 휴전이 즉시 발효된다고 발표했습니다. 다만 적용 범위·기간·감시 절차는 공개하지 않았습니다.",
+            "뉴시스가 전한 후속 보도에서 러시아 국방부는 밤사이 우크라이나의 군 관련 시설과 오데사 항만의 화물선 등을 공격했다고 발표했습니다. 젤렌스키 대통령은 키이우와 하르키우의 에너지 시설에 공격이 계속됐다고 주장했습니다.",
+            "러시아 정부가 트럼프 대통령의 에너지 휴전 발표를 수용했다는 공식 입장은 오전 9시 기준 확인되지 않았습니다. 따라서 휴전 합의가 실제로 이행 중이라고 단정하기 어렵고, 공격 대상과 종료 조건이 먼저 명확해져야 합니다."
+          ],
+          "timeline": {
+            "change": "트럼프 대통령의 에너지 휴전 발표 뒤에도 공격이 계속됐다는 러시아 국방부와 우크라이나 대통령의 발표가 보도됐지만, 휴전 조건과 러시아의 공식 수용은 확인되지 않았습니다.",
+            "eventDate": "2026-10-11",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Kyiv",
+            "issueId": "russia-ukraine-energy-truce",
+            "issueTitle": "러시아·우크라이나 에너지시설 공격 중단 논의",
+            "stage": "후속"
+          },
+          "title": "에너지 휴전 발표 직후에도 공습 보도…러·우 합의 이행은 미확인",
+          "topicKey": "russia-ukraine-energy-truce-implementation-2026-10-12",
+          "uncertainty": "공격 지속은 러시아·우크라이나 당사자 발표로 전해졌으며 독립적인 현장 검증은 확인되지 않았습니다. 휴전의 공식 범위와 러시아의 수용 여부도 미확인입니다.",
+          "whatChanged": "트럼프 대통령의 합의 발표 뒤에도 공격이 이어졌다는 당사자 발표가 보도됐습니다.",
+          "whyItMatters": "에너지 기반시설과 흑해 항로의 위험이 지속되면 국제 에너지·물류시장에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "기술·과학",
+          "emphasis": [
+            "오늘 오후 6시까지 받습니다",
+            "첫 기수는 20명을 선정하고 2030년까지 총 100명을 선발한다는 계획입니다",
+            "선정 인원이나 최종 수혜자가 확정된 것은 아닙니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "공모는 10월 12일 오후 6시 KST에 마감될 예정입니다.",
+          "factsHash": "dfd9f9153d7ac069411eb979f0a17622a5aaaf449bf5c31255d0bb73b2e0e4b1",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "national-science-leaders-first-call-deadline-2026-10-12",
+          "keyFacts": {
+            "대상": "만 55세 이하 산·학·연 연구자",
+            "이번 회차": "첫 20명 공모 마감일",
+            "전체 계획": "2030년까지 100명 선정 목표",
+            "지원": "연 1억원, 최대 5년; 3년 차 중간평가"
+          },
+          "publishedAt": "2026-10-12T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "business",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-10-12T06:00:00+09:00",
+              "title": "‘한국 대표’ 국가과학기술자 20人, 오늘 공모 마감",
+              "updatedAt": null,
+              "url": "https://www.mt.co.kr/index.php/tech/2026/10/12/2026100814311539547",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 89.9,
+          "scoreComponents": {
+            "domesticImpact": 82,
+            "importance": 80,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 82
+          },
+          "scoreReason": "과학기술 인재 선발과 연구지원 제도의 첫 모집입니다. 공모 일정·목표 인원과 확정된 수혜자 수를 구분했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "business",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-10-12T06:00:00+09:00",
+              "title": "‘한국 대표’ 국가과학기술자 20人, 오늘 공모 마감",
+              "updatedAt": null,
+              "url": "https://www.mt.co.kr/index.php/tech/2026/10/12/2026100814311539547",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "과학기술정보통신부와 한국연구재단이 첫 ‘리더급 국가과학기술자’ 신청을 오늘 오후 6시까지 받습니다. 첫 기수는 20명을 선정하고 2030년까지 총 100명을 선발한다는 계획입니다.",
+            "대상은 만 55세 이하 산·학·연 연구자로, 기관 추천을 받은 후보자가 논문·특허 등 대표 업적과 자기소개서를 제출하는 방식입니다. 학계는 학문적 성과를, 출연연·산업계는 기술 혁신과 산업 기여도를 중심으로 평가할 계획입니다.",
+            "선정되면 연 1억원을 최대 5년 지원받을 수 있지만, 3년 차 중간평가가 있습니다. 현재는 모집 마감 전이므로 선정 인원이나 최종 수혜자가 확정된 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "첫 20명 선발을 위한 신청 접수가 오늘 오후 6시 마감될 예정입니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "national-science-leaders-program-2026",
+            "issueTitle": "국가과학기술자 선발·지원 사업",
+            "stage": "예정"
+          },
+          "title": "국가과학기술자 첫 공모 오늘 18시 마감…선정은 아직",
+          "topicKey": "national-science-leaders-program-first-cohort-2026",
+          "uncertainty": "공모 마감 전이며 실제 신청 규모와 20명 선정 결과는 아직 확인되지 않았습니다.",
+          "whatChanged": "첫 20명 대상 모집이 오늘 마감되며, 산업계 연구자도 지원 대상으로 포함됐습니다.",
+          "whyItMatters": "국가 연구개발과 기술인재 정책이 연구자 지원과 기업의 연구 참여에 미칠 영향을 가늠할 첫 사업입니다."
+        },
+        {
+          "category": "국제·경제",
+          "emphasis": [
+            "대형 유조선이 기뢰에 걸려 폭발하고 기관실에 불이 났다고 발표했습니다",
+            "이란 측은 10일 이후 세 번째 사고라고 주장했습니다",
+            "독립적인 확인도 제시되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "이란 측 발표일은 11일(현지시간)이며 사고의 구체적 시각은 공개되지 않았습니다.",
+          "factsHash": "b1c0650623c8198506c7d900986a76bb785d0e04c1084a85de837c6962ac80ed",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "iran-hormuz-tanker-mine-claim-2026-10-12",
+          "keyFacts": {
+            "독립 확인": "선박·운항사·피해·위치 독립 확인 미제시",
+            "발표 주체": "이란 혁명수비대 해군",
+            "사고": "대형 유조선 폭발·기관실 화재라고 주장",
+            "횟수": "10일 이후 세 번째라고 이란 측 발표"
+          },
+          "publishedAt": "2026-10-12T07:39:36+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T07:39:36+09:00",
+              "title": "이란군 “호르무즈 불법통과 유조선 11일 기뢰에 또 폭발”…벌써 3척",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821275",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 89.65,
+          "scoreComponents": {
+            "domesticImpact": 74,
+            "importance": 90,
+            "interest": 87,
+            "recency": 100,
+            "reliability": 67
+          },
+          "scoreReason": "호르무즈의 선박 안전과 에너지 운송에 직접 연결되는 주장입니다. 발표 주체가 이란 군 당국이라는 점과 독립 확인의 부재를 함께 표시했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T07:39:36+09:00",
+              "title": "이란군 “호르무즈 불법통과 유조선 11일 기뢰에 또 폭발”…벌써 3척",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821275",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "주장",
+          "summary": [
+            "이란 혁명수비대 해군은 11일(현지시간) 호르무즈 해협 남단의 통제선을 벗어나려던 대형 유조선이 기뢰에 걸려 폭발하고 기관실에 불이 났다고 발표했습니다. 이란 측은 10일 이후 세 번째 사고라고 주장했습니다.",
+            "보도는 이란 관영통신 발표를 주요 근거로 전했습니다. 선박의 이름·운항사·선원 피해와 사고 위치는 기사에 구체적으로 나오지 않았고, 이란 외부의 독립적인 확인도 제시되지 않았습니다.",
+            "호르무즈 해협의 실제 통항 제한과 선박 안전에 관한 주장은 유가와 해상 보험·운임에 영향을 줄 수 있습니다. 다만 이번 발표만으로 기뢰 사고의 원인이나 책임을 확정해서는 안 됩니다."
+          ],
+          "timeline": {
+            "change": "이란 혁명수비대가 11일 유조선 폭발을 추가로 발표하며 10일 이후 세 번째라고 주장했습니다.",
+            "eventDate": "2026-10-11",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Tehran",
+            "issueId": "hormuz-tanker-mine-explosions-2026-10",
+            "issueTitle": "호르무즈 해협 통제와 유조선 폭발 주장",
+            "stage": "보도"
+          },
+          "title": "이란 혁명수비대 “호르무즈서 유조선 또 폭발”…사실관계는 독립 확인 필요",
+          "topicKey": "hormuz-tanker-mine-explosions-2026-10",
+          "uncertainty": "사고와 기뢰 원인은 이란 군 당국의 발표에 근거합니다. 선박 신원·피해·운항 데이터에 대한 독립 확인은 찾지 못했습니다.",
+          "whatChanged": "이란 혁명수비대가 10일 이후 세 번째 유조선 폭발이라고 주장했습니다.",
+          "whyItMatters": "호르무즈 해협 위험이 현실화하면 원유 운송, 해상 보험, 국내 에너지 가격에도 파급될 수 있습니다."
+        },
+        {
+          "category": "사회·생활",
+          "emphasis": [
+            "13일에는 전국 대부분 지역에 비가 예상됩니다",
+            "아침 기온이 전날보다 5도 이상 떨어질 전망입니다",
+            "실제 강수량과 최저기온은 지역별로 달라질 수 있습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "예보 기간은 10월 12~18일이며, 기사 발행 시점의 기상청 전망입니다.",
+          "factsHash": "4e913002496ee9b53f85f94bf586bdcfccf8352f25f56d8ef5ef27e227c14b19",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "korea-weekly-weather-2026-10-12",
+          "keyFacts": {
+            "강수": "12일 일부 지역 5~10㎜; 13일 전국 대부분 비",
+            "기온변화": "14일 아침 전날보다 5도 이상 하락 전망",
+            "예보기간": "2026-10-12~2026-10-18",
+            "추위": "15일 내륙 최저 4도 예보"
+          },
+          "publishedAt": "2026-10-12T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T06:00:00+09:00",
+              "title": "월·화 전국 곳곳 비…수요일부터 쌀쌀[이주의 날씨]",
+              "updatedAt": null,
+              "url": "https://www.newsis.com/view/NISX20261011_0003820992",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 89.0,
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 75,
+            "interest": 77,
+            "recency": 100,
+            "reliability": 91
+          },
+          "scoreReason": "이번 주 출근·이동에 직접 영향을 주는 예보입니다. 지역별 강수량과 전망 시점을 함께 표시했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T06:00:00+09:00",
+              "title": "월·화 전국 곳곳 비…수요일부터 쌀쌀[이주의 날씨]",
+              "updatedAt": null,
+              "url": "https://www.newsis.com/view/NISX20261011_0003820992",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "기상청 예보를 인용한 뉴시스 보도에 따르면 12일 중부 내륙 등에 소나기가 내리고, 13일에는 전국 대부분 지역에 비가 예상됩니다. 12일 일부 지역의 예상 강수량은 5~10㎜, 13일은 제주 5~60㎜ 등 지역별 차이가 큽니다.",
+            "14일에는 북쪽의 찬 공기가 들어오며 아침 기온이 전날보다 5도 이상 떨어질 전망입니다. 15일 아침 최저기온은 지역에 따라 4도까지 내려갈 수 있고, 내륙은 낮과 밤 기온 차가 10도 이상 벌어질 수 있습니다.",
+            "전망은 발표 시점의 예보이며 실제 강수량과 최저기온은 지역별로 달라질 수 있습니다. 연휴 뒤 출근길 우산과 얇은 겉옷을 함께 준비할 필요가 있습니다."
+          ],
+          "timeline": {
+            "change": "12~13일 비 이후 14일부터 아침 기온이 크게 낮아지는 주간 예보가 나왔습니다.",
+            "eventDate": "2026-10-12",
+            "eventEndDate": "2026-10-18",
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-weather-rain-cold-front-2026-10-12",
+            "issueTitle": "2026년 10월 12~18일 전국 강수와 기온 변화",
+            "stage": "예정"
+          },
+          "title": "월·화 비 뒤 수요일부터 기온 하락…목요일 내륙 최저 4도 예보",
+          "topicKey": "korea-weather-rain-cold-front-2026-10-12",
+          "uncertainty": "수치와 일정은 예보이며 실제 날씨에 따라 바뀔 수 있습니다.",
+          "whatChanged": "월·화 강수 뒤 수요일부터 찬 공기가 들어와 아침 기온이 크게 낮아지는 주간 전망이 제시됐습니다.",
+          "whyItMatters": "강수와 큰 일교차가 이동·건강 관리에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·산업",
+          "emphasis": [
+            "현지 생산시설과 유통망을 함께 만드는 방향",
+            "물류비·관세, 지정학적 리스크와 공급망 불안",
+            "‘수출 1조 달러’는 전망 표현이며 확정된 수출 실적이 아닙니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "해당 보도는 10월 12일 오전 6시에 게재된 산업 분석입니다.",
+          "factsHash": "40aad7fbfbc3be420b75c0bcaebc4888d44972680700d202459c15791badd77c",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "k-brand-localization-export-strategy-2026-10-12",
+          "keyFacts": {
+            "기반 리스크": "물류비·관세·지정학·공급망",
+            "사례": "CJ제일제당·코스맥스·한국콜마 등 보도",
+            "수출 1조달러": "기사의 전망 표현; 확정 통계 아님",
+            "수출전략": "한국 생산 후 수출에서 현지 생산·유통·맞춤 제품으로 확장"
+          },
+          "publishedAt": "2026-10-12T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "business",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-10-12T06:00:00+09:00",
+              "title": "수출 1조달러 ‘K브랜드’, 현지화로 전인미답의 길 간다",
+              "updatedAt": null,
+              "url": "https://www.mt.co.kr/index.php/living/2026/10/12/2026100609544243878",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 85.3,
+          "scoreComponents": {
+            "domesticImpact": 85,
+            "importance": 68,
+            "interest": 84,
+            "recency": 100,
+            "reliability": 72
+          },
+          "scoreReason": "새 발표나 확정 통계가 아닌 현지화 전략 분석 기사입니다. 수출 실적 전망을 실제 수치처럼 쓰지 않고 구조 변화와 사례만 요약했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "business",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-10-12T06:00:00+09:00",
+              "title": "수출 1조달러 ‘K브랜드’, 현지화로 전인미답의 길 간다",
+              "updatedAt": null,
+              "url": "https://www.mt.co.kr/index.php/living/2026/10/12/2026100609544243878",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "분석",
+          "summary": [
+            "머니투데이는 K푸드·K뷰티·유통 기업의 해외 진출 방식이 국내 생산품을 수출하는 데서 현지 생산시설과 유통망을 함께 만드는 방향으로 바뀌고 있다고 분석했습니다. 기사에서 CJ제일제당의 미국 생산 기반, 코스맥스·한국콜마의 해외 생산시설과 현지 브랜드 육성 등을 사례로 들었습니다.",
+            "배경으로는 물류비·관세, 지정학적 리스크와 공급망 불안이 제시됐습니다. 현지 소비자의 취향 데이터를 활용해 국가별 제품을 내놓는 전략도 언급됐습니다.",
+            "기사의 ‘수출 1조 달러’는 전망 표현이며 확정된 수출 실적이 아닙니다. 핵심은 수출액 하나보다 생산·물류·현지 브랜드와 소비자 데이터까지 포함하는 해외 사업 구조가 중요해지고 있다는 분석입니다."
+          ],
+          "timeline": {
+            "change": "해외 사업 전략을 국내 제품 수출에서 현지 생산·유통과 소비자 맞춤형 기획으로 확장하는 흐름을 사례로 정리했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "k-brand-localization-export-strategy-2026-10",
+            "issueTitle": "K브랜드의 해외 현지화와 수출 전략",
+            "stage": "분석"
+          },
+          "title": "K브랜드 해외 전략, 단순 수출에서 현지 생산·판매망으로 이동",
+          "topicKey": "k-brand-localization-export-strategy-2026-10",
+          "uncertainty": "산업 분석 기사로, 기업별 현지화 성과를 비교한 공통 계량 지표나 수출 1조달러 달성 확정치는 제시하지 않았습니다.",
+          "whatChanged": "해외 진출 전략의 초점이 국내 생산품 수출에서 현지 생산·유통·제품 기획으로 넓어진 흐름을 사례로 정리했습니다.",
+          "whyItMatters": "현지화 역량은 관세·물류·공급망 충격에 대한 대응과 K브랜드의 지속적인 해외 매출에 영향을 줍니다."
+        },
+        {
+          "category": "국제·사회",
+          "emphasis": [
+            "남성을 체포했다고 내무장관이 밝혔습니다",
+            "신원과 구체적인 공격 방식은 공개되지 않았습니다",
+            "이번 체포가 특정 국가의 개입과 연결됐다는 증거는 보도에 제시되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "폴란드 내무장관 발표일은 11일(현지시간)이며 체포 시각은 공개되지 않았습니다.",
+          "factsHash": "76161b114990801ee0d7725d56cdea32de5c5e6813bb003de3da6786c1857954",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "poland-pm-plot-suspect-arrest-2026-10-12",
+          "keyFacts": {
+            "구체 계획": "비공개",
+            "수사 상태": "체포·혐의 단계; 유죄 확정 아님",
+            "위협 대상": "도날트 투스크 총리·국방장관으로 보도",
+            "체포": "남성 1명; 신원 비공개"
+          },
+          "publishedAt": "2026-10-12T01:00:47+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T01:00:47+09:00",
+              "title": "폴란드 경찰, 투스크 총리 위해 모의 용의자 체포",
+              "updatedAt": null,
+              "url": "https://www.newsis.com/view/NISX20261012_0003821227",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 82.45,
+          "scoreComponents": {
+            "domesticImpact": 36,
+            "importance": 77,
+            "interest": 72,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "유럽 안보와 정부 수반 경호 이슈지만 구체적 계획과 배후는 공개되지 않아 단정 수준을 낮췄습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T01:00:47+09:00",
+              "title": "폴란드 경찰, 투스크 총리 위해 모의 용의자 체포",
+              "updatedAt": null,
+              "url": "https://www.newsis.com/view/NISX20261012_0003821227",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "폴란드 경찰이 도날트 투스크 총리를 위협하고 실제 공격을 계획한 혐의를 받는 남성을 체포했다고 내무장관이 밝혔습니다. 당국은 투스크 총리와 국방장관을 겨냥한 모의 정보를 앞서 입수했다고 설명했습니다.",
+            "체포된 사람의 신원과 구체적인 공격 방식은 공개되지 않았습니다. 폴란드 당국은 위협의 실행 가능성이 높다고 평가했지만, 이는 수사기관의 판단이며 혐의가 법원에서 확정된 것은 아닙니다.",
+            "우크라이나 지원국인 폴란드에서 고위 공직자에 대한 위협과 하이브리드 공격 우려가 안보 의제로 부상했습니다. 이번 체포가 특정 국가의 개입과 연결됐다는 증거는 보도에 제시되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "폴란드 당국이 투스크 총리 등을 겨냥한 공격을 모의한 혐의로 용의자를 체포했다고 발표했습니다.",
+            "eventDate": "2026-10-11",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Warsaw",
+            "issueId": "poland-tusk-assassination-plot-2026",
+            "issueTitle": "폴란드 총리·국방장관 공격 모의 수사",
+            "stage": "보도"
+          },
+          "title": "폴란드 경찰, 투스크 총리 공격 모의 혐의 용의자 체포",
+          "topicKey": "poland-tusk-assassination-plot-arrest-2026-10-12",
+          "uncertainty": "체포 사실과 당국의 위협 평가는 보도됐지만 피의자 신원·구체적 계획·배후는 확인되지 않았습니다.",
+          "whatChanged": "총리와 국방장관을 겨냥한 공격 모의 정보를 바탕으로 용의자가 체포됐습니다.",
+          "whyItMatters": "동유럽 안보 불안과 우크라이나 지원국의 경계 강화 흐름을 보여줍니다."
+        },
+        {
+          "category": "국제·정치",
+          "emphasis": [
+            "보좌진에게 “명확하게 그렇다”는 답을 들었다고 말했습니다",
+            "새로운 정보기관 보고서나 개입의 구체적 경로·규모를 공개하지는 않았습니다",
+            "투표 결과에 러시아 개입이 실제 영향을 미쳤다고 확정할 수는 없습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "팟캐스트 발췌본은 11일(현지시간) 공개됐으며 정확한 녹음 시각은 확인되지 않았습니다.",
+          "factsHash": "e5ae9162ecfd357d8ca572650b9735d7370017818a0e2df23b4377e5c00ad885",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "uk-pm-brexit-russian-interference-claim-2026-10-12",
+          "keyFacts": {
+            "근거 설명": "총리는 보좌진에게 받은 답을 인용; 문서 미공개",
+            "독립 확인": "이번 발언에 새 정보기관 보고서 첨부 없음",
+            "발언자": "앤디 버넘 영국 총리",
+            "시점": "2016년 브렉시트 국민투표 관련 개입 주장"
+          },
+          "publishedAt": "2026-10-12T05:59:58+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T05:59:58+09:00",
+              "title": "英 총리 “러시아, 2016년 브렉시트 국민투표 개입 명백”…첫 공개 인정",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821245",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 81.9,
+          "scoreComponents": {
+            "domesticImpact": 34,
+            "importance": 76,
+            "interest": 80,
+            "recency": 100,
+            "reliability": 75
+          },
+          "scoreReason": "유럽 선거와 외국 개입 문제가 재부상했지만 핵심 근거가 공개되지 않아 주장의 출처와 한계를 분명히 했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-12T05:59:58+09:00",
+              "title": "英 총리 “러시아, 2016년 브렉시트 국민투표 개입 명백”…첫 공개 인정",
+              "updatedAt": null,
+              "url": "https://nwww.newsis.com/view/NISX20261012_0003821245",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "주장",
+          "summary": [
+            "앤디 버넘 영국 총리는 공개된 팟캐스트 사전 발췌본에서 2016년 브렉시트 국민투표에 러시아가 개입했는지 물었고, 보좌진에게 “명확하게 그렇다”는 답을 들었다고 말했습니다. 현직 총리가 이 판단을 공개적으로 언급한 것은 이례적입니다.",
+            "총리는 관련 내용을 공식 기록으로 남길 필요성을 강조했지만, 이번 발언과 함께 새로운 정보기관 보고서나 개입의 구체적 경로·규모를 공개하지는 않았습니다. 영국 의회 정보안보위원회는 2020년 정부가 영향 가능성을 충분히 평가하지 않았다고 지적한 바 있습니다.",
+            "따라서 총리의 발언은 정부 내부 판단을 소개한 정치적 진술로 봐야 합니다. 이것만으로 투표 결과에 러시아 개입이 실제 영향을 미쳤다고 확정할 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "영국 총리가 보좌진의 판단을 인용해 러시아의 브렉시트 국민투표 개입이 명백하다고 공개적으로 말했지만 새 근거자료는 제시하지 않았습니다.",
+            "eventDate": "2026-10-11",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/London",
+            "issueId": "uk-brexit-russian-interference-claim-2026",
+            "issueTitle": "브렉시트 국민투표 러시아 개입 의혹과 영국 정부 판단",
+            "stage": "보도"
+          },
+          "title": "영국 총리 “러시아의 브렉시트 투표 개입 명백”…근거 자료는 미공개",
+          "topicKey": "uk-brexit-russian-interference-public-claim-2026-10-12",
+          "uncertainty": "총리 발언 외에 새 증거가 공개되지 않았습니다. 2020년 의회 보고서는 정부의 평가 부족을 지적했지 개입의 영향이 입증됐다는 뜻은 아닙니다.",
+          "whatChanged": "영국 총리가 정부 내부에서 받은 판단을 공개적으로 설명했습니다.",
+          "whyItMatters": "외국의 선거 개입과 온라인 허위정보 대응은 유럽 민주주의 정책에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "웹툰 산업",
+          "emphasis": [
+            "약 15개 작품을 검토 대상으로 협력합니다",
+            "‘재혼 황후’와 ‘더 복서’의 애니메이션 제작이 새로 공개됐고",
+            "약 15편은 잠재적 개발 대상이며 전 작품의 제작·방영이 확정된 것은 아닙니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "최근 72시간 내 새 웹툰 산업 발표가 드물어 10월 9일 공개된 해외 애니메이션 공동 제작 발표를 담았습니다. 약 15편 협력 구상과 개별 작품 제작 발표를 구분합니다.",
+          "factsHash": "1daafe80a7a0889078ce26ed310d23e7c55207bfae419d76ce3db1ae86a7dcd5",
+          "fallbackNote": "오늘 새 대형 발표는 확인되지 않아 최근 1~3일 내 중요 업데이트를 골랐습니다. 이 공동 제작 발표는 10월 9일 공개됐습니다.",
+          "followUp": null,
+          "id": "webtoon-anime-co-production-hayate-crunchyroll-2026-10-08",
+          "keyFacts": {
+            "개발대상": "약 15개 작품; 개발 초기 단계 협력",
+            "신규 애니화 발표": "재혼 황후·더 복서",
+            "유통": "Crunchyroll 일부 지역 독점 스트리밍 예정",
+            "티저 공개": "입학용병",
+            "파트너": "LINE Digital Frontier·HAYATE·Crunchyroll"
+          },
+          "publishedAt": "2026-10-09T22:17:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-09T22:03:22+09:00",
+              "title": "네이버웹툰, 소니 계열과 손잡고 애니 제작 확대…15개 작품 협력",
+              "updatedAt": null,
+              "url": "https://www.edaily.co.kr/News/Read?newsId=04454246645611280",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "en",
+              "name": "WEBTOON Entertainment",
+              "publishedAt": null,
+              "title": "HAYATE, Line Digital Frontier, Crunchyroll to Adapt Slate of WEBTOON Series Titles Into Anime",
+              "updatedAt": null,
+              "url": "https://ir.webtoon.com/news-releases/news-release-details/hayate-line-digital-frontier-crunchyroll-adapt-slate-webtoon",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "score": 63.15,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 84,
+            "interest": 93,
+            "recency": 25,
+            "reliability": 92
+          },
+          "scoreReason": "최근 72시간 이내 확인된 국내 웹툰 IP의 해외 애니메이션 협력 발표입니다. 제작 확정 작품과 잠재적 개발 풀을 분리했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-10-09T22:17:00+09:00",
+              "title": "네이버웹툰 ‘재혼 황후’ 애니로…크런치롤서 공개",
+              "updatedAt": null,
+              "url": "https://www.newspim.com/news/view/20261009000177",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "en",
+              "name": "WEBTOON Entertainment",
+              "publishedAt": null,
+              "title": "HAYATE, Line Digital Frontier, Crunchyroll to Adapt Slate of WEBTOON Series Titles Into Anime",
+              "updatedAt": null,
+              "url": "https://ir.webtoon.com/news-releases/news-release-details/hayate-line-digital-frontier-crunchyroll-adapt-slate-webtoon",
+              "verifiedAt": "2026-10-12T15:31:39+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "웹툰엔터테인먼트의 일본 자회사 라인 디지털 프론티어가 애니메이션 제작사 하야테, 스트리밍 플랫폼 크런치롤과 웹툰 원작 애니메이션 공동 제작 파트너십을 발표했습니다. 세 회사는 개발 단계부터 약 15개 작품을 검토 대상으로 협력합니다.",
+            "이번 뉴욕 코믹콘 발표에서 ‘재혼 황후’와 ‘더 복서’의 애니메이션 제작이 새로 공개됐고, ‘입학용병’은 티저 비주얼과 영상이 공개됐습니다. 약 15편은 잠재적 개발 대상이며 전 작품의 제작·방영이 확정된 것은 아닙니다.",
+            "하야테가 개발과 제작을 주도하고 크런치롤은 일부 지역에서 결과물을 독점 스트리밍할 계획입니다. 한국 웹툰 IP가 일본 제작사와 글로벌 스트리밍 플랫폼을 통해 영상화되는 구체적인 공동 개발 모델이 제시됐습니다."
+          ],
+          "timeline": {
+            "change": "세 회사가 약 15개 작품의 개발 단계 협력을 발표했고, 재혼 황후·더 복서 애니화와 입학용병 티저를 공개했습니다.",
+            "eventDate": "2026-10-08",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "webtoon-anime-co-production-hayate-crunchyroll-2026",
+            "issueTitle": "웹툰 원작 애니메이션의 HAYATE·LINE Digital Frontier·Crunchyroll 협력",
+            "stage": "발표"
+          },
+          "title": "네이버웹툰 원작 ‘재혼 황후’·‘더 복서’ 애니화…약 15편 공동 개발 추진",
+          "topicKey": "webtoon-anime-co-production-hayate-crunchyroll-2026",
+          "uncertainty": "약 15편 전체의 애니메이션 제작·공개가 확정된 것은 아닙니다. 스트리밍 지역·일정도 개별 작품별로 아직 공개되지 않았습니다.",
+          "whatChanged": "약 15개 웹툰의 공동 개발 협약과 함께 두 작품의 신규 애니화가 구체적으로 발표됐습니다.",
+          "whyItMatters": "글로벌 플랫폼의 웹툰 IP 확보가 번역 유통을 넘어 기획·제작·스트리밍 협업으로 확장되는 사례입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul",
+      "updatedAt": "2026-10-12T15:31:39+09:00"
+    },
+    "recordedAt": "2026-10-12T15:32:56.346320+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "a1a1131e6ca12aa4990f6467b7a9cfd2d6f8b5c9acbbdf898600db48356733ce",
+  "opensAt": "2026-10-11T21:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-10-12T09:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

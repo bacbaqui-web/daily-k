@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-12/am.json",
+      "category": "국제·사회",
+      "change": "폴란드 당국이 투스크 총리 등을 겨냥한 공격을 모의한 혐의로 용의자를 체포했다고 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-12T15:31:39+09:00",
+      "coveredOn": "2026-10-12",
+      "edition": "am",
+      "editionDate": "2026-10-12",
+      "editionId": "2026-10-12-am",
+      "eventAt": null,
+      "eventDate": "2026-10-11",
+      "eventEndDate": null,
+      "eventTimeNote": "폴란드 내무장관 발표일은 11일(현지시간)이며 체포 시각은 공개되지 않았습니다.",
+      "eventTimezone": "Europe/Warsaw",
+      "followUp": null,
+      "id": "2026-10-12-am/poland-pm-plot-suspect-arrest-2026-10-12",
+      "keyFacts": {
+        "구체 계획": "비공개",
+        "수사 상태": "체포·혐의 단계; 유죄 확정 아님",
+        "위협 대상": "도날트 투스크 총리·국방장관으로 보도",
+        "체포": "남성 1명; 신원 비공개"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-12T01:00:47+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-12T01:00:47+09:00",
+          "title": "폴란드 경찰, 투스크 총리 위해 모의 용의자 체포",
+          "updatedAt": null,
+          "url": "https://www.newsis.com/view/NISX20261012_0003821227",
+          "verifiedAt": "2026-10-12T15:31:39+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "poland-pm-plot-suspect-arrest-2026-10-12",
+      "summary": [
+        "폴란드 경찰이 도날트 투스크 총리를 위협하고 실제 공격을 계획한 혐의를 받는 남성을 체포했다고 내무장관이 밝혔습니다. 당국은 투스크 총리와 국방장관을 겨냥한 모의 정보를 앞서 입수했다고 설명했습니다.",
+        "체포된 사람의 신원과 구체적인 공격 방식은 공개되지 않았습니다. 폴란드 당국은 위협의 실행 가능성이 높다고 평가했지만, 이는 수사기관의 판단이며 혐의가 법원에서 확정된 것은 아닙니다.",
+        "우크라이나 지원국인 폴란드에서 고위 공직자에 대한 위협과 하이브리드 공격 우려가 안보 의제로 부상했습니다. 이번 체포가 특정 국가의 개입과 연결됐다는 증거는 보도에 제시되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "폴란드 경찰, 투스크 총리 공격 모의 혐의 용의자 체포",
+      "uncertainty": "체포 사실과 당국의 위협 평가는 보도됐지만 피의자 신원·구체적 계획·배후는 확인되지 않았습니다."
+    }
+  ],
+  "id": "poland-tusk-assassination-plot-2026",
+  "schemaVersion": 1,
+  "title": "폴란드 총리·국방장관 공격 모의 수사",
+  "updatedAt": "2026-10-12T15:31:39+09:00"
+}
