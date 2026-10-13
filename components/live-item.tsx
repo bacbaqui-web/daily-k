@@ -35,7 +35,7 @@ export function LiveItemCard({item,corrections,channel,record,windowId}:{item:Li
   reveal();window.addEventListener('popstate',reveal);return()=>window.removeEventListener('popstate',reveal);
  },[item.id]);
  return <li className="live-item"><article ref={article} id={`item-${prefix}`} aria-labelledby={`title-${prefix}`}>
-  <div className="live-card-topline"><span className="live-eyebrow">{item.kind==='community'?`애객 유머 · 댓글 ㅋ ${media?.kCount??'미확인'}`:instagram?'참고 콘텐츠':'화제 주제'}</span><time dateTime={item.lastVerifiedAt} title={liveTime(item.lastVerifiedAt)}>{new Intl.DateTimeFormat('ko-KR',{timeZone:'Asia/Seoul',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(item.lastVerifiedAt))} 확인</time></div>
+  <div className="live-card-topline"><span className="live-eyebrow">{item.kind==='community'?`ㅋ ${media?.kCount??'미확인'}`:instagram?'참고 콘텐츠':'화제 주제'}</span><time dateTime={item.lastVerifiedAt} title={liveTime(item.lastVerifiedAt)}>{new Intl.DateTimeFormat('ko-KR',{timeZone:'Asia/Seoul',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(item.lastVerifiedAt))} 확인</time></div>
   <div className="live-card-heading"><h2 ref={title} tabIndex={-1} id={`title-${prefix}`}>{item.title}</h2>{thumbnail&&isPublicImageUrl(thumbnail)&&!imageFailed&&<img className="live-thumbnail" src={thumbnail} alt="" loading="lazy" referrerPolicy="no-referrer" onError={()=>setImageFailed(true)}/>}</div>
   {corrections.length>0&&<span className="live-correction-badge">정정·철회 기록 {corrections.length}건</span>}
   <Summary text={item.summary} id={`summary-${prefix}`}/>
