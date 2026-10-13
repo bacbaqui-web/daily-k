@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-14",
-  "collectedAt": "2026-10-13T21:51:19.190828+00:00",
+  "collectedAt": "2026-10-13T21:54:16.851551+00:00",
   "windowEnd": "2026-10-14T06:51:19.149772+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -16128,10 +16128,62 @@
       "sourceTitlesFetchedAt": "2026-10-13T21:17:14.702952+00:00",
       "collectedAt": "2026-10-14T06:17:14.702994+09:00",
       "firstPublishedAt": "2026-10-13T21:17:14.740542+00:00"
+    },
+    {
+      "id": "aagag-1661634-0",
+      "url": "https://aagag.com/issue/?idx=1661634",
+      "source": "애객",
+      "title": "예쁘다고 칭찬하면 돌아오는 보답?",
+      "publishedAt": "2026-10-14T06:26:33+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "소리 온"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KzEMm.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KzEMm.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "소리 온",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 9,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 9,
+      "kPerComment": 9.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8842493",
+          "text": "씨박 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 얼척이 없네"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-14T06:54:01.773164+09:00",
+      "sourceTitles": [
+        "예쁘다고 칭찬하면 돌아오는 보답?",
+        "예쁘다고 칭찬하면 돌아오는 보답? mp4",
+        "ㅇㅎ?) 예쁘다고 칭찬하면 돌아오는 보답? mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-10-13T21:54:16.814604+00:00",
+      "collectedAt": "2026-10-14T06:54:16.814663+09:00",
+      "firstPublishedAt": "2026-10-13T21:54:16.883665+00:00"
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
