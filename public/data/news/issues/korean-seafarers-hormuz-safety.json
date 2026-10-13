@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-13/pm.json",
+      "category": "국제·안보",
+      "change": "해양수산부의 10월 12일 18시 기준 집계에서 해협 안쪽 한국인 선원 수가 16명으로 전날보다 1명 줄었습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-13T21:10:50+09:00",
+      "coveredOn": "2026-10-13",
+      "edition": "pm",
+      "editionDate": "2026-10-13",
+      "editionId": "2026-10-13-pm",
+      "eventAt": "2026-10-12T18:00:00+09:00",
+      "eventDate": "2026-10-12",
+      "eventEndDate": null,
+      "eventTimeNote": "해양수산부 집계 기준 시각이며 보도 시각과 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-13-pm/korean-seafarers-hormuz-status-2026-10-12",
+      "keyFacts": {
+        "기준 시각": "2026-10-12 18:00 KST",
+        "변화": "직전 집계보다 1명 감소",
+        "외국 선적 선박": "10명",
+        "한국 선사 운항 선박": "2척에 6명",
+        "해협 안 한국인 선원": "16명"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-13T11:31:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-10-13T11:31:00+09:00",
+          "title": "호르무즈 해협 내 한국인 선원 16명…전날보다 1명 감소",
+          "updatedAt": null,
+          "url": "https://www.news1.kr/economy/idustry-trade/6318129",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "보도",
+      "storyId": "korean-seafarers-hormuz-status-2026-10-12",
+      "summary": [
+        "해양수산부 집계 기준 10월 12일 오후 6시 현재 호르무즈 해협 안쪽에 남아 있는 한국인 선원은 16명으로, 직전 집계보다 1명 줄었습니다. 선원 교대가 반영된 결과입니다.",
+        "뉴스1 보도에 따르면 한국 선사가 운항하는 선박 2척에 6명, 외국 선적 선박에 10명이 승선해 있습니다. 한국 선사가 운항하는 선박 중에는 수리 중인 HMM 나무호가 포함됐습니다.",
+        "선원 수가 줄었더라도 해협의 항행 위험이 해소됐다는 뜻은 아닙니다. 선박별 위치·회사 정보는 안전을 고려해 공개되지 않았고, 선원 교대와 선박 이동은 서로 구분해야 합니다.",
+        "해협 내 우리 선원의 안전과 선박 운항 재개 여부는 국내 에너지·물류 공급에도 중요한 변수입니다. 향후 정부 집계와 선박의 안전한 이동이 확인될 때까지 현재 인원을 시점이 명확한 잠정 현황으로 봐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "호르무즈 해협 안쪽 한국인 선원 16명…교대 뒤 1명 감소",
+      "uncertainty": "선원·선박 현황은 집계 시각 기준이며, 공개되지 않은 선박 정보나 이후 이동을 추정하지 않았습니다."
+    }
+  ],
+  "id": "korean-seafarers-hormuz-safety",
+  "schemaVersion": 1,
+  "title": "호르무즈 해협 내 한국인 선원 안전",
+  "updatedAt": "2026-10-13T21:10:50+09:00"
+}

@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-13/pm.json",
+      "category": "국내 정책",
+      "change": "행정안전부가 44개 기관, 9,929명 이전 추진안을 발표했습니다. 2027년 임차 청사 이전과 2031년까지의 잔여 이전으로 나뉩니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-13T21:10:50+09:00",
+      "coveredOn": "2026-10-13",
+      "edition": "pm",
+      "editionDate": "2026-10-13",
+      "editionId": "2026-10-13-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-13",
+      "eventEndDate": null,
+      "eventTimeNote": "행정안전부의 발표일만 확인했으며 발표 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-13-pm/central-agencies-sejong-relocation-2026-10-13",
+      "keyFacts": {
+        "2027년 관련 추산 비용": "897억원",
+        "2027년 임차 이전": "27개 기관·2,995명",
+        "나머지 이전": "17개 기관·6,934명, 2031년까지 추진",
+        "이전 대상": "44개 기관·9,929명",
+        "청사 건립비 추산": "3조1천억원"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-13T17:42:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-13T17:42:00+09:00",
+          "title": "수도권 중앙행정기관 44곳 세종 이전…2027년 6곳부터 시작",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/amp/view/AKR20261013147551530",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "행정안전부",
+          "publishedAt": null,
+          "title": "수도권 소재 중앙행정기관 등 44개 기관, 9,929명 세종 이전 추진",
+          "updatedAt": null,
+          "url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130162",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "central-agencies-sejong-relocation-2026-10-13",
+      "summary": [
+        "행정안전부는 수도권에 남은 중앙행정기관 등 44곳과 직원 9,929명을 세종으로 이전하는 계획을 발표했습니다. 행정 기능을 세종으로 모아 수도권 집중을 완화하겠다는 구상입니다.",
+        "우선 27개 기관, 2,995명은 임차 청사를 활용해 2027년부터 옮깁니다. 나머지 17개 기관, 6,934명은 별도 청사가 필요해 2031년까지 이전을 추진할 계획입니다.",
+        "정부 추산 이전 관련 비용은 2027년 임차·건립·운영·이전 지원 등을 합쳐 897억원이며, 청사 건립비는 총 3조1천억원으로 추산됐습니다. 법무부와 성평등가족부 등은 행복도시법 개정 여부에 따라 이전 시점이 달라질 수 있습니다.",
+        "이전이 실제로 진행되면 세종의 행정·주거·교통 수요와 수도권 공공기관 배치가 달라질 수 있습니다. 다만 기관별 세부 일정, 법 개정, 청사 확보와 비용 조달이 남아 있어 이전 완료나 균형발전 효과가 확정된 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "중앙행정기관 등 44곳·9,929명 세종 이전 추진…첫 이전은 2027년",
+      "uncertainty": "이는 정부가 발표한 추진 계획이며 44개 기관 전체의 이전이 완료됐다는 뜻은 아닙니다. 일부 기관 일정은 관련 법 개정에 달려 있습니다."
+    }
+  ],
+  "id": "central-agencies-sejong-relocation",
+  "schemaVersion": 1,
+  "title": "수도권 중앙행정기관의 세종 이전 계획",
+  "updatedAt": "2026-10-13T21:10:50+09:00"
+}

@@ -1,6 +1,175 @@
 {
-  "editionCount": 57,
+  "editionCount": 58,
   "issues": [
+    {
+      "categories": [
+        "국제·에너지"
+      ],
+      "eventCount": 17,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "일본 각의가 조달처 다변화와 추가 운송비 지원을 담은 법안 패키지를 결정했습니다. 법률 시행 여부는 국회 절차를 남겨 두고 있습니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "발표",
+        "storyId": "japan-energy-import-diversification-bills-2026-10-13",
+        "title": "일본, 원유 수입 다변화·운송비 지원 법안 각의 결정…국회 통과는 남아"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "lezhin-teaz-webtoon-ip-chat",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "레진엔터테인먼트가 봄툰·레진코믹스 공식 IP를 활용한 캐릭터챗 티즈를 10월 19일 출시할 계획이며 대화형 기능을 추가 보도했습니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "예정",
+        "storyId": "webtoon-ai-character-chat-teaz-2026-10-19",
+        "title": "레진엔터, 웹툰 IP AI 캐릭터챗 ‘티즈’ 19일 출시 예정"
+      },
+      "path": "lezhin-teaz-webtoon-ip-chat.json",
+      "title": "레진엔터 웹툰 IP 기반 AI 캐릭터챗 티즈"
+    },
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "korean-seafarers-hormuz-safety",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "해양수산부의 10월 12일 18시 기준 집계에서 해협 안쪽 한국인 선원 수가 16명으로 전날보다 1명 줄었습니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "결과",
+        "storyId": "korean-seafarers-hormuz-status-2026-10-12",
+        "title": "호르무즈 해협 안쪽 한국인 선원 16명…교대 뒤 1명 감소"
+      },
+      "path": "korean-seafarers-hormuz-safety.json",
+      "title": "호르무즈 해협 내 한국인 선원 안전"
+    },
+    {
+      "categories": [
+        "기술·IT·AI"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "korean-electronics-ai-industry-exhibitions-2026",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "KES 2026이 개막해 AI·가전·로봇 기술 전시가 시작됐습니다. 해외 바이어 참여는 예정 규모이며 실적은 아직 집계되지 않았습니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "시행",
+        "storyId": "k-connect-ai-electronics-trade-show-2026-10-13",
+        "title": "KES 2026 개막…가전·로봇·반도체 현장에 AI 적용 기술 집결"
+      },
+      "path": "korean-electronics-ai-industry-exhibitions-2026.json",
+      "title": "한국 전자·반도체 산업 전시와 AI 적용"
+    },
+    {
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 23,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "10월 13일 코스피 종가와 투자자별 순매매가 확정됐습니다. 전날보다 낙폭과 외국인 순매도 규모가 확대됐습니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "결과",
+        "storyId": "korea-market-2026-10-13-close",
+        "title": "코스피 5.46% 급락해 6,035.35…외국인 4조5천억원대 순매도"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "india-inflation-cpi",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "인도 통계당국의 9월 CPI 잠정치가 5.54%로 발표됐습니다. 8월 4.83%보다 0.71%포인트 높고 식품 물가 상승률도 7.74%로 가속했습니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "결과",
+        "storyId": "india-cpi-september-2026",
+        "title": "인도 9월 물가상승률 5.54%…식품 물가 7.74%로 가속"
+      },
+      "path": "india-inflation-cpi.json",
+      "title": "인도 소비자물가와 통화정책"
+    },
+    {
+      "categories": [
+        "사회·사건"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "incheon-guwol-commercial-complex-stabbing",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "상업시설에서 8명이 다치는 사건이 발생했고 피의자가 체포됐습니다. 부상자 치료와 범행 동기는 조사 중입니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "보도",
+        "storyId": "incheon-guwol-commercial-complex-stabbing-2026-10-13",
+        "title": "인천 구월동 상업시설 흉기 난동…시민 8명 다치고 피의자 체포"
+      },
+      "path": "incheon-guwol-commercial-complex-stabbing.json",
+      "title": "인천 구월동 상업시설 흉기 난동 수사"
+    },
+    {
+      "categories": [
+        "국내 정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "central-agencies-sejong-relocation",
+      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
+      "lastCoveredDate": "2026-10-13",
+      "latest": {
+        "archive": false,
+        "change": "행정안전부가 44개 기관, 9,929명 이전 추진안을 발표했습니다. 2027년 임차 청사 이전과 2031년까지의 잔여 이전으로 나뉩니다.",
+        "editionId": "2026-10-13-pm",
+        "stage": "발표",
+        "storyId": "central-agencies-sejong-relocation-2026-10-13",
+        "title": "중앙행정기관 등 44곳·9,929명 세종 이전 추진…첫 이전은 2027년"
+      },
+      "path": "central-agencies-sejong-relocation.json",
+      "title": "수도권 중앙행정기관의 세종 이전 계획"
+    },
     {
       "categories": [
         "웹툰 산업"
@@ -63,28 +232,6 @@
       },
       "path": "nobel-economics-2026.json",
       "title": "2026년 노벨 경제학상"
-    },
-    {
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 22,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-12T21:12:05+09:00",
-      "lastCoveredDate": "2026-10-12",
-      "latest": {
-        "archive": false,
-        "change": "10월 12일 코스피·코스닥 종가와 투자자별 순매매가 확정됐습니다. 10월 8일 종가 이후 추가 하락을 기록했습니다.",
-        "editionId": "2026-10-12-pm",
-        "stage": "결과",
-        "storyId": "korea-market-2026-10-12-close",
-        "title": "코스피 6,384.24로 3.65% 하락…외국인 2조원 순매도"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -764,27 +911,6 @@
       },
       "path": "panama-earthquake-2026-10.json",
       "title": "2026년 10월 파나마 강진"
-    },
-    {
-      "categories": [
-        "국제·에너지"
-      ],
-      "eventCount": 16,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
-      "lastCoveredDate": "2026-10-10",
-      "latest": {
-        "archive": false,
-        "change": "기존 비축유·호르무즈 공급 논의 이후 미국과 러시아가 경유 공급 계획을 발표했고, 미국 재무부의 한시 거래 허가 발표가 뒤따랐습니다.",
-        "editionId": "2026-10-10-am",
-        "stage": "후속",
-        "storyId": "russian-diesel-supply-license-2026-10-09",
-        "title": "미·러 경유 공급 합의 발표…미 재무부, 한시 거래 허가"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
     },
     {
       "categories": [
@@ -4618,7 +4744,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 435,
+  "storyCount": 443,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-12T21:12:05+09:00"
+  "updatedAt": "2026-10-13T21:10:50+09:00"
 }

@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-13/pm.json",
+      "category": "경제",
+      "change": "인도 통계당국의 9월 CPI 잠정치가 5.54%로 발표됐습니다. 8월 4.83%보다 0.71%포인트 높고 식품 물가 상승률도 7.74%로 가속했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-13T21:10:50+09:00",
+      "coveredOn": "2026-10-13",
+      "edition": "pm",
+      "editionDate": "2026-10-13",
+      "editionId": "2026-10-13-pm",
+      "eventAt": "2026-10-12T16:00:00+05:30",
+      "eventDate": "2026-10-12",
+      "eventEndDate": null,
+      "eventTimeNote": "인도 통계당국 발표 시각 기준이며 한국시간은 10월 12일 19시30분입니다.",
+      "eventTimezone": "Asia/Kolkata",
+      "followUp": null,
+      "id": "2026-10-13-pm/india-cpi-september-2026",
+      "keyFacts": {
+        "8월 CPI 확정치": "4.83%",
+        "9월 CPI 잠정치": "전년 대비 5.54%",
+        "RBI 목표": "중간값 4%, 허용 범위 2~6%",
+        "식품 물가 상승률": "7.74% (8월 5.97%)",
+        "양파 가격": "전년 대비 108.09%"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-13T18:16:46+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-13T18:16:46+09:00",
+          "title": "인도 9월 소비자물가 5.54%·0.71%P↑…식품값 급등",
+          "updatedAt": "2026-10-13T20:58:25+09:00",
+          "url": "https://mobile.newsis.com/view/NISX20261013_0003824568",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "인도 언론정보국(PIB)",
+          "publishedAt": "2026-10-12T16:00:00+05:30",
+          "title": "Consumer Price Index (CPI) on base 2024=100 for September 2026",
+          "updatedAt": null,
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322244&lang=2&reg=48",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "india-cpi-september-2026",
+      "summary": [
+        "인도의 9월 소비자물가 상승률 잠정치는 전년 동월 대비 5.54%로 집계됐습니다. 8월 확정치 4.83%보다 0.71%포인트 높고, 2026년부터 적용된 새 CPI 기준으로는 가장 높은 수준입니다.",
+        "식품 물가 상승률은 8월 5.97%에서 7.74%로 올랐습니다. 양파 가격은 전년 동월 대비 108.09% 상승했고, 농촌 물가 상승률은 6.08%, 도시 물가는 4.88%였습니다.",
+        "인도 중앙은행의 물가 목표는 4%이며 허용 범위는 2~6%입니다. 이번 수치는 목표 중간값을 4개월째 웃돌았지만 상한 6% 아래입니다. 물가 발표만으로 추가 금리 인상이 결정된 것은 아닙니다.",
+        "식품 가격 급등은 가계의 체감 물가와 통화정책 판단에 영향을 줄 수 있습니다. 수치는 잠정치이며, 세부 가격 압력이 이어질지와 향후 중앙은행의 공식 판단을 지켜봐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "인도 9월 물가상승률 5.54%…식품 물가 7.74%로 가속",
+      "uncertainty": "CPI는 잠정치입니다. 시장 참가자의 금리 전망은 분석·예상이며 중앙은행의 확정 결정이 아닙니다."
+    }
+  ],
+  "id": "india-inflation-cpi",
+  "schemaVersion": 1,
+  "title": "인도 소비자물가와 통화정책",
+  "updatedAt": "2026-10-13T21:10:50+09:00"
+}

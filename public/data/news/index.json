@@ -1,6 +1,16 @@
 {
   "editions": [
     {
+      "count": 8,
+      "cutoffAt": "2026-10-13T21:00:00+09:00",
+      "date": "2026-10-13",
+      "edition": "pm",
+      "generatedAt": "2026-10-13T21:10:50+09:00",
+      "headline": "레진엔터, 웹툰 IP AI 캐릭터챗 ‘티즈’ 19일 출시 예정",
+      "id": "2026-10-13-pm",
+      "path": "2026-10-13/pm.json"
+    },
+    {
       "count": 7,
       "cutoffAt": "2026-10-12T21:00:00+09:00",
       "date": "2026-10-12",
@@ -608,5 +618,5 @@
   ],
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-12T21:12:05+09:00"
+  "updatedAt": "2026-10-13T21:10:50+09:00"
 }

@@ -1,0 +1,70 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-13/pm.json",
+      "category": "사회·사건",
+      "change": "상업시설에서 8명이 다치는 사건이 발생했고 피의자가 체포됐습니다. 부상자 치료와 범행 동기는 조사 중입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-13T21:10:50+09:00",
+      "coveredOn": "2026-10-13",
+      "edition": "pm",
+      "editionDate": "2026-10-13",
+      "editionId": "2026-10-13-pm",
+      "eventAt": "2026-10-13T13:40:00+09:00",
+      "eventDate": "2026-10-13",
+      "eventEndDate": null,
+      "eventTimeNote": "연합뉴스는 사건 발생을 오후 1시40분께로 보도했습니다. 112 신고 시각으로 보도된 13시52분과 구별합니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-13-pm/incheon-guwol-commercial-complex-stabbing-2026-10-13",
+      "keyFacts": {
+        "112 신고": "오후 1시52분(별도 보도)",
+        "부상자": "8명",
+        "사건 발생 시각": "오후 1시40분께(연합뉴스 보도)",
+        "피의자": "50대 남성, 현장 체포"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-13T17:49:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-10-13T16:56:00+09:00",
+          "title": "인천 구월동 대형 상업시설 흉기 난동…8명 부상",
+          "updatedAt": null,
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6857634_36982.html",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-13T17:49:00+09:00",
+          "title": "일면식없는 불특정 다수 대상 또 흉기난동…불안감 커져",
+          "updatedAt": null,
+          "url": "https://www.yna.co.kr/view/AKR20261013170600065",
+          "verifiedAt": "2026-10-13T21:10:50+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "incheon-guwol-commercial-complex-stabbing-2026-10-13",
+      "summary": [
+        "13일 오후 인천 남동구 구월동의 대형 상업시설에서 50대 남성이 흉기를 휘둘러 시민 8명이 다쳤고, 피의자는 현장에서 체포됐습니다. 부상자 가운데 한 명은 심정지 상태로 이송됐다고 초기 보도됐습니다.",
+        "연합뉴스 후속 보도는 사건이 오후 1시40분께 발생했다고 전했습니다. 별도 보도에서는 112 신고 시각이 오후 1시52분으로 전해져, 사건 발생 시각과 신고 접수 시각을 구분해야 합니다.",
+        "MBC와 연합뉴스 보도 기준으로 피의자는 체포됐고 경찰은 구체적인 범행 동기와 경위를 조사 중입니다. 현장에 있던 시민들이 제압을 도왔다는 보도도 나왔습니다.",
+        "다중이용시설에서 발생한 사건이라 피해자 치료와 현장 안전, 경찰 수사 결과가 중요합니다. 초기 보도 시점의 부상자 상태이므로 이후 치료 경과나 수사로 확인될 사실을 추정해서는 안 됩니다."
+      ],
+      "supersededBy": [],
+      "title": "인천 구월동 상업시설 흉기 난동…시민 8명 다치고 피의자 체포",
+      "uncertainty": "초기 보도 기준 피해 집계이며 부상자 상태와 범행 동기는 수사·치료 결과에 따라 달라질 수 있습니다. 신고 시각과 사건 추정 시각도 보도에서 구분됩니다."
+    }
+  ],
+  "id": "incheon-guwol-commercial-complex-stabbing",
+  "schemaVersion": 1,
+  "title": "인천 구월동 상업시설 흉기 난동 수사",
+  "updatedAt": "2026-10-13T21:10:50+09:00"
+}
