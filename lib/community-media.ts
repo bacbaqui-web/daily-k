@@ -1,4 +1,4 @@
-export type BodyImage = {url:string;width:number;height:number};
+export type BodyImage = {url:string;width?:number;height?:number};
 export type CommunityMedia = {
  imageUrl?:string|null;
  videoUrl?:string|null;
@@ -25,7 +25,7 @@ export function isBodyImages(value:unknown):value is BodyImage[] {
  const seen=new Set<string>();
  return value.every(image=>{
   if(!image||typeof image!=='object'||!isPublicImageUrl(image.url)||
-   !Number.isSafeInteger(image.width)||image.width<=0||!Number.isSafeInteger(image.height)||image.height<=0)return false;
+   (image.width!==undefined&&(!Number.isSafeInteger(image.width)||image.width<=0))||(image.height!==undefined&&(!Number.isSafeInteger(image.height)||image.height<=0)))return false;
   const key=imageKey(image.url);if(seen.has(key))return false;seen.add(key);return true;
  });
 }
