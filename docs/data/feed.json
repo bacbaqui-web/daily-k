@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-14",
-  "collectedAt": "2026-10-13T23:01:18.861045+00:00",
+  "collectedAt": "2026-10-13T23:05:13.622260+00:00",
   "windowEnd": "2026-10-14T08:01:18.805774+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -17748,6 +17748,74 @@
       "firstPublishedAt": "2026-10-13T17:57:11.636756+00:00"
     },
     {
+      "id": "aagag-1661645-0",
+      "url": "https://aagag.com/issue/?idx=1661645",
+      "source": "애객",
+      "title": "호불호 갈리는 바지 길이 gif",
+      "publishedAt": "2026-10-14T07:52:07+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/CglST.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/CglST.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8842688",
+          "text": "이게 왜 호불호???"
+        },
+        {
+          "id": "8842733",
+          "text": "호불호라고 안쓰면 제가 못보고 못들어올뻔했으니까요~ 찡긋~"
+        },
+        {
+          "id": "8842701",
+          "text": "거울......... 화이팅!!!!!!!"
+        },
+        {
+          "id": "8842705",
+          "text": "참고로 우주소녀 루다 노래도 내고 배우도 하고있긴합니다"
+        },
+        {
+          "id": "8842739",
+          "text": "저는 불호. 다소 긴것같네요"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-14T08:04:57.765061+09:00",
+      "sourceTitles": [
+        "호불호 갈리는 바지 길이 gif",
+        "호불호 갈리는 바지 길이 gif",
+        "호불호 갈리는 바지 길이 gif",
+        "태풍같은 돌핀 팬츠.gif",
+        "ㅇㅎ?) 중국인 아이돌 근황",
+        "ㅇㅎ?) 중국인 아이돌 근황",
+        "한국형 피쉬 앤 칩스"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-13T23:05:13.587684+00:00",
+      "collectedAt": "2026-10-14T08:05:13.587701+09:00",
+      "firstPublishedAt": "2026-10-13T23:05:13.639919+00:00"
+    },
+    {
       "id": "aagag-1661612-0",
       "url": "https://aagag.com/issue/?idx=1661612",
       "source": "애객",
@@ -17858,7 +17926,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
