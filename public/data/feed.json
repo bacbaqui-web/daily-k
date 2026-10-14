@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-14",
-  "collectedAt": "2026-10-14T10:31:18.625747+00:00",
+  "collectedAt": "2026-10-14T10:34:56.874053+00:00",
   "windowEnd": "2026-10-14T19:31:18.557081+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -22990,6 +22990,71 @@
       "firstPublishedAt": "2026-10-14T09:12:57.043024+00:00"
     },
     {
+      "id": "aagag-1661764-0",
+      "url": "https://aagag.com/issue/?idx=1661764",
+      "source": "애객",
+      "title": "여자보다 남자가 더 예쁘다는걸 증명하는 남자",
+      "publishedAt": "2026-10-14T19:21:45+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "https://www.fmkorea.com/best/10445743268"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0QEw.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L0QEw.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "https://www.fmkorea.com/best/10445743268",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 3,
+      "laughingComments": 1,
+      "score": 11,
+      "kPerComment": 3.6666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8846184",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ 이런것도 우문현답인가 ㅋㅋㅋ"
+        },
+        {
+          "id": "8846190",
+          "text": "매섭다 매서워"
+        },
+        {
+          "id": "8846222",
+          "text": "많은 여자들이 그린 얼굴을 자기 얼굴로 알고 있는거 같긴해요."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-14T19:34:40.807967+09:00",
+      "sourceTitles": [
+        "여자보다 남자가 예쁘다는걸 증명하는 남자",
+        "여자보다 남자가 더 예쁘다는걸 증명하는 남자",
+        "여자보다 남자가 더 예쁘다는걸 증명하는 남자",
+        "남자가 여자보다 예쁘다는걸 그 자리에서 증명한 남자(펌)",
+        "여자보다 남자가 더 예쁘다는걸 증명하는 남자",
+        "여자보다 남자가 더 예쁘다는걸 증명하는 남자",
+        "여자보다 남자가 더 예쁘다는걸 증명하는 남자",
+        "레포터를 당황시킨 남자"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-10-14T10:34:56.830611+00:00",
+      "collectedAt": "2026-10-14T19:34:56.830634+09:00",
+      "firstPublishedAt": "2026-10-14T10:34:56.900256+00:00"
+    },
+    {
       "id": "aagag-1661765-0",
       "url": "https://aagag.com/issue/?idx=1661765",
       "source": "애객",
@@ -26424,7 +26489,7 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
