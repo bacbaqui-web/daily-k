@@ -29,7 +29,7 @@ function SourceGraph({story}:{story:Story}){
 function CommunityShare({brief,story}:{brief:Brief;story:Story}){
  const [state,setState]=useState<'idle'|'copying'|'copied'|'manual'>('idle');
  const [link,setLink]=useState('');const manual=useRef<HTMLTextAreaElement|null>(null),button=useRef<HTMLButtonElement|null>(null);
- useEffect(()=>{const u=new URL(location.href);u.searchParams.delete('tab');u.searchParams.set('date',brief.date);u.searchParams.set('edition',brief.edition);u.searchParams.set('story',story.id);setLink(u.href)},[brief.id,story.id]);
+ useEffect(()=>{const u=new URL(location.href);if(story.category==='ㅇㅎㅂ')u.searchParams.set('tab','tagged');else u.searchParams.delete('tab');u.searchParams.set('date',brief.date);u.searchParams.set('edition',brief.edition);u.searchParams.set('story',story.id);setLink(u.href)},[brief.id,story.id]);
  useEffect(()=>{if(state!=='copied')return;const t=setTimeout(()=>setState('idle'),6500);return()=>clearTimeout(t)},[state]);
  useEffect(()=>{if(state==='manual'){manual.current?.focus();manual.current?.select()}},[state]);
  async function copy(){setState('copying');try{await navigator.clipboard.writeText(link);setState('copied')}catch{setState('manual')}}
@@ -37,7 +37,7 @@ function CommunityShare({brief,story}:{brief:Brief;story:Story}){
 }
 function SocialLinks({story}:{story:Story}){const links=contentMarkers({comments:story.comments,excerpt:story.originalText,portalLinks:[...(story.portalLinks||[]),...(story.contentSignals||[]).flatMap(s=>s.url?[s.url]:[])]});return <>{links.map(l=><a className="content-marker" data-social={l.label==='인스타'?'instagram':'x'} href={l.url} key={l.url} target="_blank" rel="noopener noreferrer">{l.label}<span className="sr-only"> (새 탭)</span></a>)}</>}
 function Comments({story}:{story:Story}){return <section className="community-comments"><h3>댓글 <span>{story.commentCount===undefined?'미확인':`${story.commentCount}개 확인`}</span></h3>{story.comments?.length?<><ol>{story.comments.map(c=><li key={c.id}><blockquote>{c.text}{c.truncated?'…':''}</blockquote>{c.likes!==undefined&&<small>추천 {c.likes}</small>}</li>)}</ol><p className="community-comment-note">확인한 댓글 중 짧은 인용입니다. 전체 댓글은 원본에서 볼 수 있습니다.</p></>:<p className="community-comment-note">이 회차의 댓글 인용은 아직 없습니다. 원본 링크에서 확인해 주세요.</p>}</section>}
-export function CommunityBriefing({selection}:{selection?:EditionSelection}){
+export function CommunityBriefing({selection,tagged=false}:{selection?:EditionSelection;tagged?:boolean}){
  const [entries,setEntries]=useState<Entry[]>([]),[localDate,setDate]=useState(''),[localEdition,setEdition]=useState<'am'|'pm'>('am'),[brief,setBrief]=useState<Brief|null>(null),[error,setError]=useState(''),[loading,setLoading]=useState(true),[active,setActive]=useState<string|null>(null),[read,setRead]=useState<string[]>([]),[category,setCategory]=useState<Category|'전체'>('전체');
  const date=localDate,edition=localEdition;
  const [now,setNow]=useState(Date.now());
@@ -60,7 +60,7 @@ export function CommunityBriefing({selection}:{selection?:EditionSelection}){
  const body=useRef<HTMLDivElement|null>(null);
  const [readerOrder,setReaderOrder]=useState<string[]>([]);
  const isRead=(id:string)=>read.some(key=>key===id||key.endsWith(`:${id}`));
- const visibleIndices=brief?communityStoryIndices(brief.stories,'전체').filter(i=>uploadAge(brief.stories[i])>=0&&uploadAge(brief.stories[i])<86400000).sort((a,b)=>Number(isRead(brief.stories[a].id))-Number(isRead(brief.stories[b].id))||(brief.stories[b].kCount??0)-(brief.stories[a].kCount??0)):[];
+ const visibleIndices=brief?communityStoryIndices(brief.stories,'전체').filter(i=>(brief.stories[i].category==='ㅇㅎㅂ')===tagged&&uploadAge(brief.stories[i])>=0&&uploadAge(brief.stories[i])<86400000).sort((a,b)=>Number(isRead(brief.stories[a].id))-Number(isRead(brief.stories[b].id))||(tagged?(brief.stories[b].commentCount??0)-(brief.stories[a].commentCount??0):(brief.stories[b].kCount??0)-(brief.stories[a].kCount??0))):[];
  const readerIndices=brief?readerOrder.map(id=>brief.stories.findIndex(s=>s.id===id)).filter(i=>visibleIndices.includes(i)):[];
  const visibleActive=readerIndices.findIndex(i=>brief?.stories[i].id===active);
  function move(delta:number){const next=visibleActive+delta;if(next<0)return;if(next>=readerIndices.length){setActive(null);return}open(readerIndices[next],true)}

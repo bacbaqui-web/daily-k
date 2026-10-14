@@ -1,4 +1,4 @@
-export const communityCategories=['유머','정보','화제','생활','문화','스포츠'] as const;
+export const communityCategories=['유머','정보','화제','생활','문화','스포츠','ㅇㅎㅂ'] as const;
 export type CommunityCategory=typeof communityCategories[number];
 export function communityCategoryLabel(category:string):CommunityCategory|null {
  return communityCategories.find(label=>label===category)??null;
@@ -13,7 +13,7 @@ export function prepareCommunityStories<T extends CommunityRecord>(stories:T[]):
  return stories.flatMap(s=>{
   const title=s.sources[0]?.title||s.title;
   if([s.title,...s.sources.map(source=>source.title)].some(isTaggedCommunityTitle)||s.category==='ㅇㅎㅂ'){
-   if(s.contentReview!=='public-non-explicit'||!s.imageUrl&&!s.videoUrl)return [];
+   if(!s.imageUrl&&!s.videoUrl)return [];
    return [{...s,title,category:'ㅇㅎㅂ'} as T];
   }
   // Keep historical 10-count humor visible; new drafts require at least 11.

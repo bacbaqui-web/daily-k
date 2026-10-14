@@ -18,8 +18,8 @@ function ThemeToggle(){
 export default function Home(){
  const [search,setSearch]=useState('');
  useEffect(()=>{const sync=()=>setSearch(location.search);sync();window.addEventListener('popstate',sync);return()=>window.removeEventListener('popstate',sync)},[]);
- const tab=new URLSearchParams(search).get('tab')==='news'?'news':'humor';
+ const requestedTab=new URLSearchParams(search).get('tab');const tab=requestedTab==='news'?'news':requestedTab==='tagged'?'tagged':'humor';
  function navigate(href:string){const url=new URL(href,location.href);if(url.href===location.href)return;history.pushState(null,'',url);setSearch(url.search)}
- function chooseTab(value:string){const next=value==='news'?'news':'humor';if(next===tab)return;const url=new URL(location.href);for(const key of ['story','item','post'])url.searchParams.delete(key);if(next==='news')url.searchParams.set('tab','news');else url.searchParams.delete('tab');navigate(url.href)}
- return <main><Tabs value={tab} onValueChange={chooseTab} className="feed-tabs" data-category={tab}><header><TabsList className="category-tabs" aria-label="브리핑 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="news" className="news-tab">ㄴㅇㅅ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header><TabsContent value={tab}>{tab==='news'?<EditionBoard channel="news" search={search} onNavigate={navigate}/>:<CommunityBriefing/>}</TabsContent></Tabs></main>
+ function chooseTab(value:string){const next=value==='news'?'news':value==='tagged'?'tagged':'humor';if(next===tab)return;const url=new URL(location.href);for(const key of ['story','item','post'])url.searchParams.delete(key);if(next!=='humor')url.searchParams.set('tab',next);else url.searchParams.delete('tab');navigate(url.href)}
+ return <main><Tabs value={tab} onValueChange={chooseTab} className="feed-tabs" data-category={tab}><header><TabsList className="category-tabs" aria-label="브리핑 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="news" className="news-tab">ㄴㅇㅅ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header><TabsContent value={tab}>{tab==='news'?<EditionBoard channel="news" search={search} onNavigate={navigate}/>:<CommunityBriefing key={tab} tagged={tab==='tagged'}/>}</TabsContent></Tabs></main>
 }
