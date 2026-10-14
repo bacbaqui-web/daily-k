@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-14",
-  "collectedAt": "2026-10-14T07:27:18.847296+00:00",
+  "collectedAt": "2026-10-14T07:30:04.841803+00:00",
   "windowEnd": "2026-10-14T16:11:27.355022+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -874,6 +874,108 @@
       "sourceTitlesFetchedAt": "2026-10-13T16:51:42.306423+00:00",
       "collectedAt": "2026-10-14T01:51:42.306466+09:00",
       "firstPublishedAt": "2026-10-13T17:08:16.782489+00:00"
+    },
+    {
+      "id": "aagag-1661726-0",
+      "url": "https://aagag.com/issue/?idx=1661726",
+      "source": "애객",
+      "title": "흔한 호주의 출근길 풍경",
+      "publishedAt": "2026-10-14T14:34:23+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0K9K.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "맥파이.\n호주 까치로 매년 사람을 200명씩 병원으로 보내고\n한 명은 실명시킨다."
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L0K9K.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "맥파이.\n호주 까치로 매년 사람을 200명씩 병원으로 보내고\n한 명은 실명시킨다.",
+      "reportedCommentCount": 13,
+      "commentsPartial": false,
+      "kCount": 47,
+      "commentCount": 13,
+      "laughingComments": 5,
+      "score": 47,
+      "kPerComment": 3.6153846153846154,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8844758",
+          "text": "오... 뒤에도 눈이 달리셨나 백미러로 보고 피하는 수준이 아닌것 같은데"
+        },
+        {
+          "id": "8844768",
+          "text": "저거 어떻게 피하면서 카운터까지 치는건데?"
+        },
+        {
+          "id": "8844770",
+          "text": "원더보이 하는거 같아"
+        },
+        {
+          "id": "8844797",
+          "text": "출근길 재밌네ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 복싱좀 하시나ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844798",
+          "text": "소리로 아는거 같음"
+        },
+        {
+          "id": "8844802",
+          "text": "열받게 잘피하네 ㅋㅋㅋㅋㅋㅋㅋ 셀카로 찍는중일듯? ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844817",
+          "text": "케이블 타이 매달아야 되는데 안하셨네"
+        },
+        {
+          "id": "8844842",
+          "text": "위빙 ㅈ대누 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844843",
+          "text": "현실 고인물이넉"
+        },
+        {
+          "id": "8844848",
+          "text": "왜 평화로워 보이는데 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844858",
+          "text": "아니 ㅋㅋㅋㅋㅋ 왜이리 고였어"
+        },
+        {
+          "id": "8845015",
+          "text": "눈 앞에 전기모기채 달았음"
+        },
+        {
+          "id": "8845045",
+          "text": "느려..."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-14T16:29:45.697554+09:00",
+      "sourceTitles": [
+        "평화로운 호주 출근길",
+        "흔한 호주의 출근길 풍경",
+        "호주 까치에 공격 당하는 유튜버",
+        "맥파이 조심",
+        "호주 미친새 피하기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-14T07:30:04.810215+00:00",
+      "collectedAt": "2026-10-14T16:30:04.810252+09:00",
+      "firstPublishedAt": "2026-10-14T07:30:04.861351+00:00"
     },
     {
       "id": "aagag-1621448-0",
@@ -18742,7 +18844,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 22,
+  "candidateCount": 31,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
