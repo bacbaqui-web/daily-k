@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-14",
-  "collectedAt": "2026-10-14T07:36:35.822715+00:00",
+  "collectedAt": "2026-10-14T07:39:51.979222+00:00",
   "windowEnd": "2026-10-14T16:11:27.355022+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1406,6 +1406,114 @@
       "sourceTitlesFetchedAt": "2026-10-14T07:31:00.892287+00:00",
       "collectedAt": "2026-10-14T16:31:00.892314+09:00",
       "firstPublishedAt": "2026-10-14T07:31:00.943796+00:00"
+    },
+    {
+      "id": "aagag-1661716-0",
+      "url": "https://aagag.com/issue/?idx=1661716",
+      "source": "애객",
+      "title": "ai 없던 시절의 유산",
+      "publishedAt": "2026-10-14T13:51:01+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L060c.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "순수재미ㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L060c.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "순수재미ㅋㅋㅋㅋ",
+      "reportedCommentCount": 13,
+      "commentsPartial": false,
+      "kCount": 50,
+      "commentCount": 13,
+      "laughingComments": 9,
+      "score": 50,
+      "kPerComment": 3.8461538461538463,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8844463",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844471",
+          "text": "정성이다 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844472",
+          "text": "이전엔 야동 장면 짤라서 악기 연주하는 짤이 많았는데.. 태권도 하는 짤이나... ㅋ"
+        },
+        {
+          "id": "8844925",
+          "text": "그거 diesel 광고였음"
+        },
+        {
+          "id": "8845031",
+          "text": "오 그 고대광고를.."
+        },
+        {
+          "id": "8844510",
+          "text": "내려찍는건 그냥 영상 아님?"
+        },
+        {
+          "id": "8844512",
+          "text": "창작성 보소"
+        },
+        {
+          "id": "8844538",
+          "text": "ㅅㅂ 초코바는 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844543",
+          "text": "난쟁이 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844575",
+          "text": "앞으로 이런 창작물이 대접받는 세상이 올듯 ㅋㅋㅋ"
+        },
+        {
+          "id": "8844576",
+          "text": "피아노 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8844586",
+          "text": "합필갤 갬성이네 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8845043",
+          "text": "미쳐쎀ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-14T16:39:33.926348+09:00",
+      "sourceTitles": [
+        "Ai가 없던 시절, 마지막 유산.mp4",
+        "Ai가 없던 시절, 마지막 유산.",
+        "ai 없던 시절의 유산",
+        "ai 없던 시절의 유산",
+        "AI가 없던 시절의 유산",
+        "ai 없던 시절의 유산",
+        "Ai가 없이 작업하던 시절",
+        "ai 없던 시절의 유산",
+        "어흐 생성기가 옛날에 하던 일",
+        "보고 있으면 어이없는 격투기 대회 영상.MP4",
+        "KO 모음"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 11,
+      "sourceTitlesFetchedAt": "2026-10-14T07:39:51.946542+00:00",
+      "collectedAt": "2026-10-14T16:39:51.946571+09:00",
+      "firstPublishedAt": "2026-10-14T07:39:51.998586+00:00"
     },
     {
       "id": "aagag-1661726-0",
@@ -19635,7 +19743,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 31,
+  "candidateCount": 52,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
