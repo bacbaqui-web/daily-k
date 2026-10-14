@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-14/pm.json",
+      "category": "정치·사법",
+      "change": "서울중앙지법은 공천 헌금 1억원을 주고받은 혐의로 강선우 의원에게 징역 2년6개월, 김경 전 시의원에게 징역 1년을 선고하고 두 사람을 법정구속했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-14T21:06:51+09:00",
+      "coveredOn": "2026-10-14",
+      "edition": "pm",
+      "editionDate": "2026-10-14",
+      "editionId": "2026-10-14-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-14",
+      "eventEndDate": null,
+      "eventTimeNote": "서울중앙지법의 10월 14일 1심 선고입니다. 기사에 선고 시각은 구체적으로 적시되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-14-pm/kang-sunwoo-election-bribery-verdict-2026-10-14",
+      "keyFacts": {
+        "강선우 1심": "징역 2년 6개월·추징금 1억원",
+        "강선우 입장": "결백 주장·항소 시사",
+        "김경 1심": "징역 1년",
+        "선고 단계": "1심",
+        "전 보좌관": "징역 8개월·집행유예 2년"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-14T20:08:19+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-14T20:08:19+09:00",
+          "title": "‘1억 공천헌금’ 강선우, 징역 2년 6개월 법정구속…항소 시사",
+          "updatedAt": null,
+          "url": "https://nwww.newsis.com/view/NISX20261014_0003826362",
+          "verifiedAt": "2026-10-14T21:06:51+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-14T16:49:00+09:00",
+          "title": "보석으로 풀려났던 강선우, 1심 징역 2년 6개월…법정 재구속",
+          "updatedAt": null,
+          "url": "https://www.ytn.co.kr/_ln/0134_202610141649147261_001",
+          "verifiedAt": "2026-10-14T21:06:51+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "보도",
+      "storyId": "kang-sunwoo-election-bribery-verdict-2026-10-14",
+      "summary": [
+        "서울중앙지법은 공천을 대가로 1억원을 받은 혐의로 기소된 강선우 의원에게 징역 2년6개월과 추징금 1억원을 선고했습니다. 돈을 건넨 혐의를 받는 김경 전 서울시의원은 징역 1년을 선고받았습니다.",
+        "두 사람은 법정구속됐고, 강 의원 전 보좌관에게는 징역 8개월에 집행유예 2년이 선고됐습니다. 재판부는 공천 과정의 공정성과 국민 신뢰를 훼손한 점 등을 양형 이유로 들었습니다.",
+        "강 의원은 돈을 받은 사실이 없다고 주장해 왔고 선고 뒤 항소 의사를 밝혔습니다. 재판부는 전 보좌관이 몰래 돈을 받았다는 주장을 받아들이지 않았다고 뉴시스는 전했습니다.",
+        "이번 판결은 1심 선고로 확정 판결이 아닙니다. 항소심에서 사실관계와 법률 판단이 다시 심리될 수 있으며, 이번 형사사건의 판단과 별도 정치자금 혐의 재판도 구분해 봐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "강선우 1심 징역 2년6개월·김경 1년…두 사람 법정구속",
+      "uncertainty": "피고인 측은 혐의를 다퉈 왔고 항소가 예상됩니다. 현재는 1심 판단이며 확정 판결로 표현할 수 없습니다."
+    }
+  ],
+  "id": "kang-sunwoo-election-bribery-trial",
+  "schemaVersion": 1,
+  "title": "강선우·김경 공천헌금 사건 재판",
+  "updatedAt": "2026-10-14T21:06:51+09:00"
+}
