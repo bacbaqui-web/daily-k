@@ -200,3 +200,19 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 
 .feed-tabs[data-category="tagged"] .community{--news-accent:var(--tab-tagged)}
 .feed-tabs[data-category="tagged"] .community-stories{--source-color:var(--tab-tagged)}
+
+.tagged-gallery{columns:4 240px;column-gap:16px;list-style:none;padding:0;margin:18px 0}
+.tagged-gallery>li{break-inside:avoid;margin:0 0 16px;padding:0}
+.tagged-card{display:block;width:100%;padding:0;overflow:hidden;border:1px solid var(--border);border-radius:16px;background:var(--card);color:var(--foreground);text-align:left;cursor:pointer;transition:transform .15s,border-color .15s}
+.tagged-card:hover{transform:translateY(-3px);border-color:var(--tab-tagged)}
+.tagged-card:focus-visible{outline:3px solid var(--tab-tagged);outline-offset:3px}
+.tagged-preview{display:block;position:relative;overflow:hidden;background:#171b1a}
+.tagged-preview img,.tagged-preview video{display:block;width:100%;height:auto;margin:0}
+.tagged-preview.is-long{aspect-ratio:2/3}
+.tagged-preview.is-long img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top}
+.tagged-preview video{max-height:430px;object-fit:cover}
+.tagged-fade{position:absolute;bottom:0;left:0;right:0;display:flex;align-items:flex-end;justify-content:center;height:100px;padding:0 12px 16px;background:linear-gradient(transparent,rgba(10,14,13,.9));color:white;font-size:12px;font-weight:600}
+.tagged-media-label{position:absolute;top:10px;right:10px;padding:4px 8px;background:#0009;color:white;border-radius:20px;font-size:11px}
+.tagged-caption{display:grid;gap:8px;padding:13px 14px}.tagged-caption strong{font-size:14px;line-height:1.5}.tagged-caption>span{font-size:11px;color:var(--muted-foreground)}
+.tagged-gallery>.seen .tagged-caption{opacity:.6}.tagged-placeholder{display:block;padding:50px 15px;color:#ddd;text-align:center}
+@media(max-width:560px){.tagged-gallery{columns:2;column-gap:10px}.tagged-gallery>li{margin-bottom:10px}.tagged-card{border-radius:12px}.tagged-caption{padding:10px}.tagged-caption strong{font-size:12px}}
