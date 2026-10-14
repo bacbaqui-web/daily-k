@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-15",
-  "collectedAt": "2026-10-14T19:29:09.848864+00:00",
+  "collectedAt": "2026-10-14T19:31:18.515961+00:00",
   "windowEnd": "2026-10-15T04:29:09.790863+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8685,83 +8685,6 @@
       "sourceTitlesFetchedAt": "2026-10-13T20:07:41.810703+00:00",
       "collectedAt": "2026-10-14T05:07:41.810885+09:00",
       "firstPublishedAt": "2026-10-13T20:07:41.862712+00:00"
-    },
-    {
-      "id": "aagag-1661457-0",
-      "url": "https://aagag.com/issue/?idx=1661457",
-      "source": "애객",
-      "title": "까마귀 vs 고양이",
-      "publishedAt": "2026-10-13T12:24:24+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KvTnO.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/KvTnO.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": ".",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 20,
-      "commentCount": 7,
-      "laughingComments": 2,
-      "score": 20,
-      "kPerComment": 2.857142857142857,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8839106",
-          "text": "까마귀 눈앞에서 뺏겨버렸네 ㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8839110",
-          "text": "날개보다 말발을 믿는 까마귀"
-        },
-        {
-          "id": "8839111",
-          "text": "??? 눈까막할새"
-        },
-        {
-          "id": "8839299",
-          "text": "고양이 얼굴은 스핑크스 같이 생겼는데 삼색이네..."
-        },
-        {
-          "id": "8839556",
-          "text": "고양이가 되게 특이하네 스핑크스 믹스인가"
-        },
-        {
-          "id": "8839666",
-          "text": "복수심에 불탄 까마귀가 고양이 땅콩 떼가려고 하는거 같아"
-        },
-        {
-          "id": "8839917",
-          "text": "까마귀 원한잘 안잊는다던뎈ㅋㅋㅋ큰일이넼ㅋㅋㅋ나중에 지다가다 보이면 또 괴롭힘ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-14T04:30:45.699755+09:00",
-      "sourceTitles": [
-        "까마귀 vs 고양이",
-        "고양이한테 열 제대로 받은 까마귀.mp4",
-        "고양이한테 열이 제대로 받은 까마귀 ㅋㅋㅋ",
-        "까마귀 간식 뺏어먹은 냥아치의 최후"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-13T19:31:04.560231+00:00",
-      "collectedAt": "2026-10-14T04:31:04.560267+09:00",
-      "firstPublishedAt": "2026-10-13T19:31:04.593870+00:00"
     },
     {
       "id": "aagag-1574142-0",
@@ -17677,7 +17600,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 131,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
