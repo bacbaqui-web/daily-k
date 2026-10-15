@@ -1,6 +1,133 @@
 {
-  "editionCount": 59,
+  "editionCount": 60,
   "issues": [
+    {
+      "categories": [
+        "반도체·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-15T21:06:34+09:00",
+      "firstCoveredDate": "2026-10-15",
+      "id": "tsmc-q3-results-2026",
+      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
+      "lastCoveredDate": "2026-10-15",
+      "latest": {
+        "archive": false,
+        "change": "TSMC가 3분기 매출 NT$1.494조·영업이익 NT$8764억의 분기 최대 실적을 발표했고, 4분기 매출 가이던스를 US$52.3bn–54.3bn으로 제시했습니다.",
+        "editionId": "2026-10-15-pm",
+        "stage": "발표",
+        "storyId": "tsmc-q3-2026-record-results",
+        "title": "TSMC 3분기 매출 1.49조 대만달러…분기 최대 실적"
+      },
+      "path": "tsmc-q3-results-2026.json",
+      "title": "TSMC 2026년 3분기 실적과 AI 반도체 수요"
+    },
+    {
+      "categories": [
+        "국제·외교"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-14T21:06:51+09:00",
+      "firstCoveredDate": "2026-10-14",
+      "id": "north-korea-china-new-yalu-bridge",
+      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
+      "lastCoveredDate": "2026-10-15",
+      "latest": {
+        "archive": false,
+        "change": "10월 14일 예정이던 북중 신압록강대교 공동 개통이 15일 실제 행사와 통행 시작으로 확인됐습니다. 향후 통관·상시 운행 규모는 확인되지 않았습니다.",
+        "editionId": "2026-10-15-pm",
+        "stage": "후속",
+        "storyId": "north-korea-china-yalu-bridge-opening-2026-10-15",
+        "title": "북중 신압록강대교 개통식…12년 만에 정식 통행 시작"
+      },
+      "path": "north-korea-china-new-yalu-bridge.json",
+      "title": "북중 신압록강대교 개통과 교역 연결"
+    },
+    {
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 25,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
+      "lastCoveredDate": "2026-10-15",
+      "latest": {
+        "archive": false,
+        "change": "코스피가 7거래일 연속 하락해 5,554.22(-7.57%)에 마감했고 코스닥도 7.65% 내렸습니다. 장중 양 시장에 매도 사이드카와 서킷브레이커가 발동됐습니다.",
+        "editionId": "2026-10-15-pm",
+        "stage": "후속",
+        "storyId": "korea-market-2026-10-15-circuit-breakers",
+        "title": "코스피 5,554.22로 7.57% 급락…코스닥과 동반 서킷브레이커"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "경제·소비"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-15T21:06:34+09:00",
+      "firstCoveredDate": "2026-10-15",
+      "id": "korea-delivery-platform-promotions",
+      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
+      "lastCoveredDate": "2026-10-15",
+      "latest": {
+        "archive": false,
+        "change": "배민 타임세일을 10월 29일부터 전국으로 확대할 예정이라는 당일 보도가 나왔고, 쿠팡이츠의 유사 할인 서비스 준비도 보도됐습니다.",
+        "editionId": "2026-10-15-pm",
+        "stage": "예정",
+        "storyId": "korea-delivery-app-timesale-expansion-2026-10-15",
+        "title": "배민 ‘15분 타임세일’ 29일부터 전국 확대…배달 할인 경쟁"
+      },
+      "path": "korea-delivery-platform-promotions.json",
+      "title": "국내 배달앱 시간제 할인과 주문 경쟁"
+    },
+    {
+      "categories": [
+        "사회·생활"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-15T21:06:34+09:00",
+      "firstCoveredDate": "2026-10-15",
+      "id": "korea-baseball-ticket-scalping",
+      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
+      "lastCoveredDate": "2026-10-15",
+      "latest": {
+        "archive": false,
+        "change": "잠실 경기장 주변에 56명이 합동 단속을 벌였으나 현장 적발은 0건이었습니다. 온라인 판매글의 고가 호가가 함께 보도됐으나 실제 거래 성사 가격은 확인되지 않았습니다.",
+        "editionId": "2026-10-15-pm",
+        "stage": "보도",
+        "storyId": "korea-baseball-ticket-scalping-2026-10-14",
+        "title": "잠실 암표 단속 현장 적발 0건…온라인에 정가 10배 넘는 호가"
+      },
+      "path": "korea-baseball-ticket-scalping.json",
+      "title": "프로야구 포스트시즌 암표 단속과 온라인 재판매"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-15T21:06:34+09:00",
+      "firstCoveredDate": "2026-10-15",
+      "id": "kakao-sss-class-revival-hunter-anime",
+      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
+      "lastCoveredDate": "2026-10-15",
+      "latest": {
+        "archive": false,
+        "change": "카카오엔터가 2027년 1월 일본 후지TV 방송과 같은 시기 크런치롤 글로벌 공개를 발표했고, 뉴욕 코믹콘에서 1화·신규 PV를 공개했습니다.",
+        "editionId": "2026-10-15-pm",
+        "stage": "발표",
+        "storyId": "kakao-sss-class-revival-hunter-anime-2027",
+        "title": "웹툰 IP ‘SSS급 죽어야 사는 헌터’ 일본 TV·글로벌 OTT 애니화"
+      },
+      "path": "kakao-sss-class-revival-hunter-anime.json",
+      "title": "카카오엔터 웹툰 IP SSS급 죽어야 사는 헌터 애니메이션화"
+    },
     {
       "categories": [
         "사회·사건"
@@ -45,27 +172,6 @@
     },
     {
       "categories": [
-        "국제·외교"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-14T21:06:51+09:00",
-      "firstCoveredDate": "2026-10-14",
-      "id": "north-korea-china-new-yalu-bridge",
-      "lastCoveredAt": "2026-10-14T21:06:51+09:00",
-      "lastCoveredDate": "2026-10-14",
-      "latest": {
-        "archive": false,
-        "change": "중국 외교부는 북한 신의주와 중국 단둥을 잇는 신압록강대교를 10월 15일 개통하고 양측 공동 개통식을 열기로 합의했다고 밝혔습니다.",
-        "editionId": "2026-10-14-pm",
-        "stage": "예정",
-        "storyId": "north-korea-china-new-yalu-bridge-opening-2026-10-15",
-        "title": "완공 12년 만에 신압록강대교 15일 개통 예정…북중 합동식 합의"
-      },
-      "path": "north-korea-china-new-yalu-bridge.json",
-      "title": "북중 신압록강대교 개통과 교역 연결"
-    },
-    {
-      "categories": [
         "웹툰 산업"
       ],
       "eventCount": 1,
@@ -84,28 +190,6 @@
       },
       "path": "mcst-webtoon-budget-and-ip-support-2027.json",
       "title": "문체부 2027년 웹툰 예산안과 IP 확장 지원"
-    },
-    {
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 24,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-14T21:06:51+09:00",
-      "lastCoveredDate": "2026-10-14",
-      "latest": {
-        "archive": false,
-        "change": "전날 5.46% 급락 뒤 장 초반 반등했지만 외국인 매도세로 하락 전환해 코스피가 6거래일 연속 내렸습니다.",
-        "editionId": "2026-10-14-pm",
-        "stage": "결과",
-        "storyId": "korea-market-2026-10-14-close",
-        "title": "코스피 6,008.81로 6거래일째 하락…6000선 턱걸이"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -4849,7 +4933,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 450,
+  "storyCount": 456,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-14T21:06:51+09:00"
+  "updatedAt": "2026-10-15T21:06:34+09:00"
 }
