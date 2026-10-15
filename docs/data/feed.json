@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-16",
-  "collectedAt": "2026-10-15T22:16:48.211395+00:00",
+  "collectedAt": "2026-10-15T22:18:03.147782+00:00",
   "windowEnd": "2026-10-16T07:16:48.160317+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -17992,6 +17992,63 @@
       "firstPublishedAt": "2026-10-15T11:48:10.038710+00:00"
     },
     {
+      "id": "aagag-1662123-0",
+      "url": "https://aagag.com/issue/?idx=1662123",
+      "source": "애객",
+      "title": "대만 치어리더 복장",
+      "publishedAt": "2026-10-16T07:10:07+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KXfTz.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KXfTz.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8851770",
+          "text": "아름다운 아침입니다"
+        },
+        {
+          "id": "8851772",
+          "text": "타이완 넘버원"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-16T07:17:55.067898+09:00",
+      "sourceTitles": [
+        "선진국 치어리더 복장.mp4",
+        "대만 치어리더 복장",
+        "선진국 치어리더 복장.mp4",
+        "ㅇㅎ) 대만 치어리더 복장 ㄷㄷㄷㄷ",
+        "ㅇㅎ) 치어리더 선진국 대만 ㄷㄷㄷ..",
+        "ㅇㅎ) 대만 치어리더",
+        "대만 치어리더 복장 ㄷㄷㄷ;",
+        "ㅇㅎ) 대만 치어리더 복장 ㄷㄷㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-10-15T22:18:03.118830+00:00",
+      "collectedAt": "2026-10-16T07:18:03.118858+09:00",
+      "firstPublishedAt": "2026-10-15T22:18:03.165894+00:00"
+    },
+    {
       "id": "aagag-1662058-0",
       "url": "https://aagag.com/issue/?idx=1662058",
       "source": "애객",
@@ -18257,7 +18314,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
