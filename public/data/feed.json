@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-16",
-  "collectedAt": "2026-10-16T20:35:11.782815+09:00",
-  "windowEnd": "2026-10-16T20:31:04.990684+09:00",
+  "collectedAt": "2026-10-16T11:45:37.472066+00:00",
+  "windowEnd": "2026-10-16T20:45:37.410572+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -23063,114 +23063,6 @@
       "firstPublishedAt": "2026-10-15T22:18:03.165894+00:00"
     },
     {
-      "id": "aagag-1662058-0",
-      "url": "https://aagag.com/issue/?idx=1662058",
-      "source": "애객",
-      "title": "ㅇㅎ) 라잇썸 초원 최근 대학축제.gif",
-      "publishedAt": "2026-10-15T20:34:05+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0dbJ.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0dbb.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0dbh.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0dbr.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0dc3.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0dcd.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "ㄷㄷ"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L0dbJ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L0dbb.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L0dbh.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L0dbr.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L0dc3.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L0dcd.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "ㄷㄷ",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8850907",
-          "text": "초원 채연 ㅊㅇ이 답이다"
-        },
-        {
-          "id": "8850920",
-          "text": "진짜 IZONE"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-15T20:43:04.827283+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 라잇썸 초원 최근 대학축제.gif",
-        "ㅇㅎ) 라잇썸 초원 최근 대학축제.gif",
-        "라잇썸 초원",
-        "라잇썸 초원",
-        "ㅇㅎ?) 라잇썸 초원 실물 느낌...gif"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-15T11:43:18.022730+00:00",
-      "collectedAt": "2026-10-15T20:43:18.022794+09:00",
-      "firstPublishedAt": "2026-10-15T11:43:18.045643+00:00"
-    },
-    {
       "id": "aagag-1662207-0",
       "url": "https://aagag.com/issue/?idx=1662207",
       "source": "애객",
@@ -23484,9 +23376,9 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
