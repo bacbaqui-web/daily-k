@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-16",
-  "collectedAt": "2026-10-16T01:26:49.985178+00:00",
+  "collectedAt": "2026-10-16T01:28:48.114130+00:00",
   "windowEnd": "2026-10-16T10:26:49.934129+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -12467,6 +12467,104 @@
       "firstPublishedAt": "2026-10-15T14:47:40.047552+00:00"
     },
     {
+      "id": "aagag-1662155-0",
+      "url": "https://aagag.com/issue/?idx=1662155",
+      "source": "애객",
+      "title": "삼성과 애플의 발표 차이.mp4",
+      "publishedAt": "2026-10-16T10:17:39+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KyXBT.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "짜치는 애플, 삼성은 설레발"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KyXBT.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "짜치는 애플, 삼성은 설레발",
+      "reportedCommentCount": 12,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 12,
+      "laughingComments": 2,
+      "score": 15,
+      "kPerComment": 1.25,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8852614",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8852618",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8852625",
+          "text": "둘이 합병해라.."
+        },
+        {
+          "id": "8852628",
+          "text": "짜치는 설레발!"
+        },
+        {
+          "id": "8852630",
+          "text": "둘이 하는 거 보면 허세도 짜치는 것도 제각각 다르게 할 수 있구나 하는 생각을 하게 됨"
+        },
+        {
+          "id": "8852631",
+          "text": "Calculating... it's possible !"
+        },
+        {
+          "id": "8852639",
+          "text": "사칙연산이 이렇게 웅장할 일인가"
+        },
+        {
+          "id": "8852643",
+          "text": "설레발이라기 보다는 갤럭시 AI는 실제로 해외 유저도 탑 오브 탑으로 평가하는 수준인데, 특장점을 어필하는 게 문제인가, 이상하게 우리나라는 삼성 참 안 좋게 보는 거 같음."
+        },
+        {
+          "id": "8852645",
+          "text": "삼성정도면 잘하는거...하이닉스는 검토중 컨콜;;"
+        },
+        {
+          "id": "8852654",
+          "text": "이런짤 만드는 애는 방구석 백수"
+        },
+        {
+          "id": "8852660",
+          "text": "근데 갤럭시 AI가 어썸하긴해..."
+        },
+        {
+          "id": "8852667",
+          "text": "애플자체가 서드파티 착취하고 동등한 파트너십을 안하니까 못하는거죠."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-16T10:28:37.148741+09:00",
+      "sourceTitles": [
+        "삼성과 애플의 발표 차이",
+        "삼성과 애플의 발표 차이.mp4",
+        "삼성과 애플의 발표 차이",
+        "삼성 vs 애플 발표 차이",
+        "🔵 삼성과 애플의 설레는 발표 차이   🍎"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-16T01:28:48.080505+00:00",
+      "collectedAt": "2026-10-16T10:28:48.080531+09:00",
+      "firstPublishedAt": "2026-10-16T01:28:48.135257+00:00"
+    },
+    {
       "id": "aagag-1574355-0",
       "url": "https://aagag.com/issue/?idx=1574355",
       "source": "애객",
@@ -19375,7 +19473,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
