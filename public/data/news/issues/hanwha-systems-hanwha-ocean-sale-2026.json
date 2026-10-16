@@ -1,0 +1,70 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-16/pm.json",
+      "category": "기업·방산",
+      "change": "한화시스템 이사회가 한화오션 주식 전량을 1조3,833억원에 처분하기로 결정했으며, 거래는 10월 19일 예정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-16T21:13:28+09:00",
+      "coveredOn": "2026-10-16",
+      "edition": "pm",
+      "editionDate": "2026-10-16",
+      "editionId": "2026-10-16-pm",
+      "eventAt": "2026-10-16T17:11:00+09:00",
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "한화시스템이 16일 이사회에서 의결하고 공시한 처분 결정입니다. 실제 양도 예정일은 10월 19일입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-16-pm/hanwha-systems-hanwha-ocean-sale-2026-10-16",
+      "keyFacts": {
+        "PRS 계약 기간": "1년",
+        "양도 예정일": "2026-10-19",
+        "양도금액": "1조3,833억8,678만4천원",
+        "자기자본 대비": "27.66%",
+        "처분 주식": "22,169,660주",
+        "처분 후 지분": "0%"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-16T17:53:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "금융감독원 전자공시시스템(DART)",
+          "publishedAt": "2026-10-16T17:11:00+09:00",
+          "title": "주요사항보고서(타법인주식및출자증권양도결정)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000478",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "디지털투데이",
+          "publishedAt": "2026-10-16T17:53:00+09:00",
+          "title": "한화시스템, 한화오션 주식 1조3834억원어치 블록딜 양도 결정",
+          "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=707870",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "hanwha-systems-hanwha-ocean-sale-2026-10-16",
+      "summary": [
+        "한화시스템은 16일 이사회에서 계열회사 한화오션 주식 2천216만9천660주를 양도하기로 결정했다고 공시했습니다. 공시상 양도금액은 1조3천833억8천678만4천원입니다.",
+        "처분 규모는 한화시스템 자기자본의 27.66%, 총자산의 13.4%입니다. 회사는 목적을 유동성 및 전략적 투자재원 확보라고 밝혔습니다.",
+        "거래는 키움증권 외 6곳에 시간외 대량매매 방식으로 넘기는 계획이며, 양도 예정일은 10월 19일, 대금 결제는 10월 21일입니다. 따라서 공시 당일에 이미 매각이 끝난 것은 아닙니다.",
+        "한화시스템은 같은 주식 전량을 기초자산으로 1년짜리 주가수익스왑 계약도 맺었습니다. 한화오션 주가에 따른 정산 관계가 이어지며, 확보 자금의 구체적 투자처와 최종 정산 규모는 아직 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "한화시스템, 한화오션 지분 전량 1조3834억원에 양도 결정",
+      "uncertainty": "16일에는 처분 결정과 공시가 확인됐지만 실제 거래는 19일 예정입니다. 1년짜리 주가수익스왑(PRS) 계약도 함께 체결해 주가 관련 정산 노출이 남으며 자금의 구체적 사용처는 공시에 적히지 않았습니다."
+    }
+  ],
+  "id": "hanwha-systems-hanwha-ocean-sale-2026",
+  "schemaVersion": 1,
+  "title": "한화시스템의 한화오션 지분 처분",
+  "updatedAt": "2026-10-16T21:13:28+09:00"
+}

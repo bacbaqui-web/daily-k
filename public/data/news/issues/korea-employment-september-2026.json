@@ -1,0 +1,79 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-16/pm.json",
+      "category": "경제·고용",
+      "change": "9월 총취업자는 증가했으나 청년층 감소는 지속됐고 제조업은 27개월 만에 증가로 돌아섰습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-16T21:13:28+09:00",
+      "coveredOn": "2026-10-16",
+      "edition": "pm",
+      "editionDate": "2026-10-16",
+      "editionId": "2026-10-16-pm",
+      "eventAt": "2026-10-16T08:00:00+09:00",
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "국가데이터처의 9월 고용동향 발표와 같은 날 열린 관계부처 회의 자료입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-16-pm/korea-employment-september-2026",
+      "keyFacts": {
+        "15~64세 고용률": "70.6%",
+        "9월 취업자 전년 대비": "11.3만명 증가",
+        "제조업 증가 전환": "27개월 만",
+        "제조업 취업자": "1.6만명 증가",
+        "청년층 취업자": "14.7만명 감소"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-16T08:01:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-10-16T08:01:00+09:00",
+          "title": "[속보]9월 취업자 전년 대비 11.3만명 증가…15~64세 고용률 70.6%",
+          "url": "https://www.mt.co.kr/economy/2026/10/16/2026101607392023346",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "고용노동부",
+          "publishedAt": null,
+          "title": "9월 취업자 11만 3000명 증가…제조업 27개월 만에 증가 전환",
+          "url": "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20103",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": null,
+          "title": "[2보] 9월 취업자 11만3천명↑…제조업 2년3개월만에 증가",
+          "url": "https://www.yna.co.kr/view/AKR20261016015951002?input=feed_police",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "korea-employment-september-2026",
+      "summary": [
+        "국가데이터처가 16일 발표한 9월 고용동향에서 15세 이상 취업자는 2천926만6천명으로 전년 동월보다 11만3천명 증가했습니다. 취업자 증가는 3개월 연속 두 자릿수를 유지했습니다.",
+        "제조업 취업자는 1만6천명 늘어 2024년 6월 이후 27개월 만에 증가로 돌아섰습니다. 정부는 수출 호조가 시차를 두고 고용에 반영됐을 가능성을 설명했습니다.",
+        "반면 15~29세 취업자는 14만7천명 감소해 47개월 연속 줄었습니다. 전체 고용과 제조업 지표가 개선돼도 청년층 구직 여건이 함께 나아졌다고 보기 어려운 이유입니다.",
+        "정부는 고용동향을 점검하고 일자리 분야 과제를 논의했습니다. 다음 발표에서는 제조업 증가가 이어지는지와 청년 고용·건설업 부진이 완화되는지가 핵심입니다."
+      ],
+      "supersededBy": [],
+      "title": "9월 취업자 11만3천명 증가…제조업 27개월 만에 플러스",
+      "uncertainty": "제조업 회복이 넓은 업종으로 이어질지는 아직 불확실합니다. 청년층 취업자 감소와 건설·농림어업 부진도 계속 관찰해야 합니다."
+    }
+  ],
+  "id": "korea-employment-september-2026",
+  "schemaVersion": 1,
+  "title": "한국 월간 고용 동향",
+  "updatedAt": "2026-10-16T21:13:28+09:00"
+}

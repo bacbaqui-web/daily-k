@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-16/pm.json",
+      "category": "경제·물가",
+      "change": "9월 수입물가는 원유 가격 급등의 영향으로 환율 하락에도 넉 달 만에 상승했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-16T21:13:28+09:00",
+      "coveredOn": "2026-10-16",
+      "edition": "pm",
+      "editionDate": "2026-10-16",
+      "editionId": "2026-10-16-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 16일 발표 자료 기준이며 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-16-pm/korea-import-prices-2026-09",
+      "keyFacts": {
+        "2026년 9월 수입물가 전월 대비": "+1.7%",
+        "수입물가 반등": "4개월 만",
+        "수출물량 전년 대비": "+30% 이상",
+        "원유 수입물가 전월 대비": "+21.6%"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-16T06:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-10-16T06:00:00+09:00",
+          "title": "원윳값 21.6% 껑충…환율 내려도 수입물가 넉 달 만에 오름세",
+          "url": "https://www.news1.kr/economy/trend/6321771",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "한국은행",
+          "publishedAt": null,
+          "title": "2026년 9월 수출입물가지수 및 무역지수(잠정)",
+          "url": "https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=10094390",
+          "verifiedAt": "2026-10-16T21:13:28+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "korea-import-prices-2026-09",
+      "summary": [
+        "한국은행 자료를 인용한 뉴스1 보도에 따르면 9월 원화 기준 수입물가지수는 159.37로 전월보다 1.7% 상승했습니다. 수입물가는 넉 달 만에 오름세로 돌아섰습니다.",
+        "월평균 환율이 내려왔는데도 국제 원유 수입 가격이 전월보다 21.6%, 전년보다 54.4% 뛰어 전체 수입물가를 밀어 올렸습니다. 환율 효과와 원자재 가격 효과가 반대 방향으로 움직인 사례입니다.",
+        "수출물가는 환율 하락 영향으로 두 달 연속 내렸지만, 환율 영향을 제거한 반도체 수출가격은 오름세를 이어갔습니다. 수출 물량도 전년보다 30% 넘게 늘었다고 보도됐습니다.",
+        "이 지표는 기업의 수입 원가 압력과 수출 경쟁 여건을 함께 보여주지만, 소비자물가에 그대로 반영되는 것은 아닙니다. 실제 비용 전가와 다음 달 국제유가·환율 흐름을 확인해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "원유값 급등에 9월 수입물가 1.7% 상승…4개월 만에 반등",
+      "uncertainty": "수입물가지수는 소비자물가와 같은 지표가 아니며 시차와 유통·계약 조건에 따라 전가 정도가 달라집니다. 잠정치이므로 이후 수정될 수 있습니다."
+    }
+  ],
+  "id": "korea-import-export-prices",
+  "schemaVersion": 1,
+  "title": "한국 수출입 물가·교역 지수",
+  "updatedAt": "2026-10-16T21:13:28+09:00"
+}

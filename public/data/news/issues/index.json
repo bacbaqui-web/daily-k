@@ -1,6 +1,198 @@
 {
-  "editionCount": 60,
+  "editionCount": 61,
   "issues": [
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "naverwebtoon-byeoljeongjik-popup-2026",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "용산에서 팝업 운영을 시작했습니다. 앞선 행사 성과는 회사 발표이며 이번 행사 실적은 아직 공개되지 않았습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "시행",
+        "storyId": "naverwebtoon-byeoljeongjik-popup-2026",
+        "title": "네이버웹툰, ‘별정직 공무원’ 체험형 팝업…굿즈 27종 선보여"
+      },
+      "path": "naverwebtoon-byeoljeongjik-popup-2026.json",
+      "title": "네이버웹툰 별정직 공무원 팝업과 IP 확장"
+    },
+    {
+      "categories": [
+        "경제·물가"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "korea-import-export-prices",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "9월 수입물가는 원유 가격 급등의 영향으로 환율 하락에도 넉 달 만에 상승했습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "발표",
+        "storyId": "korea-import-prices-2026-09",
+        "title": "원유값 급등에 9월 수입물가 1.7% 상승…4개월 만에 반등"
+      },
+      "path": "korea-import-export-prices.json",
+      "title": "한국 수출입 물가·교역 지수"
+    },
+    {
+      "categories": [
+        "경제·부동산",
+        "국내 정책·부동산"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-18",
+      "id": "korea-housing-supply-prices",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "10월 둘째 주까지 수도권 착공이 연간 목표의 약 37%에 그친 가운데 정부가 연말 최대 23.5만호 착공 전망과 13.6만호 추가 계획을 제시했습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "후속",
+        "storyId": "korea-housing-supply-yearend-2026",
+        "title": "수도권 주택 연말 착공 최대 23.5만호 전망…목표 달성은 불투명"
+      },
+      "path": "korea-housing-supply-prices.json",
+      "title": "국내 주택 가격과 공급 정책"
+    },
+    {
+      "categories": [
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 26,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "전날 7.57% 급락과 서킷브레이커 발동에서 16일 코스피 2.05% 반등·코스닥 4.46% 반등으로 바뀌었습니다. 하루 결과만으로 추세가 바뀌었다고 단정할 수는 없습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "후속",
+        "storyId": "korea-market-2026-10-16-rebound",
+        "title": "코스피 5,668.05로 2.05% 반등…7거래일 하락 멈춰"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "경제·고용"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "korea-employment-september-2026",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "9월 총취업자는 증가했으나 청년층 감소는 지속됐고 제조업은 27개월 만에 증가로 돌아섰습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "발표",
+        "storyId": "korea-employment-september-2026",
+        "title": "9월 취업자 11만3천명 증가…제조업 27개월 만에 플러스"
+      },
+      "path": "korea-employment-september-2026.json",
+      "title": "한국 월간 고용 동향"
+    },
+    {
+      "categories": [
+        "경제·수출"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "korea-cosmetics-exports-2026",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "2026년 1~9월 화장품 수출이 잠정 111억달러로 전년 동기보다 31.1% 증가했습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "발표",
+        "storyId": "korea-cosmetics-exports-2026-09",
+        "title": "K-뷰티 1~9월 수출 111억달러…영국·네덜란드 성장 두드러져"
+      },
+      "path": "korea-cosmetics-exports-2026.json",
+      "title": "한국 화장품 수출과 시장 다변화"
+    },
+    {
+      "categories": [
+        "기업·방산"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "hanwha-systems-hanwha-ocean-sale-2026",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "한화시스템 이사회가 한화오션 주식 전량을 1조3,833억원에 처분하기로 결정했으며, 거래는 10월 19일 예정입니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "발표",
+        "storyId": "hanwha-systems-hanwha-ocean-sale-2026-10-16",
+        "title": "한화시스템, 한화오션 지분 전량 1조3834억원에 양도 결정"
+      },
+      "path": "hanwha-systems-hanwha-ocean-sale-2026.json",
+      "title": "한화시스템의 한화오션 지분 처분"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "bucheon-metal-coating-factory-fire-2026",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "부천 금속 사출·인쇄 공장에서 난 불로 7명이 다쳤으며, 소방당국의 화재 원인·위험물·설비 조사가 남아 있습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "발표",
+        "storyId": "bucheon-metal-coating-factory-fire-2026-10-16",
+        "title": "부천 금속 도장공장 화재로 7명 부상…소방관 2명 중상"
+      },
+      "path": "bucheon-metal-coating-factory-fire-2026.json",
+      "title": "부천 금속 도장공장 화재와 안전 조사"
+    },
+    {
+      "categories": [
+        "기술·AI",
+        "반도체·AI"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
+      "firstCoveredDate": "2026-10-11",
+      "id": "ai-compute-shortage-cloud-prices-2026",
+      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
+      "lastCoveredDate": "2026-10-16",
+      "latest": {
+        "archive": false,
+        "change": "기존 GPU 임대료 상승 보도에 더해 가트너가 메모리 수급난 장기화와 서버·스토리지 가격 압력을 2028년까지 전망했습니다.",
+        "editionId": "2026-10-16-pm",
+        "stage": "후속",
+        "storyId": "gartner-memory-server-prices-2028-forecast-2026",
+        "title": "가트너 \"메모리 공급난 2028년까지\"…서버 가격 최대 4배 전망"
+      },
+      "path": "ai-compute-shortage-cloud-prices-2026.json",
+      "title": "AI 연산 자원 공급 부족과 임대 비용 상승"
+    },
     {
       "categories": [
         "반도체·기술"
@@ -42,28 +234,6 @@
       },
       "path": "north-korea-china-new-yalu-bridge.json",
       "title": "북중 신압록강대교 개통과 교역 연결"
-    },
-    {
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 25,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-15T21:06:34+09:00",
-      "lastCoveredDate": "2026-10-15",
-      "latest": {
-        "archive": false,
-        "change": "코스피가 7거래일 연속 하락해 5,554.22(-7.57%)에 마감했고 코스닥도 7.65% 내렸습니다. 장중 양 시장에 매도 사이드카와 서킷브레이커가 발동됐습니다.",
-        "editionId": "2026-10-15-pm",
-        "stage": "후속",
-        "storyId": "korea-market-2026-10-15-circuit-breakers",
-        "title": "코스피 5,554.22로 7.57% 급락…코스닥과 동반 서킷브레이커"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -909,27 +1079,6 @@
     },
     {
       "categories": [
-        "기술·AI"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-11T09:07:20+09:00",
-      "firstCoveredDate": "2026-10-11",
-      "id": "ai-compute-shortage-cloud-prices-2026",
-      "lastCoveredAt": "2026-10-11T09:07:20+09:00",
-      "lastCoveredDate": "2026-10-11",
-      "latest": {
-        "archive": false,
-        "change": "H100 기반 1년 계약 임대비가 1년 새 60% 상승했다는 분석과 대형 모델 기업·스타트업의 GPU 확보 경쟁이 보도됐습니다.",
-        "editionId": "2026-10-11-am",
-        "stage": "보도",
-        "storyId": "ai-compute-rental-price-surge-2026-10-11",
-        "title": "AI 연산 자원 부족에 GPU 임대료 상승…H100 1년 계약 시간당 비용 60%↑"
-      },
-      "path": "ai-compute-shortage-cloud-prices-2026.json",
-      "title": "AI 연산 자원 공급 부족과 임대 비용 상승"
-    },
-    {
-      "categories": [
         "국제",
         "국제·안보"
       ],
@@ -1354,27 +1503,6 @@
       },
       "path": "tesla-korea-fsd-verification.json",
       "title": "테슬라 FSD 국내 검증·승인 절차"
-    },
-    {
-      "categories": [
-        "경제·부동산"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-18",
-      "id": "korea-housing-supply-prices",
-      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
-      "lastCoveredDate": "2026-10-08",
-      "latest": {
-        "archive": false,
-        "change": "10월 8일 새로 발표된 10월 5일 기준 조사에서 서울 매매 0.12%·경기 매매 0.18%·서울 전세 0.16%의 주간 변동률이 확인됐습니다. 서울 매매 상승폭은 전주 0.09%보다 커졌습니다.",
-        "editionId": "2026-10-08-pm",
-        "stage": "발표",
-        "storyId": "korea-housing-weekly-2026-10-05",
-        "title": "서울 아파트값 0.12% 상승…87주째 올라, 강남권은 하락 지속"
-      },
-      "path": "korea-housing-supply-prices.json",
-      "title": "국내 주택 가격과 공급 정책"
     },
     {
       "categories": [
@@ -4933,7 +5061,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 456,
+  "storyCount": 465,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-15T21:06:34+09:00"
+  "updatedAt": "2026-10-16T21:13:28+09:00"
 }

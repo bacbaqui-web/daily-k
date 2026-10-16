@@ -1,0 +1,977 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-10-16T21:13:42.918188+09:00",
+  "id": "2026-10-16-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-10-16T21:00:00+09:00",
+      "date": "2026-10-16",
+      "edition": "pm",
+      "events": [
+        {
+          "at": "2026-10-17T10:00:00+09:00",
+          "date": "2026-10-17",
+          "detail": "국사편찬위원회가 시행하는 제80회 한국사능력검정시험이 오전 10시에 시작됩니다. 심화만 시행되는 회차로 안내되어 있어 응시자는 시험장·입실 안내를 공식 공고에서 확인할 필요가 있습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "국사편찬위원회",
+            "publishedAt": null,
+            "title": "한국사능력검정시험 일정",
+            "url": "https://www.historyexam.go.kr/?link=examSchedule&netfunnel_key=07A3D5596CA6B2EA472B21DF448D0FFF7BB14F497D7F85F3CE67F5EB57CAF0652800EE7076387A3E72EAB0DCD308C3D8ED8807AC3B96BE4228E25B46277F4C5B540790CEAB865414767F4BE26D15A0FBC4A7BB0174E08E2F6E73D6E4D29CEEB543BBFF1EAF3A9B54EBC2D2F653CB5684312C302C30",
+            "verifiedAt": "2026-10-16T21:13:28+09:00"
+          },
+          "timeNote": "한국사능력검정시험 공식 일정에 적힌 시험 시작 시각입니다.",
+          "title": "제80회 한국사능력검정시험"
+        },
+        {
+          "at": null,
+          "date": "2026-10-17",
+          "detail": "한국공인회계사회 일정에 따르면 제92회 AT자격시험이 10월 17일 시행됩니다. 시험장별 입실·시작 시각은 수험표와 공식 안내에서 확인해야 합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "한국공인회계사회",
+            "publishedAt": null,
+            "title": "2026년 국가공인 AT자격시험 일정",
+            "url": "https://at.kicpa.or.kr/index.jsp",
+            "verifiedAt": "2026-10-16T21:13:28+09:00"
+          },
+          "timeNote": "한국공인회계사회 2026년 시험 일정표에는 날짜가 확인되지만 시작 시각은 확인되지 않았습니다.",
+          "title": "제92회 국가공인 AT자격시험"
+        },
+        {
+          "at": null,
+          "date": "2026-10-17",
+          "detail": "제주특별자치도 일원에서 열리는 전국체육대회가 10월 17일에도 계속됩니다. 세부 경기 시각과 경기장은 종목별 공식 일정에 따라 다르므로 대표 경기와 결과를 확인할 때 대회 공식 홈페이지를 참고해야 합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "대한체육회",
+            "publishedAt": "2026-10-15T10:27:00+09:00",
+            "title": "제107회 전국체육대회, 제주특별자치도에서 개최",
+            "url": "https://www.sports.or.kr/sports/bbs/BMSR00001/view.do?boardId=73182&menuNo=200024",
+            "verifiedAt": "2026-10-16T21:13:28+09:00"
+          },
+          "timeNote": "제107회 전국체육대회가 10월 16~22일 제주에서 진행 중이며, 종목별 경기 시각은 공식 일정표에서 확인해야 합니다.",
+          "title": "제107회 전국체육대회 제주 경기 2일차"
+        }
+      ],
+      "generatedAt": "2026-10-16T21:13:28+09:00",
+      "id": "2026-10-16-pm",
+      "intro": "10월 16일 저녁 브리핑입니다. 급락 뒤 국내 증시 반등과 물가·고용·주택공급 지표, AI 메모리 전망, 웹툰 IP 확장 소식을 정리했습니다.",
+      "keywords": [
+        "코스피 5,668.05",
+        "7거래일 하락 멈춤",
+        "수입물가 1.7% 상승",
+        "원유 수입물가 21.6% 상승",
+        "취업자 11만3천명 증가",
+        "제조업 27개월 만에 증가",
+        "청년 취업자 47개월 감소",
+        "수도권 착공 목표 37%",
+        "한화오션 지분 1.38조원 처분 예정",
+        "메모리 공급난 2028년 전망",
+        "K-뷰티 수출 111억달러",
+        "웹툰 IP 체험형 팝업"
+      ],
+      "overview": [
+        "국내 증시는 코스피가 5,668.05로 2.05% 올라 전날 급락을 일부 되돌렸습니다. 같은 날 9월 수입물가는 원유값 상승으로 1.7% 반등했고, 1~9월 화장품 수출은 잠정 111억달러로 최대를 기록했습니다.",
+        "고용은 총취업자 11만3천명 증가와 제조업의 27개월 만의 증가 전환이 확인됐지만 청년층 취업자는 47개월째 감소했습니다. 주택공급은 연간 착공 목표의 약 37%가 10월 둘째 주까지 진행된 가운데 정부가 연말 전망과 추가 착공 계획을 제시했습니다.",
+        "한화시스템은 한화오션 지분 전량 처분을 결정했지만 실제 거래는 19일 예정입니다. 부천 공장 화재의 원인과 안전 설비는 조사 전이며, AI 메모리 공급·서버 가격 수치는 가트너의 전망입니다. 웹툰은 네이버웹툰의 체험형 IP 팝업이 시작됐습니다."
+      ],
+      "overviewEmphasis": [
+        "5,668.05로 2.05%",
+        "수입물가는 원유값 상승으로 1.7% 반등",
+        "잠정 111억달러로 최대",
+        "청년층 취업자는 47개월째 감소",
+        "연간 착공 목표의 약 37%",
+        "실제 거래는 19일 예정",
+        "원인과 안전 설비는 조사 전",
+        "가트너의 전망",
+        "체험형 IP 팝업이 시작됐습니다"
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "증시·환율",
+          "emphasis": [
+            "5,668.05",
+            "2.05%",
+            "4.46%",
+            "8거래일 만에 상승",
+            "추세 전환으로 확정된 것은 아닙니다"
+          ],
+          "eventAt": "2026-10-16T15:30:00+09:00",
+          "eventTimeNote": "10월 16일 국내 정규장 종가 기준입니다.",
+          "factsHash": "d97dba46ffbc59a4e0d37d69cf9b025a698d27892d364246afaa1b3e920fe78f",
+          "fallbackNote": null,
+          "followUp": {
+            "delta": "전날 코스피가 7.57% 급락해 5,554.22로 마감하고 양 시장에 서킷브레이커가 발동됐지만, 16일에는 코스피가 2.05% 오른 5,668.05, 코스닥이 4.46% 오른 794.78로 마감했습니다. 원·달러 주간 종가도 1,331.4원으로 하락했습니다. 급락 다음 날의 반등이며 추세 전환 여부는 아직 확인되지 않았습니다.",
+            "editionId": "2026-10-15-pm",
+            "storyId": "korea-market-2026-10-15-circuit-breakers"
+          },
+          "id": "korea-market-2026-10-16-rebound",
+          "keyFacts": {
+            "원달러 주간종가": "1331.4원",
+            "직전 코스피 종가": "5554.22",
+            "코스닥 등락": "+4.46%",
+            "코스닥 종가": "794.78",
+            "코스피 등락": "+2.05%",
+            "코스피 종가": "5668.05"
+          },
+          "publishedAt": "2026-10-16T15:37:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "파이낸셜뉴스(뉴스1)",
+              "publishedAt": "2026-10-16T15:37:00+09:00",
+              "title": "코스피, 2.05% 상승한 5668.05 마감…코스닥 4.46%↑(2보)",
+              "url": "https://www.fnnews.com/news/202610161537097996",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-10-16T16:24:00+09:00",
+              "title": "[마감시황] 코스피, 8거래일 만에 반등해 5660선 회복…코스닥 4%대 ↑",
+              "url": "https://search.newspim.com/news/view/20261016001249",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 99.05,
+          "scoreComponents": {
+            "domesticImpact": 100,
+            "importance": 100,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "전날 동반 급락과 서킷브레이커 직후의 국내 시장 반전입니다. 종가와 환율을 복수 보도로 확인했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "파이낸셜뉴스(뉴스1)",
+              "publishedAt": "2026-10-16T15:37:00+09:00",
+              "title": "코스피, 2.05% 상승한 5668.05 마감…코스닥 4.46%↑(2보)",
+              "url": "https://www.fnnews.com/news/202610161537097996",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-10-16T16:24:00+09:00",
+              "title": "[마감시황] 코스피, 8거래일 만에 반등해 5660선 회복…코스닥 4%대 ↑",
+              "url": "https://search.newspim.com/news/view/20261016001249",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피는 16일 전 거래일보다 113.83포인트(2.05%) 오른 5,668.05로 마감했습니다. 코스닥은 33.96포인트(4.46%) 오른 794.78을 기록했습니다.",
+            "이는 전날 코스피가 7.57% 급락해 5,554.22로 마감하고 코스닥에도 서킷브레이커가 발동된 뒤 나온 첫 반등입니다. 코스피는 8거래일 만에 상승으로 돌아섰습니다.",
+            "원·달러 환율은 서울 외환시장 주간 종가 기준 1,331.4원으로 전날보다 13.2원 내렸습니다. 금리 하락과 해외 기술주 반등, 급락 뒤 저가 매수가 배경으로 거론됐지만 이는 시장 해석입니다.",
+            "이번 반등은 급락 충격을 일부 되돌린 결과이며, 추세 전환으로 확정된 것은 아닙니다. 다음 거래일에는 반등 종목의 폭과 외국인·기관 수급이 이어지는지 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "전날 7.57% 급락과 서킷브레이커 발동에서 16일 코스피 2.05% 반등·코스닥 4.46% 반등으로 바뀌었습니다. 하루 결과만으로 추세가 바뀌었다고 단정할 수는 없습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "후속"
+          },
+          "title": "코스피 5,668.05로 2.05% 반등…7거래일 하락 멈춰",
+          "topicKey": "korea-market-close-circuit-breakers-2026-10-15",
+          "uncertainty": "하루 반등만으로 하락 추세가 끝났다고 볼 수 없습니다. 기관·외국인 최종 수급과 다음 거래일의 거래대금은 이 자료에서 확인되지 않았습니다.",
+          "whatChanged": "전날 5,554.22까지 하락했던 코스피가 113.83포인트 오른 5,668.05로 마감했습니다. 코스닥도 4.46% 상승했고 원·달러 환율은 주간 종가 기준 1,331.4원으로 내려왔습니다.",
+          "whyItMatters": "급락 다음 날 반등이 이어질지, 외국인 수급과 업종별 상승 확산이 동반되는지가 시장 변동성의 다음 확인 지점입니다."
+        },
+        {
+          "category": "사회·안전",
+          "emphasis": [
+            "모두 7명이 다쳤다고 보도했습니다.",
+            "중상 소방관 2명",
+            "양과 종류는 추가 확인이 필요"
+          ],
+          "eventAt": "2026-10-16T08:38:00+09:00",
+          "eventTimeNote": "소방당국 발표를 인용한 당일 보도 기준입니다. 화재는 오전 8시 38분께 시작됐고 11시 6분께 완전히 꺼졌습니다.",
+          "factsHash": "45b016b3820e2a15ad1ee998f9870d198f8941285fdf4b95dffb4b28e1a87a8c",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "bucheon-metal-coating-factory-fire-2026-10-16",
+          "keyFacts": {
+            "공장 관계자 부상": "2명",
+            "부상 소방관": "5명",
+            "부상자": "7명",
+            "완전 진화": "11:06",
+            "위험물": "약 2톤 추정, 추가 확인 필요",
+            "중상 소방관": "2명"
+          },
+          "publishedAt": "2026-10-16T13:41:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-10-16T13:41:00+09:00",
+              "title": "부천 공장 화재로 7명 부상…위험 물질 2톤가량 확인",
+              "url": "https://www.ytn.co.kr/_ln/0103_202610161341443300",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-16T11:41:00+09:00",
+              "title": "부천 공장 화재로 7명 부상…소방관 1명 심정지·1명 중상(종합2보)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261016037952065",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 92.05,
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 91,
+            "interest": 72,
+            "recency": 100,
+            "reliability": 96
+          },
+          "scoreReason": "소방당국 발표를 전한 YTN과 연합뉴스의 인명 피해·진화 시각을 대조했습니다. 원인은 미확정으로 표시했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-10-16T13:41:00+09:00",
+              "title": "부천 공장 화재로 7명 부상…위험 물질 2톤가량 확인",
+              "url": "https://www.ytn.co.kr/_ln/0103_202610161341443300",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-16T11:41:00+09:00",
+              "title": "부천 공장 화재로 7명 부상…소방관 1명 심정지·1명 중상(종합2보)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261016037952065",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "16일 오전 8시 38분께 부천시 오정구 내동의 금속 사출·인쇄 공장에서 불이 났습니다. YTN은 소방관 5명과 공장 관계자 2명 등 모두 7명이 다쳤다고 보도했습니다.",
+            "중상 소방관 2명은 화재 초기에 건물 안으로 진입한 대원들이었고, 이 중 한 명은 심정지 상태로 이송됐습니다. 다른 부상자들은 연기 흡입·탈진·화상 등을 입은 것으로 전해졌습니다.",
+            "불은 오전 11시 6분께 완전히 꺼졌습니다. 소방당국은 공장에 인화성 액체 등 위험물질이 있었을 가능성을 살피고 있으며, YTN은 초기 확인에서 약 2톤 규모가 거론됐지만 양과 종류는 추가 확인이 필요하다고 전했습니다.",
+            "초기 신고 장소는 3층 세척실로 알려졌으나 이는 정확한 발화 지점이 확정됐다는 뜻은 아닙니다. 소방 설비와 작업 공정, 대피·진입 과정에 대한 조사 결과를 기다려야 합니다."
+          ],
+          "timeline": {
+            "change": "부천 금속 사출·인쇄 공장에서 난 불로 7명이 다쳤으며, 소방당국의 화재 원인·위험물·설비 조사가 남아 있습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "bucheon-metal-coating-factory-fire-2026",
+            "issueTitle": "부천 금속 도장공장 화재와 안전 조사",
+            "stage": "발표"
+          },
+          "title": "부천 금속 도장공장 화재로 7명 부상…소방관 2명 중상",
+          "topicKey": "bucheon-metal-coating-factory-fire-2026-10-16",
+          "uncertainty": "보도 당시 중상자 치료 상황과 위험물의 정확한 종류·양은 조사 중이었습니다. 최초 발화 지점과 화재 원인은 확정되지 않았습니다.",
+          "whatChanged": "경기 부천시 오정구의 금속 사출·인쇄 공장에서 불이 나 소방관 5명과 공장 관계자 2명 등 7명이 다쳤습니다.",
+          "whyItMatters": "중상 소방관이 발생한 산업현장 화재여서 초기 진입·구조 과정과 위험물 보관·소방 설비의 적정성이 조사 대상입니다."
+        },
+        {
+          "category": "국내 정책·부동산",
+          "emphasis": [
+            "21만8천~23만5천호",
+            "목표의 약 37%",
+            "연내 임대주택 5천호를 포함해 2만호 이상 입주자를 모집"
+          ],
+          "eventAt": "2026-10-16T16:00:00+09:00",
+          "eventTimeNote": "국토교통부가 16일 오후 처음 연 주택공급 정례브리핑에서 밝힌 계획과 실적입니다.",
+          "factsHash": "aee832f70f28f4f334048c8c24e71290fbb8f23029023798d83337011d510ace",
+          "fallbackNote": null,
+          "followUp": {
+            "delta": "10월 8일에는 서울 아파트값의 주간 상승 흐름을 다뤘습니다. 16일에는 정부가 수도권 연간 착공 목표 26.8만호 중 10월 둘째 주까지 9.9만호 이상(약 37%)이 착공됐다고 공개하고 연말 최대 23.5만호 전망과 13.6만호 추가 착공 계획을 제시했습니다. 가격 동향에서 공급계획·중간 실적 점검으로 새 정보가 추가됐습니다.",
+            "editionId": "2026-10-08-pm",
+            "storyId": "korea-housing-weekly-2026-10-05"
+          },
+          "id": "korea-housing-supply-yearend-2026",
+          "keyFacts": {
+            "10월 둘째 주까지 착공": "9.9만호 이상",
+            "공공분양 추가 공고": "1만호",
+            "목표 대비 진행": "약 37%",
+            "수도권 연간 착공 목표": "26.8만호",
+            "연말 전망": "최대 23.5만호",
+            "연말 추가 착공 계획": "13.6만호"
+          },
+          "publishedAt": "2026-10-16T16:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-16T16:00:00+09:00",
+              "title": "정부, 연말까지 수도권 13.6만호 추가 착공…공공분양 1만호 공고",
+              "url": "https://files.newsis.com/view/NISX20261016_0003828863",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "KDI 경제정보센터",
+              "publishedAt": null,
+              "title": "제1차 주택공급 정례 브리핑 자료",
+              "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288200&pg=&pp=&topic=P",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 91.9,
+          "scoreComponents": {
+            "domesticImpact": 93,
+            "importance": 88,
+            "interest": 74,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "정부가 연간 목표 대비 중간 실적과 남은 기간 착공 전망을 공개했습니다. 계획과 실적의 격차가 핵심입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-16T16:00:00+09:00",
+              "title": "정부, 연말까지 수도권 13.6만호 추가 착공…공공분양 1만호 공고",
+              "url": "https://files.newsis.com/view/NISX20261016_0003828863",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "KDI 경제정보센터",
+              "publishedAt": null,
+              "title": "제1차 주택공급 정례 브리핑 자료",
+              "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288200&pg=&pp=&topic=P",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "정부는 16일 주택공급 정례브리핑에서 올해 수도권 착공이 연말까지 21만8천~23만5천호에 이를 것으로 전망했습니다. 남은 기간 13만6천호를 추가 착공하겠다는 계획도 제시했습니다.",
+            "올해 수도권 착공 목표는 공공주택 6만2천호를 포함해 26만8천호입니다. 10월 둘째 주까지 확인된 착공은 9만9천호 이상으로, 연간 목표의 약 37% 수준이라고 정부는 설명했습니다.",
+            "정부는 연내 임대주택 5천호를 포함해 2만호 이상 입주자를 모집하고 공공분양주택 1만호를 추가로 공고하겠다고 밝혔습니다. 착공은 실제 입주보다 앞선 공급 단계여서 이번 계획이 당장 전월세 물량으로 이어지는 것은 아닙니다.",
+            "따라서 발표된 목표보다 남은 기간 실제 착공 실적과 공고 뒤 입주 일정이 중요합니다. 정부 전망치와 확정 실적을 구분해 공급 확대가 실제 주거 여건에 반영되는지 지켜봐야 합니다."
+          ],
+          "timeline": {
+            "change": "10월 둘째 주까지 수도권 착공이 연간 목표의 약 37%에 그친 가운데 정부가 연말 최대 23.5만호 착공 전망과 13.6만호 추가 계획을 제시했습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-housing-supply-prices",
+            "issueTitle": "국내 주택 가격과 공급 정책",
+            "stage": "후속"
+          },
+          "title": "수도권 주택 연말 착공 최대 23.5만호 전망…목표 달성은 불투명",
+          "topicKey": "korea-housing-yearend-starts-plan-2026-10-16",
+          "uncertainty": "23만5천호는 정부 전망이며 확정된 착공 실적이 아닙니다. 현재까지 실적은 10월 둘째 주 기준이고 연말 실제 착공·입주 물량은 이후 확인해야 합니다.",
+          "whatChanged": "정부는 수도권에서 연말까지 최대 23만5천호의 착공이 이뤄질 것으로 전망하고, 남은 기간 13만6천호를 추가 착공하겠다고 밝혔습니다.",
+          "whyItMatters": "착공 목표는 향후 입주와 공급 기반을 가늠하는 지표지만, 계획이 실제 착공·준공으로 이어지는 시차와 실행률을 함께 봐야 합니다."
+        },
+        {
+          "category": "기업·방산",
+          "emphasis": [
+            "1조3천833억8천678만4천원",
+            "자기자본의 27.66%",
+            "양도 예정일은 10월 19일"
+          ],
+          "eventAt": "2026-10-16T17:11:00+09:00",
+          "eventTimeNote": "한화시스템이 16일 이사회에서 의결하고 공시한 처분 결정입니다. 실제 양도 예정일은 10월 19일입니다.",
+          "factsHash": "c5b1a2c1491544b9b4940e70256d35de36ba78a23d6383fb4edc5dfaea0492af",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "hanwha-systems-hanwha-ocean-sale-2026-10-16",
+          "keyFacts": {
+            "PRS 계약 기간": "1년",
+            "양도 예정일": "2026-10-19",
+            "양도금액": "1조3,833억8,678만4천원",
+            "자기자본 대비": "27.66%",
+            "처분 주식": "22,169,660주",
+            "처분 후 지분": "0%"
+          },
+          "publishedAt": "2026-10-16T17:53:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "금융감독원 전자공시시스템(DART)",
+              "publishedAt": "2026-10-16T17:11:00+09:00",
+              "title": "주요사항보고서(타법인주식및출자증권양도결정)",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000478",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "디지털투데이",
+              "publishedAt": "2026-10-16T17:53:00+09:00",
+              "title": "한화시스템, 한화오션 주식 1조3834억원어치 블록딜 양도 결정",
+              "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=707870",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 91.45,
+          "scoreComponents": {
+            "domesticImpact": 82,
+            "importance": 87,
+            "interest": 78,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "공시 원문과 이를 바탕으로 한 당일 보도를 대조했습니다. 결의·예정·결제 상태를 구분했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "금융감독원 전자공시시스템(DART)",
+              "publishedAt": "2026-10-16T17:11:00+09:00",
+              "title": "주요사항보고서(타법인주식및출자증권양도결정)",
+              "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000478",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "디지털투데이",
+              "publishedAt": "2026-10-16T17:53:00+09:00",
+              "title": "한화시스템, 한화오션 주식 1조3834억원어치 블록딜 양도 결정",
+              "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=707870",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "한화시스템은 16일 이사회에서 계열회사 한화오션 주식 2천216만9천660주를 양도하기로 결정했다고 공시했습니다. 공시상 양도금액은 1조3천833억8천678만4천원입니다.",
+            "처분 규모는 한화시스템 자기자본의 27.66%, 총자산의 13.4%입니다. 회사는 목적을 유동성 및 전략적 투자재원 확보라고 밝혔습니다.",
+            "거래는 키움증권 외 6곳에 시간외 대량매매 방식으로 넘기는 계획이며, 양도 예정일은 10월 19일, 대금 결제는 10월 21일입니다. 따라서 공시 당일에 이미 매각이 끝난 것은 아닙니다.",
+            "한화시스템은 같은 주식 전량을 기초자산으로 1년짜리 주가수익스왑 계약도 맺었습니다. 한화오션 주가에 따른 정산 관계가 이어지며, 확보 자금의 구체적 투자처와 최종 정산 규모는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "한화시스템 이사회가 한화오션 주식 전량을 1조3,833억원에 처분하기로 결정했으며, 거래는 10월 19일 예정입니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "hanwha-systems-hanwha-ocean-sale-2026",
+            "issueTitle": "한화시스템의 한화오션 지분 처분",
+            "stage": "발표"
+          },
+          "title": "한화시스템, 한화오션 지분 전량 1조3834억원에 양도 결정",
+          "topicKey": "hanwha-systems-hanwha-ocean-block-sale-2026-10-16",
+          "uncertainty": "16일에는 처분 결정과 공시가 확인됐지만 실제 거래는 19일 예정입니다. 1년짜리 주가수익스왑(PRS) 계약도 함께 체결해 주가 관련 정산 노출이 남으며 자금의 구체적 사용처는 공시에 적히지 않았습니다.",
+          "whatChanged": "한화시스템은 한화오션 주식 2천216만9천660주 전량을 1조3천833억8천만원에 넘기기로 했습니다. 처분이 완료되면 보유 지분은 0%가 됩니다.",
+          "whyItMatters": "처분 목적은 회사가 밝힌 유동성 및 전략적 투자재원 확보입니다. 거래 규모가 자기자본의 27.66%라 자금 활용과 계열사 지분 구조에 관심이 쏠립니다."
+        },
+        {
+          "category": "웹툰 산업",
+          "emphasis": [
+            "10월 16일부터 11월 11일까지",
+            "신규 상품 27종",
+            "누적 방문객 3만6천명",
+            "이번 행사의 실제 방문·매출 성과는 아직 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "10월 16일 팝업 운영을 시작했으며 시작 시각은 확인되지 않았습니다.",
+          "factsHash": "a406f95b2fbb9ca756d9367bec317780a6c82103c2b33b42090157fe1a1301c3",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "naverwebtoon-byeoljeongjik-popup-2026",
+          "keyFacts": {
+            "신규굿즈": "27종",
+            "운영기간": "2026-10-16~2026-11-11",
+            "이전3회굿즈판매": "8만개 이상",
+            "이전3회방문객": "3만6천명",
+            "장소": "서울 용산 아이파크몰"
+          },
+          "publishedAt": "2026-10-16T15:19:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-16T15:19:00+09:00",
+              "title": "[웹툰소식] 네이버웹툰, 별정직 공무원 팝업스토어 열어",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261016116000005",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "네이버",
+              "publishedAt": null,
+              "title": "네이버웹툰, 별정직 공무원 나찰 감시 구역 콘셉트 단독 팝업 개장",
+              "url": "https://navercorp.com/media/pressReleasesDetail?seq=10034759",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 87.55,
+          "scoreComponents": {
+            "domesticImpact": 75,
+            "importance": 74,
+            "interest": 79,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "웹툰 IP 산업 필수 항목이며 회사의 공식 발표와 연합뉴스 보도를 대조했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-16T15:19:00+09:00",
+              "title": "[웹툰소식] 네이버웹툰, 별정직 공무원 팝업스토어 열어",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261016116000005",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "네이버",
+              "publishedAt": null,
+              "title": "네이버웹툰, 별정직 공무원 나찰 감시 구역 콘셉트 단독 팝업 개장",
+              "url": "https://navercorp.com/media/pressReleasesDetail?seq=10034759",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "네이버웹툰은 인기작 ‘별정직 공무원’을 주제로 한 체험형 팝업 ‘사건발생! 나찰 감시 구역’을 10월 16일부터 11월 11일까지 서울 용산 아이파크몰에서 운영합니다.",
+            "방문객은 작품 속 비밀 부서의 현장에 투입된 설정으로 나찰 퇴치와 민원·관측 보고 분류 게임 등에 참여할 수 있습니다. 회사는 신규 상품 27종을 공개했으며, 10월 16~18일은 사전 예약 방문객만 입장하고 19일부터 현장 입장을 받는다고 안내했습니다.",
+            "이번 행사는 네이버웹툰 릴레이 팝업의 네 번째 작품입니다. 네이버웹툰은 앞선 세 차례 팝업에서 누적 방문객 3만6천명, 굿즈 8만개 이상 판매를 기록했다고 밝혔습니다.",
+            "온라인 연재 IP를 오프라인 체험과 상품, AI 스토리챗 연계 행사로 확장하는 사례입니다. 다만 앞선 팝업의 방문객·판매량은 회사 발표이며, 이번 행사의 실제 방문·매출 성과는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "용산에서 팝업 운영을 시작했습니다. 앞선 행사 성과는 회사 발표이며 이번 행사 실적은 아직 공개되지 않았습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "naverwebtoon-byeoljeongjik-popup-2026",
+            "issueTitle": "네이버웹툰 별정직 공무원 팝업과 IP 확장",
+            "stage": "시행"
+          },
+          "title": "네이버웹툰, ‘별정직 공무원’ 체험형 팝업…굿즈 27종 선보여",
+          "topicKey": "naverwebtoon-byeoljeongjik-popup-opening-2026-10-16",
+          "uncertainty": "방문객·굿즈 판매 수량은 네이버웹툰이 공개한 집계이며 이번 네 번째 팝업의 성과는 아직 나오지 않았습니다.",
+          "whatChanged": "웹툰 IP를 활용한 단독 팝업이 10월 16일부터 11월 11일까지 용산 아이파크몰에서 운영됩니다.",
+          "whyItMatters": "온라인 연재물을 체험 공간·상품·AI 스토리챗과 연결하는 IP 사업 모델의 사례입니다. 앞선 세 차례 릴레이 팝업에서 회사가 밝힌 누적 방문객과 판매 수량도 규모를 가늠하는 자료입니다."
+        },
+        {
+          "category": "경제·물가",
+          "emphasis": [
+            "전월보다 1.7% 상승",
+            "전월보다 21.6%",
+            "두 달 연속 내렸지만"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "10월 16일 발표 자료 기준이며 정확한 시각은 확인되지 않았습니다.",
+          "factsHash": "47c48a17f04985fd55ea91edead219a0f6f814badd3d1e139cc5f2fda999718b",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "korea-import-prices-2026-09",
+          "keyFacts": {
+            "2026년 9월 수입물가 전월 대비": "+1.7%",
+            "수입물가 반등": "4개월 만",
+            "수출물량 전년 대비": "+30% 이상",
+            "원유 수입물가 전월 대비": "+21.6%"
+          },
+          "publishedAt": "2026-10-16T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-16T06:00:00+09:00",
+              "title": "원윳값 21.6% 껑충…환율 내려도 수입물가 넉 달 만에 오름세",
+              "url": "https://www.news1.kr/economy/trend/6321771",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "한국은행",
+              "publishedAt": null,
+              "title": "2026년 9월 수출입물가지수 및 무역지수(잠정)",
+              "url": "https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=10094390",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 71.8,
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 84,
+            "interest": 82,
+            "recency": 50,
+            "reliability": 96
+          },
+          "scoreReason": "한국은행 월간 물가지수와 당일 통신사 보도를 대조했습니다. 원유와 환율 효과를 분리해 설명했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-16T06:00:00+09:00",
+              "title": "원윳값 21.6% 껑충…환율 내려도 수입물가 넉 달 만에 오름세",
+              "url": "https://www.news1.kr/economy/trend/6321771",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "한국은행",
+              "publishedAt": null,
+              "title": "2026년 9월 수출입물가지수 및 무역지수(잠정)",
+              "url": "https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=10094390",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "한국은행 자료를 인용한 뉴스1 보도에 따르면 9월 원화 기준 수입물가지수는 159.37로 전월보다 1.7% 상승했습니다. 수입물가는 넉 달 만에 오름세로 돌아섰습니다.",
+            "월평균 환율이 내려왔는데도 국제 원유 수입 가격이 전월보다 21.6%, 전년보다 54.4% 뛰어 전체 수입물가를 밀어 올렸습니다. 환율 효과와 원자재 가격 효과가 반대 방향으로 움직인 사례입니다.",
+            "수출물가는 환율 하락 영향으로 두 달 연속 내렸지만, 환율 영향을 제거한 반도체 수출가격은 오름세를 이어갔습니다. 수출 물량도 전년보다 30% 넘게 늘었다고 보도됐습니다.",
+            "이 지표는 기업의 수입 원가 압력과 수출 경쟁 여건을 함께 보여주지만, 소비자물가에 그대로 반영되는 것은 아닙니다. 실제 비용 전가와 다음 달 국제유가·환율 흐름을 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "9월 수입물가는 원유 가격 급등의 영향으로 환율 하락에도 넉 달 만에 상승했습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-import-export-prices",
+            "issueTitle": "한국 수출입 물가·교역 지수",
+            "stage": "발표"
+          },
+          "title": "원유값 급등에 9월 수입물가 1.7% 상승…4개월 만에 반등",
+          "topicKey": "korea-import-export-prices-2026-09",
+          "uncertainty": "수입물가지수는 소비자물가와 같은 지표가 아니며 시차와 유통·계약 조건에 따라 전가 정도가 달라집니다. 잠정치이므로 이후 수정될 수 있습니다.",
+          "whatChanged": "원화 기준 9월 수입물가지수는 전월보다 1.7% 올랐습니다. 국제 원유 가격이 한 달 새 21.6% 상승하면서 환율 하락에도 수입물가가 넉 달 만에 반등했습니다.",
+          "whyItMatters": "에너지 수입 비용은 기업 원가와 이후 소비자물가에 영향을 줄 수 있어 환율만으로 수입 비용을 판단하기 어렵습니다. 같은 달 수출물가와 수출물량도 함께 볼 필요가 있습니다."
+        },
+        {
+          "category": "반도체·AI",
+          "emphasis": [
+            "2028년까지 이어질 가능성",
+            "전년보다 2~4배 수준",
+            "2027년 중후반부터 가능"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "가트너 전망의 원 발표일은 확인되지 않아 날짜를 특정하지 않았습니다.",
+          "factsHash": "28d8ed8b880fa4546e8f4989907a21190609e35cbccee7fe6824528a6bfe8776",
+          "fallbackNote": null,
+          "followUp": {
+            "delta": "10월 11일에는 H100 임대료 상승과 AI 연산 자원 부족을 다뤘습니다. 16일에는 가트너가 메모리 공급 부족이 2028년까지 이어지고 신규 생산의 실질 공급은 2027년 중후반부터 가능하다고 전망했으며, 서버 가격이 전년보다 2~4배 수준이라고 분석한 내용이 추가됐습니다. 기존 GPU 임대료 사례에서 메모리 공급망·서버 가격 전망으로 새 정보가 확장됐습니다.",
+            "editionId": "2026-10-11-am",
+            "storyId": "ai-compute-rental-price-surge-2026-10-11"
+          },
+          "id": "gartner-memory-server-prices-2028-forecast-2026",
+          "keyFacts": {
+            "고사양 서버 연말 전망": "최대 3.5배",
+            "공급난 전망": "2028년까지",
+            "서버 가격": "전년 대비 2~4배 수준",
+            "신규 공급 확대 전망": "2027년 중후반"
+          },
+          "publishedAt": "2026-10-16T05:55:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-16T05:55:00+09:00",
+              "title": "가트너 \"메모리 공급난 2028년까지…서버값 최대 4배\"",
+              "url": "https://www.news1.kr/it-science/mobile/6321591",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 71.15,
+          "scoreComponents": {
+            "domesticImpact": 79,
+            "importance": 82,
+            "interest": 93,
+            "recency": 50,
+            "reliability": 88
+          },
+          "scoreReason": "가트너 전망을 인용한 당일 기사를 확인했습니다. 수치는 확정 실적이 아니라 조사기관의 진단·예상으로 한정했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-16T05:55:00+09:00",
+              "title": "가트너 \"메모리 공급난 2028년까지…서버값 최대 4배\"",
+              "url": "https://www.news1.kr/it-science/mobile/6321591",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "시장조사업체 가트너는 AI 수요가 메모리 공급을 압박해 부족 현상이 2028년까지 이어질 가능성이 있다고 봤습니다. 뉴스1이 16일 이 전망을 보도했습니다.",
+            "가트너에 따르면 서버 가격은 전년보다 2~4배 수준으로 상승했고, 고사양 서버는 올해 말 최대 3.5배까지 오를 수 있습니다. 이 수치는 가트너 보고서의 분석·전망입니다.",
+            "제조사가 신규 생산시설을 짓고 있어도 실질적인 공급 확대는 2027년 중후반부터 가능하다는 게 가트너의 설명입니다. AI 데이터센터용 HBM과 대용량 메모리 공급이 우선되면 일반 서버와 저장장치의 수급도 영향을 받습니다.",
+            "따라서 기업의 AI 인프라 투자비뿐 아니라 노트북·스마트폰 등 메모리 탑재 제품의 가격 압력도 살펴볼 필요가 있습니다. 실제 공급난 완화 시점과 가격 상승 폭은 제품별로 다를 수 있습니다."
+          ],
+          "timeline": {
+            "change": "기존 GPU 임대료 상승 보도에 더해 가트너가 메모리 수급난 장기화와 서버·스토리지 가격 압력을 2028년까지 전망했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "ai-compute-shortage-cloud-prices-2026",
+            "issueTitle": "AI 연산 자원 공급 부족과 임대 비용 상승",
+            "stage": "후속"
+          },
+          "title": "가트너 \"메모리 공급난 2028년까지\"…서버 가격 최대 4배 전망",
+          "topicKey": "gartner-ai-memory-shortage-server-prices-2028",
+          "uncertainty": "이는 가트너의 전망과 시장 분석이며 모든 서버 모델의 실제 가격이 동일하게 오른다는 뜻은 아닙니다. 신규 생산시설의 공급 시점과 가격 추이는 향후 확인해야 합니다.",
+          "whatChanged": "가트너는 AI 수요에 따른 메모리 부족이 2028년까지 이어질 수 있고 서버 가격이 전년보다 2~4배 수준으로 올랐다고 분석했습니다.",
+          "whyItMatters": "메모리 생산이 HBM·고용량 제품에 집중되면 데이터센터뿐 아니라 일반 서버와 소비자 기기의 원가에도 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·고용",
+          "emphasis": [
+            "11만3천명 증가",
+            "27개월 만에 증가로 돌아섰습니다",
+            "15~29세 취업자는 14만7천명 감소"
+          ],
+          "eventAt": "2026-10-16T08:00:00+09:00",
+          "eventTimeNote": "국가데이터처의 9월 고용동향 발표와 같은 날 열린 관계부처 회의 자료입니다.",
+          "factsHash": "015ca9ca007bcf02764b3c8ff14992b098d2954010cd68707f285abeb4344eb6",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "korea-employment-september-2026",
+          "keyFacts": {
+            "15~64세 고용률": "70.6%",
+            "9월 취업자 전년 대비": "11.3만명 증가",
+            "제조업 증가 전환": "27개월 만",
+            "제조업 취업자": "1.6만명 증가",
+            "청년층 취업자": "14.7만명 감소"
+          },
+          "publishedAt": "2026-10-16T08:01:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-10-16T08:01:00+09:00",
+              "title": "[속보]9월 취업자 전년 대비 11.3만명 증가…15~64세 고용률 70.6%",
+              "url": "https://www.mt.co.kr/economy/2026/10/16/2026101607392023346",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "고용노동부",
+              "publishedAt": null,
+              "title": "9월 취업자 11만 3000명 증가…제조업 27개월 만에 증가 전환",
+              "url": "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20103",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": null,
+              "title": "[2보] 9월 취업자 11만3천명↑…제조업 2년3개월만에 증가",
+              "url": "https://www.yna.co.kr/view/AKR20261016015951002?input=feed_police",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 70.95,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 86,
+            "interest": 71,
+            "recency": 50,
+            "reliability": 98
+          },
+          "scoreReason": "공식 월간 고용통계와 정부 설명을 확인했습니다. 총고용과 청년층의 엇갈린 흐름을 함께 봐야 합니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-10-16T08:01:00+09:00",
+              "title": "[속보]9월 취업자 전년 대비 11.3만명 증가…15~64세 고용률 70.6%",
+              "url": "https://www.mt.co.kr/economy/2026/10/16/2026101607392023346",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "ko",
+              "name": "고용노동부",
+              "publishedAt": null,
+              "title": "9월 취업자 11만 3000명 증가…제조업 27개월 만에 증가 전환",
+              "url": "https://moel.go.kr/news/enews/report/enewsView.do?news_seq=20103",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": null,
+              "title": "[2보] 9월 취업자 11만3천명↑…제조업 2년3개월만에 증가",
+              "url": "https://www.yna.co.kr/view/AKR20261016015951002?input=feed_police",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "국가데이터처가 16일 발표한 9월 고용동향에서 15세 이상 취업자는 2천926만6천명으로 전년 동월보다 11만3천명 증가했습니다. 취업자 증가는 3개월 연속 두 자릿수를 유지했습니다.",
+            "제조업 취업자는 1만6천명 늘어 2024년 6월 이후 27개월 만에 증가로 돌아섰습니다. 정부는 수출 호조가 시차를 두고 고용에 반영됐을 가능성을 설명했습니다.",
+            "반면 15~29세 취업자는 14만7천명 감소해 47개월 연속 줄었습니다. 전체 고용과 제조업 지표가 개선돼도 청년층 구직 여건이 함께 나아졌다고 보기 어려운 이유입니다.",
+            "정부는 고용동향을 점검하고 일자리 분야 과제를 논의했습니다. 다음 발표에서는 제조업 증가가 이어지는지와 청년 고용·건설업 부진이 완화되는지가 핵심입니다."
+          ],
+          "timeline": {
+            "change": "9월 총취업자는 증가했으나 청년층 감소는 지속됐고 제조업은 27개월 만에 증가로 돌아섰습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-employment-september-2026",
+            "issueTitle": "한국 월간 고용 동향",
+            "stage": "발표"
+          },
+          "title": "9월 취업자 11만3천명 증가…제조업 27개월 만에 플러스",
+          "topicKey": "korea-employment-september-2026",
+          "uncertainty": "제조업 회복이 넓은 업종으로 이어질지는 아직 불확실합니다. 청년층 취업자 감소와 건설·농림어업 부진도 계속 관찰해야 합니다.",
+          "whatChanged": "9월 취업자는 전년보다 11만3천명 늘었고 제조업 취업자는 1만6천명 증가해 27개월 만에 감소세를 멈췄습니다.",
+          "whyItMatters": "전체 취업자 증가와 제조업 반등은 수출·생산의 고용 전이를 보여주는 지표입니다. 다만 청년층 취업자는 감소가 길어져 전체 수치와 세부 연령별 체감이 다릅니다."
+        },
+        {
+          "category": "경제·수출",
+          "emphasis": [
+            "111억달러",
+            "전년 같은 기간보다 31.1% 늘어난 역대 최대 규모",
+            "영국과 네덜란드 수출이 각각 179%, 292% 증가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "10월 16일 발표 자료 기준이며 정확한 시각은 확인되지 않았습니다.",
+          "factsHash": "62d17d5c0a5d0051850f3b92e5002c28c779a2d45511b89efa9c60c833e41792",
+          "fallbackNote": null,
+          "followUp": null,
+          "id": "korea-cosmetics-exports-2026-09",
+          "keyFacts": {
+            "2026년 1~9월 화장품 수출": "111억달러",
+            "네덜란드 수출 증가율": "+292%",
+            "영국 수출 증가율": "+179%",
+            "전년 동기 대비": "+31.1%",
+            "통계 상태": "잠정"
+          },
+          "publishedAt": "2026-10-16T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-16T06:00:00+09:00",
+              "title": "\"11초마다 팔린다더니\"…K-뷰티, 영국·네덜란드·폴란드 약진에 日 추격",
+              "url": "https://www.news1.kr/industry/sb-founded/6321542",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "score": 68.2,
+          "scoreComponents": {
+            "domesticImpact": 84,
+            "importance": 80,
+            "interest": 72,
+            "recency": 50,
+            "reliability": 90
+          },
+          "scoreReason": "식약처 수출 집계를 인용한 당일 뉴스1 보도에서 누적액과 증가율을 확인했습니다. 잠정 통계로 표시했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-16T06:00:00+09:00",
+              "title": "\"11초마다 팔린다더니\"…K-뷰티, 영국·네덜란드·폴란드 약진에 日 추격",
+              "url": "https://www.news1.kr/industry/sb-founded/6321542",
+              "verifiedAt": "2026-10-16T21:13:28+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "식품의약품안전처의 수출 집계를 인용한 뉴스1 보도에 따르면 올해 1~9월 화장품 수출액은 111억달러로 잠정 집계됐습니다. 전년 같은 기간보다 31.1% 늘어난 역대 최대 규모입니다.",
+            "기사에 따르면 영국과 네덜란드 수출이 각각 179%, 292% 증가하는 등 유럽 시장의 성장세가 두드러졌고 일본 시장도 추격하는 흐름으로 소개됐습니다. 국가별 수출 증가가 새로운 판매 기반으로 이어질지 살펴볼 만합니다.",
+            "이번 수치는 3분기까지 누적된 수출 성과입니다. 수출액만으로 브랜드별 수익성이나 반복 구매, 현지 유통망의 안정성을 확인할 수는 없습니다.",
+            "연말에는 잠정치가 확정되는지와 주요 시장에서 증가가 지속되는지를 함께 확인해야 합니다. 정부는 AI·자동화 기반 맞춤형 화장품 매장 지원 방안도 최근 발표했지만, 현장 도입 효과는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "2026년 1~9월 화장품 수출이 잠정 111억달러로 전년 동기보다 31.1% 증가했습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-cosmetics-exports-2026",
+            "issueTitle": "한국 화장품 수출과 시장 다변화",
+            "stage": "발표"
+          },
+          "title": "K-뷰티 1~9월 수출 111억달러…영국·네덜란드 성장 두드러져",
+          "topicKey": "korea-cosmetics-exports-record-2026-09",
+          "uncertainty": "수치는 잠정 집계이며 국가별 증가율이 전체 수출 비중이나 수익성을 그대로 뜻하지 않습니다. 원문 보도에서 상세 품목별 수치는 확인 범위 밖으로 두었습니다.",
+          "whatChanged": "식품의약품안전처 집계 기준 화장품 수출은 1~9월 111억달러로 전년 동기보다 31.1% 늘어 역대 최대를 기록했습니다.",
+          "whyItMatters": "수출 시장이 기존 주요국을 넘어 유럽으로 넓어지는지와 증가세가 연말까지 이어지는지가 K-뷰티 기업의 성장 기반을 가늠할 변수입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul",
+      "updatedAt": "2026-10-16T21:13:28+09:00"
+    },
+    "recordedAt": "2026-10-16T21:13:42.918188+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "e28f6d226a15a9b555f419a46abb06a61ca65e6cc0755d3caaf4922c33e0402e",
+  "opensAt": "2026-10-16T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-10-16T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}
