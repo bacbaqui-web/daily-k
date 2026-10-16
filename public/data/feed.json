@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-16",
-  "collectedAt": "2026-10-16T05:05:13.746614+00:00",
+  "collectedAt": "2026-10-16T05:06:06.049492+00:00",
   "windowEnd": "2026-10-16T14:05:13.685971+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10308,6 +10308,87 @@
       "sourceTitlesFetchedAt": "2026-10-15T13:28:31.893710+00:00",
       "collectedAt": "2026-10-15T22:28:31.893735+09:00",
       "firstPublishedAt": "2026-10-15T13:28:31.926493+00:00"
+    },
+    {
+      "id": "aagag-1662209-0",
+      "url": "https://aagag.com/issue/?idx=1662209",
+      "source": "애객",
+      "title": "너 직업이 뭐니?",
+      "publishedAt": "2026-10-16T13:54:12+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0e8l.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L0e8l.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 9,
+      "laughingComments": 6,
+      "score": 19,
+      "kPerComment": 2.111111111111111,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8853727",
+          "text": "ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8853729",
+          "text": "내 직업란을 길게쓸수있겠군ㅋㅋㅋ"
+        },
+        {
+          "id": "8853733",
+          "text": "틀린말은 아니네 ㅋㅋ"
+        },
+        {
+          "id": "8853749",
+          "text": "이력서/자소서 잘 쓰겠네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8853752",
+          "text": "스탠드업 코미디언도 감탄 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8853762",
+          "text": "자택경비원이나 CO2 크리에이터 같은 거였군요....."
+        },
+        {
+          "id": "8853766",
+          "text": "공간위생정화 전문가 - 청소부 가금류고온열처리 기술자 - 치킨집 알바 소인배 통제관 - 어린이집 교사 식량긴급수송관 - 배달 기사"
+        },
+        {
+          "id": "8853768",
+          "text": "저정도 센스가 없으면 구경도 못가는건가 구경가는 사람들이 저정도 센스를 기본장착한것인가"
+        },
+        {
+          "id": "8853770",
+          "text": "링크드인 같네요ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-16T14:05:57.955704+09:00",
+      "sourceTitles": [
+        "너 직업이 뭐야?.MP4",
+        "너 직업이 뭐임?",
+        "너 직업이 뭐니?",
+        "너 직업이 뭐니?"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-16T05:06:06.012481+00:00",
+      "collectedAt": "2026-10-16T14:06:06.012508+09:00",
+      "firstPublishedAt": "2026-10-16T05:06:06.068044+00:00"
     },
     {
       "id": "aagag-1604292-0",
@@ -20949,7 +21030,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
