@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-17",
-  "collectedAt": "2026-10-17T14:29:16.181845+00:00",
+  "collectedAt": "2026-10-17T14:30:03.556626+00:00",
   "windowEnd": "2026-10-17T23:29:16.148480+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6898,59 +6898,6 @@
       "firstPublishedAt": "2026-10-17T12:50:21.641605+00:00"
     },
     {
-      "id": "aagag-1662335-0",
-      "url": "https://aagag.com/issue/?idx=1662335",
-      "source": "애객",
-      "title": "완전히 돌아버렸다는 ai 코딩 근황...jpg",
-      "publishedAt": "2026-10-16T23:17:12+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L0X7w.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L0X7w.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 3,
-      "laughingComments": 2,
-      "score": 11,
-      "kPerComment": 3.6666666666666665,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8856116",
-          "text": "작성자를 비판하지말고ㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8856123",
-          "text": "ㅋㅋㅋㅋㅋㅋ무슨 어디 강사님같네"
-        },
-        {
-          "id": "8856131",
-          "text": "소넷5.5를 쓰니까 그렇....오푸스 5.5 개싼데 이제 그거 쓰면 일잘함 소넷5.0은 쓰레기고 5.5는 그냥 채팅수준이거 오푸5.5 신세계 3개다 CLI서쓰면 좋긴한데 오푸5.5 진짜 신세계...."
-        }
-      ],
-      "commentsFetchedAt": "2026-10-16T23:29:26.093603+09:00",
-      "sourceTitles": [
-        "뻔뻔한 ai.jpg",
-        "완전히 돌아버렸다는 ai 코딩 근황...jpg",
-        "완전히 돌아버렸다는 ai 코딩 근황...jpg",
-        "완전히 돌아버렸다는 ai 코딩 근황...jpg"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-16T14:29:38.127871+00:00",
-      "collectedAt": "2026-10-16T23:29:38.127897+09:00",
-      "firstPublishedAt": "2026-10-16T14:29:38.174774+00:00"
-    },
-    {
       "id": "aagag-1662435-0",
       "url": "https://aagag.com/issue/?idx=1662435",
       "source": "애객",
@@ -8905,7 +8852,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
