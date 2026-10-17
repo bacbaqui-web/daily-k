@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-17",
-  "collectedAt": "2026-10-17T03:23:05.134408+00:00",
+  "collectedAt": "2026-10-17T03:27:13.354108+00:00",
   "windowEnd": "2026-10-17T12:23:05.094131+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2858,6 +2858,84 @@
       "sourceTitlesFetchedAt": "2026-10-17T02:47:25.464391+00:00",
       "collectedAt": "2026-10-17T11:47:25.464424+09:00",
       "firstPublishedAt": "2026-10-17T02:47:25.504623+00:00"
+    },
+    {
+      "id": "aagag-1662458-0",
+      "url": "https://aagag.com/issue/?idx=1662458",
+      "source": "애객",
+      "title": "중국인들 발작버튼 눌린 주제",
+      "publishedAt": "2026-10-17T12:06:15+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L0UTA.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L0UTE.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L0UTA.webp",
+        "https://i.aagag.com/o/L0UTE.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 24,
+      "commentCount": 8,
+      "laughingComments": 4,
+      "score": 24,
+      "kPerComment": 3.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8857682",
+          "text": "지능이 높으면 속터지는 구나"
+        },
+        {
+          "id": "8857686",
+          "text": "가성비 좋네"
+        },
+        {
+          "id": "8857693",
+          "text": "짱깨수준ㅋㅋ"
+        },
+        {
+          "id": "8857696",
+          "text": "중국 니들 간체 쓰잖아 ㅋㅋㅋ 거기에 한자 타이핑안되서 병음으로 쓰잖아 ㅋㅋㅋ"
+        },
+        {
+          "id": "8857697",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 가성비 지리네 몇마디로 짱꼴라들 열폭버튼 제대로 눌렀네"
+        },
+        {
+          "id": "8857699",
+          "text": "얼마나 걸릴까? 중국인들 조차 일상생활에서 한자를 안쓰게 되는날이?  얼마 안거릴거 같은데"
+        },
+        {
+          "id": "8857721",
+          "text": "한자 없애고 영어쓸려고 한적이 있었는데 처참히 실패했죠 ㅋㅋㅋ 못바꿀껄요"
+        },
+        {
+          "id": "8857724",
+          "text": "사실 우린 한자를 보존한 적이 없어 안써서 방치 했을뿐. 좋으면 니들이 보존 하든가"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-17T12:27:03.253179+09:00",
+      "sourceTitles": [
+        "중국인들 발작버튼 눌린 주제",
+        "중국인들 발작버튼 눌린 주제",
+        "중국인들 발작버튼 눌린 주제"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-17T03:27:13.330232+00:00",
+      "collectedAt": "2026-10-17T12:27:13.330257+09:00",
+      "firstPublishedAt": "2026-10-17T03:27:13.367341+00:00"
     },
     {
       "id": "aagag-1555063-1",
@@ -7618,7 +7696,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
