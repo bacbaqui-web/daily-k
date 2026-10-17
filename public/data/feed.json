@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-17",
-  "collectedAt": "2026-10-17T12:46:46.791033+00:00",
+  "collectedAt": "2026-10-17T12:50:21.631607+00:00",
   "windowEnd": "2026-10-17T21:46:46.757116+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6776,6 +6776,79 @@
       "firstPublishedAt": "2026-10-17T02:17:12.237926+00:00"
     },
     {
+      "id": "aagag-1662565-0",
+      "url": "https://aagag.com/issue/?idx=1662565",
+      "source": "애객",
+      "title": "한국에 로드스터가 필요한 이유.mp4",
+      "publishedAt": "2026-10-17T21:32:18+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0wz0.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L0wz0.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 7,
+      "laughingComments": 1,
+      "score": 12,
+      "kPerComment": 1.7142857142857142,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8859392",
+          "text": "추월할 때 위쪽 깜빡이는 어떻게 켜요"
+        },
+        {
+          "id": "8859393",
+          "text": "따로있어요"
+        },
+        {
+          "id": "8859407",
+          "text": "아오.. 자전거는 헬스장에서 타던지 좀 자전거도 도로에서 못타게하던지 자전거 전용 도로를 따로 만들어서 인도도 분리하고 자전거 전용도로 없는 곳은 못가게좀 만들었으면좋겠다.. 운전하다가 좀 안마주쳤으면 좋겠다"
+        },
+        {
+          "id": "8859409",
+          "text": "차선도 못지키네"
+        },
+        {
+          "id": "8859410",
+          "text": "저거 저렇게 바로위로 지나가면 밑에 자라니들 압력으로 다 자빠짐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8859419",
+          "text": "한가지 확실한 한국 공도에서 저게 돌아다니는 모습은 볼 수 없음. fsd도 생산국가 따져서 제한두는 마당에 공도에서 그동안 한번도 보지 못한 이동을 하는 물건이 돌아다닌다? 한국뿐 아니라 제대로 된 교통망 가지고 있는 나라중에 저걸 허가해주는 나라가 얼마나 될까? 트랙에서도 혼자 다니거나 특정 목적이 있을 때나 다닐 수 있을듯"
+        },
+        {
+          "id": "8859429",
+          "text": "적어도 한국에선 현대차가 날라다니기 전까지 테슬라 로드스터는 못탐"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-17T21:50:05.753350+09:00",
+      "sourceTitles": [
+        "테슬라 신차 한국 진출시 예상.mp4",
+        "한국에 로드스터가 필요한 이유",
+        "한국에 로드스터가 필요한 이유.mp4",
+        "한국에서 유용하게 쓸수있어 보이는 테슬라 로드스터의 장점"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-17T12:50:21.617054+00:00",
+      "collectedAt": "2026-10-17T21:50:21.617062+09:00",
+      "firstPublishedAt": "2026-10-17T12:50:21.641605+00:00"
+    },
+    {
       "id": "aagag-1662335-0",
       "url": "https://aagag.com/issue/?idx=1662335",
       "source": "애객",
@@ -8980,7 +9053,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
