@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-17/am.json",
+      "category": "정치·국회",
+      "change": "과방위 국정감사가 이진숙 의원의 제척 여부에 관한 여야 논쟁으로 중단됐고, 보도 시점까지 재개가 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-17T09:16:04+09:00",
+      "coveredOn": "2026-10-17",
+      "edition": "am",
+      "editionDate": "2026-10-17",
+      "editionId": "2026-10-17-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "뉴시스 보도는 16일 오후 6시 13분께 회의가 멈췄다고 전했습니다. 23시 30분까지 재개되지 않은 상태가 보도됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-17-am/assembly-ict-audit-recusal-dispute-2026-10-16",
+      "keyFacts": {
+        "재개 확인": "23:30까지 미확인",
+        "쟁점": "이진숙 의원 제척 여부",
+        "회의 중단": "2026-10-16 18:13경"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-16T23:50:55+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-16T23:50:55+09:00",
+          "title": "과방위 국감 ‘이진숙 제척’ 파행…여야 충돌 끝에 감사 중지",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829797",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "뉴스앤",
+          "publishedAt": "2026-10-17T06:54:00+09:00",
+          "title": "과방위 국정감사, 이진숙 제척 논란으로 중단",
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=97245",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "assembly-ict-audit-recusal-dispute-2026-10-16",
+      "summary": [
+        "국회 과학기술정보방송통신위원회의 국정감사가 이진숙 의원의 제척 여부를 둘러싼 논쟁 뒤 중단됐습니다. 17일 새벽 보도 시점까지 회의는 다시 열리지 않았지만, 회의 전체가 종료됐다고 단정할 수는 없습니다.",
+        "뉴시스에 따르면 회의는 16일 오후 6시 13분께 멈췄고 밤 11시 30분까지 재개되지 않았습니다. 여야는 감사 대상과 이해관계가 있는 의원의 참여 여부 및 회의 진행 권한을 두고 서로 다른 해석을 내놨습니다.",
+        "제척은 특정 안건에 이해관계가 있는 의원의 심의·의결 참여를 제한할지 판단하는 절차입니다. 어떤 안건과 범위에 적용되는지, 정회 뒤 의사 일정이 어떻게 정리되는지는 당사자들의 주장과 의사 기록을 함께 봐야 합니다.",
+        "국정감사는 정부·공공기관을 점검하는 국회의 핵심 절차입니다. 다음 회의에서 제척 여부와 감사 재개 방식이 정리되는지 확인해야 하며, 현재까지 확인된 것은 해당 쟁점으로 회의가 중단됐다는 사실입니다."
+      ],
+      "supersededBy": [],
+      "title": "과방위 국정감사, 이진숙 제척 논쟁으로 중단",
+      "uncertainty": "회의의 최종 종료 여부와 제척의 법적·의사 절차 판단은 후속 회의 및 공식 기록을 확인해야 합니다."
+    }
+  ],
+  "id": "assembly-ict-hearing-recusal-dispute-2026",
+  "schemaVersion": 1,
+  "title": "과방위 국정감사의 제척 논쟁과 회의 중단",
+  "updatedAt": "2026-10-17T09:16:04+09:00"
+}

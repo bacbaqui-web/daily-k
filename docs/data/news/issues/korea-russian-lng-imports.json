@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-17/am.json",
+      "category": "경제·에너지",
+      "change": "TASS가 관세청 자료를 인용해 9월 러시아산 LNG 수입이 32만6천t으로 2021년 11월 이후 최대였다고 전했습니다. 다만 1~9월 누계는 전년 동기보다 감소했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-17T09:16:04+09:00",
+      "coveredOn": "2026-10-17",
+      "edition": "am",
+      "editionDate": "2026-10-17",
+      "editionId": "2026-10-17-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 16일 보도된 관세청 자료 인용 수치이며, 집계 대상은 2026년 9월 수입입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-17-am/korea-russian-lng-imports-september-2026",
+      "keyFacts": {
+        "1~9월 러시아산 누계": "전년 동기 대비 -12.7%",
+        "9월 러시아산 LNG": "32만6천t",
+        "9월 수입액": "약 2억5천만 달러",
+        "9월 전체 LNG 수입": "356만t"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-16T23:12:40+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-16T23:12:40+09:00",
+          "title": "韓, 9월 러시아산 LNG 32.6만t 수입…2021년 11월來 최대",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829785",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-16T20:25:00+09:00",
+          "title": "한국, 9월 러시아산 LNG 수입 32만6천t…4년10개월 만에 최대",
+          "url": "https://www.yna.co.kr/view/AKR20261016171100108",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "korea-russian-lng-imports-september-2026",
+      "summary": [
+        "한국이 9월 러시아산 액화천연가스(LNG) 32만6천t을 수입해 2021년 11월 이후 가장 많은 월간 물량을 기록했다고 보도됐습니다. 이 수치는 TASS가 관세청 자료를 인용해 전한 내용입니다.",
+        "보도에 따르면 금액은 약 2억5천만 달러였습니다. 9월 한국의 전체 LNG 수입은 356만t으로 전년 동월보다 8% 줄고 전월보다 14% 늘었으며, 1~9월 러시아산 누계는 전년 같은 기간보다 12.7% 감소했습니다.",
+        "따라서 9월 한 달의 최고 물량만으로 러시아산 수입이 장기적으로 늘었다고 단정하기 어렵습니다. 월별 선적 시기와 전체 도입량이 달라질 수 있고, 이번 수치 자체도 TASS가 관세청 자료를 인용한 보도라는 출처 단계를 밝혀야 합니다.",
+        "에너지 가격과 공급 불안이 커진 상황에서 조달처별 물량은 수급과 외교·제재 조건을 함께 살필 지표입니다. 다음 달 통계와 연초 이후 누계가 어떻게 바뀌는지 확인할 필요가 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "한국의 9월 러시아산 LNG 수입 32.6만t…2021년 11월 이후 최대",
+      "uncertainty": "관세청 원자료를 직접 대조하지 않은 보도 인용 수치입니다. 월별 선적 편차와 수입 계약 조건은 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "korea-russian-lng-imports",
+  "schemaVersion": 1,
+  "title": "한국의 러시아산 LNG 수입 동향",
+  "updatedAt": "2026-10-17T09:16:04+09:00"
+}

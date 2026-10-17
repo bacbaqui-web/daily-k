@@ -60,10 +60,77 @@
       "supersededBy": [],
       "title": "유로존 9월 물가 3.8% 속보치…전월보다 0.6%포인트 높아져",
       "uncertainty": "속보치는 수정될 수 있습니다. 에너지·서비스 세부 수치는 매체 간 불일치로 제외했으며 통화정책 전망은 확정 사실이 아닙니다."
+    },
+    {
+      "briefingPath": "2026-10-17/am.json",
+      "category": "국제·경제",
+      "change": "9월 물가 속보치 3.8%가 확정치에서도 유지됐고, 월간 상승률과 에너지 기여분이 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-17T09:16:04+09:00",
+      "coveredOn": "2026-10-17",
+      "edition": "am",
+      "editionDate": "2026-10-17",
+      "editionId": "2026-10-17-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "유로스타트 확정 통계는 10월 16일 발표됐습니다. 실제 물가 집계 대상 기간은 2026년 9월입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "10월 2일에는 유로존 9월 연간 물가 3.8% 속보치와 8월 대비 상승을 다뤘습니다. 16일 확정치도 3.8%로 유지됐고 월간 +0.6%, 에너지 기여 1.71%포인트가 확인돼 속보 단계에서 확정 통계로 바뀌었습니다.",
+        "editionId": "2026-10-02-pm",
+        "storyId": "euro-area-cpi-2026-09-flash"
+      },
+      "id": "2026-10-17-am/euro-area-september-hicp-final-2026",
+      "keyFacts": {
+        "8월 연간 물가": "3.2%",
+        "9월 월간 물가": "+0.6%",
+        "에너지 기여": "1.71%p",
+        "유로존 9월 연간 물가": "3.8% 확정"
+      },
+      "previous": {
+        "editionId": "2026-10-02-pm",
+        "storyId": "euro-area-cpi-2026-09-flash"
+      },
+      "publishedAt": "2026-10-16T21:27:27+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-16T21:27:27+09:00",
+          "title": "유로존 9월 인플레 3.8% 확정…8월 3.2%에서↑",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829763",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "ko",
+          "name": "유럽연합 통계청(Eurostat)",
+          "publishedAt": "2026-10-16T18:00:00+09:00",
+          "title": "Annual inflation stable at 2.2% in the euro area",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "euro-area-september-hicp-final-2026",
+      "summary": [
+        "유로존의 9월 연간 소비자물가 상승률이 3.8%로 확정됐습니다. 속보치와 같았지만 8월의 3.2%보다 높아졌습니다.",
+        "유럽연합 통계청의 확정치에서 전월 대비 물가는 0.6% 올랐습니다. 에너지 항목이 연간 물가 상승률에 1.71%포인트 기여해, 최근 물가 반등에서 에너지 가격의 영향이 컸습니다.",
+        "국가별 연간 상승률은 독일 3.3%, 프랑스 3.4%, 이탈리아 4.2%, 스페인 5.0%로 달랐습니다. 따라서 유로존 전체 수치만으로 회원국별 생활비 부담이나 경기 상황이 같다고 볼 수는 없습니다.",
+        "이번 발표는 속보치가 확정치로 유지된 결과이며, 8월보다 물가 압력이 커진 흐름을 확인합니다. 유럽중앙은행의 다음 정책 판단에서는 에너지 가격이 계속 오를지와 물가 상승이 다른 품목으로 번지는지가 관건입니다."
+      ],
+      "supersededBy": [],
+      "title": "유로존 9월 물가 3.8% 확정…8월 3.2%보다 상승",
+      "uncertainty": "이번 통계만으로 중앙은행의 다음 결정이 정해지는 것은 아닙니다. 에너지 가격과 근원 물가의 다음 변화가 남아 있습니다."
     }
   ],
   "id": "euro-area-consumer-prices",
   "schemaVersion": 1,
   "title": "유로존 소비자물가와 에너지 부담",
-  "updatedAt": "2026-10-16T21:13:28+09:00"
+  "updatedAt": "2026-10-17T09:16:04+09:00"
 }

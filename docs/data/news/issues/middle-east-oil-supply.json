@@ -367,6 +367,83 @@
       "uncertainty": "각의 결정은 법률 시행과 다릅니다. 국회 통과 여부와 구체적인 지원 규모·조건은 확인되지 않았습니다."
     },
     {
+      "briefingPath": "2026-10-17/am.json",
+      "category": "경제·에너지",
+      "change": "WTI와 브렌트유가 각각 배럴당 101.41달러와 109.86달러로 정산됐고, 국내 석유 최고가격은 4주 더 동결됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-17T09:16:04+09:00",
+      "coveredOn": "2026-10-17",
+      "edition": "am",
+      "editionDate": "2026-10-17",
+      "editionId": "2026-10-17-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "국제유가는 미국 현지 10월 16일 선물 정산 기준이며, 한국 최고가격 동결은 10월 17일 0시부터 적용됩니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "10월 13일에는 일본의 원유 조달 다변화 법안 결정과 국회 절차가 주요 변화였습니다. 이번에는 국제유가가 WTI 101.41달러·브렌트 109.86달러로 정산되고, 한국이 국내 석유 최고가격을 4주 더 동결한 새 가격·정책 대응이 확인됐습니다.",
+        "editionId": "2026-10-13-pm",
+        "storyId": "japan-energy-import-diversification-bills-2026-10-13"
+      },
+      "id": "2026-10-17-am/oil-prices-surge-and-korea-cap-2026-10-17",
+      "keyFacts": {
+        "WTI 정산가": "배럴당 101.41달러",
+        "경유 최고가격": "리터당 1,773원, 4주 적용",
+        "브렌트 정산가": "배럴당 109.86달러",
+        "휘발유 최고가격": "리터당 1,784원, 4주 적용"
+      },
+      "previous": {
+        "editionId": "2026-10-13-pm",
+        "storyId": "japan-energy-import-diversification-bills-2026-10-13"
+      },
+      "publishedAt": "2026-10-17T03:59:36+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-17T03:59:36+09:00",
+          "title": "WTI, 100달러 돌파…브렌트유 110달러 육박",
+          "url": "https://www.newsis.com/view/NISX20261017_0003829812",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "이코노미블록",
+          "publishedAt": "2026-10-17T08:18:00+09:00",
+          "title": "브렌트유 5월 이후 첫 110달러…중동-우·러 불안 이어져",
+          "url": "https://economybloc.com/news/119204/",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-16T18:00:00+09:00",
+          "title": "정부, 석유 최고가격 4주 연장…휘발유 1784원·경유 1773원",
+          "url": "https://www.yna.co.kr/view/AKR20261016147400003",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "oil-prices-surge-and-korea-cap-2026-10-17",
+      "summary": [
+        "국제유가가 16일 큰 폭으로 올라 WTI 선물은 배럴당 101.41달러, 브렌트유는 109.86달러에 정산됐습니다. 한국 정부는 국내 석유 최고가격을 기존 수준으로 4주 더 유지했습니다.",
+        "이코노미블록은 CNBC 보도를 인용해 브렌트유가 장중 110달러를 기록한 뒤 전일보다 3.7% 오른 가격으로 마감했다고 전했습니다. WTI도 3.5% 올라 101.41달러에 정산됐으며, 주간 상승률은 WTI 10% 이상·브렌트 약 5%였습니다.",
+        "연합뉴스에 따르면 국내 최고가격은 휘발유 리터당 1,784원, 경유 1,773원, 등유 1,380원으로 동결돼 17일부터 4주간 적용됩니다. 국제 가격 급등분이 바로 국내 소비자 가격에 모두 반영되지 않도록 완충하지만, 장기화하면 정유·유통 단계의 비용 부담과 이후 조정 압력이 남습니다.",
+        "보도는 중동 긴장과 러시아 정유시설 관련 불안을 가격 상승 배경으로 들었습니다. 실제 공급 차질 규모와 국내 가격에 반영되는 시점은 확정되지 않았으므로 국제유가·환율·정부의 다음 고시를 함께 봐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "WTI 100달러·브렌트 110달러 근접…국내 석유가격 상한 4주 연장",
+      "uncertainty": "국제유가 상승이 국내 주유소 가격과 정부 재정 부담에 반영될 시점은 유가·환율 및 다음 고시를 봐야 합니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 50,
@@ -998,5 +1075,5 @@
   "id": "middle-east-oil-supply",
   "schemaVersion": 1,
   "title": "중동 원유 공급과 국제유가",
-  "updatedAt": "2026-10-16T21:13:28+09:00"
+  "updatedAt": "2026-10-17T09:16:04+09:00"
 }

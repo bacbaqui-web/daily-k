@@ -1,6 +1,181 @@
 {
-  "editionCount": 61,
+  "editionCount": 62,
   "issues": [
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 23,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "나스닥은 16일 2.1% 하락했고 주간 하락률은 4.5%로 확대됐습니다. AP는 S&P 500과 나스닥의 주간 성적이 6월 이후 가장 약했다고 집계했습니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "후속",
+        "storyId": "us-market-ai-selloff-2026-10-16",
+        "title": "미국 기술주 급락…나스닥 2.1% 하락, 주간 4.5%↓"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "경제·에너지",
+        "국제·에너지"
+      ],
+      "eventCount": 18,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "WTI와 브렌트유가 각각 배럴당 101.41달러와 109.86달러로 정산됐고, 국내 석유 최고가격은 4주 더 동결됐습니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "후속",
+        "storyId": "oil-prices-surge-and-korea-cap-2026-10-17",
+        "title": "WTI 100달러·브렌트 110달러 근접…국내 석유가격 상한 4주 연장"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "국내 정책·사회",
+        "국내 정치·사법"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "korea-supreme-court-appointment-conflict",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "민주당 지도부가 조희대 대법원장 탄핵 가능성을 포함해 여러 사안과 경로의 논의를 시작했다고 밝혔습니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "보도",
+        "storyId": "cho-hee-dae-impeachment-debate-2026-10-17",
+        "title": "민주당 지도부, 조희대 대법원장 탄핵 가능성 논의"
+      },
+      "path": "korea-supreme-court-appointment-conflict.json",
+      "title": "대법관 제청과 사법부·정부 갈등"
+    },
+    {
+      "categories": [
+        "경제·에너지"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-17T09:16:04+09:00",
+      "firstCoveredDate": "2026-10-17",
+      "id": "korea-russian-lng-imports",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "TASS가 관세청 자료를 인용해 9월 러시아산 LNG 수입이 32만6천t으로 2021년 11월 이후 최대였다고 전했습니다. 다만 1~9월 누계는 전년 동기보다 감소했습니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "보도",
+        "storyId": "korea-russian-lng-imports-september-2026",
+        "title": "한국의 9월 러시아산 LNG 수입 32.6만t…2021년 11월 이후 최대"
+      },
+      "path": "korea-russian-lng-imports.json",
+      "title": "한국의 러시아산 LNG 수입 동향"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-17T09:16:04+09:00",
+      "firstCoveredDate": "2026-10-17",
+      "id": "jt-bank-children-webtoon-education-2026",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "지역아동센터 아동들이 약 6개월간 제작한 4컷 웹툰 등 작품 20여점을 11월까지 전시하고 캐릭터를 영업점 안내물에도 활용할 예정입니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "발표",
+        "storyId": "jt-bank-children-webtoon-exhibit-2026-10-15",
+        "title": "지역아동센터 아이들이 만든 웹툰 20여점 전시"
+      },
+      "path": "jt-bank-children-webtoon-education-2026.json",
+      "title": "지역아동센터 아동의 웹툰 창작교육과 전시"
+    },
+    {
+      "categories": [
+        "국제·경제"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "firstCoveredDate": "2026-10-02",
+      "id": "euro-area-consumer-prices",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "9월 물가 속보치 3.8%가 확정치에서도 유지됐고, 월간 상승률과 에너지 기여분이 확인됐습니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "후속",
+        "storyId": "euro-area-september-hicp-final-2026",
+        "title": "유로존 9월 물가 3.8% 확정…8월 3.2%보다 상승"
+      },
+      "path": "euro-area-consumer-prices.json",
+      "title": "유로존 소비자물가와 에너지 부담"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "bucheon-metal-coating-factory-fire-2026",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "전날 심정지 상태였던 중상 소방관 한 명이 17일 치료 중 숨졌습니다. 현장 용기 180여 개가 위험물인지와 화재 연관성은 아직 조사 중입니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "후속",
+        "storyId": "bucheon-fire-fatality-2026-10-17",
+        "title": "부천 공장 화재 중상 소방관 사망…원인·위험물 조사 계속"
+      },
+      "path": "bucheon-metal-coating-factory-fire-2026.json",
+      "title": "부천 금속 도장공장 화재와 안전 조사"
+    },
+    {
+      "categories": [
+        "정치·국회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-17T09:16:04+09:00",
+      "firstCoveredDate": "2026-10-17",
+      "id": "assembly-ict-hearing-recusal-dispute-2026",
+      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
+      "lastCoveredDate": "2026-10-17",
+      "latest": {
+        "archive": false,
+        "change": "과방위 국정감사가 이진숙 의원의 제척 여부에 관한 여야 논쟁으로 중단됐고, 보도 시점까지 재개가 확인되지 않았습니다.",
+        "editionId": "2026-10-17-am",
+        "stage": "보도",
+        "storyId": "assembly-ict-audit-recusal-dispute-2026-10-16",
+        "title": "과방위 국정감사, 이진숙 제척 논쟁으로 중단"
+      },
+      "path": "assembly-ict-hearing-recusal-dispute-2026.json",
+      "title": "과방위 국정감사의 제척 논쟁과 회의 중단"
+    },
     {
       "categories": [
         "웹툰 산업"
@@ -149,27 +324,6 @@
       },
       "path": "hanwha-systems-hanwha-ocean-sale-2026.json",
       "title": "한화시스템의 한화오션 지분 처분"
-    },
-    {
-      "categories": [
-        "사회·안전"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
-      "firstCoveredDate": "2026-10-16",
-      "id": "bucheon-metal-coating-factory-fire-2026",
-      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
-      "lastCoveredDate": "2026-10-16",
-      "latest": {
-        "archive": false,
-        "change": "부천 금속 사출·인쇄 공장에서 난 불로 7명이 다쳤으며, 소방당국의 화재 원인·위험물·설비 조사가 남아 있습니다.",
-        "editionId": "2026-10-16-pm",
-        "stage": "발표",
-        "storyId": "bucheon-metal-coating-factory-fire-2026-10-16",
-        "title": "부천 금속 도장공장 화재로 7명 부상…소방관 2명 중상"
-      },
-      "path": "bucheon-metal-coating-factory-fire-2026.json",
-      "title": "부천 금속 도장공장 화재와 안전 조사"
     },
     {
       "categories": [
@@ -403,27 +557,6 @@
       },
       "path": "kang-sunwoo-election-bribery-trial.json",
       "title": "강선우·김경 공천헌금 사건 재판"
-    },
-    {
-      "categories": [
-        "국제·에너지"
-      ],
-      "eventCount": 17,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
-      "lastCoveredDate": "2026-10-13",
-      "latest": {
-        "archive": false,
-        "change": "일본 각의가 조달처 다변화와 추가 운송비 지원을 담은 법안 패키지를 결정했습니다. 법률 시행 여부는 국회 절차를 남겨 두고 있습니다.",
-        "editionId": "2026-10-13-pm",
-        "stage": "발표",
-        "storyId": "japan-energy-import-diversification-bills-2026-10-13",
-        "title": "일본, 원유 수입 다변화·운송비 지원 법안 각의 결정…국회 통과는 남아"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
     },
     {
       "categories": [
@@ -1182,31 +1315,6 @@
       },
       "path": "us-icc-sanctions.json",
       "title": "미국의 ICC 제재와 국제사회 대응"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·반도체"
-      ],
-      "eventCount": 22,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-10-10T08:35:23+09:00",
-      "lastCoveredDate": "2026-10-10",
-      "latest": {
-        "archive": false,
-        "change": "10월 8일 기술주·반도체 하락 뒤, 9일 정규장 3대 지수 상승 종가가 새로 확정됐습니다. 반도체지수는 하락을 이어갔습니다.",
-        "editionId": "2026-10-10-am",
-        "stage": "후속",
-        "storyId": "us-market-2026-10-09",
-        "title": "나스닥 0.64% 반등…3대 지수 상승에도 반도체는 0.41% 하락"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -2520,27 +2628,6 @@
     },
     {
       "categories": [
-        "국제·경제"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "firstCoveredDate": "2026-10-02",
-      "id": "euro-area-consumer-prices",
-      "lastCoveredAt": "2026-10-02T21:21:48+09:00",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "archive": false,
-        "change": "10월 2일 발표된 9월 속보치가 8월보다 높아졌습니다. 확정 통계나 ECB의 새 금리 결정은 아닙니다.",
-        "editionId": "2026-10-02-pm",
-        "stage": "발표",
-        "storyId": "euro-area-cpi-2026-09-flash",
-        "title": "유로존 9월 물가 3.8% 속보치…전월보다 0.6%포인트 높아져"
-      },
-      "path": "euro-area-consumer-prices.json",
-      "title": "유로존 소비자물가와 에너지 부담"
-    },
-    {
-      "categories": [
         "웹툰 산업"
       ],
       "eventCount": 1,
@@ -3231,27 +3318,6 @@
       },
       "path": "meta-muse-agent-2026.json",
       "title": "메타 뮤즈 AI 에이전트"
-    },
-    {
-      "categories": [
-        "국내 정책·사회"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "korea-supreme-court-appointment-conflict",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-28",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 조희대 대법원장 국감 증인 채택.",
-        "editionId": "2026-09-28-pm-archive",
-        "stage": "보도",
-        "storyId": "archive-05",
-        "title": "조희대 대법원장 국감 증인 채택"
-      },
-      "path": "korea-supreme-court-appointment-conflict.json",
-      "title": "대법관 제청과 사법부·정부 갈등"
     },
     {
       "categories": [
@@ -5061,7 +5127,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 465,
+  "storyCount": 473,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-16T21:13:28+09:00"
+  "updatedAt": "2026-10-17T09:16:04+09:00"
 }

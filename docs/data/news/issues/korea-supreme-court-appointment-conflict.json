@@ -1,6 +1,68 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-10-17/am.json",
+      "category": "국내 정치·사법",
+      "change": "민주당 지도부가 조희대 대법원장 탄핵 가능성을 포함해 여러 사안과 경로의 논의를 시작했다고 밝혔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-17T09:16:04+09:00",
+      "coveredOn": "2026-10-17",
+      "edition": "am",
+      "editionDate": "2026-10-17",
+      "editionId": "2026-10-17-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "관련 발언은 10월 16일 나온 것으로 보도됐습니다. 논의가 시작된 정확한 시각은 공개 기사에서 특정하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-17-am/cho-hee-dae-impeachment-debate-2026-10-17",
+      "keyFacts": {
+        "당론 확정": "확인되지 않음",
+        "민주당 지도부": "모든 사안·방법·경로 논의 시작",
+        "소추안 발의": "확인되지 않음"
+      },
+      "previous": {
+        "editionId": "2026-09-28-pm-archive",
+        "storyId": "archive-05"
+      },
+      "publishedAt": "2026-10-17T06:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-17T06:00:00+09:00",
+          "title": "與, 조희대 탄핵 논의 공식화…역풍 우려 신중론도, 실행 여부 주목",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829504",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-10-16T14:29:00+09:00",
+          "title": "김민석 조희대 탄핵 논의 공식화…여당 일각 우려 속 야당 반발",
+          "url": "https://www.news1.kr/politics/assembly/6322496",
+          "verifiedAt": "2026-10-17T09:16:04+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "cho-hee-dae-impeachment-debate-2026-10-17",
+      "summary": [
+        "더불어민주당 지도부가 조희대 대법원장에 대한 탄핵을 포함해 가능한 사안과 절차를 논의하고 있다고 밝혔습니다. 현재 확인되는 것은 논의 공식화이며 탄핵소추안 발의나 당론 확정은 아닙니다.",
+        "뉴시스는 김민석 대표가 16일 모든 사안·방법·경로를 놓고 논의를 시작했다고 밝힌 뒤, 여당 내부에서도 역풍과 탄핵 사유의 적절성을 우려하는 목소리가 있다고 보도했습니다. 조국혁신당은 추진에 동참할 것을 요구했습니다.",
+        "대법관 재제청을 둘러싼 행정부와 사법부의 갈등이 탄핵 논의의 배경으로 제시됐습니다. 탄핵은 국회 의결과 헌법재판 절차가 필요한 중대한 조치라 실제 추진 여부와 근거가 구체화되는지가 다음 단계입니다.",
+        "야당은 탄핵 논의에 강하게 반발하고 있습니다. 정당 지도부의 발언과 공식 발의·표결은 서로 다른 단계이므로, 후속 보도에서 당론 결정이나 실제 절차가 확인되기 전까지 확정된 추진으로 표현하지 않습니다."
+      ],
+      "supersededBy": [],
+      "title": "민주당 지도부, 조희대 대법원장 탄핵 가능성 논의",
+      "uncertainty": "탄핵소추안 발의·당론 채택·표결 일정은 확인되지 않았으며 여당 내부에도 신중론이 있습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 206,
@@ -153,5 +215,5 @@
   "id": "korea-supreme-court-appointment-conflict",
   "schemaVersion": 1,
   "title": "대법관 제청과 사법부·정부 갈등",
-  "updatedAt": "2026-10-16T21:13:28+09:00"
+  "updatedAt": "2026-10-17T09:16:04+09:00"
 }
