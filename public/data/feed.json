@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-17",
-  "collectedAt": "2026-10-17T13:04:15.232663+00:00",
+  "collectedAt": "2026-10-17T13:05:19.430860+00:00",
   "windowEnd": "2026-10-17T22:04:15.189652+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6172,6 +6172,55 @@
       "firstPublishedAt": "2026-10-17T02:17:45.481389+00:00"
     },
     {
+      "id": "aagag-1662573-0",
+      "url": "https://aagag.com/issue/?idx=1662573",
+      "source": "애객",
+      "title": "너무 닮아서 DNA 검사까지 한 미국 야구선수",
+      "publishedAt": "2026-10-17T21:52:21+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L0za3.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L0za3.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 15,
+      "kPerComment": 7.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8859466",
+          "text": "이름 불러서 구분하는 방법까지 막혀 있음ㅋㅋ"
+        },
+        {
+          "id": "8859482",
+          "text": "이것이 성명학? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-17T22:05:05.627093+09:00",
+      "sourceTitles": [
+        "너무 닮아서 DNA 검사까지 한 미국 야구선수.jpg",
+        "너무 닮아서 DNA 검사까지 함",
+        "너무 닮아서 DNA 검사까지 한 미국 야구선수",
+        "너무 닮아서 DNA 검사까지 한 미국 야구선수"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-17T13:05:19.403746+00:00",
+      "collectedAt": "2026-10-17T22:05:19.403776+09:00",
+      "firstPublishedAt": "2026-10-17T13:05:19.445737+00:00"
+    },
+    {
       "id": "aagag-1126225-1",
       "url": "https://aagag.com/issue/?idx=1126225_1",
       "source": "애객",
@@ -8856,7 +8905,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
