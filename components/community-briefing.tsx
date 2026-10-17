@@ -29,7 +29,7 @@ function TaggedPreview({story}:{story:Story}){
  </span>
 }
 function Image({url,title}:{url?:string|null;title:string}){const [failed,setFailed]=useState(false);return url&&!failed?<img className="community-image" src={url} alt={title} loading="lazy" referrerPolicy="no-referrer" onError={()=>setFailed(true)}/>:null}
-function Video({story}:{story:Story}){const [failed,setFailed]=useState(false);return failed?<p className="community-media-error">영상을 불러오지 못했습니다. 아래 원본 링크에서 확인해 주세요.</p>:<video className="community-video" controls playsInline preload="metadata" src={story.videoUrl!} poster={story.videoPosterUrl||undefined} aria-label={story.title} onError={()=>setFailed(true)}/>}
+function Video({story}:{story:Story}){const [failed,setFailed]=useState(false);return failed?<p className="community-media-error">영상을 불러오지 못했습니다. 아래 원본 링크에서 확인해 주세요.</p>:<video className="community-video" controls autoPlay muted playsInline preload="metadata" src={story.videoUrl!} poster={story.videoPosterUrl||undefined} aria-label={story.title} onError={()=>setFailed(true)}/>}
 const sourceColors=['#476ca8','#6b8535','#ac596a','#9565ab','#ae7137','#36867c','#777eb5','#ad6554'];
 function SourceGraph({story}:{story:Story}){
  const counts=story.sourceBreakdown?.length?story.sourceBreakdown:null;
