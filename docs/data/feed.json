@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-18",
-  "collectedAt": "2026-10-17T22:43:01.338942+00:00",
+  "collectedAt": "2026-10-17T22:43:54.688260+00:00",
   "windowEnd": "2026-10-18T07:43:01.298618+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8303,6 +8303,118 @@
       "firstPublishedAt": "2026-10-17T02:42:38.451085+00:00"
     },
     {
+      "id": "aagag-1662633-0",
+      "url": "https://aagag.com/issue/?idx=1662633",
+      "source": "애객",
+      "title": "파인 데다가 묵직한 무빙까지 트리플에스 김채연",
+      "publishedAt": "2026-10-18T07:32:19+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0XkM.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0XjN.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0XjT.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0XjZ.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0Xjf.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0Xjl.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0Xjr.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L0XkM.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L0XjN.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L0XjT.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L0XjZ.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L0Xjf.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L0Xjl.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L0Xjr.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8860385",
+          "text": "그대가 1황 드세요"
+        },
+        {
+          "id": "8860386",
+          "text": "아무나 뎀벼 이 껌딱지들아"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-18T07:43:46.622058+09:00",
+      "sourceTitles": [
+        "순백색 의상 트리플에스 김채연",
+        "파인 데다가 묵직한 무빙까지 트리플에스 김채연",
+        "ㅇㅎ?) 김채연 최근 콘서트...gif"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-10-17T22:43:54.667662+00:00",
+      "collectedAt": "2026-10-18T07:43:54.667674+09:00",
+      "firstPublishedAt": "2026-10-17T22:43:54.696132+00:00"
+    },
+    {
       "id": "aagag-1662515-0",
       "url": "https://aagag.com/issue/?idx=1662515",
       "source": "애객",
@@ -8450,7 +8562,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
