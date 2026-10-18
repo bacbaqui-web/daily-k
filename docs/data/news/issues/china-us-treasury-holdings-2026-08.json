@@ -1,0 +1,77 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/am.json",
+      "category": "경제·국제",
+      "change": "중국의 미국 국채 보유 잔액이 7월보다 273억달러 줄어든 5,907억달러로 집계됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T09:08:05+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "am",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "미 재무부의 8월 보유 통계가 10월 16일 발표됐다고 보도됐으며, 발표 시각은 확인하지 못했습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-18-am/china-us-treasury-holdings-2026-08",
+      "keyFacts": {
+        "7월 대비": "273억달러 감소",
+        "미 국채 외국 전체 보유액": "9조3,317억달러",
+        "중국 8월 보유액": "5,907억달러"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-17T21:39:09+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-17T21:39:09+09:00",
+          "title": "中, 美국채 보유액 5907억달러…2008년 이후 최저",
+          "url": "https://nwww.newsis.com/view/NISX20261017_0003830138",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "en",
+          "name": "사우스차이나모닝포스트",
+          "publishedAt": "2026-10-17T15:00:00+09:00",
+          "title": "China cuts US Treasury holdings to 18-year low in August as American debt fears mount",
+          "url": "https://www.scmp.com/economy/china-economy/article/3371237/china-cuts-us-treasury-holdings-18-year-low-august-american-debt-fears-mount",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "official",
+          "language": "en",
+          "name": "미국 재무부 TIC",
+          "publishedAt": null,
+          "title": "Major Foreign Holders of Treasury Securities",
+          "url": "https://ticdata.treasury.gov/Publish/slt_table5.html",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "china-us-treasury-holdings-2026-08",
+      "summary": [
+        "미국 재무부의 8월 통계에서 중국이 보유한 미국 국채 잔액이 5,907억달러로 집계됐습니다. 2008년 8월 이후 가장 낮은 수준입니다.",
+        "뉴시스와 사우스차이나모닝포스트가 미 재무부 자료를 인용해 보도한 수치입니다. 중국 보유액은 7월 6,180억달러에서 273억달러 줄었고, 일본도 같은 달 보유 잔액을 축소했습니다.",
+        "반면 외국 전체의 미 국채 보유액은 7월 9조2,484억달러에서 8월 9조3,317억달러로 늘었습니다. 중국의 감소만으로 해외 투자자 전반이 미국 국채에서 이탈한다고 해석하기는 어렵습니다.",
+        "미 국채 수급과 중국의 외환보유 전략을 살필 자료지만, 월별 잔액에는 평가·보관 변화가 반영될 수 있습니다. 재무부 표는 보유 잔액을 보여줄 뿐, 각국의 거래 동기까지 설명하지 않습니다."
+      ],
+      "supersededBy": [],
+      "title": "중국의 미국 국채 보유액 5,907억달러…18년 만의 저점",
+      "uncertainty": "잔액 변화만으로 실제 매도 규모와 보유국별 정책 의도를 단정할 수 없습니다. 환율·가격 평가와 보관 위치 변동도 잔액에 영향을 줄 수 있습니다."
+    }
+  ],
+  "id": "china-us-treasury-holdings-2026-08",
+  "schemaVersion": 1,
+  "title": "중국의 미국 국채 보유액 5,907억달러…18년 만의 저점",
+  "updatedAt": "2026-10-18T09:08:05+09:00"
+}

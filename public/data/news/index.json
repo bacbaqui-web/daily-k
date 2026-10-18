@@ -2,6 +2,16 @@
   "editions": [
     {
       "count": 8,
+      "cutoffAt": "2026-10-18T09:00:00+09:00",
+      "date": "2026-10-18",
+      "edition": "am",
+      "generatedAt": "2026-10-18T09:08:05+09:00",
+      "headline": "A형 혈액 재고 1.9일분…혈액 수급 위기 기준 밑돌아",
+      "id": "2026-10-18-am",
+      "path": "2026-10-18/am.json"
+    },
+    {
+      "count": 8,
       "cutoffAt": "2026-10-17T09:00:00+09:00",
       "date": "2026-10-17",
       "edition": "am",
@@ -658,5 +668,5 @@
   ],
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-10-17T09:16:04+09:00"
+  "updatedAt": "2026-10-18T09:08:05+09:00"
 }

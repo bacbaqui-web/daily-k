@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/am.json",
+      "category": "국제·사회",
+      "change": "프랑스 정부 집계 55만명, 주최 측 추산 80만명으로 시위 규모가 엇갈렸습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T09:08:05+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "am",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-am",
+      "eventAt": null,
+      "eventDate": "2026-10-17",
+      "eventEndDate": null,
+      "eventTimeNote": "시위는 10월 17일 프랑스 현지에서 열렸으며, 보도에 나온 집계는 당국과 주최 측 추산입니다.",
+      "eventTimezone": "Europe/Paris",
+      "followUp": null,
+      "id": "2026-10-18-am/france-cost-of-living-protests-2026-10-17",
+      "keyFacts": {
+        "내무부 집계": "55만명(파리 11만명 포함)",
+        "시위 날짜": "2026-10-17",
+        "주최 측 집계": "약 80만명"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-18T06:38:51+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-18T06:38:51+09:00",
+          "title": "프랑스 전역서 생활비 항의 시위…당국 55만명·주최측 80만명",
+          "url": "https://www.newsis.com/view/NISX20261018_0003830169",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "en",
+          "name": "AP",
+          "publishedAt": "2026-10-17T18:18:36+09:00",
+          "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+          "url": "https://apnews.com/article/44b9d3ba91ffad4029f975dced7e31cb",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "france-cost-of-living-protests-2026-10-17",
+      "summary": [
+        "프랑스에서 생활비와 연료비 부담 등에 항의하는 전국 시위가 열렸습니다. 정부와 주최 측이 발표한 참가 규모는 달랐습니다.",
+        "뉴시스와 AP에 따르면 프랑스 내무부는 전국 110곳의 행진에 약 55만명이 참가했고 파리에는 11만명이 모였다고 집계했습니다. 노조 등 주최 측은 전국 참가자를 약 80만명으로 추산했습니다.",
+        "시위에는 학생과 노동조합 등이 참여했으며, 생활비 상승과 연료 가격, 학교 여건에 대한 불만이 함께 제기됐습니다. 두 숫자는 조사 방법과 집계 시점이 달라 단순 비교에 한계가 있습니다.",
+        "정부가 연료비 영향을 받는 산업 지원을 연장했지만 생활비 불만이 계속됐다는 보도도 나왔습니다. 시위 이후 정부가 어떤 정책 조치를 내놓을지는 아직 정해지지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명",
+      "uncertainty": "참가 인원은 집계 주체별 추산이며, 시위가 정부 정책 변화로 이어질지는 확인되지 않았습니다."
+    }
+  ],
+  "id": "france-cost-of-living-protests-2026-10-17",
+  "schemaVersion": 1,
+  "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명",
+  "updatedAt": "2026-10-18T09:08:05+09:00"
+}

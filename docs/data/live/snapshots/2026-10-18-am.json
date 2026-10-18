@@ -1,0 +1,741 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-10-18T09:08:10.726235+09:00",
+  "id": "2026-10-18-am",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-10-18T09:00:00+09:00",
+      "date": "2026-10-18",
+      "edition": "am",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-10-18",
+          "detail": "기상청 05시 예보는 충남에서 오전 중 비가 확대되고 늦은 밤까지 이어질 수 있다고 봤습니다. 대전·세종·충남 예상 강수량은 30~80mm이며 돌풍·천둥·번개에 유의해야 합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "기상청",
+            "publishedAt": "2026-10-18T05:00:00+09:00",
+            "title": "2026년 10월 18일 05시 예보 통보문",
+            "url": "https://www.weather.go.kr/w/forecast/notice.do?stnId=133",
+            "verifiedAt": "2026-10-18T09:08:05+09:00"
+          },
+          "timeNote": "충남 비는 06~09시 시작해 09~12시 대부분 지역으로 확대, 21~24시까지 간헐적으로 이어질 전망입니다. 기상청 예보이므로 실제 강수량은 달라질 수 있습니다.",
+          "title": "충남권 강한 비·돌풍 예보"
+        },
+        {
+          "at": "2026-10-18T14:00:00+09:00",
+          "date": "2026-10-18",
+          "detail": "KBO 준플레이오프 2차전 LG 트윈스와 KIA 타이거즈 경기가 광주기아챔피언스필드에서 열릴 예정입니다. 우천이나 경기 운영 변경 여부는 당일 공식 안내를 확인해야 합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "NOL 티켓",
+            "publishedAt": null,
+            "title": "2026 KBO 포스트시즌 준플레이오프 경기 일정",
+            "url": "https://nol.yanolja.com/ticket/genre/sports/postseason",
+            "verifiedAt": "2026-10-18T09:08:05+09:00"
+          },
+          "timeNote": "NOL 포스트시즌 경기 안내 기준 한국시간입니다.",
+          "title": "KBO 준플레이오프 2차전 LG-KIA"
+        },
+        {
+          "at": null,
+          "date": "2026-10-18",
+          "detail": "대한체육회 일정상 제107회 전국체육대회가 제주에서 진행 중입니다. 종목별 경기 시간과 장소는 대회 공식 일정을 확인해야 합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "대한체육회",
+            "publishedAt": "2026-10-15T10:27:00+09:00",
+            "title": "제107회 전국체육대회 개최 안내",
+            "url": "https://www.sports.or.kr/sports/bbs/BMSR00001/view.do?boardId=73182&menuNo=200024",
+            "verifiedAt": "2026-10-18T09:08:05+09:00"
+          },
+          "timeNote": "대회 기간은 10월 16~22일이며 종목별 시작 시각은 별도 일정표를 확인해야 합니다.",
+          "title": "제107회 전국체육대회 제주 경기"
+        },
+        {
+          "at": null,
+          "date": "2026-10-18",
+          "detail": "국립김해박물관 제9회 가야 웹툰 공모전 접수 마감일입니다. 접수 마감 시각은 공지에 명시되지 않아 공식 접수 페이지에서 확인해야 합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "official",
+            "language": "ko",
+            "name": "국립김해박물관",
+            "publishedAt": null,
+            "title": "제9회 가야 웹툰 공모전 접수 안내",
+            "url": "https://gimhae.museum.go.kr/kr/html/sub04/0401.html?GotoPage=1&mode=V&no=8d7eaa8f69a19b715a93e956f0ded49d",
+            "verifiedAt": "2026-10-18T09:08:05+09:00"
+          },
+          "timeNote": "공식 공지에 접수 기간이 10월 12~18일로 안내됐지만 18일의 마감 시각은 확인되지 않았습니다.",
+          "title": "제9회 가야 웹툰 공모전 접수 마감"
+        }
+      ],
+      "generatedAt": "2026-10-18T09:08:05+09:00",
+      "id": "2026-10-18-am",
+      "intro": "밤사이 국제 경제와 국내 보건·지역의료 소식을 중심으로, AI 메모리 경쟁과 웹툰 플랫폼·창작 지원까지 살펴봅니다.",
+      "keywords": [],
+      "overview": [
+        "프랑스에서는 생활비·연료비와 교육 여건에 대한 항의 시위가 전국으로 확산됐습니다. 참가 규모는 당국 55만명과 주최 측 80만명으로 엇갈려, 집계 주체와 이후 정책 대응을 구분해 볼 필요가 있습니다.",
+        "중국의 미국 국채 보유 잔액은 18년 만의 저점으로 내려갔지만 외국 전체 보유액은 증가했습니다. CXMT는 3분기 매출 급증을 전망했으나 아직 예고치이며, 일본은행 총재의 발언도 다음 인상 시점을 확정한 것은 아닙니다.",
+        "국내에서는 A형 혈액 재고가 경계 기준 아래였다는 보도와 국립대병원별 AI 지원 배정 차이가 나왔습니다. 웹툰 분야는 최근 72시간 내 확인된 카카오페이지 신작 성과와 장애인 창작교육 사례를 담았으며, 조회수·지역 행사만으로 산업 전체의 추세를 단정하지 않습니다."
+      ],
+      "overviewEmphasis": [
+        "당국 55만명과 주최 측 80만명",
+        "중국의 미국 국채 보유 잔액은 18년 만의 저점",
+        "CXMT는 3분기 매출 급증을 전망했으나 아직 예고치",
+        "A형 혈액 재고가 경계 기준 아래"
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회·보건",
+          "emphasis": [
+            "3,370단위, 1.9일분으로 집계",
+            "전체 적혈구 재고는 2.8일분"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "기사에 인용된 혈액 재고는 10월 16일 기준이며, 기사 등록은 10월 18일 오전입니다.",
+          "factsHash": "c20461ebd182388a81bda11b07c68dd30ad1ec0936fe0a27503a1eda277cd121",
+          "fallbackNote": null,
+          "id": "korea-blood-supply-2026-10-16",
+          "keyFacts": {
+            "A형 재고 일수": "1.9일분",
+            "A형 적혈구 재고": "3,370단위",
+            "전체 적혈구 재고": "2.8일분"
+          },
+          "publishedAt": "2026-10-18T08:02:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-18T08:02:00+09:00",
+              "title": "A형 혈액 재고 1.9일분…수급 위기 기준 밑돌아",
+              "url": "https://www.newsis.com/view/NISX20261016_0003829523",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 91.2,
+          "scoreComponents": {
+            "domesticImpact": 93,
+            "importance": 88,
+            "interest": 74,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "A형 적혈구 재고가 3,370단위, 1.9일분으로 집계돼 2일분인 경계 기준보다 낮았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-18T08:02:00+09:00",
+              "title": "A형 혈액 재고 1.9일분…수급 위기 기준 밑돌아",
+              "url": "https://www.newsis.com/view/NISX20261016_0003829523",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "A형 적혈구 재고가 10월 16일 기준 3,370단위, 1.9일분으로 집계됐다는 보도가 나왔습니다. 보도된 기준으로는 혈액 수급 경계선인 2일분을 밑돕니다.",
+            "뉴시스는 국회에 제출된 대한적십자사 자료를 인용해 A형 재고가 1.9일분이었다고 전했습니다. 같은 시점 전체 적혈구 재고는 2.8일분으로 집계됐습니다.",
+            "혈액형별 재고는 전체 평균과 다르게 움직일 수 있습니다. 전체 재고가 2.8일분이라는 수치가 A형 수급 우려를 해소하는 것은 아닙니다.",
+            "이번 수치는 10월 16일의 재고 상태이므로 현재 잔량을 뜻하지는 않습니다. 이후 헌혈 유입과 의료기관 사용량에 따라 달라질 수 있어 최신 혈액관리 자료를 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "A형 적혈구 재고가 3,370단위, 1.9일분으로 집계돼 2일분인 경계 기준보다 낮았습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-blood-stock-2026-10",
+            "issueTitle": "A형 혈액 재고 1.9일분…혈액 수급 위기 기준 밑돌아",
+            "stage": "보도"
+          },
+          "title": "A형 혈액 재고 1.9일분…혈액 수급 위기 기준 밑돌아",
+          "topicKey": "korea-blood-stock-2026-10",
+          "uncertainty": "재고 수치는 10월 16일 기준 스냅샷이며 이후 헌혈과 사용량에 따라 바뀔 수 있습니다. 전체 혈액 재고와 A형 재고를 혼동하지 않아야 합니다.",
+          "whatChanged": "A형 적혈구 재고가 3,370단위, 1.9일분으로 집계돼 2일분인 경계 기준보다 낮았습니다.",
+          "whyItMatters": "혈액형별 재고는 수술·응급진료 대응 여력을 가늠하는 지표여서 특정 혈액형 부족을 조기에 알릴 필요가 있습니다."
+        },
+        {
+          "category": "국내 정책·보건",
+          "emphasis": [
+            "AI 진료지원 시스템 지원액이 0원",
+            "다른 진료 지원까지 없다는 뜻은 아닙니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "국회의원이 복지부 자료를 분석해 공개한 내용을 10월 18일 보도했습니다.",
+          "factsHash": "4b3cc1c1c726ed339ccabef19fde5e91412ada80e1eace799328363b39344801",
+          "fallbackNote": null,
+          "id": "national-hospital-support-disparity-2026-10",
+          "keyFacts": {
+            "일부 분원 AI 사업 배정": "0원",
+            "자료 기준": "2026년 배정액",
+            "칠곡경북대병원 등 지원 사례": "최대 67억6,300만원(보도된 사업 합계)"
+          },
+          "publishedAt": "2026-10-18T08:01:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-18T08:01:00+09:00",
+              "title": "국립대병원 지역의료 지원 격차…일부 분원 AI 예산은 0원",
+              "url": "https://www.newsis.com/view/NISX20261017_0003829950",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 90.95,
+          "scoreComponents": {
+            "domesticImpact": 92,
+            "importance": 85,
+            "interest": 78,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "2026년 국립대병원 지역의료 역량·AI 진료지원 예산에서 기관별 배정 차이가 확인됐고 일부 분원은 AI 항목 배정액이 0원으로 보도됐습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-18T08:01:00+09:00",
+              "title": "국립대병원 지역의료 지원 격차…일부 분원 AI 예산은 0원",
+              "url": "https://www.newsis.com/view/NISX20261017_0003829950",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "국립대병원의 지역의료 관련 사업 예산이 기관별로 다르고, 일부 분원은 AI 진료지원 시스템 지원액이 0원이었다는 분석이 보도됐습니다.",
+            "뉴시스는 허종식 의원이 보건복지부 자료를 분석한 결과를 전했습니다. 보도상 칠곡경북대병원은 지역의료 역량 강화와 AI 관련 지원을 합쳐 67억6,300만원을 배정받은 사례로 제시됐습니다.",
+            "여기서 0원은 분원에 배정된 AI 시스템 사업 항목을 가리킵니다. 병원의 전체 예산이나 다른 진료 지원까지 없다는 뜻은 아닙니다.",
+            "배정 차이가 곧 진료 성과 차이로 이어졌는지는 이 자료만으로 판단할 수 없습니다. 사업별 선정 기준과 실제 시스템 도입·이용 결과가 후속 확인 대상입니다."
+          ],
+          "timeline": {
+            "change": "2026년 국립대병원 지역의료 역량·AI 진료지원 예산에서 기관별 배정 차이가 확인됐고 일부 분원은 AI 항목 배정액이 0원으로 보도됐습니다.",
+            "eventDate": "2026-10-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "national-university-hospital-support-allocation-2026",
+            "issueTitle": "국립대병원 지원액 차이…일부 분원 AI 시스템 예산 0원",
+            "stage": "보도"
+          },
+          "title": "국립대병원 지원액 차이…일부 분원 AI 시스템 예산 0원",
+          "topicKey": "national-university-hospital-support-allocation-2026",
+          "uncertainty": "보도는 국회의원의 자료 분석을 전달한 것으로, 0원은 해당 AI 사업 항목에 대한 배정액을 뜻합니다. 병원의 전체 예산이나 모든 지원이 0원이라는 뜻은 아닙니다.",
+          "whatChanged": "2026년 국립대병원 지역의료 역량·AI 진료지원 예산에서 기관별 배정 차이가 확인됐고 일부 분원은 AI 항목 배정액이 0원으로 보도됐습니다.",
+          "whyItMatters": "지역의료 역량 강화와 AI 지원 사업이 병원·분원별로 어떻게 배분되는지는 지역 환자의 진료 기반과 정책 효과를 판단하는 데 중요합니다."
+        },
+        {
+          "category": "반도체·중국",
+          "emphasis": [
+            "589~619% 늘 것으로 전망",
+            "회사가 제시한 예고치"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "CXMT가 중국 현지 10월 16일 실적 예고를 냈다고 보도됐으며 정확한 발표 시각은 확인되지 않았습니다.",
+          "factsHash": "d824825328cbee428d93ab3f1090e1c04f0392a5be6bfcc3b56050c969b4e963",
+          "fallbackNote": null,
+          "id": "cxmt-q3-revenue-guidance-2026",
+          "keyFacts": {
+            "3분기 매출 전망": "1,147억~1,197억위안",
+            "자사주 매입 제안": "10억~20억위안 규모",
+            "전년 동기 대비 전망": "589~619% 증가"
+          },
+          "publishedAt": "2026-10-17T22:35:29+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-17T13:07:00+09:00",
+              "title": "CXMT, 3분기 매출 600%대 급증 전망…최대 4천억원 자사주 매입",
+              "url": "https://www.yna.co.kr/view/AKR20261017027300089",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 88.75,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 93,
+            "interest": 96,
+            "recency": 82,
+            "reliability": 92
+          },
+          "scoreReason": "CXMT가 3분기 매출을 전년 동기 대비 589~619% 늘어난 것으로 예상했으며, 이는 확정 실적이 아니라 회사 전망입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-17T22:35:29+09:00",
+              "title": "中창신메모리, 3Q 매출 600% 폭증 전망…최대 4000억원 자사주 매입",
+              "url": "https://www.newsis.com/view/NISX20261017_0003830135",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-17T13:07:00+09:00",
+              "title": "CXMT, 3분기 매출 600%대 급증 전망…최대 4천억원 자사주 매입",
+              "url": "https://www.yna.co.kr/view/AKR20261017027300089",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "중국 메모리업체 CXMT가 3분기 매출이 전년 동기보다 589~619% 늘 것으로 전망했습니다. 실적 발표가 아니라 회사가 제시한 예고치입니다.",
+            "뉴시스와 연합뉴스에 따르면 CXMT는 매출을 1,147억~1,197억위안으로 추산했습니다. 회사는 AI 컴퓨팅 수요와 D램 공급 부족, 생산시설 확충과 공정 개선을 배경으로 들었습니다.",
+            "회장 측은 10억~20억위안 규모의 자사주 매입을 제안했습니다. 이는 추진 계획으로 보도됐으며, 실제 매입 완료로 확인된 것은 아닙니다.",
+            "성장률이 크게 제시됐지만 국내 기업과의 경쟁력 비교에는 제품 성능, 수율, 고객 인증, 실제 출하량이 함께 필요합니다. 최종 분기 실적과 자사주 매입 진행 여부를 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "CXMT가 3분기 매출을 전년 동기 대비 589~619% 늘어난 것으로 예상했으며, 이는 확정 실적이 아니라 회사 전망입니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Shanghai",
+            "issueId": "cxmt-q3-revenue-guidance-2026",
+            "issueTitle": "CXMT 3분기 매출 589~619% 증가 전망…실적은 아직 미확정",
+            "stage": "예정"
+          },
+          "title": "CXMT 3분기 매출 589~619% 증가 전망…실적은 아직 미확정",
+          "topicKey": "cxmt-q3-revenue-guidance-2026",
+          "uncertainty": "실적은 예고치이며 확정 공시 전입니다. 4F² 서버 D램 출시와 고객 인증·수율 등 기술 경쟁력은 기사에서 확인된 사실과 구분해야 합니다.",
+          "whatChanged": "CXMT가 3분기 매출을 전년 동기 대비 589~619% 늘어난 것으로 예상했으며, 이는 확정 실적이 아니라 회사 전망입니다.",
+          "whyItMatters": "AI 서버 수요와 메모리 공급 부족이 중국 업체의 성장 및 국내 메모리 기업 경쟁 환경에 어떤 영향을 주는지 살펴볼 신호입니다."
+        },
+        {
+          "category": "국제·사회",
+          "emphasis": [
+            "약 55만명이 참가",
+            "약 80만명으로 추산"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "시위는 10월 17일 프랑스 현지에서 열렸으며, 보도에 나온 집계는 당국과 주최 측 추산입니다.",
+          "factsHash": "bdb7565ee66c13e366820e6c9d556d83ddc157e12176215517cdc90af96bd756",
+          "fallbackNote": null,
+          "id": "france-cost-of-living-protests-2026-10-17",
+          "keyFacts": {
+            "내무부 집계": "55만명(파리 11만명 포함)",
+            "시위 날짜": "2026-10-17",
+            "주최 측 집계": "약 80만명"
+          },
+          "publishedAt": "2026-10-18T06:38:51+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "en",
+              "name": "AP",
+              "publishedAt": "2026-10-17T18:18:36+09:00",
+              "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+              "url": "https://apnews.com/article/44b9d3ba91ffad4029f975dced7e31cb",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 88.5,
+          "scoreComponents": {
+            "domesticImpact": 55,
+            "importance": 88,
+            "interest": 78,
+            "recency": 100,
+            "reliability": 93
+          },
+          "scoreReason": "프랑스 정부 집계 55만명, 주최 측 추산 80만명으로 시위 규모가 엇갈렸습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-18T06:38:51+09:00",
+              "title": "프랑스 전역서 생활비 항의 시위…당국 55만명·주최측 80만명",
+              "url": "https://www.newsis.com/view/NISX20261018_0003830169",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "en",
+              "name": "AP",
+              "publishedAt": "2026-10-17T18:18:36+09:00",
+              "title": "Clashes, fires and looting break out as protesters rally across France, joining students",
+              "url": "https://apnews.com/article/44b9d3ba91ffad4029f975dced7e31cb",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "프랑스에서 생활비와 연료비 부담 등에 항의하는 전국 시위가 열렸습니다. 정부와 주최 측이 발표한 참가 규모는 달랐습니다.",
+            "뉴시스와 AP에 따르면 프랑스 내무부는 전국 110곳의 행진에 약 55만명이 참가했고 파리에는 11만명이 모였다고 집계했습니다. 노조 등 주최 측은 전국 참가자를 약 80만명으로 추산했습니다.",
+            "시위에는 학생과 노동조합 등이 참여했으며, 생활비 상승과 연료 가격, 학교 여건에 대한 불만이 함께 제기됐습니다. 두 숫자는 조사 방법과 집계 시점이 달라 단순 비교에 한계가 있습니다.",
+            "정부가 연료비 영향을 받는 산업 지원을 연장했지만 생활비 불만이 계속됐다는 보도도 나왔습니다. 시위 이후 정부가 어떤 정책 조치를 내놓을지는 아직 정해지지 않았습니다."
+          ],
+          "timeline": {
+            "change": "프랑스 정부 집계 55만명, 주최 측 추산 80만명으로 시위 규모가 엇갈렸습니다.",
+            "eventDate": "2026-10-17",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Paris",
+            "issueId": "france-cost-of-living-protests-2026-10-17",
+            "issueTitle": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명",
+            "stage": "보도"
+          },
+          "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명",
+          "topicKey": "france-cost-of-living-protests-2026-10-17",
+          "uncertainty": "참가 인원은 집계 주체별 추산이며, 시위가 정부 정책 변화로 이어질지는 확인되지 않았습니다.",
+          "whatChanged": "프랑스 정부 집계 55만명, 주최 측 추산 80만명으로 시위 규모가 엇갈렸습니다.",
+          "whyItMatters": "연료비와 생활비 부담에 학생·노조 요구가 결합해 전국 규모의 불만으로 번졌는지 살펴볼 사건입니다."
+        },
+        {
+          "category": "경제·국제",
+          "emphasis": [
+            "5,907억달러로 집계",
+            "8월 9조3,317억달러로 늘었습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미 재무부의 8월 보유 통계가 10월 16일 발표됐다고 보도됐으며, 발표 시각은 확인하지 못했습니다.",
+          "factsHash": "716ff3e79a1395bb41a102de08e46e208e74f154c87d04eeaa6ba8db0862f511",
+          "fallbackNote": null,
+          "id": "china-us-treasury-holdings-2026-08",
+          "keyFacts": {
+            "7월 대비": "273억달러 감소",
+            "미 국채 외국 전체 보유액": "9조3,317억달러",
+            "중국 8월 보유액": "5,907억달러"
+          },
+          "publishedAt": "2026-10-17T21:39:09+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "en",
+              "name": "사우스차이나모닝포스트",
+              "publishedAt": "2026-10-17T15:00:00+09:00",
+              "title": "China cuts US Treasury holdings to 18-year low in August as American debt fears mount",
+              "url": "https://www.scmp.com/economy/china-economy/article/3371237/china-cuts-us-treasury-holdings-18-year-low-august-american-debt-fears-mount",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "en",
+              "name": "미국 재무부 TIC",
+              "publishedAt": null,
+              "title": "Major Foreign Holders of Treasury Securities",
+              "url": "https://ticdata.treasury.gov/Publish/slt_table5.html",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 82.35,
+          "scoreComponents": {
+            "domesticImpact": 68,
+            "importance": 82,
+            "interest": 85,
+            "recency": 82,
+            "reliability": 95
+          },
+          "scoreReason": "중국의 미국 국채 보유 잔액이 7월보다 273억달러 줄어든 5,907억달러로 집계됐습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-17T21:39:09+09:00",
+              "title": "中, 美국채 보유액 5907억달러…2008년 이후 최저",
+              "url": "https://nwww.newsis.com/view/NISX20261017_0003830138",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "en",
+              "name": "사우스차이나모닝포스트",
+              "publishedAt": "2026-10-17T15:00:00+09:00",
+              "title": "China cuts US Treasury holdings to 18-year low in August as American debt fears mount",
+              "url": "https://www.scmp.com/economy/china-economy/article/3371237/china-cuts-us-treasury-holdings-18-year-low-august-american-debt-fears-mount",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "official",
+              "language": "en",
+              "name": "미국 재무부 TIC",
+              "publishedAt": null,
+              "title": "Major Foreign Holders of Treasury Securities",
+              "url": "https://ticdata.treasury.gov/Publish/slt_table5.html",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 재무부의 8월 통계에서 중국이 보유한 미국 국채 잔액이 5,907억달러로 집계됐습니다. 2008년 8월 이후 가장 낮은 수준입니다.",
+            "뉴시스와 사우스차이나모닝포스트가 미 재무부 자료를 인용해 보도한 수치입니다. 중국 보유액은 7월 6,180억달러에서 273억달러 줄었고, 일본도 같은 달 보유 잔액을 축소했습니다.",
+            "반면 외국 전체의 미 국채 보유액은 7월 9조2,484억달러에서 8월 9조3,317억달러로 늘었습니다. 중국의 감소만으로 해외 투자자 전반이 미국 국채에서 이탈한다고 해석하기는 어렵습니다.",
+            "미 국채 수급과 중국의 외환보유 전략을 살필 자료지만, 월별 잔액에는 평가·보관 변화가 반영될 수 있습니다. 재무부 표는 보유 잔액을 보여줄 뿐, 각국의 거래 동기까지 설명하지 않습니다."
+          ],
+          "timeline": {
+            "change": "중국의 미국 국채 보유 잔액이 7월보다 273억달러 줄어든 5,907억달러로 집계됐습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "china-us-treasury-holdings-2026-08",
+            "issueTitle": "중국의 미국 국채 보유액 5,907억달러…18년 만의 저점",
+            "stage": "발표"
+          },
+          "title": "중국의 미국 국채 보유액 5,907억달러…18년 만의 저점",
+          "topicKey": "china-us-treasury-holdings-2026-08",
+          "uncertainty": "잔액 변화만으로 실제 매도 규모와 보유국별 정책 의도를 단정할 수 없습니다. 환율·가격 평가와 보관 위치 변동도 잔액에 영향을 줄 수 있습니다.",
+          "whatChanged": "중국의 미국 국채 보유 잔액이 7월보다 273억달러 줄어든 5,907억달러로 집계됐습니다.",
+          "whyItMatters": "중국의 보유 감소와 외국 전체 보유 증가가 동시에 나타나 자금 이동을 한 국가의 매도만으로 해석하기 어렵습니다."
+        },
+        {
+          "category": "경제·금리",
+          "emphasis": [
+            "추가 금리 인상이 가능하다는 방향을 재확인",
+            "언제 인상할지는 밝히지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "우에다 총재는 10월 16일 방콕 G20 회의에서 발언한 것으로 보도됐습니다.",
+          "factsHash": "82e1fbea1fbebe7a07899faf25a072748e8030db2cc9766e8dac90eebac56b3d",
+          "fallbackNote": null,
+          "id": "boj-policy-guidance-2026-10-16",
+          "keyFacts": {
+            "기조 물가 목표": "2%",
+            "다음 인상 시점": "구체 날짜 미제시",
+            "보도된 발언 날짜": "2026-10-16"
+          },
+          "publishedAt": "2026-10-17T21:16:40+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-17T21:16:40+09:00",
+              "title": "우에다 \"기조물가 2% 향해…완화 조정 위해 금리 인상 계속\"",
+              "url": "https://nwww.newsis.com/view/NISX20261017_0003830117",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 81.65,
+          "scoreComponents": {
+            "domesticImpact": 75,
+            "importance": 82,
+            "interest": 83,
+            "recency": 82,
+            "reliability": 84
+          },
+          "scoreReason": "기조 물가가 2%에 가까워지고 있다며 완화 정도를 조정하기 위해 금리를 계속 인상하겠다는 기존 방향을 재확인했지만, 다음 인상 시점은 제시하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-17T21:16:40+09:00",
+              "title": "우에다 \"기조물가 2% 향해…완화 조정 위해 금리 인상 계속\"",
+              "url": "https://nwww.newsis.com/view/NISX20261017_0003830117",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "일본은행 우에다 가즈오 총재가 물가 흐름이 목표에 가까워지면 추가 금리 인상이 가능하다는 방향을 재확인했다고 보도됐습니다.",
+            "뉴시스는 니혼게이자이신문을 인용해 우에다 총재가 방콕 G20 회의에서 기조 물가가 2%에 접근하고 있다고 말했다고 전했습니다.",
+            "발언은 완화적 금융 여건을 조정하기 위해 금리를 계속 올릴 수 있다는 기존 정책 방향을 설명한 것입니다. 구체적으로 어느 회의에서 언제 인상할지는 밝히지 않았습니다.",
+            "따라서 이를 즉시 금리 인상 결정으로 읽어서는 안 됩니다. 다음 일본은행 회의에서 물가·임금 자료가 어떻게 반영되는지와 총재의 후속 발언이 관전 지점입니다."
+          ],
+          "timeline": {
+            "change": "기조 물가가 2%에 가까워지고 있다며 완화 정도를 조정하기 위해 금리를 계속 인상하겠다는 기존 방향을 재확인했지만, 다음 인상 시점은 제시하지 않았습니다.",
+            "eventDate": "2026-10-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Bangkok",
+            "issueId": "boj-policy-2026",
+            "issueTitle": "일본은행 금리 결정",
+            "stage": "보도"
+          },
+          "title": "우에다 BOJ 총재, 기조물가 2% 접근하면 추가 금리 인상 시사",
+          "topicKey": "boj-policy-2026",
+          "uncertainty": "뉴시스는 니혼게이자이 보도를 인용했습니다. 10월 금융정책회의의 결정이나 다음 금리 인상 날짜가 새로 확정된 것은 아닙니다.",
+          "whatChanged": "기조 물가가 2%에 가까워지고 있다며 완화 정도를 조정하기 위해 금리를 계속 인상하겠다는 기존 방향을 재확인했지만, 다음 인상 시점은 제시하지 않았습니다.",
+          "whyItMatters": "일본의 금리 정상화 속도는 엔화와 아시아 금융시장, 원화 자산에도 영향을 줄 수 있어 실제 결정 시점이 중요합니다."
+        },
+        {
+          "category": "웹툰 산업",
+          "emphasis": [
+            "누적 조회수 151만회를 넘었다고 보도됐습니다",
+            "조회수만으로 작품별 흥행이나 매출을 비교할 수는 없습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "신작 공개는 10월 초로 보도됐지만 4종 전체의 정확한 첫 공개일은 확인하지 못했습니다.",
+          "factsHash": "98f9354d91aea7eb7daf4136ad0c5b44dbb13ce811fec3c2cc4db2aebe1473ae",
+          "fallbackNote": "최근 72시간 내 웹툰 산업의 대형 정책 발표는 확인하지 못해, 10월 16일 보도된 신작 성과를 최신 플랫폼 동향으로 포함했습니다.",
+          "id": "kakao-page-new-webtoons-151m-2026-10",
+          "keyFacts": {
+            "누적 조회수": "151만회 초과",
+            "대상 작품": "카카오페이지 신작 웹툰 4종",
+            "집계 기간": "론칭 약 2주"
+          },
+          "publishedAt": "2026-10-16T14:11:01+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "아주경제",
+              "publishedAt": "2026-10-16T14:11:01+09:00",
+              "title": "론칭 2주 만에 151만뷰…카카오페이지 웹툰 4종 공개",
+              "url": "https://m.fortune.ajunews.com/bbs/view/news/S1N20/5624430?page=2",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 56.8,
+          "scoreComponents": {
+            "domesticImpact": 75,
+            "importance": 72,
+            "interest": 88,
+            "recency": 25,
+            "reliability": 81
+          },
+          "scoreReason": "카카오페이지에 공개된 신작 웹툰 4종의 론칭 약 2주 누적 조회수가 151만회를 넘었다고 보도됐습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "wire",
+              "language": "ko",
+              "name": "아주경제",
+              "publishedAt": "2026-10-16T14:11:01+09:00",
+              "title": "론칭 2주 만에 151만뷰…카카오페이지 웹툰 4종 공개",
+              "url": "https://m.fortune.ajunews.com/bbs/view/news/S1N20/5624430?page=2",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "카카오페이지가 선보인 신작 웹툰 4종이 공개 약 2주 만에 누적 조회수 151만회를 넘었다고 보도됐습니다.",
+            "아주경제는 카카오엔터테인먼트의 10월 신작 라인업을 전하며 4개 작품의 공개와 초기 이용 지표를 소개했습니다. 기사에는 신작 가운데 일부 작품의 설정과 공개 시점도 실렸습니다.",
+            "초기 조회수는 플랫폼이 작품을 발견시키고 신규 독자를 모으는 성과를 살펴보는 단서입니다. 다만 조회수만으로 작품별 흥행이나 매출을 비교할 수는 없습니다.",
+            "작품별 수치와 유료 결제 전환, 장기 연재 성과는 공개되지 않았습니다. 후속 지표나 플랫폼의 공식 설명이 나와야 초기 반응의 지속성을 판단할 수 있습니다."
+          ],
+          "timeline": {
+            "change": "카카오페이지에 공개된 신작 웹툰 4종의 론칭 약 2주 누적 조회수가 151만회를 넘었다고 보도됐습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "kakao-page-new-series-151m-2026-10",
+            "issueTitle": "카카오페이지 신작 웹툰 4종, 공개 2주 만에 누적 151만뷰",
+            "stage": "결과"
+          },
+          "title": "카카오페이지 신작 웹툰 4종, 공개 2주 만에 누적 151만뷰",
+          "topicKey": "kakao-page-new-series-151m-2026-10",
+          "uncertainty": "조회수 집계 범위와 작품별 편차, 유료 전환이나 매출 기여는 기사만으로 확인되지 않습니다.",
+          "whatChanged": "카카오페이지에 공개된 신작 웹툰 4종의 론칭 약 2주 누적 조회수가 151만회를 넘었다고 보도됐습니다.",
+          "whyItMatters": "플랫폼 신작의 초기 이용자 반응은 장르·마케팅·IP 확장 전략을 비교할 때 참고할 수 있는 사업 지표입니다."
+        },
+        {
+          "category": "웹툰 산업",
+          "emphasis": [
+            "공모전 출품작 10점이 전시됐습니다",
+            "한 차례 발표회만으로 프로그램의 지속성"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "성과발표회는 10월 15일 열렸고, 10월 16일 보도됐습니다.",
+          "factsHash": "8746f034df5d9bf6dc05a217321084136a3e8b9288b0e41befea7d40f1ba5600",
+          "fallbackNote": "최근 72시간 내 웹툰 산업의 대형 정책 발표는 확인하지 못해, 10월 16일 보도된 창작교육 성과를 최신 창작자 지원 사례로 포함했습니다.",
+          "id": "toonjal-academy-creator-support-2026-10",
+          "keyFacts": {
+            "공모전 출품작 전시": "10점",
+            "보도일": "2026-10-16",
+            "행사일": "2026-10-15"
+          },
+          "publishedAt": "2026-10-16T12:59:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "소셜포커스",
+              "publishedAt": "2026-10-16T12:59:00+09:00",
+              "title": "유성구장애인종합복지관, 제8회 툰잘 아카데미 성과발표회 개최",
+              "url": "https://www.socialfocus.co.kr/news/articleView.html?idxno=24232",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "score": 55.05,
+          "scoreComponents": {
+            "domesticImpact": 78,
+            "importance": 73,
+            "interest": 72,
+            "recency": 25,
+            "reliability": 82
+          },
+          "scoreReason": "유성구장애인종합복지관이 창작교육 프로그램의 성과발표회를 열고 교육생 작품과 공모전 출품작을 전시했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "major",
+              "language": "ko",
+              "name": "소셜포커스",
+              "publishedAt": "2026-10-16T12:59:00+09:00",
+              "title": "유성구장애인종합복지관, 제8회 툰잘 아카데미 성과발표회 개최",
+              "url": "https://www.socialfocus.co.kr/news/articleView.html?idxno=24232",
+              "verifiedAt": "2026-10-18T09:08:05+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "유성구장애인종합복지관이 창작교육 프로그램의 성과발표회를 열고 교육생 작품과 공모전 출품작을 전시했습니다.",
+            "소셜포커스 보도에 따르면 ‘툰잘 아카데미’ 성과발표회는 10월 15일 열렸습니다. 장애인 웹툰 교육생의 창작 활동을 소개하는 자리였습니다.",
+            "행사에는 교육생 제작 굿즈와 전국 웹툰·일러스트 공모전 출품작 10점이 전시됐습니다. 한국만화영상진흥원과 협업한 창작 지원이라는 점도 기사에 담겼습니다.",
+            "지역 창작교육은 작품 제작과 전시·공모전 참여 기회를 제공한다는 점에서 의미가 있습니다. 다만 한 차례 발표회만으로 프로그램의 지속성이나 수료생의 연재·수익 성과까지 판단할 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "유성구장애인종합복지관이 창작교육 프로그램의 성과발표회를 열고 교육생 작품과 공모전 출품작을 전시했습니다.",
+            "eventDate": "2026-10-15",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "toonjal-academy-creator-support-2026-10",
+            "issueTitle": "장애인 웹툰 창작교육 ‘툰잘 아카데미’ 성과 공유",
+            "stage": "결과"
+          },
+          "title": "장애인 웹툰 창작교육 ‘툰잘 아카데미’ 성과 공유",
+          "topicKey": "toonjal-academy-creator-support-2026-10",
+          "uncertainty": "지역 교육 사례 한 건으로 산업 전체의 창작자 지원 수준이나 지속 성과를 일반화할 수는 없습니다.",
+          "whatChanged": "유성구장애인종합복지관이 창작교육 프로그램의 성과발표회를 열고 교육생 작품과 공모전 출품작을 전시했습니다.",
+          "whyItMatters": "웹툰 생태계의 저변은 플랫폼 매출뿐 아니라 창작 교육과 장애인 작가의 작품 활동을 지원하는 지역 프로그램으로도 구성됩니다."
+        }
+      ],
+      "timezone": "Asia/Seoul",
+      "updatedAt": "2026-10-18T09:08:05+09:00"
+    },
+    "recordedAt": "2026-10-18T09:08:10.726235+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "bb433190b00e8ba44ad9b7a1876a195f56dc738e0efc8d759a6f80df004b34d2",
+  "opensAt": "2026-10-17T21:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-10-18T09:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

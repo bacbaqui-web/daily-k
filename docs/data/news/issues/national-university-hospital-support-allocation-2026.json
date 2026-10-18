@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/am.json",
+      "category": "국내 정책·보건",
+      "change": "2026년 국립대병원 지역의료 역량·AI 진료지원 예산에서 기관별 배정 차이가 확인됐고 일부 분원은 AI 항목 배정액이 0원으로 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T09:08:05+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "am",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-am",
+      "eventAt": null,
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "국회의원이 복지부 자료를 분석해 공개한 내용을 10월 18일 보도했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-18-am/national-hospital-support-disparity-2026-10",
+      "keyFacts": {
+        "일부 분원 AI 사업 배정": "0원",
+        "자료 기준": "2026년 배정액",
+        "칠곡경북대병원 등 지원 사례": "최대 67억6,300만원(보도된 사업 합계)"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-18T08:01:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-18T08:01:00+09:00",
+          "title": "국립대병원 지역의료 지원 격차…일부 분원 AI 예산은 0원",
+          "url": "https://www.newsis.com/view/NISX20261017_0003829950",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "national-hospital-support-disparity-2026-10",
+      "summary": [
+        "국립대병원의 지역의료 관련 사업 예산이 기관별로 다르고, 일부 분원은 AI 진료지원 시스템 지원액이 0원이었다는 분석이 보도됐습니다.",
+        "뉴시스는 허종식 의원이 보건복지부 자료를 분석한 결과를 전했습니다. 보도상 칠곡경북대병원은 지역의료 역량 강화와 AI 관련 지원을 합쳐 67억6,300만원을 배정받은 사례로 제시됐습니다.",
+        "여기서 0원은 분원에 배정된 AI 시스템 사업 항목을 가리킵니다. 병원의 전체 예산이나 다른 진료 지원까지 없다는 뜻은 아닙니다.",
+        "배정 차이가 곧 진료 성과 차이로 이어졌는지는 이 자료만으로 판단할 수 없습니다. 사업별 선정 기준과 실제 시스템 도입·이용 결과가 후속 확인 대상입니다."
+      ],
+      "supersededBy": [],
+      "title": "국립대병원 지원액 차이…일부 분원 AI 시스템 예산 0원",
+      "uncertainty": "보도는 국회의원의 자료 분석을 전달한 것으로, 0원은 해당 AI 사업 항목에 대한 배정액을 뜻합니다. 병원의 전체 예산이나 모든 지원이 0원이라는 뜻은 아닙니다."
+    }
+  ],
+  "id": "national-university-hospital-support-allocation-2026",
+  "schemaVersion": 1,
+  "title": "국립대병원 지원액 차이…일부 분원 AI 시스템 예산 0원",
+  "updatedAt": "2026-10-18T09:08:05+09:00"
+}

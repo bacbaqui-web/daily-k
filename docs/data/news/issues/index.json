@@ -1,6 +1,174 @@
 {
-  "editionCount": 62,
+  "editionCount": 63,
   "issues": [
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "toonjal-academy-creator-support-2026-10",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "유성구장애인종합복지관이 창작교육 프로그램의 성과발표회를 열고 교육생 작품과 공모전 출품작을 전시했습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "결과",
+        "storyId": "toonjal-academy-creator-support-2026-10",
+        "title": "장애인 웹툰 창작교육 ‘툰잘 아카데미’ 성과 공유"
+      },
+      "path": "toonjal-academy-creator-support-2026-10.json",
+      "title": "장애인 웹툰 창작교육 ‘툰잘 아카데미’ 성과 공유"
+    },
+    {
+      "categories": [
+        "국내 정책·보건"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "national-university-hospital-support-allocation-2026",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "2026년 국립대병원 지역의료 역량·AI 진료지원 예산에서 기관별 배정 차이가 확인됐고 일부 분원은 AI 항목 배정액이 0원으로 보도됐습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "보도",
+        "storyId": "national-hospital-support-disparity-2026-10",
+        "title": "국립대병원 지원액 차이…일부 분원 AI 시스템 예산 0원"
+      },
+      "path": "national-university-hospital-support-allocation-2026.json",
+      "title": "국립대병원 지원액 차이…일부 분원 AI 시스템 예산 0원"
+    },
+    {
+      "categories": [
+        "사회·보건"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "korea-blood-stock-2026-10",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "A형 적혈구 재고가 3,370단위, 1.9일분으로 집계돼 2일분인 경계 기준보다 낮았습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "보도",
+        "storyId": "korea-blood-supply-2026-10-16",
+        "title": "A형 혈액 재고 1.9일분…혈액 수급 위기 기준 밑돌아"
+      },
+      "path": "korea-blood-stock-2026-10.json",
+      "title": "A형 혈액 재고 1.9일분…혈액 수급 위기 기준 밑돌아"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "kakao-page-new-series-151m-2026-10",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "카카오페이지에 공개된 신작 웹툰 4종의 론칭 약 2주 누적 조회수가 151만회를 넘었다고 보도됐습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "결과",
+        "storyId": "kakao-page-new-webtoons-151m-2026-10",
+        "title": "카카오페이지 신작 웹툰 4종, 공개 2주 만에 누적 151만뷰"
+      },
+      "path": "kakao-page-new-series-151m-2026-10.json",
+      "title": "카카오페이지 신작 웹툰 4종, 공개 2주 만에 누적 151만뷰"
+    },
+    {
+      "categories": [
+        "국제·사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "france-cost-of-living-protests-2026-10-17",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "프랑스 정부 집계 55만명, 주최 측 추산 80만명으로 시위 규모가 엇갈렸습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "보도",
+        "storyId": "france-cost-of-living-protests-2026-10-17",
+        "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
+      },
+      "path": "france-cost-of-living-protests-2026-10-17.json",
+      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
+    },
+    {
+      "categories": [
+        "반도체·중국"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "cxmt-q3-revenue-guidance-2026",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "CXMT가 3분기 매출을 전년 동기 대비 589~619% 늘어난 것으로 예상했으며, 이는 확정 실적이 아니라 회사 전망입니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "예정",
+        "storyId": "cxmt-q3-revenue-guidance-2026",
+        "title": "CXMT 3분기 매출 589~619% 증가 전망…실적은 아직 미확정"
+      },
+      "path": "cxmt-q3-revenue-guidance-2026.json",
+      "title": "CXMT 3분기 매출 589~619% 증가 전망…실적은 아직 미확정"
+    },
+    {
+      "categories": [
+        "경제·국제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "china-us-treasury-holdings-2026-08",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "중국의 미국 국채 보유 잔액이 7월보다 273억달러 줄어든 5,907억달러로 집계됐습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "발표",
+        "storyId": "china-us-treasury-holdings-2026-08",
+        "title": "중국의 미국 국채 보유액 5,907억달러…18년 만의 저점"
+      },
+      "path": "china-us-treasury-holdings-2026-08.json",
+      "title": "중국의 미국 국채 보유액 5,907억달러…18년 만의 저점"
+    },
+    {
+      "categories": [
+        "경제·금리"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-18",
+      "id": "boj-policy-2026",
+      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "기조 물가가 2%에 가까워지고 있다며 완화 정도를 조정하기 위해 금리를 계속 인상하겠다는 기존 방향을 재확인했지만, 다음 인상 시점은 제시하지 않았습니다.",
+        "editionId": "2026-10-18-am",
+        "stage": "보도",
+        "storyId": "boj-policy-guidance-2026-10-16",
+        "title": "우에다 BOJ 총재, 기조물가 2% 접근하면 추가 금리 인상 시사"
+      },
+      "path": "boj-policy-2026.json",
+      "title": "일본은행 금리 결정"
+    },
     {
       "categories": [
         "경제·글로벌증시",
@@ -4560,27 +4728,6 @@
     },
     {
       "categories": [
-        "경제·금리"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-18",
-      "id": "boj-policy-2026",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-18",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: BOJ 1.25% 인상, 추가 인상 시사.",
-        "editionId": "2026-09-18-pm-archive",
-        "stage": "보도",
-        "storyId": "archive-02",
-        "title": "BOJ 1.25% 인상, 추가 인상 시사"
-      },
-      "path": "boj-policy-2026.json",
-      "title": "일본은행 금리 결정"
-    },
-    {
-      "categories": [
         "웹툰 산업"
       ],
       "eventCount": 1,
@@ -5127,7 +5274,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 473,
+  "storyCount": 481,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-17T09:16:04+09:00"
+  "updatedAt": "2026-10-18T09:08:05+09:00"
 }

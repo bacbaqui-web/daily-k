@@ -1,6 +1,58 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-10-18/am.json",
+      "category": "경제·금리",
+      "change": "기조 물가가 2%에 가까워지고 있다며 완화 정도를 조정하기 위해 금리를 계속 인상하겠다는 기존 방향을 재확인했지만, 다음 인상 시점은 제시하지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T09:08:05+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "am",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "우에다 총재는 10월 16일 방콕 G20 회의에서 발언한 것으로 보도됐습니다.",
+      "eventTimezone": "Asia/Bangkok",
+      "followUp": null,
+      "id": "2026-10-18-am/boj-policy-guidance-2026-10-16",
+      "keyFacts": {
+        "기조 물가 목표": "2%",
+        "다음 인상 시점": "구체 날짜 미제시",
+        "보도된 발언 날짜": "2026-10-16"
+      },
+      "previous": {
+        "editionId": "2026-09-18-pm-archive",
+        "storyId": "archive-02"
+      },
+      "publishedAt": "2026-10-17T21:16:40+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-17T21:16:40+09:00",
+          "title": "우에다 \"기조물가 2% 향해…완화 조정 위해 금리 인상 계속\"",
+          "url": "https://nwww.newsis.com/view/NISX20261017_0003830117",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "boj-policy-guidance-2026-10-16",
+      "summary": [
+        "일본은행 우에다 가즈오 총재가 물가 흐름이 목표에 가까워지면 추가 금리 인상이 가능하다는 방향을 재확인했다고 보도됐습니다.",
+        "뉴시스는 니혼게이자이신문을 인용해 우에다 총재가 방콕 G20 회의에서 기조 물가가 2%에 접근하고 있다고 말했다고 전했습니다.",
+        "발언은 완화적 금융 여건을 조정하기 위해 금리를 계속 올릴 수 있다는 기존 정책 방향을 설명한 것입니다. 구체적으로 어느 회의에서 언제 인상할지는 밝히지 않았습니다.",
+        "따라서 이를 즉시 금리 인상 결정으로 읽어서는 안 됩니다. 다음 일본은행 회의에서 물가·임금 자료가 어떻게 반영되는지와 총재의 후속 발언이 관전 지점입니다."
+      ],
+      "supersededBy": [],
+      "title": "우에다 BOJ 총재, 기조물가 2% 접근하면 추가 금리 인상 시사",
+      "uncertainty": "뉴시스는 니혼게이자이 보도를 인용했습니다. 10월 금융정책회의의 결정이나 다음 금리 인상 날짜가 새로 확정된 것은 아닙니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 116,
@@ -47,5 +99,5 @@
   "id": "boj-policy-2026",
   "schemaVersion": 1,
   "title": "일본은행 금리 결정",
-  "updatedAt": "2026-10-17T09:16:04+09:00"
+  "updatedAt": "2026-10-18T09:08:05+09:00"
 }

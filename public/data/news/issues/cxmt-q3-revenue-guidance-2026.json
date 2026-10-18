@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/am.json",
+      "category": "반도체·중국",
+      "change": "CXMT가 3분기 매출을 전년 동기 대비 589~619% 늘어난 것으로 예상했으며, 이는 확정 실적이 아니라 회사 전망입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T09:08:05+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "am",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-am",
+      "eventAt": null,
+      "eventDate": "2026-10-16",
+      "eventEndDate": null,
+      "eventTimeNote": "CXMT가 중국 현지 10월 16일 실적 예고를 냈다고 보도됐으며 정확한 발표 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Shanghai",
+      "followUp": null,
+      "id": "2026-10-18-am/cxmt-q3-revenue-guidance-2026",
+      "keyFacts": {
+        "3분기 매출 전망": "1,147억~1,197억위안",
+        "자사주 매입 제안": "10억~20억위안 규모",
+        "전년 동기 대비 전망": "589~619% 증가"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-17T22:35:29+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-17T22:35:29+09:00",
+          "title": "中창신메모리, 3Q 매출 600% 폭증 전망…최대 4000억원 자사주 매입",
+          "url": "https://www.newsis.com/view/NISX20261017_0003830135",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-17T13:07:00+09:00",
+          "title": "CXMT, 3분기 매출 600%대 급증 전망…최대 4천억원 자사주 매입",
+          "url": "https://www.yna.co.kr/view/AKR20261017027300089",
+          "verifiedAt": "2026-10-18T09:08:05+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "보도",
+      "storyId": "cxmt-q3-revenue-guidance-2026",
+      "summary": [
+        "중국 메모리업체 CXMT가 3분기 매출이 전년 동기보다 589~619% 늘 것으로 전망했습니다. 실적 발표가 아니라 회사가 제시한 예고치입니다.",
+        "뉴시스와 연합뉴스에 따르면 CXMT는 매출을 1,147억~1,197억위안으로 추산했습니다. 회사는 AI 컴퓨팅 수요와 D램 공급 부족, 생산시설 확충과 공정 개선을 배경으로 들었습니다.",
+        "회장 측은 10억~20억위안 규모의 자사주 매입을 제안했습니다. 이는 추진 계획으로 보도됐으며, 실제 매입 완료로 확인된 것은 아닙니다.",
+        "성장률이 크게 제시됐지만 국내 기업과의 경쟁력 비교에는 제품 성능, 수율, 고객 인증, 실제 출하량이 함께 필요합니다. 최종 분기 실적과 자사주 매입 진행 여부를 확인해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "CXMT 3분기 매출 589~619% 증가 전망…실적은 아직 미확정",
+      "uncertainty": "실적은 예고치이며 확정 공시 전입니다. 4F² 서버 D램 출시와 고객 인증·수율 등 기술 경쟁력은 기사에서 확인된 사실과 구분해야 합니다."
+    }
+  ],
+  "id": "cxmt-q3-revenue-guidance-2026",
+  "schemaVersion": 1,
+  "title": "CXMT 3분기 매출 589~619% 증가 전망…실적은 아직 미확정",
+  "updatedAt": "2026-10-18T09:08:05+09:00"
+}
