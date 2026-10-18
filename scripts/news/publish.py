@@ -90,7 +90,7 @@ def validate(draft, history, now=None):
         require(isinstance(b['overviewEmphasis'],list) and 1<=len(b['overviewEmphasis'])<=12 and all(isinstance(p,str) and p.strip() and any(p in paragraph for paragraph in b['overview']) for p in b['overviewEmphasis']),'Overview emphasis must use 1–12 exact phrases from overview')
     updated=timestamp(b.get('updatedAt',b['generatedAt']))
     require(generated<=updated<=latest,'Invalid presentation update time')
-    stories=b['stories']; require(5<=len(stories)<=10,'Must contain 5–10 stories')
+    stories=b['stories']; require(5<=len(stories)<=20,'Must contain 5–20 stories including additional news')
     require(len({s['id'] for s in stories})==len(stories),'Duplicate story ID')
     # Imported ChatGPT records are useful context, not independently verified evidence.
     prior=[(old,s) for old in history if not old.get('archive') and old['id']!=b['id'] and timestamp(old['cutoffAt'])<cutoff for s in old['stories']]
