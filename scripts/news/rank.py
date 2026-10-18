@@ -8,7 +8,9 @@ from publish import WEIGHTS, recency_score, timestamp, require, editorial_priori
 p=argparse.ArgumentParser();p.add_argument('ledger',type=Path);a=p.parse_args()
 v=json.loads(a.ledger.read_text());cutoff=timestamp(v['cutoffAt'])
 for c in v['candidates']:
-    scores=c['scoreComponents'];scores['recency']=recency_score(timestamp(c['publishedAt']),cutoff,v['edition'])
+    require(c.get('publishedAt') or (c.get('publishedDate') and c.get('publishedTimezone')=='Asia/Seoul'),'Candidate needs a timestamp or confirmed Korean date')
+    published=timestamp(c['publishedAt']) if c.get('publishedAt') else timestamp(c['publishedDate']+'T00:00:00+09:00')
+    scores=c['scoreComponents'];scores['recency']=recency_score(published,cutoff,v['edition'])
     require(all(isinstance(scores.get(k),(int,float)) and 0<=scores[k]<=100 for k in WEIGHTS),'Invalid candidate score')
     c['score']=round(sum(scores[k]*w for k,w in WEIGHTS.items()),2)
 v['candidates'].sort(key=editorial_priority,reverse=True)

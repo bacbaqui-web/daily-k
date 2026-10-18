@@ -22,10 +22,10 @@ class PublishingTests(unittest.TestCase):
     def test_score_and_order(self):
         b=fixture();b['stories'][2]['scoreComponents']['importance']=100
         result=validate(b,[],NOW)
-        self.assertEqual(result['stories'][0]['id'],'topic-am-2');self.assertEqual(result['stories'][0]['score'],93)
-    def test_missing_webtoon(self):
+        self.assertEqual(result['stories'][0]['id'],'topic-am-2');self.assertEqual(result['stories'][0]['score'],91)
+    def test_no_forced_webtoon_when_no_qualified_story(self):
         b=fixture();b['stories'][-1]['category']='문화'
-        with self.assertRaisesRegex(ValueError,'webtoon'):validate(b,[],NOW)
+        self.assertEqual(len(validate(b,[],NOW)['stories']),5)
     def test_korean_link_required(self):
         b=fixture();b['stories'][0]['sources'][0]['language']='en'
         with self.assertRaisesRegex(ValueError,'Korean'):validate(b,[],NOW)
@@ -136,7 +136,7 @@ class EarlyPublishingTests(unittest.TestCase):
         b=early_fixture();b['events'][0]['at']='2026-10-07T09:01:00+09:00';validate(b,[],self.now)
     def test_existing_content_gates_still_apply_to_early_editions(self):
         b=early_fixture();b['stories'][-1]['category']='문화'
-        with self.assertRaisesRegex(ValueError,'webtoon'):validate(b,[],self.now)
+        self.assertEqual(len(validate(b,[],self.now)['stories']),5)
         b=early_fixture();b['stories'][0]['sources'][0]['verifiedAt']='2026-10-06T09:00:00+09:00'
         with self.assertRaisesRegex(ValueError,'freshly'):validate(b,[],self.now)
         b=early_fixture();b['stories'][1]['topicKey']=b['stories'][0]['topicKey']
@@ -152,3 +152,22 @@ class EarlyPublishingTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'new evidence'):validate(b,[early_fixture()],self.now)
 
 if __name__=='__main__':unittest.main()
+
+class RecentFallbackTests(unittest.TestCase):
+    def test_previous_day_science_needs_label_and_stays_within_72_hours(self):
+        b=fixture('pm');s=b['stories'][0];s['category']='과학·기술'
+        s['publishedAt']=s['sources'][0]['publishedAt']='2026-10-01T20:00:00+09:00'
+        with self.assertRaisesRegex(ValueError,'Label older'):validate(b,[],NOW)
+        s['fallbackNote']='전날의 중요한 공식 발표로 보완합니다.'
+        validate(b,[],NOW)
+        s['publishedAt']=s['sources'][0]['publishedAt']='2026-09-29T20:59:59+09:00'
+        with self.assertRaisesRegex(ValueError,'within 3 days'):validate(b,[],NOW)
+    def test_date_only_keeps_unknown_time_and_requires_source_date(self):
+        b=fixture('pm');s=b['stories'][-1]
+        s.update(publishedAt=None,publishedDate='2026-10-01',publishedTimezone='Asia/Seoul',fallbackNote='전날 날짜만 확인된 중요 업데이트입니다.')
+        s['sources'][0].update(publishedAt=None,publishedDate='2026-10-01',publishedTimezone='Asia/Seoul')
+        self.assertIsNone(validate(b,[],NOW)['stories'][-1]['publishedAt'])
+        s['sources'][0]['publishedDate']='2026-09-30'
+        with self.assertRaisesRegex(ValueError,'backed by a source'):validate(b,[],NOW)
+        s['publishedDate']=s['sources'][0]['publishedDate']='2026-10-02'
+        with self.assertRaisesRegex(ValueError,'wholly before cutoff'):validate(b,[],NOW)

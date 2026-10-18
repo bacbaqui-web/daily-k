@@ -1,5 +1,5 @@
 export type Edition = 'am' | 'pm';
-export type NewsSource = {name:string;title:string;url:string;language:string;publishedAt:string|null;verifiedAt:string;kind:string;imageUrl?:string|null};
+export type NewsSource = {name:string;title:string;url:string;language:string;publishedAt:string|null;publishedDate?:string;publishedTimezone?:string;verifiedAt:string;kind:string;imageUrl?:string|null};
 export type NewsReference = {editionId:string;storyId:string};
 export type NewsArchive = {sourceDocument:string;sourceSha256:string;importedAt:string;originalGeneratedAt:null;originalHeading:string;watchItems:string[]};
 export type ArchivedStory = {originalText:string;sourceNames:string[];verification:'not-reverified';ordinal:number;lineStart:number;lineEnd:number;reviewNote?:string;previousCoverage?:{date:string;edition:Edition;storyId:string;title:string;archive:true}};
@@ -10,7 +10,7 @@ export type NewsTimeline = {
 };
 export type NewsStory = {
  id:string;topicKey:string;category:string;placement?:'lead'|'additional';title:string;summary:string[];status:string;
- publishedAt:string|null;eventAt:string|null;eventTimeNote:string;whatChanged:string;whyItMatters:string;uncertainty:string;
+ representativeUrl?:string;publishedAt:string|null;publishedDate?:string;publishedTimezone?:string;eventAt:string|null;eventTimeNote:string;whatChanged:string;whyItMatters:string;uncertainty:string;
  keyFacts:Record<string,string>;sources:NewsSource[];score:number|null;archive?:ArchivedStory;
  followUp?:{editionId:string;storyId:string;delta:string};fallbackNote?:string;emphasis?:string[];relatedArticles?:NewsSource[];
  timeline?:NewsTimeline;

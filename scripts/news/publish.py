@@ -110,17 +110,23 @@ def validate(draft, history, now=None):
         for article in related: source_check(article,updated,cutoff,single_run)
         require(len({canonical_url(article['url']) for article in related})==len(related),'Duplicate related articles')
         require(any(source['language']=='ko' for source in s['sources']),'A Korean source is mandatory')
-        published=timestamp(s['publishedAt'])
-        require(any(source.get('publishedAt') and timestamp(source['publishedAt'])==published for source in s['sources']),'Story time must be backed by a source')
+        if s.get('publishedAt'):
+            published=timestamp(s['publishedAt'])
+            require(any(source.get('publishedAt') and timestamp(source['publishedAt'])==published for source in s['sources']),'Story time must be backed by a source')
+        else:
+            # Date-only sources remain date-only in the public record. Use the
+            # earliest possible time only for conservative freshness scoring.
+            date=s.get('publishedDate')
+            require(isinstance(date,str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}',date),'Missing publication date')
+            require(s.get('publishedTimezone')=='Asia/Seoul','Date-only publication requires a confirmed Korean date')
+            require(any(source.get('publishedDate')==date and source.get('publishedTimezone')=='Asia/Seoul' for source in s['sources']),'Publication date must be backed by a source')
+            published=datetime.strptime(date,'%Y-%m-%d').replace(tzinfo=KST)
+            require(published+timedelta(days=1)<=cutoff,'Date-only sources must be wholly before cutoff')
         age=(cutoff-published).total_seconds()/3600
         require(age>=0,'Future story')
-        if '웹툰' in s['category']:
-            require(age<=72,'Webtoon fallback must be within 3 days')
-            if published.date()<day.date(): require(bool(s.get('fallbackNote')),'Label older webtoon updates explicitly')
-        else:
-            require(published >= (day-timedelta(days=1) if b['edition']=='am' else day),'Story outside time window')
-            if b['edition']=='am' and published<day-timedelta(hours=6):
-                require(bool(s.get('fallbackNote')),'Label previous-day daytime fallback')
+        require(age<=72,'Story fallback must be within 3 days')
+        if published.date()<day.date():
+            require(bool(s.get('fallbackNote')),'Label older updates explicitly')
         if s.get('eventAt'): timestamp(s['eventAt'])
         # Same-edition duplicates are never allowed.
         require(not any(duplicate(s,p) for p in stories[:i]),'Duplicate topics inside this edition')
