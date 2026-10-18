@@ -7,14 +7,14 @@ After=network-online.target
 Type=oneshot
 User=ubuntu
 WorkingDirectory=/home/ubuntu/daily-k-news/repo
-EnvironmentFile=/home/ubuntu/daily-k-news/news.env
+Environment=NEWS_CODEX_BIN=/home/ubuntu/daily-k-news/codex-cli/node_modules/.bin/codex
 Environment="GIT_SSH_COMMAND=ssh -i /home/ubuntu/.ssh/daily-k-news-deploy -o IdentitiesOnly=yes -o BatchMode=yes"
 Environment=GIT_AUTHOR_NAME=DailyK-News
 Environment=GIT_AUTHOR_EMAIL=news@daily-k.invalid
 Environment=GIT_COMMITTER_NAME=DailyK-News
 Environment=GIT_COMMITTER_EMAIL=news@daily-k.invalid
 ExecStart=/usr/bin/python3 scripts/news/oracle_runner.py
-TimeoutStartSec=45min
+TimeoutStartSec=90min
 UMask=0077
 NoNewPrivileges=yes
 PrivateTmp=yes
