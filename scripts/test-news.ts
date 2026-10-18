@@ -75,3 +75,15 @@ assert.ok(olderQuestion.includes('기사 원문으로 전체 내용을 다시 �
 assert.ok(olderQuestion.includes(previousRecord.archive!.previousCoverage!.title));
 assert.ok(olderQuestion.includes('이전 기록 본문은 이 복사 내용에 포함되지 않았습니다'));
 console.log('News data/link checks passed');
+
+// Section ordering must retain every article and its stable share ID.
+const {sectionStories,NEWS_SECTIONS}=await import('../lib/news-view.ts');
+const today=JSON.parse(readFileSync(new URL('../public/data/news/2026-10-18/am.json',import.meta.url),'utf8'));
+const view=combineBriefings([today])!;
+const grouped=sectionStories(view.stories);
+assert.deepEqual(grouped.sections.map(s=>s.label),[...NEWS_SECTIONS]);
+assert.equal(grouped.sections[0].story?.category,'국제·사회');
+assert.equal(grouped.sections[6].story?.id,'kakao-page-new-webtoons-151m-2026-10');
+assert.equal(grouped.sections[5].story,undefined);
+assert.equal(grouped.additional.length,2);
+assert.deepEqual([...grouped.sections.flatMap(s=>s.story?[s.story.id]:[]),...grouped.additional.map(s=>s.id)].sort(),today.stories.map((s:{id:string})=>s.id).sort());

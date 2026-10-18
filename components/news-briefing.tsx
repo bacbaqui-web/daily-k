@@ -7,7 +7,7 @@ import {Dialog,DialogContent} from './ui/dialog';
 import {ReaderHeading} from './reader-heading';
 import {NewsReaderActions} from './news-question-button';
 import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
-import {combineBriefings,overviewPhrases,type NewsView,type NewsViewStory} from '../lib/news-view';
+import {combineBriefings,overviewPhrases,sectionStories,briefingTitle,type NewsView,type NewsViewStory} from '../lib/news-view';
 import {type Correction} from '../lib/live';
 import {RecordCorrections} from './record-corrections';
 
@@ -65,6 +65,10 @@ function NewsPreview({story,brief,disabled,onOpen,children}:{story:NewsViewStory
  </HoverCard>;
 }
 function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecord?:string;corrections?:Correction[]}){
+ const grouped=sectionStories(brief.stories);
+ const safetyEvent=brief.events.find(event=>/날씨|기상|강한 비|폭우|폭염|한파|돌풍|태풍|교통/.test(event.title));
+ const ordered=[...grouped.sections.flatMap(section=>section.story?[section.story]:[]),...grouped.additional];
+ brief={...brief,stories:ordered};
  const [active,setActive]=useState<number|null>(null);
  useEffect(()=>{const q=new URLSearchParams(location.search),id=liveRecord!==undefined?(q.get('item')||q.get('story')):q.get('story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id,liveRecord]);
  const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLElement|null>(null);
@@ -88,12 +92,23 @@ function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecor
   window.addEventListener('keydown',navigate,true);return()=>window.removeEventListener('keydown',navigate,true);
  },[active,brief.stories.length]);
  return <Dialog open={story!==null} disablePointerDismissal={false} onOpenChange={open=>{if(!open)setActive(null)}}>
-  <ol className="posts news-stories">{brief.stories.map((s,i)=><li key={s.id}>
-   <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(i)}}>
-    <span className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</span>
+  <div className="news-main-sections">{grouped.sections.map(section=><section className="news-category-section" key={section.label} aria-label={section.label}>
+   <h2 className="news-section-heading">{section.icon} {section.label}</h2>
+   {section.story?<ol className="posts news-stories">{[section.story].map(s=><li key={s.id}>
+   <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(brief.stories.indexOf(s))}}>
+    <span className="rank" aria-hidden="true">{String(brief.stories.indexOf(s)+1).padStart(2,'0')}</span>
     <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span>{corrections.some(c=>c.itemId===s.id)&&<span className="live-correction-badge">정정·철회 기록 있음</span>}</span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span><span className="news-story-summary">{s.summary[0]}</span></span>
    </NewsPreview>
-  </li>)}</ol>
+
+   </li>)}</ol>:section.label==='생활·안전'&&safetyEvent?<div className="news-safety-event"><a href={safetyEvent.source.url} target="_blank" rel="noopener noreferrer">{safetyEvent.title} ↗</a><p>{safetyEvent.detail}</p><small>{safetyEvent.source.name} · 이번 회차에서 확인한 생활 정보</small></div>:<p className="news-section-empty">이번 회차에 별도로 선정한 소식이 없습니다.</p>}
+  </section>)}</div>
+  {grouped.additional.length>0&&<section className="news-additional" aria-label="추가 소식"><h2 className="news-section-heading">추가 소식</h2><p className="news-section-description">대표 뉴스와 함께 읽어볼 소식을 모았습니다.</p><ol className="posts news-stories">{grouped.additional.map(s=><li key={s.id}>
+   <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(brief.stories.indexOf(s))}}>
+    <span className="rank" aria-hidden="true">{String(brief.stories.indexOf(s)+1).padStart(2,'0')}</span>
+    <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span>{corrections.some(c=>c.itemId===s.id)&&<span className="live-correction-badge">정정·철회 기록 있음</span>}</span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span><span className="news-story-summary">{s.summary[0]}</span></span>
+   </NewsPreview>
+
+  </li>)}</ol></section>}
   <DialogContent className="reader-dialog news-reader" showCloseButton={false} aria-describedby={undefined} initialFocus={body} finalFocus={()=>trigger.current||true}>
    {story&&<>
     <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span><NewsReaderActions key={story.id} brief={brief} story={story} sharePath={liveRecord!==undefined?editionHref(brief,'news',story.id):undefined} recordStatus={liveRecord===undefined?undefined:liveRecord?'finalized':'preparing'}/></div></nav>
@@ -112,7 +127,7 @@ function NewsClosing({brief}:{brief:NewsView}){return <>
 export function NewsPrepared({brief,record,corrections=[]}:{brief:NewsBrief;record?:string;corrections?:Correction[]}){
  const view=combineBriefings([brief]);
  if(!view)return null;
- return <section className="news"><div className="news-intro"><h2>전체 뉴스 요약</h2>{(view.overview||[view.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(view)}/></p>)}<div className="news-time">{view.cutoffAt&&<span>기사 기준 {koreaTime(view.cutoffAt)}</span>}<span>실제 작성 {koreaTime(view.generatedAt)}</span></div></div><NewsStories brief={view} liveRecord={record||''} corrections={corrections}/><NewsClosing brief={view}/></section>;
+ return <section className="news"><div className="news-intro"><h2>{briefingTitle(view)}</h2>{(view.overview||[view.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(view)}/></p>)}<div className="news-time">{view.cutoffAt&&<span>기사 기준 {koreaTime(view.cutoffAt)}</span>}<span>실제 작성 {koreaTime(view.generatedAt)}</span></div></div><NewsStories brief={view} liveRecord={record||''} corrections={corrections}/><NewsClosing brief={view}/></section>;
 }
 export function NewsBriefing({selection}:{selection?:EditionSelection}){
  const [index,setIndex]=useState<NewsIndex|null>(null),[localDate,setDate]=useState(''),[localEdition,setEdition]=useState<Edition>('am');
@@ -150,7 +165,7 @@ export function NewsBriefing({selection}:{selection?:EditionSelection}){
    <button className="news-date-arrow" aria-label="다음 브리핑 날짜" disabled={!next} onClick={()=>next&&choose(next,edition)}>→</button>
   </div>}
   {loading?<p className="news-message" role="status">브리핑을 불러오고 있습니다.</p>:error?<div className="news-message" role="alert"><p>{error}</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:!brief?<div className="news-message"><h2>아직 발행된 브리핑이 없습니다</h2><p>선택한 날짜의 {editionLabel(edition)}이 발행되면 여기에 표시됩니다.</p></div>:<>
-   <div className="news-intro"><h1>전체 뉴스 요약</h1>{(brief.overview||[brief.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(brief)}/></p>)}{brief.cutoffAt&&<div className="news-time"><span>기사 기준 {koreaTime(brief.cutoffAt)}</span><span>생성 {koreaTime(brief.generatedAt)}</span></div>}</div>
+   <div className="news-intro"><h1>{briefingTitle(brief)}</h1>{(brief.overview||[brief.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(brief)}/></p>)}{brief.cutoffAt&&<div className="news-time"><span>기사 기준 {koreaTime(brief.cutoffAt)}</span><span>생성 {koreaTime(brief.generatedAt)}</span></div>}</div>
    <NewsStories key={brief.id} brief={brief}/>
    <NewsClosing brief={brief}/>
   </>}
