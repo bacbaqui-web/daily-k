@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-18",
-  "collectedAt": "2026-10-18T03:47:25.257339+00:00",
+  "collectedAt": "2026-10-18T03:48:21.682519+00:00",
   "windowEnd": "2026-10-18T12:47:25.211732+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5825,6 +5825,71 @@
       "firstPublishedAt": "2026-10-18T02:17:00.581419+00:00"
     },
     {
+      "id": "aagag-1662682-0",
+      "url": "https://aagag.com/issue/?idx=1662682",
+      "source": "애객",
+      "title": "차원이 다른 최홍만의 사과 쪼개기.mp4",
+      "publishedAt": "2026-10-18T12:42:29+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L11nt.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L11nt.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 20,
+      "commentCount": 5,
+      "laughingComments": 2,
+      "score": 20,
+      "kPerComment": 4.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8861213",
+          "text": "저덩치에 튀었다고 기겁하는거 너무 깜찍하네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8861214",
+          "text": "쪼개기:x 작살내기:o"
+        },
+        {
+          "id": "8861216",
+          "text": "저 정도면 걍 착즙기 아니냐"
+        },
+        {
+          "id": "8861219",
+          "text": "와 힘 장난아니네ㅋㅋㅋ"
+        },
+        {
+          "id": "8861222",
+          "text": "사과 한 개 먹고 테이블까지 설거지"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-18T12:48:15.757477+09:00",
+      "sourceTitles": [
+        "차원이 다른 최홍만의 사과 쪼개기.mp4",
+        "차원이 다른 최홍만의 사과 쪼개기.mp4",
+        "차원이 다른 최홍만의 사과 쪼개기.mp4",
+        "보법이 다른 최홍만 사과 쪼개기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-18T03:48:21.658059+00:00",
+      "collectedAt": "2026-10-18T12:48:21.658086+09:00",
+      "firstPublishedAt": "2026-10-18T03:48:21.695678+00:00"
+    },
+    {
       "id": "aagag-1570649-0",
       "url": "https://aagag.com/issue/?idx=1570649",
       "source": "애객",
@@ -8938,7 +9003,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
