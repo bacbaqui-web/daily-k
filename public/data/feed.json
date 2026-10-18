@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-19",
-  "collectedAt": "2026-10-18T16:50:50.307903+00:00",
+  "collectedAt": "2026-10-18T16:51:41.352009+00:00",
   "windowEnd": "2026-10-19T01:50:50.207416+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10274,6 +10274,81 @@
       "firstPublishedAt": "2026-10-17T22:43:54.696132+00:00"
     },
     {
+      "id": "aagag-1662828-0",
+      "url": "https://aagag.com/issue/?idx=1662828",
+      "source": "애객",
+      "title": "맥심카페 빨대 이벤트",
+      "publishedAt": "2026-10-19T01:50:33+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L19TA.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L19Sq.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L19SW.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L14fo.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L19TA.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L19Sq.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L19SW.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L14fo.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-19T01:51:33.967955+09:00",
+      "sourceTitles": [
+        "맥심카페 빨대 이벤트",
+        "ㅇㅎ)) 맥심카페 빨대 이벤트 ㄷㄷㄷㄷㄷ .gif",
+        "ㅇㅎ)맥심카페 빨대 이벤트 ㄷㄷ",
+        "ㅇㅎ) 맥심카페 빨대 이벤트",
+        "아메리카노 비싸도 이해가 되는가게"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-18T16:51:41.287975+00:00",
+      "collectedAt": "2026-10-19T01:51:41.287993+09:00",
+      "firstPublishedAt": "2026-10-18T16:51:41.364534+00:00"
+    },
+    {
       "id": "aagag-1662816-0",
       "url": "https://aagag.com/issue/?idx=1662816",
       "source": "애객",
@@ -10320,7 +10395,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
