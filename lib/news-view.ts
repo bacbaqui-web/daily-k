@@ -57,7 +57,7 @@ export function newsSection(category:string):string|null {
 export function sectionStories(stories:NewsViewStory[]) {
  const used=new Set<string>();
  const sections=NEWS_SECTIONS.map((label,i)=>{
-  const story=stories.find(s=>newsSection(s.category)===label);
+  const story=stories.find(s=>s.placement==='lead'&&newsSection(s.category)===label)||stories.find(s=>s.placement!=='additional'&&newsSection(s.category)===label);
   if(story)used.add(story.id);
   return {label,icon:NEWS_SECTION_ICONS[i],story};
  });

@@ -71,6 +71,7 @@ function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecor
  brief={...brief,stories:ordered};
  const [active,setActive]=useState<number|null>(null);
  useEffect(()=>{const q=new URLSearchParams(location.search),id=liveRecord!==undefined?(q.get('item')||q.get('story')):q.get('story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id,liveRecord]);
+ useEffect(()=>{if(location.hash==='#news-safety')document.getElementById('news-safety')?.scrollIntoView()},[brief.id]);
  const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLElement|null>(null);
  const story=active===null?null:brief.stories[active];
  function move(delta:number){setActive(current=>current===null?null:current+delta>=brief.stories.length?null:Math.max(0,current+delta))}
@@ -92,7 +93,7 @@ function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecor
   window.addEventListener('keydown',navigate,true);return()=>window.removeEventListener('keydown',navigate,true);
  },[active,brief.stories.length]);
  return <Dialog open={story!==null} disablePointerDismissal={false} onOpenChange={open=>{if(!open)setActive(null)}}>
-  <div className="news-main-sections">{grouped.sections.map(section=><section className="news-category-section" key={section.label} aria-label={section.label}>
+  <div className="news-main-sections">{grouped.sections.map(section=><section className="news-category-section" key={section.label} aria-label={section.label} id={section.label==='생활·안전'?'news-safety':undefined}>
    <h2 className="news-section-heading">{section.icon} {section.label}</h2>
    {section.story?<ol className="posts news-stories">{[section.story].map(s=><li key={s.id}>
    <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(brief.stories.indexOf(s))}}>

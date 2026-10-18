@@ -9,7 +9,7 @@ export type NewsTimeline = {
  correctionOf?:NewsReference;
 };
 export type NewsStory = {
- id:string;topicKey:string;category:string;title:string;summary:string[];status:string;
+ id:string;topicKey:string;category:string;placement?:'lead'|'additional';title:string;summary:string[];status:string;
  publishedAt:string|null;eventAt:string|null;eventTimeNote:string;whatChanged:string;whyItMatters:string;uncertainty:string;
  keyFacts:Record<string,string>;sources:NewsSource[];score:number|null;archive?:ArchivedStory;
  followUp?:{editionId:string;storyId:string;delta:string};fallbackNote?:string;emphasis?:string[];relatedArticles?:NewsSource[];

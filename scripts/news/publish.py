@@ -19,7 +19,7 @@ KST = ZoneInfo('Asia/Seoul')
 EARLY_CUTOFF_START = '2026-10-07'
 SINGLE_RUN_START = '2026-10-11'
 ROOT = Path(__file__).resolve().parents[2]
-WEIGHTS = {'recency': .40, 'importance': .25, 'interest': .15, 'domesticImpact': .10, 'reliability': .10}
+WEIGHTS = {'recency': .20, 'importance': .35, 'interest': .10, 'domesticImpact': .25, 'reliability': .10}
 
 def require(ok, message):
     if not ok: raise ValueError(message)
@@ -85,7 +85,6 @@ def validate(draft, history, now=None):
     updated=timestamp(b.get('updatedAt',b['generatedAt']))
     require(generated<=updated<=latest,'Invalid presentation update time')
     stories=b['stories']; require(5<=len(stories)<=10,'Must contain 5–10 stories')
-    require(any(s.get('category')=='웹툰 산업' for s in stories),'A domestic webtoon story is required')
     require(len({s['id'] for s in stories})==len(stories),'Duplicate story ID')
     # Imported ChatGPT records are useful context, not independently verified evidence.
     prior=[(old,s) for old in history if not old.get('archive') and old['id']!=b['id'] and timestamp(old['cutoffAt'])<cutoff for s in old['stories']]
@@ -109,7 +108,7 @@ def validate(draft, history, now=None):
         require(any(source.get('publishedAt') and timestamp(source['publishedAt'])==published for source in s['sources']),'Story time must be backed by a source')
         age=(cutoff-published).total_seconds()/3600
         require(age>=0,'Future story')
-        if s['category']=='웹툰 산업':
+        if '웹툰' in s['category']:
             require(age<=72,'Webtoon fallback must be within 3 days')
             if published.date()<day.date(): require(bool(s.get('fallbackNote')),'Label older webtoon updates explicitly')
         else:
@@ -136,6 +135,16 @@ def validate(draft, history, now=None):
         require(all(isinstance(c.get(k),(int,float)) and 0<=c[k]<=100 for k in WEIGHTS),'Scores must be 0–100')
         require(bool(s.get('scoreReason')),'Explain candidate weighting')
         s['scoreComponents']=c;s['score']=round(sum(c[k]*w for k,w in WEIGHTS.items()),2);s['factsHash']=fingerprint(s['keyFacts'])
+    leads=set()
+    for story in stories:
+        if story.get('placement') is not None:
+            require(story['placement'] in ('lead','additional'),'Invalid story placement')
+        if story.get('placement')=='lead':
+            require(story['category'] not in leads,'Only one lead per category')
+            leads.add(story['category'])
+            scores=story['scoreComponents']
+            require(scores['importance']>=70 and scores['reliability']>=70 and story['score']>=65,
+                    'Lead story must meet importance, reliability and overall score thresholds')
     b['stories']=sorted(stories,key=lambda s:(s['score'],s['publishedAt']),reverse=True)
     events=b.get('events',[]);require(3<=len(events)<=6,'Provide 3–6 upcoming events')
     target=day if b['edition']=='am' else day+timedelta(days=1)
