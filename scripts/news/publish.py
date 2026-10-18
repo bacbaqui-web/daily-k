@@ -21,6 +21,12 @@ SINGLE_RUN_START = '2026-10-11'
 ROOT = Path(__file__).resolve().parents[2]
 WEIGHTS = {'recency': .20, 'importance': .35, 'interest': .10, 'domesticImpact': .25, 'reliability': .10}
 
+def editorial_priority(story):
+    """Importance wins; recency and personal interest cannot outweigh it."""
+    scores=story['scoreComponents']
+    return tuple(scores[k] for k in ('importance','domesticImpact','reliability','recency','interest'))
+
+
 def require(ok, message):
     if not ok: raise ValueError(message)
 
@@ -145,7 +151,13 @@ def validate(draft, history, now=None):
             scores=story['scoreComponents']
             require(scores['importance']>=70 and scores['reliability']>=70 and story['score']>=65,
                     'Lead story must meet importance, reliability and overall score thresholds')
-    b['stories']=sorted(stories,key=lambda s:(s['score'],s['publishedAt']),reverse=True)
+    for story in stories:
+        if story.get('placement')=='lead':
+            eligible=[s for s in stories if s['category']==story['category']
+                      and s['scoreComponents']['reliability']>=70 and s['score']>=65]
+            require(all(editorial_priority(story)>=editorial_priority(s) for s in eligible),
+                    'Lead must have the highest editorial importance in its category')
+    b['stories']=sorted(stories,key=editorial_priority,reverse=True)
     events=b.get('events',[]);require(3<=len(events)<=6,'Provide 3–6 upcoming events')
     target=day if b['edition']=='am' else day+timedelta(days=1)
     for e in events:
