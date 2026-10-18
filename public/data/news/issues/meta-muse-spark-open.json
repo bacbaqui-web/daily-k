@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/pm.json",
+      "category": "과학·기술",
+      "change": "메타가 15일 코딩과 복잡한 작업 수행에 초점을 맞춘 AI 모델의 가중치를 공개했습니다. 자체 장비에서 실행하고 수정할 수 있다는 점이 핵심이며, 대규모 하드웨어와 별도의 이용허락 조건이 적용됩니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T21:13:10+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "pm",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "메타 공식 발표일은 10월 15일입니다. 한국어 소개 기사 발행일은 16일이며 사건 발생일과 구분합니다. 공식 글의 날짜는 확인했으나 실제 발표의 정확한 시각과 기준 시간대는 명시되지 않아 사건 일시 필드는 추정하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-18-pm/meta-muse-spark-open-2026-10-15",
+      "keyFacts": {
+        "가중치": "공개",
+        "공식 발표일": "2026-10-15",
+        "모델 규모": "전체 816B·활성 42B"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-16T15:19:00+09:00",
+      "sources": [
+        {
+          "kind": "official",
+          "language": "en",
+          "name": "Meta AI Research",
+          "publishedAt": "2026-10-15T00:00:00Z",
+          "title": "Introducing Muse Spark Open",
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "verifiedAt": "2026-10-18T21:10:24+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "Promptating",
+          "publishedAt": "2026-10-16T15:19:00+09:00",
+          "title": "메타, Muse Spark Open 공개…내려받아 직접 돌릴 수 있다",
+          "url": "https://promptating.com/articles/2026-10-16-284/",
+          "verificationNote": "검색에 노출된 한국어 기사 본문과 시각을 확인했으며 사실은 메타 공식 원문으로 대조했습니다.",
+          "verifiedAt": "2026-10-18T21:10:24+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "meta-muse-spark-open-2026-10-15",
+      "summary": [
+        "메타가 15일 코딩과 복잡한 작업 수행에 초점을 맞춘 AI 모델의 가중치를 공개했습니다. 자체 장비에서 실행하고 수정할 수 있다는 점이 핵심이며, 대규모 하드웨어와 별도의 이용허락 조건이 적용됩니다.",
+        "공식 발표에서 메타는 전체 8,160억 개 매개변수 중 처리 단계마다 약 420억 개를 사용하는 모델이라고 설명했습니다. 가중치 공개는 학습된 모델 파일을 확보해 직접 운영하거나 조정할 수 있다는 의미입니다.",
+        "직접 운영은 외부 API에만 의존하는 방식 외에 선택지를 제공합니다. 다만 대규모 메모리 등 실행 환경을 갖춰야 하며, 공개 가중치라고 해서 상업 이용 조건이 모두 사라지는 것은 아닙니다. 성능 소개는 메타 자체 평가이며 한국어 실무 성능을 별도로 검증한 결과는 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "메타, ‘Muse Spark Open’ AI 모델 가중치 공개",
+      "uncertainty": "직접 운영은 외부 API에만 의존하는 방식 외에 선택지를 제공합니다. 다만 대규모 메모리 등 실행 환경을 갖춰야 하며, 공개 가중치라고 해서 상업 이용 조건이 모두 사라지는 것은 아닙니다. 성능 소개는 메타 자체 평가이며 한국어 실무 성능을 별도로 검증한 결과는 아닙니다."
+    }
+  ],
+  "id": "meta-muse-spark-open",
+  "schemaVersion": 1,
+  "title": "메타 Muse Spark Open 가중치 공개",
+  "updatedAt": "2026-10-18T21:13:10+09:00"
+}

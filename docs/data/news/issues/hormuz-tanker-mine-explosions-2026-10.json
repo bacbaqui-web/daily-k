@@ -49,10 +49,63 @@
       "supersededBy": [],
       "title": "이란 혁명수비대 “호르무즈서 유조선 또 폭발”…사실관계는 독립 확인 필요",
       "uncertainty": "사고와 기뢰 원인은 이란 군 당국의 발표에 근거합니다. 선박 신원·피해·운항 데이터에 대한 독립 확인은 찾지 못했습니다."
+    },
+    {
+      "briefingPath": "2026-10-18/pm.json",
+      "category": "국제정세",
+      "change": "이란이 조건부로 호르무즈 해협을 다시 여는 방안을 제시했습니다. 국제 원유 수송과 에너지 가격에 영향을 줄 사안으로, 실제 재개방 합의가 이뤄진 것은 아닙니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T21:13:10+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "pm",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 바그다드 인터뷰 보도이며 정확한 발언 시각은 미확인입니다.",
+      "eventTimezone": "Asia/Baghdad",
+      "followUp": {
+        "delta": "이전 유조선 폭발 주장 보도 이후 18일 이란 외무장관이 조건부 해협 개방과 협상 일정을 제시했습니다.",
+        "editionId": "2026-10-12-am",
+        "storyId": "iran-hormuz-tanker-mine-claim-2026-10-12"
+      },
+      "id": "2026-10-18-pm/iran-hormuz-conditional-opening-2026-10-18",
+      "keyFacts": {
+        "발표": "이란의 조건부 해협 개방 계획 유효 입장",
+        "합의 여부": "미국 수용·공동 합의 확인 안 됨"
+      },
+      "previous": {
+        "editionId": "2026-10-12-am",
+        "storyId": "iran-hormuz-tanker-mine-claim-2026-10-12"
+      },
+      "publishedAt": "2026-10-18T19:10:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-18T19:10:00+09:00",
+          "title": "이란 \"호르무즈 개방 제안 유효...공격받으면 강력 대응\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610181910293821",
+          "verifiedAt": "2026-10-18T21:10:24+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "주장",
+      "storyId": "iran-hormuz-conditional-opening-2026-10-18",
+      "summary": [
+        "이란이 조건부로 호르무즈 해협을 다시 여는 방안을 제시했습니다. 국제 원유 수송과 에너지 가격에 영향을 줄 사안으로, 실제 재개방 합의가 이뤄진 것은 아닙니다.",
+        "18일 YTN 보도에 따르면 이란 외무장관은 요구 조건이 충족되면 6일째 해협을 열고 7일째 협상을 재개하는 구상을 설명했습니다. 이는 이란이 제시한 조건부 계획으로, 상대국이 수용해 공동 합의에 이르렀다는 발표는 아닙니다.",
+        "해상 통항의 안정 여부는 원유 수송과 운임·보험 비용에 영향을 줄 수 있습니다. 실제 통항 정상화 여부와 양측의 공식 합의가 다음 확인 지점이며, 제안만으로 위험이 해소됐다고 볼 수는 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "이란, 호르무즈 해협 조건부 재개방 제안",
+      "uncertainty": "해상 통항의 안정 여부는 원유 수송과 운임·보험 비용에 영향을 줄 수 있습니다. 실제 통항 정상화 여부와 양측의 공식 합의가 다음 확인 지점이며, 제안만으로 위험이 해소됐다고 볼 수는 없습니다."
     }
   ],
   "id": "hormuz-tanker-mine-explosions-2026-10",
   "schemaVersion": 1,
   "title": "호르무즈 해협 통제와 유조선 폭발 주장",
-  "updatedAt": "2026-10-18T21:10:25+09:00"
+  "updatedAt": "2026-10-18T21:13:10+09:00"
 }

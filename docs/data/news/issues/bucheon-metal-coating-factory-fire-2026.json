@@ -118,10 +118,64 @@
       "supersededBy": [],
       "title": "부천 공장 화재 중상 소방관 사망…원인·위험물 조사 계속",
       "uncertainty": "다른 중상 소방관의 치료 경과, 용기 내용물, 최초 발화 지점과 화재 원인은 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-10-18/pm.json",
+      "category": "사회이슈",
+      "change": "8명의 사상자가 발생한 부천 공장 화재와 관련해 경찰이 업주를 입건했습니다. 발화 원인과 안전관리 의무 위반 여부를 조사하며 사고 책임을 확인하고 있습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T21:13:10+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "pm",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 입건 보도이며 정확한 입건 시각은 미확인입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "이전 인명 피해 보도 이후 공장 대표 입건과 적용 혐의가 새로 보도됐습니다.",
+        "editionId": "2026-10-17-am",
+        "storyId": "bucheon-fire-fatality-2026-10-17"
+      },
+      "id": "2026-10-18-pm/bucheon-factory-owner-booked-2026-10-18",
+      "keyFacts": {
+        "발화 원인": "추정·조사 중",
+        "사상자": "8명",
+        "새 수사 단계": "공장 대표 입건"
+      },
+      "previous": {
+        "editionId": "2026-10-17-am",
+        "storyId": "bucheon-fire-fatality-2026-10-17"
+      },
+      "publishedAt": "2026-10-18T18:59:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-18T18:59:00+09:00",
+          "title": "'8명 사상' 부천 화재 수사 속도...공장 대표 입건",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610181859117567",
+          "verifiedAt": "2026-10-18T21:10:24+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "bucheon-factory-owner-booked-2026-10-18",
+      "summary": [
+        "8명의 사상자가 발생한 부천 공장 화재와 관련해 경찰이 업주를 입건했습니다. 발화 원인과 안전관리 의무 위반 여부를 조사하며 사고 책임을 확인하고 있습니다.",
+        "YTN은 경찰이 공장 대표에게 업무상 과실치상과 업무상 실화 혐의를 적용했다고 전했습니다. 방폭 설비와 평소 예방조치가 조사 대상이며, 유증기와 정전기에 의한 발화는 현재 추정 단계입니다.",
+        "소방대원의 피해를 포함한 혐의 적용 범위와 중대재해처벌법 적용 여부는 검토 중입니다. 입건은 수사 절차의 진행을 뜻하며 유죄 확정이 아닙니다. 감식과 진술 조사 결과에 따라 원인·책임 범위가 달라질 수 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "8명 사상 부천 공장 화재…업주 입건",
+      "uncertainty": "소방대원의 피해를 포함한 혐의 적용 범위와 중대재해처벌법 적용 여부는 검토 중입니다. 입건은 수사 절차의 진행을 뜻하며 유죄 확정이 아닙니다. 감식과 진술 조사 결과에 따라 원인·책임 범위가 달라질 수 있습니다."
     }
   ],
   "id": "bucheon-metal-coating-factory-fire-2026",
   "schemaVersion": 1,
   "title": "부천 금속 도장공장 화재와 안전 조사",
-  "updatedAt": "2026-10-18T21:10:25+09:00"
+  "updatedAt": "2026-10-18T21:13:10+09:00"
 }
