@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-18",
-  "collectedAt": "2026-10-18T10:59:35.628350+00:00",
+  "collectedAt": "2026-10-18T11:00:35.696638+00:00",
   "windowEnd": "2026-10-18T19:59:35.585717+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8597,6 +8597,66 @@
       "firstPublishedAt": "2026-10-18T04:34:37.731787+00:00"
     },
     {
+      "id": "aagag-1662772-0",
+      "url": "https://aagag.com/issue/?idx=1662772",
+      "source": "애객",
+      "title": "후배에게 돈갚는 만화",
+      "publishedAt": "2026-10-18T19:56:58+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1AEN.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1AEO.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L1AEN.webp",
+        "https://i.aagag.com/o/L1AEO.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 3,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.6666666666666666,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8862824",
+          "text": "성별 반대로 그린다면? ㅋㅋ"
+        },
+        {
+          "id": "8862834",
+          "text": "10만원 줘야함"
+        },
+        {
+          "id": "8862832",
+          "text": "100만원만 더 빌릴게"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-18T20:00:28.818659+09:00",
+      "sourceTitles": [
+        "후배한테 돈갚는 만화",
+        "ㅇㅎ) 후배한테 돈갚는 만화",
+        "ㅇㅎ) 후배에게 돈갚는 만화",
+        "후배에게 돈 갚는 Manhwa",
+        "후배에게 돈갚는 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-18T11:00:35.685482+00:00",
+      "collectedAt": "2026-10-18T20:00:35.685497+09:00",
+      "firstPublishedAt": "2026-10-18T11:00:35.705145+00:00"
+    },
+    {
       "id": "aagag-1662633-0",
       "url": "https://aagag.com/issue/?idx=1662633",
       "source": "애객",
@@ -8710,7 +8770,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
