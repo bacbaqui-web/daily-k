@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime
-from oracle_runner import target, extract, evidence_urls, check_sources
+from oracle_runner import target, extract, evidence_urls, check_sources, histories
 
 class OracleTests(unittest.TestCase):
     def test_korean_schedule_independent_of_host_timezone(self):
@@ -8,6 +8,11 @@ class OracleTests(unittest.TestCase):
         self.assertEqual(target(datetime.fromisoformat('2026-10-19T12:00:00+00:00')), '2026-10-19-pm')
         with self.assertRaises(ValueError):
             target(datetime.fromisoformat('2026-10-19T13:00:00+00:00'))
+    def test_acceptance_excludes_target_from_prior_history(self):
+        history, recent, issues = histories('2026-10-18-pm')
+        self.assertFalse(any(b['id'] == '2026-10-18-pm' for b in history))
+        self.assertFalse(any(b['id'] == '2026-10-18-pm' for b in recent))
+        self.assertFalse(any(i['latest']['editionId'] == '2026-10-18-pm' for i in issues['issues']))
     def test_incomplete_response_rejected(self):
         with self.assertRaises(ValueError):
             extract({'status': 'incomplete', 'output': []})

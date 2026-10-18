@@ -76,17 +76,20 @@ def stamp(brief, edition, verified_at):
         event['source']['verifiedAt'] = verified_at
     return brief
 
-def histories():
+def histories(edition=None):
     from archive import load_editions
     history = load_editions(ROOT / 'public/data/news')
+    if edition:
+        history = [b for b in history if b['id'] != edition]
     # Full issue registry plus last 7 days of complete, verified edition history.
     recent = [b for b in history if not b.get('archive')][-14:]
-    issues = json.loads((ROOT / 'public/data/news/issues/index.json').read_text())
+    from timeline import build_timelines
+    issues = build_timelines(history)['issues/index.json']
     return history, recent, issues
 
 def prepare(edition, run):
     from publish import validate
-    history, recent, issues = histories()
+    history, recent, issues = histories(edition)
     rules = (ROOT / 'ops/news-briefing.md').read_text()
     schema_help = (ROOT / 'scripts/news/publish.py').read_text().split('def write_json')[0]
     sample = recent[-1] if recent else {}
