@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-18",
-  "collectedAt": "2026-10-18T17:21:19.506963+09:00",
-  "windowEnd": "2026-10-18T17:16:07.050642+09:00",
+  "collectedAt": "2026-10-18T08:31:51.560382+00:00",
+  "windowEnd": "2026-10-18T17:31:51.522490+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8175,66 +8175,6 @@
       "firstPublishedAt": "2026-10-17T22:43:54.696132+00:00"
     },
     {
-      "id": "aagag-1662515-0",
-      "url": "https://aagag.com/issue/?idx=1662515",
-      "source": "애객",
-      "title": "배, 엉덩이, 팔뚝 운동",
-      "publishedAt": "2026-10-17T17:26:10+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KCDbI.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/KCDbI.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8858635",
-          "text": "어? 저건..?"
-        },
-        {
-          "id": "8858638",
-          "text": "지구박이.."
-        }
-      ],
-      "commentsFetchedAt": "2026-10-17T17:29:54.466548+09:00",
-      "sourceTitles": [
-        "배, 엉덩이, 팔뚝 운동",
-        "배, 엉덩이, 팔뚝 운동",
-        "배, 엉덩이, 팔뚝 운동",
-        "ㅅㅅ는 운동이다.mp4",
-        "ㅅㅅ는 운동이다.mp4",
-        "ㅅㅅ는 운동이다.mp4",
-        "집에서 맨몸운동 하는 이유",
-        "다이어트 운동",
-        "셱쓰 하려면 운동을 해야하는구나",
-        "섹 스는 운동이 맞는 것 같음",
-        "ㅇㅎ) 짤 털고 갑니다"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 11,
-      "sourceTitlesFetchedAt": "2026-10-17T08:30:06.596270+00:00",
-      "collectedAt": "2026-10-17T17:30:06.596334+09:00",
-      "firstPublishedAt": "2026-10-17T08:30:06.637820+00:00"
-    },
-    {
       "id": "aagag-1662535-0",
       "url": "https://aagag.com/issue/?idx=1662535",
       "source": "애객",
@@ -8322,9 +8262,9 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
