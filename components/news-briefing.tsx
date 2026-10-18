@@ -7,7 +7,7 @@ import {Dialog,DialogContent} from './ui/dialog';
 import {ReaderHeading} from './reader-heading';
 import {NewsReaderActions} from './news-question-button';
 import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
-import {combineBriefings,overviewPhrases,sectionStories,briefingTitle,type NewsView,type NewsViewStory} from '../lib/news-view';
+import {combineBriefings,sectionStories,type NewsView,type NewsViewStory} from '../lib/news-view';
 import {type Correction} from '../lib/live';
 import {RecordCorrections} from './record-corrections';
 
@@ -127,7 +127,7 @@ function NewsClosing({brief}:{brief:NewsView}){return <>
 export function NewsPrepared({brief,record,corrections=[]}:{brief:NewsBrief;record?:string;corrections?:Correction[]}){
  const view=combineBriefings([brief]);
  if(!view)return null;
- return <section className="news"><div className="news-intro"><h2>{briefingTitle(view)}</h2>{(view.overview||[view.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(view)}/></p>)}<div className="news-time">{view.cutoffAt&&<span>기사 기준 {koreaTime(view.cutoffAt)}</span>}<span>실제 작성 {koreaTime(view.generatedAt)}</span></div></div><NewsStories brief={view} liveRecord={record||''} corrections={corrections}/><NewsClosing brief={view}/></section>;
+ return <section className="news"><NewsStories brief={view} liveRecord={record||''} corrections={corrections}/><NewsClosing brief={view}/></section>;
 }
 export function NewsBriefing({selection}:{selection?:EditionSelection}){
  const [index,setIndex]=useState<NewsIndex|null>(null),[localDate,setDate]=useState(''),[localEdition,setEdition]=useState<Edition>('am');
@@ -165,7 +165,6 @@ export function NewsBriefing({selection}:{selection?:EditionSelection}){
    <button className="news-date-arrow" aria-label="다음 브리핑 날짜" disabled={!next} onClick={()=>next&&choose(next,edition)}>→</button>
   </div>}
   {loading?<p className="news-message" role="status">브리핑을 불러오고 있습니다.</p>:error?<div className="news-message" role="alert"><p>{error}</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:!brief?<div className="news-message"><h2>아직 발행된 브리핑이 없습니다</h2><p>선택한 날짜의 {editionLabel(edition)}이 발행되면 여기에 표시됩니다.</p></div>:<>
-   <div className="news-intro"><h1>{briefingTitle(brief)}</h1>{(brief.overview||[brief.intro]).map((p,i)=><p key={i}><Emphasis text={p} phrases={overviewPhrases(brief)}/></p>)}{brief.cutoffAt&&<div className="news-time"><span>기사 기준 {koreaTime(brief.cutoffAt)}</span><span>생성 {koreaTime(brief.generatedAt)}</span></div>}</div>
    <NewsStories key={brief.id} brief={brief}/>
    <NewsClosing brief={brief}/>
   </>}
