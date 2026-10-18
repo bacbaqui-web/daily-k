@@ -1,9 +1,10 @@
 {
   "version": 1,
-  "state": "ok",
-  "updatedAt": "2026-10-18T13:39:23.796455+00:00",
-  "lastSuccessAt": "2026-10-18T13:39:23.796455+00:00",
+  "state": "running",
+  "updatedAt": "2026-10-18T13:46:37.794642+00:00",
+  "lastSuccessAt": "2026-10-18T13:45:38.296460+00:00",
   "delaySeconds": 15,
-  "expectedUpdateBy": "2026-10-18T14:10:00+00:00",
-  "collectorHost": "local"
+  "startedAt": "2026-10-18T13:46:37.794642+00:00",
+  "expectedUpdateBy": "2026-10-18T16:56:37.794642+00:00",
+  "collectorHost": "oracle"
 }
