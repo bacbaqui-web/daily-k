@@ -56,10 +56,16 @@ def run_codex(prompt, *, search=False):
                     '-c', 'web_search="live"' if search else 'web_search="disabled"',
                     '-C', directory, '--json', '--output-last-message', str(result_path), '-']
         # The CLI selects its account-supported default; never fall back to API billing.
-        result = subprocess.run(command, input=prompt, env=environment(), text=True,
-                                capture_output=True, timeout=1200)
+        log_dir = Path(os.environ.get('NEWS_CODEX_LOG_DIR', '/home/ubuntu/daily-k-news/state/codex-logs'))
+        log_dir.mkdir(parents=True, exist_ok=True, mode=0o700)
+        with tempfile.NamedTemporaryFile(mode='w+', prefix='run-', suffix='.jsonl', dir=log_dir, delete=False) as output_log, \
+             tempfile.NamedTemporaryFile(mode='w+', prefix='run-', suffix='.stderr', dir=log_dir, delete=False) as error_log:
+            result = subprocess.run(command, input=prompt, env=environment(), text=True,
+                                    stdout=output_log, stderr=error_log, timeout=1200)
+            output_log.seek(0)
+            events = output_log.read()
         if result.returncode:
-            raise ValueError(f'Codex exited {result.returncode}; no publication')
-        response = normalize_events(result.stdout, result_path.read_text() if result_path.exists() else '')
-        response['executionEvents'] = result.stdout
+            raise ValueError(f'Codex exited {result.returncode}; inspect private log {error_log.name}; no publication')
+        response = normalize_events(events, result_path.read_text() if result_path.exists() else '')
+        response['executionEvents'] = events
         return response
