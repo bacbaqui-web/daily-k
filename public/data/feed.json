@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-18",
-  "collectedAt": "2026-10-18T22:39:21.535280+09:00",
-  "windowEnd": "2026-10-18T22:34:23.906791+09:00",
+  "collectedAt": "2026-10-18T13:46:42.135999+00:00",
+  "windowEnd": "2026-10-18T22:46:42.038289+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10281,12 +10281,57 @@
       "sourceTitlesFetchedAt": "2026-10-17T22:43:54.667662+00:00",
       "collectedAt": "2026-10-18T07:43:54.667674+09:00",
       "firstPublishedAt": "2026-10-17T22:43:54.696132+00:00"
+    },
+    {
+      "id": "aagag-1662816-0",
+      "url": "https://aagag.com/issue/?idx=1662816",
+      "source": "애객",
+      "title": "미카미 유아 근황.mp4",
+      "publishedAt": "2026-10-18T22:38:09+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L11O5.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L11O5.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-18T22:42:07.703596+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 거의 반쯤 튀어나온 미카미유아",
+        "(ㅎㅂ) 치어리더 유아",
+        "ㅇㅎ) AV배우 레전드 미카미 유아 근황.mp4",
+        "미카미 유아 근황.mp4",
+        "ㅇㅎ) 대만에서 치어리더로 열일한 오늘자 미카미 유아 근황.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-18T13:42:22.734216+00:00",
+      "collectedAt": "2026-10-18T22:42:22.734231+09:00",
+      "firstPublishedAt": "2026-10-18T13:46:42.152762+00:00"
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 349,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
