@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/pm.json",
+      "category": "국제·안보",
+      "change": "러시아 상트페테르부르크 석유시설 화재와 현지 당국의 사상자 발표가 전해졌으며, 러시아의 드론 격추 수치는 당국 주장으로 남아 있습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T21:10:25+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "pm",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "공격은 17~18일 밤사이 발생한 것으로 보도됐지만 정확한 시작 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Europe/Moscow",
+      "followUp": null,
+      "id": "2026-10-18-pm/russia-st-petersburg-oil-site-drone-attack-2026-10-18",
+      "keyFacts": {
+        "러시아 국방부 격추 주장": "드론 1,015대, 독립 확인되지 않음",
+        "현지 주지사 발표 부상자": "5명",
+        "현지 주지사 발표 사망자": "1명",
+        "화재 시설": "Petersburg Oil Terminal, Ruchi oil depot"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-18T18:49:17+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-18T19:22:15+09:00",
+          "title": "러 “우크라 드론 1015대 격추”…상트페테르부르크 석유시설 화재",
+          "url": "https://www.newsis.com/view/NISX20261018_0003830631",
+          "verifiedAt": "2026-10-18T21:10:25+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "en",
+          "name": "AP",
+          "publishedAt": "2026-10-18T18:49:17+09:00",
+          "title": "Blaze at St Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia",
+          "url": "https://apnews.com/article/f813d3725b8b5f23958a68a95729fd0d",
+          "verifiedAt": "2026-10-18T21:10:25+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "russia-st-petersburg-oil-site-drone-attack-2026-10-18",
+      "summary": [
+        "우크라이나의 드론 공격으로 러시아 상트페테르부르크의 석유 터미널과 루치 정유 저장시설에 불이 났고, 현지 주지사는 1명이 숨지고 5명이 다쳤다고 밝혔습니다.",
+        "AP는 알렉산드르 베글로프 주지사의 발표를 인용해 두 석유 관련 시설의 화재와 인명 피해를 전했습니다. 러시아 국방부는 밤사이 우크라이나 드론 1,015대를 격추했다고 주장했지만, 이 수치는 러시아 측 발표로 독립 확인된 숫자와 구분해야 합니다.",
+        "에너지 시설은 전쟁 중 연료·물류 공급과 군수 운영에 영향을 주는 표적이어서 이번 공격은 러시아 후방의 에너지 기반시설이 계속 전장에 포함되고 있음을 보여줍니다.",
+        "현재 확인 가능한 피해 규모는 현지 당국 발표와 AP 보도에 근거합니다. 시설 가동 중단 규모, 공격의 구체적 주체와 전체 피해는 독립적으로 모두 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "상트페테르부르크 석유시설 드론 공격…현지 당국 “1명 사망·5명 부상”",
+      "uncertainty": "격추 대수는 러시아 당국 주장이고 독립 검증이 확인되지 않았습니다. 시설 피해·가동 차질 규모도 후속 확인이 필요합니다."
+    }
+  ],
+  "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+  "schemaVersion": 1,
+  "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방",
+  "updatedAt": "2026-10-18T21:10:25+09:00"
+}

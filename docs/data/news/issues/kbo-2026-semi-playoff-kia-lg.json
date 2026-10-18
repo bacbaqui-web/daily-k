@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/pm.json",
+      "category": "스포츠",
+      "change": "KIA가 2차전을 6-3으로 이겨 시리즈 2승을 기록했고, 플레이오프 진출까지 1승을 남겼습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T21:10:25+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "pm",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 18일 광주에서 열린 2026 KBO 준플레이오프 2차전 결과입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-18-pm/kia-lg-semi-playoff-game2-2026-10-18",
+      "keyFacts": {
+        "3차전 일정": "2026년 10월 20일 잠실 예정",
+        "KIA 시리즈 전적": "2승",
+        "준PO 2차전 결과": "KIA 6-3 LG",
+        "플레이오프 진출까지": "KIA 1승 필요"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-18T17:23:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-18T17:23:00+09:00",
+          "title": "KIA, 이틀 연속 LG 꺾고 준PO 2연승…앞으로 1승",
+          "url": "https://www.yna.co.kr/view/AKR20261018044700007",
+          "verifiedAt": "2026-10-18T21:10:25+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kia-lg-semi-playoff-game2-2026-10-18",
+      "summary": [
+        "KIA 타이거즈가 준플레이오프 2차전에서 LG 트윈스를 6-3으로 꺾고 시리즈 2연승을 거뒀습니다. 5전 3선승제에서 플레이오프 진출까지 1승만 남겼습니다.",
+        "연합뉴스에 따르면 KIA는 1회말 연속 장타로 5점을 뽑아 초반 흐름을 가져왔습니다. KIA 선발 제임스 올러는 6이닝 2실점으로 버텼고, LG는 초반 실점 뒤 추격했지만 격차를 뒤집지 못했습니다.",
+        "KIA는 17일 1차전도 5-1로 이겨 홈에서 열린 두 경기를 모두 가져갔습니다. 1·2차전 연승은 유리한 출발이지만, 시리즈가 끝난 것은 아니며 3차전 이후 LG의 반격 가능성은 남아 있습니다.",
+        "3차전은 10월 20일 잠실에서 열릴 예정입니다. KIA가 한 번 더 이기면 플레이오프에 진출하고, LG는 홈에서 시리즈를 연장할 기회를 노립니다."
+      ],
+      "supersededBy": [],
+      "title": "KIA, LG에 6-3 승리…준플레이오프 2연승으로 1승 남겨",
+      "uncertainty": "시리즈는 아직 끝나지 않았으며 3차전 이후 결과는 미정입니다."
+    }
+  ],
+  "id": "kbo-2026-semi-playoff-kia-lg",
+  "schemaVersion": 1,
+  "title": "2026 KBO 준플레이오프 KIA-LG 시리즈",
+  "updatedAt": "2026-10-18T21:10:25+09:00"
+}

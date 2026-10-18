@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-18/pm.json",
+      "category": "기술·보건의료",
+      "change": "국회 의원실이 확보한 자료를 인용해 1~9월 침해사고의 의료기관 규모별 분포와 보안관제 가입률이 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-18T21:10:25+09:00",
+      "coveredOn": "2026-10-18",
+      "edition": "pm",
+      "editionDate": "2026-10-18",
+      "editionId": "2026-10-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "국회 보건복지위원회 의원실이 확보한 자료를 인용한 18일 보도입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-18-pm/medical-clinics-cybersecurity-gap-2026-10-18",
+      "keyFacts": {
+        "2026년 1~9월 민간 의료기관 침해사고": "28건",
+        "가입률": "0.007% 보도",
+        "전국 병·의원 수": "약 7만5천곳",
+        "정부 보안관제 가입 의료기관": "5곳",
+        "중소 병·의원 사고": "25건"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-18T09:29:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "major",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-10-18T09:29:00+09:00",
+          "title": "중소 병·의원 해킹 피해 90%‥보안관제 가입 0.007%",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6858735_36918.html",
+          "verifiedAt": "2026-10-18T21:10:25+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-18T16:14:09+09:00",
+          "title": "의료기관 해킹 피해 90% 중소 병·의원…보안관제 가입 0.007%",
+          "url": "https://nwww.newsis.com/view/NISX20261018_0003830461",
+          "verifiedAt": "2026-10-18T21:10:25+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "medical-clinics-cybersecurity-gap-2026-10-18",
+      "summary": [
+        "올해 1~9월 민간 의료기관 침해사고 28건 가운데 25건이 중소 병·의원에 집중됐다는 자료가 공개됐습니다. 정부 보안관제에 가입한 병·의원은 전국 7만5천여 곳 중 5곳으로 보도됐습니다.",
+        "MBC는 국회 보건복지위원회 소속 소병훈 의원실이 한국사회보장정보원에서 받은 자료를 인용했습니다. 이에 따르면 중소 병·의원의 사고 비중은 약 89%로, 기사에서는 90%로 요약했습니다.",
+        "보안관제 서비스는 사이버 위협을 모니터링하고 사고 대응을 지원하는 체계입니다. 가입률이 낮으면 인력과 예산이 부족한 소규모 의료기관이 공격을 조기에 발견하거나 대응하는 데 취약할 수 있습니다.",
+        "이번 수치는 1~9월 사고 자료와 가입 현황에 관한 보도이며, 해킹으로 유출된 환자 수나 개별 사고의 피해 정도를 뜻하지는 않습니다. 정부 지원 확대 여부와 실제 가입 장벽은 추가 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "의료기관 해킹 피해 90%가 중소 병·의원…보안관제 가입 0.007%",
+      "uncertainty": "자료는 보도된 침해사고와 가입 현황입니다. 개별 사고의 원인·피해 범위와 정부 지원 대책의 확정 내용은 확인되지 않았습니다."
+    }
+  ],
+  "id": "medical-provider-cybersecurity-coverage-2026",
+  "schemaVersion": 1,
+  "title": "의료기관 사이버보안과 보안관제 가입 격차",
+  "updatedAt": "2026-10-18T21:10:25+09:00"
+}

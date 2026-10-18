@@ -1,6 +1,174 @@
 {
-  "editionCount": 63,
+  "editionCount": 64,
   "issues": [
+    {
+      "categories": [
+        "국내정치·외교"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "unc-rok-sovereignty-southern-fence-comment-2026",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "국방부와 유엔사가 발언의 성격과 대한민국 주권에 관한 공식 설명을 각각 내놨습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "후속",
+        "storyId": "unc-brunson-sovereignty-clarification-2026-10-18",
+        "title": "브런슨 ‘남쪽 철책선’ 발언 논란…국방부 “개인 견해”"
+      },
+      "path": "unc-rok-sovereignty-southern-fence-comment-2026.json",
+      "title": "유엔사 역할과 대한민국 주권을 둘러싼 브런슨 발언 논란"
+    },
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "러시아 상트페테르부르크 석유시설 화재와 현지 당국의 사상자 발표가 전해졌으며, 러시아의 드론 격추 수치는 당국 주장으로 남아 있습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "보도",
+        "storyId": "russia-st-petersburg-oil-site-drone-attack-2026-10-18",
+        "title": "상트페테르부르크 석유시설 드론 공격…현지 당국 “1명 사망·5명 부상”"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "기술·보건의료"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "medical-provider-cybersecurity-coverage-2026",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "국회 의원실이 확보한 자료를 인용해 1~9월 침해사고의 의료기관 규모별 분포와 보안관제 가입률이 보도됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "보도",
+        "storyId": "medical-clinics-cybersecurity-gap-2026-10-18",
+        "title": "의료기관 해킹 피해 90%가 중소 병·의원…보안관제 가입 0.007%"
+      },
+      "path": "medical-provider-cybersecurity-coverage-2026.json",
+      "title": "의료기관 사이버보안과 보안관제 가입 격차"
+    },
+    {
+      "categories": [
+        "경제·물가"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "korea-retail-fuel-price-trend-2026-10",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "오피넷 10월 둘째 주 평균에서 휘발유와 경유가 각각 소폭 내리며 하락 흐름이 22주 이어졌습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "발표",
+        "storyId": "gasoline-price-second-week-oct-2026",
+        "title": "주유소 기름값 22주째 하락…휘발유 1,856.6원·경유 1,842.8원"
+      },
+      "path": "korea-retail-fuel-price-trend-2026-10.json",
+      "title": "한국 주유소 휘발유·경유 소매가격 추이"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "korea-heavy-rain-flooding-2026-10-18",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "18일 강수 피해 신고가 지역별로 보도됐고 남부·제주에는 19일까지 추가 비가 예보됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "후속",
+        "storyId": "heavy-rain-impacts-korea-2026-10-18",
+        "title": "전국 가을비 피해…중부는 잦아들고 남부·제주는 19일 오전까지"
+      },
+      "path": "korea-heavy-rain-flooding-2026-10-18.json",
+      "title": "2026년 10월 전국 가을비와 침수 피해"
+    },
+    {
+      "categories": [
+        "노동·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "korea-equal-value-work-equal-pay-roadmap-2026",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "고용노동부가 연내 로드맵을 목표로 전문가 의견을 수렴 중이라고 보도됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "예정",
+        "storyId": "equal-value-work-pay-roadmap-2026-10-18",
+        "title": "고용부, ‘동일가치노동 동일임금’ 로드맵 연내 마련 추진"
+      },
+      "path": "korea-equal-value-work-equal-pay-roadmap-2026.json",
+      "title": "동일가치노동 동일임금 제도화 로드맵"
+    },
+    {
+      "categories": [
+        "웹툰 산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "kidari-wefesta-womens-content-festival-2026",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "첫 위페스타를 11월 20~22일 서울에서 개최한다고 발표했으며 상세 프로그램과 예매는 추후 공개 예정입니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "예정",
+        "storyId": "wefesta-webtoon-ip-event-2026-10-16",
+        "title": "키다리스튜디오, 여성향 웹툰 축제 ‘위페스타’ 첫 개최"
+      },
+      "path": "kidari-wefesta-womens-content-festival-2026.json",
+      "title": "키다리스튜디오 여성향 콘텐츠 축제 위페스타"
+    },
+    {
+      "categories": [
+        "스포츠"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-18T21:10:25+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "kbo-2026-semi-playoff-kia-lg",
+      "lastCoveredAt": "2026-10-18T21:10:25+09:00",
+      "lastCoveredDate": "2026-10-18",
+      "latest": {
+        "archive": false,
+        "change": "KIA가 2차전을 6-3으로 이겨 시리즈 2승을 기록했고, 플레이오프 진출까지 1승을 남겼습니다.",
+        "editionId": "2026-10-18-pm",
+        "stage": "결과",
+        "storyId": "kia-lg-semi-playoff-game2-2026-10-18",
+        "title": "KIA, LG에 6-3 승리…준플레이오프 2연승으로 1승 남겨"
+      },
+      "path": "kbo-2026-semi-playoff-kia-lg.json",
+      "title": "2026 KBO 준플레이오프 KIA-LG 시리즈"
+    },
     {
       "categories": [
         "웹툰 산업"
@@ -5274,7 +5442,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 481,
+  "storyCount": 489,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-18T09:08:05+09:00"
+  "updatedAt": "2026-10-18T21:10:25+09:00"
 }
