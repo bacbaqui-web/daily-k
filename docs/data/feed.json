@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-18",
-  "collectedAt": "2026-10-18T09:52:47.948654+00:00",
+  "collectedAt": "2026-10-18T09:54:20.893933+00:00",
   "windowEnd": "2026-10-18T18:52:47.908806+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6450,6 +6450,64 @@
       "firstPublishedAt": "2026-10-18T04:33:58.648691+00:00"
     },
     {
+      "id": "aagag-1662759-0",
+      "url": "https://aagag.com/issue/?idx=1662759",
+      "source": "애객",
+      "title": "14개월 아기가 보여주는 진기명기 ㅋㅋㅋㅋ",
+      "publishedAt": "2026-10-18T18:48:51+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L163e.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L163e.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 17,
+      "kPerComment": 5.666666666666667,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8862565",
+          "text": "한 140개월쯤에 자전거 양손 놓을때 느낌인데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8862566",
+          "text": "어이구.. 잘한다 뭘 하든 좋을때긴 함 ㅎㅎ"
+        },
+        {
+          "id": "8862575",
+          "text": "본능 ㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-18T18:54:08.759466+09:00",
+      "sourceTitles": [
+        "14개월 아기가 보여주는 진기명기",
+        "14개월 아기가 보여주는 진기명기 ㅋㅋㅋㅋ",
+        "14개월 아기가 보여주는 진기명기 ㅋㅋㅋㅋ",
+        "14개월 아기가 보여주는 진기명기 ㅋㅋㅋㅋㅋ",
+        "엄마도 몰랐던 14개월의 개인기.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-18T09:54:20.871064+00:00",
+      "collectedAt": "2026-10-18T18:54:20.871086+09:00",
+      "firstPublishedAt": "2026-10-18T09:54:20.906050+00:00"
+    },
+    {
       "id": "aagag-1662573-0",
       "url": "https://aagag.com/issue/?idx=1662573",
       "source": "애객",
@@ -8433,7 +8491,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
