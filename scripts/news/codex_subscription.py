@@ -34,7 +34,9 @@ def normalize_events(lines, final_text):
         if event.get('type') == 'item.completed':
             item = event.get('item', {})
             if item.get('type') in ('web_search', 'web_search_call'):
-                output.append({'type': 'web_search_call', 'action': item.get('action', {}), 'status': 'completed'})
+                action = dict(item.get('action', {}))
+                action['sources'] = [{'url': result['url']} for result in item.get('results', []) if result.get('url')]
+                output.append({'type': 'web_search_call', 'action': action, 'status': 'completed'})
     if not completed or not final_text.strip():
         raise ValueError('Codex did not complete the requested output')
     output.append({'type': 'message', 'content': [{'type': 'output_text', 'text': final_text}]})

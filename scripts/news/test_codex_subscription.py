@@ -12,10 +12,11 @@ class SubscriptionTests(unittest.TestCase):
             self.assertNotIn(key, result)
     def test_search_evidence_comes_from_tools(self):
         lines = '\n'.join(json.dumps(x) for x in [
-            {'type': 'item.completed', 'item': {'type': 'web_search', 'action': {'type': 'open_page', 'url': 'https://example.org/news'}}},
+            {'type': 'item.completed', 'item': {'type': 'web_search', 'action': {'type': 'open_page', 'url': 'https://example.org/news'}, 'results': [{'url': 'https://example.org/second'}]}},
             {'type': 'turn.completed'}])
         response = normalize_events(lines, 'result')
         self.assertEqual(response['output'][0]['action']['url'], 'https://example.org/news')
+        self.assertEqual(response['output'][0]['action']['sources'], [{'url': 'https://example.org/second'}])
     def test_incomplete_and_failed_runs_block(self):
         with self.assertRaises(ValueError): normalize_events('', 'partial')
         with self.assertRaises(ValueError): normalize_events('{"type":"turn.failed"}', 'partial')

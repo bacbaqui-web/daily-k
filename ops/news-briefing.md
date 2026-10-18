@@ -24,9 +24,9 @@
 - Python: `/Users/bacbaqui/Library/Application Support/DailyK/runtime/venv/bin/python`
 - 초안·후보 기록: `/Users/bacbaqui/Library/Application Support/DailyK/news/`
 - 사이트: https://bacbaqui-web.github.io/daily-k/?tab=news
-- 기존 Codex 예약 작업 `automation-2`는 Asia/Seoul 매일 09:00·21:00에 실행합니다. 조사·검증·작성·최종 게시를 한 실행에서 처리하며, 완료가 늦으면 실제 시각을 기록합니다. 이 예약은 로컬 파일을 사용하므로 Mac과 Codex 앱이 실행 중이어야 합니다. 중지된 별도 Mac 예약 작업과 수집기를 다시 시작하지 않습니다.
+- 뉴스 실행 환경을 오라클 `/home/ubuntu/daily-k-news/repo`의 Codex CLI 구독 로그인으로 이전합니다. 서버 `daily-k-news.timer`는 Asia/Seoul 매일 09:00·21:00에 조사·검증·작성·게시를 시작하며 Mac이나 데스크톱 앱 실행은 필요하지 않습니다. 운영 상태와 인증/시험/전환 절차는 [오라클 운영 안내](oracle/README.md)를 확인합니다. 서버 예약 활성화 시 기존 로컬 `automation-2`는 중지하여 중복 실행을 막습니다.
 - 대상 날짜·회차는 예약의 09시/21시 시점으로 고정하고 재시도에도 유지합니다. 자정을 넘긴 지연 발행도 원래 대상 회차를 사용합니다. 기준 이전 stage-news 호출이나 시계 역산을 하지 않습니다. 미발행 회차를 자동으로 몰아서 채우지 않습니다.
-- 이 뉴스 작업은 유머 수집 운영을 변경하지 않습니다. `monitor-paused.json`, launchd, Oracle, 기존 수집 자동화, feed.json, monitor.json을 변경하거나 재시작하지 마십시오.
+- 이 뉴스 작업은 유머 수집 운영을 변경하지 않습니다. `monitor-paused.json`, launchd, 기존 유머 수집 자동화, feed.json, monitor.json을 변경하거나 재시작하지 마십시오. 오라클 뉴스 서비스만 이 이전의 대상입니다.
 
 ## 매 회차 절차
 
@@ -101,7 +101,7 @@
 - `python scripts/news/rebuild-issues.py --check`로 회차 원본과 이슈 기록의 일치를 확인합니다. 복구가 필요하면 `--check` 없이 실행해 이슈 파일만 재생성합니다. 회차 원본과 유머 데이터는 변경하지 않습니다.
 - UI 변경 때만 `npx tsc --noEmit --allowImportingTsExtensions`, `npm run build`, `python scripts/prepare-pages.py`; 회차 데이터만 발행할 때는 재빌드 불필요.
 - publish.py는 기사의 진위까지 자동 판별하는 도구가 아닙니다. 웹 검색·교차검증·편집 검토가 선행되어야 합니다.
-- 새 자동화나 중복 스케줄을 만들지 말고 기존 ㄴㅇㅅ 예약을 유지합니다.
+- 뉴스 실행은 오라클 타이머 한 곳에서만 합니다. 이전 완료 시 기존 로컬 ㄴㅇㅅ 예약은 PAUSED로 유지하며 중복 예약을 만들지 않습니다.
 
 ## 시사 중요도 판단
 
