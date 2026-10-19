@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-19",
-  "collectedAt": "2026-10-19T05:19:10.279028+00:00",
+  "collectedAt": "2026-10-19T05:22:47.761141+00:00",
   "windowEnd": "2026-10-19T14:19:10.162849+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -13500,6 +13500,77 @@
       "firstPublishedAt": "2026-10-18T23:43:52.344566+00:00"
     },
     {
+      "id": "aagag-1662953-0",
+      "url": "https://aagag.com/issue/?idx=1662953",
+      "source": "애객",
+      "title": "끼부리는 말포이",
+      "publishedAt": "2026-10-19T14:05:02+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Kzi8h.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Kzi8h.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 6,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.3333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8866107",
+          "text": "이제 금발도 아니네ㅋㅋ"
+        },
+        {
+          "id": "8866140",
+          "text": "슬리데린이...꽃뱀이였어??"
+        },
+        {
+          "id": "8866151",
+          "text": "대놓고?? 츤츤도 없네"
+        },
+        {
+          "id": "8866162",
+          "text": "이게 그 어떤 서양언니 영상으로 바꾼거 같은데...그 언닌 미드가 참 훌륭했더란"
+        },
+        {
+          "id": "8866167",
+          "text": "요오망한!"
+        },
+        {
+          "id": "8866178",
+          "text": "슬리데린이 정사임. 아무튼 그럼."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-19T14:22:33.607129+09:00",
+      "sourceTitles": [
+        "포터 앞에서 끼부리는 말포이",
+        "끼부리는 말포이",
+        "ㅆㄸ) 해리를 본 말포이양.mp4",
+        "ㅆㄸ) 해리를 본 말포이양.mp4",
+        "ㅇㅎ) 해리를 발견한 말포이",
+        "ㅇㅎ)해리를 발견한 말포이.gif"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-10-19T05:22:47.678721+00:00",
+      "collectedAt": "2026-10-19T14:22:47.678738+09:00",
+      "firstPublishedAt": "2026-10-19T05:22:47.780849+00:00"
+    },
+    {
       "id": "aagag-1662904-0",
       "url": "https://aagag.com/issue/?idx=1662904",
       "source": "애객",
@@ -13983,7 +14054,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
