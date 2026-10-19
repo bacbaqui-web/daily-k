@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-19",
-  "collectedAt": "2026-10-19T12:41:08.989512+09:00",
-  "windowEnd": "2026-10-19T12:32:34.786691+09:00",
+  "collectedAt": "2026-10-19T03:51:24.791641+00:00",
+  "windowEnd": "2026-10-19T12:51:24.670312+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7252,71 +7252,6 @@
       "firstPublishedAt": "2026-10-18T08:02:25.662259+00:00"
     },
     {
-      "id": "aagag-1662682-0",
-      "url": "https://aagag.com/issue/?idx=1662682",
-      "source": "애객",
-      "title": "차원이 다른 최홍만의 사과 쪼개기.mp4",
-      "publishedAt": "2026-10-18T12:42:29+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L11nt.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L11nt.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 20,
-      "commentCount": 5,
-      "laughingComments": 2,
-      "score": 20,
-      "kPerComment": 4.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8861213",
-          "text": "저덩치에 튀었다고 기겁하는거 너무 깜찍하네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8861214",
-          "text": "쪼개기:x 작살내기:o"
-        },
-        {
-          "id": "8861216",
-          "text": "저 정도면 걍 착즙기 아니냐"
-        },
-        {
-          "id": "8861219",
-          "text": "와 힘 장난아니네ㅋㅋㅋ"
-        },
-        {
-          "id": "8861222",
-          "text": "사과 한 개 먹고 테이블까지 설거지"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-18T12:48:15.757477+09:00",
-      "sourceTitles": [
-        "차원이 다른 최홍만의 사과 쪼개기.mp4",
-        "차원이 다른 최홍만의 사과 쪼개기.mp4",
-        "차원이 다른 최홍만의 사과 쪼개기.mp4",
-        "보법이 다른 최홍만 사과 쪼개기"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-18T03:48:21.658059+00:00",
-      "collectedAt": "2026-10-18T12:48:21.658086+09:00",
-      "firstPublishedAt": "2026-10-18T03:48:21.695678+00:00"
-    },
-    {
       "id": "aagag-1662915-0",
       "url": "https://aagag.com/issue/?idx=1662915",
       "source": "애객",
@@ -14401,9 +14336,9 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 370,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
