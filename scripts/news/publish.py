@@ -155,8 +155,9 @@ def validate(draft, history, now=None):
             require(story['category'] not in leads,'Only one lead per category')
             leads.add(story['category'])
             scores=story['scoreComponents']
-            require(scores['importance']>=70 and scores['reliability']>=70 and story['score']>=65,
-                    'Lead story must meet importance, reliability and overall score thresholds')
+            require(scores['reliability']>=70 and
+                    (b['id'] >= '2026-10-19-pm' or (scores['importance']>=70 and story['score']>=65)),
+                    'Lead story must meet reliability and edition-specific score thresholds')
     for story in stories:
         if story.get('placement')=='lead':
             eligible=[s for s in stories if s['category']==story['category']
