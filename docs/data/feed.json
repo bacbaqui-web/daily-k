@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-19",
-  "collectedAt": "2026-10-19T09:46:00.318999+00:00",
+  "collectedAt": "2026-10-19T09:47:35.298924+00:00",
   "windowEnd": "2026-10-19T18:46:00.207828+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -13283,6 +13283,84 @@
       "firstPublishedAt": "2026-10-18T23:43:52.344566+00:00"
     },
     {
+      "id": "aagag-1663025-0",
+      "url": "https://aagag.com/issue/?idx=1663025",
+      "source": "애객",
+      "title": "ㅇㅎ) 외출복이다 vs 속옷이다",
+      "publishedAt": "2026-10-19T18:43:18+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L0rs3.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L0rs6.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L0rs8.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L0rs3.webp",
+        "https://i.aagag.com/o/L0rs6.webp",
+        "https://i.aagag.com/o/L0rs8.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 6,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8867610",
+          "text": "뭣이 중헌디"
+        },
+        {
+          "id": "8867619",
+          "text": "중요합니다. 외출복이어야합니다. 그래야 많은사람들이 더 자주 볼 수 있습니대"
+        },
+        {
+          "id": "8867613",
+          "text": "외출 복으로 하자 밖에서 많이 보고 싶다"
+        },
+        {
+          "id": "8867617",
+          "text": "아휴 감사할따름.."
+        },
+        {
+          "id": "8867621",
+          "text": "보기좋으면 외출복이고 보기싫으면 속옷이로다"
+        },
+        {
+          "id": "8867622",
+          "text": "홀복이다"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-19T18:47:27.405458+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 외출복이다 vs 속옷이다",
+        "외출복이다. VS 속옷이다.",
+        "호불호 갈리는 데이트룩",
+        "ㅇㅎ) 외출복이다 vs 속옷이다",
+        "ㅇㅎ) 외출복이다 vs 집에서만 입는 옷이다"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-19T09:47:35.223394+00:00",
+      "collectedAt": "2026-10-19T18:47:35.223411+09:00",
+      "firstPublishedAt": "2026-10-19T09:47:35.314902+00:00"
+    },
+    {
       "id": "aagag-1662953-0",
       "url": "https://aagag.com/issue/?idx=1662953",
       "source": "애객",
@@ -13837,7 +13915,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
