@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-19",
-  "collectedAt": "2026-10-19T10:03:54.878686+00:00",
+  "collectedAt": "2026-10-19T10:08:41.700847+00:00",
   "windowEnd": "2026-10-19T19:03:54.754882+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7704,6 +7704,76 @@
       "firstPublishedAt": "2026-10-19T01:31:38.777713+00:00"
     },
     {
+      "id": "aagag-1663028-0",
+      "url": "https://aagag.com/issue/?idx=1663028",
+      "source": "애객",
+      "title": "어린 시절 시간을 보내던 방법.mp4",
+      "publishedAt": "2026-10-19T18:52:30+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L035K.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L035K.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 6,
+      "laughingComments": 3,
+      "score": 14,
+      "kPerComment": 2.3333333333333335,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8867669",
+          "text": "같은 인류로구나"
+        },
+        {
+          "id": "8867680",
+          "text": "잊고 있던 그 시절 장난이 기억나는군요 ㅋㅋ"
+        },
+        {
+          "id": "8867684",
+          "text": "아들과 대부분 같이 해보는 거 ㅋㅋ 정말 난 아들을 통해 다시 추억을 되짚어보고 있나봄"
+        },
+        {
+          "id": "8867703",
+          "text": "단하나도 빠짐없이 공통되네"
+        },
+        {
+          "id": "8867710",
+          "text": "와 진짜 ㅋㅋㅋㅋ 초딩들은 전세계 공용이구나 ㅋㅋㅋㅋㅋㅋㅌ"
+        },
+        {
+          "id": "8867725",
+          "text": "저땐 놀게 없어서 몸으로 놀았어!! (손가락 사이를 펜으로 찍으며)"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-19T19:08:29.458585+09:00",
+      "sourceTitles": [
+        "어린 시절 시간을 보내던 방법.mp4",
+        "상상력이 풍부했던 그 때 그 시절...",
+        "우리의 어린시절",
+        "아니 외국아도 이리 놀앗나. 뒤조심",
+        "이거 한국인만 하는거 아니었음?"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-19T10:08:41.616939+00:00",
+      "collectedAt": "2026-10-19T19:08:41.616955+09:00",
+      "firstPublishedAt": "2026-10-19T10:08:41.717236+00:00"
+    },
+    {
       "id": "aagag-697254-1",
       "url": "https://aagag.com/issue/?idx=697254_1",
       "source": "애객",
@@ -13692,7 +13762,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
