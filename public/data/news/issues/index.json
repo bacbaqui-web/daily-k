@@ -1,6 +1,135 @@
 {
-  "editionCount": 64,
+  "editionCount": 65,
   "issues": [
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "yeoju-logistics-warehouse-fire-2026-10",
+      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "18일 밤 발생한 화재는 19일 오전 보도 시점 진화 중이며 인명피해는 없었습니다. 대응 1단계는 해제됐지만 완진은 미확인입니다.",
+        "editionId": "2026-10-19-am",
+        "stage": "보도",
+        "storyId": "yeoju-logistics-warehouse-fire-2026-10-19",
+        "title": "여주 물류창고 화재 진화 중…보도 시점 인명피해 없어"
+      },
+      "path": "yeoju-logistics-warehouse-fire-2026-10.json",
+      "title": "여주 물류창고 화재와 진화 상황"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "water-industry-regulatory-reform-2026",
+      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "수열에너지 범위 확대와 AI 정수장 국제표준 추진 방안이 보도됐습니다. 실제 시행은 후속 확인이 필요합니다.",
+        "editionId": "2026-10-19-am",
+        "stage": "발표",
+        "storyId": "water-industry-regulatory-reform-2026-10-19",
+        "title": "물산업 규제합리화 추진…하수·유출지하수 수열에너지 활용 확대"
+      },
+      "path": "water-industry-regulatory-reform-2026.json",
+      "title": "물산업 규제합리화와 수열에너지 활용 확대"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "laboratory-safety-accidents-facility-support-2026",
+      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "연구실 사고는 2022년 328건에서 2025년 454건으로 증가했다고 보도됐습니다. 시설개선 예산 감소도 보도됐지만 비교 연도와 사고 증가의 인과관계는 미확인입니다.",
+        "editionId": "2026-10-19-am",
+        "stage": "보도",
+        "storyId": "laboratory-safety-accidents-facility-budget-2026-10-19",
+        "title": "연구실 사고 2022년 328건→2025년 454건…안전시설 지원 점검 과제"
+      },
+      "path": "laboratory-safety-accidents-facility-support-2026.json",
+      "title": "연구실 사고와 안전시설 개선 지원"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 27,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "월요일 08:01 프리마켓에서 주요 반도체 두 종목의 6%대 하락이 보도됐습니다. 정규장 결과는 아직 확인되지 않았습니다.",
+        "editionId": "2026-10-19-am",
+        "stage": "후속",
+        "storyId": "korea-chip-premarket-decline-2026-10-19",
+        "title": "삼성전자·SK하이닉스 프리마켓 6%대 하락…08:01 기준"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "hollys-membership-data-leak-2026",
+      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "회사가 16일 개인정보 유출을 확인하고 고객에게 안내했다고 18일 보도됐습니다. 유출 인원과 침해 경위는 미확인입니다.",
+        "editionId": "2026-10-19-am",
+        "stage": "보도",
+        "storyId": "hollys-membership-data-leak-2026-10-18",
+        "title": "할리스 멤버십 개인정보 유출 안내…대상·피해 규모 확인 필요"
+      },
+      "path": "hollys-membership-data-leak-2026.json",
+      "title": "할리스 멤버십 개인정보 유출과 고객 보호"
+    },
+    {
+      "categories": [
+        "국제·사회",
+        "국제정세"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "france-cost-of-living-protests-2026-10-17",
+      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "체포·경찰 부상 규모에 관한 당국 발표가 추가 보도됐습니다. 참가자 사망과 시위·진압의 직접 연관성은 미확인입니다.",
+        "editionId": "2026-10-19-am",
+        "stage": "후속",
+        "storyId": "france-protests-damage-arrests-2026-10-19",
+        "title": "프랑스 시위 후속…내무장관 “약 2천명 체포·경찰 600명 이상 부상”"
+      },
+      "path": "france-cost-of-living-protests-2026-10-17.json",
+      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
+    },
     {
       "categories": [
         "국내정치·외교"
@@ -406,27 +535,6 @@
     },
     {
       "categories": [
-        "국제·사회"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "france-cost-of-living-protests-2026-10-17",
-      "lastCoveredAt": "2026-10-18T09:08:05+09:00",
-      "lastCoveredDate": "2026-10-18",
-      "latest": {
-        "archive": false,
-        "change": "프랑스 정부 집계 55만명, 주최 측 추산 80만명으로 시위 규모가 엇갈렸습니다.",
-        "editionId": "2026-10-18-am",
-        "stage": "보도",
-        "storyId": "france-cost-of-living-protests-2026-10-17",
-        "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
-      },
-      "path": "france-cost-of-living-protests-2026-10-17.json",
-      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
-    },
-    {
-      "categories": [
         "반도체·중국"
       ],
       "eventCount": 1,
@@ -683,28 +791,6 @@
       },
       "path": "korea-housing-supply-prices.json",
       "title": "국내 주택 가격과 공급 정책"
-    },
-    {
-      "categories": [
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 26,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
-      "lastCoveredDate": "2026-10-16",
-      "latest": {
-        "archive": false,
-        "change": "전날 7.57% 급락과 서킷브레이커 발동에서 16일 코스피 2.05% 반등·코스닥 4.46% 반등으로 바뀌었습니다. 하루 결과만으로 추세가 바뀌었다고 단정할 수는 없습니다.",
-        "editionId": "2026-10-16-pm",
-        "stage": "후속",
-        "storyId": "korea-market-2026-10-16-rebound",
-        "title": "코스피 5,668.05로 2.05% 반등…7거래일 하락 멈춰"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -5529,7 +5615,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 496,
+  "storyCount": 502,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-18T21:13:10+09:00"
+  "updatedAt": "2026-10-19T09:07:11.485297+09:00"
 }

@@ -58,10 +58,64 @@
       "supersededBy": [],
       "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명",
       "uncertainty": "참가 인원은 집계 주체별 추산이며, 시위가 정부 정책 변화로 이어질지는 확인되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-10-19/am.json",
+      "category": "국제정세",
+      "change": "체포·경찰 부상 규모에 관한 당국 발표가 추가 보도됐습니다. 참가자 사망과 시위·진압의 직접 연관성은 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "coveredOn": "2026-10-19",
+      "edition": "am",
+      "editionDate": "2026-10-19",
+      "editionId": "2026-10-19-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "19일 보도로 후속 집계를 확인했습니다. 당국 발표의 정확한 시각과 개별 피해 발생 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "참가자 규모를 다룬 이전 보도 이후 약 2천명 체포와 경찰 600명 이상 부상이라는 당국 발표, 참가자 1명 사망 보도가 추가됐습니다.",
+        "editionId": "2026-10-18-am",
+        "storyId": "france-cost-of-living-protests-2026-10-17"
+      },
+      "id": "2026-10-19-am/france-protests-damage-arrests-2026-10-19",
+      "keyFacts": {
+        "경찰 부상": "600명 이상, 내무장관 발표",
+        "참가자 사망": "1명 보도, 시위·진압과 직접 연관성 미확인",
+        "체포 규모": "약 2천명, 내무장관 발표"
+      },
+      "previous": {
+        "editionId": "2026-10-18-am",
+        "storyId": "france-cost-of-living-protests-2026-10-17"
+      },
+      "publishedAt": "2026-10-19T00:43:47+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T00:43:47+09:00",
+          "title": "프랑스 시위 후속 피해 집계",
+          "url": "https://www.newsis.com/view/NISX20261018_0003830701",
+          "verifiedAt": "2026-10-19T09:03:21.088794+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "france-protests-damage-arrests-2026-10-19",
+      "summary": [
+        "프랑스 생활비 항의 시위 이후 약 2천명이 체포되고 경찰 600명 이상이 다쳤다는 내무장관 발표가 보도됐습니다. 전날 참가 규모 중심 보도에서 피해와 수사 상황으로 후속 정보가 추가됐습니다.",
+        "참가자 1명의 사망도 보도됐습니다. 다만 시위나 진압과 사망 사이의 직접적인 연관성은 확인되지 않았으므로, 진압으로 숨졌다고 단정할 수 없습니다.",
+        "체포·경찰 부상 규모는 당국 발표에 근거한 집계입니다. 최종 피해 규모와 개별 체포 사유, 사망 경위는 추가 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "프랑스 시위 후속…내무장관 “약 2천명 체포·경찰 600명 이상 부상”",
+      "uncertainty": "당국 집계의 최종 확정 여부와 참가자 사망의 구체적 경위는 확인되지 않았습니다."
     }
   ],
   "id": "france-cost-of-living-protests-2026-10-17",
   "schemaVersion": 1,
   "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명",
-  "updatedAt": "2026-10-18T21:13:10+09:00"
+  "updatedAt": "2026-10-19T09:07:11.485297+09:00"
 }

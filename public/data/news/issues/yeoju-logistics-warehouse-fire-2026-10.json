@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-19/am.json",
+      "category": "생활·안전",
+      "change": "18일 밤 발생한 화재는 19일 오전 보도 시점 진화 중이며 인명피해는 없었습니다. 대응 1단계는 해제됐지만 완진은 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-19T09:07:11.485297+09:00",
+      "coveredOn": "2026-10-19",
+      "edition": "am",
+      "editionDate": "2026-10-19",
+      "editionId": "2026-10-19-am",
+      "eventAt": "2026-10-18T21:52:00+09:00",
+      "eventDate": "2026-10-18",
+      "eventEndDate": null,
+      "eventTimeNote": "화재는 18일 오후 9시 52분께 발생했습니다. 대응 1단계 해제는 19일 오전 1시 29분이며 완진 시각이 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-19-am/yeoju-logistics-warehouse-fire-2026-10-19",
+      "keyFacts": {
+        "대응 1단계 해제": "2026-10-19 01:29 KST",
+        "인명피해": "기사 시점 없음",
+        "진화 상태": "기사 시점 진화 중",
+        "화재 발생": "2026-10-18 21:52경 KST"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-19T08:48:40+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T08:48:40+09:00",
+          "title": "여주 물류창고 화재",
+          "url": "https://www.newsis.com/view/NISX20261019_0003830903",
+          "verifiedAt": "2026-10-19T09:03:21.088794+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "yeoju-logistics-warehouse-fire-2026-10-19",
+      "summary": [
+        "18일 오후 9시 52분께 여주 물류창고에서 불이 났습니다. 19일 오전 8시 48분 보도 시점까지 인명피해는 없었고 진화 작업이 이어지고 있었습니다.",
+        "대응 1단계는 19일 오전 1시 29분 해제됐습니다. 대응 단계가 해제됐다는 사실을 불이 완전히 꺼졌다는 뜻으로 해석해서는 안 됩니다.",
+        "전날 오후 회차 기준 시각 이후 발생한 새 사고입니다. 정확한 화재 원인과 최종 피해 규모, 완전 진화 여부는 후속 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "여주 물류창고 화재 진화 중…보도 시점 인명피해 없어",
+      "uncertainty": "화재 원인과 최종 피해 규모, 완전 진화 여부는 확인되지 않았습니다."
+    }
+  ],
+  "id": "yeoju-logistics-warehouse-fire-2026-10",
+  "schemaVersion": 1,
+  "title": "여주 물류창고 화재와 진화 상황",
+  "updatedAt": "2026-10-19T09:07:11.485297+09:00"
+}
