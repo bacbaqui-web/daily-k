@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-20",
-  "collectedAt": "2026-10-20T01:45:13.484348+09:00",
-  "windowEnd": "2026-10-20T01:40:15.113188+09:00",
+  "collectedAt": "2026-10-19T16:55:28.514868+00:00",
+  "windowEnd": "2026-10-20T01:55:28.395023+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -12414,87 +12414,12 @@
       "sourceTitlesFetchedAt": "2026-10-18T20:10:18.031901+00:00",
       "collectedAt": "2026-10-19T05:10:18.031917+09:00",
       "firstPublishedAt": "2026-10-18T20:10:18.118587+00:00"
-    },
-    {
-      "id": "aagag-1662828-0",
-      "url": "https://aagag.com/issue/?idx=1662828",
-      "source": "애객",
-      "title": "맥심카페 빨대 이벤트",
-      "publishedAt": "2026-10-19T01:50:33+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L19TA.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L19Sq.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L19SW.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L14fo.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L19TA.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L19Sq.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L19SW.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L14fo.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-10-19T01:51:33.967955+09:00",
-      "sourceTitles": [
-        "맥심카페 빨대 이벤트",
-        "ㅇㅎ)) 맥심카페 빨대 이벤트 ㄷㄷㄷㄷㄷ .gif",
-        "ㅇㅎ)맥심카페 빨대 이벤트 ㄷㄷ",
-        "ㅇㅎ) 맥심카페 빨대 이벤트",
-        "아메리카노 비싸도 이해가 되는가게"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-18T16:51:41.287975+00:00",
-      "collectedAt": "2026-10-19T01:51:41.287993+09:00",
-      "firstPublishedAt": "2026-10-18T16:51:41.364534+00:00"
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 395,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
