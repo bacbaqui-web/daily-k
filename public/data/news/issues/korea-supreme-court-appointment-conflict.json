@@ -116,6 +116,71 @@
       "uncertainty": "이번 소식은 기존의 탄핵 가능성 논의에서 구체적인 소추안 공개 계획으로 이어진 후속입니다. 초안의 내용과 참여 의원, 국회 논의가 다음 확인 대상이며, 탄핵 사유의 법적 판단이나 최종 결론이 내려진 것은 아닙니다."
     },
     {
+      "briefingPath": "2026-10-19/pm.json",
+      "category": "정치·정책",
+      "change": "혁신당이 탄핵소추안 문안을 공개하고 공동 논의를 제안했습니다. 국회 발의·의결은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "coveredOn": "2026-10-19",
+      "edition": "pm",
+      "editionDate": "2026-10-19",
+      "editionId": "2026-10-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-19",
+      "eventEndDate": null,
+      "eventTimeNote": "19일 문안 공개가 확인됐지만 정확한 공개 시각은 제공된 조사에서 확인되지 않았습니다. 기사 등록 시각을 행사 시각으로 대체하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날에는 19일 초안 공개 계획만 확인됐으나, 19일에는 실제 문안 공개와 민주당 등에 대한 공동 TF·의원총회 제안이 보도됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "storyId": "chief-justice-impeachment-draft-2026-10-18"
+      },
+      "id": "2026-10-19-pm/chief-justice-impeachment-draft-release-2026-10-19",
+      "keyFacts": {
+        "공개 주체": "조국혁신당",
+        "국회 발의·의결": "제공된 조사에서 확인되지 않음",
+        "새 단계": "탄핵소추안 문안 공개",
+        "추가 제안": "민주당 등에 공동 TF·의원총회 제안"
+      },
+      "previous": {
+        "editionId": "2026-10-18-pm",
+        "storyId": "chief-justice-impeachment-draft-2026-10-18"
+      },
+      "publishedAt": "2026-10-19T10:04:46+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T10:04:46+09:00",
+          "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개 보도",
+          "updatedAt": "2026-10-19T10:29:47+09:00",
+          "url": "https://m.newsis.com/view/NISX20261019_0003830936",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-19T10:15:00+09:00",
+          "title": "조국혁신당 탄핵소추안 공개와 공동 논의 제안 보도",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261019052700001",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "chief-justice-impeachment-draft-release-2026-10-19",
+      "summary": [
+        "조국혁신당이 조희대 대법원장 탄핵소추안을 공개했습니다. 전날 예고했던 문안 공개가 실제로 이뤄진 후속입니다.",
+        "혁신당은 민주당 등에 공동 TF와 의원총회를 제안했습니다. 문안 공개와 협의 제안은 국회의 실제 발의·의결과 구분해야 합니다.",
+        "소추안의 위헌·위법 판단은 혁신당의 주장입니다. 법원이나 헌법재판소가 확정한 결론이 아니며, 다른 정당의 참여와 국회 절차는 후속 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개",
+      "uncertainty": "공개는 국회 발의·의결이나 탄핵 사유에 대한 사법 판단을 뜻하지 않습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 206,
@@ -268,5 +333,5 @@
   "id": "korea-supreme-court-appointment-conflict",
   "schemaVersion": 1,
   "title": "대법관 제청과 사법부·정부 갈등",
-  "updatedAt": "2026-10-19T09:07:11.485297+09:00"
+  "updatedAt": "2026-10-20T08:49:43.565409+09:00"
 }

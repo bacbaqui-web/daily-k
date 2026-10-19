@@ -1,6 +1,137 @@
 {
-  "editionCount": 65,
+  "editionCount": 66,
   "issues": [
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "우크라이나 대통령이 휴전 발표 뒤 일주일간 관련 시설 공격 76차례를 주장했습니다. 독립적인 공격·피해 검증은 확인되지 않았습니다.",
+        "editionId": "2026-10-19-pm",
+        "stage": "후속",
+        "storyId": "ukraine-energy-strikes-weekly-tally-2026-10-19",
+        "title": "젤렌스키 “에너지 휴전 발표 뒤 러시아 공격 일주일간 76차례”"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "국내 정책·사회",
+        "국내 정치·사법",
+        "정치·정책"
+      ],
+      "eventCount": 6,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "korea-supreme-court-appointment-conflict",
+      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "혁신당이 탄핵소추안 문안을 공개하고 공동 논의를 제안했습니다. 국회 발의·의결은 확인되지 않았습니다.",
+        "editionId": "2026-10-19-pm",
+        "stage": "후속",
+        "storyId": "chief-justice-impeachment-draft-release-2026-10-19",
+        "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개"
+      },
+      "path": "korea-supreme-court-appointment-conflict.json",
+      "title": "대법관 제청과 사법부·정부 갈등"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 28,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "코스피가 3.17% 하락 출발 뒤 상승 전환해 5,768.01(+1.76%)로 마감했습니다.",
+        "editionId": "2026-10-19-pm",
+        "stage": "결과",
+        "storyId": "korea-market-2026-10-19-close",
+        "title": "코스피, 하락 출발 뒤 1.76% 상승…5,768.01 마감"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "illegal-gambling-site-supply-investigation-2026",
+      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "경찰이 사이트 188개 제작·공급 관련 수사에서 77명 검거·21명 구속 등을 발표했습니다. 혐의의 최종 사법 판단은 남아 있습니다.",
+        "editionId": "2026-10-19-pm",
+        "stage": "발표",
+        "storyId": "illegal-gambling-site-supply-arrests-2026-10-19",
+        "title": "경찰, 불법 도박사이트 공급조직 등 77명 검거…21명 구속"
+      },
+      "path": "illegal-gambling-site-supply-investigation-2026.json",
+      "title": "불법 도박사이트 제작·공급망 수사"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "east-central-offshore-wave-advisory-2026-10",
+      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "동해중부 먼바다 풍랑주의보가 19일 20시 발효됐습니다. 다음 날 해제 예고는 실제 해제와 구분합니다.",
+        "editionId": "2026-10-19-pm",
+        "stage": "시행",
+        "storyId": "east-central-offshore-wave-advisory-2026-10-19",
+        "title": "동해중부 먼바다 풍랑주의보 발효…해제 예고와 실제 해제 구분"
+      },
+      "path": "east-central-offshore-wave-advisory-2026-10.json",
+      "title": "2026년 10월 동해중부 먼바다 풍랑주의보"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "firstCoveredDate": "2026-10-19",
+      "id": "bucheon-webtoon-convergence-contest-2026",
+      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "lastCoveredDate": "2026-10-19",
+      "latest": {
+        "archive": false,
+        "change": "공모전 접수가 시작됐습니다. 마감은 11월 11일 예정이며 수상자 선정·상금 지급은 아직 확인되지 않았습니다.",
+        "editionId": "2026-10-19-pm",
+        "stage": "시행",
+        "storyId": "bucheon-webtoon-convergence-contest-2026-10-19",
+        "title": "부천 웹툰융합공모전 접수 시작…21명에 총상금 450만원"
+      },
+      "path": "bucheon-webtoon-convergence-contest-2026.json",
+      "title": "부천 웹툰융합공모전과 지역 창작지원"
+    },
     {
       "categories": [
         "생활·안전"
@@ -63,29 +194,6 @@
       },
       "path": "laboratory-safety-accidents-facility-support-2026.json",
       "title": "연구실 사고와 안전시설 개선 지원"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 27,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
-      "lastCoveredDate": "2026-10-19",
-      "latest": {
-        "archive": false,
-        "change": "월요일 08:01 프리마켓에서 주요 반도체 두 종목의 6%대 하락이 보도됐습니다. 정규장 결과는 아직 확인되지 않았습니다.",
-        "editionId": "2026-10-19-am",
-        "stage": "후속",
-        "storyId": "korea-chip-premarket-decline-2026-10-19",
-        "title": "삼성전자·SK하이닉스 프리마켓 6%대 하락…08:01 기준"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -153,27 +261,6 @@
     },
     {
       "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-10-18T21:13:10+09:00",
-      "lastCoveredDate": "2026-10-18",
-      "latest": {
-        "archive": false,
-        "change": "러시아 상트페테르부르크 석유시설 화재와 현지 당국의 사상자 발표가 전해졌으며, 러시아의 드론 격추 수치는 당국 주장으로 남아 있습니다.",
-        "editionId": "2026-10-18-pm",
-        "stage": "보도",
-        "storyId": "russia-st-petersburg-oil-site-drone-attack-2026-10-18",
-        "title": "상트페테르부르크 석유시설 드론 공격…현지 당국 “1명 사망·5명 부상”"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -234,29 +321,6 @@
       },
       "path": "krea-3-image-editing.json",
       "title": "Krea 3 이미지 편집과 캐릭터 일관성"
-    },
-    {
-      "categories": [
-        "국내 정책·사회",
-        "국내 정치·사법",
-        "정치·정책"
-      ],
-      "eventCount": 5,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "korea-supreme-court-appointment-conflict",
-      "lastCoveredAt": "2026-10-18T21:13:10+09:00",
-      "lastCoveredDate": "2026-10-18",
-      "latest": {
-        "archive": false,
-        "change": "조국혁신당이 19일 대법원장 탄핵소추안 초안을 공개할 계획입니다. 사법부와 정치권의 갈등이 주요 쟁점으로 떠올랐으며, 아직 탄핵안이 의결된 단계는 아닙니다.",
-        "editionId": "2026-10-18-pm",
-        "stage": "예정",
-        "storyId": "chief-justice-impeachment-draft-2026-10-18",
-        "title": "대법원장 탄핵 논의…조국혁신당, 초안 공개 예고"
-      },
-      "path": "korea-supreme-court-appointment-conflict.json",
-      "title": "대법관 제청과 사법부·정부 갈등"
     },
     {
       "categories": [
@@ -5615,7 +5679,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 502,
+  "storyCount": 508,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-19T09:07:11.485297+09:00"
+  "updatedAt": "2026-10-20T08:49:43.565409+09:00"
 }

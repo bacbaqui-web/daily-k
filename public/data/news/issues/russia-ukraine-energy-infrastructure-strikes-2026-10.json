@@ -59,10 +59,65 @@
       "supersededBy": [],
       "title": "상트페테르부르크 석유시설 드론 공격…현지 당국 “1명 사망·5명 부상”",
       "uncertainty": "격추 대수는 러시아 당국 주장이고 독립 검증이 확인되지 않았습니다. 시설 피해·가동 차질 규모도 후속 확인이 필요합니다."
+    },
+    {
+      "briefingPath": "2026-10-19/pm.json",
+      "category": "국제정세",
+      "change": "우크라이나 대통령이 휴전 발표 뒤 일주일간 관련 시설 공격 76차례를 주장했습니다. 독립적인 공격·피해 검증은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "coveredOn": "2026-10-19",
+      "edition": "pm",
+      "editionDate": "2026-10-19",
+      "editionId": "2026-10-19-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "19일 보도로 대통령의 주간 집계를 확인했습니다. 정확한 발언 시각과 개별 공격 시각은 제공된 조사에서 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "18일 러시아 석유시설 피격 보도 이후 19일에는 우크라이나 대통령이 에너지 휴전 발표 뒤 러시아의 관련 시설 공격이 일주일간 76차례였다고 주장한 새 집계가 보도됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "storyId": "russia-st-petersburg-oil-site-drone-attack-2026-10-18"
+      },
+      "id": "2026-10-19-pm/ukraine-energy-strikes-weekly-tally-2026-10-19",
+      "keyFacts": {
+        "공격 집계": "휴전 발표 이후 일주일간 76차례, 우크라이나 측 주장",
+        "대상 시설": "에너지·석유·가스 시설",
+        "독립 확인": "제공된 조사에서 확인되지 않음",
+        "발표 주체": "젤렌스키 우크라이나 대통령"
+      },
+      "previous": {
+        "editionId": "2026-10-18-pm",
+        "storyId": "russia-st-petersburg-oil-site-drone-attack-2026-10-18"
+      },
+      "publishedAt": "2026-10-19T12:09:29+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T12:09:29+09:00",
+          "title": "젤렌스키, 에너지 휴전 발표 이후 러시아 공격 76차례 주장 보도",
+          "url": "https://www.newsis.com/view/NISX20261019_0003831389",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "주장",
+      "storyId": "ukraine-energy-strikes-weekly-tally-2026-10-19",
+      "summary": [
+        "젤렌스키 우크라이나 대통령은 미국의 에너지 휴전 발표 이후 일주일 동안 러시아가 에너지·석유·가스 시설을 76차례 공격했다고 주장했습니다. 휴전 이행에 관한 우크라이나 측의 새 주간 집계입니다.",
+        "공격 76차례와 정전·피해 규모는 우크라이나 측 발표입니다. 독립적으로 확정된 공격 집계로 볼 수 없으며, 개별 공격의 대상과 피해를 별도로 확인해야 합니다.",
+        "앞선 회차에서는 휴전 발표 뒤 공격 지속 보도와 러시아 석유시설 피격을 다뤘습니다. 이번에는 우크라이나 대통령의 주간 집계가 추가됐으며, 에너지 공급과 휴전 이행의 실제 상황은 계속 확인할 사안입니다."
+      ],
+      "supersededBy": [],
+      "title": "젤렌스키 “에너지 휴전 발표 뒤 러시아 공격 일주일간 76차례”",
+      "uncertainty": "공격 횟수와 피해는 우크라이나 측 발표이며 독립 검증된 최종 집계가 아닙니다."
     }
   ],
   "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
   "schemaVersion": 1,
   "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방",
-  "updatedAt": "2026-10-19T09:07:11.485297+09:00"
+  "updatedAt": "2026-10-20T08:49:43.565409+09:00"
 }

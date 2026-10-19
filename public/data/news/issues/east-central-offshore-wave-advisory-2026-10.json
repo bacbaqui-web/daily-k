@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-19/pm.json",
+      "category": "생활·안전",
+      "change": "동해중부 먼바다 풍랑주의보가 19일 20시 발효됐습니다. 다음 날 해제 예고는 실제 해제와 구분합니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "coveredOn": "2026-10-19",
+      "edition": "pm",
+      "editionDate": "2026-10-19",
+      "editionId": "2026-10-19-pm",
+      "eventAt": "2026-10-19T20:00:00+09:00",
+      "eventDate": "2026-10-19",
+      "eventEndDate": null,
+      "eventTimeNote": "특보는 19일 18시 발표됐고 20시 발효됐습니다. 20일 00~03시 해제 예고는 미래 전망이며 실제 해제가 확인된 것은 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-19-pm/east-central-offshore-wave-advisory-2026-10-19",
+      "keyFacts": {
+        "대상": "동해중부 안쪽·바깥 먼바다",
+        "발표": "2026-10-19 18:00 KST",
+        "발효": "2026-10-19 20:00 KST",
+        "특보": "풍랑주의보",
+        "해제 예고": "2026-10-20 00~03시, 실제 해제 미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-19T18:00:00+09:00",
+      "sources": [
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "기상청",
+          "publishedAt": "2026-10-19T18:00:00+09:00",
+          "title": "2026년 10월 19일 18시 기상특보",
+          "url": "https://www.weather.go.kr/w/special-report/list.do",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "기상청",
+          "publishedAt": "2026-10-19T17:00:00+09:00",
+          "title": "2026년 10월 19일 17시 단기예보",
+          "url": "https://www.weather.go.kr/w/forecast/overall/short-term.do",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "stage": "시행",
+      "status": "확정",
+      "storyId": "east-central-offshore-wave-advisory-2026-10-19",
+      "summary": [
+        "기상청이 동해중부 안쪽·바깥 먼바다에 발표한 풍랑주의보가 19일 20시 발효됐습니다. 이번 회차 기준 시각인 21시에는 이미 발효된 해상 안전 정보입니다.",
+        "특보는 18시에 발표됐으며 해제는 20일 00~03시로 예고됐습니다. 해제 예고 시간에 실제로 해제됐다고 미리 표현할 수 없으므로 최신 특보를 확인해야 합니다.",
+        "별도의 17시 단기예보는 20일 남부·제주 강수와 오후 이후 충청·경기남부 등의 비 확대 가능성을 다뤘습니다. 이는 다음 날 예보이며 실제 강수 관측값과 구분해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "동해중부 먼바다 풍랑주의보 발효…해제 예고와 실제 해제 구분",
+      "uncertainty": "특보의 실제 해제 여부는 후속 공지로 확인해야 합니다. 20일 강수와 기온 변화는 예보입니다."
+    }
+  ],
+  "id": "east-central-offshore-wave-advisory-2026-10",
+  "schemaVersion": 1,
+  "title": "2026년 10월 동해중부 먼바다 풍랑주의보",
+  "updatedAt": "2026-10-20T08:49:43.565409+09:00"
+}

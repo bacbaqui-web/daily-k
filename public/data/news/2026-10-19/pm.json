@@ -1,0 +1,614 @@
+{
+  "cutoffAt": "2026-10-19T21:00:00+09:00",
+  "date": "2026-10-19",
+  "edition": "pm",
+  "events": [
+    {
+      "at": null,
+      "date": "2026-10-20",
+      "detail": "기상청 19일 17시 예보에 따른 남부·제주 강수와 오후 이후 충청·경기남부 등의 비 확대 여부를 확인합니다. 실제 강수 구역과 시각은 최신 예보에서 달라질 수 있습니다.",
+      "source": {
+        "kind": "official",
+        "language": "ko",
+        "name": "기상청",
+        "publishedAt": "2026-10-19T17:00:00+09:00",
+        "title": "2026년 10월 19일 17시 단기예보",
+        "url": "https://www.weather.go.kr/w/forecast/overall/short-term.do",
+        "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+      },
+      "timeNote": "지역별 예보 시간대가 달라 단일 시작 시각을 지정하지 않았습니다.",
+      "title": "남부·제주 강수와 오후 비 확대 여부"
+    },
+    {
+      "at": "2026-10-20T22:30:00+09:00",
+      "date": "2026-10-20",
+      "detail": "NYSE 공식 휴장표에 20일은 포함되지 않습니다. 정규장 개장 이후 주요 지수와 업종별 흐름을 확인할 예정이며 당일 거래 결과는 아직 없습니다.",
+      "source": {
+        "kind": "official",
+        "language": "en",
+        "name": "NYSE",
+        "publishedAt": null,
+        "title": "Holidays & Trading Hours",
+        "url": "https://www.nyse.com/trade/hours-calendars",
+        "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+      },
+      "timeNote": "미국 동부 서머타임 EDT 09:30을 한국시간 22:30으로 환산했습니다.",
+      "title": "뉴욕증권거래소 정규장 개장 예정"
+    },
+    {
+      "at": null,
+      "date": "2026-10-20",
+      "detail": "세계 골다공증의 날을 맞아 예방·진단·정책 관련 발표를 확인할 관찰 항목입니다. 특정 국내 행사 개최나 새 정책 시행이 확정됐다는 의미는 아닙니다.",
+      "source": {
+        "kind": "official",
+        "language": "en",
+        "name": "국제골다공증재단",
+        "publishedAt": null,
+        "title": "World Osteoporosis Day 2026 행사 안내",
+        "url": "https://www.worldosteoporosisday.org/index.php/event/world-osteoporosis-day-2026-10-20-0",
+        "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+      },
+      "timeNote": "기념일 날짜를 기준으로 한 확인 항목이며 특정 행사 시작 시각은 확인되지 않았습니다.",
+      "title": "세계 골다공증의 날 관련 발표 확인"
+    }
+  ],
+  "finalizedAt": "2026-10-20T08:51:42.391002+09:00",
+  "generatedAt": "2026-10-20T08:49:43.565409+09:00",
+  "id": "2026-10-19-pm",
+  "intro": "10월 19일 오후 브리핑입니다. 검증을 마친 6건을 10월 20일 홈페이지에 보완 게시했습니다.",
+  "keywords": [
+    "에너지 휴전 이행",
+    "코스피 반등",
+    "정규장 종가",
+    "탄핵소추안 공개",
+    "불법 도박 공급망",
+    "풍랑주의보",
+    "남부 강수",
+    "웹툰 창작지원",
+    "공모전 접수"
+  ],
+  "omissionNotes": [
+    {
+      "category": "과학·기술",
+      "reason": "원공시 검증이 완료되지 않은 기사를 제외했습니다."
+    }
+  ],
+  "overview": [
+    "우크라이나 대통령은 에너지 휴전 발표 이후 러시아의 관련 시설 공격이 일주일간 76차례 있었다고 주장했습니다. 국내에서는 코스피가 하락 출발 뒤 상승 전환해 5,768.01로 마감하며 오전 프리마켓과 다른 정규장 결과를 보였습니다.",
+    "조국혁신당은 대법원장 탄핵소추안을 공개했지만 국회 발의·의결 여부와는 구분해야 합니다. 경찰은 불법 도박사이트 공급조직 등 77명 검거를 발표했으며, 약 23조원은 경찰이 추산한 판돈 규모입니다.",
+    "19일 저녁 기준 동해중부 먼바다에는 풍랑주의보가 발효됐고, 웹툰 분야에서는 부천의 소규모 창작지원 공모전 접수가 시작됐습니다."
+  ],
+  "overviewEmphasis": [
+    "일주일간 76차례",
+    "5,768.01로 마감",
+    "국회 발의·의결 여부와는 구분",
+    "경찰이 추산한 판돈 규모",
+    "풍랑주의보가 발효"
+  ],
+  "publicationNote": "사용자 요청으로 2026-10-20 홈페이지에만 보완 게시. 기사 기준은 2026-10-19 21:00 KST이며 당시 예보·일정을 현재 정보로 해석하지 않습니다.",
+  "recordId": "2026-10-19-pm",
+  "scheduledFor": "2026-10-19T21:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "category": "경제·생활경제",
+      "emphasis": [
+        "1.76% 오른 5,768.01",
+        "1.78% 상승한 808.89",
+        "새 정규장 결과"
+      ],
+      "eventAt": "2026-10-19T15:30:00+09:00",
+      "eventTimeNote": "국내 정규장 종가 기준입니다. 개장 수치와 오전 프리마켓 가격을 구분했습니다.",
+      "factsHash": "00b91410b8b1f196e854d50a96de009cf29780b53f57a6bf528b9fa8433f803b",
+      "followUp": {
+        "delta": "오전 08:01 주요 반도체 두 종목의 프리마켓 6%대 하락 보도 이후 코스피는 하락 출발을 되돌려 5,768.01(+1.76%), 코스닥은 808.89(+1.78%)로 정규장을 마쳤습니다.",
+        "editionId": "2026-10-19-am",
+        "storyId": "korea-chip-premarket-decline-2026-10-19"
+      },
+      "id": "korea-market-2026-10-19-close",
+      "keyFacts": {
+        "코스닥 종가": "808.89 (+1.78%)",
+        "코스피 등락": "+1.76%",
+        "코스피 시가": "5,488.41 (-3.17%)",
+        "코스피 종가": "5,768.01"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-10-19T15:52:28+09:00",
+      "relatedArticles": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "세계일보·연합뉴스",
+          "publishedAt": "2026-10-19T15:52:28+09:00",
+          "title": "코스피 5,768.01 마감 보도",
+          "url": "https://m.segye.com/ampView/20261019517002",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-19T16:35:00+09:00",
+          "title": "국내 증시 상승 마감 보도",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610191635368292",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "representativeUrl": "https://m.segye.com/ampView/20261019517002",
+      "score": 96.75,
+      "scoreComponents": {
+        "domesticImpact": 98,
+        "importance": 95,
+        "interest": 95,
+        "recency": 100,
+        "reliability": 95
+      },
+      "scoreReason": "은행 우대금리 축소 후보와 비교해 국내 시장 전체의 확정 종가와 오전 이후 반전을 우선했습니다. 검색 요약의 오기를 본문·다른 보도로 대조했습니다.",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "세계일보·연합뉴스",
+          "publishedAt": "2026-10-19T15:52:28+09:00",
+          "title": "코스피 5,768.01 마감 보도",
+          "url": "https://m.segye.com/ampView/20261019517002",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-10-19T16:35:00+09:00",
+          "title": "국내 증시 상승 마감 보도",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610191635368292",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "코스피는 19일 전 거래일보다 1.76% 오른 5,768.01로 마감했습니다. 코스닥도 1.78% 상승한 808.89를 기록했습니다.",
+        "코스피는 3.17% 내린 5,488.41로 출발했지만 장중 상승 전환했습니다. 오전 회차에서 다룬 삼성전자·SK하이닉스 프리마켓 약세 이후 확인된 새 정규장 결과입니다.",
+        "기관 매수와 AI 투자 우려 등에 관한 설명은 보도의 시장 해석입니다. 종가 반등만으로 이후 상승 추세를 확정할 수는 없습니다.",
+        "YTN 검색 결과와 본문에 지수 표기 차이가 있었지만, 직접 확인한 본문과 연합뉴스 전재 기사는 5,768.01로 일치했습니다. 환율은 출처 간 수치 차이가 있어 제외했습니다."
+      ],
+      "timeline": {
+        "change": "코스피가 3.17% 하락 출발 뒤 상승 전환해 5,768.01(+1.76%)로 마감했습니다.",
+        "eventDate": "2026-10-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "stage": "결과"
+      },
+      "title": "코스피, 하락 출발 뒤 1.76% 상승…5,768.01 마감",
+      "topicKey": "korea-market-close-2026-10-19",
+      "uncertainty": "반등 배경은 시장 해석이며 하루 종가로 추세 전환을 단정할 수 없습니다. 환율은 수치 불일치로 사용하지 않았습니다.",
+      "whatChanged": "오전 프리마켓 약세 이후 코스피가 하락 출발을 되돌리고 상승 마감한 정규장 결과가 확정됐습니다.",
+      "whyItMatters": "장 초반 위험 회피와 종가 반등이 함께 나타나 국내 주식시장 변동성을 보여줍니다."
+    },
+    {
+      "category": "국제정세",
+      "emphasis": [
+        "일주일 동안",
+        "76차례 공격했다고 주장",
+        "우크라이나 측 발표"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "19일 보도로 대통령의 주간 집계를 확인했습니다. 정확한 발언 시각과 개별 공격 시각은 제공된 조사에서 확인되지 않았습니다.",
+      "factsHash": "42d6986aaedeee8a65c710e3821768e2c18c535f636880a9e6f02c318a33a86d",
+      "followUp": {
+        "delta": "18일 러시아 석유시설 피격 보도 이후 19일에는 우크라이나 대통령이 에너지 휴전 발표 뒤 러시아의 관련 시설 공격이 일주일간 76차례였다고 주장한 새 집계가 보도됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "storyId": "russia-st-petersburg-oil-site-drone-attack-2026-10-18"
+      },
+      "id": "ukraine-energy-strikes-weekly-tally-2026-10-19",
+      "keyFacts": {
+        "공격 집계": "휴전 발표 이후 일주일간 76차례, 우크라이나 측 주장",
+        "대상 시설": "에너지·석유·가스 시설",
+        "독립 확인": "제공된 조사에서 확인되지 않음",
+        "발표 주체": "젤렌스키 우크라이나 대통령"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-10-19T12:09:29+09:00",
+      "relatedArticles": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T12:09:29+09:00",
+          "title": "젤렌스키, 에너지 휴전 발표 이후 러시아 공격 76차례 주장 보도",
+          "url": "https://www.newsis.com/view/NISX20261019_0003831389",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.newsis.com/view/NISX20261019_0003831389",
+      "score": 86.15,
+      "scoreComponents": {
+        "domesticImpact": 68,
+        "importance": 93,
+        "interest": 84,
+        "recency": 100,
+        "reliability": 82
+      },
+      "scoreReason": "전쟁과 에너지 공급, 휴전 이행에 미치는 범위를 고려해 선정했습니다. 비교 후보인 서안지구 외교관·기자 공격보다 영향 범위가 넓다고 판단했으며, 주간 집계는 당사자 주장으로 한정했습니다.",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T12:09:29+09:00",
+          "title": "젤렌스키, 에너지 휴전 발표 이후 러시아 공격 76차례 주장 보도",
+          "url": "https://www.newsis.com/view/NISX20261019_0003831389",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "status": "주장",
+      "summary": [
+        "젤렌스키 우크라이나 대통령은 미국의 에너지 휴전 발표 이후 일주일 동안 러시아가 에너지·석유·가스 시설을 76차례 공격했다고 주장했습니다. 휴전 이행에 관한 우크라이나 측의 새 주간 집계입니다.",
+        "공격 76차례와 정전·피해 규모는 우크라이나 측 발표입니다. 독립적으로 확정된 공격 집계로 볼 수 없으며, 개별 공격의 대상과 피해를 별도로 확인해야 합니다.",
+        "앞선 회차에서는 휴전 발표 뒤 공격 지속 보도와 러시아 석유시설 피격을 다뤘습니다. 이번에는 우크라이나 대통령의 주간 집계가 추가됐으며, 에너지 공급과 휴전 이행의 실제 상황은 계속 확인할 사안입니다."
+      ],
+      "timeline": {
+        "change": "우크라이나 대통령이 휴전 발표 뒤 일주일간 관련 시설 공격 76차례를 주장했습니다. 독립적인 공격·피해 검증은 확인되지 않았습니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+        "issueTitle": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방",
+        "stage": "후속"
+      },
+      "title": "젤렌스키 “에너지 휴전 발표 뒤 러시아 공격 일주일간 76차례”",
+      "topicKey": "ukraine-energy-strikes-weekly-tally-2026-10-19",
+      "uncertainty": "공격 횟수와 피해는 우크라이나 측 발표이며 독립 검증된 최종 집계가 아닙니다.",
+      "whatChanged": "기존 에너지시설 공격 보도 이후 우크라이나 대통령이 휴전 발표 뒤 일주일간 공격 76차례라는 집계를 제시했습니다.",
+      "whyItMatters": "전력·연료 공급 위험과 에너지시설 공격 중단 논의의 이행 상황을 살필 후속 정보입니다."
+    },
+    {
+      "category": "정치·정책",
+      "emphasis": [
+        "탄핵소추안을 공개",
+        "국회의 실제 발의·의결과 구분",
+        "혁신당의 주장"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "19일 문안 공개가 확인됐지만 정확한 공개 시각은 제공된 조사에서 확인되지 않았습니다. 기사 등록 시각을 행사 시각으로 대체하지 않았습니다.",
+      "factsHash": "c752a51c895dfd26dcdfd746847c7dc09872ad4d7ab6aad45f75d23d5637ac56",
+      "followUp": {
+        "delta": "전날에는 19일 초안 공개 계획만 확인됐으나, 19일에는 실제 문안 공개와 민주당 등에 대한 공동 TF·의원총회 제안이 보도됐습니다.",
+        "editionId": "2026-10-18-pm",
+        "storyId": "chief-justice-impeachment-draft-2026-10-18"
+      },
+      "id": "chief-justice-impeachment-draft-release-2026-10-19",
+      "keyFacts": {
+        "공개 주체": "조국혁신당",
+        "국회 발의·의결": "제공된 조사에서 확인되지 않음",
+        "새 단계": "탄핵소추안 문안 공개",
+        "추가 제안": "민주당 등에 공동 TF·의원총회 제안"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-10-19T10:04:46+09:00",
+      "relatedArticles": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T10:04:46+09:00",
+          "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개 보도",
+          "url": "https://m.newsis.com/view/NISX20261019_0003830936",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-19T10:15:00+09:00",
+          "title": "조국혁신당 탄핵소추안 공개와 공동 논의 제안 보도",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261019052700001",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "representativeUrl": "https://m.newsis.com/view/NISX20261019_0003830936",
+      "score": 88.5,
+      "scoreComponents": {
+        "domesticImpact": 91,
+        "importance": 89,
+        "interest": 83,
+        "recency": 85,
+        "reliability": 93
+      },
+      "scoreReason": "비대면진료 시행규칙안 재검토 요구와 비교해 헌법기관 간 관계에 관한 구체적인 절차 변화를 우선했습니다. 정당의 법적 주장과 확인된 공개 사실을 분리했습니다.",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-19T10:04:46+09:00",
+          "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개 보도",
+          "updatedAt": "2026-10-19T10:29:47+09:00",
+          "url": "https://m.newsis.com/view/NISX20261019_0003830936",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-19T10:15:00+09:00",
+          "title": "조국혁신당 탄핵소추안 공개와 공동 논의 제안 보도",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261019052700001",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "조국혁신당이 조희대 대법원장 탄핵소추안을 공개했습니다. 전날 예고했던 문안 공개가 실제로 이뤄진 후속입니다.",
+        "혁신당은 민주당 등에 공동 TF와 의원총회를 제안했습니다. 문안 공개와 협의 제안은 국회의 실제 발의·의결과 구분해야 합니다.",
+        "소추안의 위헌·위법 판단은 혁신당의 주장입니다. 법원이나 헌법재판소가 확정한 결론이 아니며, 다른 정당의 참여와 국회 절차는 후속 확인이 필요합니다."
+      ],
+      "timeline": {
+        "change": "혁신당이 탄핵소추안 문안을 공개하고 공동 논의를 제안했습니다. 국회 발의·의결은 확인되지 않았습니다.",
+        "eventDate": "2026-10-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "korea-supreme-court-appointment-conflict",
+        "issueTitle": "대법관 제청과 사법부·정부 갈등",
+        "stage": "후속"
+      },
+      "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개",
+      "topicKey": "chief-justice-impeachment-draft-2026-10-18",
+      "uncertainty": "공개는 국회 발의·의결이나 탄핵 사유에 대한 사법 판단을 뜻하지 않습니다.",
+      "whatChanged": "19일 공개 예고가 실제 탄핵소추안 문안 공개와 공동 논의 제안으로 바뀌었습니다.",
+      "whyItMatters": "대법원장 탄핵 논의가 구체적인 문안과 정당 간 협의 제안 단계로 진전됐습니다."
+    },
+    {
+      "category": "사회이슈",
+      "emphasis": [
+        "77명을 검거하고 21명을 구속",
+        "판돈 규모는 약 23조원",
+        "유죄로 확정됐다는 의미는 아닙니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "19일 수사 결과 발표를 다룹니다. 범행 기간은 2023년부터 2026년 7월까지이며 개별 검거·구속 시각은 확인되지 않았습니다.",
+      "factsHash": "d7397f7eb9d080f9490b48a935040f8c15df5eb3db7de0890c64580a8e35351b",
+      "id": "illegal-gambling-site-supply-arrests-2026-10-19",
+      "keyFacts": {
+        "검거": "77명, 경찰 발표",
+        "구속": "21명, 경찰 발표",
+        "범행 기간": "2023년~2026년 7월",
+        "제작·공급 사이트": "188개, 경찰 발표",
+        "판돈 규모": "약 23조원, 경찰 추산"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-10-19T14:08:00+09:00",
+      "relatedArticles": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-19T14:08:00+09:00",
+          "title": "불법 도박사이트 공급조직 등 77명 검거 보도",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008804342&oaid=N1008804793&plink=TOP",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "중도일보",
+          "publishedAt": "2026-10-19T13:35:00+09:00",
+          "title": "충남경찰청 불법 도박사이트 공급망 수사 결과 보도",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20261019010005107",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "representativeUrl": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008804342&oaid=N1008804793&plink=TOP",
+      "score": 88.4,
+      "scoreComponents": {
+        "domesticImpact": 86,
+        "importance": 86,
+        "interest": 76,
+        "recency": 100,
+        "reliability": 92
+      },
+      "scoreReason": "의협의 비대면진료 개정안 반대 후보보다 확인된 수사 대상과 차단 조치의 구체성·범위를 높게 평가했습니다. 할리스 유출은 새 집계가 없어 제외했습니다.",
+      "sources": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-19T14:08:00+09:00",
+          "title": "불법 도박사이트 공급조직 등 77명 검거 보도",
+          "updatedAt": "2026-10-19T17:38:00+09:00",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008804342&oaid=N1008804793&plink=TOP",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "중도일보",
+          "publishedAt": "2026-10-19T13:35:00+09:00",
+          "title": "충남경찰청 불법 도박사이트 공급망 수사 결과 보도",
+          "updatedAt": "2026-10-19T14:12:00+09:00",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20261019010005107",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "충남경찰청은 불법 도박사이트 188개를 제작·공급한 조직 등을 수사해 77명을 검거하고 21명을 구속했다고 발표했습니다. 사이트 운영 중단과 관련 주소 차단 조치도 공개했습니다.",
+        "경찰이 추산한 판돈 규모는 약 23조원입니다. 이는 피해액이나 조직의 순이익을 뜻하지 않으며, 범죄수익에 대한 추징보전 조치와도 구분해야 합니다.",
+        "범행 기간은 2023년부터 올해 7월까지로 조사됐습니다. 오늘의 새 정보는 수사 결과 발표이며, 검거된 사람들의 혐의가 법원에서 유죄로 확정됐다는 의미는 아닙니다."
+      ],
+      "timeline": {
+        "change": "경찰이 사이트 188개 제작·공급 관련 수사에서 77명 검거·21명 구속 등을 발표했습니다. 혐의의 최종 사법 판단은 남아 있습니다.",
+        "eventDate": "2026-10-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "illegal-gambling-site-supply-investigation-2026",
+        "issueTitle": "불법 도박사이트 제작·공급망 수사",
+        "stage": "발표"
+      },
+      "title": "경찰, 불법 도박사이트 공급조직 등 77명 검거…21명 구속",
+      "topicKey": "illegal-gambling-site-supply-arrests-2026-10-19",
+      "uncertainty": "인원·사이트·판돈 규모는 경찰 발표에 근거하며 혐의는 유죄 확정과 다릅니다. 판돈을 피해액이나 순이익으로 해석할 수 없습니다.",
+      "whatChanged": "경찰이 도박사이트 공급망 수사 결과와 검거·구속, 운영 중단·주소 차단 및 추징보전 조치를 발표했습니다.",
+      "whyItMatters": "불법 도박 운영을 뒷받침하는 사이트 제작·공급망에 대한 수사와 차단 범위를 보여줍니다."
+    },
+    {
+      "category": "생활·안전",
+      "emphasis": [
+        "19일 20시 발효",
+        "20일 00~03시로 예고",
+        "다음 날 예보"
+      ],
+      "eventAt": "2026-10-19T20:00:00+09:00",
+      "eventTimeNote": "특보는 19일 18시 발표됐고 20시 발효됐습니다. 20일 00~03시 해제 예고는 미래 전망이며 실제 해제가 확인된 것은 아닙니다.",
+      "factsHash": "3da57098c27465181dc090d6f769b72b1208b49c2e9a7a7fb6e33a76a5c62187",
+      "id": "east-central-offshore-wave-advisory-2026-10-19",
+      "keyFacts": {
+        "대상": "동해중부 안쪽·바깥 먼바다",
+        "발표": "2026-10-19 18:00 KST",
+        "발효": "2026-10-19 20:00 KST",
+        "특보": "풍랑주의보",
+        "해제 예고": "2026-10-20 00~03시, 실제 해제 미확인"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-10-19T18:00:00+09:00",
+      "relatedArticles": [
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "기상청",
+          "publishedAt": "2026-10-19T18:00:00+09:00",
+          "title": "2026년 10월 19일 18시 기상특보",
+          "url": "https://www.weather.go.kr/w/special-report/list.do",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.weather.go.kr/w/special-report/list.do",
+      "score": 81.8,
+      "scoreComponents": {
+        "domesticImpact": 70,
+        "importance": 80,
+        "interest": 65,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "20일 강수·기온 예보 후보보다 기준 시각에 발효 중인 해상 위험을 우선했습니다. 이전 출근길 예보와 다른 특보이며 미래 해제를 완료로 표현하지 않았습니다.",
+      "sources": [
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "기상청",
+          "publishedAt": "2026-10-19T18:00:00+09:00",
+          "title": "2026년 10월 19일 18시 기상특보",
+          "url": "https://www.weather.go.kr/w/special-report/list.do",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "기상청",
+          "publishedAt": "2026-10-19T17:00:00+09:00",
+          "title": "2026년 10월 19일 17시 단기예보",
+          "url": "https://www.weather.go.kr/w/forecast/overall/short-term.do",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "기상청이 동해중부 안쪽·바깥 먼바다에 발표한 풍랑주의보가 19일 20시 발효됐습니다. 이번 회차 기준 시각인 21시에는 이미 발효된 해상 안전 정보입니다.",
+        "특보는 18시에 발표됐으며 해제는 20일 00~03시로 예고됐습니다. 해제 예고 시간에 실제로 해제됐다고 미리 표현할 수 없으므로 최신 특보를 확인해야 합니다.",
+        "별도의 17시 단기예보는 20일 남부·제주 강수와 오후 이후 충청·경기남부 등의 비 확대 가능성을 다뤘습니다. 이는 다음 날 예보이며 실제 강수 관측값과 구분해야 합니다."
+      ],
+      "timeline": {
+        "change": "동해중부 먼바다 풍랑주의보가 19일 20시 발효됐습니다. 다음 날 해제 예고는 실제 해제와 구분합니다.",
+        "eventDate": "2026-10-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "east-central-offshore-wave-advisory-2026-10",
+        "issueTitle": "2026년 10월 동해중부 먼바다 풍랑주의보",
+        "stage": "시행"
+      },
+      "title": "동해중부 먼바다 풍랑주의보 발효…해제 예고와 실제 해제 구분",
+      "topicKey": "east-central-offshore-wave-advisory-2026-10-19",
+      "uncertainty": "특보의 실제 해제 여부는 후속 공지로 확인해야 합니다. 20일 강수와 기온 변화는 예보입니다.",
+      "whatChanged": "19일 저녁 동해중부 먼바다 풍랑주의보가 발표되고 기준 시각 전에 발효됐습니다.",
+      "whyItMatters": "해상 활동과 항해 판단에 영향을 주는 현재 발효 중인 안전 정보입니다."
+    },
+    {
+      "category": "웹툰산업",
+      "emphasis": [
+        "19일 접수를 시작",
+        "21명에게 총상금 450만원",
+        "4~10컷",
+        "11월 11일"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "접수 시작일은 19일이며 구체적인 시작 시각은 확인되지 않았습니다. 접수 마감은 11월 11일 예정으로 아직 완료되지 않았습니다.",
+      "factsHash": "2238ea2a0b31c2eb3f9d42bc0fcb822d078dc75e7ca3f4f9e7551f4a06c35fdf",
+      "id": "bucheon-webtoon-convergence-contest-2026-10-19",
+      "keyFacts": {
+        "시상": "21명, 총상금 450만원",
+        "작품": "지역사회 문제 해결 주제, 4~10컷",
+        "접수 기간": "2026-10-19~2026-11-11",
+        "주최·주관": "부천대·서울신학대 공동",
+        "후원": "부천시 등"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-10-19T13:17:00+09:00",
+      "relatedArticles": [
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "부천시",
+          "publishedAt": "2026-10-19T13:17:00+09:00",
+          "title": "웹툰융합공모전 접수 안내",
+          "url": "https://news.bucheon.go.kr/home/kor/M337742440/board.do?act=detail&deleteAt=N&idx=cb00d1a0008a85e71a41b8741facbffec13f4269a0699cd257e916b1faa5b986",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "representativeUrl": "https://news.bucheon.go.kr/home/kor/M337742440/board.do?act=detail&deleteAt=N&idx=cb00d1a0008a85e71a41b8741facbffec13f4269a0699cd257e916b1faa5b986",
+      "score": 62.2,
+      "scoreComponents": {
+        "domesticImpact": 42,
+        "importance": 46,
+        "interest": 62,
+        "recency": 100,
+        "reliability": 94
+      },
+      "scoreReason": "당일 미게재 후보 중 창작 참여와 보상이 구체적인 공모전을 선정했습니다. 이마트24 재혼 황후 협업은 계약액·정산·실적이 없는 상품 홍보 성격을 고려해 제외했습니다. 산업 영향이 제한적이므로 중요도를 부풀리지 않았습니다. 전북 입주 모집은 72시간 초과, 티즈는 실제 출시 미확인, Krea·위페스타·기존 팝업은 반복으로 제외했습니다.",
+      "sources": [
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "부천시",
+          "publishedAt": "2026-10-19T13:17:00+09:00",
+          "title": "웹툰융합공모전 접수 안내",
+          "url": "https://news.bucheon.go.kr/home/kor/M337742440/board.do?act=detail&deleteAt=N&idx=cb00d1a0008a85e71a41b8741facbffec13f4269a0699cd257e916b1faa5b986",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "부천대·서울신학대가 공동 주최·주관하는 웹툰융합공모전이 19일 접수를 시작했습니다. 21명에게 총상금 450만원을 제공하는 소규모 창작지원 사업입니다.",
+        "경기도민과 도내 직장인·학생 등이 지역사회 문제 해결을 주제로 4~10컷 작품을 제출할 수 있습니다. 접수 마감일은 11월 11일입니다.",
+        "부천시 등은 후원으로 참여하며 주최·주관과 구분해야 합니다. 창작 기회와 보상은 구체적으로 제시됐지만 수상자 선정이나 상금 지급이 완료된 것은 아닙니다.",
+        "필수 분야의 확인된 당일 후보 가운데 창작자에게 직접적인 참여 기회를 제공한다는 점을 평가했습니다. 사업 규모가 작아 산업 전체의 성장이나 창작자 소득 개선으로 확대해석할 수는 없습니다."
+      ],
+      "timeline": {
+        "change": "공모전 접수가 시작됐습니다. 마감은 11월 11일 예정이며 수상자 선정·상금 지급은 아직 확인되지 않았습니다.",
+        "eventDate": "2026-10-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "bucheon-webtoon-convergence-contest-2026",
+        "issueTitle": "부천 웹툰융합공모전과 지역 창작지원",
+        "stage": "시행"
+      },
+      "title": "부천 웹툰융합공모전 접수 시작…21명에 총상금 450만원",
+      "topicKey": "bucheon-webtoon-convergence-contest-2026-10-19",
+      "uncertainty": "수상자·상금 지급과 이후 연재·취업 성과는 확인되지 않았습니다. 소규모 사업으로 산업 전체 파급은 제한적입니다.",
+      "whatChanged": "웹툰융합공모전의 작품 접수가 19일 시작됐고 참여 조건과 시상 규모가 안내됐습니다.",
+      "whyItMatters": "지역사회 문제를 웹툰으로 표현할 창작 기회와 구체적인 보상을 제공합니다."
+    }
+  ],
+  "timezone": "Asia/Seoul"
+}

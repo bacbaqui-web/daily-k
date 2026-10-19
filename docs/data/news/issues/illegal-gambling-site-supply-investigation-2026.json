@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-19/pm.json",
+      "category": "사회이슈",
+      "change": "경찰이 사이트 188개 제작·공급 관련 수사에서 77명 검거·21명 구속 등을 발표했습니다. 혐의의 최종 사법 판단은 남아 있습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T08:49:43.565409+09:00",
+      "coveredOn": "2026-10-19",
+      "edition": "pm",
+      "editionDate": "2026-10-19",
+      "editionId": "2026-10-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-19",
+      "eventEndDate": null,
+      "eventTimeNote": "19일 수사 결과 발표를 다룹니다. 범행 기간은 2023년부터 2026년 7월까지이며 개별 검거·구속 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-19-pm/illegal-gambling-site-supply-arrests-2026-10-19",
+      "keyFacts": {
+        "검거": "77명, 경찰 발표",
+        "구속": "21명, 경찰 발표",
+        "범행 기간": "2023년~2026년 7월",
+        "제작·공급 사이트": "188개, 경찰 발표",
+        "판돈 규모": "약 23조원, 경찰 추산"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-19T14:08:00+09:00",
+      "sources": [
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-19T14:08:00+09:00",
+          "title": "불법 도박사이트 공급조직 등 77명 검거 보도",
+          "updatedAt": "2026-10-19T17:38:00+09:00",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008804342&oaid=N1008804793&plink=TOP",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        },
+        {
+          "kind": "major",
+          "language": "ko",
+          "name": "중도일보",
+          "publishedAt": "2026-10-19T13:35:00+09:00",
+          "title": "충남경찰청 불법 도박사이트 공급망 수사 결과 보도",
+          "updatedAt": "2026-10-19T14:12:00+09:00",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20261019010005107",
+          "verifiedAt": "2026-10-20T08:49:43.565373+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "illegal-gambling-site-supply-arrests-2026-10-19",
+      "summary": [
+        "충남경찰청은 불법 도박사이트 188개를 제작·공급한 조직 등을 수사해 77명을 검거하고 21명을 구속했다고 발표했습니다. 사이트 운영 중단과 관련 주소 차단 조치도 공개했습니다.",
+        "경찰이 추산한 판돈 규모는 약 23조원입니다. 이는 피해액이나 조직의 순이익을 뜻하지 않으며, 범죄수익에 대한 추징보전 조치와도 구분해야 합니다.",
+        "범행 기간은 2023년부터 올해 7월까지로 조사됐습니다. 오늘의 새 정보는 수사 결과 발표이며, 검거된 사람들의 혐의가 법원에서 유죄로 확정됐다는 의미는 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "경찰, 불법 도박사이트 공급조직 등 77명 검거…21명 구속",
+      "uncertainty": "인원·사이트·판돈 규모는 경찰 발표에 근거하며 혐의는 유죄 확정과 다릅니다. 판돈을 피해액이나 순이익으로 해석할 수 없습니다."
+    }
+  ],
+  "id": "illegal-gambling-site-supply-investigation-2026",
+  "schemaVersion": 1,
+  "title": "불법 도박사이트 제작·공급망 수사",
+  "updatedAt": "2026-10-20T08:49:43.565409+09:00"
+}
