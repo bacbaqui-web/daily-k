@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-19",
-  "collectedAt": "2026-10-19T05:55:40.248231+00:00",
+  "collectedAt": "2026-10-19T05:58:24.008889+00:00",
   "windowEnd": "2026-10-19T14:55:40.137188+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11133,6 +11133,91 @@
       "firstPublishedAt": "2026-10-18T23:54:03.292476+00:00"
     },
     {
+      "id": "aagag-1662963-0",
+      "url": "https://aagag.com/issue/?idx=1662963",
+      "source": "애객",
+      "title": "고양이를 데리고 외출하면",
+      "publishedAt": "2026-10-19T14:40:03+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1Brx.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1Brx.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 10,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 10,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 1.1,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8866307",
+          "text": "오늘부터 고양이 잡으러 다닌다"
+        },
+        {
+          "id": "8866308",
+          "text": ""
+        },
+        {
+          "id": "8866313",
+          "text": "잡아주실분 구함"
+        },
+        {
+          "id": "8866316",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8866338",
+          "text": "아이고 지붕위에 올라가서 잡기가 어려워요"
+        },
+        {
+          "id": "8866314",
+          "text": "아비시니안인가?"
+        },
+        {
+          "id": "8866320",
+          "text": "고양이 개빡친거 같은데 ㅋㅋㅋ"
+        },
+        {
+          "id": "8866327",
+          "text": "우리 고양이가 어딧더라, 주섬 주섬"
+        },
+        {
+          "id": "8866340",
+          "text": "피부색이 홍키 그 자체 ㄷㄷ"
+        },
+        {
+          "id": "8866356",
+          "text": "아비시니안 저거 단모종인데 털이 은근 빠짐..개냥이과로 목줄없이 산책 가능;;"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-19T14:58:09.917323+09:00",
+      "sourceTitles": [
+        "집사에게 이용당한 고양이",
+        "냥이 데리고 외출",
+        "고양이를 데리고 외출하는 이유",
+        "고양이를 데리고 외출하면"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-19T05:58:23.923955+00:00",
+      "collectedAt": "2026-10-19T14:58:23.923973+09:00",
+      "firstPublishedAt": "2026-10-19T05:58:24.025649+00:00"
+    },
+    {
       "id": "aagag-511294-0",
       "url": "https://aagag.com/issue/?idx=511294",
       "source": "애객",
@@ -14181,7 +14266,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
