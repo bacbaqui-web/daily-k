@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-20/pm.json",
+      "category": "국제정세",
+      "change": "영국이 사우디 방어를 위한 공중순찰 등 지원 확대를 발표했습니다. 개별 출격 완료와 성과는 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T21:12:30.244765+09:00",
+      "coveredOn": "2026-10-20",
+      "edition": "pm",
+      "editionDate": "2026-10-20",
+      "editionId": "2026-10-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "영국 현지 10월 20일 발표입니다. 정확한 발표 시각과 개별 출격 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Europe/London",
+      "followUp": null,
+      "id": "2026-10-20-pm/uk-saudi-defensive-air-patrol-support-2026-10-20",
+      "keyFacts": {
+        "발표일": "2026-10-20 영국 현지",
+        "보호 대상": "도시·민간인·주요 기반시설",
+        "작전 성과": "확인되지 않음",
+        "지원 내용": "사우디 방어를 위한 공중순찰 등 지원 확대"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T20:12:51+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-20T20:12:51+09:00",
+          "title": "영국, 사우디 방어 위한 전투기 공중순찰 등 군사지원 확대",
+          "url": "https://nwww.newsis.com/view/NISX20261020_0003834048",
+          "verifiedAt": "2026-10-20T21:09:39.973633+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "uk-saudi-defensive-air-patrol-support-2026-10-20",
+      "summary": [
+        "영국이 사우디의 도시·민간인·주요 기반시설을 보호하기 위한 군사지원 확대를 발표했습니다. 방어적 공중순찰 등이 포함됩니다.",
+        "뉴시스 보도에 따르면 이번 지원은 후티 목표물을 공격하는 임무와 구분됩니다. 지원의 목적과 임무 성격을 공격 작전 확대와 혼동하지 않아야 합니다.",
+        "확인된 변화는 군사지원 범위의 확대 발표입니다. 개별 출격의 완료나 작전 성과는 제공된 조사에서 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "영국, 사우디 방어 위한 공중순찰 등 군사지원 확대 발표",
+      "uncertainty": "개별 출격의 완료·성과는 확인되지 않았으며 후티 목표물 공격 임무와 구분해야 합니다."
+    }
+  ],
+  "id": "uk-saudi-defensive-air-patrol-support-2026-10-20",
+  "schemaVersion": 1,
+  "title": "영국의 사우디 방어 공중순찰과 군사지원 확대",
+  "updatedAt": "2026-10-20T21:12:30.244765+09:00"
+}

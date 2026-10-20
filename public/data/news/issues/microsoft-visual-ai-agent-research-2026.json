@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-20/pm.json",
+      "category": "과학·기술",
+      "change": "영상 기반 소프트웨어 사용 학습과 에이전트 협업 연구·시연이 소개됐습니다. 상용 제공과 독립 성능 검증은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T21:12:30.244765+09:00",
+      "coveredOn": "2026-10-20",
+      "edition": "pm",
+      "editionDate": "2026-10-20",
+      "editionId": "2026-10-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 20일 MS 연구 소개 행사입니다. 정확한 행사 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-20-pm/microsoft-visual-ai-agent-research-2026-10-20",
+      "keyFacts": {
+        "발표 주체": "MS",
+        "소개 내용": "영상에서 소프트웨어 사용법을 학습하는 시각 기반 AI 에이전트",
+        "추가 연구": "여러 에이전트의 협업",
+        "확인 단계": "연구 소개·시연"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T11:56:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-20T11:56:00+09:00",
+          "title": "유튜브 보며 PPT 독학하는 AI…MS, 한국과 협력",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261020085600017",
+          "verifiedAt": "2026-10-20T21:09:39.973633+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "microsoft-visual-ai-agent-research-2026-10-20",
+      "summary": [
+        "MS가 영상에서 소프트웨어 사용법을 학습하는 시각 기반 AI 에이전트 연구·시연을 소개했습니다. 여러 에이전트가 협업하는 연구도 함께 다뤘습니다.",
+        "AI 에이전트는 사용자의 작업을 수행하도록 설계된 시스템입니다. 이번 소개는 소프트웨어 화면과 사용 영상을 활용하는 조작 자동화 연구에 관한 내용입니다.",
+        "적용 범위가 여러 업무로 넓어질 가능성은 있지만, 확인된 것은 연구 소개와 시연입니다. 일반 이용자가 사용할 수 있는 완성된 상용 기능이나 독립적으로 검증된 생산성 개선으로 표현할 수 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "MS, 영상으로 소프트웨어 사용법 배우는 AI 에이전트 연구 소개",
+      "uncertainty": "상용 기능 제공과 독립적인 생산성 개선 검증은 확인되지 않았습니다."
+    }
+  ],
+  "id": "microsoft-visual-ai-agent-research-2026",
+  "schemaVersion": 1,
+  "title": "MS 시각 기반 소프트웨어 조작 AI 에이전트 연구",
+  "updatedAt": "2026-10-20T21:12:30.244765+09:00"
+}

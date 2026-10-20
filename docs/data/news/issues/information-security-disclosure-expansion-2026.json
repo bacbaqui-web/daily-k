@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-20/pm.json",
+      "category": "정치·정책",
+      "change": "정보보호 공시 의무 대상 확대 시행령이 의결됐습니다. 시행일은 2027년 1월 1일이며 적용 제외·유예가 있습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T21:12:30.244765+09:00",
+      "coveredOn": "2026-10-20",
+      "edition": "pm",
+      "editionDate": "2026-10-20",
+      "editionId": "2026-10-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 20일 국무회의 의결입니다. 정확한 의결 시각은 확인되지 않았으며 시행일은 2027년 1월 1일입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-20-pm/information-security-disclosure-expansion-2026-10-20",
+      "keyFacts": {
+        "시행일": "2027-01-01",
+        "의결일": "2026-10-20",
+        "적용 유의사항": "제외·유예 존재",
+        "확대 방향": "상장사·금융·공공 분야 등"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T13:32:09+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-20T13:32:09+09:00",
+          "title": "내년부터 코스피·코스닥 전 상장사 정보보호 공시 의무화",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+          "verifiedAt": "2026-10-20T21:09:39.973633+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": null,
+          "title": "정보보호 공시 의무 대상 확대와 시행 시기 보도",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/10/20/2026101917153418283",
+          "verifiedAt": "2026-10-20T21:09:39.973633+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "information-security-disclosure-expansion-2026-10-20",
+      "summary": [
+        "정보보호 공시 의무 대상을 확대하는 시행령 개정안이 국무회의에서 의결됐습니다. 시행일은 2027년 1월 1일입니다.",
+        "뉴시스와 머니투데이 보도에 따르면 공시 의무 범위는 상장사와 금융·공공 분야 등으로 확대됩니다. 기업 등의 정보보호 관련 정보를 공개하는 제도의 적용 범위가 달라지는 조치입니다.",
+        "다만 적용 제외·유예가 있으므로 모든 법인에 즉시 적용된다고 표현할 수 없습니다. 개별 기관의 의무 여부와 적용 시점은 세부 기준을 확인해야 합니다.",
+        "공시 확대는 보안 관련 정보를 살필 기반을 넓히지만 보안사고 방지를 보장하지는 않습니다. 이번 의결과 실제 시행·이행 성과를 구분해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "정보보호 공시 의무 확대 시행령 의결…2027년 1월 시행",
+      "uncertainty": "적용 제외·유예가 있으며 공시 확대가 실제 보안사고 감소로 이어질지는 확인되지 않았습니다."
+    }
+  ],
+  "id": "information-security-disclosure-expansion-2026",
+  "schemaVersion": 1,
+  "title": "정보보호 공시 의무 대상 확대",
+  "updatedAt": "2026-10-20T21:12:30.244765+09:00"
+}

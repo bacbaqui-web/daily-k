@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-20/pm.json",
+      "category": "사회이슈",
+      "change": "박순관 대표의 징역 4년이 확정됐습니다. 유족은 재판소원 검토 입장을 밝혔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T21:12:30.244765+09:00",
+      "coveredOn": "2026-10-20",
+      "edition": "pm",
+      "editionDate": "2026-10-20",
+      "editionId": "2026-10-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 20일 대법원 판결입니다. 정확한 선고 시각은 제공된 조사에 없습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-20-pm/aricell-ceo-final-sentence-2026-10-20",
+      "keyFacts": {
+        "사건": "23명 사망 아리셀 화재",
+        "유족 대응": "재판소원 검토 입장",
+        "피고인": "박순관 대표",
+        "확정 형량": "징역 4년"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T15:13:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-10-20T15:13:00+09:00",
+          "title": "아리셀 참사 대표 징역 4년 확정…유족 “재판소원 검토”",
+          "url": "https://www.yna.co.kr/view/AKR20261020060053004",
+          "verifiedAt": "2026-10-20T21:09:39.973633+09:00"
+        },
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": null,
+          "title": "아리셀 화재 대표 징역 4년 확정 보도",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833183",
+          "verifiedAt": "2026-10-20T21:09:39.973633+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "aricell-ceo-final-sentence-2026-10-20",
+      "summary": [
+        "23명이 숨진 아리셀 화재와 관련해 박순관 대표의 징역 4년이 확정됐습니다. 대규모 산업재해 책임에 대한 최종 사법 판단입니다.",
+        "연합뉴스와 뉴시스 보도에서 확정 결과가 대조됐습니다. 판결을 모든 안전의무 위반에 대한 무죄 판단으로 확대해 요약해서는 안 됩니다.",
+        "유족은 판결에 반발하며 재판소원을 검토한다고 밝혔습니다. 이는 유족의 후속 대응 계획으로, 실제 청구나 이후 판단이 완료됐다는 의미는 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "아리셀 화재 박순관 대표 징역 4년 확정",
+      "uncertainty": "유족의 재판소원은 검토 계획이며 실제 청구와 후속 판단은 확인되지 않았습니다."
+    }
+  ],
+  "id": "aricell-fire-criminal-trial",
+  "schemaVersion": 1,
+  "title": "아리셀 화재 형사책임 재판",
+  "updatedAt": "2026-10-20T21:12:30.244765+09:00"
+}
