@@ -8,7 +8,9 @@ export type NewsTimeline = {
  stage:'예정'|'발표'|'검토'|'확정'|'시행'|'결과'|'후속'|'보도'|'분석'|'정정'|'철회';change:string;
  correctionOf?:NewsReference;
 };
+export type NewsAlternative = {rank:2|3;title:string;url:string;name:string;reason?:string};
 export type NewsStory = {
+ alternatives?:NewsAlternative[];
  id:string;topicKey:string;category:string;placement?:'lead'|'additional';title:string;summary:string[];status:string;
  representativeUrl?:string;publishedAt:string|null;publishedDate?:string;publishedTimezone?:string;eventAt:string|null;eventTimeNote:string;whatChanged:string;whyItMatters:string;uncertainty:string;
  keyFacts:Record<string,string>;sources:NewsSource[];score:number|null;archive?:ArchivedStory;

@@ -6,7 +6,7 @@ import {HoverCard,HoverCardTrigger} from './ui/hover-card';
 import {Dialog,DialogContent} from './ui/dialog';
 import {ReaderHeading} from './reader-heading';
 import {NewsReaderActions} from './news-question-button';
-import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
+import {editionLabel,emphasisParts,safeNewsUrl,type NewsAlternative,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
 import {combineBriefings,sectionStories,type NewsView,type NewsViewStory} from '../lib/news-view';
 import {type Correction} from '../lib/live';
 import {RecordCorrections} from './record-corrections';
@@ -65,6 +65,8 @@ function NewsPreview({story,brief,disabled,onOpen,children}:{story:NewsViewStory
  </HoverCard>;
 }
 function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecord?:string;corrections?:Correction[]}){
+ const [savedAlternatives,setSavedAlternatives]=useState<Record<string,NewsAlternative[]>>({});
+ useEffect(()=>{const controller=new AbortController();setSavedAlternatives({});void fetch(`/daily-k/data/news/candidates/${brief.id}.json`,{signal:controller.signal}).then(r=>r.ok?r.json():null).then(raw=>{const v=raw as {edition?:string;byCategory?:Record<string,NewsAlternative[]>}|null;if(!controller.signal.aborted&&v?.edition===brief.id&&v.byCategory)setSavedAlternatives(v.byCategory)}).catch(()=>{});return()=>controller.abort()},[brief.id]);
  const grouped=sectionStories(brief.stories);
  const safetyEvent=brief.events.find(event=>/날씨|기상|강한 비|폭우|폭염|한파|돌풍|태풍|교통/.test(event.title));
  const ordered=[...grouped.sections.flatMap(section=>section.story?[section.story]:[]),...grouped.additional];
@@ -100,7 +102,7 @@ function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecor
     <span className="rank" aria-hidden="true">{String(brief.stories.indexOf(s)+1).padStart(2,'0')}</span>
     <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span>{corrections.some(c=>c.itemId===s.id)&&<span className="live-correction-badge">정정·철회 기록 있음</span>}</span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span><span className="news-story-summary">{s.summary[0]}</span></span>
    </NewsPreview>
-
+   {(()=>{const alternatives=(Array.isArray(s.alternatives)?s.alternatives:Array.isArray(savedAlternatives[s.category])?savedAlternatives[s.category]:[]).filter(a=>[2,3].includes(a.rank)&&typeof a.title==='string'&&safeNewsUrl(a.url)).slice(0,2);return alternatives.length>0&&<ol className="news-ranked-alternatives" aria-label={`${s.category} 다음 순위 뉴스`}>{alternatives.map(a=><li key={a.rank}><span>{a.rank}순위</span><a href={a.url} target="_blank" rel="noopener noreferrer" title={a.reason}>{a.title}<span className="sr-only"> (새 탭)</span></a><small>{a.name}</small></li>)}</ol>})()}
    </li>)}</ol>:section.label==='생활·안전'&&safetyEvent?<div className="news-safety-event"><a href={safetyEvent.source.url} target="_blank" rel="noopener noreferrer">{safetyEvent.title} ↗</a><p>{safetyEvent.detail}</p><small>{safetyEvent.source.name} · 이번 회차에서 확인한 생활 정보</small></div>:<p className="news-section-empty">이번 회차에 별도로 선정한 소식이 없습니다.</p>}
   </section>)}</div>
   {grouped.additional.length>0&&<section className="news-additional" aria-label="추가 소식"><h2 className="news-section-heading">추가 소식</h2><p className="news-section-description">대표 뉴스와 함께 읽어볼 소식을 모았습니다.</p><ol className="posts news-stories">{grouped.additional.map(s=><li key={s.id}>

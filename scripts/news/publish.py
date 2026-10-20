@@ -147,6 +147,18 @@ def validate(draft, history, now=None):
         require(all(isinstance(c.get(k),(int,float)) and 0<=c[k]<=100 for k in WEIGHTS),'Scores must be 0–100')
         require(bool(s.get('scoreReason')),'Explain candidate weighting')
         s['scoreComponents']=c;s['score']=round(sum(c[k]*w for k,w in WEIGHTS.items()),2);s['factsHash']=fingerprint(s['keyFacts'])
+    for story in stories:
+        alternatives=story.get('alternatives',[])
+        require(isinstance(alternatives,list) and len(alternatives)<=2,'At most two ranked alternatives')
+        ranks=set();urls=set()
+        for alternative in alternatives:
+            require(alternative.get('rank') in (2,3) and alternative['rank'] not in ranks,'Unique alternative ranks 2 and 3')
+            require(bool(alternative.get('title')) and bool(alternative.get('name')),'Alternative title and source required')
+            from urllib.parse import urlsplit
+            link=urlsplit(alternative.get('url',''))
+            require(link.scheme in ('http','https') and bool(link.netloc) and not link.username and not link.password,'Invalid alternative URL')
+            require(alternative['url']!=story.get('representativeUrl') and alternative['url'] not in urls,'Duplicate alternative URL')
+            ranks.add(alternative['rank']);urls.add(alternative['url'])
     leads=set()
     for story in stories:
         if story.get('placement') is not None:
