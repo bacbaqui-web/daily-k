@@ -63,7 +63,17 @@ def check_sources(brief, urls):
         if canonical_url(event['source']['url']) not in known:
             raise ValueError('Event URL absent from research evidence')
 
+PUBLISHER_FIELDS = ("finalizedAt", "scheduledFor", "recordId", "publicationMode",
+                    "newsInputSha256", "publishedAt", "deployedAt")
+
+def clean_publication_metadata(brief):
+    """AI drafts cannot supply publisher-owned metadata; preserve story timestamps."""
+    for key in PUBLISHER_FIELDS:
+        brief.pop(key, None)
+    return brief
+
 def stamp(brief, edition, verified_at):
+    clean_publication_metadata(brief)
     day, slot = edition[:10], edition[11:]
     brief.update(schemaVersion=1, id=edition, date=day, edition=slot, timezone='Asia/Seoul',
                  cutoffAt=f'{day}T{9 if slot == "am" else 21:02d}:00:00+09:00',
@@ -147,7 +157,7 @@ def prepare(edition, run, reuse_research=False):
 분야 {SECTIONS}별 중요도 최상위 1개 placement=lead, 추가는 additional. 7개 분야 모두 필수이며 총 7~10개.
 각 대표 story에 alternatives 배열로 같은 분야의 검증된 2·3순위 후보를 최대 2건 넣으세요. 각 항목은 {{"rank":2 또는 3,"title":"제목","url":"확인한 원문 URL","name":"출처명","reason":"순위 선정 이유"}} 입니다. 파기·조건부·미확인 후보는 제외하고 검증된 예비가 없으면 빈 배열로 둡니다. 대표와 같은 기사를 반복하지 마세요. 예비는 홈페이지에서만 표시하며 별도 stories로 넣지 않습니다.
 기존 이슈 ID와 followUp을 정확히 사용하고 반복 뉴스는 제외하세요.
-실제 출처 URL만 사용. representativeUrl 필수. 출처 검증시각은 프로그램이 기록합니다.
+최상위 brief에는 scheduledFor/finalizedAt/recordId/publicationMode/newsInputSha256/publishedAt/deployedAt을 넣지 마세요. 발행기가 관리하는 필드입니다. 개별 기사와 출처의 publishedAt은 실제 기사 시각으로 유지하세요. 실제 출처 URL만 사용. representativeUrl 필수. 출처 검증시각은 프로그램이 기록합니다.
 키/자료 형태 참고용 이전 회차(내용 복제 금지): {json.dumps(sample, ensure_ascii=False)}
 검증 코드의 필수 필드/규칙: {schema_help}
 최근 회차(후속 이슈 연결용): {json.dumps(recent, ensure_ascii=False)}
