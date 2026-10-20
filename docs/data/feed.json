@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-20",
-  "collectedAt": "2026-10-20T09:44:18.897772+09:00",
-  "windowEnd": "2026-10-20T09:32:34.992907+09:00",
+  "collectedAt": "2026-10-20T00:54:35.081531+00:00",
+  "windowEnd": "2026-10-20T09:54:34.965291+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10687,72 +10687,6 @@
       "firstPublishedAt": "2026-10-19T01:54:30.863945+00:00"
     },
     {
-      "id": "aagag-1662893-0",
-      "url": "https://aagag.com/issue/?idx=1662893",
-      "source": "애객",
-      "title": "ㅇㅎ)젓가락질 못하는 년",
-      "publishedAt": "2026-10-19T09:51:32+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L0cvv.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L0cvv.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 2,
-      "commentCount": 5,
-      "laughingComments": 1,
-      "score": 2,
-      "kPerComment": 0.4,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8864698",
-          "text": "용서한다."
-        },
-        {
-          "id": "8864707",
-          "text": "지금 그게 중요해요?ㅎㅎ"
-        },
-        {
-          "id": "8864708",
-          "text": "젖 가락 질 쯤이야......💓"
-        },
-        {
-          "id": "8864710",
-          "text": "젖가락은 완벽한데 ㅋㅋ"
-        },
-        {
-          "id": "8864712",
-          "text": "오호~ 꼭쥐스~"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-19T09:53:18.890700+09:00",
-      "sourceTitles": [
-        "젓가락질 못하는 처자",
-        "ㅇㅎ)젓가락질 때문에 호불호 갈리는 소개팅녀.mp4",
-        "ㅇㅎ)젓가락질 못하는 년",
-        "젓가락 쓰는척만 하면서 대충먹는 예의없는 여자",
-        "ㅇㅎ)젓가락질 못하는 년"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-19T00:53:33.919108+00:00",
-      "collectedAt": "2026-10-19T09:53:33.919125+09:00",
-      "firstPublishedAt": "2026-10-19T00:53:34.015504+00:00"
-    },
-    {
       "id": "aagag-1663127-0",
       "url": "https://aagag.com/issue/?idx=1663127",
       "source": "애객",
@@ -11151,9 +11085,9 @@
     }
   ],
   "partialCommentPosts": 0,
-  "candidateCount": 368,
-  "collectionStatus": "complete",
-  "collectionMessage": "",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
