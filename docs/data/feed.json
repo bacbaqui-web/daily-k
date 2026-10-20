@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-20",
-  "collectedAt": "2026-10-20T23:14:26.211452+09:00",
-  "windowEnd": "2026-10-20T23:08:44.422641+09:00",
+  "collectedAt": "2026-10-20T14:24:43.922340+00:00",
+  "windowEnd": "2026-10-20T23:24:43.808936+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -11990,79 +11990,6 @@
       "firstPublishedAt": "2026-10-19T23:58:50.789870+00:00"
     },
     {
-      "id": "aagag-1663092-0",
-      "url": "https://aagag.com/issue/?idx=1663092",
-      "source": "애객",
-      "title": "비키니 입은 해변의 김현영 치어리더",
-      "publishedAt": "2026-10-19T23:02:52+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1LiZ.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1Lif.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1Liv.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1Lj2.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L1LiZ.webp",
-        "https://i.aagag.com/o/L1Lif.webp",
-        "https://i.aagag.com/o/L1Liv.webp",
-        "https://i.aagag.com/o/L1Lj2.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8868634",
-          "text": "막짤 착시 지려따.."
-        },
-        {
-          "id": "8868645",
-          "text": "와....."
-        },
-        {
-          "id": "8868653",
-          "text": "왐마..."
-        }
-      ],
-      "commentsFetchedAt": "2026-10-19T23:18:19.188332+09:00",
-      "sourceTitles": [
-        "비키니 입은 해변의 김현영 치어리더",
-        "ㅇㅎ)치어리더 김현영 근황",
-        "김현영 치어 비키니",
-        "ㅇㅎ )김현영 치어리더",
-        "치어리더 비키니의 저스티스.jpg",
-        "ㅇㅎ) 김현영 치어리더 인스타"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-10-19T14:18:27.233882+00:00",
-      "collectedAt": "2026-10-19T23:18:27.233899+09:00",
-      "firstPublishedAt": "2026-10-19T14:18:27.327763+00:00"
-    },
-    {
       "id": "aagag-1663288-0",
       "url": "https://aagag.com/issue/?idx=1663288",
       "source": "애객",
@@ -12269,9 +12196,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
