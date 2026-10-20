@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-20/am.json",
+      "category": "사회이슈",
+      "change": "의원실 분석을 통해 인증조사위원 소속·배정 관련 사례가 보도됐습니다. 개별 인증의 법적 효력에 관한 판단은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T09:07:15.178504+09:00",
+      "coveredOn": "2026-10-20",
+      "edition": "am",
+      "editionDate": "2026-10-20",
+      "editionId": "2026-10-20-am",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "20일 의원실 자료 공개를 전한 보도이며 사례는 2024·2025년 등을 대상으로 합니다. 개별 조사 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-20-am/hospital-accreditation-surveyor-assignment-2026-10-20",
+      "keyFacts": {
+        "개별 인증 무효·위법 판단": "확인되지 않음",
+        "사례 대상": "2024·2025년 등 의료기관 인증조사",
+        "자료 성격": "의원실 분석을 인용한 보도",
+        "주요 지적": "조사 대상 병원 소속으로 기재된 조사위원의 팀장·간사 참여"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T06:03:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-20T06:03:00+09:00",
+          "title": "병원 인증조사에 해당 병원 소속으로 기재된 조사위원 참여",
+          "updatedAt": "2026-10-20T06:30:24+09:00",
+          "url": "https://www.newsis.com/view/NISX20261019_0003832279",
+          "verifiedAt": "2026-10-20T09:05:25.501964+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "hospital-accreditation-surveyor-assignment-2026-10-20",
+      "summary": [
+        "의료기관 인증조사에서 조사 대상 병원의 소속으로 기재된 조사위원이 팀장·간사로 참여한 사례가 보도됐습니다. 조사위원 배정 원칙 위반 사례도 제시됐습니다.",
+        "뉴시스는 의원실의 자료 분석을 근거로 해당 내용을 전했습니다. 사례의 대상 기간에는 2024년과 2025년 등이 포함되며 오늘 발생한 조사 사례라는 뜻은 아닙니다.",
+        "의료기관 평가의 독립성과 신뢰를 점검할 사안입니다. 다만 의원실 분석만으로 개별 인증이 무효이거나 위법이라고 확정할 수는 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "병원 인증조사에 해당 병원 소속 조사위원 참여 사례 보도",
+      "uncertainty": "의원실 분석이며 개별 인증의 무효나 위법이 확정된 것은 아닙니다."
+    }
+  ],
+  "id": "hospital-accreditation-surveyor-assignment-2026",
+  "schemaVersion": 1,
+  "title": "의료기관 인증조사위원 배정과 평가 독립성",
+  "updatedAt": "2026-10-20T09:07:15.178504+09:00"
+}

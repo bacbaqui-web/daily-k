@@ -1,6 +1,66 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-10-20/am.json",
+      "category": "국제정세",
+      "change": "트럼프 대통령이 다음 달 김정은과의 회담 여부에 모르겠다고 답했습니다. 회담 취소나 협상 중단은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-20T09:07:15.178504+09:00",
+      "coveredOn": "2026-10-20",
+      "edition": "am",
+      "editionDate": "2026-10-20",
+      "editionId": "2026-10-20-am",
+      "eventAt": null,
+      "eventDate": "2026-10-19",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 10월 19일 백악관 기자 문답입니다. 정확한 발언 시각은 확인되지 않았습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-20-am/trump-kim-meeting-uncertainty-2026-10-20",
+      "keyFacts": {
+        "발언 날짜": "2026-10-19 미국 현지",
+        "발언자": "도널드 트럼프 미국 대통령",
+        "회담 여부": "모르겠다고 답변",
+        "회담 일정 확정": "확인되지 않음"
+      },
+      "previous": {
+        "editionId": "2026-09-23-am-archive",
+        "storyId": "archive-01"
+      },
+      "publishedAt": "2026-10-20T05:29:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-10-20T05:29:00+09:00",
+          "title": "트럼프, 다음 달 김정은 만날지 “모르겠다”",
+          "url": "https://ir.newspim.com/news/view/20261020000016",
+          "verifiedAt": "2026-10-20T09:05:25.501964+09:00"
+        },
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": null,
+          "title": "트럼프의 김정은 회담 여부 답변 보도",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832461",
+          "verifiedAt": "2026-10-20T09:05:25.501964+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "trump-kim-meeting-uncertainty-2026-10-20",
+      "summary": [
+        "트럼프 미국 대통령이 다음 달 김정은 북한 국무위원장을 만날지에 대해 “모르겠다”고 답했습니다. 회담 여부와 요청 여부가 불확실하다는 답변입니다.",
+        "뉴스핌 특파원 기사와 뉴시스 보도에서 발언 내용이 일치했습니다. 이번 답변을 회담 취소나 북미 협상 중단의 확정으로 해석할 수는 없습니다.",
+        "한반도 외교와 연결되는 대통령의 새 발언이지만, 실제 회담 일정이나 양측 합의가 확인된 단계는 아닙니다. 후속 공식 발표를 확인해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "트럼프, 다음 달 김정은 회담 여부에 “모르겠다”",
+      "uncertainty": "회담 취소나 협상 중단이 확정된 것은 아니며 구체적인 회담 일정과 합의는 확인되지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 142,
@@ -100,5 +160,5 @@
   "id": "us-north-korea-dialogue",
   "schemaVersion": 1,
   "title": "북미 대화 재개 논의",
-  "updatedAt": "2026-10-20T08:49:43.565409+09:00"
+  "updatedAt": "2026-10-20T09:07:15.178504+09:00"
 }
