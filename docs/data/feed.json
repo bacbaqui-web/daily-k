@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T12:19:51.344380+00:00",
+  "collectedAt": "2026-10-21T12:20:43.530144+00:00",
   "windowEnd": "2026-10-21T21:19:51.223631+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6031,6 +6031,63 @@
       "firstPublishedAt": "2026-10-21T04:16:44.767537+00:00"
     },
     {
+      "id": "aagag-1663592-0",
+      "url": "https://aagag.com/issue/?idx=1663592",
+      "source": "애객",
+      "title": "실패한 기부 마케팅 레전드",
+      "publishedAt": "2026-10-21T21:18:30+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KnKY4.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KnKY6.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "15퍼 할인한 반절 피자를 살때마다 피자 반판이 기부된다는 얘기인데.......\n여~~~러모로 짜쳐서 망함"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KnKY4.webp",
+        "https://i.aagag.com/o/KnKY6.webp"
+      ],
+      "videos": [],
+      "excerpt": "15퍼 할인한 반절 피자를 살때마다 피자 반판이 기부된다는 얘기인데.......\n여~~~러모로 짜쳐서 망함",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 14,
+      "kPerComment": 14.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8878162",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ저걸 통과시킨 머저리들은 누구냐 대체 누가 왜 저걸 사먹냐ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-21T21:20:29.982886+09:00",
+      "sourceTitles": [
+        "실화였다는 피자 마케팅",
+        "\" 실제 존재했다던 피자 마케팅 .... \" . jpg",
+        "\" 실제 존재했다던 피자 마케팅 .... \" . jpg",
+        "실패한 기부 마케팅 레전드",
+        "기업의 기부 참여 독려 실패사례 레전드.jpg",
+        "피자 기부 이벤트 레전드.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-10-21T12:20:43.445720+00:00",
+      "collectedAt": "2026-10-21T21:20:43.445740+09:00",
+      "firstPublishedAt": "2026-10-21T12:20:43.544934+00:00"
+    },
+    {
       "id": "aagag-11339-1",
       "url": "https://aagag.com/issue/?idx=11339_1",
       "source": "애객",
@@ -9714,7 +9771,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
