@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T20:53:24.428000+09:00",
-  "windowEnd": "2026-10-21T20:47:40.241456+09:00",
+  "collectedAt": "2026-10-21T12:03:40.385210+00:00",
+  "windowEnd": "2026-10-21T21:03:40.271506+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -9805,72 +9805,6 @@
       "firstPublishedAt": "2026-10-21T03:06:00.937277+00:00"
     },
     {
-      "id": "aagag-1663321-0",
-      "url": "https://aagag.com/issue/?idx=1663321",
-      "source": "애객",
-      "title": "ㅇㅎ 언더더씨 gif",
-      "publishedAt": "2026-10-20T20:44:50+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Kr6Ny.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/Kr6Ny.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 5,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8873419",
-          "text": "쩐다..  영상보러가야지"
-        },
-        {
-          "id": "8873422",
-          "text": "https://youtube.com/shorts/WFuE6ve5sF4?si=gAKOZTYqyUSbVFEc"
-        },
-        {
-          "id": "8873431",
-          "text": "이정도면 거의 다 본 느낌인데..."
-        },
-        {
-          "id": "8873435",
-          "text": "와…우…"
-        },
-        {
-          "id": "8873444",
-          "text": "이거는 Leaked가 있을거같다"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-20T20:54:10.717590+09:00",
-      "sourceTitles": [
-        "(후방) 비키니.mp4",
-        "ㅇㅎ 언더더씨 gif",
-        "ㅇㅎ 언더더씨 gif",
-        "ㅇㅎ 언더더씨 gif",
-        "ㅇㅎ)비키니 입고 수영하는 누나.mp4"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-20T11:54:16.172520+00:00",
-      "collectedAt": "2026-10-20T20:54:16.172537+09:00",
-      "firstPublishedAt": "2026-10-20T11:54:16.254918+00:00"
-    },
-    {
       "id": "aagag-1663578-0",
       "url": "https://aagag.com/issue/?idx=1663578",
       "source": "애객",
@@ -10052,9 +9986,9 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 372,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
