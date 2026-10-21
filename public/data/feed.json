@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T09:31:00.355877+00:00",
+  "collectedAt": "2026-10-21T09:32:31.077184+00:00",
   "windowEnd": "2026-10-21T18:31:00.233913+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6666,6 +6666,89 @@
       "firstPublishedAt": "2026-10-21T01:16:04.964759+00:00"
     },
     {
+      "id": "aagag-1663555-0",
+      "url": "https://aagag.com/issue/?idx=1663555",
+      "source": "애객",
+      "title": "일본 여기자",
+      "publishedAt": "2026-10-21T18:22:46+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1ext.mp4",
+          "poster": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1exz.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "1시간안에 맥주캔 4개 와인 미니컵 4잔 마시고 \n음주운전할때 얼마나 통제 불가능인지 체험ㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L1exz.webp"
+      ],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1ext.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "1시간안에 맥주캔 4개 와인 미니컵 4잔 마시고 \n음주운전할때 얼마나 통제 불가능인지 체험ㅋ",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 6,
+      "laughingComments": 3,
+      "score": 15,
+      "kPerComment": 2.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8877573",
+          "text": "표정이 너무 밝은게 버릇되는거 아녀???"
+        },
+        {
+          "id": "8877584",
+          "text": "옛날 생각이 나는걸수도.."
+        },
+        {
+          "id": "8877575",
+          "text": "여기자 뭔가 \"이맛이야!\" 이런느낌으로 음주운전하네? ㅋㅋ 전에도 해본듯"
+        },
+        {
+          "id": "8877576",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋ아 얼마나 인생의 업적달성인가ㅋㅋ"
+        },
+        {
+          "id": "8877590",
+          "text": "지나치게 즐거워 보이는데..."
+        },
+        {
+          "id": "8877600",
+          "text": "솔찍히 좀 궁금하긴함 하면 안되는 짓이라서 안하는거지 얼마나 내가 운전이 둔해 질까 하고 상상만 했었는데 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-21T18:32:17.977391+09:00",
+      "sourceTitles": [
+        "일본 여기자 \"합법\" 음주운전..끼얏호!!",
+        "일본 여기자 합법 음주운전",
+        "합법 음주운전 체험하는 일본 여기자 ㅋㅋㅋ",
+        "음주운전 하는 일본 여기자.gif",
+        "합법 음주 운전을 하는 일본 여기자",
+        "일본 기자의 음주운전 체험.mp4",
+        "일본 여기자 합법 음주운전 끼얏호 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-21T09:32:30.965142+00:00",
+      "collectedAt": "2026-10-21T18:32:30.965158+09:00",
+      "firstPublishedAt": "2026-10-21T09:32:31.095688+00:00"
+    },
+    {
       "id": "aagag-102435-1",
       "url": "https://aagag.com/issue/?idx=102435_1",
       "source": "애객",
@@ -11378,7 +11461,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
