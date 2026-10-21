@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T06:15:04.008121+00:00",
+  "collectedAt": "2026-10-21T06:16:04.831646+00:00",
   "windowEnd": "2026-10-21T15:15:03.897323+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5359,6 +5359,66 @@
       "sourceTitlesFetchedAt": "2026-10-21T01:22:19.408965+00:00",
       "collectedAt": "2026-10-21T10:22:19.408983+09:00",
       "firstPublishedAt": "2026-10-21T01:22:19.539704+00:00"
+    },
+    {
+      "id": "aagag-1663502-0",
+      "url": "https://aagag.com/issue/?idx=1663502",
+      "source": "애객",
+      "title": "어렸을 땐 몰랐던 엄마의 큰 뜻",
+      "publishedAt": "2026-10-21T15:10:12+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1e1J.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L1e1J.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 4,
+      "laughingComments": 4,
+      "score": 18,
+      "kPerComment": 4.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8876611",
+          "text": "ㅋㅋㅋㅋㅋ 물 잘 안 나오게 한 건가"
+        },
+        {
+          "id": "8876616",
+          "text": "한겨울 온수 설겆이 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8876626",
+          "text": "난 일부러 시끄럽게 하고 울었다는건가? 자녀에게 울음소리 안들리게 하려고 그랬나 한건데, 이게 맞다 ㅋ"
+        },
+        {
+          "id": "8876618",
+          "text": "차가웠다 뜨거웠다 하라고 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-21T15:15:53.118313+09:00",
+      "sourceTitles": [
+        "어렸을 땐 몰랐던 엄마의 큰 뜻.jpg",
+        "어렸을 땐 몰랐던 엄마의 큰 뜻",
+        "어렸을 땐 몰랐던 엄마의 큰 뜻",
+        "어렸을 땐 몰랐던 엄마의 큰 뜻",
+        "\"어릴적 엄마가 참 대단하다고 느꼈다.\"",
+        "엄마의 큰 뜻",
+        "어릴적 어른스럽고 대단해보였던 엄마.JGP"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-21T06:16:04.754359+00:00",
+      "collectedAt": "2026-10-21T15:16:04.754376+09:00",
+      "firstPublishedAt": "2026-10-21T06:16:04.846394+00:00"
     },
     {
       "id": "aagag-1663248-0",
@@ -11048,7 +11108,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
