@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-22",
-  "collectedAt": "2026-10-21T22:58:59.430675+00:00",
+  "collectedAt": "2026-10-21T22:59:39.626391+00:00",
   "windowEnd": "2026-10-22T07:58:59.308153+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7879,6 +7879,80 @@
       "firstPublishedAt": "2026-10-21T09:32:31.095688+00:00"
     },
     {
+      "id": "aagag-1663668-0",
+      "url": "https://aagag.com/issue/?idx=1663668",
+      "source": "애객",
+      "title": "소녀시대, 맴버 이름도 기억안나는 효연,...",
+      "publishedAt": "2026-10-22T07:54:03+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1ifB.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1ifU.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "쓰읍 연세가 연세인지라 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1ifB.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L1ifU.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "쓰읍 연세가 연세인지라 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 4,
+      "laughingComments": 4,
+      "score": 15,
+      "kPerComment": 3.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8879210",
+          "text": "ㅋㅋㅋㅋㅋ 아 이름 갑자기 생각 안날때 많죠 ㅠㅠㅠ 그 프로젝트 했던 과장님 있자나 키크고 ㅋㅋㅋ"
+        },
+        {
+          "id": "8879212",
+          "text": "계곡서 백숙 뜯는 6세대 여아이돌...ㅋㅋㅋ"
+        },
+        {
+          "id": "8879216",
+          "text": "저기에 복분자나 인삼주 한잔해야 완성이죠 ㅋㅋ"
+        },
+        {
+          "id": "8879215",
+          "text": "저기.. 저번에 원이랑 미나미랑 백숙인가 먹던곳이랑 비슷하네 ㅋㅋ 원래 저런곳이 다 비슷해보이는건가"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-22T07:59:29.754802+09:00",
+      "sourceTitles": [
+        "소녀시대, 맴버 이름도 기억안나는 효연,...",
+        "임윤아 이름이 기억나지 않는 소녀시대",
+        "이젠 소녀시대 멤버 이름도 가물가물한 효리수"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-10-21T22:59:39.519640+00:00",
+      "collectedAt": "2026-10-22T07:59:39.519656+09:00",
+      "firstPublishedAt": "2026-10-21T22:59:39.646060+00:00"
+    },
+    {
       "id": "aagag-882375-0",
       "url": "https://aagag.com/issue/?idx=882375",
       "source": "애객",
@@ -11259,7 +11333,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
