@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/am.json",
+      "category": "사회이슈",
+      "change": "9곳 중 3곳만 해당 사업 지원을 받았다는 의원실 분석이 보도됐습니다. 병원 전체 예산과 구분해야 합니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "am",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "2022~2026년 지원 자료에 대한 의원실 분석입니다. 자료 공개의 정확한 날짜·시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-21-am/20261021-am-soc-01",
+      "keyFacts": {
+        "분석 대상 기간": "2022~2026년",
+        "지역 국립대병원": "9곳",
+        "해당 사업 미지원 병원": "6곳",
+        "해당 사업 지원 병원": "3곳"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-21T06:01:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T06:01:00+09:00",
+          "title": "지역 국립대병원 소아응급 지원 격차",
+          "updatedAt": "2026-10-21T07:40:51+09:00",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833784",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261021-am-soc-01",
+      "summary": [
+        "의원실 분석에서 지역 국립대병원 9곳 중 3곳만 소아전문응급의료센터 지원을 받았고, 6곳은 해당 사업 지원이 없었다고 보도됐습니다.",
+        "분석 대상은 2022~2026년 지원 자료입니다. 앞서 다룬 병원 AI 예산 배정과는 다른 사업의 지원 현황입니다.",
+        "해당 사업 지원이 없다는 사실을 병원 전체 예산이나 소아진료 자체가 없다는 뜻으로 확대할 수는 없습니다. 지원 차이가 실제 진료 접근성과 성과에 미친 영향은 추가 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "지역 국립대병원 9곳 중 3곳만 소아전문응급센터 사업 지원",
+      "uncertainty": "미지원 병원의 전체 예산과 소아진료 유무, 지원 차이의 진료 성과 영향은 이 자료로 확정할 수 없습니다."
+    }
+  ],
+  "id": "regional-national-hospitals-pediatric-emergency-support-2026",
+  "schemaVersion": 1,
+  "title": "지역 국립대병원 소아전문응급의료센터 지원 격차",
+  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
+}

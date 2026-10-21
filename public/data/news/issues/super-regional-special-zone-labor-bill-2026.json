@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/am.json",
+      "category": "정치·정책",
+      "change": "노동 관련 특례 법안이 발의됐습니다. 통과·시행된 제도는 아닙니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "am",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-am",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "법안은 10월 20일 발의됐으며 정확한 발의 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-21-am/20261021-am-pol-01",
+      "keyFacts": {
+        "단계": "법안 발의, 통과·시행 미확인",
+        "발의일": "2026-10-20",
+        "주요 내용": "고소득 관리·연구개발 인력 근로시간 특례, 기간제 사용기간 확대 등"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-21T07:01:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T07:01:00+09:00",
+          "title": "초광역특구법 노동규제 특례 논란",
+          "updatedAt": "2026-10-21T07:24:24+09:00",
+          "url": "https://www.newsis.com/view/NISX20261020_0003834038",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "한겨레",
+          "publishedAt": null,
+          "title": "초광역특구법 노동 관련 특례 보도",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1283346.html",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261021-am-pol-01",
+      "summary": [
+        "고소득 관리·연구개발 인력의 근로시간 특례와 기간제 사용기간 확대 등을 담은 초광역특구법안이 발의됐습니다. 노동계는 관련 특례에 반발했습니다.",
+        "뉴시스와 한겨레 본문에서 노동 관련 조항을 대조한 조사 결과입니다. 노동계의 비판은 해당 주체의 평가로 구분해야 합니다.",
+        "노동시간과 고용조건에 영향을 줄 수 있는 변경안이지만 현재는 발의된 법안입니다. 국회 통과와 시행, 실제 적용 범위는 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "초광역특구법 발의…근로시간·기간제 특례에 노동계 반발",
+      "uncertainty": "법안 통과·시행과 최종 적용 범위는 확인되지 않았습니다."
+    }
+  ],
+  "id": "super-regional-special-zone-labor-bill-2026",
+  "schemaVersion": 1,
+  "title": "초광역특구법 노동규제 특례와 입법 논의",
+  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
+}

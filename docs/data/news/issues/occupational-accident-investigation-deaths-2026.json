@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/am.json",
+      "category": "생활·안전",
+      "change": "1~3분기 사고사망자가 366명으로 전년 동기보다 19.9% 감소했습니다. 재해조사 대상 통계입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "am",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-am",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "통계 발표일은 10월 20일이며 집계 기간은 2026년 1~3분기입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-21-am/20261021-am-safe-01",
+      "keyFacts": {
+        "감소 규모": "91명, 19.9%",
+        "사고사망자": "366명, 재해조사 대상",
+        "전년 동기": "457명",
+        "집계 기간": "2026년 1~3분기"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T10:35:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-10-20T10:35:00+09:00",
+          "title": "1~3분기 재해조사 대상 사고사망 366명",
+          "updatedAt": "2026-10-20T10:36:00+09:00",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859249_36918.html",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "고용노동부",
+          "publishedAt": null,
+          "title": "2026년 1~3분기 재해조사 대상 사고사망 통계 발표",
+          "url": "https://moel.go.kr/news/achievements/view.do?bbs_seq=20261000701",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "20261021-am-safe-01",
+      "summary": [
+        "올해 1~3분기 재해조사 대상 사고사망자는 366명으로 집계됐습니다. 전년 동기 457명보다 91명, 19.9% 감소했습니다.",
+        "MBC 보도와 고용노동부 공식 발표로 수치를 대조한 조사 결과입니다. 질병 등을 포함한 모든 산업재해 사망 통계로 표현해서는 안 됩니다.",
+        "전국 노동현장의 사고사망 흐름을 보여주지만 전체 감소가 모든 업종의 개선을 뜻하지는 않습니다. 업종별 차이를 함께 살펴야 하며, 정책 효과에 관한 정부 설명은 집계 수치와 구분해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "1~3분기 재해조사 대상 사고사망 366명…전년보다 19.9% 감소",
+      "uncertainty": "전체 감소만으로 업종별 개선이나 특정 정책의 인과적 효과를 확정할 수 없습니다."
+    }
+  ],
+  "id": "occupational-accident-investigation-deaths-2026",
+  "schemaVersion": 1,
+  "title": "2026년 재해조사 대상 사고사망 통계",
+  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
+}

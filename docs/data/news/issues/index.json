@@ -1,6 +1,161 @@
 {
-  "editionCount": 68,
+  "editionCount": 69,
   "issues": [
+    {
+      "categories": [
+        "웹툰 산업",
+        "웹툰산업"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-27",
+      "id": "webtoon-ip-games",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "넷마블이 어라이즈 누적 다운로드 7천만 건을 공개했습니다. 회사 집계이며 매출·고유 이용자와 다릅니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "결과",
+        "storyId": "20261021-am-webtoon-01",
+        "title": "‘나 혼자만 레벨업: 어라이즈’ 누적 다운로드 7천만 건 발표"
+      },
+      "path": "webtoon-ip-games.json",
+      "title": "웹툰·웹소설 IP 게임화"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 25,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "다우는 1.02%, S&P500은 0.28% 상승했고 나스닥은 0.02% 하락했습니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "결과",
+        "storyId": "20261021-am-eco-01",
+        "title": "뉴욕증시 혼조…다우 1.02% 상승·나스닥 0.02% 하락"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "firstCoveredDate": "2026-10-21",
+      "id": "super-regional-special-zone-labor-bill-2026",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "노동 관련 특례 법안이 발의됐습니다. 통과·시행된 제도는 아닙니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "발표",
+        "storyId": "20261021-am-pol-01",
+        "title": "초광역특구법 발의…근로시간·기간제 특례에 노동계 반발"
+      },
+      "path": "super-regional-special-zone-labor-bill-2026.json",
+      "title": "초광역특구법 노동규제 특례와 입법 논의"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "오슬로에서 우크라이나 휴전 관련 회동이 열렸습니다. 휴전 체결과 러시아의 수용은 확인되지 않았습니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "후속",
+        "storyId": "20261021-am-int-01",
+        "title": "젤렌스키·위트코프, 오슬로서 우크라이나 휴전 논의"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "firstCoveredDate": "2026-10-21",
+      "id": "regional-national-hospitals-pediatric-emergency-support-2026",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "9곳 중 3곳만 해당 사업 지원을 받았다는 의원실 분석이 보도됐습니다. 병원 전체 예산과 구분해야 합니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "보도",
+        "storyId": "20261021-am-soc-01",
+        "title": "지역 국립대병원 9곳 중 3곳만 소아전문응급센터 사업 지원"
+      },
+      "path": "regional-national-hospitals-pediatric-emergency-support-2026.json",
+      "title": "지역 국립대병원 소아전문응급의료센터 지원 격차"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "firstCoveredDate": "2026-10-21",
+      "id": "occupational-accident-investigation-deaths-2026",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "1~3분기 사고사망자가 366명으로 전년 동기보다 19.9% 감소했습니다. 재해조사 대상 통계입니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "발표",
+        "storyId": "20261021-am-safe-01",
+        "title": "1~3분기 재해조사 대상 사고사망 366명…전년보다 19.9% 감소"
+      },
+      "path": "occupational-accident-investigation-deaths-2026.json",
+      "title": "2026년 재해조사 대상 사고사망 통계"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "firstCoveredDate": "2026-10-21",
+      "id": "nuri-medium-term-launch-plan-2032",
+      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "lastCoveredDate": "2026-10-21",
+      "latest": {
+        "archive": false,
+        "change": "중기 발사계획과 발사·투자 확대 검토가 제시됐습니다. 추가 예산 확정은 확인되지 않았습니다.",
+        "editionId": "2026-10-21-am",
+        "stage": "검토",
+        "storyId": "20261021-am-tech-01",
+        "title": "2032년까지 누리호 중기 발사계획…발사 확대·투자 검토"
+      },
+      "path": "nuri-medium-term-launch-plan-2032.json",
+      "title": "누리호 2032년까지 중기 발사계획과 투자 검토"
+    },
     {
       "categories": [
         "생활·안전"
@@ -174,33 +329,6 @@
     },
     {
       "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 24,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-10-20T09:07:15.178504+09:00",
-      "lastCoveredDate": "2026-10-20",
-      "latest": {
-        "archive": false,
-        "change": "나스닥은 1.11%, 반도체지수는 1.61% 상승했고 다우는 0.07% 하락했습니다. 반등 배경과 지속성은 시장 해석·후속 확인 대상입니다.",
-        "editionId": "2026-10-20-am",
-        "stage": "결과",
-        "storyId": "us-market-2026-10-19-close",
-        "title": "뉴욕증시 혼조…나스닥 1.11%·반도체지수 1.61% 상승"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
-    },
-    {
-      "categories": [
         "정치·정책"
       ],
       "eventCount": 1,
@@ -303,28 +431,6 @@
       },
       "path": "along-with-the-gods-third-film-production.json",
       "title": "웹툰 신과 함께의 세 번째 영화 제작"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
-      "lastCoveredDate": "2026-10-19",
-      "latest": {
-        "archive": false,
-        "change": "우크라이나 대통령이 휴전 발표 뒤 일주일간 관련 시설 공격 76차례를 주장했습니다. 독립적인 공격·피해 검증은 확인되지 않았습니다.",
-        "editionId": "2026-10-19-pm",
-        "stage": "후속",
-        "storyId": "ukraine-energy-strikes-weekly-tally-2026-10-19",
-        "title": "젤렌스키 “에너지 휴전 발표 뒤 러시아 공격 일주일간 76차례”"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
     },
     {
       "categories": [
@@ -2312,27 +2418,6 @@
       },
       "path": "coupang-service-outage-2026-10-09.json",
       "title": "쿠팡 2026년10월9일 서비스 장애와 보상"
-    },
-    {
-      "categories": [
-        "웹툰 산업"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-27",
-      "id": "webtoon-ip-games",
-      "lastCoveredAt": "2026-10-09T08:40:57+09:00",
-      "lastCoveredDate": "2026-10-09",
-      "latest": {
-        "archive": false,
-        "change": "웹툰·웹소설 IP 게임화 소개에 머물렀던 과거 기록 이후, ‘멸귀수도전’ 기반 게임의 10월 8일 정식 출시와 회사가 발표한 양대 마켓 인기 순위 1위가 새로 확인됐습니다.",
-        "editionId": "2026-10-09-am",
-        "stage": "결과",
-        "storyId": "dokkaebi-world-webtoon-ip-launch-2026-10-08",
-        "title": "‘멸귀수도전’ IP 게임 ‘도깨비의세계’ 출시…양대 마켓 인기 1위"
-      },
-      "path": "webtoon-ip-games.json",
-      "title": "웹툰·웹소설 IP 게임화"
     },
     {
       "categories": [
@@ -5912,7 +5997,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 522,
+  "storyCount": 529,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-20T21:12:30.244765+09:00"
+  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
 }

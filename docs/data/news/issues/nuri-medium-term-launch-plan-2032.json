@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/am.json",
+      "category": "과학·기술",
+      "change": "중기 발사계획과 발사·투자 확대 검토가 제시됐습니다. 추가 예산 확정은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "am",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-am",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 20일 국무회의 보고·지시이며 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-21-am/20261021-am-tech-01",
+      "keyFacts": {
+        "검토 사항": "발사 횟수 확대·우주 투자",
+        "계획 기한": "2032년까지",
+        "보고·지시 날짜": "2026-10-20",
+        "추가 예산 확정": "확인되지 않음"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-20T16:09:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "경향신문",
+          "publishedAt": "2026-10-20T16:09:00+09:00",
+          "title": "누리호 중기 발사계획·우주 투자 확대 검토",
+          "updatedAt": "2026-10-20T16:23:00+09:00",
+          "url": "https://www.khan.co.kr/article/202610201609001",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        },
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "대한민국 정책브리핑",
+          "publishedAt": null,
+          "title": "국무회의 우주 투자 검토 지시",
+          "url": "https://m.korea.kr/briefing/presidentView.do?newsId=148973953&pWise=mSub&pWiseSub=C4",
+          "verifiedAt": "2026-10-21T09:08:32.933368+09:00"
+        }
+      ],
+      "stage": "검토",
+      "status": "검토",
+      "storyId": "20261021-am-tech-01",
+      "summary": [
+        "2032년까지 누리호 발사를 이어가는 중기 계획과 발사 횟수 확대·투자 검토가 제시됐습니다. 추가 예산 확정이나 후속 발사 성공을 뜻하지는 않습니다.",
+        "경향신문 보도와 정책브리핑 공식 본문에서 국무회의 보고·지시 내용을 확인한 조사 결과입니다. 대통령의 투자 검토 지시와 실제 예산 편성·집행은 서로 다른 단계입니다.",
+        "이번 소식은 기존 5차 발사 결과의 반복이 아니라 향후 발사 운영 기반에 관한 새 계획입니다. 구체적인 추가 발사 일정과 투자 확정 내용은 후속 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "2032년까지 누리호 중기 발사계획…발사 확대·투자 검토",
+      "uncertainty": "추가 예산과 투자 집행, 구체적인 추가 발사 일정 및 성과는 확정되지 않았습니다."
+    }
+  ],
+  "id": "nuri-medium-term-launch-plan-2032",
+  "schemaVersion": 1,
+  "title": "누리호 2032년까지 중기 발사계획과 투자 검토",
+  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
+}
