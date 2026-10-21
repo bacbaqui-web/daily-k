@@ -58,10 +58,65 @@
       "supersededBy": [],
       "title": "과방위 국정감사, 이진숙 제척 논쟁으로 중단",
       "uncertainty": "회의의 최종 종료 여부와 제척의 법적·의사 절차 판단은 후속 회의 및 공식 기록을 확인해야 합니다."
+    },
+    {
+      "briefingPath": "2026-10-21/pm.json",
+      "category": "정치·정책",
+      "change": "헌재가 제척 관련 효력정지 신청을 일부 인용했습니다. 남는 제척 범위와 본안 판단은 구분해야 합니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T21:12:20.892212+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "pm",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-21",
+      "eventEndDate": null,
+      "eventTimeNote": "21일 헌법재판소 결정입니다. 정확한 결정 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "이진숙 의원 제척 논쟁으로 국정감사가 중단됐다는 보도 이후 헌재가 제척 관련 효력정지 신청을 일부 받아들여 참여 범위에 관한 구체적인 결정이 나왔습니다.",
+        "editionId": "2026-10-17-am",
+        "storyId": "assembly-ict-audit-recusal-dispute-2026-10-16"
+      },
+      "id": "2026-10-21-pm/assembly-ict-recusal-injunction-2026-10-21",
+      "keyFacts": {
+        "결과": "제척 관련 효력정지 일부 인용",
+        "결정 기관": "헌법재판소",
+        "결정 날짜": "2026-10-21",
+        "판단 단계": "가처분, 본안 판단과 구분"
+      },
+      "previous": {
+        "editionId": "2026-10-17-am",
+        "storyId": "assembly-ict-audit-recusal-dispute-2026-10-16"
+      },
+      "publishedAt": "2026-10-21T19:11:59+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T19:11:59+09:00",
+          "title": "헌재, 이진숙 국감 제척 효력정지 일부 인용",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835759",
+          "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "assembly-ict-recusal-injunction-2026-10-21",
+      "summary": [
+        "헌법재판소가 이진숙 의원의 국정감사 제척 관련 효력정지 신청을 일부 받아들였습니다. 다음 날 국감 참여 범위에 영향을 주는 가처분 결정입니다.",
+        "모든 사안에 대한 참여를 전면 허용한 결정은 아닙니다. 본인의 과거 직무 관련 사안 등에 남는 제척 범위를 함께 구분해야 합니다.",
+        "기존 제척 논쟁과 감사 중단 이후 구체적인 사법 결정이 추가됐습니다. 이번 가처분을 본안 권한쟁의에 대한 최종 판단으로 표현할 수는 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "헌재, 이진숙 국감 제척 효력정지 일부 인용",
+      "uncertainty": "일부 인용이며 모든 사안의 참여 허용이나 본안 권한쟁의 최종 판단을 뜻하지 않습니다."
     }
   ],
   "id": "assembly-ict-hearing-recusal-dispute-2026",
   "schemaVersion": 1,
   "title": "과방위 국정감사의 제척 논쟁과 회의 중단",
-  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
+  "updatedAt": "2026-10-21T21:12:20.892212+09:00"
 }

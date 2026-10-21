@@ -1,0 +1,715 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-10-21T21:00:00+09:00",
+      "date": "2026-10-21",
+      "edition": "pm",
+      "events": [
+        {
+          "at": "2026-10-22T02:00:00+09:00",
+          "date": "2026-10-22",
+          "detail": "미국 21일 기업어음 통계 CP 공개 일정입니다. 단기 기업자금 조달 여건을 보는 자료이며 결과는 아직 확인되지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "미국 연방준비제도",
+            "publishedAt": null,
+            "title": "October 2026 Calendar",
+            "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+            "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 EDT 10월 21일 13:00을 한국시간 10월 22일 02:00으로 환산했습니다.",
+          "title": "연준 기업어음 통계 공개 예정"
+        },
+        {
+          "at": "2026-10-22T05:15:00+09:00",
+          "date": "2026-10-22",
+          "detail": "미국 21일 주요 금리 통계 공개 일정입니다. 시장금리 자료이며 정책금리 결정 발표가 아닙니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "미국 연방준비제도",
+            "publishedAt": null,
+            "title": "October 2026 Calendar",
+            "url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+            "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 EDT 10월 21일 16:15를 한국시간 10월 22일 05:15로 환산했습니다.",
+          "title": "연준 H.15 주요 금리 통계 공개 예정"
+        },
+        {
+          "at": "2026-10-22T22:30:00+09:00",
+          "date": "2026-10-22",
+          "detail": "공식 2026년 휴장표에 10월 22일은 휴장일로 지정돼 있지 않습니다. 주요 지수와 업종별 움직임은 개장 이후 확인해야 합니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "NYSE",
+            "publishedAt": null,
+            "title": "Holidays & Trading Hours",
+            "url": "https://www.nyse.com/trade/hours-calendars",
+            "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 EDT 10월 22일 09:30을 한국시간 22:30으로 환산했습니다.",
+          "title": "뉴욕증권거래소 정규장 개장 예정"
+        }
+      ],
+      "generatedAt": "2026-10-21T21:12:20.892212+09:00",
+      "id": "2026-10-21-pm",
+      "intro": "10월 21일 오후 브리핑입니다. 제공된 조사 결과에서 분야별 1순위 검증 후보 7건을 선정했습니다.",
+      "keywords": [
+        "이란 핵협상 조건",
+        "수출 616억 달러",
+        "일평균 수출 65.9% 증가",
+        "반도체 수출 275억 달러",
+        "국감 제척 가처분",
+        "비정규직 38.5%",
+        "항암제 패스트트랙",
+        "한파주의보",
+        "웹툰 페스티벌"
+      ],
+      "overview": [
+        "이란은 농축 우라늄의 해외 반출을 거부한다는 협상 입장을 밝혔습니다. 국내에서는 10월 1~20일 수출이 잠정 616억 달러로 집계됐으며, 조업일수를 반영한 일평균 수출은 전년 동기보다 65.9% 증가했습니다.",
+        "헌법재판소는 이진숙 의원의 국정감사 제척 관련 효력정지 신청을 일부 받아들였습니다. 8월 근로형태별 조사에서는 비정규직 비중이 38.5%로 집계됐습니다.",
+        "과학·기술에서는 항암제 후보 SBE303의 FDA 패스트트랙 지정에 관한 회사 발표를 담았습니다. 경기·인천 등 대상 지역의 한파주의보는 21시 발효됐으며, 웹툰산업은 전날 발표된 월드 웹툰 페스티벌 개최 계획으로 보완했습니다."
+      ],
+      "publicationNote": "제공된 조사 결과만 사용했습니다. 생성시각과 출처 검증시각은 프로그램 기록 대상으로 남겼습니다. 예비 후보는 홈페이지 표시용이며 별도 기사로 편성하지 않았습니다.",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "정부의 새 영업 피해 집계와 지원 대응이 확인된 후속입니다. 핵 협상 조건보다 국제 안보 파급은 낮게 평가했습니다.",
+              "title": "프랑스 소요 사태로 최소 3,000개 사업장 피해 집계",
+              "url": "https://www.newsis.com/view/NISX20261020_0003833404"
+            },
+            {
+              "name": "뉴시스",
+              "rank": 3,
+              "reason": "외교부가 밝힌 재개 계획이 확인됐습니다. 상주 대화 채널 복원과 관련되지만 정식 재개 완료는 아닙니다.",
+              "title": "스위스, 평양 외교 사무소 재개 계획",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834171"
+            }
+          ],
+          "category": "국제정세",
+          "emphasis": [
+            "농축 우라늄의 해외 반출을 거부",
+            "이란 측의 입장",
+            "합의 체결이나 핵물질 이동"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "10월 20일 이란 현지 회동에서 나온 입장입니다. 정확한 회동 시각은 확인되지 않았습니다.",
+          "followUp": {
+            "delta": "미국 대통령의 중간선거 전 공격 자제 발언을 다룬 기록 이후 이란 측이 농축 우라늄 해외 반출을 거부하고 미국의 조건 이행을 요구한 새 협상 입장이 보도됐습니다.",
+            "editionId": "2026-10-09-am",
+            "storyId": "us-iran-noattack-before-midterms-2026-10-08"
+          },
+          "id": "iran-enriched-uranium-export-position-2026-10-21",
+          "keyFacts": {
+            "요구": "미국의 조건 이행",
+            "입장": "농축 우라늄 해외 반출 거부",
+            "합의·핵물질 이동": "확인되지 않음",
+            "회동 날짜": "2026-10-20 이란 현지"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T06:59:22+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T06:59:22+09:00",
+              "title": "이란 “농축 우라늄 국외 반출 없다…美, 조건 이행해야 협상”",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834161",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261021_0003834161",
+          "scoreComponents": {
+            "domesticImpact": 80,
+            "importance": 92,
+            "interest": 85,
+            "recency": 50,
+            "reliability": 88
+          },
+          "scoreReason": "조사 1순위입니다. 핵 협상의 구체적인 조건으로 프랑스 영업 피해 집계와 스위스 평양 사무소 재개 계획보다 안보 파급을 높게 평가했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T06:59:22+09:00",
+              "title": "이란 “농축 우라늄 국외 반출 없다…美, 조건 이행해야 협상”",
+              "updatedAt": "2026-10-21T07:12:24+09:00",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834161",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "이란 최고국가안보회의 측이 농축 우라늄의 해외 반출을 거부하고 미국의 조건 이행을 요구했다고 보도됐습니다. 핵 협상에 관한 이란 측의 입장입니다.",
+            "뉴시스는 파키스탄 군 수장과의 회동에서 이러한 요구가 나왔다고 전했습니다. 이번 보도는 협상 조건을 설명한 것으로 합의 체결이나 핵물질 이동을 확인한 내용은 아닙니다.",
+            "기존 미국·이란 협상 기록에 구체적인 새 요구가 추가됐습니다. 상대국의 수용 여부와 실제 협상 재개·합의는 후속 확인이 필요합니다."
+          ],
+          "timeline": {
+            "change": "이란 측의 농축 우라늄 해외 반출 거부와 조건 이행 요구가 보도됐습니다. 합의 체결은 확인되지 않았습니다.",
+            "eventDate": "2026-10-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Tehran",
+            "issueId": "us-iran-negotiations",
+            "issueTitle": "미국·이란 협상과 외교적 조치",
+            "stage": "후속"
+          },
+          "title": "이란, 농축 우라늄 해외 반출 거부…미국에 조건 이행 요구",
+          "topicKey": "iran-enriched-uranium-export-position-2026-10-20",
+          "uncertainty": "이란 측 협상 입장이며 공동 합의나 핵물질 이동은 확인되지 않았습니다.",
+          "whatChanged": "이란 측이 회동에서 농축 우라늄 해외 반출 거부와 미국의 조건 이행 요구를 제시했다는 새 보도가 나왔습니다.",
+          "whyItMatters": "핵 협상의 조건과 중동 안보에 직접 연결되는 입장입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "데일리안",
+              "rank": 2,
+              "reason": "새 정규장 종가가 확인됐습니다. 수급 설명은 출처 간 충돌로 제외하며 국가 전체 수출 통계 다음 순위로 평가했습니다.",
+              "title": "코스피 5,735.66으로 3.29% 상승 마감",
+              "url": "https://www.dailian.co.kr/news/view/1704240/%EC%99%B8%EA%B5%AD%EC%9D%B8-6600%EC%96%B5-%EC%82%AC%EC%9E%90%EC%BD%94%EC%8A%A4%ED%94%BC-3-%EC%83%81%EC%8A%B9-2026"
+            },
+            {
+              "name": "머니투데이",
+              "rank": 3,
+              "reason": "15시30분 주간거래의 새 가격 결과입니다. 확인 정보가 짧은 속보에 한정돼 수출 통계와 증시 결과보다 후순위입니다.",
+              "title": "원·달러 환율 주간거래 1,325.2원…2.9원 하락",
+              "url": "https://www.mt.co.kr/index.php/economy/2026/10/21/2026102115340212771"
+            }
+          ],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "616억 달러",
+            "일평균 수출은 65.9%",
+            "월 전체 확정 실적이 아니며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "21일 발표한 10월 1~20일 통관 잠정통계입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+          "id": "korea-exports-october-first-20-days-2026",
+          "keyFacts": {
+            "반도체 수출": "275억 달러",
+            "수출": "616억 달러, 잠정",
+            "일평균 수출": "47억4천만 달러, 65.9% 증가",
+            "전년 동기 대비": "105.4% 증가",
+            "조업일수": "13일, 전년보다 2.5일 증가",
+            "집계 기간": "2026-10-01~2026-10-20"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T09:25:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-21T09:25:00+09:00",
+              "title": "10월 1~20일 수출 616억 달러, 일평균 65.9% 증가",
+              "url": "https://www.yna.co.kr/view/AKR20261021033051002",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261021033051002",
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 94,
+            "interest": 90,
+            "recency": 85,
+            "reliability": 95
+          },
+          "scoreReason": "조사 1순위입니다. 국가 전체 수출과 반도체 흐름을 보여주는 새 통계로 당일 증시 종가와 환율보다 경제적 영향 범위를 우선했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-21T09:25:00+09:00",
+              "title": "10월 1~20일 수출 616억 달러, 일평균 65.9% 증가",
+              "url": "https://www.yna.co.kr/view/AKR20261021033051002",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "10월 1~20일 수출이 616억 달러로 잠정 집계됐습니다. 전년 동기보다 105.4% 증가했으며 일평균 수출은 65.9% 늘었습니다.",
+            "조업일수는 13일로 전년 같은 기간보다 2.5일 많았습니다. 일평균 수출은 47억4천만 달러이며 반도체 수출은 275억 달러였습니다.",
+            "전체 증가율에는 조업일수 차이가 반영돼 있어 일평균 지표를 함께 살펴야 합니다. 이번 수치는 월 전체 확정 실적이 아니며 연간 수출 1조 달러 돌파도 전망과 구분해야 합니다."
+          ],
+          "timeline": {
+            "change": "10월 1~20일 수출이 잠정 616억 달러, 일평균 수출 증가율이 65.9%로 발표됐습니다.",
+            "eventDate": "2026-10-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-exports-semiconductors",
+            "issueTitle": "한국 수출과 반도체 실적",
+            "stage": "발표"
+          },
+          "title": "10월 1~20일 수출 616억 달러…일평균 65.9% 증가",
+          "topicKey": "korea-exports-2026-10-first-20-days",
+          "uncertainty": "통관 잠정통계로 월 전체 확정 실적이나 연간 수출 목표 달성 결과가 아닙니다.",
+          "whatChanged": "10월 1~20일 수출과 조업일수 조정 일평균 수출의 새 잠정통계가 발표됐습니다.",
+          "whyItMatters": "국가 전체 수출 흐름과 반도체의 비중을 살필 새 통계입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "지역 부담과 보상에 영향을 주는 개정안 발표가 확인됐지만 입법·행정예고 단계입니다.",
+              "title": "송전망 주변 지역에 지원금 3분의 2 배분 추진",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834664"
+            },
+            {
+              "name": "뉴시스",
+              "rank": 3,
+              "reason": "의원실이 확보한 정부 계획에 관한 보도가 확인됐습니다. 계획 원문 직접 확인과 실제 시행은 확인되지 않아 후순위입니다.",
+              "title": "음식물 오염 가능성 반영한 포장재 재활용 등급 개편 추진",
+              "url": "https://www.newsis.com/view/?id=NISX20261021_0003834439"
+            }
+          ],
+          "category": "정치·정책",
+          "emphasis": [
+            "일부 받아들였습니다",
+            "전면 허용한 결정은 아닙니다",
+            "본안 권한쟁의에 대한 최종 판단"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "21일 헌법재판소 결정입니다. 정확한 결정 시각은 확인되지 않았습니다.",
+          "followUp": {
+            "delta": "이진숙 의원 제척 논쟁으로 국정감사가 중단됐다는 보도 이후 헌재가 제척 관련 효력정지 신청을 일부 받아들여 참여 범위에 관한 구체적인 결정이 나왔습니다.",
+            "editionId": "2026-10-17-am",
+            "storyId": "assembly-ict-audit-recusal-dispute-2026-10-16"
+          },
+          "id": "assembly-ict-recusal-injunction-2026-10-21",
+          "keyFacts": {
+            "결과": "제척 관련 효력정지 일부 인용",
+            "결정 기관": "헌법재판소",
+            "결정 날짜": "2026-10-21",
+            "판단 단계": "가처분, 본안 판단과 구분"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T19:11:59+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T19:11:59+09:00",
+              "title": "헌재, 이진숙 국감 제척 효력정지 일부 인용",
+              "url": "https://www.newsis.com/view/NISX20261021_0003835759",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261021_0003835759",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 91,
+            "interest": 80,
+            "recency": 100,
+            "reliability": 93
+          },
+          "scoreReason": "조사 1순위입니다. 국감 참여 범위를 실제로 바꾸는 사법 결정으로 송전망 지원금과 포장재 등급 개편안보다 절차상 확정성과 중요도를 높게 평가했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T19:11:59+09:00",
+              "title": "헌재, 이진숙 국감 제척 효력정지 일부 인용",
+              "url": "https://www.newsis.com/view/NISX20261021_0003835759",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "헌법재판소가 이진숙 의원의 국정감사 제척 관련 효력정지 신청을 일부 받아들였습니다. 다음 날 국감 참여 범위에 영향을 주는 가처분 결정입니다.",
+            "모든 사안에 대한 참여를 전면 허용한 결정은 아닙니다. 본인의 과거 직무 관련 사안 등에 남는 제척 범위를 함께 구분해야 합니다.",
+            "기존 제척 논쟁과 감사 중단 이후 구체적인 사법 결정이 추가됐습니다. 이번 가처분을 본안 권한쟁의에 대한 최종 판단으로 표현할 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "헌재가 제척 관련 효력정지 신청을 일부 인용했습니다. 남는 제척 범위와 본안 판단은 구분해야 합니다.",
+            "eventDate": "2026-10-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "assembly-ict-hearing-recusal-dispute-2026",
+            "issueTitle": "과방위 국정감사의 제척 논쟁과 회의 중단",
+            "stage": "후속"
+          },
+          "title": "헌재, 이진숙 국감 제척 효력정지 일부 인용",
+          "topicKey": "assembly-ict-hearing-recusal-dispute-2026",
+          "uncertainty": "일부 인용이며 모든 사안의 참여 허용이나 본안 권한쟁의 최종 판단을 뜻하지 않습니다.",
+          "whatChanged": "국감 제척 공방 이후 헌재가 효력정지 신청을 일부 인용하는 결정을 내렸습니다.",
+          "whyItMatters": "국회의원의 국정감사 참여 범위와 이해관계에 따른 제척 절차에 영향을 줍니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "공직자의 의사결정과 권리 보호에 관한 구체적인 항소심 결과입니다. 확정판결은 아니며 전국 고용 통계보다 후순위입니다.",
+              "title": "탈북어민 북송 사건, 정의용·서훈 항소심 집행유예",
+              "url": "https://www.newsis.com/view/NISX20261021_0003835211"
+            },
+            {
+              "name": "한국경제",
+              "rank": 3,
+              "reason": "건강보험 재정과 의료기관 운영 자격에 관한 대규모 수사입니다. 실제 송치는 9월 30일이며 혐의와 금액은 경찰 판단 단계입니다.",
+              "title": "랩지노믹스 전·현직 관계자 31명 송치 보도",
+              "url": "https://www.hankyung.com/article/202610215149i"
+            }
+          ],
+          "category": "사회이슈",
+          "emphasis": [
+            "867만1천명",
+            "38.5%",
+            "동일한 일을 하는 노동자 사이의 임금격차"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "21일 발표한 8월 근로형태별 조사입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+          "id": "korea-nonregular-employment-august-2026",
+          "keyFacts": {
+            "비정규직": "867만1천명",
+            "비정규직 월평균 임금": "211만원",
+            "임금근로자 중 비중": "38.5%",
+            "정규직 월평균 임금": "405만원",
+            "조사 대상 시점": "2026년 8월"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T12:00:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T12:00:00+09:00",
+              "title": "비정규직 비율 38.5%, 통계 작성 이후 최고",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834490",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261021_0003834490",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 92,
+            "interest": 82,
+            "recency": 100,
+            "reliability": 93
+          },
+          "scoreReason": "조사 1순위입니다. 고용 안정성과 소득 구조에 광범위하게 관련된 통계로 개별 항소심과 의료기관 수사보다 영향 인구와 지속성을 높게 평가했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T12:00:00+09:00",
+              "title": "비정규직 비율 38.5%, 통계 작성 이후 최고",
+              "updatedAt": "2026-10-21T13:26:07+09:00",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834490",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "8월 근로형태별 조사에서 비정규직은 867만1천명, 임금근로자 중 비중은 38.5%로 집계됐습니다. 비중은 통계 작성 이후 가장 높았습니다.",
+            "뉴시스는 정규직의 월평균 임금을 405만원, 비정규직은 211만원으로 전했습니다. 두 집단은 근로시간·직종·연령 구성 등이 다를 수 있습니다.",
+            "비정규직 비중과 평균 임금은 고용 안정성과 소득 구조를 살필 자료입니다. 단순 평균 차이를 동일한 일을 하는 노동자 사이의 임금격차로 해석할 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "8월 비정규직이 867만1천명, 임금근로자 중 비중이 38.5%로 발표됐습니다.",
+            "eventDate": "2026-10-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-nonregular-employment-2026",
+            "issueTitle": "한국 비정규직 규모와 임금 구조",
+            "stage": "발표"
+          },
+          "title": "비정규직 867만1천명·비중 38.5%…통계 작성 이후 최고",
+          "topicKey": "korea-nonregular-employment-2026-08",
+          "uncertainty": "집단별 평균 임금 차이는 근로시간과 인적·직종 구성의 영향을 받으므로 동일노동 임금격차로 단정할 수 없습니다.",
+          "whatChanged": "8월 근로형태별 조사에서 비정규직 규모와 역대 최고 비중, 집단별 월평균 임금이 발표됐습니다.",
+          "whyItMatters": "다수 노동자의 고용 형태와 소득 구조를 보여주는 새 통계입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "한국경제",
+              "rank": 2,
+              "reason": "과거 개발 프로그램에 대한 회사의 후향 분석 발표가 확인됐습니다. 전향적 검증이나 미래 성공률 보장은 아니어서 후순위입니다.",
+              "title": "아이디바인, 항암제 임상 성공 예측 AI 검증 결과 공개",
+              "url": "https://www.hankyung.com/article/202610202116P"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "rank": 3,
+              "reason": "기술 발표·상담 행사 계획이 확인됐습니다. 실증 완료나 계약·도입 성과가 없어 산업 적용 경로 소개로 한정합니다.",
+              "title": "국산 AI 반도체 기업들, 지능형교통체계 기술 교류 추진",
+              "url": "https://www.fnnews.com/news/202610201518004420"
+            }
+          ],
+          "category": "과학·기술",
+          "emphasis": [
+            "FDA 패스트트랙 지정",
+            "회사 발표",
+            "품목허가나 치료효과 입증을 뜻하지 않으며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "21일 회사 발표입니다. FDA 결정의 정확한 날짜와 시각은 확인되지 않았습니다.",
+          "id": "sbe303-fda-fast-track-announcement-2026-10-21",
+          "keyFacts": {
+            "개발 형태": "항체·약물 접합체",
+            "표적": "Nectin-4",
+            "품목허가": "이번 지정과 구분",
+            "회사 발표": "특정 요로상피암 적응증 FDA 패스트트랙 지정",
+            "후보물질": "SBE303"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T08:43:57+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T08:43:57+09:00",
+              "title": "삼성에피스 항암제 후보 SBE303, FDA 패스트트랙 지정 발표",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834334",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261021_0003834334",
+          "scoreComponents": {
+            "domesticImpact": 78,
+            "importance": 81,
+            "interest": 85,
+            "recency": 50,
+            "reliability": 85
+          },
+          "scoreReason": "조사 1순위입니다. 임상 개발의 규제 단계 변화가 확인돼 회사 자체 후향 AI 분석과 기술 교류 행사 계획보다 우선했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T08:43:57+09:00",
+              "title": "삼성에피스 항암제 후보 SBE303, FDA 패스트트랙 지정 발표",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834334",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "삼성에피스는 항암제 후보 SBE303이 특정 요로상피암 적응증에서 FDA 패스트트랙 지정을 받았다고 발표했습니다. 신약 후보의 개발 절차에 관한 진전입니다.",
+            "SBE303은 Nectin-4를 표적으로 하는 항체·약물 접합체 후보입니다. 항체와 약물을 결합한 형태로 개발 중이며, 이번 내용은 회사 발표를 전한 뉴시스 보도에 근거합니다.",
+            "패스트트랙은 신속한 개발 협의를 지원하는 지정입니다. 품목허가나 치료효과 입증을 뜻하지 않으며, FDA 원문을 직접 확인한 조사 결과는 아닙니다."
+          ],
+          "timeline": {
+            "change": "회사가 SBE303의 FDA 패스트트랙 지정을 발표했습니다. 품목허가나 치료효과 입증은 아닙니다.",
+            "eventDate": "2026-10-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "sbe303-fda-fast-track-2026",
+            "issueTitle": "SBE303 항암제 후보 개발과 FDA 패스트트랙 지정",
+            "stage": "발표"
+          },
+          "title": "삼성에피스, 항암제 후보 SBE303 FDA 패스트트랙 지정 발표",
+          "topicKey": "sbe303-fda-fast-track-2026-10",
+          "uncertainty": "회사 발표를 인용한 보도이며 FDA 결정 원문과 정확한 결정일은 직접 확인되지 않았습니다. 판매 승인과 치료효과 입증은 별도입니다.",
+          "whatChanged": "회사가 SBE303의 FDA 패스트트랙 지정 사실을 발표했습니다.",
+          "whyItMatters": "항암제 후보의 임상 개발과 규제기관 협의 절차에 관한 구체적인 변화입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "전국 단위 재난 정보 접근성 문제입니다. 전년도 조사 결과로 현재 모든 시설의 상태를 뜻하지 않으며 기관 답변을 함께 봐야 합니다.",
+              "title": "터널·지하공간 재난방송 수신 불량 조사 보도",
+              "url": "https://www.newsis.com/view/?id=NISX20261020_0003833973"
+            },
+            {
+              "name": "전자신문",
+              "rank": 3,
+              "reason": "중대 산업재해가 확인됐지만 국내 독자의 즉시 피해 예방과 관련된 정도는 앞선 후보보다 낮습니다. 사고 원인은 조사 중입니다.",
+              "title": "TSMC 가오슝 공장 건설현장 추락사고…3명 사망",
+              "url": "https://www.etnews.com/20261021000005"
+            }
+          ],
+          "category": "생활·안전",
+          "emphasis": [
+            "21일 21시 발효",
+            "큰 기온 하락과 강한 바람",
+            "실제 관측값과 구분"
+          ],
+          "eventAt": "2026-10-21T21:00:00+09:00",
+          "eventTimeNote": "기상청은 21일 10시 특보를 발표했으며 발효 시각은 같은 날 21시입니다. 발표와 발효를 구분했습니다.",
+          "id": "gyeonggi-incheon-cold-wave-advisory-2026-10-21",
+          "keyFacts": {
+            "다음 날 전망": "아침 기온 큰 하락·강한 바람 예보",
+            "대상": "경기·인천 등 기사에 명시된 지역",
+            "발표": "2026-10-21 10:00 KST",
+            "발효": "2026-10-21 21:00 KST",
+            "특보": "한파주의보"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T11:04:06+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T11:04:06+09:00",
+              "title": "경기·인천 올가을 첫 한파주의보, 21시 발효",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834760",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261021_0003834760",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 93,
+            "interest": 80,
+            "recency": 85,
+            "reliability": 95
+          },
+          "scoreReason": "조사 1순위입니다. 기준 시각부터 발효되는 직접적인 피해 예방 정보로 과거 재난방송 수신 조사와 해외 건설현장 사고보다 즉시성을 높게 평가했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-21T11:04:06+09:00",
+              "title": "경기·인천 올가을 첫 한파주의보, 21시 발효",
+              "url": "https://www.newsis.com/view/NISX20261021_0003834760",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "경기·인천 등 대상 지역에 발표된 올가을 첫 한파주의보가 21일 21시 발효됐습니다. 이번 회차 기준 시각부터 적용되는 안전 정보입니다.",
+            "기상청은 다음 날 아침 큰 기온 하락과 강한 바람을 예보했습니다. 특보 대상은 기사에 나온 지역으로 한정하며 전국에 같은 특보가 내려졌다는 뜻은 아닙니다.",
+            "야외 활동과 이동 전에는 해당 지역의 최신 특보와 예보를 확인할 필요가 있습니다. 예상 기온과 바람은 예보이며 실제 관측값과 구분해야 합니다."
+          ],
+          "timeline": {
+            "change": "10시에 발표된 한파주의보가 21시 발효됐습니다. 다음 날 기온 하락과 바람은 예보입니다.",
+            "eventDate": "2026-10-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "gyeonggi-incheon-cold-wave-advisory-2026-10",
+            "issueTitle": "2026년 10월 경기·인천 등 한파주의보",
+            "stage": "시행"
+          },
+          "title": "경기·인천 등 올가을 첫 한파주의보…21시 발효",
+          "topicKey": "gyeonggi-incheon-cold-wave-advisory-2026-10-21",
+          "uncertainty": "다음 날 기온과 바람은 예보이며 실제 관측값은 아직 확인되지 않았습니다. 특보 대상 지역을 확대해석해서는 안 됩니다.",
+          "whatChanged": "한파주의보가 발표됐고 회차 기준 시각인 21시에 발효됐습니다.",
+          "whyItMatters": "기온 급락에 따른 건강과 야외 활동의 피해 예방에 필요한 정보입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "신세계그룹 공식 뉴스룸",
+              "rank": 2,
+              "reason": "웹툰 IP의 오프라인 상품 유통 계획이 회사 발표로 확인됐습니다. 계약 금액·작가 배분·판매 성과는 공개되지 않아 후순위입니다.",
+              "title": "이마트24, ‘재혼 황후’ IP 협업 상품 7종 출시 안내",
+              "url": "https://www.shinsegaegroupnewsroom.com/emart24-launches-collaboration-products-with-the-remarried-empress/"
+            },
+            {
+              "name": "세계일보",
+              "rank": 3,
+              "reason": "공동 제작과 공개 계획이 확인된 공공 제작사업입니다. 지역적 범위가 작고 실제 공개 완료와 독자 반응은 확인되지 않았습니다.",
+              "title": "영천시 브랜드 웹툰 ‘포은: 임고의 별’ 제작·공개 계획",
+              "url": "https://www.segye.com/newsView/20261019521967?OutUrl=google"
+            }
+          ],
+          "category": "웹툰산업",
+          "emphasis": [
+            "12월 2~6일",
+            "전날 발표로 보완",
+            "관람객·매출 성과가 아니며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "개최 안내는 10월 20일 발표됐으며 정확한 발표 시각은 확인되지 않았습니다. 행사는 12월 2~6일 예정입니다.",
+          "fallbackNote": "당일 중요 미게재 계약·정산·플랫폼 정책 후보가 부족해 최근 72시간 안의 10월 20일 행사 계획 발표로 보완했습니다. 이전에는 예비 후보로만 표시된 소식이며 산업적 중요도는 제한적입니다.",
+          "id": "world-webtoon-festival-plan-2026-10-20",
+          "keyFacts": {
+            "발표 날짜": "2026-10-20",
+            "발표 주체": "한국콘텐츠진흥원",
+            "장소": "코엑스·스타필드 코엑스몰",
+            "행사 예정 기간": "2026-12-02~2026-12-06",
+            "확인 내용": "개최 계획·홍보대사 위촉·프로그램 안내"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-20T08:21:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-10-20T08:21:00+09:00",
+              "title": "콘진원, 2026 월드 웹툰 페스티벌 개최 발표",
+              "url": "https://www.newspim.com/news/view/20261020000087",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newspim.com/news/view/20261020000087",
+          "scoreComponents": {
+            "domesticImpact": 60,
+            "importance": 63,
+            "interest": 80,
+            "recency": 25,
+            "reliability": 85
+          },
+          "scoreReason": "조사 1순위입니다. 여러 작품·기업의 접점을 제공하는 범위가 IP 협업 상품과 지역 공공 제작사업보다 넓습니다. 행사 계획의 제한적인 산업 중요도를 반영했으며 점수를 부풀리지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-10-20T08:21:00+09:00",
+              "title": "콘진원, 2026 월드 웹툰 페스티벌 개최 발표",
+              "url": "https://www.newspim.com/news/view/20261020000087",
+              "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "한국콘텐츠진흥원이 2026 월드 웹툰 페스티벌 개최 계획과 홍보대사 위촉을 발표했습니다. 행사는 12월 2~6일 코엑스·스타필드 코엑스몰에서 열릴 예정입니다.",
+            "뉴스핌은 전시·팝업·무대 프로그램 등을 소개했습니다. 여러 작품과 기업이 독자를 만나는 접점을 마련하는 계획입니다.",
+            "당일의 중요한 미게재 웹툰산업 후보가 부족해 전날 발표로 보완했습니다. 행사 계획은 수출 계약이나 관람객·매출 성과가 아니며 실제 개최 결과는 이후 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "12월 2~6일 코엑스 일대 개최 계획과 홍보대사 위촉이 발표됐습니다. 행사 성과는 미확인입니다.",
+            "eventDate": "2026-10-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "world-webtoon-festival-2026",
+            "issueTitle": "2026 월드 웹툰 페스티벌 개최 계획",
+            "stage": "발표"
+          },
+          "title": "콘진원, 월드 웹툰 페스티벌 개최 발표…12월 2~6일 예정",
+          "topicKey": "world-webtoon-festival-plan-2026-12",
+          "uncertainty": "행사 개최와 관람객·매출·수출 계약 성과는 아직 확인되지 않았습니다.",
+          "whatChanged": "월드 웹툰 페스티벌 개최 기간과 장소, 프로그램 및 홍보대사 위촉이 발표됐습니다.",
+          "whyItMatters": "여러 웹툰 작품과 기업이 전시·팝업 등을 통해 독자와 만나는 행사 계획입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-10-21-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-21T21:12:51.585605+09:00",
+  "result": {
+    "id": "2026-10-21-pm",
+    "operationId": "publish-news-2026-10-21-pm",
+    "recordedAt": "2026-10-21T21:12:51.585605+09:00",
+    "sha256": "7df266f68b8d1b1ddb3494d9c32901929a3646779eece94d3d94e41999dec582",
+    "windowId": "2026-10-21-pm"
+  }
+}

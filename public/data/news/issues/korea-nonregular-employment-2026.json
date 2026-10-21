@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/pm.json",
+      "category": "사회이슈",
+      "change": "8월 비정규직이 867만1천명, 임금근로자 중 비중이 38.5%로 발표됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T21:12:20.892212+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "pm",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-21",
+      "eventEndDate": null,
+      "eventTimeNote": "21일 발표한 8월 근로형태별 조사입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-21-pm/korea-nonregular-employment-august-2026",
+      "keyFacts": {
+        "비정규직": "867만1천명",
+        "비정규직 월평균 임금": "211만원",
+        "임금근로자 중 비중": "38.5%",
+        "정규직 월평균 임금": "405만원",
+        "조사 대상 시점": "2026년 8월"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-21T12:00:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T12:00:00+09:00",
+          "title": "비정규직 비율 38.5%, 통계 작성 이후 최고",
+          "updatedAt": "2026-10-21T13:26:07+09:00",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834490",
+          "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "korea-nonregular-employment-august-2026",
+      "summary": [
+        "8월 근로형태별 조사에서 비정규직은 867만1천명, 임금근로자 중 비중은 38.5%로 집계됐습니다. 비중은 통계 작성 이후 가장 높았습니다.",
+        "뉴시스는 정규직의 월평균 임금을 405만원, 비정규직은 211만원으로 전했습니다. 두 집단은 근로시간·직종·연령 구성 등이 다를 수 있습니다.",
+        "비정규직 비중과 평균 임금은 고용 안정성과 소득 구조를 살필 자료입니다. 단순 평균 차이를 동일한 일을 하는 노동자 사이의 임금격차로 해석할 수는 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "비정규직 867만1천명·비중 38.5%…통계 작성 이후 최고",
+      "uncertainty": "집단별 평균 임금 차이는 근로시간과 인적·직종 구성의 영향을 받으므로 동일노동 임금격차로 단정할 수 없습니다."
+    }
+  ],
+  "id": "korea-nonregular-employment-2026",
+  "schemaVersion": 1,
+  "title": "한국 비정규직 규모와 임금 구조",
+  "updatedAt": "2026-10-21T21:12:20.892212+09:00"
+}

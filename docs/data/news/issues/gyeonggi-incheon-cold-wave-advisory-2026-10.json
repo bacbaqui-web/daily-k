@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/pm.json",
+      "category": "생활·안전",
+      "change": "10시에 발표된 한파주의보가 21시 발효됐습니다. 다음 날 기온 하락과 바람은 예보입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T21:12:20.892212+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "pm",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-pm",
+      "eventAt": "2026-10-21T21:00:00+09:00",
+      "eventDate": "2026-10-21",
+      "eventEndDate": null,
+      "eventTimeNote": "기상청은 21일 10시 특보를 발표했으며 발효 시각은 같은 날 21시입니다. 발표와 발효를 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-21-pm/gyeonggi-incheon-cold-wave-advisory-2026-10-21",
+      "keyFacts": {
+        "다음 날 전망": "아침 기온 큰 하락·강한 바람 예보",
+        "대상": "경기·인천 등 기사에 명시된 지역",
+        "발표": "2026-10-21 10:00 KST",
+        "발효": "2026-10-21 21:00 KST",
+        "특보": "한파주의보"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-21T11:04:06+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T11:04:06+09:00",
+          "title": "경기·인천 올가을 첫 한파주의보, 21시 발효",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834760",
+          "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+        }
+      ],
+      "stage": "시행",
+      "status": "확정",
+      "storyId": "gyeonggi-incheon-cold-wave-advisory-2026-10-21",
+      "summary": [
+        "경기·인천 등 대상 지역에 발표된 올가을 첫 한파주의보가 21일 21시 발효됐습니다. 이번 회차 기준 시각부터 적용되는 안전 정보입니다.",
+        "기상청은 다음 날 아침 큰 기온 하락과 강한 바람을 예보했습니다. 특보 대상은 기사에 나온 지역으로 한정하며 전국에 같은 특보가 내려졌다는 뜻은 아닙니다.",
+        "야외 활동과 이동 전에는 해당 지역의 최신 특보와 예보를 확인할 필요가 있습니다. 예상 기온과 바람은 예보이며 실제 관측값과 구분해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "경기·인천 등 올가을 첫 한파주의보…21시 발효",
+      "uncertainty": "다음 날 기온과 바람은 예보이며 실제 관측값은 아직 확인되지 않았습니다. 특보 대상 지역을 확대해석해서는 안 됩니다."
+    }
+  ],
+  "id": "gyeonggi-incheon-cold-wave-advisory-2026-10",
+  "schemaVersion": 1,
+  "title": "2026년 10월 경기·인천 등 한파주의보",
+  "updatedAt": "2026-10-21T21:12:20.892212+09:00"
+}

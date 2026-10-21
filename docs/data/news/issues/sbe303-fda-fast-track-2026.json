@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-21/pm.json",
+      "category": "과학·기술",
+      "change": "회사가 SBE303의 FDA 패스트트랙 지정을 발표했습니다. 품목허가나 치료효과 입증은 아닙니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T21:12:20.892212+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "pm",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-21",
+      "eventEndDate": null,
+      "eventTimeNote": "21일 회사 발표입니다. FDA 결정의 정확한 날짜와 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-21-pm/sbe303-fda-fast-track-announcement-2026-10-21",
+      "keyFacts": {
+        "개발 형태": "항체·약물 접합체",
+        "표적": "Nectin-4",
+        "품목허가": "이번 지정과 구분",
+        "회사 발표": "특정 요로상피암 적응증 FDA 패스트트랙 지정",
+        "후보물질": "SBE303"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-21T08:43:57+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T08:43:57+09:00",
+          "title": "삼성에피스 항암제 후보 SBE303, FDA 패스트트랙 지정 발표",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834334",
+          "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "sbe303-fda-fast-track-announcement-2026-10-21",
+      "summary": [
+        "삼성에피스는 항암제 후보 SBE303이 특정 요로상피암 적응증에서 FDA 패스트트랙 지정을 받았다고 발표했습니다. 신약 후보의 개발 절차에 관한 진전입니다.",
+        "SBE303은 Nectin-4를 표적으로 하는 항체·약물 접합체 후보입니다. 항체와 약물을 결합한 형태로 개발 중이며, 이번 내용은 회사 발표를 전한 뉴시스 보도에 근거합니다.",
+        "패스트트랙은 신속한 개발 협의를 지원하는 지정입니다. 품목허가나 치료효과 입증을 뜻하지 않으며, FDA 원문을 직접 확인한 조사 결과는 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "삼성에피스, 항암제 후보 SBE303 FDA 패스트트랙 지정 발표",
+      "uncertainty": "회사 발표를 인용한 보도이며 FDA 결정 원문과 정확한 결정일은 직접 확인되지 않았습니다. 판매 승인과 치료효과 입증은 별도입니다."
+    }
+  ],
+  "id": "sbe303-fda-fast-track-2026",
+  "schemaVersion": 1,
+  "title": "SBE303 항암제 후보 개발과 FDA 패스트트랙 지정",
+  "updatedAt": "2026-10-21T21:12:20.892212+09:00"
+}

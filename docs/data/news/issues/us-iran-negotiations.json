@@ -130,6 +130,62 @@
       "uncertainty": "대통령 발언의 이행과 이란의 최종 답변·합의 여부는 아직 확인되지 않았습니다."
     },
     {
+      "briefingPath": "2026-10-21/pm.json",
+      "category": "국제정세",
+      "change": "이란 측의 농축 우라늄 해외 반출 거부와 조건 이행 요구가 보도됐습니다. 합의 체결은 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-21T21:12:20.892212+09:00",
+      "coveredOn": "2026-10-21",
+      "edition": "pm",
+      "editionDate": "2026-10-21",
+      "editionId": "2026-10-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-20",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 20일 이란 현지 회동에서 나온 입장입니다. 정확한 회동 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Tehran",
+      "followUp": {
+        "delta": "미국 대통령의 중간선거 전 공격 자제 발언을 다룬 기록 이후 이란 측이 농축 우라늄 해외 반출을 거부하고 미국의 조건 이행을 요구한 새 협상 입장이 보도됐습니다.",
+        "editionId": "2026-10-09-am",
+        "storyId": "us-iran-noattack-before-midterms-2026-10-08"
+      },
+      "id": "2026-10-21-pm/iran-enriched-uranium-export-position-2026-10-21",
+      "keyFacts": {
+        "요구": "미국의 조건 이행",
+        "입장": "농축 우라늄 해외 반출 거부",
+        "합의·핵물질 이동": "확인되지 않음",
+        "회동 날짜": "2026-10-20 이란 현지"
+      },
+      "previous": {
+        "editionId": "2026-10-09-am",
+        "storyId": "us-iran-noattack-before-midterms-2026-10-08"
+      },
+      "publishedAt": "2026-10-21T06:59:22+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-21T06:59:22+09:00",
+          "title": "이란 “농축 우라늄 국외 반출 없다…美, 조건 이행해야 협상”",
+          "updatedAt": "2026-10-21T07:12:24+09:00",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834161",
+          "verifiedAt": "2026-10-21T21:09:10.083722+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "iran-enriched-uranium-export-position-2026-10-21",
+      "summary": [
+        "이란 최고국가안보회의 측이 농축 우라늄의 해외 반출을 거부하고 미국의 조건 이행을 요구했다고 보도됐습니다. 핵 협상에 관한 이란 측의 입장입니다.",
+        "뉴시스는 파키스탄 군 수장과의 회동에서 이러한 요구가 나왔다고 전했습니다. 이번 보도는 협상 조건을 설명한 것으로 합의 체결이나 핵물질 이동을 확인한 내용은 아닙니다.",
+        "기존 미국·이란 협상 기록에 구체적인 새 요구가 추가됐습니다. 상대국의 수용 여부와 실제 협상 재개·합의는 후속 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "이란, 농축 우라늄 해외 반출 거부…미국에 조건 이행 요구",
+      "uncertainty": "이란 측 협상 입장이며 공동 합의나 핵물질 이동은 확인되지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 161,
@@ -600,5 +656,5 @@
   "id": "us-iran-negotiations",
   "schemaVersion": 1,
   "title": "미국·이란 협상과 외교적 조치",
-  "updatedAt": "2026-10-21T09:10:47.865532+09:00"
+  "updatedAt": "2026-10-21T21:12:20.892212+09:00"
 }
