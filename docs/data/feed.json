@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T21:26:32.405951+09:00",
-  "windowEnd": "2026-10-21T21:19:51.223631+09:00",
+  "collectedAt": "2026-10-21T12:36:50.337088+00:00",
+  "windowEnd": "2026-10-21T21:36:50.220755+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7169,75 +7169,6 @@
       "firstPublishedAt": "2026-10-21T01:14:25.714522+00:00"
     },
     {
-      "id": "aagag-1663326-0",
-      "url": "https://aagag.com/issue/?idx=1663326",
-      "source": "애객",
-      "title": "냉부 셰프들의 역전세계",
-      "publishedAt": "2026-10-20T21:20:59+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L1VBC.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "27년차 일식쉐프와\n미슐랭 쌍별스타가\n(전)만화작가이자 (전)카페사장 조언에\n레시피 급 수정"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L1VBC.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "27년차 일식쉐프와\n미슐랭 쌍별스타가\n(전)만화작가이자 (전)카페사장 조언에\n레시피 급 수정",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 5,
-      "laughingComments": 3,
-      "score": 12,
-      "kPerComment": 2.4,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8873580",
-          "text": "자 이제 누가 셰프지?ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8873581",
-          "text": "저기는 별 많은 사람이 쉐프여 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8873585",
-          "text": "그래도 김풍에 머릿속에 든걸 이쁘게 못만들어서 그렇지 음식에 대한 조예가 엄청 깊은사람임 ㄹㅇ"
-        },
-        {
-          "id": "8873587",
-          "text": "충격의 애벌래 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8873586",
-          "text": "\"화투판 돈 많은 놈이 왕이고, 패 좋은 놈이 조상님인 거 못 들어봤냐?\" 냉부에선 별 많은 놈이 쉐프고 미슐랭이야!"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-20T21:28:44.715096+09:00",
-      "sourceTitles": [
-        "냉부 셰프들의 역전세계",
-        "냉부 셰프들의 역전세계 ㅋㅋㅋㅋㅋ",
-        "냉부 셰프들의 역전세계 ㅋㅋㅋㅋㅋ.mp4",
-        "냉부 셰프들의 역전세계 ㅋㅋㅋㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-20T12:28:53.302354+00:00",
-      "collectedAt": "2026-10-20T21:28:53.302370+09:00",
-      "firstPublishedAt": "2026-10-20T12:28:53.398445+00:00"
-    },
-    {
       "id": "aagag-1663355-0",
       "url": "https://aagag.com/issue/?idx=1663355",
       "source": "애객",
@@ -9880,9 +9811,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
