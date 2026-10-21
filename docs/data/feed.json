@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T12:55:30.566205+00:00",
+  "collectedAt": "2026-10-21T13:01:11.521915+00:00",
   "windowEnd": "2026-10-21T21:55:30.448904+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9279,6 +9279,63 @@
       "firstPublishedAt": "2026-10-21T03:06:00.937277+00:00"
     },
     {
+      "id": "aagag-1663601-0",
+      "url": "https://aagag.com/issue/?idx=1663601",
+      "source": "애객",
+      "title": "김채현 좋은 움직임",
+      "publishedAt": "2026-10-21T21:38:43+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1feL.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1feL.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8878258",
+          "text": "0.1배속 너무 좋다"
+        },
+        {
+          "id": "8878275",
+          "text": "채현아 너가 '채'들중에서 두번째로 좋아"
+        },
+        {
+          "id": "8878300",
+          "text": "중력과 관성은 축복이군"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-21T22:00:59.373459+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 김채현.gif",
+        "김채현.gif",
+        "ㅇㅎ) 김채현.gif",
+        "김채현 좋은 움직임"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-21T13:01:11.442258+00:00",
+      "collectedAt": "2026-10-21T22:01:11.442273+09:00",
+      "firstPublishedAt": "2026-10-21T13:01:11.536476+00:00"
+    },
+    {
       "id": "aagag-1663578-0",
       "url": "https://aagag.com/issue/?idx=1663578",
       "source": "애객",
@@ -9402,7 +9459,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
