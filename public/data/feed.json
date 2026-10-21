@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T10:55:09.184152+09:00",
-  "windowEnd": "2026-10-21T10:43:20.185500+09:00",
+  "collectedAt": "2026-10-21T02:05:23.987246+00:00",
+  "windowEnd": "2026-10-21T11:05:23.876143+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -11140,97 +11140,6 @@
       "firstPublishedAt": "2026-10-20T09:36:29.037571+00:00"
     },
     {
-      "id": "aagag-1663175-0",
-      "url": "https://aagag.com/issue/?idx=1663175",
-      "source": "애객",
-      "title": "ㅇㅎ) 천박천박 주작없는 디지몬 기술",
-      "publishedAt": "2026-10-20T11:00:08+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1P6B.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1P6E.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1P6H.webp",
-          "alt": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/EaL9e.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "진짜임"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L1P6B.webp",
-        "https://i.aagag.com/o/L1P6E.webp",
-        "https://i.aagag.com/o/L1P6H.webp"
-      ],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/EaL9e.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "진짜임",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8870135",
-          "text": "토르나드 감바!"
-        },
-        {
-          "id": "8870156",
-          "text": "오늘 저녁은 감바스 먹어야겠다"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-20T11:04:15.146132+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 천박천박 주작없는 디지몬 기술",
-        "굉장히 어흐어흐 하다는 디지몬 기술",
-        "천박천박 주작없는 디지몬 기술..gif",
-        "[ㅎㅂ] 천박천박 주작없는 디지몬 기술..gif",
-        "[ㅎㅂ] 천박천박 주작없는 디지몬 기술..gif",
-        "존나 천박한 디지몬 원탑",
-        "지금시간에 이거 베스트가면 유게 망함",
-        "싱글벙글 이새끼 왜 가만히 맞고만 있냐..gif",
-        "싱글벙글 숨겨진 꼴잘알 디지몬..gif",
-        "지금 시간에 이거 베스트 가면 유게 개노답임",
-        "[디지몬] 누가봐도 일부러 맞아줌",
-        "디지몬) 의외로 엔젤우몬과 비교되는 디지몬",
-        "디지몬에게는 성별이 존재하지 않아......",
-        "디지몬 프론티어 최강의 디지몬",
-        "지금 시간에 이거 베스트 가면 유게 개노답임",
-        "이거 베스트가면 유게망함",
-        "디지몬) '변신하자마자 전탄발사' 에 가려진 사람",
-        "디지몬에게 성별은 없습니다(웃음)",
-        "디지몬에겐 성별은 없다."
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 19,
-      "sourceTitlesFetchedAt": "2026-10-20T02:04:20.293200+00:00",
-      "collectedAt": "2026-10-20T11:04:20.293219+09:00",
-      "firstPublishedAt": "2026-10-20T02:04:20.381616+00:00"
-    },
-    {
       "id": "aagag-1663282-0",
       "url": "https://aagag.com/issue/?idx=1663282",
       "source": "애객",
@@ -11287,9 +11196,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 369,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
