@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T14:30:48.547778+09:00",
-  "windowEnd": "2026-10-21T14:22:50.154962+09:00",
+  "collectedAt": "2026-10-21T05:41:04.109652+00:00",
+  "windowEnd": "2026-10-21T14:41:03.995993+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5284,95 +5284,6 @@
       "sourceTitlesFetchedAt": "2026-10-21T01:22:52.408133+00:00",
       "collectedAt": "2026-10-21T10:22:52.408189+09:00",
       "firstPublishedAt": "2026-10-21T01:22:52.517091+00:00"
-    },
-    {
-      "id": "aagag-1663224-0",
-      "url": "https://aagag.com/issue/?idx=1663224",
-      "source": "애객",
-      "title": "성심당 불매하는 이유",
-      "publishedAt": "2026-10-20T14:20:44+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1SBK.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "분명 지능 이슈있음"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L1SBK.webp"
-      ],
-      "videos": [],
-      "excerpt": "분명 지능 이슈있음",
-      "reportedCommentCount": 11,
-      "commentsPartial": false,
-      "kCount": 23,
-      "commentCount": 11,
-      "laughingComments": 2,
-      "score": 23,
-      "kPerComment": 2.090909090909091,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8871350",
-          "text": "이상하다... 우리나라 의무교육 수준이 낮을리가 없는데..."
-        },
-        {
-          "id": "8871353",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋqt"
-        },
-        {
-          "id": "8871361",
-          "text": "콘돔이 반드시 필요한 이유네"
-        },
-        {
-          "id": "8871362",
-          "text": "많이ㅜ해라…. 너네가 한들 줄이 얼마나 줄어들겠드냐만…"
-        },
-        {
-          "id": "8871363",
-          "text": "더 무서운 이야기 해줌.... 저 지능들도...우리랑 같은 한표임...."
-        },
-        {
-          "id": "8871367",
-          "text": "대단하다 저런 뀨뀨들이 서울역에서 24시간 떠들지 미국 예수 찾으면서"
-        },
-        {
-          "id": "8871368",
-          "text": "현대 물건도 안 쓰면 인정"
-        },
-        {
-          "id": "8871370",
-          "text": "저 뀨뀨소리가 오죽어이가 없으면 펨코에서도 개비웃더라"
-        },
-        {
-          "id": "8871373",
-          "text": "쓰레드에 올라온 글이네 거긴 제정신이 별로 없는 듯"
-        },
-        {
-          "id": "8871379",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8871403",
-          "text": "이게 둘찍 평균 능지수준임.. 같은한표..."
-        }
-      ],
-      "commentsFetchedAt": "2026-10-20T14:38:27.412147+09:00",
-      "sourceTitles": [
-        "성심당 불매하는 이유",
-        "성심당 불매한다는 스레드",
-        "성심당 창업자도 '빨갱이'이네요",
-        "성심당 창업자도 '빨갱이'이네요"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-20T05:38:38.065671+00:00",
-      "collectedAt": "2026-10-20T14:38:38.065687+09:00",
-      "firstPublishedAt": "2026-10-20T05:38:38.159305+00:00"
     },
     {
       "id": "aagag-1663430-0",
@@ -11469,9 +11380,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 371,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
