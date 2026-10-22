@@ -200,6 +200,10 @@ def prepare(edition, run, reuse_research=False):
             missing = set(SECTIONS) - {s.get("category") for s in brief.get("stories", []) if s.get("placement") == "lead"}
             if missing and attempt == 0:
                 raise ValueError("Missing required news categories: " + ", ".join(sorted(missing)))
+            if os.environ.get('NEWS_REQUIRE_RESERVES') == '1' and (run / 'candidate-coverage.json').exists():
+                short = [c for c in SECTIONS if not any(s.get('category') == c and s.get('placement') == 'lead' and {a.get('rank') for a in s.get('alternatives', [])} == {2, 3} for s in brief.get('stories', []))]
+                if short:
+                    raise ValueError('Missing verified rank 2/3 alternatives: ' + ', '.join(short))
             check_rejected_candidates(brief, rejected)
             check_sources(brief, urls)
             validate(brief, history)
