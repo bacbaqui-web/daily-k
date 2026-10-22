@@ -22,7 +22,7 @@ async def main(urls):
             if r.request.resource_type in ('image','media','font') or not public_url(r.request.url): await r.abort()
             else: await r.continue_()
         await context.route('**/*',route)
-        for url in list(dict.fromkeys(urls))[:12]:
+        for url in list(dict.fromkeys(urls))[:21]:
             item={'url':url,'checkedAt':datetime.now(timezone.utc).isoformat(),'status':'failed'}
             page=await context.new_page()
             try:
@@ -39,7 +39,8 @@ async def main(urls):
                     if await node.is_visible(): texts.append(await node.inner_text(timeout=3000))
                 text=max(texts,key=len,default='')
                 if len(text.strip())<200: raise ValueError('article body too short')
-                item.update(status='read',finalUrl=page.url,title=title,text=text[:24000],pageContext=body[:3000])
+                metadata=await page.locator('meta[property="og:article:author"], meta[property="og:site_name"], meta[property="article:published_time"], .media_end_head_info_datestamp_time').evaluate_all('(xs)=>xs.map(x=>({key:x.getAttribute("property")||"date",value:x.getAttribute("content")||x.getAttribute("data-date-time")||x.innerText}))')
+                item.update(metadata=metadata,status='read',finalUrl=page.url,title=title,text=text[:12000],truncated=len(text)>12000)
             except Exception as e: item['error']=str(e)[:180]
             finally: await page.close()
             results.append(item)
