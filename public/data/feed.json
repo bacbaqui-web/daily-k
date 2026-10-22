@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-22",
-  "collectedAt": "2026-10-22T12:58:45.742361+00:00",
+  "collectedAt": "2026-10-22T13:00:12.092110+00:00",
   "windowEnd": "2026-10-22T21:58:45.634318+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9915,6 +9915,63 @@
       "firstPublishedAt": "2026-10-22T05:30:13.287339+00:00"
     },
     {
+      "id": "aagag-1663859-0",
+      "url": "https://aagag.com/issue/?idx=1663859",
+      "source": "애객",
+      "title": "ㅇㅎ) 코끼리 아저씨는 코가 손이래",
+      "publishedAt": "2026-10-22T21:55:20+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1mwO.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1mwO.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8882886",
+          "text": "이새.끼.. 코끼리 아닐지도 몰라"
+        },
+        {
+          "id": "8882889",
+          "text": "코끼리: 찰지구나"
+        },
+        {
+          "id": "8882894",
+          "text": "그래서 저새키 숫놈이여?"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-22T22:00:05.605291+09:00",
+      "sourceTitles": [
+        "호불호 갈린다는 코끼리아저씨",
+        "(후방) 코끼리 아저씨.mp4",
+        "ㅇㅎ) 코끼리 아저씨는 코가 손이래",
+        "ㅇㅎ) 코끼리 아저씨는 코가 손이래"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-22T13:00:12.023097+00:00",
+      "collectedAt": "2026-10-22T22:00:12.023113+09:00",
+      "firstPublishedAt": "2026-10-22T13:00:12.105271+00:00"
+    },
+    {
       "id": "aagag-1663601-0",
       "url": "https://aagag.com/issue/?idx=1663601",
       "source": "애객",
@@ -10307,7 +10364,7 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
