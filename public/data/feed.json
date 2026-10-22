@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-22",
-  "collectedAt": "2026-10-22T06:35:00.189843+00:00",
+  "collectedAt": "2026-10-22T06:35:50.506882+00:00",
   "windowEnd": "2026-10-22T15:35:00.089234+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8412,6 +8412,55 @@
       "firstPublishedAt": "2026-10-21T19:46:28.604137+00:00"
     },
     {
+      "id": "aagag-1663707-0",
+      "url": "https://aagag.com/issue/?idx=1663707",
+      "source": "애객",
+      "title": "ㅇㅎ?) 대만야구 챔피언을 가리는 타이완시리즈 명장면.mp4",
+      "publishedAt": "2026-10-22T15:34:16+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1iyv.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "은 김도아 치어리더"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1iyv.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "은 김도아 치어리더",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-22T15:35:45.103639+09:00",
+      "sourceTitles": [
+        "ㅇㅎ?) 대만야구 챔피언을 가리는 타이완시리즈 명장면.mp4",
+        "약후)대만야구 챔피언을 가리는 타이완시리즈 명장면",
+        "ㅇㅎ?) 대만야구 챔피언을 가리는 타이완시리즈 명장면.mp4",
+        "ㅇㅎ?) 대만야구 챔피언을 가리는 타이완시리즈 명장면.mp4",
+        "[ㅇㅎ] 대만 야구중계에 잡힌 김도아 치어리더"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-22T06:35:50.434650+00:00",
+      "collectedAt": "2026-10-22T15:35:50.434666+09:00",
+      "firstPublishedAt": "2026-10-22T06:35:50.518406+00:00"
+    },
+    {
       "id": "aagag-1663697-0",
       "url": "https://aagag.com/issue/?idx=1663697",
       "source": "애객",
@@ -8630,7 +8679,7 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
