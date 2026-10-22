@@ -1,6 +1,155 @@
 {
-  "editionCount": 71,
+  "editionCount": 72,
   "issues": [
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "typhoon-champi-korea-outlook-2026",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "기상청이 25일 최근접과 남쪽 해상 특보 가능성을 제시했습니다. 실제 경로·특보는 미확정입니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "발표",
+        "storyId": "20261022-pm-safe-01",
+        "title": "기상청, 태풍 참피 25일 최근접 예상…남쪽 해상 특보 가능성"
+      },
+      "path": "typhoon-champi-korea-outlook-2026.json",
+      "title": "태풍 참피의 한반도 주변 경로와 해상 영향"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "school-google-account-hacking-2026",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "20일 기준 피해 계정과 21일 18시 기준 비밀번호 변경 규모가 공개됐습니다. 두 집계는 합산하지 않습니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "보도",
+        "storyId": "20261022-pm-soc-01",
+        "title": "학교 구글 계정 11만2,890개 피해…359만여개 비밀번호 변경"
+      },
+      "path": "school-google-account-hacking-2026.json",
+      "title": "학교 구글 계정 해킹 피해와 계정 보호 조치"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "samsung-electromechanics-nvidia-substrate-partnership",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "전용 생산라인 구축과 다년 공급 계획이 발표됐습니다. 투자·가동 완료는 확인되지 않았습니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "발표",
+        "storyId": "20261022-pm-tech-01",
+        "title": "삼성전기·엔비디아, AI 패키지기판 장기 공급·전용 생산라인 구축 발표"
+      },
+      "path": "samsung-electromechanics-nvidia-substrate-partnership.json",
+      "title": "삼성전기·엔비디아 AI 패키지기판 공급 협력"
+    },
+    {
+      "categories": [
+        "과학·기술",
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "php-security-patch-early-disclosure-2026",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "정부가 민간 사이버위기 경보를 주의로 상향했습니다. 실제 침해 범위와 피해 규모는 별도 확인 대상입니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "후속",
+        "storyId": "20261022-pm-pol-01",
+        "title": "정부, PHP 취약점 대응 민간 사이버위기 경보 ‘주의’ 격상"
+      },
+      "path": "php-security-patch-early-disclosure-2026.json",
+      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "google-piracy-clone-sites-response-2026",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "구글이 본사 기술 검토 요청을 답변했습니다. 새 기술 적용·해결 일정·차단 성과는 미확정입니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "보도",
+        "storyId": "20261022-pm-web-01",
+        "title": "불법 웹툰 복제 사이트 대응 질의에 구글 “본사 기술 검토 요청”"
+      },
+      "path": "google-piracy-clone-sites-response-2026.json",
+      "title": "구글의 불법 복제 사이트 대응과 기술 검토"
+    },
+    {
+      "categories": [
+        "국제·사회",
+        "국제정세"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "france-cost-of-living-protests-2026-10-17",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "일부 도시의 예정 시위 금지가 보도됐습니다. 24일 보안 작전은 준비 단계입니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "후속",
+        "storyId": "20261022-pm-int-01",
+        "title": "프랑스, 파리·리옹 등 일부 도시 예정 시위 금지"
+      },
+      "path": "france-cost-of-living-protests-2026-10-17.json",
+      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "bok-october-2026-rate-decision",
+      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "기준금리 연 3.00% 만장일치 동결이 확인됐습니다. 향후 인상 종료를 뜻하지는 않습니다.",
+        "editionId": "2026-10-22-pm",
+        "stage": "결과",
+        "storyId": "20261022-pm-eco-01",
+        "title": "한국은행, 기준금리 연 3.00% 만장일치 동결"
+      },
+      "path": "bok-october-2026-rate-decision.json",
+      "title": "2026년 10월 한국은행 기준금리 결정"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -112,27 +261,6 @@
       },
       "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
       "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
-      "firstCoveredDate": "2026-10-22",
-      "id": "php-security-patch-early-disclosure-2026",
-      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
-      "lastCoveredDate": "2026-10-22",
-      "latest": {
-        "archive": false,
-        "change": "보안 수정 내용의 조기 노출과 특정 조건의 원격 코드 실행 위험이 보도됐습니다. 실제 악용 피해는 미확인입니다.",
-        "editionId": "2026-10-22-am",
-        "stage": "보도",
-        "storyId": "20261022-am-tech-01",
-        "title": "PHP 보안 수정 내용 약 6시간 조기 노출…조건부 원격 코드 실행 위험 보도"
-      },
-      "path": "php-security-patch-early-disclosure-2026.json",
-      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
     },
     {
       "categories": [
@@ -859,28 +987,6 @@
     },
     {
       "categories": [
-        "국제·사회",
-        "국제정세"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "france-cost-of-living-protests-2026-10-17",
-      "lastCoveredAt": "2026-10-19T09:07:11.485297+09:00",
-      "lastCoveredDate": "2026-10-19",
-      "latest": {
-        "archive": false,
-        "change": "체포·경찰 부상 규모에 관한 당국 발표가 추가 보도됐습니다. 참가자 사망과 시위·진압의 직접 연관성은 미확인입니다.",
-        "editionId": "2026-10-19-am",
-        "stage": "후속",
-        "storyId": "france-protests-damage-arrests-2026-10-19",
-        "title": "프랑스 시위 후속…내무장관 “약 2천명 체포·경찰 600명 이상 부상”"
-      },
-      "path": "france-cost-of-living-protests-2026-10-17.json",
-      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
-    },
-    {
-      "categories": [
         "국내정치·외교"
       ],
       "eventCount": 1,
@@ -1132,27 +1238,6 @@
       },
       "path": "bucheon-metal-coating-factory-fire-2026.json",
       "title": "부천 금속 도장공장 화재와 안전 조사"
-    },
-    {
-      "categories": [
-        "경제·생활경제"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "bok-october-2026-rate-decision",
-      "lastCoveredAt": "2026-10-18T21:13:10+09:00",
-      "lastCoveredDate": "2026-10-18",
-      "latest": {
-        "archive": false,
-        "change": "한국은행의 기준금리 결정을 앞두고 현재 연 3.00%를 유지할 것이라는 전망이 나오고 있습니다. 대출이자와 가계 부담에 영향을 주는 결정으로, 금리는 22일 회의에서 확정됩니다.",
-        "editionId": "2026-10-18-pm",
-        "stage": "분석",
-        "storyId": "bok-october-rate-outlook-2026-10-18",
-        "title": "22일 한국은행 금리 결정 앞두고 동결 전망"
-      },
-      "path": "bok-october-2026-rate-decision.json",
-      "title": "2026년 10월 한국은행 기준금리 결정"
     },
     {
       "categories": [
@@ -6189,7 +6274,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 543,
+  "storyCount": 550,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-22T09:10:05.275993+09:00"
+  "updatedAt": "2026-10-22T21:22:01.872756+09:00"
 }
