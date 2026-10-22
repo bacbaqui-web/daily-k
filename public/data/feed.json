@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-22",
-  "collectedAt": "2026-10-22T20:06:48.341979+09:00",
-  "windowEnd": "2026-10-22T19:58:24.080162+09:00",
+  "collectedAt": "2026-10-22T11:17:04.112424+00:00",
+  "windowEnd": "2026-10-22T20:17:04.008312+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10026,75 +10026,6 @@
       "firstPublishedAt": "2026-10-21T13:01:11.536476+00:00"
     },
     {
-      "id": "aagag-1663578-0",
-      "url": "https://aagag.com/issue/?idx=1663578",
-      "source": "애객",
-      "title": "비키니 사진 올린 치어리더 그리고 댓글",
-      "publishedAt": "2026-10-21T20:08:25+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1iHm.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1iI0.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1iI5.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "서현숙: 와크다"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L1iHm.webp",
-        "https://i.aagag.com/o/L1iI0.webp",
-        "https://i.aagag.com/o/L1iI5.webp"
-      ],
-      "videos": [],
-      "excerpt": "서현숙: 와크다",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8877945",
-          "text": "헐 대박"
-        },
-        {
-          "id": "8877949",
-          "text": "와크다"
-        },
-        {
-          "id": "8877950",
-          "text": "와 쩐다"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-21T20:14:45.441569+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 비키니 사진 올린 치어리더와 댓글ㅋㅋㅋㅋ",
-        "비키니 사진 올린 치어리더 그리고 댓글",
-        "ㅇㅎ) 비키니 사진 올린 치어리더와 댓글ㅋㅋㅋㅋ",
-        "ㅇㅎ) 비키니 사진 올린 치어리더 그리고 댓글ㅋㅋㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-21T11:14:58.853753+00:00",
-      "collectedAt": "2026-10-21T20:14:58.853769+09:00",
-      "firstPublishedAt": "2026-10-21T11:14:58.988655+00:00"
-    },
-    {
       "id": "aagag-1663641-0",
       "url": "https://aagag.com/issue/?idx=1663641",
       "source": "애객",
@@ -10430,9 +10361,9 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
