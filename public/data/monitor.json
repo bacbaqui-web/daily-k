@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "state": "stopped",
-  "updatedAt": "2026-10-22T17:06:04.324491+00:00",
+  "state": "running",
+  "updatedAt": "2026-10-22T17:09:59.043165+00:00",
   "lastSuccessAt": "2026-10-22T17:05:58.653877+00:00",
   "delaySeconds": 15,
-  "stoppedAt": "2026-10-22T17:06:04.324491+00:00",
-  "message": "모니터링이 멈췄습니다. 새 글과 댓글 갱신이 중단된 상태입니다.",
+  "startedAt": "2026-10-22T17:09:59.043165+00:00",
+  "expectedUpdateBy": "2026-10-22T20:19:59.043165+00:00",
   "collectorHost": "oracle"
 }
