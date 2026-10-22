@@ -66,6 +66,27 @@ def check_sources(brief, urls):
         if canonical_url(event['source']['url']) not in known:
             raise ValueError('Event URL absent from research evidence')
 
+def check_reserve_coverage(brief, ledger, rejected=(), strict=False):
+    """Do not drop verified reserves between research and the publication draft."""
+    from publish import canonical_url
+    rejected_urls = {canonical_url(u) for item in rejected for u in item.get('urls', [])}
+    for category in SECTIONS:
+        candidates = {canonical_url(c['url']) for c in ledger.get('candidates', [])
+                      if c.get('category') == category and c.get('rank') in (1, 2, 3)
+                      and c.get('url') and canonical_url(c['url']) not in rejected_urls}
+        required = 2 if strict else min(2, max(0, len(candidates) - 1))
+        if not required:
+            continue
+        lead = next((s for s in brief['stories'] if s.get('category') == category
+                     and s.get('placement') == 'lead'), None)
+        alternatives = lead.get('alternatives', []) if lead else []
+        ranks = {a.get('rank') for a in alternatives}
+        urls = {canonical_url(a['url']) for a in alternatives}
+        if lead:
+            urls.discard(canonical_url(lead['representativeUrl']))
+        if not set(range(2, 2 + required)).issubset(ranks) or len(urls) < required:
+            raise ValueError('Verified reserves omitted from draft: ' + category)
+
 PUBLISHER_FIELDS = ("finalizedAt", "scheduledFor", "recordId", "publicationMode",
                     "newsInputSha256", "publishedAt", "deployedAt")
 
@@ -200,10 +221,9 @@ def prepare(edition, run, reuse_research=False):
             missing = set(SECTIONS) - {s.get("category") for s in brief.get("stories", []) if s.get("placement") == "lead"}
             if missing and attempt == 0:
                 raise ValueError("Missing required news categories: " + ", ".join(sorted(missing)))
-            if os.environ.get('NEWS_REQUIRE_RESERVES') == '1' and (run / 'candidate-coverage.json').exists():
-                short = [c for c in SECTIONS if not any(s.get('category') == c and s.get('placement') == 'lead' and {a.get('rank') for a in s.get('alternatives', [])} == {2, 3} for s in brief.get('stories', []))]
-                if short:
-                    raise ValueError('Missing verified rank 2/3 alternatives: ' + ', '.join(short))
+            if (run / 'candidate-coverage.json').exists():
+                check_reserve_coverage(brief, json.loads((run / 'candidate-coverage.json').read_text()),
+                                       rejected, strict=os.environ.get('NEWS_REQUIRE_RESERVES') == '1')
             check_rejected_candidates(brief, rejected)
             check_sources(brief, urls)
             validate(brief, history)
