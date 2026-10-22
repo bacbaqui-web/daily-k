@@ -1,6 +1,160 @@
 {
-  "editionCount": 70,
+  "editionCount": 71,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "webtoonrun-chungbuk-creator-support-2026",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "최종 순위와 상위 4명에 대한 정식 연재 기회가 보도됐습니다. 계약 완료·연재 개시는 미확인입니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "보도",
+        "storyId": "20261022-am-web-01",
+        "title": "‘웹툰런 인 충북’ 최종 순위 발표…상위 4명에 정식 연재 기회 안내"
+      },
+      "path": "webtoonrun-chungbuk-creator-support-2026.json",
+      "title": "웹툰런 인 충북 최종 순위와 정식 연재 지원"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 26,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "미국 3대 지수가 모두 상승 마감했습니다. 국내 시장 반응과 상승 지속성은 미확인입니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "결과",
+        "storyId": "20261022-am-eco-01",
+        "title": "뉴욕증시 3대 지수 상승…나스닥 1.05% 올라"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "unconnected-residents-disability-facilities-survey-2025",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "2025년 조사 대상 107곳의 무연고 이용자 2,453명·34.7%가 보도됐습니다. 전체 시설 비율은 아닙니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "보도",
+        "storyId": "20261022-am-soc-01",
+        "title": "대형 장애인 거주시설 107곳 조사…무연고 이용자 2,453명·34.7%"
+      },
+      "path": "unconnected-residents-disability-facilities-survey-2025.json",
+      "title": "장애인 거주시설 무연고 이용자와 장기 돌봄"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "trade-measures-business-support-expansion-2026",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "기업 지원 범위 확대 법령 시행이 보도됐습니다. 개별 지원 승인·지급은 미확인입니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "시행",
+        "storyId": "20261022-am-pol-01",
+        "title": "외국 통상조치 피해 기업까지 지원 확대…개정 법령 시행"
+      },
+      "path": "trade-measures-business-support-expansion-2026.json",
+      "title": "외국 통상조치 피해 기업 지원 범위 확대"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "러시아 측이 11월 중순 아부다비 협상 개최 방안을 설명했습니다. 당사국 전체의 최종 합의는 미확인입니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "후속",
+        "storyId": "20261022-am-int-01",
+        "title": "러시아, 내달 중순 아부다비 종전 협상 개최 방안 검토"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "php-security-patch-early-disclosure-2026",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "보안 수정 내용의 조기 노출과 특정 조건의 원격 코드 실행 위험이 보도됐습니다. 실제 악용 피해는 미확인입니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "보도",
+        "storyId": "20261022-am-tech-01",
+        "title": "PHP 보안 수정 내용 약 6시간 조기 노출…조건부 원격 코드 실행 위험 보도"
+      },
+      "path": "php-security-patch-early-disclosure-2026.json",
+      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "daegu-gyeongbuk-subzero-observations-2026-10",
+      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "lastCoveredDate": "2026-10-22",
+      "latest": {
+        "archive": false,
+        "change": "06시 기준 봉화 석포 영하 2.2도 등 영하권 기온과 안동 첫서리가 보도됐습니다.",
+        "editionId": "2026-10-22-am",
+        "stage": "결과",
+        "storyId": "20261022-am-safe-01",
+        "title": "대구·경북 올가을 첫 영하권…봉화 석포 영하 2.2도 관측"
+      },
+      "path": "daegu-gyeongbuk-subzero-observations-2026-10.json",
+      "title": "2026년 10월 대구·경북 영하권 기온과 첫서리"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -175,33 +329,6 @@
     },
     {
       "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 25,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
-      "lastCoveredDate": "2026-10-21",
-      "latest": {
-        "archive": false,
-        "change": "다우는 1.02%, S&P500은 0.28% 상승했고 나스닥은 0.02% 하락했습니다.",
-        "editionId": "2026-10-21-am",
-        "stage": "결과",
-        "storyId": "20261021-am-eco-01",
-        "title": "뉴욕증시 혼조…다우 1.02% 상승·나스닥 0.02% 하락"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
-    },
-    {
-      "categories": [
         "정치·정책"
       ],
       "eventCount": 1,
@@ -220,28 +347,6 @@
       },
       "path": "super-regional-special-zone-labor-bill-2026.json",
       "title": "초광역특구법 노동규제 특례와 입법 논의"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
-      "lastCoveredDate": "2026-10-21",
-      "latest": {
-        "archive": false,
-        "change": "오슬로에서 우크라이나 휴전 관련 회동이 열렸습니다. 휴전 체결과 러시아의 수용은 확인되지 않았습니다.",
-        "editionId": "2026-10-21-am",
-        "stage": "후속",
-        "storyId": "20261021-am-int-01",
-        "title": "젤렌스키·위트코프, 오슬로서 우크라이나 휴전 논의"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
     },
     {
       "categories": [
@@ -6084,7 +6189,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 536,
+  "storyCount": 543,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-21T21:12:20.892212+09:00"
+  "updatedAt": "2026-10-22T09:10:05.275993+09:00"
 }
