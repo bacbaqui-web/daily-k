@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-23",
-  "collectedAt": "2026-10-23T03:13:45.664194+09:00",
-  "windowEnd": "2026-10-23T03:09:26.928300+09:00",
+  "collectedAt": "2026-10-22T18:24:05.782380+00:00",
+  "windowEnd": "2026-10-23T03:24:05.682131+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10239,57 +10239,12 @@
       "sourceTitlesFetchedAt": "2026-10-22T01:13:40.367949+00:00",
       "collectedAt": "2026-10-22T10:13:40.367979+09:00",
       "firstPublishedAt": "2026-10-22T01:13:40.470603+00:00"
-    },
-    {
-      "id": "aagag-1663634-0",
-      "url": "https://aagag.com/issue/?idx=1663634",
-      "source": "애객",
-      "title": "ㅇㅎ) 지금은 못보는 트위터 누나",
-      "publishedAt": "2026-10-22T03:08:02+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L1did.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L1did.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-10-22T03:14:31.745032+09:00",
-      "sourceTitles": [
-        "호불호 갈린다는 슬렌더",
-        "ㅇㅎ) 지금은 못보는 트위터 누나",
-        "ㅇㅎ) 지금은 못보는 트위터 누나",
-        "몸이 야한 몸매.gif",
-        "몸이 야하다는건 이런 몸매를 두고 하는말"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-21T18:14:44.389167+00:00",
-      "collectedAt": "2026-10-22T03:14:44.389185+09:00",
-      "firstPublishedAt": "2026-10-21T18:14:44.494643+00:00"
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 352,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
