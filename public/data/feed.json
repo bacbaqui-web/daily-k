@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-22",
-  "collectedAt": "2026-10-22T03:30:28.406758+00:00",
+  "collectedAt": "2026-10-22T03:33:33.931160+00:00",
   "windowEnd": "2026-10-22T12:30:28.307377+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7737,6 +7737,87 @@
       "firstPublishedAt": "2026-10-21T04:32:49.762971+00:00"
     },
     {
+      "id": "aagag-1663716-0",
+      "url": "https://aagag.com/issue/?idx=1663716",
+      "source": "애객",
+      "title": "길 한복판 민폐 복장.mp4",
+      "publishedAt": "2026-10-22T12:16:45+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1nvk.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1nvk.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 9,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8880450",
+          "text": "ㅠㅠ 실제로 못봐서 민폐인가? 어디로 가야볼수있져?"
+        },
+        {
+          "id": "8880453",
+          "text": "남대문열렸대요~"
+        },
+        {
+          "id": "8880454",
+          "text": "리본이 킥이다  하악하악"
+        },
+        {
+          "id": "8880456",
+          "text": "골반때문에 저렇게 입어도 안내려가는건가"
+        },
+        {
+          "id": "8880458",
+          "text": "요즘 저렇게 살짝 열어재끼는게 유행인가보네요. 옳은 유행인듯. 주섬주섬"
+        },
+        {
+          "id": "8880467",
+          "text": "https://aagag.com/issue/?idx=1661205 장원영 짤"
+        },
+        {
+          "id": "8880462",
+          "text": "새깅 업그레이드 버젼인가 좋다"
+        },
+        {
+          "id": "8880474",
+          "text": "하....세상은 참 아름답구만"
+        },
+        {
+          "id": "8880499",
+          "text": ""
+        }
+      ],
+      "commentsFetchedAt": "2026-10-22T12:33:23.566518+09:00",
+      "sourceTitles": [
+        "호불호 슬렌더",
+        "호불호 슬랜더",
+        "민폐복장 ㅇㅎ",
+        "길 한복판 민폐 복장.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-22T03:33:33.851011+00:00",
+      "collectedAt": "2026-10-22T12:33:33.851031+09:00",
+      "firstPublishedAt": "2026-10-22T03:33:33.944137+00:00"
+    },
+    {
       "id": "aagag-1663601-0",
       "url": "https://aagag.com/issue/?idx=1663601",
       "source": "애객",
@@ -8202,7 +8283,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
