@@ -68,7 +68,7 @@ def check_sources(brief, urls):
             raise ValueError('Representative URL absent from research evidence')
     for event in brief['events']:
         if evidence_key(event['source']['url']) not in known:
-            raise ValueError('Event URL absent from research evidence')
+            raise ValueError('Event URL absent from research evidence: ' + event['source']['url'])
 
 def check_reserve_coverage(brief, ledger, rejected=(), strict=False):
     """Do not drop verified reserves between research and the publication draft."""
@@ -214,12 +214,16 @@ def prepare(edition, run, reuse_research=False):
 사용 가능한 실제 URL: {json.dumps(sorted(urls), ensure_ascii=False)}'''
     last_error = ''
     rejected = []
+    previous_draft = ''
     for attempt in range(8):
         response = run_codex(prompt +
             "\n후보 순위대로 각 분야 1위부터 선택하세요. 아래 파기 목록의 기사 및 동일 사건은 재사용하지 말고 같은 분야의 다음 순위 검증 후보로 교체하세요. 7개 분야를 유지하세요. 미확인 기사 삭제 후 분야를 비우는 것은 최후 수단이며 검증된 예비 후보를 먼저 모두 검토해야 합니다." +
             "\n파기 후보: " + json.dumps(rejected, ensure_ascii=False) +
-            "\n이전 검증 오류: " + last_error)
+            "\n이전 검증 오류: " + last_error +
+            "\n수정할 기존 초안: " + previous_draft +
+            "\n기존 초안이 있으면 정상 기사와 문구는 보존하고 지적된 필드/기사만 수정하세요. 전체 재선정·재작성하지 마세요. URL은 사용 가능한 실제 URL 중 일치하는 주소로 고치세요.")
         save(run / f'draft-response-{attempt}.json', response)
+        previous_draft = extract(response)
         try:
             brief = stamp(json.loads(extract(response))['brief'], edition, verified_at)
             missing = set(SECTIONS) - {s.get("category") for s in brief.get("stories", []) if s.get("placement") == "lead"}
@@ -232,7 +236,7 @@ def prepare(edition, run, reuse_research=False):
             check_sources(brief, urls)
             validate(brief, history)
             # A second pass checks factual support and selection, not just JSON shape.
-            review = run_codex('JSON으로만 답하세요: {"approved":boolean,"problems":[string],"rejectedStoryIds":[string]}. '
+            review = run_codex('JSON으로만 답하세요: {"approved":boolean,"problems":[string],"notes":[string],"rejectedStoryIds":[string]}. problems는 발행 전에 반드시 고쳐야 하는 오류만 넣고, 비교 한계·참고 의견은 notes에 넣으세요. approved=true이면 problems는 빈 배열이어야 합니다. '
                          'generatedAt과 verifiedAt은 실행 프로그램의 실제 시각이며 기사 발표시각이 아닙니다. scoreComponents는 출처 사실이 아닌 편집자 평가입니다. 이 두 가지를 원문에 없다는 이유로 거부하지 마세요. '
                          '기존 validator가 중복/이슈 연결/발행시각을 검사했습니다. 아래 기존 회차와 이슈 목록도 대조하세요. '
                          '뉴스 초안의 기사 사실/발표날짜/출처가 조사 근거에 있는지 검토하세요. 기사 내용 오류·근거 부족·추정 URL 등 실패한 기사의 정확한 id를 rejectedStoryIds에 기록하세요. 단순 JSON 형식 오류는 기사를 파기하지 않습니다. '
