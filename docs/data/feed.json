@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-23",
-  "collectedAt": "2026-10-23T16:11:26.658211+09:00",
-  "windowEnd": "2026-10-23T15:56:50.070837+09:00",
+  "collectedAt": "2026-10-23T07:21:45.244205+00:00",
+  "windowEnd": "2026-10-23T16:21:45.123821+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8719,67 +8719,6 @@
       "firstPublishedAt": "2026-10-23T05:55:22.347209+00:00"
     },
     {
-      "id": "aagag-1663770-0",
-      "url": "https://aagag.com/issue/?idx=1663770",
-      "source": "애객",
-      "title": "광수버블의 팬덤명 만드는법...twt",
-      "publishedAt": "2026-10-22T16:10:20+09:00",
-      "content": [
-        {
-          "type": "text",
-          "text": "X 게시물을 불러오는 중입니다"
-        },
-        {
-          "type": "text",
-          "text": "X에서 보기"
-        },
-        {
-          "type": "text",
-          "text": "https://x.com/wbdolja/status/2112421142598500636"
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L1XcF.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L1XcF.webp"
-      ],
-      "videos": [],
-      "excerpt": "X 게시물을 불러오는 중입니다\nX에서 보기\nhttps://x.com/wbdolja/status/2112421142598500636",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 13,
-      "commentCount": 2,
-      "laughingComments": 2,
-      "score": 13,
-      "kPerComment": 6.5,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8881507",
-          "text": "팬클럽 가입하다가 공동인증서 찾게 생김ㅋㅋ"
-        },
-        {
-          "id": "8881516",
-          "text": "프사 또 뭐야 ㅋㅋㅋㅋ 뭐 이렇게 자주 바꿔 ㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-22T16:16:15.869504+09:00",
-      "sourceTitles": [
-        "진짜 광수 버블 하는 사람들 돈은 안 아까울듯.jpg",
-        "이광수 버블) 드디어 정해진 이광수 팬덤 네임",
-        "이광수 버블) 광수 바보 아니다",
-        "광수버블의 팬덤명 만드는법...twt"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-22T07:16:21.798875+00:00",
-      "collectedAt": "2026-10-22T16:16:21.798893+09:00",
-      "firstPublishedAt": "2026-10-22T07:16:21.879614+00:00"
-    },
-    {
       "id": "aagag-1663997-0",
       "url": "https://aagag.com/issue/?idx=1663997",
       "source": "애객",
@@ -12643,9 +12582,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 373,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
