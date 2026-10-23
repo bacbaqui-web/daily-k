@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-23",
-  "collectedAt": "2026-10-23T05:31:26.820679+00:00",
+  "collectedAt": "2026-10-23T05:36:45.943482+00:00",
   "windowEnd": "2026-10-23T13:48:18.315726+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8634,6 +8634,94 @@
       "firstPublishedAt": "2026-10-22T10:27:08.031381+00:00"
     },
     {
+      "id": "aagag-1663928-0",
+      "url": "https://aagag.com/issue/?idx=1663928",
+      "source": "애객",
+      "title": "츄가 생각하는 자신의 컴플렉스 .mp4",
+      "publishedAt": "2026-10-23T09:48:06+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/HTXCV.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/HTXCi.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "그런데 말할때마다 문상훈에게 치명타"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/HTXCV.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/HTXCi.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "그런데 말할때마다 문상훈에게 치명타",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 6,
+      "laughingComments": 5,
+      "score": 11,
+      "kPerComment": 1.8333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8884359",
+          "text": "안 맥일듯이 하다가 툭 놓음 ㅋㅋ"
+        },
+        {
+          "id": "8884375",
+          "text": "스치는 것 하나하나가 치명타네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8884588",
+          "text": "치명타가 패시브군요"
+        },
+        {
+          "id": "8884394",
+          "text": "귀엽게 돌려까넼ㅋㅋ"
+        },
+        {
+          "id": "8884407",
+          "text": "(다소 의역) 너 양치 잘 안하지? ㅋ"
+        },
+        {
+          "id": "8884513",
+          "text": "어렵다… ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-23T14:36:33.719705+09:00",
+      "sourceTitles": [
+        "츄가 생각하는 자신의 컴플렉스 .mp4",
+        "순수악 츄.mp4",
+        "상대방을 기분 나쁘지 않게 잘 패는 츄.mp4",
+        "순수악 츄.mp4",
+        "츄의 컴플렉스",
+        "쉬지않고 딜 넣는 츄",
+        "츄가 생각하는 자신의 컴플렉스 .mp4",
+        "문상훈 딱대 진행하면서 최대 위기",
+        "문상훈 딱대 진행하면서 최대 위기.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 9,
+      "sourceTitlesFetchedAt": "2026-10-23T05:36:45.853916+00:00",
+      "collectedAt": "2026-10-23T14:36:45.853933+09:00",
+      "firstPublishedAt": "2026-10-23T05:36:45.973172+00:00"
+    },
+    {
       "id": "aagag-1663998-0",
       "url": "https://aagag.com/issue/?idx=1663998",
       "source": "애객",
@@ -9679,7 +9767,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 75,
+  "candidateCount": 92,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
