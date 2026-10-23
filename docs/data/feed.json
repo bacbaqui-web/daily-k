@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-23",
-  "collectedAt": "2026-10-23T06:00:26.543596+00:00",
+  "collectedAt": "2026-10-23T06:06:25.967393+00:00",
   "windowEnd": "2026-10-23T13:48:18.315726+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7283,6 +7283,75 @@
       "firstPublishedAt": "2026-10-23T05:29:41.735022+00:00"
     },
     {
+      "id": "aagag-1663911-0",
+      "url": "https://aagag.com/issue/?idx=1663911",
+      "source": "애객",
+      "title": "장거리 연애의 위험성.jpg",
+      "publishedAt": "2026-10-23T05:38:18+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1B8t.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L1B8t.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 7,
+      "laughingComments": 1,
+      "score": 14,
+      "kPerComment": 2.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8883603",
+          "text": "불기침?"
+        },
+        {
+          "id": "8883605",
+          "text": "불기침이 잠을 자지 않았다는 그런 뜻인가?"
+        },
+        {
+          "id": "8883850",
+          "text": "원문 찾아보니까 후테네라고 해서 홧김에 자는 행동을 말한다고 함. 그나저나 이게 왜 다시 올라왔나 했더니.... 이 사람 계정, 이틀 전 날짜로 - 여친에게 계정 들켰다 - 라는 글이 올라왔네요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8883609",
+          "text": "100킬로면 가깝네"
+        },
+        {
+          "id": "8883614",
+          "text": "아니 라고 말하면 왠지 살해당할거 같아"
+        },
+        {
+          "id": "8883851",
+          "text": "일단 앉아봐. 그리고 손에든건 뭐야?"
+        },
+        {
+          "id": "8884068",
+          "text": "100키로면 생각보다 가까운데"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-23T15:06:18.972893+09:00",
+      "sourceTitles": [
+        "장거리 연애가 매우 위험한 이유",
+        "장거리 연애의 위험성.jpg",
+        "장거리 연애가 매우 위험한 이유.jpg",
+        "장거리 연애가 매우 위험한 이유.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-23T06:06:25.877199+00:00",
+      "collectedAt": "2026-10-23T15:06:25.877214+09:00",
+      "firstPublishedAt": "2026-10-23T06:06:25.983887+00:00"
+    },
+    {
       "id": "aagag-1664015-0",
       "url": "https://aagag.com/issue/?idx=1664015",
       "source": "애객",
@@ -11940,7 +12009,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 126,
+  "candidateCount": 142,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
