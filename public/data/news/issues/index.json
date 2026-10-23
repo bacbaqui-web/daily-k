@@ -1,6 +1,154 @@
 {
-  "editionCount": 73,
+  "editionCount": 74,
   "issues": [
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "snu-hospital-labor-negotiations-2026",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "노조가 28일 무기한 전면파업 방침을 밝혔습니다. 실제 파업과 진료 운영 범위는 미확인입니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "예정",
+        "storyId": "20261023-pm-soc-01",
+        "title": "서울대병원 노조, 인력 충원 요구하며 28일 무기한 파업 예고"
+      },
+      "path": "snu-hospital-labor-negotiations-2026.json",
+      "title": "서울대병원 노사 교섭과 파업 예고"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "oh-sehoon-political-funds-trial",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "항소심이 원심 유죄 부분을 파기하고 무죄를 선고했습니다. 최종 확정은 확인되지 않았습니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "결과",
+        "storyId": "20261023-pm-pol-01",
+        "title": "오세훈 정치자금법 사건 항소심 무죄…1심 유죄 판단 뒤집혀"
+      },
+      "path": "oh-sehoon-political-funds-trial.json",
+      "title": "오세훈 정치자금법 사건 재판"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "moderna-msd-personalized-mrna-melanoma-phase3",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "흑색종 3상에서 병용군 재발·사망 위험 42% 감소가 발표됐습니다. 전체생존 효과와 품목허가는 미확인입니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "발표",
+        "storyId": "20261023-pm-tech-01",
+        "title": "모더나·MSD, 흑색종 3상서 병용군 재발·사망 위험 42% 감소 발표"
+      },
+      "path": "moderna-msd-personalized-mrna-melanoma-phase3.json",
+      "title": "모더나·MSD 맞춤형 mRNA 흑색종 치료제 임상 3상"
+    },
+    {
+      "categories": [
+        "사회·사건",
+        "생활·안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
+      "firstCoveredDate": "2026-10-13",
+      "id": "incheon-guwol-commercial-complex-stabbing",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "피의자 구속송치와 보호관찰소 금속탐지기 미작동, 법무부 점검 방침이 보도됐습니다. 이번 부상자 보도는 10명이며 형사책임은 미확정입니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "후속",
+        "storyId": "20261023-pm-safe-01",
+        "title": "인천 흉기 난동 피의자 송치…보호관찰소 금속탐지기 미작동 보도"
+      },
+      "path": "incheon-guwol-commercial-complex-stabbing.json",
+      "title": "인천 구월동 상업시설 흉기 난동 수사"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "houthi-saudi-facility-attacks-2026-10",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "후티의 주요 시설 공격 주장과 사우디 당국의 사상자 발표가 보도됐습니다. 공격 범위와 아람코 대피령은 주장·전언으로 남아 있습니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "보도",
+        "storyId": "20261023-pm-int-01",
+        "title": "후티, 사우디 주요 시설 공격 주장…사우디 당국 “2명 사망·8명 부상”"
+      },
+      "path": "houthi-saudi-facility-attacks-2026-10.json",
+      "title": "후티의 사우디 주요 시설 공격 주장과 피해"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "hd-hyundai-kiewit-us-shipyard-jv",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "합작법인 설립 계약이 체결됐습니다. 위치·지분과 실제 착공·가동은 미확정입니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "발표",
+        "storyId": "20261023-pm-eco-01",
+        "title": "HD현대·키윗, 미국 신규 조선소 추진 합작법인 계약"
+      },
+      "path": "hd-hyundai-kiewit-us-shipyard-jv.json",
+      "title": "HD현대·키윗 미국 조선소 합작사업"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "daou-kiwoom-munhakdongne-acquisition",
+      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "lastCoveredDate": "2026-10-23",
+      "latest": {
+        "archive": false,
+        "change": "다우키움그룹이 우선협상대상자로 선정됐다는 임직원 발표가 보도됐습니다. 계약·실사와 인수 완료는 남아 있습니다.",
+        "editionId": "2026-10-23-pm",
+        "stage": "보도",
+        "storyId": "20261023-pm-web-01",
+        "title": "다우키움그룹, 문학동네 인수 우선협상대상자로 선정"
+      },
+      "path": "daou-kiwoom-munhakdongne-acquisition.json",
+      "title": "다우키움그룹의 문학동네 인수 협상"
+    },
     {
       "categories": [
         "국제정세"
@@ -2061,27 +2209,6 @@
       },
       "path": "india-inflation-cpi.json",
       "title": "인도 소비자물가와 통화정책"
-    },
-    {
-      "categories": [
-        "사회·사건"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-13T21:10:50+09:00",
-      "firstCoveredDate": "2026-10-13",
-      "id": "incheon-guwol-commercial-complex-stabbing",
-      "lastCoveredAt": "2026-10-13T21:10:50+09:00",
-      "lastCoveredDate": "2026-10-13",
-      "latest": {
-        "archive": false,
-        "change": "상업시설에서 8명이 다치는 사건이 발생했고 피의자가 체포됐습니다. 부상자 치료와 범행 동기는 조사 중입니다.",
-        "editionId": "2026-10-13-pm",
-        "stage": "보도",
-        "storyId": "incheon-guwol-commercial-complex-stabbing-2026-10-13",
-        "title": "인천 구월동 상업시설 흉기 난동…시민 8명 다치고 피의자 체포"
-      },
-      "path": "incheon-guwol-commercial-complex-stabbing.json",
-      "title": "인천 구월동 상업시설 흉기 난동 수사"
     },
     {
       "categories": [
@@ -6421,7 +6548,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 557,
+  "storyCount": 564,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-23T10:01:15.970914+09:00"
+  "updatedAt": "2026-10-23T21:18:44.279369+09:00"
 }

@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-23/pm.json",
+      "category": "경제·생활경제",
+      "change": "합작법인 설립 계약이 체결됐습니다. 위치·지분과 실제 착공·가동은 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "coveredOn": "2026-10-23",
+      "edition": "pm",
+      "editionDate": "2026-10-23",
+      "editionId": "2026-10-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-10-22",
+      "eventEndDate": null,
+      "eventTimeNote": "계약은 미국 텍사스주 휴스턴 현지 10월 22일 체결됐습니다. 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "America/Chicago",
+      "followUp": null,
+      "id": "2026-10-23-pm/20261023-pm-eco-01",
+      "keyFacts": {
+        "가동 목표": "2029년",
+        "계약일": "2026-10-22 미국 현지",
+        "위치·지분": "미확정",
+        "착공 목표": "2027년",
+        "합작법인": "HD키윗조선"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-23T15:23:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "경향신문",
+          "publishedAt": "2026-10-23T15:23:00+09:00",
+          "title": "HD현대, 미국에 첫 조선소 짓는다…불붙는 ‘마스가’ 쟁탈전",
+          "url": "https://n.news.naver.com/mnews/article/032/0003478172",
+          "verifiedAt": "2026-10-23T21:15:27.372755+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261023-pm-eco-01",
+      "summary": [
+        "HD현대가 키윗과 미국 신규 조선소를 추진하는 합작법인 설립 계약을 체결했습니다. 법인 이름은 ‘HD키윗조선’입니다.",
+        "계약은 22일 휴스턴에서 체결됐습니다. 신규 조선소는 2027년 착공·2029년 가동을 목표로 하지만 위치와 지분 구조는 확정되지 않았습니다.",
+        "미국 현지 선박 건조 기반을 확보하려는 사업입니다. 계약 체결과 실제 조선소 건설·가동, 고용 실현은 구분해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "HD현대·키윗, 미국 신규 조선소 추진 합작법인 계약",
+      "uncertainty": "조선소 위치·지분 구조는 미확정이며 착공·가동은 목표입니다."
+    }
+  ],
+  "id": "hd-hyundai-kiewit-us-shipyard-jv",
+  "schemaVersion": 1,
+  "title": "HD현대·키윗 미국 조선소 합작사업",
+  "updatedAt": "2026-10-23T21:18:44.279369+09:00"
+}
