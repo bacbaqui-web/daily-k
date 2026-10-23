@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-24",
-  "collectedAt": "2026-10-23T20:19:40.280987+00:00",
+  "collectedAt": "2026-10-23T20:23:22.470908+00:00",
   "windowEnd": "2026-10-24T05:19:40.158942+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11895,6 +11895,61 @@
       "firstPublishedAt": "2026-10-23T05:46:49.663079+00:00"
     },
     {
+      "id": "aagag-1664220-0",
+      "url": "https://aagag.com/issue/?idx=1664220",
+      "source": "애객",
+      "title": "ㅇㅎ) 목운동 할 시간",
+      "publishedAt": "2026-10-24T05:00:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1vKO.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1vKY.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L1vKO.webp",
+        "https://i.aagag.com/o/L1vKY.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8888640",
+          "text": "왼쪽, 오른쪽 아니 오른쪽, 왼쪽인가"
+        },
+        {
+          "id": "8888641",
+          "text": "@minachimaru"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-24T05:23:09.042613+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 목 운동 도와주는 누나",
+        "목 운동 도와주는 누나",
+        "ㅇㅎ) 목운동 할 시간",
+        "ㅇㅎ) 목운동 할 시간"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-23T20:23:22.381950+00:00",
+      "collectedAt": "2026-10-24T05:23:22.381966+09:00",
+      "firstPublishedAt": "2026-10-23T20:23:22.486507+00:00"
+    },
+    {
       "id": "aagag-1664203-0",
       "url": "https://aagag.com/issue/?idx=1664203",
       "source": "애객",
@@ -12257,7 +12312,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
