@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-23",
-  "collectedAt": "2026-10-23T05:19:38.259724+00:00",
+  "collectedAt": "2026-10-23T05:23:03.528983+00:00",
   "windowEnd": "2026-10-23T13:48:18.315726+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3354,6 +3354,81 @@
       "sourceTitlesFetchedAt": "2026-10-22T13:01:15.219969+00:00",
       "collectedAt": "2026-10-22T22:01:15.219985+09:00",
       "firstPublishedAt": "2026-10-22T13:01:15.321000+00:00"
+    },
+    {
+      "id": "aagag-1663926-0",
+      "url": "https://aagag.com/issue/?idx=1663926",
+      "source": "애객",
+      "title": "???",
+      "publishedAt": "2026-10-23T10:54:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1soK.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1soK.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 7,
+      "laughingComments": 4,
+      "score": 18,
+      "kPerComment": 2.5714285714285716,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8884740",
+          "text": "북한 김여정은 기아에 기달린 룩"
+        },
+        {
+          "id": "8884774",
+          "text": "이정도면 본인 아니냐고ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8884794",
+          "text": "북한에 살았으면 대역을로 쓰였을듯~~ 대한민국에 사는 관계로 북한 관련 드라마나 영화에 배우로 딱이네~~"
+        },
+        {
+          "id": "8884817",
+          "text": "백두혈통상 ㄷㄷ"
+        },
+        {
+          "id": "8884823",
+          "text": "광대 살짝 더 나오고 턱선 깎으면 진짜 싱크로 100 나오겠다ㅋㅋ"
+        },
+        {
+          "id": "8884971",
+          "text": "뀨뀨ㅋㅋ웃는거 똑같네 ㅋㅋ"
+        },
+        {
+          "id": "8885045",
+          "text": "계시네 ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-23T14:22:48.563427+09:00",
+      "sourceTitles": [
+        "언니 김여정 닮았어요.mp4",
+        "김여정 닮은 여성분ㅋㅋ",
+        "??? \"언니! 김여정 닮았어요\"",
+        "??? \"언니! 김여정 닮았어요\"",
+        "\"언니! 김여정 닮았어요\"",
+        "??? \"언니! 김여정 닮았어요\""
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-10-23T05:23:03.456572+00:00",
+      "collectedAt": "2026-10-23T14:23:03.456590+09:00",
+      "firstPublishedAt": "2026-10-23T05:23:03.541171+00:00"
     },
     {
       "id": "aagag-1593299-1",
@@ -9031,7 +9106,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 58,
+  "candidateCount": 75,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
