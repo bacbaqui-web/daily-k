@@ -1,0 +1,732 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-10-23T09:00:00+09:00",
+      "date": "2026-10-23",
+      "edition": "am",
+      "events": [
+        {
+          "at": "2026-10-23T14:00:00+09:00",
+          "date": "2026-10-23",
+          "detail": "정치자금 사건 항소심 선고가 생중계될 예정입니다. 기준시각에는 선고 결과와 형의 확정 여부가 확인되지 않았습니다.",
+          "source": {
+            "kind": "news",
+            "language": "ko",
+            "name": "JTBC",
+            "publishedAt": "2026-10-23T07:47:45+09:00",
+            "title": "오세훈, 오늘 2심 선고 생중계…'정치생명' 운명의 갈림길",
+            "url": "https://n.news.naver.com/mnews/article/437/0000517149",
+            "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+          },
+          "timeNote": "제공된 JTBC 본문에 한국시간 오후 2시로 안내됐습니다.",
+          "title": "오세훈 서울시장 항소심 선고 예정"
+        },
+        {
+          "at": "2026-10-23T15:00:00+09:00",
+          "date": "2026-10-23",
+          "detail": "영국 통계청의 공식 발표 일정입니다. 소비 수요와 성장 흐름을 확인할 자료이며 발표 결과는 넣지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "영국 통계청 ONS",
+            "publishedAt": null,
+            "title": "Retail sales, Great Britain: September 2026",
+            "url": "https://www.ons.gov.uk/releases/retailsalesgreatbritainseptember2026",
+            "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+          },
+          "timeNote": "영국 서머타임 07:00 BST를 한국시간 15:00으로 환산했습니다.",
+          "title": "영국 9월 소매판매 발표 예정"
+        },
+        {
+          "at": "2026-10-23T23:00:00+09:00",
+          "date": "2026-10-23",
+          "detail": "소비심리와 인플레이션 기대 변화를 확인할 일정입니다. 확정치 결과는 발표 전이므로 포함하지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "미시간대학교 소비자조사",
+            "publishedAt": null,
+            "title": "Surveys of Consumers 공식 발표 안내",
+            "url": "https://www.sca.isr.umich.edu/",
+            "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 10:00 EDT를 한국시간 23:00으로 환산했습니다.",
+          "title": "미시간대 10월 소비자심리지수 확정치 발표 예정"
+        }
+      ],
+      "generatedAt": "2026-10-23T10:01:15.970914+09:00",
+      "id": "2026-10-23-am",
+      "intro": "10월 23일 오전 브리핑입니다. 제공된 최종 검증 순위에 따라 7개 분야 대표를 선정했습니다.",
+      "keywords": [],
+      "overview": [
+        "미국은 사우디 내 비필수 정부 직원과 가족에게 철수를 명령했습니다. 국내 은행의 8월 말 원화대출 연체율은 0.69%로 상승했고, 국방부는 북한의 대남확성기 대기 예고에 비례적 조치를 언급했습니다.",
+        "노동부의 쿠팡 수사·감독 결과와 K-라드큐브 임무 실패를 다룬 보도가 나왔습니다. 수사기관의 판단과 확정판결, 위성의 임무 결과와 추정 고장 원인은 구분했습니다.",
+        "부산도시철도는 노사 잠정합의로 총파업을 철회하고 정상운행을 안내했습니다. 웹툰산업은 최근 72시간 안에 보도된 ‘오늘의 우리만화’ 수상작 선정으로 보완했습니다."
+      ],
+      "publicationNote": "제공된 조사와 본문 근거만 사용했습니다. 최종 후보 순위를 유지하고 확인된 다른 매체의 동일 사건 보도를 보존했습니다. 예비 후보는 홈페이지 표시용이며 별도 기사로 편성하지 않았습니다. 생성시각과 출처 검증시각은 프로그램 기록 대상으로 남겼습니다.",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [
+            {
+              "name": "YTN",
+              "rank": 2,
+              "reason": "23일 08:03 보도로 최신성이 높습니다. 정보공유 작동과 위성 서비스 제한에 관한 당사자 발언으로, 실제 철수 명령보다 후순위로 평가했습니다. 완전 복구는 확인되지 않았습니다.",
+              "title": "젤렌스키 “미 정보공유 재개…군용 위성 서비스 속도는 여전히 제한”",
+              "url": "https://n.news.naver.com/mnews/article/052/0002422550"
+            },
+            {
+              "name": "뉴시스",
+              "rank": 3,
+              "reason": "21일 중러 회담을 22일 보도한 검증 후보입니다. 무역·에너지·기술 협력 논의가 확인됐지만 실제 계약 체결과 구분해야 해 후순위입니다.",
+              "title": "푸틴·리창 회담…중러 무역·에너지·기술 협력 논의",
+              "url": "https://nwww.newsis.com/view/NISX20261022_0003836126"
+            }
+          ],
+          "category": "국제정세",
+          "emphasis": [
+            "비필수 정부 직원과 가족",
+            "실제 철수 완료"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "철수 명령은 미국 현지 10월 21일 확인됐으며 정확한 발표 시각은 제공된 조사에 없습니다.",
+          "fallbackNote": "전날 보도된 미게재 철수 명령입니다. 최근 72시간 안의 구체적인 인력 보호 조치로 선정했습니다.",
+          "id": "20261023-am-int-01",
+          "keyFacts": {
+            "대상": "사우디 내 비필수 미국 정부 직원·가족",
+            "조치": "철수 명령",
+            "철수 완료": "확인되지 않음",
+            "확인일": "2026-10-21 미국 현지"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-22T06:31:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "서울신문",
+              "publishedAt": null,
+              "title": "사우디 내 미국 비긴급 인력·가족 철수 명령 관련 보도",
+              "url": "https://m.go.seoul.co.kr/news/global_topic/America/2026/10/23/20261023012009?cp=eye",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://news.sbs.co.kr/news/endPagePrintPopup.do?news_id=N1008809290",
+          "scoreComponents": {
+            "domesticImpact": 78,
+            "importance": 94,
+            "interest": 85,
+            "recency": 50,
+            "reliability": 92
+          },
+          "scoreReason": "최종 조사 1순위입니다. 실제 인력 보호 조치라는 구체성을 젤렌스키의 정보공유 관련 발언과 중러 협력 논의보다 높게 평가했습니다. 전날 기사라는 최신성 한계를 반영하고 SBS·뉴시스·서울신문을 비교해 철수 대상을 한정했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-10-22T06:31:00+09:00",
+              "title": "미국, 사우디 체류 공무원·가족 대피령",
+              "url": "https://news.sbs.co.kr/news/endPagePrintPopup.do?news_id=N1008809290",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            },
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-22T07:56:00+09:00",
+              "title": "미국, 사우디 주재 직원·가족 철수 명령",
+              "url": "https://files.newsis.com/view/NISX20261022_0003835891",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 국무부가 사우디아라비아 내 비필수 정부 직원과 가족에게 철수를 명령했습니다. 중동 긴장에 대응한 외교인력 보호 조치입니다.",
+            "SBS와 뉴시스 보도, 서울신문의 범위 확인에서 공통으로 확인된 대상은 사우디의 비긴급 인력과 가족입니다. 걸프 전역의 미국인에게 내려진 일괄 철수 명령으로 확대할 수 없습니다.",
+            "명령 발표와 실제 철수 완료는 다릅니다. 이번 조치만으로 미국의 공격 결정이나 군사작전 개시가 확인된 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "사우디 내 비필수 미국 정부 직원·가족 철수 명령이 확인됐습니다. 실제 철수 완료는 미확인입니다.",
+            "eventDate": "2026-10-21",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-saudi-nonemergency-staff-departure-2026",
+            "issueTitle": "미국의 사우디 비필수 정부 직원·가족 철수 명령",
+            "stage": "발표"
+          },
+          "title": "미국, 사우디 내 비필수 정부 직원·가족 철수 명령",
+          "topicKey": "us-saudi-nonemergency-staff-departure-2026-10-21",
+          "uncertainty": "실제 철수 완료와 미국의 공격 결정은 확인되지 않았습니다.",
+          "whatChanged": "미국이 사우디 내 비필수 정부 직원과 가족에게 철수를 명령한 사실이 확인됐습니다.",
+          "whyItMatters": "중동 긴장이 외교인력의 안전과 공관 운영에 영향을 주는 구체적인 조치로 이어졌습니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "조선비즈",
+              "rank": 2,
+              "reason": "23일 07:41 보도로 당일 공시된 자금조달 방침 변경입니다. 주주가치와 투자계획에 중요하지만 은행 대출 전반의 건전성 지표보다 영향 범위가 좁습니다.",
+              "title": "SK하이닉스, 솔리다임 프리IPO·미국 상장 검토 중단",
+              "url": "https://n.news.naver.com/mnews/article/366/0001199801"
+            },
+            {
+              "name": "뉴스1",
+              "rank": 3,
+              "reason": "22일 12:30 포토기사 본문에서 실제 개점이 확인됐습니다. 소비자의 구매 선택과 관련되지만 단일 점포 개점의 파급은 앞선 후보보다 작습니다.",
+              "title": "이마트, 초저가 생활용품 전문점 ‘와우샵’ 월계점 개점",
+              "url": "https://www.news1.kr/photos/8173537"
+            }
+          ],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "0.69%",
+            "8월 말 기준",
+            "중소기업은 1.00%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "23일 보도된 금융감독원 통계이며 집계 시점은 8월 말입니다. 원자료의 정확한 발표 시각은 확인되지 않았습니다.",
+          "id": "20261023-am-eco-01",
+          "keyFacts": {
+            "가계대출 연체율": "0.45%",
+            "기업대출 연체율": "0.86%",
+            "원화대출 연체율": "0.69%",
+            "전월 대비": "+0.06%포인트",
+            "집계 시점": "2026년 8월 말"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-23T08:30:14+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한경비즈니스",
+              "publishedAt": "2026-10-23T08:30:14+09:00",
+              "title": "[속보]은행 대출 연체율 10여년 만에 최고",
+              "url": "https://n.news.naver.com/mnews/article/050/0000112271",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/050/0000112271",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 95,
+            "interest": 88,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "최종 조사 1순위입니다. 당일 공개된 광범위한 기업·가계 채무 지표를 조선비즈의 솔리다임 상장 검토 중단과 뉴스1의 와우샵 개점보다 우선했습니다. 최고 수준이라는 비교를 8월 기준으로 제한했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한경비즈니스",
+              "publishedAt": "2026-10-23T08:30:14+09:00",
+              "title": "[속보]은행 대출 연체율 10여년 만에 최고",
+              "url": "https://n.news.naver.com/mnews/article/050/0000112271",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "국내 은행의 8월 말 원화대출 연체율이 0.69%로 전월보다 0.06%포인트 올랐습니다. 8월 말 기준으로는 2016년 이후 가장 높았습니다.",
+            "한경비즈니스가 인용한 금융감독원 통계에서 기업대출 연체율은 0.86%, 중소기업은 1.00%, 가계대출은 0.45%였습니다. 전체 연체율은 1개월 이상 원리금 연체를 기준으로 합니다.",
+            "신규 연체 발생액은 3조원, 연체채권 정리 규모는 1조5000억원이었습니다. 은행이 분기 말에 연체채권을 집중 정리하는 경향도 있어 월별 움직임을 함께 살펴야 합니다.",
+            "이번 수치는 8월 말의 상태입니다. 모든 시점을 통틀어 10년 만의 최고라고 표현하거나 현재 연체율로 제시해서는 안 됩니다."
+          ],
+          "timeline": {
+            "change": "8월 말 원화대출 연체율 0.69%가 보도됐습니다. 8월 기준 10년 만의 최고이며 현재 수치와 구분합니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "korea-bank-won-loan-delinquency-2026-08",
+            "issueTitle": "국내 은행 원화대출 연체율과 자산 건전성",
+            "stage": "보도"
+          },
+          "title": "8월 말 은행 원화대출 연체율 0.69%…8월 기준 10년 만에 최고",
+          "topicKey": "korea-bank-won-loan-delinquency-2026-08",
+          "uncertainty": "8월 말 통계이며 현재 수준이나 향후 연체율을 확정하지 않습니다.",
+          "whatChanged": "8월 말 은행 원화대출 연체율과 기업·가계별 새 통계가 보도됐습니다.",
+          "whyItMatters": "기업과 가계의 채무 상환 부담, 은행의 자산 건전성을 살필 자료입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "경기일보",
+              "rank": 2,
+              "reason": "22일 16:45 보도로 장기간 공석인 특별감찰관 임명 절차의 진전이 확인됐습니다. 제도적 중요성이 크지만 최종 임명은 별도입니다.",
+              "title": "최길수 특별감찰관 후보자 청문보고서 채택",
+              "url": "https://n.news.naver.com/mnews/article/666/0000128725"
+            },
+            {
+              "name": "JTBC",
+              "rank": 3,
+              "reason": "23일 07:47 보도에서 오후 2시 선고 일정이 확인됐습니다. 기준시각에는 결과가 나오기 전이므로 확정된 절차 변화보다 후순위입니다.",
+              "title": "오세훈 서울시장 항소심, 23일 오후 선고·생중계 예정",
+              "url": "https://n.news.naver.com/mnews/article/437/0000517149"
+            }
+          ],
+          "category": "정치·정책",
+          "emphasis": [
+            "결정된 것은 없다고",
+            "실제 방송 재개"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "북한 담화와 국방부 정례브리핑은 10월 22일이며 세부 시각은 확인되지 않았습니다.",
+          "id": "20261023-am-pol-01",
+          "keyFacts": {
+            "국방부 입장": "비례적 조치 언급, 결정된 것은 없음",
+            "발언 날짜": "2026-10-22",
+            "북한 예고": "수일 안에 대남확성기 대기 상태",
+            "실제 방송 재개": "확인되지 않음"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-23T05:29:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "동행미디어 시대",
+              "publishedAt": "2026-10-23T05:29:00+09:00",
+              "title": "북한 대남확성기 예고에 국방부 \"비례적 조치\" 경고",
+              "url": "https://n.news.naver.com/mnews/article/417/0001161816",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/417/0001161816",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 92,
+            "interest": 84,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "최종 조사 1순위입니다. 접경 안전과 군사 대응의 파급을 경기일보의 특별감찰관 청문보고서 채택과 JTBC의 항소심 일정 보도보다 높게 평가했습니다. 당일 기사에 담긴 전날 발언을 실제 가동 결과와 구분했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "동행미디어 시대",
+              "publishedAt": "2026-10-23T05:29:00+09:00",
+              "title": "북한 대남확성기 예고에 국방부 \"비례적 조치\" 경고",
+              "url": "https://n.news.naver.com/mnews/article/417/0001161816",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "북한이 대남확성기를 수일 안에 대기 상태로 두겠다고 예고하자 국방부가 비례적 조치를 언급했습니다. 실제 방송 재개나 한국 측 대응 결정은 확인되지 않았습니다.",
+            "국방부 대변인은 22일 브리핑에서 북한이 행동하면 비례적 조치가 필요하다는 생각을 밝히면서도 결정된 것은 없다고 설명했습니다. 합참은 담화 이전부터 일상적인 정비 활동이 식별됐다고 전했습니다.",
+            "접경지역의 긴장과 군의 대응 수위를 살필 사안입니다. 북한의 예고와 장비 정비를 실제 심리전 방송 가동으로 바꾸어 표현할 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "북한의 확성기 대기 예고와 국방부의 비례적 조치 언급이 보도됐습니다. 실제 가동·대응 결정은 미확인입니다.",
+            "eventDate": "2026-10-22",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "north-korea-loudspeaker-readiness-response-2026",
+            "issueTitle": "북한 대남확성기 대기 예고와 한국 정부 대응",
+            "stage": "보도"
+          },
+          "title": "북한 대남확성기 대기 예고에 국방부 “비례적 조치”…결정은 미정",
+          "topicKey": "north-korea-loudspeaker-readiness-response-2026-10-22",
+          "uncertainty": "북한의 실제 방송 재개와 한국 측 대응 방식·시점은 확정되지 않았습니다.",
+          "whatChanged": "북한의 확성기 대기 예고에 대해 국방부가 비례적 조치 가능성과 미결정 상태를 설명했습니다.",
+          "whyItMatters": "접경지역 긴장과 남북 간 군사 대응에 영향을 줄 수 있는 새 입장입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "23일 06:00 보도로 예방접종 피해보상 권리를 해석한 대법원 판단입니다. 지급 이후 모든 치료비를 인정한 것은 아니며 대표보다 영향 대상이 제한됩니다.",
+              "title": "대법 “백신 장애일시보상금 지급해도 미지급 진료비 일률 거부 못 해”",
+              "url": "https://n.news.naver.com/mnews/article/003/0014273072"
+            },
+            {
+              "name": "뉴시스",
+              "rank": 3,
+              "reason": "23일 08:37 보도로 당일 구속송치가 확인됐습니다. 기존 인천 구월동 사건의 실질적 수사 진전이지만 전국 사업장 감독보다 범위가 좁고 유죄 확정은 아닙니다.",
+              "title": "인천 흉기난동 피의자 최충락 구속송치",
+              "url": "https://n.news.naver.com/mnews/article/003/0014273220"
+            }
+          ],
+          "category": "사회이슈",
+          "emphasis": [
+            "법 위반 206건",
+            "과태료 19억6000여만원",
+            "형사 유죄 확정"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "고용노동부의 수사·감독 결과 발표는 10월 22일입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+          "id": "20261023-am-soc-01",
+          "keyFacts": {
+            "감독 사업장": "105곳",
+            "과태료": "145건, 19억6000여만원",
+            "발표일": "2026-10-22",
+            "사법 처리 대상": "61건",
+            "확인된 법 위반": "206건, 노동부 발표"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-23T05:03:11+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "서울신문",
+              "publishedAt": "2026-10-23T05:03:11+09:00",
+              "title": "김범석 “열심히 일한 기록 없애라”… 화장실 간 시간까지 계산한 쿠팡",
+              "url": "https://n.news.naver.com/mnews/article/081/0003691692",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/081/0003691692",
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 96,
+            "interest": 86,
+            "recency": 100,
+            "reliability": 89
+          },
+          "scoreReason": "최종 조사 1순위입니다. 다수 사업장의 노동자 보호와 기업 책임에 미치는 범위를 뉴시스의 백신 보상 판결·인천 사건 송치보다 높게 평가했습니다. 당일 서울신문 보도에 담긴 전날 발표를 사용하며 확정판결과 구분했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "서울신문",
+              "publishedAt": "2026-10-23T05:03:11+09:00",
+              "title": "김범석 “열심히 일한 기록 없애라”… 화장실 간 시간까지 계산한 쿠팡",
+              "url": "https://n.news.naver.com/mnews/article/081/0003691692",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "고용노동부가 장덕준씨 사망 관련 수사와 쿠팡 사업장 105곳의 감독 결과를 발표했습니다. 법 위반 206건을 확인하고 145건에 과태료 19억6000여만원을 부과했다고 보도됐습니다.",
+            "서울신문은 노동부가 장씨의 근무 기록을 남기지 않도록 한 김범석 의장의 지시를 수사로 확인했다고 전했습니다. 노동부는 산재 은폐죄 공소시효가 지나 불기소 의견으로 송치하기로 했다고 설명했습니다.",
+            "별도 사업장 감독에서 61건은 사법 처리 대상으로 제시됐습니다. 행정기관의 위반 판단과 사법 처리 방침을 형사 유죄 확정으로 표현해서는 안 됩니다.",
+            "노동부는 다른 산재 미보고 의혹 2건에 대해서는 수사를 개시했습니다. 개별 혐의의 최종 판단과 후속 조치는 이후 확인할 사안입니다."
+          ],
+          "timeline": {
+            "change": "노동부가 수사·감독 결과와 법 위반 206건, 과태료 및 사법 처리 방침을 발표했습니다. 형사 유죄 확정과 구분합니다.",
+            "eventDate": "2026-10-22",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "coupang-jang-deokjun-investigation-inspection-2026",
+            "issueTitle": "쿠팡 장덕준씨 사망 관련 수사와 사업장 감독",
+            "stage": "발표"
+          },
+          "title": "노동부, 쿠팡 수사·감독 결과 발표…법 위반 206건 확인",
+          "topicKey": "coupang-jang-deokjun-investigation-inspection-2026-10-22",
+          "uncertainty": "수사·감독 결과에 관한 보도이며 형사 혐의의 확정판결이 아닙니다.",
+          "whatChanged": "장씨 사건 수사 결과와 쿠팡 사업장 기획감독의 위반 건수·처리 방침이 공개됐습니다.",
+          "whyItMatters": "물류·배송 노동자의 안전과 기업의 산업재해 대응 책임을 점검할 결과입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "매일경제",
+              "rank": 2,
+              "reason": "22일 17:43 기사에서 개발 협약과 설계 계획을 확인했습니다. 8월 협약을 소개한 보도이며 2029년 활용·개발 성공은 향후 계획이어서 후순위입니다.",
+              "title": "한화에어로스페이스, 국내 첫 궤도수송선 개발 참여",
+              "url": "https://n.news.naver.com/mnews/article/009/0005752701"
+            },
+            {
+              "name": "지디넷코리아",
+              "rank": 3,
+              "reason": "23일 08:01의 시장 분석 기사입니다. 본문은 16일 출시를 다루므로 최근 72시간의 신규 출시로 취급하지 않고 당일 분석 후보로 한정합니다. 새 결과보고서 공개보다 후순위입니다.",
+              "title": "엔비디아 RTX 스파크 출시로 Arm 윈도 PC 경쟁 확대",
+              "url": "https://n.news.naver.com/mnews/article/092/0002442091"
+            }
+          ],
+          "category": "과학·기술",
+          "emphasis": [
+            "예산 100억원",
+            "임무 수행에 실패",
+            "추정 원인"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "23일 보도는 22일 입수한 결과보고서와 국회 제출자료를 다룹니다. 위성 운영 종료는 4월 4일이며 이번 보도의 새 정보 공개와 구분합니다.",
+          "id": "20261023-am-tech-01",
+          "keyFacts": {
+            "사업 예산": "100억원",
+            "운영 종료": "2026-04-04, 보도 인용",
+            "임무 결과": "정상 교신·과학자료 전송 실패, 보고서 인용",
+            "잔액": "5억1100만원, 연말 집행 예정",
+            "지급액": "65억5800만원"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-23T05:01:10+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "조선일보",
+              "publishedAt": "2026-10-23T05:01:10+09:00",
+              "title": "[단독] 100억 투입 인공위성 사업, 실패하고도 ‘쉬쉬’",
+              "url": "https://n.news.naver.com/mnews/article/023/0004005514",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/023/0004005514",
+          "scoreComponents": {
+            "domesticImpact": 84,
+            "importance": 88,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 80
+          },
+          "scoreReason": "최종 조사 1순위입니다. 당일 새 자료로 드러난 임무 결과와 공공예산 책임 문제를 매일경제의 궤도수송선 개발 계획, 지디넷코리아의 PC 시장 분석보다 우선했습니다. 단독 보도와 원자료 미대조 한계를 신뢰도에 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "조선일보",
+              "publishedAt": "2026-10-23T05:01:10+09:00",
+              "title": "[단독] 100억 투입 인공위성 사업, 실패하고도 ‘쉬쉬’",
+              "url": "https://n.news.naver.com/mnews/article/023/0004005514",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "예산 100억원이 투입된 위성 K-라드큐브가 임무 수행에 실패했고 정부의 별도 결과 발표 계획도 없었다고 조선일보가 보도했습니다. 운영 결과보고서와 국회 제출자료를 근거로 한 보도입니다.",
+            "기사에 따르면 위성은 정상 교신과 과학 관측자료 전송에 실패했고 한국천문연구원은 4월 4일 운영을 종료했습니다. 하드웨어 이상 가능성은 우주항공청이 제시한 추정 원인입니다.",
+            "개발사 계약금액 70억6900만원 가운데 65억5800만원이 지급됐고 잔액 5억1100만원은 연말 집행 예정으로 제시됐습니다. 계약상 과학자료 전송 조건을 충족하지 못한 상황에서 지급의 적정성이 쟁점으로 보도됐습니다.",
+            "이번 소식은 4월 발사 자체의 재보도가 아니라 새로 드러난 보고서와 설명에 관한 내용입니다. 원자료를 직접 확인한 조사 결과는 아니며 계약 집행의 위법성이 확정된 것도 아닙니다."
+          ],
+          "timeline": {
+            "change": "결과보고서와 국회 제출자료를 인용한 임무 실패·공개 계획·계약 집행 보도가 나왔습니다. 고장 원인과 법적 책임은 미확정입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "k-radcube-mission-failure-disclosure-2026",
+            "issueTitle": "K-라드큐브 임무 실패와 결과 공개·계약 집행",
+            "stage": "보도"
+          },
+          "title": "K-라드큐브 임무 실패 보도…결과 공개·계약대금 집행 논란",
+          "topicKey": "k-radcube-mission-failure-report-disclosure-2026-10-23",
+          "uncertainty": "단독 보도가 인용한 자료이며 원자료 직접 대조와 최종 고장 원인·계약 위법성 판단은 확인되지 않았습니다.",
+          "whatChanged": "임무 실패 결론과 비정상 교신, 결과 공개 계획 및 계약대금 집행에 관한 새 자료가 보도됐습니다.",
+          "whyItMatters": "공공 우주개발 사업의 성과 공개와 실패 원인 분석, 계약 관리의 책임성을 점검할 사안입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "푸드아이콘",
+              "rank": 2,
+              "reason": "21일 16:38 기사에서 소비기한 2027년 4월 5일인 350㎖ 제품의 회수와 섭취 중단·반품 안내를 확인했습니다. 직접적인 안전 정보지만 대상 범위와 최신성에서 대표 다음입니다.",
+              "title": "성림방앗간 들기름 벤조피렌 기준 초과…판매 중단·회수",
+              "url": "https://foodicon.co.kr/news/articleView.html?idxno=35804"
+            },
+            {
+              "name": "데일리안",
+              "rank": 3,
+              "reason": "22일 12:00 보도로 추락·감전·질식·화재 예방자료 배포 발표가 확인됐습니다. 배포 완료나 사고 감소 성과는 확인되지 않아 후순위입니다.",
+              "title": "정부, 풍력발전단지 141곳 대상 안전수칙 배포 발표",
+              "url": "https://m.dailian.co.kr/news/view/1704464/정부-풍력발전단지-141곳-안전수칙-2026"
+            }
+          ],
+          "category": "생활·안전",
+          "emphasis": [
+            "총파업을 철회",
+            "정상운행",
+            "임금 총액 3.5%"
+          ],
+          "eventAt": "2026-10-23T00:48:00+09:00",
+          "eventTimeNote": "23일 00시48분 최종 서명으로 보도됐습니다. 잠정합의의 최종 가결과 구분합니다.",
+          "id": "20261023-am-safe-01",
+          "keyFacts": {
+            "신규 인력": "35명 잠정합의",
+            "운행": "23일 정상운행 안내",
+            "임금": "총액 3.5% 인상 잠정합의",
+            "최종 서명": "2026-10-23 00:48 KST",
+            "파업": "철회"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-23T01:26:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-23T01:26:00+09:00",
+              "title": "부산교통공사 노사 잠정 합의…파업 철회",
+              "url": "https://files.newsis.com/view/NISX20261022_0003837700",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국사회복지저널",
+              "publishedAt": "2026-10-23T07:33:00+09:00",
+              "title": "부산도시철도 파업 철회",
+              "url": "https://www.ksw-news.com/news/articleView.html?idxno=3051267",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://files.newsis.com/view/NISX20261022_0003837700",
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 91,
+            "interest": 83,
+            "recency": 100,
+            "reliability": 92
+          },
+          "scoreReason": "최종 조사 1순위입니다. 당일 출근길에 직접 영향을 주는 파업 철회를 푸드아이콘의 특정 제품 회수와 데일리안의 풍력 안전자료 발표보다 우선했습니다. 한국사회복지저널의 같은 사건 보도도 보존하고 전날 파업 예고는 현재 상태로 사용하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-23T01:26:00+09:00",
+              "title": "부산교통공사 노사 잠정 합의…파업 철회",
+              "url": "https://files.newsis.com/view/NISX20261022_0003837700",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "부산교통공사 노사가 잠정합의에 서명하면서 23일 예정됐던 총파업을 철회했습니다. 부산도시철도는 정상운행을 안내했습니다.",
+            "뉴시스 보도에 따르면 최종 서명은 23일 00시48분 이뤄졌습니다. 임금 총액 3.5% 인상과 신규 인력 35명에 잠정합의했습니다.",
+            "전날의 교섭 결렬 시 파업 예고를 대체하는 새 결과입니다. 파업 철회는 확인됐지만 잠정합의의 최종 가결 절차는 남아 있습니다."
+          ],
+          "timeline": {
+            "change": "노사 잠정합의 서명으로 총파업이 철회되고 정상운행이 안내됐습니다. 최종 가결 절차는 남아 있습니다.",
+            "eventDate": "2026-10-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "busan-metro-labor-agreement-strike-withdrawal-2026",
+            "issueTitle": "부산도시철도 노사 교섭과 파업 철회",
+            "stage": "결과"
+          },
+          "title": "부산도시철도 노사 잠정합의…총파업 철회·23일 정상운행 안내",
+          "topicKey": "busan-metro-labor-agreement-strike-withdrawal-2026-10-23",
+          "uncertainty": "잠정합의의 최종 가결 절차는 완료되지 않았습니다.",
+          "whatChanged": "전날 파업 예고가 새벽 잠정합의와 총파업 철회로 바뀌었습니다.",
+          "whyItMatters": "부산도시철도를 이용하는 출근·등교객의 이동에 직접 영향을 주는 결과입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "파이낸셜뉴스·뉴스1",
+              "rank": 2,
+              "reason": "21일 13:29 보도와 넥슨 공지를 대조한 별도 IP 사업화 사건입니다. 선점은 당일 조기 마감됐으며 정식 출시·매출 성과와 구분합니다. 창작자 포상보다 후순위입니다.",
+              "title": "‘템빨: 오버기어드’ 서버·캐릭터명 선점 개시",
+              "url": "https://www.fnnews.com/news/202610211329495885"
+            },
+            {
+              "name": "에너지경제신문",
+              "rank": 3,
+              "reason": "22일 11:30 기사 내 전시 계획이 확인됐습니다. 웹툰 IP의 오프라인 체험 확장 사례지만 30일 개막과 흥행·매출은 아직 확인되지 않아 후순위입니다.",
+              "title": "‘재혼 황후’ 원화·의상·XR 체험 전시 계획 발표",
+              "url": "https://m.ekn.kr/view.php?key=20261022029239698"
+            }
+          ],
+          "category": "웹툰산업",
+          "emphasis": [
+            "상금 700만원",
+            "모두 네이버웹툰 연재작",
+            "11월 3일 예정"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "선정 발표일은 10월 20일이며 정확한 시각은 확인되지 않았습니다. story의 기사 시각은 웹툰가이드 보도에 근거하고 한겨레의 20일 18시55분은 수정시각으로만 보존합니다.",
+          "fallbackNote": "당일 중요 미게재 후보가 부족해 최근 72시간 안의 수상작 선정 보도로 보완했습니다. 선정 발표는 20일이며 한겨레 원문은 수정시각만 확인돼 최초 게시시각을 추정하지 않았습니다.",
+          "id": "20261023-am-web-01",
+          "keyFacts": {
+            "선정 발표일": "2026-10-20",
+            "선정 작품": "사변괴담·오사카 환상선·저궤도인간·철과 얼음의 여정·티라노 노경수",
+            "시상식": "2026-11-03 예정",
+            "작품 수": "5편",
+            "포상": "작품별 문체부 장관상·상금 700만원"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-21T12:03:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한겨레",
+              "publishedAt": null,
+              "title": "‘2026 오늘의 우리만화’ 5편 선정",
+              "updatedAt": "2026-10-20T18:55:00+09:00",
+              "url": "https://www.hani.co.kr/arti/culture/culture_general/1283192.html",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "웹툰가이드",
+              "publishedAt": "2026-10-21T12:03:00+09:00",
+              "title": "네이버웹툰 5작품, ‘2026 오늘의 우리만화’ 최종 수상작 선정",
+              "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26316",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.hani.co.kr/arti/culture/culture_general/1283192.html",
+          "scoreComponents": {
+            "domesticImpact": 61,
+            "importance": 68,
+            "interest": 81,
+            "recency": 50,
+            "reliability": 90
+          },
+          "scoreReason": "최종 조사 1순위입니다. 창작자 포상과 작품 평가의 의미를 파이낸셜뉴스·뉴스1의 템빨 사전 선점과 에너지경제신문의 전시 계획보다 높게 평가했습니다. 한겨레와 웹툰가이드의 동일 사건을 대조했으며 전날 이전 보도라는 최신성 한계와 제한적인 산업 파급을 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한겨레",
+              "publishedAt": null,
+              "title": "‘2026 오늘의 우리만화’ 5편 선정",
+              "updatedAt": "2026-10-20T18:55:00+09:00",
+              "url": "https://www.hani.co.kr/arti/culture/culture_general/1283192.html",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "웹툰가이드",
+              "publishedAt": "2026-10-21T12:03:00+09:00",
+              "title": "네이버웹툰 5작품, ‘2026 오늘의 우리만화’ 최종 수상작 선정",
+              "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26316",
+              "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "‘2026 오늘의 우리만화’ 수상작으로 ‘사변괴담’, ‘오사카 환상선’, ‘저궤도인간’, ‘철과 얼음의 여정’, ‘티라노 노경수’가 선정됐습니다. 작품별 문체부 장관상과 상금 700만원이 안내됐습니다.",
+            "한겨레와 웹툰가이드의 같은 선정 보도를 비교한 조사 결과입니다. 선정된 다섯 작품은 모두 네이버웹툰 연재작으로 확인됐습니다.",
+            "창작자 포상과 작품 평가에 관한 소식이며 시상식은 11월 3일 예정입니다. 수상작 선정과 실제 시상·상금 지급 완료는 구분해야 합니다."
+          ],
+          "timeline": {
+            "change": "수상작 5편과 작품별 장관상·상금 700만원이 안내됐습니다. 11월 3일 시상식은 예정입니다.",
+            "eventDate": "2026-10-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "today-our-comics-awards-2026",
+            "issueTitle": "2026 오늘의 우리만화 수상작 선정과 창작자 포상",
+            "stage": "발표"
+          },
+          "title": "‘2026 오늘의 우리만화’ 5편 선정…작품별 상금 700만원",
+          "topicKey": "today-our-comics-awards-selection-2026",
+          "uncertainty": "실제 시상식 개최와 상금 지급 완료는 확인되지 않았습니다.",
+          "whatChanged": "2026 오늘의 우리만화 수상작 5편과 포상 내용이 공개됐습니다.",
+          "whyItMatters": "창작자에 대한 평가와 포상, 선정작의 플랫폼 분포를 보여주는 소식입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-10-23-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-23T13:50:44.714736+09:00",
+  "result": {
+    "id": "2026-10-23-am",
+    "operationId": "publish-news-2026-10-23-am",
+    "recordedAt": "2026-10-23T13:50:44.714736+09:00",
+    "sha256": "52ac0d450ed632400473b5b9ff50f4c31dcfa628e928dc0970c452fabfbaf556",
+    "windowId": "2026-10-23-am"
+  }
+}

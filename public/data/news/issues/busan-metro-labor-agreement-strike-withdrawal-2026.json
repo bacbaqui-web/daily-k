@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-23/am.json",
+      "category": "생활·안전",
+      "change": "노사 잠정합의 서명으로 총파업이 철회되고 정상운행이 안내됐습니다. 최종 가결 절차는 남아 있습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-23T10:01:15.970914+09:00",
+      "coveredOn": "2026-10-23",
+      "edition": "am",
+      "editionDate": "2026-10-23",
+      "editionId": "2026-10-23-am",
+      "eventAt": "2026-10-23T00:48:00+09:00",
+      "eventDate": "2026-10-23",
+      "eventEndDate": null,
+      "eventTimeNote": "23일 00시48분 최종 서명으로 보도됐습니다. 잠정합의의 최종 가결과 구분합니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-23-am/20261023-am-safe-01",
+      "keyFacts": {
+        "신규 인력": "35명 잠정합의",
+        "운행": "23일 정상운행 안내",
+        "임금": "총액 3.5% 인상 잠정합의",
+        "최종 서명": "2026-10-23 00:48 KST",
+        "파업": "철회"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-23T01:26:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-23T01:26:00+09:00",
+          "title": "부산교통공사 노사 잠정 합의…파업 철회",
+          "url": "https://files.newsis.com/view/NISX20261022_0003837700",
+          "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "보도",
+      "storyId": "20261023-am-safe-01",
+      "summary": [
+        "부산교통공사 노사가 잠정합의에 서명하면서 23일 예정됐던 총파업을 철회했습니다. 부산도시철도는 정상운행을 안내했습니다.",
+        "뉴시스 보도에 따르면 최종 서명은 23일 00시48분 이뤄졌습니다. 임금 총액 3.5% 인상과 신규 인력 35명에 잠정합의했습니다.",
+        "전날의 교섭 결렬 시 파업 예고를 대체하는 새 결과입니다. 파업 철회는 확인됐지만 잠정합의의 최종 가결 절차는 남아 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "부산도시철도 노사 잠정합의…총파업 철회·23일 정상운행 안내",
+      "uncertainty": "잠정합의의 최종 가결 절차는 완료되지 않았습니다."
+    }
+  ],
+  "id": "busan-metro-labor-agreement-strike-withdrawal-2026",
+  "schemaVersion": 1,
+  "title": "부산도시철도 노사 교섭과 파업 철회",
+  "updatedAt": "2026-10-23T10:01:15.970914+09:00"
+}

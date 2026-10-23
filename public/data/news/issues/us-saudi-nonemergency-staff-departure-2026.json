@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-23/am.json",
+      "category": "국제정세",
+      "change": "사우디 내 비필수 미국 정부 직원·가족 철수 명령이 확인됐습니다. 실제 철수 완료는 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-23T10:01:15.970914+09:00",
+      "coveredOn": "2026-10-23",
+      "edition": "am",
+      "editionDate": "2026-10-23",
+      "editionId": "2026-10-23-am",
+      "eventAt": null,
+      "eventDate": "2026-10-21",
+      "eventEndDate": null,
+      "eventTimeNote": "철수 명령은 미국 현지 10월 21일 확인됐으며 정확한 발표 시각은 제공된 조사에 없습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-10-23-am/20261023-am-int-01",
+      "keyFacts": {
+        "대상": "사우디 내 비필수 미국 정부 직원·가족",
+        "조치": "철수 명령",
+        "철수 완료": "확인되지 않음",
+        "확인일": "2026-10-21 미국 현지"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-22T06:31:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-22T06:31:00+09:00",
+          "title": "미국, 사우디 체류 공무원·가족 대피령",
+          "url": "https://news.sbs.co.kr/news/endPagePrintPopup.do?news_id=N1008809290",
+          "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+        },
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-10-22T07:56:00+09:00",
+          "title": "미국, 사우디 주재 직원·가족 철수 명령",
+          "url": "https://files.newsis.com/view/NISX20261022_0003835891",
+          "verifiedAt": "2026-10-23T09:17:41.263831+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261023-am-int-01",
+      "summary": [
+        "미국 국무부가 사우디아라비아 내 비필수 정부 직원과 가족에게 철수를 명령했습니다. 중동 긴장에 대응한 외교인력 보호 조치입니다.",
+        "SBS와 뉴시스 보도, 서울신문의 범위 확인에서 공통으로 확인된 대상은 사우디의 비긴급 인력과 가족입니다. 걸프 전역의 미국인에게 내려진 일괄 철수 명령으로 확대할 수 없습니다.",
+        "명령 발표와 실제 철수 완료는 다릅니다. 이번 조치만으로 미국의 공격 결정이나 군사작전 개시가 확인된 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "미국, 사우디 내 비필수 정부 직원·가족 철수 명령",
+      "uncertainty": "실제 철수 완료와 미국의 공격 결정은 확인되지 않았습니다."
+    }
+  ],
+  "id": "us-saudi-nonemergency-staff-departure-2026",
+  "schemaVersion": 1,
+  "title": "미국의 사우디 비필수 정부 직원·가족 철수 명령",
+  "updatedAt": "2026-10-23T10:01:15.970914+09:00"
+}
