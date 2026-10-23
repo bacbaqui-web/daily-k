@@ -55,15 +55,19 @@ def evidence_urls(response):
 
 def check_sources(brief, urls):
     from publish import canonical_url
-    known = {canonical_url(url) for url in urls}
+    from urllib.parse import quote
+    # Encode Unicode without decoding reserved escapes such as %2F.
+    def evidence_key(url):
+        return canonical_url(quote(url, safe=":/?#[]@!$&'()*+,;=%"))
+    known = {evidence_key(url) for url in urls}
     for story in brief['stories']:
         for source in story['sources'] + story.get('relatedArticles', []) + story.get('alternatives', []):
-            if canonical_url(source['url']) not in known:
-                raise ValueError('Source URL absent from actual research evidence')
-        if canonical_url(story['representativeUrl']) not in known:
+            if evidence_key(source['url']) not in known:
+                raise ValueError('Source URL absent from actual research evidence: ' + source['url'])
+        if evidence_key(story['representativeUrl']) not in known:
             raise ValueError('Representative URL absent from research evidence')
     for event in brief['events']:
-        if canonical_url(event['source']['url']) not in known:
+        if evidence_key(event['source']['url']) not in known:
             raise ValueError('Event URL absent from research evidence')
 
 def check_reserve_coverage(brief, ledger, rejected=(), strict=False):
