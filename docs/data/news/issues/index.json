@@ -1,6 +1,155 @@
 {
-  "editionCount": 74,
+  "editionCount": 75,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "remarried-empress-mario-outlet-exhibition-2026",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "10월30일~12월24일 체험형 전시 계획이 보도됐습니다. 실제 개막과 사업 성과는 확인되지 않았습니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "발표",
+        "storyId": "20261024-am-web-01",
+        "title": "‘재혼 황후’ 원화·의상·XR 체험형 전시 계획…30일 개막 예정"
+      },
+      "path": "remarried-empress-mario-outlet-exhibition-2026.json",
+      "title": "재혼 황후 마리오아울렛 체험형 전시와 IP 활용"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "korean-air-asiana-amadeus-data-leak-2026",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "수탁사 비인가 접근에 따른 고객정보 유출과 항공사 보호 조치가 보도됐습니다. 발생 시점과 피해 규모는 조사 중입니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "보도",
+        "storyId": "20261024-am-safe-01",
+        "title": "대한항공·아시아나 고객정보, IT 수탁사 통해 유출…규모 조사 중"
+      },
+      "path": "korean-air-asiana-amadeus-data-leak-2026.json",
+      "title": "대한항공·아시아나 아마데우스 수탁사 고객정보 유출"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "경제·에너지"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-12T21:12:05+09:00",
+      "firstCoveredDate": "2026-10-12",
+      "id": "kepco-bond-cap-prepayment-tariff",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "선납 제안 무산과 특례 종료 시 한도 초과 예상액이 보도됐습니다. 요금 인상과 특례 유예는 미확정입니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "후속",
+        "storyId": "20261024-am-eco-01",
+        "title": "한전 사채 한도 특례 종료 시 19.2조원 초과 전망…요금 인상 결정은 미정"
+      },
+      "path": "kepco-bond-cap-prepayment-tariff.json",
+      "title": "한전채 한도와 대규모 전력망 재원 조달"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "iran-subsea-cable-threat-2026",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "이란 당국자들을 인용한 해저 케이블 타격·복구 차단 계획이 보도됐습니다. 실제 실행은 확인되지 않았습니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "보도",
+        "storyId": "20261024-am-int-01",
+        "title": "이란, 미·이스라엘 재공격 시 해저 통신망 타격·복구 차단 경고 보도"
+      },
+      "path": "iran-subsea-cable-threat-2026.json",
+      "title": "이란의 해저 통신망 타격과 복구 차단 경고"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "incarcerated-parent-child-contact-supreme-court-2026",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "대면교섭 배제 부분의 파기환송 결정이 보도됐습니다. 환송 후 구체적 교섭 조건은 미확정입니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "결과",
+        "storyId": "20261024-am-soc-01",
+        "title": "대법 “부모 수감만으로 자녀 대면교섭 배제 안 돼”…파기환송"
+      },
+      "path": "incarcerated-parent-child-contact-supreme-court-2026.json",
+      "title": "수감 부모와 자녀의 대면 면접교섭에 관한 대법원 판단"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "정치·정책"
+      ],
+      "eventCount": 7,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-26",
+      "id": "dmz-mine-incident-2026",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "정부가 MDL 상호확인과 군통신선 복원을 위한 군사회담을 제안했습니다. 북한 수락과 개최는 미확인입니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "발표",
+        "storyId": "20261024-am-pol-01",
+        "title": "정부, MDL 상호확인·군통신선 복원 위한 남북 군사회담 제의"
+      },
+      "path": "dmz-mine-incident-2026.json",
+      "title": "DMZ 폭발·지뢰 조사와 남북 입장"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "aidc-ecosystem-support-plan-2026",
+      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "인허가 간소화와 특구·기업 지원 계획이 발표됐습니다. 집행과 주민 협의 제도화는 미확정입니다.",
+        "editionId": "2026-10-24-am",
+        "stage": "발표",
+        "storyId": "20261024-am-tech-01",
+        "title": "정부, AI 데이터센터 인허가 간소화 지원안 발표…주민 협의 과제"
+      },
+      "path": "aidc-ecosystem-support-plan-2026.json",
+      "title": "AI 데이터센터 생태계 지원과 지역 수용성"
+    },
     {
       "categories": [
         "사회이슈"
@@ -2296,27 +2445,6 @@
     },
     {
       "categories": [
-        "경제·에너지"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-12T21:12:05+09:00",
-      "firstCoveredDate": "2026-10-12",
-      "id": "kepco-bond-cap-prepayment-tariff",
-      "lastCoveredAt": "2026-10-12T21:12:05+09:00",
-      "lastCoveredDate": "2026-10-12",
-      "latest": {
-        "archive": false,
-        "change": "한전 사장이 국정감사에서 선납 제안의 재무적 배경과 요금·전력망 비용 부담 구상을 설명했습니다.",
-        "editionId": "2026-10-12-pm",
-        "stage": "보도",
-        "storyId": "kepco-bond-cap-prepayment-tariff-2026-10-12",
-        "title": "한전 사장 “삼성·SK 전기료 선납 25조 제안은 채권 발행 부담 완화 목적”"
-      },
-      "path": "kepco-bond-cap-prepayment-tariff.json",
-      "title": "한전채 한도와 대규모 전력망 재원 조달"
-    },
-    {
-      "categories": [
         "국내·정책"
       ],
       "eventCount": 1,
@@ -4553,27 +4681,6 @@
     },
     {
       "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 6,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-26",
-      "id": "dmz-mine-incident-2026",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-30",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 여당도 DMZ 사안에 \"정전협정 위반, 사과하라\".",
-        "editionId": "2026-09-30-pm-archive",
-        "stage": "보도",
-        "storyId": "archive-04",
-        "title": "여당도 DMZ 사안에 \"정전협정 위반, 사과하라\""
-      },
-      "path": "dmz-mine-incident-2026.json",
-      "title": "DMZ 폭발·지뢰 조사와 남북 입장"
-    },
-    {
-      "categories": [
         "사회·스포츠"
       ],
       "eventCount": 4,
@@ -6548,7 +6655,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 564,
+  "storyCount": 571,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-23T21:18:44.279369+09:00"
+  "updatedAt": "2026-10-24T09:12:45.374510+09:00"
 }
