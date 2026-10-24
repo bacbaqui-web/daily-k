@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-24",
-  "collectedAt": "2026-10-24T11:40:38.533655+00:00",
+  "collectedAt": "2026-10-24T11:41:24.049862+00:00",
   "windowEnd": "2026-10-24T20:27:15.244345+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -529,6 +529,95 @@
       "sourceTitlesFetchedAt": "2026-10-24T11:40:38.502477+00:00",
       "collectedAt": "2026-10-24T20:40:38.502508+09:00",
       "firstPublishedAt": "2026-10-24T11:40:38.541110+00:00"
+    },
+    {
+      "id": "aagag-1664366-0",
+      "url": "https://aagag.com/issue/?idx=1664366",
+      "source": "애객",
+      "title": "김천에 올인한 자두 근황.mp4",
+      "publishedAt": "2026-10-24T18:47:51+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L200d.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "https://s.ppomppu.co.kr?idno=humor_788828⌖=aHR0cHM6Ly9tLnBwb21wcHUuY28ua3IvbmV3L2Jic192aWV3LnBocD9pZD1odW1vciZubz03ODg3MDc=&encode=on"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L200d.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "https://s.ppomppu.co.kr?idno=humor_788828⌖=aHR0cHM6Ly9tLnBwb21wcHUuY28ua3IvbmV3L2Jic192aWV3LnBocD9pZD1odW1vciZubz03ODg3MDc=&encode=on",
+      "reportedCommentCount": 10,
+      "commentsPartial": false,
+      "kCount": 35,
+      "commentCount": 10,
+      "laughingComments": 6,
+      "score": 35,
+      "kPerComment": 3.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8891093",
+          "text": "가수 자두에요? 누구지.."
+        },
+        {
+          "id": "8891098",
+          "text": "가수 자두 맞아요 ㅋㅋㅋ"
+        },
+        {
+          "id": "8891100",
+          "text": "노라조 묻었나?ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8891128",
+          "text": "김천에 자두도 특산물인가?"
+        },
+        {
+          "id": "8891140",
+          "text": "놀랍게도 맞음"
+        },
+        {
+          "id": "8891131",
+          "text": "김밥 행사에도 불려가고 자두 홍보에도 불려가고 열일하시는구나ㅋㅋ"
+        },
+        {
+          "id": "8891212",
+          "text": "목사 사모님 ㅎㅎㅎㅎ 남편이 목사임."
+        },
+        {
+          "id": "8891258",
+          "text": "김천의 특산품이 자두에 김밥축제를 여는데 가수 자두가 부르는 김밥 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8891265",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 올인"
+        },
+        {
+          "id": "8891409",
+          "text": "그린스크린에서 실사 촬영할때 소매에서 자두 떨어지는건 뭔뎈ㅋㅋㅋㅋㅋㅋ 엄청 귀여우심"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-24T20:41:11.480452+09:00",
+      "sourceTitles": [
+        "김천에 올인한 자두 근황.mp4",
+        "김천에 올인한 자두 근황",
+        "김천에 올인한 자두 근황.mp4",
+        "김천에  올인한 자두 근황 ㅎㅎㅎ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-24T11:41:24.020520+00:00",
+      "collectedAt": "2026-10-24T20:41:24.020535+09:00",
+      "firstPublishedAt": "2026-10-24T11:41:24.059402+00:00"
     },
     {
       "id": "aagag-1472424-0",
@@ -2364,7 +2453,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 22,
+  "candidateCount": 40,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
