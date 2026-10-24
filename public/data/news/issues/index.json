@@ -1,6 +1,156 @@
 {
-  "editionCount": 75,
+  "editionCount": 76,
   "issues": [
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "yeongdong-expressway-collisions-2026-10-24",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "횡성 연쇄 추돌 사망 피해와 별도 여주 사고 수습 경찰관 중상이 보도됐습니다. 원인·책임은 조사 중입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "보도",
+        "storyId": "20261024-pm-safe-01",
+        "title": "영동고속도로 연쇄 추돌로 부부 사망…별도 사고 수습 경찰관 중상"
+      },
+      "path": "yeongdong-expressway-collisions-2026-10-24.json",
+      "title": "영동고속도로 횡성 연쇄 추돌과 여주 사고 수습 경찰관 피해"
+    },
+    {
+      "categories": [
+        "과학·기술",
+        "정치·정책"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "php-security-patch-early-disclosure-2026",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "별도 CVE-2026-115560과 임시조치가 보도됐습니다. 정식 패치와 실제 피해는 미확인입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "후속",
+        "storyId": "20261024-pm-tech-01",
+        "title": "PHP 신규 취약점 발견…KISA, 정식 패치 전 임시조치 권고"
+      },
+      "path": "php-security-patch-early-disclosure-2026.json",
+      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "경제·에너지",
+        "국제·에너지"
+      ],
+      "eventCount": 19,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "브렌트유 116.72달러·WTI 103.27달러 정산이 확인됐습니다. 국내 가격 반영은 미확정입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "결과",
+        "storyId": "20261024-pm-eco-01",
+        "title": "브렌트유 116.72달러 마감…중동 긴장 속 6개월 만에 최고"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "line-digital-frontier-japan-original-investment-2026",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "3년간 100억엔 투자와 제작·다국어 유통·일본 캔버스 도입 계획이 발표됐습니다. 실제 집행·개시는 미확인입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "발표",
+        "storyId": "20261024-pm-web-01",
+        "title": "라인 디지털 프론티어, 일본 오리지널 콘텐츠에 3년간 100억엔 투자 계획"
+      },
+      "path": "line-digital-frontier-japan-original-investment-2026.json",
+      "title": "라인 디지털 프론티어 일본 오리지널 콘텐츠 투자와 창작자 발굴"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "labor-inspection-unpaid-wages-omission-2026",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "피해 직원과 체불임금 2100만원 누락이 보도됐습니다. 실제 지급과 법적 책임은 미확인입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "보도",
+        "storyId": "20261024-pm-soc-01",
+        "title": "근로감독서 피해 직원 누락…체불임금 2100만원 미반영 보도"
+      },
+      "path": "labor-inspection-unpaid-wages-omission-2026.json",
+      "title": "근로감독의 피해 직원 누락과 체불임금 구제"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "kim-jong-un-wang-huning-dandong-meeting-2026",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "단둥 방문과 왕후닝 면담이 보도됐습니다. 구체적인 신규 계약과 이행 결과는 미확인입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "보도",
+        "storyId": "20261024-pm-int-01",
+        "title": "김정은, 단둥서 왕후닝 면담…북중 무역·전략 협력 논의"
+      },
+      "path": "kim-jong-un-wang-huning-dandong-meeting-2026.json",
+      "title": "김정은의 단둥 방문과 왕후닝 면담"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "central-investigation-chief-cabinet-attendance-2026",
+      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
+      "lastCoveredDate": "2026-10-24",
+      "latest": {
+        "archive": false,
+        "change": "첫 배석과 관련한 법령·관행 및 독립성 우려가 분석됐습니다. 실제 수사 개입은 미확인입니다.",
+        "editionId": "2026-10-24-pm",
+        "stage": "분석",
+        "storyId": "20261024-pm-pol-01",
+        "title": "중수청장 국무회의 배석에 중립성 논쟁…적법성과 적절성 쟁점"
+      },
+      "path": "central-investigation-chief-cabinet-attendance-2026.json",
+      "title": "중수청장 국무회의 배석과 수사 독립성 논쟁"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -507,28 +657,6 @@
       },
       "path": "samsung-electromechanics-nvidia-substrate-partnership.json",
       "title": "삼성전기·엔비디아 AI 패키지기판 공급 협력"
-    },
-    {
-      "categories": [
-        "과학·기술",
-        "정치·정책"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
-      "firstCoveredDate": "2026-10-22",
-      "id": "php-security-patch-early-disclosure-2026",
-      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
-      "lastCoveredDate": "2026-10-22",
-      "latest": {
-        "archive": false,
-        "change": "정부가 민간 사이버위기 경보를 주의로 상향했습니다. 실제 침해 범위와 피해 규모는 별도 확인 대상입니다.",
-        "editionId": "2026-10-22-pm",
-        "stage": "후속",
-        "storyId": "20261022-pm-pol-01",
-        "title": "정부, PHP 취약점 대응 민간 사이버위기 경보 ‘주의’ 격상"
-      },
-      "path": "php-security-patch-early-disclosure-2026.json",
-      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
     },
     {
       "categories": [
@@ -1829,28 +1957,6 @@
       },
       "path": "boj-policy-2026.json",
       "title": "일본은행 금리 결정"
-    },
-    {
-      "categories": [
-        "경제·에너지",
-        "국제·에너지"
-      ],
-      "eventCount": 18,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-10-17T09:16:04+09:00",
-      "lastCoveredDate": "2026-10-17",
-      "latest": {
-        "archive": false,
-        "change": "WTI와 브렌트유가 각각 배럴당 101.41달러와 109.86달러로 정산됐고, 국내 석유 최고가격은 4주 더 동결됐습니다.",
-        "editionId": "2026-10-17-am",
-        "stage": "후속",
-        "storyId": "oil-prices-surge-and-korea-cap-2026-10-17",
-        "title": "WTI 100달러·브렌트 110달러 근접…국내 석유가격 상한 4주 연장"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
     },
     {
       "categories": [
@@ -6655,7 +6761,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 571,
+  "storyCount": 578,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-24T09:12:45.374510+09:00"
+  "updatedAt": "2026-10-24T21:20:04.971227+09:00"
 }
