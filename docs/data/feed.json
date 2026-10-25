@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-25",
-  "collectedAt": "2026-10-25T12:41:50.878881+00:00",
+  "collectedAt": "2026-10-25T12:42:40.873301+00:00",
   "windowEnd": "2026-10-25T21:41:50.763857+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5211,6 +5211,63 @@
       "sourceTitlesFetchedAt": "2026-10-24T13:14:45.833237+00:00",
       "collectedAt": "2026-10-24T22:14:45.833253+09:00",
       "firstPublishedAt": "2026-10-24T13:14:45.922217+00:00"
+    },
+    {
+      "id": "aagag-1664633-0",
+      "url": "https://aagag.com/issue/?idx=1664633",
+      "source": "애객",
+      "title": "오늘 자 인성 수준 알거 같은 이화여대 언냐..jpg",
+      "publishedAt": "2026-10-25T21:34:08+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2Pcc.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L2Pcc.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 4,
+      "laughingComments": 3,
+      "score": 17,
+      "kPerComment": 4.25,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8895237",
+          "text": "ㅋㅋ 말뽄새"
+        },
+        {
+          "id": "8895243",
+          "text": "요즘 이대 정도면 저렇게 잘난척 할 때가 아닐텐데...? 하긴 그러니 만만한 애 데리고 무시하면서 자존감 채우는거겠지만ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8895253",
+          "text": "옛날이나 지금이나 여대 특유의 그 졸렬하며 자아비대 극페미같은 감성이있음"
+        },
+        {
+          "id": "8895248",
+          "text": "대학입시가 인생의 다인 애들이 저런 경우 많음 ㅋㅋㅋㅋㅋ 진짜 사회 나와서 하는 짓거리 보면 가관인 애들 ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-25T21:42:30.369958+09:00",
+      "sourceTitles": [
+        "오늘 자 인성 수준 알거 같은 이화여대 언냐..jpg",
+        "에브리타임 어제자 이화여대생 근황 .jpg",
+        "오늘자 에타 이화여대생 근황",
+        "오늘자 에타 이화여대생 근황"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-25T12:42:40.792010+00:00",
+      "collectedAt": "2026-10-25T21:42:40.792026+09:00",
+      "firstPublishedAt": "2026-10-25T12:42:40.888154+00:00"
     },
     {
       "id": "aagag-727850-0",
@@ -11899,7 +11956,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
