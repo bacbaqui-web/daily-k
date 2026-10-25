@@ -1,6 +1,156 @@
 {
-  "editionCount": 77,
+  "editionCount": 78,
   "issues": [
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 5,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "이란 공격 선택지 보고가 소식통 인용으로 보도됐습니다. 승인·실행은 미확인입니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "보도",
+        "storyId": "20261025-pm-int-01",
+        "title": "미군, 이란 공격안 보고했다는 보도…대통령 승인 미확인"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "firstCoveredDate": "2026-10-21",
+      "id": "super-regional-special-zone-labor-bill-2026",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "대통령의 시행령 검토 발언과 노동계 반발, 특위 구성 검토가 추가 보도됐습니다. 제도 변경은 미확정입니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "후속",
+        "storyId": "20261025-pm-pol-01",
+        "title": "초광역특구 노동시간 특례 논쟁…시행령 검토 발언에 노동계 반발"
+      },
+      "path": "super-regional-special-zone-labor-bill-2026.json",
+      "title": "초광역특구법 노동규제 특례와 입법 논의"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "firstCoveredDate": "2026-10-25",
+      "id": "social-service-personnel-sex-offense-school-placement-2026",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "유죄 판결 이후 학교 복귀·재지정 지연 사례와 병무청 해명이 보도됐습니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "보도",
+        "storyId": "20261025-pm-soc-01",
+        "title": "성범죄 유죄 사회복무요원 학교 복귀 사례…재지정 관리 공백 보도"
+      },
+      "path": "social-service-personnel-sex-offense-school-placement-2026.json",
+      "title": "성범죄 사회복무요원의 학교 배치와 근무지 재지정 관리"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "firstCoveredDate": "2026-10-25",
+      "id": "sic-frank-stacking-fault-emission-459nm-2026",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "특정 적층결함의 발광 파장이 459nm라는 연구가 소개됐습니다. 표준 개정·양산 성과는 미확인입니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "보도",
+        "storyId": "20261025-pm-tech-01",
+        "title": "전기연 연구팀, SiC 반도체 특정 결함 발광 파장 459nm 규명"
+      },
+      "path": "sic-frank-stacking-fault-emission-459nm-2026.json",
+      "title": "SiC 전력반도체 적층결함 발광 파장 규명"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "firstCoveredDate": "2026-10-25",
+      "id": "korean-ai-children-creation-contest-2026",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "웹툰 부문을 포함한 본선 개최가 확인됐습니다. 상업적 창작 성과는 미확인입니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "결과",
+        "storyId": "20261025-pm-web-01",
+        "title": "국산 AI 활용 동화·동요·웹툰 창작대회 본선 개최"
+      },
+      "path": "korean-ai-children-creation-contest-2026.json",
+      "title": "국산 AI 활용 어린이 동화·동요·웹툰 창작대회"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 30,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "23일 기준 10대 그룹 시가총액과 지난달 말 대비 감소 규모가 보도됐습니다. 정책 효과는 미확정입니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "후속",
+        "storyId": "20261025-pm-eco-01",
+        "title": "10대 그룹 시가총액, 지난달 말보다 1101조원 넘게 감소"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "firstCoveredDate": "2026-10-25",
+      "id": "giftiel-personal-data-leak-2026",
+      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
+      "lastCoveredDate": "2026-10-25",
+      "latest": {
+        "archive": false,
+        "change": "운영사의 유출 확인일은 22일이며, 신고·고객 통지 관련 기사 게재일은 25일입니다. eventDate는 유출 확인일을 뜻하며 실제 침해 시점·피해 규모·악용 피해는 미확인입니다.",
+        "editionId": "2026-10-25-pm",
+        "stage": "보도",
+        "storyId": "20261025-pm-safe-01",
+        "title": "기프티엘 해킹으로 개인정보 유출…환불 계좌번호도 포함 보도"
+      },
+      "path": "giftiel-personal-data-leak-2026.json",
+      "title": "기프티엘 개인정보 유출과 고객 보호 조치"
+    },
     {
       "categories": [
         "국제정세"
@@ -1178,27 +1328,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
-      "firstCoveredDate": "2026-10-21",
-      "id": "super-regional-special-zone-labor-bill-2026",
-      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
-      "lastCoveredDate": "2026-10-21",
-      "latest": {
-        "archive": false,
-        "change": "노동 관련 특례 법안이 발의됐습니다. 통과·시행된 제도는 아닙니다.",
-        "editionId": "2026-10-21-am",
-        "stage": "발표",
-        "storyId": "20261021-am-pol-01",
-        "title": "초광역특구법 발의…근로시간·기간제 특례에 노동계 반발"
-      },
-      "path": "super-regional-special-zone-labor-bill-2026.json",
-      "title": "초광역특구법 노동규제 특례와 입법 논의"
-    },
-    {
-      "categories": [
         "사회이슈"
       ],
       "eventCount": 1,
@@ -1322,29 +1451,6 @@
       },
       "path": "microsoft-visual-ai-agent-research-2026.json",
       "title": "MS 시각 기반 소프트웨어 조작 AI 에이전트 연구"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 29,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-20T21:12:30.244765+09:00",
-      "lastCoveredDate": "2026-10-20",
-      "latest": {
-        "archive": false,
-        "change": "코스피가 전날 5,768.01에서 5,552.74로 3.73% 하락했고 코스닥은 781.97로 마감했습니다.",
-        "editionId": "2026-10-20-pm",
-        "stage": "결과",
-        "storyId": "korea-market-2026-10-20-close",
-        "title": "코스피 3.73% 하락한 5,552.74 마감…코스닥도 3.33% 내려"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -4557,27 +4663,6 @@
     },
     {
       "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 4,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 미국, 중동에 항모 1척·병력 최대 1만명 추가 파견.",
-        "editionId": "2026-10-02-am-archive",
-        "stage": "보도",
-        "storyId": "archive-05",
-        "title": "미국, 중동에 항모 1척·병력 최대 1만명 추가 파견"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
-    },
-    {
-      "categories": [
         "기술·IT·AI"
       ],
       "eventCount": 4,
@@ -6888,7 +6973,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 585,
+  "storyCount": 592,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-25T09:21:02.873967+09:00"
+  "updatedAt": "2026-10-25T21:35:11.887223+09:00"
 }

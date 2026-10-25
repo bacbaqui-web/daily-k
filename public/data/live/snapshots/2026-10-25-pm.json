@@ -1,0 +1,733 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-10-25T21:36:22.602848+09:00",
+  "id": "2026-10-25-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-10-25T21:00:00+09:00",
+      "date": "2026-10-25",
+      "edition": "pm",
+      "events": [
+        {
+          "at": "2026-10-26T05:00:00+09:00",
+          "date": "2026-10-26",
+          "detail": "브라질리아 기준 25일 17시 투표 종료 일정입니다. 개표 완료와 당선 확정 시각은 별도로 확인해야 합니다.",
+          "source": {
+            "kind": "official",
+            "language": "pt",
+            "name": "브라질 최고선거법원 TSE",
+            "publishedAt": null,
+            "title": "2026 선거 안내",
+            "url": "https://www.tse.jus.br/eleicoes/cde-2026",
+            "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+          },
+          "timeNote": "브라질리아 UTC-3의 25일 17시를 한국시간 26일 05시로 환산했습니다.",
+          "title": "브라질 대선 결선투표 종료 예정"
+        },
+        {
+          "at": "2026-10-26T18:30:00+09:00",
+          "date": "2026-10-26",
+          "detail": "독일 기업의 경기 판단과 기대를 살필 지표 발표 일정입니다. 결과 수치는 아직 확인되지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "ifo 연구소",
+            "publishedAt": null,
+            "title": "ifo Business Climate Index Germany October 2026",
+            "url": "https://www.ifo.de/en/ifo-business-climate-index-germany-october-2026",
+            "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+          },
+          "timeNote": "독일 현지 26일 10시30분 CET를 한국시간 18시30분으로 환산했습니다.",
+          "title": "독일 10월 ifo 기업환경지수 발표 예정"
+        },
+        {
+          "at": "2026-10-26T21:30:00+09:00",
+          "date": "2026-10-26",
+          "detail": "미국 경제활동을 종합적으로 살필 CFNAI 발표 일정입니다. 발표 결과와 이후 해석은 확인 전입니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "시카고 연방준비은행",
+            "publishedAt": null,
+            "title": "Data Release Calendar",
+            "url": "https://www.chicagofed.org/research/data/data-release-calendar",
+            "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 26일 08시30분 EDT를 한국시간 21시30분으로 환산했습니다.",
+          "title": "미국 9월 시카고 연은 국가활동지수 발표 예정"
+        }
+      ],
+      "generatedAt": "2026-10-25T21:35:11.887223+09:00",
+      "id": "2026-10-25-pm",
+      "intro": "10월 25일 오후 브리핑입니다. 제공된 조사와 기존 게재 이력을 대조해 7개 분야를 선정했습니다.",
+      "keywords": [
+        "이란 공격 선택지",
+        "대통령 승인 미확인",
+        "10대 그룹 시가총액",
+        "노동시간 특례",
+        "사회복무요원 관리",
+        "SiC 결함 459nm",
+        "기프티엘 개인정보 유출",
+        "국산 AI 창작대회",
+        "브라질 결선투표"
+      ],
+      "overview": [
+        "미군의 이란 공격 선택지 보고가 소식통 인용으로 보도됐으며 대통령 승인과 공격 실행은 확인되지 않았습니다. 국내 10대 그룹의 시가총액은 23일 기준으로 지난달 말보다 1101조원 넘게 감소했습니다.",
+        "초광역특구 노동시간 특례를 둘러싼 시행령 검토 발언과 노동계 반발이 보도됐습니다. 성범죄 유죄 판결을 받은 사회복무요원의 학교 복귀 사례도 확인됐으며 병무청은 휴가와 분리 조치를 했다고 설명했습니다.",
+        "과학·기술에서는 SiC 반도체 결함의 발광 파장을 규명한 연구를, 생활·안전에서는 기프티엘 개인정보 유출을 다룹니다. 웹툰산업은 이미 게재한 게임 다운로드 지표를 제외하고 웹툰 부문을 포함한 국산 AI 창작대회 본선 개최로 대체했습니다."
+      ],
+      "publicationNote": "제공된 조사만 사용했습니다. 웹툰산업 조사 1위의 7000만 다운로드는 2026-10-21-am에 게재된 동일 지표로 새로운 수치나 결과가 없어 제외했습니다. 다음 검증 후보인 창작대회를 대표로 유지하고, 남은 검증 후보인 트윈플러스를 대표 다음 순위인 rank 2로 재정렬해 alternatives에 보존했습니다. 대표와 같은 창작대회를 예비에 중복하거나 반복 제외한 다운로드 기사를 되살리지 않았습니다. 별도의 두 번째 유효 예비는 확보되지 않았습니다. 같은 더힐 취재를 인용한 두 매체의 보도는 독립 교차검증으로 계산하지 않았습니다. 생성시각과 출처 검증시각은 프로그램 기록 대상으로 남겼습니다.",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [
+            {
+              "name": "뉴스1",
+              "rank": 2,
+              "reason": "25일 20시 투표 시작이 확인된 별도 사건입니다. 외교·통상 노선에 중요하지만 중동 확전 위험 다음으로 평가했습니다. 당선자는 미확정입니다.",
+              "title": "브라질 대선 결선투표 시작…룰라·플라비우 경쟁",
+              "url": "https://n.news.naver.com/mnews/article/421/0009248724"
+            },
+            {
+              "name": "뉴시스",
+              "rank": 3,
+              "reason": "23일 발표된 방한·정상회담 계획을 확인했습니다. 반도체·AI·방산 협력에 관련되지만 회담과 합의는 아직 이뤄지지 않아 후순위입니다.",
+              "title": "이 대통령, 29일 독일 메르츠 총리와 정상회담 예정",
+              "url": "https://nwww.newsis.com/view/NISX20261023_0003839281"
+            }
+          ],
+          "category": "국제정세",
+          "emphasis": [
+            "대통령 승인이나 공격 실행은 확인되지 않았습니다",
+            "소식통 설명"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "더힐 보도는 미국 현지 10월 24일로 조사됐습니다. 공격안 작성·보고의 정확한 날짜와 시각은 확인되지 않았습니다.",
+          "factsHash": "3f614017b0c347b7d56631b2b20340e19a4c645776a40e7184f23c380f6563a6",
+          "id": "20261025-pm-int-01",
+          "keyFacts": {
+            "공격 실행": "미확인",
+            "대통령 승인": "미확인",
+            "보고 대상": "피트 헤그세스 미국 국방장관",
+            "보도 내용": "중간선거 이후 이란 공격 선택지 보고, 더힐 소식통 인용"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-25T20:27:10+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스·중앙일보 미주 전재",
+              "publishedAt": null,
+              "title": "미군의 이란 공격안 보고 관련 더힐 인용 보도",
+              "url": "https://www.koreadaily.com/article/20261025040238394",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/422/0000919372",
+          "score": 91.85,
+          "scoreComponents": {
+            "domesticImpact": 85,
+            "importance": 96,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 80
+          },
+          "scoreReason": "25일 20시27분의 최신 보도로 중동 확전의 파급을 우선했습니다. 뉴스1의 브라질 결선투표 시작과 뉴시스의 한독 정상회담 계획보다 안보·에너지 위험을 높게 평가하되 소식통 인용의 한계를 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스TV",
+              "publishedAt": "2026-10-25T20:27:10+09:00",
+              "title": "美 매체 \"미군, 중간선거 뒤 '이란 공격안' 국방장관에 보고…트럼프 결정 대기\"",
+              "url": "https://n.news.naver.com/mnews/article/422/0000919372",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스·중앙일보 미주 전재",
+              "publishedAt": null,
+              "title": "미군의 이란 공격안 보고 관련 더힐 인용 보도",
+              "url": "https://www.koreadaily.com/article/20261025040238394",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미군 중부사령부가 중간선거 이후 이란을 공격하는 선택지를 국방장관에게 보고했다고 연합뉴스TV가 더힐을 인용해 전했습니다. 대통령 승인이나 공격 실행은 확인되지 않았습니다.",
+            "보도는 소식통 설명에 근거합니다. 미 국방부는 대통령에게 군사적 선택지를 제시하는 것이 임무라고 반응했고 중부사령부는 답하지 않았다고 전했습니다.",
+            "중동 확전과 에너지 시설 안전에 영향을 줄 사안입니다. 연합뉴스의 별도 기사도 같은 더힐 취재를 인용하므로 독립적인 확인으로 볼 수 없으며, 계획 보고와 실제 작전 결정을 구분해야 합니다."
+          ],
+          "timeline": {
+            "change": "이란 공격 선택지 보고가 소식통 인용으로 보도됐습니다. 승인·실행은 미확인입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "us-iran-military",
+            "issueTitle": "미국·이란 군사 대응",
+            "stage": "보도"
+          },
+          "title": "미군, 이란 공격안 보고했다는 보도…대통령 승인 미확인",
+          "topicKey": "us-iran-attack-options-report-2026-10-24",
+          "uncertainty": "보고 내용은 소식통 기반이며 대통령 승인·작전 실행은 확인되지 않았습니다.",
+          "whatChanged": "중부사령부의 공격 선택지 보고에 관한 소식통 인용 보도가 추가됐습니다.",
+          "whyItMatters": "중동 확전과 에너지 공급 위험에 관련된 군사적 선택지 보도입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "TV조선",
+              "rank": 2,
+              "reason": "24일 확인된 노사 사건으로 철강 공급망에 중요합니다. 실제 파업과 생산 차질은 미확인이며 광범위한 시장 집계 다음으로 평가했습니다.",
+              "title": "포스코 노조, 임금협상 결렬로 11월 2일부터 무기한 파업 예고",
+              "url": "https://n.news.naver.com/mnews/article/448/0000646695"
+            },
+            {
+              "name": "국민일보",
+              "rank": 3,
+              "reason": "25일 회사의 투자계획 재검토 설명이 확인됐습니다. 대체 조달 방식과 공장 부지는 미확정이며 개별 기업 사안으로 후순위입니다.",
+              "title": "SK하이닉스, 솔리다임 IPO 철회 뒤 미국 낸드 투자 재원 재검토",
+              "url": "https://n.news.naver.com/mnews/article/005/0001880701"
+            }
+          ],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "3371조4410억원",
+            "1101조원 넘게 감소",
+            "실제 확정 손실"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "시가총액은 10월 23일과 9월 말의 비교입니다. 거래소 집계 공개의 정확한 시각은 확인되지 않았습니다.",
+          "factsHash": "305955efa8477603dd7856da78d59e2ed58206d2afaa2ef30edfd21cfb8b181b",
+          "followUp": {
+            "delta": "20일 지수 종가 보도 이후 23일 기준 10대 그룹 시가총액과 지난달 말 대비 1101조원 초과 감소라는 새 집계가 보도됐습니다.",
+            "editionId": "2026-10-20-pm",
+            "storyId": "korea-market-2026-10-20-close"
+          },
+          "id": "20261025-pm-eco-01",
+          "keyFacts": {
+            "10대 그룹 시가총액": "3371조4410억원",
+            "감소 규모": "1101조원 초과",
+            "비교 기준": "2026년 9월 말 4472조5308억원",
+            "집계 기준": "2026-10-23"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-25T19:02:13+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "세계일보",
+              "publishedAt": "2026-10-25T19:02:13+09:00",
+              "title": "10대그룹 시총 한 달 1100조 증발… 정부 ‘손’ 쓸까",
+              "url": "https://n.news.naver.com/mnews/article/022/0004169529",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/022/0004169529",
+          "score": 94.85,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 94,
+            "interest": 92,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "25일 19시 보도된 시장 전체 집계의 영향 범위를 TV조선의 포스코 파업 예고와 국민일보의 솔리다임 투자 재검토보다 높게 평가했습니다. 오전 예비로 확인된 연합뉴스 집계와 같은 사안이므로 별도 기사로 중복 편성하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "세계일보",
+              "publishedAt": "2026-10-25T19:02:13+09:00",
+              "title": "10대그룹 시총 한 달 1100조 증발… 정부 ‘손’ 쓸까",
+              "url": "https://n.news.naver.com/mnews/article/022/0004169529",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "국내 10대 그룹의 시가총액이 10월 23일 기준 3371조4410억원으로 집계됐다고 세계일보가 보도했습니다. 지난달 말 4472조5308억원보다 1101조원 넘게 감소했습니다.",
+            "이는 여러 그룹을 묶은 시가총액 비교로, 투자자의 실제 확정 손실이나 기업에서 빠져나간 현금 규모를 뜻하지 않습니다. 출처 간 불일치가 지적된 개별 기업 수치는 사용하지 않았습니다.",
+            "증권시장안정펀드 등 대응 수단에 관심이 모이지만 실제 자금 투입이나 시장 반등이 확인된 것은 아닙니다. 안정화 대책의 방향과 효과에 관한 설명은 기사에 담긴 전망·분석입니다."
+          ],
+          "timeline": {
+            "change": "23일 기준 10대 그룹 시가총액과 지난달 말 대비 감소 규모가 보도됐습니다. 정책 효과는 미확정입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "후속"
+          },
+          "title": "10대 그룹 시가총액, 지난달 말보다 1101조원 넘게 감소",
+          "topicKey": "top-ten-groups-market-cap-2026-10-23",
+          "uncertainty": "시가총액 감소는 실현 손실과 다르며 안정화 대책의 집행·효과는 확인되지 않았습니다.",
+          "whatChanged": "23일 기준 10대 그룹 시가총액의 새로운 비교 집계가 보도됐습니다.",
+          "whyItMatters": "국내 주요 기업군의 주가 하락 범위와 시장 안정 대응을 살필 자료입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "SBS",
+              "rank": 2,
+              "reason": "25일 새 CCTV와 수사 방침을 확인한 후속 후보입니다. 기존 화재 자체의 반복과 구분하되 살해 고의와 혐의 적용은 미확정이며 제도적 아동 보호 문제 다음으로 평가했습니다.",
+              "title": "역삼동 연쇄 방화 CCTV 공개…경찰, 살인미수 혐의 적용 검토",
+              "url": "https://n.news.naver.com/mnews/article/055/0001398073"
+            },
+            {
+              "name": "MBC",
+              "rank": 3,
+              "reason": "25일 외교부 조사와 근무 영상에 관한 보도가 확인됐습니다. 공관 인력·과로에 중요하지만 순직 인정은 절차 진행 중이며 후순위로 평가했습니다.",
+              "title": "숨진 주파푸아뉴기니 외교관, 사망 전 석 달 초과근무 305시간",
+              "url": "https://n.news.naver.com/mnews/article/214/0001531294"
+            }
+          ],
+          "category": "사회이슈",
+          "emphasis": [
+            "기존 학교로 돌아간 사례",
+            "분리 조치",
+            "48일"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "25일 취재 보도이며 사례는 2023년·2024년·올해 5월 등을 다룹니다. 개별 판결과 재지정 시각은 확인되지 않았습니다.",
+          "factsHash": "7d40981648579d2b0f206ffbd7037d16159cfdad3375d3d1ed7b64342c1b89bf",
+          "id": "20261025-pm-soc-01",
+          "keyFacts": {
+            "경산 사례": "기존 학교 복귀 후 48일 뒤 근무지 이동 보도",
+            "병무청 설명": "재지정 기관 확보 지연, 대부분 휴가·출근일 분리 조치",
+            "추가 사례": "서울 은평구·경기 성남"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-25T20:13:23+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-10-25T20:13:23+09:00",
+              "title": "[단독] '성폭행' 처벌돼도 다시 학교로‥사회복무요원 '구멍'",
+              "url": "https://n.news.naver.com/mnews/article/214/0001531290",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/214/0001531290",
+          "score": 92.6,
+          "scoreComponents": {
+            "domesticImpact": 92,
+            "importance": 94,
+            "interest": 82,
+            "recency": 100,
+            "reliability": 85
+          },
+          "scoreReason": "25일 20시13분의 새 취재로 아동 보호와 반복된 관리 공백의 공공성을 우선했습니다. SBS의 역삼동 CCTV 후속과 MBC의 외교관 과로 조사보다 제도적 예방 범위를 높게 평가하되 단독 보도 한계를 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-10-25T20:13:23+09:00",
+              "title": "[단독] '성폭행' 처벌돼도 다시 학교로‥사회복무요원 '구멍'",
+              "updatedAt": "2026-10-25T20:27:00+09:00",
+              "url": "https://n.news.naver.com/mnews/article/214/0001531290",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "성범죄 유죄 판결을 받은 사회복무요원이 기존 학교로 돌아간 사례가 확인됐다고 MBC가 보도했습니다. 병무청은 근무지 재지정 전 대부분 휴가를 사용했고 출근일에도 분리 조치를 했다고 설명했습니다.",
+            "경북 경산의 사례에서는 아동·청소년 기관 취업 제한 명령을 받은 요원이 기존 학교에서 48일 뒤 근무지를 옮겼다고 전했습니다. 서울 은평구와 경기 성남의 사례도 함께 제시됐습니다.",
+            "병무청은 재지정 기관을 찾는 데 시간이 걸렸다고 해명했습니다. 아동·청소년 보호와 기관 간 통보·재배치 절차를 점검할 사안이며, 기사에 제시된 복귀 기간 전체를 학생과 실제 접촉한 기간으로 단정하지 않았습니다."
+          ],
+          "timeline": {
+            "change": "유죄 판결 이후 학교 복귀·재지정 지연 사례와 병무청 해명이 보도됐습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "social-service-personnel-sex-offense-school-placement-2026",
+            "issueTitle": "성범죄 사회복무요원의 학교 배치와 근무지 재지정 관리",
+            "stage": "보도"
+          },
+          "title": "성범죄 유죄 사회복무요원 학교 복귀 사례…재지정 관리 공백 보도",
+          "topicKey": "social-service-personnel-sex-offense-school-placement-2026",
+          "uncertainty": "단독 취재 보도이며 실제 접촉 범위와 개별 행정 책임에 대한 최종 판단은 확인되지 않았습니다.",
+          "whatChanged": "성범죄 유죄 판결 이후 학교 복귀와 근무지 재지정 지연 사례가 새 취재로 보도됐습니다.",
+          "whyItMatters": "아동·청소년 보호와 사회복무요원 배치·관리 절차에 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "연합뉴스",
+              "rank": 2,
+              "reason": "25일 촬영 사진에서 배치와 훈련으로 보이는 활동을 확인했습니다. 접경 안전에 중요하나 의도·추가 배치는 분석이며 노동조건 변경 논쟁 다음으로 평가했습니다.",
+              "title": "북한군 자주포, 개풍군 접경 해안에서 배치·훈련 모습 포착",
+              "url": "https://n.news.naver.com/mnews/article/001/0016399353"
+            },
+            {
+              "name": "연합뉴스TV",
+              "rank": 3,
+              "reason": "25일 공식 검토 입장 보도는 확인됐습니다. 납세에 관련되지만 재유예나 시행 변경은 결정되지 않아 후순위입니다.",
+              "title": "청와대, 가상자산 과세 재유예 “검토 중…결정 아냐”",
+              "url": "https://n.news.naver.com/mnews/article/422/0000919333"
+            }
+          ],
+          "category": "정치·정책",
+          "emphasis": [
+            "시행령 수정 검토 발언",
+            "법안 통과나 특례 시행이 확정된 것은 아닙니다",
+            "건강권 보호"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "대통령 발언은 10월 23일 회의에서 나왔고 노동계 반응과 특위 구성 검토는 25일 보도됐습니다. 정확한 발언·반응 시각은 확인되지 않았습니다.",
+          "factsHash": "b33337f4a86f3c04f3eaf8e410fcfef4f528ebdc5da03fd4951b653b59aa5aeb",
+          "followUp": {
+            "delta": "20일 법안 발의 보도 이후 대통령의 23일 시행령·절차 검토 발언과 25일 노동계 반발, 민주당의 특위 구성 검토가 추가됐습니다.",
+            "editionId": "2026-10-21-am",
+            "storyId": "20261021-am-pol-01"
+          },
+          "id": "20261025-pm-pol-01",
+          "keyFacts": {
+            "기존 법안 발의": "2026-10-20",
+            "대통령 발언": "2026-10-23 시행령 수정·절차 간소화 검토 언급",
+            "추가 보도": "2026-10-25 노동계 반발·국회 특위 구성 검토",
+            "통과·시행": "미확인"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-25T19:50:26+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한겨레",
+              "publishedAt": "2026-10-25T19:50:26+09:00",
+              "title": "이 대통령 ‘주52시간 특례’ 발언에…“죽도록 일 해 돈 벌라는 정책”",
+              "url": "https://n.news.naver.com/mnews/article/028/0002829105",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/028/0002829105",
+          "score": 93.15,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 93,
+            "interest": 83,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "25일 19시50분 게시·20시44분 수정 보도로 노동조건의 지속적 파급을 우선했습니다. 연합뉴스의 접경 자주포 포착과 연합뉴스TV의 가상자산 과세 검토보다 적용 인구와 제도 영향을 높게 평가했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한겨레",
+              "publishedAt": "2026-10-25T19:50:26+09:00",
+              "title": "이 대통령 ‘주52시간 특례’ 발언에…“죽도록 일 해 돈 벌라는 정책”",
+              "updatedAt": "2026-10-25T20:44:00+09:00",
+              "url": "https://n.news.naver.com/mnews/article/028/0002829105",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "초광역특구의 노동시간 특례와 관련한 대통령의 시행령 수정 검토 발언에 노동계가 반발했다고 한겨레가 보도했습니다. 법안 통과나 특례 시행이 확정된 것은 아닙니다.",
+            "대통령은 23일 규제합리화위원회 회의에서 기존 제도의 절차를 쉽게 할 방법 등을 논의하라고 말했습니다. 노동계는 가산수당 지급과 별개로 노동시간 제한과 건강권 보호가 필요하다고 비판했습니다.",
+            "민주당은 국회 특별위원회 구성 등을 검토하는 것으로 보도됐습니다. 법안 처리 시점과 특구 지정 일정의 지연 가능성은 전망이며 확정된 일정 변경으로 볼 수 없습니다."
+          ],
+          "timeline": {
+            "change": "대통령의 시행령 검토 발언과 노동계 반발, 특위 구성 검토가 추가 보도됐습니다. 제도 변경은 미확정입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "super-regional-special-zone-labor-bill-2026",
+            "issueTitle": "초광역특구법 노동규제 특례와 입법 논의",
+            "stage": "후속"
+          },
+          "title": "초광역특구 노동시간 특례 논쟁…시행령 검토 발언에 노동계 반발",
+          "topicKey": "super-regional-special-zone-labor-bill-2026-10-20",
+          "uncertainty": "특례 내용과 법안 처리, 시행령 변경 및 시행 일정은 확정되지 않았습니다.",
+          "whatChanged": "법안 발의 이후 대통령의 검토 발언과 노동계 반응, 국회 논의 방식 검토가 추가됐습니다.",
+          "whyItMatters": "노동시간·건강권과 지역 투자정책의 적용 조건에 영향을 줄 입법 논쟁입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "중앙일보",
+              "rank": 2,
+              "reason": "25일 06시22분 신고된 별도 사고로 243명 탑승과 승객 1명 화상, 승무원의 격리·침수 조치를 확인했습니다. 직접 안전성이 크지만 유출 후속 피해 예방 다음으로 평가했습니다.",
+              "title": "홍콩발 제주행 항공기서 보조배터리 발열·연기…승객 1명 화상",
+              "url": "https://n.news.naver.com/mnews/article/025/0003560248"
+            },
+            {
+              "name": "뉴스핌",
+              "rank": 3,
+              "reason": "25일 10시34분 기사에서 당일 08시23분께 화재와 차량 전소를 확인했습니다. 운전기사 1명만 탑승했고 인명피해는 없어 후순위이며 원인은 조사 중입니다.",
+              "title": "주행 중 마을버스 화재로 차량 전소…인명피해 없어",
+              "url": "https://www.newspim.com/news/view/20261025000032"
+            }
+          ],
+          "category": "생활·안전",
+          "emphasis": [
+            "환불용 계좌번호",
+            "피해 고객 수는 확인되지 않았습니다",
+            "대상 고객"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "운영사의 유출 사실 확인일은 10월 22일이며, 기사 게재일은 10월 25일입니다. 실제 침해 발생 시각과 22일의 정확한 확인 시각은 알려지지 않았습니다.",
+          "factsHash": "018a57ec71a4c33d22ed804ab214824778302d96defa4141bf5932f9454fcdc5",
+          "id": "20261025-pm-safe-01",
+          "keyFacts": {
+            "기사 게재일": "2026-10-25",
+            "보도된 유출 항목": "이름·휴대전화번호·이메일·환불 계좌번호 등",
+            "서비스": "기프티엘",
+            "운영사": "스푼",
+            "피해 규모": "미확인",
+            "회사 유출 확인일": "2026-10-22"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-25T17:00:15+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "농민신문",
+              "publishedAt": "2026-10-25T17:00:15+09:00",
+              "title": "“이젠 환불 계좌번호까지”…롯데그룹 쿠폰 업체 ‘기프티엘’도 해킹당했다",
+              "url": "https://n.news.naver.com/mnews/article/662/0000106892",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/662/0000106892",
+          "score": 92.05,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 92,
+            "interest": 84,
+            "recency": 100,
+            "reliability": 87
+          },
+          "scoreReason": "25일 17시 기사는 운영사가 22일 확인한 계좌번호 포함 별도 유출 사건을 다룹니다. 사건 확인일과 기사 게재일을 구분했습니다. 중앙일보의 기내 배터리 사고와 뉴스핌의 마을버스 화재보다 이용자의 후속 피해 예방 범위를 우선하되 유출 규모는 추정하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "농민신문",
+              "publishedAt": "2026-10-25T17:00:15+09:00",
+              "title": "“이젠 환불 계좌번호까지”…롯데그룹 쿠폰 업체 ‘기프티엘’도 해킹당했다",
+              "url": "https://n.news.naver.com/mnews/article/662/0000106892",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "모바일 쿠폰 서비스 기프티엘에서 해킹으로 이름·휴대전화번호·이메일과 환불용 계좌번호 등이 유출됐다고 농민신문이 25일 보도했습니다. 운영사의 유출 확인일은 22일이며 피해 고객 수는 확인되지 않았습니다.",
+            "운영사 스푼은 22일 외부 비인가 접근에 따른 일부 고객정보 유출을 확인하고 관계기관에 신고했다고 밝혔습니다. 대상 고객에게 문자메시지로 통지하고 있다고 설명했습니다.",
+            "이용자는 운영사의 대상자 안내를 확인하고 출처가 불분명한 문자·전화·링크에 주의할 필요가 있습니다. 동일한 로그인 정보를 쓰는 계정의 비밀번호 변경도 기사에서 권고됐으며, 실제 금융사기 피해가 확인됐다는 뜻은 아닙니다."
+          ],
+          "timeline": {
+            "change": "운영사의 유출 확인일은 22일이며, 신고·고객 통지 관련 기사 게재일은 25일입니다. eventDate는 유출 확인일을 뜻하며 실제 침해 시점·피해 규모·악용 피해는 미확인입니다.",
+            "eventDate": "2026-10-22",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "giftiel-personal-data-leak-2026",
+            "issueTitle": "기프티엘 개인정보 유출과 고객 보호 조치",
+            "stage": "보도"
+          },
+          "title": "기프티엘 해킹으로 개인정보 유출…환불 계좌번호도 포함 보도",
+          "topicKey": "giftiel-personal-data-leak-2026-10",
+          "uncertainty": "정확한 침해 시점·유출 인원·고객별 항목과 실제 악용 피해는 확인되지 않았습니다.",
+          "whatChanged": "운영사가 22일 확인한 별도 쿠폰 서비스의 개인정보 유출과 신고·고객 통지가 25일 기사로 보도됐습니다.",
+          "whyItMatters": "쿠폰 이용자의 개인정보 보호와 사칭·금융사기 등 후속 피해 예방에 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "디지털타임스",
+              "rank": 2,
+              "reason": "25일 18시41분 보도에서 접근 차단과 권한 제한 검토를 확인했습니다. 2026-10-24-pm 예비와 같은 사안이며 새 변화 없는 재보도입니다. 금융 운영상 중요하지만 실제 뱅크런·금전 피해는 확인되지 않았고 구체적 반도체 연구 다음으로 평가했습니다.",
+              "title": "미국 주요 은행, AI 에이전트의 계좌 접근 제한 등 대응 강화",
+              "url": "https://n.news.naver.com/mnews/article/029/0003055113"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "rank": 3,
+              "reason": "25일 이용자 사례와 시험 보도는 확인됐습니다. 2026-10-24-pm 예비와 같은 사안이며 새 변화 없는 재보도입니다. 공통 원인·설계 결함·발생률은 미확정이며 시험 공개일도 본문 내 차이가 있어 후순위입니다.",
+              "title": "아이폰 듀오, 이용자 화면 파손 주장과 내구성 시험 논란",
+              "url": "https://n.news.naver.com/mnews/article/014/0005594103"
+            }
+          ],
+          "category": "과학·기술",
+          "emphasis": [
+            "424nm가 아닌 459nm",
+            "웨이퍼 207장",
+            "국제표준 개정 완료"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "25일 연구 성과 소개 기사입니다. 논문 게재와 연구 결과 발표의 정확한 날짜·시각은 확인되지 않았습니다.",
+          "factsHash": "f971bacf82dbc8fc61676d1ad55ccab1e7d9e5c8563920de093c6cfa7cb7a958",
+          "id": "20261025-pm-tech-01",
+          "keyFacts": {
+            "게재 학술지": "Acta Materialia",
+            "규명 발광 파장": "459nm",
+            "기존 발광 파장": "424nm",
+            "대상": "SiC (4,1) 프랭크형 적층결함",
+            "분석 규모": "상용 웨이퍼 207장·나노 시편 176개"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-25T13:00:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "중앙일보",
+              "publishedAt": "2026-10-25T13:00:00+09:00",
+              "title": "전기연, ‘SiC 전력반도체 결함 발광 기준’ 15년만에 수정",
+              "url": "https://n.news.naver.com/mnews/article/025/0003560262",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/025/0003560262",
+          "score": 91.2,
+          "scoreComponents": {
+            "domesticImpact": 87,
+            "importance": 89,
+            "interest": 93,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "25일 13시 보도에서 관찰·측정·계산을 결합한 구체적 연구 성과를 확인했습니다. 디지털타임스의 은행 AI 권한 통제와 파이낸셜뉴스의 제품 파손 주장은 모두 2026-10-24-pm 예비와 같은 사안이며 새 변화 없는 재보도입니다. 이들보다 기술적 검증의 구체성을 우선했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "중앙일보",
+              "publishedAt": "2026-10-25T13:00:00+09:00",
+              "title": "전기연, ‘SiC 전력반도체 결함 발광 기준’ 15년만에 수정",
+              "updatedAt": "2026-10-25T13:01:00+09:00",
+              "url": "https://n.news.naver.com/mnews/article/025/0003560262",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "한국전기연구원 공동연구팀이 SiC 전력반도체의 특정 적층결함 발광 파장을 기존 424nm가 아닌 459nm로 규명했다고 중앙일보가 보도했습니다. 적층결함은 원자층 배열이 어긋난 상태를 뜻합니다.",
+            "연구팀은 상용 웨이퍼 207장의 결함 데이터와 나노 시편 176개를 분석했습니다. 빛을 이용한 결함 측정, 원자구조 관찰과 이론 계산을 대조해 결론을 얻었다고 설명했습니다.",
+            "연구는 학술지 Acta Materialia에 게재됐다고 보도됐습니다. 결함 판별과 제조 원인 분석에 활용될 가능성이 있지만 국제표준 개정 완료나 양산 수율 개선 성과가 확인된 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "특정 적층결함의 발광 파장이 459nm라는 연구가 소개됐습니다. 표준 개정·양산 성과는 미확인입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "sic-frank-stacking-fault-emission-459nm-2026",
+            "issueTitle": "SiC 전력반도체 적층결함 발광 파장 규명",
+            "stage": "보도"
+          },
+          "title": "전기연 연구팀, SiC 반도체 특정 결함 발광 파장 459nm 규명",
+          "topicKey": "sic-frank-stacking-fault-emission-459nm-2026",
+          "uncertainty": "논문·표준 원문을 직접 대조한 조사는 아니며 표준 개정과 양산 개선 효과는 확인되지 않았습니다.",
+          "whatChanged": "특정 결함의 실제 원자구조와 발광 신호를 연결해 기존 판별 파장과 다른 연구 결과가 소개됐습니다.",
+          "whyItMatters": "전력반도체 품질 관리와 결함 원인 판별에 관련된 연구입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴스핌",
+              "rank": 2,
+              "reason": "23일 15시47분 기사에서 웹소설·웹툰 IP 제작·유통사의 직접 영상 제작 확대 발표를 확인했습니다. 반복 지표인 기존 조사 1위를 제외하고 창작대회를 대표로 승격했으며, 이 후보는 대표 다음 순위인 2위로 재정렬했습니다. 웹툰 직접성이 제한돼 창작대회 개최 다음으로 평가했고 29일 상영과 흥행은 완료로 취급하지 않습니다.",
+              "title": "트윈플러스, AI 애니메이션 자체 제작으로 사업 확장 발표",
+              "url": "https://www.newspim.com/news/view/20261023001015"
+            }
+          ],
+          "category": "웹툰산업",
+          "emphasis": [
+            "본선을 개최",
+            "웹툰 창작 부문",
+            "국산 AI 도구 4종"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "본선은 10월 24일 개최됐으며 세부 행사 시각은 제공된 조사에 없습니다.",
+          "factsHash": "8eedea4598164e05d044a03482eb4cf3c15893da629d6816a9fb41351534edcb",
+          "fallbackNote": "조사 1위의 어라이즈 7000만 다운로드는 21일 오전 이미 게재한 동일 지표여서 제외했습니다. 다음 순위의 최근 72시간 내 미게재 개최 보도로 보완했습니다.",
+          "id": "20261025-pm-web-01",
+          "keyFacts": {
+            "개최일": "2026-10-24",
+            "발표 주체": "과학기술정보통신부",
+            "장소": "카카오 AI캠퍼스",
+            "창작 분야": "동화·동요·웹툰",
+            "활용 도구": "국산 AI 도구 4종"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-24T14:00:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-24T14:00:00+09:00",
+              "title": "국산 AI 활용 동화·동요·웹툰 창작대회 본선 개최",
+              "url": "https://www.yna.co.kr/view/AKR20261023163900017",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261023163900017",
+          "score": 47.9,
+          "scoreComponents": {
+            "domesticImpact": 42,
+            "importance": 48,
+            "interest": 66,
+            "recency": 25,
+            "reliability": 90
+          },
+          "scoreReason": "조사 1위는 2026-10-21-am에 게재된 것과 같은 7000만 다운로드 지표로 새 변화가 없어 제외하고 검증된 다음 후보를 선정했습니다. 연합뉴스의 실제 본선 개최를 뉴스핌의 트윈플러스 영상 제작 확대 발표보다 창작 도구 활용·교육과의 직접성에서 우선했습니다. 전날 기사와 제한적인 산업 영향을 점수에 반영했습니다. 대표로 승격된 창작대회는 예비에 중복하지 않고 남은 검증 후보인 트윈플러스를 대표 다음 순위인 2위로 재정렬해 보존했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-10-24T14:00:00+09:00",
+              "title": "국산 AI 활용 동화·동요·웹툰 창작대회 본선 개최",
+              "url": "https://www.yna.co.kr/view/AKR20261023163900017",
+              "verifiedAt": "2026-10-25T21:13:52.043106+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "과학기술정보통신부가 카카오 AI캠퍼스에서 국산 AI 활용 창작대회 본선을 개최했다고 발표했습니다. 동화·동요와 함께 웹툰 창작 부문이 포함됐습니다.",
+            "연합뉴스 보도에 따르면 참가자들은 국산 AI 도구 4종을 활용했습니다. 창작 도구 활용과 인력 저변에 관련된 행사이지만 상업 작가의 계약이나 플랫폼 정책 변화와는 직접성이 낮습니다.",
+            "앞선 회차에 이미 실린 어라이즈 다운로드 지표를 재사용하지 않고 확인된 개최 사실을 선정했습니다. 상업 연재·매출·창작자 소득 개선 성과는 제공된 조사에서 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "웹툰 부문을 포함한 본선 개최가 확인됐습니다. 상업적 창작 성과는 미확인입니다.",
+            "eventDate": "2026-10-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korean-ai-children-creation-contest-2026",
+            "issueTitle": "국산 AI 활용 어린이 동화·동요·웹툰 창작대회",
+            "stage": "결과"
+          },
+          "title": "국산 AI 활용 동화·동요·웹툰 창작대회 본선 개최",
+          "topicKey": "korean-ai-children-creation-contest-final-2026-10-24",
+          "uncertainty": "상업적 제작 성과와 연재·매출·소득 개선 효과는 확인되지 않았습니다.",
+          "whatChanged": "웹툰 부문을 포함한 국산 AI 창작대회 본선 개최가 확인됐습니다.",
+          "whyItMatters": "웹툰 창작 도구의 활용 경험과 창작교육 저변에 관련된 사례입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-10-25T21:36:22.602848+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "3784d8f73b23356f9f6c91f178fcea3059cdbac56041cc8614ce5de68c4241c1",
+  "opensAt": "2026-10-25T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-10-25T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}
