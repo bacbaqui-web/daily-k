@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-25/am.json",
+      "category": "정치·정책",
+      "change": "박균택·양부남 후보 압축 검토가 관계자 인용으로 보도됐습니다. 정식 지명은 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-25T09:21:02.873967+09:00",
+      "coveredOn": "2026-10-25",
+      "edition": "am",
+      "editionDate": "2026-10-25",
+      "editionId": "2026-10-25-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "25일 채널A가 청와대 관계자의 설명을 보도했습니다. 후보 압축 결정과 발언의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-25-am/20261025-am-pol-01",
+      "keyFacts": {
+        "검토 후보": "박균택·양부남 의원",
+        "보도 근거": "채널A가 인용한 청와대 핵심관계자",
+        "정식 지명": "미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-25T08:51:13+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "채널A",
+          "publishedAt": "2026-10-25T08:51:13+09:00",
+          "title": "이 대통령, 법무장관 후보로 박균택·양부남 2인 압축",
+          "updatedAt": "2026-10-25T08:52:00+09:00",
+          "url": "https://n.news.naver.com/mnews/article/449/0000365178",
+          "verifiedAt": "2026-10-25T09:12:57.412170+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261025-am-pol-01",
+      "summary": [
+        "이재명 대통령이 법무부 장관 후보로 박균택·양부남 더불어민주당 의원을 압축해 검토 중이라고 채널A가 보도했습니다. 정식 지명이 확인된 단계는 아닙니다.",
+        "채널A는 청와대 핵심관계자가 두 후보를 최종 검토 중인 것으로 안다고 말했다고 전했습니다. 두 사람 모두 고검장 출신이며, 기사는 법무부 장관 자리가 두 달째 공석이라고 설명했습니다.",
+        "법무행정 책임자 인선과 새 수사·기소 체계의 운영에 관련된 보도입니다. 인선 기준에 대한 기사 해석과 관계자 설명을 대통령의 확정 발표로 바꾸어 표현하지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "법무장관 후보 박균택·양부남 압축 검토 보도…지명은 미확정",
+      "uncertainty": "관계자 인용 보도이며 정식 지명과 최종 임명은 확인되지 않았습니다."
+    }
+  ],
+  "id": "justice-minister-candidate-review-2026",
+  "schemaVersion": 1,
+  "title": "법무부 장관 후보 검토와 후임 인선",
+  "updatedAt": "2026-10-25T09:21:02.873967+09:00"
+}
