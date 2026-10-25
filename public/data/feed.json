@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-25",
-  "collectedAt": "2026-10-25T05:42:04.417574+00:00",
+  "collectedAt": "2026-10-25T05:45:10.693552+00:00",
   "windowEnd": "2026-10-25T14:42:04.291579+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -14088,6 +14088,67 @@
       "firstPublishedAt": "2026-10-25T03:13:51.056095+00:00"
     },
     {
+      "id": "aagag-1664539-0",
+      "url": "https://aagag.com/issue/?idx=1664539",
+      "source": "애객",
+      "title": "포카리와 씨름중인 치어리더",
+      "publishedAt": "2026-10-25T14:29:05+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/J6VJG.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/J6VJG.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 1,
+      "commentCount": 3,
+      "laughingComments": 1,
+      "score": 1,
+      "kPerComment": 0.3333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8893711",
+          "text": "포카리도 삐끼삐끼네 ㅋ"
+        },
+        {
+          "id": "8893713",
+          "text": "아오!"
+        },
+        {
+          "id": "8893736",
+          "text": "보일듯이 보일듯이 보이지 않는~"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-25T14:45:02.527172+09:00",
+      "sourceTitles": [
+        "포카리와 씨름중인 치어리더",
+        "포카리스웨트랑 싸우는 치어리더",
+        "포카리와 씨름중인 치어리더",
+        "ㅇㅎ?) 포카리와 씨름중인 치어리더 ㅋㅋㅋ",
+        "ㅇㅎ?) 포카리와 씨름 중인 치어리더 눈나...swf",
+        "포카리와 씨름 중인 치어리더",
+        "포카리와 씨름중인 치어리더",
+        "ㅇㅎ?) 포카리와 씨름중인 치어리더 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-10-25T05:45:10.581454+00:00",
+      "collectedAt": "2026-10-25T14:45:10.581472+09:00",
+      "firstPublishedAt": "2026-10-25T05:45:10.715193+00:00"
+    },
+    {
       "id": "aagag-1664367-0",
       "url": "https://aagag.com/issue/?idx=1664367",
       "source": "애객",
@@ -14202,7 +14263,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
