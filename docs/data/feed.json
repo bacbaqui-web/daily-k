@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-26",
-  "collectedAt": "2026-10-26T17:29:01.304150+09:00",
-  "windowEnd": "2026-10-26T17:22:10.157554+09:00",
+  "collectedAt": "2026-10-26T08:39:20.288773+00:00",
+  "windowEnd": "2026-10-26T17:39:20.175822+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -15921,76 +15921,12 @@
       "sourceTitlesFetchedAt": "2026-10-26T03:33:03.111398+00:00",
       "collectedAt": "2026-10-26T12:33:03.111413+09:00",
       "firstPublishedAt": "2026-10-26T03:33:03.177254+00:00"
-    },
-    {
-      "id": "aagag-1664582-0",
-      "url": "https://aagag.com/issue/?idx=1664582",
-      "source": "애객",
-      "title": "불친절한 알바생",
-      "publishedAt": "2026-10-25T17:29:27+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KR20e.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/KR20e.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 5,
-      "commentCount": 4,
-      "laughingComments": 1,
-      "score": 5,
-      "kPerComment": 1.25,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8894364",
-          "text": "일하기 싫어? 내가 데리고 살아야겠네 그럼"
-        },
-        {
-          "id": "8894370",
-          "text": "술집 알바 그만두는게 그렇게 큰 죄인가요?"
-        },
-        {
-          "id": "8894372",
-          "text": "어라랍쑈?"
-        },
-        {
-          "id": "8894374",
-          "text": "ㅋㅋㅋㅋㅋ 남자들이 뀨뀨까면 다들 아이고 감사합니다...(이럴줄 알았냐?한심하네)"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-25T17:38:34.525924+09:00",
-      "sourceTitles": [
-        "불친절한 알바생",
-        "ㅇㅎ) 불친절한 알바생.mp4",
-        "ㅇㅎ) 불친절한 알바생.mp4",
-        "은근 있는 알바생 특징",
-        "은근 있는 알바생 특징",
-        "눈빛이 무서운 누나...",
-        "(ㅎㅂ) 그만둔다는 우현"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-10-25T08:38:42.363846+00:00",
-      "collectedAt": "2026-10-25T17:38:42.363864+09:00",
-      "firstPublishedAt": "2026-10-25T08:38:42.489193+00:00"
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
