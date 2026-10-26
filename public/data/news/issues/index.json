@@ -1,6 +1,137 @@
 {
-  "editionCount": 79,
+  "editionCount": 80,
   "issues": [
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 31,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "코스피 5469.47·코스닥 727.21 마감과 외국인 순매도가 확인됐습니다. 이후 가격 방향은 미확정입니다.",
+        "editionId": "2026-10-26-pm",
+        "stage": "결과",
+        "storyId": "20261026-pm-eco-01",
+        "title": "코스피 5469.47 마감…종가 기준 약 7개월 만의 최저"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "국내·통상정책",
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
+      "firstCoveredDate": "2026-10-08",
+      "id": "korea-cptpp-accession",
+      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "대통령이 가입 추진 필요성과 농어업 보상 원칙을 설명하고 연내 신청 보류를 재확인했습니다. 가입·보상 제도의 확정은 아닙니다.",
+        "editionId": "2026-10-26-pm",
+        "stage": "후속",
+        "storyId": "20261026-pm-pol-01",
+        "title": "대통령, CPTPP 추진 필요성 강조…연내 가입 신청 보류 재확인"
+      },
+      "path": "korea-cptpp-accession.json",
+      "title": "한국 CPTPP 가입 검토와 농어민 협의"
+    },
+    {
+      "categories": [
+        "IT·과학",
+        "금융·보안",
+        "생활·안전"
+      ],
+      "eventCount": 10,
+      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
+      "firstCoveredDate": "2026-10-02",
+      "id": "korea-bank-cyber-incidents-2026-10",
+      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "국민은행이 기존 해킹 사고의 추가 유출 2091명과 전체 2210명을 발표했습니다. 신규 공격과 실제 악용 피해는 별개입니다.",
+        "editionId": "2026-10-26-pm",
+        "stage": "후속",
+        "storyId": "20261026-pm-safe-01",
+        "title": "국민은행 기존 해킹 유출 2091명 추가 확인…전체 2210명"
+      },
+      "path": "korea-bank-cyber-incidents-2026-10.json",
+      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "israel-general-election-2026",
+      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "총선 일정과 선거 직전 여론조사 판세가 보도됐습니다. 실제 투표·개표와 연정 구성은 미확정입니다.",
+        "editionId": "2026-10-26-pm",
+        "stage": "예정",
+        "storyId": "20261026-pm-int-01",
+        "title": "이스라엘 총선 27일 예정…막판 여론조사서 야권 근소 우세"
+      },
+      "path": "israel-general-election-2026.json",
+      "title": "2026년 이스라엘 총선과 연정 구성"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "covid-vaccine-compensation-special-act-review-delays-2026",
+      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "23일까지 특례 이의신청 2675건 중 심의 완료 96건이라는 진행 현황이 보도됐습니다. 개별 사건 보상 결과는 별도입니다.",
+        "editionId": "2026-10-26-pm",
+        "stage": "보도",
+        "storyId": "20261026-pm-soc-01",
+        "title": "백신 특별법 특례 이의신청 2675건 중 심의 완료 96건 보도"
+      },
+      "path": "covid-vaccine-compensation-special-act-review-delays-2026.json",
+      "title": "코로나19 백신 피해보상 특별법 심의와 구제 지연"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "adr-sat-space-debris-removal-development",
+      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "시스템통합준비검토회의 개최와 다음 달 비행모델 조립 계획이 공개됐습니다. 발사·포획 성과는 미확인입니다.",
+        "editionId": "2026-10-26-pm",
+        "stage": "발표",
+        "storyId": "20261026-pm-tech-01",
+        "title": "우주쓰레기 포획위성, 다음 달 조립 착수…내년 누리호 발사 계획"
+      },
+      "path": "adr-sat-space-debris-removal-development.json",
+      "title": "우주물체 능동제어위성 ADR-SAT 개발과 우주쓰레기 제거"
+    },
     {
       "categories": [
         "생활·안전"
@@ -254,29 +385,6 @@
       },
       "path": "korean-ai-children-creation-contest-2026.json",
       "title": "국산 AI 활용 어린이 동화·동요·웹툰 창작대회"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 30,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
-      "lastCoveredDate": "2026-10-25",
-      "latest": {
-        "archive": false,
-        "change": "23일 기준 10대 그룹 시가총액과 지난달 말 대비 감소 규모가 보도됐습니다. 정책 효과는 미확정입니다.",
-        "editionId": "2026-10-25-pm",
-        "stage": "후속",
-        "storyId": "20261025-pm-eco-01",
-        "title": "10대 그룹 시가총액, 지난달 말보다 1101조원 넘게 감소"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -2678,28 +2786,6 @@
     },
     {
       "categories": [
-        "IT·과학",
-        "금융·보안"
-      ],
-      "eventCount": 9,
-      "firstCoveredAt": "2026-10-02T21:21:48+09:00",
-      "firstCoveredDate": "2026-10-02",
-      "id": "korea-bank-cyber-incidents-2026-10",
-      "lastCoveredAt": "2026-10-14T21:06:51+09:00",
-      "lastCoveredDate": "2026-10-14",
-      "latest": {
-        "archive": false,
-        "change": "당국은 확인된 침해 금융회사를 16곳, 유출 개인정보를 약 10만 건으로 집계했고 전 금융권 점검에서 미흡 판정을 받은 130개사에 보완을 지시했습니다.",
-        "editionId": "2026-10-14-pm",
-        "stage": "후속",
-        "storyId": "financial-sector-cyber-incidents-2026-10-14",
-        "title": "금융사 16곳 침해·개인정보 약 10만건 유출…555곳 중 130곳 보안 미흡"
-      },
-      "path": "korea-bank-cyber-incidents-2026-10.json",
-      "title": "2026년 10월 은행권 정보유출과 공동 보안 대응"
-    },
-    {
-      "categories": [
         "정치·사법"
       ],
       "eventCount": 1,
@@ -3688,27 +3774,6 @@
       },
       "path": "korea-egypt-cepa-cooperation.json",
       "title": "한·이집트 CEPA와 산업 협력"
-    },
-    {
-      "categories": [
-        "국내·통상정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-08T20:39:55+09:00",
-      "firstCoveredDate": "2026-10-08",
-      "id": "korea-cptpp-accession",
-      "lastCoveredAt": "2026-10-08T20:39:55+09:00",
-      "lastCoveredDate": "2026-10-08",
-      "latest": {
-        "archive": false,
-        "change": "10월 8일 연내 가입 신청을 하지 않도록 하는 대통령 지시가 공개됐습니다. 가입 검토와 농어민 대화는 계속한다는 입장입니다.",
-        "editionId": "2026-10-08-pm",
-        "stage": "발표",
-        "storyId": "korea-cptpp-application-hold-2026-10-08",
-        "title": "CPTPP 연내 가입 신청 보류…농어민 대화와 기금 확보 계획"
-      },
-      "path": "korea-cptpp-accession.json",
-      "title": "한국 CPTPP 가입 검토와 농어민 협의"
     },
     {
       "categories": [
@@ -7078,7 +7143,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 599,
+  "storyCount": 605,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-26T09:18:49.476550+09:00"
+  "updatedAt": "2026-10-26T21:28:43.523923+09:00"
 }
