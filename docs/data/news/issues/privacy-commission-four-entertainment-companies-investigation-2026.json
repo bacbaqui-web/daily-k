@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-26/am.json",
+      "category": "사회이슈",
+      "change": "개인정보위의 업계 실태 조사와 현장조사가 보도됐습니다. 최종 위반 판단과 처분은 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "coveredOn": "2026-10-26",
+      "edition": "am",
+      "editionDate": "2026-10-26",
+      "editionId": "2026-10-26-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "26일 기사는 22일 취재로 파악한 진행 중 조사를 다룹니다. 조사 착수일과 개별 현장조사 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-26-am/20261026-am-soc-01",
+      "keyFacts": {
+        "결과·처분": "미확정",
+        "범위": "공연장 본인확인 및 개인정보 수집·이용·관리 전반",
+        "조사 기관": "개인정보보호위원회",
+        "조사 대상": "하이브·SM·YG·JYP",
+        "조사 방식": "현장조사 포함"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-26T07:04:11+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-10-26T07:04:11+09:00",
+          "title": "[단독] \"암표 막는다고 생기부까지?\"…개인정보위, 4대 엔터사 조사",
+          "url": "https://n.news.naver.com/mnews/article/018/0006396018",
+          "verifiedAt": "2026-10-26T09:16:15.525724+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261026-am-soc-01",
+      "summary": [
+        "개인정보보호위원회가 하이브·SM·YG·JYP의 개인정보 처리 실태를 조사 중이라고 이데일리가 보도했습니다. 공연장 본인확인뿐 아니라 수집·이용·관리 전반이 대상입니다.",
+        "개인정보위 관계자는 현장조사도 포함돼 있다고 설명했습니다. 연내 조사 마무리와 내년 초 결과 발표는 목표 일정이며, 법 위반이 확인되면 처분한다는 방침입니다.",
+        "공연 관객의 개인정보 보호와 암표 방지를 위한 본인확인 범위를 점검할 사안입니다. 과도한 정보 요구 사례에 관한 주장과 조사 진행 사실을 구분해야 하며, 4개사의 위법이나 처분이 확정된 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "개인정보위, 4대 엔터사 개인정보 수집·관리 실태 조사",
+      "uncertainty": "조사 착수일과 최종 결과는 확인되지 않았으며 법 위반·처분은 미확정입니다."
+    }
+  ],
+  "id": "privacy-commission-four-entertainment-companies-investigation-2026",
+  "schemaVersion": 1,
+  "title": "4대 엔터테인먼트사 개인정보 처리 실태 조사",
+  "updatedAt": "2026-10-26T09:18:49.476550+09:00"
+}

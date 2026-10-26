@@ -1,6 +1,154 @@
 {
-  "editionCount": 78,
+  "editionCount": 79,
   "issues": [
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-22T21:22:01.872756+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "typhoon-champi-korea-outlook-2026",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "온대저기압 전환과 풍랑경보 변경이 보도됐습니다. 27일 밤 이후 추위와 한파특보 가능성은 예보입니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "후속",
+        "storyId": "20261026-am-safe-01",
+        "title": "태풍 참피 온대저기압으로 약화…해상 높은 물결·27일 밤 추위 예보"
+      },
+      "path": "typhoon-champi-korea-outlook-2026.json",
+      "title": "태풍 참피의 한반도 주변 경로와 해상 영향"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "privacy-commission-four-entertainment-companies-investigation-2026",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "개인정보위의 업계 실태 조사와 현장조사가 보도됐습니다. 최종 위반 판단과 처분은 미확정입니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "보도",
+        "storyId": "20261026-am-soc-01",
+        "title": "개인정보위, 4대 엔터사 개인정보 수집·관리 실태 조사"
+      },
+      "path": "privacy-commission-four-entertainment-companies-investigation-2026.json",
+      "title": "4대 엔터테인먼트사 개인정보 처리 실태 조사"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "kakao-entertainment-darkchaser-antipiracy-performance",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "추적 시스템의 운영 방식과 회사가 제시한 상반기 탐지 실적이 소개됐습니다. 실제 피해 감소 효과는 미확인입니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "보도",
+        "storyId": "20261026-am-web-01",
+        "title": "카카오엔터, 불법유통 추적 시스템 다크체이서 운영 실적 공개"
+      },
+      "path": "kakao-entertainment-darkchaser-antipiracy-performance.json",
+      "title": "카카오엔터 다크체이서 불법유통 추적과 운영 실적"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "정치·정책"
+      ],
+      "eventCount": 8,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-26",
+      "id": "dmz-mine-incident-2026",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "북한이 지뢰 폭발을 반박하는 안보리 의장 서한 발송을 발표했습니다. 자작극이라는 내용은 북한 주장입니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "후속",
+        "storyId": "20261026-am-pol-01",
+        "title": "북한, 안보리 의장에 지뢰 폭발 반박 서한…“한국 자작극” 주장"
+      },
+      "path": "dmz-mine-incident-2026.json",
+      "title": "DMZ 폭발·지뢰 조사와 남북 입장"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "brazil-presidential-runoff-voting-extension-2026",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "투표 마감이 브라질리아 17시에서 19시로 연장됐습니다. 최종 당선 결과는 미확인입니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "보도",
+        "storyId": "20261026-am-int-01",
+        "title": "브라질 대선 결선투표 마감 2시간 연장…당선 결과 미확정"
+      },
+      "path": "brazil-presidential-runoff-voting-extension-2026.json",
+      "title": "브라질 대선 결선투표 마감 연장과 개표 절차"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "basic-pension-national-pension-linked-reductions",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "2021~2025년 감액 합계와 2025년 대상자 현황이 보도됐습니다. 제도 변경은 미확정입니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "보도",
+        "storyId": "20261026-am-eco-01",
+        "title": "국민연금 연계 기초연금 감액, 2021~2025년 2조8293억원"
+      },
+      "path": "basic-pension-national-pension-linked-reductions.json",
+      "title": "국민연금 연계 기초연금 감액과 노후소득"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "abl-novabridge-bispecific-antibody-esmo-2026",
+      "lastCoveredAt": "2026-10-26T09:18:49.476550+09:00",
+      "lastCoveredDate": "2026-10-26",
+      "latest": {
+        "archive": false,
+        "change": "회사가 초기 임상 추가 분석과 후속 개발 용량 선정을 발표했습니다. 확증 임상 결과와 품목허가는 아닙니다.",
+        "editionId": "2026-10-26-am",
+        "stage": "발표",
+        "storyId": "20261026-am-tech-01",
+        "title": "에이비엘바이오·노바브릿지, 이중항체 항암제 초기 임상 추가 분석 공개"
+      },
+      "path": "abl-novabridge-bispecific-antibody-esmo-2026.json",
+      "title": "에이비엘바이오·노바브릿지 이중항체 항암제 임상 개발"
+    },
     {
       "categories": [
         "국제·안보",
@@ -558,28 +706,6 @@
     },
     {
       "categories": [
-        "국제·안보",
-        "정치·정책"
-      ],
-      "eventCount": 7,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-26",
-      "id": "dmz-mine-incident-2026",
-      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
-      "lastCoveredDate": "2026-10-24",
-      "latest": {
-        "archive": false,
-        "change": "정부가 MDL 상호확인과 군통신선 복원을 위한 군사회담을 제안했습니다. 북한 수락과 개최는 미확인입니다.",
-        "editionId": "2026-10-24-am",
-        "stage": "발표",
-        "storyId": "20261024-am-pol-01",
-        "title": "정부, MDL 상호확인·군통신선 복원 위한 남북 군사회담 제의"
-      },
-      "path": "dmz-mine-incident-2026.json",
-      "title": "DMZ 폭발·지뢰 조사와 남북 입장"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -893,27 +1019,6 @@
       },
       "path": "busan-metro-labor-agreement-strike-withdrawal-2026.json",
       "title": "부산도시철도 노사 교섭과 파업 철회"
-    },
-    {
-      "categories": [
-        "생활·안전"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-22T21:22:01.872756+09:00",
-      "firstCoveredDate": "2026-10-22",
-      "id": "typhoon-champi-korea-outlook-2026",
-      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
-      "lastCoveredDate": "2026-10-22",
-      "latest": {
-        "archive": false,
-        "change": "기상청이 25일 최근접과 남쪽 해상 특보 가능성을 제시했습니다. 실제 경로·특보는 미확정입니다.",
-        "editionId": "2026-10-22-pm",
-        "stage": "발표",
-        "storyId": "20261022-pm-safe-01",
-        "title": "기상청, 태풍 참피 25일 최근접 예상…남쪽 해상 특보 가능성"
-      },
-      "path": "typhoon-champi-korea-outlook-2026.json",
-      "title": "태풍 참피의 한반도 주변 경로와 해상 영향"
     },
     {
       "categories": [
@@ -6973,7 +7078,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 592,
+  "storyCount": 599,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-25T21:35:11.887223+09:00"
+  "updatedAt": "2026-10-26T09:18:49.476550+09:00"
 }
