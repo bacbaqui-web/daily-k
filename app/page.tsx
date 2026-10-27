@@ -3,6 +3,7 @@ import {useEffect,useState} from 'react';
 import {Tabs,TabsList,TabsTrigger,TabsContent} from '@/components/ui/tabs';
 import {Button} from '@/components/ui/button';
 import {CommunityBriefing} from '../components/community-briefing';
+import {ComicBoard} from '../components/comic-board';
 import {EditionBoard} from '../components/edition-board';
 function ThemeToggle(){
  const [dark,setDark]=useState(false);
@@ -18,8 +19,8 @@ function ThemeToggle(){
 export default function Home(){
  const [search,setSearch]=useState('');
  useEffect(()=>{const sync=()=>setSearch(location.search);sync();window.addEventListener('popstate',sync);return()=>window.removeEventListener('popstate',sync)},[]);
- const requestedTab=new URLSearchParams(search).get('tab');const tab=requestedTab==='news'?'news':requestedTab==='tagged'?'tagged':'humor';
+ const requestedTab=new URLSearchParams(search).get('tab');const tab=requestedTab==='comics'?'comics':requestedTab==='news'?'news':requestedTab==='tagged'?'tagged':'humor';
  function navigate(href:string){const url=new URL(href,location.href);if(url.href===location.href)return;history.pushState(null,'',url);setSearch(url.search)}
- function chooseTab(value:string){const next=value==='news'?'news':value==='tagged'?'tagged':'humor';if(next===tab)return;const url=new URL(location.href);for(const key of ['story','item','post'])url.searchParams.delete(key);if(next!=='humor')url.searchParams.set('tab',next);else url.searchParams.delete('tab');navigate(url.href)}
- return <main><Tabs value={tab} onValueChange={chooseTab} className="feed-tabs" data-category={tab}><header><TabsList className="category-tabs" aria-label="브리핑 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="news" className="news-tab">ㄴㅇㅅ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header><TabsContent value={tab}>{tab==='news'?<EditionBoard channel="news" search={search} onNavigate={navigate}/>:<CommunityBriefing key={tab} tagged={tab==='tagged'}/>}</TabsContent></Tabs></main>
+ function chooseTab(value:string){const next=value==='comics'?'comics':value==='news'?'news':value==='tagged'?'tagged':'humor';if(next===tab)return;const url=new URL(location.href);for(const key of ['story','item','post'])url.searchParams.delete(key);if(next!=='humor')url.searchParams.set('tab',next);else url.searchParams.delete('tab');navigate(url.href)}
+ return <main><Tabs value={tab} onValueChange={chooseTab} className="feed-tabs" data-category={tab}><header><TabsList className="category-tabs" aria-label="브리핑 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="news" className="news-tab">ㄴㅇㅅ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger><TabsTrigger value="comics">ㅁㅎ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header><TabsContent value={tab}>{tab==='comics'?<ComicBoard/>:tab==='news'?<EditionBoard channel="news" search={search} onNavigate={navigate}/>:<CommunityBriefing key={tab} tagged={tab==='tagged'}/>}</TabsContent></Tabs></main>
 }
