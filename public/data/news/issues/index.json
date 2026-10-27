@@ -1,6 +1,155 @@
 {
-  "editionCount": 81,
+  "editionCount": 82,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "webtoon-webnovel-uci-issuance-program",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "UCI 발급 프로그램 개발 완료와 11월 무료 배포 계획이 보도됐습니다. 실제 배포와 이용 성과는 미확인입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "보도",
+        "storyId": "20261027-pm-web-01",
+        "title": "웹툰산업협회, UCI 발급 프로그램 개발 완료…11월 무료 배포 예정"
+      },
+      "path": "webtoon-webnovel-uci-issuance-program.json",
+      "title": "웹툰·웹소설 UCI 발급 프로그램 개발과 무료 배포"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "tehran-four-country-security-talks-2026",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "4개국 회담과 대화 지속 공동성명이 확인됐습니다. 불가침 협정 체결은 미확인입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "발표",
+        "storyId": "20261027-pm-int-01",
+        "title": "사우디·파키스탄·튀르키예, 이란과 회담…대화 지속 합의"
+      },
+      "path": "tehran-four-country-security-talks-2026.json",
+      "title": "이란·사우디·파키스탄·튀르키예 고위급 안보 회담"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
+      "firstCoveredDate": "2026-10-23",
+      "id": "snu-hospital-labor-negotiations-2026",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "노조의 파업 지속 조건·구체적 요구와 병원 비상 대응이 추가됐습니다. 실제 파업과 진료 차질은 미확인입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "후속",
+        "storyId": "20261027-pm-soc-01",
+        "title": "서울대병원 노조, 28일 무기한 파업 방침 재확인…병원 비상 대응"
+      },
+      "path": "snu-hospital-labor-negotiations-2026.json",
+      "title": "서울대병원 노사 교섭과 파업 예고"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "naver-brookfield-ai-infrastructure-contract",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "90억 달러 인프라 확보 계약과 지급보증이 공시됐다고 보도됐습니다. 투자 절차 완료와 가동은 미확인입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "발표",
+        "storyId": "20261027-pm-tech-01",
+        "title": "네이버, 브룩필드와 90억 달러 AI 연산 인프라 확보 계약"
+      },
+      "path": "naver-brookfield-ai-infrastructure-contract.json",
+      "title": "네이버·브룩필드 AI 연산 인프라 확보 계약"
+    },
+    {
+      "categories": [
+        "국내 정책·사회",
+        "국내 정치·사법",
+        "정치·정책"
+      ],
+      "eventCount": 7,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "korea-supreme-court-appointment-conflict",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "민주당이 국정조사를 우선 추진하기로 의견을 모았습니다. 국회 의결과 조사 개시는 미확인입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "후속",
+        "storyId": "20261027-pm-pol-01",
+        "title": "민주당, 조희대 대법원장 국정조사 우선 추진 방침"
+      },
+      "path": "korea-supreme-court-appointment-conflict.json",
+      "title": "대법관 제청과 사법부·정부 갈등"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "guryong-village-fire-2026-10-27",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "화재 진화와 주민 숙소 확보가 보도됐습니다. 20시03분 기준 인명피해 미확인이며 완진·원인은 미확정입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "보도",
+        "storyId": "20261027-pm-safe-01",
+        "title": "구룡마을 화재 진화 중…20시03분 기준 인명피해 미확인"
+      },
+      "path": "guryong-village-fire-2026-10-27.json",
+      "title": "2026년 10월 27일 구룡마을 화재와 주민 대피"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "eu-hybrid-vehicle-safeguard-2026",
+      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "이번 주 조사 착수와 국가별 쿼터 배정 방침이 보도됐습니다. 한국 쿼터와 실제 시행은 미확정입니다.",
+        "editionId": "2026-10-27-pm",
+        "stage": "예정",
+        "storyId": "20261027-pm-eco-01",
+        "title": "EU, 하이브리드차 수입제한 조사 예정…한국 수출 쿼터는 미확정"
+      },
+      "path": "eu-hybrid-vehicle-safeguard-2026.json",
+      "title": "EU 하이브리드차 긴급수입제한 조사와 한국 수출"
+    },
     {
       "categories": [
         "정치·정책"
@@ -980,27 +1129,6 @@
       },
       "path": "aidc-ecosystem-support-plan-2026.json",
       "title": "AI 데이터센터 생태계 지원과 지역 수용성"
-    },
-    {
-      "categories": [
-        "사회이슈"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-23T21:18:44.279369+09:00",
-      "firstCoveredDate": "2026-10-23",
-      "id": "snu-hospital-labor-negotiations-2026",
-      "lastCoveredAt": "2026-10-23T21:18:44.279369+09:00",
-      "lastCoveredDate": "2026-10-23",
-      "latest": {
-        "archive": false,
-        "change": "노조가 28일 무기한 전면파업 방침을 밝혔습니다. 실제 파업과 진료 운영 범위는 미확인입니다.",
-        "editionId": "2026-10-23-pm",
-        "stage": "예정",
-        "storyId": "20261023-pm-soc-01",
-        "title": "서울대병원 노조, 인력 충원 요구하며 28일 무기한 파업 예고"
-      },
-      "path": "snu-hospital-labor-negotiations-2026.json",
-      "title": "서울대병원 노사 교섭과 파업 예고"
     },
     {
       "categories": [
@@ -2002,29 +2130,6 @@
       },
       "path": "along-with-the-gods-third-film-production.json",
       "title": "웹툰 신과 함께의 세 번째 영화 제작"
-    },
-    {
-      "categories": [
-        "국내 정책·사회",
-        "국내 정치·사법",
-        "정치·정책"
-      ],
-      "eventCount": 6,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "korea-supreme-court-appointment-conflict",
-      "lastCoveredAt": "2026-10-20T08:49:43.565409+09:00",
-      "lastCoveredDate": "2026-10-19",
-      "latest": {
-        "archive": false,
-        "change": "혁신당이 탄핵소추안 문안을 공개하고 공동 논의를 제안했습니다. 국회 발의·의결은 확인되지 않았습니다.",
-        "editionId": "2026-10-19-pm",
-        "stage": "후속",
-        "storyId": "chief-justice-impeachment-draft-release-2026-10-19",
-        "title": "조국혁신당, 조희대 대법원장 탄핵소추안 공개"
-      },
-      "path": "korea-supreme-court-appointment-conflict.json",
-      "title": "대법관 제청과 사법부·정부 갈등"
     },
     {
       "categories": [
@@ -7270,7 +7375,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 612,
+  "storyCount": 619,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-27T09:16:31.781865+09:00"
+  "updatedAt": "2026-10-27T21:17:40.878171+09:00"
 }
