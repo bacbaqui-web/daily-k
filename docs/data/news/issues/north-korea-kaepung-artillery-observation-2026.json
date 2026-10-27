@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-27/am.json",
+      "category": "정치·정책",
+      "change": "자주포 노출과 포신 움직임의 영상이 보도됐습니다. 촬영일·추가 배치와 의도는 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "coveredOn": "2026-10-27",
+      "edition": "am",
+      "editionDate": "2026-10-27",
+      "editionId": "2026-10-27-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "27일 방송 보도입니다. 촬영과 자주포 이동의 정확한 날짜·시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-27-am/20261027-am-pol-01",
+      "keyFacts": {
+        "관측 규모": "자주포 약 3대, SBS 보도",
+        "관측 지역": "북한 황해도 개풍군 해안가",
+        "실제 사격·교전": "확인되지 않음",
+        "장비 식별": "122㎜ 자주포 추정"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-27T06:16:05+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-27T06:16:05+09:00",
+          "title": "자주포에 앉은 북한군, '보란 듯' 포신 돌렸다",
+          "url": "https://n.news.naver.com/mnews/article/055/0001398345",
+          "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261027-am-pol-01",
+      "summary": [
+        "북한 황해도 개풍군 해안가에서 자주포가 노출된 모습과 포신을 움직이는 장면이 SBS 카메라에 포착됐습니다. 긴장 고조를 노린 무력시위라는 설명은 전문가 분석입니다.",
+        "SBS는 강변 가까이에 자주포 약 3대가 보였으며 122㎜ 자주포로 추정된다고 전했습니다. 장비 종류는 추정이며 실제 사격이나 교전이 확인된 것은 아닙니다.",
+        "앞선 군사회담 제의와 북한의 유엔 서한과 구분되는 관측 보도입니다. 접경지역 안전에 관련되지만 촬영일과 추가 배치 여부, 북한의 구체적 의도는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "북한 접경지역 자주포 노출 포착…긴장 고조 의도는 전문가 분석",
+      "uncertainty": "촬영일·추가 배치 여부와 무력시위 의도는 확정되지 않았습니다."
+    }
+  ],
+  "id": "north-korea-kaepung-artillery-observation-2026",
+  "schemaVersion": 1,
+  "title": "북한 개풍군 접경지역 자주포 노출 관측",
+  "updatedAt": "2026-10-27T09:16:31.781865+09:00"
+}

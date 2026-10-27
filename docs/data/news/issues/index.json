@@ -1,6 +1,154 @@
 {
-  "editionCount": 80,
+  "editionCount": 81,
   "issues": [
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "north-korea-kaepung-artillery-observation-2026",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "자주포 노출과 포신 움직임의 영상이 보도됐습니다. 촬영일·추가 배치와 의도는 미확정입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "보도",
+        "storyId": "20261027-am-pol-01",
+        "title": "북한 접경지역 자주포 노출 포착…긴장 고조 의도는 전문가 분석"
+      },
+      "path": "north-korea-kaepung-artillery-observation-2026.json",
+      "title": "북한 개풍군 접경지역 자주포 노출 관측"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "korea-gdp-2026-q3",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "3분기 GDP 전기 대비 1.0% 성장과 민간소비 0.2% 감소가 보도됐습니다. 이후 금리·환율 영향은 미확정입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "발표",
+        "storyId": "20261027-am-eco-01",
+        "title": "3분기 GDP 전기 대비 1.0% 성장…민간소비는 0.2% 감소"
+      },
+      "path": "korea-gdp-2026-q3.json",
+      "title": "한국 2026년 3분기 경제성장과 지출 부문별 흐름"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "kim-keonhee-additional-detention-hearing-2026",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "대법원 추가 구속 심문이 27일 14시30분 예정입니다. 구속 여부는 미확정입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "예정",
+        "storyId": "20261027-am-soc-01",
+        "title": "대법원, 오늘 김건희 추가 구속 심문 예정…결정은 미확정"
+      },
+      "path": "kim-keonhee-additional-detention-hearing-2026.json",
+      "title": "김건희 인사 청탁 금품 수수 사건 추가 구속 심사"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "egypt-saudi-defense-support-2026",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "의회가 사우디 방어 지원안을 승인했습니다. 지원 방식·규모와 실제 파병은 미확인입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "발표",
+        "storyId": "20261027-am-int-01",
+        "title": "이집트 의회, 사우디 방어 군사 지원안 승인…방식·규모 미공개"
+      },
+      "path": "egypt-saudi-defense-support-2026.json",
+      "title": "이집트의 사우디 방어 군사 지원 승인"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "ebola-cross-border-spread-travel-measures-2026",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "국가별 확산 집계와 미국의 추가 방문 이력 확인 계획이 보도됐습니다. 공항 감염은 미확인입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "보도",
+        "storyId": "20261027-am-safe-01",
+        "title": "에볼라 케냐·나이지리아 확산 보도…미국행 항공편 방문 이력 확인 강화 예정"
+      },
+      "path": "ebola-cross-border-spread-travel-measures-2026.json",
+      "title": "에볼라 국경 간 확산과 항공 여행자 확인 조치"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "busan-global-webtoon-festival-2026",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "30일~11월1일 개최와 사업화·해외 판로 상담 계획이 보도됐습니다. 최초 발표일과 실제 성과는 미확인입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "보도",
+        "storyId": "20261027-am-web-01",
+        "title": "부산글로벌웹툰페스티벌 30일 개막 예정…사업화·해외 판로 상담 계획"
+      },
+      "path": "busan-global-webtoon-festival-2026.json",
+      "title": "2026 부산글로벌웹툰페스티벌 개최와 산업 교류 계획"
+    },
+    {
+      "categories": [
+        "과학·기술",
+        "기술·IT·AI"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-21",
+      "id": "anthropic-financing-2026",
+      "lastCoveredAt": "2026-10-27T09:16:31.781865+09:00",
+      "lastCoveredDate": "2026-10-27",
+      "latest": {
+        "archive": false,
+        "change": "S-1 공개 제출과 재무·컴퓨팅 약정 내용이 보도됐습니다. 최종 상장과 공모가는 미확정입니다.",
+        "editionId": "2026-10-27-am",
+        "stage": "발표",
+        "storyId": "20261027-am-tech-01",
+        "title": "앤스로픽, SEC 증권신고서 제출…나스닥 상장 절차 착수"
+      },
+      "path": "anthropic-financing-2026.json",
+      "title": "앤트로픽 IPO와 인프라 투자 보도"
+    },
     {
       "categories": [
         "경제·생활경제",
@@ -4875,27 +5023,6 @@
     },
     {
       "categories": [
-        "기술·IT·AI"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-21",
-      "id": "anthropic-financing-2026",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 앤트로픽 IPO 추진 보도, 기업가치 최대 2조달러 거론.",
-        "editionId": "2026-10-02-am-archive",
-        "stage": "보도",
-        "storyId": "archive-07",
-        "title": "앤트로픽 IPO 추진 보도, 기업가치 최대 2조달러 거론"
-      },
-      "path": "anthropic-financing-2026.json",
-      "title": "앤트로픽 IPO와 인프라 투자 보도"
-    },
-    {
-      "categories": [
         "경제·금리"
       ],
       "eventCount": 1,
@@ -7143,7 +7270,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 605,
+  "storyCount": 612,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-26T21:28:43.523923+09:00"
+  "updatedAt": "2026-10-27T09:16:31.781865+09:00"
 }

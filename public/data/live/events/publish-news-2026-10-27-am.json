@@ -1,0 +1,680 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-10-27T09:00:00+09:00",
+      "date": "2026-10-27",
+      "edition": "am",
+      "events": [
+        {
+          "at": "2026-10-27T21:30:00+09:00",
+          "date": "2026-10-27",
+          "detail": "기업 설비투자와 제조업 수요를 살필 일정입니다. 발표 결과는 아직 확인되지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "미국 인구조사국",
+            "publishedAt": null,
+            "title": "2026 Economic Indicators Calendar",
+            "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+            "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 08시30분 EDT를 한국시간 21시30분으로 환산했습니다.",
+          "title": "미국 9월 내구재 수주 속보 발표 예정"
+        },
+        {
+          "at": "2026-10-27T22:00:00+09:00",
+          "date": "2026-10-27",
+          "detail": "주택가격 흐름과 주거비 압력을 점검할 지표입니다. 결과와 증감률은 포함하지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "미국 연방주택금융청 FHFA",
+            "publishedAt": null,
+            "title": "FHFA House Price Index Report 2026 Q1",
+            "url": "https://www.fhfa.gov/document/d/hpi/fhfa-house-price-index-report-2026q1",
+            "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+          },
+          "timeNote": "공식 자료의 미국 동부 09시를 서머타임 EDT 기준 한국시간 22시로 환산했습니다.",
+          "title": "미국 8월 FHFA 주택가격지수 발표 예정"
+        },
+        {
+          "at": "2026-10-27T23:00:00+09:00",
+          "date": "2026-10-27",
+          "detail": "금리에 민감한 주택 수요와 경기 흐름을 살필 일정입니다. 판매 실적은 발표 후 확인해야 합니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "미국 인구조사국",
+            "publishedAt": null,
+            "title": "2026 Economic Indicators Calendar",
+            "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+            "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+          },
+          "timeNote": "미국 동부 서머타임 10시 EDT를 한국시간 23시로 환산했습니다.",
+          "title": "미국 9월 신규주택 판매 발표 예정"
+        }
+      ],
+      "generatedAt": "2026-10-27T09:16:31.781865+09:00",
+      "id": "2026-10-27-am",
+      "intro": "10월 27일 오전 브리핑입니다. 제공된 최종 검증 순위에 따라 7개 분야 대표를 선정했습니다.",
+      "keywords": [],
+      "overview": [
+        "이집트 의회가 사우디 방어를 위한 군사 지원안을 승인했습니다. 한국의 3분기 실질 GDP는 전기 대비 1.0% 성장했지만 민간소비는 0.2% 감소했습니다.",
+        "북한 접경지역의 자주포 노출 모습이 보도됐으며 무력시위 의도는 전문가 분석으로 구분했습니다. 대법원은 오늘 오후 김건희씨의 추가 구속 여부를 심사할 예정입니다.",
+        "앤스로픽은 증권신고서를 제출하며 나스닥 상장 절차에 착수했습니다. 에볼라의 국경 간 확산과 미국행 항공편 방문 이력 확인 강화 계획, 부산글로벌웹툰페스티벌 개최 계획도 담았습니다."
+      ],
+      "publicationNote": "제공된 조사와 본문 근거만 사용했습니다. 최종 검증 순위의 대표와 예비를 반영했으며 웹툰산업은 검증 예비가 1건뿐입니다. 앞선 보류 기록 이후 최종 검증에서 채택된 부산 행사 계획과 한국영상대 협력 논의를 사용하되 실제 행사 개최·계약 성과로 표현하지 않았습니다. 생성시각과 출처 검증시각은 프로그램 기록 대상으로 남겼습니다.",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [
+            {
+              "name": "이데일리",
+              "rank": 2,
+              "reason": "27일 07시44분 기사에서 현지 26일 회담과 대화 지속 합의를 확인했습니다. 실제 외교 접촉이지만 군사 지원 권한 승인 다음으로 평가했으며 종전 합의로 표현하지 않습니다.",
+              "title": "사우디·파키스탄·튀르키예, 테헤란서 이란과 확전 방지 회담",
+              "url": "https://n.news.naver.com/mnews/article/018/0006396767"
+            },
+            {
+              "name": "SBS",
+              "rank": 3,
+              "reason": "26일 15시39분 원문에서 미 중부사령부의 발표를 확인했습니다. 해상 수송에 중요하지만 기뢰 부재와 항로 안전의 독립 검증이 없어 후순위입니다.",
+              "title": "미군 “호르무즈 주요 수송로에 이란 기뢰 없다” 주장",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815390"
+            }
+          ],
+          "category": "국제정세",
+          "emphasis": [
+            "군사 지원안을 승인",
+            "방식과 규모는 공개하지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "이집트 현지 26일 의회 의결입니다. 정확한 의결 시각은 확인되지 않았습니다.",
+          "id": "20261027-am-int-01",
+          "keyFacts": {
+            "실제 파병·지원 규모": "확인되지 않음",
+            "의결일": "2026-10-26 이집트 현지",
+            "조치": "사우디 방어 군사 지원안 승인",
+            "찬성 요건": "재적 의원 3분의 2 이상"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T07:04:12+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국일보",
+              "publishedAt": "2026-10-27T07:04:12+09:00",
+              "title": "이집트 의회, '사우디 방어' 군사 지원안 승인…\"필요한 모든 조치\"",
+              "url": "https://n.news.naver.com/mnews/article/469/0000961815",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/469/0000961815",
+          "scoreComponents": {
+            "domesticImpact": 80,
+            "importance": 95,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "27일 07시04분 보도에서 전날의 실제 의회 승인을 확인했습니다. 이데일리의 테헤란 확전 방지 회담과 SBS의 미군 기뢰 관련 발표보다 군사 지원 권한을 부여한 제도적 변화의 중요도를 우선했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국일보",
+              "publishedAt": "2026-10-27T07:04:12+09:00",
+              "title": "이집트 의회, '사우디 방어' 군사 지원안 승인…\"필요한 모든 조치\"",
+              "url": "https://n.news.naver.com/mnews/article/469/0000961815",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "이집트 의회가 현지 26일 후티 공격으로부터 사우디아라비아를 방어하기 위한 군사 지원안을 승인했습니다. 실제 파병이나 지원 규모는 확인되지 않았습니다.",
+            "한국일보에 따르면 하원은 대통령이 사우디 방어에 필요한 조치를 취할 수 있도록 하는 안건을 재적 의원 3분의 2 이상 찬성으로 의결했습니다. 야당 의원 12명은 외교적 해결을 요구하며 표결을 거부했습니다.",
+            "이집트는 양국 협의에 따라 지원할 방침이지만 방식과 규모는 공개하지 않았습니다. 의회 승인을 병력 이동이나 작전 개시로 해석할 수 없으며, 방어적 역할에 집중될 가능성은 기사 분석입니다."
+          ],
+          "timeline": {
+            "change": "의회가 사우디 방어 지원안을 승인했습니다. 지원 방식·규모와 실제 파병은 미확인입니다.",
+            "eventDate": "2026-10-26",
+            "eventEndDate": null,
+            "eventTimezone": "Africa/Cairo",
+            "issueId": "egypt-saudi-defense-support-2026",
+            "issueTitle": "이집트의 사우디 방어 군사 지원 승인",
+            "stage": "발표"
+          },
+          "title": "이집트 의회, 사우디 방어 군사 지원안 승인…방식·규모 미공개",
+          "topicKey": "egypt-saudi-defense-support-approval-2026-10-26",
+          "uncertainty": "지원 방식·규모와 실제 파병·작전 개시는 확인되지 않았습니다.",
+          "whatChanged": "이집트 하원이 사우디 방어를 위한 군사 지원 권한을 승인했습니다.",
+          "whyItMatters": "중동 분쟁에 대한 주변국의 군사 지원 범위가 확대될 수 있는 의회 결정입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "조선일보",
+              "rank": 2,
+              "reason": "27일 08시25분 기사에서 43개 사업자의 새 공시 분석을 확인했습니다. 노후자산에 직접 관련되지만 경제 전체 성장률 다음으로 평가했습니다. 적립금 감소를 전부 투자 손실로 환산하지 않습니다.",
+              "title": "3분기 퇴직연금 적립금 11조7565억원 감소…DC형 투자 수익률 하락",
+              "url": "https://n.news.naver.com/mnews/article/023/0004006131"
+            },
+            {
+              "name": "KBS",
+              "rank": 3,
+              "reason": "26일 공개 보고서의 일자리 이동 분석을 확인했습니다. 구조적 고용 문제지만 전날 보도이고 비교 집단 차이의 한계가 있어 후순위입니다.",
+              "title": "한은, 청년의 좋은 일자리 이동 축소…고용 부진 장기화 우려",
+              "url": "https://n.news.naver.com/mnews/article/056/0012280754"
+            }
+          ],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "전기 대비 1.0%",
+            "민간소비는 0.2% 감소"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "27일 발표된 3분기 성장률입니다. 정확한 발표 시각은 제공된 근거에서 확인되지 않았습니다.",
+          "id": "20261027-am-eco-01",
+          "keyFacts": {
+            "대상": "2026년 3분기 실질 GDP",
+            "민간소비 증감": "전기 대비 -0.2%",
+            "설비투자 증감": "전기 대비 +4.1%",
+            "수출 증감": "전기 대비 +2.3%",
+            "전기 대비 성장률": "1.0%"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T08:10:13+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-27T08:10:13+09:00",
+              "title": "성장률 1.0% 예상 웃돌아…환율 1320원대서 달러 강세와 줄다리기 [외환 브리핑]",
+              "url": "https://n.news.naver.com/mnews/article/018/0006396790",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/018/0006396790",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 97,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "27일 08시10분 기사에서 당일 발표된 성장률을 확인했습니다. 조선일보의 퇴직연금 적립금 분석과 KBS의 청년고용 보고서보다 국가 경제 전체를 포괄하는 새 지표의 중요도와 최신성을 우선했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-27T08:10:13+09:00",
+              "title": "성장률 1.0% 예상 웃돌아…환율 1320원대서 달러 강세와 줄다리기 [외환 브리핑]",
+              "url": "https://n.news.naver.com/mnews/article/018/0006396790",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "한국의 3분기 실질 국내총생산 GDP가 전기 대비 1.0% 성장했다고 이데일리가 한국은행 발표를 인용해 보도했습니다. 기사에 제시된 시장 예상치 0.8%를 웃돌았습니다.",
+            "수출은 2.3%, 설비투자는 4.1% 증가한 반면 민간소비는 0.2% 감소했습니다. 전체 성장과 가계 소비가 같은 방향으로 움직이지 않았다는 점을 함께 살펴야 합니다.",
+            "성장률은 경기와 통화정책 판단에 중요한 자료입니다. 추가 금리 인상 기대나 원화 강세 가능성은 전망이며 실제 금리 결정과 환율 결과는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "3분기 GDP 전기 대비 1.0% 성장과 민간소비 0.2% 감소가 보도됐습니다. 이후 금리·환율 영향은 미확정입니다.",
+            "eventDate": "2026-10-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-gdp-2026-q3",
+            "issueTitle": "한국 2026년 3분기 경제성장과 지출 부문별 흐름",
+            "stage": "발표"
+          },
+          "title": "3분기 GDP 전기 대비 1.0% 성장…민간소비는 0.2% 감소",
+          "topicKey": "korea-gdp-2026-q3",
+          "uncertainty": "금리와 환율에 대한 영향은 전망이며 후속 결정·시장 반응은 미확정입니다.",
+          "whatChanged": "3분기 성장률과 수출·설비투자·민간소비의 새 수치가 발표됐습니다.",
+          "whyItMatters": "경제 전체의 성장과 내수의 차이를 보여주며 경기·금리 판단에 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "국민일보",
+              "rank": 2,
+              "reason": "26일 23시52분 기사에서 당일 취임과 조직 구성 계획을 확인했습니다. 대통령 주변 감찰의 제도적 중요성이 있지만 접경 안전 다음으로 평가했습니다.",
+              "title": "최길수 특별감찰관 취임…중립·독립성 강조, 현행 감찰 범위 설명",
+              "url": "https://n.news.naver.com/mnews/article/005/0001881011"
+            },
+            {
+              "name": "동아일보",
+              "rank": 3,
+              "reason": "26일 재정 전망과 도의 설명을 확인했습니다. 민생사업에 중요하지만 전망 단계이며 개별 사업 삭감은 확정되지 않아 후순위입니다.",
+              "title": "경기도, 내년 가용재원 2조원 감소 전망…본예산안은 미확정",
+              "url": "https://n.news.naver.com/mnews/article/020/0003757762"
+            }
+          ],
+          "category": "정치·정책",
+          "emphasis": [
+            "자주포 약 3대",
+            "전문가 분석"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "27일 방송 보도입니다. 촬영과 자주포 이동의 정확한 날짜·시각은 확인되지 않았습니다.",
+          "id": "20261027-am-pol-01",
+          "keyFacts": {
+            "관측 규모": "자주포 약 3대, SBS 보도",
+            "관측 지역": "북한 황해도 개풍군 해안가",
+            "실제 사격·교전": "확인되지 않음",
+            "장비 식별": "122㎜ 자주포 추정"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T06:16:05+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-10-27T06:16:05+09:00",
+              "title": "자주포에 앉은 북한군, '보란 듯' 포신 돌렸다",
+              "url": "https://n.news.naver.com/mnews/article/055/0001398345",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/055/0001398345",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 92,
+            "interest": 82,
+            "recency": 100,
+            "reliability": 87
+          },
+          "scoreReason": "27일 06시16분 영상 보도로 관측 내용을 확인했습니다. 국민일보의 특별감찰관 취임과 동아일보의 경기도 재정 전망보다 접경 안전의 파급을 우선했습니다. 25일 예비의 자주포 포착과 유사한 관측 흐름으로, 촬영일이 확인되지 않아 당일 신규 배치로 계산하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-10-27T06:16:05+09:00",
+              "title": "자주포에 앉은 북한군, '보란 듯' 포신 돌렸다",
+              "url": "https://n.news.naver.com/mnews/article/055/0001398345",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "북한 황해도 개풍군 해안가에서 자주포가 노출된 모습과 포신을 움직이는 장면이 SBS 카메라에 포착됐습니다. 긴장 고조를 노린 무력시위라는 설명은 전문가 분석입니다.",
+            "SBS는 강변 가까이에 자주포 약 3대가 보였으며 122㎜ 자주포로 추정된다고 전했습니다. 장비 종류는 추정이며 실제 사격이나 교전이 확인된 것은 아닙니다.",
+            "앞선 군사회담 제의와 북한의 유엔 서한과 구분되는 관측 보도입니다. 접경지역 안전에 관련되지만 촬영일과 추가 배치 여부, 북한의 구체적 의도는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "자주포 노출과 포신 움직임의 영상이 보도됐습니다. 촬영일·추가 배치와 의도는 미확정입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "north-korea-kaepung-artillery-observation-2026",
+            "issueTitle": "북한 개풍군 접경지역 자주포 노출 관측",
+            "stage": "보도"
+          },
+          "title": "북한 접경지역 자주포 노출 포착…긴장 고조 의도는 전문가 분석",
+          "topicKey": "north-korea-kaepung-artillery-observation-2026-10",
+          "uncertainty": "촬영일·추가 배치 여부와 무력시위 의도는 확정되지 않았습니다.",
+          "whatChanged": "접경지역 자주포와 포신 움직임을 담은 영상 보도가 나왔습니다.",
+          "whyItMatters": "접경지역의 군사적 긴장과 주민 안전에 관련된 관측입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "경향신문",
+              "rank": 2,
+              "reason": "26일 21시17분 기사에서 특검의 검증 계획 발표를 확인했습니다. 부정선거 의혹의 입증이나 선거쟁송 재검표와 구분하며 당일 대법원 심문 다음으로 평가했습니다.",
+              "title": "선관위특검, 28일 올림픽공원 보관 투표지·CCTV 검증 예고",
+              "url": "https://n.news.naver.com/mnews/article/032/0003478665"
+            },
+            {
+              "name": "서울신문",
+              "rank": 3,
+              "reason": "26일 16시41분 보도에서 해당 수사의 첫 영장 청구를 확인했습니다. 영장 발부·혐의 확정 전이고 당사자들이 부인하는 개별 수사여서 후순위입니다.",
+              "title": "홍준표 관련 여론조사비 대납 의혹, 관계자 첫 구속영장 청구",
+              "url": "https://n.news.naver.com/mnews/article/081/0003692545"
+            }
+          ],
+          "category": "사회이슈",
+          "emphasis": [
+            "오후 2시30분",
+            "추가 구속 결정은 확인되지 않았습니다"
+          ],
+          "eventAt": "2026-10-27T14:30:00+09:00",
+          "eventTimeNote": "27일 14시30분 대법원 구속 심문 예정입니다. 기준시각에는 심문과 결정이 이뤄지기 전입니다.",
+          "id": "20261027-am-soc-01",
+          "keyFacts": {
+            "기존 구속기한": "2026-10-31 만료 예정",
+            "담당 재판부": "대법원 2부",
+            "심문 예정": "2026-10-27 14:30 KST",
+            "진행 방식": "비공개, 김씨 영상 참여 예정"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-27T06:00:00+09:00",
+              "title": "석방 4일 앞둔 김건희, 추가 구속 분수령…오늘 구속 심문",
+              "url": "https://n.news.naver.com/mnews/article/421/0009251337",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/421/0009251337",
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 91,
+            "interest": 82,
+            "recency": 100,
+            "reliability": 91
+          },
+          "scoreReason": "27일 06시 기사에서 당일 오후 심문을 확인했습니다. 경향신문의 다음 날 투표지 검증 계획과 서울신문의 관계자 영장 청구보다 임박한 대법원 신병 심사의 중요도와 최신성을 우선했습니다. 과거 항소심 기록과 다른 사건의 구속 심문으로 구분했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": "2026-10-27T06:00:00+09:00",
+              "title": "석방 4일 앞둔 김건희, 추가 구속 분수령…오늘 구속 심문",
+              "url": "https://n.news.naver.com/mnews/article/421/0009251337",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "대법원 2부가 오늘 오후 2시30분 김건희씨의 추가 구속 여부를 심사하는 비공개 심문을 진행할 예정입니다. 기준시각 현재 추가 구속 결정은 확인되지 않았습니다.",
+            "뉴스1에 따르면 특검팀은 인사 청탁 등 금품 수수 혐의 사건에서 구속영장의 직권 발부를 요청했습니다. 김씨는 구치소에서 영상으로 참여하고 특검과 변호인들은 법정에 출석할 예정입니다.",
+            "기존 구속기한은 31일 만료 예정으로 보도됐습니다. 심문 일정은 구속영장 발부나 유죄 확정을 뜻하지 않으며, 결정 시점도 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "대법원 추가 구속 심문이 27일 14시30분 예정입니다. 구속 여부는 미확정입니다.",
+            "eventDate": "2026-10-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kim-keonhee-additional-detention-hearing-2026",
+            "issueTitle": "김건희 인사 청탁 금품 수수 사건 추가 구속 심사",
+            "stage": "예정"
+          },
+          "title": "대법원, 오늘 김건희 추가 구속 심문 예정…결정은 미확정",
+          "topicKey": "kim-keonhee-additional-detention-hearing-2026-10-27",
+          "uncertainty": "추가 구속 여부와 결정 시점은 미확정입니다.",
+          "whatChanged": "추가 구속 여부를 심사할 당일 심문 일정과 참여 방식이 보도됐습니다.",
+          "whyItMatters": "구속기한 만료를 앞둔 피고인의 신병에 관한 중요한 사법절차입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "SBS",
+              "rank": 2,
+              "reason": "26일 10시02분 원문에서 별도 취약점과 KISA 업데이트 권고를 확인했습니다. 서버 운영에 중요하지만 기존 21일 공지를 다룬 보도이며 실제 악용 피해는 확인되지 않아 후순위입니다.",
+              "title": "Node.js 브로틀리 취약점 보안 패치…KISA 업데이트 권고",
+              "url": "https://n.news.naver.com/mnews/article/055/0001398174"
+            },
+            {
+              "name": "강원일보",
+              "rank": 3,
+              "reason": "26일 17시52분 기사에서 회사 신고와 25일 조사 착수를 확인했습니다. 별도 기업 사고이지만 고객정보 유출 범위와 규모가 미확정이어서 후순위입니다.",
+              "title": "더존비즈온 개발 서버 침해…민관합동조사 착수",
+              "url": "https://n.news.naver.com/mnews/article/087/0001226345"
+            }
+          ],
+          "category": "과학·기술",
+          "emphasis": [
+            "증권신고서를 공개 제출",
+            "상반기 매출은 163억달러",
+            "순손실은 807억달러"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 26일 증권신고서 제출입니다. 정확한 제출 시각은 확인되지 않았습니다.",
+          "id": "20261027-am-tech-01",
+          "keyFacts": {
+            "공모가·최종 상장 일정": "미확정",
+            "상반기 매출": "163억달러",
+            "상반기 순손실": "807억달러",
+            "신고서 제출": "2026-10-26 미국 현지, S-1 공개 제출 보도",
+            "추진 시장·티커": "나스닥·ANT"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T08:16:15+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-27T08:16:15+09:00",
+              "title": "앤스로픽 나스닥 출사표 보니…매출 14배 뛰었는데 순손실 106조",
+              "url": "https://n.news.naver.com/mnews/article/018/0006396792",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/018/0006396792",
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 94,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 86
+          },
+          "scoreReason": "27일 08시16분 기사에서 전날 신고서 제출이라는 절차 진전을 확인했습니다. SBS의 Node.js 보안 업데이트와 강원일보의 더존비즈온 침해 조사보다 AI 산업의 자금조달·재무 공개가 미치는 범위를 우선했습니다. 기존 앤트로픽 이관 기록은 독립 검증된 근거로 사용하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-10-27T08:16:15+09:00",
+              "title": "앤스로픽 나스닥 출사표 보니…매출 14배 뛰었는데 순손실 106조",
+              "url": "https://n.news.naver.com/mnews/article/018/0006396792",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "앤스로픽이 미국 현지 26일 SEC에 증권신고서를 공개 제출하고 나스닥 상장 절차에 들어갔다고 이데일리가 보도했습니다. 공모가와 최종 상장 일정은 확정되지 않았습니다.",
+            "기사에 따르면 상반기 매출은 163억달러, 순손실은 807억달러였습니다. 순손실에는 전환사채 평가손실 등이 반영됐으며 2분기 영업흑자와는 다른 회계 지표입니다.",
+            "구글·아마존·마이크로소프트 컴퓨팅 약정과 브로드컴 장비 리스 등 대규모 의무도 공개됐다고 보도됐습니다. 약정액을 이미 집행한 비용이나 상대 회사의 인식 매출로 바꾸어 해석할 수 없습니다.",
+            "AI 기업의 수익성과 인프라 부담을 살필 자료입니다. 한국어 기사에 근거했으며 SEC 원문을 직접 대조한 조사 결과는 아닙니다. 기사에서 거론된 11월 상장과 기업가치는 전망입니다."
+          ],
+          "timeline": {
+            "change": "S-1 공개 제출과 재무·컴퓨팅 약정 내용이 보도됐습니다. 최종 상장과 공모가는 미확정입니다.",
+            "eventDate": "2026-10-26",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "anthropic-financing-2026",
+            "issueTitle": "앤트로픽 IPO와 인프라 투자 보도",
+            "stage": "발표"
+          },
+          "title": "앤스로픽, SEC 증권신고서 제출…나스닥 상장 절차 착수",
+          "topicKey": "anthropic-s1-filing-2026-10-26",
+          "uncertainty": "신고서 원문 직접 대조와 최종 상장 일정·공모가는 확인되지 않았습니다.",
+          "whatChanged": "증권신고서 제출과 매출·손실·컴퓨팅 약정 내용이 공개됐다고 보도됐습니다.",
+          "whyItMatters": "AI 모델 기업의 재무구조와 장기 인프라 수요를 평가할 구체적인 자료입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "KBS",
+              "rank": 2,
+              "reason": "26일 국정감사에서 관계 부처 논의가 진행 중이라는 답변을 확인했습니다. 신속한 피해자 보호에 중요하지만 법 개정·시행 전이어서 후순위입니다.",
+              "title": "경찰, 관계성 범죄 보호조치 법원 직접 신청 방안 논의",
+              "url": "https://n.news.naver.com/mnews/article/056/0012280944"
+            },
+            {
+              "name": "한국경제TV",
+              "rank": 3,
+              "reason": "27일 08시03분 기사에서 금고 10개월 선고와 안전관리 의무 판단을 확인했습니다. 과거 사고의 새 판결 보도이지만 적용 범위가 개별 시설 사건에 집중돼 후순위입니다.",
+              "title": "음주자 워터점프 이용 통제 미흡…사망사고 시설 운영자 금고형",
+              "url": "https://n.news.naver.com/mnews/article/215/0001270573"
+            }
+          ],
+          "category": "생활·안전",
+          "emphasis": [
+            "공항 감염은 확인되지 않았습니다",
+            "확진자 9876명과 사망자 4803명",
+            "최근 21일간"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "27일 기사는 국가별 감염 집계와 미국의 향후 조치를 종합했습니다. 전체 사건에 대응하는 단일 발생 시각은 확인되지 않았습니다.",
+          "id": "20261027-am-safe-01",
+          "keyFacts": {
+            "공항 감염": "미확인",
+            "미국 추가 확인": "11월 시행 예정, 최근 21일 콩고민주공화국 방문 여부",
+            "케냐 집계": "확진 9명·사망 2명, 기사 시점",
+            "콩고민주공화국 집계": "2026-10-25까지 확진 9876명·사망 4803명"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T07:02:08+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "서울경제",
+              "publishedAt": "2026-10-27T07:02:08+09:00",
+              "title": "“치명률 48.6%라니” ‘이 나라’ 간 사람은 미국 못 간다…국경 넘은 에볼라에 비상",
+              "url": "https://n.news.naver.com/mnews/article/011/0004675432",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://n.news.naver.com/mnews/article/011/0004675432",
+          "scoreComponents": {
+            "domesticImpact": 83,
+            "importance": 94,
+            "interest": 80,
+            "recency": 100,
+            "reliability": 87
+          },
+          "scoreReason": "27일 07시02분 기사에서 국경 간 확산 집계와 여행자 확인 계획을 확인했습니다. KBS의 관계성 범죄 보호조치 논의와 한국경제TV의 시설 운영자 판결보다 감염병 확산의 공중보건 파급을 우선했습니다. 외신·당국 인용과 미확정 감염 경로의 한계를 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "서울경제",
+              "publishedAt": "2026-10-27T07:02:08+09:00",
+              "title": "“치명률 48.6%라니” ‘이 나라’ 간 사람은 미국 못 간다…국경 넘은 에볼라에 비상",
+              "url": "https://n.news.naver.com/mnews/article/011/0004675432",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "콩고민주공화국의 에볼라 유행이 케냐와 나이지리아로 확산했다고 서울경제가 외신과 보건당국을 인용해 보도했습니다. 초기 환자들의 공항 이용 이력이 겹치지만 공항 감염은 확인되지 않았습니다.",
+            "기사에 따르면 콩고민주공화국은 25일까지 확진자 9876명과 사망자 4803명을 집계했습니다. 케냐는 확진자 9명·사망자 2명이며, 나이지리아에서는 접촉자 추적이 진행 중입니다.",
+            "미국은 기존 탑승 제한에 더해 11월부터 미국행 국제선 승객의 최근 21일간 콩고민주공화국 방문 여부 확인을 강화할 예정이라고 보도됐습니다. 이번 조치를 이미 시행 중인 전 세계 여행객 입국 금지로 표현할 수 없습니다.",
+            "국경 간 감염과 여행자 확인 절차에 관한 정보입니다. 감염 경로와 추가 확산 규모는 조사 중이며, 국내 감염 발생이나 한국의 새 검역 조치는 제공된 근거에서 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "국가별 확산 집계와 미국의 추가 방문 이력 확인 계획이 보도됐습니다. 공항 감염은 미확인입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "ebola-cross-border-spread-travel-measures-2026",
+            "issueTitle": "에볼라 국경 간 확산과 항공 여행자 확인 조치",
+            "stage": "보도"
+          },
+          "title": "에볼라 케냐·나이지리아 확산 보도…미국행 항공편 방문 이력 확인 강화 예정",
+          "topicKey": "ebola-cross-border-spread-us-travel-checks-2026-10",
+          "uncertainty": "공항 감염 경로와 향후 확산 규모는 미확정이며 미국의 추가 조치는 시행 전입니다.",
+          "whatChanged": "국가별 확산 집계와 미국행 항공편의 추가 방문 이력 확인 계획이 보도됐습니다.",
+          "whyItMatters": "국경 간 감염병 대응과 국제선 이용자의 여행 절차에 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "경충일보",
+              "rank": 2,
+              "reason": "최종 검증에서 채택된 26일 17시55분 원문으로 학생 작품 소개와 해외 유통 협력 논의를 확인했습니다. 상담 개최일은 미상이며 계약 체결은 확인되지 않았습니다. 행사 대표보다 대상 범위가 좁아 2순위입니다.",
+              "title": "한국영상대, 해외 출판·콘텐츠 기업과 웹툰·웹소설 유통 협력 논의",
+              "url": "https://www.kcilbo.com/articles/2026102662676"
+            }
+          ],
+          "category": "웹툰산업",
+          "emphasis": [
+            "10월30일부터 11월1일까지",
+            "사업화와 해외 판로 상담",
+            "작가 190여 명과 작품 800여 점"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "27일 07시21분36초 기사 게시를 확인했습니다. 개최 기간은 30일~11월1일 예정이며 최초 발표 날짜·시각은 확인되지 않았습니다.",
+          "id": "20261027-am-web-01",
+          "keyFacts": {
+            "개최 예정 기간": "2026-10-30~2026-11-01",
+            "계약·매출 성과": "미확인",
+            "산업 프로그램": "사업화·해외 판로 상담 계획",
+            "소개 예정 규모": "작가 190여 명·작품 800여 점",
+            "행사": "부산글로벌웹툰페스티벌"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-10-27T07:21:36+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-27T07:21:36+09:00",
+              "title": "부산글로벌웹툰페스티벌 30일 개막",
+              "url": "https://mobile.newsis.com/view/NISX20261027_0003842027",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "representativeUrl": "https://mobile.newsis.com/view/NISX20261027_0003842027",
+          "scoreComponents": {
+            "domesticImpact": 58,
+            "importance": 65,
+            "interest": 80,
+            "recency": 100,
+            "reliability": 88
+          },
+          "scoreReason": "최종 검증 순위에 따라 27일 07시21분 게시가 확인된 뉴시스의 행사 계획을 선정했습니다. 경충일보의 학생 작품 해외 유통 상담보다 여러 작가·작품을 연결하는 범위가 넓습니다. 일간스포츠의 광안 개봉 기사는 기준 이전 게시 여부가 미확인이라 제외했습니다. 행사 계획의 제한적인 산업 중요도를 점수에 반영했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-10-27T07:21:36+09:00",
+              "title": "부산글로벌웹툰페스티벌 30일 개막",
+              "url": "https://mobile.newsis.com/view/NISX20261027_0003842027",
+              "verifiedAt": "2026-10-27T09:14:22.689449+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "부산글로벌웹툰페스티벌이 10월30일부터 11월1일까지 열릴 예정이라고 뉴시스가 보도했습니다. 웹툰 사업화와 해외 판로 상담도 계획돼 있습니다.",
+            "제공된 원문 확인 기록에 따르면 작가 190여 명과 작품 800여 점이 소개될 예정입니다. 참가·전시 계획을 실제 방문객이나 계약 실적으로 바꾸어 해석할 수 없습니다.",
+            "기존 회차에 게재한 다른 웹툰 행사와 구분되는 산업 교류 계획입니다. 실제 개막과 상담 성과, 계약·매출은 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "30일~11월1일 개최와 사업화·해외 판로 상담 계획이 보도됐습니다. 최초 발표일과 실제 성과는 미확인입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "busan-global-webtoon-festival-2026",
+            "issueTitle": "2026 부산글로벌웹툰페스티벌 개최와 산업 교류 계획",
+            "stage": "보도"
+          },
+          "title": "부산글로벌웹툰페스티벌 30일 개막 예정…사업화·해외 판로 상담 계획",
+          "topicKey": "busan-global-webtoon-festival-2026-plan",
+          "uncertainty": "최초 발표 시점과 실제 개최·상담·계약 성과는 확인되지 않았습니다.",
+          "whatChanged": "별도 웹툰 축제의 개최 기간과 전시·산업 상담 계획이 보도됐습니다.",
+          "whyItMatters": "웹툰 창작자와 작품의 사업화·해외 유통 접점을 마련하는 행사 계획입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-10-27-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-10-27T09:17:29.902045+09:00",
+  "result": {
+    "id": "2026-10-27-am",
+    "operationId": "publish-news-2026-10-27-am",
+    "recordedAt": "2026-10-27T09:17:29.902045+09:00",
+    "sha256": "5271c7af1f74c957c83b766299df77a42afa6b158c007c86fc21298822c19306",
+    "windowId": "2026-10-27-am"
+  }
+}
