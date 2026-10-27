@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-27",
-  "collectedAt": "2026-10-27T22:35:31.719552+09:00",
-  "windowEnd": "2026-10-27T22:28:54.614027+09:00",
+  "collectedAt": "2026-10-27T13:45:51.752515+00:00",
+  "windowEnd": "2026-10-27T22:45:51.649926+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6312,76 +6312,6 @@
       "firstPublishedAt": "2026-10-26T15:06:08.257588+00:00"
     },
     {
-      "id": "aagag-1664867-0",
-      "url": "https://aagag.com/issue/?idx=1664867",
-      "source": "애객",
-      "title": "인스타에서 1600만명이 좋아요 누른 한국 커플",
-      "publishedAt": "2026-10-26T22:30:07+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L2QSg.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L2QSg.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 13,
-      "commentCount": 5,
-      "laughingComments": 3,
-      "score": 13,
-      "kPerComment": 2.6,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8900461",
-          "text": "재미진다ㅡ 통쾌했네요!"
-        },
-        {
-          "id": "8900473",
-          "text": "그래도 남자가 봐주네 싶었는데 막타치는거 보니 아니었네ㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8900479",
-          "text": "재밌어 보이네 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8900485",
-          "text": "남자는 한번만이기면된다ㅋㅋㅋ"
-        },
-        {
-          "id": "8900493",
-          "text": "행복해라"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-26T22:44:13.468552+09:00",
-      "sourceTitles": [
-        "인스타에서 1600만명이 좋아요 누른 한국 커플",
-        "인스타에서 1600만명이 좋아요 누른 한국 커플",
-        "인스타에서 1600만명이 본 한국커플",
-        "인스타에서 1600만명이 본 한국커플",
-        "1600만명이 본 한국커플"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-26T13:44:25.003658+00:00",
-      "collectedAt": "2026-10-26T22:44:25.003676+09:00",
-      "firstPublishedAt": "2026-10-26T13:44:25.101179+00:00"
-    },
-    {
       "id": "aagag-1665084-0",
       "url": "https://aagag.com/issue/?idx=1665084",
       "source": "애객",
@@ -10943,9 +10873,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 374,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
