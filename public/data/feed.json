@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-27",
-  "collectedAt": "2026-10-27T10:35:20.252994+00:00",
+  "collectedAt": "2026-10-27T10:36:02.607850+00:00",
   "windowEnd": "2026-10-27T19:35:20.148527+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11455,6 +11455,55 @@
       "firstPublishedAt": "2026-10-27T07:27:29.770270+00:00"
     },
     {
+      "id": "aagag-1665149-0",
+      "url": "https://aagag.com/issue/?idx=1665149",
+      "source": "애객",
+      "title": "청담 르엘 집 소개 영상",
+      "publishedAt": "2026-10-27T19:34:41+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2Tx6.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2Tx6.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8904410",
+          "text": "진짜 크네요"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-27T19:35:55.551494+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 요즘 공인중개사 피지컬",
+        "청담 르엘 집 소개 영상",
+        "집 매물 소개하는 누나.mp4",
+        "집 매물 소개하는 처자 ㅗㅜㅑ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-27T10:36:02.536602+00:00",
+      "collectedAt": "2026-10-27T19:36:02.536619+09:00",
+      "firstPublishedAt": "2026-10-27T10:36:02.621409+00:00"
+    },
+    {
       "id": "aagag-1664991-0",
       "url": "https://aagag.com/issue/?idx=1664991",
       "source": "애객",
@@ -11609,7 +11658,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
