@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-27T21:44:18.526134+00:00",
+  "collectedAt": "2026-10-27T21:45:19.515096+00:00",
   "windowEnd": "2026-10-28T06:44:18.419101+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10626,6 +10626,61 @@
       "firstPublishedAt": "2026-10-26T23:00:02.458708+00:00"
     },
     {
+      "id": "aagag-1665237-0",
+      "url": "https://aagag.com/issue/?idx=1665237",
+      "source": "애객",
+      "title": "배드민턴 선수 기럭지.mp4",
+      "publishedAt": "2026-10-28T06:42:31+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KtPDX.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2jK4.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KtPDX.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L2jK4.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-28T06:45:06.404902+09:00",
+      "sourceTitles": [
+        "우웅",
+        "배드민턴 선수",
+        "배드민턴 선수 기럭지.mp4",
+        "ㅇㅎ) 배드민턴 선수",
+        "ㅎㅂ) 바프 찍었던 176cm 배드민턴 챔피언 근황"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-27T21:45:19.439131+00:00",
+      "collectedAt": "2026-10-28T06:45:19.439147+09:00",
+      "firstPublishedAt": "2026-10-27T21:45:19.536565+00:00"
+    },
+    {
       "id": "aagag-1665219-0",
       "url": "https://aagag.com/issue/?idx=1665219",
       "source": "애객",
@@ -10777,7 +10832,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
