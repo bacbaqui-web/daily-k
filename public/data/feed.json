@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-27",
-  "collectedAt": "2026-10-27T07:26:40.238770+00:00",
+  "collectedAt": "2026-10-27T07:27:29.754996+00:00",
   "windowEnd": "2026-10-27T16:26:40.134002+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -12389,6 +12389,94 @@
       "firstPublishedAt": "2026-10-26T23:15:30.884146+00:00"
     },
     {
+      "id": "aagag-1665106-0",
+      "url": "https://aagag.com/issue/?idx=1665106",
+      "source": "애객",
+      "title": "하이키 옐 묵직한 움직임",
+      "publishedAt": "2026-10-27T16:24:07+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2fpd.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2fpp.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2fpv.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2fq1.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2fpd.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L2fpp.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L2fpv.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L2fq1.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8903627",
+          "text": "음... 음..."
+        },
+        {
+          "id": "8903630",
+          "text": "감사합니다"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-27T16:27:22.039370+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 야름다운 하이키 엘",
+        "하이키 옐 최근폼.gif",
+        "하이키 옐 묵직한 움직임",
+        "오프숄더 하이키 옐 .gif",
+        "호불호 갈리는 복장 gif",
+        "오프숄더 하이키 옐.gif",
+        "하이키 옐 근황",
+        "ㅇㅎ?) 최근 하이키 옐",
+        "하이키 옐"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 9,
+      "sourceTitlesFetchedAt": "2026-10-27T07:27:29.628476+00:00",
+      "collectedAt": "2026-10-27T16:27:29.628493+09:00",
+      "firstPublishedAt": "2026-10-27T07:27:29.770270+00:00"
+    },
+    {
       "id": "aagag-1664991-0",
       "url": "https://aagag.com/issue/?idx=1664991",
       "source": "애객",
@@ -12543,7 +12631,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
