@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T12:52:05.796291+00:00",
+  "collectedAt": "2026-10-28T12:53:05.215663+00:00",
   "windowEnd": "2026-10-28T21:52:05.682273+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11563,7 +11563,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -11590,6 +11590,91 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665457-0",
+      "url": "https://aagag.com/issue/?idx=1665457",
+      "source": "애객",
+      "title": "오타쿠에게 상냥한 갸루",
+      "publishedAt": "2026-10-28T21:45:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/IGH7Z.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2wJJ.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "죽을만 했네"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/IGH7Z.webp",
+        "https://i.aagag.com/o/L2wJJ.webp"
+      ],
+      "videos": [],
+      "excerpt": "죽을만 했네",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8909976",
+          "text": "이게뭔데씹덕아"
+        },
+        {
+          "id": "8909983",
+          "text": "모르면 읽어와 리얼충은 하여간"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-28T21:52:56.818363+09:00",
+      "sourceTitles": [
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루 만화",
+        "오타쿠에게 상냥한 갸루.manga",
+        "오타쿠에게 상냥한 갸루.manga",
+        "오타쿠에게 상냥한 갸루 만화",
+        "오타쿠에게 상냥한 갸루.manga",
+        "오타쿠에게 상냥한 갸루.manga",
+        "오타쿠에게 상냥한 갸루 모음",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "ㅇㅇㄱ)이정도면 그냥 안보고 평가한듯",
+        "오타쿠에게 상냥한 갸루.jpg",
+        "오타쿠에게 상냥한 갸루가 용납못하는거",
+        "오타쿠에게 상냥한 갸루가 용납못하는거",
+        "ㅆㄷ)오타쿠에게 상냥한 갸루",
+        "ㅆㄷ)오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루.jpg",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "유머)오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루",
+        "오타쿠에게 상냥한 갸루"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 30,
+      "sourceTitlesFetchedAt": "2026-10-28T12:53:05.135476+00:00",
+      "collectedAt": "2026-10-28T21:53:05.135496+09:00",
+      "firstPublishedAt": "2026-10-28T12:53:05.237877+00:00"
+    },
     {
       "id": "aagag-1665294-0",
       "url": "https://aagag.com/issue/?idx=1665294",
