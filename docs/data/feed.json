@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T09:30:39.721417+09:00",
-  "windowEnd": "2026-10-28T09:20:15.425734+09:00",
+  "collectedAt": "2026-10-28T00:40:54.827559+00:00",
+  "windowEnd": "2026-10-28T09:40:54.718173+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10707,92 +10707,6 @@
       "firstPublishedAt": "2026-10-27T21:47:46.134606+00:00"
     },
     {
-      "id": "aagag-1665007-0",
-      "url": "https://aagag.com/issue/?idx=1665007",
-      "source": "애객",
-      "title": "ㅇㅎ) G컵 처자와 소개팅 ㄷ",
-      "publishedAt": "2026-10-27T09:25:51+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/KuPjU.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/KuPjU.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 10,
-      "commentsPartial": false,
-      "kCount": 4,
-      "commentCount": 10,
-      "laughingComments": 2,
-      "score": 4,
-      "kPerComment": 0.4,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8901625",
-          "text": "좋아 죽네 죽어 ㅋㅋ 남자는 이래서 인생을 망칩니다....."
-        },
-        {
-          "id": "8901631",
-          "text": "슬픈 사연이 있나보군요.."
-        },
-        {
-          "id": "8901649",
-          "text": "근데 저렇게 망친 것은 나름 성공적으로 망친거"
-        },
-        {
-          "id": "8901666",
-          "text": "좋네요 ㅎㅎ"
-        },
-        {
-          "id": "8901629",
-          "text": "와... 영상인데도 한 곳만 보이는데"
-        },
-        {
-          "id": "8901632",
-          "text": "남자상인데?"
-        },
-        {
-          "id": "8901636",
-          "text": "와 시선처리 고수다..카메라 카메라를 속으로 계속 되뇌었을듯ㅋㅋ"
-        },
-        {
-          "id": "8901648",
-          "text": "여성분이 아름다운 분은 맞는데, 하지만 분명 내 취향인 외모는 아닌데, 이상하게 예쁜 것 같고, 막 그러고, 그러네"
-        },
-        {
-          "id": "8901659",
-          "text": "위에 얼굴을 보신 형들 대단하십니다 댓글보고 다시 올라가 봤는데도 얼굴을 못 봤네요"
-        },
-        {
-          "id": "8901664",
-          "text": "오우 좋다 좋아"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-27T09:38:54.646487+09:00",
-      "sourceTitles": [
-        "ㅇㅎG컵 처자와 소개팅",
-        "ㅇㅎ) G컵녀와 소개팅",
-        "사랑에 빠진 여자가 짓는 표정.",
-        "소개팅에서 필살기 쓰는 누나",
-        "ㅇㅎ) G컵 처자와 소개팅 ㄷ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-27T00:38:59.882261+00:00",
-      "collectedAt": "2026-10-27T09:38:59.882277+09:00",
-      "firstPublishedAt": "2026-10-27T00:39:00.024179+00:00"
-    },
-    {
       "id": "aagag-1665019-0",
       "url": "https://aagag.com/issue/?idx=1665019",
       "source": "애객",
@@ -11958,9 +11872,9 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 374,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
