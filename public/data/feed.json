@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T17:30:00.595982+09:00",
-  "windowEnd": "2026-10-28T17:21:05.607824+09:00",
+  "collectedAt": "2026-10-28T08:40:15.391267+00:00",
+  "windowEnd": "2026-10-28T17:40:15.279832+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7932,94 +7932,6 @@
       "firstPublishedAt": "2026-10-28T02:58:31.198924+00:00"
     },
     {
-      "id": "aagag-1665116-0",
-      "url": "https://aagag.com/issue/?idx=1665116",
-      "source": "애객",
-      "title": "국내에서 테슬라 차종으로 FSD 활성화한 80명 검거",
-      "publishedAt": "2026-10-27T17:18:10+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2g1D.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "출처 : https://www.joongang.co.kr/article/25473169#google_vignette"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L2g1D.webp"
-      ],
-      "videos": [],
-      "excerpt": "출처 : https://www.joongang.co.kr/article/25473169#google_vignette",
-      "reportedCommentCount": 11,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 11,
-      "laughingComments": 2,
-      "score": 12,
-      "kPerComment": 1.0909090909090908,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8903862",
-          "text": "아.. 불법이구나."
-        },
-        {
-          "id": "8903863",
-          "text": "어뜨케 잡은거야?"
-        },
-        {
-          "id": "8903896",
-          "text": "'제보' 그다음 꼬리에 꼬리를 따라 추적"
-        },
-        {
-          "id": "8903923",
-          "text": "테슬라 코리아에서 정보 넘겼을껄요?? 그리고 이 건을 급히 신고한것도 테슬라코리아구요.ㅋㅋㅋ"
-        },
-        {
-          "id": "8903944",
-          "text": "우리회사차 다 들여다보고잇당~"
-        },
-        {
-          "id": "8903930",
-          "text": "제보가 아니라 테슬라 까페에서 임의로 FSD 풀었다고 글이 몇개 올라오고 국토부다 그거 캐치하고 조사 시작하니 테슬라가 자기들이 조사해보니까 사이버보안 사고있었다고 먼저 자료 제공해줌 그래서 그 계정 주인들 다 턴거.. 암튼 거의 바로 보안 업뎃 해서 그뒤로는 탈옥 불가능 해짐"
-        },
-        {
-          "id": "8903865",
-          "text": "같은차종 어디서 만들엇냐에 따라  불법과 합법이  아이러니 하다"
-        },
-        {
-          "id": "8903912",
-          "text": "불법을 한거임 옹호할 부분이 아님 차량 불법 튜닝이랑 같음"
-        },
-        {
-          "id": "8903922",
-          "text": "이거 당시에 활성화해도 괜찮다면서 자기들이 이걸 활성화함으로서 자연스럽게 활성화 시킬 수 있는 근거가 된다느니 뭐 어쨋느니 했는데 결국은 쇠고랑 철컹철컹"
-        },
-        {
-          "id": "8903929",
-          "text": "https://aagag.com/issue/?idx=1617457 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8903947",
-          "text": "난 테슬라 탈옥이 더 놀라운데? 다른 제어도 맘대로 할 수 있단 얘기잖아?"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-27T17:35:42.718155+09:00",
-      "sourceTitles": [
-        "국내에서 테슬라 차종으로 FSD 활성화한 80명 검거",
-        "테슬라 FSD 활성화한 80명 검거",
-        "테슬라 FSD 활성화한 80명 검거"
-      ],
-      "sourceHistoryPartial": true,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-27T08:35:50.354243+00:00",
-      "collectedAt": "2026-10-27T17:35:50.354260+09:00",
-      "firstPublishedAt": "2026-10-27T08:35:50.434687+00:00"
-    },
-    {
       "id": "aagag-1665386-0",
       "url": "https://aagag.com/issue/?idx=1665386",
       "source": "애객",
@@ -11914,9 +11826,9 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 370,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
