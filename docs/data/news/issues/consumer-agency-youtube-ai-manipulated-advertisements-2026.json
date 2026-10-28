@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-28/am.json",
+      "category": "생활·안전",
+      "change": "AI 조작 광고 420건과 신체 변화 과장 조작 171건이 보도됐습니다. 실제 피해·후속 제재는 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-28T09:13:07.272316+09:00",
+      "coveredOn": "2026-10-28",
+      "edition": "am",
+      "editionDate": "2026-10-28",
+      "editionId": "2026-10-28-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "조사 대상은 2026년 6월까지 9개월입니다. 조사 결과 발표의 정확한 날짜·시각은 확인되지 않았으며 기사 시각은 분 단위로 제공됐습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-10-28-am/20261028-am-safe-01",
+      "keyFacts": {
+        "AI 조작 광고": "420건",
+        "대상 플랫폼": "유튜브",
+        "신체 변화 과장 조작": "171건",
+        "조사 기관": "한국소비자원",
+        "조사 대상 기간": "2026년 6월까지 9개월"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-27T20:49:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-27T20:49:00+09:00",
+          "title": "“벨트 차니 복근 뚝딱”…‘AI 가짜 광고’ 확산",
+          "updatedAt": "2026-10-27T22:19:00+09:00",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817666",
+          "verifiedAt": "2026-10-28T09:10:54.010651+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261028-am-safe-01",
+      "summary": [
+        "한국소비자원이 유튜브에서 AI로 조작된 광고 420건을 확인했다고 SBS가 보도했습니다. 이 가운데 신체 변화를 과장한 조작은 171건으로 제시됐습니다.",
+        "조사 대상은 올해 6월까지 9개월입니다. 이 수치를 현재 유튜브 전체의 조작 광고 규모나 최근 하루 발생량으로 확대할 수 없습니다.",
+        "제품 효과를 보여주는 영상이 조작됐을 수 있다는 소비자 안전정보입니다. 광고 속 신체 변화와 제품 효능을 실제 검증된 효과로 취급하지 않았으며 조사 이후 삭제·제재와 피해구제 결과는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "소비자원, 유튜브 AI 조작 광고 420건 확인 보도",
+      "uncertainty": "조사 범위 밖의 전체 규모와 실제 구매 피해, 삭제·제재·구제 결과는 확인되지 않았습니다."
+    }
+  ],
+  "id": "consumer-agency-youtube-ai-manipulated-advertisements-2026",
+  "schemaVersion": 1,
+  "title": "소비자원의 유튜브 AI 조작 광고 조사와 소비자 보호",
+  "updatedAt": "2026-10-28T09:13:07.272316+09:00"
+}
