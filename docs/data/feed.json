@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T00:56:05.004914+00:00",
+  "collectedAt": "2026-10-28T00:57:07.419715+00:00",
   "windowEnd": "2026-10-28T09:56:04.895400+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11872,7 +11872,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -11899,6 +11899,79 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665269-0",
+      "url": "https://aagag.com/issue/?idx=1665269",
+      "source": "애객",
+      "title": "ㅇㅆㅇㅆ)비밀조직 여간부에게 면접 보는 만화",
+      "publishedAt": "2026-10-28T09:44:05+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2odg.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L2odg.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 4,
+      "commentCount": 8,
+      "laughingComments": 1,
+      "score": 4,
+      "kPerComment": 0.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8906459",
+          "text": "우리는 왜 안보여줘???"
+        },
+        {
+          "id": "8906461",
+          "text": "저는 흥분하면 10배 커지는 신체기관을 가지고 있습니다."
+        },
+        {
+          "id": "8906478",
+          "text": "시작이 1이죠?"
+        },
+        {
+          "id": "8906481",
+          "text": "동공확장.ㄷㄷㄷ"
+        },
+        {
+          "id": "8906466",
+          "text": "ㅋㅋㅋㅋ 아이디어 개쩐다.. 잘생긴 남자가 했으면 확인시켜준다면서 메차쿠챠하겠지.."
+        },
+        {
+          "id": "8906493",
+          "text": "흰팬티 맞아?"
+        },
+        {
+          "id": "8906508",
+          "text": "화윤이 나쁘네"
+        },
+        {
+          "id": "8906513",
+          "text": "내 말이..."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-28T09:56:58.414313+09:00",
+      "sourceTitles": [
+        "비밀조직 여간부에게 면접 보는 만화.manhwa",
+        "ㅇㅆㅇㅆ) 비밀조직 여간부에게 면접 보는 만화",
+        "ㅇㅆㅇㅆ)비밀조직 여간부에게 면접 보는 만화",
+        "ㅇㅆㅇㅆ)비밀조직 여간부에게 면접 보는 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-28T00:57:07.342622+00:00",
+      "collectedAt": "2026-10-28T09:57:07.342639+09:00",
+      "firstPublishedAt": "2026-10-28T00:57:07.441124+00:00"
+    },
     {
       "id": "aagag-1665255-0",
       "url": "https://aagag.com/issue/?idx=1665255",
