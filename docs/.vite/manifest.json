@@ -1,4 +1,34 @@
 {
+  "../daily-k-comics/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-CdeucnOr.js",
+    "name": "app-route-prefetch-policy",
+    "src": "../daily-k-comics/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "../daily-k-comics/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "daily-k/_next/static/chunks/layout-segment-context-N6SaWavg.js",
+    "name": "layout-segment-context",
+    "src": "../daily-k-comics/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
+  "../daily-k-comics/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "daily-k/_next/static/chunks/streamed-icons-C0-_Izid.js",
+    "name": "streamed-icons",
+    "src": "../daily-k-comics/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
   "_framework-CBxL4RM0.js": {
     "file": "daily-k/_next/static/chunks/framework-CBxL4RM0.js",
     "name": "framework",
@@ -11,7 +41,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "daily-k/_next/static/chunks/page-C77mUhvp.js",
+    "file": "daily-k/_next/static/chunks/page-gDfQjCf6.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -20,38 +50,8 @@
       "_framework-CBxL4RM0.js"
     ]
   },
-  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-D0HCYDwH.js",
-    "name": "app-route-prefetch-policy",
-    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "virtual:vinext-app-browser-entry"
-    ]
-  },
-  "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "daily-k/_next/static/chunks/layout-segment-context-9H3fwWjH.js",
-    "name": "layout-segment-context",
-    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
-  "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "daily-k/_next/static/chunks/streamed-icons-DeUgJCDM.js",
-    "name": "streamed-icons",
-    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "daily-k/_next/static/chunks/index-BfKSOf66.js",
+    "file": "daily-k/_next/static/chunks/index-Bf9rbNaw.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -60,11 +60,11 @@
       "_framework-CBxL4RM0.js"
     ],
     "dynamicImports": [
-      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "../daily-k-comics/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "../daily-k-comics/node_modules/vinext/dist/shims/streamed-icons.js",
       "virtual:vinext-app-browser-entry",
-      "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/page.tsx",
-      "node_modules/vinext/dist/shims/streamed-icons.js"
+      "../daily-k-comics/node_modules/vinext/dist/shims/layout-segment-context.js"
     ]
   }
 }
