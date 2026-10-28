@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T04:25:25.074559+00:00",
+  "collectedAt": "2026-10-28T04:27:33.234557+00:00",
   "windowEnd": "2026-10-28T13:25:24.969990+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10468,6 +10468,52 @@
       "firstPublishedAt": "2026-10-27T10:36:02.621409+00:00"
     },
     {
+      "id": "aagag-1665320-0",
+      "url": "https://aagag.com/issue/?idx=1665320",
+      "source": "애객",
+      "title": "ㅇㅎ?) 갑질하는 면접 지원자",
+      "publishedAt": "2026-10-28T13:20:33+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Jp72L.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Jp72L.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-28T13:27:18.960022+09:00",
+      "sourceTitles": [
+        "(ㅇㅎ?) 갑질하는 면접 지원자",
+        "갑질하는 면접 지원자",
+        "ㅇㅎ?) 갑질하는 면접 지원자",
+        "ㅇㅎ?) 갑질하는 면접 지원자",
+        "ㅇㅎ?) 구세주 리턴즈에 나온 회색",
+        "ㅇㅎ?) 구세주 리턴즈에 나온 회색"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-10-28T04:27:33.153469+00:00",
+      "collectedAt": "2026-10-28T13:27:33.153485+09:00",
+      "firstPublishedAt": "2026-10-28T04:27:33.251963+00:00"
+    },
+    {
       "id": "aagag-1665237-0",
       "url": "https://aagag.com/issue/?idx=1665237",
       "source": "애객",
@@ -10629,7 +10675,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
