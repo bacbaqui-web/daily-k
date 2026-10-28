@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T10:12:11.354741+00:00",
+  "collectedAt": "2026-10-28T10:13:06.746572+00:00",
   "windowEnd": "2026-10-28T19:12:11.229667+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11113,6 +11113,67 @@
       "firstPublishedAt": "2026-10-28T00:04:56.400233+00:00"
     },
     {
+      "id": "aagag-1665418-0",
+      "url": "https://aagag.com/issue/?idx=1665418",
+      "source": "애객",
+      "title": "안정감을 줄거같은 스타일.mp4",
+      "publishedAt": "2026-10-28T19:07:08+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2lMN.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2lMN.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8909391",
+          "text": "안정주머니"
+        },
+        {
+          "id": "8909398",
+          "text": "나한테도 좀 웃어줘.."
+        },
+        {
+          "id": "8909400",
+          "text": "실제로 보면 심장 박동수부터 미쳐 뛸 것 같은데 안정감..."
+        },
+        {
+          "id": "8909401",
+          "text": "보고만 있어도 마음이 편안해지는구나"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-28T19:12:57.834829+09:00",
+      "sourceTitles": [
+        "안정감을 줄거같은 스타일.mp4",
+        "안정감을 줄거같은 스타일.mp4",
+        "ㅇㅎ) 수요일 아침의 눈정화",
+        "대만누나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-28T10:13:06.667532+00:00",
+      "collectedAt": "2026-10-28T19:13:06.667547+09:00",
+      "firstPublishedAt": "2026-10-28T10:13:06.768485+00:00"
+    },
+    {
       "id": "aagag-1665163-0",
       "url": "https://aagag.com/issue/?idx=1665163",
       "source": "애객",
@@ -11694,7 +11755,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
