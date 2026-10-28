@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T09:52:30.469016+00:00",
+  "collectedAt": "2026-10-28T09:54:59.253225+00:00",
   "windowEnd": "2026-10-28T18:52:30.362143+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7306,6 +7306,95 @@
       "firstPublishedAt": "2026-10-28T09:37:31.951580+00:00"
     },
     {
+      "id": "aagag-1665411-0",
+      "url": "https://aagag.com/issue/?idx=1665411",
+      "source": "애객",
+      "title": "다이소 신박한 물건.mp4",
+      "publishedAt": "2026-10-28T18:45:42+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2owD.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2owD.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 11,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 11,
+      "laughingComments": 4,
+      "score": 14,
+      "kPerComment": 1.2727272727272727,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8909297",
+          "text": "다이소는 집이나 내놔라..."
+        },
+        {
+          "id": "8909300",
+          "text": "반찬 정보"
+        },
+        {
+          "id": "8909301",
+          "text": "5/18 보면 위로 다 올리기도 전에 스코어보드가 자리잡고있네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8909305",
+          "text": "눈썰미가 좋으시군요"
+        },
+        {
+          "id": "8909304",
+          "text": "실제로 보면 주변부 화면 번짐, 저가볼록렌즈류"
+        },
+        {
+          "id": "8909307",
+          "text": "옆에도봐도 꽉차는 돋보기라니 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8909317",
+          "text": "12초... ㅋㅋㅋ"
+        },
+        {
+          "id": "8909310",
+          "text": "완전히 사기 영상이네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8909311",
+          "text": "블록해서 왜곡 때문에 눈 아픔"
+        },
+        {
+          "id": "8909312",
+          "text": "시력박살용"
+        },
+        {
+          "id": "8909315",
+          "text": "다이소에 만원짜리가?"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-28T18:54:49.578080+09:00",
+      "sourceTitles": [
+        "다이소 신박한 물건.mp4",
+        "다이소 신박한 물건",
+        "다이소에서 파는 신기한 스마트폰 확대경",
+        "다이소 신박한 물건.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-28T09:54:59.176633+00:00",
+      "collectedAt": "2026-10-28T18:54:59.176649+09:00",
+      "firstPublishedAt": "2026-10-28T09:54:59.273168+00:00"
+    },
+    {
       "id": "aagag-1615770-0",
       "url": "https://aagag.com/issue/?idx=1615770",
       "source": "애객",
@@ -11705,7 +11794,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
