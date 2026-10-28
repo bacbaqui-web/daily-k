@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T03:13:25.252782+00:00",
+  "collectedAt": "2026-10-28T03:14:23.550577+00:00",
   "windowEnd": "2026-10-28T12:13:25.146542+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11669,7 +11669,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -11696,6 +11696,112 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-304597-1",
+      "url": "https://aagag.com/issue/?idx=304597_1",
+      "source": "애객",
+      "title": "중국에서 생활하는 만화",
+      "publishedAt": "2026-10-28T12:07:27+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BzLO8.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BzLOe.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BzLOF.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BzLOT.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Cthjq.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Cthk4.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Cthk7.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/CthkA.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "1:1"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/BzLO8.webp",
+        "https://i.aagag.com/o/BzLOe.webp",
+        "https://i.aagag.com/o/BzLOF.webp",
+        "https://i.aagag.com/o/BzLOT.webp",
+        "https://i.aagag.com/o/Cthjq.webp",
+        "https://i.aagag.com/o/Cthk4.webp",
+        "https://i.aagag.com/o/Cthk7.webp",
+        "https://i.aagag.com/o/CthkA.webp"
+      ],
+      "videos": [],
+      "excerpt": "1:1",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 6,
+      "commentCount": 4,
+      "laughingComments": 2,
+      "score": 6,
+      "kPerComment": 1.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8907153",
+          "text": "세뇌후 사상재주입ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8907174",
+          "text": "과격하게 말하면 맞는거 같은데"
+        },
+        {
+          "id": "8907169",
+          "text": "글씨도 대충 그림도 대충인데 재밌네ㅋ"
+        },
+        {
+          "id": "8907173",
+          "text": "재밌구나"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-28T12:14:10.120219+09:00",
+      "sourceTitles": [
+        "한드 부작용",
+        "한류 부작용",
+        "한류 부작용",
+        "한류 부작용",
+        "중국 생활이 너무 재밌어서 그려보는 대륙일기",
+        "중국에서 생활하는 만화",
+        "중국 생활이 너무 재밌어서 그려보는 대륙일기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-28T03:14:23.473186+00:00",
+      "collectedAt": "2026-10-28T12:14:23.473203+09:00",
+      "firstPublishedAt": "2026-10-28T03:14:23.571980+00:00"
+    },
     {
       "id": "aagag-744301-0",
       "url": "https://aagag.com/issue/?idx=744301",
