@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T09:35:00.402262+00:00",
+  "collectedAt": "2026-10-28T09:36:01.935233+00:00",
   "windowEnd": "2026-10-28T18:35:00.291318+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11487,6 +11487,55 @@
       "firstPublishedAt": "2026-10-27T10:36:02.621409+00:00"
     },
     {
+      "id": "aagag-1665405-0",
+      "url": "https://aagag.com/issue/?idx=1665405",
+      "source": "애객",
+      "title": "ㅇㅎ) 설렁탕 평가하는 리뷰어",
+      "publishedAt": "2026-10-28T18:34:33+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L12Bj.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "콜라겐이 많다고 하네요"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L12Bj.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "콜라겐이 많다고 하네요",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-28T18:35:50.692131+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 설렁탕 평가하는 리뷰어",
+        "설렁탕 평가하는 리뷰어",
+        "ㅇㅎ) 설렁탕 평가하는 리뷰어",
+        "ㅇㅎ) 설렁탕 평가하는 혼혈 여성",
+        "ㅇㅎ) 날씨 추울때는 설렁탕 이지"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-28T09:36:01.861292+00:00",
+      "collectedAt": "2026-10-28T18:36:01.861309+09:00",
+      "firstPublishedAt": "2026-10-28T09:36:01.957096+00:00"
+    },
+    {
       "id": "aagag-1665320-0",
       "url": "https://aagag.com/issue/?idx=1665320",
       "source": "애객",
@@ -11694,7 +11743,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
