@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T07:06:45.822180+00:00",
+  "collectedAt": "2026-10-28T07:10:54.548383+00:00",
   "windowEnd": "2026-10-28T16:06:45.711742+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7388,6 +7388,77 @@
       "sourceTitlesFetchedAt": "2026-10-27T11:11:47.049159+00:00",
       "collectedAt": "2026-10-27T20:11:47.049174+09:00",
       "firstPublishedAt": "2026-10-27T11:11:47.142910+00:00"
+    },
+    {
+      "id": "aagag-1665272-0",
+      "url": "https://aagag.com/issue/?idx=1665272",
+      "source": "애객",
+      "title": "우영우",
+      "publishedAt": "2026-10-28T15:59:06+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "[소리]"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2lmS.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "원작 박은빈 주현영"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2pUd.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "리메이크 아시다 마나, 카키하라 린카(실제로 친구이며 같은 소속사)*리메이크에서는 털보 사장이 사라지고 아버지의 가게에 일본 동그라미가 밥 먹으러 자주 옴"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2lmS.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L2pUd.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "[소리]\n원작 박은빈 주현영\n리메이크 아시다 마나, 카키하라 린카(실제로 친구이며 같은 소속사)*리메이크에서는 털보 사장이 사라지고 아버지의 가게에 일본 동그라미가 밥 먹으러 자주 옴",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 11,
+      "kPerComment": 11.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8908529",
+          "text": "우~ (영우) ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-28T16:10:40.104439+09:00",
+      "sourceTitles": [
+        "우영우 \"이의 있습니다!\" 원작과 리메이크.mp4",
+        "우영우 \"이의 있습니다!\" 원작과 리메이크.mp4",
+        "우영우 \"이의 있습니다!\" 원작과 리메이크",
+        "우영우 일본판 미나미에서 사라진 등장인물"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-28T07:10:54.445147+00:00",
+      "collectedAt": "2026-10-28T16:10:54.445163+09:00",
+      "firstPublishedAt": "2026-10-28T07:10:54.570469+00:00"
     }
   ],
   "taggedPosts": [
@@ -11035,7 +11106,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
