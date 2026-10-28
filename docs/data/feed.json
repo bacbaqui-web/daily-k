@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T11:56:59.295378+00:00",
+  "collectedAt": "2026-10-28T11:57:51.849890+00:00",
   "windowEnd": "2026-10-28T20:56:59.189169+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10844,7 +10844,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10871,6 +10871,70 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665294-0",
+      "url": "https://aagag.com/issue/?idx=1665294",
+      "source": "애객",
+      "title": "군인아저씨가 언니보다 어려 만화",
+      "publishedAt": "2026-10-28T20:56:19+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2kao.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "X 게시물을 불러오는 중입니다"
+        },
+        {
+          "type": "text",
+          "text": "X에서 보기"
+        },
+        {
+          "type": "text",
+          "text": "https://x.com/BJUKMOTww01/status/2114996837056966996"
+        },
+        {
+          "type": "text",
+          "text": "아..아앗앗"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L2kao.webp"
+      ],
+      "videos": [],
+      "excerpt": "X 게시물을 불러오는 중입니다\nX에서 보기\nhttps://x.com/BJUKMOTww01/status/2114996837056966996\n아..아앗앗",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-28T20:57:45.150181+09:00",
+      "sourceTitles": [
+        "사촌 아줌마라는 말을 처음 들어봐서 충격 먹음.JPG",
+        "사촌 아줌마라는 말을 처음 들어봐서 충격 먹음.JPG",
+        "그럼 사촌 언니는 그럼 뭐야 ㅋㅋ",
+        "사촌 아줌마라는 말을 처음 들어봐서 충격 먹음.JPG",
+        "사촌 아줌마라는 말을 처음 들어봐서 충격 먹음.JPG",
+        "군인아저씨 만화",
+        "사촌동생에게 아줌마 소리 듣는 만화",
+        "사촌 아줌마라는 말을 처음 들어봐서 충격 먹었다.",
+        "저 군인이 언니보다 어릴텐데 그럼 언니는 아줌마야?ㅋㅋ.manwha",
+        "\"군인 아저씨다\"",
+        "군인아저씨가 언니보다 어려 만화",
+        "\"사촌 아줌마\".manwha"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 12,
+      "sourceTitlesFetchedAt": "2026-10-28T11:57:51.779736+00:00",
+      "collectedAt": "2026-10-28T20:57:51.779754+09:00",
+      "firstPublishedAt": "2026-10-28T11:57:51.870239+00:00"
+    },
     {
       "id": "aagag-1665422-0",
       "url": "https://aagag.com/issue/?idx=1665422",
