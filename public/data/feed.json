@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T17:43:07.122952+09:00",
-  "windowEnd": "2026-10-29T17:36:50.137501+09:00",
+  "collectedAt": "2026-10-29T08:53:25.371627+00:00",
+  "windowEnd": "2026-10-29T17:53:25.272194+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3199,103 +3199,6 @@
       "sourceTitlesFetchedAt": "2026-10-29T01:08:57.809238+00:00",
       "collectedAt": "2026-10-29T10:08:57.809256+09:00",
       "firstPublishedAt": "2026-10-29T01:08:57.893160+00:00"
-    },
-    {
-      "id": "aagag-1665390-0",
-      "url": "https://aagag.com/issue/?idx=1665390",
-      "source": "애객",
-      "title": "쿠우쿠우 포켓몬 콜라보 근황",
-      "publishedAt": "2026-10-28T17:26:06+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2sUX.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2sUe.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2sUh.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2sUl.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2sUm.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "그냥 굿즈만 파는 수준으로 하지는 않았네 주말에 가봐야겠다"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L2sUX.webp",
-        "https://i.aagag.com/o/L2sUe.webp",
-        "https://i.aagag.com/o/L2sUh.webp",
-        "https://i.aagag.com/o/L2sUl.webp",
-        "https://i.aagag.com/o/L2sUm.webp"
-      ],
-      "videos": [],
-      "excerpt": "그냥 굿즈만 파는 수준으로 하지는 않았네 주말에 가봐야겠다",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 21,
-      "commentCount": 7,
-      "laughingComments": 3,
-      "score": 21,
-      "kPerComment": 3.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8908952",
-          "text": "여기서도 치코리타는 진짜  ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8908953",
-          "text": "그러니까 포켓몬을 요리했다 이거지?"
-        },
-        {
-          "id": "8908963",
-          "text": "즙을 내서 얼리면... 슬러시"
-        },
-        {
-          "id": "8908971",
-          "text": "왠지 잔인해 보이는데 ㅌㅌㅌ"
-        },
-        {
-          "id": "8908977",
-          "text": "치코리타 샐러드 ㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8908983",
-          "text": "제일 중요한 피카츄돈까스가 없군"
-        },
-        {
-          "id": "8908991",
-          "text": "갸라도스롤 ㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-28T17:43:12.781583+09:00",
-      "sourceTitles": [
-        "미쳐버린 쿠우쿠우 근황",
-        "쿠우쿠우 포켓몬 콜라보 근황",
-        "쿠우쿠우 포켓몬 콜라보 실제 모습",
-        "웃긴 쿠우쿠우 포켓몬 콜라보 메뉴"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-28T08:43:26.030752+00:00",
-      "collectedAt": "2026-10-28T17:43:26.030769+09:00",
-      "firstPublishedAt": "2026-10-28T08:43:26.129149+00:00"
     },
     {
       "id": "aagag-412454-0",
@@ -9763,9 +9666,9 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 349,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
