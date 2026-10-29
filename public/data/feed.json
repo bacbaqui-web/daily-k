@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T03:44:37.052266+00:00",
+  "collectedAt": "2026-10-29T03:48:41.450672+00:00",
   "windowEnd": "2026-10-29T12:44:36.945619+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9082,6 +9082,63 @@
       "firstPublishedAt": "2026-10-28T10:13:06.768485+00:00"
     },
     {
+      "id": "aagag-1665540-0",
+      "url": "https://aagag.com/issue/?idx=1665540",
+      "source": "애객",
+      "title": "아기맹수 시전하는 일본 누나",
+      "publishedAt": "2026-10-29T12:33:13+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L31C3.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L31C3.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8912289",
+          "text": "건강한 게 최고!"
+        },
+        {
+          "id": "8912302",
+          "text": "결혼하면 매일 볼 수 있나요?"
+        },
+        {
+          "id": "8912310",
+          "text": "왼쪽이 진짜 이쁘다 매력 넘치네"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-29T12:48:32.119038+09:00",
+      "sourceTitles": [
+        "아기맹수 포즈잡는 일본 여성 격투기 선수.mp4",
+        "ㅇㅎ) 2번 보게 되는 계체량 측정.mpg",
+        "아기맹수 시전하는 일본 누나",
+        "아기 맹수 시전하는 일본 여자 격투기 선수 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-29T03:48:41.368017+00:00",
+      "collectedAt": "2026-10-29T12:48:41.368035+09:00",
+      "firstPublishedAt": "2026-10-29T03:48:41.472440+00:00"
+    },
+    {
       "id": "aagag-1665363-0",
       "url": "https://aagag.com/issue/?idx=1665363",
       "source": "애객",
@@ -9466,7 +9523,7 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
