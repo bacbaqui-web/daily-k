@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T08:53:25.371627+00:00",
+  "collectedAt": "2026-10-29T08:54:13.747622+00:00",
   "windowEnd": "2026-10-29T17:53:25.272194+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7498,6 +7498,86 @@
       "sourceTitlesFetchedAt": "2026-10-29T06:19:50.648537+00:00",
       "collectedAt": "2026-10-29T15:19:50.648554+09:00",
       "firstPublishedAt": "2026-10-29T06:19:50.738766+00:00"
+    },
+    {
+      "id": "aagag-1665632-0",
+      "url": "https://aagag.com/issue/?idx=1665632",
+      "source": "애객",
+      "title": "어질어질 할로윈 분장jpg",
+      "publishedAt": "2026-10-29T17:46:36+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L35LX.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "@.@"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L35LX.webp"
+      ],
+      "videos": [],
+      "excerpt": "@.@",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 9,
+      "laughingComments": 4,
+      "score": 11,
+      "kPerComment": 1.2222222222222223,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8913780",
+          "text": "아 눈 아파"
+        },
+        {
+          "id": "8913783",
+          "text": "귀엽당ㅋㅋㅋ"
+        },
+        {
+          "id": "8913784",
+          "text": "진짜 어질어질하네 ㅋㅋ"
+        },
+        {
+          "id": "8913794",
+          "text": "멀미난다 ㅋㅋㅋ"
+        },
+        {
+          "id": "8913795",
+          "text": "오 창의적이네"
+        },
+        {
+          "id": "8913796",
+          "text": "잘그리긴 했네 어지럽게"
+        },
+        {
+          "id": "8913801",
+          "text": "신기하네요 착시로 뇌를 속이나봄 어지럽다 진짜 눈 찾아서 보니 안정됨"
+        },
+        {
+          "id": "8913803",
+          "text": "애기도 창작자의 의도를 이해하고 있네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8913809",
+          "text": "가고일이다 ㅌㅌㅌ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-29T17:54:07.940316+09:00",
+      "sourceTitles": [
+        "어질어질 할로윈 분장jpg",
+        "어질어질 할로윈 분장jpg",
+        "어질어질 할로윈 분장jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-10-29T08:54:13.673526+00:00",
+      "collectedAt": "2026-10-29T17:54:13.673541+09:00",
+      "firstPublishedAt": "2026-10-29T08:54:13.767812+00:00"
     }
   ],
   "taggedPosts": [
@@ -9666,7 +9746,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
