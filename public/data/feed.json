@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T12:44:25.423259+00:00",
+  "collectedAt": "2026-10-29T12:45:29.172636+00:00",
   "windowEnd": "2026-10-29T21:44:25.321883+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10714,7 +10714,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10741,6 +10741,69 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665694-0",
+      "url": "https://aagag.com/issue/?idx=1665694",
+      "source": "애객",
+      "title": "북극곰 조우한 만화",
+      "publishedAt": "2026-10-29T21:42:41+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2zw6.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2zwD.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2zw9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2zwH.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L2zw6.webp",
+        "https://i.aagag.com/o/L2zwD.webp",
+        "https://i.aagag.com/o/L2zw9.webp",
+        "https://i.aagag.com/o/L2zwH.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8914660",
+          "text": "at필드를 쓰는 곰이라니?"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-29T21:45:23.802991+09:00",
+      "sourceTitles": [
+        "북극곰 조우한 만화",
+        "극지대에서 북극곰 만나면 큰일나는 이유",
+        "북극곰 조우한 만화",
+        "잡아먹히는 북극여우 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-29T12:45:29.098821+00:00",
+      "collectedAt": "2026-10-29T21:45:29.098839+09:00",
+      "firstPublishedAt": "2026-10-29T12:45:29.193322+00:00"
+    },
     {
       "id": "aagag-1665653-0",
       "url": "https://aagag.com/issue/?idx=1665653",
