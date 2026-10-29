@@ -1,6 +1,157 @@
 {
-  "editionCount": 84,
+  "editionCount": 85,
   "issues": [
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "yoon-insurrection-appeal-2026",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "29일 10시 결심 절차 시작과 특검 구형이 예정됐습니다. 실제 진행·결과는 미확인입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "예정",
+        "storyId": "20261029-am-soc-01",
+        "title": "윤석열 내란 혐의 항소심, 오늘 오전 10시 결심 절차 시작 예정"
+      },
+      "path": "yoon-insurrection-appeal-2026.json",
+      "title": "윤석열 내란 우두머리 혐의 항소심"
+    },
+    {
+      "categories": [
+        "웹툰 산업",
+        "웹툰산업"
+      ],
+      "eventCount": 5,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-27",
+      "id": "webtoon-ip-games",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "화산귀환의 소드 x 스태프 게임 협업과 공개 일정이 발표됐습니다. 실제 출시·사업 성과는 미확인입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "발표",
+        "storyId": "20261029-am-web-01",
+        "title": "‘소드 x 스태프’, 웹툰 ‘화산귀환’ 협업 발표…11월 콘텐츠 공개 예정"
+      },
+      "path": "webtoon-ip-games.json",
+      "title": "웹툰·웹소설 IP 게임화"
+    },
+    {
+      "categories": [
+        "국제·외교",
+        "국제정세"
+      ],
+      "eventCount": 13,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "us-iran-negotiations",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "미 부통령의 서한과 관리 간 논의가 소식통 인용으로 보도됐습니다. 협상 재개·합의는 미확인입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "후속",
+        "storyId": "20261029-am-int-01",
+        "title": "미 부통령, 이란 안보 수장에 종전협상 재개 촉구 서한 보냈다는 보도"
+      },
+      "path": "us-iran-negotiations.json",
+      "title": "미국·이란 협상과 외교적 조치"
+    },
+    {
+      "categories": [
+        "과학·기술",
+        "정치·정책"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
+      "firstCoveredDate": "2026-10-22",
+      "id": "php-security-patch-early-disclosure-2026",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "서버 25대 관리자 권한 탈취와 내부망 침투 정황이 보도됐습니다. 국내 실제 피해·공격 주체는 미확인입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "후속",
+        "storyId": "20261029-am-tech-01",
+        "title": "PHP 취약점 공격으로 서버 25대 장악 정황…한국 방화벽도 표적"
+      },
+      "path": "php-security-patch-early-disclosure-2026.json",
+      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "financial-investment-crypto-hacks-response-2026",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "청와대 긴급점검회의와 기관 간 정보 공유, 사칭 피해 예방 당부가 보도됐습니다. 최종 피해는 미확인입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "발표",
+        "storyId": "20261029-am-safe-01",
+        "title": "청와대, 금융권 연쇄 해킹 긴급점검회의…사칭 전화·문자 주의 당부"
+      },
+      "path": "financial-investment-crypto-hacks-response-2026.json",
+      "title": "금융투자·가상자산 업계 침해사고와 공동 대응"
+    },
+    {
+      "categories": [
+        "경제·금리",
+        "경제·생활경제"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-17",
+      "id": "fed-policy-2026",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "기준금리 연 3.75∼4.00% 동결과 10대 2 표결이 확인됐습니다. 다음 회의 결정은 미확정입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "결과",
+        "storyId": "20261029-am-eco-01",
+        "title": "미 연준, 기준금리 연 3.75∼4.00% 동결"
+      },
+      "path": "fed-policy-2026.json",
+      "title": "미국 연준 금리 결정과 물가 판단"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "elliott-isds-remand-award-acceptance-2026",
+      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
+      "lastCoveredDate": "2026-10-29",
+      "latest": {
+        "archive": false,
+        "change": "정부가 추가 취소소송을 하지 않기로 해 배상책임이 확정됐습니다. 지급 세부사항은 논의 중입니다.",
+        "editionId": "2026-10-29-am",
+        "stage": "결과",
+        "storyId": "20261029-am-pol-01",
+        "title": "정부, 엘리엇 환송중재 판정 수용…약 1530억원 배상책임 확정"
+      },
+      "path": "elliott-isds-remand-award-acceptance-2026.json",
+      "title": "엘리엇 국제투자분쟁 환송중재 판정 수용과 배상"
+    },
     {
       "categories": [
         "생활·안전"
@@ -1153,28 +1304,6 @@
     },
     {
       "categories": [
-        "과학·기술",
-        "정치·정책"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-10-22T09:10:05.275993+09:00",
-      "firstCoveredDate": "2026-10-22",
-      "id": "php-security-patch-early-disclosure-2026",
-      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
-      "lastCoveredDate": "2026-10-24",
-      "latest": {
-        "archive": false,
-        "change": "별도 CVE-2026-115560과 임시조치가 보도됐습니다. 정식 패치와 실제 피해는 미확인입니다.",
-        "editionId": "2026-10-24-pm",
-        "stage": "후속",
-        "storyId": "20261024-pm-tech-01",
-        "title": "PHP 신규 취약점 발견…KISA, 정식 패치 전 임시조치 권고"
-      },
-      "path": "php-security-patch-early-disclosure-2026.json",
-      "title": "PHP 보안 패치 조기 노출과 웹 서비스 취약점"
-    },
-    {
-      "categories": [
         "경제·생활경제",
         "경제·에너지",
         "국제·에너지"
@@ -1921,28 +2050,6 @@
     },
     {
       "categories": [
-        "국제·외교",
-        "국제정세"
-      ],
-      "eventCount": 12,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "us-iran-negotiations",
-      "lastCoveredAt": "2026-10-21T21:12:20.892212+09:00",
-      "lastCoveredDate": "2026-10-21",
-      "latest": {
-        "archive": false,
-        "change": "이란 측의 농축 우라늄 해외 반출 거부와 조건 이행 요구가 보도됐습니다. 합의 체결은 확인되지 않았습니다.",
-        "editionId": "2026-10-21-pm",
-        "stage": "후속",
-        "storyId": "iran-enriched-uranium-export-position-2026-10-21",
-        "title": "이란, 농축 우라늄 해외 반출 거부…미국에 조건 이행 요구"
-      },
-      "path": "us-iran-negotiations.json",
-      "title": "미국·이란 협상과 외교적 조치"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -2047,28 +2154,6 @@
       },
       "path": "assembly-ict-hearing-recusal-dispute-2026.json",
       "title": "과방위 국정감사의 제척 논쟁과 회의 중단"
-    },
-    {
-      "categories": [
-        "웹툰 산업",
-        "웹툰산업"
-      ],
-      "eventCount": 4,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-27",
-      "id": "webtoon-ip-games",
-      "lastCoveredAt": "2026-10-21T09:10:47.865532+09:00",
-      "lastCoveredDate": "2026-10-21",
-      "latest": {
-        "archive": false,
-        "change": "넷마블이 어라이즈 누적 다운로드 7천만 건을 공개했습니다. 회사 집계이며 매출·고유 이용자와 다릅니다.",
-        "editionId": "2026-10-21-am",
-        "stage": "결과",
-        "storyId": "20261021-am-webtoon-01",
-        "title": "‘나 혼자만 레벨업: 어라이즈’ 누적 다운로드 7천만 건 발표"
-      },
-      "path": "webtoon-ip-games.json",
-      "title": "웹툰·웹소설 IP 게임화"
     },
     {
       "categories": [
@@ -6578,27 +6663,6 @@
     },
     {
       "categories": [
-        "경제·금리"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-17",
-      "id": "fed-policy-2026",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-21",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 카시카리 \"미국 경제 전반 물가가 너무 높다\".",
-        "editionId": "2026-09-21-am-archive",
-        "stage": "보도",
-        "storyId": "archive-03",
-        "title": "카시카리 \"미국 경제 전반 물가가 너무 높다\""
-      },
-      "path": "fed-policy-2026.json",
-      "title": "미국 연준 금리 결정과 물가 판단"
-    },
-    {
-      "categories": [
         "사회·교육"
       ],
       "eventCount": 2,
@@ -7586,7 +7650,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 633,
+  "storyCount": 640,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-28T21:46:37.713370+09:00"
+  "updatedAt": "2026-10-29T09:14:54.485338+09:00"
 }
