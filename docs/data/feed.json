@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T05:44:00.288032+00:00",
+  "collectedAt": "2026-10-29T05:47:14.283213+00:00",
   "windowEnd": "2026-10-29T14:44:00.181971+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9968,7 +9968,7 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9995,6 +9995,85 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665585-0",
+      "url": "https://aagag.com/issue/?idx=1665585",
+      "source": "애객",
+      "title": "일본만화 사상 가장 어이없는 프로포즈",
+      "publishedAt": "2026-10-29T14:28:00+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JsWF1.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/HIlLs.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JsWF5.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "하지만 가장 개연성 넘친다는 결혼"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/JsWF1.webp",
+        "https://i.aagag.com/o/HIlLs.webp",
+        "https://i.aagag.com/o/JsWF5.webp"
+      ],
+      "videos": [],
+      "excerpt": "하지만 가장 개연성 넘친다는 결혼",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 8,
+      "commentCount": 4,
+      "laughingComments": 2,
+      "score": 8,
+      "kPerComment": 2.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8912833",
+          "text": "ㅋㅋ재밌당"
+        },
+        {
+          "id": "8912835",
+          "text": "드래곤볼의 팡팡 프로포즈와 우열을 가리기 힘들군"
+        },
+        {
+          "id": "8912879",
+          "text": "작가가 결혼이라는건 사고가 나듯 하는거라고 생각하나봄 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8912855",
+          "text": "닥터슬럼프 잼나지."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-29T14:47:06.829192+09:00",
+      "sourceTitles": [
+        "일본만화 가장 어이없는 프로포즈.manhwa",
+        "일본만화 사상 가장 어이없는 프로포즈.jpg",
+        "일본만화 사상 가장 어이없는 프로포즈.jpg",
+        "일본만화 사상 가장 어이없는 프로포즈",
+        "뜬금없이 결혼해도 개연성 넘치는 만화",
+        "명작 만화들은 뭔가",
+        "어떤 부부의 결혼 반지 교환식",
+        "어이없는 결혼엔딩",
+        "\"이 남자랑 결혼하고 싶다.\"",
+        "만화 역사상 가장 빠른 결혼식"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 10,
+      "sourceTitlesFetchedAt": "2026-10-29T05:47:14.205826+00:00",
+      "collectedAt": "2026-10-29T14:47:14.205844+09:00",
+      "firstPublishedAt": "2026-10-29T05:47:14.302580+00:00"
+    },
     {
       "id": "aagag-1425379-1",
       "url": "https://aagag.com/issue/?idx=1425379_1",
