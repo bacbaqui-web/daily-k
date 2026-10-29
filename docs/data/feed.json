@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T23:12:35.230142+09:00",
-  "windowEnd": "2026-10-29T23:08:15.373904+09:00",
+  "collectedAt": "2026-10-29T14:22:50.324360+00:00",
+  "windowEnd": "2026-10-29T23:22:50.215432+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10126,76 +10126,6 @@
       "firstPublishedAt": "2026-10-28T23:43:50.161120+00:00"
     },
     {
-      "id": "aagag-1665463-0",
-      "url": "https://aagag.com/issue/?idx=1665463",
-      "source": "애객",
-      "title": "ㅇㅎ) 언더붑 입고 마트 간 유부녀",
-      "publishedAt": "2026-10-28T23:04:09+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L2wSY.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L2wSY.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 6,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8910202",
-          "text": "솔직히 애 있는 부모 입장에서 마트에서 만나면 기겁할 일이긴 해."
-        },
-        {
-          "id": "8910213",
-          "text": "5-6초 정면샷이 뭔가  볼링핀 같아 보이기도 하고 ㅎ"
-        },
-        {
-          "id": "8910225",
-          "text": "알면 하지 말았어야죠..."
-        },
-        {
-          "id": "8910226",
-          "text": "알면 하지를 마.."
-        },
-        {
-          "id": "8910227",
-          "text": "근데 하나도 안 섹시하고 뭔가 햄 포장해놓은 거 옆구리 터진거 같지 왜"
-        },
-        {
-          "id": "8910232",
-          "text": "허리통이 넓으셔서..."
-        }
-      ],
-      "commentsFetchedAt": "2026-10-28T23:16:58.814324+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 언더붑 입고 마트 간 유부녀",
-        "ㅇㅎ) 언더붑 입고 마트 간 유부녀 ㄷㄷ..mp4",
-        "ㅇㅎ) 언더붑 입고 마트 간 유부녀",
-        "언더붑 입고 장을 본 이유",
-        "ㅇㅎ) 언더붑 입고 마트 간 유부녀"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-10-28T14:17:05.361344+00:00",
-      "collectedAt": "2026-10-28T23:17:05.361360+09:00",
-      "firstPublishedAt": "2026-10-28T14:17:05.463954+00:00"
-    },
-    {
       "id": "aagag-1665540-0",
       "url": "https://aagag.com/issue/?idx=1665540",
       "source": "애객",
@@ -10527,9 +10457,9 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 352,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
