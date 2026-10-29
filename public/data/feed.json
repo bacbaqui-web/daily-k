@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T06:18:10.558630+00:00",
+  "collectedAt": "2026-10-29T06:19:50.721891+00:00",
   "windowEnd": "2026-10-29T15:18:10.455966+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7812,6 +7812,66 @@
       "sourceTitlesFetchedAt": "2026-10-29T02:35:54.194911+00:00",
       "collectedAt": "2026-10-29T11:35:54.194927+09:00",
       "firstPublishedAt": "2026-10-29T02:35:54.294190+00:00"
+    },
+    {
+      "id": "aagag-1665594-0",
+      "url": "https://aagag.com/issue/?idx=1665594",
+      "source": "애객",
+      "title": "정준하가 무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
+      "publishedAt": "2026-10-29T15:10:06+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L336L.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "아...."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L336L.webp"
+      ],
+      "videos": [],
+      "excerpt": "아....",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 3.6666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8913067",
+          "text": "혼난 기억이 없는 게 아니라 뇌가 스스로 삭제한 거네요. 방어기제 풀가동"
+        },
+        {
+          "id": "8913078",
+          "text": "그 때만이 아니었구나 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8913091",
+          "text": "일상이라 기억할만한 큰일이 아님 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-29T15:19:39.964939+09:00",
+      "sourceTitles": [
+        "무한도전 시절 정준하가 매번 욕먹었던 이유",
+        "정준하가 무도 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
+        "정준하가 무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
+        "정준하가 무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
+        "무도 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 정준하",
+        "무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 정준하",
+        "무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 정준하"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-29T06:19:50.648537+00:00",
+      "collectedAt": "2026-10-29T15:19:50.648554+09:00",
+      "firstPublishedAt": "2026-10-29T06:19:50.738766+00:00"
     }
   ],
   "taggedPosts": [
@@ -10092,7 +10152,7 @@
     }
   ],
   "partialCommentPosts": 9,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
