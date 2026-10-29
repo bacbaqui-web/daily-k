@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T17:59:50.135100+09:00",
-  "windowEnd": "2026-10-29T17:53:25.272194+09:00",
+  "collectedAt": "2026-10-29T09:10:05.478906+00:00",
+  "windowEnd": "2026-10-29T18:10:05.373601+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -9736,75 +9736,6 @@
       "firstPublishedAt": "2026-10-28T14:17:05.463954+00:00"
     },
     {
-      "id": "aagag-1665332-0",
-      "url": "https://aagag.com/issue/?idx=1665332",
-      "source": "애객",
-      "title": "남자의사에게 ㅇㄷ보여준 썰만화.JPG",
-      "publishedAt": "2026-10-28T17:46:52+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2rMh.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L2rYL.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L2rMh.webp",
-        "https://i.aagag.com/o/L2rYL.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 5,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8909067",
-          "text": "파란선일줄 알았는데 아니네"
-        },
-        {
-          "id": "8909069",
-          "text": "나 이거랑 비슷한 상황 러브앤드럭스에서 앤해서웨이꺼 봤어"
-        },
-        {
-          "id": "8909110",
-          "text": "덕분에 저도 봤읍니다"
-        },
-        {
-          "id": "8909077",
-          "text": "파란선 뭐하냐고"
-        },
-        {
-          "id": "8909093",
-          "text": "중간에 짤렷잔아"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-28T18:01:36.735189+09:00",
-      "sourceTitles": [
-        "남자의사에게 ㅇㄷ보여준 썰만화.JPG",
-        "썰만화)남자의사한테 실수로 ㅇㄷ보여줌.JPG",
-        "남자의사에게 ㅇㄷ보여준 썰만화.JPG",
-        "ㅇㅎ) 남자의사에게 ㅇㄷ보여준 썰만화.jpg",
-        "의사에게 유두 공개한 여자ㅋㅋ",
-        "의사에게 유두를 깐 여자ㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-10-28T09:01:46.188553+00:00",
-      "collectedAt": "2026-10-28T18:01:46.188570+09:00",
-      "firstPublishedAt": "2026-10-28T09:01:46.284934+00:00"
-    },
-    {
       "id": "aagag-1665418-0",
       "url": "https://aagag.com/issue/?idx=1665418",
       "source": "애객",
@@ -10149,9 +10080,9 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
