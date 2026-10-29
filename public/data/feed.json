@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-29",
-  "collectedAt": "2026-10-29T10:38:45.932737+00:00",
+  "collectedAt": "2026-10-29T10:42:01.474248+00:00",
   "windowEnd": "2026-10-29T19:38:45.826111+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10369,7 +10369,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10396,6 +10396,84 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665653-0",
+      "url": "https://aagag.com/issue/?idx=1665653",
+      "source": "애객",
+      "title": "와이프가 블리치를 보기 시작했다.Manhwa",
+      "publishedAt": "2026-10-29T19:26:31+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L35ld.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L35m5.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L35m8.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "자못.. 골계스러운 광경이로군.."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L35ld.webp",
+        "https://i.aagag.com/o/L35m5.webp",
+        "https://i.aagag.com/o/L35m8.webp"
+      ],
+      "videos": [],
+      "excerpt": "자못.. 골계스러운 광경이로군..",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8914136",
+          "text": "중2병 드립의 정점!"
+        },
+        {
+          "id": "8914140",
+          "text": "낙엽 떨어져 있음 뭉쳐서 위로 던지며 천본앵!!! 하고 그랬었지..."
+        },
+        {
+          "id": "8914155",
+          "text": "봄에 벚꽃 날리는걸 보며 차마 육성으로 외치지는 못했지만 마음속으로.. \"흩날려라..!\""
+        },
+        {
+          "id": "8914149",
+          "text": "아아.. 느리구나.."
+        },
+        {
+          "id": "8914154",
+          "text": "도대체 언제부터 가계부를 쓰고 있다고 착각한거지...?"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-29T19:41:49.411019+09:00",
+      "sourceTitles": [
+        "와이프가 블리치를 보기 시작했다ㄷㄷㄷ;.Manhwa",
+        "와이프가 블리치를 보기 시작했다.Manhwa",
+        "와이프가 블리치를 보기 시작했다.Manhwa",
+        "와이프가 블리치를 보기 시작했다.Manhwa",
+        "와이프가 블리치를 보기 시작했다.Manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-29T10:42:01.399170+00:00",
+      "collectedAt": "2026-10-29T19:42:01.399187+09:00",
+      "firstPublishedAt": "2026-10-29T10:42:01.495494+00:00"
+    },
     {
       "id": "aagag-1464060-0",
       "url": "https://aagag.com/issue/?idx=1464060",
