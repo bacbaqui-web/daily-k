@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T23:15:45.001269+09:00",
-  "windowEnd": "2026-10-30T23:08:55.574951+09:00",
+  "collectedAt": "2026-10-30T14:27:29.055418+00:00",
+  "windowEnd": "2026-10-30T23:26:25.887770+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10143,6 +10143,46 @@
       "firstPublishedAt": "2026-10-29T20:00:51.039899+00:00"
     },
     {
+      "id": "aagag-1665936-0",
+      "url": "https://aagag.com/issue/?idx=1665936",
+      "source": "애객",
+      "title": "여성의 엉덩이를 10초간 보면 수명이 3년 늘어난다???",
+      "publishedAt": "2026-10-30T23:26:22+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L33be.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L33be.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-30T23:27:20.320882+09:00",
+      "sourceTitles": [
+        "여성의 엉덩이를 10초간 보면 수명이 3년 늘어난다???",
+        "ㅎㅂ) 수명을 3년 늘리는 방법",
+        "ㅎㅂ) 수명을 3년 늘리는 방법",
+        "ㅎㅂ) 오이갤러의 수명을 3년 늘려 드리겠습니다."
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-30T14:27:28.991529+00:00",
+      "collectedAt": "2026-10-30T23:27:28.991544+09:00",
+      "firstPublishedAt": "2026-10-30T14:27:29.073289+00:00"
+    },
+    {
       "id": "aagag-1665733-0",
       "url": "https://aagag.com/issue/?idx=1665733",
       "source": "애객",
@@ -10258,9 +10298,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 22,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
