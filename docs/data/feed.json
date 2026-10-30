@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T15:14:39.878793+09:00",
-  "windowEnd": "2026-10-30T15:07:46.060671+09:00",
+  "collectedAt": "2026-10-30T06:24:55.642408+00:00",
+  "windowEnd": "2026-10-30T15:24:55.540698+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8051,66 +8051,6 @@
       "firstPublishedAt": "2026-10-29T08:20:25.315880+00:00"
     },
     {
-      "id": "aagag-1665594-0",
-      "url": "https://aagag.com/issue/?idx=1665594",
-      "source": "애객",
-      "title": "정준하가 무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
-      "publishedAt": "2026-10-29T15:10:06+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L336L.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "아...."
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L336L.webp"
-      ],
-      "videos": [],
-      "excerpt": "아....",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 3,
-      "laughingComments": 2,
-      "score": 11,
-      "kPerComment": 3.6666666666666665,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8913067",
-          "text": "혼난 기억이 없는 게 아니라 뇌가 스스로 삭제한 거네요. 방어기제 풀가동"
-        },
-        {
-          "id": "8913078",
-          "text": "그 때만이 아니었구나 ㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8913091",
-          "text": "일상이라 기억할만한 큰일이 아님 ㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-29T15:19:39.964939+09:00",
-      "sourceTitles": [
-        "무한도전 시절 정준하가 매번 욕먹었던 이유",
-        "정준하가 무도 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
-        "정준하가 무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
-        "정준하가 무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 이유.jpg",
-        "무도 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 정준하",
-        "무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 정준하",
-        "무한도전 뉴욕 촬영 중 유재석한테 혼난걸 기억 못하는 정준하"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-10-29T06:19:50.648537+00:00",
-      "collectedAt": "2026-10-29T15:19:50.648554+09:00",
-      "firstPublishedAt": "2026-10-29T06:19:50.738766+00:00"
-    },
-    {
       "id": "aagag-1665632-0",
       "url": "https://aagag.com/issue/?idx=1665632",
       "source": "애객",
@@ -10618,9 +10558,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 348,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
