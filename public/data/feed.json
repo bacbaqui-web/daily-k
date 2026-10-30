@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T05:16:45.235367+00:00",
+  "collectedAt": "2026-10-30T05:19:33.646819+00:00",
   "windowEnd": "2026-10-30T14:16:45.129729+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10196,6 +10196,82 @@
       "firstPublishedAt": "2026-10-29T15:09:31.837096+00:00"
     },
     {
+      "id": "aagag-1665822-0",
+      "url": "https://aagag.com/issue/?idx=1665822",
+      "source": "애객",
+      "title": "A컵이 되고 싶다는 생각을 해본적 있다는 글래머 女",
+      "publishedAt": "2026-10-30T14:06:38+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KjCt7.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KjCt7.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 7,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8917349",
+          "text": "왼쪽 우현 가운데 연우"
+        },
+        {
+          "id": "8917355",
+          "text": "말숙이는..아니다"
+        },
+        {
+          "id": "8917367",
+          "text": "다 아는 사람이구먼"
+        },
+        {
+          "id": "8917369",
+          "text": "그럼 청자들 갈치마냥 와다닥 토막 난다"
+        },
+        {
+          "id": "8917376",
+          "text": "경험상 쳐진건 섰던것도 죽임 고로 꽉찬 B C 가 최고임"
+        },
+        {
+          "id": "8917410",
+          "text": "결국 모든 가슴은 처집니다 그리고 처지는 것 자체가 자연스러운 겁니다 모든 모양의, 크기의, 상태의 가슴를 사랑하세요"
+        },
+        {
+          "id": "8917415",
+          "text": "A도 처집니다 크기는 처짐에 영향을 안 줍니다 다 그 크기에 맞게 처집니다"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-30T14:19:25.629090+09:00",
+      "sourceTitles": [
+        "작아지고 싶다는 생각을 해본적이 있어?",
+        "A컵이 되고 싶다는 생각을 해본적 있다는 글래머녀",
+        "A컵이 되고 싶다는 생각을 해본적 있다는 글래머 女",
+        "A컵이 되고 싶다는 생각을 해본적 있다는 글래머 女",
+        "A컵이 되고 싶다는 생각을 해본적 있다는 글래머",
+        "ㅇㅎ?) A컵이 되고 싶다는 생각을 해본적 있다는 츠자..",
+        "ㅇㅎ?) A컵이 되고 싶다는 생각을 해본적 있다는 글래머"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-30T05:19:33.572759+00:00",
+      "collectedAt": "2026-10-30T14:19:33.572776+09:00",
+      "firstPublishedAt": "2026-10-30T05:19:33.669107+00:00"
+    },
+    {
       "id": "aagag-1362585-0",
       "url": "https://aagag.com/issue/?idx=1362585",
       "source": "애객",
@@ -10715,7 +10791,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
