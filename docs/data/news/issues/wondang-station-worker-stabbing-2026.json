@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-10-30/am.json",
+      "category": "사회이슈",
+      "change": "살인미수 혐의 구속영장 신청과 피해자 보호 관련 의혹 조사 방침이 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "coveredOn": "2026-10-30",
+      "edition": "am",
+      "editionDate": "2026-10-30",
+      "editionId": "2026-10-30-am",
+      "eventAt": null,
+      "eventDate": "2026-10-29",
+      "eventEndDate": null,
+      "eventTimeNote": "범행은 10월 28일 낮, 구속영장 신청은 29일로 확인됐습니다. 정확한 사건·신청 시각은 제공되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-10-30-am/20261030-am-soc-01",
+      "keyFacts": {
+        "구속영장 신청일": "2026-10-29",
+        "범행일": "2026-10-28 낮",
+        "적용 혐의": "살인미수",
+        "추가 조사 방침": "피해자 근무 분리 요청 묵살 의혹"
+      },
+      "previous": null,
+      "publishedAt": "2026-10-29T22:59:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-10-29T22:59:00+09:00",
+          "title": "원당역 동료 역무원 흉기 사건 추가 취재",
+          "updatedAt": "2026-10-30T01:37:00+09:00",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008821974&oaid=N1008821991&plink=TOP",
+          "verifiedAt": "2026-10-30T09:13:52.696877+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261030-am-soc-01",
+      "summary": [
+        "경찰이 원당역 동료 역무원 흉기 사건 피의자에게 살인미수 혐의로 구속영장을 신청했다고 SBS가 보도했습니다. 피해자의 근무 분리 요청이 묵살됐다는 의혹도 조사할 방침입니다.",
+        "범행은 28일 낮 발생했고 영장 신청은 29일 이뤄졌습니다. 범행 동기에 관한 피의자 진술과 근무 분리 요청 관련 의혹은 확정된 사실 판단과 구분해야 합니다.",
+        "직장 내 피해자 보호와 사전 대응 절차를 점검할 사건입니다. 영장 신청은 발부나 유죄 확정을 뜻하지 않으며 조직의 대응 책임도 조사 결과를 기다려야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "원당역 흉기 사건 구속영장 신청…근무 분리 요청 관련 의혹 조사 방침",
+      "uncertainty": "영장 발부·유죄 여부와 동기, 근무 분리 요청 처리 경위는 확정되지 않았습니다."
+    }
+  ],
+  "id": "wondang-station-worker-stabbing-2026",
+  "schemaVersion": 1,
+  "title": "원당역 동료 역무원 흉기 사건과 피해자 보호 조사",
+  "updatedAt": "2026-10-30T09:16:06.456257+09:00"
+}

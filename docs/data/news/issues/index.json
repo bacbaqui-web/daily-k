@@ -1,6 +1,154 @@
 {
-  "editionCount": 86,
+  "editionCount": 87,
   "issues": [
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "wondang-station-worker-stabbing-2026",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "살인미수 혐의 구속영장 신청과 피해자 보호 관련 의혹 조사 방침이 확인됐습니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "보도",
+        "storyId": "20261030-am-soc-01",
+        "title": "원당역 흉기 사건 구속영장 신청…근무 분리 요청 관련 의혹 조사 방침"
+      },
+      "path": "wondang-station-worker-stabbing-2026.json",
+      "title": "원당역 동료 역무원 흉기 사건과 피해자 보호 조사"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 6,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "중부사령관의 대통령 직접 보고가 보도됐습니다. 공격 승인과 실행은 미확인입니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "후속",
+        "storyId": "20261030-am-int-01",
+        "title": "미 중부사령관, 트럼프에 이란 공격 선택지 직접 보고했다는 보도"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "saramara-india-live-action-adaptation-2026",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "8부작 인도 드라마 제작과 7개 언어·30일 현지 공개계획이 발표됐습니다. 공개·흥행은 미확인입니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "발표",
+        "storyId": "20261030-am-web-01",
+        "title": "웹툰 ‘살아말아’, 인도 8부작 드라마로 제작…30일 현지 공개 예정"
+      },
+      "path": "saramara-india-live-action-adaptation-2026.json",
+      "title": "웹툰 살아말아 인도 실사 드라마 제작과 현지 유통"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "north-korea-artillery-drone-demonstration-2026-10-29",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "북한의 사격 공개와 합참의 발사 관측이 보도됐습니다. 성능 주장은 독립 검증되지 않았습니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "보도",
+        "storyId": "20261030-am-pol-01",
+        "title": "북한, 방사포·무인기 사격 공개…합참 “29일 미사일 10여발 발사”"
+      },
+      "path": "north-korea-artillery-drone-demonstration-2026-10-29.json",
+      "title": "북한 2026년 10월 29일 방사포·무인기 사격 공개"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "kats-48-products-recall-2026-10",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "48개 제품 리콜명령과 정보 공개·판매 차단 등록이 발표됐습니다. 회수 완료는 미확인입니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "발표",
+        "storyId": "20261030-am-safe-01",
+        "title": "국표원, 안전기준 위반 48개 제품 리콜명령…어린이제품 30개 포함"
+      },
+      "path": "kats-48-products-recall-2026-10.json",
+      "title": "국가기술표준원 48개 제품 안전기준 위반과 리콜명령"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "homeplus-retirement-withdrawal-unpaid-wages-2026",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "희망퇴직 취소와 급여 잔여분 지급 연기가 보도됐습니다. 새 지급일은 미확정입니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "보도",
+        "storyId": "20261030-am-eco-01",
+        "title": "홈플러스, 희망퇴직 철회…8월 급여 잔여분 지급 무기한 연기"
+      },
+      "path": "homeplus-retirement-withdrawal-unpaid-wages-2026.json",
+      "title": "홈플러스 희망퇴직 철회와 미지급 임금"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "binance-potential-security-incident-2026",
+      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "이상 거래 분석과 거래소 조사, 발행사 자산 동결이 보도됐습니다. 해킹·피해액은 미확정입니다.",
+        "editionId": "2026-10-30-am",
+        "stage": "보도",
+        "storyId": "20261030-am-tech-01",
+        "title": "바이낸스, 잠재적 보안 문제 조사…스테이블코인 발행사 자산 동결"
+      },
+      "path": "binance-potential-security-incident-2026.json",
+      "title": "바이낸스 잠재적 보안 문제 조사와 관련 자산 동결"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -1155,28 +1303,6 @@
       },
       "path": "abl-novabridge-bispecific-antibody-esmo-2026.json",
       "title": "에이비엘바이오·노바브릿지 이중항체 항암제 임상 개발"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 5,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
-      "lastCoveredDate": "2026-10-25",
-      "latest": {
-        "archive": false,
-        "change": "이란 공격 선택지 보고가 소식통 인용으로 보도됐습니다. 승인·실행은 미확인입니다.",
-        "editionId": "2026-10-25-pm",
-        "stage": "보도",
-        "storyId": "20261025-pm-int-01",
-        "title": "미군, 이란 공격안 보고했다는 보도…대통령 승인 미확인"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -7757,7 +7883,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 647,
+  "storyCount": 654,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-29T21:14:11.761376+09:00"
+  "updatedAt": "2026-10-30T09:16:06.456257+09:00"
 }
