@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T10:21:55.673342+00:00",
+  "collectedAt": "2026-10-30T10:24:18.661609+00:00",
   "windowEnd": "2026-10-30T19:21:55.572977+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10871,7 +10871,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10898,6 +10898,88 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665890-0",
+      "url": "https://aagag.com/issue/?idx=1665890",
+      "source": "애객",
+      "title": "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa",
+      "publishedAt": "2026-10-30T19:13:46+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3Dbs.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3Dc0.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3Dc2.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3DcG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3DcP.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3DcS.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3Dbs.webp",
+        "https://i.aagag.com/o/L3Dc0.webp",
+        "https://i.aagag.com/o/L3Dc2.webp",
+        "https://i.aagag.com/o/L3DcG.webp",
+        "https://i.aagag.com/o/L3DcP.webp",
+        "https://i.aagag.com/o/L3DcS.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8918745",
+          "text": "나는... 초등학생을 상대로도 항상 최선을 다한다"
+        },
+        {
+          "id": "8918748",
+          "text": "이게 아빠다"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-30T19:24:05.849898+09:00",
+      "sourceTitles": [
+        "기적적으로 깬 환자가 아들이 오자 한일",
+        "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa",
+        "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa",
+        "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa",
+        "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa",
+        "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa",
+        "의식이 없던 아빠가 기적적으로 깼음에도 질 수 없는 것.Manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-30T10:24:18.595204+00:00",
+      "collectedAt": "2026-10-30T19:24:18.595221+09:00",
+      "firstPublishedAt": "2026-10-30T10:24:18.683288+00:00"
+    },
     {
       "id": "aagag-1665843-0",
       "url": "https://aagag.com/issue/?idx=1665843",
