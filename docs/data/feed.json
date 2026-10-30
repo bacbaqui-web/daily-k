@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T12:50:48.565158+00:00",
+  "collectedAt": "2026-10-30T12:54:49.696701+00:00",
   "windowEnd": "2026-10-30T21:50:48.468534+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10258,7 +10258,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10285,6 +10285,75 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1665921-0",
+      "url": "https://aagag.com/issue/?idx=1665921",
+      "source": "애객",
+      "title": "1급 전기기사라더니 별볼일 없군",
+      "publishedAt": "2026-10-30T21:42:08+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3FZl.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3FZl.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 5,
+      "commentCount": 7,
+      "laughingComments": 2,
+      "score": 5,
+      "kPerComment": 0.7142857142857143,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8919286",
+          "text": "웹툰 성검전설이네 약빤 웹툰으로 매우 재미있게 봤음ㅋ"
+        },
+        {
+          "id": "8919289",
+          "text": "그리고 쟤 마법사인데 힘 찍음"
+        },
+        {
+          "id": "8919287",
+          "text": "네?"
+        },
+        {
+          "id": "8919288",
+          "text": "ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8919292",
+          "text": "전압이 높아봤자 암페어가 작으면 정전기 찌릿에 불과하다구"
+        },
+        {
+          "id": "8919297",
+          "text": "전기파리채같은녀석"
+        },
+        {
+          "id": "8919306",
+          "text": "1급전기기사가 본인이 사용하는 전기의 암페어도 모르지 지지..."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-30T21:54:39.595984+09:00",
+      "sourceTitles": [
+        "크킄 어디 이 것도 받을 수 있을까 인간.manhwa",
+        "1급 전기기사라더니 별볼일 없군",
+        "크킄 어디 이 것도 받을 수 있을까 인간.manhwa",
+        "1급 전기기사라더니 별볼일 없군"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-30T12:54:49.624684+00:00",
+      "collectedAt": "2026-10-30T21:54:49.624700+09:00",
+      "firstPublishedAt": "2026-10-30T12:54:49.717023+00:00"
+    },
     {
       "id": "aagag-1665890-0",
       "url": "https://aagag.com/issue/?idx=1665890",
