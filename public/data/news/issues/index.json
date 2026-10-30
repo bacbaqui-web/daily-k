@@ -1,6 +1,154 @@
 {
-  "editionCount": 87,
+  "editionCount": 88,
   "issues": [
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "virtual-asset-taxation-deferral-2026",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "민주당이 과세 결론 전 고시 연기를 요청했다고 밝혔습니다. 과세 유예와 시행 변경은 미확정입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "보도",
+        "storyId": "20261030-pm-pol-01",
+        "title": "민주당, 가상자산 과세 결론 전 고시 연기 요청…유예 결정은 미확정"
+      },
+      "path": "virtual-asset-taxation-deferral-2026.json",
+      "title": "가상자산 과세 시행과 추가 유예 논의"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "samsung-bioepis-sb27-regulatory-development",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "회사가 SB27 미국 품목허가 신청을 발표했습니다. 허가와 실제 공급 성과는 미확인입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "발표",
+        "storyId": "20261030-pm-tech-01",
+        "title": "삼성바이오에피스, 키트루다 바이오시밀러 미국 품목허가 신청"
+      },
+      "path": "samsung-bioepis-sb27-regulatory-development.json",
+      "title": "삼성바이오에피스 SB27 개발과 품목허가 절차"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "remarried-empress-special-side-stories-promotion-2026",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "특별 외전과 무료 회차 확대 계획이 발표됐습니다. 실제 외전 게시와 사업 성과는 미확인입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "발표",
+        "storyId": "20261030-pm-web-01",
+        "title": "‘재혼 황후’, 드라마 연계 특별 외전·무료 감상 확대 발표"
+      },
+      "path": "remarried-empress-special-side-stories-promotion-2026.json",
+      "title": "재혼 황후 드라마 연계 특별 외전과 원작 프로모션"
+    },
+    {
+      "categories": [
+        "경제",
+        "경제·생활경제"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-30",
+      "id": "korea-industrial-activity",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "9월 생산·소매판매·설비투자의 동반 증가가 발표됐습니다. 향후 경기 흐름은 미확정입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "발표",
+        "storyId": "20261030-pm-eco-01",
+        "title": "9월 생산 3.0%·소매판매 3.6%·설비투자 5.3% 증가"
+      },
+      "path": "korea-industrial-activity.json",
+      "title": "한국 생산·소비·투자 통계"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "kim-gi-hyeon-luxury-bag-trial-2026",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "1심이 김기현 의원에게 무죄, 배우자에게 벌금 500만원을 선고했습니다. 최종 확정은 미확인입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "결과",
+        "storyId": "20261030-pm-soc-01",
+        "title": "김기현 청탁금지법 사건 1심 무죄…배우자는 벌금 500만원"
+      },
+      "path": "kim-gi-hyeon-luxury-bag-trial-2026.json",
+      "title": "김기현 부부 명품 가방 제공 관련 청탁금지법 재판"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "israel-general-election-2026",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "최종 개표에서 양대 진영 모두 과반에 미달했습니다. 연정 구성과 차기 총리는 미확정입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "결과",
+        "storyId": "20261030-pm-int-01",
+        "title": "이스라엘 총선, 양대 진영 과반 확보 실패…연정 구성 협상 과제"
+      },
+      "path": "israel-general-election-2026.json",
+      "title": "2026년 이스라엘 총선과 연정 구성"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "incheon-airport-airline-ticketing-network-outage-2026",
+      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "lastCoveredDate": "2026-10-30",
+      "latest": {
+        "archive": false,
+        "change": "발권 네트워크가 17시께 복구됐으며 같은 시각 58편 지연이 집계됐습니다. 최종 영향과 원인은 미확정입니다.",
+        "editionId": "2026-10-30-pm",
+        "stage": "결과",
+        "storyId": "20261030-pm-safe-01",
+        "title": "인천공항 항공사 발권 네트워크 복구…오후 5시 기준 58편 지연"
+      },
+      "path": "incheon-airport-airline-ticketing-network-outage-2026.json",
+      "title": "인천공항 항공사 발권 네트워크 장애와 복구"
+    },
     {
       "categories": [
         "사회이슈"
@@ -1092,27 +1240,6 @@
       },
       "path": "korea-bank-cyber-incidents-2026-10.json",
       "title": "2026년 10월 은행권 정보유출과 공동 보안 대응"
-    },
-    {
-      "categories": [
-        "국제정세"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
-      "firstCoveredDate": "2026-10-26",
-      "id": "israel-general-election-2026",
-      "lastCoveredAt": "2026-10-26T21:28:43.523923+09:00",
-      "lastCoveredDate": "2026-10-26",
-      "latest": {
-        "archive": false,
-        "change": "총선 일정과 선거 직전 여론조사 판세가 보도됐습니다. 실제 투표·개표와 연정 구성은 미확정입니다.",
-        "editionId": "2026-10-26-pm",
-        "stage": "예정",
-        "storyId": "20261026-pm-int-01",
-        "title": "이스라엘 총선 27일 예정…막판 여론조사서 야권 근소 우세"
-      },
-      "path": "israel-general-election-2026.json",
-      "title": "2026년 이스라엘 총선과 연정 구성"
     },
     {
       "categories": [
@@ -5867,27 +5994,6 @@
     },
     {
       "categories": [
-        "경제"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-30",
-      "id": "korea-industrial-activity",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-30",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소.",
-        "editionId": "2026-09-30-am-archive",
-        "stage": "보도",
-        "storyId": "archive-01",
-        "title": "8월 생산 -1.3%, 소비 -1.8%, 투자 -9.5%, 트리플 감소"
-      },
-      "path": "korea-industrial-activity.json",
-      "title": "한국 생산·소비·투자 통계"
-    },
-    {
-      "categories": [
         "국제·안보"
       ],
       "eventCount": 3,
@@ -7883,7 +7989,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 654,
+  "storyCount": 661,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-30T09:16:06.456257+09:00"
+  "updatedAt": "2026-10-30T21:14:41.634173+09:00"
 }
