@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T19:11:41.348652+09:00",
-  "windowEnd": "2026-10-30T19:05:50.025262+09:00",
+  "collectedAt": "2026-10-30T10:21:55.673342+00:00",
+  "windowEnd": "2026-10-30T19:21:55.572977+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10506,79 +10506,6 @@
       "firstPublishedAt": "2026-10-29T20:05:28.747191+00:00"
     },
     {
-      "id": "aagag-1665650-0",
-      "url": "https://aagag.com/issue/?idx=1665650",
-      "source": "애객",
-      "title": "찌찌큰누나 떡치기",
-      "publishedAt": "2026-10-29T19:10:17+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L33K4.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L33K4.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 7,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8914060",
-          "text": "왜 따로따로인가요 킹받네"
-        },
-        {
-          "id": "8914065",
-          "text": "문제라도..?"
-        },
-        {
-          "id": "8914069",
-          "text": "떡이라면 전래동화시절부터 내가 좋아하는건데 큰게 두개나 보이네"
-        },
-        {
-          "id": "8914096",
-          "text": "???:떡하나 주면 안잡아 먹지! 으잉? 두개나? 그거 빨아 먹는거 아니야 ㅜㅜ"
-        },
-        {
-          "id": "8914095",
-          "text": "이왕이면 누나가 떡메를 쳐주면 더 좋을텐데..."
-        },
-        {
-          "id": "8914112",
-          "text": "매를 쳐 달라구요? 선생님은 어느쪽 이시길래 ㅜㅜ"
-        },
-        {
-          "id": "8914098",
-          "text": "이게 그 토쿄핫?"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-29T19:21:46.604155+09:00",
-      "sourceTitles": [
-        "가슴 큰 누나랑 떡치는놈",
-        "찌찌큰누나 떡치기",
-        "ㅇㅎ) 찌찌큰누나 떡치기",
-        "도쿄타워 앞에서 떡치는 남녀"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-29T10:21:54.724040+00:00",
-      "collectedAt": "2026-10-29T19:21:54.724056+09:00",
-      "firstPublishedAt": "2026-10-29T10:21:54.823161+00:00"
-    },
-    {
       "id": "aagag-1665765-0",
       "url": "https://aagag.com/issue/?idx=1665765",
       "source": "애객",
@@ -10944,9 +10871,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 349,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
