@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-30T22:24:24.855449+00:00",
+  "collectedAt": "2026-10-30T22:26:35.684179+00:00",
   "windowEnd": "2026-10-31T07:24:24.741224+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9964,6 +9964,76 @@
       "firstPublishedAt": "2026-10-30T05:19:33.669107+00:00"
     },
     {
+      "id": "aagag-1622575-0",
+      "url": "https://aagag.com/issue/?idx=1622575",
+      "source": "애객",
+      "title": "길거리에 치와와 데리고 산책하면 생기는 일",
+      "publishedAt": "2026-10-31T07:18:37+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KITqp.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KITqp.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8112010",
+          "text": "찌찌큰 언니가 만저준다는거군"
+        },
+        {
+          "id": "8112011",
+          "text": "날 밝으면 치와와 입양하러 갑니다"
+        },
+        {
+          "id": "8112030",
+          "text": "궁금하다, 저만함의 무게가... ㅜ"
+        },
+        {
+          "id": "8112111",
+          "text": "아웅..치와와 키우고 싶으다"
+        },
+        {
+          "id": "8920075",
+          "text": "나도 만지고싶다"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T07:26:29.580686+09:00",
+      "sourceTitles": [
+        "남녀평등 치와와",
+        "남녀평등 치와와",
+        "남녀차별 없이 성질 부리는 치와와.mp4",
+        "치와와 데리고 산책하는 이유",
+        "ㅇㅎ) 길거리에 치와와 데리고 산책하면 생기는 일",
+        "길거리에 치와와 데리고 산책하면 생기는 일",
+        "ㅇㅎ) 길거리에 치와와 데리고 산책하면 생기는 일",
+        "앙칼진 치와와 애미나이",
+        "ㅇㅎ?) 남녀차별 없이 성질 부리는 치와와.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 9,
+      "sourceTitlesFetchedAt": "2026-10-30T22:26:35.603983+00:00",
+      "collectedAt": "2026-10-31T07:26:35.603999+09:00",
+      "firstPublishedAt": "2026-10-30T22:26:35.709319+00:00"
+    },
+    {
       "id": "aagag-1657010-0",
       "url": "https://aagag.com/issue/?idx=1657010",
       "source": "애객",
@@ -10343,7 +10413,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
