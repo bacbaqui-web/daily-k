@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-30T21:39:42.215483+00:00",
+  "collectedAt": "2026-10-30T21:40:39.262690+00:00",
   "windowEnd": "2026-10-31T06:39:42.112229+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10459,6 +10459,55 @@
       "firstPublishedAt": "2026-10-30T19:53:22.122501+00:00"
     },
     {
+      "id": "aagag-1665987-0",
+      "url": "https://aagag.com/issue/?idx=1665987",
+      "source": "애객",
+      "title": "은혜 베풀었던 눈나의 비키니",
+      "publishedAt": "2026-10-31T06:29:10+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2sNc.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2sNc.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8919994",
+          "text": "출처 보기 전엔 누군지도 몰라봤네"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T06:40:33.100339+09:00",
+      "sourceTitles": [
+        "은혜 베풀었던 눈나의 비키니",
+        "ㅇㅎ) 오이갤러들 은혜 베풀었던 눈나의 비키니",
+        "ㅎㅂ) 미카미 유아 근황",
+        "ㅇㅎ?) 미카미 유아 비키니"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-30T21:40:39.186544+00:00",
+      "collectedAt": "2026-10-31T06:40:39.186560+09:00",
+      "firstPublishedAt": "2026-10-30T21:40:39.281743+00:00"
+    },
+    {
       "id": "aagag-1665976-0",
       "url": "https://aagag.com/issue/?idx=1665976",
       "source": "애객",
@@ -10720,7 +10769,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
