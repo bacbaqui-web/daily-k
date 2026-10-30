@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T05:23:16.268443+09:00",
-  "windowEnd": "2026-10-31T05:10:49.183404+09:00",
+  "collectedAt": "2026-10-30T20:33:31.884505+00:00",
+  "windowEnd": "2026-10-31T05:33:31.786740+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10397,126 +10397,12 @@
       "sourceTitlesFetchedAt": "2026-10-30T14:27:28.991529+00:00",
       "collectedAt": "2026-10-30T23:27:28.991544+09:00",
       "firstPublishedAt": "2026-10-30T14:27:29.073289+00:00"
-    },
-    {
-      "id": "aagag-1665733-0",
-      "url": "https://aagag.com/issue/?idx=1665733",
-      "source": "애객",
-      "title": "ㅇㅎ?) 피지컬 그대로인 베스티 다혜 누나.gif",
-      "publishedAt": "2026-10-30T05:00:23+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37Y1.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37Xr.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37Xe.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37XJ.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37X1.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37Wg.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37W1.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L37Vb.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L37Y1.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37Xr.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37Xe.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37XJ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37X1.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37Wg.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37W1.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L37Vb.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-10-30T05:25:53.561116+09:00",
-      "sourceTitles": [
-        "베스티 다혜 mp4",
-        "ㅇㅎ?) 피지컬 그대로인 베스티 다혜 누나.gif",
-        "ㅇㅎ?) 피지컬 그대로인 베스티 다혜 누나.gif",
-        "베스티 다혜"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-29T20:25:59.342235+00:00",
-      "collectedAt": "2026-10-30T05:25:59.342249+09:00",
-      "firstPublishedAt": "2026-10-29T20:25:59.432614+00:00"
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
