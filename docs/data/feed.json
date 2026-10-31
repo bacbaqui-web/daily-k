@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T11:09:30.379086+00:00",
+  "collectedAt": "2026-10-31T11:12:45.773464+00:00",
   "windowEnd": "2026-10-31T20:09:30.283285+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4551,6 +4551,87 @@
       "firstPublishedAt": "2026-10-30T20:15:04.184203+00:00"
     },
     {
+      "id": "aagag-1666145-0",
+      "url": "https://aagag.com/issue/?idx=1666145",
+      "source": "애객",
+      "title": "미국 방송사고 근황 gif",
+      "publishedAt": "2026-10-31T19:56:50+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3On1.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3On1.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 16,
+      "commentCount": 9,
+      "laughingComments": 4,
+      "score": 16,
+      "kPerComment": 1.7777777777777777,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8922525",
+          "text": "불 발견 우가우가"
+        },
+        {
+          "id": "8922533",
+          "text": "유쾌마운틴ㅋㅋㅋ 재밌네ㅎㅎㅎ"
+        },
+        {
+          "id": "8922539",
+          "text": "온도 단위가 왜 화씨를 쓰는거죠?"
+        },
+        {
+          "id": "8922549",
+          "text": "미국은 화씨 씁니다 출장가서 호텔 에어컨 켰는데 89찍힌거보고 소스라치게 놀란 기억이 있네요 다시생각해도 개빡치네 개색기덜;"
+        },
+        {
+          "id": "8922560",
+          "text": "미국은 화씨를 쓰더라고요 ㅋㅋ 마일과 피트를 쓰고 ㅋㅋ"
+        },
+        {
+          "id": "8922542",
+          "text": "인상이 너무 좋아 ㅋㅋㅋ 욕을 할 수가 업서 ㅋㅋㅋ"
+        },
+        {
+          "id": "8922563",
+          "text": "노~웨이😅"
+        },
+        {
+          "id": "8922565",
+          "text": "틸트도 되나? 했는데 되네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8922571",
+          "text": "웃으면서 할말은 다 함. 역시 프로야!"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T20:12:34.061784+09:00",
+      "sourceTitles": [
+        "미국 방송사고 근황.gif",
+        "(심각) 미국의 방송사고 근황 gif",
+        "미국 방송사고 근황 gif",
+        "보는 사람도 기분 좋아지는 아침 날씨 방송 사고ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-31T11:12:45.625933+00:00",
+      "collectedAt": "2026-10-31T20:12:45.625950+09:00",
+      "firstPublishedAt": "2026-10-31T11:12:45.804039+00:00"
+    },
+    {
       "id": "aagag-1536826-0",
       "url": "https://aagag.com/issue/?idx=1536826",
       "source": "애객",
@@ -8021,7 +8102,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
