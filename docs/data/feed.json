@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T02:04:36.048169+00:00",
+  "collectedAt": "2026-10-31T02:05:40.602164+00:00",
   "windowEnd": "2026-10-31T11:04:35.934413+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10205,6 +10205,58 @@
       "firstPublishedAt": "2026-10-30T19:53:22.122501+00:00"
     },
     {
+      "id": "aagag-1666033-0",
+      "url": "https://aagag.com/issue/?idx=1666033",
+      "source": "애객",
+      "title": "누워서 과자만 먹다간 소 된다?",
+      "publishedAt": "2026-10-31T11:03:59+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Ki03z.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/Ki03z.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8920747",
+          "text": "젓소?!?!"
+        },
+        {
+          "id": "8920750",
+          "text": "볼기가 작은 걸 보니 꼴알못 일본작가로구먼"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T11:05:28.873365+09:00",
+      "sourceTitles": [
+        "오빠: 너 누우면 소된다.manwha",
+        "누워서 과자만 먹다간 소 된다?",
+        "ㅇㅎ) 누워서 과자만 먹으면 소 된다?",
+        "누워서 과자만 먹다간 소 된다?",
+        "누워서 과자만 먹다간 소 된다? .manwha",
+        "그렇게 누워서 과자만 먹다간 소 된다?",
+        "ㅆㄷ) 누워서 과자만 먹다간 소 된다"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-10-31T02:05:40.528296+00:00",
+      "collectedAt": "2026-10-31T11:05:40.528313+09:00",
+      "firstPublishedAt": "2026-10-31T02:05:40.626619+00:00"
+    },
+    {
       "id": "aagag-1666029-0",
       "url": "https://aagag.com/issue/?idx=1666029",
       "source": "애객",
@@ -10539,7 +10591,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
