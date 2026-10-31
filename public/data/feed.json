@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T08:22:20.385476+00:00",
+  "collectedAt": "2026-10-31T08:23:06.138854+00:00",
   "windowEnd": "2026-10-31T17:22:20.243933+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6021,6 +6021,71 @@
       "sourceTitlesFetchedAt": "2026-10-30T11:49:58.546566+00:00",
       "collectedAt": "2026-10-30T20:49:58.546582+09:00",
       "firstPublishedAt": "2026-10-30T11:49:58.652594+00:00"
+    },
+    {
+      "id": "aagag-1666108-0",
+      "url": "https://aagag.com/issue/?idx=1666108",
+      "source": "애객",
+      "title": "온몸으로 찍덕들을 막아내는 모습에 해외에서 이슈가 된 경호원",
+      "publishedAt": "2026-10-31T17:17:06+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3Itx.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3Itx.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "ㅋㅋㅋㅋㅋ",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 4,
+      "laughingComments": 3,
+      "score": 12,
+      "kPerComment": 3.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8922037",
+          "text": "이형 즐기고있는거 같은데 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8922038",
+          "text": "빡치는건 덤 ㅋㅋ 손으로 밀치는 뀨뀨들보다 훨 낫네"
+        },
+        {
+          "id": "8922041",
+          "text": "She's so Bad 빰빠밤~~ BAD BAD BAD BAD BAD BAD BAD"
+        },
+        {
+          "id": "8922047",
+          "text": "벌크업 기안같네 ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T17:23:00.644408+09:00",
+      "sourceTitles": [
+        "온몸으로 찍덕들을 막아내는 모습에 해외에서 이슈가 된 경호원",
+        "온몸으로 찍덕들을 막아내는 모습에 해외에서 이슈가 된 경호원",
+        "연예인 사진 못찍게 막는 보디가드",
+        "최선을 다하는 경호원"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-31T08:23:06.068439+00:00",
+      "collectedAt": "2026-10-31T17:23:06.068456+09:00",
+      "firstPublishedAt": "2026-10-31T08:23:06.165709+00:00"
     }
   ],
   "taggedPosts": [
@@ -8818,7 +8883,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
