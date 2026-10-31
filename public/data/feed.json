@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T11:49:42.392056+00:00",
+  "collectedAt": "2026-10-31T11:50:00.565103+00:00",
   "windowEnd": "2026-10-31T20:44:05.291030+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5573,65 +5573,6 @@
       "firstPublishedAt": "2026-10-31T10:21:01.952988+00:00"
     },
     {
-      "id": "aagag-1665908-0",
-      "url": "https://aagag.com/issue/?idx=1665908",
-      "source": "애객",
-      "title": "일본어 못하지만 쇼핑은 하고 싶을때",
-      "publishedAt": "2026-10-30T20:36:18+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3CWu.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3CWu.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 3,
-      "laughingComments": 1,
-      "score": 12,
-      "kPerComment": 4.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8919043",
-          "text": "이제 면세 정책이 바껴부렀으"
-        },
-        {
-          "id": "8919066",
-          "text": "지난주말 긴자 백화점에 한국 사람들 미어터졌음"
-        },
-        {
-          "id": "8919067",
-          "text": "아ㅋㅋㅋㅋㅋㅋㅋㅋ너무 웃기다ㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-30T20:49:48.208323+09:00",
-      "sourceTitles": [
-        "일본어 못하지만 쇼핑은 하고 싶을때.mp4",
-        "일본어 못하지만 쇼핑은 하고 싶을때.mp4",
-        "일본어 못하지만 쇼핑은 하고 싶을때",
-        "일본어 못하지만 쇼핑은 하고 싶을때",
-        "일본 여행갈 때 입고가면 좋은 옷",
-        "일본어 못허면서 옷 쇼핑하기.gif"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-10-30T11:49:58.546566+00:00",
-      "collectedAt": "2026-10-30T20:49:58.546582+09:00",
-      "firstPublishedAt": "2026-10-30T11:49:58.652594+00:00"
-    },
-    {
       "id": "aagag-1666108-0",
       "url": "https://aagag.com/issue/?idx=1666108",
       "source": "애객",
@@ -9021,7 +8962,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 22,
+  "candidateCount": 42,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
