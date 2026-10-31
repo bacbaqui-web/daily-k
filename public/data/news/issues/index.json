@@ -1,6 +1,155 @@
 {
-  "editionCount": 89,
+  "editionCount": 90,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "webtoon-first-half-distribution-statistics-2026",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "중복 제외 신작 1719편과 15.4% 감소가 보도됐습니다. 등급별 비중은 별도 집계 기준입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "발표",
+        "storyId": "20261031-pm-web-01",
+        "title": "상반기 웹툰 신작 15.4% 감소…중복 제외 1719편"
+      },
+      "path": "webtoon-first-half-distribution-statistics-2026.json",
+      "title": "2026년 상반기 웹툰 유통통계와 신규 IP 공급"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "martial-law-eight-former-military-acquittal-2026",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "전직 군인 8명에게 1심 무죄가 선고됐습니다. 최종 확정은 미확인입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "결과",
+        "storyId": "20261031-pm-soc-01",
+        "title": "‘롯데리아 계엄 회동’ 관련 전직 군인 8명, 1심 무죄"
+      },
+      "path": "martial-law-eight-former-military-acquittal-2026.json",
+      "title": "계엄 관련 전직 군인 8명의 내란 가담 혐의 재판"
+    },
+    {
+      "categories": [
+        "국제·외교",
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "korea-us-japan-diplomacy",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "외교장관 회의와 북극·태평양 협력각서 서명이 보도됐습니다. 세부 사업 이행은 향후 과제입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "발표",
+        "storyId": "20261031-pm-pol-01",
+        "title": "한미일 외교장관, 비핵화 공조 재확인…북극·태평양 협력각서 서명"
+      },
+      "path": "korea-us-japan-diplomacy.json",
+      "title": "한미일 외교 협의"
+    },
+    {
+      "categories": [
+        "국제·경제",
+        "국제정세"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-10-12T15:31:39+09:00",
+      "firstCoveredDate": "2026-10-12",
+      "id": "hormuz-tanker-mine-explosions-2026-10",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "루이즈 1호에 대한 부착식 폭발물 공격이 보도됐습니다. 공격 주체의 독립 확인과 최종 피해는 미확인입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "후속",
+        "storyId": "20261031-pm-int-01",
+        "title": "호르무즈 유조선 부착식 폭발물 공격 보도…공격 주체는 FT 인용"
+      },
+      "path": "hormuz-tanker-mine-explosions-2026-10.json",
+      "title": "호르무즈 해협 통제와 유조선 폭발 주장"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "hanwha-defense-usa-lsm-construction-contract-2026",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "1척 건조 계약과 추가 3척 옵션 확보가 보도됐습니다. 실제 착공·인도는 향후 일정입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "보도",
+        "storyId": "20261031-pm-eco-01",
+        "title": "한화, 미 해군 중형상륙함 첫 신규 건조 수주…추가 3척은 옵션"
+      },
+      "path": "hanwha-defense-usa-lsm-construction-contract-2026.json",
+      "title": "한화디펜스USA의 미 해군 중형상륙함 신규 건조 계약"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "gapyeong-farm-shelter-fire-2026-10-31",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "농막 화재로 2명 사망·1명 부상이 보도됐습니다. 정확한 원인은 조사 중입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "보도",
+        "storyId": "20261031-pm-safe-01",
+        "title": "가평 농막 화재로 2명 사망·1명 부상…원인 조사"
+      },
+      "path": "gapyeong-farm-shelter-fire-2026-10-31.json",
+      "title": "2026년 10월 31일 가평 농막 화재와 원인 조사"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "ai-industry-financing-constraints-2026",
+      "lastCoveredAt": "2026-10-31T21:15:02.177096+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "투자유치 목표 미달과 기업가치 조정, 채권 조달 부담이 보도됐습니다. 최종 거래 결과는 미확정입니다.",
+        "editionId": "2026-10-31-pm",
+        "stage": "보도",
+        "storyId": "20261031-pm-tech-01",
+        "title": "오픈AI 투자유치 목표 절반 미달 보도…AI 업계 자금조달 부담"
+      },
+      "path": "ai-industry-financing-constraints-2026.json",
+      "title": "AI 기업 투자유치와 인프라 자금조달 부담"
+    },
     {
       "categories": [
         "국제정세"
@@ -966,28 +1115,6 @@
       },
       "path": "korea-investigation-prosecution-separation.json",
       "title": "수사·기소 분리와 공소청·중수청 출범"
-    },
-    {
-      "categories": [
-        "국제·경제",
-        "국제정세"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-10-12T15:31:39+09:00",
-      "firstCoveredDate": "2026-10-12",
-      "id": "hormuz-tanker-mine-explosions-2026-10",
-      "lastCoveredAt": "2026-10-28T09:13:07.272316+09:00",
-      "lastCoveredDate": "2026-10-28",
-      "latest": {
-        "archive": false,
-        "change": "이란군이 유조선 기뢰 피해를 주장했습니다. 선박 신원·인명피해와 독립 확인은 없습니다.",
-        "editionId": "2026-10-28-am",
-        "stage": "후속",
-        "storyId": "20261028-am-int-01",
-        "title": "이란군, 호르무즈 금지구역 유조선 기뢰 피해 주장…독립 확인 없어"
-      },
-      "path": "hormuz-tanker-mine-explosions-2026-10.json",
-      "title": "호르무즈 해협 통제와 유조선 폭발 주장"
     },
     {
       "categories": [
@@ -6960,27 +7087,6 @@
     },
     {
       "categories": [
-        "국제·외교"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "korea-us-japan-diplomacy",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-22",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응.",
-        "editionId": "2026-09-22-am-archive",
-        "stage": "보도",
-        "storyId": "archive-04",
-        "title": "한미일 외교장관, 북한 대화 복귀 촉구·공급망 대응"
-      },
-      "path": "korea-us-japan-diplomacy.json",
-      "title": "한미일 외교 협의"
-    },
-    {
-      "categories": [
         "사회·생활"
       ],
       "eventCount": 1,
@@ -8094,7 +8200,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 668,
+  "storyCount": 675,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-31T09:13:41.128928+09:00"
+  "updatedAt": "2026-10-31T21:15:02.177096+09:00"
 }
