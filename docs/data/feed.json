@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T05:37:36.591351+00:00",
+  "collectedAt": "2026-10-31T05:38:33.126529+00:00",
   "windowEnd": "2026-10-31T14:37:36.484435+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8415,6 +8415,80 @@
       "firstPublishedAt": "2026-10-30T20:51:50.993076+00:00"
     },
     {
+      "id": "aagag-1666073-0",
+      "url": "https://aagag.com/issue/?idx=1666073",
+      "source": "애객",
+      "title": "하이키 옐 최근 공연",
+      "publishedAt": "2026-10-31T14:36:40+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3Dsh.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3Dt9.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3DtR.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3Dtc.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3Dsh.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L3Dt9.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L3DtR.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L3Dtc.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-10-31T14:38:20.907042+09:00",
+      "sourceTitles": [
+        "하이키 옐 최근 공연",
+        "호불호 갈리는 몸매",
+        "ㅇㅎ?) 하이키 옐 최근 공연...gif",
+        "옐 농구공 드리블 ㄷㄷㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-31T05:38:33.041664+00:00",
+      "collectedAt": "2026-10-31T14:38:33.041682+09:00",
+      "firstPublishedAt": "2026-10-31T05:38:33.153779+00:00"
+    },
+    {
       "id": "aagag-1666004-0",
       "url": "https://aagag.com/issue/?idx=1666004",
       "source": "애객",
@@ -8599,7 +8673,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
