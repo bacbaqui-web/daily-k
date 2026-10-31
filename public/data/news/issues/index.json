@@ -1,6 +1,159 @@
 {
-  "editionCount": 88,
+  "editionCount": 89,
   "issues": [
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "us-ukraine-patriot-sale-approval-2026",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "500기·21억달러 규모 판매 승인이 발표됐습니다. 인도와 배치 완료는 미확인입니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "발표",
+        "storyId": "20261031-am-int-01",
+        "title": "미국, 우크라이나에 패트리엇 요격미사일 500기 판매 승인"
+      },
+      "path": "us-ukraine-patriot-sale-approval-2026.json",
+      "title": "미국의 우크라이나 패트리엇 요격미사일 판매 승인"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 27,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "미국 3대 지수와 반도체주가 하락 마감했습니다. 이후 국내 시장 반응은 미확인입니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "결과",
+        "storyId": "20261031-am-eco-01",
+        "title": "뉴욕증시 하락…나스닥 2.86%·인텔 28.58% 급락"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "pyeongtaek-infant-neglect-death-2026",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "친부가 아동학대치사 혐의로 구속됐습니다. 최종 사인과 형사책임은 미확정입니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "보도",
+        "storyId": "20261031-am-soc-01",
+        "title": "평택 17개월 딸 방치 사망 혐의 친부 구속…최종 사인 조사 중"
+      },
+      "path": "pyeongtaek-infant-neglect-death-2026.json",
+      "title": "평택 영아 방치 사망 사건과 보호자 책임 수사"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "presidential-special-activity-expenses-review-2026",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "공개 집행내역의 지침 위반 소지 분석과 반박이 보도됐습니다. 위법성 확정 판단은 없습니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "보도",
+        "storyId": "20261031-am-pol-01",
+        "title": "청와대 특활비 자문·위로금 등 집행 적정성 논란…여당 반박"
+      },
+      "path": "presidential-special-activity-expenses-review-2026.json",
+      "title": "청와대 특수활동비 집행 적정성과 예산 통제"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
+      "firstCoveredDate": "2026-10-27",
+      "id": "naver-brookfield-ai-infrastructure-contract",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "연계된 엔비디아 투자의 납입·신주 상장 예정일 변경이 보도됐습니다. 납입과 시설 가동 완료는 미확인입니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "후속",
+        "storyId": "20261031-am-tech-01",
+        "title": "네이버, 엔비디아 투자금 납입 예정일 11월 6일로 변경 공시"
+      },
+      "path": "naver-brookfield-ai-infrastructure-contract.json",
+      "title": "네이버·브룩필드 AI 연산 인프라 확보 계약"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "junji-ito-masterpieces-vertical-webtoon-2026",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "토미에부터 세로 스크롤 독점 제공 계획이 발표됐습니다. 실제 게시와 사업 성과는 미확인입니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "발표",
+        "storyId": "20261031-am-web-01",
+        "title": "이토 준지 걸작집, 네이버웹툰·시리즈 세로 스크롤 독점 제공 발표"
+      },
+      "path": "junji-ito-masterpieces-vertical-webtoon-2026.json",
+      "title": "이토 준지 걸작집의 세로 스크롤 웹툰 전환과 독점 유통"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "firstCoveredDate": "2026-10-31",
+      "id": "halloween-crowd-safety-management-2026",
+      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
+      "lastCoveredDate": "2026-10-31",
+      "latest": {
+        "archive": false,
+        "change": "현장 배치와 당일 차량 통제·인력 투입 계획이 안내됐습니다. 실제 인파와 비상조치 결과는 미확인입니다.",
+        "editionId": "2026-10-31-am",
+        "stage": "보도",
+        "storyId": "20261031-am-safe-01",
+        "title": "핼러윈 인파 관리 경찰 7800명 투입 계획…이태원 오후 6시 차량 통제 예정"
+      },
+      "path": "halloween-crowd-safety-management-2026.json",
+      "title": "2026 핼러윈 인파 안전관리와 교통 통제"
+    },
     {
       "categories": [
         "정치·정책"
@@ -961,27 +1114,6 @@
       },
       "path": "snu-hospital-labor-negotiations-2026.json",
       "title": "서울대병원 노사 교섭과 파업 예고"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-27T21:17:40.878171+09:00",
-      "firstCoveredDate": "2026-10-27",
-      "id": "naver-brookfield-ai-infrastructure-contract",
-      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
-      "lastCoveredDate": "2026-10-27",
-      "latest": {
-        "archive": false,
-        "change": "90억 달러 인프라 확보 계약과 지급보증이 공시됐다고 보도됐습니다. 투자 절차 완료와 가동은 미확인입니다.",
-        "editionId": "2026-10-27-pm",
-        "stage": "발표",
-        "storyId": "20261027-pm-tech-01",
-        "title": "네이버, 브룩필드와 90억 달러 AI 연산 인프라 확보 계약"
-      },
-      "path": "naver-brookfield-ai-infrastructure-contract.json",
-      "title": "네이버·브룩필드 AI 연산 인프라 확보 계약"
     },
     {
       "categories": [
@@ -2317,33 +2449,6 @@
       },
       "path": "webtoonrun-chungbuk-creator-support-2026.json",
       "title": "웹툰런 인 충북 최종 순위와 정식 연재 지원"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 26,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-10-22T09:10:05.275993+09:00",
-      "lastCoveredDate": "2026-10-22",
-      "latest": {
-        "archive": false,
-        "change": "미국 3대 지수가 모두 상승 마감했습니다. 국내 시장 반응과 상승 지속성은 미확인입니다.",
-        "editionId": "2026-10-22-am",
-        "stage": "결과",
-        "storyId": "20261022-am-eco-01",
-        "title": "뉴욕증시 3대 지수 상승…나스닥 1.05% 올라"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -7989,7 +8094,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 661,
+  "storyCount": 668,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-30T21:14:41.634173+09:00"
+  "updatedAt": "2026-10-31T09:13:41.128928+09:00"
 }
