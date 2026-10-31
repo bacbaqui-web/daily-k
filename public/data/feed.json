@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-10-31T20:48:16.187245+00:00",
+  "collectedAt": "2026-10-31T20:51:58.372749+00:00",
   "windowEnd": "2026-11-01T05:48:16.074916+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9647,55 +9647,6 @@
       "firstPublishedAt": "2026-10-30T21:40:39.281743+00:00"
     },
     {
-      "id": "aagag-1665976-0",
-      "url": "https://aagag.com/issue/?idx=1665976",
-      "source": "애객",
-      "title": "극한직업 카디비 WAP 수화통역사",
-      "publishedAt": "2026-10-31T05:43:01+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L2g49.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L2g49.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 4,
-      "commentCount": 1,
-      "laughingComments": 1,
-      "score": 4,
-      "kPerComment": 4.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8919938",
-          "text": "ㅋㅋㅋㅋ이게뭐야"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-31T05:51:45.628665+09:00",
-      "sourceTitles": [
-        "극한직업 카디비 WAP 수화통역사",
-        "ㅇㅎ)프로페셔널 한 카디비 WAP 수화 통역사 누나",
-        "극한직업 카디비 WAP 수화통역사",
-        "카디비 wap 공연장의 수화통역가"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-30T20:51:50.891581+00:00",
-      "collectedAt": "2026-10-31T05:51:50.891597+09:00",
-      "firstPublishedAt": "2026-10-30T20:51:50.993076+00:00"
-    },
-    {
       "id": "aagag-1666202-0",
       "url": "https://aagag.com/issue/?idx=1666202",
       "source": "애객",
@@ -9983,7 +9934,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 264,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
