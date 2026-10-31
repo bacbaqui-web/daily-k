@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T18:50:59.433137+09:00",
-  "windowEnd": "2026-10-31T18:44:45.621223+09:00",
+  "collectedAt": "2026-10-31T10:01:16.086569+00:00",
+  "windowEnd": "2026-10-31T19:01:15.996026+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6659,78 +6659,6 @@
       "firstPublishedAt": "2026-10-31T09:29:48.928746+00:00"
     },
     {
-      "id": "aagag-1665882-0",
-      "url": "https://aagag.com/issue/?idx=1665882",
-      "source": "애객",
-      "title": "만원짜리 순대국",
-      "publishedAt": "2026-10-30T18:32:02+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3EKG.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3EKG.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 7,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8918608",
-          "text": "사장님이 상당히 수상한데 여러모로??"
-        },
-        {
-          "id": "8918609",
-          "text": "그냥 광고네"
-        },
-        {
-          "id": "8918610",
-          "text": "반찬 리필 계속 요청"
-        },
-        {
-          "id": "8918621",
-          "text": "사장님 빼고 음식은 평범한데 저 가격에 내장 무한리필하는 체인점도 있음"
-        },
-        {
-          "id": "8918628",
-          "text": "현수~~"
-        },
-        {
-          "id": "8918663",
-          "text": "아... 그림만 없었으면..."
-        },
-        {
-          "id": "8918664",
-          "text": "젓케팅 쩌네"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-30T18:51:34.345712+09:00",
-      "sourceTitles": [
-        "만원짜리 순대국",
-        "(약후) 만원짜리 순대국.mp4",
-        "ㅇㅎ) 만원짜리 순대국"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-10-30T09:51:43.143881+00:00",
-      "collectedAt": "2026-10-30T18:51:43.143897+09:00",
-      "firstPublishedAt": "2026-10-30T09:51:43.256046+00:00"
-    },
-    {
       "id": "aagag-1666115-0",
       "url": "https://aagag.com/issue/?idx=1666115",
       "source": "애객",
@@ -8056,9 +7984,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
