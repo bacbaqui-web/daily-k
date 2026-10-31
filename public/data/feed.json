@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-10-31T21:03:00.409233+00:00",
+  "collectedAt": "2026-10-31T21:06:00.016297+00:00",
   "windowEnd": "2026-11-01T06:03:00.297100+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9545,6 +9545,55 @@
       "firstPublishedAt": "2026-10-31T01:49:09.238903+00:00"
     },
     {
+      "id": "aagag-1666227-0",
+      "url": "https://aagag.com/issue/?idx=1666227",
+      "source": "애객",
+      "title": "ㅇㅎ)인어가 팁 받을때 보관하는 법",
+      "publishedAt": "2026-11-01T05:54:52+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3Ozy.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3Ozy.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8923702",
+          "text": "인어 말구두 많이들 하던데..?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T06:05:53.684438+09:00",
+      "sourceTitles": [
+        "인어가 팁을 받으면 어떻게 할까?",
+        "인어가 팁 받을때 보관하는 방법.jpg",
+        "ㅇㅎ)인어가 팁 받을때 보관하는 법",
+        "ㅇㅇㅎ)인어가 팁 받을때 보관하는 법"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-10-31T21:05:59.931144+00:00",
+      "collectedAt": "2026-11-01T06:05:59.931160+09:00",
+      "firstPublishedAt": "2026-10-31T21:06:00.044038+00:00"
+    },
+    {
       "id": "aagag-1666070-0",
       "url": "https://aagag.com/issue/?idx=1666070",
       "source": "애객",
@@ -9934,7 +9983,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
