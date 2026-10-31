@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T02:20:40.361459+00:00",
+  "collectedAt": "2026-10-31T02:22:59.919823+00:00",
   "windowEnd": "2026-10-31T11:20:40.250895+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3560,6 +3560,59 @@
       "sourceTitlesFetchedAt": "2026-10-30T09:15:09.980721+00:00",
       "collectedAt": "2026-10-30T18:15:09.980740+09:00",
       "firstPublishedAt": "2026-10-30T09:15:10.067385+00:00"
+    },
+    {
+      "id": "aagag-1666035-0",
+      "url": "https://aagag.com/issue/?idx=1666035",
+      "source": "애객",
+      "title": "유브르 곤충기 < 신비롭고 놀라운 곤충의 세계>",
+      "publishedAt": "2026-10-31T11:16:05+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3FZH.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3FZH.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 38,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 38,
+      "kPerComment": 19.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8920790",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8920794",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T11:22:50.889404+09:00",
+      "sourceTitles": [
+        "유시민의) 유브르 곤충기",
+        "유브르 곤충기.jpg",
+        "유브르 곤충기 < 신비롭고 놀라운 곤충의 세계>",
+        "오뎅만평 <신비롭고 놀라운 곤충의 세계>"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-10-31T02:22:59.845613+00:00",
+      "collectedAt": "2026-10-31T11:22:59.845630+09:00",
+      "firstPublishedAt": "2026-10-31T02:22:59.943014+00:00"
     },
     {
       "id": "aagag-1615556-0",
@@ -10285,7 +10338,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
