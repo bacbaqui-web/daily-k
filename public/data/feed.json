@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-10-31T19:42:40.603821+00:00",
+  "collectedAt": "2026-10-31T19:44:02.682873+00:00",
   "windowEnd": "2026-11-01T04:42:40.485364+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10124,7 +10124,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10151,6 +10151,56 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-16609-0",
+      "url": "https://aagag.com/issue/?idx=16609",
+      "source": "애객",
+      "title": "불사신 빼고 소원 다들어 줌",
+      "publishedAt": "2026-11-01T04:42:43+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/AGp4T.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "헤헤 이득"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/AGp4T.webp"
+      ],
+      "videos": [],
+      "excerpt": "헤헤 이득",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-01T04:43:53.483314+09:00",
+      "sourceTitles": [
+        "불사신이 되는방법",
+        "불사신이 되는방법",
+        "불사신이 되는방법",
+        "신이시여, 전 죽기전에 여친을 만들고 싶어요",
+        "[유머] \t\t\t\t\t스스로 인정하면 기회가 온다",
+        "새해 별똥별을 봤네요 ^^",
+        "전지전능한 신이시여!",
+        "죽기전에 여자친구를 만들어주세요...manga",
+        "불사신되는거 빼고 다른 소원 다 들어줄게.jpg",
+        "불사신 빼고 소원 다들어 줌"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 10,
+      "sourceTitlesFetchedAt": "2026-10-31T19:44:02.611514+00:00",
+      "collectedAt": "2026-11-01T04:44:02.611532+09:00",
+      "firstPublishedAt": "2026-10-31T19:44:02.704370+00:00"
+    },
     {
       "id": "aagag-803410-0",
       "url": "https://aagag.com/issue/?idx=803410",
