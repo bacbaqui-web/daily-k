@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-10-31",
-  "collectedAt": "2026-10-31T07:48:37.451129+00:00",
+  "collectedAt": "2026-10-31T07:49:39.266930+00:00",
   "windowEnd": "2026-10-31T16:48:37.337634+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9113,7 +9113,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9140,6 +9140,109 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1405116-0",
+      "url": "https://aagag.com/issue/?idx=1405116",
+      "source": "애객",
+      "title": "검은 엘프 부르는 만화",
+      "publishedAt": "2026-10-31T16:43:39+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/IDRBm.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/IDRBm.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 12,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 12,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.16666666666666666,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "5510759",
+          "text": "니가부르잖아"
+        },
+        {
+          "id": "5511170",
+          "text": "소리지르는 니가??? ㄷㄷㄷ"
+        },
+        {
+          "id": "5510853",
+          "text": "생각해 보니 왜 블랙 엘프가 아니고 다크 엘프일까."
+        },
+        {
+          "id": "5512009",
+          "text": "다 컸기 때문입니다"
+        },
+        {
+          "id": "5510960",
+          "text": "햄휴먼도 잊지말라구"
+        },
+        {
+          "id": "5511162",
+          "text": "뭐야 그렇게 불러도 되는거였어? 여! 흑인! 어서오고!"
+        },
+        {
+          "id": "5511573",
+          "text": "어이 다크 인간!"
+        },
+        {
+          "id": "6332666",
+          "text": "블랙휴먼 화이트휴먼 컬러피플 다 레이시즘 용어인데 저 인간놈이...."
+        },
+        {
+          "id": "6332681",
+          "text": "ㄴㄴ 블랙은 니거"
+        },
+        {
+          "id": "6332725",
+          "text": "범죄자 취급은 안되잖어 ㅋㅋ"
+        },
+        {
+          "id": "6332994",
+          "text": "다크 엘프는 보통 악마랑 친할거 같고 도둑질 할거 같지 않아?"
+        },
+        {
+          "id": "8921879",
+          "text": "깜둥이 바나나 흰빵....."
+        }
+      ],
+      "commentsFetchedAt": "2026-10-31T16:49:24.227279+09:00",
+      "sourceTitles": [
+        "엘프 보고 다크엘프라 부르는 만화.manhwa",
+        "엘프 보고 다크엘프라 부르는.manhwa",
+        "엘프 보고 다크엘프라 부르는 만화.manhwa",
+        "엘프 보고 다크엘프라 부르는 manhwa",
+        "???:그럼... 엘프는 서로 뭐라고 부르는데?",
+        "엘프 보고 다크엘프라 부르는 manhwa",
+        "엘프 보고 다크엘프라 부르는 manhwa",
+        "어이 다크엘프",
+        "너희 인간들은 피부색으로 이름을 부르냐?",
+        "\"너희 인간들은 피부색으로 이름을 부르나?\"",
+        "\"너희 인간들은 피부색으로 이름을 부르나?\"",
+        "\"너희 인간들은 피부색으로 이름을 부르나?\"",
+        "다크엘프라고 부르는 만화.manhwa",
+        "검은 엘프 부르는.manhwa",
+        "다크엘프라고 부르는 만화.manhwa",
+        "검은 엘프 불러보았다.",
+        "검은 엘프 부르는 만화",
+        "검은 엘프 부르는 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 18,
+      "sourceTitlesFetchedAt": "2026-10-31T07:49:39.207612+00:00",
+      "collectedAt": "2026-10-31T16:49:39.207637+09:00",
+      "firstPublishedAt": "2026-10-31T07:49:39.287548+00:00"
+    },
     {
       "id": "aagag-1666034-0",
       "url": "https://aagag.com/issue/?idx=1666034",
