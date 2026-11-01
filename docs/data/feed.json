@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T06:54:30.964954+09:00",
-  "windowEnd": "2026-11-02T06:50:26.073384+09:00",
+  "collectedAt": "2026-11-01T22:04:46.262673+00:00",
+  "windowEnd": "2026-11-02T07:04:46.158255+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7106,71 +7106,6 @@
       "firstPublishedAt": "2026-11-01T07:58:33.722075+00:00"
     },
     {
-      "id": "aagag-321311-0",
-      "url": "https://aagag.com/issue/?idx=321311",
-      "source": "애객",
-      "title": "약후)오이 때문에  응급실 실려온 만화",
-      "publishedAt": "2026-11-01T06:46:04+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.imgur.com/cxwSO3Q.jpg",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.imgur.com/cxwSO3Q.jpg"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 2,
-      "commentCount": 5,
-      "laughingComments": 1,
-      "score": 2,
-      "kPerComment": 0.4,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "7827120",
-          "text": ""
-        },
-        {
-          "id": "7827155",
-          "text": "널 의심해서 꼬멘네.."
-        },
-        {
-          "id": "7827157",
-          "text": "그림체 조으다"
-        },
-        {
-          "id": "7827232",
-          "text": "MSG가득썰인듯"
-        },
-        {
-          "id": "7827236",
-          "text": "교복입은 여대생ㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-01T06:54:47.508653+09:00",
-      "sourceTitles": [
-        "오이로 질경련 일으킨 여대생",
-        "오이로 질경련 일으킨 여대생",
-        "오이로 질경련 일으킨 여대생",
-        "ㅇㅎ) 섹급한 응급실",
-        "자게 고자들 위해서 jpg",
-        "고전 ) 조임 근육으로 박살난 오이",
-        "응급실에 실려온 여대생.manhwa",
-        "응급실에 실려온 여대생.manhwa"
-      ],
-      "sourceHistoryPartial": true,
-      "sourceHistoryCount": 9,
-      "sourceTitlesFetchedAt": "2026-10-31T21:55:02.161870+00:00",
-      "collectedAt": "2026-11-01T06:55:02.161889+09:00",
-      "firstPublishedAt": "2026-10-31T21:55:02.251941+00:00"
-    },
-    {
       "id": "aagag-1666425-0",
       "url": "https://aagag.com/issue/?idx=1666425",
       "source": "애객",
@@ -7720,9 +7655,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
