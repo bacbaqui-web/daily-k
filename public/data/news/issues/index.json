@@ -1,6 +1,155 @@
 {
-  "editionCount": 90,
+  "editionCount": 91,
   "issues": [
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "north-korea-tactical-ballistic-cluster-warhead-test-2026-10-31",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "북한이 집속탄두 시험 진행과 성능·연내 부대 사용 계획을 발표했습니다. 성능의 독립 검증과 실제 배치는 미확인입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "보도",
+        "storyId": "20261101-am-int-01",
+        "title": "북한, 31일 전술탄도미사일 집속탄두 시험 진행 발표"
+      },
+      "path": "north-korea-tactical-ballistic-cluster-warhead-test-2026-10-31.json",
+      "title": "북한 2026년 10월 31일 전술탄도미사일 집속탄두 시험 발표"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "lazarus-flashhole-korean-websites-indicators-2026",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "국내 웹사이트 주소가 악성코드 통신 침해지표에 포함됐다는 분석이 보도됐습니다. 서버별 침해 범위와 유출은 미확인입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "분석",
+        "storyId": "20261101-am-tech-01",
+        "title": "라자루스 침해지표에 국내 웹주소 포함…서버 침해 범위는 미확인"
+      },
+      "path": "lazarus-flashhole-korean-websites-indicators-2026.json",
+      "title": "라자루스 플래시홀 작전과 국내 웹사이트 악용 가능성"
+    },
+    {
+      "categories": [
+        "국내 정책·사회",
+        "국내 정치·사법",
+        "정치·정책"
+      ],
+      "eventCount": 8,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "korea-supreme-court-appointment-conflict",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "민주당이 계엄 당시 대응 규명에 집중할 계획이라는 새 취재가 보도됐습니다. 국정조사 개시와 의혹 입증은 미확인입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "후속",
+        "storyId": "20261101-am-pol-01",
+        "title": "민주당, 대법원장 국정조사서 계엄 당시 대응 규명에 초점"
+      },
+      "path": "korea-supreme-court-appointment-conflict.json",
+      "title": "대법관 제청과 사법부·정부 갈등"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "korea-rain-jeju-heavy-rain-gusts-2026-11-01",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "1일 강수 확대와 제주 강한 비·돌풍이 예보됐습니다. 2일 새벽까지는 일부 지역의 예보 대상 기간이며 실제 종료 시각과 피해는 미확인입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "예정",
+        "storyId": "20261101-am-safe-01",
+        "title": "오늘 전국으로 비 확대 예보…제주 늦은 밤 강한 비·돌풍 주의"
+      },
+      "path": "korea-rain-jeju-heavy-rain-gusts-2026-11-01.json",
+      "title": "2026년 11월 1일 전국 강수와 제주 강한 비·돌풍"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "gangnam-plastic-surgery-patient-data-leak-extortion-2026",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "환자의 신체 사진·개인정보를 이용한 협박과 경찰 수사 착수가 보도됐습니다. 전체 피해 규모와 책임은 미확정입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "보도",
+        "storyId": "20261101-am-soc-01",
+        "title": "강남 성형외과 신체 사진·개인정보 유출로 협박…경찰 수사"
+      },
+      "path": "gangnam-plastic-surgery-patient-data-leak-extortion-2026.json",
+      "title": "강남 성형외과 환자 개인정보 유출과 협박 수사"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "dukovany-construction-contract-negotiations-2026",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "기존 컨소시엄과의 시공협상이 종료됐고 새 시공사 계약 목표가 제시됐습니다. 전체 일정 지연과 추가 발주 취소는 미확정입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "보도",
+        "storyId": "20261101-am-eco-01",
+        "title": "체코 원전 시공협상 종료…한수원, 내년 7월 새 시공사 계약 목표"
+      },
+      "path": "dukovany-construction-contract-negotiations-2026.json",
+      "title": "체코 두코바니 원전 시공계약 협상과 시공사 선정"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "crunchyroll-korea-autumn-lineup-webtoon-adaptations-2026",
+      "lastCoveredAt": "2026-11-01T09:14:12.982385+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "원작 IP 애니메이션을 포함한 신작 24편의 순차 서비스 계획이 발표됐습니다. 전체 공개 완료와 사업 성과는 미확인입니다.",
+        "editionId": "2026-11-01-am",
+        "stage": "발표",
+        "storyId": "20261101-am-web-01",
+        "title": "크런치롤, ‘템빨’ 등 포함 가을 신작 24편 순차 서비스 계획 발표"
+      },
+      "path": "crunchyroll-korea-autumn-lineup-webtoon-adaptations-2026.json",
+      "title": "크런치롤 한국 가을 라인업과 웹툰·웹소설 원작 애니메이션 유통"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -1241,29 +1390,6 @@
       },
       "path": "snu-hospital-labor-negotiations-2026.json",
       "title": "서울대병원 노사 교섭과 파업 예고"
-    },
-    {
-      "categories": [
-        "국내 정책·사회",
-        "국내 정치·사법",
-        "정치·정책"
-      ],
-      "eventCount": 7,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "korea-supreme-court-appointment-conflict",
-      "lastCoveredAt": "2026-10-27T21:17:40.878171+09:00",
-      "lastCoveredDate": "2026-10-27",
-      "latest": {
-        "archive": false,
-        "change": "민주당이 국정조사를 우선 추진하기로 의견을 모았습니다. 국회 의결과 조사 개시는 미확인입니다.",
-        "editionId": "2026-10-27-pm",
-        "stage": "후속",
-        "storyId": "20261027-pm-pol-01",
-        "title": "민주당, 조희대 대법원장 국정조사 우선 추진 방침"
-      },
-      "path": "korea-supreme-court-appointment-conflict.json",
-      "title": "대법관 제청과 사법부·정부 갈등"
     },
     {
       "categories": [
@@ -8200,7 +8326,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 675,
+  "storyCount": 682,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-10-31T21:15:02.177096+09:00"
+  "updatedAt": "2026-11-01T09:14:12.982385+09:00"
 }
