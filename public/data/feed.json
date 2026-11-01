@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T01:41:57.333211+00:00",
+  "collectedAt": "2026-11-01T01:43:25.092968+00:00",
   "windowEnd": "2026-11-01T10:41:57.234012+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8311,6 +8311,76 @@
       "firstPublishedAt": "2026-10-31T03:44:24.668892+00:00"
     },
     {
+      "id": "aagag-1666271-0",
+      "url": "https://aagag.com/issue/?idx=1666271",
+      "source": "애객",
+      "title": "남자 관객이 많은 대학로 연극",
+      "publishedAt": "2026-11-01T10:36:04+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KnFSU.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KnFSL.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KnFSU.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KnFSL.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8924250",
+          "text": "체험형 연극인가요?"
+        },
+        {
+          "id": "8924253",
+          "text": "저러고 목 확 돌려서 꺾는 장면을 계속 상상했.."
+        },
+        {
+          "id": "8924256",
+          "text": "여자들 저 부위에서 항상 좋은 냄새남 화장품, 향수, 체취 섞여서 체온에 올라오는 그 냄새"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T10:43:15.770578+09:00",
+      "sourceTitles": [
+        "남자 관객이 많은 대학로 연극",
+        "남자 관객이 많은 대학로 연극.mp4",
+        "남자 관객이 많은 대학로 연극",
+        "잘생긴 남자에게만 해준다는 서비스",
+        "대학로 연극",
+        "ㅇㅎ) 남자 관객이 많은 대학로 연극 ㄷㄷ ㄷㄷ ㄷㄷ ㄷㄷ.MP4",
+        "ㅇㅎ?) 남자 관객이 많은 대학로 연극"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-01T01:43:25.020823+00:00",
+      "collectedAt": "2026-11-01T10:43:25.020843+09:00",
+      "firstPublishedAt": "2026-11-01T01:43:25.115129+00:00"
+    },
+    {
       "id": "aagag-1666043-0",
       "url": "https://aagag.com/issue/?idx=1666043",
       "source": "애객",
@@ -9000,7 +9070,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
