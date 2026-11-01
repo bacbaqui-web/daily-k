@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T07:56:18.225570+00:00",
+  "collectedAt": "2026-11-01T07:58:33.701694+00:00",
   "windowEnd": "2026-11-01T16:56:18.128639+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7403,6 +7403,80 @@
       "firstPublishedAt": "2026-10-31T19:46:41.136937+00:00"
     },
     {
+      "id": "aagag-1666349-0",
+      "url": "https://aagag.com/issue/?idx=1666349",
+      "source": "애객",
+      "title": "할로윈 쿵푸허슬 아줌마",
+      "publishedAt": "2026-11-01T16:42:04+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3E4Z.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3E4Z.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 7,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8925723",
+          "text": "왜 사람은 가짜슴 모양을 더 예쁘다고 받아들이는가!"
+        },
+        {
+          "id": "8925724",
+          "text": "가짜슴에 옷을 입고 있으면 그건 좋아보이는데 그게 가짜씀을 보여줘도 좋은줄 착각하고 냅다 까보이는거 아닐까요."
+        },
+        {
+          "id": "8925725",
+          "text": "돈을 들였으니 드러내 보이고 싶을 뿐"
+        },
+        {
+          "id": "8925731",
+          "text": "크으.. 내돈내깜 응원함니다"
+        },
+        {
+          "id": "8925727",
+          "text": "진짜가 드무니까요. 가짜라도 너무 작은거보다 보기엔 본능의 영역에선 매력적이니깐.."
+        },
+        {
+          "id": "8925729",
+          "text": "가서 쥐어본 것도 아닌데 가짜슴인건 어찌 아오?"
+        },
+        {
+          "id": "8925767",
+          "text": "넷상에서라도 아는 척해야지"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T16:58:23.877477+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 쿵푸허슬 사자후 아줌마",
+        "할러윈에 진심인 사람들 ㅋㅋ",
+        "할로윈 쿵푸허슬 아줌마",
+        "홍콩 할로윈 행사에 등장한 사자후 누님",
+        "홍콩 할로윈 축제 근황 ㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-01T07:58:33.629885+00:00",
+      "collectedAt": "2026-11-01T16:58:33.629902+09:00",
+      "firstPublishedAt": "2026-11-01T07:58:33.722075+00:00"
+    },
+    {
       "id": "aagag-1666123-0",
       "url": "https://aagag.com/issue/?idx=1666123",
       "source": "애객",
@@ -8285,7 +8359,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
