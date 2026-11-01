@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T18:38:57.941037+09:00",
-  "windowEnd": "2026-11-01T18:31:33.021898+09:00",
+  "collectedAt": "2026-11-01T09:49:16.085869+00:00",
+  "windowEnd": "2026-11-01T18:49:15.980259+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -2489,73 +2489,6 @@
       "sourceTitlesFetchedAt": "2026-10-31T11:29:00.429517+00:00",
       "collectedAt": "2026-10-31T20:29:00.429540+09:00",
       "firstPublishedAt": "2026-10-31T11:29:00.514972+00:00"
-    },
-    {
-      "id": "aagag-1666126-0",
-      "url": "https://aagag.com/issue/?idx=1666126",
-      "source": "애객",
-      "title": "미국 폭스뉴스 생방송 인터뷰 대참사",
-      "publishedAt": "2026-10-31T18:30:48+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3JLr.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3HhX.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3JLr.webp",
-        "https://i.aagag.com/o/L3HhX.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 30,
-      "commentCount": 5,
-      "laughingComments": 5,
-      "score": 30,
-      "kPerComment": 6.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8922267",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 잘 멕이네"
-        },
-        {
-          "id": "8922268",
-          "text": "미국의 좋은 점은 저 뒤가 없는 당당함...ㅋㅋㅋ"
-        },
-        {
-          "id": "8922274",
-          "text": "ㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8922286",
-          "text": "ㅋㅋㅋ"
-        },
-        {
-          "id": "8922304",
-          "text": "표현의 자유 ㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-31T18:47:12.239286+09:00",
-      "sourceTitles": [
-        "미국 폭스뉴스 생방송 인터뷰 대참사",
-        "미국 폭스뉴스 생방송 인터뷰 대참사",
-        "미국 폭스뉴스 생방송 인터뷰 대참사",
-        "미국 폭스뉴스 생방송 인터뷰 대참사"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-31T09:47:19.115515+00:00",
-      "collectedAt": "2026-10-31T18:47:19.115531+09:00",
-      "firstPublishedAt": "2026-10-31T09:47:19.198059+00:00"
     },
     {
       "id": "aagag-1666322-0",
@@ -7483,9 +7416,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
