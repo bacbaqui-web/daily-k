@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T11:04:15.136328+09:00",
-  "windowEnd": "2026-11-01T10:58:06.050303+09:00",
+  "collectedAt": "2026-11-01T02:14:30.429037+00:00",
+  "windowEnd": "2026-11-01T11:14:30.307117+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8647,58 +8647,6 @@
       "firstPublishedAt": "2026-10-31T13:13:07.173046+00:00"
     },
     {
-      "id": "aagag-1666033-0",
-      "url": "https://aagag.com/issue/?idx=1666033",
-      "source": "애객",
-      "title": "누워서 과자만 먹다간 소 된다?",
-      "publishedAt": "2026-10-31T11:03:59+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/Ki03z.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/Ki03z.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8920747",
-          "text": "젓소?!?!"
-        },
-        {
-          "id": "8920750",
-          "text": "볼기가 작은 걸 보니 꼴알못 일본작가로구먼"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-31T11:05:28.873365+09:00",
-      "sourceTitles": [
-        "오빠: 너 누우면 소된다.manwha",
-        "누워서 과자만 먹다간 소 된다?",
-        "ㅇㅎ) 누워서 과자만 먹으면 소 된다?",
-        "누워서 과자만 먹다간 소 된다?",
-        "누워서 과자만 먹다간 소 된다? .manwha",
-        "그렇게 누워서 과자만 먹다간 소 된다?",
-        "ㅆㄷ) 누워서 과자만 먹다간 소 된다"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-10-31T02:05:40.528296+00:00",
-      "collectedAt": "2026-10-31T11:05:40.528313+09:00",
-      "firstPublishedAt": "2026-10-31T02:05:40.626619+00:00"
-    },
-    {
       "id": "aagag-1666227-0",
       "url": "https://aagag.com/issue/?idx=1666227",
       "source": "애객",
@@ -9018,9 +8966,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
