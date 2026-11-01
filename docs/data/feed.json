@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T10:07:10.420244+00:00",
+  "collectedAt": "2026-11-01T10:09:06.888955+00:00",
   "windowEnd": "2026-11-01T19:07:10.322933+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3538,6 +3538,88 @@
       "sourceTitlesFetchedAt": "2026-10-31T20:33:48.652098+00:00",
       "collectedAt": "2026-11-01T05:33:48.652124+09:00",
       "firstPublishedAt": "2026-10-31T20:33:48.736646+00:00"
+    },
+    {
+      "id": "aagag-1666373-0",
+      "url": "https://aagag.com/issue/?idx=1666373",
+      "source": "애객",
+      "title": "아이폰 듀오, 크랙 게이트 다음은 스테이크 게이트",
+      "publishedAt": "2026-11-01T18:59:05+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3R6v.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "레딧 글쓴이에 따르면 스테이크 구우며 유튭 영상 틀어놓고 보고 있었는데 \n기름 몇 방울이 화면에 튀어 있었고 이걸 닦으려 하니 사진처럼 번졌다고 함 \n닦을수록 번지기만 하고 아이소프로필 알콜로도 안지워져서 좆됐다는 글"
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3R71.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3R73.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "아마 나노텍스쳐 필름 빈공간 사이사이로 기름이 들어가서 닦이지 않나봄"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3R6v.webp",
+        "https://i.aagag.com/o/L3R71.webp",
+        "https://i.aagag.com/o/L3R73.webp"
+      ],
+      "videos": [],
+      "excerpt": "레딧 글쓴이에 따르면 스테이크 구우며 유튭 영상 틀어놓고 보고 있었는데 \n기름 몇 방울이 화면에 튀어 있었고 이걸 닦으려 하니 사진처럼 번졌다고 함 \n닦을수록 번지기만 하고 아이소프로필 알콜로도 안지워져서 좆됐다는 글\n아마 나노텍스쳐 필름 빈공간 사이사이로 기름이 들어가서 닦이지 않나봄",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 5,
+      "laughingComments": 1,
+      "score": 19,
+      "kPerComment": 3.8,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8926228",
+          "text": "지문방지 필름의 숙명.... 시간지나면 번들거림이 조금 옅어지기는 하는데 자국은 그대로 남아있는느낌"
+        },
+        {
+          "id": "8926229",
+          "text": "필름 뗄수있나? 원판은 좋을것 같은데말이지.."
+        },
+        {
+          "id": "8926231",
+          "text": "알콜은 에탄올로 닦아야 하는데 아이소프로필로 닦으면 코팅층 벗겨진다고 들었던 기억이."
+        },
+        {
+          "id": "8926251",
+          "text": "걍 오일을 필름 전체에 펴바르면 화질개선 개꿀? 역시 감성넘치는 아이폰"
+        },
+        {
+          "id": "8926252",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 지문방지필름.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T19:08:58.843753+09:00",
+      "sourceTitles": [
+        "아이폰 듀오 신규 컨텐츠 떳드아앙아아아앗!!!!",
+        "아이폰) 듀오는 당연히 통제된 환경에서 쓰라고 만든 폰이지",
+        "아이폰 듀오 신규 컨텐츠 떳드아앙아아아앗!!!!",
+        "아이폰 듀오, 크랙 게이트 다음은 스테이크 게이트",
+        "아이폰 듀오, 크랙 게이트 다음은 스테이크 게이트"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-01T10:09:06.828057+00:00",
+      "collectedAt": "2026-11-01T19:09:06.828075+09:00",
+      "firstPublishedAt": "2026-11-01T10:09:06.906497+00:00"
     },
     {
       "id": "aagag-1666165-0",
@@ -7416,7 +7498,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
