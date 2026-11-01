@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T12:02:10.145618+00:00",
+  "collectedAt": "2026-11-01T12:03:15.186877+00:00",
   "windowEnd": "2026-11-01T21:02:10.052322+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4052,6 +4052,84 @@
       "firstPublishedAt": "2026-11-01T06:50:14.734776+00:00"
     },
     {
+      "id": "aagag-1666398-0",
+      "url": "https://aagag.com/issue/?idx=1666398",
+      "source": "애객",
+      "title": "주식에 돈 다 꼬라박고 집에서 쫓겨난 과장님.JPG",
+      "publishedAt": "2026-11-01T20:58:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3c04.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3c0L.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3c0X.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3c0h.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3c0l.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3cXN.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3c04.webp",
+        "https://i.aagag.com/o/L3c0L.webp",
+        "https://i.aagag.com/o/L3c0X.webp",
+        "https://i.aagag.com/o/L3c0h.webp",
+        "https://i.aagag.com/o/L3c0l.webp",
+        "https://i.aagag.com/o/L3cXN.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 15,
+      "kPerComment": 7.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8926718",
+          "text": "행복한 춘식이 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 적절한듯"
+        },
+        {
+          "id": "8926719",
+          "text": "만두햄 너무 행복해보이는데??"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T21:03:02.545709+09:00",
+      "sourceTitles": [
+        "주식에 돈 다 꼬라박고 집에서 쫓겨난 과장님.JPG",
+        "주식에 돈 다 꼬라박고 집에서 쫓겨난 과장님.JPG",
+        "주식 때문에 집에서 쫓겨난 뒤 얼떨결에 같이 살게 된 과장님"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-01T12:03:15.117106+00:00",
+      "collectedAt": "2026-11-01T21:03:15.117122+09:00",
+      "firstPublishedAt": "2026-11-01T12:03:15.210181+00:00"
+    },
+    {
       "id": "aagag-1004421-0",
       "url": "https://aagag.com/issue/?idx=1004421",
       "source": "애객",
@@ -7459,7 +7537,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
