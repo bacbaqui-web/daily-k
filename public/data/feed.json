@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T07:58:51.240074+09:00",
-  "windowEnd": "2026-11-02T07:51:45.892495+09:00",
+  "collectedAt": "2026-11-01T23:09:06.041286+00:00",
+  "windowEnd": "2026-11-02T08:09:05.935778+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -1671,101 +1671,6 @@
       "sourceTitlesFetchedAt": "2026-11-01T21:21:39.708140+00:00",
       "collectedAt": "2026-11-02T06:21:39.708164+09:00",
       "firstPublishedAt": "2026-11-01T21:21:39.792311+00:00"
-    },
-    {
-      "id": "aagag-1019605-0",
-      "url": "https://aagag.com/issue/?idx=1019605",
-      "source": "애객",
-      "title": "초등학생이 생각한 웅장함",
-      "publishedAt": "2026-11-01T07:43:54+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L36F3.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L36F3.webp"
-      ],
-      "videos": [],
-      "excerpt": ".",
-      "reportedCommentCount": 10,
-      "commentsPartial": false,
-      "kCount": 33,
-      "commentCount": 10,
-      "laughingComments": 5,
-      "score": 33,
-      "kPerComment": 3.3,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "2194795",
-          "text": "그 웅장한 배가 10달동안 너를 품었단다 . . . 물론 그 뱃살을 만들어준 건 당연히 치킨이지"
-        },
-        {
-          "id": "2197571",
-          "text": "그럼 제 아빠는 치킨인거에요…?"
-        },
-        {
-          "id": "2197577",
-          "text": "너는 배달의 민족이구나"
-        },
-        {
-          "id": "2194834",
-          "text": "이 드립에 감동을 한 어머니에 손에 들린 \"합격 회초리\""
-        },
-        {
-          "id": "2194837",
-          "text": "나루토 예상했는데ㅋㅋㅋ"
-        },
-        {
-          "id": "2194838",
-          "text": "짱구같은 만화나 평소 아빠가 하던말에서 배운거같은데 ㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "2194842",
-          "text": "정답인가봐 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "2195721",
-          "text": "ㅋㅋㅋㅋㅋㄷㅋㅋㅋㄱㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "2196541",
-          "text": "엄마가 결혼 후에 애들 키우고 남편 뒷 바리지 하면서 한번도 해본적 없는 고생으로 스트레스를 많이 받아서 먹는 족족 살로 가 버렸구나. 커서 효도 많이 하렴"
-        },
-        {
-          "id": "8923852",
-          "text": "저건 아빠가 평소에 웅장하다고 놀렸다 ㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-01T08:00:54.388831+09:00",
-      "sourceTitles": [
-        "초등학생이 생각하는 웅장한것",
-        "초등학생이 생각하는 웅장한것",
-        "초등학생에게 웅장함이란?",
-        "초등학생이 생각하는 웅장한것",
-        "초등학생 답안지",
-        "초등학생이 생각한 웅장함",
-        "초등학생이 생각한 웅장함",
-        "초딩이 생각한 웅장함",
-        "아이가 생각하는 웅장한것",
-        "초딩들이 웅장해게 보는 거",
-        "초등학생이 생각한 웅장함",
-        "웅장함 . JPEG",
-        "초등학생이 생각한 웅장함",
-        "스압)잼민이 센스있는 ㅋㅋㅋㅋㅋㅋㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 14,
-      "sourceTitlesFetchedAt": "2026-10-31T23:01:06.148730+00:00",
-      "collectedAt": "2026-11-01T08:01:06.148749+09:00",
-      "firstPublishedAt": "2026-10-31T23:01:06.228356+00:00"
     },
     {
       "id": "aagag-1116268-0",
@@ -7808,9 +7713,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
