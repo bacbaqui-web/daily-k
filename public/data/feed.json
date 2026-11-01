@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T05:19:35.306654+00:00",
+  "collectedAt": "2026-11-01T05:20:24.593235+00:00",
   "windowEnd": "2026-11-01T14:19:35.211087+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8245,59 +8245,6 @@
       "firstPublishedAt": "2026-10-31T21:06:00.044038+00:00"
     },
     {
-      "id": "aagag-1666070-0",
-      "url": "https://aagag.com/issue/?idx=1666070",
-      "source": "애객",
-      "title": "ㅇㅎ) 대만 코스프레 행사...",
-      "publishedAt": "2026-10-31T14:18:02+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3N7X.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "여권이 어딨더라"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3N7X.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "여권이 어딨더라",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8921311",
-          "text": "얼굴용 콘돔 ㄷㄷ"
-        }
-      ],
-      "commentsFetchedAt": "2026-10-31T14:20:03.109121+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 대만 코스프레 행사...",
-        "ㅇㅎ) 대만 코스프레 행사...",
-        "ㅇㅎ)대만 코스프레 유료서비스 수준 ㄷㄷ",
-        "대만은 어떤곳일까?"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-10-31T05:20:17.836316+00:00",
-      "collectedAt": "2026-10-31T14:20:17.836332+09:00",
-      "firstPublishedAt": "2026-10-31T05:20:17.936956+00:00"
-    },
-    {
       "id": "aagag-1666202-0",
       "url": "https://aagag.com/issue/?idx=1666202",
       "source": "애객",
@@ -8515,7 +8462,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
