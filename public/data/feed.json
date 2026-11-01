@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T03:05:23.771854+00:00",
+  "collectedAt": "2026-11-01T03:06:47.053108+00:00",
   "windowEnd": "2026-11-01T12:05:23.657831+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9106,7 +9106,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9133,6 +9133,98 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1632195-0",
+      "url": "https://aagag.com/issue/?idx=1632195",
+      "source": "애객",
+      "title": "주인을 위해서 기억을 삭제하는 안드로이드.manhwa",
+      "publishedAt": "2026-11-01T12:03:10+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KRgeq.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "아니 월 3만원은 선넘지"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KRgeq.webp"
+      ],
+      "videos": [],
+      "excerpt": "아니 월 3만원은 선넘지",
+      "reportedCommentCount": 10,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 10,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8299280",
+          "text": "갑자기 겁나 저렴해지네..."
+        },
+        {
+          "id": "8299281",
+          "text": "전투프로그램은 얼만데"
+        },
+        {
+          "id": "8299295",
+          "text": "아니 전투가 문제가 아니라 그거면 구독해야지!"
+        },
+        {
+          "id": "8299296",
+          "text": "3만엔에 ssd추가는 안되냐"
+        },
+        {
+          "id": "8300003",
+          "text": "소니나 애플처럼 독자규격 이겠죠! 슬롯이 안맞아 젠더를 끼면 케이스가 안닫힌다던가?"
+        },
+        {
+          "id": "8299352",
+          "text": "기존에 깔려있던 주인님 전용 봉사 기능을 삭제하면 인스톨 가능합니다 (월 3000엔 결제 완료)"
+        },
+        {
+          "id": "8299391",
+          "text": "???: 어디로 입금하면 된다고??"
+        },
+        {
+          "id": "8299354",
+          "text": "복구천재 꼬마신발에게 메모리 확장을 부탁하자..."
+        },
+        {
+          "id": "8299380",
+          "text": "구독료는 늘 비싸게 느껴져 얼마라도 돈 아까워"
+        },
+        {
+          "id": "8300006",
+          "text": "전투용 1대, 반려용 1대 따로 구입"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T12:06:40.289993+09:00",
+      "sourceTitles": [
+        "용량이 부족해서 기억을 삭제하는 manhwa",
+        "용량이 부족해서 기억을 삭제하는 manhwa",
+        "안드로이드가 주인을 위해서 기억을 지우는 클리셰",
+        "안드로이드가 주인을 위해서 기억을 지우는 클리셰",
+        "안드로이드가 주인을 위해서 기억을 지우는 클리셰",
+        "전투 프로그램을 인스톨하려면 기억삭제가 필요합니다",
+        "주인을 위해서 기억을 삭제하는 안드로이드.manhwa",
+        "주인을 지키기 위해 기억을 삭제하는 안드로이드.manhwa",
+        "인을 지키기 위해 기억을 삭제하는 안드로이드.manhwa",
+        "주인을 지키기 위해 기억을 삭제하는 안드로이드.manhwa",
+        "\"기억 삭제라니… 그럼 너는!\""
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 11,
+      "sourceTitlesFetchedAt": "2026-11-01T03:06:46.983762+00:00",
+      "collectedAt": "2026-11-01T12:06:46.983780+09:00",
+      "firstPublishedAt": "2026-11-01T03:06:47.077150+00:00"
+    },
     {
       "id": "aagag-1404019-0",
       "url": "https://aagag.com/issue/?idx=1404019",
