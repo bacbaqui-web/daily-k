@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-01",
-  "collectedAt": "2026-11-01T06:49:20.164093+00:00",
+  "collectedAt": "2026-11-01T06:50:14.711063+00:00",
   "windowEnd": "2026-11-01T15:49:20.059498+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4648,6 +4648,79 @@
       "firstPublishedAt": "2026-11-01T06:16:43.659074+00:00"
     },
     {
+      "id": "aagag-1666339-0",
+      "url": "https://aagag.com/issue/?idx=1666339",
+      "source": "애객",
+      "title": "가세연 사무실 점령한 장사의신 근황",
+      "publishedAt": "2026-11-01T15:48:12+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3Yub.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3Yui.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3Yup.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "가로세로 장사연구소 ㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3Yub.webp",
+        "https://i.aagag.com/o/L3Yui.webp",
+        "https://i.aagag.com/o/L3Yup.webp"
+      ],
+      "videos": [],
+      "excerpt": "가로세로 장사연구소 ㅋㅋㅋ",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 4,
+      "laughingComments": 3,
+      "score": 15,
+      "kPerComment": 3.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8925479",
+          "text": "ㅋㅋㅋㅋ 맘껏 즐기는 중"
+        },
+        {
+          "id": "8925482",
+          "text": "이거 ㅈㄴ 웃김 ㅋㅋㅋㅋ 거기 직원 이제부터 은현장 직원이라 용돈 3만원 줌 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8925483",
+          "text": "돈과 시간이 많은 사람이 즐기는 방법 ㄷㄷㄷ"
+        },
+        {
+          "id": "8925484",
+          "text": "감염된 커멘드센터...ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-01T15:50:02.362594+09:00",
+      "sourceTitles": [
+        "가세연 점령한 장사의신 근황.jpg",
+        "가세연 사무실 점령한 장사의신 근황",
+        "가세연 점령한 장사의신 근황.jpg",
+        "가세연 사무실 점령한 장사의신 근황.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-01T06:50:14.628529+00:00",
+      "collectedAt": "2026-11-01T15:50:14.628546+09:00",
+      "firstPublishedAt": "2026-11-01T06:50:14.734776+00:00"
+    },
+    {
       "id": "aagag-1404019-0",
       "url": "https://aagag.com/issue/?idx=1404019",
       "source": "애객",
@@ -8003,7 +8076,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
