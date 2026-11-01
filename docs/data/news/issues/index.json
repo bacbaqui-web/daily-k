@@ -1,6 +1,157 @@
 {
-  "editionCount": 91,
+  "editionCount": 92,
   "issues": [
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 7,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "이란군이 미국 추가 공격 시 역외 미국 자산도 타격할 수 있다고 경고했습니다. 실제 실행은 미확인입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "후속",
+        "storyId": "20261101-pm-int-01",
+        "title": "이란군, 미국 추가 공격 시 서아시아 밖 미국 자산도 타격 경고"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "stalking-report-protection-response-mbc-2026",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "신고 대응 논란과 취재 이후 전자장치 부착이 보도됐습니다. 혐의와 대응 책임의 최종 판단은 미확정입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "보도",
+        "storyId": "20261101-pm-soc-01",
+        "title": "스토킹 신고·보호조치 부실 대응 논란…취재 뒤 전자장치 부착 보도"
+      },
+      "path": "stalking-report-protection-response-mbc-2026.json",
+      "title": "스토킹 반복 신고 대응과 피해자 보호조치 논란"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "seongju-jungbu-naeryuk-expressway-collision-2026-11-01",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "연쇄 추돌로 2명 사망·3명 부상이 보도됐습니다. 원인과 책임은 조사 중입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "보도",
+        "storyId": "20261101-pm-safe-01",
+        "title": "성주 중부내륙고속도로 연쇄 추돌로 모녀 사망…3명 부상"
+      },
+      "path": "seongju-jungbu-naeryuk-expressway-collision-2026-11-01.json",
+      "title": "2026년 11월 1일 성주 중부내륙고속도로 연쇄 추돌"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
+      "firstCoveredDate": "2026-10-24",
+      "id": "remarried-empress-mario-outlet-exhibition-2026",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "예고된 체험형 전시의 정식 개막이 보도됐습니다. 방문객·매출 성과는 미확인입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "시행",
+        "storyId": "20261101-pm-web-01",
+        "title": "‘재혼황후’ 체험형 전시, 마리오아울렛에서 정식 개막"
+      },
+      "path": "remarried-empress-mario-outlet-exhibition-2026.json",
+      "title": "재혼 황후 마리오아울렛 체험형 전시와 IP 활용"
+    },
+    {
+      "categories": [
+        "국내 정책·사회",
+        "국내·정책",
+        "정치·정책"
+      ],
+      "eventCount": 10,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "korea-investigation-prosecution-separation",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "기관 간 권한·사건 이첩과 사실관계 확인 절차의 쟁점이 보도됐습니다. 조정 결과와 개별 피해는 미확정입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "후속",
+        "storyId": "20261101-pm-pol-01",
+        "title": "새 형사사법체계, 리니언시 권한·사건 이첩 기준 혼선 보도"
+      },
+      "path": "korea-investigation-prosecution-separation.json",
+      "title": "수사·기소 분리와 공소청·중수청 출범"
+    },
+    {
+      "categories": [
+        "경제·반도체",
+        "경제·생활경제"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-21",
+      "id": "korea-exports-semiconductors",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "10월 전체 수출과 누적 실적이 발표됐습니다. 연간 1조달러 달성은 전망입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "발표",
+        "storyId": "20261101-pm-eco-01",
+        "title": "10월 수출 1152억8000만달러…1~10월 누적 9300억달러"
+      },
+      "path": "korea-exports-semiconductors.json",
+      "title": "한국 수출과 반도체 실적"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "firstCoveredDate": "2026-11-01",
+      "id": "deepseek-super-agent-multiagent-architecture-2026",
+      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
+      "lastCoveredDate": "2026-11-01",
+      "latest": {
+        "archive": false,
+        "change": "복수 에이전트의 작업 배분 구조가 소개됐습니다. 독립 검증과 실제 제공 범위는 미확인입니다.",
+        "editionId": "2026-11-01-pm",
+        "stage": "보도",
+        "storyId": "20261101-pm-tech-01",
+        "title": "딥시크, 여러 AI가 작업 나누는 ‘슈퍼 에이전트’ 구조 발표"
+      },
+      "path": "deepseek-super-agent-multiagent-architecture-2026.json",
+      "title": "딥시크 슈퍼 에이전트의 다중 작업 관리 구조"
+    },
     {
       "categories": [
         "국제정세"
@@ -623,28 +774,6 @@
     },
     {
       "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 6,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-10-30T09:16:06.456257+09:00",
-      "lastCoveredDate": "2026-10-30",
-      "latest": {
-        "archive": false,
-        "change": "중부사령관의 대통령 직접 보고가 보도됐습니다. 공격 승인과 실행은 미확인입니다.",
-        "editionId": "2026-10-30-am",
-        "stage": "후속",
-        "storyId": "20261030-am-int-01",
-        "title": "미 중부사령관, 트럼프에 이란 공격 선택지 직접 보고했다는 보도"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
-    },
-    {
-      "categories": [
         "웹툰산업"
       ],
       "eventCount": 1,
@@ -1241,29 +1370,6 @@
       },
       "path": "sk-hynix-q3-2026-results.json",
       "title": "SK하이닉스 2026년 3분기 실적과 투자·주주환원"
-    },
-    {
-      "categories": [
-        "국내 정책·사회",
-        "국내·정책",
-        "정치·정책"
-      ],
-      "eventCount": 9,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "korea-investigation-prosecution-separation",
-      "lastCoveredAt": "2026-10-28T09:13:07.272316+09:00",
-      "lastCoveredDate": "2026-10-28",
-      "latest": {
-        "archive": false,
-        "change": "배치표 분석에서 직무대리 보직 78곳과 인력 부족이 보도됐습니다. 실제 수사 혼선은 확인되지 않았습니다.",
-        "editionId": "2026-10-28-am",
-        "stage": "후속",
-        "storyId": "20261028-am-pol-01",
-        "title": "중수청 수사지휘 보직 78곳 직무대리 운영 보도…인력 부족 우려"
-      },
-      "path": "korea-investigation-prosecution-separation.json",
-      "title": "수사·기소 분리와 공소청·중수청 출범"
     },
     {
       "categories": [
@@ -2177,27 +2283,6 @@
     },
     {
       "categories": [
-        "웹툰산업"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-24T09:12:45.374510+09:00",
-      "firstCoveredDate": "2026-10-24",
-      "id": "remarried-empress-mario-outlet-exhibition-2026",
-      "lastCoveredAt": "2026-10-24T09:12:45.374510+09:00",
-      "lastCoveredDate": "2026-10-24",
-      "latest": {
-        "archive": false,
-        "change": "10월30일~12월24일 체험형 전시 계획이 보도됐습니다. 실제 개막과 사업 성과는 확인되지 않았습니다.",
-        "editionId": "2026-10-24-am",
-        "stage": "발표",
-        "storyId": "20261024-am-web-01",
-        "title": "‘재혼 황후’ 원화·의상·XR 체험형 전시 계획…30일 개막 예정"
-      },
-      "path": "remarried-empress-mario-outlet-exhibition-2026.json",
-      "title": "재혼 황후 마리오아울렛 체험형 전시와 IP 활용"
-    },
-    {
-      "categories": [
         "생활·안전"
       ],
       "eventCount": 1,
@@ -2828,28 +2913,6 @@
       },
       "path": "korea-nonregular-employment-2026.json",
       "title": "한국 비정규직 규모와 임금 구조"
-    },
-    {
-      "categories": [
-        "경제·반도체",
-        "경제·생활경제"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-21",
-      "id": "korea-exports-semiconductors",
-      "lastCoveredAt": "2026-10-21T21:12:20.892212+09:00",
-      "lastCoveredDate": "2026-10-21",
-      "latest": {
-        "archive": false,
-        "change": "10월 1~20일 수출이 잠정 616억 달러, 일평균 수출 증가율이 65.9%로 발표됐습니다.",
-        "editionId": "2026-10-21-pm",
-        "stage": "발표",
-        "storyId": "korea-exports-october-first-20-days-2026",
-        "title": "10월 1~20일 수출 616억 달러…일평균 65.9% 증가"
-      },
-      "path": "korea-exports-semiconductors.json",
-      "title": "한국 수출과 반도체 실적"
     },
     {
       "categories": [
@@ -8326,7 +8389,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 682,
+  "storyCount": 689,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-01T09:14:12.982385+09:00"
+  "updatedAt": "2026-11-01T21:20:50.374300+09:00"
 }
