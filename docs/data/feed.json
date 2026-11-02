@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T14:51:45.942349+09:00",
-  "windowEnd": "2026-11-02T14:45:35.199146+09:00",
+  "collectedAt": "2026-11-02T06:02:00.305943+00:00",
+  "windowEnd": "2026-11-02T15:02:00.212587+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -1534,104 +1534,6 @@
       "sourceTitlesFetchedAt": "2026-11-01T12:39:49.573985+00:00",
       "collectedAt": "2026-11-01T21:39:49.574001+09:00",
       "firstPublishedAt": "2026-11-01T12:39:49.662252+00:00"
-    },
-    {
-      "id": "aagag-1666322-0",
-      "url": "https://aagag.com/issue/?idx=1666322",
-      "source": "애객",
-      "title": "장사의 신, 은현장. 역대급 충격적인 근황 ㅋㅋ",
-      "publishedAt": "2026-11-01T14:41:19+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3YF6.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "YouTube 게시물을 불러오는 중입니다"
-        },
-        {
-          "type": "text",
-          "text": "YouTube에서 보기"
-        },
-        {
-          "type": "text",
-          "text": "https://youtu.be/a5VLYk8jYX0?si=rDVice_VXV2m8gNV"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3YF6.webp"
-      ],
-      "videos": [],
-      "excerpt": "YouTube 게시물을 불러오는 중입니다\nYouTube에서 보기\nhttps://youtu.be/a5VLYk8jYX0?si=rDVice_VXV2m8gNV",
-      "reportedCommentCount": 11,
-      "commentsPartial": false,
-      "kCount": 30,
-      "commentCount": 11,
-      "laughingComments": 5,
-      "score": 30,
-      "kPerComment": 2.727272727272727,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8925186",
-          "text": "이 스토리로 블랙코미디 드라마 만들어줘 ㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8925188",
-          "text": "최고의 복수는 티배깅이다"
-        },
-        {
-          "id": "8925189",
-          "text": "쎄이 다 뺏기네 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8925192",
-          "text": "zzzz"
-        },
-        {
-          "id": "8925196",
-          "text": "쎄이야 가로로 갈지 세로로 갈지만 정하면 되겠다 이제"
-        },
-        {
-          "id": "8925209",
-          "text": "가세연 직원이 찍어줌ㅋㅋㅋㅋㅋㅋ 돈주는 사람이 사장이지!!! ㅋㅋㅋ"
-        },
-        {
-          "id": "8925213",
-          "text": "이제 저기서 선한일, 사회적인 약자를 대변한다던가 불의에 맞서 싸운다는 이미지를 심어주면 그런 뉴스 나올때마다 김세의 소환되서 얘는 이랬는데 이렇게 바뀌었다고 영원히 조리돌림 가능"
-        },
-        {
-          "id": "8925221",
-          "text": "은현장 건드린 시기 때 이미 강용석은 빠졌었나? 그 사람도 한번.."
-        },
-        {
-          "id": "8925234",
-          "text": "돈주는게 사장이야"
-        },
-        {
-          "id": "8925257",
-          "text": "개웃기넼ㅋㅋㅋㅋ인지부조화온다"
-        },
-        {
-          "id": "8925264",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋ 꿀잼"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-01T15:00:37.232333+09:00",
-      "sourceTitles": [
-        "장사의 신, 은현장. 역대급 충격적인 근황 ㅋㅋ",
-        "감염된 커맨드센터.jpg",
-        "장사의 신, 은현장. 역대급 충격적인 근황 ㅋㅋ",
-        "김세의 담당일진 장사의 신 근황.jpg",
-        "장사의 신, 은현장. 역대급 충격적인 근황 ㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-01T06:00:51.163199+00:00",
-      "collectedAt": "2026-11-01T15:00:51.163217+09:00",
-      "firstPublishedAt": "2026-11-01T06:00:51.261000+00:00"
     },
     {
       "id": "aagag-1603156-0",
@@ -8079,9 +7981,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
