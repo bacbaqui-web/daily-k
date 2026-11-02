@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T08:10:50.425232+00:00",
+  "collectedAt": "2026-11-02T08:11:45.739027+00:00",
   "windowEnd": "2026-11-02T17:10:50.321634+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8633,7 +8633,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8660,6 +8660,76 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666571-0",
+      "url": "https://aagag.com/issue/?idx=1666571",
+      "source": "애객",
+      "title": "호리데이)남동생이 귀여울시 단점",
+      "publishedAt": "2026-11-02T17:10:33+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jsF.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jsG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jsH.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jsI.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "뭐...일상적인 풍경이네"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3jsF.webp",
+        "https://i.aagag.com/o/L3jsG.webp",
+        "https://i.aagag.com/o/L3jsH.webp",
+        "https://i.aagag.com/o/L3jsI.webp"
+      ],
+      "videos": [],
+      "excerpt": "뭐...일상적인 풍경이네",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8930250",
+          "text": "ㅇㅆㅇㅆ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T17:11:32.851565+09:00",
+      "sourceTitles": [
+        "호리데이야스미 모음",
+        "???: 시골에는 오락이랄 게 그것밖에 없어.",
+        "호리데이) 귀여웠던 남동생의 역변.manhwa",
+        "너네 남동생 귀엽다~.manhwa",
+        "남동생 귀여울 때 단점.manhwa",
+        "호리데이)남동생이 귀여울시 단점",
+        "호리데이)남동생 때문에 고생하는 여학생"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-02T08:11:45.673477+00:00",
+      "collectedAt": "2026-11-02T17:11:45.673494+09:00",
+      "firstPublishedAt": "2026-11-02T08:11:45.759612+00:00"
+    },
     {
       "id": "aagag-1541048-0",
       "url": "https://aagag.com/issue/?idx=1541048",
