@@ -1,6 +1,154 @@
 {
-  "editionCount": 92,
+  "editionCount": 93,
   "issues": [
+    {
+      "categories": [
+        "국제·외교",
+        "국제정세"
+      ],
+      "eventCount": 14,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "us-iran-negotiations",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "이란 외무장관이 카타르 중재 협의 진전을 설명했습니다. 최종 합의와 이행은 미확인입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "후속",
+        "storyId": "20261102-am-int-01",
+        "title": "이란 외무장관 “카타르 중재 협의 진전…최종 합의는 아직”"
+      },
+      "path": "us-iran-negotiations.json",
+      "title": "미국·이란 협상과 외교적 조치"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "nonsan-webtoon-training-completion-exhibition-2026",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "심화·전문과정 수료식과 작품전시회 개최가 보도됐습니다. 상업적 진출 성과는 미확인입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "결과",
+        "storyId": "20261102-am-web-01",
+        "title": "논산 웹툰창작소, 심화·전문과정 수료식과 작품전시회 개최"
+      },
+      "path": "nonsan-webtoon-training-completion-exhibition-2026.json",
+      "title": "논산 웹툰창작소 심화·전문교육과 수료 작품전시"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "military-death-compensation-late-notification-judgment-2026",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "군의 보상금 지급 거부를 권리남용으로 본 취소 판결이 보도됐습니다. 선고일과 최종 확정은 미확인입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "결과",
+        "storyId": "20261102-am-soc-01",
+        "title": "순직 결정 장기 미통지 뒤 보상금 거부…법원 “권리남용”"
+      },
+      "path": "military-death-compensation-late-notification-judgment-2026.json",
+      "title": "군 순직 결정 미통지와 사망보상금 소멸시효 판단"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "krx-low-pbr-disclosure-tags-2026",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "151곳에 대한 공시 표식 도입이 보도됐습니다. 주가·기업가치 개선 효과는 미확인입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "시행",
+        "storyId": "20261102-am-eco-01",
+        "title": "거래소, 저PBR 상장사 151곳에 공시 표식 도입"
+      },
+      "path": "krx-low-pbr-disclosure-tags-2026.json",
+      "title": "한국거래소 저PBR 기업 공시 표식 도입"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "korea-western-yellow-dust-cold-outlook-2026-11-02",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "2일 서쪽 황사 영향과 3일 기온 하락이 예보됐습니다. 기간은 예보 대상이며 실제 관측 결과는 미확인입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "예정",
+        "storyId": "20261102-am-safe-01",
+        "title": "오늘 서쪽 지역 황사 영향 예보…내일 서울 아침 3도 전망"
+      },
+      "path": "korea-western-yellow-dust-cold-outlook-2026-11-02.json",
+      "title": "2026년 11월 2일 서쪽 황사와 후속 추위 예보"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "korea-2027-budget-deliberations",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "예산안 시정연설이 예정됐으며 미래대응기금과 초과 세수 활용이 쟁점으로 보도됐습니다. 의결 결과는 미확정입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "예정",
+        "storyId": "20261102-am-pol-01",
+        "title": "대통령, 오늘 예산안 시정연설 예정…821조원 예산 심사 쟁점"
+      },
+      "path": "korea-2027-budget-deliberations.json",
+      "title": "한국 2027년도 예산안과 국회 심사"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "apple-china-ai-alibaba-qwen-plan-2026",
+      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "중국용 AI의 큐원 연동과 베타·정식 제공 계획이 보도됐습니다. 현지 발표 시간대와 실제 서비스 개시는 미확인입니다.",
+        "editionId": "2026-11-02-am",
+        "stage": "발표",
+        "storyId": "20261102-am-tech-01",
+        "title": "애플, 중국용 AI에 알리바바 큐원 연동 계획 발표"
+      },
+      "path": "apple-china-ai-alibaba-qwen-plan-2026.json",
+      "title": "애플 중국용 AI와 알리바바 큐원 연동 계획"
+    },
     {
       "categories": [
         "국제·안보",
@@ -1070,28 +1218,6 @@
       },
       "path": "webtoon-ip-games.json",
       "title": "웹툰·웹소설 IP 게임화"
-    },
-    {
-      "categories": [
-        "국제·외교",
-        "국제정세"
-      ],
-      "eventCount": 13,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "us-iran-negotiations",
-      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
-      "lastCoveredDate": "2026-10-29",
-      "latest": {
-        "archive": false,
-        "change": "미 부통령의 서한과 관리 간 논의가 소식통 인용으로 보도됐습니다. 협상 재개·합의는 미확인입니다.",
-        "editionId": "2026-10-29-am",
-        "stage": "후속",
-        "storyId": "20261029-am-int-01",
-        "title": "미 부통령, 이란 안보 수장에 종전협상 재개 촉구 서한 보냈다는 보도"
-      },
-      "path": "us-iran-negotiations.json",
-      "title": "미국·이란 협상과 외교적 조치"
     },
     {
       "categories": [
@@ -8389,7 +8515,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 689,
+  "storyCount": 696,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-01T21:20:50.374300+09:00"
+  "updatedAt": "2026-11-02T09:19:38.083852+09:00"
 }
