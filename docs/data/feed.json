@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T07:20:46.156519+00:00",
+  "collectedAt": "2026-11-02T07:22:39.803130+00:00",
   "windowEnd": "2026-11-02T16:20:46.064698+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5391,6 +5391,103 @@
       "firstPublishedAt": "2026-11-01T12:03:15.210181+00:00"
     },
     {
+      "id": "aagag-1666558-0",
+      "url": "https://aagag.com/issue/?idx=1666558",
+      "source": "애객",
+      "title": "일본인이 깨달은 소주의 진가.jpg",
+      "publishedAt": "2026-11-02T16:08:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jbI.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jbK.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jbR.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jbS.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jbT.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3jbI.webp",
+        "https://i.aagag.com/o/L3jbK.webp",
+        "https://i.aagag.com/o/L3jbR.webp",
+        "https://i.aagag.com/o/L3jbS.webp",
+        "https://i.aagag.com/o/L3jbT.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 8,
+      "laughingComments": 2,
+      "score": 15,
+      "kPerComment": 1.875,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8929915",
+          "text": "우린 이걸 소주발사대라고 불러요"
+        },
+        {
+          "id": "8929918",
+          "text": "저는 국밥에 쇠주 좋아함ㅋㅋ.. 순대국밥~"
+        },
+        {
+          "id": "8929920",
+          "text": "??? : 한국술 차원이 달라"
+        },
+        {
+          "id": "8929935",
+          "text": ""
+        },
+        {
+          "id": "8929962",
+          "text": "자본주의의 맛"
+        },
+        {
+          "id": "8929932",
+          "text": "누가 그러더라, 소주는 별다른 맛이 없으니, 안주의 풍미를 살려준다고. ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그냥 맛없다고는 안한단말이지."
+        },
+        {
+          "id": "8929985",
+          "text": "소주는 원래 안주가 8할인데 일본분이 한 방에 정답을 찾으셨네요"
+        },
+        {
+          "id": "8929993",
+          "text": "나의 반주는 오천원을 넘지 않아~!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T16:22:31.043881+09:00",
+      "sourceTitles": [
+        "일본인이 깨달은 소주의 진가.jpg",
+        "일본인이 깨달은 소주.jpg",
+        "일본인이 깨달은 소주.jpg",
+        "일본인이 깨달은 소주의 진가.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-02T07:22:39.736271+00:00",
+      "collectedAt": "2026-11-02T16:22:39.736287+09:00",
+      "firstPublishedAt": "2026-11-02T07:22:39.822203+00:00"
+    },
+    {
       "id": "aagag-1004421-0",
       "url": "https://aagag.com/issue/?idx=1004421",
       "source": "애객",
@@ -8084,7 +8181,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
