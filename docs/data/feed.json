@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T11:36:54.200857+00:00",
+  "collectedAt": "2026-11-02T11:39:25.934765+00:00",
   "windowEnd": "2026-11-02T20:36:54.099206+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8881,6 +8881,63 @@
       "firstPublishedAt": "2026-11-01T15:26:39.404847+00:00"
     },
     {
+      "id": "aagag-1666624-0",
+      "url": "https://aagag.com/issue/?idx=1666624",
+      "source": "애객",
+      "title": "박성광 아내분",
+      "publishedAt": "2026-11-02T20:27:15+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3ja8.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "여전히 이쁘심"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3ja8.webp"
+      ],
+      "videos": [],
+      "excerpt": "여전히 이쁘심",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 3,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.6666666666666666,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8930989",
+          "text": "저는 와이프가 있으면 집에서 숨만 쉬어도 행복하겠다.ㅠ"
+        },
+        {
+          "id": "8930991",
+          "text": "남의 마무라 사진은 왜??"
+        },
+        {
+          "id": "8931001",
+          "text": "여자어 언어네 ㅋㅋ 3달 쉰 운동 = 나 운동안했어도 이정도야~"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T20:39:11.572543+09:00",
+      "sourceTitles": [
+        "박성광 아내분",
+        "박성광 아내 이솔이 인스타스토리.jpg",
+        "박성광 아내분",
+        "ㅇㅎ?) 박성광 아내 이솔이 인스타스토리.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-02T11:39:25.865513+00:00",
+      "collectedAt": "2026-11-02T20:39:25.865530+09:00",
+      "firstPublishedAt": "2026-11-02T11:39:25.960661+00:00"
+    },
+    {
       "id": "aagag-1666551-0",
       "url": "https://aagag.com/issue/?idx=1666551",
       "source": "애객",
@@ -9226,7 +9283,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
