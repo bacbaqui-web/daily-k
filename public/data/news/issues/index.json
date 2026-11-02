@@ -1,6 +1,154 @@
 {
-  "editionCount": 93,
+  "editionCount": 94,
   "issues": [
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "student-crisis-screening-counselor-shortage-2026",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "사망 학생의 검사 결과 집계와 상담교사 부족이 보도됐습니다. 개별 인과관계와 개선 성과는 미확인입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "보도",
+        "storyId": "20261102-pm-safe-01",
+        "title": "학생 위기검사 ‘정상’ 판정의 한계 보도…전문 상담교사 배치 부족"
+      },
+      "path": "student-crisis-screening-counselor-shortage-2026.json",
+      "title": "학생 위기검사의 한계와 전문 상담교사 배치 부족"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 6,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "독일 대통령이 중국 측의 3자회담 준비 부인과 유럽 참여 입장을 전했습니다. 실제 회담·합의는 미확인입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "후속",
+        "storyId": "20261102-pm-int-01",
+        "title": "독일 대통령 “시진핑, 우크라이나 관련 미중러 3자회담 준비 없다고 해”"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "national-supercomputer-hangang-2026",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "가동식과 시범 서비스 현황이 공개됐습니다. 12월14일 공식 서비스와 성능순위는 향후 확인 사항입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "발표",
+        "storyId": "20261102-pm-tech-01",
+        "title": "슈퍼컴퓨터 6호기 ‘한강’ 가동식…12월 14일 공식 서비스 예정"
+      },
+      "path": "national-supercomputer-hangang-2026.json",
+      "title": "국가 슈퍼컴퓨터 6호기 한강 구축과 서비스"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "lezhin-snack-november-webtoon-drama-lineup-2026",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "웹툰 원작을 포함한 신작 4편 라인업이 발표됐습니다. 실제 공개와 사업 성과는 미확인입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "발표",
+        "storyId": "20261102-pm-web-01",
+        "title": "레진스낵, ‘메디컬 환생’·‘방과 후에’ 포함 11월 신작 라인업 발표"
+      },
+      "path": "lezhin-snack-november-webtoon-drama-lineup-2026.json",
+      "title": "레진스낵 2026년 11월 웹툰 원작 숏드라마 라인업"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "korea-securities-t1-settlement-roadmap-2026",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "T+1 결제 전환 로드맵 초안이 발표됐습니다. 최종 전환 시기와 실제 시행은 미확정입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "발표",
+        "storyId": "20261102-pm-eco-01",
+        "title": "주식 결제 T+1 단축 로드맵 초안 발표…최종 전환 시기는 미확정"
+      },
+      "path": "korea-securities-t1-settlement-roadmap-2026.json",
+      "title": "한국 증권시장 T+1 결제주기 단축 로드맵"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "election-commission-activity-allowance-investigation-2026",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "활동수당 지급 의혹으로 중앙선관위 등 압수수색이 진행됐습니다. 위법성과 형사책임은 미확정입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "보도",
+        "storyId": "20261102-pm-soc-01",
+        "title": "선관위특검, 활동비 부당 지급 의혹으로 중앙선관위 등 압수수색"
+      },
+      "path": "election-commission-activity-allowance-investigation-2026.json",
+      "title": "중앙선관위 활동수당 지급과 예산 집행 의혹 수사"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "firstCoveredDate": "2026-11-02",
+      "id": "defense-drone-headquarters-establishment-2026",
+      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
+      "lastCoveredDate": "2026-11-02",
+      "latest": {
+        "archive": false,
+        "change": "1일 공식 창설에 이어 2일 창설식이 열렸습니다. 전력·조달 개선 성과는 미확인입니다.",
+        "editionId": "2026-11-02-pm",
+        "stage": "시행",
+        "storyId": "20261102-pm-pol-01",
+        "title": "국방부 직할 국방드론본부 출범…전군 드론 발전·실증·민군협력 담당"
+      },
+      "path": "defense-drone-headquarters-establishment-2026.json",
+      "title": "국방드론본부 창설과 전군 드론 기능 재편"
+    },
     {
       "categories": [
         "국제·외교",
@@ -1346,28 +1494,6 @@
       },
       "path": "siren-webtoon-musical-adaptation-2026.json",
       "title": "세이렌 웹소설·웹툰의 뮤지컬 사업화와 연계 프로모션"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 5,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-10-28T21:46:37.713370+09:00",
-      "lastCoveredDate": "2026-10-28",
-      "latest": {
-        "archive": false,
-        "change": "유럽 정상들의 푸틴 직접 통화가 확인됐습니다. EU 대표단 파견과 휴전 합의는 미확정입니다.",
-        "editionId": "2026-10-28-pm",
-        "stage": "후속",
-        "storyId": "20261028-pm-int-01",
-        "title": "핀란드·노르웨이 정상, 푸틴과 직접 통화…EU도 종전 협상 참여 준비"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
     },
     {
       "categories": [
@@ -8515,7 +8641,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 696,
+  "storyCount": 703,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-02T09:19:38.083852+09:00"
+  "updatedAt": "2026-11-02T21:21:24.431636+09:00"
 }
