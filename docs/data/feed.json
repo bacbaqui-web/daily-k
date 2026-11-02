@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T12:49:01.917721+00:00",
+  "collectedAt": "2026-11-02T21:57:08.431913+09:00",
   "windowEnd": "2026-11-02T21:49:01.816865+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8236,79 +8236,6 @@
       "firstPublishedAt": "2026-11-02T01:22:30.505446+00:00"
     },
     {
-      "id": "aagag-1666413-0",
-      "url": "https://aagag.com/issue/?idx=1666413",
-      "source": "애객",
-      "title": "한국식 프리허그 근황",
-      "publishedAt": "2026-11-01T21:51:45+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3blQ.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3blQ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 7,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8926916",
-          "text": "어머 숭해라 (허그)"
-        },
-        {
-          "id": "8926918",
-          "text": "거기를 따뜻하게 해야"
-        },
-        {
-          "id": "8926920",
-          "text": "내가 안기면 신고할거면서....."
-        },
-        {
-          "id": "8926924",
-          "text": "난 얼빠라서"
-        },
-        {
-          "id": "8926927",
-          "text": "꼭 저렇게 해야하나.."
-        },
-        {
-          "id": "8926928",
-          "text": "안는 척만 하네"
-        },
-        {
-          "id": "8926939",
-          "text": "추울텐데.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-01T21:56:56.315136+09:00",
-      "sourceTitles": [
-        "약후) 홍대 비키니 프리허그 녀",
-        "한국식 프리허그 근황",
-        "한국식 프리허그 근황",
-        "ㅇㅎ 이런건 나 일할때만 하지!"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-01T12:57:06.499353+00:00",
-      "collectedAt": "2026-11-01T21:57:06.499370+09:00",
-      "firstPublishedAt": "2026-11-01T12:57:06.604717+00:00"
-    },
-    {
       "id": "aagag-1666425-0",
       "url": "https://aagag.com/issue/?idx=1666425",
       "source": "애객",
@@ -8823,9 +8750,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 327,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
