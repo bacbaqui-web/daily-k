@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T12:10:36.114971+00:00",
+  "collectedAt": "2026-11-02T12:11:43.677837+00:00",
   "windowEnd": "2026-11-02T21:10:36.017350+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8968,7 +8968,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8995,6 +8995,93 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666634-0",
+      "url": "https://aagag.com/issue/?idx=1666634",
+      "source": "애객",
+      "title": "일본 애니에서 나온 한국 신라면",
+      "publishedAt": "2026-11-02T21:10:05+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Jfmk3.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JpCiO.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JmBr6.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JmBr8.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JmBr9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3SJa.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3SJc.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/Jfmk3.webp",
+        "https://i.aagag.com/o/JpCiO.webp",
+        "https://i.aagag.com/o/JmBr6.webp",
+        "https://i.aagag.com/o/JmBr8.webp",
+        "https://i.aagag.com/o/JmBr9.webp",
+        "https://i.aagag.com/o/L3SJa.webp",
+        "https://i.aagag.com/o/L3SJc.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-02T21:11:32.681866+09:00",
+      "sourceTitles": [
+        "일본 애니에 등장한 한국 신라면",
+        "일본 애니에 등장한 한국 신라면",
+        "일본 애니에 등장한 한국 신라면",
+        "일본 애니에 등장한 한국 신라면",
+        "일본 애니에서 나온 한국 신라면",
+        "일본 애니에서 나온 한국 신라면",
+        "일본만화속 한류문화에 대한 인식변화.manga",
+        "만화속 한류 문화에 대한 인식 변화.manga",
+        "일본 애니에서 나온 한국 신라면",
+        "일본애니에 나온 뽀글이",
+        "일본 애니에서 나온 한국 신라면",
+        "일본 애니에 뽀글이",
+        "일본 만화에 나온 신라면",
+        "뽀글이해먹는 일본만화",
+        "ㅆㄸ)_일본 애니메이션에서 라면 먹는방법"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 15,
+      "sourceTitlesFetchedAt": "2026-11-02T12:11:43.616597+00:00",
+      "collectedAt": "2026-11-02T21:11:43.616614+09:00",
+      "firstPublishedAt": "2026-11-02T12:11:43.698739+00:00"
+    },
     {
       "id": "aagag-1666608-0",
       "url": "https://aagag.com/issue/?idx=1666608",
