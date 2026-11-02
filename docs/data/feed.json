@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T01:21:30.234580+00:00",
+  "collectedAt": "2026-11-02T01:22:30.484942+00:00",
   "windowEnd": "2026-11-02T10:21:30.141551+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6778,6 +6778,97 @@
       "firstPublishedAt": "2026-11-01T23:10:37.057177+00:00"
     },
     {
+      "id": "aagag-1666491-0",
+      "url": "https://aagag.com/issue/?idx=1666491",
+      "source": "애객",
+      "title": "대만에서 대박난 한식당",
+      "publishedAt": "2026-11-02T10:18:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3dbI.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3dba.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3dbr.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3dc0.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3dbI.webp",
+        "https://i.aagag.com/o/L3dba.webp",
+        "https://i.aagag.com/o/L3dbr.webp",
+        "https://i.aagag.com/o/L3dc0.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 8,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8928237",
+          "text": "한국에 없는 한식당..."
+        },
+        {
+          "id": "8928241",
+          "text": "뭐야 왜 손님도 쩌는거야"
+        },
+        {
+          "id": "8928242",
+          "text": "왜 우린 후진국인것인가.."
+        },
+        {
+          "id": "8928244",
+          "text": "여자들은 왜 중국느낌이..."
+        },
+        {
+          "id": "8928245",
+          "text": "한국에도 저런차림을 한 직원이 있는 바가 종종 있었습니다. 당연히도 얼마 못가서 다 닫았습니다만..."
+        },
+        {
+          "id": "8928247",
+          "text": "후터스.."
+        },
+        {
+          "id": "8928255",
+          "text": "그거랑은 달라요"
+        },
+        {
+          "id": "8928256",
+          "text": "후다스.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T10:22:20.250767+09:00",
+      "sourceTitles": [
+        "성진국 대만에서 히트친 식당의 서비스(ㅎㅂ)",
+        "대만에서 대박난 한식당",
+        "ㅇㅎ] 대만에서 대박난 한식당",
+        "ㅇㅎ] 대만에서 대박난 한식당"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-02T01:22:30.417164+00:00",
+      "collectedAt": "2026-11-02T10:22:30.417181+09:00",
+      "firstPublishedAt": "2026-11-02T01:22:30.505446+00:00"
+    },
+    {
       "id": "aagag-1666413-0",
       "url": "https://aagag.com/issue/?idx=1666413",
       "source": "애객",
@@ -7409,7 +7500,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
