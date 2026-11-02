@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T14:19:12.377192+09:00",
-  "windowEnd": "2026-11-02T14:13:50.311240+09:00",
+  "collectedAt": "2026-11-02T05:29:30.332981+00:00",
+  "windowEnd": "2026-11-02T14:29:30.240710+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -802,83 +802,6 @@
       "sourceTitlesFetchedAt": "2026-11-01T11:47:47.320163+00:00",
       "collectedAt": "2026-11-01T20:47:47.320183+09:00",
       "firstPublishedAt": "2026-11-01T11:47:47.399910+00:00"
-    },
-    {
-      "id": "aagag-1666315-0",
-      "url": "https://aagag.com/issue/?idx=1666315",
-      "source": "애객",
-      "title": "조카가 내 흑백만화책이 색칠북인 줄 알았어 지금 내가 존나 화났어",
-      "publishedAt": "2026-11-01T14:02:18+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3UVu.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3UVv.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "X 게시물을 불러오는 중입니다"
-        },
-        {
-          "type": "text",
-          "text": "X에서 보기"
-        },
-        {
-          "type": "text",
-          "text": "https://x.com/supern0va_08/status/2116510970650493269"
-        },
-        {
-          "type": "text",
-          "text": "야무지게 없던 리본이랑 모자도 그려줌"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3UVu.webp",
-        "https://i.aagag.com/o/L3UVv.webp"
-      ],
-      "videos": [],
-      "excerpt": "X 게시물을 불러오는 중입니다\nX에서 보기\nhttps://x.com/supern0va_08/status/2116510970650493269\n야무지게 없던 리본이랑 모자도 그려줌",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 36,
-      "commentCount": 3,
-      "laughingComments": 1,
-      "score": 36,
-      "kPerComment": 12.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8925012",
-          "text": "일부만 색칠해줘서 화가 났나?"
-        },
-        {
-          "id": "8925013",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8925087",
-          "text": "어.. 보투로.. 6미랑... 혹시???"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-01T14:24:38.415164+09:00",
-      "sourceTitles": [
-        "조카가 내 흑백만화책이 색칠북인 줄 알았어 지금 내가 존나 화났어",
-        "내 조카가 내 만화책이 색칠놀이책인줄 알았나봐",
-        "조카가 흑백 만화를 색칠북인 줄 알고 그만...",
-        "흑백만화책이 색칠놀이 책인줄 알았던 조카",
-        "조카가 만화책에 낙서함",
-        "내 조카가 이걸 색칠북인 줄 알았어"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-01T05:24:51.868396+00:00",
-      "collectedAt": "2026-11-01T14:24:51.868415+09:00",
-      "firstPublishedAt": "2026-11-01T05:24:51.968359+00:00"
     },
     {
       "id": "aagag-821391-0",
@@ -8046,9 +7969,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
