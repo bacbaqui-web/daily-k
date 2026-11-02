@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T07:36:16.207628+00:00",
+  "collectedAt": "2026-11-02T07:38:14.756473+00:00",
   "windowEnd": "2026-11-02T16:36:16.116312+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8181,7 +8181,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8208,6 +8208,83 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666563-0",
+      "url": "https://aagag.com/issue/?idx=1666563",
+      "source": "애객",
+      "title": "시골에 오락거리라고는 색스밖에 없으니까.manhwa",
+      "publishedAt": "2026-11-02T16:25:29+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jrb.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jrp.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jrw.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3jrx.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3jrb.webp",
+        "https://i.aagag.com/o/L3jrp.webp",
+        "https://i.aagag.com/o/L3jrw.webp",
+        "https://i.aagag.com/o/L3jrx.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8930018",
+          "text": "주말에 시골갔는데 없더라"
+        },
+        {
+          "id": "8930030",
+          "text": "현실"
+        },
+        {
+          "id": "8930042",
+          "text": "ㅇㄱㄹㅇ"
+        },
+        {
+          "id": "8930045",
+          "text": "여기서 혁명이 시작되는곳임?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T16:38:09.220610+09:00",
+      "sourceTitles": [
+        "호리데이야스미 모음",
+        "???: 시골에는 오락이랄 게 그것밖에 없어.",
+        "호리데이) 불현듯, 취미는 직업이 되어있겠지.manhwa",
+        "시골에서는 오락거리가 없으니까.manhwa",
+        "취미가 직업이 되는 순간.manhwa",
+        "시골에 오락거리라고는 색스밖에 없으니까.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-02T07:38:14.692964+00:00",
+      "collectedAt": "2026-11-02T16:38:14.692980+09:00",
+      "firstPublishedAt": "2026-11-02T07:38:14.776810+00:00"
+    },
     {
       "id": "aagag-1636450-1",
       "url": "https://aagag.com/issue/?idx=1636450_1",
