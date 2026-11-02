@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T01:55:20.370945+00:00",
+  "collectedAt": "2026-11-02T01:57:36.336589+00:00",
   "windowEnd": "2026-11-02T10:55:20.272292+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -222,6 +222,103 @@
       "sourceTitlesFetchedAt": "2026-11-01T02:33:46.756291+00:00",
       "collectedAt": "2026-11-01T11:33:46.756324+09:00",
       "firstPublishedAt": "2026-11-01T02:33:46.839016+00:00"
+    },
+    {
+      "id": "aagag-1666496-0",
+      "url": "https://aagag.com/issue/?idx=1666496",
+      "source": "애객",
+      "title": "중국에서 중국 무술을 활용하는 방법",
+      "publishedAt": "2026-11-02T10:42:04+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3gDx.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3gDx.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 13,
+      "commentsPartial": false,
+      "kCount": 60,
+      "commentCount": 13,
+      "laughingComments": 11,
+      "score": 60,
+      "kPerComment": 4.615384615384615,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8928357",
+          "text": "아 ㅋㅋ 짜고쳐도 웃기네 ㅋㅋ"
+        },
+        {
+          "id": "8928359",
+          "text": "ㅋㅋㅋㅋㅋ 재밌네요"
+        },
+        {
+          "id": "8928362",
+          "text": "ㅋㅋㅋㅋㅋ 그래 억지 주작 웃음영상 만들지 말고 이런거 해. 즐겁잖아 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8928363",
+          "text": "오 배워서 써먹기 좋네요 ㅋㅋ"
+        },
+        {
+          "id": "8928366",
+          "text": "저거 무술 아니고 무용이라고 하네요"
+        },
+        {
+          "id": "8928374",
+          "text": "룽뚱쾅..."
+        },
+        {
+          "id": "8928381",
+          "text": "중궈 영상보고 웃게 되다니 ㅅㅂ 마지막 샨센부에서 터지네 ㅋㅋ"
+        },
+        {
+          "id": "8928392",
+          "text": "ㄹㅇ 마지막 샨센부가 킬포ㅋㅋㅋ"
+        },
+        {
+          "id": "8928383",
+          "text": "이건 쫌 웃겼다 ㅋㅋㅋ"
+        },
+        {
+          "id": "8928388",
+          "text": "웃기다 ㅋㅋ 그래 이런거 해 재미있잖아"
+        },
+        {
+          "id": "8928391",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋ 겁나잘해 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8928400",
+          "text": "수미상관의 구성이 지리네ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8928414",
+          "text": "한국 릴스에 저거 자주 올라오던데 이게 원본이구나 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 역시 원작을 다들 못 따라가네."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T10:57:25.915953+09:00",
+      "sourceTitles": [
+        "중국 무술을 활용하는 방법",
+        "중국에서 중국 무술을 활용하는 방법",
+        "중국에서 중국 무술을 활용하는 방법",
+        "중국 무술 쓰는 중국인"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-02T01:57:36.257136+00:00",
+      "collectedAt": "2026-11-02T10:57:36.257152+09:00",
+      "firstPublishedAt": "2026-11-02T01:57:36.357154+00:00"
     },
     {
       "id": "aagag-1459714-0",
@@ -7700,7 +7797,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
