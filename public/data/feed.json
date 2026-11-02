@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T09:06:04.037245+09:00",
-  "windowEnd": "2026-11-02T08:57:55.954728+09:00",
+  "collectedAt": "2026-11-02T00:16:20.561467+00:00",
+  "windowEnd": "2026-11-02T09:16:20.451504+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7419,119 +7419,6 @@
       "firstPublishedAt": "2026-11-01T01:43:25.115129+00:00"
     },
     {
-      "id": "aagag-1666253-0",
-      "url": "https://aagag.com/issue/?idx=1666253",
-      "source": "애객",
-      "title": "지지원",
-      "publishedAt": "2026-11-01T08:54:24+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3Sni.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3Snu.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3So6.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3So0.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3SoC.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3T6H.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3SoK.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3Sni.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3Snu.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3So6.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3So0.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3SoC.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3T6H.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3SoK.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8923963",
-          "text": "얼굴만 보면 좀 남자같은?;;"
-        },
-        {
-          "id": "8923965",
-          "text": "몸은 ㄷㄷㄷ 얼굴은 순둥순둥"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-01T09:06:37.091764+09:00",
-      "sourceTitles": [
-        "지지원 묵직한 레드 드레스",
-        "ㅇㅎ) 오늘자 지지원 문경 공연...gif",
-        "ㅇㅎ) 오늘자 지지원 근황",
-        "지지원"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-01T00:06:47.203204+00:00",
-      "collectedAt": "2026-11-01T09:06:47.203221+09:00",
-      "firstPublishedAt": "2026-11-01T00:06:47.317514+00:00"
-    },
-    {
       "id": "aagag-1666468-0",
       "url": "https://aagag.com/issue/?idx=1666468",
       "source": "애객",
@@ -7679,9 +7566,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
