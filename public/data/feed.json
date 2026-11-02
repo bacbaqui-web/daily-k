@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T10:42:27.236817+00:00",
+  "collectedAt": "2026-11-02T10:43:08.599253+00:00",
   "windowEnd": "2026-11-02T19:41:16.117521+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9872,6 +9872,69 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666608-0",
+      "url": "https://aagag.com/issue/?idx=1666608",
+      "source": "애객",
+      "title": "야스로이드를 구매한 .manhwa",
+      "publishedAt": "2026-11-02T19:32:22+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3lw0.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3lwW.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "X 게시물을 불러오는 중입니다"
+        },
+        {
+          "type": "text",
+          "text": "X에서 보기"
+        },
+        {
+          "type": "text",
+          "text": "https://x.com/tomatoketchup96/status/2117197563178938873"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3lw0.webp",
+        "https://i.aagag.com/o/L3lwW.webp"
+      ],
+      "videos": [],
+      "excerpt": "X 게시물을 불러오는 중입니다\nX에서 보기\nhttps://x.com/tomatoketchup96/status/2117197563178938873",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8930780",
+          "text": "다음편!!!!!!! 아니지 내일 실제로 나오지!!! 적금 깨???"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T19:42:54.965445+09:00",
+      "sourceTitles": [
+        "회사 개진상 상사모델로 만든 섹ㅅ로이가 왔다",
+        "야스로이드를 구매한 .manhwa",
+        "야스로이드를 구매한 .manhwa",
+        "야스로이드 산 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-02T10:43:08.535359+00:00",
+      "collectedAt": "2026-11-02T19:43:08.535375+09:00",
+      "firstPublishedAt": "2026-11-02T10:43:08.621410+00:00"
+    },
     {
       "id": "aagag-546304-1",
       "url": "https://aagag.com/issue/?idx=546304_1",
