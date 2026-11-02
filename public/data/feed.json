@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-02T15:12:20.480041+00:00",
+  "collectedAt": "2026-11-02T15:13:56.152149+00:00",
   "windowEnd": "2026-11-03T00:12:20.364026+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9390,7 +9390,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9417,6 +9417,60 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666656-0",
+      "url": "https://aagag.com/issue/?idx=1666656",
+      "source": "애객",
+      "title": "티라노사우르스 복원",
+      "publishedAt": "2026-11-03T00:08:19+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3kF0.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3kFA.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3kFC.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3kF0.webp",
+        "https://i.aagag.com/o/L3kFA.webp",
+        "https://i.aagag.com/o/L3kFC.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-03T00:13:42.431378+09:00",
+      "sourceTitles": [
+        "ㅆㄷ)티라노사우르스 복원",
+        "공룡을 복원하기.manhwa",
+        "티라노 복원하기",
+        "티라노사우르스 복원",
+        "공룡 복원 프로젝트.jpg",
+        "공룡을 복원하기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-02T15:13:56.079068+00:00",
+      "collectedAt": "2026-11-03T00:13:56.079087+09:00",
+      "firstPublishedAt": "2026-11-02T15:13:56.176774+00:00"
+    },
     {
       "id": "aagag-1666634-0",
       "url": "https://aagag.com/issue/?idx=1666634",
