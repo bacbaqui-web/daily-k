@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-02",
-  "collectedAt": "2026-11-02T03:03:20.504621+00:00",
+  "collectedAt": "2026-11-02T03:07:31.893817+00:00",
   "windowEnd": "2026-11-02T12:03:20.394969+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7700,6 +7700,58 @@
       "firstPublishedAt": "2026-11-01T04:31:48.952460+00:00"
     },
     {
+      "id": "aagag-1666511-0",
+      "url": "https://aagag.com/issue/?idx=1666511",
+      "source": "애객",
+      "title": "나띠 퇴근길 시스루",
+      "publishedAt": "2026-11-02T11:51:19+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Koj2v.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Koj2v.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8928798",
+          "text": "오 무대 영상보다가 이거 보니까 감이 좀 다르네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-02T12:07:19.296630+09:00",
+      "sourceTitles": [
+        "나띠 퇴근길 시스루",
+        "(ㅇㅎ?) 나띠 퇴근길 시스루 (키스 오브 라이프)",
+        "ㅇㅎ?) 나띠 퇴근길 시스루...gif",
+        "나띠 퇴근길 패션",
+        "시스루 나띠.gif",
+        "시스루 나띠.gif",
+        "키스오브라이프 나띠"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-02T03:07:31.808327+00:00",
+      "collectedAt": "2026-11-02T12:07:31.808343+09:00",
+      "firstPublishedAt": "2026-11-02T03:07:31.923838+00:00"
+    },
+    {
       "id": "aagag-1666468-0",
       "url": "https://aagag.com/issue/?idx=1666468",
       "source": "애객",
@@ -7847,7 +7899,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
