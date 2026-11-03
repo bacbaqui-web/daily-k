@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T06:25:26.507915+09:00",
-  "windowEnd": "2026-11-04T06:20:46.549856+09:00",
+  "collectedAt": "2026-11-03T21:35:46.622949+00:00",
+  "windowEnd": "2026-11-04T06:35:46.527001+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7323,105 +7323,12 @@
       "sourceTitlesFetchedAt": "2026-11-03T10:56:57.034838+00:00",
       "collectedAt": "2026-11-03T19:56:57.034855+09:00",
       "firstPublishedAt": "2026-11-03T10:56:57.120456+00:00"
-    },
-    {
-      "id": "aagag-1666692-0",
-      "url": "https://aagag.com/issue/?idx=1666692",
-      "source": "애객",
-      "title": "레이스가 보이는 바운스 케플러 김다연",
-      "publishedAt": "2026-11-03T06:20:03+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3KuN.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3Kun.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3KvE.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3KvY.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3Kvq.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3Kw3.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3KuN.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3Kun.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3KvE.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3KvY.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3Kvq.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3Kw3.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-03T06:28:10.031350+09:00",
-      "sourceTitles": [
-        "레이스가 돋보이는 케플러 김다연",
-        "ㅇㅎ?) 케플러 김다연...gif",
-        "레이스가 보이는 바운스 케플러 김다연"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-02T21:28:24.680232+00:00",
-      "collectedAt": "2026-11-03T06:28:24.680248+09:00",
-      "firstPublishedAt": "2026-11-02T21:28:24.800311+00:00"
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
