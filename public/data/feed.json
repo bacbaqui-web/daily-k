@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T21:24:44.396745+09:00",
-  "windowEnd": "2026-11-03T21:20:10.774643+09:00",
+  "collectedAt": "2026-11-03T12:35:00.310581+00:00",
+  "windowEnd": "2026-11-03T21:35:00.214231+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4166,55 +4166,6 @@
       "firstPublishedAt": "2026-11-02T23:22:01.366533+00:00"
     },
     {
-      "id": "aagag-1666639-0",
-      "url": "https://aagag.com/issue/?idx=1666639",
-      "source": "애객",
-      "title": "\"유재석 오빠가 선물 보내는 사람 진짜 한 천명 될걸??\".jpg",
-      "publishedAt": "2026-11-02T21:29:47+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3mF0.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3mF0.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 15,
-      "commentCount": 2,
-      "laughingComments": 2,
-      "score": 15,
-      "kPerComment": 7.5,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8931181",
-          "text": "갑자기 조용..ㅋㅋ"
-        },
-        {
-          "id": "8931182",
-          "text": "존박 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 연락처를 모르는것 아닐까?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-02T21:31:33.799775+09:00",
-      "sourceTitles": [
-        "\"유재석 오빠가 선물 보내는 사람 진짜 한 천명 될걸??\".jpg",
-        "유재석의 마음 씀씀이",
-        "\"유재석 오빠가 선물 보내는 사람 진짜 한 천명 될걸??\".jpg",
-        "\"유재석 오빠가 선물 보내는 사람 진짜 한 천명 될걸??\".jpg"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-02T12:31:46.907656+00:00",
-      "collectedAt": "2026-11-02T21:31:46.907677+09:00",
-      "firstPublishedAt": "2026-11-02T12:31:46.995939+00:00"
-    },
-    {
       "id": "aagag-1205854-0",
       "url": "https://aagag.com/issue/?idx=1205854",
       "source": "애객",
@@ -7398,9 +7349,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
