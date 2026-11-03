@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-03T23:57:35.548340+00:00",
+  "collectedAt": "2026-11-03T23:59:15.297424+00:00",
   "windowEnd": "2026-11-04T08:57:35.449639+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3433,6 +3433,56 @@
       "firstPublishedAt": "2026-11-03T08:28:54.438380+00:00"
     },
     {
+      "id": "aagag-1666929-0",
+      "url": "https://aagag.com/issue/?idx=1666929",
+      "source": "애객",
+      "title": "오늘의 이광수 버블 컨텐츠",
+      "publishedAt": "2026-11-04T08:43:20+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3vae.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3vae.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 18,
+      "kPerComment": 9.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8936537",
+          "text": "쥐새ㅇ ㅋㅋㄱㅋ"
+        },
+        {
+          "id": "8936539",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T08:59:04.817567+09:00",
+      "sourceTitles": [
+        "매일매일 즐거운 이광수 버블",
+        "오늘의 이광수 버블 컨텐츠",
+        "오늘의 이광수 버블 컨텐츠",
+        "오늘의 이광수 버블 컨텐츠",
+        "오늘의 이광수 버블 컨텐츠"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-03T23:59:15.238339+00:00",
+      "collectedAt": "2026-11-04T08:59:15.238356+09:00",
+      "firstPublishedAt": "2026-11-03T23:59:15.317979+00:00"
+    },
+    {
       "id": "aagag-1502399-1",
       "url": "https://aagag.com/issue/?idx=1502399_1",
       "source": "애객",
@@ -6754,7 +6804,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
