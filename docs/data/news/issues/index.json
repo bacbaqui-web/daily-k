@@ -1,6 +1,156 @@
 {
-  "editionCount": 95,
+  "editionCount": 96,
   "issues": [
+    {
+      "categories": [
+        "웹툰 산업",
+        "웹툰산업"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-17",
+      "id": "world-webtoon-awards-2026",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "본상 10편과 작품별 상금이 발표됐습니다. 대상 등 최종 발표와 실제 지급은 향후 확인 사항입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "발표",
+        "storyId": "20261103-pm-web-01",
+        "title": "월드 웹툰 어워즈, ‘화산귀환’ 등 본상 10편 선정 발표"
+      },
+      "path": "world-webtoon-awards-2026.json",
+      "title": "2026 월드 웹툰 어워즈"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 8,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "게슘섬 제한적 타격이 보도됐습니다. 양국 정부 공식 입장과 최종 피해는 미확인입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "후속",
+        "storyId": "20261103-pm-int-01",
+        "title": "미군, 이란 게슘섬 제한적 타격 보도…양국 정부 공식 입장은 없어"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "firstCoveredDate": "2026-11-03",
+      "id": "national-cybersecurity-coordination-body-review-2026",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "총괄·조정 기구 구성 검토가 지시됐습니다. 설치와 구체적 권한은 미확정입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "검토",
+        "storyId": "20261103-pm-pol-01",
+        "title": "대통령, 공공·민간 사이버보안 총괄 기구 구성 검토 지시"
+      },
+      "path": "national-cybersecurity-coordination-body-review-2026.json",
+      "title": "공공·민간 사이버보안 총괄 기구 구성 검토"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "firstCoveredDate": "2026-11-03",
+      "id": "korea-fog-fine-dust-outlook-2026-11-04",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "3일 늦은 오후부터 4일 오전까지 내륙 안개와 4일 수도권 미세먼지가 예보됐습니다. 실제 관측은 미확인입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "예정",
+        "storyId": "20261103-pm-safe-01",
+        "title": "4일 출근길 내륙 짙은 안개 예보…수도권 오전 미세먼지도 주의"
+      },
+      "path": "korea-fog-fine-dust-outlook-2026-11-04.json",
+      "title": "2026년 11월 4일 출근길 안개와 미세먼지 예보"
+    },
+    {
+      "categories": [
+        "경제",
+        "경제·생활경제"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-10-02",
+      "id": "korea-consumer-prices",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "10월 물가 2.8%와 한은의 11월 2%대 후반 전망이 보도됐습니다. 전망 실현은 미확정입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "후속",
+        "storyId": "20261103-pm-eco-01",
+        "title": "10월 소비자물가 2.8%…한은 “11월에도 2%대 후반 전망”"
+      },
+      "path": "korea-consumer-prices.json",
+      "title": "한국 소비자물가와 생활비 부담"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "firstCoveredDate": "2026-11-03",
+      "id": "humanoid-data-factory-opening-2026",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "로봇 12대로 데이터 생산시설이 개소했습니다. 확장과 산학연 공동 개방은 계획입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "시행",
+        "storyId": "20261103-pm-tech-01",
+        "title": "국내 첫 휴머노이드 데이터 팩토리 개소…로봇 12대로 출발"
+      },
+      "path": "humanoid-data-factory-opening-2026.json",
+      "title": "국내 휴머노이드 데이터 팩토리 개소와 공동 활용"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "firstCoveredDate": "2026-11-03",
+      "id": "han-hak-ja-bail-revocation-2026",
+      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
+      "lastCoveredDate": "2026-11-03",
+      "latest": {
+        "archive": false,
+        "change": "법원이 보석을 취소했습니다. 구치소 복귀 완료는 기준시각 미확인입니다.",
+        "editionId": "2026-11-03-pm",
+        "stage": "결과",
+        "storyId": "20261103-pm-soc-01",
+        "title": "한학자 보석 취소…법원, 조건 위반·증거인멸 염려 판단"
+      },
+      "path": "han-hak-ja-bail-revocation-2026.json",
+      "title": "한학자 보석 조건 위반 심사와 보석 취소"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -444,28 +594,6 @@
       },
       "path": "apple-china-ai-alibaba-qwen-plan-2026.json",
       "title": "애플 중국용 AI와 알리바바 큐원 연동 계획"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 7,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
-      "lastCoveredDate": "2026-11-01",
-      "latest": {
-        "archive": false,
-        "change": "이란군이 미국 추가 공격 시 역외 미국 자산도 타격할 수 있다고 경고했습니다. 실제 실행은 미확인입니다.",
-        "editionId": "2026-11-01-pm",
-        "stage": "후속",
-        "storyId": "20261101-pm-int-01",
-        "title": "이란군, 미국 추가 공격 시 서아시아 밖 미국 자산도 타격 경고"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -6521,27 +6649,6 @@
     },
     {
       "categories": [
-        "경제"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-10-02",
-      "id": "korea-consumer-prices",
-      "lastCoveredAt": "2026-10-02T11:05:30+09:00",
-      "lastCoveredDate": "2026-10-02",
-      "latest": {
-        "archive": false,
-        "change": "9월 소비자물가 상승률은 2.9%로 낮아졌지만 석유류는 14.8% 상승해 생활비 부담이 이어졌습니다.",
-        "editionId": "2026-10-02-am",
-        "stage": "발표",
-        "storyId": "korea-cpi-2026-09",
-        "title": "9월 물가 2.9%…상승폭은 줄었지만 기름값 부담은 계속"
-      },
-      "path": "korea-consumer-prices.json",
-      "title": "한국 소비자물가와 생활비 부담"
-    },
-    {
-      "categories": [
         "기술·IT·AI"
       ],
       "eventCount": 4,
@@ -8222,27 +8329,6 @@
     },
     {
       "categories": [
-        "웹툰 산업"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-17",
-      "id": "world-webtoon-awards-2026",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-17",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 월드 웹툰 어워즈 후보 20편 공개.",
-        "editionId": "2026-09-17-pm-archive",
-        "stage": "보도",
-        "storyId": "archive-08",
-        "title": "월드 웹툰 어워즈 후보 20편 공개"
-      },
-      "path": "world-webtoon-awards-2026.json",
-      "title": "2026 월드 웹툰 어워즈"
-    },
-    {
-      "categories": [
         "기술·IT·AI"
       ],
       "eventCount": 1,
@@ -8768,7 +8854,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 710,
+  "storyCount": 717,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-03T09:23:44.374237+09:00"
+  "updatedAt": "2026-11-03T21:13:45.025786+09:00"
 }
