@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T02:02:36.471165+00:00",
+  "collectedAt": "2026-11-03T02:04:15.012291+00:00",
   "windowEnd": "2026-11-03T11:02:36.376710+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7273,7 +7273,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7300,6 +7300,46 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666734-0",
+      "url": "https://aagag.com/issue/?idx=1666734",
+      "source": "애객",
+      "title": "19) 의외로 ㅅㅅ리스를 해소할 수 있는 방법.manhwa",
+      "publishedAt": "2026-11-03T11:02:34+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3fUY.jpg",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3fUY.jpg"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-03T11:04:01.200670+09:00",
+      "sourceTitles": [
+        "섹스리스를 해결하는 방법.jpg",
+        "19) 의외로 ㅅㅅ리스를 해소할 수 있는 방법.manhwa",
+        "19) 의외로 ㅅㅅ리스를 해소할 수 있는 일.jpg",
+        "19) 의외로 ㅅㅅ리스를 해소할 수 있는 일.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-03T02:04:14.952533+00:00",
+      "collectedAt": "2026-11-03T11:04:14.952551+09:00",
+      "firstPublishedAt": "2026-11-03T02:04:15.033521+00:00"
+    },
     {
       "id": "aagag-1666721-0",
       "url": "https://aagag.com/issue/?idx=1666721",
