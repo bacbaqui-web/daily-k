@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-03T21:04:40.449577+00:00",
+  "collectedAt": "2026-11-03T21:06:10.938495+00:00",
   "windowEnd": "2026-11-04T06:04:40.354362+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7150,6 +7150,57 @@
       "firstPublishedAt": "2026-11-03T02:53:56.052774+00:00"
     },
     {
+      "id": "aagag-1666905-0",
+      "url": "https://aagag.com/issue/?idx=1666905",
+      "source": "애객",
+      "title": "엘리베이터 문 닫힐 때 사람 보이면 열림 눌러주는 편",
+      "publishedAt": "2026-11-04T06:02:42+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L0qmO.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L0qmO.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-04T06:05:57.279538+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 10월의 눈나들 모아보기 1편",
+        "엘리베이터 문 닫힐 때 사람 보이면 열림 눌러주는게 예의임",
+        "엘리베이터 문 닫힐 때 사람 보이면 열림 눌러주는 편",
+        "엘리베이터 민폐녀",
+        "항상 바쁠때 엘베 문 닫히기 직전에 누가 뛰어오더라",
+        "스울 바람 겁나분다",
+        "호텔가운 입고 엘리베이터타는",
+        "ㅇㅎ) 토요일 좋아 !!",
+        "ㅇㅎ 팰터링. 정치인의 말하는 기술",
+        "ㅇㅎ 모텔가운만 입고 엘리베이터 타러온 누나",
+        "(ㅎㅂ) 서안 눈나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 11,
+      "sourceTitlesFetchedAt": "2026-11-03T21:06:10.873124+00:00",
+      "collectedAt": "2026-11-04T06:06:10.873142+09:00",
+      "firstPublishedAt": "2026-11-03T21:06:10.962150+00:00"
+    },
+    {
       "id": "aagag-1666840-0",
       "url": "https://aagag.com/issue/?idx=1666840",
       "source": "애객",
@@ -7368,7 +7419,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
