@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T00:23:36.470455+00:00",
+  "collectedAt": "2026-11-03T00:24:39.972881+00:00",
   "windowEnd": "2026-11-03T09:23:36.373407+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3462,6 +3462,69 @@
       "sourceTitlesFetchedAt": "2026-11-02T05:31:04.898877+00:00",
       "collectedAt": "2026-11-02T14:31:04.898896+09:00",
       "firstPublishedAt": "2026-11-02T05:31:04.997761+00:00"
+    },
+    {
+      "id": "aagag-1666710-0",
+      "url": "https://aagag.com/issue/?idx=1666710",
+      "source": "애객",
+      "title": "\"천마여, 부끄럽지도 않느냐?\".jpg",
+      "publishedAt": "2026-11-03T09:14:37+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KDQOL.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "천마냥이 고맙다냥"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KDQOL.webp"
+      ],
+      "videos": [],
+      "excerpt": "천마냥이 고맙다냥",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 4,
+      "laughingComments": 4,
+      "score": 18,
+      "kPerComment": 4.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8932292",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 뭔 스토리야 이게"
+        },
+        {
+          "id": "8932296",
+          "text": "남궁게이 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8932301",
+          "text": "큰손오빠 ㅋㅋㅋ"
+        },
+        {
+          "id": "8932303",
+          "text": "풍선쏜놈 안쏜놈말고 안본놈은 없어??ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-03T09:24:29.397706+09:00",
+      "sourceTitles": [
+        "\"천마여, 부끄럽지도 않느냐?\".jpg",
+        "\"천마여, 부끄럽지도 않느냐?\".jpg",
+        "\"천마여, 부끄럽지도 않느냐?\".jpg",
+        "\"천마여, 부끄럽지도 않느냐?\"",
+        "\"천마여, 부끄럽지도 않느냐?\"",
+        "아 그러니까 이게 무협이라는거지?"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-03T00:24:39.912017+00:00",
+      "collectedAt": "2026-11-03T09:24:39.912034+09:00",
+      "firstPublishedAt": "2026-11-03T00:24:39.993954+00:00"
     },
     {
       "id": "aagag-1659498-0",
@@ -7891,7 +7954,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
