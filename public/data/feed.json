@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T05:15:26.408025+00:00",
+  "collectedAt": "2026-11-03T05:17:51.730671+00:00",
   "windowEnd": "2026-11-03T14:15:26.310571+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6390,6 +6390,70 @@
       "firstPublishedAt": "2026-11-02T09:55:05.370757+00:00"
     },
     {
+      "id": "aagag-1666766-0",
+      "url": "https://aagag.com/issue/?idx=1666766",
+      "source": "애객",
+      "title": "이세계 대한민국 민원실",
+      "publishedAt": "2026-11-03T14:06:28+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3ay0.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3ay0.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8933478",
+          "text": "신규...신입이라 아직 권한없나보네"
+        },
+        {
+          "id": "8933479",
+          "text": "현실이 팍팍해서 이세계물이 많아지는 걸까?"
+        },
+        {
+          "id": "8933483",
+          "text": "동사무소에서 부활은 실제 가능(서류상) ."
+        },
+        {
+          "id": "8933493",
+          "text": "그럼 뭐 해주는데"
+        },
+        {
+          "id": "8933508",
+          "text": "치트는 안 줘도 되니까 대기번호나 좀 빨리 줄여주세요"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-03T14:17:39.315583+09:00",
+      "sourceTitles": [
+        "이세계 대한민국 민원실",
+        "AI로 만든 K-판타지 월드",
+        "AI로 만든 K판타지.jpg",
+        "이세계 대한민국",
+        "Ai) 이세계 대한민국",
+        "털,ㅇㅎ) 이종족 모음",
+        "털,ㅇㅎ) 이종족 모음"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-03T05:17:51.671875+00:00",
+      "collectedAt": "2026-11-03T14:17:51.671895+09:00",
+      "firstPublishedAt": "2026-11-03T05:17:51.770458+00:00"
+    },
+    {
       "id": "aagag-1618243-0",
       "url": "https://aagag.com/issue/?idx=1618243",
       "source": "애객",
@@ -7046,7 +7110,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
