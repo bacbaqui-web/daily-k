@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T20:01:44.150783+09:00",
-  "windowEnd": "2026-11-03T19:55:56.310316+09:00",
+  "collectedAt": "2026-11-03T11:12:00.434045+00:00",
+  "windowEnd": "2026-11-03T20:12:00.339674+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3716,71 +3716,6 @@
       "firstPublishedAt": "2026-11-02T23:22:01.366533+00:00"
     },
     {
-      "id": "aagag-1666612-0",
-      "url": "https://aagag.com/issue/?idx=1666612",
-      "source": "애객",
-      "title": "한국 거주 외국인들의 딜레마.",
-      "publishedAt": "2026-11-02T19:44:13+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3m6S.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3m6S.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 15,
-      "commentCount": 6,
-      "laughingComments": 1,
-      "score": 15,
-      "kPerComment": 2.5,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8930827",
-          "text": "이는 버스에도 동일하게 적용되지... 버스 안탔을때 : 버스가 교통법규좀 잘 지켰으면 버스 탔을때 : 아저씨 화이팅!"
-        },
-        {
-          "id": "8930876",
-          "text": "버스아저씨 1km 줄서있는 진출입로 좌악 달리다가 입구에서 간지나게 끼어들때의 쾌감이란..."
-        },
-        {
-          "id": "8930828",
-          "text": "쓰읍... 어렵네?"
-        },
-        {
-          "id": "8930856",
-          "text": "내 음식을 배달할때만 총알같이 달렸으면 좋겠는 딜레마"
-        },
-        {
-          "id": "8930881",
-          "text": "쿠팡 플라이!"
-        },
-        {
-          "id": "8930882",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 외국인들도 한국인의 빨리빨리문화를 이해해 가는 과정이네요"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-02T20:06:04.435452+09:00",
-      "sourceTitles": [
-        "한국 거주 외국인들의 딜레마.jpg",
-        "한국 거주 외국인들의 딜레마.jpg",
-        "한국 거주 외국인들의 딜레마.jpg",
-        "한국 거주 외국인들의 딜레마."
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-02T11:06:13.703740+00:00",
-      "collectedAt": "2026-11-02T20:06:13.703756+09:00",
-      "firstPublishedAt": "2026-11-02T11:06:13.798157+00:00"
-    },
-    {
       "id": "aagag-1666639-0",
       "url": "https://aagag.com/issue/?idx=1666639",
       "source": "애객",
@@ -6839,9 +6774,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
