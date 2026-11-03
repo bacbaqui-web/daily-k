@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T08:47:16.112352+09:00",
-  "windowEnd": "2026-11-04T08:40:06.504384+09:00",
+  "collectedAt": "2026-11-03T23:57:35.548340+00:00",
+  "windowEnd": "2026-11-04T08:57:35.449639+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -1132,83 +1132,6 @@
       "sourceTitlesFetchedAt": "2026-11-03T02:07:33.947871+00:00",
       "collectedAt": "2026-11-03T11:07:33.947889+09:00",
       "firstPublishedAt": "2026-11-03T02:07:34.039455+00:00"
-    },
-    {
-      "id": "aagag-1666705-0",
-      "url": "https://aagag.com/issue/?idx=1666705",
-      "source": "애객",
-      "title": "무시무시한 말티즈의 격파 시범 ㄷㄷㄷ.mp4",
-      "publishedAt": "2026-11-03T08:38:03+09:00",
-      "content": [
-        {
-          "type": "text",
-          "text": "[소리]"
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3o2W.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L3o2W.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "[소리]",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 45,
-      "commentCount": 7,
-      "laughingComments": 6,
-      "score": 45,
-      "kPerComment": 6.428571428571429,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8932201",
-          "text": "ㅋㅋㅋㅋㅋㅋ 세레모니 개잘하네"
-        },
-        {
-          "id": "8932226",
-          "text": "묘하게 존시나 입장 모션같네유"
-        },
-        {
-          "id": "8932202",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 웃기내"
-        },
-        {
-          "id": "8932204",
-          "text": "ㅋ꙼̈ㅋ̆̎ㅋ̊̈ㅋ̌̈ㅋ̄̈ㅋ̐̈ㅋ̑̈ㅋ̆̈ 귀여워"
-        },
-        {
-          "id": "8932205",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅌㅌ"
-        },
-        {
-          "id": "8932227",
-          "text": "아 졸귀다 ㅋㅋ만세!"
-        },
-        {
-          "id": "8932229",
-          "text": "ai가 아니네 ㅋㅋㅋ 귀여워 ㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-03T08:54:20.281714+09:00",
-      "sourceTitles": [
-        "무시무시한 말티즈의 격파 시범ㅋㅋ",
-        "무시무시한 말티즈의 격파 시범 ㄷㄷㄷ.mp4",
-        "격파하는 말티즈",
-        "무시무시한 말티즈의 격파 시범ㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-02T23:54:32.115495+00:00",
-      "collectedAt": "2026-11-03T08:54:32.115512+09:00",
-      "firstPublishedAt": "2026-11-02T23:54:32.220348+00:00"
     },
     {
       "id": "aagag-1091380-0",
@@ -6831,9 +6754,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 305,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
