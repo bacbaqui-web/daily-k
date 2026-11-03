@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-03T22:03:36.712171+00:00",
+  "collectedAt": "2026-11-03T22:05:06.229778+00:00",
   "windowEnd": "2026-11-04T07:03:36.618753+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7047,6 +7047,60 @@
       "firstPublishedAt": "2026-11-03T07:36:31.406612+00:00"
     },
     {
+      "id": "aagag-1666906-0",
+      "url": "https://aagag.com/issue/?idx=1666906",
+      "source": "애객",
+      "title": "주먹사진 보면 좀 꼴리지 않냐?.jpg",
+      "publishedAt": "2026-11-04T07:00:18+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KvrY0.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KvrY8.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KvrY0.webp",
+        "https://i.aagag.com/o/KvrY8.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8936149",
+          "text": "오.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T07:04:56.816587+09:00",
+      "sourceTitles": [
+        "주먹사진 보면 좀 꼴리지 않냐?.jpg",
+        "주먹사진 보면 좀 꼴리지 않냐?.jpg",
+        "주먹사진 보면 좀 꼴리지 않냐?.jpg",
+        "주먹사진 보면 좀 꼴리지 않냐?",
+        "옛날에 대자에 고추사진 올리려다가 얼게에 잘못올린 적이 있어",
+        "ㅇㅎ?) 주먹사진 좀 꼴리지않냐?",
+        "주먹사진 보면 좀 꼴리지 않냐?"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-03T22:05:06.171900+00:00",
+      "collectedAt": "2026-11-04T07:05:06.171919+09:00",
+      "firstPublishedAt": "2026-11-03T22:05:06.250007+00:00"
+    },
+    {
       "id": "aagag-1666897-0",
       "url": "https://aagag.com/issue/?idx=1666897",
       "source": "애객",
@@ -7326,7 +7380,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
