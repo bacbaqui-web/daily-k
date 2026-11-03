@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-03T20:46:46.701041+00:00",
+  "collectedAt": "2026-11-03T20:49:57.806163+00:00",
   "windowEnd": "2026-11-04T05:46:46.600739+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7047,6 +7047,59 @@
       "firstPublishedAt": "2026-11-03T07:36:31.406612+00:00"
     },
     {
+      "id": "aagag-1666897-0",
+      "url": "https://aagag.com/issue/?idx=1666897",
+      "source": "애객",
+      "title": "ㅇㅎ) 어묵을 꼭 음식 에만 넣으라는 법이 있을까?",
+      "publishedAt": "2026-11-04T05:38:10+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3h27.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3h27.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": ".",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8936059",
+          "text": "애가 성격이 좋네.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T05:49:51.670888+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 어묵을 꼭 음식 에만 넣으라는 법이 있을까?",
+        "탄력이 좋은 어묵",
+        "ㅇㅎ) 어묵을 꼭 음식 에만 넣으라는 법이 있을까?",
+        "ㅇㅎ)전생에 수컷이었던 어묵"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-03T20:49:57.711071+00:00",
+      "collectedAt": "2026-11-04T05:49:57.711088+09:00",
+      "firstPublishedAt": "2026-11-03T20:49:57.829446+00:00"
+    },
+    {
       "id": "aagag-1666741-0",
       "url": "https://aagag.com/issue/?idx=1666741",
       "source": "애객",
@@ -7315,7 +7368,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
