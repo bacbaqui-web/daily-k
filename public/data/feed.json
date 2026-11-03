@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-03T23:40:06.597927+00:00",
+  "collectedAt": "2026-11-03T23:41:35.995570+00:00",
   "windowEnd": "2026-11-04T08:40:06.504384+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6435,6 +6435,69 @@
       "firstPublishedAt": "2026-11-03T07:36:31.406612+00:00"
     },
     {
+      "id": "aagag-1666926-0",
+      "url": "https://aagag.com/issue/?idx=1666926",
+      "source": "애객",
+      "title": "ㅇㅎ 샴페인걸 누나의 유혹 댄스",
+      "publishedAt": "2026-11-04T08:38:23+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2QWe.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L2QWk.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅇㅎ 샴페인걸 누나의 유혹 댄스"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L2QWe.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L2QWk.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "ㅇㅎ 샴페인걸 누나의 유혹 댄스",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8936466",
+          "text": "......"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T08:41:24.468110+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 샴페인걸 누나의 유혹 댄스",
+        ".",
+        "(ㅎㅂ) 클럽 샴페인걸",
+        "클럽 샴페인걸"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-03T23:41:35.925861+00:00",
+      "collectedAt": "2026-11-04T08:41:35.925878+09:00",
+      "firstPublishedAt": "2026-11-03T23:41:36.019560+00:00"
+    },
+    {
       "id": "aagag-1666906-0",
       "url": "https://aagag.com/issue/?idx=1666906",
       "source": "애객",
@@ -6768,7 +6831,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
