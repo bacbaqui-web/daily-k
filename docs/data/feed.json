@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T07:16:30.380342+00:00",
+  "collectedAt": "2026-11-03T07:17:18.120949+00:00",
   "windowEnd": "2026-11-03T16:16:30.275438+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8003,7 +8003,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8030,6 +8030,86 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666796-0",
+      "url": "https://aagag.com/issue/?idx=1666796",
+      "source": "애객",
+      "title": "나 여자 좋아해.manga",
+      "publishedAt": "2026-11-03T16:12:15+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1UfQ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1UfU.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1R7C.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L1Ufk.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L1UfQ.webp",
+        "https://i.aagag.com/o/L1UfU.webp",
+        "https://i.aagag.com/o/L1R7C.webp",
+        "https://i.aagag.com/o/L1Ufk.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8934110",
+          "text": "오..."
+        },
+        {
+          "id": "8934120",
+          "text": "\"그렇구나\" 한마디로 끝내는 쿨함이 이 만화에서 제일 어른스럽다"
+        },
+        {
+          "id": "8934125",
+          "text": "이게 뭔데???"
+        },
+        {
+          "id": "8934133",
+          "text": "남자가 고백하는척 하면서 딴여자 한테 정보를 알려주는거임?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-03T16:17:12.840114+09:00",
+      "sourceTitles": [
+        "나 여자 좋아해.manga",
+        "나 여자 좋아해.manga",
+        "나 여자 좋아해.manga",
+        "만화)나 여자 좋아해",
+        "호리데이 야스미 트위터 모음 (10.23)",
+        "호리데이 야스미 트위터 모음 (10.23)",
+        "여자가 좋다는 여자",
+        "\" 미안, 나 여자 좋아해 \"",
+        "호리데이)차인 이유"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 9,
+      "sourceTitlesFetchedAt": "2026-11-03T07:17:18.055112+00:00",
+      "collectedAt": "2026-11-03T16:17:18.055134+09:00",
+      "firstPublishedAt": "2026-11-03T07:17:18.143903+00:00"
+    },
     {
       "id": "aagag-1666790-0",
       "url": "https://aagag.com/issue/?idx=1666790",
