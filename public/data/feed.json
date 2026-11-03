@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T00:54:17.034485+00:00",
+  "collectedAt": "2026-11-03T00:55:10.750274+00:00",
   "windowEnd": "2026-11-03T09:54:16.933781+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7954,7 +7954,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7981,6 +7981,46 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1666721-0",
+      "url": "https://aagag.com/issue/?idx=1666721",
+      "source": "애객",
+      "title": "군대에서 들은 폭언리스트 만화",
+      "publishedAt": "2026-11-03T09:53:03+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3heB.jpg",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3heB.jpg"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-03T09:54:59.036622+09:00",
+      "sourceTitles": [
+        "군대에서 들은 폭언리스트 만화",
+        "군대에서 들은 폭언리스트 만화",
+        "군대에서 들은 폭언리스트",
+        "군대에서 들은 폭언리스트 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-03T00:55:10.684599+00:00",
+      "collectedAt": "2026-11-03T09:55:10.684614+09:00",
+      "firstPublishedAt": "2026-11-03T00:55:10.771678+00:00"
+    },
     {
       "id": "aagag-583191-1",
       "url": "https://aagag.com/issue/?idx=583191_1",
