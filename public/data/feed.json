@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T16:42:36.408637+09:00",
-  "windowEnd": "2026-11-04T16:34:26.715832+09:00",
+  "collectedAt": "2026-11-04T07:52:55.500357+00:00",
+  "windowEnd": "2026-11-04T16:52:55.404113+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -1696,87 +1696,6 @@
       "sourceTitlesFetchedAt": "2026-11-04T07:15:15.461269+00:00",
       "collectedAt": "2026-11-04T16:15:15.461296+09:00",
       "firstPublishedAt": "2026-11-04T07:15:15.555534+00:00"
-    },
-    {
-      "id": "aagag-1666806-0",
-      "url": "https://aagag.com/issue/?idx=1666806",
-      "source": "애객",
-      "title": "당근거래 대참사.jpg",
-      "publishedAt": "2026-11-03T16:48:03+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3uRv.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3uRz.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3uS1.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "카메라 상태 안좋아서 결국 거래안했다고 함 ㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3uRv.webp",
-        "https://i.aagag.com/o/L3uRz.webp",
-        "https://i.aagag.com/o/L3uS1.webp"
-      ],
-      "videos": [],
-      "excerpt": "카메라 상태 안좋아서 결국 거래안했다고 함 ㅋㅋㅋㅋㅋㅋㅋ",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 23,
-      "commentCount": 6,
-      "laughingComments": 2,
-      "score": 23,
-      "kPerComment": 3.8333333333333335,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8934291",
-          "text": "야스마스터 ㅋㅋ"
-        },
-        {
-          "id": "8934302",
-          "text": "↑↑애객마스터↑↑"
-        },
-        {
-          "id": "8934295",
-          "text": "마스터인지 아닌지 검증하다 빠꾸먹은거 아니고?"
-        },
-        {
-          "id": "8934297",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8934306",
-          "text": "카메라 진짜 상태가 왜 저래?"
-        },
-        {
-          "id": "8934307",
-          "text": "저놈의 푸푸토이 바이럴 변형되서 올라오는거 몇번을 보는지 모르겠네 그만큼 내가 애객을 자주 본다는 뜻이겠지..."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-03T16:51:56.323277+09:00",
-      "sourceTitles": [
-        "당근거래 대참사.jpg",
-        "당근거래 대참사.jpg",
-        "당근거래 대참사.jpg",
-        "당근거래 하는데 이사람 뭐죠 ㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-03T07:52:04.793920+00:00",
-      "collectedAt": "2026-11-03T16:52:04.793937+09:00",
-      "firstPublishedAt": "2026-11-03T07:52:04.887441+00:00"
     },
     {
       "id": "aagag-201851-1",
@@ -6790,9 +6709,9 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 328,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
