@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T13:46:57.142735+00:00",
+  "collectedAt": "2026-11-04T13:48:23.200259+00:00",
   "windowEnd": "2026-11-04T22:46:57.032429+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8111,6 +8111,65 @@
       "firstPublishedAt": "2026-11-04T07:19:37.521407+00:00"
     },
     {
+      "id": "aagag-1667114-0",
+      "url": "https://aagag.com/issue/?idx=1667114",
+      "source": "애객",
+      "title": "텍사스가 블루로 바뀌면 가슴사진 올린다",
+      "publishedAt": "2026-11-04T22:40:15+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L48si.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "https://x.com/ame_rose\n막상 보면 실망"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L48si.webp"
+      ],
+      "videos": [],
+      "excerpt": "https://x.com/ame_rose\n막상 보면 실망",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8940247",
+          "text": "볼만은 하네"
+        },
+        {
+          "id": "8940256",
+          "text": "고마워"
+        },
+        {
+          "id": "8940259",
+          "text": ""
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T22:48:12.635376+09:00",
+      "sourceTitles": [
+        "여성 방송인 \"민주당이 텍사스 이기면 가슴 사진 올리겠다\"",
+        "ㅇㅎ) ??? : 텍사스에서 민주당이 이기면 젖탱이 깐다",
+        "텍사스가 블루로 바뀌면 가슴사진 올린다",
+        "여성 방송인 \"민주당이 텍사스 이기면 가슴 사진 올리겠다\" 공약",
+        "여성 방송인 \"민주당이 텍사스 이기면 가슴 사진 올리겠다\"",
+        "미국 선거때문에 망한 사람"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-04T13:48:23.101500+00:00",
+      "collectedAt": "2026-11-04T22:48:23.101517+09:00",
+      "firstPublishedAt": "2026-11-04T13:48:23.254971+00:00"
+    },
+    {
       "id": "aagag-1666980-0",
       "url": "https://aagag.com/issue/?idx=1666980",
       "source": "애객",
@@ -8504,7 +8563,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
