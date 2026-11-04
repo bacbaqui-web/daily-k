@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T05:41:06.369412+00:00",
+  "collectedAt": "2026-11-04T05:43:51.645266+00:00",
   "windowEnd": "2026-11-04T14:41:06.276026+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5975,6 +5975,75 @@
       "firstPublishedAt": "2026-11-04T02:47:20.881963+00:00"
     },
     {
+      "id": "aagag-1667006-0",
+      "url": "https://aagag.com/issue/?idx=1667006",
+      "source": "애객",
+      "title": "ㅇㅎ)남자라면 한번씩 꿈꾼다는 판타지..jpg",
+      "publishedAt": "2026-11-04T14:34:07+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3zGM.jpg",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3zGM.jpg"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 7,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8938275",
+          "text": "아 왜 자꾸깨워"
+        },
+        {
+          "id": "8938291",
+          "text": "..구병장님.. 구병장님.. 근무나가셔야합니다.."
+        },
+        {
+          "id": "8938276",
+          "text": "어우 현실이 ㅅㅂ"
+        },
+        {
+          "id": "8938278",
+          "text": "현실은 냉혹하다"
+        },
+        {
+          "id": "8938280",
+          "text": "가을아 그만 깨워....그냥 자게 해줘 제발..."
+        },
+        {
+          "id": "8938281",
+          "text": "난 또 귀신인줄, 꿈이네"
+        },
+        {
+          "id": "8938287",
+          "text": "아 깨우지말라고"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T14:43:37.263314+09:00",
+      "sourceTitles": [
+        "남자라면 한번씩 꿈꾼다는 판타지..jpg",
+        "깼어?",
+        "ㅇㅎ)남자라면 한번씩 꿈꾼다는 판타지..jpg",
+        "ㅇㅎ)남자라면 한번씩 꿈꾼다는 판타지..jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-04T05:43:51.584124+00:00",
+      "collectedAt": "2026-11-04T14:43:51.584141+09:00",
+      "firstPublishedAt": "2026-11-04T05:43:51.669469+00:00"
+    },
+    {
       "id": "aagag-1666970-0",
       "url": "https://aagag.com/issue/?idx=1666970",
       "source": "애객",
@@ -7211,7 +7280,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
