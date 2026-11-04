@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-04T21:51:46.519070+00:00",
+  "collectedAt": "2026-11-04T21:54:04.779370+00:00",
   "windowEnd": "2026-11-05T06:51:46.419423+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8855,7 +8855,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8882,6 +8882,53 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667170-0",
+      "url": "https://aagag.com/issue/?idx=1667170",
+      "source": "애객",
+      "title": "파파카츠로 만나서 억지로 호텔에 끌고가는.manga",
+      "publishedAt": "2026-11-05T06:50:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JuQ81.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/JuQ81.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-05T06:53:50.568117+09:00",
+      "sourceTitles": [
+        "🍆) 밥만 같이 먹어줘도 돈 준다는 40대 아저씨.manga",
+        "🍆) 밥만 같이 먹어줘도 돈 준다는 40대 아저씨.manga",
+        "파파카츠로 만나서 억지로 호텔에 끌고가는.manga",
+        "파파카츠하는 여고생 만화.manhwa",
+        "원조교제하는 만화",
+        "파파카츠하는 여고생 만화.manhwa",
+        "ㅆㄸ) 파파카츠하는 여고생 만화.manhwa",
+        "파파카츠하는 여고생 만화.manhwa",
+        "파파카츠하는 여고생 만화.manhwa",
+        "파파카츠하는 여고생 만화.manhwa",
+        "파파카츠하는 여고생 만화.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 11,
+      "sourceTitlesFetchedAt": "2026-11-04T21:54:04.704740+00:00",
+      "collectedAt": "2026-11-05T06:54:04.704757+09:00",
+      "firstPublishedAt": "2026-11-04T21:54:04.803474+00:00"
+    },
     {
       "id": "aagag-1667163-0",
       "url": "https://aagag.com/issue/?idx=1667163",
