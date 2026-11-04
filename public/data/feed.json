@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T06:17:38.539677+00:00",
+  "collectedAt": "2026-11-04T06:18:44.376515+00:00",
   "windowEnd": "2026-11-04T15:17:38.444401+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1089,6 +1089,85 @@
       "sourceTitlesFetchedAt": "2026-11-03T08:30:36.792980+00:00",
       "collectedAt": "2026-11-03T17:30:36.793012+09:00",
       "firstPublishedAt": "2026-11-03T08:30:36.889237+00:00"
+    },
+    {
+      "id": "aagag-1667016-0",
+      "url": "https://aagag.com/issue/?idx=1667016",
+      "source": "애객",
+      "title": "트럼프",
+      "publishedAt": "2026-11-04T15:15:55+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L43qU.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L43qU.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 31,
+      "commentCount": 8,
+      "laughingComments": 3,
+      "score": 31,
+      "kPerComment": 3.875,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8938558",
+          "text": "에이 설마"
+        },
+        {
+          "id": "8938577",
+          "text": "ㅋㅋ 단어하나 짜집기해서 만든 AI 이미지 같아보이네요.."
+        },
+        {
+          "id": "8938562",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 보통 뀨뀨이 아니얔ㅋㅋㅋㅋㅋ 보법이 달라 보법잌ㅋㅋㅋ"
+        },
+        {
+          "id": "8938563",
+          "text": "???: 저는 호남사람입니다~~"
+        },
+        {
+          "id": "8938573",
+          "text": "진짜 한국 최근 정치사로 공부한거아닌하는 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8938566",
+          "text": "진짜 얘 한국정치 보고 배운거야?"
+        },
+        {
+          "id": "8938572",
+          "text": "이래야 트럼프지!"
+        },
+        {
+          "id": "8938576",
+          "text": "???: 여러분! 저도 호남사람입니다! 서로 사랑해야 합니다!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T15:18:33.050994+09:00",
+      "sourceTitles": [
+        "트럼프 : 우리는 선거에 승리했다",
+        "트럼프 “나는 원래 민주당”",
+        "트황 진짜 갈아타는속도 보소 ㅋㅋㅋㅋ",
+        "트럼프 “나는 원래 민주당”",
+        "트럼프 \"나는 원래 민주당\"",
+        "속보) 트럼프 민주당 선언"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-04T06:18:44.305650+00:00",
+      "collectedAt": "2026-11-04T15:18:44.305666+09:00",
+      "firstPublishedAt": "2026-11-04T06:18:44.398619+00:00"
     },
     {
       "id": "aagag-1666806-0",
@@ -7195,7 +7274,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
