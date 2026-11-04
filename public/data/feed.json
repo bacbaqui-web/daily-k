@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T11:50:57.824318+09:00",
-  "windowEnd": "2026-11-04T11:45:33.032851+09:00",
+  "collectedAt": "2026-11-04T03:01:14.886041+00:00",
+  "windowEnd": "2026-11-04T12:01:14.791238+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7285,56 +7285,6 @@
       "firstPublishedAt": "2026-11-03T20:49:57.829446+00:00"
     },
     {
-      "id": "aagag-1666741-0",
-      "url": "https://aagag.com/issue/?idx=1666741",
-      "source": "애객",
-      "title": "3초 삭제.gif",
-      "publishedAt": "2026-11-03T11:52:46+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Is4Wt.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/Is4Wt.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8932897",
-          "text": "3시간삭제"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-03T11:53:42.788008+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 3초 삭제",
-        "3초 삭제.gif",
-        "3초 삭제.gif",
-        "ㅇㅎ)3초 삭제.gif",
-        "거유녀"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-03T02:53:55.956964+00:00",
-      "collectedAt": "2026-11-03T11:53:55.956980+09:00",
-      "firstPublishedAt": "2026-11-03T02:53:56.052774+00:00"
-    },
-    {
       "id": "aagag-1666905-0",
       "url": "https://aagag.com/issue/?idx=1666905",
       "source": "애객",
@@ -7511,9 +7461,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
