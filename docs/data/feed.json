@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T06:54:16.349609+00:00",
+  "collectedAt": "2026-11-04T06:55:41.279843+00:00",
   "windowEnd": "2026-11-04T15:54:16.253589+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3228,6 +3228,77 @@
       "firstPublishedAt": "2026-11-03T20:16:35.037749+00:00"
     },
     {
+      "id": "aagag-1667026-0",
+      "url": "https://aagag.com/issue/?idx=1667026",
+      "source": "애객",
+      "title": "반응 좋다는 여배우의 일상",
+      "publishedAt": "2026-11-04T15:49:35+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3ylr.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3ylv.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3ylr.webp",
+        "https://i.aagag.com/o/L3ylv.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 6,
+      "laughingComments": 2,
+      "score": 14,
+      "kPerComment": 2.3333333333333335,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8938734",
+          "text": "대 호감.. 눈나 .."
+        },
+        {
+          "id": "8938736",
+          "text": "고해형 귀여움"
+        },
+        {
+          "id": "8938737",
+          "text": "리얼 나혼자 산다"
+        },
+        {
+          "id": "8938741",
+          "text": "진짜 대호감이다 ㅋㅋㅋ 쉬하고 강아지 쳐다보는거 완전 짤인지 영상인지 ㅋㅋㅋ"
+        },
+        {
+          "id": "8938743",
+          "text": "맨발걷기 ㅋㅋㅋㅋ 아까 청계산에도 맨발걷는 아재 계시던데 여배우가 맨발걷기라니 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8938754",
+          "text": "맨발 걷기 좋은데 검증 안된데서 하면 발 찢어짐 사고 많이 일어난다는디 ㅠ 조심했음 좋겠네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T15:55:28.898866+09:00",
+      "sourceTitles": [
+        "반응 괜찮다는 여배우의 일상",
+        "반응 괜찮다는 여배우의 일상",
+        "반응 좋다는 여배우의 일상",
+        "반응 괜찮다는 여배우의 일상"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-04T06:55:41.201921+00:00",
+      "collectedAt": "2026-11-04T15:55:41.201939+09:00",
+      "firstPublishedAt": "2026-11-04T06:55:41.308402+00:00"
+    },
+    {
       "id": "aagag-1195811-0",
       "url": "https://aagag.com/issue/?idx=1195811",
       "source": "애객",
@@ -6446,7 +6517,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
