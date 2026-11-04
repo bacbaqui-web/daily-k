@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T00:47:04.482970+00:00",
+  "collectedAt": "2026-11-04T00:50:25.913887+00:00",
   "windowEnd": "2026-11-04T09:47:04.384749+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6173,6 +6173,76 @@
       "firstPublishedAt": "2026-11-03T07:17:47.184651+00:00"
     },
     {
+      "id": "aagag-1666939-0",
+      "url": "https://aagag.com/issue/?idx=1666939",
+      "source": "애객",
+      "title": "TS 말포이 코스프레한 예쁜 한국여자",
+      "publishedAt": "2026-11-04T09:36:24+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3YGF.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "진짜 한국인임 (귀화한 우즈벡 출신 모델)"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3YGF.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "진짜 한국인임 (귀화한 우즈벡 출신 모델)",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8936748",
+          "text": "우쥬라이크백"
+        },
+        {
+          "id": "8936750",
+          "text": "검스말포이 ㅇㅈ"
+        },
+        {
+          "id": "8936796",
+          "text": "한국어 패치된 말포이 ㅇㅈ"
+        },
+        {
+          "id": "8936768",
+          "text": "정말 고우십니다...."
+        },
+        {
+          "id": "8936778",
+          "text": "AI가 아니라구!?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T09:50:13.005190+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 한국인",
+        "위고비/마운자로 등의 약물로 살빼는 사람들에게 뭐라 할수있는 자격",
+        "TS 말포이 코스프레한 예쁜 한국여자",
+        "어흐어흐 해리와 말포이.mp4",
+        "모델 눈나가 해리포터로 코스프레한 이유.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-04T00:50:25.802962+00:00",
+      "collectedAt": "2026-11-04T09:50:25.802980+09:00",
+      "firstPublishedAt": "2026-11-04T00:50:25.937522+00:00"
+    },
+    {
       "id": "aagag-1666777-0",
       "url": "https://aagag.com/issue/?idx=1666777",
       "source": "애객",
@@ -6819,7 +6889,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
