@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-04",
-  "collectedAt": "2026-11-04T04:23:08.219573+00:00",
+  "collectedAt": "2026-11-04T04:24:03.106489+00:00",
   "windowEnd": "2026-11-04T13:23:08.118163+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6691,6 +6691,87 @@
       "firstPublishedAt": "2026-11-04T02:29:23.890624+00:00"
     },
     {
+      "id": "aagag-1666990-0",
+      "url": "https://aagag.com/issue/?idx=1666990",
+      "source": "애객",
+      "title": "할로윈 홍대 거리 프리허그녀",
+      "publishedAt": "2026-11-04T13:15:27+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3TtJ.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3ZpH.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3TtJ.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L3ZpH.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8937916",
+          "text": "어.... 음...."
+        },
+        {
+          "id": "8937917",
+          "text": "야... 찢어지겠다."
+        },
+        {
+          "id": "8937920",
+          "text": "참 젖타..."
+        },
+        {
+          "id": "8937921",
+          "text": "뭐..뭔가 보이는데"
+        },
+        {
+          "id": "8937932",
+          "text": "사이를 파고 들어갔네... ㄷ ㄷ ㄷ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-04T13:23:50.995324+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 할로윈 홍대 프리허그녀.mp4",
+        "가슴~진짜 좋아 !!",
+        "(후방주의)홍대 비키니 프리허그 녀",
+        "(후방주의)홍대 비키니 프리허그 녀",
+        "약후) 홍대 비키니 프리허그 녀",
+        "홍대 할로윈 프리허그녀",
+        "약후 )) 할로윈 프리허그녀",
+        "어제자 할로윈 홍대 프리허그녀 ㄷㄷㄷ",
+        "할로윈 홍대 거리 프리허그녀",
+        "ㅇㅎ) 일요일 좋아 !!"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 10,
+      "sourceTitlesFetchedAt": "2026-11-04T04:24:03.034490+00:00",
+      "collectedAt": "2026-11-04T13:24:03.034508+09:00",
+      "firstPublishedAt": "2026-11-04T04:24:03.134816+00:00"
+    },
+    {
       "id": "aagag-1666939-0",
       "url": "https://aagag.com/issue/?idx=1666939",
       "source": "애객",
@@ -7528,7 +7609,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
