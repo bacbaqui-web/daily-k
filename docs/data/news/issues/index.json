@@ -1,6 +1,153 @@
 {
-  "editionCount": 97,
+  "editionCount": 98,
   "issues": [
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "yonsei-ibm-nighthawk-quantum-platform-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "나이트호크 프로세서로 업그레이드한 플랫폼 가동식이 열렸습니다. 신약개발 기간 단축은 목표입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "시행",
+        "storyId": "20261104-pm-tech-01",
+        "title": "연세대, IBM 나이트호크 탑재 양자컴퓨팅 플랫폼 가동식"
+      },
+      "path": "yonsei-ibm-nighthawk-quantum-platform-2026.json",
+      "title": "연세대 IBM 나이트호크 양자컴퓨팅 플랫폼 가동"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "virtual-asset-taxation-deferral-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "민주당 대표가 정부에 과세 유예를 공식 제안했습니다. 기간과 법 개정은 미확정입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "후속",
+        "storyId": "20261104-pm-pol-01",
+        "title": "민주당, 가상자산 소득 과세 유예 정부에 공식 제안"
+      },
+      "path": "virtual-asset-taxation-deferral-2026.json",
+      "title": "가상자산 과세 시행과 추가 유예 논의"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-28T09:13:07.272316+09:00",
+      "firstCoveredDate": "2026-10-28",
+      "id": "university-comics-webtoon-contest-kkeokkkot-i-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "대전 행사와 17개 기업 상담이 예정됐습니다. 실제 개최·채용·연재 성과는 미확인입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "예정",
+        "storyId": "20261104-pm-web-01",
+        "title": "대전 대학만화웹툰대전·웹툰채용박람회, 5~6일 개최 예정"
+      },
+      "path": "university-comics-webtoon-contest-kkeokkkot-i-2026.json",
+      "title": "2026 대학만화웹툰대전 꺾꽂이 대상 선정과 연재 지원"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "nikke-pc-launcher-malware-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "런처 변조 분석과 운영진의 수정·업데이트가 보도됐습니다. 실제 피해 범위는 확인 중입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "보도",
+        "storyId": "20261104-pm-safe-01",
+        "title": "‘니케’ PC 런처 변조…계정·가상자산 지갑 정보 탈취 위험"
+      },
+      "path": "nikke-pc-launcher-malware-2026.json",
+      "title": "니케 PC 런처 변조와 이용자 정보 탈취 위험"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
+      "firstCoveredDate": "2026-10-26",
+      "id": "israel-general-election-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "선관위가 감사 뒤 총선 결과를 인준했습니다. 연정 구성과 차기 총리는 미확정입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "후속",
+        "storyId": "20261104-pm-int-01",
+        "title": "이스라엘 선관위, 감사 뒤 총선 결과 인준…연정 구성은 미확정"
+      },
+      "path": "israel-general-election-2026.json",
+      "title": "2026년 이스라엘 총선과 연정 구성"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "hong-kong-els-mis-selling-financial-penalties-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "은행·증권사에 과징금과 과태료 총 3746억3200만원이 의결됐습니다. 납부와 소송 결과는 미확인입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "결과",
+        "storyId": "20261104-pm-eco-01",
+        "title": "금융위, 홍콩ELS 불완전판매 과징금·과태료 총 3746억3200만원 의결"
+      },
+      "path": "hong-kong-els-mis-selling-financial-penalties-2026.json",
+      "title": "홍콩H지수 ELS 불완전판매 금전 제재"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "election-record-post-entry-investigation-2026",
+      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
+      "lastCoveredDate": "2026-11-04",
+      "latest": {
+        "archive": false,
+        "change": "투표록 사후 기재 지시 의혹으로 압수수색과 10여명 입건이 보도됐습니다. 혐의와 책임은 미확정입니다.",
+        "editionId": "2026-11-04-pm",
+        "stage": "보도",
+        "storyId": "20261104-pm-soc-01",
+        "title": "선관위특검, 투표록 사후 기재 지시 의혹 압수수색…10여명 입건"
+      },
+      "path": "election-record-post-entry-investigation-2026.json",
+      "title": "선관위 투표록 사후 기재 지시 의혹 수사"
+    },
     {
       "categories": [
         "사회이슈"
@@ -1303,27 +1450,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
-      "firstCoveredDate": "2026-10-30",
-      "id": "virtual-asset-taxation-deferral-2026",
-      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
-      "lastCoveredDate": "2026-10-30",
-      "latest": {
-        "archive": false,
-        "change": "민주당이 과세 결론 전 고시 연기를 요청했다고 밝혔습니다. 과세 유예와 시행 변경은 미확정입니다.",
-        "editionId": "2026-10-30-pm",
-        "stage": "보도",
-        "storyId": "20261030-pm-pol-01",
-        "title": "민주당, 가상자산 과세 결론 전 고시 연기 요청…유예 결정은 미확정"
-      },
-      "path": "virtual-asset-taxation-deferral-2026.json",
-      "title": "가상자산 과세 시행과 추가 유예 논의"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -1406,27 +1532,6 @@
       },
       "path": "kim-gi-hyeon-luxury-bag-trial-2026.json",
       "title": "김기현 부부 명품 가방 제공 관련 청탁금지법 재판"
-    },
-    {
-      "categories": [
-        "국제정세"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-10-26T21:28:43.523923+09:00",
-      "firstCoveredDate": "2026-10-26",
-      "id": "israel-general-election-2026",
-      "lastCoveredAt": "2026-10-30T21:14:41.634173+09:00",
-      "lastCoveredDate": "2026-10-30",
-      "latest": {
-        "archive": false,
-        "change": "최종 개표에서 양대 진영 모두 과반에 미달했습니다. 연정 구성과 차기 총리는 미확정입니다.",
-        "editionId": "2026-10-30-pm",
-        "stage": "결과",
-        "storyId": "20261030-pm-int-01",
-        "title": "이스라엘 총선, 양대 진영 과반 확보 실패…연정 구성 협상 과제"
-      },
-      "path": "israel-general-election-2026.json",
-      "title": "2026년 이스라엘 총선과 연정 구성"
     },
     {
       "categories": [
@@ -1961,27 +2066,6 @@
       },
       "path": "election-special-counsel-ballot-inspection-2026.json",
       "title": "선관위 특검의 투표지 공개 검증과 감정"
-    },
-    {
-      "categories": [
-        "웹툰산업"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-28T09:13:07.272316+09:00",
-      "firstCoveredDate": "2026-10-28",
-      "id": "university-comics-webtoon-contest-kkeokkkot-i-2026",
-      "lastCoveredAt": "2026-10-28T09:13:07.272316+09:00",
-      "lastCoveredDate": "2026-10-28",
-      "latest": {
-        "archive": false,
-        "change": "대학이 대상 선정과 상금·연재권 특전을 발표했습니다. 실제 시상·연재 개시는 미확인입니다.",
-        "editionId": "2026-10-28-am",
-        "stage": "발표",
-        "storyId": "20261028-am-web-01",
-        "title": "조순회 ‘꺾꽂이’, 대학만화웹툰대전 대상…네이버웹툰 연재권 제공"
-      },
-      "path": "university-comics-webtoon-contest-kkeokkkot-i-2026.json",
-      "title": "2026 대학만화웹툰대전 꺾꽂이 대상 선정과 연재 지원"
     },
     {
       "categories": [
@@ -8980,7 +9064,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 724,
+  "storyCount": 731,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-04T09:15:48.078092+09:00"
+  "updatedAt": "2026-11-04T21:16:28.631418+09:00"
 }
