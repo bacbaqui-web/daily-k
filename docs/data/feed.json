@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-04T21:02:37.665859+00:00",
+  "collectedAt": "2026-11-04T21:04:45.981509+00:00",
   "windowEnd": "2026-11-05T06:02:37.561720+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8760,7 +8760,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8787,6 +8787,46 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667163-0",
+      "url": "https://aagag.com/issue/?idx=1667163",
+      "source": "애객",
+      "title": "아뇨 저 남자구요. 남자한테 관심없어요.",
+      "publishedAt": "2026-11-05T05:52:31+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L3xXQ.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L3xXQ.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-05T06:04:39.096173+09:00",
+      "sourceTitles": [
+        "아뇨 저 남자구요. 남자한테 관심없어요.",
+        "아뇨 저 남자구요. 남자한테 관심없어요.",
+        "코스어에게 대시하는 Manhwa",
+        "아뇨 저 남자구요. 남자한테 관심없어요."
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-04T21:04:45.916950+00:00",
+      "collectedAt": "2026-11-05T06:04:45.916968+09:00",
+      "firstPublishedAt": "2026-11-04T21:04:46.004962+00:00"
+    },
     {
       "id": "aagag-1630986-0",
       "url": "https://aagag.com/issue/?idx=1630986",
