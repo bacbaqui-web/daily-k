@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T07:59:56.433237+00:00",
+  "collectedAt": "2026-11-05T08:00:58.653243+00:00",
   "windowEnd": "2026-11-05T16:59:56.334538+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8633,6 +8633,67 @@
       "firstPublishedAt": "2026-11-05T02:11:31.274462+00:00"
     },
     {
+      "id": "aagag-1667308-0",
+      "url": "https://aagag.com/issue/?idx=1667308",
+      "source": "애객",
+      "title": "가끔씩 꺼내줘야 한다는 스트리머",
+      "publishedAt": "2026-11-05T16:57:06+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4FpA.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4FpA.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8943695",
+          "text": "너무 크다...뭔가 보형물을 쑤욱 당기는거같아"
+        },
+        {
+          "id": "8943696",
+          "text": "너무 큰건 없습니다. 굉장히 훌륭하네요"
+        },
+        {
+          "id": "8943698",
+          "text": "남자도 정리하잖아 아래에 있는거"
+        },
+        {
+          "id": "8943701",
+          "text": "피지컬좋다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T17:00:46.720272+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 가끔씩 꺼내줘야 한다는 스트리머",
+        "가끔씩 꺼내줘야 한다는 스트리머",
+        "가끔씩 꺼내줘야 한다는 스트리머",
+        "ㅇㅎ)가끔씩 꺼내줘야 한다는 스트리머"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-05T08:00:58.571527+00:00",
+      "collectedAt": "2026-11-05T17:00:58.571543+09:00",
+      "firstPublishedAt": "2026-11-05T08:00:58.684538+00:00"
+    },
+    {
       "id": "aagag-1667276-0",
       "url": "https://aagag.com/issue/?idx=1667276",
       "source": "애객",
@@ -9222,7 +9283,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
