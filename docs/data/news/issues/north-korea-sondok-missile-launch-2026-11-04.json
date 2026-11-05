@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-05/am.json",
+      "category": "국제정세",
+      "change": "합참이 선덕 일대에서 동해상으로 수발의 미사일 발사를 포착했습니다. 정확한 제원은 분석 중입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-05T09:42:27.768202+09:00",
+      "coveredOn": "2026-11-05",
+      "edition": "am",
+      "editionDate": "2026-11-05",
+      "editionId": "2026-11-05-am",
+      "eventAt": null,
+      "eventDate": "2026-11-04",
+      "eventEndDate": null,
+      "eventTimeNote": "발사는 11월 4일 오전으로 확인됐으며 정확한 시각은 제공되지 않았습니다.",
+      "eventTimezone": "Asia/Pyongyang",
+      "followUp": null,
+      "id": "2026-11-05-am/20261105-am-int-01",
+      "keyFacts": {
+        "발사 지점": "북한 선덕 일대",
+        "발사일": "2026-11-04 오전",
+        "방향·수량": "동해상으로 수발",
+        "제원": "한미 정밀 분석 중"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-04T09:54:41+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "JTBC",
+          "publishedAt": "2026-11-04T09:54:41+09:00",
+          "title": "합참 \"북한, 선덕 일대서 미사일 여러 발 발사…제원 분석 중\"",
+          "updatedAt": "2026-11-04T12:02:00+09:00",
+          "url": "https://n.news.naver.com/mnews/article/437/0000519026",
+          "verifiedAt": "2026-11-05T09:12:12.252113+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261105-am-int-01",
+      "summary": [
+        "합동참모본부가 4일 오전 북한 선덕 일대에서 동해상으로 발사된 수발의 미사일을 포착했다고 밝혔습니다. 한미는 정확한 제원을 정밀 분석하고 있습니다.",
+        "JTBC에 따르면 한미는 준비 단계부터 발사를 감시했고 발사 직후 탐지·추적했습니다. 합참은 북한 동향을 주시하며 대응 능력과 태세를 유지하고 있다고 설명했습니다.",
+        "10월 31일 집속탄두 시험 발표와는 다른 날짜의 별도 발사 사건입니다. 미사일 종류와 비행거리, 시험 목적 및 성능은 제공된 근거에서 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "북한, 선덕 일대서 동해상으로 미사일 여러 발 발사…제원 분석 중",
+      "uncertainty": "정확한 발사 시각과 종류·제원·목적은 확인되지 않았습니다."
+    }
+  ],
+  "id": "north-korea-sondok-missile-launch-2026-11-04",
+  "schemaVersion": 1,
+  "title": "북한 2026년 11월 4일 선덕 일대 미사일 발사",
+  "updatedAt": "2026-11-05T09:42:27.768202+09:00"
+}
