@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T11:50:06.601509+00:00",
+  "collectedAt": "2026-11-05T11:51:17.701904+00:00",
   "windowEnd": "2026-11-05T20:50:06.494628+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8725,10 +8725,54 @@
       "sourceTitlesFetchedAt": "2026-11-05T03:54:45.036211+00:00",
       "collectedAt": "2026-11-05T12:54:45.036227+09:00",
       "firstPublishedAt": "2026-11-05T03:54:45.176832+00:00"
+    },
+    {
+      "id": "aagag-1667363-0",
+      "url": "https://aagag.com/issue/?idx=1667363",
+      "source": "애객",
+      "title": "피자를 자르는 눈나!",
+      "publishedAt": "2026-11-05T20:48:27+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4A05.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4A05.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-05T20:51:04.188851+09:00",
+      "sourceTitles": [
+        "[약후]피자를 자르는 눈나!",
+        "ㅇㅎ) 피자 자르는 누나",
+        "피자를 자르는 눈나!",
+        "큰 피자 써는 녀"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-05T11:51:17.630101+00:00",
+      "collectedAt": "2026-11-05T20:51:17.630118+09:00",
+      "firstPublishedAt": "2026-11-05T11:51:17.733550+00:00"
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
