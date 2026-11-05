@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T02:10:36.833922+00:00",
+  "collectedAt": "2026-11-05T02:11:31.243676+00:00",
   "windowEnd": "2026-11-05T11:10:36.731889+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8423,6 +8423,78 @@
       "firstPublishedAt": "2026-11-04T02:46:46.579958+00:00"
     },
     {
+      "id": "aagag-1667211-0",
+      "url": "https://aagag.com/issue/?idx=1667211",
+      "source": "애객",
+      "title": "외국 스트리머 도네수준",
+      "publishedAt": "2026-11-05T11:02:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3wcG.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3wcG.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 4,
+      "commentCount": 6,
+      "laughingComments": 1,
+      "score": 4,
+      "kPerComment": 0.6666666666666666,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8941924",
+          "text": "ㅋㅋㅋㅋ저기는 저런걸로 고소안먹나"
+        },
+        {
+          "id": "8941930",
+          "text": "와 진짜 알가슴이다"
+        },
+        {
+          "id": "8941931",
+          "text": "의상이 다스베이더...아닌가.;"
+        },
+        {
+          "id": "8941943",
+          "text": "저분이 그럼 김어준 씨군요  많은 사람들이 좋아할 만하네요"
+        },
+        {
+          "id": "8941939",
+          "text": "뭐가 저렇게 러블리하게 생겼냐"
+        },
+        {
+          "id": "8941953",
+          "text": "Gracie bestie 라는 ai인플루언서라네요"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T11:11:21.214249+09:00",
+      "sourceTitles": [
+        "ㅎㅂ) 외국 스트리머 도네 수준",
+        "외국 스트리머 도네수준",
+        "ㅎㅂ 외국 스트리머 도네 수준",
+        "ㅎㅂ 외국 스트리머 도네 수준",
+        "ㅎㅂ 외국 스트리머 도네 수준",
+        "야한건 안된다고 생각합니다",
+        "외국 영상 도네 수준"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-05T02:11:31.159770+00:00",
+      "collectedAt": "2026-11-05T11:11:31.159827+09:00",
+      "firstPublishedAt": "2026-11-05T02:11:31.274462+00:00"
+    },
+    {
       "id": "aagag-1666949-0",
       "url": "https://aagag.com/issue/?idx=1666949",
       "source": "애객",
@@ -9181,7 +9253,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
