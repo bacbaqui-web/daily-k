@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-06",
-  "collectedAt": "2026-11-05T21:04:40.619196+00:00",
+  "collectedAt": "2026-11-05T21:06:46.169386+00:00",
   "windowEnd": "2026-11-06T06:04:40.496256+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5684,6 +5684,55 @@
       "firstPublishedAt": "2026-11-05T12:25:27.129746+00:00"
     },
     {
+      "id": "aagag-1667416-0",
+      "url": "https://aagag.com/issue/?idx=1667416",
+      "source": "애객",
+      "title": "님, 레고 부품 NO. 28125 닮았음",
+      "publishedAt": "2026-11-06T05:52:23+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4IOM.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4IOM.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 12,
+      "kPerComment": 12.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8945411",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-06T06:06:34.524834+09:00",
+      "sourceTitles": [
+        "님 레고 부품 NO. 28125 닮았음",
+        "님, 레고 부품 NO. 28125 닮았음",
+        "님, 레고 부품 NO. 28125 닮았음",
+        "님 레고 부품 NO. 28125 닮았음.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-05T21:06:46.088022+00:00",
+      "collectedAt": "2026-11-06T06:06:46.088039+09:00",
+      "firstPublishedAt": "2026-11-05T21:06:46.198514+00:00"
+    },
+    {
       "id": "aagag-1580950-0",
       "url": "https://aagag.com/issue/?idx=1580950",
       "source": "애객",
@@ -7675,7 +7724,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
