@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T07:43:33.260096+00:00",
+  "collectedAt": "2026-11-05T07:44:35.319619+00:00",
   "windowEnd": "2026-11-05T16:43:33.159719+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9222,7 +9222,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9249,6 +9249,59 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667303-0",
+      "url": "https://aagag.com/issue/?idx=1667303",
+      "source": "애객",
+      "title": "밴드부의 그녀가 베이스에게 상냥한 이유",
+      "publishedAt": "2026-11-05T16:40:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4Dku.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "너 없음 ㅈ됨"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4Dku.webp"
+      ],
+      "videos": [],
+      "excerpt": "너 없음 ㅈ됨",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8943648",
+          "text": "베이스 GOAT 닌주 https://aagag.com/issue/?idx=1428847_1"
+        },
+        {
+          "id": "8943652",
+          "text": ".... 으음 베이스 하면 그 아저씨만 떠오르게 되어 버림.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T16:44:23.556093+09:00",
+      "sourceTitles": [
+        "밴드부의 그녀가 베이스에게 상냥한 이유",
+        "기타리스트가 베이시스트를 챙기는 이유.jpgif",
+        "만화) 밴드부의 그녀가 베이스에게 상냥한 이유",
+        "밴드부의 그녀가 베이스에게 상냥한 이유"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-05T07:44:35.258645+00:00",
+      "collectedAt": "2026-11-05T16:44:35.258664+09:00",
+      "firstPublishedAt": "2026-11-05T07:44:35.342299+00:00"
+    },
     {
       "id": "aagag-733860-0",
       "url": "https://aagag.com/issue/?idx=733860",
