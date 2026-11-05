@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T04:31:10.277100+00:00",
+  "collectedAt": "2026-11-05T04:32:08.310696+00:00",
   "windowEnd": "2026-11-05T13:31:10.175430+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9173,6 +9173,56 @@
       "firstPublishedAt": "2026-11-04T16:06:21.573433+00:00"
     },
     {
+      "id": "aagag-1667255-0",
+      "url": "https://aagag.com/issue/?idx=1667255",
+      "source": "애객",
+      "title": "김도아 치어리더.mp4",
+      "publishedAt": "2026-11-05T13:27:07+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L46i6.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L46i6.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8942635",
+          "text": "저기...그...관객석에는 위쪽 아래쪽에도 앉아있는 사람들이 많으니"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T13:32:01.880098+09:00",
+      "sourceTitles": [
+        "반도의 치어리더 누나 gif",
+        "김도아 치어리더.mp4",
+        "ㅇㅎ) 목요일 좋아 !!",
+        "ㅇㅎ?) 가볍게 움직이는 김도아 치어리더.mp4",
+        "김도아 ㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-05T04:32:08.242970+00:00",
+      "collectedAt": "2026-11-05T13:32:08.242987+09:00",
+      "firstPublishedAt": "2026-11-05T04:32:08.334948+00:00"
+    },
+    {
       "id": "aagag-1667240-0",
       "url": "https://aagag.com/issue/?idx=1667240",
       "source": "애객",
@@ -9281,7 +9331,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
