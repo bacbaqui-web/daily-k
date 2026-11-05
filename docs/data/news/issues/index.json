@@ -1,6 +1,155 @@
 {
-  "editionCount": 99,
+  "editionCount": 100,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "mrblue-goods-black-friday-2026",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "굿즈 할인행사와 재입고 계획이 발표됐습니다. 6일 행사 실행과 판매 성과는 미확인입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "발표",
+        "storyId": "20261105-pm-web-01",
+        "title": "미스터블루, 온라인 굿즈샵 할인행사 발표…6일 오후 4시 예정"
+      },
+      "path": "mrblue-goods-black-friday-2026.json",
+      "title": "미스터블루 온라인 굿즈샵 할인행사와 IP 상품화"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 33,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "코스피 5.28%·코스닥 5.11% 하락 마감과 양 시장 매도 사이드카가 확인됐습니다. 이후 가격 방향은 미확정입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "결과",
+        "storyId": "20261105-pm-eco-01",
+        "title": "코스피 5.28%·코스닥 5.11% 하락 마감…양 시장 매도 사이드카"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "hegseth-impeachment-vote-push-2026",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "하원의 탄핵소추안 표결 추진이 보도됐습니다. 실제 표결·가결과 장관 거취는 미확정입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "보도",
+        "storyId": "20261105-pm-int-01",
+        "title": "미 하원, 헤그세스 국방장관 탄핵소추안 표결 추진 보도"
+      },
+      "path": "hegseth-impeachment-vote-push-2026.json",
+      "title": "헤그세스 미국 국방장관 탄핵소추안 표결 추진"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "eunpyeong-former-partner-killing-protection-review-2026",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "피해자 발견·피의자 체포와 사전 신고·보호조치 이력이 보도됐습니다. 사인·범행 경위와 책임은 미확정입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "보도",
+        "storyId": "20261105-pm-soc-01",
+        "title": "은평 전 연인 살해 사건…네 차례 신고·고위험 관리에도 피해"
+      },
+      "path": "eunpyeong-former-partner-killing-protection-review-2026.json",
+      "title": "은평 전 연인 살해 사건과 신고·피해자 보호조치 조사"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "child-left-school-bus-gyeonggi-2026",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "10월 1일 발생한 아동 방치 사건의 안전장치 비활성화와 경찰 수사 현황이 보도됐습니다. 형사책임은 미확정입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "보도",
+        "storyId": "20261105-pm-safe-01",
+        "title": "4살 아이 통학버스에 약 3시간 고립…하차 확인 의무 경찰 수사"
+      },
+      "path": "child-left-school-bus-gyeonggi-2026.json",
+      "title": "경기 영어학원 통학버스 아동 방치와 안전의무 수사"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "cheonghae-unit-operation-area-expansion-2026",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "호르무즈해협·오만만을 제외한 작전구역 확대 방안이 보도됐습니다. 승인과 실제 배치는 미확정입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "예정",
+        "storyId": "20261105-pm-pol-01",
+        "title": "정부, 청해부대 작전구역 확대 추진…호르무즈해협·오만만 제외"
+      },
+      "path": "cheonghae-unit-operation-area-expansion-2026.json",
+      "title": "청해부대 작전구역과 전력 확대 추진"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "basic-research-qualitative-evaluation-reform-2027",
+      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "lastCoveredDate": "2026-11-05",
+      "latest": {
+        "archive": false,
+        "change": "논문·특허 건수 제출 의무 폐지 등을 담은 시행계획이 확정됐습니다. 최종 예산과 실제 시행 효과는 미확인입니다.",
+        "editionId": "2026-11-05-pm",
+        "stage": "확정",
+        "storyId": "20261105-pm-tech-01",
+        "title": "내년 기초연구 평가, 논문·특허 건수 제출 의무 폐지"
+      },
+      "path": "basic-research-qualitative-evaluation-reform-2027.json",
+      "title": "2027년 기초연구사업 질적 평가와 지원체계 개편"
+    },
     {
       "categories": [
         "사회이슈"
@@ -2128,29 +2277,6 @@
       },
       "path": "rok-us-scm-postponement-2026.json",
       "title": "한미 SCM 연기와 국방장관 회담 일정"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 32,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-10-28T21:46:37.713370+09:00",
-      "lastCoveredDate": "2026-10-28",
-      "latest": {
-        "archive": false,
-        "change": "코스피가 6% 넘게 상승해 6000선을 회복했습니다. 이후 가격 방향은 미확정입니다.",
-        "editionId": "2026-10-28-pm",
-        "stage": "결과",
-        "storyId": "20261028-pm-eco-01",
-        "title": "코스피 6% 넘게 상승…10거래일 만에 6000선 회복"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -9170,7 +9296,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 738,
+  "storyCount": 745,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-05T09:42:27.768202+09:00"
+  "updatedAt": "2026-11-05T21:17:43.852802+09:00"
 }
