@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T00:02:46.602980+00:00",
+  "collectedAt": "2026-11-05T00:04:56.414234+00:00",
   "windowEnd": "2026-11-05T09:02:46.490937+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9099,7 +9099,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9126,6 +9126,83 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667191-0",
+      "url": "https://aagag.com/issue/?idx=1667191",
+      "source": "애객",
+      "title": "성불 못한 여친 manhwa",
+      "publishedAt": "2026-11-05T08:52:25+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KuzoG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KuzoR.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Kuzob.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Kuzon.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KuzoG.webp",
+        "https://i.aagag.com/o/KuzoR.webp",
+        "https://i.aagag.com/o/Kuzob.webp",
+        "https://i.aagag.com/o/Kuzon.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8941180",
+          "text": "와 6p..."
+        },
+        {
+          "id": "8941187",
+          "text": "그거에 대한 미련이 있는 유령이 또 오고.."
+        },
+        {
+          "id": "8941208",
+          "text": "하앙..하앙..살..살것같아~!!"
+        },
+        {
+          "id": "8941213",
+          "text": "왜..쟤 여친은 많이 죽었을까...무서운걸.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T09:04:42.733314+09:00",
+      "sourceTitles": [
+        "성불 못하는 여친.manga",
+        "성불 여친 manhwa",
+        "성불 여친 manhwa",
+        "성불 못한 여친 manhwa",
+        "밥을 챙겨주고 싶은 여자친구.manhwa",
+        "남친의 식단에 미련이 남았던 전여친.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-05T00:04:56.348212+00:00",
+      "collectedAt": "2026-11-05T09:04:56.348230+09:00",
+      "firstPublishedAt": "2026-11-05T00:04:56.437152+00:00"
+    },
     {
       "id": "aagag-1580950-0",
       "url": "https://aagag.com/issue/?idx=1580950",
