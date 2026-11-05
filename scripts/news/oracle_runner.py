@@ -12,7 +12,12 @@ import sys
 import time
 import urllib.request
 from zoneinfo import ZoneInfo
-from codex_subscription import run_codex, check_login
+from codex_subscription import run_codex as _run_codex, check_login
+from editorial_policy import POLICY
+
+def run_codex(prompt, **kwargs):
+    return _run_codex(POLICY + "\n" + prompt, **kwargs)
+
 
 ROOT = Path(__file__).resolve().parents[2]
 KST = ZoneInfo('Asia/Seoul')
@@ -61,6 +66,10 @@ def check_sources(brief, urls):
         return canonical_url(quote(url, safe=":/?#[]@!$&'()*+,;=%"))
     known = {evidence_key(url) for url in urls}
     for story in brief['stories']:
+        for item in [story] + story.get('alternatives', []):
+            update = item.get('reserveUpdate')
+            if update and evidence_key(update.get('sourceUrl', '')) not in known:
+                raise ValueError('Reserve update source absent from research evidence')
         for source in story['sources'] + story.get('relatedArticles', []) + story.get('alternatives', []):
             if evidence_key(source['url']) not in known:
                 raise ValueError('Source URL absent from actual research evidence: ' + source['url'])

@@ -71,6 +71,35 @@ def duplicate(a,b):
     if fingerprint(a['keyFacts'])==fingerprint(b['keyFacts']): return True
     return SequenceMatcher(None,normalized(a['title']),normalized(b['title'])).ratio() >= .82
 
+def validate_previous_alternatives(brief, history):
+    """A previously published reserve needs evidence of a substantive update."""
+    cutoff = timestamp(brief['cutoffAt'])
+    previous = [(old, a) for old in history
+                if old.get('id') != brief['id'] and timestamp(old['cutoffAt']) < cutoff
+                and (cutoff - timestamp(old['cutoffAt'])).total_seconds() <= 7*86400
+                for story in old.get('stories', []) for a in story.get('alternatives', [])]
+    for story in brief['stories']:
+        for item in [story] + story.get('alternatives', []):
+            urls = {canonical_url(x) for x in
+                    [item.get('url'), item.get('representativeUrl')] +
+                    [x.get('url') for x in item.get('sources', [])] if x}
+            title = normalized(item.get('title', ''))
+            matches = [(old, a) for old, a in previous if
+                       (a.get('url') and canonical_url(a['url']) in urls) or
+                       (len(title) >= 12 and SequenceMatcher(None, title,
+                        normalized(a.get('title', ''))).ratio() >= .85)]
+            if not matches:
+                continue
+            old, _ = max(matches, key=lambda pair: timestamp(pair[0]['cutoffAt']))
+            update = item.get('reserveUpdate', {})
+            require(update.get('editionId') == old['id'],
+                    'Previously published alternative needs reserveUpdate: ' + item['title'])
+            require(len(update.get('delta', '').strip()) >= 20 and
+                    bool(update.get('sourceUrl')),
+                    'Explain substantive new facts and source for previous alternative')
+            require(timestamp(old['cutoffAt']) < timestamp(update.get('publishedAt')) <= cutoff,
+                    'Previous alternative needs new evidence after prior cutoff')
+
 def validate(draft, history, now=None):
     b=copy.deepcopy(draft)
     require(b.get('schemaVersion')==1 and b.get('timezone')=='Asia/Seoul','Invalid version/timezone')
@@ -93,6 +122,8 @@ def validate(draft, history, now=None):
     stories=b['stories']; require(5<=len(stories)<=20,'Must contain 5–20 stories including additional news')
     require(len({s['id'] for s in stories})==len(stories),'Duplicate story ID')
     # Imported ChatGPT records are useful context, not independently verified evidence.
+    if b['date'] >= '2026-11-06':
+        validate_previous_alternatives(b, history)
     prior=[(old,s) for old in history if not old.get('archive') and old['id']!=b['id'] and timestamp(old['cutoffAt'])<cutoff for s in old['stories']]
     for i,s in enumerate(stories):
         require(re.fullmatch(r'[a-z0-9][a-z0-9-]*',s['id']) is not None,'Unsafe story ID')
