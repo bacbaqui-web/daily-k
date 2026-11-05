@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T08:51:10.742977+00:00",
+  "collectedAt": "2026-11-05T08:53:13.347935+00:00",
   "windowEnd": "2026-11-05T17:51:10.640601+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2866,6 +2866,91 @@
       "sourceTitlesFetchedAt": "2026-11-04T19:56:28.551522+00:00",
       "collectedAt": "2026-11-05T04:56:28.551541+09:00",
       "firstPublishedAt": "2026-11-04T19:56:28.646968+00:00"
+    },
+    {
+      "id": "aagag-1667317-0",
+      "url": "https://aagag.com/issue/?idx=1667317",
+      "source": "애객",
+      "title": "몽골의 한국어 교육 프로그램 영상",
+      "publishedAt": "2026-11-05T17:41:47+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "https://humoruniv.com/pds1431373"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L3ylW.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "MGM edu LLC 라는 몽골 외국어 교육기관이라고 함"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L3ylW.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "https://humoruniv.com/pds1431373\nMGM edu LLC 라는 몽골 외국어 교육기관이라고 함",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 7,
+      "laughingComments": 3,
+      "score": 18,
+      "kPerComment": 2.5714285714285716,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8943904",
+          "text": "ㅋㅋㅋㅋ 언어와 문화를 동시에 교육시키네..."
+        },
+        {
+          "id": "8943909",
+          "text": "욕나오네 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8943910",
+          "text": "왜이리 귀엽니 ㅎㅎㅎㅎㅎ"
+        },
+        {
+          "id": "8943911",
+          "text": "아무거나 내가 마음에 드는 걸로 골라와"
+        },
+        {
+          "id": "8943932",
+          "text": "한국에서 AI로 만든 쇼츠에 자막만 달아서 교재로 쓰는듯함."
+        },
+        {
+          "id": "8943937",
+          "text": "이거 보니 베테랑칼국수 땡긴다"
+        },
+        {
+          "id": "8943938",
+          "text": "ㅋㅋㅋㅋㅋㅋ으악 너무 귀엽다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T17:52:58.408682+09:00",
+      "sourceTitles": [
+        "몽골의 한국어 교육 프로그램 영상.mp4",
+        "몽골의 한국어 교육 프로그램 영상",
+        "몽골의 한국어 교육 프로그램 영상",
+        "몽골의 한국어 교육 프로그램 영상",
+        "몽골의 한국어 교육 프로그램 영상",
+        "몽골의 한국어 교육 프로그램 영상",
+        "몽골의 한국어 교육 프로그램 영상",
+        "ai) 여자들이 말하는 아무거나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-05T08:53:13.245859+00:00",
+      "collectedAt": "2026-11-05T17:53:13.245876+09:00",
+      "firstPublishedAt": "2026-11-05T08:53:13.408517+00:00"
     },
     {
       "id": "aagag-1646686-0",
@@ -8510,7 +8595,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
