@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-06",
-  "collectedAt": "2026-11-05T21:20:43.031710+00:00",
+  "collectedAt": "2026-11-05T21:22:15.501156+00:00",
   "windowEnd": "2026-11-06T06:20:42.930762+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2532,6 +2532,59 @@
       "sourceTitlesFetchedAt": "2026-11-05T03:57:30.275848+00:00",
       "collectedAt": "2026-11-05T12:57:30.275866+09:00",
       "firstPublishedAt": "2026-11-05T03:57:30.379250+00:00"
+    },
+    {
+      "id": "aagag-1667420-0",
+      "url": "https://aagag.com/issue/?idx=1667420",
+      "source": "애객",
+      "title": "주식) 현재 빅테크 무빙.mp4",
+      "publishedAt": "2026-11-06T06:07:44+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4Fuo.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4Fuo.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 21,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 21,
+      "kPerComment": 10.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8945422",
+          "text": "겁나 찰지네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8945424",
+          "text": "야선 하한가.. 반도체 멸망..ㅠ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-06T06:22:02.694522+09:00",
+      "sourceTitles": [
+        "ai로 표현한 현재 빅테크 무빙",
+        "빅테크 무빙 현재 상황",
+        "주식) 현재 빅테크 무빙.mp4",
+        "현재 빅테크 무빙.gif"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-05T21:22:15.428973+00:00",
+      "collectedAt": "2026-11-06T06:22:15.428990+09:00",
+      "firstPublishedAt": "2026-11-05T21:22:15.532195+00:00"
     },
     {
       "id": "aagag-1445042-1",
@@ -7724,7 +7777,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
