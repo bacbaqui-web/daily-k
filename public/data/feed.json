@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T16:33:16.426715+09:00",
-  "windowEnd": "2026-11-05T16:29:00.488374+09:00",
+  "collectedAt": "2026-11-05T07:43:33.260096+00:00",
+  "windowEnd": "2026-11-05T16:43:33.159719+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -1855,90 +1855,6 @@
       "sourceTitlesFetchedAt": "2026-11-04T12:01:00.431357+00:00",
       "collectedAt": "2026-11-04T21:01:00.431419+09:00",
       "firstPublishedAt": "2026-11-04T12:01:00.529127+00:00"
-    },
-    {
-      "id": "aagag-1667041-0",
-      "url": "https://aagag.com/issue/?idx=1667041",
-      "source": "애객",
-      "title": "최신) 라스베이거스 트럼프 타워 근황",
-      "publishedAt": "2026-11-04T16:22:33+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L41cL.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L41cL.webp"
-      ],
-      "videos": [],
-      "excerpt": ".",
-      "reportedCommentCount": 10,
-      "commentsPartial": false,
-      "kCount": 29,
-      "commentCount": 10,
-      "laughingComments": 6,
-      "score": 29,
-      "kPerComment": 2.9,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8938917",
-          "text": "이건 트럼프도 웃었다"
-        },
-        {
-          "id": "8938919",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ저 조명 갖고싶다"
-        },
-        {
-          "id": "8938926",
-          "text": "누군가 앞에다가 F.U.C.K이라도고 쓰겠네"
-        },
-        {
-          "id": "8938927",
-          "text": "ㅋㅋㅋㅋㅋㅋ 쩌네"
-        },
-        {
-          "id": "8938944",
-          "text": "하야좀 해라 시.발놈아"
-        },
-        {
-          "id": "8938945",
-          "text": "ㅋㅋㅋㅋ 레이저 성능 쥐기네"
-        },
-        {
-          "id": "8938954",
-          "text": "조선일보 생각나네 ㅋㅋㅋ"
-        },
-        {
-          "id": "8938957",
-          "text": "오늘 내일중에 계엄 선포하는거 아닌지 몰라..."
-        },
-        {
-          "id": "8938962",
-          "text": "엠비 아웃 확 떠오르네요 ㅋㅋㅋ"
-        },
-        {
-          "id": "8938964",
-          "text": "ㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-04T16:37:03.302807+09:00",
-      "sourceTitles": [
-        "최신) 라스베이거스 트럼프 타워 근황",
-        "실시간 트럼프타워 근황 ㅋㅋㅋㅋㅋ",
-        "라스베가스 트럼프 타워 근황.jpg"
-      ],
-      "sourceHistoryPartial": true,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-04T07:37:14.380087+00:00",
-      "collectedAt": "2026-11-04T16:37:14.380103+09:00",
-      "firstPublishedAt": "2026-11-04T07:37:14.474489+00:00"
     },
     {
       "id": "aagag-1638951-0",
@@ -9306,9 +9222,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
