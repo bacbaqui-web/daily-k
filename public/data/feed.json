@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T08:16:46.604226+00:00",
+  "collectedAt": "2026-11-05T08:18:53.778223+00:00",
   "windowEnd": "2026-11-05T17:16:46.501122+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9099,6 +9099,91 @@
       "firstPublishedAt": "2026-11-04T13:48:23.254971+00:00"
     },
     {
+      "id": "aagag-1667304-0",
+      "url": "https://aagag.com/issue/?idx=1667304",
+      "source": "애객",
+      "title": "김현영 치어리더 인스타 업뎃",
+      "publishedAt": "2026-11-05T17:06:59+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L46zk.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L46zp.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4700.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4AW9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4AWC.webp",
+          "alt": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L470F.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L46zk.webp",
+        "https://i.aagag.com/o/L46zp.webp",
+        "https://i.aagag.com/o/L4700.webp",
+        "https://i.aagag.com/o/L4AW9.webp",
+        "https://i.aagag.com/o/L4AWC.webp"
+      ],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L470F.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8943738",
+          "text": "역시 수원특례시"
+        },
+        {
+          "id": "8943739",
+          "text": "원기옥을 모아도 저것보단 작겠네 👍최고"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-05T17:18:48.491136+09:00",
+      "sourceTitles": [
+        "김현영 치어리더 인스타 업뎃",
+        "김현영 치어리더",
+        "ㅇㅎ?) 김현영 치어리더 인스타 업뎃",
+        "김현영 치어리더 인스타 ㅗㅜㅑ",
+        "김현영 치어리더"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-05T08:18:53.711870+00:00",
+      "collectedAt": "2026-11-05T17:18:53.711887+09:00",
+      "firstPublishedAt": "2026-11-05T08:18:53.804862+00:00"
+    },
+    {
       "id": "aagag-1667129-0",
       "url": "https://aagag.com/issue/?idx=1667129",
       "source": "애객",
@@ -9371,7 +9456,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
