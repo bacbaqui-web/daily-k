@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-07T06:00:07.968345+09:00",
-  "windowEnd": "2026-11-07T05:53:50.490223+09:00",
+  "collectedAt": "2026-11-06T21:10:27.093280+00:00",
+  "windowEnd": "2026-11-07T06:10:26.975709+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -9602,55 +9602,6 @@
       "firstPublishedAt": "2026-11-06T19:56:24.550004+00:00"
     },
     {
-      "id": "aagag-1667416-0",
-      "url": "https://aagag.com/issue/?idx=1667416",
-      "source": "애객",
-      "title": "님, 레고 부품 NO. 28125 닮았음",
-      "publishedAt": "2026-11-06T05:52:23+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4IOM.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4IOM.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 1,
-      "laughingComments": 1,
-      "score": 12,
-      "kPerComment": 12.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8945411",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-06T06:06:34.524834+09:00",
-      "sourceTitles": [
-        "님 레고 부품 NO. 28125 닮았음",
-        "님, 레고 부품 NO. 28125 닮았음",
-        "님, 레고 부품 NO. 28125 닮았음",
-        "님 레고 부품 NO. 28125 닮았음.mp4"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-05T21:06:46.088022+00:00",
-      "collectedAt": "2026-11-06T06:06:46.088039+09:00",
-      "firstPublishedAt": "2026-11-05T21:06:46.198514+00:00"
-    },
-    {
       "id": "aagag-1667467-0",
       "url": "https://aagag.com/issue/?idx=1667467",
       "source": "애객",
@@ -12847,9 +12798,9 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
