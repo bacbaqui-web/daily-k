@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-06T21:40:57.206338+00:00",
+  "collectedAt": "2026-11-06T21:42:43.533680+00:00",
   "windowEnd": "2026-11-07T06:40:57.084970+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -12891,7 +12891,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -12918,6 +12918,87 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667667-0",
+      "url": "https://aagag.com/issue/?idx=1667667",
+      "source": "애객",
+      "title": "반값 도시락만 사는 사람의 얼굴",
+      "publishedAt": "2026-11-07T06:28:32+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KpmCB.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KpmCM.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KpmCU.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KpmCc.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KpmCB.webp",
+        "https://i.aagag.com/o/KpmCM.webp",
+        "https://i.aagag.com/o/KpmCU.webp",
+        "https://i.aagag.com/o/KpmCc.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8949582",
+          "text": "해피엔딩인거죠...!?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-07T06:42:30.108357+09:00",
+      "sourceTitles": [
+        "금요일 저녁 시간대 마트의 정겨운 풍경.jpg",
+        "금요일 저녁 시간대 마트의 정겨운 풍경.jpg",
+        "반값 도시락만 사는 사람의 얼굴",
+        "술 담배사는 미자와 성인 차이",
+        "유게이의 행복",
+        "금요일 저녁 시간대 마트의 정겨운 풍경.jpg",
+        "내 소박한 소원 딱 1개 좀 이루어져라 이번주 로또1등 되게 해줘",
+        "진심 미소 10000000%",
+        "그저 싱글벙글 흐뭇한 만화",
+        "그저 싱글벙글 흐뭇한 만화",
+        "반값 도시락만 사는 손님 특징",
+        "요새 매일 한번씩 보는 만화",
+        "반값 도시락만 사는 사람의 얼굴",
+        "반값 상품만 사가는 인간의 얼굴이란....",
+        "마감세일하는 도시락 사는 여자만화",
+        "마감 세일 하는 도시락 사는 사람 표정",
+        "'이 손님 유통기한 아슬아슬한 식품만 사가네..'",
+        "반값 상품만 사는 손님.manga",
+        "반값 도시락만 사는 사람의 얼굴 manhwa",
+        "반값 도시락만 사는 사람의 얼굴",
+        "반값 도시락만 사는 사람의 얼굴",
+        "마트에서 반값상품만 구매하는 손님의 표정"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 22,
+      "sourceTitlesFetchedAt": "2026-11-06T21:42:43.455206+00:00",
+      "collectedAt": "2026-11-07T06:42:43.455226+09:00",
+      "firstPublishedAt": "2026-11-06T21:42:43.561683+00:00"
+    },
     {
       "id": "aagag-1570335-0",
       "url": "https://aagag.com/issue/?idx=1570335",
