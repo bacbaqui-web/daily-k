@@ -26,6 +26,8 @@ class PreviousReserveTests(unittest.TestCase):
         self.item['reserveUpdate']['publishedAt']='2026-11-06T08:00:00+09:00'
         with self.assertRaises(ValueError):
             validate_previous_alternatives(self.brief,[self.old])
+    def test_archive_without_cutoff_is_ignored(self):
+        validate_previous_alternatives(self.brief,[{'id':'archive','archive':True,'cutoffAt':None,'stories':[]}])
     def test_unrelated_story_allowed(self):
         self.item.update(title='새로운 과학 연구 성과 발표',representativeUrl='https://example.org/science')
         validate_previous_alternatives(self.brief,[self.old])
