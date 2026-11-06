@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-07T06:15:32.235687+09:00",
-  "windowEnd": "2026-11-07T06:10:26.975709+09:00",
+  "collectedAt": "2026-11-06T21:25:48.178910+00:00",
+  "windowEnd": "2026-11-07T06:25:48.057636+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5373,59 +5373,6 @@
       "sourceTitlesFetchedAt": "2026-11-06T15:14:47.741507+00:00",
       "collectedAt": "2026-11-07T00:14:47.741530+09:00",
       "firstPublishedAt": "2026-11-06T15:14:47.872892+00:00"
-    },
-    {
-      "id": "aagag-1667420-0",
-      "url": "https://aagag.com/issue/?idx=1667420",
-      "source": "애객",
-      "title": "주식) 현재 빅테크 무빙.mp4",
-      "publishedAt": "2026-11-06T06:07:44+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4Fuo.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4Fuo.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 21,
-      "commentCount": 2,
-      "laughingComments": 1,
-      "score": 21,
-      "kPerComment": 10.5,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8945422",
-          "text": "겁나 찰지네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8945424",
-          "text": "야선 하한가.. 반도체 멸망..ㅠ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-06T06:22:02.694522+09:00",
-      "sourceTitles": [
-        "ai로 표현한 현재 빅테크 무빙",
-        "빅테크 무빙 현재 상황",
-        "주식) 현재 빅테크 무빙.mp4",
-        "현재 빅테크 무빙.gif"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-05T21:22:15.428973+00:00",
-      "collectedAt": "2026-11-06T06:22:15.428990+09:00",
-      "firstPublishedAt": "2026-11-05T21:22:15.532195+00:00"
     },
     {
       "id": "aagag-1667506-0",
@@ -12944,9 +12891,9 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
