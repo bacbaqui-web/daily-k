@@ -110,6 +110,8 @@ def clean_publication_metadata(brief):
     return brief
 
 def stamp(brief, edition, verified_at):
+    if not isinstance(brief, dict):
+        raise ValueError('brief must be a JSON object; program supplies verifiedAt')
     clean_publication_metadata(brief)
     day, slot = edition[:10], edition[11:]
     brief.update(schemaVersion=1, id=edition, date=day, edition=slot, timezone='Asia/Seoul',

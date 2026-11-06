@@ -1,6 +1,309 @@
 {
-  "editionCount": 100,
+  "editionCount": 102,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "webtoon-expert-third-cohort-completion-employment-2026",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "53명 수료와 예비 PD 7명 취업, 상담 66건이 보도됐습니다. 후속 계약 성과는 미확인입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "결과",
+        "storyId": "20261106-pm-web-01",
+        "title": "웹툰 엑스퍼트 3기 53명 수료…예비 PD 7명 조기 취업"
+      },
+      "path": "webtoon-expert-third-cohort-completion-employment-2026.json",
+      "title": "웹툰 엑스퍼트 3기 수료와 취업·비즈니스 상담 결과"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "national-ai-legislative-framework-2026",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "AI 입법 프레임워크와 TF 운영계획 등이 의결됐습니다. 개별 법률 정비와 실행 성과는 미확인입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "확정",
+        "storyId": "20261106-pm-tech-01",
+        "title": "국가AI전략위, 범정부 AI 입법 프레임워크 의결"
+      },
+      "path": "national-ai-legislative-framework-2026.json",
+      "title": "범정부 AI 입법 프레임워크와 국가AI전략위 핵심과제 운영"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "정치·정책"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-19",
+      "id": "korea-defense-cooperation",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "장보고 N의 규모와 장기 사업 일정이 보도됐습니다. 연료 협의와 건조·전력화는 미완료입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "발표",
+        "storyId": "20261106-pm-pol-01",
+        "title": "정부, 핵추진잠수함 ‘장보고 N’ 계획 발표…내년 사업 착수 목표"
+      },
+      "path": "korea-defense-cooperation.json",
+      "title": "한국 국방·전작권·방산 협력"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "influenza-surveillance-2026-season",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "44주차 의심환자 22.8명과 입원환자 461명이 보도됐습니다. 전체 환자 수와 이후 유행은 미확인입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "발표",
+        "storyId": "20261106-pm-safe-01",
+        "title": "독감 의심환자 전주 대비 18.8% 증가…입원환자 461명"
+      },
+      "path": "influenza-surveillance-2026-season.json",
+      "title": "2026년 독감 표본감시와 유행 동향"
+    },
+    {
+      "categories": [
+        "국제·사회",
+        "국제정세"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "france-cost-of-living-protests-2026-10-17",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "새 전국 시위·파업 집계와 사회협의회 개최 계획이 보도됐습니다. 임금정책 변경은 미확정입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "후속",
+        "storyId": "20261106-pm-int-01",
+        "title": "프랑스 57만5000명 시위·파업…정부, 임금·생활비 사회협의회 추진"
+      },
+      "path": "france-cost-of-living-protests-2026-10-17.json",
+      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "credit-financing-collateral-ratio-temporary-exemption-2026",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "9일부터 3개월간 담보비율 유지의무를 면제하기로 했습니다. 실제 시행 효과는 미확인입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "발표",
+        "storyId": "20261106-pm-eco-01",
+        "title": "정부, 신용융자 담보비율 유지의무 3개월 면제…9일부터 시행"
+      },
+      "path": "credit-financing-collateral-ratio-temporary-exemption-2026.json",
+      "title": "신용융자 담보비율 유지의무 한시 면제"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "basic-pension-differentiated-benefits-public-debate-2026",
+      "lastCoveredAt": "2026-11-06T21:14:11.083376+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "토론회에서 장기 영향의 조건부 분석과 공론화 요구가 제시됐습니다. 제도 변경은 미확정입니다.",
+        "editionId": "2026-11-06-pm",
+        "stage": "분석",
+        "storyId": "20261106-pm-soc-01",
+        "title": "기초연금 차등지급안 토론회…노후보장 영향 분석·공론화 요구"
+      },
+      "path": "basic-pension-differentiated-benefits-public-debate-2026.json",
+      "title": "기초연금 차등지급안의 노후소득 영향과 공론화"
+    },
+    {
+      "categories": [
+        "국제·외교",
+        "국제정세"
+      ],
+      "eventCount": 15,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "us-iran-negotiations",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "핵 프로그램 관련 구체적인 중재안 검토가 보도됐습니다. 협상 재개와 합의는 미확정입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "후속",
+        "storyId": "20261106-am-int-01",
+        "title": "이란, 핵 프로그램 중재안 검토 보도…협상 재개·합의는 미확정"
+      },
+      "path": "us-iran-negotiations.json",
+      "title": "미국·이란 협상과 외교적 조치"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 28,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "미국 3대 지수가 급락 마감했습니다. 규제·투자 우려는 시장 해석이며 이후 국내 반응은 미확인입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "결과",
+        "storyId": "20261106-am-eco-01",
+        "title": "뉴욕증시 급락…나스닥 5.52%·S&P500 4.36% 하락 마감"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "overseas-ip-protection-council-10th-meeting-2026",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "협의체에서 불법유통 대책과 긴급차단 확대가 요청됐습니다. 정책 확정과 실행 성과는 미확인입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "보도",
+        "storyId": "20261106-am-web-01",
+        "title": "해외지식재산보호협의체 개최…웹툰 불법유통 대응·긴급차단 확대 요청"
+      },
+      "path": "overseas-ip-protection-council-10th-meeting-2026.json",
+      "title": "제10차 해외지식재산보호협의체와 웹툰 불법유통 대응 논의"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "korea-un-north-korea-human-rights-resolution-cosponsorship-2026",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "공동제안 참여와 한국 측 제안 반영이 설명됐습니다. 결의안 채택과 이행은 미확정입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "발표",
+        "storyId": "20261106-am-pol-01",
+        "title": "정부, 유엔 북한인권결의안 공동제안국 참여…대화·인도적 사안 반영"
+      },
+      "path": "korea-un-north-korea-human-rights-resolution-cosponsorship-2026.json",
+      "title": "한국의 2026년 유엔총회 북한인권결의안 공동제안 참여"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "jangheung-duck-farm-h5-detection-2026",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "새 H5형 항원 검출과 방역·24시간 이동중지가 보도됐습니다. 고병원성 여부는 검사 중입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "발표",
+        "storyId": "20261106-am-safe-01",
+        "title": "장흥 육용오리 농장 H5형 AI 항원 검출…24시간 이동중지"
+      },
+      "path": "jangheung-duck-farm-h5-detection-2026.json",
+      "title": "장흥 육용오리 농장 H5형 조류인플루엔자 항원 검출과 방역"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "hindu-migrant-worker-dismissal-workplace-transfer-2026",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "노동위 부당해고 인정이 보도됐습니다. 사업장 변경 허가와 구제 이행은 미확인입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "보도",
+        "storyId": "20261106-am-soc-01",
+        "title": "힌두교 이주노동자 소고기 발골 업무 갈등…노동위 부당해고 인정"
+      },
+      "path": "hindu-migrant-worker-dismissal-workplace-transfer-2026.json",
+      "title": "힌두교 이주노동자의 업무 갈등과 부당해고·사업장 변경"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "firstCoveredDate": "2026-11-06",
+      "id": "fusion-msr-display-rd-feasibility-results-2026",
+      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
+      "lastCoveredDate": "2026-11-06",
+      "latest": {
+        "archive": false,
+        "change": "서면위원회에서 세 연구사업 예타 결과가 확정됐습니다. 실제 집행과 기술 실증은 향후 단계입니다.",
+        "editionId": "2026-11-06-am",
+        "stage": "확정",
+        "storyId": "20261106-am-tech-01",
+        "title": "핵융합·해양용 MSR·디스플레이 연구사업 예타 결과 확정"
+      },
+      "path": "fusion-msr-display-rd-feasibility-results-2026.json",
+      "title": "핵융합·해양용 MSR·디스플레이 연구사업 예비타당성조사"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -1040,28 +1343,6 @@
     },
     {
       "categories": [
-        "국제·외교",
-        "국제정세"
-      ],
-      "eventCount": 14,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "us-iran-negotiations",
-      "lastCoveredAt": "2026-11-02T09:19:38.083852+09:00",
-      "lastCoveredDate": "2026-11-02",
-      "latest": {
-        "archive": false,
-        "change": "이란 외무장관이 카타르 중재 협의 진전을 설명했습니다. 최종 합의와 이행은 미확인입니다.",
-        "editionId": "2026-11-02-am",
-        "stage": "후속",
-        "storyId": "20261102-am-int-01",
-        "title": "이란 외무장관 “카타르 중재 협의 진전…최종 합의는 아직”"
-      },
-      "path": "us-iran-negotiations.json",
-      "title": "미국·이란 협상과 외교적 조치"
-    },
-    {
-      "categories": [
         "웹툰산업"
       ],
       "eventCount": 1,
@@ -1633,33 +1914,6 @@
       },
       "path": "us-ukraine-patriot-sale-approval-2026.json",
       "title": "미국의 우크라이나 패트리엇 요격미사일 판매 승인"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 27,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-10-31T09:13:41.128928+09:00",
-      "lastCoveredDate": "2026-10-31",
-      "latest": {
-        "archive": false,
-        "change": "미국 3대 지수와 반도체주가 하락 마감했습니다. 이후 국내 시장 반응은 미확인입니다.",
-        "editionId": "2026-10-31-am",
-        "stage": "결과",
-        "storyId": "20261031-am-eco-01",
-        "title": "뉴욕증시 하락…나스닥 2.86%·인텔 28.58% 급락"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -3693,28 +3947,6 @@
       },
       "path": "google-piracy-clone-sites-response-2026.json",
       "title": "구글의 불법 복제 사이트 대응과 기술 검토"
-    },
-    {
-      "categories": [
-        "국제·사회",
-        "국제정세"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-10-18T09:08:05+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "france-cost-of-living-protests-2026-10-17",
-      "lastCoveredAt": "2026-10-22T21:22:01.872756+09:00",
-      "lastCoveredDate": "2026-10-22",
-      "latest": {
-        "archive": false,
-        "change": "일부 도시의 예정 시위 금지가 보도됐습니다. 24일 보안 작전은 준비 단계입니다.",
-        "editionId": "2026-10-22-pm",
-        "stage": "후속",
-        "storyId": "20261022-pm-int-01",
-        "title": "프랑스, 파리·리옹 등 일부 도시 예정 시위 금지"
-      },
-      "path": "france-cost-of-living-protests-2026-10-17.json",
-      "title": "프랑스 생활비 항의 시위…당국 55만명·주최측 80만명"
     },
     {
       "categories": [
@@ -7343,27 +7575,6 @@
     },
     {
       "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-19",
-      "id": "korea-defense-cooperation",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-30",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 이 대통령 자주국방 강조, 핵추진잠수함·유무인 전력모함 추진 재확인.",
-        "editionId": "2026-09-30-pm-archive",
-        "stage": "보도",
-        "storyId": "archive-03",
-        "title": "이 대통령 자주국방 강조, 핵추진잠수함·유무인 전력모함 추진 재확인"
-      },
-      "path": "korea-defense-cooperation.json",
-      "title": "한국 국방·전작권·방산 협력"
-    },
-    {
-      "categories": [
         "웹툰 산업"
       ],
       "eventCount": 11,
@@ -9296,7 +9507,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 745,
+  "storyCount": 759,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-05T21:17:43.852802+09:00"
+  "updatedAt": "2026-11-06T21:14:11.083376+09:00"
 }

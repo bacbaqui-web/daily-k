@@ -75,7 +75,7 @@ def validate_previous_alternatives(brief, history):
     """A previously published reserve needs evidence of a substantive update."""
     cutoff = timestamp(brief['cutoffAt'])
     previous = [(old, a) for old in history
-                if old.get('id') != brief['id'] and timestamp(old['cutoffAt']) < cutoff
+                if not old.get('archive') and old.get('id') != brief['id'] and timestamp(old['cutoffAt']) < cutoff
                 and (cutoff - timestamp(old['cutoffAt'])).total_seconds() <= 7*86400
                 for story in old.get('stories', []) for a in story.get('alternatives', [])]
     for story in brief['stories']:
