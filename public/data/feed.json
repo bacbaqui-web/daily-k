@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-07T21:26:26.892137+00:00",
+  "collectedAt": "2026-11-07T21:28:46.016388+00:00",
   "windowEnd": "2026-11-08T06:26:26.801335+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7715,7 +7715,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7742,6 +7742,71 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-484593-0",
+      "url": "https://aagag.com/issue/?idx=484593",
+      "source": "애객",
+      "title": "어른이 된 나에게.JPG",
+      "publishedAt": "2026-11-08T06:16:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/CcwMy.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/CcwN9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/AMSm0.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/CcwMy.webp",
+        "https://i.aagag.com/o/CcwN9.webp",
+        "https://i.aagag.com/o/AMSm0.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-08T06:28:32.041011+09:00",
+      "sourceTitles": [
+        "어른이 되어버린 나와 어릴적 내가 주고 받는 편지",
+        "방금전 베스트간 만화 사족",
+        "어른이 되어버린 나와 어릴적 내가 주고 받는 편지.jpg",
+        "어른인 저에게 manga",
+        "베스트 만화보고 떠오른 17년전 곡",
+        "어른인 저에게 manga",
+        "어린이인 나와 어른이 된 내가 주고받는 편지",
+        "어린이인 나와 어른이 된 내가 주고받는 편지",
+        "어른이 된 나에게",
+        "어른이 된 나에게",
+        "어른이 된 나에게 ....",
+        "어른이 된 나에게.manhwa",
+        "어른이 된 나에게.JPG",
+        "재능을 발견했다.",
+        "재능을 발견했다.",
+        "어른인 저에게 편지를, 아이인 저에게 편지를. JPG",
+        "어렸을 적 나에게 받는 편지.Manga"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 18,
+      "sourceTitlesFetchedAt": "2026-11-07T21:28:45.963056+00:00",
+      "collectedAt": "2026-11-08T06:28:45.963077+09:00",
+      "firstPublishedAt": "2026-11-07T21:28:46.060908+00:00"
+    },
     {
       "id": "aagag-275328-0",
       "url": "https://aagag.com/issue/?idx=275328",
