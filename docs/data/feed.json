@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-07T19:42:27.063070+00:00",
+  "collectedAt": "2026-11-07T19:46:11.431240+00:00",
   "windowEnd": "2026-11-08T04:42:26.973935+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7245,7 +7245,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7272,6 +7272,71 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-275328-0",
+      "url": "https://aagag.com/issue/?idx=275328",
+      "source": "애객",
+      "title": "인트라넷의 게르만족.manhwa",
+      "publishedAt": "2026-11-08T04:34:04+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BrDmo.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "공식적으로 인트라넷 커뮤니티 만들어주면 안되나"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/BrDmo.webp"
+      ],
+      "videos": [],
+      "excerpt": "공식적으로 인트라넷 커뮤니티 만들어주면 안되나",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-08T04:45:57.941596+09:00",
+      "sourceTitles": [
+        "군대 인트라넷 게시판 만화.manga",
+        "군대 인트라넷 게시판 만화.manga",
+        "군인과 인트라넷 만화",
+        "구닌과 인트라넷.manhwa",
+        "구닌과 인트라넷 manhwa",
+        "구닌과 인트라넷 manhwa",
+        "군인과 인트라넷",
+        "육군의 인트라넷 스토리.jpg",
+        "이젠 볼 수 없는 군인들의 짓.jpg",
+        "이젠 볼 수 없는 군인들의 짓.jpg",
+        "군인과 인트라넷.JPG",
+        "대한민국 국군 장병들과 인트라넷",
+        "군인과 인트라넷 만화.jpg",
+        "군인과 인트라넷 만화.jpg",
+        "군시절 개꿀잼",
+        "군인과 인트라넷 만화.jpg",
+        "인트라넷 쓰는 만화.manhwa",
+        "인트라넷 쓰는.manga",
+        "군인과 인트라넷 만화.jpg",
+        "인트라넷 쓰는.manga",
+        "대한민국 군대 인터넷 현황.jpg",
+        "군인과 인트라넷",
+        "군인과 인트라넷",
+        "군인과 인트라넷",
+        "인트라넷의 게르만족.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 25,
+      "sourceTitlesFetchedAt": "2026-11-07T19:46:11.358635+00:00",
+      "collectedAt": "2026-11-08T04:46:11.358661+09:00",
+      "firstPublishedAt": "2026-11-07T19:46:11.454957+00:00"
+    },
     {
       "id": "aagag-1575886-0",
       "url": "https://aagag.com/issue/?idx=1575886",
