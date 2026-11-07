@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-07T08:42:17.151905+00:00",
+  "collectedAt": "2026-11-07T08:43:39.811175+00:00",
   "windowEnd": "2026-11-07T17:42:16.998299+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -14651,6 +14651,76 @@
       "firstPublishedAt": "2026-11-06T14:36:23.383647+00:00"
     },
     {
+      "id": "aagag-1667782-0",
+      "url": "https://aagag.com/issue/?idx=1667782",
+      "source": "애객",
+      "title": "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
+      "publishedAt": "2026-11-07T17:38:33+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4CsR.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4CsW.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4Csc.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4CsR.webp",
+        "https://i.aagag.com/o/L4CsW.webp",
+        "https://i.aagag.com/o/L4Csc.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8951570",
+          "text": "싼다할아버지께서 꼭 선물을 주실듯"
+        },
+        {
+          "id": "8951571",
+          "text": "어디에요"
+        },
+        {
+          "id": "8951576",
+          "text": "할아버진 아니지만 저기..."
+        },
+        {
+          "id": "8951577",
+          "text": "원하는 선물이 통일이라고? 일단 노력은 해보고있다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-07T17:43:33.154601+09:00",
+      "sourceTitles": [
+        "산타에게 선물 달라고 하는 누나",
+        "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
+        "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
+        "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
+        "ㅇㅎ) 산타에게 선물 달라고 하는 누나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-07T08:43:39.705784+00:00",
+      "collectedAt": "2026-11-07T17:43:39.705845+09:00",
+      "firstPublishedAt": "2026-11-07T08:43:39.838653+00:00"
+    },
+    {
       "id": "aagag-1667709-0",
       "url": "https://aagag.com/issue/?idx=1667709",
       "source": "애객",
@@ -14979,7 +15049,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
