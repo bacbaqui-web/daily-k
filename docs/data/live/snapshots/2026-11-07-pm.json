@@ -1,0 +1,736 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-07T21:45:06.478651+09:00",
+  "id": "2026-11-07-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-07T21:00:00+09:00",
+      "date": "2026-11-07",
+      "edition": "pm",
+      "eventCoverageNote": "11월 8일의 검증된 공식 일정은 NSE 디왈리 특별거래 1건입니다. 확인된 일정만 반영했으며, 조사 범위와 추가 일정의 제외 사유는 eventOmissionNote에 기록했습니다. 공식 일정 확보 목표인 3~6건에 못 미친다는 이유만으로 발행을 차단하지 않습니다.",
+      "eventOmissionNote": "조사 범위는 2026년 11월 4일 21시부터 7일 21시까지이며, 11월 8일의 주요 경제지표·통화정책·실적·외교·AI산업 공식 일정을 탐색했습니다. 확인된 일정은 NSE 디왈리 특별거래 1건입니다. ASEAN 경제공동체 이사회는 잠정 일정표 외 최신 실행 공지를 확인하지 못했고, 미얀마 협의는 11월 8일과 8일 또는 9일 TBC 표기가 충돌해 제외했습니다. RBA 검색 결과의 BIS 회의는 본문상 2025년 일정이었으며 중국 해관 일정은 공식 첨부파일을 읽지 못해 검증하지 못했습니다. 이란 추가 입장과 포스코 후속 대응은 공식 예정 일정이 아닌 관찰 변수이므로 events에 넣지 않았습니다. 추가 일정을 만들지 않고 실제 확인된 1건만 반영했습니다.",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-08",
+          "detail": "제공된 NSE 공식 공지 확인 기록에서 11월 8일 디왈리 특별거래를 확인했습니다. 인도 주식시장의 휴일 거래와 시장 반응을 살필 일정이며 실제 거래 결과는 확인되지 않았습니다.",
+          "source": {
+            "kind": "official",
+            "language": "en",
+            "name": "인도 국립증권거래소 NSE",
+            "publishedAt": null,
+            "title": "거래소 휴일·디왈리 특별거래 안내",
+            "url": "https://www.nseindia.com/resources/exchange-communication-holidays?apiversion=v2",
+            "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+          },
+          "timeNote": "11월 8일 개최 날짜만 사용했습니다. 제공된 공식 확인 기록에 정확한 거래 시각이 없어 한국시간을 추정하지 않았습니다.",
+          "title": "인도 NSE 디왈리 특별거래 예정"
+        }
+      ],
+      "generatedAt": "2026-11-07T21:42:25.978592+09:00",
+      "id": "2026-11-07-pm",
+      "intro": "11월 7일 오후 브리핑입니다. 제공된 최종 검증 순위에 따라 7개 분야 대표와 예비 후보를 반영했습니다. 다음 날 공식 일정은 확인된 NSE 특별거래 1건을 담고, 추가 일정의 검증 한계는 eventOmissionNote에 기록했습니다.",
+      "keywords": [
+        "이란 방공시설 공습",
+        "고속철도 통합 60일",
+        "가상자산 과세 유예",
+        "손실 이월공제",
+        "소아청소년과 전공의",
+        "TSMC 3D D램",
+        "만성질환 통합관리",
+        "웹툰 전문인력 양성"
+      ],
+      "overview": [
+        "트럼프 대통령이 이란 방공시설 공습 실시를 발표했습니다. 국내에서는 고속철도 통합 이후 60일간의 이용·할인 실적과 정부의 가상자산 과세 2년 유예 추진방안을 다룹니다.",
+        "소아청소년과 하반기 전공의 모집에서 정원 119명에 2명이 지원한 결과가 보도됐습니다. TSMC의 3D D램 생산 검토는 소식통 취재에 근거하며 투자·양산 결정은 확인되지 않았습니다.",
+        "만성질환 통합관리센터의 단계적 확대 일정과 부천시의 게임·웹툰·영상 전문인력 양성 협약도 담았습니다. 내일 공식 일정은 검증된 인도 NSE 디왈리 특별거래 1건을 반영했습니다."
+      ],
+      "overviewEmphasis": [
+        "과세 2년 유예",
+        "정원 119명에 2명",
+        "투자·양산 결정은 확인되지 않았습니다",
+        "단계적 확대"
+      ],
+      "publicationNote": "조사에서 다음 날 공식 일정은 NSE 특별거래 1건만 확인했습니다. ASEAN 잠정 일정과 날짜가 충돌하는 미얀마 협의는 제외했고, 이란·포스코 관찰 변수는 공식 일정에 포함하지 않았습니다.",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [
+            {
+              "name": "뉴스1",
+              "rank": 2,
+              "reason": "7일 20시05분 보도의 WSJ 취재에서 통항 신청·7일 유효 허가와 실제 통과 사례가 확인됐습니다. 국제 교역·운송비에 지속적 영향이 있지만 군사충돌 확대 다음입니다. 8~9월 행위에 관한 새 취재이며 당일 제도 시행은 아닙니다.",
+              "title": "후티, 이메일 신청으로 바브엘만데브 통항 사실상 통제 보도",
+              "url": "https://n.news.naver.com/mnews/article/421/0009276238"
+            },
+            {
+              "name": "MBC",
+              "rank": 3,
+              "reason": "7일 11시40분 보도의 FT 항적 분석으로 통신·금융망 안전에 중요합니다. 오전 예비의 유조선 기뢰충돌 성명과 대상·행위가 다른 사건입니다. 케이블 공격이나 기뢰 설치는 확인되지 않았습니다.",
+              "title": "이란 연계 선박 최소 4척, 오만만 해저케이블 주변 항적 포착",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6863892_36925.html"
+            }
+          ],
+          "category": "국제정세",
+          "emphasis": [
+            "대공방어 장치를 공격했다고 발표",
+            "최종 피해 규모"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "트럼프의 발표는 미국 현지 11월 6일입니다. 정확한 발표 시각과 공습 발생 시각은 제공된 조사에서 확인되지 않았습니다.",
+          "factsHash": "5fd6fd9ea2e3f70d42651ba41298940987fc659ae77aa71266d05cbdcfd948d3",
+          "followUp": {
+            "delta": "익명 미 당국자를 인용한 게슘섬 타격 보도 이후 현지 6일 트럼프 대통령이 이란 대공방어 장치를 공격했다고 직접 발표했습니다.",
+            "editionId": "2026-11-03-pm",
+            "storyId": "20261103-pm-int-01"
+          },
+          "id": "20261107-pm-int-01",
+          "keyFacts": {
+            "미국 측 발표": "이란 대공방어 장치 공격",
+            "발표일": "2026-11-06 미국 현지",
+            "이란 측 주장": "미군 무인기 격추",
+            "중부사령부 별도 확인": "미확보"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-07T14:28:52+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-07T14:28:52+09:00",
+              "title": "트럼프, 이란 방공시설 제한적 공습 실시 발표",
+              "url": "https://nwww.newsis.com/view/NISX20261107_0003858887",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://nwww.newsis.com/view/NISX20261107_0003858887",
+          "score": 93.75,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 97,
+            "interest": 88,
+            "recency": 100,
+            "reliability": 85
+          },
+          "scoreReason": "7일 14시28분 보도의 현지 6일 대통령 발표입니다. 뉴스1의 후티 통항 통제 취재와 MBC의 케이블 주변 항적 분석보다 군사충돌·협상·에너지 수송에 미치는 직접적 범위를 우선했습니다. 대통령 발표와 피해의 독립 확인은 구분했습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-07T14:28:52+09:00",
+              "title": "트럼프, 이란 방공시설 제한적 공습 실시 발표",
+              "url": "https://nwww.newsis.com/view/NISX20261107_0003858887",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "트럼프 미국 대통령이 이란의 대공방어 장치를 공격했다고 발표했습니다. 이란 국영방송은 미군 무인기를 격추했다고 주장했으며 양측의 피해 설명은 구분해야 합니다.",
+            "뉴시스가 전한 현지 6일 발표는 기존 게슘섬 타격 보도 이후 추가된 미국 대통령의 입장입니다. 미 중부사령부의 별도 확인과 최종 피해 규모는 확보되지 않았습니다.",
+            "중동의 군사적 긴장과 핵·종전 협상, 에너지 수송에 영향을 줄 사안입니다. 이번 발표만으로 협상 결렬이나 대규모 작전 재개를 확정할 수 없습니다."
+          ],
+          "timeline": {
+            "change": "트럼프가 이란 방공시설 공습 실시를 발표했습니다. 최종 피해와 이란의 격추 주장은 미확인입니다.",
+            "eventDate": "2026-11-06",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-iran-military",
+            "issueTitle": "미국·이란 군사 대응",
+            "stage": "후속"
+          },
+          "title": "트럼프, 이란 방공시설 제한적 공습 실시 발표",
+          "topicKey": "us-iran-air-defense-strike-announcement-2026-11-06",
+          "uncertainty": "정확한 공습 시각과 최종 피해, 이란의 격추 주장 및 협상 영향은 확인되지 않았습니다.",
+          "whatChanged": "기존 게슘섬 타격 보도 이후 트럼프 대통령의 이란 방공시설 공습 실시 발표가 추가됐습니다.",
+          "whyItMatters": "중동 군사충돌과 핵·종전 협상, 에너지 수송로 안전에 광범위하게 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "7일 17시58분44초 보도에서 당일 9177명 투표, 찬성 4433표·반대 4744표의 부결 결과를 확인했습니다. 철강기업 노동조건과 생산 운영에 중요하지만 전국 소아의료 인력 다음입니다. 추가 파업·생산 차질은 미확정입니다.",
+              "title": "포스코 임단협 잠정합의안, 조합원 투표에서 부결",
+              "url": "https://www.newsis.com/view/NISX20261107_0003858993"
+            },
+            {
+              "name": "한국일보",
+              "rank": 3,
+              "reason": "7일 17시47분 본문에서 당일 별도 대회 개최와 노동시간·원청교섭·정년 요구를 확인했습니다. 광범위한 정책 파급이 있지만 제도 변경은 아닙니다. 기존 특위 구성 의결과 다른 집회 사건이며 참가인원은 경찰 비공식 추산입니다.",
+              "title": "양대노총 노동자대회, 초광역특구법 철회·정년연장 등 요구",
+              "url": "https://www.hankookilbo.com/news/article/A2026110717420000608"
+            }
+          ],
+          "category": "사회이슈",
+          "emphasis": [
+            "정원 119명에 2명",
+            "113명",
+            "81% 감소"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "올해 하반기 69개 대형병원의 모집 결과입니다. 정확한 모집 마감일과 자료 최초 공개일은 미기재여서 사건 날짜를 지정하지 않았습니다.",
+          "factsHash": "25f01cd6dc60bc98491b9095fd7d5e7f8503f861eb5bcb0451b490d975d60932",
+          "id": "20261107-pm-soc-01",
+          "keyFacts": {
+            "2021년 대비 전공의": "81% 감소",
+            "9월 기준 전공의": "113명",
+            "모집 대상": "69개 대형병원 하반기 소아청소년과",
+            "모집 정원": "119명",
+            "지원자": "2명"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-07T14:01:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-07T14:01:00+09:00",
+              "title": "소아청소년과 하반기 전공의 모집, 정원 119명에 지원 2명",
+              "url": "https://nwww.newsis.com/view/NISX20261106_0003857672",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://nwww.newsis.com/view/NISX20261106_0003857672",
+          "score": 94.95,
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 96,
+            "interest": 82,
+            "recency": 100,
+            "reliability": 89
+          },
+          "scoreReason": "7일 14시01분 취재 보도로 전국 소아진료와 전문의 공급의 지속적 영향을 우선했습니다. 뉴시스의 포스코 투표 부결과 한국일보의 양대노총 집회보다 생애 초기 의료 접근의 범위가 큽니다. 기사 게시일을 모집 결과 발생일로 바꾸지 않았습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-07T14:01:00+09:00",
+              "title": "소아청소년과 하반기 전공의 모집, 정원 119명에 지원 2명",
+              "url": "https://nwww.newsis.com/view/NISX20261106_0003857672",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "69개 대형병원의 올해 하반기 소아청소년과 전공의 모집에서 정원 119명에 2명이 지원했다고 뉴시스가 보도했습니다. 7일 새로 진행된 모집으로 표현할 수는 없습니다.",
+            "기사에는 9월 기준 소아청소년과 전공의가 113명으로 2021년 대비 81% 감소했다는 자료도 제시됐습니다. 모집 지원자 수와 재직 전공의 수는 서로 다른 지표입니다.",
+            "소아진료 접근성과 향후 전문의 공급에 장기적으로 관련되는 인력 문제입니다. 개별 병원의 진료 축소 여부와 모집 부진의 구체적인 원인, 후속 충원 결과는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "정원 119명에 지원자 2명이라는 모집 결과가 보도됐습니다. 모집 마감일과 후속 충원은 미확인입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "pediatrics-residency-second-half-recruitment-2026",
+            "issueTitle": "2026년 하반기 소아청소년과 전공의 모집과 인력 현황",
+            "stage": "보도"
+          },
+          "title": "소아청소년과 하반기 전공의 모집, 정원 119명에 지원 2명",
+          "topicKey": "pediatrics-residency-second-half-recruitment-2026",
+          "uncertainty": "모집 마감일과 자료 최초 공개일, 병원별 진료 영향 및 후속 충원 결과는 미확인입니다.",
+          "whatChanged": "하반기 소아청소년과 모집 결과와 9월 기준 전공의 감소 자료가 보도됐습니다.",
+          "whyItMatters": "전국 소아진료의 접근성과 미래 전문의 공급에 장기적으로 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "7일 11시51분59초 보도에서 현지 6일 FT 등의 상장 추진 취재를 확인했습니다. 기존 SEC 신고서 제출 이후 상장 추진 시점에 관한 새 보도이며 AI 자금조달에 중요하지만 메모리 생산구조 다음입니다. 일정·기업가치·조달액은 공식 확정되지 않았고 오전 오픈AI 조달과 다른 거래입니다.",
+              "title": "앤트로픽, AI 관련주 투매에도 IPO 추진 보도",
+              "url": "https://nwww.newsis.com/view/NISX20261107_0003858833"
+            },
+            {
+              "name": "SBS",
+              "rank": 3,
+              "reason": "7일 12시13분 본문에서 현지 6일 발표를 인용한 2027년 중반 이후 감산·단계적 중단 계획을 확인했습니다. 전기차 제품전략·생산설비에 중요하지만 개별 제품 범위입니다. 현재 생산 중단 완료나 국내 공급업체 손실은 미확인입니다.",
+              "title": "테슬라, 사이버트럭 단계적 생산 중단 계획",
+              "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008835122&oaid=N1005669065&plink=TOP"
+            }
+          ],
+          "category": "과학·기술",
+          "emphasis": [
+            "투자·양산 결정은 확인되지 않았습니다",
+            "신규 공장을 건설하거나 기존 시설을 인수·전환"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "디인포메이션의 미국 현지 11월 6일 보도를 인용했습니다. 실제 검토 시작일과 결정 시각은 확인되지 않았습니다.",
+          "factsHash": "adc17998f1ebe8e678bee4f28d8d8f47ee894e2bd598102dc76d036b1114872b",
+          "id": "20261107-pm-tech-01",
+          "keyFacts": {
+            "검토 기업": "TSMC",
+            "검토 방식": "신규 공장 건설 또는 기존 시설 인수·전환",
+            "보도 근거": "디인포메이션 소식통 취재",
+            "요청 기업": "엔비디아, 보도 기준",
+            "투자·양산 결정": "미확인"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-07T02:38:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합인포맥스",
+              "publishedAt": "2026-11-07T02:38:00+09:00",
+              "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토 보도",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443572",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443572",
+          "score": 84.45,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 94,
+            "interest": 96,
+            "recency": 50,
+            "reliability": 82
+          },
+          "scoreReason": "7일 02시38분 보도로 저녁 기준 최신성은 낮지만 국내 메모리 산업과 AI 공급망 경쟁의 지속적 범위를 우선했습니다. 뉴시스의 앤트로픽 IPO 추진과 SBS의 사이버트럭 생산 중단 계획보다 반도체 생산구조 파급을 높게 평가했습니다. 같은 원보도 인용을 독립 검증으로 세지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합인포맥스",
+              "publishedAt": "2026-11-07T02:38:00+09:00",
+              "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토 보도",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443572",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "TSMC가 엔비디아의 요청으로 3D D램 생산을 검토하고 있다고 연합인포맥스가 디인포메이션을 인용해 보도했습니다. 회사의 투자·양산 결정은 확인되지 않았습니다.",
+            "소식통 취재에 따르면 신규 공장을 건설하거나 기존 시설을 인수·전환하는 방안을 검토하고 있습니다. 검토 대상과 생산 진입 가능성을 다룬 보도이며 실제 공장 확보나 제품 공급 완료가 아닙니다.",
+            "국내 메모리 산업과 AI 반도체 공급망의 장기 경쟁구도에 영향을 줄 사안입니다. 함께 비교한 블룸버그 기사도 같은 디인포메이션 취재를 인용하므로 독립적인 회사 확인으로 계산하지 않았습니다."
+          ],
+          "timeline": {
+            "change": "3D D램 생산을 위한 공장 건설·시설 전환 검토가 보도됐습니다. 투자와 양산은 미확정입니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "tsmc-nvidia-3d-dram-production-review-2026",
+            "issueTitle": "TSMC의 엔비디아 요청에 따른 3D D램 생산 검토",
+            "stage": "보도"
+          },
+          "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토 보도",
+          "topicKey": "tsmc-nvidia-3d-dram-production-review-2026",
+          "uncertainty": "익명 취재에 근거하며 회사의 공식 결정과 투자 규모, 양산 일정·성능은 미확인입니다.",
+          "whatChanged": "엔비디아 요청에 따른 TSMC의 3D D램 생산 진입 검토가 새로 보도됐습니다.",
+          "whyItMatters": "국내 메모리 산업의 경쟁과 AI 공급망의 생산·투자 구조에 장기적으로 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "파이낸셜뉴스",
+              "rank": 2,
+              "reason": "6일 13시38분 기사와 정부 공식 발표에서 회담 실시와 협력문서 3건 체결을 확인했습니다. 기존 회담 예정에서 실제 결과로 진전했습니다. 초국가범죄 대응과 협력 제도화에 중요하지만 국내 과세정책 다음이며 사증면제 등은 추진 단계입니다.",
+              "reserveUpdate": {
+                "delta": "이전 예비는 6일 정상회담 예정이었다. 이후 정상회담 실시와 양자협의체 MOU·치안 기술약정·지식재산 MOU 체결 결과가 확인됐다.",
+                "editionId": "2026-11-06-am",
+                "publishedAt": "2026-11-06T13:38:00+09:00",
+                "sourceUrl": "https://www.fnnews.com/news/202611061326443792"
+              },
+              "title": "한·동티모르 정상회담, 정례협의체·치안·지식재산 협력 합의",
+              "url": "https://www.fnnews.com/news/202611061326443792"
+            },
+            {
+              "name": "코메디닷컴",
+              "rank": 3,
+              "reason": "6일 16시05분 본문에서 첨단바이오·신규생물의약품 수수료 803만원→2071만원, 자료제출의약품 260만원→1604만원 개정안을 확인했습니다. 제약업계 비용과 심사 기반에 지속적 영향이 있지만 대상 범위가 좁고 입법·행정예고 단계입니다.",
+              "title": "식약처, 첨단바이오·자료제출의약품 허가 수수료 인상안 예고",
+              "url": "https://kormedi.com/2900369/"
+            }
+          ],
+          "category": "정치·정책",
+          "emphasis": [
+            "2029년 시행",
+            "3년 이월공제",
+            "입법은 완료되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "정부 브리핑은 11월 5일입니다. 정확한 발표 시각은 제공된 본문 근거에 없습니다.",
+          "factsHash": "c4fafd14ddc53005b302d2322386d86ce477a906c5250c8b38ec19e021cd94f2",
+          "fallbackNote": "최근 72시간 안의 5일 정부 추진방안으로 보완했습니다. 기존 정당 제안 이후 유예 기간과 손실공제 방안이 구체화된 후속입니다.",
+          "followUp": {
+            "delta": "민주당의 과세 유예 공식 제안 이후 5일 정부가 2년 유예와 2029년 시행 준비, 손실 3년 이월공제 추진방안을 발표했습니다.",
+            "editionId": "2026-11-04-pm",
+            "storyId": "20261104-pm-pol-01"
+          },
+          "id": "20261107-pm-pol-01",
+          "keyFacts": {
+            "과세 목표": "2029년",
+            "과세 유예": "2년 추진",
+            "손실 이월공제": "3년 추진",
+            "입법 완료": "미확인",
+            "정부 발표일": "2026-11-05"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-05T16:01:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-05T16:01:00+09:00",
+              "title": "정부, 가상자산 과세 2년 유예·손실 이월공제 추진",
+              "url": "https://files.newsis.com/view/NISX20261105_0003856402",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://files.newsis.com/view/NISX20261105_0003856402",
+          "reserveUpdate": {
+            "delta": "이전에는 민주당의 과세 유예 공식 제안으로 기간과 정부 수용이 미확정이었다. 5일 정부는 국회와 2년 유예를 추진해 2029년 시행을 준비하고 손실 3년 이월공제 등을 추진하겠다고 발표했다.",
+            "editionId": "2026-11-04-pm",
+            "publishedAt": "2026-11-05T16:01:00+09:00",
+            "sourceUrl": "https://files.newsis.com/view/NISX20261105_0003856402"
+          },
+          "score": 79.2,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 94,
+            "interest": 88,
+            "recency": 25,
+            "reliability": 90
+          },
+          "scoreReason": "5일 16시01분 보도로 최신성은 낮지만 투자자 과세에 지속적인 영향을 주는 정부의 새 방안입니다. 파이낸셜뉴스의 한·동티모르 회담 결과와 코메디닷컴의 의약품 허가 수수료 개정안보다 국내 과세 준비의 범위를 우선했습니다. 입법 완료 여부로 중요도를 대신 평가하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-05T16:01:00+09:00",
+              "title": "정부, 가상자산 과세 2년 유예·손실 이월공제 추진",
+              "url": "https://files.newsis.com/view/NISX20261105_0003856402",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "검토",
+          "summary": [
+            "정부가 가상자산 과세를 2년 유예해 2029년 시행을 준비하는 방안을 추진합니다. 손실의 3년 이월공제도 추진하며 국회 협의와 입법은 완료되지 않았습니다.",
+            "뉴시스가 전한 5일 정부 브리핑은 앞선 민주당의 유예 제안에서 정부의 구체적인 제도 정비방안으로 진전된 내용입니다. 유예 기간과 손실 처리 방향이 추가됐습니다.",
+            "투자자의 납세 준비와 시장 형평성에 지속적으로 관련됩니다. 발표된 추진방안을 확정된 세법이나 즉시 적용되는 손실공제 제도로 볼 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "정부가 2년 유예와 손실 이월공제 추진방안을 발표했습니다. 입법과 시행은 미확정입니다.",
+            "eventDate": "2026-11-05",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "virtual-asset-taxation-deferral-2026",
+            "issueTitle": "가상자산 과세 시행과 추가 유예 논의",
+            "stage": "후속"
+          },
+          "title": "정부, 가상자산 과세 2년 유예·손실 이월공제 추진",
+          "topicKey": "virtual-asset-tax-deferral-government-plan-2026-11-05",
+          "uncertainty": "국회 협의와 최종 법 개정, 적용 조건 및 실제 시행은 미확정입니다.",
+          "whatChanged": "정당의 유예 제안 이후 정부가 2년 유예와 손실 3년 이월공제 추진방안을 제시했습니다.",
+          "whyItMatters": "가상자산 투자자의 과세 준비와 손익 처리, 조세 형평성에 지속적으로 영향을 줄 방안입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "연합뉴스",
+              "rank": 2,
+              "reason": "6일 08시36분 본문에서 소아용 복막투석 카테터와 주입·배액량 관리 연결 시스템의 긴급도입 지정을 확인했습니다. 중증 환아 치료 접근성에 중요하지만 전국 만성질환 관리체계 다음입니다. 실제 병원 공급·치료 성과는 미확인입니다.",
+              "title": "식약처, 신생아·소아 복막투석 의료기기 2종 긴급도입 지정",
+              "url": "https://www.yna.co.kr/view/AKR20261106028600017"
+            },
+            {
+              "name": "뉴스핌",
+              "rank": 3,
+              "reason": "7일 15시58분 보도에서 당일 10시03분께 화재와 3명 부상·1명 중상을 확인했습니다. 전기설비 작업 안전의 직접적 인명피해지만 지역 범위를 반영했습니다. 발화 원인과 책임은 조사 중입니다.",
+              "title": "경주 변압기 교체 중 화재, 작업자 등 3명 부상",
+              "url": "https://member.newspim.com/news/view/20261107000084"
+            }
+          ],
+          "category": "생활·안전",
+          "emphasis": [
+            "2027년 7월",
+            "기존 19개 지역",
+            "2028년 전환"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "본문상 이행방안 발표는 11월 5일입니다. 출처는 11월 6일 게시 날짜만 확인돼 정확한 기사·발표 시각은 기록하지 않았습니다.",
+          "factsHash": "9e94f9fad83e4f2c1a0ebe469261e64f8036535cda2aa3697f314f1718ad8fd5",
+          "fallbackNote": "당일 사고와 최근 의료기기 지정 후보를 비교해 전날 게시된 공식 이행방안을 선정했습니다. 날짜 시작 기준으로도 72시간 이내입니다.",
+          "id": "20261107-pm-safe-01",
+          "keyFacts": {
+            "기존 지역": "19개",
+            "기존 지역 전환": "2028년 계획",
+            "신규 지역 운영": "2027년 7월 계획",
+            "이행방안 발표일": "2026-11-05",
+            "전국 운영 완료": "미확인"
+          },
+          "placement": "lead",
+          "publishedAt": null,
+          "publishedDate": "2026-11-06",
+          "publishedTimezone": "Asia/Seoul",
+          "relatedArticles": [
+            {
+              "kind": "official",
+              "language": "ko",
+              "name": "질병관리청·정책브리핑",
+              "publishedAt": null,
+              "publishedDate": "2026-11-06",
+              "publishedTimezone": "Asia/Seoul",
+              "title": "만성질환 통합관리센터 전국 단계적 확대 이행방안",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975202&pWise=main&pWiseMain=R1",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.korea.kr/news/policyNewsView.do?newsId=148975202&pWise=main&pWiseMain=R1",
+          "score": 78.95,
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 93,
+            "interest": 80,
+            "recency": 25,
+            "reliability": 94
+          },
+          "scoreReason": "6일 게시 공식 자료로 기사 시각은 날짜만 확인됐습니다. 연합뉴스의 소아 투석기기 긴급도입 지정과 뉴스핌의 경주 작업자 부상보다 전 연령·전국 지역사회 건강관리의 지속적 범위를 우선했습니다. 계획과 운영 완료를 구분했습니다.",
+          "sources": [
+            {
+              "kind": "official",
+              "language": "ko",
+              "name": "질병관리청·정책브리핑",
+              "publishedAt": null,
+              "publishedDate": "2026-11-06",
+              "publishedTimezone": "Asia/Seoul",
+              "title": "만성질환 통합관리센터 전국 단계적 확대 이행방안",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975202&pWise=main&pWiseMain=R1",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "만성질환 통합관리센터를 전국으로 단계적으로 확대하는 이행방안이 공개됐습니다. 신규 지역은 2027년 7월, 기존 19개 지역은 준비기간을 거쳐 2028년 전환할 계획입니다.",
+            "질병관리청·정책브리핑의 6일 게시 자료는 본문상 5일 발표한 방안을 설명합니다. 9월 확대방침 이후 전환 일정과 환자 안내가 구체화된 내용이며 전국 운영이 완료됐다는 뜻은 아닙니다.",
+            "전 연령과 지역사회의 만성질환 관리 접근성에 지속적으로 관련됩니다. 지역별 실제 운영 개시와 서비스 이용, 환자 건강 개선 성과는 향후 확인해야 합니다."
+          ],
+          "timeline": {
+            "change": "신규 지역 2027년 7월과 기존 19개 지역 2028년 전환 계획이 제시됐습니다. 실제 운영은 향후 단계입니다.",
+            "eventDate": "2026-11-05",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "chronic-disease-integrated-care-center-expansion-2026",
+            "issueTitle": "만성질환 통합관리센터 전국 확대와 전환 일정",
+            "stage": "발표"
+          },
+          "title": "만성질환 통합관리센터 전국 단계적 확대 이행방안",
+          "topicKey": "chronic-disease-integrated-care-center-expansion-plan-2026",
+          "uncertainty": "지역별 실제 운영과 서비스 범위, 이용·건강 개선 성과는 미확인입니다.",
+          "whatChanged": "기존 확대방침에서 신규 지역 운영·기존 지역 전환 일정과 환자 안내가 구체화됐습니다.",
+          "whyItMatters": "지역사회 만성질환 관리의 접근성과 장기적인 건강관리 체계에 관련됩니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "뉴시스",
+              "rank": 2,
+              "reason": "7일 12시40분 보도의 1월1일~11월5일 실거래 집계에서 전년 같은 기간 15건에서 40건으로 증가했습니다. 주거비 변화에 중요하지만 일부 고액 계약의 범위이며 전국 교통 운영 결과 다음입니다.",
+              "title": "서울 외곽 6개 구 월세 300만원 이상 계약 40건",
+              "url": "https://mobile.newsis.com/view/NISX20261106_0003858038"
+            },
+            {
+              "name": "YTN",
+              "rank": 3,
+              "reason": "7일 17시38분 본문상 11월1~5일 새 주간 가격입니다. 운전자·운송업에 폭넓게 관련되지만 전주 대비 하락 폭이 각각 리터당 0.3원·0.1원으로 작아 3순위입니다. 다른 매체와 집계기간을 혼합하지 않았습니다.",
+              "title": "11월 첫째 주 휘발유 1855.4원·경유 1842원",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611071738594443"
+            }
+          ],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "32만2000명",
+            "12.6% 증가",
+            "약 515억원"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "국토부·코레일 발표는 11월 5일이며 집계기간은 9월 1일~10월 30일입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+          "factsHash": "f790033a85012b1845e91de0b9a192f25b3130eeb1785a238e4ca632d0ef8627",
+          "fallbackNote": "당일 주거비·유가 후보와 비교해 최근 72시간 안의 5일 발표된 전국 고속철도 운영 결과를 선정했습니다.",
+          "id": "20261107-pm-eco-01",
+          "keyFacts": {
+            "일평균 이용객": "32만2000명",
+            "전년 동기 대비": "12.6% 증가",
+            "집계기간": "2026-09-01~2026-10-30",
+            "할인·마일리지 혜택": "약 515억원"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-05T09:38:52+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "교통일보",
+              "publishedAt": "2026-11-05T09:38:52+09:00",
+              "title": "고속철도 통합 60일, 하루 평균 32만2000명 이용",
+              "url": "https://www.tdaily.co.kr/news/view.php?idx=66468&mcode=m13709uj",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.tdaily.co.kr/news/view.php?idx=66468&mcode=m13709uj",
+          "score": 77.0,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 90,
+            "interest": 82,
+            "recency": 25,
+            "reliability": 88
+          },
+          "scoreReason": "5일 09시38분 기사로 약 59시간 전의 발표입니다. 뉴시스의 서울 외곽 고액 월세 계약 집계와 YTN의 주간 유가보다 전국 교통서비스의 이용·비용에 걸친 범위를 우선했습니다. 오래된 기사라는 최신성 한계를 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "교통일보",
+              "publishedAt": "2026-11-05T09:38:52+09:00",
+              "title": "고속철도 통합 60일, 하루 평균 32만2000명 이용",
+              "url": "https://www.tdaily.co.kr/news/view.php?idx=66468&mcode=m13709uj",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "고속철도 통합 이후 60일간 하루 평균 이용객이 32만2000명으로 집계됐습니다. 국토부·코레일 발표에 따르면 전년 동기보다 12.6% 증가했습니다.",
+            "교통일보는 9월 1일~10월 30일 운임할인·마일리지 혜택을 약 515억원으로 전했습니다. 통합 자체를 다시 소개하는 소식이 아니라 운영 이후의 새 실적입니다.",
+            "전국 교통서비스 이용과 가계 교통비에 관련된 결과입니다. 집계된 혜택을 모든 이용자의 동일한 절감액으로 해석하거나 이용 증가의 원인을 통합 하나로 확정할 수는 없습니다."
+          ],
+          "timeline": {
+            "change": "일평균 이용객 32만2000명과 혜택 약 515억원이 발표됐습니다. 장기 효과는 미확인입니다.",
+            "eventDate": "2026-11-05",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "integrated-high-speed-rail-first-60-days-results-2026",
+            "issueTitle": "고속철도 통합 이후 60일 운영 실적",
+            "stage": "발표"
+          },
+          "title": "고속철도 통합 60일, 하루 평균 32만2000명 이용",
+          "topicKey": "integrated-high-speed-rail-first-60-days-results-2026",
+          "uncertainty": "개인별 절감액과 이용 증가의 인과관계, 장기적인 운영 성과는 확인되지 않았습니다.",
+          "whatChanged": "고속철도 통합 이후 60일의 이용객과 할인·마일리지 실적이 발표됐습니다.",
+          "whyItMatters": "전국 철도 이용자의 교통서비스와 가계 교통비에 관련된 운영 결과입니다."
+        },
+        {
+          "alternatives": [
+            {
+              "name": "웹툰가이드",
+              "rank": 2,
+              "reason": "6일 18시01분 본문에서 기존 발행 작품과 다른 IP의 촬영 돌입을 확인했습니다. 실제 제작 진전이지만 캐스팅·개봉 홍보 성격과 개별 작품 범위를 반영했습니다. 촬영 시작일은 미기재이며 2027년 개봉은 목표, 판권매출·흥행은 미확인입니다.",
+              "title": "웹툰 ‘살생부’ 영화 촬영 돌입",
+              "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26370"
+            },
+            {
+              "name": "웹툰가이드",
+              "rank": 3,
+              "reason": "5일 16시30분 본문에서 당일 카카오페이지 공개를 확인했습니다. 기존 서울시 무빙툰과 발주·작품·공개 사건이 다릅니다. 최근 72시간의 정책·저작권·노동·투자·불법유통 후보에서 반복·기간 밖·구체적 변화 미확인을 제외한 뒤 최후순위로 선정했습니다. 지역 홍보 성격이며 계약액·창작자 보수·성과는 미확인입니다.",
+              "title": "안동 브랜드 웹툰 ‘안동 선비의 레시피3’ 공개",
+              "url": "https://www.webtoonguide.com/ko/board/news04_generalnews/26368"
+            }
+          ],
+          "category": "웹툰산업",
+          "emphasis": [
+            "2개 과정 총 50명",
+            "웹툰 분야만 50명",
+            "실제 수료·취업"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "협약은 11월 5일 체결됐습니다. 정확한 체결 시각은 확인되지 않았으며 6일은 기사 게시일입니다.",
+          "factsHash": "6a71683969a28246c2e2c848ecb932f2ce0a502f6b6b4b96900af400a5d0a29d",
+          "fallbackNote": "당일 적격 후보가 부족해 최근 72시간의 전문매체·통신사·공식 자료에서 정책·권리·노동·투자·불법유통·해외유통을 보충 조사하고 전날 인력양성 협약 보도를 선정했습니다.",
+          "id": "20261107-pm-web-01",
+          "keyFacts": {
+            "과정·대상": "2개 과정 총 50명",
+            "교육 계획": "11월부터 3개월",
+            "수료·취업 성과": "미확인",
+            "협약 주체": "부천시와 3개 기관",
+            "협약일": "2026-11-05"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-06T15:41:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스타운",
+              "publishedAt": "2026-11-06T15:41:00+09:00",
+              "title": "부천시, 게임·웹툰·영상 전문인력 양성 협약",
+              "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721014",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newstown.co.kr/news/articleView.html?idxno=721014",
+          "score": 64.7,
+          "scoreComponents": {
+            "domesticImpact": 68,
+            "importance": 74,
+            "interest": 86,
+            "recency": 25,
+            "reliability": 82
+          },
+          "scoreReason": "6일 15시41분 본문 확인 기록입니다. 웹툰가이드의 살생부 영화 촬영과 안동 브랜드 웹툰 공개보다 제작인력·취업 기반의 지속성을 우선했습니다. 웹툰가이드·연합뉴스·뉴스1·콘진원·WelCon의 최근 72시간 후보를 비교했으며 기존 협의체·태국 영상화·수료·박람회·학교·해외 입점 반복, 기간 밖 자료와 구체적 변화 미확인 후보를 제외했습니다. 지역·사업 규모의 한계를 반영했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스타운",
+              "publishedAt": "2026-11-06T15:41:00+09:00",
+              "title": "부천시, 게임·웹툰·영상 전문인력 양성 협약",
+              "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721014",
+              "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "부천시와 3개 기관이 게임·웹툰·영상 전문인력 양성을 위한 협약을 체결했습니다. 11월부터 3개월 동안 2개 과정 총 50명을 대상으로 훈련과 취업연계를 계획합니다.",
+            "뉴스타운에 따르면 협약 체결일은 5일입니다. 총 50명은 관련 과정 전체의 대상 인원이며 웹툰 분야만 50명을 양성한다는 뜻은 아닙니다.",
+            "기존 경북 특강과 웹툰 엑스퍼트 수료사업과 다른 지역 인력양성 협약입니다. 제작인력과 고용 기반에 의미가 있지만 실제 수료·취업과 근로조건, 고용 유지 성과는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "2개 과정 총 50명의 훈련·취업연계 협약이 체결됐습니다. 실제 수료와 취업은 미확인입니다.",
+            "eventDate": "2026-11-05",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "bucheon-game-webtoon-video-workforce-agreement-2026",
+            "issueTitle": "부천시 게임·웹툰·영상 전문인력 양성 협약",
+            "stage": "발표"
+          },
+          "title": "부천시, 게임·웹툰·영상 전문인력 양성 협약",
+          "topicKey": "bucheon-game-webtoon-video-workforce-agreement-2026",
+          "uncertainty": "과정별 웹툰 인원과 실제 교육·수료·취업, 계약 조건 및 고용 유지 성과는 미확인입니다.",
+          "whatChanged": "게임·웹툰·영상 분야 훈련과 취업연계를 위한 별도 협약이 체결됐습니다.",
+          "whyItMatters": "콘텐츠 제작인력의 교육·취업 접근성과 지역 고용 기반에 관련됩니다."
+        }
+      ],
+      "timezone": "Asia/Seoul",
+      "validationNotes": [
+        {
+          "code": "upcoming_events_limited_verified_coverage",
+          "reason": "공식 일정 3~6건은 확보 목표입니다. 확인된 NSE 특별거래 1건을 보존하고 잠정·날짜 충돌·확인 실패 일정은 제외했습니다. 일정 개수 부족은 발행 차단 사유로 적용하지 않습니다.",
+          "verifiedCount": 1
+        },
+        {
+          "code": "runtime_timestamps_required",
+          "reason": "실제 생성시각과 이번 실행의 출처 검증시각은 프로그램이 기록해야 합니다. 제공되지 않은 generatedAt과 verifiedAt을 임의로 만들지 않았습니다."
+        }
+      ]
+    },
+    "recordedAt": "2026-11-07T21:45:06.478651+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "f5cecd2ca98c3efc01d51f892f0576f60f41d4f03e08bfeca6c4db712ebb54e6",
+  "opensAt": "2026-11-07T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-07T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

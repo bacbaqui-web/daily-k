@@ -1,6 +1,154 @@
 {
-  "editionCount": 103,
+  "editionCount": 104,
   "issues": [
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "virtual-asset-taxation-deferral-2026",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "정부가 2년 유예와 손실 이월공제 추진방안을 발표했습니다. 입법과 시행은 미확정입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "후속",
+        "storyId": "20261107-pm-pol-01",
+        "title": "정부, 가상자산 과세 2년 유예·손실 이월공제 추진"
+      },
+      "path": "virtual-asset-taxation-deferral-2026.json",
+      "title": "가상자산 과세 시행과 추가 유예 논의"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 9,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "트럼프가 이란 방공시설 공습 실시를 발표했습니다. 최종 피해와 이란의 격추 주장은 미확인입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "후속",
+        "storyId": "20261107-pm-int-01",
+        "title": "트럼프, 이란 방공시설 제한적 공습 실시 발표"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "tsmc-nvidia-3d-dram-production-review-2026",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "3D D램 생산을 위한 공장 건설·시설 전환 검토가 보도됐습니다. 투자와 양산은 미확정입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "보도",
+        "storyId": "20261107-pm-tech-01",
+        "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토 보도"
+      },
+      "path": "tsmc-nvidia-3d-dram-production-review-2026.json",
+      "title": "TSMC의 엔비디아 요청에 따른 3D D램 생산 검토"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "pediatrics-residency-second-half-recruitment-2026",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "정원 119명에 지원자 2명이라는 모집 결과가 보도됐습니다. 모집 마감일과 후속 충원은 미확인입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "보도",
+        "storyId": "20261107-pm-soc-01",
+        "title": "소아청소년과 하반기 전공의 모집, 정원 119명에 지원 2명"
+      },
+      "path": "pediatrics-residency-second-half-recruitment-2026.json",
+      "title": "2026년 하반기 소아청소년과 전공의 모집과 인력 현황"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "integrated-high-speed-rail-first-60-days-results-2026",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "일평균 이용객 32만2000명과 혜택 약 515억원이 발표됐습니다. 장기 효과는 미확인입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "발표",
+        "storyId": "20261107-pm-eco-01",
+        "title": "고속철도 통합 60일, 하루 평균 32만2000명 이용"
+      },
+      "path": "integrated-high-speed-rail-first-60-days-results-2026.json",
+      "title": "고속철도 통합 이후 60일 운영 실적"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "chronic-disease-integrated-care-center-expansion-2026",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "신규 지역 2027년 7월과 기존 19개 지역 2028년 전환 계획이 제시됐습니다. 실제 운영은 향후 단계입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "발표",
+        "storyId": "20261107-pm-safe-01",
+        "title": "만성질환 통합관리센터 전국 단계적 확대 이행방안"
+      },
+      "path": "chronic-disease-integrated-care-center-expansion-2026.json",
+      "title": "만성질환 통합관리센터 전국 확대와 전환 일정"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "bucheon-game-webtoon-video-workforce-agreement-2026",
+      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "2개 과정 총 50명의 훈련·취업연계 협약이 체결됐습니다. 실제 수료와 취업은 미확인입니다.",
+        "editionId": "2026-11-07-pm",
+        "stage": "발표",
+        "storyId": "20261107-pm-web-01",
+        "title": "부천시, 게임·웹툰·영상 전문인력 양성 협약"
+      },
+      "path": "bucheon-game-webtoon-video-workforce-agreement-2026.json",
+      "title": "부천시 게임·웹툰·영상 전문인력 양성 협약"
+    },
     {
       "categories": [
         "국제정세"
@@ -771,27 +919,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
-      "firstCoveredDate": "2026-10-30",
-      "id": "virtual-asset-taxation-deferral-2026",
-      "lastCoveredAt": "2026-11-04T21:16:28.631418+09:00",
-      "lastCoveredDate": "2026-11-04",
-      "latest": {
-        "archive": false,
-        "change": "민주당 대표가 정부에 과세 유예를 공식 제안했습니다. 기간과 법 개정은 미확정입니다.",
-        "editionId": "2026-11-04-pm",
-        "stage": "후속",
-        "storyId": "20261104-pm-pol-01",
-        "title": "민주당, 가상자산 소득 과세 유예 정부에 공식 제안"
-      },
-      "path": "virtual-asset-taxation-deferral-2026.json",
-      "title": "가상자산 과세 시행과 추가 유예 논의"
-    },
-    {
-      "categories": [
         "웹툰산업"
       ],
       "eventCount": 2,
@@ -1063,28 +1190,6 @@
       },
       "path": "world-webtoon-awards-2026.json",
       "title": "2026 월드 웹툰 어워즈"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 8,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-03T21:13:45.025786+09:00",
-      "lastCoveredDate": "2026-11-03",
-      "latest": {
-        "archive": false,
-        "change": "게슘섬 제한적 타격이 보도됐습니다. 양국 정부 공식 입장과 최종 피해는 미확인입니다.",
-        "editionId": "2026-11-03-pm",
-        "stage": "후속",
-        "storyId": "20261103-pm-int-01",
-        "title": "미군, 이란 게슘섬 제한적 타격 보도…양국 정부 공식 입장은 없어"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -9633,7 +9738,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 766,
+  "storyCount": 773,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-07T09:35:13.492138+09:00"
+  "updatedAt": "2026-11-07T21:42:25.978592+09:00"
 }

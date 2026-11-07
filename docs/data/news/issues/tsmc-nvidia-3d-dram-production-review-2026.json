@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-07/pm.json",
+      "category": "과학·기술",
+      "change": "3D D램 생산을 위한 공장 건설·시설 전환 검토가 보도됐습니다. 투자와 양산은 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "coveredOn": "2026-11-07",
+      "edition": "pm",
+      "editionDate": "2026-11-07",
+      "editionId": "2026-11-07-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "디인포메이션의 미국 현지 11월 6일 보도를 인용했습니다. 실제 검토 시작일과 결정 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-07-pm/20261107-pm-tech-01",
+      "keyFacts": {
+        "검토 기업": "TSMC",
+        "검토 방식": "신규 공장 건설 또는 기존 시설 인수·전환",
+        "보도 근거": "디인포메이션 소식통 취재",
+        "요청 기업": "엔비디아, 보도 기준",
+        "투자·양산 결정": "미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-07T02:38:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합인포맥스",
+          "publishedAt": "2026-11-07T02:38:00+09:00",
+          "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토 보도",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443572",
+          "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261107-pm-tech-01",
+      "summary": [
+        "TSMC가 엔비디아의 요청으로 3D D램 생산을 검토하고 있다고 연합인포맥스가 디인포메이션을 인용해 보도했습니다. 회사의 투자·양산 결정은 확인되지 않았습니다.",
+        "소식통 취재에 따르면 신규 공장을 건설하거나 기존 시설을 인수·전환하는 방안을 검토하고 있습니다. 검토 대상과 생산 진입 가능성을 다룬 보도이며 실제 공장 확보나 제품 공급 완료가 아닙니다.",
+        "국내 메모리 산업과 AI 반도체 공급망의 장기 경쟁구도에 영향을 줄 사안입니다. 함께 비교한 블룸버그 기사도 같은 디인포메이션 취재를 인용하므로 독립적인 회사 확인으로 계산하지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "TSMC, 엔비디아 요청으로 3D D램 생산 검토 보도",
+      "uncertainty": "익명 취재에 근거하며 회사의 공식 결정과 투자 규모, 양산 일정·성능은 미확인입니다."
+    }
+  ],
+  "id": "tsmc-nvidia-3d-dram-production-review-2026",
+  "schemaVersion": 1,
+  "title": "TSMC의 엔비디아 요청에 따른 3D D램 생산 검토",
+  "updatedAt": "2026-11-07T21:42:25.978592+09:00"
+}

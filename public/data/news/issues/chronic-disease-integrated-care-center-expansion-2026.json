@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-07/pm.json",
+      "category": "생활·안전",
+      "change": "신규 지역 2027년 7월과 기존 19개 지역 2028년 전환 계획이 제시됐습니다. 실제 운영은 향후 단계입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-07T21:42:25.978592+09:00",
+      "coveredOn": "2026-11-07",
+      "edition": "pm",
+      "editionDate": "2026-11-07",
+      "editionId": "2026-11-07-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-05",
+      "eventEndDate": null,
+      "eventTimeNote": "본문상 이행방안 발표는 11월 5일입니다. 출처는 11월 6일 게시 날짜만 확인돼 정확한 기사·발표 시각은 기록하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-07-pm/20261107-pm-safe-01",
+      "keyFacts": {
+        "기존 지역": "19개",
+        "기존 지역 전환": "2028년 계획",
+        "신규 지역 운영": "2027년 7월 계획",
+        "이행방안 발표일": "2026-11-05",
+        "전국 운영 완료": "미확인"
+      },
+      "previous": null,
+      "publishedAt": null,
+      "sources": [
+        {
+          "kind": "official",
+          "language": "ko",
+          "name": "질병관리청·정책브리핑",
+          "publishedAt": null,
+          "publishedDate": "2026-11-06",
+          "publishedTimezone": "Asia/Seoul",
+          "title": "만성질환 통합관리센터 전국 단계적 확대 이행방안",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975202&pWise=main&pWiseMain=R1",
+          "verifiedAt": "2026-11-07T21:11:46.626359+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "예정",
+      "storyId": "20261107-pm-safe-01",
+      "summary": [
+        "만성질환 통합관리센터를 전국으로 단계적으로 확대하는 이행방안이 공개됐습니다. 신규 지역은 2027년 7월, 기존 19개 지역은 준비기간을 거쳐 2028년 전환할 계획입니다.",
+        "질병관리청·정책브리핑의 6일 게시 자료는 본문상 5일 발표한 방안을 설명합니다. 9월 확대방침 이후 전환 일정과 환자 안내가 구체화된 내용이며 전국 운영이 완료됐다는 뜻은 아닙니다.",
+        "전 연령과 지역사회의 만성질환 관리 접근성에 지속적으로 관련됩니다. 지역별 실제 운영 개시와 서비스 이용, 환자 건강 개선 성과는 향후 확인해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "만성질환 통합관리센터 전국 단계적 확대 이행방안",
+      "uncertainty": "지역별 실제 운영과 서비스 범위, 이용·건강 개선 성과는 미확인입니다."
+    }
+  ],
+  "id": "chronic-disease-integrated-care-center-expansion-2026",
+  "schemaVersion": 1,
+  "title": "만성질환 통합관리센터 전국 확대와 전환 일정",
+  "updatedAt": "2026-11-07T21:42:25.978592+09:00"
+}
