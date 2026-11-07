@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-07T01:43:16.957351+00:00",
+  "collectedAt": "2026-11-07T01:44:26.650428+00:00",
   "windowEnd": "2026-11-07T10:43:16.830913+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -13594,7 +13594,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -13621,6 +13621,63 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667704-0",
+      "url": "https://aagag.com/issue/?idx=1667704",
+      "source": "애객",
+      "title": "27세에 부자가 된 방법? 몸 갈아넣었어",
+      "publishedAt": "2026-11-07T10:42:16+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4QpM.mp4",
+          "poster": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JjY33.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "언더테이커 형님 ㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/JjY33.webp"
+      ],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4QpM.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "언더테이커 형님 ㅋㅋㅋ",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-07T10:44:13.542264+09:00",
+      "sourceTitles": [
+        "27살에 수백억원을 모은 장의사의 비결",
+        "27세에 부자가 된 방법? 몸 갈아넣었어",
+        "27세에 부자가 된 방법? 몸 갈아넣었어",
+        "어르신이 27세라는 젊은 나이에 부자가 된 방법 ㄷㄷㄷㄷㄷ",
+        "이무기가 승천하다가 소녀를 만난 만화.manga",
+        "승천하려다 어쩌구 이무기.manga"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-07T01:44:26.557510+00:00",
+      "collectedAt": "2026-11-07T10:44:26.557528+09:00",
+      "firstPublishedAt": "2026-11-07T01:44:26.680899+00:00"
+    },
     {
       "id": "aagag-1667667-0",
       "url": "https://aagag.com/issue/?idx=1667667",
