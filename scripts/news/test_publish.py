@@ -19,6 +19,13 @@ def fixture(edition='am'):
     return dict(schemaVersion=1,id=f'2026-10-02-{edition}',date='2026-10-02',edition=edition,timezone='Asia/Seoul',cutoffAt=cutoff,generatedAt=generated,intro='검증용 브리핑',overview=['이번 회차 전체 분야의 주요 변화를 요약합니다.','뉴스들을 함께 보고 앞으로 확인할 변수를 설명합니다.'],stories=stories,events=events,keywords=[] if edition=='am' else [f'주제{i}' for i in range(8)])
 
 class PublishingTests(unittest.TestCase):
+    def test_fewer_events_require_disclosure(self):
+        b=fixture();b['events']=b['events'][:1]
+        with self.assertRaisesRegex(ValueError,'Disclose why'):validate(b,[],NOW)
+        b['eventOmissionNote']='공식 기관 일정을 조사했으나 대상 날짜에 확인된 일정은 한 건뿐입니다.'
+        self.assertEqual(len(validate(b,[],NOW)['events']),1)
+        b['events'][0]['date']='2026-10-04'
+        with self.assertRaisesRegex(ValueError,'target date'):validate(b,[],NOW)
     def test_score_and_order(self):
         b=fixture();b['stories'][2]['scoreComponents']['importance']=100
         result=validate(b,[],NOW)

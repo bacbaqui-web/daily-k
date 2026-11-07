@@ -208,7 +208,11 @@ def validate(draft, history, now=None):
             require(all(editorial_priority(story)>=editorial_priority(s) for s in eligible),
                     'Lead must have the highest editorial importance in its category')
     b['stories']=sorted(stories,key=editorial_priority,reverse=True)
-    events=b.get('events',[]);require(3<=len(events)<=6,'Provide 3–6 upcoming events')
+    events=b.get('events',[])
+    require(isinstance(events,list) and len(events)<=6,'Provide at most 6 upcoming events')
+    if len(events)<3:
+        note=b.get('eventOmissionNote','')
+        require(isinstance(note,str) and len(note.strip())>=20,'Disclose why fewer than 3 verified events are available')
     target=day if b['edition']=='am' else day+timedelta(days=1)
     for e in events:
         require(e['date']==target.date().isoformat(),'Event must occur on target date')

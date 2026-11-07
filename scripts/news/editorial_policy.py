@@ -1,6 +1,7 @@
 """Shared research and review policy; previous alternatives are published news."""
 POLICY = """
 선정 기준(모든 조사·초안·검토 단계에 적용):
+- 공식 일정 3~6건은 확보 목표입니다. 조사 후 확인된 일정이 부족하면 실제 확인한 일정만 events에 넣고 eventOmissionNote에 조사 범위와 부족 사유를 구체적으로 적으세요. 이 경우 개수 부족만으로 발행을 거부하지 마세요. 관찰 변수는 공식 일정이 아니므로 수를 채우기 위해 events에 넣지 마세요. 일정의 출처·날짜 검증은 그대로 적용합니다.
 - 이전 회차의 대표뿐 아니라 alternatives의 2·3순위도 이미 독자에게 발행한 뉴스입니다. 예비였다는 이유로 대표로 승격하거나 다시 예비에 넣지 마세요.
 - 매체·제목·URL·기사 수정시각만 달라진 동일 사건은 새 뉴스가 아닙니다. 실제 새 수치·결과·공식입장이 이전 회차 cutoffAt 이후 확인된 경우만 후속으로 사용하세요. 검토자는 이전 alternatives의 title/reason/url까지 비교하고 실질 변화가 없으면 해당 후보를 탈락시키세요.
 - 이전 예비와 같은 URL 또는 유사 제목을 재사용하는 예외에는 해당 기사/alternative에 reserveUpdate={editionId, delta, sourceUrl, publishedAt}를 넣으세요. delta는 이전 내용과 새 사실의 차이, sourceUrl과 publishedAt은 실제 새 근거입니다. 제목 유사도가 높아도 다른 사건이라면 다른 사건임을 새 근거와 함께 설명하세요. 시간이나 URL을 만들지 마세요.
