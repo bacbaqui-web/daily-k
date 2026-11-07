@@ -1,6 +1,153 @@
 {
-  "editionCount": 102,
+  "editionCount": 103,
   "issues": [
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-03T09:23:44.374237+09:00",
+      "firstCoveredDate": "2026-11-03",
+      "id": "us-midterm-election-final-campaign-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "민주당 하원 253석 확보가 보도됐으며 21곳과 최종 의석은 미확정입니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "후속",
+        "storyId": "20261107-am-int-01",
+        "title": "미 민주당 하원 253석 확보…21곳은 개표 결과 미확정"
+      },
+      "path": "us-midterm-election-final-campaign-2026.json",
+      "title": "미국 2026년 중간선거 직전 유세와 의회 구성 변수"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "us-employment-october-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "비농업 고용 16만5000명 증가와 실업률 4.1%가 발표됐습니다. 향후 금리 결정은 미확정입니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "발표",
+        "storyId": "20261107-am-eco-01",
+        "title": "미국 10월 비농업 고용 16만5000명 증가…실업률 4.1%"
+      },
+      "path": "us-employment-october-2026.json",
+      "title": "미국 2026년 10월 고용통계"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "strong-el-nino-development-winter-outlook-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "강한 엘니뇨 발달과 12월 절정 전망이 보도됐으며 국내 재난 발생은 미확정입니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "보도",
+        "storyId": "20261107-am-safe-01",
+        "title": "기상청, 강한 엘니뇨 발달 확인…12월 절정 전망"
+      },
+      "path": "strong-el-nino-development-winter-outlook-2026.json",
+      "title": "2026년 강한 엘니뇨 발달과 겨울철 전망"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "seoul-cadenza-moving-webtoon-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "카카오페이지 공개와 무빙툰 제작이 보도됐으며 신작 사업 성과는 미확인입니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "보도",
+        "storyId": "20261107-am-web-01",
+        "title": "서울시, 무빙툰 ‘서울, 76년 만의 카덴차’ 공개"
+      },
+      "path": "seoul-cadenza-moving-webtoon-2026.json",
+      "title": "서울시 서울, 76년 만의 카덴차 무빙툰 공개"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "miraeasset-securities-personal-data-breach-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "회사가 고객 계좌번호와 임직원 등 개인정보 유출을 발표했으며 후속 조사는 남아 있습니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "보도",
+        "storyId": "20261107-am-tech-01",
+        "title": "미래에셋증권, 고객 약 3800명 계좌번호·임직원 등 개인정보 유출 발표"
+      },
+      "path": "miraeasset-securities-personal-data-breach-2026.json",
+      "title": "미래에셋증권 인증서비스·그룹웨어 침해와 개인정보 유출"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "market-dominance-abuse-enforcement-decree-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "시행령 개정안 입법예고가 시작됐으며 최종 개정·시행은 미확정입니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "검토",
+        "storyId": "20261107-am-pol-01",
+        "title": "공정위, 독과점 사업자 규율 개정안 입법예고…소비자 착취행위 명시"
+      },
+      "path": "market-dominance-abuse-enforcement-decree-2026.json",
+      "title": "시장지배적지위 남용행위 시행령 개정"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "firstCoveredDate": "2026-11-07",
+      "id": "gyeonggi-south-police-leadership-staffing-gap-2026",
+      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "lastCoveredDate": "2026-11-07",
+      "latest": {
+        "archive": false,
+        "change": "장기 청장 공석과 지역경찰 685명 부족이 보도됐으며 인선·지원은 미확정입니다.",
+        "editionId": "2026-11-07-am",
+        "stage": "보도",
+        "storyId": "20261107-am-soc-01",
+        "title": "경기남부경찰청장 67일째 공백…지역경찰 정원보다 685명 부족"
+      },
+      "path": "gyeonggi-south-police-leadership-staffing-gap-2026.json",
+      "title": "경기남부경찰청 지휘부 공백과 지역경찰 인력 부족"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -1065,27 +1212,6 @@
       },
       "path": "webtoon-ai-fan-video-rights-analysis-2026.json",
       "title": "웹툰 AI 영상의 팬 제작과 2차 활용 권리 논의"
-    },
-    {
-      "categories": [
-        "국제정세"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-03T09:23:44.374237+09:00",
-      "firstCoveredDate": "2026-11-03",
-      "id": "us-midterm-election-final-campaign-2026",
-      "lastCoveredAt": "2026-11-03T09:23:44.374237+09:00",
-      "lastCoveredDate": "2026-11-03",
-      "latest": {
-        "archive": false,
-        "change": "선거 직전 마지막 연설과 정책 변수가 보도됐습니다. 실제 투표 결과는 미확정입니다.",
-        "editionId": "2026-11-03-am",
-        "stage": "보도",
-        "storyId": "20261103-am-int-01",
-        "title": "미국 중간선거 임박…트럼프, 마지막 연설서 투표 참여 독려"
-      },
-      "path": "us-midterm-election-final-campaign-2026.json",
-      "title": "미국 2026년 중간선거 직전 유세와 의회 구성 변수"
     },
     {
       "categories": [
@@ -9507,7 +9633,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 759,
+  "storyCount": 766,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-06T21:14:11.083376+09:00"
+  "updatedAt": "2026-11-07T09:35:13.492138+09:00"
 }

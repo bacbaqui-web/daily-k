@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-07/am.json",
+      "category": "정치·정책",
+      "change": "시행령 개정안 입법예고가 시작됐으며 최종 개정·시행은 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-07T09:35:13.492138+09:00",
+      "coveredOn": "2026-11-07",
+      "edition": "am",
+      "editionDate": "2026-11-07",
+      "editionId": "2026-11-07-am",
+      "eventAt": null,
+      "eventDate": "2026-11-06",
+      "eventEndDate": null,
+      "eventTimeNote": "입법예고 시작은 11월 6일입니다. 정확한 발표 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-07-am/20261107-am-pol-01",
+      "keyFacts": {
+        "개정 완료": "미확정",
+        "대상": "시장지배적지위 남용행위 시행령 규율",
+        "의견수렴 종료": "2026-12-16",
+        "입법예고 시작": "2026-11-06"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-06T10:00:10+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스TV",
+          "publishedAt": "2026-11-06T10:00:10+09:00",
+          "title": "독과점 사업자 규율, 25년 만에 바꾼다…현실 맞게 손질",
+          "url": "https://n.news.naver.com/mnews/article/422/0000923420",
+          "verifiedAt": "2026-11-07T09:09:56.222612+09:00"
+        }
+      ],
+      "stage": "검토",
+      "status": "검토",
+      "storyId": "20261107-am-pol-01",
+      "summary": [
+        "공정거래위원회가 시장지배적지위 남용행위를 구체화하는 공정거래법 시행령 개정안을 입법예고했습니다. 의견수렴은 12월 16일까지이며 시행 완료는 아닙니다.",
+        "연합뉴스TV에 따르면 개정안은 부당한 거래조건과 현저한 품질 저하 등 소비자 착취행위를 명시합니다. 가격 변경 판단에 해외 시장 가격을 고려하고 사업활동 방해 유형도 손질합니다.",
+        "공정위는 의견을 검토한 뒤 내년 상반기 개정 작업을 마무리할 방침입니다. 최종 조문과 시행 시점, 개별 사건의 제재 결과는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "공정위, 독과점 사업자 규율 개정안 입법예고…소비자 착취행위 명시",
+      "uncertainty": "최종 개정 내용과 시행, 실제 집행 효과는 미확정입니다."
+    }
+  ],
+  "id": "market-dominance-abuse-enforcement-decree-2026",
+  "schemaVersion": 1,
+  "title": "시장지배적지위 남용행위 시행령 개정",
+  "updatedAt": "2026-11-07T09:35:13.492138+09:00"
+}
