@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-07T04:37:46.880966+00:00",
+  "collectedAt": "2026-11-07T04:39:26.982431+00:00",
   "windowEnd": "2026-11-07T13:37:46.739207+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -11827,6 +11827,81 @@
       "sourceTitlesFetchedAt": "2026-11-07T01:45:51.505809+00:00",
       "collectedAt": "2026-11-07T10:45:51.505838+09:00",
       "firstPublishedAt": "2026-11-07T01:45:51.680527+00:00"
+    },
+    {
+      "id": "aagag-1667732-0",
+      "url": "https://aagag.com/issue/?idx=1667732",
+      "source": "애객",
+      "title": "중소기업의 취업현실",
+      "publishedAt": "2026-11-07T13:27:23+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4WRz.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4WS5.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4WS9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4WSB.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4WRz.webp",
+        "https://i.aagag.com/o/L4WS5.webp",
+        "https://i.aagag.com/o/L4WS9.webp",
+        "https://i.aagag.com/o/L4WSB.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 4,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 2.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8950774",
+          "text": "하나같이 불법이네 ㅎㅎ 우리나라도 총이 있어야함.."
+        },
+        {
+          "id": "8950788",
+          "text": "제정신이 아니네 ㅋㅋ 자발적으로 급여 삭감을 동의합니다 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8950796",
+          "text": "급여반납은ㅋㅋ미칫네"
+        },
+        {
+          "id": "8950798",
+          "text": "저딴곳은 없어져야지 ㄹㅇ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-07T13:39:19.456381+09:00",
+      "sourceTitles": [
+        "중소기업의 취업 현실",
+        "중소기업 취업의 현실.jpg",
+        "중소기업의 취업현실",
+        "중소기업의 취업현실"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-07T04:39:26.886236+00:00",
+      "collectedAt": "2026-11-07T13:39:26.886253+09:00",
+      "firstPublishedAt": "2026-11-07T04:39:27.008603+00:00"
     }
   ],
   "taggedPosts": [
@@ -14173,7 +14248,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
