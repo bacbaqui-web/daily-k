@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-07",
-  "collectedAt": "2026-11-07T07:21:10.389633+00:00",
+  "collectedAt": "2026-11-07T07:24:33.192766+00:00",
   "windowEnd": "2026-11-07T16:21:10.243880+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -14753,7 +14753,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -14780,6 +14780,56 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667766-0",
+      "url": "https://aagag.com/issue/?idx=1667766",
+      "source": "애객",
+      "title": "도시락 가게에서 제일 비싼 메뉴 시식으로 달라고 한 짱구.manhwa",
+      "publishedAt": "2026-11-07T16:18:10+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4PAL.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4PAe.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "‘데빌구’인줄알았더니 ‘갓구’였음"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4PAL.webp",
+        "https://i.aagag.com/o/L4PAe.webp"
+      ],
+      "videos": [],
+      "excerpt": "‘데빌구’인줄알았더니 ‘갓구’였음",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-07T16:24:20.914075+09:00",
+      "sourceTitles": [
+        "도시락 가게에서 제일 비싼 메뉴 시식으로 달라고 한 짱구.jpg",
+        "도시락 가게에서 제일 비싼 메뉴 시식으로 달라고 한 짱구.manhwa",
+        "도시락 가게에서 제일 비싼 메뉴 시식으로 달라고 한 짱구",
+        "도시락 가게에서 제일 비싼 메뉴 시식으로 달라고 한 짱구.manwha"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-07T07:24:33.085398+00:00",
+      "collectedAt": "2026-11-07T16:24:33.085415+09:00",
+      "firstPublishedAt": "2026-11-07T07:24:33.225561+00:00"
+    },
     {
       "id": "aagag-1667740-0",
       "url": "https://aagag.com/issue/?idx=1667740",
