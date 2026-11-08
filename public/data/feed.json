@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T07:17:53.467457+00:00",
+  "collectedAt": "2026-11-08T07:18:49.762193+00:00",
   "windowEnd": "2026-11-08T16:17:53.377646+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7237,7 +7237,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7264,6 +7264,73 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667957-0",
+      "url": "https://aagag.com/issue/?idx=1667957",
+      "source": "애객",
+      "title": "치이카와)최신화 보고 팬들이 난리난 이유.manhwa",
+      "publishedAt": "2026-11-08T16:16:06+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4JQO.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4Tp6.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "정체가 뭔진 몰루겠지만 귀엽죠?\n4명 세트죠?\n컴플리트하고 싶죠?\n굿즈 다 모아야겠죠?\n미래가 보여"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4JQO.webp",
+        "https://i.aagag.com/o/L4Tp6.webp"
+      ],
+      "videos": [],
+      "excerpt": "정체가 뭔진 몰루겠지만 귀엽죠?\n4명 세트죠?\n컴플리트하고 싶죠?\n굿즈 다 모아야겠죠?\n미래가 보여",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8954679",
+          "text": "인사이드아웃인가 ㅎ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-08T16:18:39.820722+09:00",
+      "sourceTitles": [
+        "먼작귀 근황",
+        "치이카와) 충격과 공포의 근황",
+        "치이카와)크헤헤... 드디어 우리제품도 치이카와에 나왔다!",
+        "나가노: 아... 돈 벌기 어렵다",
+        "현재 난리났다는 치이카와 최신화.manhwa",
+        "치이카와)최신화 보고 팬들이 난리난 이유.manhwa",
+        "현재 난리났다는 치이카와 최신화.manga",
+        "치이카와)역시 예상대로의 전개잖아!",
+        "[먼작귀] 하치와레족 전원이 다 말할 테니까 4명이나 있으면 꽤 시끄러울 것 같아.",
+        "<치이카와>  하치와레버전 인사이드아웃이냐고 난리난 오늘 연재 에피소드ㅋㅋ",
+        "[먼작귀] 빠삐코를  나누는데 어디선가 나타난 이상한 먼작귀들!!!????(일본연재분)",
+        "모두가 혼란중인 치이카와 체신 에피를 살펴보자",
+        "치이카와 팬들을 혼란에 빠지게한 치이카와 최근화",
+        "치이카와)극장판유입 개미털기 들어간 나가노",
+        "[치이카와] 오늘 연재분 🍦",
+        "[먼작귀] 무언가 들고 뛰어오는 하치와레(일본연재분)"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 16,
+      "sourceTitlesFetchedAt": "2026-11-08T07:18:49.702745+00:00",
+      "collectedAt": "2026-11-08T16:18:49.702770+09:00",
+      "firstPublishedAt": "2026-11-08T07:18:49.783621+00:00"
+    },
     {
       "id": "aagag-1657046-0",
       "url": "https://aagag.com/issue/?idx=1657046",
