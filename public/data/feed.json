@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-08T20:55:22.017250+00:00",
+  "collectedAt": "2026-11-08T20:56:57.761214+00:00",
   "windowEnd": "2026-11-09T05:55:21.918171+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6462,6 +6462,105 @@
       "firstPublishedAt": "2026-11-08T00:31:35.034705+00:00"
     },
     {
+      "id": "aagag-1668075-0",
+      "url": "https://aagag.com/issue/?idx=1668075",
+      "source": "애객",
+      "title": "고양이 컨샙 최예나",
+      "publishedAt": "2026-11-09T05:47:22+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4ms5.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4msT.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4msl.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4msr.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4msx.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4mtJ.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4ms5.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L4msT.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L4msl.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L4msr.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L4msx.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L4mtJ.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8956239",
+          "text": "야니네코"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T05:56:49.789332+09:00",
+      "sourceTitles": [
+        "예나",
+        "고양이 컨샙 최예나",
+        "ㅇㅎ?) 오늘자 최예나 고양이",
+        "최예나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-08T20:56:57.671829+00:00",
+      "collectedAt": "2026-11-09T05:56:57.671845+09:00",
+      "firstPublishedAt": "2026-11-08T20:56:57.799263+00:00"
+    },
+    {
       "id": "aagag-1668051-0",
       "url": "https://aagag.com/issue/?idx=1668051",
       "source": "애객",
@@ -6789,7 +6888,7 @@
     }
   ],
   "partialCommentPosts": 0,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
