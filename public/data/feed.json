@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T10:37:56.581299+09:00",
-  "windowEnd": "2026-11-08T10:31:36.883242+09:00",
+  "collectedAt": "2026-11-08T01:48:15.320501+00:00",
+  "windowEnd": "2026-11-08T10:48:15.231736+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4993,75 +4993,6 @@
       "firstPublishedAt": "2026-11-07T22:15:25.770090+00:00"
     },
     {
-      "id": "aagag-1667702-0",
-      "url": "https://aagag.com/issue/?idx=1667702",
-      "source": "애객",
-      "title": "사람 차별하는 맥도날드",
-      "publishedAt": "2026-11-07T10:28:04+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L40gw.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L40gw.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 7,
-      "laughingComments": 1,
-      "score": 11,
-      "kPerComment": 1.5714285714285714,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8950238",
-          "text": "다라이믹듀오 ㅎㄷㄷ"
-        },
-        {
-          "id": "8950259",
-          "text": "다라이나믹 듀오 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8950240",
-          "text": "와 맥도날드 얼굴 큰 사람들한텐 작은거 주네 너무하다"
-        },
-        {
-          "id": "8950250",
-          "text": "저사람 다라이가 남다르다!"
-        },
-        {
-          "id": "8950261",
-          "text": "사람차별하네 ㄷㄸ"
-        },
-        {
-          "id": "8950266",
-          "text": "사라진 음식물 박물관 이런거있음 좋겠다 빅맥초창기 크기 그대로! 케이에프씨 원조 샌더스대령 조리법그대로! 신라면 초창기맛 그대로! 코카콜라에 진짜 콜라넛넣고 코카인넣고! 팸버튼약사방법 그대로!"
-        },
-        {
-          "id": "8950269",
-          "text": "상대성 버거"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-07T10:45:40.774208+09:00",
-      "sourceTitles": [
-        "맥도날드의 사람 차별",
-        "사람 차별하는 맥도날드",
-        "사람 차별하는 맥도날드",
-        "사람 차별하는 맥도날드"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-07T01:45:51.505809+00:00",
-      "collectedAt": "2026-11-07T10:45:51.505838+09:00",
-      "firstPublishedAt": "2026-11-07T01:45:51.680527+00:00"
-    },
-    {
       "id": "aagag-1667732-0",
       "url": "https://aagag.com/issue/?idx=1667732",
       "source": "애객",
@@ -7058,9 +6989,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 285,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
