@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T08:52:16.987116+00:00",
+  "collectedAt": "2026-11-08T08:55:24.335636+00:00",
   "windowEnd": "2026-11-08T17:52:16.895424+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5051,6 +5051,59 @@
       "firstPublishedAt": "2026-11-08T00:01:54.124981+00:00"
     },
     {
+      "id": "aagag-1667972-0",
+      "url": "https://aagag.com/issue/?idx=1667972",
+      "source": "애객",
+      "title": "뼈 하나로 사골을 11번 우린 게임 회사",
+      "publishedAt": "2026-11-08T17:42:26+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4fb2.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4fb2.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 3,
+      "laughingComments": 3,
+      "score": 14,
+      "kPerComment": 4.666666666666667,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8954909",
+          "text": "고작 11개가 아닐텐데 ㅋㅋㅋ"
+        },
+        {
+          "id": "8954914",
+          "text": "진정한 멀티버스 ㅋㅋㅋ"
+        },
+        {
+          "id": "8954929",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ 그만 추억 우려!!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-08T17:55:13.886694+09:00",
+      "sourceTitles": [
+        "뼈 하나로 사골을 11번 우린 게임 회사",
+        "뼈 하나로 사골을 11번 우린 게임 회사",
+        "세계를 11번 멸망시킨 게임회사",
+        "또 라그나로크냐???는 드립이 아님"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-08T08:55:24.273759+00:00",
+      "collectedAt": "2026-11-08T17:55:24.273776+09:00",
+      "firstPublishedAt": "2026-11-08T08:55:24.359830+00:00"
+    },
+    {
       "id": "aagag-652281-1",
       "url": "https://aagag.com/issue/?idx=652281_1",
       "source": "애객",
@@ -7908,7 +7961,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
