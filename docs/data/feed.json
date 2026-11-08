@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T16:37:55.439125+09:00",
-  "windowEnd": "2026-11-08T16:32:55.199766+09:00",
+  "collectedAt": "2026-11-08T07:48:10.263158+00:00",
+  "windowEnd": "2026-11-08T16:48:10.170493+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5733,70 +5733,6 @@
       "firstPublishedAt": "2026-11-07T22:15:25.770090+00:00"
     },
     {
-      "id": "aagag-1667770-0",
-      "url": "https://aagag.com/issue/?idx=1667770",
-      "source": "애객",
-      "title": "멀리서보면 희극, 가까이서 보면 비극",
-      "publishedAt": "2026-11-07T16:28:45+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4WsD.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4WsG.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L4WsD.webp",
-        "https://i.aagag.com/o/L4WsG.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 4,
-      "laughingComments": 2,
-      "score": 11,
-      "kPerComment": 2.75,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8951336",
-          "text": "ㅋㅋㅋㅋ 예상 못했다 이건"
-        },
-        {
-          "id": "8951339",
-          "text": "와 ㅋㅋㅋㅋㅋ 진짜 올해 최고의 명짤이다! ㅋㅋ"
-        },
-        {
-          "id": "8951353",
-          "text": "야르~"
-        },
-        {
-          "id": "8951367",
-          "text": "오호이야"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-07T16:41:29.408469+09:00",
-      "sourceTitles": [
-        "멀리서보면 희극, 가까이서 보면 비극",
-        "멀리서 보면 희극, 가까이서 보면 비극",
-        "뭐야? 이거 근 이잖아?",
-        "멀리서 보면 희극 가까이서 보면 비극",
-        "야 ~ ㄹ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-07T07:41:40.359964+00:00",
-      "collectedAt": "2026-11-07T16:41:40.359981+09:00",
-      "firstPublishedAt": "2026-11-07T07:41:40.484962+00:00"
-    },
-    {
       "id": "aagag-1667909-0",
       "url": "https://aagag.com/issue/?idx=1667909",
       "source": "애객",
@@ -7780,9 +7716,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 284,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
