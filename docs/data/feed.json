@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-08T20:35:46.371087+00:00",
+  "collectedAt": "2026-11-08T20:37:47.710486+00:00",
   "windowEnd": "2026-11-09T05:35:46.276521+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5989,6 +5989,65 @@
       "firstPublishedAt": "2026-11-08T05:14:07.478997+00:00"
     },
     {
+      "id": "aagag-1668072-0",
+      "url": "https://aagag.com/issue/?idx=1668072",
+      "source": "애객",
+      "title": "ㅇㅎ?) 4가지 감정별 '거기 아냐'",
+      "publishedAt": "2026-11-09T05:24:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KlnxG.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KlnxG.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8956220",
+          "text": "USB?"
+        },
+        {
+          "id": "8956222",
+          "text": "와우"
+        },
+        {
+          "id": "8956223",
+          "text": "서로 좋아하는 관계 못생긴 남자 ㄸ구멍 미시"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T05:37:33.973127+09:00",
+      "sourceTitles": [
+        "4가지 감정별 '거기 아냐'",
+        "ㅇㅎ?) 4가지 감정별 '거기 아냐'",
+        "ㅇㅎ) 영어 듣기 평가",
+        "ㅇㅎ?) 4가지 감정별 '거기 아냐'",
+        "ㅇㅎ?) 4가지 감정별 '거기 아냐'",
+        "ㅇㅎ?) 4가지 감정별 '거기 아냐'"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-08T20:37:47.623571+00:00",
+      "collectedAt": "2026-11-09T05:37:47.623591+09:00",
+      "firstPublishedAt": "2026-11-08T20:37:47.741396+00:00"
+    },
+    {
       "id": "aagag-1667886-0",
       "url": "https://aagag.com/issue/?idx=1667886",
       "source": "애객",
@@ -6418,7 +6477,7 @@
     }
   ],
   "partialCommentPosts": 0,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
