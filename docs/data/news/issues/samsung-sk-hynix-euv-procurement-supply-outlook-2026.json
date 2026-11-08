@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-08/am.json",
+      "category": "과학·기술",
+      "change": "장비 발주·인도 준비와 공급 부족 전망이 보도됐습니다. 추가 계약·인도·증설 성과는 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-08T09:15:18.218773+09:00",
+      "coveredOn": "2026-11-08",
+      "edition": "am",
+      "editionDate": "2026-11-08",
+      "editionId": "2026-11-08-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "11월 8일 업계 취재와 앞선 ASML 실적발표를 종합한 기사입니다. 신규 조달 취재의 개별 계약·결정 날짜는 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-08-am/20261108-am-tech-01",
+      "keyFacts": {
+        "수급 전망": "2027~2028년 계획 공급의 수요 미충족, ASML 설명",
+        "양사 인도 계획": "2027년부터 순차 인도, 보도 기준",
+        "추가 발주·증설 완료": "미확인",
+        "핵심 장비": "ASML EUV 노광장비"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-08T06:01:36+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "조선비즈",
+          "publishedAt": "2026-11-08T06:01:36+09:00",
+          "title": "“ASML EUV 공급 모자란다”… 삼성전자·SK하이닉스 장비 확보 경쟁",
+          "url": "https://n.news.naver.com/mnews/article/366/0001203242",
+          "verifiedAt": "2026-11-08T09:11:41.077958+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261108-am-tech-01",
+      "summary": [
+        "삼성전자와 SK하이닉스가 첨단 D램 생산에 필요한 EUV 장비 확보를 서두르고 있다고 조선비즈가 보도했습니다. ASML은 2027~2028년 계획 공급이 고객 수요에 못 미칠 것으로 전망했습니다.",
+        "EUV는 짧은 파장의 빛으로 반도체 회로를 새기는 장비입니다. 첨단 D램에서 적용 공정이 늘면서 장비 인도 순번과 납기가 생산능력 확장의 변수로 제시됐습니다.",
+        "보도는 양사가 내년부터 장비를 순차 인도받을 예정이며 발주 시점을 앞당기는 방안도 검토한다고 전했습니다. 삼성전자 평택 P5용 노광장비 발주도 진행된 것으로 알려졌다는 업계 취재입니다.",
+        "기존 3월 구매 공시 자체를 당일 새 계약으로 계산하지 않았습니다. 추가 발주와 실제 인도·증설 완료, 공급 부족 전망의 실현은 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "ASML EUV 공급 부족 전망에 삼성전자·SK하이닉스 장비 확보 경쟁",
+      "uncertainty": "조달 현황 일부는 업계 취재이며 개별 추가 계약과 장비 인도, 실제 생산능력 확대는 미확정입니다."
+    }
+  ],
+  "id": "samsung-sk-hynix-euv-procurement-supply-outlook-2026",
+  "schemaVersion": 1,
+  "title": "삼성전자·SK하이닉스 EUV 장비 조달과 공급 전망",
+  "updatedAt": "2026-11-08T09:15:18.218773+09:00"
+}
