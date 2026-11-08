@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T22:40:42.258950+09:00",
-  "windowEnd": "2026-11-08T22:36:36.813037+09:00",
+  "collectedAt": "2026-11-08T13:50:56.943091+00:00",
+  "windowEnd": "2026-11-08T22:50:56.848840+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4979,72 +4979,6 @@
       "firstPublishedAt": "2026-11-07T20:11:04.904054+00:00"
     },
     {
-      "id": "aagag-1667791-0",
-      "url": "https://aagag.com/issue/?idx=1667791",
-      "source": "애객",
-      "title": "인스타에서 유명한 '그' 변호사가 극딜 맞음.mp4",
-      "publishedAt": "2026-11-07T22:34:19+09:00",
-      "content": [
-        {
-          "type": "text",
-          "text": "[소리]"
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4W7C.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4W7C.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "[소리]",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 15,
-      "commentCount": 4,
-      "laughingComments": 1,
-      "score": 15,
-      "kPerComment": 3.75,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8952490",
-          "text": "팩트과 무례사이...ㄷㄷㄷ"
-        },
-        {
-          "id": "8952495",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 대머리변호사ㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8952499",
-          "text": "반가움 짜증남 반가움 화남 짜증남 반가움"
-        },
-        {
-          "id": "8952509",
-          "text": "대변님 맞으시죠~♡"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-07T22:47:23.777108+09:00",
-      "sourceTitles": [
-        "대머리 변호사님 맞으세요?",
-        "팬한테 극딜 맞은 검사 출신 변호사",
-        "대머리 변호사님 맞으세요?",
-        "인스타에서 유명한 '그' 변호사가 극딜 맞음.mp4",
-        "인스타에서 유명한 변호사가 극딜맞음"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-07T13:47:30.691281+00:00",
-      "collectedAt": "2026-11-07T22:47:30.691299+09:00",
-      "firstPublishedAt": "2026-11-07T13:47:30.844965+00:00"
-    },
-    {
       "id": "aagag-1206065-0",
       "url": "https://aagag.com/issue/?idx=1206065",
       "source": "애객",
@@ -7842,9 +7776,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 284,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
