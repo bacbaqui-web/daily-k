@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T00:00:20.435279+00:00",
+  "collectedAt": "2026-11-08T00:01:54.104347+00:00",
   "windowEnd": "2026-11-08T09:00:20.344676+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4091,6 +4091,59 @@
       "firstPublishedAt": "2026-11-07T01:28:56.313009+00:00"
     },
     {
+      "id": "aagag-1667881-0",
+      "url": "https://aagag.com/issue/?idx=1667881",
+      "source": "애객",
+      "title": "전기 도둑질한 놈들의 최후...",
+      "publishedAt": "2026-11-08T08:52:47+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4eTd.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4eTd.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 3,
+      "laughingComments": 1,
+      "score": 14,
+      "kPerComment": 4.666666666666667,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8953309",
+          "text": "안걸릴거라 생각한 능지가..."
+        },
+        {
+          "id": "8953323",
+          "text": "29억 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8953324",
+          "text": "지방이 저정도면 서울경기도 싹털면 엄청날들"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-08T09:01:47.626165+09:00",
+      "sourceTitles": [
+        "전기도둑의 최후",
+        "전기 도둑질한 놈들의 최후..jpg",
+        "전기 도둑질한 놈들의 최후...",
+        "전기 도둑질한 놈들의 최후..jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-08T00:01:54.051997+00:00",
+      "collectedAt": "2026-11-08T09:01:54.052013+09:00",
+      "firstPublishedAt": "2026-11-08T00:01:54.124981+00:00"
+    },
+    {
       "id": "aagag-652281-1",
       "url": "https://aagag.com/issue/?idx=652281_1",
       "source": "애객",
@@ -7047,7 +7100,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
