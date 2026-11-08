@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-08T19:55:17.266367+00:00",
+  "collectedAt": "2026-11-08T19:59:27.864534+00:00",
   "windowEnd": "2026-11-09T04:55:17.160324+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6838,6 +6838,54 @@
       "firstPublishedAt": "2026-11-08T00:31:35.034705+00:00"
     },
     {
+      "id": "aagag-1668051-0",
+      "url": "https://aagag.com/issue/?idx=1668051",
+      "source": "애객",
+      "title": "ㅇㅎ) 여자는 되고 남자는 안되는 자세라는데",
+      "publishedAt": "2026-11-09T04:42:10+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4YLj.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4YLj.webp"
+      ],
+      "videos": [],
+      "excerpt": ".",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8956199",
+          "text": "나 암컷이야?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T04:59:17.509778+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 여자는 되고 남자는 안되는 자세라는데",
+        "여자는 되고 남자는 안되는 자세라는데....",
+        "ㅇㅎ) 여자는 되고 남자는 안되는 자세라는데"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-08T19:59:27.801670+00:00",
+      "collectedAt": "2026-11-09T04:59:27.801685+09:00",
+      "firstPublishedAt": "2026-11-08T19:59:27.887961+00:00"
+    },
+    {
       "id": "aagag-1668047-0",
       "url": "https://aagag.com/issue/?idx=1668047",
       "source": "애객",
@@ -7117,7 +7165,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
