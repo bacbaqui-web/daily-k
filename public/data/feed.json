@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T19:18:21.330535+09:00",
-  "windowEnd": "2026-11-08T19:12:40.257030+09:00",
+  "collectedAt": "2026-11-08T10:28:35.978327+00:00",
+  "windowEnd": "2026-11-08T19:28:35.881633+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8162,71 +8162,6 @@
       "firstPublishedAt": "2026-11-07T12:47:48.760005+00:00"
     },
     {
-      "id": "aagag-1667798-0",
-      "url": "https://aagag.com/issue/?idx=1667798",
-      "source": "애객",
-      "title": "ㅇㅎ) 전직이 의심스러운 신입 경리",
-      "publishedAt": "2026-11-07T19:05:07+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4Qdb.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4Qdb.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": ".",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 4,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8951795",
-          "text": "재미도없고.."
-        },
-        {
-          "id": "8951796",
-          "text": "남자뀨뀨같은데"
-        },
-        {
-          "id": "8951828",
-          "text": "간만에 들은 좋은 노래를 이딴 영상에 매치하다니.."
-        },
-        {
-          "id": "8951846",
-          "text": "뭐야 비지엠 뭐야 노래 좋은디"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-07T19:21:23.073399+09:00",
-      "sourceTitles": [
-        "전직이 의심스러운 신입 경리",
-        "ㅇㅎ) 전직이 의심스러운 신입 경리",
-        "15)회사에 한명쯤 있다는 경리",
-        "15) 회사에 한명쯤 있는 경리"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-07T10:21:30.706357+00:00",
-      "collectedAt": "2026-11-07T19:21:30.706374+09:00",
-      "firstPublishedAt": "2026-11-07T10:21:30.856513+00:00"
-    },
-    {
       "id": "aagag-1667886-0",
       "url": "https://aagag.com/issue/?idx=1667886",
       "source": "애객",
@@ -8416,9 +8351,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 284,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
