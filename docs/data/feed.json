@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T17:42:00.977721+09:00",
-  "windowEnd": "2026-11-08T17:35:10.261196+09:00",
+  "collectedAt": "2026-11-08T08:52:16.987116+00:00",
+  "windowEnd": "2026-11-08T17:52:16.895424+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7719,76 +7719,6 @@
       "firstPublishedAt": "2026-11-07T10:21:30.856513+00:00"
     },
     {
-      "id": "aagag-1667782-0",
-      "url": "https://aagag.com/issue/?idx=1667782",
-      "source": "애객",
-      "title": "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
-      "publishedAt": "2026-11-07T17:38:33+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4CsR.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4CsW.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4Csc.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L4CsR.webp",
-        "https://i.aagag.com/o/L4CsW.webp",
-        "https://i.aagag.com/o/L4Csc.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 4,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8951570",
-          "text": "싼다할아버지께서 꼭 선물을 주실듯"
-        },
-        {
-          "id": "8951571",
-          "text": "어디에요"
-        },
-        {
-          "id": "8951576",
-          "text": "할아버진 아니지만 저기..."
-        },
-        {
-          "id": "8951577",
-          "text": "원하는 선물이 통일이라고? 일단 노력은 해보고있다"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-07T17:43:33.154601+09:00",
-      "sourceTitles": [
-        "산타에게 선물 달라고 하는 누나",
-        "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
-        "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
-        "ㅇㅎ) 산타에게 선물 달라고 하는 누나",
-        "ㅇㅎ) 산타에게 선물 달라고 하는 누나"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-07T08:43:39.705784+00:00",
-      "collectedAt": "2026-11-07T17:43:39.705845+09:00",
-      "firstPublishedAt": "2026-11-07T08:43:39.838653+00:00"
-    },
-    {
       "id": "aagag-1667886-0",
       "url": "https://aagag.com/issue/?idx=1667886",
       "source": "애객",
@@ -7978,9 +7908,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 286,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
