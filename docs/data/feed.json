@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-08T21:25:30.331380+00:00",
+  "collectedAt": "2026-11-08T21:26:25.307310+00:00",
   "windowEnd": "2026-11-09T06:25:30.242523+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6462,6 +6462,59 @@
       "firstPublishedAt": "2026-11-08T00:31:35.034705+00:00"
     },
     {
+      "id": "aagag-1668083-0",
+      "url": "https://aagag.com/issue/?idx=1668083",
+      "source": "애객",
+      "title": "스프라이트 먹는 눈나...",
+      "publishedAt": "2026-11-09T06:20:28+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4fYF.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "ㄷㄷㄷ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4fYF.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "ㄷㄷㄷ",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 2.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8956268",
+          "text": "v8 소리가 나냐ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T06:26:19.418013+09:00",
+      "sourceTitles": [
+        "유독 서양 야동에서 많이 나오는 장면",
+        "ㅇㅎ)스프라이트 마시는 눈나",
+        "스프라이트 꽂아 넣는 눈나",
+        "스프라이트 먹는 눈나..."
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-08T21:26:25.236504+00:00",
+      "collectedAt": "2026-11-09T06:26:25.236521+09:00",
+      "firstPublishedAt": "2026-11-08T21:26:25.337745+00:00"
+    },
+    {
       "id": "aagag-1668075-0",
       "url": "https://aagag.com/issue/?idx=1668075",
       "source": "애객",
@@ -6888,7 +6941,7 @@
     }
   ],
   "partialCommentPosts": 0,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
