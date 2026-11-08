@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-08",
-  "collectedAt": "2026-11-08T01:01:19.746145+00:00",
+  "collectedAt": "2026-11-08T01:02:26.711395+00:00",
   "windowEnd": "2026-11-08T10:01:19.654619+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7437,7 +7437,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7464,6 +7464,46 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1667890-0",
+      "url": "https://aagag.com/issue/?idx=1667890",
+      "source": "애객",
+      "title": "금태양으로부터 여친 지키는 남친 만와.manga",
+      "publishedAt": "2026-11-08T09:58:04+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4Rae.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4Rae.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-08T10:02:17.814685+09:00",
+      "sourceTitles": [
+        "금태양으로부터 여친 지키는 남친 만와.manga",
+        "금태양으로부터 여친 지키는 남친 만와.manga",
+        "금태양으로부터 여친 지키는 남친 manhwa",
+        "금태양으로부터 여친 지키는 남친 만와.manga"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-08T01:02:26.651587+00:00",
+      "collectedAt": "2026-11-08T10:02:26.651603+09:00",
+      "firstPublishedAt": "2026-11-08T01:02:26.734207+00:00"
+    },
     {
       "id": "aagag-1608043-0",
       "url": "https://aagag.com/issue/?idx=1608043",
