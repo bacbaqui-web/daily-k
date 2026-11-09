@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T03:14:48.590319+00:00",
+  "collectedAt": "2026-11-09T03:17:06.521113+00:00",
   "windowEnd": "2026-11-09T12:14:48.496079+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7423,7 +7423,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7450,6 +7450,46 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668149-0",
+      "url": "https://aagag.com/issue/?idx=1668149",
+      "source": "애객",
+      "title": "현재 젠슨황 논란 4컷 정리만화.jpg",
+      "publishedAt": "2026-11-09T12:10:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4pww.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4pww.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-09T12:16:55.738102+09:00",
+      "sourceTitles": [
+        "젠슨황 현재상황 4컷만화",
+        "현재 젠슨황 논란 정리 만화",
+        "현재 젠슨황 논란 4컷 정리만화.jpg",
+        "현재 젠슨황 논란 4컷 정리만화 근황"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-09T03:17:06.459774+00:00",
+      "collectedAt": "2026-11-09T12:17:06.460633+09:00",
+      "firstPublishedAt": "2026-11-09T03:17:06.545497+00:00"
+    },
     {
       "id": "aagag-1668127-0",
       "url": "https://aagag.com/issue/?idx=1668127",
