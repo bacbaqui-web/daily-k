@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T12:05:48.050052+00:00",
+  "collectedAt": "2026-11-09T12:09:21.067330+00:00",
   "windowEnd": "2026-11-09T21:05:47.945628+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8007,7 +8007,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8034,6 +8034,70 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668286-0",
+      "url": "https://aagag.com/issue/?idx=1668286",
+      "source": "애객",
+      "title": "중국집 영업방해 레전드",
+      "publishedAt": "2026-11-09T20:56:31+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4uzs.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4v03.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4v0E.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4v0R.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "진상을 넘어선 영업방해ㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4uzs.webp",
+        "https://i.aagag.com/o/L4v03.webp",
+        "https://i.aagag.com/o/L4v0E.webp",
+        "https://i.aagag.com/o/L4v0R.webp"
+      ],
+      "videos": [],
+      "excerpt": "진상을 넘어선 영업방해ㅋㅋ",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-09T21:09:09.394655+09:00",
+      "sourceTitles": [
+        "중국집 영업방해 레전드",
+        "중국집 영업방해 레전드.manhwa",
+        "중국집 영업방해 레전드.manhwa",
+        "중국집 영업방해 레전드.manhwa",
+        "중국집 영업방해 레전드.manhwa",
+        "중국집 영업방해 레전드.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-09T12:09:20.999401+00:00",
+      "collectedAt": "2026-11-09T21:09:20.999418+09:00",
+      "firstPublishedAt": "2026-11-09T12:09:21.093806+00:00"
+    },
     {
       "id": "aagag-1668252-0",
       "url": "https://aagag.com/issue/?idx=1668252",
