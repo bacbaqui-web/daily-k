@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T11:28:36.974530+00:00",
+  "collectedAt": "2026-11-09T11:29:32.597407+00:00",
   "windowEnd": "2026-11-09T20:28:36.873220+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7590,6 +7590,75 @@
       "firstPublishedAt": "2026-11-08T20:39:54.339450+00:00"
     },
     {
+      "id": "aagag-1668278-0",
+      "url": "https://aagag.com/issue/?idx=1668278",
+      "source": "애객",
+      "title": "ㅎㅂ) 남자 보쌈해가는 게임",
+      "publishedAt": "2026-11-09T20:26:06+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4V4x.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4V4x.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": ".",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 5,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.4,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8959907",
+          "text": "남자는 겁탈해ㄹ.."
+        },
+        {
+          "id": "8959910",
+          "text": "붉은사막 모드인가 ㅋㅋ"
+        },
+        {
+          "id": "8959914",
+          "text": "저 C스트링 고정이 어떻게되나 궁금하더라 남성용은 주머니 같이 움푹 들어가기라도 하지 여자들은?"
+        },
+        {
+          "id": "8959917",
+          "text": "여자 갑옷 보니 만랩이네"
+        },
+        {
+          "id": "8959920",
+          "text": "게임에서 여자캐릭터 노출도가 높을수록 방어력이 높아진다면서요???????"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T20:29:26.931383+09:00",
+      "sourceTitles": [
+        "남자 보쌈해가는 게임",
+        "ㅎㅂ) 남자 보쌈해가는 게임",
+        "(ㅎㅂ) 남자 보쌈해가는 게임",
+        "ㅇㅎ) 남자를 보쌈해가는 여자"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-09T11:29:32.523853+00:00",
+      "collectedAt": "2026-11-09T20:29:32.523869+09:00",
+      "firstPublishedAt": "2026-11-09T11:29:32.628056+00:00"
+    },
+    {
       "id": "aagag-1668160-0",
       "url": "https://aagag.com/issue/?idx=1668160",
       "source": "애객",
@@ -8604,7 +8673,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
