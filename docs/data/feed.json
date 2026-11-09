@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T10:00:59.030102+00:00",
+  "collectedAt": "2026-11-09T10:02:26.599955+00:00",
   "windowEnd": "2026-11-09T19:00:58.926311+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5105,6 +5105,71 @@
       "sourceTitlesFetchedAt": "2026-11-09T03:00:58.133110+00:00",
       "collectedAt": "2026-11-09T12:00:58.133132+09:00",
       "firstPublishedAt": "2026-11-09T03:00:58.219893+00:00"
+    },
+    {
+      "id": "aagag-1668256-0",
+      "url": "https://aagag.com/issue/?idx=1668256",
+      "source": "애객",
+      "title": "백허그해 주는 젠슨 황",
+      "publishedAt": "2026-11-09T18:52:04+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4qLV.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4qLV.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 4,
+      "laughingComments": 3,
+      "score": 11,
+      "kPerComment": 2.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8959588",
+          "text": "ㅋㅋㅋㅋ 이건 좀 웃겼다."
+        },
+        {
+          "id": "8959593",
+          "text": "이걸 이렇게 갖다붙여서 만들다니ㅋㅋ"
+        },
+        {
+          "id": "8959600",
+          "text": "실물보다 낫네"
+        },
+        {
+          "id": "8959603",
+          "text": "이건 마치 기요틴박사가 단두대에서 처형되었다는 그 썰(진실 아님) 같군ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T19:02:16.806171+09:00",
+      "sourceTitles": [
+        "백허그해 주는 젠슨 황",
+        "백허그해 주는 젠슨 황",
+        "백허그해 주는 젠슨 황",
+        "이젠 영상도 쏟아지는 황선생.mp4",
+        "콜드플레이 콘서트에 찾아온 손님.ai",
+        "젠슨황 불륜밈 탄생",
+        "젠슨황 불륜밈 ㅋㅋㅋ.gif",
+        "젠슨 황 불륜밈.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-09T10:02:26.520908+00:00",
+      "collectedAt": "2026-11-09T19:02:26.520926+09:00",
+      "firstPublishedAt": "2026-11-09T10:02:26.630827+00:00"
     }
   ],
   "taggedPosts": [
@@ -7281,7 +7346,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
