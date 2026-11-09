@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T08:15:26.537385+00:00",
+  "collectedAt": "2026-11-09T08:16:25.730420+00:00",
   "windowEnd": "2026-11-09T17:15:26.434993+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6703,6 +6703,74 @@
       "firstPublishedAt": "2026-11-08T20:37:47.741396+00:00"
     },
     {
+      "id": "aagag-1668224-0",
+      "url": "https://aagag.com/issue/?idx=1668224",
+      "source": "애객",
+      "title": "닝닝 인스타",
+      "publishedAt": "2026-11-09T17:10:55+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4p1u.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4p1y.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4p20.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4p2A.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4p1u.webp",
+        "https://i.aagag.com/o/L4p1y.webp",
+        "https://i.aagag.com/o/L4p20.webp",
+        "https://i.aagag.com/o/L4p2A.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8959151",
+          "text": "핫걸이다 ㄷㄷ"
+        },
+        {
+          "id": "8959158",
+          "text": "오 닝닝 좋다좋아"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T17:16:13.284156+09:00",
+      "sourceTitles": [
+        "ㅇㅎ?) 닝닝 인스타.jpg",
+        "왜 카리나가 입을걸 엄한 맴버가 입는걸까",
+        "에스파 닝닝 인스타 업데이트",
+        "과감한 의상의 에스파 닝닝",
+        "닝닝 인스타"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-09T08:16:25.659574+00:00",
+      "collectedAt": "2026-11-09T17:16:25.659592+09:00",
+      "firstPublishedAt": "2026-11-09T08:16:25.756771+00:00"
+    },
+    {
       "id": "aagag-1668083-0",
       "url": "https://aagag.com/issue/?idx=1668083",
       "source": "애객",
@@ -7096,7 +7164,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
