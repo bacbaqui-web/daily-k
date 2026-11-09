@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T04:42:32.931529+00:00",
+  "collectedAt": "2026-11-09T04:44:18.051494+00:00",
   "windowEnd": "2026-11-09T13:42:32.834576+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7750,7 +7750,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7777,6 +7777,85 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668173-0",
+      "url": "https://aagag.com/issue/?idx=1668173",
+      "source": "애객",
+      "title": "KTX 씹민폐 응급환자.manhwa",
+      "publishedAt": "2026-11-09T13:38:34+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4lbB.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4lbE.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4lbS.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4lbb.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4lbe.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4lbf.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "KTX 지연 할인 받을려고 응급환자 연기함.... ㅅㅂ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4lbB.webp",
+        "https://i.aagag.com/o/L4lbE.webp",
+        "https://i.aagag.com/o/L4lbS.webp",
+        "https://i.aagag.com/o/L4lbb.webp",
+        "https://i.aagag.com/o/L4lbe.webp",
+        "https://i.aagag.com/o/L4lbf.webp"
+      ],
+      "videos": [],
+      "excerpt": "KTX 지연 할인 받을려고 응급환자 연기함.... ㅅㅂ",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8957965",
+          "text": "개폐급"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T13:44:10.830374+09:00",
+      "sourceTitles": [
+        "KTX 씹민폐 응급환자 상황.manhwa",
+        "KTX 씹민폐 응급환자.manhwa",
+        "KTX 씹민폐 응급환자.manhwa",
+        "KTX 씹민폐 응급환자.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-09T04:44:17.990428+00:00",
+      "collectedAt": "2026-11-09T13:44:17.990444+09:00",
+      "firstPublishedAt": "2026-11-09T04:44:18.081250+00:00"
+    },
     {
       "id": "aagag-1668149-0",
       "url": "https://aagag.com/issue/?idx=1668149",
