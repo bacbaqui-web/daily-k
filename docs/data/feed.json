@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-10",
-  "collectedAt": "2026-11-09T15:18:40.442531+00:00",
+  "collectedAt": "2026-11-09T15:19:42.686065+00:00",
   "windowEnd": "2026-11-10T00:18:40.341215+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4382,6 +4382,68 @@
       "firstPublishedAt": "2026-11-09T00:39:34.731321+00:00"
     },
     {
+      "id": "aagag-1668310-0",
+      "url": "https://aagag.com/issue/?idx=1668310",
+      "source": "애객",
+      "title": "외국인들한테 케이팝 랩이 어떻게 들리는지 묘사하는 서양녀.mp4",
+      "publishedAt": "2026-11-10T00:12:17+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4oi4.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4oi4.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 4,
+      "laughingComments": 3,
+      "score": 19,
+      "kPerComment": 4.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8960483",
+          "text": "ㅋㅋㅋㅋㅋㅋㄱㅋ"
+        },
+        {
+          "id": "8960485",
+          "text": "잘하는데...? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8960486",
+          "text": "지디인가?ㅋㅋ"
+        },
+        {
+          "id": "8960493",
+          "text": "개인적으로 뭐라고 하는지도 못 알아듣는 아이돌 노래보다 리센느처럼 확실하게 전하는 노래 가사가 듣기도 좋고 더 좋음. 절대 리센느가 좋아서 그런거 맞음."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-10T00:19:32.642634+09:00",
+      "sourceTitles": [
+        "외국인들한테 케이팝 랩이 어떻게 들리는지 묘사하는 서양녀",
+        "외국인들한테 케이팝 랩이 어떻게 들리는지 묘사하는 서양녀",
+        "외국인들한테 케이팝 랩이 어떻게 들리는지 묘사하는 서양녀.mp4",
+        "외국인들한테 케이팝 랩이 어떻게 들리는지 묘사하는 서양녀.mp4",
+        "케이팝 랩 따라하는 존예녀"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-09T15:19:42.598168+00:00",
+      "collectedAt": "2026-11-10T00:19:42.598185+09:00",
+      "firstPublishedAt": "2026-11-09T15:19:42.727782+00:00"
+    },
+    {
       "id": "aagag-1638656-0",
       "url": "https://aagag.com/issue/?idx=1638656",
       "source": "애객",
@@ -8468,7 +8530,7 @@
     }
   ],
   "partialCommentPosts": 6,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
