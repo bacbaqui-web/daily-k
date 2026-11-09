@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-09/pm.json",
+      "category": "과학·기술",
+      "change": "3자 개발·실증 협약이 체결됐습니다. 성능 검증과 상용화는 향후 단계입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "coveredOn": "2026-11-09",
+      "edition": "pm",
+      "editionDate": "2026-11-09",
+      "editionId": "2026-11-09-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-09",
+      "eventEndDate": null,
+      "eventTimeNote": "3자 MOU는 11월 9일 서울 코엑스에서 체결됐습니다. 정확한 체결 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-09-pm/20261109-pm-tech-01",
+      "keyFacts": {
+        "대상 NPU": "개발 중인 R200",
+        "상용화": "미완료",
+        "연계 기술": "엔비링크 퓨전·MGX",
+        "참여 기업": "SKT·엔비디아·리벨리온",
+        "체결일": "2026-11-09"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-09T17:50:16+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "블로터",
+          "publishedAt": "2026-11-09T17:50:16+09:00",
+          "title": "엔비디아 생태계에 韓 NPU 연결…SKT AIDC서 실증한다 [현장+]",
+          "url": "https://n.news.naver.com/mnews/article/293/0000092963",
+          "verifiedAt": "2026-11-09T21:14:43.182939+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "20261109-pm-tech-01",
+      "summary": [
+        "SKT·엔비디아·리벨리온이 GPU와 국산 NPU를 연결하는 통합 시스템 개발·실증 MOU를 체결했습니다. 성능 검증이나 상용화를 완료한 것은 아닙니다.",
+        "리벨리온이 개발 중인 차세대 NPU R200을 엔비링크 퓨전으로 엔비디아 플랫폼에 연결하고, MGX 설계를 적용한 랙 단위 시스템을 개발할 계획입니다. 질문 처리와 답변 생성 단계를 서로 다른 반도체에 나누는 방식을 도입합니다.",
+        "SKT는 자사 AI 데이터센터에서 성능·안정성·전력 효율을 검증한 뒤 서비스 적용과 상용화 가능성을 살펴볼 예정입니다. 국산 반도체의 글로벌 생태계 진입에 의미가 있지만 실측 성능과 비용 절감, 실제 도입 결과는 미확인입니다."
+      ],
+      "supersededBy": [],
+      "title": "SKT·엔비디아·리벨리온, GPU·국산 NPU 통합 시스템 개발·실증 협약",
+      "uncertainty": "제품 개발·실증 완료와 실측 성능·운영비 절감, 상용화는 미확정입니다."
+    }
+  ],
+  "id": "skt-nvidia-rebellions-gpu-npu-integration-2026",
+  "schemaVersion": 1,
+  "title": "SKT·엔비디아·리벨리온 GPU·NPU 통합 개발과 실증",
+  "updatedAt": "2026-11-09T21:18:21.137800+09:00"
+}

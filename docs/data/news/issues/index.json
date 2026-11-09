@@ -1,6 +1,156 @@
 {
-  "editionCount": 107,
+  "editionCount": 108,
   "issues": [
+    {
+      "categories": [
+        "국제·경제",
+        "국제정세"
+      ],
+      "eventCount": 18,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-17",
+      "id": "us-china-trade-ai-2026",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "중국이 관세·수출통제 강화와 기업 제재의 유예 연장을 발표했습니다. 향후 정책 조정은 미확정입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "발표",
+        "storyId": "20261109-pm-int-01",
+        "title": "중국, 대미 추가관세·희토류 통제강화 유예 2개월 연장"
+      },
+      "path": "us-china-trade-ai-2026.json",
+      "title": "미중 정상회담·무역·AI 협상"
+    },
+    {
+      "categories": [
+        "생활·안전",
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-20T09:07:15.178504+09:00",
+      "firstCoveredDate": "2026-10-20",
+      "id": "telemedicine-first-prescription-limit-diabetes-2026",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "야간 진료기관 편중과 시행 준비 문제가 보도됐습니다. 실제 시행 후 접근성 영향은 미확정입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "후속",
+        "storyId": "20261109-pm-safe-01",
+        "title": "비대면진료 초진 지역 제한 앞두고 야간 의료 접근성 공백 우려"
+      },
+      "path": "telemedicine-first-prescription-limit-diabetes-2026.json",
+      "title": "비대면진료 초진 처방 제한안과 만성질환자 의료 접근"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "skt-nvidia-rebellions-gpu-npu-integration-2026",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "3자 개발·실증 협약이 체결됐습니다. 성능 검증과 상용화는 향후 단계입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "발표",
+        "storyId": "20261109-pm-tech-01",
+        "title": "SKT·엔비디아·리벨리온, GPU·국산 NPU 통합 시스템 개발·실증 협약"
+      },
+      "path": "skt-nvidia-rebellions-gpu-npu-integration-2026.json",
+      "title": "SKT·엔비디아·리벨리온 GPU·NPU 통합 개발과 실증"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "presidential-office-salary-living-cost-task-force-2026",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "TF 설치 지시 사실과 운영 방향이 공개됐습니다. 관련 입법·예산과 효과는 미확정입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "발표",
+        "storyId": "20261109-pm-pol-01",
+        "title": "청와대, 직장인 생활비 절감 위한 ‘월급방위대’ TF 운영 방침 공개"
+      },
+      "path": "presidential-office-salary-living-cost-task-force-2026.json",
+      "title": "청와대 월급방위대 TF와 직장인 생활비 절감 정책"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "ourhome-factories-labor-safety-inspection-2026",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "공장 9곳 감독에서 위반 92건이 발표됐습니다. 개선 이행과 최종 책임은 미확정입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "발표",
+        "storyId": "20261109-pm-soc-01",
+        "title": "노동부, 아워홈 공장 9곳 감독서 안전·근로기준 위반 92건 적발"
+      },
+      "path": "ourhome-factories-labor-safety-inspection-2026.json",
+      "title": "아워홈 공장 안전·근로기준 감독 결과와 개선"
+    },
+    {
+      "categories": [
+        "웹툰 산업",
+        "웹툰산업"
+      ],
+      "eventCount": 12,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "kakao-webtoon-platform-integration",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "자산·이용내역 이전 신청이 시작됐습니다. 전체 이전과 계약·사업 성과 변화는 미확인입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "시행",
+        "storyId": "20261109-pm-web-01",
+        "title": "카카오웹툰 이용자 자산·이용내역의 카카오페이지 이전 신청 개시"
+      },
+      "path": "kakao-webtoon-platform-integration.json",
+      "title": "카카오페이지·카카오웹툰 통합과 타파스"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "delivery-platform-mfn-competition-penalties-2026",
+      "lastCoveredAt": "2026-11-09T21:18:21.137800+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "공정위의 제재 결정과 양사 반박이 공개됐습니다. 법적 분쟁과 시장 효과는 미확정입니다.",
+        "editionId": "2026-11-09-pm",
+        "stage": "결과",
+        "storyId": "20261109-pm-eco-01",
+        "title": "공정위, 배민·쿠팡이츠 최혜대우 요구 등 제재…양사 반발"
+      },
+      "path": "delivery-platform-mfn-competition-penalties-2026.json",
+      "title": "배달앱 최혜대우 요구 등 경쟁제한 행위 제재"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -4960,27 +5110,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-20T09:07:15.178504+09:00",
-      "firstCoveredDate": "2026-10-20",
-      "id": "telemedicine-first-prescription-limit-diabetes-2026",
-      "lastCoveredAt": "2026-10-20T09:07:15.178504+09:00",
-      "lastCoveredDate": "2026-10-20",
-      "latest": {
-        "archive": false,
-        "change": "초진 처방 제한안에 대한 제1형 당뇨 환자들의 우려가 보도됐습니다. 최종 제도와 시행 내용은 확인되지 않았습니다.",
-        "editionId": "2026-10-20-am",
-        "stage": "검토",
-        "storyId": "telemedicine-first-prescription-limit-diabetes-2026-10-20",
-        "title": "비대면진료 초진 처방 제한안에 제1형 당뇨 환자 우려"
-      },
-      "path": "telemedicine-first-prescription-limit-diabetes-2026.json",
-      "title": "비대면진료 초진 처방 제한안과 만성질환자 의료 접근"
-    },
-    {
-      "categories": [
         "생활·안전"
       ],
       "eventCount": 1,
@@ -8163,27 +8292,6 @@
     },
     {
       "categories": [
-        "웹툰 산업"
-      ],
-      "eventCount": 11,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "kakao-webtoon-platform-integration",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-30",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 카카오 통합 후 AI 추천·작품별 프로모션 강화.",
-        "editionId": "2026-09-30-am-archive",
-        "stage": "보도",
-        "storyId": "archive-08",
-        "title": "카카오 통합 후 AI 추천·작품별 프로모션 강화"
-      },
-      "path": "kakao-webtoon-platform-integration.json",
-      "title": "카카오페이지·카카오웹툰 통합과 타파스"
-    },
-    {
-      "categories": [
         "사회·스포츠"
       ],
       "eventCount": 4,
@@ -8349,27 +8457,6 @@
       },
       "path": "ai-rd-intelligence-explosion.json",
       "title": "AI 연구 자동화와 지능 폭발 경고"
-    },
-    {
-      "categories": [
-        "국제·경제"
-      ],
-      "eventCount": 17,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-17",
-      "id": "us-china-trade-ai-2026",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-09-28",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 미중 정상회담 결과에서 북한 '비핵화' 표현 빠짐.",
-        "editionId": "2026-09-28-am-archive",
-        "stage": "보도",
-        "storyId": "archive-03",
-        "title": "미중 정상회담 결과에서 북한 '비핵화' 표현 빠짐"
-      },
-      "path": "us-china-trade-ai-2026.json",
-      "title": "미중 정상회담·무역·AI 협상"
     },
     {
       "categories": [
@@ -10095,7 +10182,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 794,
+  "storyCount": 801,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-09T09:19:54.489884+09:00"
+  "updatedAt": "2026-11-09T21:18:21.137800+09:00"
 }
