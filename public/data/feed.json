@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T03:52:06.359496+00:00",
+  "collectedAt": "2026-11-09T03:53:42.434703+00:00",
   "windowEnd": "2026-11-09T12:52:06.263948+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6881,6 +6881,71 @@
       "firstPublishedAt": "2026-11-08T20:39:54.339450+00:00"
     },
     {
+      "id": "aagag-1668160-0",
+      "url": "https://aagag.com/issue/?idx=1668160",
+      "source": "애객",
+      "title": "ㅇㅎ) 림보하는중 못참은 불독",
+      "publishedAt": "2026-11-09T12:45:32+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4q1m.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4q1m.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8957736",
+          "text": "멍!멍!! 멍멍!!! 멍멍슷!!컹컹!!"
+        },
+        {
+          "id": "8957743",
+          "text": "AI겠죠?"
+        },
+        {
+          "id": "8957745",
+          "text": "ai같은데"
+        },
+        {
+          "id": "8957746",
+          "text": "ai         ."
+        },
+        {
+          "id": "8957763",
+          "text": "이거 실제 영상에 AI 합성한거 상황 자체는 진짜고 의상하고 머리등 코스튬 AI반영 https://www.instagram.com/reel/DfWMKBli8K9/"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T12:53:34.851930+09:00",
+      "sourceTitles": [
+        "난 우리나라 과학계에 기묘한 신뢰를 가지고있음",
+        "이 개새키야! ㅇㅎ",
+        "림보하는중 못참은 불독.mp4",
+        "ㅇㅎ) 림보하는중 못참은 불독"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-09T03:53:42.372066+00:00",
+      "collectedAt": "2026-11-09T12:53:42.372084+09:00",
+      "firstPublishedAt": "2026-11-09T03:53:42.460146+00:00"
+    },
+    {
       "id": "aagag-1667950-0",
       "url": "https://aagag.com/issue/?idx=1667950",
       "source": "애객",
@@ -7744,7 +7809,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
