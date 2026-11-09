@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T11:48:53.470671+09:00",
-  "windowEnd": "2026-11-09T11:44:00.239150+09:00",
+  "collectedAt": "2026-11-09T02:59:10.297192+00:00",
+  "windowEnd": "2026-11-09T11:59:10.204590+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5031,69 +5031,6 @@
       "firstPublishedAt": "2026-11-08T20:00:39.356935+00:00"
     },
     {
-      "id": "aagag-1667909-0",
-      "url": "https://aagag.com/issue/?idx=1667909",
-      "source": "애객",
-      "title": "막걸리 흔들어 마셔야 하는 이유",
-      "publishedAt": "2026-11-08T11:36:06+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4ZZS.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4f1O.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L4ZZS.webp",
-        "https://i.aagag.com/o/L4f1O.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 4,
-      "laughingComments": 3,
-      "score": 11,
-      "kPerComment": 2.75,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8953810",
-          "text": "한달정도 소주 안먹고 막걸리만 마셨더니 살쪘음ㅋㅋ"
-        },
-        {
-          "id": "8953811",
-          "text": "알콜은 발암물질, 막걸리 침전물은 항암물질+영양물질. 막걸리 먹으면 세이프 정도란 소린가?"
-        },
-        {
-          "id": "8953814",
-          "text": "발암물질인 알콜이 훨씬 많잖아ㅋㅋㅋ 병 주고 약 조금 주고ㅋㅋ"
-        },
-        {
-          "id": "8953830",
-          "text": "https://www.koreadaily.com/article/1187563 뭐가 더 빠를까 ㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-08T11:52:11.318274+09:00",
-      "sourceTitles": [
-        "막걸리 흔들어 마셔야 하는 이유",
-        "막걸리 흔들어 마셔야 하는 이유",
-        "막걸리 흔들어 마셔야 하는 이유",
-        "의외로 항암 할 수 있는 방법"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-08T02:52:20.088611+00:00",
-      "collectedAt": "2026-11-08T11:52:20.088628+09:00",
-      "firstPublishedAt": "2026-11-08T02:52:20.171056+00:00"
-    },
-    {
       "id": "aagag-1667945-0",
       "url": "https://aagag.com/issue/?idx=1667945",
       "source": "애객",
@@ -7308,9 +7245,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
