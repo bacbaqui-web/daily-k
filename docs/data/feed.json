@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T14:44:50.058275+09:00",
-  "windowEnd": "2026-11-09T14:37:34.905093+09:00",
+  "collectedAt": "2026-11-09T05:55:06.404621+00:00",
+  "windowEnd": "2026-11-09T14:55:06.312514+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6837,115 +6837,6 @@
       "firstPublishedAt": "2026-11-08T20:40:59.715014+00:00"
     },
     {
-      "id": "aagag-1667942-0",
-      "url": "https://aagag.com/issue/?idx=1667942",
-      "source": "애객",
-      "title": "대만식 고깃집 근황",
-      "publishedAt": "2026-11-08T14:32:04+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4cHT.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4cHh.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4cHx.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4cHT.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L4cHh.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L4cHx.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 11,
-      "commentsPartial": false,
-      "kCount": 7,
-      "commentCount": 11,
-      "laughingComments": 2,
-      "score": 7,
-      "kPerComment": 0.6363636363636364,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8954343",
-          "text": "엑셀 구이집인가...ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8954368",
-          "text": "형가서 별풍쏴바ㅋㅋㅋ"
-        },
-        {
-          "id": "8954344",
-          "text": "소화 안될듯 피가 다른데로 몰려서"
-        },
-        {
-          "id": "8954351",
-          "text": "밥 먹는데 먼지 날려~~"
-        },
-        {
-          "id": "8954354",
-          "text": "요즘 여러 자료들을 보면 대만은 남자가 살기 좋은곳일지도?"
-        },
-        {
-          "id": "8954361",
-          "text": "첫짤에 밥에 집중하는 따거는 여친이랑 왔나보네.."
-        },
-        {
-          "id": "8954373",
-          "text": "막짤에서 깍지 끼면 어케됨?"
-        },
-        {
-          "id": "8954376",
-          "text": "추가금이 발생합니다"
-        },
-        {
-          "id": "8954374",
-          "text": "엑설방송보다 좋네 손도 잡아주는데"
-        },
-        {
-          "id": "8954377",
-          "text": "뒤에 글자는 중국어인데? 대만이 아니라 중국같아요"
-        },
-        {
-          "id": "8954384",
-          "text": "밥묵다 얹히것다"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-08T14:46:02.590582+09:00",
-      "sourceTitles": [
-        "ㅇㅎ?) 대만식 고깃집 근황",
-        "대만식 고깃집 근황",
-        "대만 고깃집 공연",
-        "대만식 고깃집 근황"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-08T05:46:14.024537+00:00",
-      "collectedAt": "2026-11-08T14:46:14.024554+09:00",
-      "firstPublishedAt": "2026-11-08T05:46:14.104470+00:00"
-    },
-    {
       "id": "aagag-1594960-0",
       "url": "https://aagag.com/issue/?idx=1594960",
       "source": "애객",
@@ -8041,9 +7932,9 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
