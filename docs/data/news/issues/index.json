@@ -1,6 +1,154 @@
 {
-  "editionCount": 106,
+  "editionCount": 107,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "ylab-ip-investment-convertible-bond-2026",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "20억원 전환사채 발행·납입 완료가 확인됐습니다. 투자 집행과 수익 개선은 미확인입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "후속",
+        "storyId": "20261109-am-web-01",
+        "title": "와이랩, 제1회 사모 전환사채 20억원 발행·납입 완료"
+      },
+      "path": "ylab-ip-investment-convertible-bond-2026.json",
+      "title": "와이랩 IP 투자용 전환사채 발행과 수익성"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 11,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "이라크 외무장관이 미국의 국경 폐쇄 요청을 공개했습니다. 수용·이행 범위는 미확정입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "후속",
+        "storyId": "20261109-am-int-01",
+        "title": "미국, 이라크에 대이란 국경 검문소 대부분 폐쇄 요청"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "sm-dearu-dreammaker-personal-data-breach-2026",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "회사들이 개인정보 유출을 공지했습니다. 전체 피해 범위와 조사 결과는 미확정입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "발표",
+        "storyId": "20261109-am-soc-01",
+        "title": "SM엔터·디어유·드림메이커, 임직원 등 개인정보 유출 공지"
+      },
+      "path": "sm-dearu-dreammaker-personal-data-breach-2026.json",
+      "title": "SM엔터테인먼트·디어유·드림메이커 개인정보 유출"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "single-home-property-tax-deduction-negotiations-2026",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "당의 14억원 통일 요구와 청와대의 기존안 유지 입장이 보도됐습니다. 합의는 미확정입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "검토",
+        "storyId": "20261109-am-pol-01",
+        "title": "민주당, 종부세 공제 14억원 통일 요구…청와대는 기존안 유지"
+      },
+      "path": "single-home-property-tax-deduction-negotiations-2026.json",
+      "title": "1주택자 종합부동산세 공제액 조정 논의"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "독립 조사위원회 구성이 발표됐습니다. 기밀 침해와 의혹의 실체는 미확정입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "발표",
+        "storyId": "20261109-am-tech-01",
+        "title": "엔비디아 이사회, CEO 관련 외국 정보기관 표적 의혹 독립 조사 착수"
+      },
+      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
+      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "medical-institution-security-staff-reporting-gap-2026",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "8월 말 미배치 신고 119곳과 관련 시정명령 2건이 보도됐습니다. 현재 실제 현황은 추가 확인 대상입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "보도",
+        "storyId": "20261109-am-safe-01",
+        "title": "보안인력 의무 의료기관 1105곳 중 119곳 미배치 신고"
+      },
+      "path": "medical-institution-security-staff-reporting-gap-2026.json",
+      "title": "의료기관 보안인력 배치 신고와 안전관리 감독 현황"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "korea-cd-cp-rates-corporate-financing-2026",
+      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "lastCoveredDate": "2026-11-09",
+      "latest": {
+        "archive": false,
+        "change": "CD 발행·기업대출 연동 비중과 CP 금리 상승이 보도됐습니다. 기업별 실제 부담은 별도입니다.",
+        "editionId": "2026-11-09-am",
+        "stage": "분석",
+        "storyId": "20261109-am-eco-01",
+        "title": "CD·CP 금리 상승에 기업 단기 자금조달 부담 확대"
+      },
+      "path": "korea-cd-cp-rates-corporate-financing-2026.json",
+      "title": "국내 CD·CP 금리와 기업 단기자금 조달 부담"
+    },
     {
       "categories": [
         "국제정세"
@@ -168,28 +316,6 @@
       },
       "path": "yeoju-layer-farm-h5n1-confirmation-2026.json",
       "title": "여주 산란계 농장 고병원성 AI 확진과 방역 강화"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 10,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-08T09:15:18.218773+09:00",
-      "lastCoveredDate": "2026-11-08",
-      "latest": {
-        "archive": false,
-        "change": "미군이 후다호 타격과 아이언 게이트 신설을 발표했습니다. 피해와 작전 효과의 독립 확인은 남아 있습니다.",
-        "editionId": "2026-11-08-am",
-        "stage": "후속",
-        "storyId": "20261108-am-int-01",
-        "title": "미 중부사령부, 이란 항구 방문 화물선 타격·수송망 차단조직 신설 발표"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -2692,27 +2818,6 @@
       },
       "path": "homeplus-retirement-withdrawal-unpaid-wages-2026.json",
       "title": "홈플러스 희망퇴직 철회와 미지급 임금"
-    },
-    {
-      "categories": [
-        "웹툰산업"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "ylab-ip-investment-convertible-bond-2026",
-      "lastCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "lastCoveredDate": "2026-10-29",
-      "latest": {
-        "archive": false,
-        "change": "IP 투자용 20억원 전환사채 발행이 결정됐습니다. 납입·투자 집행과 수익 개선은 미확인입니다.",
-        "editionId": "2026-10-29-pm",
-        "stage": "발표",
-        "storyId": "20261029-pm-web-01",
-        "title": "와이랩, IP 투자용 20억원 전환사채 발행 결정…납입은 11월 6일 예정"
-      },
-      "path": "ylab-ip-investment-convertible-bond-2026.json",
-      "title": "와이랩 IP 투자용 전환사채 발행과 수익성"
     },
     {
       "categories": [
@@ -9990,7 +10095,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 787,
+  "storyCount": 794,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-08T21:20:29.724154+09:00"
+  "updatedAt": "2026-11-09T09:19:54.489884+09:00"
 }

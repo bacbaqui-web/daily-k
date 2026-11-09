@@ -612,6 +612,16 @@
         "windowId": "2026-11-08-pm"
       }
     },
+    "publish-news-2026-11-09-am": {
+      "hash": "98350961f092a2c00483bb9988c25c23063b105f52ad9506f11c5d8a486a6ee8",
+      "result": {
+        "id": "2026-11-09-am",
+        "operationId": "publish-news-2026-11-09-am",
+        "recordedAt": "2026-11-09T09:22:07.380586+09:00",
+        "sha256": "6f9971ed62e97dd1b7ace68ffbb0f6e4e0900627ac9ed9d36d2af3d47d60b0fa",
+        "windowId": "2026-11-09-am"
+      }
+    },
     "topics-20261009-1315-community-check-v1": {
       "hash": "7903fc12d7243bb4d08f5e75f08daf32b04bc0f26c9e36df4ca6fa7b830cb274",
       "result": {
@@ -1433,6 +1443,17 @@
   "snapshots": [
     {
       "empty": false,
+      "finalizedAt": "2026-11-09T09:22:07.380586+09:00",
+      "hasNews": true,
+      "id": "2026-11-09-am",
+      "itemCount": 0,
+      "opensAt": "2026-11-08T21:00:00+09:00",
+      "path": "snapshots/2026-11-09-am.json",
+      "scheduledFor": "2026-11-09T09:00:00+09:00",
+      "sha256": "6f9971ed62e97dd1b7ace68ffbb0f6e4e0900627ac9ed9d36d2af3d47d60b0fa"
+    },
+    {
+      "empty": false,
       "finalizedAt": "2026-11-08T21:22:45.577687+09:00",
       "hasNews": true,
       "id": "2026-11-08-pm",
@@ -2049,7 +2070,7 @@
     }
   ],
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-11-08T21:22:45.577687+09:00",
+  "updatedAt": "2026-11-09T09:22:07.380586+09:00",
   "windows": [
     {
       "checks": [
