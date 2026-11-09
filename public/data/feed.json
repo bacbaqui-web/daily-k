@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-09",
-  "collectedAt": "2026-11-09T01:10:13.326127+00:00",
+  "collectedAt": "2026-11-09T01:11:38.093257+00:00",
   "windowEnd": "2026-11-09T10:10:13.234006+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3860,6 +3860,99 @@
       "firstPublishedAt": "2026-11-08T05:11:36.480545+00:00"
     },
     {
+      "id": "aagag-1668122-0",
+      "url": "https://aagag.com/issue/?idx=1668122",
+      "source": "애객",
+      "title": "지창욱 싸인논란",
+      "publishedAt": "2026-11-09T09:54:33+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4nSH.webp",
+          "alt": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4nSO.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4nSH.webp"
+      ],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4nSO.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 10,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 10,
+      "laughingComments": 4,
+      "score": 15,
+      "kPerComment": 1.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8956994",
+          "text": "???: 이 싸인 경매 들어가겠습니다!"
+        },
+        {
+          "id": "8957012",
+          "text": "내 사인이니까 내꺼~"
+        },
+        {
+          "id": "8957051",
+          "text": "이게 왜 니꺼야?"
+        },
+        {
+          "id": "8957016",
+          "text": "제 싸인은 제가 갖겠습니다"
+        },
+        {
+          "id": "8957021",
+          "text": "영상으로 박제가 되었으니 싸인펜의 가치는 보존될듯 ㅋㅋㅌ"
+        },
+        {
+          "id": "8957026",
+          "text": "이 노트는 이제 제것입니다. 그래서 이름을 써놨습니다."
+        },
+        {
+          "id": "8957037",
+          "text": "진짜 얼마나 정신없엇길래ㅋㅋㅋ"
+        },
+        {
+          "id": "8957043",
+          "text": ""
+        },
+        {
+          "id": "8957046",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8957050",
+          "text": "손 뻗는거 개웃기네 ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-09T10:11:29.660280+09:00",
+      "sourceTitles": [
+        "지창욱 싸인 논란",
+        "지창욱 ㅋㅋㅋㅋ",
+        "배우 지창욱, 팬에게 싸인 해준 뒤 행동 논란 ㄷㄷㄷㄷㄷ",
+        "지창욱 싸인논란",
+        "지창욱 싸인 논란"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-09T01:11:38.034752+00:00",
+      "collectedAt": "2026-11-09T10:11:38.034770+09:00",
+      "firstPublishedAt": "2026-11-09T01:11:38.115891+00:00"
+    },
+    {
       "id": "aagag-1206065-0",
       "url": "https://aagag.com/issue/?idx=1206065",
       "source": "애객",
@@ -7190,7 +7283,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
