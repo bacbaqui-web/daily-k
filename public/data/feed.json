@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T02:35:23.752316+09:00",
-  "windowEnd": "2026-11-11T02:31:30.229310+09:00",
+  "collectedAt": "2026-11-10T17:45:39.825576+00:00",
+  "windowEnd": "2026-11-11T02:45:39.722333+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -9390,67 +9390,12 @@
       "sourceTitlesFetchedAt": "2026-11-10T13:03:10.970361+00:00",
       "collectedAt": "2026-11-10T22:03:10.970377+09:00",
       "firstPublishedAt": "2026-11-10T13:03:11.060467+00:00"
-    },
-    {
-      "id": "aagag-1668318-0",
-      "url": "https://aagag.com/issue/?idx=1668318",
-      "source": "애객",
-      "title": "'내가 입던 셔츠를 입히고 창가에 새워보았다'",
-      "publishedAt": "2026-11-10T02:28:19+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/KSZGe.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "키야......"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/KSZGe.webp"
-      ],
-      "videos": [],
-      "excerpt": "키야......",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-10T02:35:32.833905+09:00",
-      "sourceTitles": [
-        "내일 아침 유게이들이 일어나면 보는 광경",
-        "오늘 아침 유게이들이 본 풍경",
-        "셔츠 입히고 창가에 서있게하기",
-        "내 셔츠를 입히고 창가에 세워보았다",
-        "'내가 입던 셔츠를 입히고 창가에 새워보았다'",
-        "'정직함 그자체'",
-        "ㅇㅎ) 은근 보면 좋은 복장",
-        "은근 보면 좋은 복장",
-        "이상한 생각을 할 수 밖에 없는 복장",
-        "의외로 여친이 입어주면 좋은복장",
-        "의외로 좋은 여친복장",
-        "결국 뭐든지 입어주는 여친 3",
-        "뭐든 입어주는 여자친구 3",
-        "ㅇㅎ,ㅆㄷ) 결국 뭐든지 입어주는 여친",
-        "ㅇㅎ,ㅆㄷ) 결국 뭐든지 입어주는 여친"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 15,
-      "sourceTitlesFetchedAt": "2026-11-09T17:35:41.608389+00:00",
-      "collectedAt": "2026-11-10T02:35:41.608408+09:00",
-      "firstPublishedAt": "2026-11-09T17:35:41.710948+00:00"
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
