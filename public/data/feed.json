@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-10",
-  "collectedAt": "2026-11-10T20:08:23.145003+09:00",
-  "windowEnd": "2026-11-10T20:01:57.166320+09:00",
+  "collectedAt": "2026-11-10T11:18:39.482484+00:00",
+  "windowEnd": "2026-11-10T20:18:39.376332+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7328,73 +7328,6 @@
       "firstPublishedAt": "2026-11-10T01:32:07.943205+00:00"
     },
     {
-      "id": "aagag-1668267-0",
-      "url": "https://aagag.com/issue/?idx=1668267",
-      "source": "애객",
-      "title": "\"간첩이 첩이라고?\"",
-      "publishedAt": "2026-11-09T19:54:10+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4tBy.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L4tBy.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 6,
-      "laughingComments": 2,
-      "score": 12,
-      "kPerComment": 2.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8959765",
-          "text": "그럼 간짬뽕이랑 짬뽕은 같냐? ...어?"
-        },
-        {
-          "id": "8959769",
-          "text": "아 예예 자세한 이야기는 서에 가서 하시죠"
-        },
-        {
-          "id": "8959767",
-          "text": "아니 이런건 어디서 가져오는거야 ㅋㅋㅋㅋㅋㅋㅋ 있는게 더웃김"
-        },
-        {
-          "id": "8959768",
-          "text": "빵꾸똥꾸"
-        },
-        {
-          "id": "8959778",
-          "text": "간첩도 첩이다."
-        },
-        {
-          "id": "8959806",
-          "text": "지희 뭐 아는구나 ㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-09T20:13:30.294961+09:00",
-      "sourceTitles": [
-        "간첩이나 첩이나 그게그거잖아",
-        "젠슨황 애인이 첩이 아니라 간첩이라고?",
-        "\"간첩이 첩이라고?\"",
-        "간첩이 첩이 되면 스파이패밀리임?",
-        "황 회장은 조금 억울할만 함 ㅇㅇ;",
-        "근데 젠슨황 좀 헷갈렸을 수도 있는 거 아님?"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-09T11:13:37.060463+00:00",
-      "collectedAt": "2026-11-09T20:13:37.060480+09:00",
-      "firstPublishedAt": "2026-11-09T11:13:37.159108+00:00"
-    },
-    {
       "id": "aagag-1668490-0",
       "url": "https://aagag.com/issue/?idx=1668490",
       "source": "애객",
@@ -9372,9 +9305,9 @@
     }
   ],
   "partialCommentPosts": 10,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
