@@ -1,6 +1,159 @@
 {
-  "editionCount": 108,
+  "editionCount": 109,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "webtoon-entertainment-q3-2026-results",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "3분기 매출과 영업손실·부문별 실적이 발표됐습니다. 다음 분기 성장 전망은 미확정입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "발표",
+        "storyId": "20261110-am-web-01",
+        "title": "웹툰엔터, 3분기 매출 3억6278만달러·영업손실 923만달러"
+      },
+      "path": "webtoon-entertainment-q3-2026-results.json",
+      "title": "웹툰엔터테인먼트 2026년 3분기 실적과 투자"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 29,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "3대 지수와 반도체지수가 상승 마감했습니다. 이후 국내 반응과 가격 방향은 미확정입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "결과",
+        "storyId": "20261110-am-eco-01",
+        "title": "뉴욕증시 3대 지수 상승…나스닥 2.74%·반도체지수 약 7% 올라"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "stock-price-suppression-inheritance-tax-revision-2026",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "심사 범위와 할증률 확대 제안이 공개됐습니다. 정부 수정안과 입법은 미확정입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "검토",
+        "storyId": "20261110-am-pol-01",
+        "title": "‘주가 누르기’ 과세 심사 확대안 제시…정부, 수정안 마련 추진"
+      },
+      "path": "stock-price-suppression-inheritance-tax-revision-2026.json",
+      "title": "주가 누르기 방지를 위한 상속·증여세 과세 심사 개편"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "military-career-personnel-discharge-staffing-2026",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "2025년 희망전역 5543명과 2026년 상반기 병력 운영률이 보도됐습니다. 개선 결과는 미확인입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "보도",
+        "storyId": "20261110-am-soc-01",
+        "title": "지난해 군 간부 희망전역 5543명…2021년 대비 91.2% 증가"
+      },
+      "path": "military-career-personnel-discharge-staffing-2026.json",
+      "title": "군 간부 희망전역 증가와 병력 운영 현황"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "korean-ckd-low-protein-intake-longitudinal-study-2026",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "장기 추적 분석의 위험 연관성이 발표됐습니다. 인과관계와 개인별 섭취량은 별도 평가 대상입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "발표",
+        "storyId": "20261110-am-safe-01",
+        "title": "만성콩팥병 환자 장기 추적 연구…과도한 저단백 섭취와 신부전·사망 위험 연관"
+      },
+      "path": "korean-ckd-low-protein-intake-longitudinal-study-2026.json",
+      "title": "만성콩팥병 환자 단백질 섭취와 신부전·사망 위험 연구"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "hegseth-impeachment-vote-push-2026",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "우선처리 탄핵소추안이 재발의됐습니다. 실제 표결·가결과 파면은 미확정입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "후속",
+        "storyId": "20261110-am-int-01",
+        "title": "미 하원, 헤그세스 탄핵소추안 재발의…이틀 내 표결 절차"
+      },
+      "path": "hegseth-impeachment-vote-push-2026.json",
+      "title": "헤그세스 미국 국방장관 탄핵소추안 표결 추진"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "google-tpu-8tx-8i-max-2026",
+      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "보안·대용량 처리 특화 TPU 2종이 공개됐습니다. 독립 검증과 도입 성과는 미확인입니다.",
+        "editionId": "2026-11-10-am",
+        "stage": "발표",
+        "storyId": "20261110-am-tech-01",
+        "title": "구글, 보안·대용량 처리 특화 TPU 2종 공개"
+      },
+      "path": "google-tpu-8tx-8i-max-2026.json",
+      "title": "구글 TPU 8tx·8i 맥스 공개와 AI 연산 공급 확대"
+    },
     {
       "categories": [
         "국제·경제",
@@ -1018,33 +1171,6 @@
     },
     {
       "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 28,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
-      "lastCoveredDate": "2026-11-06",
-      "latest": {
-        "archive": false,
-        "change": "미국 3대 지수가 급락 마감했습니다. 규제·투자 우려는 시장 해석이며 이후 국내 반응은 미확인입니다.",
-        "editionId": "2026-11-06-am",
-        "stage": "결과",
-        "storyId": "20261106-am-eco-01",
-        "title": "뉴욕증시 급락…나스닥 5.52%·S&P500 4.36% 하락 마감"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
-    },
-    {
-      "categories": [
         "웹툰산업"
       ],
       "eventCount": 1,
@@ -1191,27 +1317,6 @@
       },
       "path": "korea-equities-flows.json",
       "title": "한국 증시와 외국인 수급"
-    },
-    {
-      "categories": [
-        "국제정세"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
-      "firstCoveredDate": "2026-11-05",
-      "id": "hegseth-impeachment-vote-push-2026",
-      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
-      "lastCoveredDate": "2026-11-05",
-      "latest": {
-        "archive": false,
-        "change": "하원의 탄핵소추안 표결 추진이 보도됐습니다. 실제 표결·가결과 장관 거취는 미확정입니다.",
-        "editionId": "2026-11-05-pm",
-        "stage": "보도",
-        "storyId": "20261105-pm-int-01",
-        "title": "미 하원, 헤그세스 국방장관 탄핵소추안 표결 추진 보도"
-      },
-      "path": "hegseth-impeachment-vote-push-2026.json",
-      "title": "헤그세스 미국 국방장관 탄핵소추안 표결 추진"
     },
     {
       "categories": [
@@ -10182,7 +10287,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 801,
+  "storyCount": 808,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-09T21:18:21.137800+09:00"
+  "updatedAt": "2026-11-10T09:15:11.324513+09:00"
 }
