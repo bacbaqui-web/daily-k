@@ -1,6 +1,155 @@
 {
-  "editionCount": 109,
+  "editionCount": 110,
   "issues": [
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "seoul-metro-labor-negotiations-strike-2026",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "협상 미타결 시 25일 무기한 파업 계획이 발표됐습니다. 실제 파업과 운행 차질은 미확정입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "발표",
+        "storyId": "20261110-pm-soc-01",
+        "title": "서울교통공사노조, 협상 미타결 시 25일부터 무기한 총파업 예고"
+      },
+      "path": "seoul-metro-labor-negotiations-strike-2026.json",
+      "title": "서울교통공사 노사 교섭과 파업 계획"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 7,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "유럽 주요국·EU·나토 대표단 파견이 보도됐습니다. 실제 참석과 휴전 합의는 미확정입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "후속",
+        "storyId": "20261110-pm-int-01",
+        "title": "유럽 주요국·EU·나토, 우크라이나 종전협상 대표단 파견"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "경제·반도체",
+        "경제·생활경제"
+      ],
+      "eventCount": 5,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-21",
+      "id": "korea-exports-semiconductors",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "3분기 수출과 기업 규모별 분포·집중도 잠정치가 발표됐습니다. 향후 수정과 성장 확산은 미확정입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "후속",
+        "storyId": "20261110-pm-eco-01",
+        "title": "3분기 수출 72.3% 증가…상위 10개 기업 집중도 60.9%"
+      },
+      "path": "korea-exports-semiconductors.json",
+      "title": "한국 수출과 반도체 실적"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "jcia-animation-webtoon-ip-production-support-2026",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "15개 제작사 지원 선정과 웹툰 8개 작품 제작·4개 연재 확정이 발표됐습니다. 집행·공개·매출은 미확인입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "발표",
+        "storyId": "20261110-pm-web-01",
+        "title": "전남정보문화산업진흥원, 애니메이션·웹툰 등 15개 제작사 지원 선정"
+      },
+      "path": "jcia-animation-webtoon-ip-production-support-2026.json",
+      "title": "전남정보문화산업진흥원 애니메이션·웹툰 IP 제작지원 선정"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "financial-security-institute-evaluation-system-breach-2026",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "평가 지원시스템 해킹과 자료 유출 정황·긴급 차단이 보도됐습니다. 규모와 경로는 조사 중입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "보도",
+        "storyId": "20261110-pm-tech-01",
+        "title": "금융보안원 평가 지원시스템 해킹…제출자료·개인정보 유출 정황"
+      },
+      "path": "financial-security-institute-evaluation-system-breach-2026.json",
+      "title": "금융보안원 상시평가 지원시스템 침해와 자료 유출 조사"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "firstCoveredDate": "2026-11-10",
+      "id": "fda-glp1-naion-safety-warning-2026",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "NAION 위험 증가 가능성의 경고 추가 요구가 보도됐습니다. 개인별 인과관계와 국내 조치는 미확인입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "발표",
+        "storyId": "20261110-pm-safe-01",
+        "title": "FDA, GLP-1 계열 치료제에 시신경병증 위험 경고 추가 요구"
+      },
+      "path": "fda-glp1-naion-safety-warning-2026.json",
+      "title": "FDA의 GLP-1 계열 의약품 NAION 위험 경고 요구"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
+      "firstCoveredDate": "2026-11-05",
+      "id": "cheonghae-unit-operation-area-expansion-2026",
+      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
+      "lastCoveredDate": "2026-11-10",
+      "latest": {
+        "archive": false,
+        "change": "파견 수정 동의안이 국무회의에서 의결됐습니다. 국회 동의와 실제 확대 파견은 미완료입니다.",
+        "editionId": "2026-11-10-pm",
+        "stage": "후속",
+        "storyId": "20261110-pm-pol-01",
+        "title": "청해부대 작전구역·임무 확대 수정 동의안 국무회의 의결"
+      },
+      "path": "cheonghae-unit-operation-area-expansion-2026.json",
+      "title": "청해부대 작전구역과 전력 확대 추진"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -1362,27 +1511,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-05T21:17:43.852802+09:00",
-      "firstCoveredDate": "2026-11-05",
-      "id": "cheonghae-unit-operation-area-expansion-2026",
-      "lastCoveredAt": "2026-11-05T21:17:43.852802+09:00",
-      "lastCoveredDate": "2026-11-05",
-      "latest": {
-        "archive": false,
-        "change": "호르무즈해협·오만만을 제외한 작전구역 확대 방안이 보도됐습니다. 승인과 실제 배치는 미확정입니다.",
-        "editionId": "2026-11-05-pm",
-        "stage": "예정",
-        "storyId": "20261105-pm-pol-01",
-        "title": "정부, 청해부대 작전구역 확대 추진…호르무즈해협·오만만 제외"
-      },
-      "path": "cheonghae-unit-operation-area-expansion-2026.json",
-      "title": "청해부대 작전구역과 전력 확대 추진"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -2101,28 +2229,6 @@
     },
     {
       "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 6,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-11-02T21:21:24.431636+09:00",
-      "lastCoveredDate": "2026-11-02",
-      "latest": {
-        "archive": false,
-        "change": "독일 대통령이 중국 측의 3자회담 준비 부인과 유럽 참여 입장을 전했습니다. 실제 회담·합의는 미확인입니다.",
-        "editionId": "2026-11-02-pm",
-        "stage": "후속",
-        "storyId": "20261102-pm-int-01",
-        "title": "독일 대통령 “시진핑, 우크라이나 관련 미중러 3자회담 준비 없다고 해”"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -2437,28 +2543,6 @@
       },
       "path": "korea-investigation-prosecution-separation.json",
       "title": "수사·기소 분리와 공소청·중수청 출범"
-    },
-    {
-      "categories": [
-        "경제·반도체",
-        "경제·생활경제"
-      ],
-      "eventCount": 4,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-21",
-      "id": "korea-exports-semiconductors",
-      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
-      "lastCoveredDate": "2026-11-01",
-      "latest": {
-        "archive": false,
-        "change": "10월 전체 수출과 누적 실적이 발표됐습니다. 연간 1조달러 달성은 전망입니다.",
-        "editionId": "2026-11-01-pm",
-        "stage": "발표",
-        "storyId": "20261101-pm-eco-01",
-        "title": "10월 수출 1152억8000만달러…1~10월 누적 9300억달러"
-      },
-      "path": "korea-exports-semiconductors.json",
-      "title": "한국 수출과 반도체 실적"
     },
     {
       "categories": [
@@ -10287,7 +10371,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 808,
+  "storyCount": 815,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-10T09:15:11.324513+09:00"
+  "updatedAt": "2026-11-10T21:14:31.244383+09:00"
 }
