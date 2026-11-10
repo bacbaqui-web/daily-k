@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-10",
-  "collectedAt": "2026-11-10T13:18:56.686381+00:00",
+  "collectedAt": "2026-11-10T13:20:23.907890+00:00",
   "windowEnd": "2026-11-10T22:18:56.579537+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7649,6 +7649,56 @@
       "sourceTitlesFetchedAt": "2026-11-10T12:28:50.526204+00:00",
       "collectedAt": "2026-11-10T21:28:50.526219+09:00",
       "firstPublishedAt": "2026-11-10T12:28:50.631934+00:00"
+    },
+    {
+      "id": "aagag-1668529-0",
+      "url": "https://aagag.com/issue/?idx=1668529",
+      "source": "애객",
+      "title": "\"혹시 부모님이 이러시는거 알아요?\"",
+      "publishedAt": "2026-11-10T22:12:06+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L55qk.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L55qk.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 5.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8964691",
+          "text": "모른다고 해야지 ㅋㅋㅋ"
+        },
+        {
+          "id": "8964697",
+          "text": "\"어쩐지\" ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-10T22:20:17.969823+09:00",
+      "sourceTitles": [
+        "혹시 부모님이 이러시는거 아냐고 물어보는 사람",
+        "혹시 부모님이 이러시는거 알아요?",
+        "\"혹시 부모님이 이러시는거 알아요?\"",
+        "\"혹시 부모님이 이러시는거 알아요?\"",
+        "\"혹시 부모님이 이러시는거 알아요?\""
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-10T13:20:23.841695+00:00",
+      "collectedAt": "2026-11-10T22:20:23.841712+09:00",
+      "firstPublishedAt": "2026-11-10T13:20:23.933444+00:00"
     }
   ],
   "taggedPosts": [
@@ -9410,7 +9460,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
