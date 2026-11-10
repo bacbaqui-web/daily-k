@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-10T22:19:38.158676+00:00",
+  "collectedAt": "2026-11-10T22:21:12.727301+00:00",
   "windowEnd": "2026-11-11T07:19:38.054273+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10284,7 +10284,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10311,6 +10311,89 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-934702-0",
+      "url": "https://aagag.com/issue/?idx=934702",
+      "source": "애객",
+      "title": "사랑 좆같네.manhwa",
+      "publishedAt": "2026-11-11T07:18:10+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/EnExo.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Bapjr.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "좆에서 태어났기 때문"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/EnExo.webp",
+        "https://i.aagag.com/o/Bapjr.webp"
+      ],
+      "videos": [],
+      "excerpt": "좆에서 태어났기 때문",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 6,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "1565102",
+          "text": "혼란하다 혼란해"
+        },
+        {
+          "id": "1565340",
+          "text": "앞으로뒷태.."
+        },
+        {
+          "id": "1565366",
+          "text": "아프로디테(비너스)는 우라노스의 잘린 ㅈ이다."
+        },
+        {
+          "id": "1565799",
+          "text": "정확히는 잘린 단면에서 나온 피가 지중해에 떨어졌고 거기 거품이 피어오르더니 거기서 태어남 심지어 저 모습으로"
+        },
+        {
+          "id": "1570116",
+          "text": "피에 섞인 ㅈ물?"
+        },
+        {
+          "id": "1565473",
+          "text": "ㅈ같은 년이네.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T07:20:58.528747+09:00",
+      "sourceTitles": [
+        "사랑 ↗같네.manhwa",
+        "사랑 좆같네.manhwa",
+        "사랑 좆같네.manhwa",
+        "사랑 ↗같네",
+        "ㅈ같은 년과 ㅈ도 모르는 년",
+        "고추를 좋아하는 여신님.",
+        "꼬추를 좋아하는 여신님.manwha",
+        "꼬추를 좋아하는 여신님.jpg",
+        "꼬추를 좋아하는 여신님.jpg",
+        "사랑 좆같네.manhwa",
+        "사랑 좆같네.manhwa",
+        "😘사랑 좆같네.manhwa"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 13,
+      "sourceTitlesFetchedAt": "2026-11-10T22:21:12.659597+00:00",
+      "collectedAt": "2026-11-11T07:21:12.659615+09:00",
+      "firstPublishedAt": "2026-11-10T22:21:12.752381+00:00"
+    },
     {
       "id": "aagag-41771-1",
       "url": "https://aagag.com/issue/?idx=41771_1",
