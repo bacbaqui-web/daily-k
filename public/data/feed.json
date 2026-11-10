@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-10",
-  "collectedAt": "2026-11-10T08:16:40.254774+00:00",
+  "collectedAt": "2026-11-10T08:17:08.554161+00:00",
   "windowEnd": "2026-11-10T17:11:25.379030+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10480,63 +10480,6 @@
       "firstPublishedAt": "2026-11-09T11:29:32.628056+00:00"
     },
     {
-      "id": "aagag-1668233-0",
-      "url": "https://aagag.com/issue/?idx=1668233",
-      "source": "애객",
-      "title": "여전사를 마주쳤다",
-      "publishedAt": "2026-11-09T17:10:43+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4Eib.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4Eib.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 1,
-      "commentCount": 3,
-      "laughingComments": 1,
-      "score": 1,
-      "kPerComment": 0.3333333333333333,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8959156",
-          "text": "베헬라~!"
-        },
-        {
-          "id": "8959176",
-          "text": "부츠인가 했는데 힐이네 ㄷㄷㄷ 운동화해도 충분히 소화했을 것 같은데 https://www.instagram.com/p/DfSujM3knxE"
-        },
-        {
-          "id": "8959182",
-          "text": "인앤아웃 같은데ㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-09T17:16:50.339567+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 주문하러온 여전사",
-        "여전사가 나타낫다",
-        "ㅇㅎ 여전사를 마주쳤다",
-        "여전사를 마주쳤다"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-09T08:16:57.199972+00:00",
-      "collectedAt": "2026-11-09T17:16:57.199989+09:00",
-      "firstPublishedAt": "2026-11-09T08:16:57.313023+00:00"
-    },
-    {
       "id": "aagag-1668384-0",
       "url": "https://aagag.com/issue/?idx=1668384",
       "source": "애객",
@@ -10718,7 +10661,7 @@
     }
   ],
   "partialCommentPosts": 8,
-  "candidateCount": 264,
+  "candidateCount": 308,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
