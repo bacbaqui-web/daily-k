@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-10",
-  "collectedAt": "2026-11-10T11:34:17.350316+00:00",
+  "collectedAt": "2026-11-10T11:36:40.405554+00:00",
   "windowEnd": "2026-11-10T20:34:17.213907+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6084,6 +6084,87 @@
       "firstPublishedAt": "2026-11-09T20:16:07.984198+00:00"
     },
     {
+      "id": "aagag-1668501-0",
+      "url": "https://aagag.com/issue/?idx=1668501",
+      "source": "애객",
+      "title": "딸딸딸 아빠의 현실",
+      "publishedAt": "2026-11-10T20:23:24+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L53fK.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L53fK.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 9,
+      "laughingComments": 1,
+      "score": 17,
+      "kPerComment": 1.8888888888888888,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8964359",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아버지 웃픈표정ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8964361",
+          "text": "딸딸 아빠로서 웃을수가 없습니더..."
+        },
+        {
+          "id": "8964364",
+          "text": "아 아부지 허리나가....."
+        },
+        {
+          "id": "8964372",
+          "text": ""
+        },
+        {
+          "id": "8964389",
+          "text": "(아빠 머리채를 잡으며)"
+        },
+        {
+          "id": "8964376",
+          "text": "진짜 행복할때다"
+        },
+        {
+          "id": "8964378",
+          "text": "아 뭔지 아니까 웃프다. 좋기도 하고 힘들기도 하고. 근데 시간이 지나면 다시 할순 없고.."
+        },
+        {
+          "id": "8964380",
+          "text": "말한게 그냥 세딸이 아니고 세쌍둥이야 ㄷㄷ???? 근데 사춘기접어들면 그리워질꺼..."
+        },
+        {
+          "id": "8964394",
+          "text": "와우 한방에 애국자! 힘들겠지만 행복하십쇼"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-10T20:36:28.920385+09:00",
+      "sourceTitles": [
+        "딸딸딸 아빠의 현실",
+        "세쌍둥이 딸딸딸 아빠",
+        "딸딸딸 아빠의 현실",
+        "세쌍둥이 딸딸딸 아빠의 현실...."
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-10T11:36:40.301943+00:00",
+      "collectedAt": "2026-11-10T20:36:40.301961+09:00",
+      "firstPublishedAt": "2026-11-10T11:36:40.442461+00:00"
+    },
+    {
       "id": "aagag-1632769-0",
       "url": "https://aagag.com/issue/?idx=1632769",
       "source": "애객",
@@ -9473,7 +9554,7 @@
     }
   ],
   "partialCommentPosts": 10,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
