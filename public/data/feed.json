@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-10T22:53:18.390927+00:00",
+  "collectedAt": "2026-11-10T22:54:55.863186+00:00",
   "windowEnd": "2026-11-11T07:53:18.288579+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5346,6 +5346,80 @@
       "firstPublishedAt": "2026-11-10T11:38:00.669194+00:00"
     },
     {
+      "id": "aagag-1668596-0",
+      "url": "https://aagag.com/issue/?idx=1668596",
+      "source": "애객",
+      "title": "중국 엑셀방송 진입장벽.mp4",
+      "publishedAt": "2026-11-11T07:42:53+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4xWs.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4xWs.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 20,
+      "commentCount": 7,
+      "laughingComments": 2,
+      "score": 20,
+      "kPerComment": 2.857142857142857,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8965400",
+          "text": "멋진걸 하라고 ㅋㅋㅋ 괴기스러운걸 하지말고 ㅋㅋㅋㅋㅋ 중국은 괴이하고 괴기스럽고 일본음 음침하고 음습함 ㅋㅋㅋㅋㅋㅋ 하여간 정도가 없는 놈들 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8965403",
+          "text": "소림축구는 존재하는 거였어?;;"
+        },
+        {
+          "id": "8965406",
+          "text": "도가 신선들이여?ㄷㄷㄷ"
+        },
+        {
+          "id": "8965408",
+          "text": "여자한명은 공이 없는데??"
+        },
+        {
+          "id": "8965423",
+          "text": "오 매의 눈. '여자가 어디있지?'하고 한참 찾았네 ㅋㅋ"
+        },
+        {
+          "id": "8965409",
+          "text": "중국에선 기예단 출신들이 유튜브 하는 듯."
+        },
+        {
+          "id": "8965415",
+          "text": "짱춘서커스네 ㄷㄷ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T07:54:49.091368+09:00",
+      "sourceTitles": [
+        "중국 엑셀방송 진입장벽.mp4",
+        "중국 엑셀방송 진입장벽 ㅋㅋㅋㅋ",
+        "중국식 엑셀방송 근황",
+        "중국식 엑셀방송 근황",
+        "중국식 엑셀방송 근황"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-10T22:54:55.765748+00:00",
+      "collectedAt": "2026-11-11T07:54:55.765763+09:00",
+      "firstPublishedAt": "2026-11-10T22:54:55.895606+00:00"
+    },
+    {
       "id": "aagag-1639324-0",
       "url": "https://aagag.com/issue/?idx=1639324",
       "source": "애객",
@@ -10440,7 +10514,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
