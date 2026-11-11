@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T06:19:27.473440+00:00",
+  "collectedAt": "2026-11-11T06:21:29.525853+00:00",
   "windowEnd": "2026-11-11T15:19:27.352344+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8386,6 +8386,91 @@
       "firstPublishedAt": "2026-11-11T05:12:23.112181+00:00"
     },
     {
+      "id": "aagag-1668688-0",
+      "url": "https://aagag.com/issue/?idx=1668688",
+      "source": "애객",
+      "title": "어느나라로 여행가고 싶어?",
+      "publishedAt": "2026-11-11T15:14:24+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4zCB.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "오늘부터 나이지리아는 내 최애국가다ㅋㅋㅋ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4zCB.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "오늘부터 나이지리아는 내 최애국가다ㅋㅋㅋ",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 9,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8967529",
+          "text": "도이치 도이치"
+        },
+        {
+          "id": "8967532",
+          "text": "폴란드!"
+        },
+        {
+          "id": "8967535",
+          "text": "바바리안!"
+        },
+        {
+          "id": "8967543",
+          "text": "독일이 왜 폴란드로 갔는지 알겠네요"
+        },
+        {
+          "id": "8967544",
+          "text": "지도가 좀 이상한데?"
+        },
+        {
+          "id": "8967568",
+          "text": "그게 중요합니까아"
+        },
+        {
+          "id": "8967545",
+          "text": "영국, 폴란드, 나이지리아......"
+        },
+        {
+          "id": "8967562",
+          "text": "확대해보니 나이지리아 지리네."
+        },
+        {
+          "id": "8967570",
+          "text": "눈이 안 좋아서 그러는데 모두가 궁금하실 그곳  나라 이름이 뭔가요?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T15:21:19.695097+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 세계를 품은 누나",
+        "어느나라로 여행가고 싶어?",
+        "어느 나라가 좋을까..",
+        "여행가고 싶은 나라는?...mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-11T06:21:29.442154+00:00",
+      "collectedAt": "2026-11-11T15:21:29.442172+09:00",
+      "firstPublishedAt": "2026-11-11T06:21:29.557880+00:00"
+    },
+    {
       "id": "aagag-1668654-0",
       "url": "https://aagag.com/issue/?idx=1668654",
       "source": "애객",
@@ -9694,7 +9779,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
