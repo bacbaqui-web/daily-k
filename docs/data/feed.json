@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T02:20:15.461477+00:00",
+  "collectedAt": "2026-11-11T02:22:50.015254+00:00",
   "windowEnd": "2026-11-11T11:20:15.357485+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8023,6 +8023,71 @@
       "firstPublishedAt": "2026-11-10T10:15:40.590016+00:00"
     },
     {
+      "id": "aagag-1668624-0",
+      "url": "https://aagag.com/issue/?idx=1668624",
+      "source": "애객",
+      "title": "ㅇㅎ) 김도아 치어리더 뒷태 ㄷ",
+      "publishedAt": "2026-11-11T11:09:26+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4uNr.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4uNr.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": ".",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8966285",
+          "text": "https://aagag.com/issue/?idx=1668457 빨리 눌러라"
+        },
+        {
+          "id": "8966288",
+          "text": "위대하다"
+        },
+        {
+          "id": "8966298",
+          "text": "너무 됴아"
+        },
+        {
+          "id": "8966310",
+          "text": "왜 이러는 걸까요?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T11:22:38.580938+09:00",
+      "sourceTitles": [
+        "치어리더 김도아 뒤태",
+        "김도아 치어리더",
+        "ㅇㅎ) 김도아 치어리더 뒷태 ㄷ",
+        "ㅇㅎ) 김도아 치어리더 출렁이는 뒷태"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-11T02:22:49.938403+00:00",
+      "collectedAt": "2026-11-11T11:22:49.938418+09:00",
+      "firstPublishedAt": "2026-11-11T02:22:50.046832+00:00"
+    },
+    {
       "id": "aagag-1668583-0",
       "url": "https://aagag.com/issue/?idx=1668583",
       "source": "애객",
@@ -8587,7 +8652,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
