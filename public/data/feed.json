@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-11T20:41:40.364313+00:00",
+  "collectedAt": "2026-11-11T20:42:24.401182+00:00",
   "windowEnd": "2026-11-12T05:41:40.250770+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9697,6 +9697,64 @@
       "firstPublishedAt": "2026-11-10T21:01:03.116149+00:00"
     },
     {
+      "id": "aagag-1668844-0",
+      "url": "https://aagag.com/issue/?idx=1668844",
+      "source": "애객",
+      "title": "ㅇㅎ) 굽은 등에 좋은 스트레칭",
+      "publishedAt": "2026-11-12T05:36:50+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Kc4hU.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KcC6A.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Kc4hU.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KcC6A.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-12T05:42:17.797256+09:00",
+      "sourceTitles": [
+        "굽은 등에 좋은 스트레칭",
+        "ㅇㅎ) 굽은 등에 좋은 스트레칭",
+        "운동 하기전 스트레칭이 중요한 이유 gif",
+        "ㅇㅎ) 굽은 등에 좋은 스트레칭",
+        "골반 틀어진 사람 이 운동으로 회복하기",
+        "ㅇㅎ?) 골반이 시원해지는 운동.",
+        "몸에 좋은 스트레칭",
+        "골반 시원해지는 운동"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-11T20:42:24.306469+00:00",
+      "collectedAt": "2026-11-12T05:42:24.306486+09:00",
+      "firstPublishedAt": "2026-11-11T20:42:24.431327+00:00"
+    },
+    {
       "id": "aagag-1668835-0",
       "url": "https://aagag.com/issue/?idx=1668835",
       "source": "애객",
@@ -10025,7 +10083,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
