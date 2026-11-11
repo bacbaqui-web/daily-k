@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-11T20:58:47.208994+00:00",
+  "collectedAt": "2026-11-11T20:59:48.467318+00:00",
   "windowEnd": "2026-11-12T05:58:47.090136+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10465,54 +10465,10 @@
       "sourceTitlesFetchedAt": "2026-11-10T21:49:27.423039+00:00",
       "collectedAt": "2026-11-11T06:49:27.423057+09:00",
       "firstPublishedAt": "2026-11-10T21:49:27.518519+00:00"
-    },
-    {
-      "id": "aagag-1668575-0",
-      "url": "https://aagag.com/issue/?idx=1668575",
-      "source": "애객",
-      "title": "검스 있지 유나",
-      "publishedAt": "2026-11-11T05:51:22+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L54r6.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L54r6.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-11T05:58:59.191569+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 아이돌 검스",
-        "유나 검스...gif",
-        "유나 검스.gif",
-        "검스 있지 유나"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-10T20:59:05.190918+00:00",
-      "collectedAt": "2026-11-11T05:59:05.190938+09:00",
-      "firstPublishedAt": "2026-11-10T20:59:05.439977+00:00"
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
