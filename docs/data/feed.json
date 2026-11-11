@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T16:50:02.783335+09:00",
-  "windowEnd": "2026-11-11T16:41:36.359205+09:00",
+  "collectedAt": "2026-11-11T08:00:17.388284+00:00",
+  "windowEnd": "2026-11-11T17:00:17.284067+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -9519,75 +9519,6 @@
       "firstPublishedAt": "2026-11-11T05:46:25.092614+00:00"
     },
     {
-      "id": "aagag-1668457-0",
-      "url": "https://aagag.com/issue/?idx=1668457",
-      "source": "애객",
-      "title": "김도아 치어리더 레전드...gif",
-      "publishedAt": "2026-11-10T16:46:27+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4yDo.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4yDo.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 6,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8963534",
-          "text": "아이고 깜짝이야;"
-        },
-        {
-          "id": "8963535",
-          "text": "남친 부럽..."
-        },
-        {
-          "id": "8963543",
-          "text": "좋다 좋아"
-        },
-        {
-          "id": "8963546",
-          "text": "와~♡"
-        },
-        {
-          "id": "8963549",
-          "text": "야구관객 성장 지분이 이쪽에 더큰거아닙니까 ㄷㄷㄷ"
-        },
-        {
-          "id": "8963550",
-          "text": "대만이어서 가능한건가"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-10T16:55:51.282852+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 치어리더 김도아",
-        "김도아 치어리더 레전드...gif",
-        "ㅇㅎ) 김도아 치어리더 레전드...gif",
-        "김도아 그 춤"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-10T07:56:02.565204+00:00",
-      "collectedAt": "2026-11-10T16:56:02.565221+09:00",
-      "firstPublishedAt": "2026-11-10T07:56:02.701814+00:00"
-    },
-    {
       "id": "aagag-1668485-0",
       "url": "https://aagag.com/issue/?idx=1668485",
       "source": "애객",
@@ -10354,9 +10285,9 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
