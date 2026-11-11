@@ -1,8 +1,14 @@
 {
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-11-11T14:53:43.921740+00:00",
+  "updatedAt": "2026-11-11T15:03:59.291124+00:00",
   "editions": [
+    {
+      "id": "2026-11-12-am",
+      "date": "2026-11-12",
+      "edition": "am",
+      "path": "2026-11-12/am.json"
+    },
     {
       "id": "2026-11-11-pm",
       "date": "2026-11-11",
