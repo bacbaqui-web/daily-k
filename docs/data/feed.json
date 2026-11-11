@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-11T21:28:46.655047+00:00",
+  "collectedAt": "2026-11-11T21:30:21.256918+00:00",
   "windowEnd": "2026-11-12T06:28:46.522520+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10347,7 +10347,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10374,6 +10374,65 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668849-0",
+      "url": "https://aagag.com/issue/?idx=1668849",
+      "source": "애객",
+      "title": "숯불구이집 대참사.manhwa",
+      "publishedAt": "2026-11-12T06:27:51+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4ORV.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4OOg.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4OOi.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4OOk.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4ORV.webp",
+        "https://i.aagag.com/o/L4OOg.webp",
+        "https://i.aagag.com/o/L4OOi.webp",
+        "https://i.aagag.com/o/L4OOk.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-12T06:30:09.376403+09:00",
+      "sourceTitles": [
+        "? : 애가 이지경이 되었는데! 애가 잘못한거라고?",
+        "숯불구이집 대참사.manhwa",
+        "숯불구이집 대참사.manhwa",
+        "숯불구이집 대참사.manhwa",
+        "숯불구이집 대참사.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-11T21:30:21.169604+00:00",
+      "collectedAt": "2026-11-12T06:30:21.169620+09:00",
+      "firstPublishedAt": "2026-11-11T21:30:21.288742+00:00"
+    },
     {
       "id": "aagag-1668795-0",
       "url": "https://aagag.com/issue/?idx=1668795",
