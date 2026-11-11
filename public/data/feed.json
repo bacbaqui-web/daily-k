@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T04:48:00.353423+00:00",
+  "collectedAt": "2026-11-11T04:48:53.788389+00:00",
   "windowEnd": "2026-11-11T13:48:00.250925+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9230,7 +9230,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9257,6 +9257,56 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668659-0",
+      "url": "https://aagag.com/issue/?idx=1668659",
+      "source": "애객",
+      "title": "ㅇㅆㅇㅆ)여사친과의 관계를 후회하는 만화",
+      "publishedAt": "2026-11-11T13:44:13+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L4pOa.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L4pOa.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8967046",
+          "text": "ㅇㅆㅇㅆ..."
+        },
+        {
+          "id": "8967051",
+          "text": "오...머리좋다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T13:48:44.757461+09:00",
+      "sourceTitles": [
+        "ㅇㅆㅇㅆ)여사친과의관계를후회하는만화",
+        "ㅇㅆㅇㅆ)여사친과의 관계를 후회하는 만화",
+        "ㅇㅆㅇㅆ)여사친과의 관계를 후회하는 만화",
+        "ㅇㅆㅇㅆ)여사친과의 관계를 후회하는 만화",
+        "ㅇㅆㅇㅆ)여사친과의 관계를 후회하는 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-11T04:48:53.720430+00:00",
+      "collectedAt": "2026-11-11T13:48:53.720447+09:00",
+      "firstPublishedAt": "2026-11-11T04:48:53.812571+00:00"
+    },
     {
       "id": "aagag-1668628-0",
       "url": "https://aagag.com/issue/?idx=1668628",
