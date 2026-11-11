@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T06:39:15.266934+00:00",
+  "collectedAt": "2026-11-11T06:41:59.356254+00:00",
   "windowEnd": "2026-11-11T15:39:15.115925+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4771,6 +4771,106 @@
       "sourceTitlesFetchedAt": "2026-11-11T06:22:06.120923+00:00",
       "collectedAt": "2026-11-11T15:22:06.120941+09:00",
       "firstPublishedAt": "2026-11-11T06:22:06.224668+00:00"
+    },
+    {
+      "id": "aagag-1619269-1",
+      "url": "https://aagag.com/issue/?idx=1619269_1",
+      "source": "애객",
+      "title": "잘 모르는 사람이 순수하게 묻는게 더 긁힌다",
+      "publishedAt": "2026-11-11T15:30:30+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Kj4zd.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/II3Ay.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Kj4zd.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/II3Ay.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 9,
+      "laughingComments": 4,
+      "score": 19,
+      "kPerComment": 2.111111111111111,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8053872",
+          "text": "잽시는 우승해서? ㅋㅋㅋ"
+        },
+        {
+          "id": "8053874",
+          "text": "ㅂㄷㅂㄷㅂㄷㅂㄷ"
+        },
+        {
+          "id": "8053882",
+          "text": "긁는 실력이 거의 효자손"
+        },
+        {
+          "id": "8053894",
+          "text": "홀란드 타율 미쳤다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8053928",
+          "text": "야구 잘모르는 입장에서는 당연히 드는 의문인듯ㅋㅋㅋ 나도 야구 잘 몰라서 똑같은 생각 예전부터 함"
+        },
+        {
+          "id": "8054053",
+          "text": "이대호가 롯데에서 잘나갈때 9회땐가 그때 만루 홈런인가 3점홈런 쳤을때 남포동 지나가고 있었는데 날리였음 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8054227",
+          "text": "강백호 들아오기전 북산 같은건가? 개인기록이 좋아서?"
+        },
+        {
+          "id": "8967664",
+          "text": "너무 상식적인 질문이라 겁나 웃기네"
+        },
+        {
+          "id": "8967671",
+          "text": "홀란드는 야구를 몰라서가 아니라. 팀게임이라는걸 인식못하고 있어서 그런듯... 한명잘한다고 우승하고 그러겠냐고...."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T15:41:47.526582+09:00",
+      "sourceTitles": [
+        "잘 모르는 사람이 순수하게 묻는게 더 긁힌다",
+        "야알못이 정밀 궁금한거",
+        "잘 모르는 사람이 순수하게 묻는게 더 긁힌다.mp4",
+        "잘 모르는 사람이 순수하게 묻는게 더 긁힌다",
+        "잘 모르는 사람이 순수하게 묻는게 더 긁힌다",
+        "1년전 맨유라는 팀에게 의문을 가졌던 이채영",
+        "야구 잘 모르면 발생하는 상황",
+        "야구 잘 모른다는 엄지윤",
+        "야구 잘 모른다는 엄지윤.mp4",
+        "야구를 그렇게 잘 모른다는 엄지윤",
+        "야구를 그렇게까지 잘 모른다는 엄지윤.MP4",
+        "야구를 그렇게 잘 모른다는 엄지윤ㅋㅋㅋㅋㅋ",
+        "야알못인척 하면서 치명적인 질문만 하는 엄지윤"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 13,
+      "sourceTitlesFetchedAt": "2026-11-11T06:41:59.266560+00:00",
+      "collectedAt": "2026-11-11T15:41:59.266578+09:00",
+      "firstPublishedAt": "2026-11-11T06:41:59.393197+00:00"
     },
     {
       "id": "aagag-1639324-0",
@@ -9559,7 +9659,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
