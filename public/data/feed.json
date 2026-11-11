@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T07:41:36.462703+00:00",
+  "collectedAt": "2026-11-11T07:44:59.156590+00:00",
   "windowEnd": "2026-11-11T16:41:36.359205+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5884,6 +5884,71 @@
       "firstPublishedAt": "2026-11-11T04:51:18.200738+00:00"
     },
     {
+      "id": "aagag-1668716-0",
+      "url": "https://aagag.com/issue/?idx=1668716",
+      "source": "애객",
+      "title": "까치를 입술을 모은상태에서 크게 발음해봐.jpg",
+      "publishedAt": "2026-11-11T16:30:20+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L57Vv.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L57Vv.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 13,
+      "commentCount": 6,
+      "laughingComments": 2,
+      "score": 13,
+      "kPerComment": 2.1666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8968050",
+          "text": "따라했다..쳇...ㅋ"
+        },
+        {
+          "id": "8968063",
+          "text": "ㄱㅇㄱㅇㅇ"
+        },
+        {
+          "id": "8968060",
+          "text": "똑같이 모으고 바지를 크게 발음해봐"
+        },
+        {
+          "id": "8968081",
+          "text": "붗치 인데요?"
+        },
+        {
+          "id": "8968091",
+          "text": "그냥 귀찮아서 입으로 보^ㅈl라고 했습니다."
+        },
+        {
+          "id": "8968077",
+          "text": "ㅅㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T16:44:51.332331+09:00",
+      "sourceTitles": [
+        "까치를 입술을 모은상태에서 크게 발음해봐",
+        "까치를 입술을 모은상태에서 크게 발음해봐.jpg",
+        "까치를 입술을 모은상태에서 크게 발음해봐.jpg",
+        "여러분, \"까치\"를 입술을 모은 상태에서 크게 발음해 보세요"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-11T07:44:59.059940+00:00",
+      "collectedAt": "2026-11-11T16:44:59.059957+09:00",
+      "firstPublishedAt": "2026-11-11T07:44:59.194968+00:00"
+    },
+    {
       "id": "aagag-1668490-0",
       "url": "https://aagag.com/issue/?idx=1668490",
       "source": "애객",
@@ -10289,7 +10354,7 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
