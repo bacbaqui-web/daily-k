@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T12:41:39.831730+00:00",
+  "collectedAt": "2026-11-11T12:44:05.149891+00:00",
   "windowEnd": "2026-11-11T21:41:39.724609+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10201,7 +10201,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10228,6 +10228,111 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668795-0",
+      "url": "https://aagag.com/issue/?idx=1668795",
+      "source": "애객",
+      "title": "어릴때 놀던 게임에 다시 접속해 봤다.MANHWA",
+      "publishedAt": "2026-11-11T21:30:14+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5ABi.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5ABs.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5ABw.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5AC4.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5AC6.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5AC8.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5ACG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5ACI.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5ACQ.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "뭔가... 뭔가 많이 변했다..."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5ABi.webp",
+        "https://i.aagag.com/o/L5ABs.webp",
+        "https://i.aagag.com/o/L5ABw.webp",
+        "https://i.aagag.com/o/L5AC4.webp",
+        "https://i.aagag.com/o/L5AC6.webp",
+        "https://i.aagag.com/o/L5AC8.webp",
+        "https://i.aagag.com/o/L5ACG.webp",
+        "https://i.aagag.com/o/L5ACI.webp",
+        "https://i.aagag.com/o/L5ACQ.webp"
+      ],
+      "videos": [],
+      "excerpt": "뭔가... 뭔가 많이 변했다...",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8969195",
+          "text": "오랜만에 이터널시티나 들어가볼까"
+        },
+        {
+          "id": "8969199",
+          "text": "테일즈위버 못해먹겠더라"
+        },
+        {
+          "id": "8969214",
+          "text": "테일즈런너구나...."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T21:43:56.544936+09:00",
+      "sourceTitles": [
+        "어릴때 놀던 게임에 다시 들어가봤다",
+        "어릴때 놀던 게임에 다시 들어가봤다",
+        "어릴때 놀던 게임에 다시 들어가봤다",
+        "어릴때 놀던 게임에 다시 접속해 봤다.MANHWA"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-11T12:44:05.072354+00:00",
+      "collectedAt": "2026-11-11T21:44:05.072372+09:00",
+      "firstPublishedAt": "2026-11-11T12:44:05.182745+00:00"
+    },
     {
       "id": "aagag-765114-0",
       "url": "https://aagag.com/issue/?idx=765114",
