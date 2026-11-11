@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T05:06:56.390105+00:00",
+  "collectedAt": "2026-11-11T05:08:57.775887+00:00",
   "windowEnd": "2026-11-11T14:06:56.293046+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9010,6 +9010,69 @@
       "firstPublishedAt": "2026-11-11T02:22:50.046832+00:00"
     },
     {
+      "id": "aagag-1668646-0",
+      "url": "https://aagag.com/issue/?idx=1668646",
+      "source": "애객",
+      "title": "젠슨 황 사태 이후 SNS 근황.jpg",
+      "publishedAt": "2026-11-11T14:02:36+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "https://x.com/JordyDutch/status/2119919433024147623?a=-8RPyU4nZNlgePOzFMo&s=19"
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L51pr.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L51py.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "수상쩍을 정도로 기밀을 알고있다고 어필하는 이들이 급증 중"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L51pr.webp",
+        "https://i.aagag.com/o/L51py.webp"
+      ],
+      "videos": [],
+      "excerpt": "https://x.com/JordyDutch/status/2119919433024147623?a=-8RPyU4nZNlgePOzFMo&s=19\n수상쩍을 정도로 기밀을 알고있다고 어필하는 이들이 급증 중",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8967134",
+          "text": "그래픽 카드랑 메모리 가격 좀 내려가면 좋겠는데 이번 건이랑 별 상관 없겠죠..."
+        },
+        {
+          "id": "8967149",
+          "text": "내게 참기름과 들기름 레시피가 있다!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T14:08:49.713029+09:00",
+      "sourceTitles": [
+        "ㅇㅎ)젠슨 황 사태 이후 SNS 근황.jpg",
+        "ㅇㅎ)젠슨 황 사태 이후 SNS 근황.jpg",
+        "젠슨 황 사태 이후 트위터 근황.jpg",
+        "젠슨 황 사태 이후 SNS 근황.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-11T05:08:57.707277+00:00",
+      "collectedAt": "2026-11-11T14:08:57.707294+09:00",
+      "firstPublishedAt": "2026-11-11T05:08:57.803261+00:00"
+    },
+    {
       "id": "aagag-1668583-0",
       "url": "https://aagag.com/issue/?idx=1668583",
       "source": "애객",
@@ -9574,7 +9637,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
