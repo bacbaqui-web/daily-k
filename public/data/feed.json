@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-11T18:26:17.245042+00:00",
+  "collectedAt": "2026-11-11T18:30:23.897555+00:00",
   "windowEnd": "2026-11-12T03:26:17.128844+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10804,69 +10804,6 @@
       "firstPublishedAt": "2026-11-10T20:26:38.176132+00:00"
     },
     {
-      "id": "aagag-1668544-0",
-      "url": "https://aagag.com/issue/?idx=1668544",
-      "source": "애객",
-      "title": "주짓수 사범의 시연",
-      "publishedAt": "2026-11-11T03:16:38+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4squ.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L3p9F.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4squ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L3p9F.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8965130",
-          "text": "사범 돈 내고 하는거 맞지?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-11T03:30:12.629744+09:00",
-      "sourceTitles": [
-        "주짓수 사범의 시연",
-        "ㅇㅎ) 주짓수 사범의 시연",
-        "ㅇㅎ 주짓수 사범의 시연",
-        "주짓수 사범의 시연",
-        "주짓수 사범의 시연",
-        "현역 UFC 선수가 알려주는 MMA",
-        "실전적인 그래플링 강좌",
-        "수상할정도로 실전적인 그래플링 강좌.gif"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 8,
-      "sourceTitlesFetchedAt": "2026-11-10T18:30:23.654712+00:00",
-      "collectedAt": "2026-11-11T03:30:23.654728+09:00",
-      "firstPublishedAt": "2026-11-10T18:30:23.770198+00:00"
-    },
-    {
       "id": "aagag-1668788-0",
       "url": "https://aagag.com/issue/?idx=1668788",
       "source": "애객",
@@ -11044,7 +10981,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 352,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
