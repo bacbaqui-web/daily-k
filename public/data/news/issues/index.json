@@ -1,6 +1,153 @@
 {
-  "editionCount": 111,
+  "editionCount": 112,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "webtoon-drama-times-equity-investment-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "10월8일 합병에 따른 지분 교환과 현금 분배·추가 청약이 확인됐습니다. 최종 지분율과 투자 성과는 미확인입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "보도",
+        "storyId": "20261111-pm-web-01",
+        "title": "웹툰엔터테인먼트, 드라마박스 측 법인 지분 확보·우선주 추가 청약"
+      },
+      "path": "webtoon-drama-times-equity-investment-2026.json",
+      "title": "웹툰엔터테인먼트의 드라마타임스 지분 교환과 우선주 추가 청약"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
+      "firstCoveredDate": "2026-10-30",
+      "id": "virtual-asset-taxation-deferral-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "여야가 2년 유예에 잠정 합의했지만 개정안은 의결하지 않았습니다. 최종 입법은 미확정입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "후속",
+        "storyId": "20261111-pm-pol-01",
+        "title": "여야, 가상자산 과세 2년 유예 잠정 합의…개정안 의결은 보류"
+      },
+      "path": "virtual-asset-taxation-deferral-2026.json",
+      "title": "가상자산 과세 시행과 추가 유예 논의"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "tsmc-openai-anthropic-equity-investment-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "각각 최대 5억달러 투자 승인과 주식 인수 계획이 보도됐습니다. 실제 집행과 투자 성과는 미확인입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "발표",
+        "storyId": "20261111-pm-tech-01",
+        "title": "TSMC 이사회, 오픈AI·앤트로픽에 각각 최대 5억달러 투자 승인"
+      },
+      "path": "tsmc-openai-anthropic-equity-investment-2026.json",
+      "title": "TSMC의 오픈AI·앤트로픽 지분 투자 승인"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "treasury-bond-auction-collusion-financial-firms-penalties-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "15개 금융사에 과징금과 시정명령, 7개사 고발 방침이 발표됐습니다. 불복 소송과 최종 책임은 미확정입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "결과",
+        "storyId": "20261111-pm-eco-01",
+        "title": "공정위, 국고채 입찰 담합 금융사 15곳에 과징금 1조6265억7500만원"
+      },
+      "path": "treasury-bond-auction-collusion-financial-firms-penalties-2026.json",
+      "title": "국고채 입찰 담합 금융회사 제재와 경쟁질서"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "self-treatment-medicines-personal-carry-in-customs-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "12일부터 적용할 휴대 반입 허용과 수량 기준이 발표됐습니다. 실제 통관 적용 결과는 미확인입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "발표",
+        "storyId": "20261111-pm-safe-01",
+        "title": "해외에서 정상 처방·구매한 자가치료 의약품, 12일부터 휴대 반입 허용"
+      },
+      "path": "self-treatment-medicines-personal-carry-in-customs-2026.json",
+      "title": "자가치료용 의약품 개인 휴대 반입 기준 변경"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "kogas-tech-industrial-accident-application-pressure-allegation-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "산재 신청 압박 관련 녹취와 직원 주장·공사 반박이 보도됐습니다. 법적 판단과 산재 승인 여부는 미확인입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "보도",
+        "storyId": "20261111-pm-soc-01",
+        "title": "한국가스기술공사 산재 신청 압박 의혹…진단서 문구 삭제 요구 녹취 보도"
+      },
+      "path": "kogas-tech-industrial-accident-application-pressure-allegation-2026.json",
+      "title": "한국가스기술공사 산재 신청 압박 의혹과 진단서 문구 요구"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "japan-security-documents-nuclear-powered-submarine-review-2026",
+      "lastCoveredAt": "2026-11-11T21:17:28.807470+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "안보 3문서에 도입 검토를 명시하는 방안이 보도됐습니다. 최종 문서와 실제 도입은 미확정입니다.",
+        "editionId": "2026-11-11-pm",
+        "stage": "보도",
+        "storyId": "20261111-pm-int-01",
+        "title": "일본, 안보 3문서에 핵추진잠수함 도입 검토 명시 추진"
+      },
+      "path": "japan-security-documents-nuclear-powered-submarine-review-2026.json",
+      "title": "일본 안보 3문서의 핵추진잠수함 도입 검토 명시 추진"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -981,27 +1128,6 @@
       },
       "path": "elementary-school-entrants-2027-outlook.json",
       "title": "2027년 초등학교 입학생 감소 전망과 교육환경"
-    },
-    {
-      "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-10-30T21:14:41.634173+09:00",
-      "firstCoveredDate": "2026-10-30",
-      "id": "virtual-asset-taxation-deferral-2026",
-      "lastCoveredAt": "2026-11-07T21:42:25.978592+09:00",
-      "lastCoveredDate": "2026-11-07",
-      "latest": {
-        "archive": false,
-        "change": "정부가 2년 유예와 손실 이월공제 추진방안을 발표했습니다. 입법과 시행은 미확정입니다.",
-        "editionId": "2026-11-07-pm",
-        "stage": "후속",
-        "storyId": "20261107-pm-pol-01",
-        "title": "정부, 가상자산 과세 2년 유예·손실 이월공제 추진"
-      },
-      "path": "virtual-asset-taxation-deferral-2026.json",
-      "title": "가상자산 과세 시행과 추가 유예 논의"
     },
     {
       "categories": [
@@ -10456,7 +10582,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 822,
+  "storyCount": 829,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-11T09:21:20.985854+09:00"
+  "updatedAt": "2026-11-11T21:17:28.807470+09:00"
 }
