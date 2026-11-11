@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T17:24:39.410326+09:00",
-  "windowEnd": "2026-11-11T17:17:50.815914+09:00",
+  "collectedAt": "2026-11-11T08:34:57.537669+00:00",
+  "windowEnd": "2026-11-11T17:34:57.405142+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3274,83 +3274,6 @@
       "sourceTitlesFetchedAt": "2026-11-11T04:50:08.936471+00:00",
       "collectedAt": "2026-11-11T13:50:08.936487+09:00",
       "firstPublishedAt": "2026-11-11T04:50:09.027671+00:00"
-    },
-    {
-      "id": "aagag-1668464-0",
-      "url": "https://aagag.com/issue/?idx=1668464",
-      "source": "애객",
-      "title": "부부 사이에 낀 AI",
-      "publishedAt": "2026-11-10T17:22:08+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4v2F.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4v2K.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4v2U.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L4v2F.webp",
-        "https://i.aagag.com/o/L4v2K.webp",
-        "https://i.aagag.com/o/L4v2U.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 20,
-      "commentCount": 6,
-      "laughingComments": 4,
-      "score": 20,
-      "kPerComment": 3.3333333333333335,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8963687",
-          "text": "실생활 도입 AI goat."
-        },
-        {
-          "id": "8963688",
-          "text": ""
-        },
-        {
-          "id": "8963703",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8963715",
-          "text": "ㅋㅋ 골때리네"
-        },
-        {
-          "id": "8963722",
-          "text": "명작은 몇번을 봐도..ㅋㅋㅋ"
-        },
-        {
-          "id": "8963702",
-          "text": "이건 언제 봐도 웃기네 엘지 ㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-10T17:29:51.586313+09:00",
-      "sourceTitles": [
-        "부부 사이에 낀 AI",
-        "부부 사이에 낀 AI",
-        "부부 사이에 낀 AI",
-        "AI 비서를 실생활에 접목해본 유부남"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-10T08:30:06.145344+00:00",
-      "collectedAt": "2026-11-10T17:30:06.145361+09:00",
-      "firstPublishedAt": "2026-11-10T08:30:06.248295+00:00"
     },
     {
       "id": "aagag-1668499-0",
@@ -9947,9 +9870,9 @@
     }
   ],
   "partialCommentPosts": 7,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
