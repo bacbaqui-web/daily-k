@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T02:12:58.589446+09:00",
-  "windowEnd": "2026-11-12T02:06:36.788958+09:00",
+  "collectedAt": "2026-11-11T17:23:17.238521+00:00",
+  "windowEnd": "2026-11-12T02:23:17.117577+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10711,57 +10711,12 @@
       "sourceTitlesFetchedAt": "2026-11-10T20:59:05.190918+00:00",
       "collectedAt": "2026-11-11T05:59:05.190938+09:00",
       "firstPublishedAt": "2026-11-10T20:59:05.439977+00:00"
-    },
-    {
-      "id": "aagag-1668542-0",
-      "url": "https://aagag.com/issue/?idx=1668542",
-      "source": "애객",
-      "title": "ㅇㅎ) 카리나 허벅지",
-      "publishedAt": "2026-11-11T02:14:08+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4yQr.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4yQr.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-11T02:17:13.750025+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 카리나 허벅지",
-        "ㅇㅎ) 카리나 허벅지",
-        "제철 카리나 .mp4",
-        "팔색조 매력 카리나",
-        "카리나"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-10T17:17:26.306124+00:00",
-      "collectedAt": "2026-11-11T02:17:26.306142+09:00",
-      "firstPublishedAt": "2026-11-10T17:17:26.467045+00:00"
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 374,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
