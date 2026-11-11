@@ -1,6 +1,157 @@
 {
-  "editionCount": 110,
+  "editionCount": 111,
   "issues": [
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "webnovel-authors-copyright-infringement-dialogue-2026",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "작가들의 침해 피해 경험과 대응 어려움이 소개됐습니다. 새 단속·판결·피해 감소 결과는 아닙니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "보도",
+        "storyId": "20261111-am-web-01",
+        "title": "웹소설 작가들, 저작권 침해 피해와 불법유통 대응 어려움 설명"
+      },
+      "path": "webnovel-authors-copyright-infringement-dialogue-2026.json",
+      "title": "웹소설 작가 대담의 저작권 침해 경험과 불법유통 대응 문제"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "us-measles-cases-elimination-status-review-2026",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "올해 5182건 보고와 장기 전파 분석이 소개됐습니다. 청정국 지위 판단은 미확정입니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "보도",
+        "storyId": "20261111-am-safe-01",
+        "title": "미국 올해 홍역 5182건 보고…청정국 지위 판단은 미확정"
+      },
+      "path": "us-measles-cases-elimination-status-review-2026.json",
+      "title": "미국 홍역 확산과 청정국 지위 검토"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "us-cpi-october-2026",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "CPI 전월 대비 0.4%와 근원 CPI 0.3% 상승이 발표됐습니다. 향후 금리 결정은 미확정입니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "발표",
+        "storyId": "20261111-am-eco-01",
+        "title": "미국 10월 CPI 전월 대비 0.4% 상승…예상 웃돌며 국채금리 급등"
+      },
+      "path": "us-cpi-october-2026.json",
+      "title": "미국 2026년 10월 소비자물가와 금융시장 반응"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 8,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "러시아 정유시설 피해와 처리량 감소 추산이 추가됐습니다. 실제 생산 손실과 복구 결과는 미확정입니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "후속",
+        "storyId": "20261111-am-int-01",
+        "title": "우크라이나 드론 공격에 러시아 정유시설 차질…처리량 하루 최대 20만t 감소 추산"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "반도체 공급망·물량 관련 새 의혹과 기업 반박이 추가됐습니다. 거래의 불법성과 조사 결과는 미확정입니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "후속",
+        "storyId": "20261111-am-tech-01",
+        "title": "엔비디아 AI칩 약 24만개 중국 공급 관여 의혹 보도…회사, 규정 준수 입장"
+      },
+      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
+      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
+    },
+    {
+      "categories": [
+        "반도체",
+        "반도체·산업",
+        "반도체·전력",
+        "정치·정책"
+      ],
+      "eventCount": 6,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-25",
+      "id": "honam-semiconductor-cluster",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "산업장관이 팹 배치의 이달 마무리 예정을 설명했습니다. 배치·투자 확정과 양산은 미완료입니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "후속",
+        "storyId": "20261111-am-pol-01",
+        "title": "산업장관, 호남 반도체 클러스터 팹 배치 이달 마무리 예정 설명"
+      },
+      "path": "honam-semiconductor-cluster.json",
+      "title": "호남 반도체 클러스터 논의"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "gangnam-medical-patient-brokering-investigation-2026",
+      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "lastCoveredDate": "2026-11-11",
+      "latest": {
+        "archive": false,
+        "change": "경찰이 환자 802명 알선·약 17억원 수수료 혐의와 58명 송치를 발표했습니다. 최종 책임은 미확정입니다.",
+        "editionId": "2026-11-11-am",
+        "stage": "발표",
+        "storyId": "20261111-am-soc-01",
+        "title": "강남 병·의원 13곳 환자 불법 알선 혐의…의사 등 58명 송치"
+      },
+      "path": "gangnam-medical-patient-brokering-investigation-2026.json",
+      "title": "강남 병·의원 환자 불법 알선과 수수료 수사"
+    },
     {
       "categories": [
         "사회이슈"
@@ -21,28 +172,6 @@
       },
       "path": "seoul-metro-labor-negotiations-strike-2026.json",
       "title": "서울교통공사 노사 교섭과 파업 계획"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 7,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-11-10T21:14:31.244383+09:00",
-      "lastCoveredDate": "2026-11-10",
-      "latest": {
-        "archive": false,
-        "change": "유럽 주요국·EU·나토 대표단 파견이 보도됐습니다. 실제 참석과 휴전 합의는 미확정입니다.",
-        "editionId": "2026-11-10-pm",
-        "stage": "후속",
-        "storyId": "20261110-pm-int-01",
-        "title": "유럽 주요국·EU·나토, 우크라이나 종전협상 대표단 파견"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
     },
     {
       "categories": [
@@ -537,27 +666,6 @@
       },
       "path": "single-home-property-tax-deduction-negotiations-2026.json",
       "title": "1주택자 종합부동산세 공제액 조정 논의"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
-      "firstCoveredDate": "2026-11-09",
-      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
-      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
-      "lastCoveredDate": "2026-11-09",
-      "latest": {
-        "archive": false,
-        "change": "독립 조사위원회 구성이 발표됐습니다. 기밀 침해와 의혹의 실체는 미확정입니다.",
-        "editionId": "2026-11-09-am",
-        "stage": "발표",
-        "storyId": "20261109-am-tech-01",
-        "title": "엔비디아 이사회, CEO 관련 외국 정보기관 표적 의혹 독립 조사 착수"
-      },
-      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
-      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
     },
     {
       "categories": [
@@ -7088,29 +7196,6 @@
     },
     {
       "categories": [
-        "반도체",
-        "반도체·산업",
-        "반도체·전력"
-      ],
-      "eventCount": 5,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-25",
-      "id": "honam-semiconductor-cluster",
-      "lastCoveredAt": "2026-10-09T20:44:48+09:00",
-      "lastCoveredDate": "2026-10-09",
-      "latest": {
-        "archive": false,
-        "change": "전력망 재검토 보도 이후 10월9일 최태원 회장의 첫 부지 방문과 규모·선제 착공 검토 발언이 나왔습니다. 착공일은 미확정입니다.",
-        "editionId": "2026-10-09-pm",
-        "stage": "후속",
-        "storyId": "honam-choi-site-visit-2026-10-09",
-        "title": "최태원, 광주 반도체 부지 첫 방문…용인 3분의 2 규모 구상"
-      },
-      "path": "honam-semiconductor-cluster.json",
-      "title": "호남 반도체 클러스터 논의"
-    },
-    {
-      "categories": [
         "사회·문화"
       ],
       "eventCount": 1,
@@ -10371,7 +10456,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 815,
+  "storyCount": 822,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-10T21:14:31.244383+09:00"
+  "updatedAt": "2026-11-11T09:21:20.985854+09:00"
 }
