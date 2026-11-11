@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-11T20:59:48.467318+00:00",
+  "collectedAt": "2026-11-11T21:01:07.897649+00:00",
   "windowEnd": "2026-11-12T05:58:47.090136+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10077,55 +10077,6 @@
       "firstPublishedAt": "2026-11-11T17:07:40.607390+00:00"
     },
     {
-      "id": "aagag-1668571-0",
-      "url": "https://aagag.com/issue/?idx=1668571",
-      "source": "애객",
-      "title": "ㅇㅎ?) 블랙박스에 찍힌 추돌사고",
-      "publishedAt": "2026-11-11T05:46:40+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Ivgaw.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/Ivgaw.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8965194",
-          "text": "문콕 아니고 이건 슴콕?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-11T06:00:55.701300+09:00",
-      "sourceTitles": [
-        "블랙박스에 찍힌 가슴 추돌사고",
-        "블랙박스에 찍힌 접촉사고",
-        "ㅇㅎ?) 블랙박스에 찍힌 추돌사고",
-        "ㅇㅎ?) 블랙박스에 찍힌 추돌사고"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-10T21:01:03.007962+00:00",
-      "collectedAt": "2026-11-11T06:01:03.007979+09:00",
-      "firstPublishedAt": "2026-11-10T21:01:03.116149+00:00"
-    },
-    {
       "id": "aagag-1668844-0",
       "url": "https://aagag.com/issue/?idx=1668844",
       "source": "애객",
@@ -10468,7 +10419,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 22,
+  "candidateCount": 132,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
