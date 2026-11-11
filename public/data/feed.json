@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T10:38:48.719013+00:00",
+  "collectedAt": "2026-11-11T10:39:51.100019+00:00",
   "windowEnd": "2026-11-11T19:38:48.600169+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9475,6 +9475,66 @@
       "firstPublishedAt": "2026-11-11T02:22:50.046832+00:00"
     },
     {
+      "id": "aagag-1668763-0",
+      "url": "https://aagag.com/issue/?idx=1668763",
+      "source": "애객",
+      "title": "헬스장 관장 누나",
+      "publishedAt": "2026-11-11T19:36:48+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/IvrGZ.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/IvrGZ.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8968811",
+          "text": "가짜 I다"
+        },
+        {
+          "id": "8968814",
+          "text": "90년생 ㄷㄷ 엄청 동안이시네"
+        },
+        {
+          "id": "8968817",
+          "text": "개 저아"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-11T19:39:38.419772+09:00",
+      "sourceTitles": [
+        "ㅇㅎ 헬스장 관장 누나",
+        "ㅇㅎ 173cm 65kg 헬스장 관장 누나",
+        "헬스장 관장 누나",
+        "이수진(sujin29_) 엉빵핏",
+        "173cm 65kg INFP",
+        "173cm 65kg INFP.mp4",
+        "ㅇㅎ) 173cm 65kg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-11T10:39:51.018980+00:00",
+      "collectedAt": "2026-11-11T19:39:51.018997+09:00",
+      "firstPublishedAt": "2026-11-11T10:39:51.134454+00:00"
+    },
+    {
       "id": "aagag-1668646-0",
       "url": "https://aagag.com/issue/?idx=1668646",
       "source": "애객",
@@ -10102,7 +10162,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
