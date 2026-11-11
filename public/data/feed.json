@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-11",
-  "collectedAt": "2026-11-11T12:32:09.384906+09:00",
-  "windowEnd": "2026-11-11T12:26:07.160600+09:00",
+  "collectedAt": "2026-11-11T03:42:27.218477+00:00",
+  "windowEnd": "2026-11-11T12:42:27.119757+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6649,76 +6649,6 @@
       "firstPublishedAt": "2026-11-10T20:07:46.202062+00:00"
     },
     {
-      "id": "aagag-1668411-0",
-      "url": "https://aagag.com/issue/?idx=1668411",
-      "source": "애객",
-      "title": "블라인드: 젠슨황 불륜사태를 본 SK 형님의 한마디",
-      "publishedAt": "2026-11-10T12:18:17+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L4xYF.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L4xYF.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 7,
-      "laughingComments": 1,
-      "score": 11,
-      "kPerComment": 1.5714285714285714,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8962307",
-          "text": "어깨에 힘이 왜 들어감??"
-        },
-        {
-          "id": "8962309",
-          "text": "너어어어 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8962323",
-          "text": "조만간 블라인드 사겠는디"
-        },
-        {
-          "id": "8962325",
-          "text": "저게 일개 직원이 어깨뽕 들어갈 정돈가..? 돈 차고 넘치는 재벌이면 예쁜 여자야 맘만 먹으면 골라서 볼 수 있을텐데 외모 이외의 결핍을 채워주는 무언가를 봤겠지, 결국은 의도적인 연기였겠지만"
-        },
-        {
-          "id": "8962333",
-          "text": "그냥 드립이 아니였을까요? ㅎ"
-        },
-        {
-          "id": "8962351",
-          "text": "일상생활가능?"
-        },
-        {
-          "id": "8962353",
-          "text": "에헤이 왜 그러세용"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-10T12:32:03.797620+09:00",
-      "sourceTitles": [
-        "sk직원의 회사에 대한 자부심",
-        "젠슨황 불륜 사태를 본 SK 형님의 한마디",
-        "젠슨황 사태를 본 SK직원",
-        "블라인드: 젠슨황 불륜사태를 본 SK 형님의 한마디",
-        "블라인드: 젠슨황 불륜사태를 본 SK 형님의 한마디"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-10T03:32:11.418874+00:00",
-      "collectedAt": "2026-11-10T12:32:11.418891+09:00",
-      "firstPublishedAt": "2026-11-10T03:32:11.526450+00:00"
-    },
-    {
       "id": "aagag-1668514-0",
       "url": "https://aagag.com/issue/?idx=1668514",
       "source": "애객",
@@ -8881,9 +8811,9 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
