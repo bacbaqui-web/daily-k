@@ -1,6 +1,154 @@
 {
-  "editionCount": 112,
+  "editionCount": 113,
   "issues": [
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-03T09:23:44.374237+09:00",
+      "firstCoveredDate": "2026-11-03",
+      "id": "us-midterm-election-final-campaign-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "미시시피 민주당 승리 판단과 상원 55석 확보가 보도됐습니다. 알래스카와 최종 의석은 미확정입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "후속",
+        "storyId": "20261112-am-int-01",
+        "title": "미 민주당, 미시시피 상원선거 승리 보도…55석 확보·알래스카 개표 진행"
+      },
+      "path": "us-midterm-election-final-campaign-2026.json",
+      "title": "미국 2026년 중간선거 직전 유세와 의회 구성 변수"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "firstCoveredDate": "2026-11-12",
+      "id": "park-jumin-equality-bill-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "평등법이 발의됐습니다. 국회 심사와 최종 입법은 미확정입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "검토",
+        "storyId": "20261112-am-pol-01",
+        "title": "박주민, 고용·교육 등 차별금지 담은 평등법 발의"
+      },
+      "path": "park-jumin-equality-bill-2026.json",
+      "title": "박주민 의원 평등법 발의와 차별금지 입법 논의"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "CEO 거취 결정 회의 계획이 보도됐습니다. 실제 개최·의결과 의혹의 실체는 미확정입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "후속",
+        "storyId": "20261112-am-tech-01",
+        "title": "WSJ 보도, 엔비디아 이사회 젠슨 황 거취 결정 회의 추진"
+      },
+      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
+      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
+    },
+    {
+      "categories": [
+        "경제·고용",
+        "경제·생활경제"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
+      "firstCoveredDate": "2026-10-16",
+      "id": "korea-employment-september-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "10월 청년 취업자 감소와 전체·업종별 고용통계가 발표됐습니다. 원인별 기여도와 개선 효과는 미확인입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "후속",
+        "storyId": "20261112-am-eco-01",
+        "title": "10월 청년 취업자 19만6000명 감소…청년 고용률 42.9%"
+      },
+      "path": "korea-employment-september-2026.json",
+      "title": "한국 월간 고용 동향"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "firstCoveredDate": "2026-11-12",
+      "id": "hansol-janghang-paper-roll-fatal-accident-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "협력업체 노동자 사망과 경찰 수사가 보도됐습니다. 원인과 책임은 조사 중입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "보도",
+        "storyId": "20261112-am-soc-01",
+        "title": "한솔제지 장항공장서 협력업체 노동자 사망…안전수칙 준수 여부 수사"
+      },
+      "path": "hansol-janghang-paper-roll-fatal-accident-2026.json",
+      "title": "한솔제지 장항공장 종이롤 끼임 사망과 안전수칙 수사"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "firstCoveredDate": "2026-11-12",
+      "id": "daon-creative-mentee-evaluation-results-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "21명 평가와 우수 멘티 3명 선정이 보도됐습니다. 연재·취업·계약 성과는 미확인입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "결과",
+        "storyId": "20261112-am-web-01",
+        "title": "다온크리에이티브, 창의인재동반사업 평가 통해 우수 멘티 3명 선정"
+      },
+      "path": "daon-creative-mentee-evaluation-results-2026.json",
+      "title": "다온크리에이티브 창의인재동반사업 우수 멘티 평가·선정"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "firstCoveredDate": "2026-11-12",
+      "id": "bmi-new-obesity-criteria-population-study-2026",
+      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
+      "lastCoveredDate": "2026-11-12",
+      "latest": {
+        "archive": false,
+        "change": "84만여명 자료의 비만 분류 차이가 보도됐습니다. 국내 기준 변경과 치료 효과 개선은 미확인입니다.",
+        "editionId": "2026-11-12-am",
+        "stage": "보도",
+        "storyId": "20261112-am-safe-01",
+        "title": "84만명 분석 연구, BMI와 새 비만 진단기준 간 분류 차이 확인"
+      },
+      "path": "bmi-new-obesity-criteria-population-study-2026.json",
+      "title": "BMI와 새로운 비만 진단기준의 대규모 분류 비교 연구"
+    },
     {
       "categories": [
         "웹툰산업"
@@ -232,27 +380,6 @@
       },
       "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
       "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
-      "firstCoveredDate": "2026-11-09",
-      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
-      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
-      "lastCoveredDate": "2026-11-11",
-      "latest": {
-        "archive": false,
-        "change": "반도체 공급망·물량 관련 새 의혹과 기업 반박이 추가됐습니다. 거래의 불법성과 조사 결과는 미확정입니다.",
-        "editionId": "2026-11-11-am",
-        "stage": "후속",
-        "storyId": "20261111-am-tech-01",
-        "title": "엔비디아 AI칩 약 24만개 중국 공급 관여 의혹 보도…회사, 규정 준수 입장"
-      },
-      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
-      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
     },
     {
       "categories": [
@@ -1233,27 +1360,6 @@
       },
       "path": "bucheon-game-webtoon-video-workforce-agreement-2026.json",
       "title": "부천시 게임·웹툰·영상 전문인력 양성 협약"
-    },
-    {
-      "categories": [
-        "국제정세"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-03T09:23:44.374237+09:00",
-      "firstCoveredDate": "2026-11-03",
-      "id": "us-midterm-election-final-campaign-2026",
-      "lastCoveredAt": "2026-11-07T09:35:13.492138+09:00",
-      "lastCoveredDate": "2026-11-07",
-      "latest": {
-        "archive": false,
-        "change": "민주당 하원 253석 확보가 보도됐으며 21곳과 최종 의석은 미확정입니다.",
-        "editionId": "2026-11-07-am",
-        "stage": "후속",
-        "storyId": "20261107-am-int-01",
-        "title": "미 민주당 하원 253석 확보…21곳은 개표 결과 미확정"
-      },
-      "path": "us-midterm-election-final-campaign-2026.json",
-      "title": "미국 2026년 중간선거 직전 유세와 의회 구성 변수"
     },
     {
       "categories": [
@@ -6248,27 +6354,6 @@
     },
     {
       "categories": [
-        "경제·고용"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-16T21:13:28+09:00",
-      "firstCoveredDate": "2026-10-16",
-      "id": "korea-employment-september-2026",
-      "lastCoveredAt": "2026-10-16T21:13:28+09:00",
-      "lastCoveredDate": "2026-10-16",
-      "latest": {
-        "archive": false,
-        "change": "9월 총취업자는 증가했으나 청년층 감소는 지속됐고 제조업은 27개월 만에 증가로 돌아섰습니다.",
-        "editionId": "2026-10-16-pm",
-        "stage": "발표",
-        "storyId": "korea-employment-september-2026",
-        "title": "9월 취업자 11만3천명 증가…제조업 27개월 만에 플러스"
-      },
-      "path": "korea-employment-september-2026.json",
-      "title": "한국 월간 고용 동향"
-    },
-    {
-      "categories": [
         "경제·수출"
       ],
       "eventCount": 1,
@@ -10582,7 +10667,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 829,
+  "storyCount": 836,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-11T21:17:28.807470+09:00"
+  "updatedAt": "2026-11-12T09:16:24.574100+09:00"
 }
