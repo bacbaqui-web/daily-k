@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T08:23:19.503524+00:00",
+  "collectedAt": "2026-11-12T08:25:52.850952+00:00",
   "windowEnd": "2026-11-12T17:23:19.399438+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8634,7 +8634,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8661,6 +8661,69 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1669016-0",
+      "url": "https://aagag.com/issue/?idx=1669016",
+      "source": "애객",
+      "title": "드워프와 엘프 만화.manhwa",
+      "publishedAt": "2026-11-12T17:06:34+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/IziMI.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "다음편 ㅇㄷ?"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/IziMI.jpg"
+      ],
+      "videos": [],
+      "excerpt": "다음편 ㅇㄷ?",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 3,
+      "commentCount": 3,
+      "laughingComments": 1,
+      "score": 3,
+      "kPerComment": 1.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8972902",
+          "text": "빨리 찾아오세요"
+        },
+        {
+          "id": "8972935",
+          "text": "다음편이 없다고?? 없으면 만들어와!!!"
+        },
+        {
+          "id": "8972981",
+          "text": "서비스씬만 컬러인거도 웃기네 ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-12T17:25:38.234044+09:00",
+      "sourceTitles": [
+        "드워프와 엘프 만화.manhwa",
+        "드워프와 엘프 만화.manhwa",
+        "드워프와 엘프 manhwa",
+        "호기심 많은 엘프 manhwa.",
+        "핑프엘프와 드워프.manhwa",
+        "핑프엘프와 드워프.manhwa",
+        "호기심 많은 엘프.",
+        "호기심 많은 엘프.",
+        "호기심 많은 엘프.manhwa",
+        "호기심 많은 엘프.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 10,
+      "sourceTitlesFetchedAt": "2026-11-12T08:25:52.784606+00:00",
+      "collectedAt": "2026-11-12T17:25:52.784622+09:00",
+      "firstPublishedAt": "2026-11-12T08:25:52.877934+00:00"
+    },
     {
       "id": "aagag-1669007-0",
       "url": "https://aagag.com/issue/?idx=1669007",
