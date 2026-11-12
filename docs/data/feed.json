@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T08:41:26.881142+00:00",
+  "collectedAt": "2026-11-12T17:44:39.776658+09:00",
   "windowEnd": "2026-11-12T17:40:06.026882+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8476,9 +8476,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 44,
-  "collectionStatus": "partial",
-  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
+  "candidateCount": 352,
+  "collectionStatus": "complete",
+  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
   "sources": [
     {
       "name": "애객",
