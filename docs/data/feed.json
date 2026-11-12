@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T17:29:47.020521+09:00",
-  "windowEnd": "2026-11-12T17:23:19.399438+09:00",
+  "collectedAt": "2026-11-12T08:40:06.134890+00:00",
+  "windowEnd": "2026-11-12T17:40:06.026882+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3422,83 +3422,6 @@
       "sourceTitlesFetchedAt": "2026-11-11T09:15:35.842886+00:00",
       "collectedAt": "2026-11-11T18:15:35.842918+09:00",
       "firstPublishedAt": "2026-11-11T09:15:35.950195+00:00"
-    },
-    {
-      "id": "aagag-1668736-0",
-      "url": "https://aagag.com/issue/?idx=1668736",
-      "source": "애객",
-      "title": "이상한 스카프 착용하고 공항 이용하기.gif",
-      "publishedAt": "2026-11-11T17:28:07+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4t0z.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4t0z.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 8,
-      "commentsPartial": false,
-      "kCount": 24,
-      "commentCount": 8,
-      "laughingComments": 3,
-      "score": 24,
-      "kPerComment": 3.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8968327",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㄱㅋㅋㅋ"
-        },
-        {
-          "id": "8968334",
-          "text": "아 씨 ㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8968336",
-          "text": "남자버전 공항에서 친구가 가져온 상의 입기 https://aagag.com/issue/?idx=1637539"
-        },
-        {
-          "id": "8968340",
-          "text": "그랜드 그랜드 그랜마 할매젖 스카프네ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8968341",
-          "text": "https://packaged-media.redd.it/6ei8r5lrc9pf1/pb/m2-res_854p.mp4?m=DASHPlaylist.mpd&var=sgpssan&v=1&e=1794402000&s=5cac4d9bf7d5ac234a2a76a81bca087aa3f1fa0d"
-        },
-        {
-          "id": "8968344",
-          "text": "이거ai 아니던가?"
-        },
-        {
-          "id": "8968348",
-          "text": "이런부류도 ai 포맷인듯"
-        },
-        {
-          "id": "8968352",
-          "text": "주머니 위치가 바뀌네요"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-11T17:38:54.346173+09:00",
-      "sourceTitles": [
-        "이상한 스카프 착용하고 공항 이용하기.gif",
-        "이상한 스카프 착용하고 공항 이용하기.gif",
-        "이상한 스카프 착용하고 공항 이용하기.gif",
-        "이상한 스카프 착용하고 공항 이용하기"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-11T08:39:08.427026+00:00",
-      "collectedAt": "2026-11-11T17:39:08.427044+09:00",
-      "firstPublishedAt": "2026-11-11T08:39:08.556147+00:00"
     },
     {
       "id": "aagag-1214348-1",
@@ -8634,9 +8557,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 374,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
