@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T16:01:00.187075+09:00",
-  "windowEnd": "2026-11-12T15:53:24.351171+09:00",
+  "collectedAt": "2026-11-12T07:11:17.956193+00:00",
+  "windowEnd": "2026-11-12T16:11:17.850580+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5436,58 +5436,6 @@
       "firstPublishedAt": "2026-11-12T05:55:37.555673+00:00"
     },
     {
-      "id": "aagag-1668705-0",
-      "url": "https://aagag.com/issue/?idx=1668705",
-      "source": "애객",
-      "title": "남녀의 씻기 전후 차이",
-      "publishedAt": "2026-11-11T15:58:53+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5DQV.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5DQV.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 2,
-      "laughingComments": 2,
-      "score": 12,
-      "kPerComment": 6.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8967832",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ㄹㅇ"
-        },
-        {
-          "id": "8967839",
-          "text": "눈이 침침한가.. 디지털풍화가 된건가..  나 늙ㅋㅋ네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-11T16:04:43.673852+09:00",
-      "sourceTitles": [
-        "남녀의 씻기 전 & 후",
-        "남녀의 씻기 전후 차이",
-        "남녀의 씻기 전 & 후",
-        "남녀의  씻기 전 & 후",
-        "남녀 씻기 전, 후.jpg",
-        "남녀 씻기 전, 후.jpg",
-        "남녀 씻기  전, 후"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-11-11T07:04:52.548335+00:00",
-      "collectedAt": "2026-11-11T16:04:52.548352+09:00",
-      "firstPublishedAt": "2026-11-11T07:04:52.641627+00:00"
-    },
-    {
       "id": "aagag-1668877-0",
       "url": "https://aagag.com/issue/?idx=1668877",
       "source": "애객",
@@ -9110,9 +9058,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 372,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
