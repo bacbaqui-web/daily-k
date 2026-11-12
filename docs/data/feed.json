@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-11T23:59:24.459947+00:00",
+  "collectedAt": "2026-11-12T00:00:22.024057+00:00",
   "windowEnd": "2026-11-12T08:59:24.343356+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10272,7 +10272,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10299,6 +10299,62 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1668873-0",
+      "url": "https://aagag.com/issue/?idx=1668873",
+      "source": "애객",
+      "title": "요즘 30대 노처녀 만화 jpg",
+      "publishedAt": "2026-11-12T08:57:26+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/H7APz.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/H7AQH.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/H7APz.webp",
+        "https://i.aagag.com/o/H7AQH.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8970356",
+          "text": "이게 뭔데 ㅆ덕아.... 애뀨뀨 그려놓고 30대 어찌구 하면 끝임?😇😅"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-12T09:00:10.504367+09:00",
+      "sourceTitles": [
+        "요즘 30대 노처녀 만화",
+        "요즘 30대 노처녀 만화 jpg",
+        "요즘 30대 노처녀 만화 jpg",
+        "답없는 30대 노처녀 만화.manga",
+        "답없는 30대 노처녀 만화.manga",
+        "답없는 30대 노처녀 만화.manga",
+        "30대 미혼의 삶.jpg",
+        "답없는 30대 노처녀 만화.MANGA",
+        "답없는 30대 노처녀 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 9,
+      "sourceTitlesFetchedAt": "2026-11-12T00:00:21.921464+00:00",
+      "collectedAt": "2026-11-12T09:00:21.921483+09:00",
+      "firstPublishedAt": "2026-11-12T00:00:22.056594+00:00"
+    },
     {
       "id": "aagag-1668870-0",
       "url": "https://aagag.com/issue/?idx=1668870",
