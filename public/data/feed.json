@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T01:07:17.428852+00:00",
+  "collectedAt": "2026-11-12T01:10:52.255121+00:00",
   "windowEnd": "2026-11-12T10:07:17.309915+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1972,6 +1972,95 @@
       "sourceTitlesFetchedAt": "2026-11-11T19:45:22.542156+00:00",
       "collectedAt": "2026-11-12T04:45:22.542189+09:00",
       "firstPublishedAt": "2026-11-11T19:45:22.652761+00:00"
+    },
+    {
+      "id": "aagag-1668889-0",
+      "url": "https://aagag.com/issue/?idx=1668889",
+      "source": "애객",
+      "title": "벡제면 vs 신라면",
+      "publishedAt": "2026-11-12T09:52:27+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5CpU.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "백제면 맛있나"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5CpU.webp"
+      ],
+      "videos": [],
+      "excerpt": "백제면 맛있나",
+      "reportedCommentCount": 11,
+      "commentsPartial": false,
+      "kCount": 34,
+      "commentCount": 11,
+      "laughingComments": 3,
+      "score": 34,
+      "kPerComment": 3.090909090909091,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8970606",
+          "text": "꼬꼬면아닌가"
+        },
+        {
+          "id": "8970613",
+          "text": "고구려면도 있어야지 이러면"
+        },
+        {
+          "id": "8970622",
+          "text": "고구려면도 있었으면 세개다 섞으면 통일신라면 만들수있었는데 ㅋㅋㅋ"
+        },
+        {
+          "id": "8970629",
+          "text": "신라면에 당면을 넣고 끼리면 나당연합면? ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8970643",
+          "text": "그 모든걸 고려해서 만든 고려면!?!?"
+        },
+        {
+          "id": "8970646",
+          "text": "짠~"
+        },
+        {
+          "id": "8970667",
+          "text": "헐!!!"
+        },
+        {
+          "id": "8970647",
+          "text": "조선면도 넣어주세요"
+        },
+        {
+          "id": "8970650",
+          "text": ""
+        },
+        {
+          "id": "8970652",
+          "text": "엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이게 왜 진짜있엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8970618",
+          "text": "그래서 당면도 있었구나~~"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-12T10:10:46.752134+09:00",
+      "sourceTitles": [
+        "백제면 vs 신라면",
+        "백제면 vs 신라면",
+        "벡제면 vs 신라면",
+        "백제면과 신라면이 싸우면?"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-12T01:10:52.167852+00:00",
+      "collectedAt": "2026-11-12T10:10:52.167869+09:00",
+      "firstPublishedAt": "2026-11-12T01:10:52.287769+00:00"
     },
     {
       "id": "aagag-218291-1",
@@ -10672,7 +10761,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
