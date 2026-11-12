@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T10:35:17.045678+00:00",
+  "collectedAt": "2026-11-12T10:39:27.310588+00:00",
   "windowEnd": "2026-11-12T19:35:16.938846+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7870,7 +7870,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7897,6 +7897,126 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1340521-0",
+      "url": "https://aagag.com/issue/?idx=1340521",
+      "source": "애객",
+      "title": "참회하는하는 괴물",
+      "publishedAt": "2026-11-12T19:26:05+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/HhzDq.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/HhzEC.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/HhzEK.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/HhzEP.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/HhzEf.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/HhzDq.webp",
+        "https://i.aagag.com/o/HhzEC.webp",
+        "https://i.aagag.com/o/HhzEK.webp",
+        "https://i.aagag.com/o/HhzEP.webp",
+        "https://i.aagag.com/o/HhzEf.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 11,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 11,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 0.18181818181818182,
+      "portalLinks": [
+        "https://aagag.com/issue/?idx=1340687",
+        "https://aagag.com/issue/?idx=1340521",
+        "https://aagag.com/issue/?idx=1340485",
+        "https://aagag.com/issue/?idx=1340236_1"
+      ],
+      "comments": [
+        {
+          "id": "4958461",
+          "text": "곧 풀버전 올라올듯"
+        },
+        {
+          "id": "4959950",
+          "text": "강호의 도리로 가는 포탈 ⬇️ 참회실의 수녀님 모음집 https://aagag.com/issue/?idx=1340687 참회실의 괴물 https://aagag.com/issue/?idx=1340521 죄를 참회해주는 수녀님 https://aagag.com/issue/?idx=1340485 수녀님이 고해성사 받아주는 만화 https://aagag.com/issue/?idx=1340236_1 ."
+        },
+        {
+          "id": "4958468",
+          "text": "식인이고 퇴마고 물리력 앞에서는 답이 없군"
+        },
+        {
+          "id": "4958500",
+          "text": "(대충 역사적으로도 이게 약이었다 짤)"
+        },
+        {
+          "id": "4958554",
+          "text": "두둥"
+        },
+        {
+          "id": "4958538",
+          "text": "정화(물리)"
+        },
+        {
+          "id": "4958582",
+          "text": "판타지세계관에서 수녀랑 집사는 건드는거 아니다"
+        },
+        {
+          "id": "4959034",
+          "text": "홀리애완동물(조련)"
+        },
+        {
+          "id": "4959060",
+          "text": "응응 옳게됐구나.."
+        },
+        {
+          "id": "4959261",
+          "text": "이과가 사랑에 빠졌기에 증명 해봤다 이 작가 꺼네"
+        },
+        {
+          "id": "8973405",
+          "text": "시리즈물이었네ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-12T19:39:17.994240+09:00",
+      "sourceTitles": [
+        "식인괴물을 갱생시키는 방법",
+        "식인괴물을 갱생시키는 방법",
+        "식인괴물을 갱생시키는 방법",
+        "식인괴물을 갱생시키는 방법",
+        "당신의 죄를 참회하세요.manga",
+        "참회하는 괴물",
+        "올힘 시스터 1~22화 만화",
+        "시스터... 저는 존재해선 안 되는 생물입니다...",
+        "ㅆㄷ)참회실의 수녀2",
+        "ㅆㄷ)참회실의 수녀2"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 10,
+      "sourceTitlesFetchedAt": "2026-11-12T10:39:27.236562+00:00",
+      "collectedAt": "2026-11-12T19:39:27.236579+09:00",
+      "firstPublishedAt": "2026-11-12T10:39:27.338653+00:00"
+    },
     {
       "id": "aagag-1669016-0",
       "url": "https://aagag.com/issue/?idx=1669016",
