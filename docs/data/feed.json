@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T04:58:47.618462+00:00",
+  "collectedAt": "2026-11-12T05:01:23.209285+00:00",
   "windowEnd": "2026-11-12T13:58:47.482244+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5081,6 +5081,81 @@
       "sourceTitlesFetchedAt": "2026-11-12T01:12:48.210244+00:00",
       "collectedAt": "2026-11-12T10:12:48.210259+09:00",
       "firstPublishedAt": "2026-11-12T01:12:48.355488+00:00"
+    },
+    {
+      "id": "aagag-1668951-0",
+      "url": "https://aagag.com/issue/?idx=1668951",
+      "source": "애객",
+      "title": "미용실 갔다온 댕댕이",
+      "publishedAt": "2026-11-12T13:50:51+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L36nS.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "정말로 미용 ??? 염색 …ai ??"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L36nS.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "정말로 미용 ??? 염색 …ai ??",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 6,
+      "laughingComments": 5,
+      "score": 19,
+      "kPerComment": 3.1666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8971842",
+          "text": "왜 이마가 엠인건데?!!ㅋㅋ"
+        },
+        {
+          "id": "8971849",
+          "text": "어? 옆집 형!? 군대가?"
+        },
+        {
+          "id": "8971852",
+          "text": "헤어스타일 AI 필터 멍멍이 한테 적용한듯 ㅋㅋㅋ"
+        },
+        {
+          "id": "8971862",
+          "text": "ㅋㅋㄱㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8971866",
+          "text": "야 눈썹 그려라 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8971874",
+          "text": "누구 닮았는데 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-12T14:01:15.617587+09:00",
+      "sourceTitles": [
+        "미용실 갔다온 댕댕이",
+        "미용실 갔다온 댕댕이",
+        "이발소 갔다온 댕댕이.GIF",
+        "미용실에서 잠깐 졸았는데 이렇게 해줬어요",
+        "미용실 갔다온 댕댕이.mp4",
+        "미용실 다녀온 댕댕이 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-12T05:01:23.126359+00:00",
+      "collectedAt": "2026-11-12T14:01:23.126376+09:00",
+      "firstPublishedAt": "2026-11-12T05:01:23.241583+00:00"
     },
     {
       "id": "aagag-1668870-0",
@@ -10277,7 +10352,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
