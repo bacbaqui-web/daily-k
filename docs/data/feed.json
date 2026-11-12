@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-12",
-  "collectedAt": "2026-11-12T11:44:42.563449+09:00",
-  "windowEnd": "2026-11-12T11:36:45.259223+09:00",
+  "collectedAt": "2026-11-12T02:55:00.313707+00:00",
+  "windowEnd": "2026-11-12T11:55:00.200113+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -10091,79 +10091,6 @@
       "firstPublishedAt": "2026-11-11T04:51:49.802172+00:00"
     },
     {
-      "id": "aagag-1668629-0",
-      "url": "https://aagag.com/issue/?idx=1668629",
-      "source": "애객",
-      "title": "올바르게 자란 네즈코.",
-      "publishedAt": "2026-11-11T11:44:03+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L3uIo.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L3uIo.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 8,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 8,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8966447",
-          "text": ""
-        },
-        {
-          "id": "8966451",
-          "text": "이 배우의 평소 모습.."
-        },
-        {
-          "id": "8966454",
-          "text": ""
-        },
-        {
-          "id": "8966458",
-          "text": "별로입니다."
-        },
-        {
-          "id": "8966461",
-          "text": "니 마음의 별로~"
-        },
-        {
-          "id": "8966453",
-          "text": "https://www.instagram.com/hxriinn?mdxt=MWQzcXc4NWxrOTByNQ=="
-        },
-        {
-          "id": "8966460",
-          "text": "감사합니다 짹짹"
-        },
-        {
-          "id": "8966472",
-          "text": "미츠키.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-11T11:54:42.402109+09:00",
-      "sourceTitles": [
-        "펌)올바르게 자란 카마도 네즈코.jpg",
-        "올바르게 자란 네즈코.",
-        "ㅇㅎ)올바르게 자란 네즈코.jpg",
-        "ㅇㅎ)올바르게 자란 네즈코.jpg"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-11T02:54:48.139459+00:00",
-      "collectedAt": "2026-11-11T11:54:48.139475+09:00",
-      "firstPublishedAt": "2026-11-11T02:54:48.233254+00:00"
-    },
-    {
       "id": "aagag-1668804-0",
       "url": "https://aagag.com/issue/?idx=1668804",
       "source": "애객",
@@ -10959,9 +10886,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 373,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
