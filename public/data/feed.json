@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-12T23:17:17.576984+00:00",
+  "collectedAt": "2026-11-12T23:18:16.794750+00:00",
   "windowEnd": "2026-11-13T08:17:17.476769+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5956,7 +5956,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -5983,6 +5983,93 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1669154-0",
+      "url": "https://aagag.com/issue/?idx=1669154",
+      "source": "애객",
+      "title": "의붓엄마가 자식을 위해 노력하는 만화.manhwa",
+      "publishedAt": "2026-11-13T08:12:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P5q.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P5s.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P5v.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P5y.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P5z.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P61.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P63.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5P65.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5P5q.webp",
+        "https://i.aagag.com/o/L5P5s.webp",
+        "https://i.aagag.com/o/L5P5v.webp",
+        "https://i.aagag.com/o/L5P5y.webp",
+        "https://i.aagag.com/o/L5P5z.webp",
+        "https://i.aagag.com/o/L5P61.webp",
+        "https://i.aagag.com/o/L5P63.webp",
+        "https://i.aagag.com/o/L5P65.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8974851",
+          "text": "꺼토미?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-13T08:18:03.816186+09:00",
+      "sourceTitles": [
+        "의붓엄마가 자식을 위해 노력하는 만화.manhwa",
+        "의붓엄마가 자식을 위해 노력하는 만화.manhwa",
+        "의붓엄마가 자식을 위해 노력하는 만화.manhwa",
+        "흔한 의붓엄마 전개"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-12T23:18:16.725483+00:00",
+      "collectedAt": "2026-11-13T08:18:16.725499+09:00",
+      "firstPublishedAt": "2026-11-12T23:18:16.820351+00:00"
+    },
     {
       "id": "aagag-1009882-1",
       "url": "https://aagag.com/issue/?idx=1009882_1",
