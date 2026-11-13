@@ -1,6 +1,153 @@
 {
-  "editionCount": 115,
+  "editionCount": 116,
   "issues": [
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "telecom-platform-user-protection-evaluation-reform-2026",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "2027년도 평가부터 적용할 기준 사전 공개·선별 평가와 시범평가 폐지 계획이 발표됐습니다. 실제 효과는 미확인입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "발표",
+        "storyId": "20261113-pm-pol-01",
+        "title": "방미통위, 통신·플랫폼 이용자 보호 평가 개편…신규 사업자 시범평가 폐지"
+      },
+      "path": "telecom-platform-user-protection-evaluation-reform-2026.json",
+      "title": "전기통신사업자 이용자 보호업무 평가 운영 개편"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "russian-war-deaths-leaked-statistics-ft-analysis-2026",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "FT의 최소 45만명 추산이 보도됐습니다. 공식 확정치와 실제 전체 사망 규모는 미확인입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "보도",
+        "storyId": "20261113-pm-int-01",
+        "title": "FT, 유출 러시아 통계청 자료 분석…우크라이나전 러시아 측 사망 최소 45만명 추산"
+      },
+      "path": "russian-war-deaths-leaked-statistics-ft-analysis-2026.json",
+      "title": "유출 러시아 통계청 자료에 대한 FT의 전쟁 사망자 분석"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "national-high-pathogenic-avian-influenza-risk-advisory-2026",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "전국 위험주의보와 누적 확인 현황이 발표됐습니다. 개별 농장 결과와 추가 확산·방역 효과는 미확인입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "발표",
+        "storyId": "20261113-pm-safe-01",
+        "title": "검역본부, 고병원성 AI 위험주의보 발령…가금농장 방역 강화"
+      },
+      "path": "national-high-pathogenic-avian-influenza-risk-advisory-2026.json",
+      "title": "전국 고병원성 AI 위험주의보와 농장 방역 강화"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "microsoft-365-global-service-outage-2026-11",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "02시54분께 첫 공지 이후 16시에도 일부 기능 장애가 보도됐습니다. 최종 복구와 원인은 미확인입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "보도",
+        "storyId": "20261113-pm-tech-01",
+        "title": "MS 365 대규모 장애…국내외 기업·학교·정부 업무 차질"
+      },
+      "path": "microsoft-365-global-service-outage-2026-11.json",
+      "title": "2026년 11월 MS 365 대규모 장애와 복구"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "mandatory-tender-offer-legislation-2026",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "대통령이 공개매수 부담과 M&A 활성화에 관한 입장을 밝혔습니다. 최종 도입 방식과 입법은 미확정입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "검토",
+        "storyId": "20261113-pm-eco-01",
+        "title": "대통령, 의무공개매수 논의서 M&A 활성화 강조…도입 방식은 미확정"
+      },
+      "path": "mandatory-tender-offer-legislation-2026.json",
+      "title": "의무공개매수제 도입 방식과 일반주주 보호 논의"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "historical-military-state-compensation-payment-delays-2026",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "미지급 피해자 4637명·1500억원 이상과 내년도 예산안 503억원이 보도됐습니다. 지급 일정은 미확인입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "보도",
+        "storyId": "20261113-pm-soc-01",
+        "title": "과거사 군 배상 판결 피해자 4637명, 예산 부족으로 배상금 지급 지연"
+      },
+      "path": "historical-military-state-compensation-payment-delays-2026.json",
+      "title": "과거사 군 배상 판결의 지급 지연과 예산 부족"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "flak-corporation-mysc-investment-2026",
+      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "MYSC 투자 유치가 보도됐습니다. 정확한 계약·납입일과 투자 규모, 창작자 수익 개선은 미확인입니다.",
+        "editionId": "2026-11-13-pm",
+        "stage": "보도",
+        "storyId": "20261113-pm-web-01",
+        "title": "인스타툰 창작자 사업화 기업 플락코퍼레이션, MYSC 투자 유치"
+      },
+      "path": "flak-corporation-mysc-investment-2026.json",
+      "title": "플락코퍼레이션 MYSC 투자 유치와 인스타툰 창작자 사업화"
+    },
     {
       "categories": [
         "국제·외교",
@@ -10899,7 +11046,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 850,
+  "storyCount": 857,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-13T09:23:17.343407+09:00"
+  "updatedAt": "2026-11-13T21:15:24.832050+09:00"
 }
