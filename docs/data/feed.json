@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-13T20:37:56.850872+00:00",
+  "collectedAt": "2026-11-13T20:39:54.838545+00:00",
   "windowEnd": "2026-11-14T05:37:56.746375+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7558,6 +7558,55 @@
       "firstPublishedAt": "2026-11-13T06:33:35.930358+00:00"
     },
     {
+      "id": "aagag-1669394-0",
+      "url": "https://aagag.com/issue/?idx=1669394",
+      "source": "애객",
+      "title": "ㅇㅎ) 돌탑 쌓는 누나",
+      "publishedAt": "2026-11-14T05:18:13+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5PdH.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5PdH.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8979199",
+          "text": "꺼먼거 꺼먼거!!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T05:39:48.842680+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 유두가 보일랑 말랑하는 누나",
+        "ㅇㅎ) 돌탑 쌓는 누나",
+        "ㅇㅎ) 돌탑 쌓는 누나",
+        "ㅇㅎ)힐링되는 아름다운 바다풍경"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-13T20:39:54.743398+00:00",
+      "collectedAt": "2026-11-14T05:39:54.743416+09:00",
+      "firstPublishedAt": "2026-11-13T20:39:54.874136+00:00"
+    },
+    {
       "id": "aagag-1669379-0",
       "url": "https://aagag.com/issue/?idx=1669379",
       "source": "애객",
@@ -7834,7 +7883,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
