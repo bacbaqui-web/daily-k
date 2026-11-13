@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T06:00:30.766625+00:00",
+  "collectedAt": "2026-11-13T06:02:08.925215+00:00",
   "windowEnd": "2026-11-13T15:00:30.645077+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1304,6 +1304,83 @@
       "sourceTitlesFetchedAt": "2026-11-12T20:28:36.297744+00:00",
       "collectedAt": "2026-11-13T05:28:36.297784+09:00",
       "firstPublishedAt": "2026-11-12T20:28:36.399996+00:00"
+    },
+    {
+      "id": "aagag-1669245-0",
+      "url": "https://aagag.com/issue/?idx=1669245",
+      "source": "애객",
+      "title": "젠슨황 스타일",
+      "publishedAt": "2026-11-13T14:44:36+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5WPv.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5WPv.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 40,
+      "commentCount": 8,
+      "laughingComments": 6,
+      "score": 40,
+      "kPerComment": 5.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8976861",
+          "text": "이런거 대부분 중국에서 만들어지는걸로 알고있는데 왜 전부 k pop이냐 ㅌㅋㄴ"
+        },
+        {
+          "id": "8976864",
+          "text": "C-POP은 ㅈ같아서 아무도 모르니까"
+        },
+        {
+          "id": "8976871",
+          "text": "형 걔네도 숓츠댄스 노래 대부분이 한국노래임ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8976863",
+          "text": "젠슨황도 몰랐겠지 본인이 만든 물건이 자신을 조롱하는 데에 풀가동 될지"
+        },
+        {
+          "id": "8976867",
+          "text": "와 싸이랑 유재석 말고 다른 사람들이 추는거 보니까 되게 촐싹저리고 꼴뵈기 싫은 춤이었구나ㅋㅋㅋ"
+        },
+        {
+          "id": "8976877",
+          "text": "개웃기네ㅋㅋㅋㅋㅋㅋㅋㅋ ㅠㅠㅠㅠㅠㅠ 내 계좌도 웃겨....ㅠㅠ"
+        },
+        {
+          "id": "8976879",
+          "text": "ㅋㅋㅋㅋㅋㅋ머스크 ㅅㅂ 야 너 웃기다"
+        },
+        {
+          "id": "8976881",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아 ㅅㅂ 기술발전 개쩌네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-13T15:01:55.528608+09:00",
+      "sourceTitles": [
+        "젠슨황 강남스타일...mp4",
+        "또 나왔당",
+        "젠슨황 스타일",
+        "젠슨황 스타일"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-13T06:02:08.858395+00:00",
+      "collectedAt": "2026-11-13T15:02:08.858436+09:00",
+      "firstPublishedAt": "2026-11-13T06:02:08.953590+00:00"
     },
     {
       "id": "aagag-1647654-0",
@@ -6728,7 +6805,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
