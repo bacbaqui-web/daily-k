@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T04:00:30.563922+00:00",
+  "collectedAt": "2026-11-13T04:03:43.323363+00:00",
   "windowEnd": "2026-11-13T13:00:30.460016+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1798,6 +1798,79 @@
       "sourceTitlesFetchedAt": "2026-11-12T09:47:09.318917+00:00",
       "collectedAt": "2026-11-12T18:47:09.318946+09:00",
       "firstPublishedAt": "2026-11-12T09:47:09.451245+00:00"
+    },
+    {
+      "id": "aagag-1669218-0",
+      "url": "https://aagag.com/issue/?idx=1669218",
+      "source": "애객",
+      "title": "버블에 숨어있던 스파이 색출하는 이광수",
+      "publishedAt": "2026-11-13T12:42:56+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5WJ7.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5WJ9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5WJA.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5WJ7.webp",
+        "https://i.aagag.com/o/L5WJ9.webp",
+        "https://i.aagag.com/o/L5WJA.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 29,
+      "commentCount": 5,
+      "laughingComments": 5,
+      "score": 29,
+      "kPerComment": 5.8,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8976209",
+          "text": "ㅋㅋㅋㅋ 남자였고"
+        },
+        {
+          "id": "8976212",
+          "text": "양세찬ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8976220",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8976242",
+          "text": "양세찬 머리채 뜯기는거 아니야??ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8976255",
+          "text": "핑계고서 얘기 했었는데 몰랐어? ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-13T13:03:29.492998+09:00",
+      "sourceTitles": [
+        "이광수 버블 근황.jpg",
+        "이광수 실시간 피가 거꾸로 솟구치는중(w양세찬)",
+        "이광수 버블 근황.jpg",
+        "버블에 숨어있던 스파이 색출하는 이광수"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-13T04:03:43.256216+00:00",
+      "collectedAt": "2026-11-13T13:03:43.256231+09:00",
+      "firstPublishedAt": "2026-11-13T04:03:43.350640+00:00"
     },
     {
       "id": "aagag-1346155-1",
@@ -6723,7 +6796,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
