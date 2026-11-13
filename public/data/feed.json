@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T11:55:41.786780+00:00",
+  "collectedAt": "2026-11-13T11:57:57.190443+00:00",
   "windowEnd": "2026-11-13T20:55:41.680318+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7344,6 +7344,60 @@
       "firstPublishedAt": "2026-11-12T12:57:47.325524+00:00"
     },
     {
+      "id": "aagag-1669331-0",
+      "url": "https://aagag.com/issue/?idx=1669331",
+      "source": "애객",
+      "title": "ㅇㅎ) 가볍게 뛰는 권은비",
+      "publishedAt": "2026-11-13T20:51:16+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5ao1.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5ao1.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8978426",
+          "text": "은비님 뛰어오는 모습을 보니 1황이 누구였는지 깨달아지더라. 꽃이 피고서야 봄인줄 알았다."
+        },
+        {
+          "id": "8978428",
+          "text": "가볍고 묵직한"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-13T20:57:43.597593+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 가볍게 뛰는 권은비",
+        "뛰어오는 모습도 야름다운 은비",
+        "ㅇㅎ?) 그냥 달려가는 권은비.mp4",
+        "빼빼로 나눠주는 권은비",
+        "빼빼로 나눠주는 권은비"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-13T11:57:57.064529+00:00",
+      "collectedAt": "2026-11-13T20:57:57.064546+09:00",
+      "firstPublishedAt": "2026-11-13T11:57:57.266499+00:00"
+    },
+    {
       "id": "aagag-1669252-0",
       "url": "https://aagag.com/issue/?idx=1669252",
       "source": "애객",
@@ -7787,7 +7841,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
