@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T00:34:12.036578+09:00",
-  "windowEnd": "2026-11-14T00:27:35.749319+09:00",
+  "collectedAt": "2026-11-13T15:44:29.745266+00:00",
+  "windowEnd": "2026-11-14T00:44:29.640535+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7849,87 +7849,12 @@
       "sourceTitlesFetchedAt": "2026-11-12T20:27:18.630251+00:00",
       "collectedAt": "2026-11-13T05:27:18.630269+09:00",
       "firstPublishedAt": "2026-11-12T20:27:18.743397+00:00"
-    },
-    {
-      "id": "aagag-1669093-0",
-      "url": "https://aagag.com/issue/?idx=1669093",
-      "source": "애객",
-      "title": "GTA 워킹하는 사나",
-      "publishedAt": "2026-11-13T00:34:36+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5FjY.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5IUc.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5IV0.mp4",
-          "poster": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5IRI.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5IRI.webp"
-      ],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5FjY.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L5IUc.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L5IV0.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-13T00:35:51.615362+09:00",
-      "sourceTitles": [
-        "GTA 워킹하는 사나 (트와이스)",
-        "130억짜리 주얼리 세트 착용한 사나",
-        "ㅇㅎ?) 트와이스 사나 여자력 근황",
-        "GTA 워킹하는 사나",
-        "요즘 일본에서 잘나가는 트와이스 사나",
-        "요즘 배우 느낌 나는 트와이스 사나",
-        "트와이스 사나",
-        "GTA 워킹하는 사나"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 8,
-      "sourceTitlesFetchedAt": "2026-11-12T15:35:58.145293+00:00",
-      "collectedAt": "2026-11-13T00:35:58.145309+09:00",
-      "firstPublishedAt": "2026-11-12T15:35:58.266875+00:00"
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
