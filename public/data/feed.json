@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-13T23:17:31.219413+00:00",
+  "collectedAt": "2026-11-13T23:18:28.760176+00:00",
   "windowEnd": "2026-11-14T08:17:31.117140+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7812,6 +7812,64 @@
       "firstPublishedAt": "2026-11-12T23:37:06.065495+00:00"
     },
     {
+      "id": "aagag-1669418-0",
+      "url": "https://aagag.com/issue/?idx=1669418",
+      "source": "애객",
+      "title": "ㅇㅎ) 서양 카이로프랙틱",
+      "publishedAt": "2026-11-14T08:14:33+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5YTd.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5YTd.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8979396",
+          "text": "ლ(◕ᗜ◕ლ)"
+        },
+        {
+          "id": "8979400",
+          "text": "NICE"
+        },
+        {
+          "id": "8979401",
+          "text": "급나 이뿌네요잉"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T08:18:21.329736+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 안마받는 누나",
+        "서양 왕찌찌녀 안마 근황",
+        "ㅇㅎ) 서양 카이로프랙틱",
+        "ㅇㅎ) 서양 카이로프랙틱",
+        "몸에서 뼈 소리 나는 눈나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-13T23:18:28.685303+00:00",
+      "collectedAt": "2026-11-14T08:18:28.685321+09:00",
+      "firstPublishedAt": "2026-11-13T23:18:28.790924+00:00"
+    },
+    {
       "id": "aagag-1669311-0",
       "url": "https://aagag.com/issue/?idx=1669311",
       "source": "애객",
@@ -8279,7 +8337,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
