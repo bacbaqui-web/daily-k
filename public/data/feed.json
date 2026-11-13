@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T04:53:52.535466+00:00",
+  "collectedAt": "2026-11-13T04:54:56.955551+00:00",
   "windowEnd": "2026-11-13T13:53:52.432470+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6253,6 +6253,87 @@
       "firstPublishedAt": "2026-11-12T14:05:44.385984+00:00"
     },
     {
+      "id": "aagag-1669236-0",
+      "url": "https://aagag.com/issue/?idx=1669236",
+      "source": "애객",
+      "title": "조이",
+      "publishedAt": "2026-11-13T13:52:07+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KnYEG.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KnYDq.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KnYF4.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KnYEc.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KnYEG.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KnYDq.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KnYF4.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KnYEc.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8976621",
+          "text": "joy를 표하십시오"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-13T13:54:44.737403+09:00",
+      "sourceTitles": [
+        "조이 근황.gif",
+        "ㅇㅎ) 조이 레전드 무대",
+        "ㅇㅎ?) 레드벨벳 조이...gif",
+        "조이",
+        "팬콘에서 핫팬츠 레드벨벳 조이",
+        "레드벨벳 조이"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-13T04:54:56.882580+00:00",
+      "collectedAt": "2026-11-13T13:54:56.882598+09:00",
+      "firstPublishedAt": "2026-11-13T04:54:56.985936+00:00"
+    },
+    {
       "id": "aagag-1669136-0",
       "url": "https://aagag.com/issue/?idx=1669136",
       "source": "애객",
@@ -6526,7 +6607,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
