@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T10:17:20.688547+00:00",
+  "collectedAt": "2026-11-13T10:18:55.601653+00:00",
   "windowEnd": "2026-11-13T19:17:20.570779+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7476,6 +7476,63 @@
       "firstPublishedAt": "2026-11-12T12:06:19.178552+00:00"
     },
     {
+      "id": "aagag-1669311-0",
+      "url": "https://aagag.com/issue/?idx=1669311",
+      "source": "애객",
+      "title": "이 누나를 집중해서 봐바",
+      "publishedAt": "2026-11-13T19:12:43+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5ZXL.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5ZXL.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8978073",
+          "text": "뀨뀨 크네"
+        },
+        {
+          "id": "8978074",
+          "text": "손이 안 보여요 눈나"
+        },
+        {
+          "id": "8978076",
+          "text": "물고기 낚는 미끼말고 남자 낚는 미끼도 갖고 계시네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-13T19:18:48.234579+09:00",
+      "sourceTitles": [
+        "이것 좀 보라는 누나",
+        "이 누나를 집중해서 봐바",
+        "이것 좀 보라는 누나.mp4",
+        "ㅇㅎ) 이것 좀 보라는 누나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-13T10:18:55.513068+00:00",
+      "collectedAt": "2026-11-13T19:18:55.513085+09:00",
+      "firstPublishedAt": "2026-11-13T10:18:55.630441+00:00"
+    },
+    {
       "id": "aagag-1669075-0",
       "url": "https://aagag.com/issue/?idx=1669075",
       "source": "애객",
@@ -7979,7 +8036,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
