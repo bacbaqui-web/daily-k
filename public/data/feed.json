@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T21:03:50.232853+09:00",
-  "windowEnd": "2026-11-13T20:55:41.680318+09:00",
+  "collectedAt": "2026-11-13T12:14:07.897344+00:00",
+  "windowEnd": "2026-11-13T21:14:07.789902+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7127,106 +7127,6 @@
       "firstPublishedAt": "2026-11-12T23:37:06.065495+00:00"
     },
     {
-      "id": "aagag-1669060-0",
-      "url": "https://aagag.com/issue/?idx=1669060",
-      "source": "애객",
-      "title": "드림캐쳐 수아 아슬아슬한 의상2",
-      "publishedAt": "2026-11-12T20:51:00+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L57wn.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L57wM.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L57wY.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L57wh.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L57wA.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L57wn.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L57wM.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L57wY.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L57wh.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L57wA.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 4,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8973673",
-          "text": "1은 어디 가면 볼 수 있습니까아아앙"
-        },
-        {
-          "id": "8973674",
-          "text": "그건 그렇고 드림캐쳐 아직 활동 하는군요"
-        },
-        {
-          "id": "8973686",
-          "text": "댓글보고 알아차림"
-        },
-        {
-          "id": "8973677",
-          "text": "요즘 아이돌 수위가 이정도까지 온건가요? 옛날 단란 수위보다 높은거 같은데?? 세상이 점점 살만해지고 있구만."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-12T21:06:07.914602+09:00",
-      "sourceTitles": [
-        "드림캐쳐 수아 아슬아슬한 의상2",
-        "ㅇㅎ?) 드림캐쳐 수아...gif",
-        "드림캐쳐 수아"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-12T12:06:19.021751+00:00",
-      "collectedAt": "2026-11-12T21:06:19.021769+09:00",
-      "firstPublishedAt": "2026-11-12T12:06:19.178552+00:00"
-    },
-    {
       "id": "aagag-1669311-0",
       "url": "https://aagag.com/issue/?idx=1669311",
       "source": "애객",
@@ -7841,9 +7741,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
