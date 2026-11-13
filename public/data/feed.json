@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T01:56:41.269968+00:00",
+  "collectedAt": "2026-11-13T02:03:42.944577+00:00",
   "windowEnd": "2026-11-13T10:55:08.939624+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3574,55 +3574,6 @@
       "firstPublishedAt": "2026-11-13T00:25:36.009213+00:00"
     },
     {
-      "id": "aagag-1668901-0",
-      "url": "https://aagag.com/issue/?idx=1668901",
-      "source": "애객",
-      "title": "???: 당신은 왜 중국어를 할 줄 아나요?",
-      "publishedAt": "2026-11-12T10:57:03+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5I4v.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5I4v.webp"
-      ],
-      "videos": [],
-      "excerpt": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 1,
-      "laughingComments": 1,
-      "score": 11,
-      "kPerComment": 11.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8970998",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㄱㅋㅋㅋㅋ아씨.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-12T11:03:20.807357+09:00",
-      "sourceTitles": [
-        "??? :\"당신은 왜 중국어를 할수 있는건가요?\"",
-        "??? :\"당신은 왜 중국어를 할수 있는건가요?\"",
-        "???: 당신은 왜 중국어를 할 줄 아나요?",
-        "???: 당신은 왜 중국어를 할 줄 아나요?"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-12T02:03:31.660992+00:00",
-      "collectedAt": "2026-11-12T11:03:31.661009+09:00",
-      "firstPublishedAt": "2026-11-12T02:03:31.767328+00:00"
-    },
-    {
       "id": "aagag-1668929-0",
       "url": "https://aagag.com/issue/?idx=1668929",
       "source": "애객",
@@ -6419,7 +6370,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 22,
+  "candidateCount": 86,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
