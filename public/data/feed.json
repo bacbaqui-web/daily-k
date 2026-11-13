@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-13T23:19:05.436974+00:00",
+  "collectedAt": "2026-11-13T23:19:40.397897+00:00",
   "windowEnd": "2026-11-14T08:17:31.117140+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8539,6 +8539,59 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1669417-0",
+      "url": "https://aagag.com/issue/?idx=1669417",
+      "source": "애객",
+      "title": "4컷만화",
+      "publishedAt": "2026-11-14T08:08:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/FPeer.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "굿모닝."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/FPeer.webp"
+      ],
+      "videos": [],
+      "excerpt": "굿모닝.",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8979383",
+          "text": "boobs kind of mother"
+        },
+        {
+          "id": "8979389",
+          "text": "아빠맞냐"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T08:19:32.843879+09:00",
+      "sourceTitles": [
+        "4컷 만화",
+        "4컷 만화",
+        "4컷만화",
+        "4컷만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-13T23:19:40.323202+00:00",
+      "collectedAt": "2026-11-14T08:19:40.323220+09:00",
+      "firstPublishedAt": "2026-11-13T23:19:40.426034+00:00"
+    },
     {
       "id": "aagag-1660057-0",
       "url": "https://aagag.com/issue/?idx=1660057",
