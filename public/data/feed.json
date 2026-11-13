@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T06:48:08.497415+09:00",
-  "windowEnd": "2026-11-14T06:42:34.424539+09:00",
+  "collectedAt": "2026-11-13T21:58:33.836439+00:00",
+  "windowEnd": "2026-11-14T06:58:33.731541+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8175,59 +8175,12 @@
       "sourceTitlesFetchedAt": "2026-11-13T16:31:07.603254+00:00",
       "collectedAt": "2026-11-14T01:31:07.603273+09:00",
       "firstPublishedAt": "2026-11-13T16:31:07.699844+00:00"
-    },
-    {
-      "id": "aagag-1669136-0",
-      "url": "https://aagag.com/issue/?idx=1669136",
-      "source": "애객",
-      "title": "ㅇㅎ) 침대에서 스트레칭 하는 눈나",
-      "publishedAt": "2026-11-13T06:44:05+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L4mVz.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L4mVz.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": ".",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-13T06:54:25.769394+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 침대에서 스트레칭 하는 눈나",
-        "피곤한 몸을 풀어주는 스트레칭.mp4",
-        "ㅇㅎ) 잠들기전 하기 좋은 스트레칭"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-12T21:54:37.424998+00:00",
-      "collectedAt": "2026-11-13T06:54:37.425013+09:00",
-      "firstPublishedAt": "2026-11-12T21:54:37.524720+00:00"
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
