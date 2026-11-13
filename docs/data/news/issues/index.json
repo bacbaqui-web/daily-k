@@ -1,6 +1,158 @@
 {
-  "editionCount": 114,
+  "editionCount": 115,
   "issues": [
+    {
+      "categories": [
+        "국제·외교",
+        "국제정세"
+      ],
+      "eventCount": 16,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "us-iran-negotiations",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "트럼프가 합의 불필요 입장과 밴스의 역할 변경 지시를 공개했습니다. 외교 접촉 전체의 중단은 미확인입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "후속",
+        "storyId": "20261113-am-int-01",
+        "title": "트럼프, 이란 합의 불필요 주장…밴스에 국내 문제 전담 지시"
+      },
+      "path": "us-iran-negotiations.json",
+      "title": "미국·이란 협상과 외교적 조치"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "scnu-animation-webtoon-production-support-2026",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "제작지원 추가 모집과 접수 개시가 확인됐습니다. 선정·지급·제작 완료는 미확인입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "발표",
+        "storyId": "20261113-am-web-01",
+        "title": "국립순천대, 애니메이션·웹툰 제작지원 추가 모집"
+      },
+      "path": "scnu-animation-webtoon-production-support-2026.json",
+      "title": "국립순천대 애니메이션·웹툰 제작지원 추가 모집"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "ophthalmic-ointment-supply-disruptions-2026",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "학회 조사와 정부 수급 대응이 보도됐습니다. 약가 조정과 공급 정상화는 미확인입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "보도",
+        "storyId": "20261113-am-safe-01",
+        "title": "주요 안연고 제조·수입 중단…치료 공백 우려에 정부 약가 조정 검토"
+      },
+      "path": "ophthalmic-ointment-supply-disruptions-2026.json",
+      "title": "안연고 제조·수입 중단과 치료 접근성·수급 대응"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "north-korea-tongchon-naval-base-construction-2026",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "통천 기지 건설과 현장 시찰이 공개됐습니다. 완공·함정 배치는 미확인입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "보도",
+        "storyId": "20261113-am-pol-01",
+        "title": "북한, 통천 해군기지 건설 공개…김정은 현장 시찰"
+      },
+      "path": "north-korea-tongchon-naval-base-construction-2026.json",
+      "title": "북한 통천 해군기지 건설과 김정은 현장 시찰"
+    },
+    {
+      "categories": [
+        "국내 정책·사회",
+        "국내·정책",
+        "사회이슈",
+        "정치·정책"
+      ],
+      "eventCount": 11,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "korea-investigation-prosecution-separation",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "출범 첫 한 달 검사 퇴직 125명과 기관별 이동이 보도됐습니다. 충원과 업무 영향은 미확인입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "후속",
+        "storyId": "20261113-am-soc-01",
+        "title": "공소청 출범 한 달간 검사 125명 퇴직…86명은 중수청 이동"
+      },
+      "path": "korea-investigation-prosecution-separation.json",
+      "title": "수사·기소 분리와 공소청·중수청 출범"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "korea-france-nuclear-joint-committee-2026",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "공동위 개최와 협력 범위 확대 추진이 보도됐습니다. 최종 결과와 약정 개정 완료는 미확인입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "보도",
+        "storyId": "20261113-am-tech-01",
+        "title": "한·프랑스 원자력공동위 개최…차세대 원자로·핵주기 협력 확대 추진"
+      },
+      "path": "korea-france-nuclear-joint-committee-2026.json",
+      "title": "한·프랑스 원자력공동위의 차세대 원자로·핵주기 협력"
+    },
+    {
+      "categories": [
+        "경제·금리",
+        "경제·생활경제"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-17",
+      "id": "fed-policy-2026",
+      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "lastCoveredDate": "2026-11-13",
+      "latest": {
+        "archive": false,
+        "change": "2027년 정책결정 회의를 7회로 하는 일정이 공개됐습니다. 전체 회의는 8회이며 향후 금리 결정은 미확정입니다.",
+        "editionId": "2026-11-13-am",
+        "stage": "후속",
+        "storyId": "20261113-am-eco-01",
+        "title": "연준, 내년 금리결정 회의 7회로 축소…전체 회의는 8회 유지"
+      },
+      "path": "fed-policy-2026.json",
+      "title": "미국 연준 금리 결정과 물가 판단"
+    },
     {
       "categories": [
         "과학·기술"
@@ -1785,28 +1937,6 @@
     },
     {
       "categories": [
-        "국제·외교",
-        "국제정세"
-      ],
-      "eventCount": 15,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "us-iran-negotiations",
-      "lastCoveredAt": "2026-11-06T09:24:36.701040+09:00",
-      "lastCoveredDate": "2026-11-06",
-      "latest": {
-        "archive": false,
-        "change": "핵 프로그램 관련 구체적인 중재안 검토가 보도됐습니다. 협상 재개와 합의는 미확정입니다.",
-        "editionId": "2026-11-06-am",
-        "stage": "후속",
-        "storyId": "20261106-am-int-01",
-        "title": "이란, 핵 프로그램 중재안 검토 보도…협상 재개·합의는 미확정"
-      },
-      "path": "us-iran-negotiations.json",
-      "title": "미국·이란 협상과 외교적 조치"
-    },
-    {
-      "categories": [
         "웹툰산업"
       ],
       "eventCount": 1,
@@ -3010,29 +3140,6 @@
     },
     {
       "categories": [
-        "국내 정책·사회",
-        "국내·정책",
-        "정치·정책"
-      ],
-      "eventCount": 10,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "korea-investigation-prosecution-separation",
-      "lastCoveredAt": "2026-11-01T21:20:50.374300+09:00",
-      "lastCoveredDate": "2026-11-01",
-      "latest": {
-        "archive": false,
-        "change": "기관 간 권한·사건 이첩과 사실관계 확인 절차의 쟁점이 보도됐습니다. 조정 결과와 개별 피해는 미확정입니다.",
-        "editionId": "2026-11-01-pm",
-        "stage": "후속",
-        "storyId": "20261101-pm-pol-01",
-        "title": "새 형사사법체계, 리니언시 권한·사건 이첩 기준 혼선 보도"
-      },
-      "path": "korea-investigation-prosecution-separation.json",
-      "title": "수사·기소 분리와 공소청·중수청 출범"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 1,
@@ -3839,28 +3946,6 @@
       },
       "path": "financial-investment-crypto-hacks-response-2026.json",
       "title": "금융투자·가상자산 업계 침해사고와 공동 대응"
-    },
-    {
-      "categories": [
-        "경제·금리",
-        "경제·생활경제"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-17",
-      "id": "fed-policy-2026",
-      "lastCoveredAt": "2026-10-29T09:14:54.485338+09:00",
-      "lastCoveredDate": "2026-10-29",
-      "latest": {
-        "archive": false,
-        "change": "기준금리 연 3.75∼4.00% 동결과 10대 2 표결이 확인됐습니다. 다음 회의 결정은 미확정입니다.",
-        "editionId": "2026-10-29-am",
-        "stage": "결과",
-        "storyId": "20261029-am-eco-01",
-        "title": "미 연준, 기준금리 연 3.75∼4.00% 동결"
-      },
-      "path": "fed-policy-2026.json",
-      "title": "미국 연준 금리 결정과 물가 판단"
     },
     {
       "categories": [
@@ -10814,7 +10899,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 843,
+  "storyCount": 850,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-12T21:15:38.833142+09:00"
+  "updatedAt": "2026-11-13T09:23:17.343407+09:00"
 }

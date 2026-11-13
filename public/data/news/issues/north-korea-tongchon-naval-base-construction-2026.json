@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-13/am.json",
+      "category": "정치·정책",
+      "change": "통천 기지 건설과 현장 시찰이 공개됐습니다. 완공·함정 배치는 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-13T09:23:17.343407+09:00",
+      "coveredOn": "2026-11-13",
+      "edition": "am",
+      "editionDate": "2026-11-13",
+      "editionId": "2026-11-13-am",
+      "eventAt": null,
+      "eventDate": "2026-11-11",
+      "eventEndDate": null,
+      "eventTimeNote": "김정은의 시찰은 11월 11일이며 북한 매체의 공개는 12일입니다. 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Pyongyang",
+      "followUp": null,
+      "id": "2026-11-13-am/20261113-am-pol-01",
+      "keyFacts": {
+        "건설 장소": "북한 강원도 통천항 인근",
+        "공개일": "2026-11-12",
+        "시찰일": "2026-11-11",
+        "완공·함정 배치": "미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-12T12:10:32+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "JTBC",
+          "publishedAt": "2026-11-12T12:10:32+09:00",
+          "title": "북, MDL 60㎞ 인근에 새 해군기지 건설…김정은 시찰",
+          "url": "https://n.news.naver.com/mnews/article/437/0000520395",
+          "verifiedAt": "2026-11-13T09:19:28.488222+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261113-am-pol-01",
+      "summary": [
+        "북한 매체가 김정은의 해군기지 건설 현장 시찰을 공개하고 기지가 강원도 통천에 건설 중이라고 밝혔습니다. 구체적인 완공 시점은 공개하지 않았습니다.",
+        "JTBC에 따르면 김정은은 11일 현장을 방문해 공사 진척을 보고받고 배치 지침과 건설 인력 보강 등을 지시했습니다. 북한이 설명한 군사적 의미와 실제 전력 확보는 구분해야 합니다.",
+        "군사분계선에서 직선거리 약 60㎞인 동해안의 해군 기반시설로 국내 안보에 관련됩니다. 신형 함정의 배치는 전망이며 기지 완공과 작전 능력 확보는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "북한, 통천 해군기지 건설 공개…김정은 현장 시찰",
+      "uncertainty": "북한 매체 인용 보도이며 완공 시점과 실제 함정 배치·작전 능력은 미확정입니다."
+    }
+  ],
+  "id": "north-korea-tongchon-naval-base-construction-2026",
+  "schemaVersion": 1,
+  "title": "북한 통천 해군기지 건설과 김정은 현장 시찰",
+  "updatedAt": "2026-11-13T09:23:17.343407+09:00"
+}
