@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-13",
-  "collectedAt": "2026-11-13T23:01:59.685043+09:00",
-  "windowEnd": "2026-11-13T22:57:15.545536+09:00",
+  "collectedAt": "2026-11-13T14:12:18.521702+00:00",
+  "windowEnd": "2026-11-13T23:12:18.419889+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7618,62 +7618,6 @@
       "firstPublishedAt": "2026-11-13T06:33:35.930358+00:00"
     },
     {
-      "id": "aagag-1669084-0",
-      "url": "https://aagag.com/issue/?idx=1669084",
-      "source": "애객",
-      "title": "엘프와 가볍게 사귀는 만화",
-      "publishedAt": "2026-11-12T22:56:02+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5R9E.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5R9G.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5R9E.webp",
-        "https://i.aagag.com/o/L5R9G.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8974097",
-          "text": "엘프입장에서도 300년은 꽤 긴시간 아닌가? 어흐"
-        },
-        {
-          "id": "8974104",
-          "text": "인간한텐 평생이네.... 반려에겐 평생.. 반려동물?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-12T23:05:36.647001+09:00",
-      "sourceTitles": [
-        "엘프누나랑 가볍게 만나는.manhwa",
-        "ㅇㅎ?) 엘프와 가볍게 사귀는 만화",
-        "가볍게 만나는 엘프.jpg",
-        "가볍게 만나는 엘프.jpg",
-        "엘프와 가볍게 사귀는 만화"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-12T14:05:44.288223+00:00",
-      "collectedAt": "2026-11-12T23:05:44.288240+09:00",
-      "firstPublishedAt": "2026-11-12T14:05:44.385984+00:00"
-    },
-    {
       "id": "aagag-1669236-0",
       "url": "https://aagag.com/issue/?idx=1669236",
       "source": "애객",
@@ -7983,9 +7927,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 352,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
