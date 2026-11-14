@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T17:33:58.714408+09:00",
-  "windowEnd": "2026-11-14T17:24:59.280667+09:00",
+  "collectedAt": "2026-11-14T08:44:15.557892+00:00",
+  "windowEnd": "2026-11-14T17:44:15.455644+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5371,107 +5371,6 @@
       "firstPublishedAt": "2026-11-13T21:44:05.149696+00:00"
     },
     {
-      "id": "aagag-1669285-0",
-      "url": "https://aagag.com/issue/?idx=1669285",
-      "source": "애객",
-      "title": "끝을 가늠할 수 없는 차량 가오 최대치",
-      "publishedAt": "2026-11-13T17:15:48+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5Vbp.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "싼타페는 구형 1,2세대 일부 모델 6기통\n그 외 모델은 현재 4기통\n(광고 아님 ; ; ; ;)"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5Vbp.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "싼타페는 구형 1,2세대 일부 모델 6기통\n그 외 모델은 현재 4기통\n(광고 아님 ; ; ; ;)",
-      "reportedCommentCount": 13,
-      "commentsPartial": false,
-      "kCount": 13,
-      "commentCount": 13,
-      "laughingComments": 4,
-      "score": 13,
-      "kPerComment": 1.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8977574",
-          "text": "발할라 가고 싶은거야???? 기억할게!!!!!! ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8977580",
-          "text": "4기통에 배기구가 16개라는거?"
-        },
-        {
-          "id": "8977581",
-          "text": "저분들 취향이 나와 정말 많이 다르구나 새삼 느끼네.."
-        },
-        {
-          "id": "8977584",
-          "text": "뀨뀨을 한다는 말이 딱 어울린다"
-        },
-        {
-          "id": "8977591",
-          "text": "아니 전신에 구멍을 뚫어싸 저걸 어따 쓴다고"
-        },
-        {
-          "id": "8977592",
-          "text": "저거 정기검사 통과돼여?"
-        },
-        {
-          "id": "8977629",
-          "text": "안대여"
-        },
-        {
-          "id": "8977603",
-          "text": "어... dpf털은듯...독립 배기관이면..."
-        },
-        {
-          "id": "8977615",
-          "text": "뭔지 감도 안오네......"
-        },
-        {
-          "id": "8977621",
-          "text": "아니 나는 돈주고 구멍 없앨수있으면 없앨꺼같은데.ㅋㅋ 취향이란게 참 다양한듯.."
-        },
-        {
-          "id": "8977628",
-          "text": "뀨뀨인가 ㅋㅋㅋ 배기압은 어쩌고. 배기압 땅리면 출력도 딸릴텐데.."
-        },
-        {
-          "id": "8977631",
-          "text": "어우 보는내가 쪽팔려"
-        },
-        {
-          "id": "8977645",
-          "text": "ㅋㅋㅋㅋ 감성마력 올라가나"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-13T17:34:55.688885+09:00",
-      "sourceTitles": [
-        "지바겐 안부럽다는 싼타페",
-        "보는순간 인정하는 차량튜닝 최고봉",
-        "끝을 가늠할 수 없는 차량 가오 최대치",
-        "끝을 가늠할 수 없는 차량 가오 최대치"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-13T08:35:08.070931+00:00",
-      "collectedAt": "2026-11-13T17:35:08.070949+09:00",
-      "firstPublishedAt": "2026-11-13T08:35:08.162266+00:00"
-    },
-    {
       "id": "aagag-1669502-0",
       "url": "https://aagag.com/issue/?idx=1669502",
       "source": "애객",
@@ -7291,9 +7190,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
