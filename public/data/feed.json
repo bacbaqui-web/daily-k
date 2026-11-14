@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-14T20:40:14.984392+00:00",
+  "collectedAt": "2026-11-14T20:42:00.122691+00:00",
   "windowEnd": "2026-11-15T05:40:14.871768+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7806,6 +7806,52 @@
       "firstPublishedAt": "2026-11-14T04:22:26.267882+00:00"
     },
     {
+      "id": "aagag-1669627-0",
+      "url": "https://aagag.com/issue/?idx=1669627",
+      "source": "애객",
+      "title": "ㅇㅎ) 팬들보고 반가워서 다가오는 김현영 치어리더.gif",
+      "publishedAt": "2026-11-15T05:34:23+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5jqs.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5jqs.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-15T05:41:46.493728+09:00",
+      "sourceTitles": [
+        "팬들보고 반가워서 다가오는 김현영 치어리더.gif",
+        "ㅇㅎ) 팬들보고 반가워서 다가오는 김현영 치어리더.gif",
+        "ㅇㅎ) 팬들보고 반가워서 다가오는 김현영 치어리더.gif",
+        "ㅇㅎ) 다가오는 김현영 치어리더.gif",
+        "ㅇㅎ?) 김현영 치어리더 퇴근길 시스루 팬서비스.mp4",
+        "ㅇㅎ) 김현영 치어리더 퇴근길 팬서비스.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-14T20:41:59.924503+00:00",
+      "collectedAt": "2026-11-15T05:41:59.924522+09:00",
+      "firstPublishedAt": "2026-11-14T20:42:00.152418+00:00"
+    },
+    {
       "id": "aagag-1669535-0",
       "url": "https://aagag.com/issue/?idx=1669535",
       "source": "애객",
@@ -7925,7 +7971,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
