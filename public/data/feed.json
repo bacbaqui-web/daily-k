@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-15T04:21:39.717951+09:00",
-  "windowEnd": "2026-11-15T04:17:42.181037+09:00",
+  "collectedAt": "2026-11-14T19:31:59.853171+00:00",
+  "windowEnd": "2026-11-15T04:31:59.744549+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8242,59 +8242,12 @@
       "sourceTitlesFetchedAt": "2026-11-14T05:24:31.134110+00:00",
       "collectedAt": "2026-11-14T14:24:31.134127+09:00",
       "firstPublishedAt": "2026-11-14T05:24:31.227108+00:00"
-    },
-    {
-      "id": "aagag-1669368-0",
-      "url": "https://aagag.com/issue/?idx=1669368",
-      "source": "애객",
-      "title": "ㅇㅎ) 후배한테 빌린 돈 못 갚은 만화",
-      "publishedAt": "2026-11-14T04:14:17+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L564D.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L564L.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L564D.webp",
-        "https://i.aagag.com/o/L564L.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-14T04:25:01.258143+09:00",
-      "sourceTitles": [
-        "후배한테 빌린 돈 갚는.manhwa",
-        "ㅇㅎ) 후배한테 빌린 돈 못 갚은 만화",
-        "ㅇㅎ) 후배한테 빌린 돈 못 갚은 만화",
-        "ㅇㅎ) 후배한테 빌린 돈 못 갚은 만화",
-        "ㅇㅎ) 후배한테 빌린 돈 못 갚은 만화"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-13T19:25:15.476615+00:00",
-      "collectedAt": "2026-11-14T04:25:15.476631+09:00",
-      "firstPublishedAt": "2026-11-13T19:25:15.564116+00:00"
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 330,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
