@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T11:59:45.726177+00:00",
+  "collectedAt": "2026-11-14T12:01:19.606132+00:00",
   "windowEnd": "2026-11-14T20:59:45.618389+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6453,6 +6453,79 @@
       "sourceTitlesFetchedAt": "2026-11-14T03:33:14.127115+00:00",
       "collectedAt": "2026-11-14T12:33:14.127133+09:00",
       "firstPublishedAt": "2026-11-14T03:33:14.247743+00:00"
+    },
+    {
+      "id": "aagag-1669571-0",
+      "url": "https://aagag.com/issue/?idx=1669571",
+      "source": "애객",
+      "title": "돈으로 아내를 조련하는 남편.mp4",
+      "publishedAt": "2026-11-14T20:54:22+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L4zhq.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "소녀 목욕재계하고 오겠나이다..."
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L4zhq.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "소녀 목욕재계하고 오겠나이다...",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 6,
+      "laughingComments": 3,
+      "score": 11,
+      "kPerComment": 1.8333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8981945",
+          "text": "15만원 ㅇㅋ"
+        },
+        {
+          "id": "8981946",
+          "text": "ㅋㅋㅋㅋㅋㅋ 드리프트 속도가 엄청나네"
+        },
+        {
+          "id": "8981951",
+          "text": "아니...여보 왜?"
+        },
+        {
+          "id": "8981954",
+          "text": "영상으로 봐야 더 재미있습니다. https://www.youtube.com/shorts/zKDeFSYQw7w"
+        },
+        {
+          "id": "8981958",
+          "text": "이게 자본주의지ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8981962",
+          "text": "씻는다니 무슨 말이야??"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T21:01:08.898867+09:00",
+      "sourceTitles": [
+        "시간이 몇신데 밥을 차려달래.mp4",
+        "잔소리하는 아내 입다물게 하는법",
+        "돈으로 아내를 조련하는 남편.mp4",
+        "돈으로 아내를 조련하는 남편.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-14T12:01:19.533160+00:00",
+      "collectedAt": "2026-11-14T21:01:19.533179+09:00",
+      "firstPublishedAt": "2026-11-14T12:01:19.635886+00:00"
     }
   ],
   "taggedPosts": [
@@ -7794,7 +7867,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
