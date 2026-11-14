@@ -97,7 +97,7 @@ def check_reserve_coverage(brief, ledger, rejected=(), strict=False):
         urls = {canonical_url(a['url']) for a in alternatives}
         if lead:
             urls.discard(canonical_url(lead['representativeUrl']))
-        if not set(range(2, 2 + required)).issubset(ranks) or len(urls) < required:
+        if not ranks.issubset({2, 3}) or len(ranks) < required or len(urls) < required:
             raise ValueError('Verified reserves omitted from draft: ' + category)
 
 PUBLISHER_FIELDS = ("finalizedAt", "scheduledFor", "recordId", "publicationMode",

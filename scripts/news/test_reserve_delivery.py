@@ -18,6 +18,12 @@ class ReserveDeliveryTests(unittest.TestCase):
     def test_rejected_candidate_not_forced_back(self):
         self.brief['stories'][0]['alternatives'].pop()
         check_reserve_coverage(self.brief,self.ledger,[{'urls':['https://example.org/0/3']}])
+    def test_rejected_second_rank_preserves_third_rank(self):
+        self.brief['stories'][0]['alternatives'].pop(0)
+        check_reserve_coverage(self.brief,self.ledger,[{'urls':['https://example.org/0/2']}])
+    def test_invalid_rank_still_rejected(self):
+        self.brief['stories'][0]['alternatives'][0]['rank']=4
+        with self.assertRaises(ValueError):check_reserve_coverage(self.brief,self.ledger)
     def test_strict_test_requires_all_reserves(self):
         self.brief['stories'][0]['alternatives'].pop()
         with self.assertRaises(ValueError):check_reserve_coverage(self.brief,{'candidates':[]},strict=True)
