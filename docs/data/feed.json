@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T00:53:16.358366+00:00",
+  "collectedAt": "2026-11-14T00:55:31.173884+00:00",
   "windowEnd": "2026-11-14T09:53:16.250507+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3215,6 +3215,111 @@
       "sourceTitlesFetchedAt": "2026-11-13T01:35:02.928312+00:00",
       "collectedAt": "2026-11-13T10:35:02.928347+09:00",
       "firstPublishedAt": "2026-11-13T01:35:03.027569+00:00"
+    },
+    {
+      "id": "aagag-1526206-0",
+      "url": "https://aagag.com/issue/?idx=1526206",
+      "source": "애객",
+      "title": "어제자 백악관에서 개인기 선보이는 일론 머스크",
+      "publishedAt": "2026-11-14T09:50:12+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/J7m8U.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "뒤에 경호원 한숨ㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/J7m8U.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "뒤에 경호원 한숨ㅋㅋㅋㅋㅋㅋ",
+      "reportedCommentCount": 12,
+      "commentsPartial": false,
+      "kCount": 22,
+      "commentCount": 12,
+      "laughingComments": 5,
+      "score": 22,
+      "kPerComment": 1.8333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "6492484",
+          "text": "ㄱㅎ도 국회에서 볼펜 세우기 잘했잖아 ㅋ"
+        },
+        {
+          "id": "6494060",
+          "text": "내가 좀 쩔었지?ㅋㅋ"
+        },
+        {
+          "id": "6494590",
+          "text": "오 마이 갓"
+        },
+        {
+          "id": "6492500",
+          "text": "뭐야 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "6492617",
+          "text": "공대생들 개인기가 저러더라구요 근데 옆에 앉은 사람 트럼프인가요?"
+        },
+        {
+          "id": "6492518",
+          "text": "못하는게뭐야"
+        },
+        {
+          "id": "6492659",
+          "text": "호재인가요?"
+        },
+        {
+          "id": "6492919",
+          "text": "아. 정신 사납네."
+        },
+        {
+          "id": "6492947",
+          "text": "뀨뀨같아보이는데 부자니까 능력자로 보일뻔함"
+        },
+        {
+          "id": "6495112",
+          "text": "숟가락ㅋㅋㅋ"
+        },
+        {
+          "id": "6495123",
+          "text": "곧 테슬라 굿즈로 나오겠네"
+        },
+        {
+          "id": "6495528",
+          "text": "집에 진짜 뀨뀨 가고 싶었나보다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T09:55:25.779613+09:00",
+      "sourceTitles": [
+        "일론머스크한테 여자스파이가 못붙는이유",
+        "일론머스크한테 간첩이 안 붙는 이유",
+        "일론 머스크가 스파이한테 당하지 않는 이유",
+        "어제자 백악관에서 개인기 선보이는 일론 머스크",
+        "어제자 백악관에서 개인기 선보이는 일론 머스크",
+        "머스크 근황",
+        "머스크 주업무",
+        "[유머] \t        대통령과 만찬 자리에서 숟가락 포크로 장난치는 머스크",
+        "백악관에서 개인기 선보이는 일론 머스크",
+        "어제자 백악관에서 개인기 선보이는 일론 머스크",
+        "식사중 이상행동 하는 일론 머스크...mp4",
+        "일론머스크 식사전 관심끌기 스킬 효과 확실"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 12,
+      "sourceTitlesFetchedAt": "2026-11-14T00:55:31.101046+00:00",
+      "collectedAt": "2026-11-14T09:55:31.101066+09:00",
+      "firstPublishedAt": "2026-11-14T00:55:31.204159+00:00"
     },
     {
       "id": "aagag-317331-1",
@@ -8780,7 +8885,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
