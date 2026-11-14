@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T13:09:43.917406+00:00",
+  "collectedAt": "2026-11-14T13:10:28.413164+00:00",
   "windowEnd": "2026-11-14T22:09:43.804042+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6001,6 +6001,68 @@
       "firstPublishedAt": "2026-11-14T03:00:52.172582+00:00"
     },
     {
+      "id": "aagag-1669587-0",
+      "url": "https://aagag.com/issue/?idx=1669587",
+      "source": "애객",
+      "title": "제미나이 신버전 근황",
+      "publishedAt": "2026-11-14T21:56:23+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5luN.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅋㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5luN.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㅋㅋㅋㅋ",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 4,
+      "laughingComments": 1,
+      "score": 12,
+      "kPerComment": 3.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8982154",
+          "text": "정직한 녀석"
+        },
+        {
+          "id": "8982162",
+          "text": "가우라브가 뭐야?"
+        },
+        {
+          "id": "8982165",
+          "text": "이름"
+        },
+        {
+          "id": "8982173",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋ이색기좀 치넼ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T22:10:23.225688+09:00",
+      "sourceTitles": [
+        "제미나이 신버전 근황 ㄷㄷㄷ",
+        "제미나이 신버전 근황 ㅋㅋㅋㅋㅋ",
+        "제미나이 신버전 근황.jpg",
+        "제미나이 신버전 근황",
+        "제미나이 신버전 근황"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-14T13:10:28.356092+00:00",
+      "collectedAt": "2026-11-14T22:10:28.356109+09:00",
+      "firstPublishedAt": "2026-11-14T13:10:28.437680+00:00"
+    },
+    {
       "id": "aagag-57885-0",
       "url": "https://aagag.com/issue/?idx=57885",
       "source": "애객",
@@ -8144,7 +8206,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
