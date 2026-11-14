@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T09:29:30.625780+00:00",
+  "collectedAt": "2026-11-14T09:30:17.675978+00:00",
   "windowEnd": "2026-11-14T18:29:30.526201+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6727,6 +6727,80 @@
       "firstPublishedAt": "2026-11-13T20:00:45.005103+00:00"
     },
     {
+      "id": "aagag-1669535-0",
+      "url": "https://aagag.com/issue/?idx=1669535",
+      "source": "애객",
+      "title": "ㅇㅎ) 카리나 오프숄더 뜸",
+      "publishedAt": "2026-11-14T18:28:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5jSv.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5jTF.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5jTb.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5jTn.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5jSv.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L5jTF.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L5jTb.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L5jTn.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-14T18:30:06.539555+09:00",
+      "sourceTitles": [
+        "ㅇㅎ?) 오늘자 카리나 드레스.gif",
+        "ㅇㅎ) 카리나 오프숄더 뜸",
+        "에스파 카리나 MMA 시상식",
+        "카리나.gif"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-14T09:30:17.612150+00:00",
+      "collectedAt": "2026-11-14T18:30:17.612169+09:00",
+      "firstPublishedAt": "2026-11-14T09:30:17.699244+00:00"
+    },
+    {
       "id": "aagag-1669470-0",
       "url": "https://aagag.com/issue/?idx=1669470",
       "source": "애객",
@@ -6868,7 +6942,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
