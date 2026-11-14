@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-14",
-  "collectedAt": "2026-11-14T10:54:39.069305+00:00",
+  "collectedAt": "2026-11-14T10:55:26.963254+00:00",
   "windowEnd": "2026-11-14T19:54:38.961939+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7186,7 +7186,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7213,6 +7213,89 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-682659-0",
+      "url": "https://aagag.com/issue/?idx=682659",
+      "source": "애객",
+      "title": "희키좌 신작 \"무지의 시대\"",
+      "publishedAt": "2026-11-14T19:42:33+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/DUjCt.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "출처- https://m.dcinside.com/board/cartoon/508648\n\n심오하네"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/DUjCt.webp"
+      ],
+      "videos": [],
+      "excerpt": "출처- https://m.dcinside.com/board/cartoon/508648\n\n심오하네",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 6,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "265925",
+          "text": "SF가 이런거지 적당히 비판적이고 적당히 재미있는."
+        },
+        {
+          "id": "265943",
+          "text": "현실은 AI한태 말빨로 다 처발리는 시대가 오겠지"
+        },
+        {
+          "id": "266030",
+          "text": "뇌용량이 67이어도 다른 부분에서 뛰어난 게 있을텐데."
+        },
+        {
+          "id": "266462",
+          "text": "이분 그 이상한 개구리만화같은거 그리시지 않았나? 새우등터지는거 같은 내용"
+        },
+        {
+          "id": "8981786",
+          "text": "6년전 작품인데 지금 세태에 딱 맞는 만화인듯 AI에 자아의탁하고 검수도 없이 답변 복붙밖에 못 하면서 전문가인양 모든 이슈에 발 한번씩 걸치는.. 이제 가만히 있는게 미덕인 세상이 왔음"
+        },
+        {
+          "id": "8981790",
+          "text": "캬...수작이다..."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-14T19:55:19.179182+09:00",
+      "sourceTitles": [
+        "무지의 시대.manhwa",
+        "특슬람 발작버튼 만화 (feat.희키)",
+        "특슬람 발작버튼 만화 (feat.희키)",
+        "희키作 - 무지의 시대(2020).manhwa",
+        "AI 시대를 예견한 희키의 만화 _ 무지의 시대 ㄷㄷㄷ",
+        "희키)무지의 시대.manhwa",
+        "무지의 시대.manwha",
+        "무지의 시대.manhwa",
+        "무지의 시대.manhwa",
+        "히키센세 신작....무지의 시대...........manwha",
+        "히키센세 신작....무지의 시대...........manwha",
+        "대충 특이점이 왔다.manhwa",
+        "유게이들아 결국 특이점이 왔다.manhwa",
+        "무지의 시대 manhwa",
+        "무지의 시대.manhwa",
+        "'숲속 친구들' 을 그린 희키좌 신작",
+        "희키좌 신작 \"무지의 시대\"",
+        "희키좌 신작 \"무지의 시대\""
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 18,
+      "sourceTitlesFetchedAt": "2026-11-14T10:55:26.895524+00:00",
+      "collectedAt": "2026-11-14T19:55:26.895548+09:00",
+      "firstPublishedAt": "2026-11-14T10:55:26.989116+00:00"
+    },
     {
       "id": "aagag-57885-0",
       "url": "https://aagag.com/issue/?idx=57885",
