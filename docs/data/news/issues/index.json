@@ -1,6 +1,156 @@
 {
-  "editionCount": 116,
+  "editionCount": 117,
   "issues": [
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "us-ppi-october-2026",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "PPI 전년 대비 6.5%·전월 대비 0.3% 상승이 발표됐습니다. 향후 금리 결정은 미확정입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "발표",
+        "storyId": "20261114-am-eco-01",
+        "title": "미국 10월 PPI 전년 대비 6.5% 상승…전월 상승률은 0.3%"
+      },
+      "path": "us-ppi-october-2026.json",
+      "title": "미국 2026년 10월 생산자물가"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "us-china-offshore-ai-chip-remote-access-controls-2026",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "7개국을 대상으로 한 원격 접근 제한 규정 마련이 보도됐습니다. 공식 발표·시행은 미확인입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "보도",
+        "storyId": "20261114-am-tech-01",
+        "title": "미 상무부, 중국 기업의 해외 AI 반도체 원격 이용 제한 규정 추진 보도"
+      },
+      "path": "us-china-offshore-ai-chip-remote-access-controls-2026.json",
+      "title": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
+      "firstCoveredDate": "2026-10-21",
+      "id": "super-regional-special-zone-labor-bill-2026",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "관련 산업 인프라의 재원 추산이 보고됐습니다. 노동 특례 합의와 법·예산 확정은 미완료입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "후속",
+        "storyId": "20261114-am-pol-01",
+        "title": "정부, 메가프로젝트 전력·용수 인프라에 10년간 84조원 필요 추산"
+      },
+      "path": "super-regional-special-zone-labor-bill-2026.json",
+      "title": "초광역특구법 노동규제 특례와 입법 논의"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "경제·에너지",
+        "국제·에너지",
+        "국제정세"
+      ],
+      "eventCount": 20,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "10월 공급 초과 추산과 4분기 수급 전망이 보도됐습니다. 공급 안정의 지속성은 미확정입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "후속",
+        "storyId": "20261114-am-int-01",
+        "title": "IEA, 10월 세계 석유 공급 하루 약 200만 배럴 초과 추산"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "korea-asean-ip-commercialization-ai-copyright-meeting-2026",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "웹툰 해외 진출·IP 금융·AI 저작권 논의가 이뤄졌습니다. 계약·제도·보상 확정은 미확인입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "보도",
+        "storyId": "20261114-am-web-01",
+        "title": "한·아세안, 웹툰 해외 진출·IP 사업화·AI 저작권 협력 논의"
+      },
+      "path": "korea-asean-ip-commercialization-ai-copyright-meeting-2026.json",
+      "title": "한·아세안 지식재산 사업화와 AI 저작권 협력 논의"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "faa-national-ground-stop-communications-outage-2026",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "전국 출발 중단과 대규모 취소·지연이 발생했습니다. 일부 통신 복구가 시작됐으나 전체 정상화는 미확인입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "보도",
+        "storyId": "20261114-am-safe-01",
+        "title": "미 FAA, 관제 통신 장애로 전국 출발편 중단…대규모 취소·지연"
+      },
+      "path": "faa-national-ground-stop-communications-outage-2026.json",
+      "title": "미국 FAA 관제 통신 장애와 전국 출발편 중단"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "donghee-auto-kim-jinhwi-workplace-harassment-investigation-2026",
+      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "괴롭힘 일부 인정과 징계 시정 지시가 확인됐습니다. 유족은 반발하며 실제 이행은 미확인입니다.",
+        "editionId": "2026-11-14-am",
+        "stage": "결과",
+        "storyId": "20261114-am-soc-01",
+        "title": "노동부, 동희오토 고 김진휘 씨 직장 내 괴롭힘 일부 인정…유족 반발"
+      },
+      "path": "donghee-auto-kim-jinhwi-workplace-harassment-investigation-2026.json",
+      "title": "동희오토 고 김진휘 씨 직장 내 괴롭힘 조사와 시정 조치"
+    },
     {
       "categories": [
         "정치·정책"
@@ -4794,27 +4944,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-10-21T09:10:47.865532+09:00",
-      "firstCoveredDate": "2026-10-21",
-      "id": "super-regional-special-zone-labor-bill-2026",
-      "lastCoveredAt": "2026-10-25T21:35:11.887223+09:00",
-      "lastCoveredDate": "2026-10-25",
-      "latest": {
-        "archive": false,
-        "change": "대통령의 시행령 검토 발언과 노동계 반발, 특위 구성 검토가 추가 보도됐습니다. 제도 변경은 미확정입니다.",
-        "editionId": "2026-10-25-pm",
-        "stage": "후속",
-        "storyId": "20261025-pm-pol-01",
-        "title": "초광역특구 노동시간 특례 논쟁…시행령 검토 발언에 노동계 반발"
-      },
-      "path": "super-regional-special-zone-labor-bill-2026.json",
-      "title": "초광역특구법 노동규제 특례와 입법 논의"
-    },
-    {
-      "categories": [
         "사회이슈"
       ],
       "eventCount": 1,
@@ -5043,29 +5172,6 @@
       },
       "path": "yeongdong-expressway-collisions-2026-10-24.json",
       "title": "영동고속도로 횡성 연쇄 추돌과 여주 사고 수습 경찰관 피해"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "경제·에너지",
-        "국제·에너지"
-      ],
-      "eventCount": 19,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-10-24T21:20:04.971227+09:00",
-      "lastCoveredDate": "2026-10-24",
-      "latest": {
-        "archive": false,
-        "change": "브렌트유 116.72달러·WTI 103.27달러 정산이 확인됐습니다. 국내 가격 반영은 미확정입니다.",
-        "editionId": "2026-10-24-pm",
-        "stage": "결과",
-        "storyId": "20261024-pm-eco-01",
-        "title": "브렌트유 116.72달러 마감…중동 긴장 속 6개월 만에 최고"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
     },
     {
       "categories": [
@@ -11046,7 +11152,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 857,
+  "storyCount": 864,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-13T21:15:24.832050+09:00"
+  "updatedAt": "2026-11-14T09:42:10.979637+09:00"
 }
