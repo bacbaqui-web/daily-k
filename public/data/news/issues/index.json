@@ -1,6 +1,154 @@
 {
-  "editionCount": 117,
+  "editionCount": 118,
   "issues": [
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-11T09:21:20.985854+09:00",
+      "firstCoveredDate": "2026-11-11",
+      "id": "us-measles-cases-elimination-status-review-2026",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "환자 5400명 이상과 지위 상실 취재 보도가 추가됐습니다. 공식 결정 세부 내용은 미확인입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "후속",
+        "storyId": "20261114-pm-safe-01",
+        "title": "미국 홍역 퇴치국 지위 상실 보도…올해 환자 5400명 넘어"
+      },
+      "path": "us-measles-cases-elimination-status-review-2026.json",
+      "title": "미국 홍역 확산과 청정국 지위 검토"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 9,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "나토 가입과 돈바스 철수를 연결한 질의가 공개됐습니다. 당사자 합의는 미확정입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "후속",
+        "storyId": "20261114-pm-int-01",
+        "title": "젤렌스키 “미국, 나토 가입 대가로 돈바스 철수 의향 질의”"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "웹툰산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "jeju-webtoon-campus-third-residency-deadline-extension-2026",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "3명 모집의 신청 마감 연장이 공식 공고에서 확인됐습니다. 선정·입주 완료는 미확인입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "보도",
+        "storyId": "20261114-pm-web-02",
+        "title": "제주웹툰캠퍼스, 창작작가실 입주작가 3차 모집 마감 연장"
+      },
+      "path": "jeju-webtoon-campus-third-residency-deadline-extension-2026.json",
+      "title": "제주웹툰캠퍼스 창작작가실 3차 모집 마감 연장"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "jeju-april-third-special-act-amendment-2026",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "특별법 개정안이 발의됐습니다. 최종 입법과 개별 적용은 미확정입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "검토",
+        "storyId": "20261114-pm-pol-01",
+        "title": "제주4·3 인권침해 가담자 서훈 취소·피해자 권리구제 특별법 개정안 발의"
+      },
+      "path": "jeju-april-third-special-act-amendment-2026.json",
+      "title": "제주4·3 특별법의 서훈 취소와 피해자 권리구제 개정 논의"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "google-korea-map-export-security-compliance-2026",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "정부가 보안조건 이행을 확인했습니다. 서비스 출시와 실제 효과는 미확인입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "결과",
+        "storyId": "20261114-pm-tech-01",
+        "title": "정부, 구글 고정밀 지도 국외반출 보안조건 이행 확인"
+      },
+      "path": "google-korea-map-export-security-compliance-2026.json",
+      "title": "구글 국내 고정밀 지도 국외반출과 보안조건 이행"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "domestic-violence-victim-address-deposit-procedure-2026",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "2025년 11월의 별도 피해 사례가 보도됐습니다. 후속 제도 개선은 미확인입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "보도",
+        "storyId": "20261114-pm-soc-01",
+        "title": "가정폭력 가해자에게 피해자 초본 발급…공탁 절차 통한 주소 노출 확인"
+      },
+      "path": "domestic-violence-victim-address-deposit-procedure-2026.json",
+      "title": "가정폭력 피해자 초본 발급과 공탁 절차의 주소 보호 공백"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "baemin-discount-fee-deduction-expansion-2026",
+      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
+      "lastCoveredDate": "2026-11-14",
+      "latest": {
+        "archive": false,
+        "change": "배달팁 할인액까지 공제 범위를 확대할 계획이 보도됐습니다. 실제 시행과 절감 효과는 미확인입니다.",
+        "editionId": "2026-11-14-pm",
+        "stage": "보도",
+        "storyId": "20261114-pm-eco-01",
+        "title": "배민, 업주 부담 배달팁 할인액도 수수료 산정에서 제외 추진"
+      },
+      "path": "baemin-discount-fee-deduction-expansion-2026.json",
+      "title": "배민의 업주 부담 할인액 수수료 공제 범위 확대"
+    },
     {
       "categories": [
         "경제·생활경제"
@@ -915,27 +1063,6 @@
     },
     {
       "categories": [
-        "생활·안전"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-11T09:21:20.985854+09:00",
-      "firstCoveredDate": "2026-11-11",
-      "id": "us-measles-cases-elimination-status-review-2026",
-      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
-      "lastCoveredDate": "2026-11-11",
-      "latest": {
-        "archive": false,
-        "change": "올해 5182건 보고와 장기 전파 분석이 소개됐습니다. 청정국 지위 판단은 미확정입니다.",
-        "editionId": "2026-11-11-am",
-        "stage": "보도",
-        "storyId": "20261111-am-safe-01",
-        "title": "미국 올해 홍역 5182건 보고…청정국 지위 판단은 미확정"
-      },
-      "path": "us-measles-cases-elimination-status-review-2026.json",
-      "title": "미국 홍역 확산과 청정국 지위 검토"
-    },
-    {
-      "categories": [
         "경제·생활경제"
       ],
       "eventCount": 1,
@@ -954,28 +1081,6 @@
       },
       "path": "us-cpi-october-2026.json",
       "title": "미국 2026년 10월 소비자물가와 금융시장 반응"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 8,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-11-11T09:21:20.985854+09:00",
-      "lastCoveredDate": "2026-11-11",
-      "latest": {
-        "archive": false,
-        "change": "러시아 정유시설 피해와 처리량 감소 추산이 추가됐습니다. 실제 생산 손실과 복구 결과는 미확정입니다.",
-        "editionId": "2026-11-11-am",
-        "stage": "후속",
-        "storyId": "20261111-am-int-01",
-        "title": "우크라이나 드론 공격에 러시아 정유시설 차질…처리량 하루 최대 20만t 감소 추산"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
     },
     {
       "categories": [
@@ -11152,7 +11257,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 864,
+  "storyCount": 871,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-14T09:42:10.979637+09:00"
+  "updatedAt": "2026-11-14T21:48:30.371337+09:00"
 }
