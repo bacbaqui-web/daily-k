@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-15T12:26:04.975662+09:00",
-  "windowEnd": "2026-11-15T12:18:45.230876+09:00",
+  "collectedAt": "2026-11-15T03:36:23.504447+00:00",
+  "windowEnd": "2026-11-15T12:36:23.398079+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4545,65 +4545,6 @@
       "firstPublishedAt": "2026-11-14T17:21:20.038633+00:00"
     },
     {
-      "id": "aagag-1669460-0",
-      "url": "https://aagag.com/issue/?idx=1669460",
-      "source": "애객",
-      "title": "챗지피티 검열 피하는 방법",
-      "publishedAt": "2026-11-14T12:22:03+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5c5d.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5c5f.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5c5d.webp",
-        "https://i.aagag.com/o/L5c5f.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 3,
-      "laughingComments": 1,
-      "score": 11,
-      "kPerComment": 3.6666666666666665,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8980294",
-          "text": "욕을하면 잘들어주더라 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8980301",
-          "text": "진짜 욕하면 잘 들어줘요?"
-        },
-        {
-          "id": "8980303",
-          "text": "꼭 콱씨를 해야 해줌"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-14T12:33:05.760832+09:00",
-      "sourceTitles": [
-        "신종 gpt 검열 파훼법 등장",
-        "챗지피티 검열 피하는 방법",
-        "챗지피티 검열 피하는 새로운 방법",
-        "챗지피티 검열 피하는 새로운 방법"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-14T03:33:14.127115+00:00",
-      "collectedAt": "2026-11-14T12:33:14.127133+09:00",
-      "firstPublishedAt": "2026-11-14T03:33:14.247743+00:00"
-    },
-    {
       "id": "aagag-1669508-0",
       "url": "https://aagag.com/issue/?idx=1669508",
       "source": "애객",
@@ -6060,9 +6001,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
