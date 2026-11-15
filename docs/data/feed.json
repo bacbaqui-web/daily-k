@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-15T07:41:03.388832+00:00",
+  "collectedAt": "2026-11-15T07:42:32.254269+00:00",
   "windowEnd": "2026-11-15T16:41:03.299735+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5009,7 +5009,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -5036,6 +5036,105 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1669766-0",
+      "url": "https://aagag.com/issue/?idx=1669766",
+      "source": "애객",
+      "title": "길에 쓰러져있는 설녀를 도와준 Manhwa",
+      "publishedAt": "2026-11-15T16:30:55+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmAQT.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmAQj.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmAQr.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmAQv.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmAQy.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmAR0.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JN9FB.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/BmARE.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/BmAQT.webp",
+        "https://i.aagag.com/o/BmAQj.webp",
+        "https://i.aagag.com/o/BmAQr.webp",
+        "https://i.aagag.com/o/BmAQv.webp",
+        "https://i.aagag.com/o/BmAQy.webp",
+        "https://i.aagag.com/o/BmAR0.webp",
+        "https://i.aagag.com/o/JN9FB.webp",
+        "https://i.aagag.com/o/BmARE.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8984388",
+          "text": "빙수 강탈?"
+        },
+        {
+          "id": "8984392",
+          "text": "호구잡힌거야?"
+        },
+        {
+          "id": "8984400",
+          "text": "저기 그런데 나이차가...잡혀가요"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-15T16:42:21.030827+09:00",
+      "sourceTitles": [
+        "길에 쓰러져있는 설녀를 도와준 Manhwa",
+        "길에 쓰러져있는 설녀를 도와준 Manhwa",
+        "길에 쓰러져있는 설녀를 도와준 Manhwa",
+        "길에 쓰러져있는 설녀를 도와준 Manhwa",
+        "설녀와 여름.manwha",
+        "설녀와 소년.manhwa",
+        "설녀와 소년.manhwa",
+        "설녀와 소년.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-15T07:42:32.197953+00:00",
+      "collectedAt": "2026-11-15T16:42:32.197972+09:00",
+      "firstPublishedAt": "2026-11-15T07:42:32.279077+00:00"
+    },
     {
       "id": "aagag-1569325-0",
       "url": "https://aagag.com/issue/?idx=1569325",
