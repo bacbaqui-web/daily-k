@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-15T02:47:00.566951+00:00",
+  "collectedAt": "2026-11-15T02:47:57.833041+00:00",
   "windowEnd": "2026-11-15T11:47:00.463328+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2869,6 +2869,61 @@
       "sourceTitlesFetchedAt": "2026-11-14T12:38:47.965742+00:00",
       "collectedAt": "2026-11-14T21:38:47.965761+09:00",
       "firstPublishedAt": "2026-11-14T12:38:48.056707+00:00"
+    },
+    {
+      "id": "aagag-1669707-0",
+      "url": "https://aagag.com/issue/?idx=1669707",
+      "source": "애객",
+      "title": "삼고초려 당시 CCTV.mp4",
+      "publishedAt": "2026-11-15T11:44:47+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5pq4.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5pq4.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 19,
+      "kPerComment": 9.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8983553",
+          "text": "개웃기네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이제 글로된 아이디어 짤로 엄청 나오겠네 ㅁㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8983558",
+          "text": "장비 성격ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-15T11:47:46.727690+09:00",
+      "sourceTitles": [
+        "손님이 와도 문전박대하는 중국인 수준",
+        "중국인 집을 불태운 무뢰배 집단이 담긴 CCTV 영상 확보",
+        "와 씨 삼국지에 삼고초려가 진짜였어?",
+        "제갈량 집 앞 cctv 녹화본",
+        "삼고초려 당시 CCTV.mp4",
+        "삼고초려 당시 cctv 공개됐네ㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-15T02:47:57.767360+00:00",
+      "collectedAt": "2026-11-15T11:47:57.767377+09:00",
+      "firstPublishedAt": "2026-11-15T02:47:57.859774+00:00"
     },
     {
       "id": "aagag-569832-1",
@@ -6044,7 +6099,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
