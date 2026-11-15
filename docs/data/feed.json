@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-15T04:57:14.261113+00:00",
+  "collectedAt": "2026-11-15T04:58:39.799072+00:00",
   "windowEnd": "2026-11-15T13:57:14.158013+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3486,6 +3486,75 @@
       "firstPublishedAt": "2026-11-14T13:10:28.437680+00:00"
     },
     {
+      "id": "aagag-1669732-0",
+      "url": "https://aagag.com/issue/?idx=1669732",
+      "source": "애객",
+      "title": "GTA 6 한,중,일 중에 한국만 무삭제",
+      "publishedAt": "2026-11-15T13:50:28+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5PMk.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "중국은 아예 발매 안함 일본은 일부 검열\n한국만 무삭제판"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5PMk.webp"
+      ],
+      "videos": [],
+      "excerpt": "중국은 아예 발매 안함 일본은 일부 검열\n한국만 무삭제판",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 6,
+      "laughingComments": 3,
+      "score": 12,
+      "kPerComment": 2.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8983915",
+          "text": "?????? 왜 검열안함???ㅋㅋㅋㅋㅋㅋㅋㅋ불안하게"
+        },
+        {
+          "id": "8983922",
+          "text": "민간심의 첫빠따인데 중동조차 무검열이라서... 도박 위주로 보고 폭력성이나 성적인건 스무스하게 갔대요"
+        },
+        {
+          "id": "8983925",
+          "text": "전세계적으로 수조원 팔리는 게임 검열 하거나 하면 조리돌림 감당이 안된다고 ㅋㅋ 무삭제 출시"
+        },
+        {
+          "id": "8983927",
+          "text": "중국 일본 중 한국이 유일한 정상이라는 소리네. 이번 한국도 말 ㅈ나 많았는데 여론 눈치봐서 통과시킨거야. 꼬추 나온다고 막을 거면 왜 박찬욱 영화는 안 막냐 고추 보지 뀨뀨 달랑달랑 나오는데."
+        },
+        {
+          "id": "8983933",
+          "text": "우리나라 게심위가 이리도 개방적이었어?ㅋㅋ"
+        },
+        {
+          "id": "8983937",
+          "text": "올게되 나라가 되가는구나!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-15T13:58:27.567075+09:00",
+      "sourceTitles": [
+        "GTA6 한중일 국가중 한국만 무검열",
+        "gta6 한중일 중 한국만 무삭제?",
+        "검열 없다는 GTA6 한국판 근황 ㄷㄷㄷㄷㄷ",
+        "GTA 6 한,중,일 중에 한국만 무삭제"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-15T04:58:39.742439+00:00",
+      "collectedAt": "2026-11-15T13:58:39.742486+09:00",
+      "firstPublishedAt": "2026-11-15T04:58:39.826924+00:00"
+    },
+    {
       "id": "aagag-57885-0",
       "url": "https://aagag.com/issue/?idx=57885",
       "source": "애객",
@@ -5547,7 +5616,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
