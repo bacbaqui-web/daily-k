@@ -1,0 +1,55 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-15/pm.json",
+      "category": "정치·정책",
+      "change": "16일 온라인 창구 개설계획이 발표됐습니다. 실제 운영과 지원 성과는 미확인입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "coveredOn": "2026-11-15",
+      "edition": "pm",
+      "editionDate": "2026-11-15",
+      "editionId": "2026-11-15-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "15일 보도의 금융위 발표입니다. 창구 개설은 16일 예정이며 정확한 개설시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-15-pm/20261115-pm-pol-02",
+      "keyFacts": {
+        "개설일": "2026-11-16 예정",
+        "비용": "상담부터 지원까지 무료 안내",
+        "신청 가능 시간": "개설 이후 24시간 안내",
+        "신청 경로": "신용회복위원회 홈페이지·앱"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-15T17:09:46+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "KBS",
+          "publishedAt": "2026-11-15T17:09:46+09:00",
+          "title": "‘불법 사금융’ 피해 지원, 24시간 온라인 접수",
+          "url": "https://n.news.naver.com/mnews/article/056/0012294143",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "예정",
+      "storyId": "20261115-pm-pol-02",
+      "summary": [
+        "금융위가 불법 사금융 피해지원 온라인 신청 창구를 16일 신용회복위원회 홈페이지와 앱에 개설한다고 밝혔습니다. 기준시각 현재 실제 운영 개시는 확인되지 않았습니다.",
+        "기존에는 서민금융통합지원센터를 방문해야 했지만 개설 이후에는 온라인으로 24시간 신청할 수 있다는 안내입니다. 신청이 접수되면 피해자별 전담자를 배정하고 상담부터 지원까지 무료로 진행할 예정입니다."
+      ],
+      "supersededBy": [],
+      "title": "불법 사금융 피해지원, 16일부터 온라인 24시간 신청 예정",
+      "uncertainty": "실제 개설·운영과 신청 처리 속도, 지원 성과는 미확인입니다."
+    }
+  ],
+  "id": "illegal-private-finance-online-support-application-2026",
+  "schemaVersion": 1,
+  "title": "불법 사금융 피해지원 온라인 신청 창구 개설",
+  "updatedAt": "2026-11-15T21:13:01.726835+09:00"
+}

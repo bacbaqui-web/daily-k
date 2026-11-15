@@ -1,6 +1,155 @@
 {
-  "editionCount": 119,
+  "editionCount": 120,
   "issues": [
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 12,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "바레인 미군 시설 공격 발표와 미국의 요격 반박이 나왔습니다. 피해 결과는 독립적으로 확인되지 않았습니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "후속",
+        "storyId": "20261115-pm-int-01",
+        "title": "이란, 바레인 미군 시설 공격 발표…미국은 전량 요격 반박"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
+      "firstCoveredDate": "2026-11-13",
+      "id": "microsoft-365-global-service-outage-2026-11",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "MS가 나머지 영향 고객·지역의 복구를 발표했습니다. 고객별 잔여 영향과 전체 손실은 미확인입니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "후속",
+        "storyId": "20261115-pm-tech-01",
+        "title": "MS, 글로벌 업무 서비스 복구 발표…최종 원인은 회사 설명 기준"
+      },
+      "path": "microsoft-365-global-service-outage-2026-11.json",
+      "title": "2026년 11월 MS 365 대규모 장애와 복구"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "firstCoveredDate": "2026-11-15",
+      "id": "illegal-private-finance-online-support-application-2026",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "16일 온라인 창구 개설계획이 발표됐습니다. 실제 운영과 지원 성과는 미확인입니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "발표",
+        "storyId": "20261115-pm-pol-02",
+        "title": "불법 사금융 피해지원, 16일부터 온라인 24시간 신청 예정"
+      },
+      "path": "illegal-private-finance-online-support-application-2026.json",
+      "title": "불법 사금융 피해지원 온라인 신청 창구 개설"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "firstCoveredDate": "2026-11-15",
+      "id": "fss-consumer-protection-improvements-2026-11",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "자문위 논의를 바탕으로 소비자보호 개선계획을 공개했습니다. 시행과 효과는 미확정입니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "검토",
+        "storyId": "20261115-pm-eco-02",
+        "title": "금감원, 탄력점포 확대·현역병 대부업 신용대출 제한 추진"
+      },
+      "path": "fss-consumer-protection-improvements-2026-11.json",
+      "title": "금감원 탄력점포·현역병 대출·선불충전금 소비자보호 개선"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "faa-national-ground-stop-communications-outage-2026",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "다음 날에도 대규모 취소·지연이 집계됐고 교체 작업 관련 설명이 추가됐습니다. 정상화는 미확인입니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "후속",
+        "storyId": "20261115-pm-safe-01",
+        "title": "미 항공 중단 여파 지속…현지 14일 5300편 이상 취소"
+      },
+      "path": "faa-national-ground-stop-communications-outage-2026.json",
+      "title": "미국 FAA 관제 통신 장애와 전국 출발편 중단"
+    },
+    {
+      "categories": [
+        "사회이슈",
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "국가자격시험 의심 사례 전수조사와 수능 AI 기기 점검 절차 마련 방침이 추가됐습니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "후속",
+        "storyId": "20261115-pm-pol-01",
+        "title": "정부, 국가자격시험 AI 부정행위 의심 사례 전수조사·수능 기기 점검 추진"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "firstCoveredDate": "2026-11-15",
+      "id": "coinone-meta-m-customer-support-data-breach-2026",
+      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "수탁사 침해와 상담정보 유출·고객 통지가 공개됐습니다. 전체 피해 범위는 조사 중입니다.",
+        "editionId": "2026-11-15-pm",
+        "stage": "보도",
+        "storyId": "20261115-pm-eco-01",
+        "title": "코인원 고객상담 수탁사 해킹…상담 중 제공한 민감정보 유출 가능성"
+      },
+      "path": "coinone-meta-m-customer-support-data-breach-2026.json",
+      "title": "코인원 고객상담 수탁사 메타엠 침해와 개인정보 유출"
+    },
     {
       "categories": [
         "국제·외교",
@@ -386,27 +535,6 @@
     },
     {
       "categories": [
-        "생활·안전"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
-      "firstCoveredDate": "2026-11-14",
-      "id": "faa-national-ground-stop-communications-outage-2026",
-      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
-      "lastCoveredDate": "2026-11-14",
-      "latest": {
-        "archive": false,
-        "change": "전국 출발 중단과 대규모 취소·지연이 발생했습니다. 일부 통신 복구가 시작됐으나 전체 정상화는 미확인입니다.",
-        "editionId": "2026-11-14-am",
-        "stage": "보도",
-        "storyId": "20261114-am-safe-01",
-        "title": "미 FAA, 관제 통신 장애로 전국 출발편 중단…대규모 취소·지연"
-      },
-      "path": "faa-national-ground-stop-communications-outage-2026.json",
-      "title": "미국 FAA 관제 통신 장애와 전국 출발편 중단"
-    },
-    {
-      "categories": [
         "사회이슈"
       ],
       "eventCount": 1,
@@ -488,27 +616,6 @@
       },
       "path": "national-high-pathogenic-avian-influenza-risk-advisory-2026.json",
       "title": "전국 고병원성 AI 위험주의보와 농장 방역 강화"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-13T21:15:24.832050+09:00",
-      "firstCoveredDate": "2026-11-13",
-      "id": "microsoft-365-global-service-outage-2026-11",
-      "lastCoveredAt": "2026-11-13T21:15:24.832050+09:00",
-      "lastCoveredDate": "2026-11-13",
-      "latest": {
-        "archive": false,
-        "change": "02시54분께 첫 공지 이후 16시에도 일부 기능 장애가 보도됐습니다. 최종 복구와 원인은 미확인입니다.",
-        "editionId": "2026-11-13-pm",
-        "stage": "보도",
-        "storyId": "20261113-pm-tech-01",
-        "title": "MS 365 대규모 장애…국내외 기업·학교·정부 업무 차질"
-      },
-      "path": "microsoft-365-global-service-outage-2026-11.json",
-      "title": "2026년 11월 MS 365 대규모 장애와 복구"
     },
     {
       "categories": [
@@ -1661,28 +1768,6 @@
       },
       "path": "ylab-ip-investment-convertible-bond-2026.json",
       "title": "와이랩 IP 투자용 전환사채 발행과 수익성"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 11,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-09T09:19:54.489884+09:00",
-      "lastCoveredDate": "2026-11-09",
-      "latest": {
-        "archive": false,
-        "change": "이라크 외무장관이 미국의 국경 폐쇄 요청을 공개했습니다. 수용·이행 범위는 미확정입니다.",
-        "editionId": "2026-11-09-am",
-        "stage": "후속",
-        "storyId": "20261109-am-int-01",
-        "title": "미국, 이라크에 대이란 국경 검문소 대부분 폐쇄 요청"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -4304,27 +4389,6 @@
       },
       "path": "korea-covid-vaccine-cancer-trend-study-2026.json",
       "title": "국내 코로나19 백신 접종 이후 암 발생 추세 연구"
-    },
-    {
-      "categories": [
-        "사회이슈"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "lastCoveredDate": "2026-10-29",
-      "latest": {
-        "archive": false,
-        "change": "형사 대응과 시험장 전담 인력 배치 계획이 발표됐습니다. 응시 제한 3년 확대는 추진 단계입니다.",
-        "editionId": "2026-10-29-pm",
-        "stage": "발표",
-        "storyId": "20261029-pm-soc-01",
-        "title": "교육부, 수능 스마트안경 부정행위 형사고발·감독 강화…응시 제한 확대 추진"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
     },
     {
       "categories": [
@@ -11320,7 +11384,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 877,
+  "storyCount": 884,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-15T15:15:53.219711+09:00"
+  "updatedAt": "2026-11-15T21:13:01.726835+09:00"
 }

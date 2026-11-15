@@ -1,0 +1,623 @@
+{
+  "cutoffAt": "2026-11-15T21:00:00+09:00",
+  "date": "2026-11-15",
+  "edition": "pm",
+  "eventCoverageNote": "16일 불법 사금융 온라인 창구 개설과 AI 부정행위 대응 관계부처 회의 예정은 해당 기사 본문에 반영했습니다.",
+  "eventOmissionNote": "별도 공식 원문으로 검증한 일정 자료가 제공되지 않아 일정 목록은 비웠습니다. 기사에 인용된 당국의 예정 발표를 실제 개설·회의 결과로 표현하지 않았습니다.",
+  "events": [],
+  "finalizedAt": "2026-11-15T21:15:45.084192+09:00",
+  "generatedAt": "2026-11-15T21:13:01.726835+09:00",
+  "id": "2026-11-15-pm",
+  "intro": "11월 15일 오후 브리핑입니다. 제공된 본문과 이전 대표·예비 발행 이력을 비교해 중요한 새 소식 7건을 선정했습니다.",
+  "keywords": [],
+  "omissionNotes": [
+    {
+      "category": "과학·기술",
+      "reason": "연구수당 판결 기사는 원심을 원고 패소라고 쓰면서 다른 대목에서는 1·2심 원고 승소라고 설명합니다. 판결문을 확보하지 못해 결론과 일반적인 연구수당의 임금성을 확정하지 않고 보류했습니다.",
+      "scope": "미편성 후보"
+    },
+    {
+      "category": "과학·기술",
+      "reason": "PHP·라자루스 분석은 오전판에서 제외한 기존 보고서 관련 사건으로, 이전 보도 이후 실제 새 사실이 공개됐다는 시점 근거가 없습니다. 국민일보 본문의 메타엠·코인원 부분만 해당 침해 사건의 추가 출처로 보존했습니다.",
+      "scope": "미편성 후보"
+    },
+    {
+      "category": "웹툰산업",
+      "reason": "제공된 조사에서 중요한 비반복 신규 사건의 검증 근거가 없어 편성하지 않았습니다.",
+      "scope": "미편성 분야"
+    }
+  ],
+  "overview": [
+    "이란의 바레인 미군 시설 드론 공격을 놓고 이란은 레이더 파괴를, 미국은 전량 요격을 주장했습니다. 코인원 고객상담 수탁사에서는 상담정보 유출이 확인돼 민감정보 악용 우려가 제기됐습니다.",
+    "정부는 국가자격시험의 AI 부정행위 의심 사례 전수조사와 수능 기기 점검 절차 마련을 추진합니다. 미국 항공 중단 여파는 다음 날에도 대규모 결항·지연으로 이어졌습니다.",
+    "금감원의 금융접근성·취약차주 보호 개선계획과 16일 불법 사금융 피해지원 온라인 창구 개설 예정을 담았습니다. MS 업무 서비스는 회사가 복구를 발표했습니다."
+  ],
+  "overviewEmphasis": [
+    "전량 요격",
+    "상담정보 유출",
+    "AI 부정행위 의심 사례 전수조사",
+    "대규모 결항·지연",
+    "복구를 발표"
+  ],
+  "publicationNote": "분야별 할당 없이 영향 범위와 실제 변화, 생활 영향을 비교했습니다. 예비는 편성하지 않았습니다. 연구수당 판결 보도는 본문 내 원심 결과가 상충해 보류했습니다. 기사 시각은 제공된 metadata를 사용했으며 생성·출처 검증시각과 발행 완료 여부는 프로그램 기록 대상으로 남겼습니다.",
+  "recordId": "2026-11-15-pm",
+  "scheduledFor": "2026-11-15T21:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "alternatives": [],
+      "category": "국제정세",
+      "emphasis": [
+        "드론 2대",
+        "모두 요격",
+        "독립적으로 확인되지 않았습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "바레인 시설 공격은 현지 11월13일, 유조선 피해 주장은 14일입니다. 개별 사건의 정확한 시각은 확인되지 않았습니다.",
+      "factsHash": "7b2b3111fe26251a7e0a03b955749557f8d095e10a8d8708f0d4cf980a4616ab",
+      "followUp": {
+        "delta": "미국의 대이란 국경 검문소 폐쇄 요청 이후 이란의 바레인 미군 시설 드론 공격 발표와 미 중부사령부의 전량 요격 반박, 14일 유조선 피해 주장이 추가됐습니다.",
+        "editionId": "2026-11-09-am",
+        "storyId": "20261109-am-int-01"
+      },
+      "id": "20261115-pm-int-01",
+      "keyFacts": {
+        "미국 입장": "드론 전량 요격 반박",
+        "바레인 공격": "현지 11월13일 드론 2대 발사 보도",
+        "유조선 피해": "현지 14일 3척 기뢰 충돌·화재 주장, 독립 확인 없음",
+        "이란 입장": "미군 레이더 파괴 주장"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T17:56:09+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "한겨레",
+          "publishedAt": "2026-11-15T17:56:09+09:00",
+          "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
+          "url": "https://n.news.naver.com/mnews/article/028/0002832305",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/028/0002832305",
+      "score": 95.2,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 98,
+        "interest": 89,
+        "recency": 100,
+        "reliability": 85
+      },
+      "scoreReason": "15일 17시56분 게시·18시16분 수정 본문입니다. KBS의 북한 인사 방러보다 직접 군사충돌과 원유 수송의 영향 범위·지속성을 우선했습니다. 오전 공격 보류 가능성 보도를 반복하지 않고 새 공격 발표와 상반된 당국 설명을 선정했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "한겨레",
+          "publishedAt": "2026-11-15T17:56:09+09:00",
+          "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
+          "url": "https://n.news.naver.com/mnews/article/028/0002832305",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "이란이 13일 바레인 미군 레이더 시설을 겨냥해 드론 2대를 발사했다고 보도됐습니다. 이란 혁명수비대는 레이더 파괴를 주장했지만 미 중부사령부는 드론을 모두 요격했다고 반박했습니다.",
+        "이란 국영 이르나통신은 14일 호르무즈해협에서 유조선 3척이 기뢰에 부딪혀 화재가 발생했다고 전했습니다. 레이더 파괴와 유조선 피해는 제공된 근거에서 독립적으로 확인되지 않았습니다.",
+        "기존 미국의 국경 통제 요구·공격 보류 가능성 보도와 구별되는 공격 발표입니다. 역내 확전과 원유 수송에 중요하지만 피해 규모와 미국의 후속 군사행동은 미확정입니다."
+      ],
+      "timeline": {
+        "change": "바레인 미군 시설 공격 발표와 미국의 요격 반박이 나왔습니다. 피해 결과는 독립적으로 확인되지 않았습니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "us-iran-military",
+        "issueTitle": "미국·이란 군사 대응",
+        "stage": "후속"
+      },
+      "title": "이란, 바레인 미군 시설 공격 발표…미국은 전량 요격 반박",
+      "topicKey": "iran-bahrain-us-radar-drone-attack-hormuz-tankers-2026-11",
+      "uncertainty": "레이더 파괴와 유조선 피해의 독립 확인, 최종 피해 및 후속 군사행동은 미확정입니다.",
+      "whatChanged": "미국의 수송망 통제 요구 이후 이란의 미군 시설 공격 발표와 미국의 요격 반박, 새 유조선 피해 주장이 추가됐습니다.",
+      "whyItMatters": "미군과 이란의 직접 충돌 및 호르무즈 원유 수송 위험은 국제 에너지 비용과 생활물가에 광범위하게 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "경제·생활경제",
+      "emphasis": [
+        "주민등록번호·계좌번호·비밀번호",
+        "피해 인원은 확인되지 않았습니다",
+        "2차 피해"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "회사 설명상 메타엠 불법 접근은 12일 04시쯤, 코인원의 보고 수령은 같은 날 09시20분쯤입니다. 고객 안내는 15일이며 정확한 유출시각은 조사 중입니다.",
+      "factsHash": "361ec930fba6d3160e2de0f499607c9ebca3db7142ed12a189627c51b627c941",
+      "id": "20261115-pm-eco-01",
+      "keyFacts": {
+        "대상 정보": "고객이 상담 과정에서 직접 제공한 정보, 개인별 상이",
+        "수탁사": "메타엠",
+        "침입 시점": "회사 설명상 2026-11-12 04시쯤",
+        "코인원 인지": "회사 설명상 2026-11-12 09시20분쯤",
+        "피해 인원": "미확인"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T09:45:16+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "조선비즈",
+          "publishedAt": "2026-11-15T09:45:16+09:00",
+          "title": "코인원 “고객상담 위탁사 해킹에 이름·계좌 등 개인정보 유출”",
+          "url": "https://n.news.naver.com/mnews/article/366/0001204810",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "국민일보",
+          "publishedAt": "2026-11-15T17:23:09+09:00",
+          "title": "‘北연계’ 라자루스, 韓 서버 30곳 노렸다",
+          "url": "https://n.news.naver.com/mnews/article/005/0001885204",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/366/0001204810",
+      "score": 92.95,
+      "scoreComponents": {
+        "domesticImpact": 96,
+        "importance": 97,
+        "interest": 91,
+        "recency": 85,
+        "reliability": 89
+      },
+      "scoreReason": "15일 09시45분 본문입니다. SBS의 굽네치킨 납품사업 조사와 부업 강의 피해 취재보다 민감 금융정보의 지속적 악용 가능성과 피해 예방의 직접성을 우선했습니다. 국민일보의 메타엠·코인원 보도는 같은 사건의 추가 근거로 보존하고 PHP 분석을 별도 재편성하지 않았습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "조선비즈",
+          "publishedAt": "2026-11-15T09:45:16+09:00",
+          "title": "코인원 “고객상담 위탁사 해킹에 이름·계좌 등 개인정보 유출”",
+          "url": "https://n.news.naver.com/mnews/article/366/0001204810",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "국민일보",
+          "publishedAt": "2026-11-15T17:23:09+09:00",
+          "title": "‘北연계’ 라자루스, 韓 서버 30곳 노렸다",
+          "url": "https://n.news.naver.com/mnews/article/005/0001885204",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "코인원의 고객상담 수탁사 메타엠 서버가 해킹돼 상담정보가 조회·유출됐다고 회사가 밝혔습니다. 상담 과정에서 직접 남긴 주민등록번호·계좌번호·비밀번호 등이 유출됐을 가능성이 있습니다.",
+        "유출 항목은 개인별 상담 내용에 따라 다르며 피해 인원은 확인되지 않았습니다. 코인원은 회원 계정·거래·지갑 시스템이 분리돼 있고 해당 시스템의 직접 침입 정황은 확인되지 않았다고 설명했습니다.",
+        "회사는 관계기관 신고와 접근 차단을 알리고 피싱·명의도용 등 2차 피해를 경고했습니다. 상담 중 비밀번호를 제공한 이용자에게 동일한 비밀번호를 쓰는 다른 서비스까지 변경하도록 당부했습니다."
+      ],
+      "timeline": {
+        "change": "수탁사 침해와 상담정보 유출·고객 통지가 공개됐습니다. 전체 피해 범위는 조사 중입니다.",
+        "eventDate": "2026-11-12",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "coinone-meta-m-customer-support-data-breach-2026",
+        "issueTitle": "코인원 고객상담 수탁사 메타엠 침해와 개인정보 유출",
+        "stage": "보도"
+      },
+      "title": "코인원 고객상담 수탁사 해킹…상담 중 제공한 민감정보 유출 가능성",
+      "topicKey": "coinone-meta-m-customer-support-data-breach-2026-11",
+      "uncertainty": "정확한 유출 인원·항목·시점과 공격 주체, 실제 악용 피해는 미확정입니다.",
+      "whatChanged": "별도 고객상담 수탁사의 침해와 코인원 고객정보 유출 가능성, 고객 통지·관계기관 신고가 공개됐습니다.",
+      "whyItMatters": "금융 관련 민감정보의 악용과 계정 탈취·명의도용 등 지속적인 후속 피해 가능성에 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "정치·정책",
+      "emphasis": [
+        "의심 사례를 전수조사",
+        "AI 기기 점검 절차",
+        "부정행위 입증"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "청와대 긴급회의는 15일 오후입니다. 정확한 회의·발표시각은 확인되지 않았으며 관계부처 차관회의는 16일 예정입니다.",
+      "factsHash": "2369b8d1d8568ac7c0386d2e0690234ded273f41b362b15c9f21fb41bde8a0e0",
+      "followUp": {
+        "delta": "기존 수능 스마트안경 형사 대응·감독 강화 발표 이후 국가자격시험 전체 의심 사례 전수조사와 전체 수능 수험생의 AI 기기 점검 절차 마련 방침이 추가됐습니다.",
+        "editionId": "2026-10-29-pm",
+        "storyId": "20261029-pm-soc-01"
+      },
+      "id": "20261115-pm-pol-01",
+      "keyFacts": {
+        "방침 발표일": "2026-11-15",
+        "수능 대응": "전체 수험생 대상 AI 기기 점검 절차 마련",
+        "조사 범위": "국가자격시험 전체의 AI 부정행위 의심 사례",
+        "추가 회의": "2026-11-16 관계부처 차관회의 예정"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T18:31:11+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "kbc광주방송",
+          "publishedAt": "2026-11-15T18:31:11+09:00",
+          "title": "靑 \"국가자격시험 전체 AI활용 부정행위 의심 사례 전수조사\"",
+          "url": "https://n.news.naver.com/mnews/article/660/0000121414",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/660/0000121414",
+      "reserveUpdate": {
+        "delta": "산업인력공단의 세무사시험 점검 결과 보도 이후, 15일 청와대가 국가자격시험 전체의 AI 부정행위 의심 사례 전수조사와 수능 AI 기기 점검 절차 마련 방침을 발표했습니다.",
+        "editionId": "2026-11-13-am",
+        "publishedAt": "2026-11-15T18:31:11+09:00",
+        "sourceUrl": "https://n.news.naver.com/mnews/article/660/0000121414"
+      },
+      "score": 95.45,
+      "scoreComponents": {
+        "domesticImpact": 97,
+        "importance": 96,
+        "interest": 86,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "15일 18시31분 당일 회의 보도입니다. 머니투데이의 최민희 윤리심판원 이첩보다 전국 자격·대입시험과 수험생 절차에 미치는 범위를 우선했습니다. 이전 예비의 세무사시험 점검과 차이를 reserveUpdate에 기록하고 기존 수능 대응 이슈에 연결했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "kbc광주방송",
+          "publishedAt": "2026-11-15T18:31:11+09:00",
+          "title": "靑 \"국가자격시험 전체 AI활용 부정행위 의심 사례 전수조사\"",
+          "url": "https://n.news.naver.com/mnews/article/660/0000121414",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "예정",
+      "summary": [
+        "청와대가 15일 긴급회의에서 국가자격시험 전체의 AI 활용 부정행위 의심 사례를 전수조사하고 수능 수험생 대상 AI 기기 점검 절차를 마련하기로 했습니다. 조사 완료나 부정행위 입증을 발표한 것은 아닙니다.",
+        "시험장별 AI 기기 판단 전담 인력과 감독관 교육 등 관리체계를 점검했습니다. 일반 안경이나 의료기기 착용 수험생이 위축되는 피해가 없도록 관리하라는 당부도 나왔습니다.",
+        "정부는 16일 관계부처 차관회의에서 대응책을 추가 논의할 예정입니다. 기존 스마트안경 대응과 세무사시험 점검 이후 조사 범위·수험생 점검 절차가 확대된 방침입니다."
+      ],
+      "timeline": {
+        "change": "국가자격시험 의심 사례 전수조사와 수능 AI 기기 점검 절차 마련 방침이 추가됐습니다.",
+        "eventDate": "2026-11-15",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "csat-smart-glasses-cheating-response-2026",
+        "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+        "stage": "후속"
+      },
+      "title": "정부, 국가자격시험 AI 부정행위 의심 사례 전수조사·수능 기기 점검 추진",
+      "topicKey": "national-qualification-exams-ai-cheating-review-csat-device-check-2026-11-15",
+      "uncertainty": "구체적인 점검 방법과 조사 결과, 개별 부정행위 입증 및 실제 시행 효과는 미확정입니다.",
+      "whatChanged": "기존 감독 강화와 개별 시험 점검에서 국가자격시험 전체 의심 사례 조사 및 수능 기기 점검 절차 마련 방침으로 확대됐습니다.",
+      "whyItMatters": "국가자격과 대입시험의 공정성 및 전국 수험생의 현장 응시 절차에 직접 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "생활·안전",
+      "emphasis": [
+        "5300편 이상",
+        "6000편 이상",
+        "복구 완료 발표가 아니며"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "피해 집계는 미국 현지 11월14일 16시 기준입니다. 해당 집계의 시간대가 본문에 명시되지 않아 한국시간으로 환산하지 않았습니다.",
+      "factsHash": "63af7981837c69d66f98749ce78fd83c972e8024fb6fed2f3b66ddb0221f5f53",
+      "followUp": {
+        "delta": "최초 전국 출발 중단 이후 현지 14일 16시 취소 5300편 이상·지연 6000편 이상이라는 다음 날 피해와 통신망 교체 작업 중 차질이라는 당국 설명이 추가됐습니다.",
+        "editionId": "2026-11-14-am",
+        "storyId": "20261114-am-safe-01"
+      },
+      "id": "20261115-pm-safe-01",
+      "keyFacts": {
+        "원인 설명": "통신망 교체 중 차질, 교통장관 설명",
+        "지연": "6000편 이상, CNN 인용",
+        "집계 기준": "2026-11-14 16시 미국 현지, 시간대 미기재",
+        "취소": "5300편 이상, CNN 인용"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T06:43:56+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-15T06:43:56+09:00",
+          "title": "미 항공 중단사태 후폭풍 계속...CNN \"5천 편 이상 결항\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002432969",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/052/0002432969",
+      "score": 83.4,
+      "scoreComponents": {
+        "domesticImpact": 91,
+        "importance": 95,
+        "interest": 85,
+        "recency": 50,
+        "reliability": 89
+      },
+      "scoreReason": "15일 06시43분 게시·06시48분 수정 본문입니다. SBS의 부업 강의 피해 및 머니투데이의 개별 손해배상 집행보다 국제 이동 차질의 규모를 우선했습니다. 이전 회차의 최초 집계와 다른 날짜의 피해·원인 설명만 후속으로 사용했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-15T06:43:56+09:00",
+          "title": "미 항공 중단사태 후폭풍 계속...CNN \"5천 편 이상 결항\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002432969",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "미국 전국 항공편 이륙 중단의 여파가 다음 날에도 이어졌습니다. CNN을 인용한 YTN 보도에서 현지 14일 16시 기준 5300편 이상이 취소되고 6000편 이상이 지연됐습니다.",
+        "미 교통장관은 외주업체가 통신망을 구리에서 광섬유로 교체하던 중 차질이 발생했다고 설명했습니다. 작업 오류인지 장비 결함인지는 조사 중입니다.",
+        "FAA 청장은 15일 업무 종료까지 운항 일정이 정상화할 것으로 전망했습니다. 이는 복구 완료 발표가 아니며 승무원·항공기 재배치에 따른 추가 차질 가능성도 남아 있습니다."
+      ],
+      "timeline": {
+        "change": "다음 날에도 대규모 취소·지연이 집계됐고 교체 작업 관련 설명이 추가됐습니다. 정상화는 미확인입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "faa-national-ground-stop-communications-outage-2026",
+        "issueTitle": "미국 FAA 관제 통신 장애와 전국 출발편 중단",
+        "stage": "후속"
+      },
+      "title": "미 항공 중단 여파 지속…현지 14일 5300편 이상 취소",
+      "topicKey": "faa-outage-next-day-flight-cancellations-2026-11-14",
+      "uncertainty": "작업 오류·장비 결함 여부와 최종 피해, 실제 정상화 완료는 미확정입니다.",
+      "whatChanged": "최초 전국 이륙 중단 이후 다음 날의 취소·지연 규모와 통신망 교체 작업 관련 당국 설명이 추가됐습니다.",
+      "whyItMatters": "대규모 국제 이동과 물류 차질이 이어져 여행자 일정과 항공 운영의 지속성에 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "경제·생활경제",
+      "emphasis": [
+        "시행 완료는 아닙니다",
+        "전국 991개",
+        "안내·환급 확대"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "자문위원회는 12일 열렸으며 금감원은 논의 내용을 15일 발표했습니다. 정확한 회의·발표시각은 확인되지 않았습니다.",
+      "factsHash": "4396cd905e58b3efedf9d94ad0ceb29e8f54d9ef3df55afb14d83975de82fc93",
+      "id": "20261115-pm-eco-02",
+      "keyFacts": {
+        "공개일": "2026-11-15",
+        "탄력점포": "2026년 9월 말 991개",
+        "현역병 대책": "대부업 일반 신용대출 제한 추진, 담보·비상금대출 기준 유지 방침",
+        "회의일": "2026-11-12"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T13:08:17+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "아시아경제",
+          "publishedAt": "2026-11-15T13:08:17+09:00",
+          "title": "은행 영업시간 단축에 탄력점포 확대…현역병 대부업 신용대출 제한",
+          "url": "https://n.news.naver.com/mnews/article/277/0005842718",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/277/0005842718",
+      "score": 94.3,
+      "scoreComponents": {
+        "domesticImpact": 96,
+        "importance": 94,
+        "interest": 84,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "15일 13시08분 게시·13시26분 수정 본문입니다. SBS의 특정 기업 부당지원 조사보다 은행 접근성·대부업·선불충전금에 걸친 반복적 생활 영향을 우선했습니다. 기존 은행 개점시간 조정 자체를 새 결정으로 세지 않고 대응 개선계획을 선정했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "아시아경제",
+          "publishedAt": "2026-11-15T13:08:17+09:00",
+          "title": "은행 영업시간 단축에 탄력점포 확대…현역병 대부업 신용대출 제한",
+          "url": "https://n.news.naver.com/mnews/article/277/0005842718",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "검토",
+      "summary": [
+        "금감원이 은행 탄력점포의 운영일·시간·취급업무 확대와 현역병 대상 대부업 일반 신용대출 제한 등을 추진합니다. 12일 금융소비자보호자문위원회 논의 내용을 15일 공개한 것으로 시행 완료는 아닙니다.",
+        "올해 9월 말 탄력점포는 전국 991개입니다. 금감원은 금융위·은행권과 운영 개선을 협의하고, 현역병의 일반 신용대출 제한을 위한 대부업권 표준업무방법서를 연내 제정할 방침입니다.",
+        "장기 미사용 선불충전금의 안내·환급 확대와 통지 주기 단축도 추진합니다. 구체적인 확대 규모와 적용일, 실제 환급·채무 감소 효과는 확인되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "자문위 논의를 바탕으로 소비자보호 개선계획을 공개했습니다. 시행과 효과는 미확정입니다.",
+        "eventDate": "2026-11-15",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "fss-consumer-protection-improvements-2026-11",
+        "issueTitle": "금감원 탄력점포·현역병 대출·선불충전금 소비자보호 개선",
+        "stage": "검토"
+      },
+      "title": "금감원, 탄력점포 확대·현역병 대부업 신용대출 제한 추진",
+      "topicKey": "fss-consumer-protection-flexible-branches-military-loans-2026-11-15",
+      "uncertainty": "협의·제도개선 단계로 확대 규모와 시행일, 실제 보호 효과는 미확정입니다.",
+      "whatChanged": "금감원이 탄력점포 운영과 취약차주·선불충전금 보호에 관한 구체적인 개선 추진방안을 공개했습니다.",
+      "whyItMatters": "은행 이용 접근성과 취약차주의 과잉채무 예방, 소비자 잔액 환급에 폭넓게 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "정치·정책",
+      "emphasis": [
+        "16일",
+        "온라인으로 24시간",
+        "무료"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "15일 보도의 금융위 발표입니다. 창구 개설은 16일 예정이며 정확한 개설시각은 확인되지 않았습니다.",
+      "factsHash": "ac7cf2ae3fbdcb0054b7cf44a7288c3c101f04d36d91660877a667aa7d234e3a",
+      "id": "20261115-pm-pol-02",
+      "keyFacts": {
+        "개설일": "2026-11-16 예정",
+        "비용": "상담부터 지원까지 무료 안내",
+        "신청 가능 시간": "개설 이후 24시간 안내",
+        "신청 경로": "신용회복위원회 홈페이지·앱"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T17:09:46+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "KBS",
+          "publishedAt": "2026-11-15T17:09:46+09:00",
+          "title": "‘불법 사금융’ 피해 지원, 24시간 온라인 접수",
+          "url": "https://n.news.naver.com/mnews/article/056/0012294143",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/056/0012294143",
+      "score": 93.25,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 93,
+        "interest": 81,
+        "recency": 100,
+        "reliability": 91
+      },
+      "scoreReason": "15일 17시09분 게시·17시27분 수정 본문입니다. 머니투데이의 정명석 관련 개별 압류·추심 명령과 정당 징계 절차보다 취약 피해자 전반의 지원 접근성을 바꾸는 구체적인 서비스 변경을 우선했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "KBS",
+          "publishedAt": "2026-11-15T17:09:46+09:00",
+          "title": "‘불법 사금융’ 피해 지원, 24시간 온라인 접수",
+          "url": "https://n.news.naver.com/mnews/article/056/0012294143",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "예정",
+      "summary": [
+        "금융위가 불법 사금융 피해지원 온라인 신청 창구를 16일 신용회복위원회 홈페이지와 앱에 개설한다고 밝혔습니다. 기준시각 현재 실제 운영 개시는 확인되지 않았습니다.",
+        "기존에는 서민금융통합지원센터를 방문해야 했지만 개설 이후에는 온라인으로 24시간 신청할 수 있다는 안내입니다. 신청이 접수되면 피해자별 전담자를 배정하고 상담부터 지원까지 무료로 진행할 예정입니다."
+      ],
+      "timeline": {
+        "change": "16일 온라인 창구 개설계획이 발표됐습니다. 실제 운영과 지원 성과는 미확인입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "illegal-private-finance-online-support-application-2026",
+        "issueTitle": "불법 사금융 피해지원 온라인 신청 창구 개설",
+        "stage": "발표"
+      },
+      "title": "불법 사금융 피해지원, 16일부터 온라인 24시간 신청 예정",
+      "topicKey": "illegal-private-finance-online-support-application-2026-11-16",
+      "uncertainty": "실제 개설·운영과 신청 처리 속도, 지원 성과는 미확인입니다.",
+      "whatChanged": "방문 신청 중심의 피해지원에 온라인 상시 신청 창구를 추가하는 구체적인 개설계획이 발표됐습니다.",
+      "whyItMatters": "불법 사금융 피해자가 시간·방문 제약을 줄여 지원을 신청할 수 있는 접근성 변화입니다."
+    },
+    {
+      "alternatives": [],
+      "category": "과학·기술",
+      "emphasis": [
+        "서비스를 복구",
+        "회사 설명 기준",
+        "복구 미확인"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "MS 복구 발표는 기사상 현지 14일 06시쯤입니다. 현지 시간대가 명시되지 않아 한국시간으로 환산하지 않았습니다.",
+      "factsHash": "14787883c20d26465ed193b378e15efc2c47da87c088bd019e6a819e492d0e40",
+      "fallbackNote": "전날 19시32분 보도로 기준시각 약 25시간28분 전 기사입니다. 기존 복구 미확인 상태를 바꾸는 회사 발표 결과를 선정했습니다.",
+      "followUp": {
+        "delta": "13일 16시 일부 기능 장애와 복구 미확인 보도 이후 MS가 현지 14일 나머지 영향 고객·지역의 서비스 복구 및 서버 원인 판단을 발표했습니다.",
+        "editionId": "2026-11-13-pm",
+        "storyId": "20261113-pm-tech-01"
+      },
+      "id": "20261115-pm-tech-01",
+      "keyFacts": {
+        "독립 검증": "제공되지 않음",
+        "발표 범위": "나머지 영향 고객·지역 서비스 복구",
+        "복구 발표": "현지 2026-11-14 06시쯤, 시간대 미기재",
+        "회사 원인 설명": "서버 문제, 사이버 공격 가능성 배제"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-14T19:32:10+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "kbc광주방송",
+          "publishedAt": "2026-11-14T19:32:10+09:00",
+          "title": "전 세계 업무 마비시킨 MS 서비스 장애 36시간 만에 복구",
+          "url": "https://n.news.naver.com/mnews/article/660/0000121364",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/660/0000121364",
+      "score": 77.55,
+      "scoreComponents": {
+        "domesticImpact": 91,
+        "importance": 92,
+        "interest": 88,
+        "recency": 25,
+        "reliability": 88
+      },
+      "scoreReason": "14일 19시32분 본문입니다. 디지털타임스 연구수당 기사는 원심 결과 서술이 상충해 보류했고, 국민일보 PHP 분석은 기존 보고서의 새 공개시점이 입증되지 않아 제외했습니다. MS는 기존 국제 업무 장애의 복구라는 새 결과여서 포함하되 진행 중인 피해·정책 변화보다 뒤에 배치했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "kbc광주방송",
+          "publishedAt": "2026-11-14T19:32:10+09:00",
+          "title": "전 세계 업무 마비시킨 MS 서비스 장애 36시간 만에 복구",
+          "url": "https://n.news.naver.com/mnews/article/660/0000121364",
+          "verifiedAt": "2026-11-15T21:07:13.862229+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "MS가 아웃룩·팀즈 등 업무 서비스 장애의 영향을 받던 나머지 고객과 지역에 대한 서비스를 복구했다고 밝혔습니다. kbc광주방송이 인용한 로이터 보도에 따른 회사 발표입니다.",
+        "MS는 서버 문제를 원인으로 설명하고 사이버 공격 가능성을 배제했습니다. 복구와 원인 판단은 회사 설명 기준이며 제공된 조사에 별도 독립 검증은 없습니다.",
+        "13일 오후판의 복구 미확인 상태에서 달라진 결과입니다. 기업·정부·금융·의료 등 업무 기반의 복구에 의미가 있지만 고객별 잔여 영향과 전체 손실 규모는 확인되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "MS가 나머지 영향 고객·지역의 복구를 발표했습니다. 고객별 잔여 영향과 전체 손실은 미확인입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "microsoft-365-global-service-outage-2026-11",
+        "issueTitle": "2026년 11월 MS 365 대규모 장애와 복구",
+        "stage": "후속"
+      },
+      "title": "MS, 글로벌 업무 서비스 복구 발표…최종 원인은 회사 설명 기준",
+      "topicKey": "microsoft-365-outage-restoration-announcement-2026-11-14",
+      "uncertainty": "회사 발표의 독립 검증과 고객별 잔여 영향, 전체 손실 규모는 미확인입니다.",
+      "whatChanged": "기존 일부 기능 장애·복구 미확인 상태 이후 MS의 나머지 영향 고객·지역 복구 발표가 추가됐습니다.",
+      "whyItMatters": "국제적으로 공유하는 업무 기반의 복구는 기업과 공공기관의 업무 지속성에 관련됩니다."
+    }
+  ],
+  "timezone": "Asia/Seoul",
+  "validationNotes": [
+    {
+      "code": "runtime_timestamps_required",
+      "reason": "generatedAt과 출처의 verifiedAt은 프로그램이 실제 실행·브라우저 확인 기록을 반영해야 하므로 임의로 넣지 않았습니다. 제공된 checkedAt은 모두 기준시각 이후이며 기사 publishedAt은 metadata의 실제 시각을 유지했습니다. 검증 통과·홈페이지 게시·전송 완료를 주장하지 않습니다."
+    },
+    {
+      "code": "prior_coverage_and_reserves_reviewed",
+      "reason": "이란 군사행동은 us-iran-military, 항공 차질과 MS 복구는 각각 기존 이슈의 최신 대표에 연결했습니다. AI 시험 대응은 기존 수능 대응 대표에 followUp을 연결하고 13일 오전 세무사시험 예비 이후의 새 방침을 reserveUpdate로 기록했습니다. 기존 대표·예비를 단순 재사용하지 않았습니다."
+    },
+    {
+      "code": "verified_related_articles_preserved",
+      "reason": "코인원 사건의 확인된 조선비즈·국민일보 본문을 함께 보존했습니다. 다른 사건은 직접 검증된 추가 동일 사건 기사가 없어 대표 근거만 보존했으며 비교한 경쟁 후보를 관련 기사로 추가하지 않았습니다."
+    },
+    {
+      "code": "event_date_timezone_pair_corrected",
+      "reason": "미 항공 차질 집계와 MS 복구 발표는 본문에 현지 날짜만 있고 출처 시간대가 명시되지 않았습니다. 시간대를 추정하지 않고 두 기사의 timeline.eventDate를 null로 수정했습니다. 현지 날짜와 시각은 eventTimeNote 및 keyFacts에 그대로 보존했습니다."
+    }
+  ]
+}
