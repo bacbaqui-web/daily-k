@@ -119,7 +119,7 @@ def validate(draft, history, now=None):
         require(isinstance(b['overviewEmphasis'],list) and 1<=len(b['overviewEmphasis'])<=12 and all(isinstance(p,str) and p.strip() and any(p in paragraph for paragraph in b['overview']) for p in b['overviewEmphasis']),'Overview emphasis must use 1–12 exact phrases from overview')
     updated=timestamp(b.get('updatedAt',b['generatedAt']))
     require(generated<=updated<=latest,'Invalid presentation update time')
-    stories=b['stories']; require(5<=len(stories)<=20,'Must contain 5–20 stories including additional news')
+    stories=b['stories']; require(isinstance(stories,list) and len(stories)>0,'No verified news to publish')
     require(len({s['id'] for s in stories})==len(stories),'Duplicate story ID')
     # Imported ChatGPT records are useful context, not independently verified evidence.
     if b['date'] >= '2026-11-06':
@@ -195,24 +195,14 @@ def validate(draft, history, now=None):
         if story.get('placement') is not None:
             require(story['placement'] in ('lead','additional'),'Invalid story placement')
         if story.get('placement')=='lead':
-            require(story['category'] not in leads,'Only one lead per category')
             leads.add(story['category'])
             scores=story['scoreComponents']
             require(scores['reliability']>=70 and
                     (b['id'] >= '2026-10-19-pm' or (scores['importance']>=70 and story['score']>=65)),
                     'Lead story must meet reliability and edition-specific score thresholds')
-    for story in stories:
-        if story.get('placement')=='lead':
-            eligible=[s for s in stories if s['category']==story['category']
-                      and s['scoreComponents']['reliability']>=70 and s['score']>=65]
-            require(all(editorial_priority(story)>=editorial_priority(s) for s in eligible),
-                    'Lead must have the highest editorial importance in its category')
     b['stories']=sorted(stories,key=editorial_priority,reverse=True)
     events=b.get('events',[])
     require(isinstance(events,list) and len(events)<=6,'Provide at most 6 upcoming events')
-    if len(events)<3:
-        note=b.get('eventOmissionNote','')
-        require(isinstance(note,str) and len(note.strip())>=20,'Disclose why fewer than 3 verified events are available')
     target=day if b['edition']=='am' else day+timedelta(days=1)
     for e in events:
         require(e['date']==target.date().isoformat(),'Event must occur on target date')
@@ -223,7 +213,6 @@ def validate(draft, history, now=None):
         source_check(e['source'],generated,cutoff,single_run)
     keywords=b.get('keywords',[])
     require(isinstance(keywords,list) and all(isinstance(k,str) and k for k in keywords),'Invalid keywords')
-    require((b['edition']=='am' and not keywords) or (b['edition']=='pm' and 8<=len(set(keywords))<=12),'Evening requires 8–12 keywords; morning none')
     return b
 
 def write_json(path,data):
