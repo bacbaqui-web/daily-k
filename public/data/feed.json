@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-15",
-  "collectedAt": "2026-11-15T08:59:18.273521+00:00",
+  "collectedAt": "2026-11-15T09:00:45.911824+00:00",
   "windowEnd": "2026-11-15T17:59:18.186010+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4429,6 +4429,59 @@
       "firstPublishedAt": "2026-11-14T09:47:12.953421+00:00"
     },
     {
+      "id": "aagag-1669784-0",
+      "url": "https://aagag.com/issue/?idx=1669784",
+      "source": "애객",
+      "title": "피지컬 깡패",
+      "publishedAt": "2026-11-15T17:51:15+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5u5g.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5u5g.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8984615",
+          "text": "무게 중심이 잘 잡혀있네요"
+        },
+        {
+          "id": "8984626",
+          "text": "미약한 물살 실망이다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-15T18:00:33.649896+09:00",
+      "sourceTitles": [
+        "ㅇㅎ?) 서핑 배우는 누나",
+        "피지컬 깡패",
+        "ㅎㅂ?) 서핑타는 안경녀",
+        "'피지컬 깡패'"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-15T09:00:45.807659+00:00",
+      "collectedAt": "2026-11-15T18:00:45.807676+09:00",
+      "firstPublishedAt": "2026-11-15T09:00:45.975287+00:00"
+    },
+    {
       "id": "aagag-1669741-0",
       "url": "https://aagag.com/issue/?idx=1669741",
       "source": "애객",
@@ -4887,7 +4940,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
