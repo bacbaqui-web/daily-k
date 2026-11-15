@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T05:40:30.065183+09:00",
-  "windowEnd": "2026-11-16T05:36:25.405568+09:00",
+  "collectedAt": "2026-11-15T20:50:51.939937+00:00",
+  "windowEnd": "2026-11-16T05:50:51.854779+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3361,58 +3361,12 @@
       "sourceTitlesFetchedAt": "2026-11-14T23:04:38.277396+00:00",
       "collectedAt": "2026-11-15T08:04:38.277416+09:00",
       "firstPublishedAt": "2026-11-14T23:04:38.378330+00:00"
-    },
-    {
-      "id": "aagag-1669627-0",
-      "url": "https://aagag.com/issue/?idx=1669627",
-      "source": "애객",
-      "title": "ㅇㅎ) 팬들보고 반가워서 다가오는 김현영 치어리더.gif",
-      "publishedAt": "2026-11-15T05:34:23+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5jqs.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5jqs.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-15T05:41:46.493728+09:00",
-      "sourceTitles": [
-        "팬들보고 반가워서 다가오는 김현영 치어리더.gif",
-        "ㅇㅎ) 팬들보고 반가워서 다가오는 김현영 치어리더.gif",
-        "ㅇㅎ) 팬들보고 반가워서 다가오는 김현영 치어리더.gif",
-        "ㅇㅎ) 다가오는 김현영 치어리더.gif",
-        "ㅇㅎ?) 김현영 치어리더 퇴근길 시스루 팬서비스.mp4",
-        "ㅇㅎ) 김현영 치어리더 퇴근길 팬서비스.mp4"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-14T20:41:59.924503+00:00",
-      "collectedAt": "2026-11-15T05:41:59.924522+09:00",
-      "firstPublishedAt": "2026-11-14T20:42:00.152418+00:00"
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
