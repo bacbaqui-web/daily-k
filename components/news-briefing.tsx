@@ -95,7 +95,7 @@ function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecor
   window.addEventListener('keydown',navigate,true);return()=>window.removeEventListener('keydown',navigate,true);
  },[active,brief.stories.length]);
  return <Dialog open={story!==null} disablePointerDismissal={false} onOpenChange={open=>{if(!open)setActive(null)}}>
-  <div className="news-main-sections">{grouped.sections.map(section=><section className="news-category-section" key={section.label} aria-label={section.label} id={section.label==='생활·안전'?'news-safety':undefined}>
+  <div className="news-main-sections">{grouped.sections.map(section=><section className="news-category-section" key={section.story?.id||section.label} aria-label={section.label} id={section.label==='생활·안전'?'news-safety':undefined}>
    <h2 className="news-section-heading">{section.icon} {section.label}</h2>
    {section.story?<ol className="posts news-stories">{[section.story].map(s=><li key={s.id}>
    <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(brief.stories.indexOf(s))}}>

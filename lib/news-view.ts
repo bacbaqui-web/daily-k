@@ -55,13 +55,12 @@ export function newsSection(category:string):string|null {
  return null;
 }
 export function sectionStories(stories:NewsViewStory[]) {
- const used=new Set<string>();
- const sections=NEWS_SECTIONS.map((label,i)=>{
-  const story=stories.find(s=>s.placement==='lead'&&newsSection(s.category)===label)||stories.find(s=>s.placement!=='additional'&&newsSection(s.category)===label);
-  if(story)used.add(story.id);
-  return {label,icon:NEWS_SECTION_ICONS[i],story};
+ const sections=stories.filter(s=>s.placement!=='additional').map(story=>{
+  const label=newsSection(story.category)||story.category;
+  const index=NEWS_SECTIONS.indexOf(label as typeof NEWS_SECTIONS[number]);
+  return {label,icon:index>=0?NEWS_SECTION_ICONS[index]:'📰',story};
  });
- return {sections,additional:stories.filter(s=>!used.has(s.id))};
+ return {sections,additional:stories.filter(s=>s.placement==='additional')};
 }
 export function briefingTitle(brief:Pick<NewsBrief,'date'|'edition'>) {
  const [year,month,day]=brief.date.split('-').map(Number);
