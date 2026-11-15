@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T08:03:26.372504+09:00",
-  "windowEnd": "2026-11-16T07:55:17.922490+09:00",
+  "collectedAt": "2026-11-15T23:13:50.263456+00:00",
+  "windowEnd": "2026-11-16T08:13:50.172160+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4444,93 +4444,12 @@
       "sourceTitlesFetchedAt": "2026-11-15T10:06:42.297495+00:00",
       "collectedAt": "2026-11-15T19:06:42.297512+09:00",
       "firstPublishedAt": "2026-11-15T10:06:42.416968+00:00"
-    },
-    {
-      "id": "aagag-1669650-0",
-      "url": "https://aagag.com/issue/?idx=1669650",
-      "source": "애객",
-      "title": "ㅇㅎ)테오갓픽까지는 아니라는 일본눈나",
-      "publishedAt": "2026-11-15T07:46:02+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Jr7Z5.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Jn477.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Jr7Zc.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/Jn47D.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/Jr7Z5.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/Jn477.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/Jr7Zc.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/Jn47D.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-15T08:04:28.209211+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 일본 눈나",
-        "ㅇㅎ) 호불호 갈릴듯 말듯 스시녀",
-        "ㅇㅎ)테오갓픽까지는 아니라는 일본눈나",
-        "ㅇㅎ)15장",
-        "ㅇㅎ?) 의외로 불호가 많다는 일본녀 스타일.",
-        "ㅇㅇㄱ) 근데 살면서 고소당하는거 걱정할일이 많음?",
-        "ㅇㅎ)호불호 갈린다는 스시녀",
-        "호불호 갈린다는 스시녀",
-        "ㅇㅎ)호불호 갈린다는 스시녀",
-        "ㅇㅎ)세랴인은 호불호갈린다는 일본눈나앙",
-        "틱톡 스시녀.jpg"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 11,
-      "sourceTitlesFetchedAt": "2026-11-14T23:04:38.277396+00:00",
-      "collectedAt": "2026-11-15T08:04:38.277416+09:00",
-      "firstPublishedAt": "2026-11-14T23:04:38.378330+00:00"
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
