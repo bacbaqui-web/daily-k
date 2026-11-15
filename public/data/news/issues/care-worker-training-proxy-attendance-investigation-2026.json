@@ -1,0 +1,55 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-15/am.json",
+      "category": "사회이슈",
+      "change": "대리출석 안내와 실습 관리 허점이 취재됐습니다. 실제 위반 규모와 책임은 미확정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "coveredOn": "2026-11-15",
+      "edition": "am",
+      "editionDate": "2026-11-15",
+      "editionId": "2026-11-15-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "복수 교육원 현장 취재입니다. 개별 방문·안내의 정확한 날짜와 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-15-am/20261115-am-soc-01",
+      "keyFacts": {
+        "불법 자격 취득 규모": "미확인",
+        "신규 교육과정": "320시간, 현장실습 80시간 포함",
+        "취재 내용": "복수 교육원의 별도 휴대전화 대리출석 안내"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-14T00:01:10+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "노컷뉴스",
+          "publishedAt": "2026-11-14T00:01:10+09:00",
+          "title": "'대리출석'하고 자격 취득?…요양보호사 자격증 불법 취득 '의혹'",
+          "url": "https://n.news.naver.com/mnews/article/079/0004209737",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261115-am-soc-01",
+      "summary": [
+        "일부 요양보호사교육원이 별도 휴대전화를 이용한 대리출석 방법을 안내했다고 노컷뉴스가 보도했습니다. 불법 자격 취득 인원이나 개별 범죄가 확정된 결과는 아닙니다.",
+        "취재된 두 교육원은 실제 수업에 참여하지 않아도 다른 사람이 전자출결 기록을 남길 수 있다는 취지로 설명했습니다. 현장실습 출결은 관리대장과 서류로 관리돼 실제 실습시간 확인에 한계가 제기됐습니다.",
+        "신규 교육과정은 총 320시간이며 현장실습은 80시간입니다. 돌봄 인력의 교육 신뢰와 이용자 보호에 관련되지만 전체 교육원의 운영 실태로 일반화할 수 없습니다."
+      ],
+      "supersededBy": [],
+      "title": "요양보호사교육원 대리출석 안내 취재…자격교육 출결 관리 허점",
+      "uncertainty": "실제 허위 수료·자격 취득 규모와 법 위반 판단, 감독·개선 결과는 미확정입니다."
+    }
+  ],
+  "id": "care-worker-training-proxy-attendance-investigation-2026",
+  "schemaVersion": 1,
+  "title": "요양보호사 자격교육 대리출석 의혹과 출결 관리",
+  "updatedAt": "2026-11-15T15:15:53.219711+09:00"
+}

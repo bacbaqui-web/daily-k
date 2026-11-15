@@ -1,6 +1,133 @@
 {
-  "editionCount": 118,
+  "editionCount": 119,
   "issues": [
+    {
+      "categories": [
+        "국제·외교",
+        "국제정세"
+      ],
+      "eventCount": 17,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-20",
+      "id": "us-iran-negotiations",
+      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "공격 보류 가능성에 관한 비공개 협의가 보도됐습니다. 실제 결정은 미확정입니다.",
+        "editionId": "2026-11-15-am",
+        "stage": "후속",
+        "storyId": "20261115-am-int-01",
+        "title": "로이터 “트럼프, 새 도발 없으면 이란 공격 보류 가능성 시사”"
+      },
+      "path": "us-iran-negotiations.json",
+      "title": "미국·이란 협상과 외교적 조치"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "firstCoveredDate": "2026-11-15",
+      "id": "retirement-pension-q3-2026-assets-returns",
+      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "적립금 감소와 유형별 누적수익률 하락이 보도됐습니다. 개인별 손익은 별도입니다.",
+        "editionId": "2026-11-15-am",
+        "stage": "보도",
+        "storyId": "20261115-am-eco-01",
+        "title": "3분기 퇴직연금 적립금 11.8조원 감소…DC형 누적수익률 하락"
+      },
+      "path": "retirement-pension-q3-2026-assets-returns.json",
+      "title": "2026년 3분기 퇴직연금 적립금과 운용수익률"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-04T09:15:48.078092+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "prosecution-manipulation-special-counsel-bill-2026",
+      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "공포안의 17일 국무회의 상정 예정이 보도됐습니다. 의결·재가·공포는 미확인입니다.",
+        "editionId": "2026-11-15-am",
+        "stage": "후속",
+        "storyId": "20261115-am-pol-01",
+        "title": "조작기소 특검법 공포안, 17일 국무회의 상정 예정"
+      },
+      "path": "prosecution-manipulation-special-counsel-bill-2026.json",
+      "title": "조작기소 의혹 특별검사법 입법과 권한 조정"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "정부가 공급·협력 지속 계획을 점검했습니다. CEO 교체도 보도됐으며 전체 납품·사업 성과는 미확인입니다.",
+        "editionId": "2026-11-15-am",
+        "stage": "후속",
+        "storyId": "20261115-am-tech-01",
+        "title": "정부, 엔비디아와 GPU 26만장 공급·국내 협력 지속 재확인"
+      },
+      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
+      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "firstCoveredDate": "2026-11-15",
+      "id": "expressway-acc-related-crashes-safety-2026",
+      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "10월 말까지 관련 사고 6건·사망 8명 집계가 보도됐습니다. 개별 사고 원인과 책임은 조사 중입니다.",
+        "editionId": "2026-11-15-am",
+        "stage": "보도",
+        "storyId": "20261115-am-safe-02",
+        "title": "도로공사 “올해 10월까지 ACC 사용 관련 고속도로 사고로 8명 사망”"
+      },
+      "path": "expressway-acc-related-crashes-safety-2026.json",
+      "title": "고속도로 ACC 관련 사고 집계와 주행보조 기능 안전"
+    },
+    {
+      "categories": [
+        "사회이슈"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "firstCoveredDate": "2026-11-15",
+      "id": "care-worker-training-proxy-attendance-investigation-2026",
+      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
+      "lastCoveredDate": "2026-11-15",
+      "latest": {
+        "archive": false,
+        "change": "대리출석 안내와 실습 관리 허점이 취재됐습니다. 실제 위반 규모와 책임은 미확정입니다.",
+        "editionId": "2026-11-15-am",
+        "stage": "보도",
+        "storyId": "20261115-am-soc-01",
+        "title": "요양보호사교육원 대리출석 안내 취재…자격교육 출결 관리 허점"
+      },
+      "path": "care-worker-training-proxy-attendance-investigation-2026.json",
+      "title": "요양보호사 자격교육 대리출석 의혹과 출결 관리"
+    },
     {
       "categories": [
         "생활·안전"
@@ -448,28 +575,6 @@
     },
     {
       "categories": [
-        "국제·외교",
-        "국제정세"
-      ],
-      "eventCount": 16,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-20",
-      "id": "us-iran-negotiations",
-      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
-      "lastCoveredDate": "2026-11-13",
-      "latest": {
-        "archive": false,
-        "change": "트럼프가 합의 불필요 입장과 밴스의 역할 변경 지시를 공개했습니다. 외교 접촉 전체의 중단은 미확인입니다.",
-        "editionId": "2026-11-13-am",
-        "stage": "후속",
-        "storyId": "20261113-am-int-01",
-        "title": "트럼프, 이란 합의 불필요 주장…밴스에 국내 문제 전담 지시"
-      },
-      "path": "us-iran-negotiations.json",
-      "title": "미국·이란 협상과 외교적 조치"
-    },
-    {
-      "categories": [
         "웹툰산업"
       ],
       "eventCount": 1,
@@ -786,27 +891,6 @@
       },
       "path": "park-jumin-equality-bill-2026.json",
       "title": "박주민 의원 평등법 발의와 차별금지 입법 논의"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
-      "firstCoveredDate": "2026-11-09",
-      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
-      "lastCoveredAt": "2026-11-12T09:16:24.574100+09:00",
-      "lastCoveredDate": "2026-11-12",
-      "latest": {
-        "archive": false,
-        "change": "CEO 거취 결정 회의 계획이 보도됐습니다. 실제 개최·의결과 의혹의 실체는 미확정입니다.",
-        "editionId": "2026-11-12-am",
-        "stage": "후속",
-        "storyId": "20261112-am-tech-01",
-        "title": "WSJ 보도, 엔비디아 이사회 젠슨 황 거취 결정 회의 추진"
-      },
-      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
-      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
     },
     {
       "categories": [
@@ -2885,27 +2969,6 @@
       },
       "path": "sk-hynix-dalian-equipment-export-license-hold-2026.json",
       "title": "SK하이닉스 다롄 공장 장비 수출 허가 협상과 미국 투자 구상"
-    },
-    {
-      "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-04T09:15:48.078092+09:00",
-      "firstCoveredDate": "2026-11-04",
-      "id": "prosecution-manipulation-special-counsel-bill-2026",
-      "lastCoveredAt": "2026-11-04T09:15:48.078092+09:00",
-      "lastCoveredDate": "2026-11-04",
-      "latest": {
-        "archive": false,
-        "change": "민주당이 특검법 처리를 당론으로 채택하고 권한 조항 삭제 방침을 밝혔습니다. 법안 통과는 미확정입니다.",
-        "editionId": "2026-11-04-am",
-        "stage": "발표",
-        "storyId": "20261104-am-pol-01",
-        "title": "민주당, 조작기소 특검법 처리 당론 채택…공소취소 관련 조항 삭제 방침"
-      },
-      "path": "prosecution-manipulation-special-counsel-bill-2026.json",
-      "title": "조작기소 의혹 특별검사법 입법과 권한 조정"
     },
     {
       "categories": [
@@ -11257,7 +11320,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 871,
+  "storyCount": 877,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-14T21:48:30.371337+09:00"
+  "updatedAt": "2026-11-15T15:15:53.219711+09:00"
 }

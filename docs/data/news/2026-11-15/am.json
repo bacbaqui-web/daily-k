@@ -1,0 +1,527 @@
+{
+  "cutoffAt": "2026-11-15T09:00:00+09:00",
+  "date": "2026-11-15",
+  "edition": "am",
+  "eventCoverageNote": "한국시간 11월15일 09시 이후 당일의 주요 공식 일정은 제공된 조사에서 검증하지 못했습니다.",
+  "eventOmissionNote": "2026-11-15 09:00 KST 이후 당일의 중요 공식 일정을 대상으로 한국은행·통계청·정책브리핑, 미국 BLS·연준, ASEAN·COP31 공식 출처를 조사한 기록을 반영했습니다. ASEAN 검색 결과에는 15~17일 마닐라 정상회의 기간이 있었으나 공식 페이지 직접 읽기가 403으로 실패했고 당일 개회 시각도 확인하지 못했습니다. COP31의 15일 사회·문화 프로그램은 중요도 조건에 미달했습니다. BLS·연준에서 당일 조건에 맞는 주요 일정을 확보하지 못했고 연준 산업생산 발표는 17일로 대상 밖입니다. 국내 및 AI기업 실적 일정도 당일 날짜·시각을 공식 근거로 검증하지 못했습니다. 관찰 변수로 수를 채우지 않았으며 일정 부족만으로 발행을 거부하지 않습니다.",
+  "events": [],
+  "finalizedAt": "2026-11-15T15:19:02.619642+09:00",
+  "generatedAt": "2026-11-15T15:15:53.219711+09:00",
+  "id": "2026-11-15-am",
+  "intro": "11월 15일 오전 브리핑입니다. 제공된 본문 근거와 발행 이력을 비교해 중요한 기사 6건을 선정했습니다.",
+  "keywords": [],
+  "omissionNotes": [
+    {
+      "category": "경제·생활경제",
+      "reason": "ESS 후보 본문은 확인됐으나 2026-11-10-pm rank 2 예비가 이미 같은 3차 ESS 입찰의 공급업체 축소와 가격 상승 관측을 다뤘습니다. 새 기사에 불참 입장과 1180MW 규모가 제시됐지만 해당 사실이 이전 cutoffAt 이후 처음 공개됐다는 근거는 없습니다. 반복 제외 기준에 따라 제외했으며 다른 예비도 편성하지 않았습니다.",
+      "scope": "미편성 후보"
+    },
+    {
+      "category": "웹툰산업",
+      "reason": "네이버웹툰 채용 공고는 모집 시작일 11월12일만 확인됐으며 별도 게시일·시각은 확보되지 않았습니다. 따라서 기준시각 이전 공고라는 점과 별개로 최근 72시간 충족 여부를 확정하지 못해 제외했습니다. 실제 게시시점이 81시간 전으로 확인된 것은 아닙니다. 제공된 추가 조사에서도 기존 발행 반복·기간 밖 사실의 재소개·원공시 및 상세 본문 접근 실패 후보를 제외한 뒤 선정할 중요한 대체 기사를 확보하지 못했습니다.",
+      "scope": "미편성 분야"
+    }
+  ],
+  "overview": [
+    "트럼프 대통령이 새로운 도발이 없으면 이란 공격을 보류할 수 있다는 뜻을 참모들에게 전했다는 보도가 나왔습니다. 국내에서는 3분기 퇴직연금 적립금 감소와 조작기소 특검법 공포안의 국무회의 상정 예정을 다룹니다.",
+    "요양보호사 자격교육의 대리출석 안내와 출결 관리 허점이 취재됐습니다. 정부는 엔비디아와 GPU 공급·국내 협력 지속 계획을 재확인했고, 도로공사는 주행보조 기능 사용 관련 고속도로 사고 현황을 제시했습니다.",
+    "웹툰산업 채용 공고는 게시시각과 최근 72시간 충족 여부를 확정하지 못해 제외했습니다. 오늘 09시 이후 주요 공식 일정도 검증된 항목이 없어 비웠습니다."
+  ],
+  "overviewEmphasis": [
+    "퇴직연금 적립금 감소",
+    "출결 관리 허점",
+    "GPU 공급·국내 협력 지속"
+  ],
+  "publicationNote": "기존 초안의 대표 기사 6건과 본문은 보존하고 편성·검토 기록을 수정했습니다. 분야와 예비 수량은 필수 조건이 아니므로 alternatives는 모두 비웠습니다. ESS와 의약품 휴대 반입은 기존 보도 이후의 실질적인 새 근거가 확인되지 않아 제외했습니다. 웹툰산업 채용 공고는 모집 시작 날짜만으로 게시시각과 최근 72시간 충족 여부를 확정할 수 없어 제외했습니다. 실제로 81시간 전에 게시됐다고 판단하지 않았습니다. 출처 확인시각은 제공된 실제 브라우저 기록만 보존했습니다.",
+  "recordId": "2026-11-15-am",
+  "scheduledFor": "2026-11-15T09:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "alternatives": [],
+      "category": "국제정세",
+      "emphasis": [
+        "새로운 대미 도발",
+        "공격 보류 결정이나 종전 합의"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "로이터 보도는 미국 현지 11월14일입니다. 비공개 회의와 발언의 정확한 날짜·시각은 확인되지 않았습니다.",
+      "factsHash": "e439ae831b214beb53648cdc6afce57c8383f0a74a119d976675c515fede429c",
+      "followUp": {
+        "delta": "합의 불필요 입장과 밴스 역할 변경 지시 이후 새 도발이 없으면 공격을 보류할 수 있다는 비공개 협의 보도가 추가됐습니다.",
+        "editionId": "2026-11-13-am",
+        "storyId": "20261113-am-int-01"
+      },
+      "id": "20261115-am-int-01",
+      "keyFacts": {
+        "군사 준비": "작전 확대 준비 유지 보도",
+        "새 보도": "새 도발이 없을 경우 공격 보류 가능성을 참모들에게 시사, 로이터 소식통 취재",
+        "실제 공격 보류 결정": "미확인"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T08:33:11+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-11-15T08:33:11+09:00",
+          "title": "\"트럼프, 참모들에 이란 공격 보류 가능성 시사\"",
+          "url": "https://n.news.naver.com/mnews/article/018/0006409890",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/018/0006409890",
+      "score": 93.85,
+      "scoreComponents": {
+        "domesticImpact": 90,
+        "importance": 97,
+        "interest": 88,
+        "recency": 100,
+        "reliability": 86
+      },
+      "scoreReason": "15일 08시33분 보도입니다. 뉴스1의 유럽 생활비 시위와 파이낸셜뉴스의 북한 대표단 방러보다 전쟁 확대·에너지 수송에 미치는 범위와 지속성을 우선했습니다. 익명 취재의 한계를 반영했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "이데일리",
+          "publishedAt": "2026-11-15T08:33:11+09:00",
+          "title": "\"트럼프, 참모들에 이란 공격 보류 가능성 시사\"",
+          "url": "https://n.news.naver.com/mnews/article/018/0006409890",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "트럼프 미국 대통령이 이란이나 후티의 새로운 대미 도발이 없다면 이란 공격을 보류할 수 있다는 뜻을 참모들에게 전했다고 로이터가 보도했습니다. 공격 보류 결정이나 종전 합의가 확인된 것은 아닙니다.",
+        "이데일리가 인용한 소식통 취재에 따르면 사우디·튀르키예 정상은 공격 재개를 만류했고 트럼프는 확답하지 않았습니다. 미국은 군사작전 확대 준비도 유지하고 있다고 전했습니다.",
+        "기존 합의 불필요 발언 이후 비공개 협의에 관한 새 취재입니다. 중동 안보와 에너지 수송에 중요하지만 실제 작전 결정과 이란의 대응은 미확정입니다."
+      ],
+      "timeline": {
+        "change": "공격 보류 가능성에 관한 비공개 협의가 보도됐습니다. 실제 결정은 미확정입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "us-iran-negotiations",
+        "issueTitle": "미국·이란 협상과 외교적 조치",
+        "stage": "후속"
+      },
+      "title": "로이터 “트럼프, 새 도발 없으면 이란 공격 보류 가능성 시사”",
+      "topicKey": "trump-iran-strike-hold-private-discussions-2026-11-14",
+      "uncertainty": "익명 소식통 보도이며 실제 작전 결정과 종전 합의는 미확정입니다.",
+      "whatChanged": "합의 불필요 공개 발언 이후 공격 보류 가능성을 논의한 비공개 협의 취재가 추가됐습니다.",
+      "whyItMatters": "중동 전쟁의 확대 여부와 국제 에너지 수송에 광범위하게 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "경제·생활경제",
+      "emphasis": [
+        "11조7565억원",
+        "연간 누적수익률",
+        "분기 손실률이 아니며"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "3분기 말 자료를 15일 보도했습니다. 자료의 최초 공개일과 정확한 집계시각은 확인되지 않았습니다.",
+      "factsHash": "f4aa39666c83271da90b82c8e2b8d49dbe353bfc94019b130fd3fb6bba55a2d2",
+      "id": "20261115-am-eco-01",
+      "keyFacts": {
+        "3분기 말 적립금": "542조1214억원, 운용사 43곳",
+        "DC형 수익률": "증권사 11곳 원금비보장상품 연간 누적 14.46%",
+        "전 분기 대비": "11조7565억원·2.1% 감소"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T06:05:01+09:00",
+      "relatedArticles": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-15T06:05:01+09:00",
+          "title": "'최후보루' 퇴직연금 수익률도 뚝…3분기 DC형 원금비보장 수익률 ¼로",
+          "url": "https://n.news.naver.com/mnews/article/001/0016442061",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/001/0016442061",
+      "score": 95.95,
+      "scoreComponents": {
+        "domesticImpact": 97,
+        "importance": 96,
+        "interest": 90,
+        "recency": 100,
+        "reliability": 91
+      },
+      "scoreReason": "15일 06시05분 보도입니다. 연합뉴스의 ESS 입찰과 부산일보의 수입시장 순위보다 노후자산에 미치는 인구 범위와 지속성을 우선했습니다. ESS는 10일 오후 예비에 공급사 축소가 이미 발행됐고 새 공개시점을 입증하지 못해 제외했습니다. 최종 순위표의 본문 확인 판정과 별개로 이전 alternatives의 제목·이유·URL까지 재대조했으며, 기사 날짜만 바뀐 반복을 검증된 예비로 계산하지 않았습니다.",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-15T06:05:01+09:00",
+          "title": "'최후보루' 퇴직연금 수익률도 뚝…3분기 DC형 원금비보장 수익률 ¼로",
+          "url": "https://n.news.naver.com/mnews/article/001/0016442061",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "3분기 말 퇴직연금 운용사 43곳의 적립금이 542조1214억원으로 전 분기보다 11조7565억원 줄었습니다. 감소율은 2.1%입니다.",
+        "연합뉴스에 따르면 증권사 11곳의 DC형 원금비보장상품 연간 누적수익률은 6월 말 52.85%에서 9월 말 14.46%로 낮아졌습니다. 이는 분기 손실률이 아니며 모든 가입자의 수익률을 뜻하지 않습니다.",
+        "가입자가 운용하는 DC형과 IRP의 적립금 감소액은 합계 8조8503억원입니다. 노후자산 관리에 관련되지만 적립금 변동 전체를 투자손실로 단정할 수는 없습니다."
+      ],
+      "timeline": {
+        "change": "적립금 감소와 유형별 누적수익률 하락이 보도됐습니다. 개인별 손익은 별도입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "retirement-pension-q3-2026-assets-returns",
+        "issueTitle": "2026년 3분기 퇴직연금 적립금과 운용수익률",
+        "stage": "보도"
+      },
+      "title": "3분기 퇴직연금 적립금 11.8조원 감소…DC형 누적수익률 하락",
+      "topicKey": "retirement-pension-q3-2026-assets-returns",
+      "uncertainty": "개인별 손익과 적립금 변동 원인별 기여도, 향후 수익률은 미확정입니다.",
+      "whatChanged": "3분기 말 적립금과 유형별 누적수익률의 새 집계가 보도됐습니다.",
+      "whyItMatters": "다수 가입자의 노후자산과 장기 자산배분에 직접 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "과학·기술",
+      "emphasis": [
+        "GPU 26만장",
+        "전체 물량 납품이 완료됐다는 의미는 아닙니다",
+        "B200 성능 환산 기준"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "기사에 따르면 정부 현안점검회의와 공급계획 재확인은 11월13일입니다. 정확한 회의시각과 CEO 퇴임 발표시각은 확인되지 않았습니다.",
+      "factsHash": "f4037af6dfe62ed730d5672418afae887720a140483070aeb6b3ccaffb3fab0d",
+      "followUp": {
+        "delta": "CEO 거취 결정 회의 추진 보도 이후 CEO·이사직 퇴임과 임시 CEO 선임, 13일 정부의 GPU 공급·협력 지속 점검이 확인됐습니다.",
+        "editionId": "2026-11-12-am",
+        "storyId": "20261112-am-tech-01"
+      },
+      "id": "20261115-am-tech-01",
+      "keyFacts": {
+        "경영진 변화": "젠슨 황 CEO·이사직 퇴임, 콜레트 크레스 임시 CEO 선임 보도",
+        "공급계획": "GPU 26만장 유지 재확인",
+        "정부 점검일": "2026-11-13",
+        "정부 확보 설명": "B200 성능 환산 약 2만1000장 규모"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T08:24:11+09:00",
+      "relatedArticles": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-11-15T08:24:11+09:00",
+          "title": "젠슨 황 떠나도 韓과 약속 지킨다…GPU 26만장 공급 그대로",
+          "url": "https://n.news.naver.com/mnews/article/421/0009289344",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/421/0009289344",
+      "score": 95.65,
+      "scoreComponents": {
+        "domesticImpact": 96,
+        "importance": 95,
+        "interest": 96,
+        "recency": 100,
+        "reliability": 88
+      },
+      "scoreReason": "15일 08시24분 게시·08시57분 수정 본문입니다. 연합뉴스의 PHP 공격 분석과 원자력의학원 쥐 연구보다 국내 AI 기반시설 공급의 장기 파급을 우선했습니다. PHP 분석은 기존 이슈와 연결되는 이달 초 보고서로 새 공개시점을 입증하지 못해 제외했습니다.",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-11-15T08:24:11+09:00",
+          "title": "젠슨 황 떠나도 韓과 약속 지킨다…GPU 26만장 공급 그대로",
+          "url": "https://n.news.naver.com/mnews/article/421/0009289344",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "정부가 엔비디아와 접촉해 GPU 26만장 공급과 국내 기업 협력을 기존 계획대로 추진한다는 방침을 재확인했습니다. 전체 물량 납품이 완료됐다는 의미는 아닙니다.",
+        "뉴스1은 젠슨 황이 CEO·이사직에서 물러나고 콜레트 크레스 CFO가 임시 CEO를 맡았다고 전했습니다. 과기정통부는 13일 현안점검회의에서 공급과 협력 지속 계획을 확인했습니다.",
+        "정부 직접 확보분은 B200 성능 환산 기준 약 2만1000장 규모를 확보했다는 장관 설명입니다. 환산 규모와 실제 제품 장수를 동일하게 볼 수 없으며 민간 물량별 확보 실적은 공개되지 않았습니다.",
+        "기존 이사회 거취 결정 회의 추진 보도 이후 인사 결과와 정부 점검이 추가된 후속입니다. 실제 납품 일정 이행과 협력사업 성과는 추가 확인이 필요합니다."
+      ],
+      "timeline": {
+        "change": "정부가 공급·협력 지속 계획을 점검했습니다. CEO 교체도 보도됐으며 전체 납품·사업 성과는 미확인입니다.",
+        "eventDate": "2026-11-13",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+        "issueTitle": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사",
+        "stage": "후속"
+      },
+      "title": "정부, 엔비디아와 GPU 26만장 공급·국내 협력 지속 재확인",
+      "topicKey": "nvidia-ceo-transition-korea-gpu-supply-reconfirmation-2026",
+      "uncertainty": "납품 완료와 향후 일정 이행, 민간 확보 규모 및 사업 성과는 미확정입니다.",
+      "whatChanged": "거취 결정 회의 추진 이후 CEO 교체 결과와 정부의 공급·협력 지속 확인이 보도됐습니다.",
+      "whyItMatters": "국내 AI 연산 기반과 반도체·기업 협력의 지속성에 직접 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "정치·정책",
+      "emphasis": [
+        "17일 국무회의",
+        "재가·공포 완료는 확인되지 않았습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "17일 국무회의 상정 예정 보도입니다. 안건 편성의 정확한 결정일·시각은 확인되지 않았습니다.",
+      "factsHash": "5248adcfe61167d8e79cc6546007db81110a3c5eabeab915958a5f2777ea9bca",
+      "followUp": {
+        "delta": "특검법 처리 당론과 권한 조정 방침 이후 공포안의 17일 국무회의 상정 예정이라는 후속 절차가 보도됐습니다.",
+        "editionId": "2026-11-04-am",
+        "storyId": "20261104-am-pol-01"
+      },
+      "id": "20261115-am-pol-01",
+      "keyFacts": {
+        "공포 완료": "미확인",
+        "국무회의 상정": "2026-11-17 예정",
+        "국회 통과": "2026-11-06, 기사상 과거 경과"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T08:00:00+09:00",
+      "relatedArticles": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-15T08:00:00+09:00",
+          "title": "'李이해충돌' 논란 조작기소 특검법, 韓총리 손에 처리되나",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322519",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/003/0014322519",
+      "score": 93.95,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 95,
+        "interest": 83,
+        "recency": 100,
+        "reliability": 89
+      },
+      "scoreReason": "15일 08시 게시·08시13분 수정 본문입니다. 뉴스1의 추경호 선고 일정과 대전일보의 기후 권고안보다 특별검사 권한·임명과 사법절차의 제도적 범위를 우선했습니다. 국회 통과를 당일 결과로 쓰지 않았습니다.",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-15T08:00:00+09:00",
+          "title": "'李이해충돌' 논란 조작기소 특검법, 韓총리 손에 처리되나",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322519",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "status": "예정",
+      "summary": [
+        "조작기소 특검법 공포안이 17일 국무회의에 상정될 예정이라고 뉴시스가 보도했습니다. 국무회의 의결과 대통령 재가·공포 완료는 확인되지 않았습니다.",
+        "법안은 지난 6일 국회를 통과했습니다. 대통령 순방 기간에 총리가 국무회의를 주재하더라도 공포에는 대통령 재가가 필요합니다.",
+        "기존 당론 채택 이후 후속 처리 절차에 관한 보도입니다. 특별검사 임명 구조와 수사 대상의 이해충돌·위헌성은 논쟁 상태이며 확정된 법적 판단이 아닙니다."
+      ],
+      "timeline": {
+        "change": "공포안의 17일 국무회의 상정 예정이 보도됐습니다. 의결·재가·공포는 미확인입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "prosecution-manipulation-special-counsel-bill-2026",
+        "issueTitle": "조작기소 의혹 특별검사법 입법과 권한 조정",
+        "stage": "후속"
+      },
+      "title": "조작기소 특검법 공포안, 17일 국무회의 상정 예정",
+      "topicKey": "prosecution-manipulation-special-counsel-promulgation-agenda-2026-11",
+      "uncertainty": "국무회의 의결·대통령 재가·공포와 특검 임명, 위헌성 판단은 미확정입니다.",
+      "whatChanged": "기존 처리 당론 이후 공포안의 국무회의 상정 예정이 구체적으로 보도됐습니다.",
+      "whyItMatters": "특별검사의 임명과 수사 범위, 형사사법기관의 권한에 지속적으로 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "사회이슈",
+      "emphasis": [
+        "대리출석 방법",
+        "총 320시간"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "복수 교육원 현장 취재입니다. 개별 방문·안내의 정확한 날짜와 시각은 확인되지 않았습니다.",
+      "factsHash": "9f741fe7f300dc4b9964b48d8e9d046b8a8d5a1e28228b3f9a3c80b03f8a6013",
+      "fallbackNote": "당일 청년 조사와 비교해 돌봄 자격교육의 구조적 관리 문제를 다룬 전날 취재를 선정했습니다. 기준시각 약 33시간 전 기사입니다.",
+      "id": "20261115-am-soc-01",
+      "keyFacts": {
+        "불법 자격 취득 규모": "미확인",
+        "신규 교육과정": "320시간, 현장실습 80시간 포함",
+        "취재 내용": "복수 교육원의 별도 휴대전화 대리출석 안내"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-14T00:01:10+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "노컷뉴스",
+          "publishedAt": "2026-11-14T00:01:10+09:00",
+          "title": "'대리출석'하고 자격 취득?…요양보호사 자격증 불법 취득 '의혹'",
+          "url": "https://n.news.naver.com/mnews/article/079/0004209737",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/079/0004209737",
+      "score": 83.55,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 95,
+        "interest": 81,
+        "recency": 50,
+        "reliability": 87
+      },
+      "scoreReason": "14일 00시01분 본문입니다. 채널A의 경비원 사망과 연합뉴스의 서울 청년 조사보다 돌봄 자격·교육 감독의 구조적 지속성을 우선했습니다. 개별 안내 취재를 전국 위반 실적으로 확대하지 않았습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "노컷뉴스",
+          "publishedAt": "2026-11-14T00:01:10+09:00",
+          "title": "'대리출석'하고 자격 취득?…요양보호사 자격증 불법 취득 '의혹'",
+          "url": "https://n.news.naver.com/mnews/article/079/0004209737",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "일부 요양보호사교육원이 별도 휴대전화를 이용한 대리출석 방법을 안내했다고 노컷뉴스가 보도했습니다. 불법 자격 취득 인원이나 개별 범죄가 확정된 결과는 아닙니다.",
+        "취재된 두 교육원은 실제 수업에 참여하지 않아도 다른 사람이 전자출결 기록을 남길 수 있다는 취지로 설명했습니다. 현장실습 출결은 관리대장과 서류로 관리돼 실제 실습시간 확인에 한계가 제기됐습니다.",
+        "신규 교육과정은 총 320시간이며 현장실습은 80시간입니다. 돌봄 인력의 교육 신뢰와 이용자 보호에 관련되지만 전체 교육원의 운영 실태로 일반화할 수 없습니다."
+      ],
+      "timeline": {
+        "change": "대리출석 안내와 실습 관리 허점이 취재됐습니다. 실제 위반 규모와 책임은 미확정입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "care-worker-training-proxy-attendance-investigation-2026",
+        "issueTitle": "요양보호사 자격교육 대리출석 의혹과 출결 관리",
+        "stage": "보도"
+      },
+      "title": "요양보호사교육원 대리출석 안내 취재…자격교육 출결 관리 허점",
+      "topicKey": "care-worker-training-proxy-attendance-investigation-2026",
+      "uncertainty": "실제 허위 수료·자격 취득 규모와 법 위반 판단, 감독·개선 결과는 미확정입니다.",
+      "whatChanged": "교육원 현장 안내와 전자출결·실습 관리 방식의 허점이 새 취재로 보도됐습니다.",
+      "whyItMatters": "돌봄 인력의 자격 신뢰와 취약계층 이용자의 보호에 지속적으로 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "생활·안전",
+      "emphasis": [
+        "사고 6건으로 8명",
+        "주행보조 기능",
+        "개인의 사망 확률"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "올해 10월 말까지 사고 집계를 15일 보도했습니다. 통계 최초 공개일과 개별 사고의 정확한 시각은 확인되지 않았습니다.",
+      "factsHash": "f999a464384f02246452ee42363ac3f3d993c7902fc197a647d3a0deebb55019",
+      "id": "20261115-am-safe-02",
+      "keyFacts": {
+        "개별 사고 ACC 사용 여부": "경찰 조사 중인 사례 포함",
+        "관련 사고": "6건, 도로공사 집계 인용",
+        "사망": "8명",
+        "집계 기간": "2026년 10월 말까지"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-15T06:01:12+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "중앙일보",
+          "publishedAt": "2026-11-15T06:01:12+09:00",
+          "title": "고속도로서 이것 믿고 한눈 팔다 ‘쾅’…올해만 8명 목숨 잃었다",
+          "url": "https://n.news.naver.com/mnews/article/025/0003565178",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "representativeUrl": "https://n.news.naver.com/mnews/article/025/0003565178",
+      "score": 93.65,
+      "scoreComponents": {
+        "domesticImpact": 95,
+        "importance": 94,
+        "interest": 82,
+        "recency": 100,
+        "reliability": 88
+      },
+      "scoreReason": "15일 06시01분 게시·06시27분 수정 본문입니다. 원순위 1위 의약품 휴대 반입은 11일 오후 대표와 같은 제도 변경으로 제외했습니다. 다음 검증 후보를 송도 너구리 민원보다 전국적 사고 예방 범위로 우선했습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "중앙일보",
+          "publishedAt": "2026-11-15T06:01:12+09:00",
+          "title": "고속도로서 이것 믿고 한눈 팔다 ‘쾅’…올해만 8명 목숨 잃었다",
+          "url": "https://n.news.naver.com/mnews/article/025/0003565178",
+          "verifiedAt": "2026-11-15T09:19:48.940450+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "한국도로공사 집계에서 올해 10월 말까지 ACC 사용 관련 고속도로 사고 6건으로 8명이 숨졌다고 중앙일보가 보도했습니다. 개별 사고의 기능 사용 여부와 책임은 조사 중입니다.",
+        "ACC는 앞차와의 거리를 유지하며 속도를 조절하는 주행보조 기능입니다. 정지·서행 차량이나 일부 차로 통제 상황 등에서는 감지가 어려울 수 있다고 제조사 설명서가 안내합니다.",
+        "사망자 수를 사고 건수로 나눈 수치를 개인의 사망 확률로 해석할 수 없습니다. 사용 노출량과 사고 조건을 통제한 비교가 아니므로 통계만으로 장치 자체의 인과적 위험도를 확정하지 않았습니다.",
+        "도로공사는 운전자의 전방주시와 직접 제어 준비가 필요하다고 강조했습니다. 전국 운전자의 사고 예방에 관련되며 개별 사고의 최종 원인·책임은 미확정입니다."
+      ],
+      "timeline": {
+        "change": "10월 말까지 관련 사고 6건·사망 8명 집계가 보도됐습니다. 개별 사고 원인과 책임은 조사 중입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null,
+        "issueId": "expressway-acc-related-crashes-safety-2026",
+        "issueTitle": "고속도로 ACC 관련 사고 집계와 주행보조 기능 안전",
+        "stage": "보도"
+      },
+      "title": "도로공사 “올해 10월까지 ACC 사용 관련 고속도로 사고로 8명 사망”",
+      "topicKey": "expressway-acc-related-crashes-october-2026-statistics",
+      "uncertainty": "개별 사고의 ACC 사용 여부와 원인·책임, 장치 자체의 인과적 위험도는 미확정입니다.",
+      "whatChanged": "올해 ACC 관련 사고 집계와 기능 한계에 관한 안전 취재가 보도됐습니다.",
+      "whyItMatters": "고속도로 운전자의 전방주시와 주행보조 기능 사용 안전에 직접 관련됩니다."
+    }
+  ],
+  "timezone": "Asia/Seoul",
+  "validationNotes": [
+    {
+      "category": "경제·생활경제",
+      "code": "previous_reserve_republication_rejected",
+      "reason": "본문 확인과 새 사실의 발행 적격성을 구분했습니다. 2026-11-10-pm rank 2 예비에는 같은 3차 ESS 입찰의 공급업체 축소가 이미 발행돼 있습니다. 새 본문은 회사가 앞서 불참 입장을 냈다고 설명하지만 발표일을 제공하지 않으며, 1180MW도 이전 cutoffAt 이후 새로 공개됐다는 근거가 없습니다. 따라서 제외했습니다. 실제 alternatives는 빈 배열이며 예비를 보존했다는 기록은 삭제했습니다.",
+      "title": "LG에너지솔루션, 1180MW 규모 3차 ESS 입찰 불참…삼성SDI·SK온 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442089"
+    },
+    {
+      "category": "웹툰산업",
+      "code": "webtoon_freshness_unverified",
+      "reason": "모집 시작일 11월12일은 확인됐지만 별도 게시일·시각은 확인되지 않았습니다. 날짜 시작을 적용한 보수적 계산만으로 실제 게시가 81시간 전이었다고 단정할 수 없습니다. 최근 72시간 충족 여부를 확정하지 못해 제외했으며, 분야·예비 수량을 채우기 위해 대체 후보를 추가하지 않았습니다.",
+      "title": "네이버웹툰, 일본 콘텐츠 전략·대만 플랫폼 성장 담당 경력직 모집",
+      "url": "https://recruit.webtoonscorp.com/rcrt/list.do"
+    },
+    {
+      "category": "생활·안전",
+      "code": "previous_lead_republication_rejected",
+      "reason": "2026-11-11-pm의 자가치료 의약품 휴대 반입 기준 변경 대표와 비교했습니다. 새 기사의 정부 조치 설명은 동일 사건이며 새 시행 결과·공식 변경 근거가 없습니다. 해외 광고를 새 제도 변화로 바꾸지 않고 다음 후보로 교체했습니다.",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272777"
+    },
+    {
+      "category": "과학·기술",
+      "code": "previous_issue_new_evidence_time_unverified",
+      "reason": "PHP 취약점 악용과 한국 표적화는 기존 php-security-patch-early-disclosure-2026 및 lazarus-flashhole-korean-websites-indicators-2026 기록과 관련됩니다. 원보고서는 이달 초 공개됐으며 표적 30곳 등의 수치가 이전 보도 이후 새로 공개됐다는 시점 근거가 없어 제외했습니다.",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442123"
+    },
+    {
+      "code": "verified_related_articles_limited",
+      "reason": "동일 사건의 추가 독립 매체 원문이 제공되지 않아 대표의 직접 근거만 relatedArticles에 보존했습니다. 경쟁 사건을 관련 기사로 추가하지 않았습니다."
+    },
+    {
+      "code": "runtime_generation_timestamp_required",
+      "reason": "generatedAt은 실제 생성 완료시각을 프로그램이 기록해야 하므로 만들지 않았습니다. sources와 relatedArticles의 verifiedAt에는 제공된 실제 브라우저 checkedAt을 보존했습니다. 실제 기사 publishedAt은 metadata대로 유지했습니다. 런타임 검증 통과나 게시 완료를 주장하지 않습니다."
+    }
+  ]
+}
