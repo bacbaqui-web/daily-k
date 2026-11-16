@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T02:24:37.653120+00:00",
+  "collectedAt": "2026-11-16T02:25:39.206336+00:00",
   "windowEnd": "2026-11-16T11:24:37.544670+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2047,6 +2047,79 @@
       "sourceTitlesFetchedAt": "2026-11-15T02:47:57.767360+00:00",
       "collectedAt": "2026-11-15T11:47:57.767377+09:00",
       "firstPublishedAt": "2026-11-15T02:47:57.859774+00:00"
+    },
+    {
+      "id": "aagag-1669954-0",
+      "url": "https://aagag.com/issue/?idx=1669954",
+      "source": "애객",
+      "title": "신문물을 접한 신창섭.mp4",
+      "publishedAt": "2026-11-16T11:10:52+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "[소리]"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5z0H.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5z0H.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "[소리]",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 6,
+      "laughingComments": 1,
+      "score": 19,
+      "kPerComment": 3.1666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8987180",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ들려드리고싶긴한데 그럴 사이는 아니라닠ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8987191",
+          "text": "이거 진짜 뭐죠??? 처음 보는 늙크크를 위해 누가 설명좀...."
+        },
+        {
+          "id": "8987209",
+          "text": ""
+        },
+        {
+          "id": "8987210",
+          "text": "최근 AI활용 부정시험에서도 이용되었다고 언급되는 골전도 이어폰(스피커) 저걸 구강내 치아나 잇몸등 단단한 부위에 다음면 진동에 의해서 고막을 통하지 않고 바로 달팽이관에 소리가 전달됨"
+        },
+        {
+          "id": "8987198",
+          "text": "“리선족 척결 다섯 글자에 환호성! 역시 정상화는 신창섭”"
+        },
+        {
+          "id": "8987205",
+          "text": "이걸로 컨닝한다는거지?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-16T11:25:33.989440+09:00",
+      "sourceTitles": [
+        "노래 나오는 캔디",
+        "신문물을 접한 신창섭.mp4",
+        "🍄 신문물을 접한 신창섭",
+        "🍄 신문물을 접한 신창섭"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-16T02:25:39.147032+00:00",
+      "collectedAt": "2026-11-16T11:25:39.147049+09:00",
+      "firstPublishedAt": "2026-11-16T02:25:39.235992+00:00"
     },
     {
       "id": "aagag-1285379-0",
@@ -4800,7 +4873,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
