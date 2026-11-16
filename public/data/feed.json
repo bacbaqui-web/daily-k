@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T19:03:29.642514+09:00",
-  "windowEnd": "2026-11-16T18:56:48.016107+09:00",
+  "collectedAt": "2026-11-16T10:13:50.519938+00:00",
+  "windowEnd": "2026-11-16T19:13:50.411925+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6740,55 +6740,12 @@
       "sourceTitlesFetchedAt": "2026-11-15T20:01:32.920845+00:00",
       "collectedAt": "2026-11-16T05:01:32.920867+09:00",
       "firstPublishedAt": "2026-11-15T20:01:33.005446+00:00"
-    },
-    {
-      "id": "aagag-1669806-0",
-      "url": "https://aagag.com/issue/?idx=1669806",
-      "source": "애객",
-      "title": "아이들 미연 레전드",
-      "publishedAt": "2026-11-15T19:05:56+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5sI9.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5sI9.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-15T19:06:31.582675+09:00",
-      "sourceTitles": [
-        "ㅇㅎ?) 미연 .gif",
-        "아이들 미연 레전드",
-        "아이들 미연"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-15T10:06:42.297495+00:00",
-      "collectedAt": "2026-11-15T19:06:42.297512+09:00",
-      "firstPublishedAt": "2026-11-15T10:06:42.416968+00:00"
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
