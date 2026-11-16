@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-16/pm.json",
+      "category": "정치·정책",
+      "change": "두 주요 사건의 상고심 선고기일이 16일 공개됐습니다. 유무죄나 형량의 최종 결론은 아직 나오지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-16T21:12:00.552371+09:00",
+      "coveredOn": "2026-11-16",
+      "edition": "pm",
+      "editionDate": "2026-11-16",
+      "editionId": "2026-11-16-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "일정 발표는 11월16일, 선고는 11월19일 오후 4시 예정입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-16-pm/20261116-pm-supreme-court-schedule",
+      "keyFacts": {
+        "상고심 선고": "2026-11-19 16:00 예정",
+        "일정 발표": "2026-11-16",
+        "한덕수 구속 만료": "2026-11-20 예정"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-16T18:24:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-16T18:24:00+09:00",
+          "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고",
+          "url": "https://www.yna.co.kr/view/AKR20261116054152004",
+          "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "예정",
+      "storyId": "20261116-pm-supreme-court-schedule",
+      "summary": [
+        "대법원이 한덕수 전 국무총리의 내란 중요임무종사 등 혐의 사건과 김건희 씨의 자본시장법 위반 등 사건 선고기일을 19일 오후 4시로 정했다고 16일 밝혔습니다.",
+        "한 전 총리의 구속기간 만료 예정일은 20일입니다. 이번에 확인된 새 사실은 선고 일정이며, 두 사건의 대법원 판결 결과가 확정됐다는 뜻은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고",
+      "uncertainty": "최종 판결 내용은 미확정이며 기존 심급의 판단을 대법원 결론으로 표현하지 않았습니다."
+    }
+  ],
+  "id": "supreme-court-han-kim-verdict-schedule-2026",
+  "schemaVersion": 1,
+  "title": "한덕수·김건희 사건 대법원 선고 일정",
+  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+}

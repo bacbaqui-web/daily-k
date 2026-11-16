@@ -1,0 +1,609 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-16T21:00:00+09:00",
+      "date": "2026-11-16",
+      "edition": "pm",
+      "events": [
+        {
+          "date": "2026-11-17",
+          "detail": "공공 와이파이 차단과 가방 검사 등 검토 중인 방안이 어떻게 정리되는지 확인할 일정입니다.",
+          "source": {
+            "kind": "wire",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-16T17:57:00+09:00",
+            "title": "교육부, 수능 연기 어렵다는 입장…17일 추가 대책 예고",
+            "url": "https://www.yna.co.kr/view/AKR20261116104651530",
+            "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+          },
+          "timeNote": "기사에 정확한 발표 시각은 명시되지 않았습니다.",
+          "title": "교육부, 수능 AI 부정행위 추가 대책 발표 예정"
+        }
+      ],
+      "generatedAt": "2026-11-16T21:12:00.552371+09:00",
+      "id": "2026-11-16-pm",
+      "intro": "오늘 마감한 증시와 수능 대응, 공공 이메일 침해사고 등 낮부터 저녁까지 확인된 주요 뉴스를 정리했습니다.",
+      "keywords": [
+        "증시 하락",
+        "수능 AI 대응",
+        "공공 이메일 해킹",
+        "한·아세안",
+        "중국 소비 둔화"
+      ],
+      "omissionNotes": [
+        "ChatGPT 답변의 엔비디아 실적·미국 경제지표 일정은 연결된 원문을 별도로 확보하지 않아 제외했습니다. 아세안+3·동아시아정상회의의 17일 일정도 이번에 읽은 원문으로 확인되지 않아 일정 목록에서 제외했습니다."
+      ],
+      "overview": [
+        "코스피와 코스닥이 큰 폭으로 하락했고 중국의 소비·생산 지표도 시장 예상에 미치지 못했습니다. 전망 대신 오늘 확인된 실제 수치를 담았습니다.",
+        "국내에서는 수능 추가 대책 예고와 주요 재판의 선고 일정, 행정기관 이메일 침해사고가 공개됐습니다. 한·아세안 정상회의와 웹툰 플랫폼 실적도 확인했습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "5,100.50"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "주식은 11월16일 정규장 종가, 환율은 같은 날 오후 3시30분 기준입니다.",
+          "followUp": {
+            "delta": "이전 거래일 전망이나 수치를 반복하지 않고 16일 정규장과 환율의 실제 마감값을 확인했습니다.",
+            "editionId": "2026-11-05-pm",
+            "storyId": "20261105-pm-eco-01"
+          },
+          "id": "20261116-pm-korea-market-close",
+          "keyFacts": {
+            "코스닥": "665.65, 전일 대비 -4.86%",
+            "코스피": "5100.50, 전일 대비 -3.59%",
+            "환율": "2026-11-16 15:30 기준 1335.7원"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T15:40:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-16T15:40:00+09:00",
+              "title": "코스피 3.59%·코스닥 4.86% 하락…오늘 종가 확인",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611161540369903",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.ytn.co.kr/_ln/0102_202611161540369903",
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 94,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "국내 주식시장 전반의 큰 하락으로 투자자와 기업의 자금 조달 환경에 관련됩니다. 이전 거래일 전망이나 수치를 반복하지 않고 16일 정규장과 환율의 실제 마감값을 확인했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-16T15:40:00+09:00",
+              "title": "코스피 3.59%·코스닥 4.86% 하락…오늘 종가 확인",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611161540369903",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "16일 정규장에서 코스피는 5,100.50, 코스닥은 665.65로 거래를 마쳤습니다. 전 거래일보다 각각 3.59%, 4.86% 낮은 수준입니다.",
+            "삼성전자와 SK하이닉스의 하락률은 각각 4.47%, 7.89%였습니다. 원·달러 환율은 오후 3시 30분 기준 1,335.7원으로, 전 거래일 같은 기준보다 1원 내렸습니다."
+          ],
+          "timeline": {
+            "change": "이전 거래일 전망이나 수치를 반복하지 않고 16일 정규장과 환율의 실제 마감값을 확인했습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "후속"
+          },
+          "title": "코스피 3.59%·코스닥 4.86% 하락…오늘 종가 확인",
+          "topicKey": "korea-market-close-2026-11-16",
+          "uncertainty": "하락 원인별 기여도와 다음 거래일 방향은 이 속보만으로 확인할 수 없습니다.",
+          "whatChanged": "이전 거래일 전망이나 수치를 반복하지 않고 16일 정규장과 환율의 실제 마감값을 확인했습니다.",
+          "whyItMatters": "국내 주식시장 전반의 큰 하락으로 투자자와 기업의 자금 조달 환경에 관련됩니다."
+        },
+        {
+          "alternatives": [],
+          "category": "사회이슈",
+          "emphasis": [
+            "17일 발표"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "교육부 설명과 국회 질의는 11월16일, 추가 대책 발표는 17일 예정입니다.",
+          "followUp": {
+            "delta": "15일 전수조사 방침 이후 16일 국회 답변과 추가 대책 발표일, 전파 방해를 검토하지 않는다는 설명이 새로 나왔습니다.",
+            "editionId": "2026-11-15-pm",
+            "storyId": "20261115-pm-pol-01"
+          },
+          "id": "20261116-pm-csat-ai-response",
+          "keyFacts": {
+            "검토 대상": "공공 와이파이 차단·동의를 전제로 한 가방 검사",
+            "수능 연기": "교육부, 검토하기 어렵다는 입장",
+            "추가 대책 발표": "2026-11-17 예정"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T17:57:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T17:57:00+09:00",
+              "title": "교육부, 수능 연기 어렵다는 입장…17일 추가 대책 예고",
+              "url": "https://www.yna.co.kr/view/AKR20261116104651530",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261116104651530",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 96,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "수능을 앞둔 수험생과 학교에 직접 영향을 주므로 확정된 대응과 검토 중인 방안을 구분할 필요가 있습니다. 15일 전수조사 방침 이후 16일 국회 답변과 추가 대책 발표일, 전파 방해를 검토하지 않는다는 설명이 새로 나왔습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T17:57:00+09:00",
+              "title": "교육부, 수능 연기 어렵다는 입장…17일 추가 대책 예고",
+              "url": "https://www.yna.co.kr/view/AKR20261116104651530",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "교육부가 19일 예정된 수능을 미루는 방안은 혼란을 키울 수 있어 검토하기 어렵다고 밝혔습니다. AI 기기를 이용한 부정행위에 대응하는 추가 대책은 17일 발표할 예정입니다.",
+            "공공 와이파이 차단과 동의를 받은 가방 검사 등은 아직 검토 중입니다. 교육부는 전파 방해 방식의 통신 차단은 법적·기술적 한계 때문에 검토하지 않는다고 별도로 설명했습니다."
+          ],
+          "timeline": {
+            "change": "15일 전수조사 방침 이후 16일 국회 답변과 추가 대책 발표일, 전파 방해를 검토하지 않는다는 설명이 새로 나왔습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "후속"
+          },
+          "title": "교육부, 수능 연기 어렵다는 입장…17일 추가 대책 예고",
+          "topicKey": "csat-ai-response-2026-11-16",
+          "uncertainty": "와이파이 차단·가방 검사 시행 여부와 구체적 범위는 아직 확정되지 않았습니다.",
+          "whatChanged": "15일 전수조사 방침 이후 16일 국회 답변과 추가 대책 발표일, 전파 방해를 검토하지 않는다는 설명이 새로 나왔습니다.",
+          "whyItMatters": "수능을 앞둔 수험생과 학교에 직접 영향을 주므로 확정된 대응과 검토 중인 방안을 구분할 필요가 있습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "정치·정책",
+          "emphasis": [
+            "19일 오후 4시"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "일정 발표는 11월16일, 선고는 11월19일 오후 4시 예정입니다.",
+          "id": "20261116-pm-supreme-court-schedule",
+          "keyFacts": {
+            "상고심 선고": "2026-11-19 16:00 예정",
+            "일정 발표": "2026-11-16",
+            "한덕수 구속 만료": "2026-11-20 예정"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T18:24:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T18:24:00+09:00",
+              "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고",
+              "url": "https://www.yna.co.kr/view/AKR20261116054152004",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261116054152004",
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 93,
+            "interest": 92,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "사회적 관심이 큰 주요 재판의 대법원 판단 일정이 정해져 선정했습니다. 두 주요 사건의 상고심 선고기일이 16일 공개됐습니다. 유무죄나 형량의 최종 결론은 아직 나오지 않았습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T18:24:00+09:00",
+              "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고",
+              "url": "https://www.yna.co.kr/view/AKR20261116054152004",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "대법원이 한덕수 전 국무총리의 내란 중요임무종사 등 혐의 사건과 김건희 씨의 자본시장법 위반 등 사건 선고기일을 19일 오후 4시로 정했다고 16일 밝혔습니다.",
+            "한 전 총리의 구속기간 만료 예정일은 20일입니다. 이번에 확인된 새 사실은 선고 일정이며, 두 사건의 대법원 판결 결과가 확정됐다는 뜻은 아닙니다."
+          ],
+          "timeline": {
+            "change": "두 주요 사건의 상고심 선고기일이 16일 공개됐습니다. 유무죄나 형량의 최종 결론은 아직 나오지 않았습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "supreme-court-han-kim-verdict-schedule-2026",
+            "issueTitle": "한덕수·김건희 사건 대법원 선고 일정",
+            "stage": "발표"
+          },
+          "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고",
+          "topicKey": "supreme-court-schedule-2026-11-16",
+          "uncertainty": "최종 판결 내용은 미확정이며 기존 심급의 판단을 대법원 결론으로 표현하지 않았습니다.",
+          "whatChanged": "두 주요 사건의 상고심 선고기일이 16일 공개됐습니다. 유무죄나 형량의 최종 결론은 아직 나오지 않았습니다.",
+          "whyItMatters": "사회적 관심이 큰 주요 재판의 대법원 판단 일정이 정해져 선정했습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "새 협력 구상"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "회의는 필리핀 현지 11월16일입니다.",
+          "followUp": {
+            "delta": "12일 순방계획 발표 이후 실제 정상회의가 열렸고 대통령의 새 협력 제안과 정상들의 반응이 보도됐습니다.",
+            "editionId": "2026-11-12-pm",
+            "storyId": "20261112-pm-pol-01"
+          },
+          "id": "20261116-pm-korea-asean-summit",
+          "keyFacts": {
+            "제안": "AI·문화창조산업 협력 구상",
+            "통상": "한·아세안 FTA 개선 협상 시작 언급",
+            "회의": "2026-11-16 마닐라 한·아세안 정상회의"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T19:56:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T19:56:00+09:00",
+              "title": "한·아세안 정상회의서 AI·문화산업 협력 제안…FTA 개선 협상 언급",
+              "url": "https://www.yna.co.kr/view/AKR20261116124751001?section=politics/all",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261116124751001?section=politics/all",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 90,
+            "interest": 80,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "한국과 아세안의 통상·디지털 협력에 관한 실제 정상회의 결과여서 출국 예정 소식보다 새로운 내용이 있습니다. 12일 순방계획 발표 이후 실제 정상회의가 열렸고 대통령의 새 협력 제안과 정상들의 반응이 보도됐습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T19:56:00+09:00",
+              "title": "한·아세안 정상회의서 AI·문화산업 협력 제안…FTA 개선 협상 언급",
+              "url": "https://www.yna.co.kr/view/AKR20261116124751001?section=politics/all",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "이재명 대통령이 16일 필리핀 마닐라에서 열린 한·아세안 정상회의에서 AI와 문화창조산업 분야의 새 협력 구상을 제안했습니다. 한·아세안 FTA 개선 협상도 시작됐다고 밝혔습니다.",
+            "청와대 설명에 따르면 아세안 정상들은 디지털 전환과 에너지·문화산업, 초국가범죄 대응 등의 협력 확대를 희망했습니다. 새 구상 제안과 협상 진행을 최종 협정 체결이나 사업 집행으로 표현하지 않았습니다."
+          ],
+          "timeline": {
+            "change": "12일 순방계획 발표 이후 실제 정상회의가 열렸고 대통령의 새 협력 제안과 정상들의 반응이 보도됐습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Manila",
+            "issueId": "president-asean-apec-trip-plan-2026-11",
+            "issueTitle": "대통령의 2026년 11월 아세안·APEC 순방계획",
+            "stage": "후속"
+          },
+          "title": "한·아세안 정상회의서 AI·문화산업 협력 제안…FTA 개선 협상 언급",
+          "topicKey": "korea-asean-summit-2026-11-16",
+          "uncertainty": "구상별 예산·사업 일정과 FTA 개선 협상 타결은 확정되지 않았습니다.",
+          "whatChanged": "12일 순방계획 발표 이후 실제 정상회의가 열렸고 대통령의 새 협력 제안과 정상들의 반응이 보도됐습니다.",
+          "whyItMatters": "한국과 아세안의 통상·디지털 협력에 관한 실제 정상회의 결과여서 출국 예정 소식보다 새로운 내용이 있습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "과학·기술",
+          "emphasis": [
+            "300여 계정"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "행안부가 통보받은 날은 11월9일, 공개 설명은 16일입니다. 최초 침입일은 확인되지 않았습니다.",
+          "id": "20261116-pm-government-email-breach",
+          "keyFacts": {
+            "공개 설명": "2026-11-16",
+            "비정상 접속": "행정기관 업무용 이메일 300여 계정",
+            "통보받은 날": "2026-11-09"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T17:44:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-16T17:44:00+09:00",
+              "title": "행정기관 이메일 300여 계정 비정상 접속…피해 범위 조사",
+              "url": "https://www.hankyung.com/article/2026111601251",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.hankyung.com/article/2026111601251",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 95,
+            "interest": 87,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "공공 업무와 개인정보 보호에 걸친 침해사고로 영향 범위가 넓고 당일 공개된 조사 내용이 있습니다. 9일 통보된 침해사고에 대해 16일 계정 규모와 보안조치가 공개됐습니다. 발생 시점을 오늘로 바꾸지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-16T17:44:00+09:00",
+              "title": "행정기관 이메일 300여 계정 비정상 접속…피해 범위 조사",
+              "url": "https://www.hankyung.com/article/2026111601251",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "행정안전부가 업무용 이메일 300여 계정의 비정상 접속을 확인했다고 16일 밝혔습니다. 일부 지자체의 취약한 네트워크와 한 번의 인증으로 여러 시스템에 접속하는 통합 로그인 체계가 공격에 악용된 것으로 파악됐습니다.",
+            "행안부는 9일 해킹 사실을 통보받았으며 개인정보 유출 신고와 피해 당사자 통지를 진행했다고 설명했습니다. 긴급 보안조치와 관계기관 합동점검이 진행 중이고 유출 정보의 종류와 전체 피해 규모는 추가 조사 대상입니다."
+          ],
+          "timeline": {
+            "change": "9일 통보된 침해사고에 대해 16일 계정 규모와 보안조치가 공개됐습니다. 발생 시점을 오늘로 바꾸지 않았습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "government-email-sso-breach-2026-11",
+            "issueTitle": "행정기관 업무용 이메일 침해사고",
+            "stage": "발표"
+          },
+          "title": "행정기관 이메일 300여 계정 비정상 접속…피해 범위 조사",
+          "topicKey": "government-email-breach-2026-11-16",
+          "uncertainty": "최초 침입 시각, 유출 정보의 구체적 종류와 전체 피해 범위는 미확정입니다.",
+          "whatChanged": "9일 통보된 침해사고에 대해 16일 계정 규모와 보안조치가 공개됐습니다. 발생 시점을 오늘로 바꾸지 않았습니다.",
+          "whyItMatters": "공공 업무와 개인정보 보호에 걸친 침해사고로 영향 범위가 넓고 당일 공개된 조사 내용이 있습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "4.8%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "발표는 11월16일입니다. 소비·생산은 10월, 부동산 개발투자는 1~10월 누적입니다.",
+          "id": "20261116-pm-china-october-data",
+          "keyFacts": {
+            "10월 산업생산": "전년 동월 대비 +4.8%",
+            "10월 소매판매": "전년 동월 대비 +0.4%",
+            "1~10월 부동산 개발투자": "전년 동기 대비 -21.6%"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T14:32:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T14:32:00+09:00",
+              "title": "중국 10월 소매판매 0.4%·산업생산 4.8% 증가…예상 밑돌아",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261116104200083",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261116104200083",
+          "scoreComponents": {
+            "domesticImpact": 85,
+            "importance": 89,
+            "interest": 77,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "한국의 주요 교역 상대인 중국의 소비·생산 둔화는 수출과 경기 판단에 중요한 당일 지표입니다. 16일 발표된 10월 소비·생산 및 1~10월 누적 투자 지표의 실제 수치가 확인됐습니다.",
+          "sources": [
+            {
+              "kind": "wire",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T14:32:00+09:00",
+              "title": "중국 10월 소매판매 0.4%·산업생산 4.8% 증가…예상 밑돌아",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261116104200083",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "중국 국가통계국이 발표한 10월 산업생산은 전년 동월보다 4.8%, 소매판매는 0.4% 증가했습니다. 시장 예상치인 5.3%, 0.8%를 각각 밑돌았고 9월보다 증가율도 낮아졌습니다.",
+            "올해 1~10월 부동산 개발투자는 전년 같은 기간보다 21.6% 감소했습니다. 10월 신규 주택가격 하락폭은 줄었지만 투자 감소는 이어져 지표별 흐름을 구분해서 볼 필요가 있습니다."
+          ],
+          "timeline": {
+            "change": "16일 발표된 10월 소비·생산 및 1~10월 누적 투자 지표의 실제 수치가 확인됐습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Shanghai",
+            "issueId": "china-october-2026-economic-indicators",
+            "issueTitle": "중국 2026년 10월 소비·생산 지표",
+            "stage": "발표"
+          },
+          "title": "중국 10월 소매판매 0.4%·산업생산 4.8% 증가…예상 밑돌아",
+          "topicKey": "china-october-data-2026-11-16",
+          "uncertainty": "이번 월간 지표만으로 향후 성장률이나 한국 수출에 미칠 영향을 확정할 수 없습니다.",
+          "whatChanged": "16일 발표된 10월 소비·생산 및 1~10월 누적 투자 지표의 실제 수치가 확인됐습니다.",
+          "whyItMatters": "한국의 주요 교역 상대인 중국의 소비·생산 둔화는 수출과 경기 판단에 중요한 당일 지표입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "항로를 바꾸거나"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "원보도와 선박 위치는 미국 현지 11월15일 기준입니다. 세부 시간대와 정확한 시각은 확인되지 않았습니다.",
+          "id": "20261116-pm-russian-diesel-ships",
+          "keyFacts": {
+            "국내 보도": "2026-11-16 20:00",
+            "선박 상황 기준": "미국 현지 2026-11-15",
+            "확인 범위": "일부 유조선 항로 변경 또는 해상 대기 보도"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T20:00:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-16T20:00:00+09:00",
+              "title": "미국행 러시아산 경유 유조선 항로 변경·해상 대기 보도",
+              "url": "https://www.mt.co.kr/index.php/world/2026/11/16/2026111619335479207",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.mt.co.kr/index.php/world/2026/11/16/2026111619335479207",
+          "scoreComponents": {
+            "domesticImpact": 75,
+            "importance": 83,
+            "interest": 74,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "제재 정책과 실제 에너지 운송 사이의 차질을 보여주는 국제 소식으로 선정했습니다. 현지 15일 선박 추적 상황에 대한 16일 저녁 한국어 보도가 나왔습니다. 새 제재나 수입 전면 중단으로 확대 해석하지 않았습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-16T20:00:00+09:00",
+              "title": "미국행 러시아산 경유 유조선 항로 변경·해상 대기 보도",
+              "url": "https://www.mt.co.kr/index.php/world/2026/11/16/2026111619335479207",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "CNN이 선박 추적 자료를 근거로 미국에 향하던 러시아산 경유 유조선 일부가 항로를 바꾸거나 해상에 머물고 있다고 보도했습니다. 머니투데이는 이를 16일 저녁 전했습니다.",
+            "미국의 제재 면제에도 의원들의 반발과 법적 책임 우려 때문에 기업·항만이 거래를 꺼린다는 분석입니다. 선박 상황과 원보도는 미국 현지 15일 기준이며, 전체 수입이 중단됐다고 확인된 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "현지 15일 선박 추적 상황에 대한 16일 저녁 한국어 보도가 나왔습니다. 새 제재나 수입 전면 중단으로 확대 해석하지 않았습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "us-russian-diesel-import-shipping-2026",
+            "issueTitle": "미국의 러시아산 경유 수입과 해운 차질",
+            "stage": "보도"
+          },
+          "title": "미국행 러시아산 경유 유조선 항로 변경·해상 대기 보도",
+          "topicKey": "russian-diesel-ships-2026-11-16",
+          "uncertainty": "하역항과 최종 거래 성사 여부는 확인되지 않았고 법적 위험은 기사에 인용된 평가입니다.",
+          "whatChanged": "현지 15일 선박 추적 상황에 대한 16일 저녁 한국어 보도가 나왔습니다. 새 제재나 수입 전면 중단으로 확대 해석하지 않았습니다.",
+          "whyItMatters": "제재 정책과 실제 에너지 운송 사이의 차질을 보여주는 국제 소식으로 선정했습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "웹툰산업",
+          "emphasis": [
+            "159억원"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "공시는 11월16일이며 실적 대상은 2026년 3분기입니다.",
+          "id": "20261116-pm-mrblue-q3-results",
+          "keyFacts": {
+            "3분기 연결 매출": "159억원, 전년 동기 대비 -9.1%",
+            "게임 제외 매출": "130억원, 전년과 비슷",
+            "영업손실": "3억원, 전년 동기 7억원"
+          },
+          "placement": "additional",
+          "publishedAt": "2026-11-16T15:33:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-16T15:33:00+09:00",
+              "title": "미스터블루 3분기 매출 159억원…영업손실 3억원으로 축소",
+              "url": "https://www.hankyung.com/article/2026111695926",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.hankyung.com/article/2026111695926",
+          "scoreComponents": {
+            "domesticImpact": 62,
+            "importance": 65,
+            "interest": 70,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "웹툰·웹소설 플랫폼의 당일 실적 공시를 다루며 홍보 문구 대신 사업 부문별 숫자를 확인했습니다. 16일 공시된 3분기 실적 수치입니다. 이전의 굿즈 할인행사와 별개인 실제 사업 실적을 다뤘습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-16T15:33:00+09:00",
+              "title": "미스터블루 3분기 매출 159억원…영업손실 3억원으로 축소",
+              "url": "https://www.hankyung.com/article/2026111695926",
+              "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미스터블루가 공시한 3분기 연결 매출은 159억원으로 전년 동기보다 9.1% 줄었습니다. 영업손실은 지난해 같은 분기의 7억원에서 3억원으로 축소됐지만 적자는 이어졌습니다.",
+            "게임 자회사의 매출이 줄어든 가운데 게임 부문을 제외한 매출은 130억원으로 전년과 비슷했습니다. 연결 매출 감소를 웹툰·웹소설 사업 전체의 감소로 그대로 해석하기는 어렵습니다."
+          ],
+          "timeline": {
+            "change": "16일 공시된 3분기 실적 수치입니다. 이전의 굿즈 할인행사와 별개인 실제 사업 실적을 다뤘습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "mrblue-q3-2026-results",
+            "issueTitle": "미스터블루 2026년 3분기 실적",
+            "stage": "발표"
+          },
+          "title": "미스터블루 3분기 매출 159억원…영업손실 3억원으로 축소",
+          "topicKey": "mrblue-q3-results-2026-11-16",
+          "uncertainty": "게임 제외 매출을 웹툰만의 매출로 볼 수 없고 향후 수익성 개선을 확정할 수 없습니다.",
+          "whatChanged": "16일 공시된 3분기 실적 수치입니다. 이전의 굿즈 할인행사와 별개인 실제 사업 실적을 다뤘습니다.",
+          "whyItMatters": "웹툰·웹소설 플랫폼의 당일 실적 공시를 다루며 홍보 문구 대신 사업 부문별 숫자를 확인했습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-16-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-16T21:15:07.634581+09:00",
+  "result": {
+    "id": "2026-11-16-pm",
+    "operationId": "publish-news-2026-11-16-pm",
+    "recordedAt": "2026-11-16T21:15:07.634581+09:00",
+    "sha256": "c5048bc78e290a43a9626c31b339c33cfba8febb2433656bf0ee99fd3782e9e4",
+    "windowId": "2026-11-16-pm"
+  }
+}

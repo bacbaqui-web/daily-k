@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-16/pm.json",
+      "category": "국제정세",
+      "change": "현지 15일 선박 추적 상황에 대한 16일 저녁 한국어 보도가 나왔습니다. 새 제재나 수입 전면 중단으로 확대 해석하지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-16T21:12:00.552371+09:00",
+      "coveredOn": "2026-11-16",
+      "edition": "pm",
+      "editionDate": "2026-11-16",
+      "editionId": "2026-11-16-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "원보도와 선박 위치는 미국 현지 11월15일 기준입니다. 세부 시간대와 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-16-pm/20261116-pm-russian-diesel-ships",
+      "keyFacts": {
+        "국내 보도": "2026-11-16 20:00",
+        "선박 상황 기준": "미국 현지 2026-11-15",
+        "확인 범위": "일부 유조선 항로 변경 또는 해상 대기 보도"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-16T20:00:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-11-16T20:00:00+09:00",
+          "title": "미국행 러시아산 경유 유조선 항로 변경·해상 대기 보도",
+          "url": "https://www.mt.co.kr/index.php/world/2026/11/16/2026111619335479207",
+          "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261116-pm-russian-diesel-ships",
+      "summary": [
+        "CNN이 선박 추적 자료를 근거로 미국에 향하던 러시아산 경유 유조선 일부가 항로를 바꾸거나 해상에 머물고 있다고 보도했습니다. 머니투데이는 이를 16일 저녁 전했습니다.",
+        "미국의 제재 면제에도 의원들의 반발과 법적 책임 우려 때문에 기업·항만이 거래를 꺼린다는 분석입니다. 선박 상황과 원보도는 미국 현지 15일 기준이며, 전체 수입이 중단됐다고 확인된 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "미국행 러시아산 경유 유조선 항로 변경·해상 대기 보도",
+      "uncertainty": "하역항과 최종 거래 성사 여부는 확인되지 않았고 법적 위험은 기사에 인용된 평가입니다."
+    }
+  ],
+  "id": "us-russian-diesel-import-shipping-2026",
+  "schemaVersion": 1,
+  "title": "미국의 러시아산 경유 수입과 해운 차질",
+  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+}

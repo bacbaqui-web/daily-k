@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-16/pm.json",
+      "category": "웹툰산업",
+      "change": "16일 공시된 3분기 실적 수치입니다. 이전의 굿즈 할인행사와 별개인 실제 사업 실적을 다뤘습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-16T21:12:00.552371+09:00",
+      "coveredOn": "2026-11-16",
+      "edition": "pm",
+      "editionDate": "2026-11-16",
+      "editionId": "2026-11-16-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "공시는 11월16일이며 실적 대상은 2026년 3분기입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-16-pm/20261116-pm-mrblue-q3-results",
+      "keyFacts": {
+        "3분기 연결 매출": "159억원, 전년 동기 대비 -9.1%",
+        "게임 제외 매출": "130억원, 전년과 비슷",
+        "영업손실": "3억원, 전년 동기 7억원"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-16T15:33:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-11-16T15:33:00+09:00",
+          "title": "미스터블루 3분기 매출 159억원…영업손실 3억원으로 축소",
+          "url": "https://www.hankyung.com/article/2026111695926",
+          "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261116-pm-mrblue-q3-results",
+      "summary": [
+        "미스터블루가 공시한 3분기 연결 매출은 159억원으로 전년 동기보다 9.1% 줄었습니다. 영업손실은 지난해 같은 분기의 7억원에서 3억원으로 축소됐지만 적자는 이어졌습니다.",
+        "게임 자회사의 매출이 줄어든 가운데 게임 부문을 제외한 매출은 130억원으로 전년과 비슷했습니다. 연결 매출 감소를 웹툰·웹소설 사업 전체의 감소로 그대로 해석하기는 어렵습니다."
+      ],
+      "supersededBy": [],
+      "title": "미스터블루 3분기 매출 159억원…영업손실 3억원으로 축소",
+      "uncertainty": "게임 제외 매출을 웹툰만의 매출로 볼 수 없고 향후 수익성 개선을 확정할 수 없습니다."
+    }
+  ],
+  "id": "mrblue-q3-2026-results",
+  "schemaVersion": 1,
+  "title": "미스터블루 2026년 3분기 실적",
+  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+}

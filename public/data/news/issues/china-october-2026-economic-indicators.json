@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-16/pm.json",
+      "category": "경제·생활경제",
+      "change": "16일 발표된 10월 소비·생산 및 1~10월 누적 투자 지표의 실제 수치가 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-16T21:12:00.552371+09:00",
+      "coveredOn": "2026-11-16",
+      "edition": "pm",
+      "editionDate": "2026-11-16",
+      "editionId": "2026-11-16-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "발표는 11월16일입니다. 소비·생산은 10월, 부동산 개발투자는 1~10월 누적입니다.",
+      "eventTimezone": "Asia/Shanghai",
+      "followUp": null,
+      "id": "2026-11-16-pm/20261116-pm-china-october-data",
+      "keyFacts": {
+        "10월 산업생산": "전년 동월 대비 +4.8%",
+        "10월 소매판매": "전년 동월 대비 +0.4%",
+        "1~10월 부동산 개발투자": "전년 동기 대비 -21.6%"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-16T14:32:00+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-16T14:32:00+09:00",
+          "title": "중국 10월 소매판매 0.4%·산업생산 4.8% 증가…예상 밑돌아",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261116104200083",
+          "verifiedAt": "2026-11-16T21:12:00.552371+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261116-pm-china-october-data",
+      "summary": [
+        "중국 국가통계국이 발표한 10월 산업생산은 전년 동월보다 4.8%, 소매판매는 0.4% 증가했습니다. 시장 예상치인 5.3%, 0.8%를 각각 밑돌았고 9월보다 증가율도 낮아졌습니다.",
+        "올해 1~10월 부동산 개발투자는 전년 같은 기간보다 21.6% 감소했습니다. 10월 신규 주택가격 하락폭은 줄었지만 투자 감소는 이어져 지표별 흐름을 구분해서 볼 필요가 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "중국 10월 소매판매 0.4%·산업생산 4.8% 증가…예상 밑돌아",
+      "uncertainty": "이번 월간 지표만으로 향후 성장률이나 한국 수출에 미칠 영향을 확정할 수 없습니다."
+    }
+  ],
+  "id": "china-october-2026-economic-indicators",
+  "schemaVersion": 1,
+  "title": "중국 2026년 10월 소비·생산 지표",
+  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+}
