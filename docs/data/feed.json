@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T11:14:20.934697+09:00",
-  "windowEnd": "2026-11-16T11:06:55.542207+09:00",
+  "collectedAt": "2026-11-16T02:24:37.653120+00:00",
+  "windowEnd": "2026-11-16T11:24:37.544670+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4553,55 +4553,6 @@
       "firstPublishedAt": "2026-11-15T19:57:55.832372+00:00"
     },
     {
-      "id": "aagag-1669697-0",
-      "url": "https://aagag.com/issue/?idx=1669697",
-      "source": "애객",
-      "title": "잠옷 입고 챌린지하는 모모링",
-      "publishedAt": "2026-11-15T10:50:27+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5Xl6.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5Xl6.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8983370",
-          "text": "얼굴을 왜케 땡겼니"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-15T11:14:24.514174+09:00",
-      "sourceTitles": [
-        "잠옷 입고 챌린지하는 모모링",
-        "ㅇㅎ)트와이스 모모 근황",
-        "ㅇㅎ?) 모모 잠옷입고 챌린지.mp4",
-        "잠옷 입고 챌린지하는 모모링"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-15T02:14:39.221943+00:00",
-      "collectedAt": "2026-11-15T11:14:39.221964+09:00",
-      "firstPublishedAt": "2026-11-15T02:14:39.342941+00:00"
-    },
-    {
       "id": "aagag-165570-0",
       "url": "https://aagag.com/issue/?idx=165570",
       "source": "애객",
@@ -4849,9 +4800,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
