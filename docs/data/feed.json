@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T14:57:55.169748+09:00",
-  "windowEnd": "2026-11-16T14:51:08.005585+09:00",
+  "collectedAt": "2026-11-16T06:08:10.665574+00:00",
+  "windowEnd": "2026-11-16T15:08:10.571952+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -2352,90 +2352,6 @@
       "sourceTitlesFetchedAt": "2026-11-15T20:21:54.113984+00:00",
       "collectedAt": "2026-11-16T05:21:54.114007+09:00",
       "firstPublishedAt": "2026-11-15T20:21:54.195298+00:00"
-    },
-    {
-      "id": "aagag-1669743-0",
-      "url": "https://aagag.com/issue/?idx=1669743",
-      "source": "애객",
-      "title": "세무냥이가 자백할 수 밖에 없었던 이유",
-      "publishedAt": "2026-11-15T14:50:50+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5qlf.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "앞으로 수능, 전문직 통신기록조회로 ai 때려잡기 ㄷㄷ"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5qlf.webp"
-      ],
-      "videos": [],
-      "excerpt": "앞으로 수능, 전문직 통신기록조회로 ai 때려잡기 ㄷㄷ",
-      "reportedCommentCount": 10,
-      "commentsPartial": false,
-      "kCount": 23,
-      "commentCount": 10,
-      "laughingComments": 2,
-      "score": 23,
-      "kPerComment": 2.3,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8984086",
-          "text": "그럼 반대로 남의 폰으로 하면 안걸린다는거네.. 그냥 전파교란기 설치하거나 납으로된 시험장을 만들어야되나ㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8984091",
-          "text": "타인의 단말기를 사용한다면?"
-        },
-        {
-          "id": "8984095",
-          "text": "온디바이스ai를 쓴다면? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 창과 방패의 대결인가 ㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8984101",
-          "text": "바둑도 비슷하게 치탕한거 적발된적 있지 않나요?"
-        },
-        {
-          "id": "8984103",
-          "text": "여기 댓글만봐도 피할 방법이 바로 나오는데 방법이 있으려나"
-        },
-        {
-          "id": "8984109",
-          "text": "데이터 오간 기록이 그 ai쓴걸 증명 할수가 있나?? 전문가가 아니라서 모르겠네"
-        },
-        {
-          "id": "8984132",
-          "text": "수사협조 받아서 해당 시험 보던 시간대에 AI 사용기록 확인하면 가능할듯 대화내역이나 계정을 삭제해도 서버에는 일정기간 보관됨"
-        },
-        {
-          "id": "8984129",
-          "text": "사고 안난 대포폰 흥하겠는데....."
-        },
-        {
-          "id": "8984131",
-          "text": "명의 다른사람꺼로 한다? 명의 빌려준 사람이 시험이 치뤄지는 시간대에 자기명의 폰이 왜 거기에 있었는지 잡아다 놓고 조사하면 술술 불 껀데 누가 리스크 감당하려고 할지"
-        },
-        {
-          "id": "8984143",
-          "text": "저거야 우회 할려고 하면 방법은 넘치지."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-15T15:06:10.604015+09:00",
-      "sourceTitles": [
-        "세무냥이가 자백할 수 밖에 없었던 이유",
-        "세무냥이가 자백할 수 밖에 없었던 이유",
-        "세무냥이가 자백할 수 밖에 없었던 이유"
-      ],
-      "sourceHistoryPartial": true,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-15T06:06:16.927355+00:00",
-      "collectedAt": "2026-11-15T15:06:16.927372+09:00",
-      "firstPublishedAt": "2026-11-15T06:06:17.006276+00:00"
     },
     {
       "id": "aagag-1127025-0",
@@ -6825,9 +6741,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 327,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
