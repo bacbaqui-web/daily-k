@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-16T19:39:38.123611+00:00",
+  "collectedAt": "2026-11-16T19:41:26.807768+00:00",
   "windowEnd": "2026-11-17T04:39:37.995279+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8716,6 +8716,109 @@
       "firstPublishedAt": "2026-11-15T19:57:55.832372+00:00"
     },
     {
+      "id": "aagag-1670155-0",
+      "url": "https://aagag.com/issue/?idx=1670155",
+      "source": "애객",
+      "title": "해외공연이라 폼이 다른 유아유 수아",
+      "publishedAt": "2026-11-17T04:34:53+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L602j.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L602p.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6023.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L601i.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L602F.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L602R.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L602X.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L602j.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L602p.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L6023.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L601i.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L602F.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L602R.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L602X.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-17T04:41:21.220065+09:00",
+      "sourceTitles": [
+        "해외 공연이라 폼이 다른 유아유 수아",
+        "해외공연이라 폼이 다른 유아유 수아",
+        "ㅇㅎ?) 드림캐쳐 수아 미국 공연...gif"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-16T19:41:26.670265+00:00",
+      "collectedAt": "2026-11-17T04:41:26.670283+09:00",
+      "firstPublishedAt": "2026-11-16T19:41:26.847317+00:00"
+    },
+    {
       "id": "aagag-1670043-0",
       "url": "https://aagag.com/issue/?idx=1670043",
       "source": "애객",
@@ -8964,7 +9067,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
