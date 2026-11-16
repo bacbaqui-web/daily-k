@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T00:00:28.207272+00:00",
+  "collectedAt": "2026-11-16T00:02:03.113732+00:00",
   "windowEnd": "2026-11-16T09:00:28.110367+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2188,6 +2188,73 @@
       "sourceTitlesFetchedAt": "2026-11-15T01:14:11.451623+00:00",
       "collectedAt": "2026-11-15T10:14:11.451640+09:00",
       "firstPublishedAt": "2026-11-15T01:14:11.589199+00:00"
+    },
+    {
+      "id": "aagag-1669917-0",
+      "url": "https://aagag.com/issue/?idx=1669917",
+      "source": "애객",
+      "title": "테슬라 사이버캡 국내행사 방문객 클라스",
+      "publishedAt": "2026-11-16T08:52:48+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5U6q.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5U6w.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㄷㄷㄷ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5U6q.webp",
+        "https://i.aagag.com/o/L5U6w.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㄷㄷㄷ",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 4,
+      "laughingComments": 2,
+      "score": 15,
+      "kPerComment": 3.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8986405",
+          "text": "첫사진보고 방문객이라고 생각도 못했네 ㅋㅋㅋㅋㅋㅋ 그냥 로봇 하나 세워놓은줄"
+        },
+        {
+          "id": "8986408",
+          "text": "뭔가 비율이 이상한데 흠칫..했습니다"
+        },
+        {
+          "id": "8986420",
+          "text": "정성이다..정성이야.."
+        },
+        {
+          "id": "8986424",
+          "text": "안내를 옵티머스로봇이 하나 했더니ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-16T09:01:49.483975+09:00",
+      "sourceTitles": [
+        "테슬라 사이버캡 행사 방문객",
+        "테슬라 사이버캡 행사 방문객 클라스",
+        "테슬라 사이버캡 행사 방문객 클라스",
+        "테슬라 사이버캡 국내행사 방문객 클라스"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-16T00:02:03.061445+00:00",
+      "collectedAt": "2026-11-16T09:02:03.061462+09:00",
+      "firstPublishedAt": "2026-11-16T00:02:03.142698+00:00"
     },
     {
       "id": "aagag-1669828-0",
@@ -4390,7 +4457,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
