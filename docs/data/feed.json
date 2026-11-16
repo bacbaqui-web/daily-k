@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T18:15:05.743473+09:00",
-  "windowEnd": "2026-11-16T18:09:01.669745+09:00",
+  "collectedAt": "2026-11-16T09:25:32.553123+00:00",
+  "windowEnd": "2026-11-16T18:25:32.451446+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6074,73 +6074,6 @@
       "firstPublishedAt": "2026-11-15T10:42:56.348583+00:00"
     },
     {
-      "id": "aagag-1669771-0",
-      "url": "https://aagag.com/issue/?idx=1669771",
-      "source": "애객",
-      "title": "ㅇㅎ) 최고의 디저트",
-      "publishedAt": "2026-11-15T18:01:48+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5ns2.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5ns2.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 5,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8984646",
-          "text": "ai 잘하네"
-        },
-        {
-          "id": "8984668",
-          "text": "무슨 이상한 디저트 올리지 말고 나가서 케이크나 아이스크림 사와 남자도 디저트 좋아해"
-        },
-        {
-          "id": "8984672",
-          "text": "저몸매 얼굴에 하버드.... 내 아기좀"
-        },
-        {
-          "id": "8984686",
-          "text": "매력있게 이쁘당"
-        },
-        {
-          "id": "8984693",
-          "text": "포장도 안뜯고 플레이팅 대충하네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-15T18:19:27.218650+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 최고의 디저트",
-        "ㅇㅎ) 최고의 디저트",
-        "ㅇㅎ) 최고의 디저트",
-        "ㅇㅎ) 최고의 디저트",
-        "최고의 디저트 보여드림",
-        "ㅇㅎ) 최고의 디저트"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-15T09:19:37.784947+00:00",
-      "collectedAt": "2026-11-15T18:19:37.784966+09:00",
-      "firstPublishedAt": "2026-11-15T09:19:37.884192+00:00"
-    },
-    {
       "id": "aagag-1669970-0",
       "url": "https://aagag.com/issue/?idx=1669970",
       "source": "애객",
@@ -6901,9 +6834,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
