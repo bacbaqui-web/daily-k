@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T08:13:39.806489+00:00",
+  "collectedAt": "2026-11-16T08:17:59.902821+00:00",
   "windowEnd": "2026-11-16T17:13:39.711321+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2550,6 +2550,75 @@
       "sourceTitlesFetchedAt": "2026-11-16T02:25:39.147032+00:00",
       "collectedAt": "2026-11-16T11:25:39.147049+09:00",
       "firstPublishedAt": "2026-11-16T02:25:39.235992+00:00"
+    },
+    {
+      "id": "aagag-1670059-0",
+      "url": "https://aagag.com/issue/?idx=1670059",
+      "source": "애객",
+      "title": "교수",
+      "publishedAt": "2026-11-16T16:57:35+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L64HO.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L64HO.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 7,
+      "laughingComments": 2,
+      "score": 19,
+      "kPerComment": 2.7142857142857144,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8988788",
+          "text": "애는 착해"
+        },
+        {
+          "id": "8988790",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 개판이란 소리"
+        },
+        {
+          "id": "8988791",
+          "text": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8988795",
+          "text": "에이 아예 없네?"
+        },
+        {
+          "id": "8988798",
+          "text": "이새기들을 정직하다고 칭찬해야돼 개판이라고 빠따를 쳐야돼 어째야돼... 하..."
+        },
+        {
+          "id": "8988804",
+          "text": "교수님 눈에는....잘하면 대학원으로 납치하고"
+        },
+        {
+          "id": "8988876",
+          "text": "정직하다는 말이 이렇게 슬프게 들리는 칭찬은 처음이네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-16T17:17:46.606922+09:00",
+      "sourceTitles": [
+        "교수님 \"내 학생들은 참 정직해.\"",
+        "교수: \"우리 학생들은 정직해\"",
+        "교수: \"우리 학생들은 정직해\"",
+        "교수 \"우리 학생들은 정직하네\""
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-16T08:17:59.835767+00:00",
+      "collectedAt": "2026-11-16T17:17:59.835829+09:00",
+      "firstPublishedAt": "2026-11-16T08:17:59.934826+00:00"
     },
     {
       "id": "aagag-1285379-0",
@@ -6885,7 +6954,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
