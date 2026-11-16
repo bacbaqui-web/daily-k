@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T10:33:05.111016+00:00",
+  "collectedAt": "2026-11-16T10:33:57.854128+00:00",
   "windowEnd": "2026-11-16T19:33:05.013894+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7165,7 +7165,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7192,6 +7192,47 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1670098-0",
+      "url": "https://aagag.com/issue/?idx=1670098",
+      "source": "애객",
+      "title": "2026년 11월 19일 수능 규칙",
+      "publishedAt": "2026-11-16T19:32:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5bmN.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5bmN.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-16T19:33:46.017052+09:00",
+      "sourceTitles": [
+        "2026년 11월 19일 수능 규칙",
+        "2026년 11월 19일 수능 규칙",
+        "올해 수능은 중급닌자 시험이네",
+        "세무냥이가 없었던 시간선의 2027 수능",
+        "세무사 수석분이 참고한 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-16T10:33:57.789106+00:00",
+      "collectedAt": "2026-11-16T19:33:57.789123+09:00",
+      "firstPublishedAt": "2026-11-16T10:33:57.887463+00:00"
+    },
     {
       "id": "aagag-1599437-1",
       "url": "https://aagag.com/issue/?idx=1599437_1",
