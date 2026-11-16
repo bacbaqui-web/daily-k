@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T06:41:49.584130+00:00",
+  "collectedAt": "2026-11-16T06:44:57.789098+00:00",
   "windowEnd": "2026-11-16T15:41:49.463053+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3742,6 +3742,88 @@
       "firstPublishedAt": "2026-11-16T00:35:38.573112+00:00"
     },
     {
+      "id": "aagag-1670028-0",
+      "url": "https://aagag.com/issue/?idx=1670028",
+      "source": "애객",
+      "title": "증오가 느껴지는 모기 괴롭히기",
+      "publishedAt": "2026-11-16T15:30:34+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5vbl.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5vbl.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 9,
+      "commentsPartial": false,
+      "kCount": 13,
+      "commentCount": 9,
+      "laughingComments": 3,
+      "score": 13,
+      "kPerComment": 1.4444444444444444,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8988354",
+          "text": "도감까지 만들었어"
+        },
+        {
+          "id": "8988358",
+          "text": "뭔가 이해가 되네 ㅋㅋㅋ"
+        },
+        {
+          "id": "8988364",
+          "text": "마지막이 압권이네"
+        },
+        {
+          "id": "8988367",
+          "text": "도감까지 만들었어 ㅋㅋ"
+        },
+        {
+          "id": "8988370",
+          "text": "이야 대리만족 쥐기넹 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8988371",
+          "text": "모기를 죽입시다"
+        },
+        {
+          "id": "8988377",
+          "text": "역시 전문가"
+        },
+        {
+          "id": "8988379",
+          "text": "역시..."
+        },
+        {
+          "id": "8988386",
+          "text": "본인 손가락 피부도 같이 고문당한다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-16T15:44:52.094873+09:00",
+      "sourceTitles": [
+        "모기 고문하기.......mp4",
+        "증오가 느껴지는 모기 괴롭히기",
+        "사람을 잘못 고른 모기.mp4",
+        "사람을 잘못 고른 모기.mp4",
+        "증오가 느껴지는 모기 괴롭히기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-16T06:44:57.653420+00:00",
+      "collectedAt": "2026-11-16T15:44:57.653437+09:00",
+      "firstPublishedAt": "2026-11-16T06:44:57.839107+00:00"
+    },
+    {
       "id": "aagag-1669992-0",
       "url": "https://aagag.com/issue/?idx=1669992",
       "source": "애객",
@@ -7073,7 +7155,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
