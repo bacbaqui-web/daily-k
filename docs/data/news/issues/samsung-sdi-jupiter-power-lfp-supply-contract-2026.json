@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-16/am.json",
+      "category": "경제·생활경제",
+      "change": "16GWh 신규 공급계약이 발표됐습니다. 2029년 이후 납품과 사업 성과는 향후 단계입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "coveredOn": "2026-11-16",
+      "edition": "am",
+      "editionDate": "2026-11-16",
+      "editionId": "2026-11-16-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "회사 발표는 11월16일입니다. 계약 체결의 정확한 날짜·시각은 공개되지 않았으며 공급은 2029년부터 3년간 예정입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-16-am/20261116-am-eco-02",
+      "keyFacts": {
+        "계약금액": "2조원 이상 업계 추정, 확정액 미공개",
+        "공급 기간": "2029년부터 3년간 예정",
+        "상대 기업": "주피터파워",
+        "생산 예정지": "미국 인디애나주 스타플러스에너지 공장",
+        "신규 계약 물량": "16GWh"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-16T08:46:21+09:00",
+      "sources": [
+        {
+          "kind": "wire",
+          "language": "ko",
+          "name": "뉴스1",
+          "publishedAt": "2026-11-16T08:46:21+09:00",
+          "title": "삼성SDI, 美에 ESS용 16GWh LFP 배터리 공급…2조 이상 추정(종합)",
+          "url": "https://n.news.naver.com/mnews/article/421/0009290396",
+          "verifiedAt": "2026-11-16T09:05:49.330521+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261116-am-eco-02",
+      "summary": [
+        "삼성SDI가 미주법인을 통해 미국 ESS 개발·운영기업 주피터파워와 LFP 배터리 16GWh 공급계약을 체결했다고 발표했습니다. 공급은 2029년부터 3년간 예정돼 있습니다.",
+        "배터리는 미국 인디애나주 스타플러스에너지 공장에서 생산할 계획입니다. 앞선 계약을 포함한 약 27GWh와 이번 신규 계약의 16GWh는 구분해야 합니다.",
+        "2조원 이상이라는 계약금액은 업계 추정이며 회사가 확정 공개한 금액이 아닙니다. 공급계약은 실제 납품·매출 인식 완료와 다르며 향후 생산·인도 일정 이행은 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "삼성SDI, 주피터파워와 ESS 배터리 16GWh 공급계약…2029년부터 공급 예정",
+      "uncertainty": "확정 계약금액과 실제 생산·납품, 수익성 및 매출 인식 결과는 미확정입니다."
+    }
+  ],
+  "id": "samsung-sdi-jupiter-power-lfp-supply-contract-2026",
+  "schemaVersion": 1,
+  "title": "삼성SDI·주피터파워 ESS용 LFP 배터리 공급계약",
+  "updatedAt": "2026-11-16T09:08:12.481329+09:00"
+}

@@ -1,27 +1,133 @@
 {
-  "editionCount": 120,
+  "editionCount": 121,
   "issues": [
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "firstCoveredDate": "2026-11-16",
+      "id": "yemen-bab-el-mandeb-forces-redeployment-2026",
+      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "lastCoveredDate": "2026-11-16",
+      "latest": {
+        "archive": false,
+        "change": "병력 재배치가 발표되고 아덴 서쪽 이동이 보도됐습니다. 해협 통제와 후속 작전은 미확정입니다.",
+        "editionId": "2026-11-16-am",
+        "stage": "보도",
+        "storyId": "20261116-am-int-01",
+        "title": "예멘 정부 측 병력, 바브엘만데브 주변서 아덴 방어로 재배치"
+      },
+      "path": "yemen-bab-el-mandeb-forces-redeployment-2026.json",
+      "title": "예멘 정부 측 병력의 바브엘만데브 주변 재배치"
+    },
     {
       "categories": [
         "국제·안보",
         "국제정세"
       ],
-      "eventCount": 12,
+      "eventCount": 13,
       "firstCoveredAt": null,
       "firstCoveredDate": "2026-09-15",
       "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-15T21:13:01.726835+09:00",
-      "lastCoveredDate": "2026-11-15",
+      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "lastCoveredDate": "2026-11-16",
       "latest": {
         "archive": false,
-        "change": "바레인 미군 시설 공격 발표와 미국의 요격 반박이 나왔습니다. 피해 결과는 독립적으로 확인되지 않았습니다.",
-        "editionId": "2026-11-15-pm",
+        "change": "현지 15일 추가 공격과 바레인의 요격 발표·대피 경보가 보도됐습니다. 피해는 미보고입니다.",
+        "editionId": "2026-11-16-am",
         "stage": "후속",
-        "storyId": "20261115-pm-int-01",
-        "title": "이란, 바레인 미군 시설 공격 발표…미국은 전량 요격 반박"
+        "storyId": "20261116-am-int-02",
+        "title": "바레인, 이란발 추가 공중 위협 요격 발표…피해는 미보고"
       },
       "path": "us-iran-military.json",
       "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "firstCoveredDate": "2026-11-16",
+      "id": "tomato-tobrfv-farm-infections-korea-2026",
+      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "lastCoveredDate": "2026-11-16",
+      "latest": {
+        "archive": false,
+        "change": "전국 117개 농가 감염과 익산의 전수조사·출입 통제가 보도됐습니다. 실제 생산 손실은 미확인입니다.",
+        "editionId": "2026-11-16-am",
+        "stage": "보도",
+        "storyId": "20261116-am-safe-02",
+        "title": "토마토 바이러스 전국 117개 농가 확인 보도…익산 전수조사·출입 통제"
+      },
+      "path": "tomato-tobrfv-farm-infections-korea-2026.json",
+      "title": "국내 토마토갈색주름과실바이러스 감염과 농가 방역"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "firstCoveredDate": "2026-11-16",
+      "id": "samsung-sdi-jupiter-power-lfp-supply-contract-2026",
+      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "lastCoveredDate": "2026-11-16",
+      "latest": {
+        "archive": false,
+        "change": "16GWh 신규 공급계약이 발표됐습니다. 2029년 이후 납품과 사업 성과는 향후 단계입니다.",
+        "editionId": "2026-11-16-am",
+        "stage": "발표",
+        "storyId": "20261116-am-eco-02",
+        "title": "삼성SDI, 주피터파워와 ESS 배터리 16GWh 공급계약…2029년부터 공급 예정"
+      },
+      "path": "samsung-sdi-jupiter-power-lfp-supply-contract-2026.json",
+      "title": "삼성SDI·주피터파워 ESS용 LFP 배터리 공급계약"
+    },
+    {
+      "categories": [
+        "생활·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "firstCoveredDate": "2026-11-16",
+      "id": "mfds-exam-drug-illegal-online-sales-inspection-2026",
+      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "lastCoveredDate": "2026-11-16",
+      "latest": {
+        "archive": false,
+        "change": "불법 게시물 571건 적발과 차단 요청이 공개됐습니다. 실제 차단·피해 규모는 미확인입니다.",
+        "editionId": "2026-11-16-am",
+        "stage": "발표",
+        "storyId": "20261116-am-safe-01",
+        "title": "식약처, ‘공부 잘하는 약’ 불법 판매·알선 게시물 571건 적발"
+      },
+      "path": "mfds-exam-drug-illegal-online-sales-inspection-2026.json",
+      "title": "수험생 대상 의약품 온라인 불법 판매·알선 점검"
+    },
+    {
+      "categories": [
+        "경제·금융",
+        "경제·생활경제"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-22",
+      "id": "korea-household-lending",
+      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
+      "lastCoveredDate": "2026-11-16",
+      "latest": {
+        "archive": false,
+        "change": "12일 기준 5대 은행 마이너스통장 잔액과 이달 증가액이 보도됐습니다. 실제 자금 용도는 미확정입니다.",
+        "editionId": "2026-11-16-am",
+        "stage": "보도",
+        "storyId": "20261116-am-eco-01",
+        "title": "5대 은행 마이너스통장 잔액 44조2632억원…이달 6682억원 증가"
+      },
+      "path": "korea-household-lending.json",
+      "title": "국내 가계대출 관리"
     },
     {
       "categories": [
@@ -9368,27 +9474,6 @@
     },
     {
       "categories": [
-        "경제·금융"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-22",
-      "id": "korea-household-lending",
-      "lastCoveredAt": null,
-      "lastCoveredDate": "2026-10-01",
-      "latest": {
-        "archive": true,
-        "change": "과거 브리핑에 남아 있는 기록입니다: 신규 가계대출 DSR 규제 예외 비중 70.5%.",
-        "editionId": "2026-10-01-am-archive",
-        "stage": "보도",
-        "storyId": "archive-06",
-        "title": "신규 가계대출 DSR 규제 예외 비중 70.5%"
-      },
-      "path": "korea-household-lending.json",
-      "title": "국내 가계대출 관리"
-    },
-    {
-      "categories": [
         "경제·금리"
       ],
       "eventCount": 1,
@@ -11384,7 +11469,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 884,
+  "storyCount": 890,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-15T21:13:01.726835+09:00"
+  "updatedAt": "2026-11-16T09:08:12.481329+09:00"
 }
