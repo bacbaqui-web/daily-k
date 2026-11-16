@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T12:16:10.353827+00:00",
+  "collectedAt": "2026-11-16T12:16:57.812510+00:00",
   "windowEnd": "2026-11-16T21:11:21.383302+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4455,75 +4455,6 @@
       "firstPublishedAt": "2026-11-16T01:53:04.989998+00:00"
     },
     {
-      "id": "aagag-1669828-0",
-      "url": "https://aagag.com/issue/?idx=1669828",
-      "source": "애객",
-      "title": "매일 전철과 달리기 대결.mp4",
-      "publishedAt": "2026-11-15T20:58:17+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5UtB.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5UtB.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 14,
-      "commentCount": 6,
-      "laughingComments": 4,
-      "score": 14,
-      "kPerComment": 2.3333333333333335,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8985186",
-          "text": "무모한도전 생각나네 ㅋ"
-        },
-        {
-          "id": "8985187",
-          "text": "마지막에 전철 움직이니까 다시 뛰는 부분이 웃기네 ㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8985188",
-          "text": "전철이 달려가면 달릴꺼야. 두손 꼭 쥐고~"
-        },
-        {
-          "id": "8985194",
-          "text": "빵쨩 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8985195",
-          "text": "뛰다보니 오이도 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8985223",
-          "text": "전철 시간표를 몸으로 외운 강아지네요"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-15T21:16:41.549553+09:00",
-      "sourceTitles": [
-        "시바 : 전철온다 뛰어!!",
-        "매일 전철과 달리기 대결.mp4",
-        "매일 전철과 달리기 대결.mp4",
-        "매일 전철과 달리기 대결 .gif"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-15T12:16:53.594126+00:00",
-      "collectedAt": "2026-11-15T21:16:53.594142+09:00",
-      "firstPublishedAt": "2026-11-15T12:16:53.678107+00:00"
-    },
-    {
       "id": "aagag-1669922-0",
       "url": "https://aagag.com/issue/?idx=1669922",
       "source": "애객",
@@ -8609,7 +8540,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 22,
+  "candidateCount": 87,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
