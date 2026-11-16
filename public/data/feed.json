@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T13:25:53.929477+00:00",
+  "collectedAt": "2026-11-16T13:31:19.074205+00:00",
   "windowEnd": "2026-11-16T22:25:53.809151+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1702,6 +1702,76 @@
       "sourceTitlesFetchedAt": "2026-11-15T21:38:51.875577+00:00",
       "collectedAt": "2026-11-16T06:38:51.875600+09:00",
       "firstPublishedAt": "2026-11-15T21:38:51.970489+00:00"
+    },
+    {
+      "id": "aagag-1670127-0",
+      "url": "https://aagag.com/issue/?idx=1670127",
+      "source": "애객",
+      "title": "전북은 우리의 자부심.jpg",
+      "publishedAt": "2026-11-16T22:11:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L66qx.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L66r3.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L66qx.webp",
+        "https://i.aagag.com/o/L66r3.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 32,
+      "commentCount": 6,
+      "laughingComments": 5,
+      "score": 32,
+      "kPerComment": 5.333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8989848",
+          "text": "ㅋㅋㅋㅋㅋ 터졌넼ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8989856",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8989866",
+          "text": "ㅋㅋㅋ"
+        },
+        {
+          "id": "8989874",
+          "text": "오 마이 체어 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8989886",
+          "text": "이걸 유행하는걸 이렇게 쓰네 ㅋㅋ"
+        },
+        {
+          "id": "8989887",
+          "text": "그래 뭐 경기 질수도 있고 그런데 의자같은건 부시고 그러지 말자....우리가 무식한 유럽 훌리건은 아니잖아"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-16T22:31:13.149244+09:00",
+      "sourceTitles": [
+        "전북은 우리의 자부심.",
+        "전북은 우리의 자부심.jpg",
+        "전북은 우리의 자부심.jpg"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-16T13:31:19.008473+00:00",
+      "collectedAt": "2026-11-16T22:31:19.008493+09:00",
+      "firstPublishedAt": "2026-11-16T13:31:19.103014+00:00"
     },
     {
       "id": "aagag-1462226-0",
@@ -8220,7 +8290,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
