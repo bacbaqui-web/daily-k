@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T14:40:49.367546+09:00",
-  "windowEnd": "2026-11-16T14:30:04.548893+09:00",
+  "collectedAt": "2026-11-16T05:51:08.117827+00:00",
+  "windowEnd": "2026-11-16T14:51:08.005585+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6034,82 +6034,6 @@
       "firstPublishedAt": "2026-11-15T09:00:45.975287+00:00"
     },
     {
-      "id": "aagag-1669741-0",
-      "url": "https://aagag.com/issue/?idx=1669741",
-      "source": "애객",
-      "title": "ㅇㅎ) 이쁜누나들",
-      "publishedAt": "2026-11-15T14:44:08+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5Lpc.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5LpD.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L5Lnj.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L5Lpc.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L5LpD.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L5Lnj.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8984061",
-          "text": "Ai녀들 그래도 크니까 좋네"
-        },
-        {
-          "id": "8984063",
-          "text": "이 요망한 반도체 귀신들아!!!"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-15T14:49:01.655112+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 이쁜누나들",
-        "ㅇㅎ) 이쁜누나들",
-        "ㅇㅎ) 이쁜누나들",
-        "(후방) 이마트24 앞 ㅊㅈ.mp4",
-        "오 예뻐~이쁜이들 (ㅇㅎ",
-        "ㅇㅎ) 금요일 좋아 !!",
-        "ㅇㅎ) 목요일 좋아 !!"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-11-15T05:49:14.032568+00:00",
-      "collectedAt": "2026-11-15T14:49:14.032584+09:00",
-      "firstPublishedAt": "2026-11-15T05:49:14.125242+00:00"
-    },
-    {
       "id": "aagag-1669916-0",
       "url": "https://aagag.com/issue/?idx=1669916",
       "source": "애객",
@@ -6512,9 +6436,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 325,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
