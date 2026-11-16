@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-16",
-  "collectedAt": "2026-11-16T10:50:45.384708+00:00",
+  "collectedAt": "2026-11-16T10:51:52.503417+00:00",
   "windowEnd": "2026-11-16T19:50:45.276269+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -1120,6 +1120,67 @@
       "sourceTitlesFetchedAt": "2026-11-16T09:59:01.516472+00:00",
       "collectedAt": "2026-11-16T18:59:01.516493+09:00",
       "firstPublishedAt": "2026-11-16T09:59:01.630465+00:00"
+    },
+    {
+      "id": "aagag-1670104-0",
+      "url": "https://aagag.com/issue/?idx=1670104",
+      "source": "애객",
+      "title": "충주냥이 9급 시험 결과 ㄷㄷ .jpg",
+      "publishedAt": "2026-11-16T19:48:38+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L65yL.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "25점 과락."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L65yL.webp"
+      ],
+      "videos": [],
+      "excerpt": "25점 과락.",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 46,
+      "commentCount": 4,
+      "laughingComments": 3,
+      "score": 46,
+      "kPerComment": 11.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8989463",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 시간 자체가 18분이던데 ㅋㅋㅋ"
+        },
+        {
+          "id": "8989471",
+          "text": "ㅋㅋㅋㅋ 점수가 안나와도 어차피 면직했으니까! ㅋㅋㅋㅋ 60점 이상이면 내가 이정도다!! 꽃놀이패네... ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8989472",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8989473",
+          "text": "휴먼 에러가 있었던 듯. 제미나이에 파일 주고 풀어보게 했는데 95점 나오던데. 3초 걸렸나?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-16T19:51:41.005556+09:00",
+      "sourceTitles": [
+        "충주냥이 시험 결과 ㄷㄷ",
+        "충주냥이 시험 결과 ㄷㄷ",
+        "충주냥이 9급 시험 결과 ㄷㄷ .jpg",
+        "충주냥이 시험 결과 ㄷㄷㄷㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-16T10:51:52.437011+00:00",
+      "collectedAt": "2026-11-16T19:51:52.437027+09:00",
+      "firstPublishedAt": "2026-11-16T10:51:52.541659+00:00"
     },
     {
       "id": "aagag-1670012-0",
@@ -7102,7 +7163,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
