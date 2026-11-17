@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "국제정세",
+      "change": "11월17일 새벽 발생. 정확한 진입·이탈 시각은 공개되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "11월17일 새벽 발생. 정확한 진입·이탈 시각은 공개되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-17-am/20261117-am-russia-kadiz",
+      "keyFacts": {
+        "발생일": "2026-11-17 새벽",
+        "영공 침범": "없음, 합참 설명"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-17T07:12:44+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-17T07:12:44+09:00",
+          "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870658",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-am-russia-kadiz",
+      "summary": [
+        "러시아 군용기 여러 대가 17일 새벽 동해 한국방공식별구역에 진입했다가 이탈했다고 합동참모본부가 밝혔습니다.",
+        "우리 군은 진입 전부터 탐지해 공군 전투기를 투입했습니다. 합참은 한국 영공 침범은 없었다고 설명했으며, 방공식별구역 진입과 영공 침범은 구분해야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "russia-kadiz-2026-11",
+  "schemaVersion": 1,
+  "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+}

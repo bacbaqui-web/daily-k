@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "국제정세",
+      "change": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-11-17-am/20261117-am-trump-kim",
+      "keyFacts": {
+        "단계": "대통령의 가능성 언급",
+        "회담 확정": "미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-17T00:51:59+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T00:51:59+09:00",
+          "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+          "url": "https://www.yna.co.kr/view/AKR20261116181651071",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-am-trump-kim",
+      "summary": [
+        "트럼프 미국 대통령이 아시아 순방 출발 전 중국 방문 중 김정은 북한 국무위원장을 만날 수도 있다고 말했습니다. 김 위원장의 방중이 시진핑 중국 국가주석에게 달려 있다고도 언급했습니다.",
+        "북미회담 개최와 구체적인 장소·일정은 확정되지 않았습니다. 이번 발언은 13일 백악관 당국자의 회담 계획이 없다는 설명 이후 나온 변화입니다."
+      ],
+      "supersededBy": [],
+      "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "trump-kim-2026-11",
+  "schemaVersion": 1,
+  "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+}

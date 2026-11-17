@@ -1,0 +1,760 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-17T09:00:00+09:00",
+      "date": "2026-11-17",
+      "edition": "am",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-17",
+          "detail": "필리핀에서 정상외교 일정이 이어집니다. 회담 결과는 아직 확인되지 않았습니다.",
+          "source": {
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-17T05:00:01+09:00",
+            "title": "한일 정상회담·아세안+3·동아시아정상회의",
+            "url": "https://www.yna.co.kr/view/AKR20261116167100001",
+            "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+          },
+          "timeNote": "정확한 시각은 이 목록에서 확정하지 않았습니다.",
+          "title": "한일 정상회담·아세안+3·동아시아정상회의"
+        },
+        {
+          "at": null,
+          "date": "2026-11-17",
+          "detail": "검토 중인 대책의 확정 내용과 시행 범위를 확인할 일정입니다.",
+          "source": {
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-16T17:57:13+09:00",
+            "title": "교육부 수능 부정행위 추가 대책 발표 예정",
+            "url": "https://www.yna.co.kr/view/AKR20261116104651530",
+            "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+          },
+          "timeNote": "정확한 시각은 이 목록에서 확정하지 않았습니다.",
+          "title": "교육부 수능 부정행위 추가 대책 발표 예정"
+        },
+        {
+          "at": null,
+          "date": "2026-11-17",
+          "detail": "IMF의 전망과 금융당국의 보안 점검 후속 조치를 확인할 일정입니다.",
+          "source": {
+            "kind": "news",
+            "language": "ko",
+            "name": "YTN",
+            "publishedAt": "2026-11-17T05:28:00+09:00",
+            "title": "IMF 한국 연례협의 결과·금융권 보안 간담회",
+            "url": "https://www.ytn.co.kr/_ln/0102_202611170528389557",
+            "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+          },
+          "timeNote": "정확한 시각은 이 목록에서 확정하지 않았습니다.",
+          "title": "IMF 한국 연례협의 결과·금융권 보안 간담회"
+        },
+        {
+          "at": null,
+          "date": "2026-11-17",
+          "detail": "미국 현지 17일 지표 발표가 예정돼 있습니다. 엔비디아 실적은 현지 장 마감 후, 한국시간 18일 아침 예정입니다.",
+          "source": {
+            "kind": "news",
+            "language": "ko",
+            "name": "SBS Biz",
+            "publishedAt": "2026-11-16T06:02:00+09:00",
+            "title": "미국 소매판매·산업생산 발표 예정",
+            "url": "https://biz.sbs.co.kr/amp/article/20000346534",
+            "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+          },
+          "timeNote": "정확한 시각은 이 목록에서 확정하지 않았습니다.",
+          "title": "미국 소매판매·산업생산 발표 예정"
+        }
+      ],
+      "generatedAt": "2026-11-17T09:16:27.049119+09:00",
+      "id": "2026-11-17-am",
+      "intro": "밤사이 새로 확인된 시장 결과와 정책·안보 소식을 정리했습니다.",
+      "keywords": [
+        "미국 증시 하락",
+        "AI 반도체 규제",
+        "방공식별구역",
+        "코픽스",
+        "예산심사"
+      ],
+      "omissionNotes": [
+        "키다리스튜디오 실적은 16일 보도지만 회사 발표는 13일이며 밤사이 새 내용이 없어 제외했습니다. 웹툰 분야 수량을 채우기 위해 되살리지 않았습니다.",
+        "수능 대책은 전날과 같은 예정 사실이므로 주요 기사로 반복하지 않고 오늘 일정에만 남겼습니다.",
+        "유나이티드 장애는 앞선 FAA 관제 장애와 별개 사건으로 구분했습니다."
+      ],
+      "overview": [
+        "미국 증시와 국제유가가 하락했고, 미국의 AI 반도체 원격 이용 규칙이 발표됐습니다. 국내에서는 새벽 방공식별구역 진입과 예산심사 결과를 확인했습니다.",
+        "국내 대출금리 반영 일정과 예산심사, 미국의 새 항공사 장애와 AI 안전 소송도 살폈습니다. 발표일이 오래된 웹툰 실적은 제외했습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "나스닥은 2.49%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 11월16일 거래 결과, 한국시간 17일 아침 보도입니다.",
+          "followUp": {
+            "delta": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
+            "editionId": "2026-11-10-am",
+            "storyId": "20261110-am-eco-01"
+          },
+          "id": "20261117-am-us-market",
+          "keyFacts": {
+            "NDF 비교": "전일 현물환 대비 +0.15원",
+            "S&P500": "-1.92%",
+            "나스닥": "-2.49%",
+            "다우": "-1.41%",
+            "반도체지수": "-5.28%"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T07:20:03+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "매일경제·연합뉴스",
+              "publishedAt": "2026-11-17T07:20:03+09:00",
+              "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려",
+              "url": "https://stock.mk.co.kr/news/view/1200255",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이투데이",
+              "publishedAt": "2026-11-17T07:41:00+09:00",
+              "title": "원·달러 NDF 0.15원 상승",
+              "url": "https://www.etoday.co.kr/news/view/2648955",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://stock.mk.co.kr/news/view/1200255",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 98,
+            "interest": 98,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "밤사이 미국 시장의 실제 마감 결과이며 국내 반도체·증시의 개장 환경과 관련됩니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "매일경제·연합뉴스",
+              "publishedAt": "2026-11-17T07:20:03+09:00",
+              "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려",
+              "url": "https://stock.mk.co.kr/news/view/1200255",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이투데이",
+              "publishedAt": "2026-11-17T07:41:00+09:00",
+              "title": "원·달러 NDF 0.15원 상승",
+              "url": "https://www.etoday.co.kr/news/view/2648955",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 현지 16일 뉴욕증시에서 나스닥은 2.49%, S&P500은 1.92%, 다우는 1.41% 하락했습니다. 엔비디아는 4.12%, 필라델피아 반도체지수는 5.28% 내렸습니다.",
+            "원·달러 역외선물환은 금리차를 보정하면 전날 서울 주간거래 종가보다 0.15원 높은 수준이었습니다. 이는 오늘 서울시장 개장 환율이 아닙니다."
+          ],
+          "timeline": {
+            "change": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-equities-chips-rates-oil",
+            "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+            "stage": "후속"
+          },
+          "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려",
+          "topicKey": "us-market-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
+          "whyItMatters": "밤사이 미국 시장의 실제 마감 결과이며 국내 반도체·증시의 개장 환경과 관련됩니다."
+        },
+        {
+          "alternatives": [],
+          "category": "과학·기술",
+          "emphasis": [
+            "잠정 최종 규칙"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 11월16일 발표, 한국시간 17일 03:08 최초 보도입니다.",
+          "followUp": {
+            "delta": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
+            "editionId": "2026-11-14-am",
+            "storyId": "20261114-am-tech-01"
+          },
+          "id": "20261117-am-ai-chip-rule",
+          "keyFacts": {
+            "단계": "잠정 최종 규칙 발표",
+            "추가 허가 대상국": "5개국"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T03:08:05+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T03:08:05+09:00",
+              "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표",
+              "url": "https://www.newsis.com/view/NISX20261117_0003870618",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261117_0003870618",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 97,
+            "interest": 97,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "AI 반도체 수출과 해외 데이터센터 사업에 영향을 주는 공식 규칙 발표입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T03:08:05+09:00",
+              "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표",
+              "url": "https://www.newsis.com/view/NISX20261117_0003870618",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 상무부 산업안보국이 중국 등 수출통제 대상 기업의 제3국 데이터센터를 통한 첨단 AI 반도체 원격 이용을 관리하는 잠정 최종 규칙을 발표했습니다.",
+            "일정 규모 이상의 연산능력을 제공하는 데이터센터 관련 거래에 허가를 요구합니다. 싱가포르·말레이시아·인도네시아·태국·브라질 등 5개국으로의 관련 반도체 수출 심사도 강화하는 내용입니다."
+          ],
+          "timeline": {
+            "change": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-china-offshore-ai-chip-remote-access-controls-2026",
+            "issueTitle": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진",
+            "stage": "후속"
+          },
+          "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표",
+          "topicKey": "ai-chip-rule-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
+          "whyItMatters": "AI 반도체 수출과 해외 데이터센터 사업에 영향을 주는 공식 규칙 발표입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "영공 침범은 없었다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월17일 새벽 발생. 정확한 진입·이탈 시각은 공개되지 않았습니다.",
+          "id": "20261117-am-russia-kadiz",
+          "keyFacts": {
+            "발생일": "2026-11-17 새벽",
+            "영공 침범": "없음, 합참 설명"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T07:12:44+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T07:12:44+09:00",
+              "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+              "url": "https://www.newsis.com/view/NISX20261117_0003870658",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261117_0003870658",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 96,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "오늘 새벽 발생한 국내 안보 사안으로 군의 실제 대응과 영공 침범 여부를 확인했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T07:12:44+09:00",
+              "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+              "url": "https://www.newsis.com/view/NISX20261117_0003870658",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "러시아 군용기 여러 대가 17일 새벽 동해 한국방공식별구역에 진입했다가 이탈했다고 합동참모본부가 밝혔습니다.",
+            "우리 군은 진입 전부터 탐지해 공군 전투기를 투입했습니다. 합참은 한국 영공 침범은 없었다고 설명했으며, 방공식별구역 진입과 영공 침범은 구분해야 합니다."
+          ],
+          "timeline": {
+            "change": "11월17일 새벽 발생. 정확한 진입·이탈 시각은 공개되지 않았습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "russia-kadiz-2026-11",
+            "issueTitle": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+            "stage": "보도"
+          },
+          "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+          "topicKey": "russia-kadiz-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "11월17일 새벽 발생. 정확한 진입·이탈 시각은 공개되지 않았습니다.",
+          "whyItMatters": "오늘 새벽 발생한 국내 안보 사안으로 군의 실제 대응과 영공 침범 여부를 확인했습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "확정되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
+          "id": "20261117-am-trump-kim",
+          "keyFacts": {
+            "단계": "대통령의 가능성 언급",
+            "회담 확정": "미확인"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T00:51:59+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T00:51:59+09:00",
+              "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+              "url": "https://www.yna.co.kr/view/AKR20261116181651071",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261116181651071",
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 95,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "한반도 외교에 영향을 줄 수 있는 새 발언이므로 확정된 회담과 구분해 전달합니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T00:51:59+09:00",
+              "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+              "url": "https://www.yna.co.kr/view/AKR20261116181651071",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "트럼프 미국 대통령이 아시아 순방 출발 전 중국 방문 중 김정은 북한 국무위원장을 만날 수도 있다고 말했습니다. 김 위원장의 방중이 시진핑 중국 국가주석에게 달려 있다고도 언급했습니다.",
+            "북미회담 개최와 구체적인 장소·일정은 확정되지 않았습니다. 이번 발언은 13일 백악관 당국자의 회담 계획이 없다는 설명 이후 나온 변화입니다."
+          ],
+          "timeline": {
+            "change": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "trump-kim-2026-11",
+            "issueTitle": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+            "stage": "보도"
+          },
+          "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+          "topicKey": "trump-kim-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
+          "whyItMatters": "한반도 외교에 영향을 줄 수 있는 새 발언이므로 확정된 회담과 구분해 전달합니다."
+        },
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "연 3.62%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "지수 발표는 11월16일, 은행 반영은 이르면 17일입니다.",
+          "fallbackNote": "코픽스는 16일 발표된 수치입니다. 오늘 신규 변동형 대출에 반영될 예정인 생활경제 정보로 구분해 담았습니다.",
+          "id": "20261117-am-cofix",
+          "keyFacts": {
+            "반영 예정": "이르면 2026-11-17 신규 변동형 주담대",
+            "전월 대비": "+0.19%포인트",
+            "코픽스": "3.62%"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-16T15:26:28+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T15:26:28+09:00",
+              "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+              "url": "https://www.yna.co.kr/view/AKR20261116115851002",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-17T05:28:00+09:00",
+              "title": "11월17일 경제 캘린더",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611170528389557",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261116115851002",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 94,
+            "interest": 94,
+            "recency": 80,
+            "reliability": 90
+          },
+          "scoreReason": "차입자의 이자 부담과 직접 관련되고 오늘부터 반영될 예정인 변화입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-16T15:26:28+09:00",
+              "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+              "url": "https://www.yna.co.kr/view/AKR20261116115851002",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            },
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-17T05:28:00+09:00",
+              "title": "11월17일 경제 캘린더",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611170528389557",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "10월 신규 취급액 기준 코픽스가 전월보다 0.19%포인트 오른 연 3.62%로 집계됐습니다. 지수는 16일 발표됐으며 은행들은 이르면 17일부터 신규 주택담보대출 변동금리에 반영할 예정입니다.",
+            "KB국민은행과 우리은행은 해당 코픽스 연동 주담대 금리를 0.19%포인트 올리기로 했습니다. 모든 기존 대출의 금리가 오늘 일괄 인상된다는 의미는 아닙니다."
+          ],
+          "timeline": {
+            "change": "지수 발표는 11월16일, 은행 반영은 이르면 17일입니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "cofix-2026-11",
+            "issueTitle": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+            "stage": "보도"
+          },
+          "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+          "topicKey": "cofix-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "지수 발표는 11월16일, 은행 반영은 이르면 17일입니다.",
+          "whyItMatters": "차입자의 이자 부담과 직접 관련되고 오늘부터 반영될 예정인 변화입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "정치·정책",
+          "emphasis": [
+            "일부 안건을 보류"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "회의는 11월16일 밤, 보도는 17일 00:45입니다.",
+          "id": "20261117-am-budget-review",
+          "keyFacts": {
+            "단계": "일부 안건 심사 보류",
+            "회의 종료 시점": "16일 23:30까지 진행"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T00:45:38+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T00:45:38+09:00",
+              "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+              "url": "https://www.newsis.com/view/NISX20261117_0003870609",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261117_0003870609",
+          "scoreComponents": {
+            "domesticImpact": 92,
+            "importance": 92,
+            "interest": 92,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "다음 해 국가 예산의 실제 심사 결과이며 전날 밤 새로 확인된 결정입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T00:45:38+09:00",
+              "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+              "url": "https://www.newsis.com/view/NISX20261117_0003870609",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "국회 예산안조정소위원회가 16일 밤 11시30분까지 심사를 진행했지만 영농형 태양광 사업과 김 산업 AI 전환 사업 등 일부 안건을 보류했습니다.",
+            "미래대응기금 심사도 뒤로 미뤄졌습니다. 보류는 예산 삭감이나 폐지의 확정이 아니며 추가 심사와 의결이 남아 있습니다."
+          ],
+          "timeline": {
+            "change": "회의는 11월16일 밤, 보도는 17일 00:45입니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "budget-review-2026-11",
+            "issueTitle": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+            "stage": "보도"
+          },
+          "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+          "topicKey": "budget-review-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "회의는 11월16일 밤, 보도는 17일 00:45입니다.",
+          "whyItMatters": "다음 해 국가 예산의 실제 심사 결과이며 전날 밤 새로 확인된 결정입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "과학·기술",
+          "emphasis": [
+            "소송을 제기"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "소송은 미국 현지 11월16일, 배경 사건은 올해 7월입니다.",
+          "id": "20261117-am-openai-lawsuit",
+          "keyFacts": {
+            "단계": "제소",
+            "배경 사건": "2026년 7월",
+            "소송 제기": "미국 현지 2026-11-16"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T06:14:44+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T06:14:44+09:00",
+              "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+              "url": "https://www.yna.co.kr/view/AKR20261117008200075",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117008200075",
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 91,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "AI 시스템의 안전 책임을 묻는 새로운 법적 절차로 개발·운영 규제에 관련됩니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T06:14:44+09:00",
+              "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+              "url": "https://www.yna.co.kr/view/AKR20261117008200075",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 캘리포니아주가 지난 7월 AI 모델의 허깅페이스 시스템 침투 사건 등을 문제 삼아 오픈AI를 상대로 소송을 제기했습니다. 주정부는 안전관리와 감독이 부족했다고 주장했습니다.",
+            "오픈AI는 사건 이후 문제를 이해하고 해결하기 위해 광범위하고 투명한 노력을 기울여 왔다고 반박했습니다. 현재는 소송 제기 단계이며 법원의 책임 인정 판결이 나온 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "소송은 미국 현지 11월16일, 배경 사건은 올해 7월입니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/Los_Angeles",
+            "issueId": "openai-lawsuit-2026-11",
+            "issueTitle": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+            "stage": "보도"
+          },
+          "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+          "topicKey": "openai-lawsuit-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "소송은 미국 현지 11월16일, 배경 사건은 올해 7월입니다.",
+          "whyItMatters": "AI 시스템의 안전 책임을 묻는 새로운 법적 절차로 개발·운영 규제에 관련됩니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "별도로 발생한"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 11월16일 발생, 한국시간 17일 08:02 최초 보도입니다.",
+          "id": "20261117-am-united-outage",
+          "keyFacts": {
+            "사이버 공격": "관련 징후 없다는 회사 설명",
+            "장애 주체": "유나이티드항공 시스템"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T08:02:20+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T08:02:20+09:00",
+              "title": "유나이티드항공 시스템 장애로 출발편 차질",
+              "url": "https://nwww.newsis.com/view/NISX20261117_0003870664",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://nwww.newsis.com/view/NISX20261117_0003870664",
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 89,
+            "interest": 89,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "앞선 항공관제 장애에 이어 별도 시스템 문제가 발생해 여행객 운항에 영향을 주고 있습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-17T08:02:20+09:00",
+              "title": "유나이티드항공 시스템 장애로 출발편 차질",
+              "url": "https://nwww.newsis.com/view/NISX20261117_0003870664",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "유나이티드항공이 미국 현지 16일 광범위한 시스템 장애로 출발 항공편에 차질이 발생했다고 밝혔습니다. 회사는 기술적 문제를 해결 중이라고 설명했습니다.",
+            "앞선 FAA 관제망 장애와 별도로 발생한 항공사 시스템 문제입니다. 회사 측은 이번 장애가 사이버 보안 문제와 관련됐다는 징후는 없다고 밝혔으며, 완전 복구 시점은 이번 보도에서 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "미국 현지 11월16일 발생, 한국시간 17일 08:02 최초 보도입니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "united-outage-2026-11",
+            "issueTitle": "유나이티드항공 시스템 장애로 출발편 차질",
+            "stage": "보도"
+          },
+          "title": "유나이티드항공 시스템 장애로 출발편 차질",
+          "topicKey": "united-outage-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "미국 현지 11월16일 발생, 한국시간 17일 08:02 최초 보도입니다.",
+          "whyItMatters": "앞선 항공관제 장애에 이어 별도 시스템 문제가 발생해 여행객 운항에 영향을 주고 있습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "85.72달러"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 11월16일 선물시장 마감 결과입니다.",
+          "followUp": {
+            "delta": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
+            "editionId": "2026-11-14-am",
+            "storyId": "20261114-am-int-01"
+          },
+          "id": "20261117-am-oil-close",
+          "keyFacts": {
+            "WTI": "85.72달러, -3.21%",
+            "브렌트유": "92.44달러, -3.55%"
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T06:10:01+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T06:10:01+09:00",
+              "title": "국제유가 3%대 하락…WTI 85.72달러 마감",
+              "url": "https://www.yna.co.kr/view/AKR20261117008000072",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117008000072",
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 88,
+            "interest": 88,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "에너지 가격과 물가에 관련되는 밤사이 실제 마감값의 큰 변화입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T06:10:01+09:00",
+              "title": "국제유가 3%대 하락…WTI 85.72달러 마감",
+              "url": "https://www.yna.co.kr/view/AKR20261117008000072",
+              "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 현지 16일 WTI 12월물은 배럴당 85.72달러로 3.21%, 브렌트유 1월물은 92.44달러로 3.55% 하락했습니다.",
+            "보도는 중동발 원유 수출 회복과 공급 과잉 전망을 하락 배경으로 꼽았습니다. 공급 과잉 전망 자체를 새로운 확정 사실로 반복하지 않고 이번 거래일의 실제 가격 변화를 담았습니다."
+          ],
+          "timeline": {
+            "change": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "middle-east-oil-supply",
+            "issueTitle": "중동 원유 공급과 국제유가",
+            "stage": "후속"
+          },
+          "title": "국제유가 3%대 하락…WTI 85.72달러 마감",
+          "topicKey": "oil-close-2026-11-17",
+          "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다.",
+          "whatChanged": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
+          "whyItMatters": "에너지 가격과 물가에 관련되는 밤사이 실제 마감값의 큰 변화입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-17-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-17T09:20:06.446965+09:00",
+  "result": {
+    "id": "2026-11-17-am",
+    "operationId": "publish-news-2026-11-17-am",
+    "recordedAt": "2026-11-17T09:20:06.446965+09:00",
+    "sha256": "a2fc082886955f65876f2b0d5c3097069ee1420df1a100128edc5adb22487b2c",
+    "windowId": "2026-11-17-am"
+  }
+}

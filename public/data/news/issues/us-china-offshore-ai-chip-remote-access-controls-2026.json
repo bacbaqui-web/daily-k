@@ -1,6 +1,58 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "과학·기술",
+      "change": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 11월16일 발표, 한국시간 17일 03:08 최초 보도입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
+        "editionId": "2026-11-14-am",
+        "storyId": "20261114-am-tech-01"
+      },
+      "id": "2026-11-17-am/20261117-am-ai-chip-rule",
+      "keyFacts": {
+        "단계": "잠정 최종 규칙 발표",
+        "추가 허가 대상국": "5개국"
+      },
+      "previous": {
+        "editionId": "2026-11-14-am",
+        "storyId": "20261114-am-tech-01"
+      },
+      "publishedAt": "2026-11-17T03:08:05+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-17T03:08:05+09:00",
+          "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870618",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261117-am-ai-chip-rule",
+      "summary": [
+        "미국 상무부 산업안보국이 중국 등 수출통제 대상 기업의 제3국 데이터센터를 통한 첨단 AI 반도체 원격 이용을 관리하는 잠정 최종 규칙을 발표했습니다.",
+        "일정 규모 이상의 연산능력을 제공하는 데이터센터 관련 거래에 허가를 요구합니다. 싱가포르·말레이시아·인도네시아·태국·브라질 등 5개국으로의 관련 반도체 수출 심사도 강화하는 내용입니다."
+      ],
+      "supersededBy": [],
+      "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    },
+    {
       "briefingPath": "2026-11-14/am.json",
       "category": "과학·기술",
       "change": "7개국을 대상으로 한 원격 접근 제한 규정 마련이 보도됐습니다. 공식 발표·시행은 미확인입니다.",
@@ -53,5 +105,5 @@
   "id": "us-china-offshore-ai-chip-remote-access-controls-2026",
   "schemaVersion": 1,
   "title": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진",
-  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
 }

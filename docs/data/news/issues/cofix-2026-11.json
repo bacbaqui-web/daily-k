@@ -1,0 +1,63 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "경제·생활경제",
+      "change": "지수 발표는 11월16일, 은행 반영은 이르면 17일입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "지수 발표는 11월16일, 은행 반영은 이르면 17일입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-17-am/20261117-am-cofix",
+      "keyFacts": {
+        "반영 예정": "이르면 2026-11-17 신규 변동형 주담대",
+        "전월 대비": "+0.19%포인트",
+        "코픽스": "3.62%"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-16T15:26:28+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-16T15:26:28+09:00",
+          "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+          "url": "https://www.yna.co.kr/view/AKR20261116115851002",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-17T05:28:00+09:00",
+          "title": "11월17일 경제 캘린더",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611170528389557",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-am-cofix",
+      "summary": [
+        "10월 신규 취급액 기준 코픽스가 전월보다 0.19%포인트 오른 연 3.62%로 집계됐습니다. 지수는 16일 발표됐으며 은행들은 이르면 17일부터 신규 주택담보대출 변동금리에 반영할 예정입니다.",
+        "KB국민은행과 우리은행은 해당 코픽스 연동 주담대 금리를 0.19%포인트 올리기로 했습니다. 모든 기존 대출의 금리가 오늘 일괄 인상된다는 의미는 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "cofix-2026-11",
+  "schemaVersion": 1,
+  "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정",
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+}

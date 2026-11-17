@@ -500,6 +500,58 @@
       "uncertainty": "상승 배경은 시장 해석이며 국내 소비자 가격 반영과 이후 유가 방향은 미확정입니다."
     },
     {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "경제·생활경제",
+      "change": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 11월16일 선물시장 마감 결과입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
+        "editionId": "2026-11-14-am",
+        "storyId": "20261114-am-int-01"
+      },
+      "id": "2026-11-17-am/20261117-am-oil-close",
+      "keyFacts": {
+        "WTI": "85.72달러, -3.21%",
+        "브렌트유": "92.44달러, -3.55%"
+      },
+      "previous": {
+        "editionId": "2026-11-14-am",
+        "storyId": "20261114-am-int-01"
+      },
+      "publishedAt": "2026-11-17T06:10:01+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T06:10:01+09:00",
+          "title": "국제유가 3%대 하락…WTI 85.72달러 마감",
+          "url": "https://www.yna.co.kr/view/AKR20261117008000072",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261117-am-oil-close",
+      "summary": [
+        "미국 현지 16일 WTI 12월물은 배럴당 85.72달러로 3.21%, 브렌트유 1월물은 92.44달러로 3.55% 하락했습니다.",
+        "보도는 중동발 원유 수출 회복과 공급 과잉 전망을 하락 배경으로 꼽았습니다. 공급 과잉 전망 자체를 새로운 확정 사실로 반복하지 않고 이번 거래일의 실제 가격 변화를 담았습니다."
+      ],
+      "supersededBy": [],
+      "title": "국제유가 3%대 하락…WTI 85.72달러 마감",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 50,
@@ -1186,5 +1238,5 @@
   "id": "middle-east-oil-supply",
   "schemaVersion": 1,
   "title": "중동 원유 공급과 국제유가",
-  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
 }

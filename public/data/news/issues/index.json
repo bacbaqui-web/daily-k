@@ -1,6 +1,204 @@
 {
-  "editionCount": 122,
+  "editionCount": 123,
   "issues": [
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 30,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "후속",
+        "storyId": "20261117-am-us-market",
+        "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
+      "firstCoveredDate": "2026-11-14",
+      "id": "us-china-offshore-ai-chip-remote-access-controls-2026",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "후속",
+        "storyId": "20261117-am-ai-chip-rule",
+        "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표"
+      },
+      "path": "us-china-offshore-ai-chip-remote-access-controls-2026.json",
+      "title": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "united-outage-2026-11",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "미국 현지 11월16일 발생, 한국시간 17일 08:02 최초 보도입니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "보도",
+        "storyId": "20261117-am-united-outage",
+        "title": "유나이티드항공 시스템 장애로 출발편 차질"
+      },
+      "path": "united-outage-2026-11.json",
+      "title": "유나이티드항공 시스템 장애로 출발편 차질"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "trump-kim-2026-11",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "보도",
+        "storyId": "20261117-am-trump-kim",
+        "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐"
+      },
+      "path": "trump-kim-2026-11.json",
+      "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "russia-kadiz-2026-11",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "11월17일 새벽 발생. 정확한 진입·이탈 시각은 공개되지 않았습니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "보도",
+        "storyId": "20261117-am-russia-kadiz",
+        "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어"
+      },
+      "path": "russia-kadiz-2026-11.json",
+      "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "openai-lawsuit-2026-11",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "소송은 미국 현지 11월16일, 배경 사건은 올해 7월입니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "보도",
+        "storyId": "20261117-am-openai-lawsuit",
+        "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소"
+      },
+      "path": "openai-lawsuit-2026-11.json",
+      "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "경제·에너지",
+        "국제·에너지",
+        "국제정세"
+      ],
+      "eventCount": 21,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "후속",
+        "storyId": "20261117-am-oil-close",
+        "title": "국제유가 3%대 하락…WTI 85.72달러 마감"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "cofix-2026-11",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "지수 발표는 11월16일, 은행 반영은 이르면 17일입니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "보도",
+        "storyId": "20261117-am-cofix",
+        "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정"
+      },
+      "path": "cofix-2026-11.json",
+      "title": "코픽스 3.62%로 상승…17일부터 신규 변동형 주담대 반영 예정"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "budget-review-2026-11",
+      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "회의는 11월16일 밤, 보도는 17일 00:45입니다.",
+        "editionId": "2026-11-17-am",
+        "stage": "보도",
+        "storyId": "20261117-am-budget-review",
+        "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류"
+      },
+      "path": "budget-review-2026-11.json",
+      "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류"
+    },
     {
       "categories": [
         "국제정세"
@@ -704,27 +902,6 @@
     },
     {
       "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
-      "firstCoveredDate": "2026-11-14",
-      "id": "us-china-offshore-ai-chip-remote-access-controls-2026",
-      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
-      "lastCoveredDate": "2026-11-14",
-      "latest": {
-        "archive": false,
-        "change": "7개국을 대상으로 한 원격 접근 제한 규정 마련이 보도됐습니다. 공식 발표·시행은 미확인입니다.",
-        "editionId": "2026-11-14-am",
-        "stage": "보도",
-        "storyId": "20261114-am-tech-01",
-        "title": "미 상무부, 중국 기업의 해외 AI 반도체 원격 이용 제한 규정 추진 보도"
-      },
-      "path": "us-china-offshore-ai-chip-remote-access-controls-2026.json",
-      "title": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진"
-    },
-    {
-      "categories": [
         "정치·정책"
       ],
       "eventCount": 3,
@@ -743,30 +920,6 @@
       },
       "path": "super-regional-special-zone-labor-bill-2026.json",
       "title": "초광역특구법 노동규제 특례와 입법 논의"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "경제·에너지",
-        "국제·에너지",
-        "국제정세"
-      ],
-      "eventCount": 20,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-11-14T09:42:10.979637+09:00",
-      "lastCoveredDate": "2026-11-14",
-      "latest": {
-        "archive": false,
-        "change": "10월 공급 초과 추산과 4분기 수급 전망이 보도됐습니다. 공급 안정의 지속성은 미확정입니다.",
-        "editionId": "2026-11-14-am",
-        "stage": "후속",
-        "storyId": "20261114-am-int-01",
-        "title": "IEA, 10월 세계 석유 공급 하루 약 200만 배럴 초과 추산"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
     },
     {
       "categories": [
@@ -1700,33 +1853,6 @@
       },
       "path": "webtoon-entertainment-q3-2026-results.json",
       "title": "웹툰엔터테인먼트 2026년 3분기 실적과 투자"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 29,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-10T09:15:11.324513+09:00",
-      "lastCoveredDate": "2026-11-10",
-      "latest": {
-        "archive": false,
-        "change": "3대 지수와 반도체지수가 상승 마감했습니다. 이후 국내 반응과 가격 방향은 미확정입니다.",
-        "editionId": "2026-11-10-am",
-        "stage": "결과",
-        "storyId": "20261110-am-eco-01",
-        "title": "뉴욕증시 3대 지수 상승…나스닥 2.74%·반도체지수 약 7% 올라"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -11575,7 +11701,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 898,
+  "storyCount": 907,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
 }

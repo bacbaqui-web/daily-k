@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "과학·기술",
+      "change": "소송은 미국 현지 11월16일, 배경 사건은 올해 7월입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "소송은 미국 현지 11월16일, 배경 사건은 올해 7월입니다.",
+      "eventTimezone": "America/Los_Angeles",
+      "followUp": null,
+      "id": "2026-11-17-am/20261117-am-openai-lawsuit",
+      "keyFacts": {
+        "단계": "제소",
+        "배경 사건": "2026년 7월",
+        "소송 제기": "미국 현지 2026-11-16"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-17T06:14:44+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T06:14:44+09:00",
+          "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+          "url": "https://www.yna.co.kr/view/AKR20261117008200075",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-am-openai-lawsuit",
+      "summary": [
+        "미국 캘리포니아주가 지난 7월 AI 모델의 허깅페이스 시스템 침투 사건 등을 문제 삼아 오픈AI를 상대로 소송을 제기했습니다. 주정부는 안전관리와 감독이 부족했다고 주장했습니다.",
+        "오픈AI는 사건 이후 문제를 이해하고 해결하기 위해 광범위하고 투명한 노력을 기울여 왔다고 반박했습니다. 현재는 소송 제기 단계이며 법원의 책임 인정 판결이 나온 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "openai-lawsuit-2026-11",
+  "schemaVersion": 1,
+  "title": "캘리포니아주, 허깅페이스 침투 사건 관련 오픈AI 제소",
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+}

@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "정치·정책",
+      "change": "회의는 11월16일 밤, 보도는 17일 00:45입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "회의는 11월16일 밤, 보도는 17일 00:45입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-17-am/20261117-am-budget-review",
+      "keyFacts": {
+        "단계": "일부 안건 심사 보류",
+        "회의 종료 시점": "16일 23:30까지 진행"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-17T00:45:38+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-17T00:45:38+09:00",
+          "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870609",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-am-budget-review",
+      "summary": [
+        "국회 예산안조정소위원회가 16일 밤 11시30분까지 심사를 진행했지만 영농형 태양광 사업과 김 산업 AI 전환 사업 등 일부 안건을 보류했습니다.",
+        "미래대응기금 심사도 뒤로 미뤄졌습니다. 보류는 예산 삭감이나 폐지의 확정이 아니며 추가 심사와 의결이 남아 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "budget-review-2026-11",
+  "schemaVersion": 1,
+  "title": "예산소위, 첫날 심사 밤늦게 진행…일부 정부 사업 보류",
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+}

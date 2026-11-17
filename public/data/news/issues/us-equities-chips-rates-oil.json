@@ -1069,6 +1069,70 @@
       "uncertainty": "상승 배경은 시장 해석이며 국내 후속 반응과 향후 가격 방향은 미확정입니다."
     },
     {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "경제·생활경제",
+      "change": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 11월16일 거래 결과, 한국시간 17일 아침 보도입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
+        "editionId": "2026-11-10-am",
+        "storyId": "20261110-am-eco-01"
+      },
+      "id": "2026-11-17-am/20261117-am-us-market",
+      "keyFacts": {
+        "NDF 비교": "전일 현물환 대비 +0.15원",
+        "S&P500": "-1.92%",
+        "나스닥": "-2.49%",
+        "다우": "-1.41%",
+        "반도체지수": "-5.28%"
+      },
+      "previous": {
+        "editionId": "2026-11-10-am",
+        "storyId": "20261110-am-eco-01"
+      },
+      "publishedAt": "2026-11-17T07:20:03+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "매일경제·연합뉴스",
+          "publishedAt": "2026-11-17T07:20:03+09:00",
+          "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려",
+          "url": "https://stock.mk.co.kr/news/view/1200255",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "이투데이",
+          "publishedAt": "2026-11-17T07:41:00+09:00",
+          "title": "원·달러 NDF 0.15원 상승",
+          "url": "https://www.etoday.co.kr/news/view/2648955",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261117-am-us-market",
+      "summary": [
+        "미국 현지 16일 뉴욕증시에서 나스닥은 2.49%, S&P500은 1.92%, 다우는 1.41% 하락했습니다. 엔비디아는 4.12%, 필라델피아 반도체지수는 5.28% 내렸습니다.",
+        "원·달러 역외선물환은 금리차를 보정하면 전날 서울 주간거래 종가보다 0.15원 높은 수준이었습니다. 이는 오늘 서울시장 개장 환율이 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 16,
@@ -1806,5 +1870,5 @@
   "id": "us-equities-chips-rates-oil",
   "schemaVersion": 1,
   "title": "미국 증시의 반도체 실적·금리·유가 반응",
-  "updatedAt": "2026-11-16T21:12:00.552371+09:00"
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
 }

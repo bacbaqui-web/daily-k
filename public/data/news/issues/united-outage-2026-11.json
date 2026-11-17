@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/am.json",
+      "category": "국제정세",
+      "change": "미국 현지 11월16일 발생, 한국시간 17일 08:02 최초 보도입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "am",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-am",
+      "eventAt": null,
+      "eventDate": "2026-11-16",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 11월16일 발생, 한국시간 17일 08:02 최초 보도입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-11-17-am/20261117-am-united-outage",
+      "keyFacts": {
+        "사이버 공격": "관련 징후 없다는 회사 설명",
+        "장애 주체": "유나이티드항공 시스템"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-17T08:02:20+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-17T08:02:20+09:00",
+          "title": "유나이티드항공 시스템 장애로 출발편 차질",
+          "url": "https://nwww.newsis.com/view/NISX20261117_0003870664",
+          "verifiedAt": "2026-11-17T09:16:27.049119+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-am-united-outage",
+      "summary": [
+        "유나이티드항공이 미국 현지 16일 광범위한 시스템 장애로 출발 항공편에 차질이 발생했다고 밝혔습니다. 회사는 기술적 문제를 해결 중이라고 설명했습니다.",
+        "앞선 FAA 관제망 장애와 별도로 발생한 항공사 시스템 문제입니다. 회사 측은 이번 장애가 사이버 보안 문제와 관련됐다는 징후는 없다고 밝혔으며, 완전 복구 시점은 이번 보도에서 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "유나이티드항공 시스템 장애로 출발편 차질",
+      "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "united-outage-2026-11",
+  "schemaVersion": 1,
+  "title": "유나이티드항공 시스템 장애로 출발편 차질",
+  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+}
