@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T10:39:46.499515+00:00",
+  "collectedAt": "2026-11-17T10:42:41.962010+00:00",
   "windowEnd": "2026-11-17T19:39:46.391457+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7307,6 +7307,83 @@
       "firstPublishedAt": "2026-11-17T08:25:34.093969+00:00"
     },
     {
+      "id": "aagag-1670375-0",
+      "url": "https://aagag.com/issue/?idx=1670375",
+      "source": "애객",
+      "title": "암컷 고양이용 야사집",
+      "publishedAt": "2026-11-17T19:24:17+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5PyC.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5PyC.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 8,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8993799",
+          "text": "J별다..."
+        },
+        {
+          "id": "8993815",
+          "text": "왠지 고양이가 아니라 수상한 누군가가 더 좋아할거 같아..."
+        },
+        {
+          "id": "8993817",
+          "text": "부랄 아녀? 암컷이였어??? @o@;;"
+        },
+        {
+          "id": "8993828",
+          "text": "제목이 암컷 고양이용 이라고 ..."
+        },
+        {
+          "id": "8993829",
+          "text": "난 고양이가 아닙니다 통닭이라구요 버럭"
+        },
+        {
+          "id": "8993838",
+          "text": "이것 또한 사람이 만든거라는걸 생각해봐.. 으.."
+        },
+        {
+          "id": "8993844",
+          "text": "일본은 정말 대단하네.."
+        },
+        {
+          "id": "8993856",
+          "text": "와.. 이건 좀"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-17T19:42:36.552662+09:00",
+      "sourceTitles": [
+        "암컷 고양이용 야사집",
+        "암컷 고양이용 야사집",
+        "특이한 고양이 사진집",
+        "ㅇㅎ)일본에서 버젓이 팔리는 뽕알 사진첩"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-17T10:42:41.893879+00:00",
+      "collectedAt": "2026-11-17T19:42:41.893896+09:00",
+      "firstPublishedAt": "2026-11-17T10:42:41.996953+00:00"
+    },
+    {
       "id": "aagag-1670272-0",
       "url": "https://aagag.com/issue/?idx=1670272",
       "source": "애객",
@@ -7862,7 +7939,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
