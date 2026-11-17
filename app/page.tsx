@@ -5,7 +5,10 @@ import {Button} from '@/components/ui/button';
 import {CommunityBriefing} from '../components/community-briefing';
 import {ComicBoard} from '../components/comic-board';
 import {EditionBoard} from '../components/edition-board';
-function ThemeToggle(){
+import {GitHubBriefing} from '../components/github-briefing';
+import {Theme} from '@astryxdesign/core/theme';
+import {themes, defaultThemeSlug} from '../astryx-themes';
+function useDailyTheme(){
  const [dark,setDark]=useState(false);
  useEffect(()=>{
   const media=matchMedia('(prefers-color-scheme: dark)');
@@ -14,13 +17,17 @@ function ThemeToggle(){
   return()=>{media.removeEventListener('change',sync);window.removeEventListener('storage',sync)};
  },[]);
  function toggle(){const value=!dark;setDark(value);document.documentElement.dataset.theme=value?'dark':'light';try{localStorage.setItem('daily-k-theme',value?'dark':'light')}catch{}}
+ return {dark,toggle};
+}
+function ThemeToggle({dark,toggle}:{dark:boolean;toggle:()=>void}){
  return <Button variant="ghost" size="icon" className="theme-toggle" onClick={toggle} aria-label="다크 모드" aria-pressed={dark} title={dark?'밝은 모드로 전환':'다크 모드로 전환'}><svg className="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M20.5 14A9 9 0 0 1 10 3.5 9 9 0 1 0 20.5 14Z"/></svg><svg className="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg></Button>;
 }
 export default function Home(){
+ const {dark,toggle}=useDailyTheme();
  const [search,setSearch]=useState('');
  useEffect(()=>{const sync=()=>setSearch(location.search);sync();window.addEventListener('popstate',sync);return()=>window.removeEventListener('popstate',sync)},[]);
- const requestedTab=new URLSearchParams(search).get('tab');const tab=requestedTab==='comics'?'comics':requestedTab==='news'?'news':requestedTab==='tagged'?'tagged':'humor';
+ const requestedTab=new URLSearchParams(search).get('tab');const tab=requestedTab==='github'?'github':requestedTab==='comics'?'comics':requestedTab==='news'?'news':requestedTab==='tagged'?'tagged':'humor';
  function navigate(href:string){const url=new URL(href,location.href);if(url.href===location.href)return;history.pushState(null,'',url);setSearch(url.search)}
- function chooseTab(value:string){const next=value==='comics'?'comics':value==='news'?'news':value==='tagged'?'tagged':'humor';if(next===tab)return;const url=new URL(location.href);for(const key of ['story','item','post'])url.searchParams.delete(key);if(next!=='humor')url.searchParams.set('tab',next);else url.searchParams.delete('tab');navigate(url.href)}
- return <main><Tabs value={tab} onValueChange={chooseTab} className="feed-tabs" data-category={tab}><header><TabsList className="category-tabs" aria-label="브리핑 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="news" className="news-tab">ㄴㅇㅅ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger><TabsTrigger value="comics">ㅁㅎ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle/></div></header><TabsContent value={tab}>{tab==='comics'?<ComicBoard/>:tab==='news'?<EditionBoard channel="news" search={search} onNavigate={navigate}/>:<CommunityBriefing key={tab} tagged={tab==='tagged'}/>}</TabsContent></Tabs></main>
+ function chooseTab(value:string){const next=value==='github'?'github':value==='comics'?'comics':value==='news'?'news':value==='tagged'?'tagged':'humor';if(next===tab)return;const url=new URL(location.href);for(const key of ['story','item','post'])url.searchParams.delete(key);if(next!=='humor')url.searchParams.set('tab',next);else url.searchParams.delete('tab');navigate(url.href)}
+ return <Theme theme={themes[defaultThemeSlug]} mode={dark?'dark':'light'}><main><Tabs value={tab} onValueChange={chooseTab} className="feed-tabs" data-category={tab}><header><TabsList className="category-tabs" aria-label="브리핑 종류"><TabsTrigger value="humor">ㅋㅋㅋ</TabsTrigger><TabsTrigger value="news" className="news-tab">ㄴㅇㅅ</TabsTrigger><TabsTrigger value="github">ㄱㅎㅂ</TabsTrigger><TabsTrigger value="tagged">ㅇㅎㅂ</TabsTrigger><TabsTrigger value="comics">ㅁㅎ</TabsTrigger></TabsList><div className="header-actions"><ThemeToggle dark={dark} toggle={toggle}/></div></header><TabsContent value={tab}>{tab==='github'?<GitHubBriefing search={search} onNavigate={navigate}/>:tab==='comics'?<ComicBoard/>:tab==='news'?<EditionBoard channel="news" search={search} onNavigate={navigate}/>:<CommunityBriefing key={tab} tagged={tab==='tagged'}/>}</TabsContent></Tabs></main></Theme>
 }

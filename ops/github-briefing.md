@@ -1,0 +1,39 @@
+# ㄱㅎㅂ GitHub Trending 운영
+
+사용자가 2026-11-17에 승인한 흐름: 매일 한국시간 오전 9시에 GitHub Trending 전체 언어·일간 1~10위를 수집하고, ChatGPT에서 분석한 답변을 Codex가 공식 자료와 대조해 이미지와 함께 Daily K에 게시한다. 9시는 조사 시작 시각이며 게시 완료 시각은 아니다. 이 자동화는 Mac과 ChatGPT 앱/로그인 세션이 필요하다. 유료 API로 임의 대체하지 않는다.
+
+공개 주소: https://bacbaqui-web.github.io/daily-k/?tab=github
+
+## 저장과 중복 방지
+
+- 소스 원격: `https://github.com/bacbaqui-web/daily-k.git`, `main`, Pages `/docs`.
+- 실행 시 깨끗한 체크아웃에서 `git fetch origin`, `git pull --ff-only`로 최신화한다. 로컬 미커밋 작업을 덮어쓰지 않는다. 필요하면 `~/Library/Application Support/DailyK/github/checkout-날짜`에 새 clone을 사용한다.
+- 비공개 작업 자료: `~/Library/Application Support/DailyK/github/YYYY-MM-DD/`. 요청·원문 답변·검토 기록과 인증 자료는 공개 저장소에 넣지 않는다.
+- 원격 `public/data/github/YYYY-MM-DD.json`과 공개 URL이 이미 정상인 경우 재요청·재발행하지 않는다. 발행 완료 여부가 불명확하면 Git/Pages를 먼저 대조한다.
+- 회차 폴더의 `run.lock`을 배타적으로 만들고 작업 종료 시 해제한다. 기존 잠금이 있으면 실행 중인지 확인하고 중복 실행하지 않는다. `request.txt`와 `request-state.json`이 있으면 ChatGPT 응답부터 확인한다. 전송 여부가 불명확할 때 재전송하지 않는다.
+
+## 수집과 ChatGPT 분석
+
+1. `python3 scripts/github/collect.py --output '회차 폴더'`를 실행한다. 원본 HTML과 실제 수집 시각, 표시 순서, 오늘 증가한 별 개수가 `snapshot.json`에 저장된다. 정확히 10개가 확인되지 않으면 중단한다. 기존 snapshot은 재사용하고 순위를 별 개수로 재정렬하지 않는다.
+2. 이 회차를 `[DailyK-GitHub:YYYY-MM-DD]`로 표시한 요청을 만든다. 아래 스키마와 수집한 순위·repo·starsToday를 포함한다. `request.txt`에 먼저 보관하고 `request-state.json`을 submitting으로 배타적 생성한다.
+3. 전용 ChatGPT 대화 ID는 `~/Library/Application Support/DailyK/github/chatgpt.json`을 사용한다. send_message_to_thread/read_thread를 우선한다. 모델을 임의로 바꾸지 않는다. 대화가 실행 중이면 완료를 기다린다. 전송 뒤 sent 상태·실제 시각을 기록한다. 예약은 Codex가 담당하므로 ChatGPT에 예약을 만들지 말라고 명시한다.
+4. 공식 README·문서를 실제로 확인하고 쉽게 설명하도록 요청한다. 순위 페이지 접근 실패 시 제공 스냅샷 사용을 명시하고 순위를 추측하지 않는다. 모든 10개를 포함하며 각 항목은 `rank, repo, title, summary, explanation(문단 배열), useCase, requirements(문자열), sources([{label,url}])`를 반환한다. 최상위는 `{date,intro,items}`이다. 제목은 하는 일을 짧게, 요약은 두 문장, 본문은 2~3문단을 기본으로 하되 반복으로 늘리지 않는다. 설치·계정·모델/API·상용 기능의 실제 조건을 구분한다. 직접 실행한 것처럼 쓰거나 상승 원인을 지어내지 않는다.
+5. 해당 회차 사용자 메시지 뒤 완성된 답변을 확인한다. 도구 성공만으로 응답 완료를 간주하지 않는다. read_thread가 오래된 상태이면 CUA 브라우저에서 새 메시지를 읽기 전용으로 확인한다. 60초 이하의 확인 간격을 사용하되 바쁜 반복 조회를 피한다. 45분이 지나도 미완료면 pending 기록을 남겨 다음 실행에서 이어간다.
+6. 실제 원문을 `chatgpt-response.txt`에 보존하고 `analysis.json`으로 변환한다. 수치·조건의 오류만 공식 출처로 수정하며 수정 이유를 검토 파일에 남긴다. 답변이 없을 때 Codex 자체 분석을 ChatGPT 분석으로 바꿔 게시하지 않는다.
+
+## 이미지와 검토
+
+- 공식 README의 화면·설명 그림을 우선한다. 없으면 실제 저장소 `og:image`를 사용하며 '저장소 소개 이미지 · 실제 사용 화면은 아닙니다'라고 표시한다. 주소를 추측하거나 AI로 가짜 사용 화면을 만들지 않는다.
+- 이미지 파일은 비공개 회차의 `images/`에 내려받아 직접 확인한다. SVG는 정상적인 렌더러로 PNG로 변환하고 내용이 잘리지 않았는지 확인한다. 큰 이미지는 읽을 수 있는 크기로 최적화한다. 이미지 출처와 대체 텍스트를 남긴다.
+- `images.json`은 순위순 10개 배열: `{repo,file,sourceUrl,alt,caption,sha256}`. 파일명은 안전한 png/jpg/webp 이름이다. sha256은 최종 파일 기준이다.
+- 모든 공식 출처를 직접 열어 기능·필수 조건·유료 영역을 대조한다. 확인 못한 사항은 본문에서 미확인으로 표시하고 확인했다고 기록하지 않는다.
+- `review.json`: `date, approved:true, responseComplete:true, conversationUrl, verifiedAt, snapshotSha256, analysisSha256, imagesSha256, responseSha256, items:[{repo,factsChecked:true,imageChecked:true,notes}]`. 해시는 해당 파일 바이트 기준이다. 실제 확인 후에만 true를 쓴다.
+
+## 발행과 확인
+
+1. `python3 scripts/github/publish.py --state '회차 폴더' --check`로 검증한다. 이 명령은 쓰기나 operation ID 소모를 하지 않는다.
+2. 같은 파일로 `--check` 없이 실행한다. `public/data/github/`와 `docs/data/github/`의 날짜별 JSON·이미지·인덱스만 갱신한다. 이전 날짜를 지우지 않는다. 동일 날짜의 다른 내용은 덮어쓰기하지 않는다.
+3. `node --experimental-strip-types scripts/test-github.ts`와 필요한 검사를 실행한다. 데이터만 바뀌었으면 프런트를 재빌드하지 않는다. 코드 변경 때만 `npm run build`, `npx astryx doctor --built dist/client`, `python3 scripts/prepare-pages.py`를 실행한다.
+4. 해당 GitHub 데이터만 커밋·push한다. 원격이 앞서면 fetch/rebase 후 기존 새 회차와 인덱스를 보존해 합친다. force push는 하지 않는다. 기존 뉴스/유머/만화 데이터와 예약은 변경하지 않는다.
+5. Pages 배포 완료와 공개 JSON, 이미지 10개, 실제 ㄱㅎㅂ 화면의 순서·본문을 확인한다. 실패하면 기존 발행본을 유지하고 원인을 보고한다. `delivery.json`에 커밋·공개 URL·확인 시각·검증 결과를 기록한다.
+6. 이 요청은 Daily K 웹페이지 게시이다. Discord나 다른 외부 채널에 보내지 않는다. 완료/실패와 확인한 범위를 짧게 보고한다.
