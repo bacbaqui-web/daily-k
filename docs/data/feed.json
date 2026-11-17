@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-17T23:38:28.677129+00:00",
+  "collectedAt": "2026-11-17T23:39:21.376736+00:00",
   "windowEnd": "2026-11-18T08:38:28.575034+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6093,7 +6093,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -6120,6 +6120,75 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1649096-0",
+      "url": "https://aagag.com/issue/?idx=1649096",
+      "source": "애객",
+      "title": "항상 말없이 내원하셨던 환자분.jpg",
+      "publishedAt": "2026-11-18T08:26:20+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KqfBV.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KqfBV.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8612967",
+          "text": "에겍 아파여..?"
+        },
+        {
+          "id": "8612973",
+          "text": "애객 많이 아픈듯"
+        },
+        {
+          "id": "8612979",
+          "text": "https://m.ppomppu.co.kr/new/bbs_view.php?id=humor&no=775683"
+        },
+        {
+          "id": "8612988",
+          "text": "애객 아프지마"
+        },
+        {
+          "id": "8995299",
+          "text": "이제 안아파"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T08:39:11.053681+09:00",
+      "sourceTitles": [
+        "항상 말없이 내원하던 환자",
+        "항상 말없이 내원하던 환자.manhwa",
+        "항상 말없이 내원하던 환자.manhwa",
+        "항상 말없이 내원하던 환자",
+        "항상 말없이 내원하던 환자",
+        "항상 말없이 내원하던 환자",
+        "항상 말 없이 내원하셨던 환자분",
+        "항상 말없이 내원하셨던 환자분.jpg",
+        "항상 말없이 내원하셨던 환자분",
+        "항상 말없이 내원하셨던 환자분.jpg",
+        "항상 말없이 내원하셨던 환자분.jpg",
+        "언제나 말없이 접수하시는 분이 계셨어요"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 12,
+      "sourceTitlesFetchedAt": "2026-11-17T23:39:21.307669+00:00",
+      "collectedAt": "2026-11-18T08:39:21.307688+09:00",
+      "firstPublishedAt": "2026-11-17T23:39:21.404505+00:00"
+    },
     {
       "id": "aagag-1658539-0",
       "url": "https://aagag.com/issue/?idx=1658539",
