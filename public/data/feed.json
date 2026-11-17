@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T04:42:03.558674+00:00",
+  "collectedAt": "2026-11-17T04:43:26.638418+00:00",
   "windowEnd": "2026-11-17T13:42:03.248112+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8888,7 +8888,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8915,6 +8915,74 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1670280-0",
+      "url": "https://aagag.com/issue/?idx=1670280",
+      "source": "애객",
+      "title": "남자가 이쁘면 범죄입니다",
+      "publishedAt": "2026-11-17T13:26:07+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L674q.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L674q.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8992190",
+          "text": "이건 보면서도 아 출처가 루리웹이겠구나 싶었는데 역시"
+        },
+        {
+          "id": "8992250",
+          "text": "뭔이뀨뀨..."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-17T13:43:14.818342+09:00",
+      "sourceTitles": [
+        "남자가 이쁘면 범죄입니다",
+        "우웅.. 이쁘댜",
+        "거짓말! 남자가 그렇게 예쁘면 범죄에요!",
+        "저기 아름다운 숙녀분",
+        "ㅆㄷ)🍆) 내일 개드립이 멸망하더라도 나는 오늘 한 그루의 🍆나무를 심겠다",
+        "ㅆㄷ)🍆) 내일 개드립이 멸망하더라도 나는 오늘 한 그루의 🍆나무를 심겠다",
+        "루리웹 수준",
+        "루리웹 수준",
+        "어딘지 모르겠지만 수준이",
+        "의외로 범죄인 것",
+        "???;저기~ 아름다운 숙녀 분!.jpg",
+        "저기~ 아름다운 숙녀 분!",
+        "저기~ 아름다운 숙녀 분!",
+        "남자가 그렇게 예쁘면 범죄예요!",
+        "퍼리게이 만화",
+        "디시 제목학원",
+        "노누체 관련해서 말하고 싶은거",
+        "디시 레전드",
+        "남자가 그렇게 이쁘면 범죄예요",
+        "저기~ 아름다운 숙녀분!.manwha",
+        "보추만난 유개이",
+        "수컷이라도 암컷처럼 다루면 된다고",
+        "?? : 저기 아름다운 숙녀분!"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 23,
+      "sourceTitlesFetchedAt": "2026-11-17T04:43:26.576310+00:00",
+      "collectedAt": "2026-11-17T13:43:26.576332+09:00",
+      "firstPublishedAt": "2026-11-17T04:43:26.667703+00:00"
+    },
     {
       "id": "aagag-1652751-1",
       "url": "https://aagag.com/issue/?idx=1652751_1",
