@@ -10,8 +10,7 @@ const time = (value: string) => new Intl.DateTimeFormat('ko-KR', {timeZone: 'Asi
 function ProjectImage({item}: {item: GitHubItem}) {
   const [failed, setFailed] = useState(false);
   return <VStack as="figure" gap={2} className="m-0">
-    {failed ? <Text as="p" type="supporting">이미지를 불러오지 못했습니다. 아래 이미지 출처에서 확인해 주세요.</Text> : <a href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${item.repo} 이미지 원본 보기`}><img src={item.image.src} alt={item.image.alt} loading="lazy" decoding="async" onError={() => setFailed(true)} className="block w-full max-h-64 object-contain rounded-lg bg-muted" /></a>}
-    <figcaption><Text type="supporting">{item.image.caption} · <a href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" className="underline underline-offset-4">이미지 출처</a></Text></figcaption>
+    {failed ? <Text as="p" type="supporting">이미지를 불러오지 못했습니다.</Text> : <a href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${item.repo} 이미지 원본 보기`}><img src={item.image.src} alt={item.image.alt} loading="lazy" decoding="async" onError={() => setFailed(true)} className="block w-full max-h-64 object-contain rounded-lg bg-muted" /></a>}
   </VStack>;
 }
 
