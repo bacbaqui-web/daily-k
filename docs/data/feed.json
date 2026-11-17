@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T14:41:39.211314+00:00",
+  "collectedAt": "2026-11-17T14:44:45.441452+00:00",
   "windowEnd": "2026-11-17T23:41:39.101103+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5675,7 +5675,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -5702,6 +5702,92 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1670417-0",
+      "url": "https://aagag.com/issue/?idx=1670417",
+      "source": "애객",
+      "title": "아저씨도 꿈이 있었나요..?manhwa",
+      "publishedAt": "2026-11-17T23:28:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KwcrD.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KwcrL.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KwcrT.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KwcrZ.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KwcrD.webp",
+        "https://i.aagag.com/o/KwcrL.webp",
+        "https://i.aagag.com/o/KwcrT.webp",
+        "https://i.aagag.com/o/KwcrZ.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8994643",
+          "text": "하-씨 이건 또 루리야"
+        },
+        {
+          "id": "8994648",
+          "text": "너의 변기가 되고싶어?"
+        },
+        {
+          "id": "8994650",
+          "text": "왜 변기가 될수 없다고 생각하지?"
+        },
+        {
+          "id": "8994675",
+          "text": "안 시켜주니까."
+        },
+        {
+          "id": "8994677",
+          "text": "오? 변태는 쉽게 할수있는데."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-17T23:44:38.394869+09:00",
+      "sourceTitles": [
+        "꿈이 있었던 아저씨",
+        "꿈꾸던 어른이 되었나요?",
+        "꿈꾸던 어른이 되었나요?",
+        "아저씨도 꿈이 있었나요..?manhwa",
+        "꿈꾸던 어른이 되었나요?",
+        "하~씨 이건 또 뭐야~원본",
+        "... 아저씨도 꿈이 있었나요?",
+        "병때문에 꿈을 포기하는 만화(눈물주의)",
+        "병때문에 꿈을 포기하는 만화(개슬픔)",
+        "꿈을 박탈당한 한없이 슬픈 세대들",
+        "옥상에서 만난 사연있는 학생과 아저씨.manwha"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 11,
+      "sourceTitlesFetchedAt": "2026-11-17T14:44:45.377510+00:00",
+      "collectedAt": "2026-11-17T23:44:45.377528+09:00",
+      "firstPublishedAt": "2026-11-17T14:44:45.468207+00:00"
+    },
     {
       "id": "aagag-1563176-0",
       "url": "https://aagag.com/issue/?idx=1563176",
