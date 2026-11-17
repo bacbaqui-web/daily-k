@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T04:01:43.503781+00:00",
+  "collectedAt": "2026-11-17T04:04:54.085070+00:00",
   "windowEnd": "2026-11-17T13:01:43.389234+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4056,6 +4056,82 @@
       "sourceTitlesFetchedAt": "2026-11-17T03:27:28.197171+00:00",
       "collectedAt": "2026-11-17T12:27:28.197189+09:00",
       "firstPublishedAt": "2026-11-17T03:27:28.292947+00:00"
+    },
+    {
+      "id": "aagag-1670236-0",
+      "url": "https://aagag.com/issue/?idx=1670236",
+      "source": "애객",
+      "title": "어느 시대 애니가 GOAT인가요?.jpg",
+      "publishedAt": "2026-11-17T12:54:05+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L66EC.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "여러분들이 생각하는 애니의 전성기는 언제인가요?\n언제 애니가 가장 나앗다고 생각하시나요?"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L66EC.webp"
+      ],
+      "videos": [],
+      "excerpt": "여러분들이 생각하는 애니의 전성기는 언제인가요?\n언제 애니가 가장 나앗다고 생각하시나요?",
+      "reportedCommentCount": 8,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 8,
+      "laughingComments": 1,
+      "score": 15,
+      "kPerComment": 1.875,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8992042",
+          "text": "1980년대"
+        },
+        {
+          "id": "8992043",
+          "text": "과거가 있기에 현재가 있는법... 갈라보지 말고 보고싶은거 보자, 편세울 시간에 하나라도 더보자"
+        },
+        {
+          "id": "8992047",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 슬램덩크가 없잖아?"
+        },
+        {
+          "id": "8992052",
+          "text": "솔직히 퀄리티 면에서는 옛날 사람 갈아넣어 만들었던 시대 애니가 최고였지..."
+        },
+        {
+          "id": "8992061",
+          "text": "1980년대가 애니 전성기의 시작이지. 지브리스튜디오 영화들, 은하철도999, 건담 시리즈, 아톰, 아키라 등등"
+        },
+        {
+          "id": "8992063",
+          "text": "카우보이 비밥 넣고 1990"
+        },
+        {
+          "id": "8992069",
+          "text": "나디아랑 에반게리온으로 입문했는데."
+        },
+        {
+          "id": "8992072",
+          "text": "90년대. 드래곤볼, 에반게리온 끝."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-17T13:04:41.645323+09:00",
+      "sourceTitles": [
+        "어디 시대 애니가 GOAT인가요?.jpg",
+        "어디 시대 애니가 GOAT인가요?.jpg",
+        "어느 시대 애니가 GOAT인가요?.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-17T04:04:53.966008+00:00",
+      "collectedAt": "2026-11-17T13:04:53.966025+09:00",
+      "firstPublishedAt": "2026-11-17T04:04:54.138677+00:00"
     },
     {
       "id": "aagag-1670028-0",
@@ -8871,7 +8947,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
