@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-17T16:02:18.729184+00:00",
+  "collectedAt": "2026-11-17T16:03:59.675425+00:00",
   "windowEnd": "2026-11-18T01:02:18.621720+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5236,6 +5236,62 @@
       "firstPublishedAt": "2026-11-17T08:59:02.325229+00:00"
     },
     {
+      "id": "aagag-1670425-0",
+      "url": "https://aagag.com/issue/?idx=1670425",
+      "source": "애객",
+      "title": "대마법사 커리큘럼 독자들이 똑같이 생각하는거.jpg",
+      "publishedAt": "2026-11-18T00:50:19+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6Irg.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6InX.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "정아인 빅파이"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6Irg.webp",
+        "https://i.aagag.com/o/L6InX.webp"
+      ],
+      "videos": [],
+      "excerpt": "정아인 빅파이",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8994800",
+          "text": "정아인이 누군데"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T01:03:44.810746+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 빅파이 거제유자",
+        "ㅇㅎ) 빅파이 거유제자",
+        "ㅇㅎ) 대마법사 커리큘럼 독자들이 똑같이 생각하는거.jpg",
+        "ㅇㅎ) 빅파이 거제유자",
+        "대마법사 커리큘럼 독자들이 똑같이 생각하는거.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-17T16:03:59.598342+00:00",
+      "collectedAt": "2026-11-18T01:03:59.598362+09:00",
+      "firstPublishedAt": "2026-11-17T16:03:59.766168+00:00"
+    },
+    {
       "id": "aagag-1670160-0",
       "url": "https://aagag.com/issue/?idx=1670160",
       "source": "애객",
@@ -5505,7 +5561,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
