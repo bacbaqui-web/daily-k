@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T08:06:47.984276+00:00",
+  "collectedAt": "2026-11-17T08:09:56.322744+00:00",
   "windowEnd": "2026-11-17T17:06:47.866850+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4586,6 +4586,76 @@
       "firstPublishedAt": "2026-11-17T04:04:54.138677+00:00"
     },
     {
+      "id": "aagag-1670331-0",
+      "url": "https://aagag.com/issue/?idx=1670331",
+      "source": "애객",
+      "title": "김가연: 페이커는 임요환보다 진짜 참프로게이머야",
+      "publishedAt": "2026-11-17T16:56:45+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L64Ml.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L64Ml.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 15,
+      "commentCount": 6,
+      "laughingComments": 2,
+      "score": 15,
+      "kPerComment": 2.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8993179",
+          "text": "와 집에 페이커가 놀러와"
+        },
+        {
+          "id": "8993183",
+          "text": "페이커 집에 놀러가나봄 ㅋ"
+        },
+        {
+          "id": "8993191",
+          "text": "근데 김가연 진짜 안늙네여 55살이라는데;;"
+        },
+        {
+          "id": "8993216",
+          "text": "님 댓글 조심하세요 ㄷㄷ"
+        },
+        {
+          "id": "8993192",
+          "text": "그것도 크리스마스때 놀러옴"
+        },
+        {
+          "id": "8993210",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ 김가연의 잡도리는 내가 봐도 무서움. 빈틈이 없고, 절때 물은 사냥감은 절대 놓치 않음. ㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-17T17:09:47.135501+09:00",
+      "sourceTitles": [
+        "김가연) 페이커는 임요환보다 진짜 참프로게이머야",
+        "??? : 임요환 보다 페이커가 참 프로게이머다",
+        "김가연: 페이커는 임요환보다 진짜 참프로게이머야",
+        "?? : 페이커가 임요환보다 참프로게이머다",
+        "유튜브) 페이커 여자친구없는 100%확실한 이유"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-17T08:09:56.207601+00:00",
+      "collectedAt": "2026-11-17T17:09:56.207622+09:00",
+      "firstPublishedAt": "2026-11-17T08:09:56.368101+00:00"
+    },
+    {
       "id": "aagag-1670234-0",
       "url": "https://aagag.com/issue/?idx=1670234",
       "source": "애객",
@@ -8161,7 +8231,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
