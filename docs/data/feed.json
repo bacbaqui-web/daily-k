@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T08:56:58.799498+00:00",
+  "collectedAt": "2026-11-17T08:59:02.297146+00:00",
   "windowEnd": "2026-11-17T17:56:58.691829+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7977,6 +7977,63 @@
       "firstPublishedAt": "2026-11-17T04:07:44.303045+00:00"
     },
     {
+      "id": "aagag-1670345-0",
+      "url": "https://aagag.com/issue/?idx=1670345",
+      "source": "애객",
+      "title": "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg",
+      "publishedAt": "2026-11-17T17:48:29+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6DtN.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㄷ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6DtN.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㄷ",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8993405",
+          "text": "나 혼자만 스피드전"
+        },
+        {
+          "id": "8993407",
+          "text": "라섹? 기초적인 임플란트다"
+        },
+        {
+          "id": "8993436",
+          "text": "닌자 시험에서 순수 뇌지컬로 시험 침"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-17T17:58:52.922113+09:00",
+      "sourceTitles": [
+        "ㅇㅎ)아이템전인줄몰랐던세무사시험합격자.jpg",
+        "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg",
+        "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg",
+        "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-17T08:59:02.230924+00:00",
+      "collectedAt": "2026-11-17T17:59:02.230943+09:00",
+      "firstPublishedAt": "2026-11-17T08:59:02.325229+00:00"
+    },
+    {
       "id": "aagag-1670160-0",
       "url": "https://aagag.com/issue/?idx=1670160",
       "source": "애객",
@@ -8246,7 +8303,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
