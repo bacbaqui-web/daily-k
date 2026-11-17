@@ -58,7 +58,7 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
     {error ? <VStack gap={3} role="alert"><Text as="p">{error}</Text><Button label="다시 불러오기" onClick={() => setRetry(n => n + 1)} /></VStack> : missing ? <Text as="p" role="status">이 날짜에는 발행된 분석이 없습니다. 다른 날짜를 선택해 주세요.</Text> : !brief || brief.date !== date ? <Text as="p" role="status">분석을 불러오고 있습니다.</Text> : <VStack as="ol" gap={0} className="list-none m-0 p-0">
       {brief.items.map(item => <VStack as="li" key={`${date}:${item.repo}`} gap={3} paddingBlock={6} className="border-t border-border" id={`github-${item.rank}`}>
         <HStack justify="between" wrap="wrap" gap={2}>
-          <Heading level={2}><a href={item.url} target="_blank" rel="noopener noreferrer" className="hover:underline">{item.rank}. {item.repo.split('/')[1]} ↗</a></Heading>
+          <Heading level={2}><a href={item.url} target="_blank" rel="noopener noreferrer" className="hover:underline">{item.rank}. {item.repo.split('/')[1]} · {item.title} ↗</a></Heading>
           <Text type="supporting">오늘 별 +{item.starsToday.toLocaleString('ko-KR')}</Text>
         </HStack>
         <ProjectImage item={item}/>
