@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T02:11:11.892232+00:00",
+  "collectedAt": "2026-11-18T02:13:27.567119+00:00",
   "windowEnd": "2026-11-18T11:11:11.791144+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3767,6 +3767,80 @@
       "firstPublishedAt": "2026-11-17T08:09:56.368101+00:00"
     },
     {
+      "id": "aagag-1670532-0",
+      "url": "https://aagag.com/issue/?idx=1670532",
+      "source": "애객",
+      "title": "배신감 쎄게 느낀 웰시 코기",
+      "publishedAt": "2026-11-18T10:52:36+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KXqVN.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "배신감 쎄게 느낀 웰시 코기"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KXqVN.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "배신감 쎄게 느낀 웰시 코기",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 13,
+      "commentCount": 6,
+      "laughingComments": 2,
+      "score": 13,
+      "kPerComment": 2.1666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8995946",
+          "text": "먹을거 가지고 동물한테 장난치지마라"
+        },
+        {
+          "id": "8995951",
+          "text": "접시 문 앞에 내동댕이치는거 봨ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8995961",
+          "text": "그래도 그 밥달라고 짖고 밥그릇 내동댕이 치는 시1바 보다는 예의바른듯요 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8995960",
+          "text": "개객갸!!"
+        },
+        {
+          "id": "8996011",
+          "text": "개짜증!!!!!"
+        },
+        {
+          "id": "8996029",
+          "text": "주라고!!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T11:13:19.822358+09:00",
+      "sourceTitles": [
+        "배신감 쎄게 느낀 웰시 코기",
+        "배신감 쎄게 느낀 웰시 코기",
+        "배신감 느끼는 웰시 코기...............GIF",
+        "장난해?",
+        "급빡친 코드기어스"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-18T02:13:27.504360+00:00",
+      "collectedAt": "2026-11-18T11:13:27.504378+09:00",
+      "firstPublishedAt": "2026-11-18T02:13:27.668147+00:00"
+    },
+    {
       "id": "aagag-1670249-0",
       "url": "https://aagag.com/issue/?idx=1670249",
       "source": "애객",
@@ -5991,7 +6065,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
