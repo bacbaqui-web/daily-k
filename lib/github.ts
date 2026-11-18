@@ -1,6 +1,6 @@
 export type GitHubItem = {
   rank: number; repo: string; url: string; starsToday: number;
-  title: string; summary: string; explanation: string[]; useCase: string;
+  title: string; summary: string; emphasis?: string[]; explanation: string[]; useCase: string;
   requirements: string; sources: {label: string; url: string}[];
   image: {src: string; alt: string; sourceUrl: string; caption: string};
 };
@@ -18,5 +18,5 @@ export function isGitHubIndex(v: unknown): v is GitHubIndex {
 }
 export function isGitHubBrief(v: unknown): v is GitHubBrief {
   if (!object(v) || v.schemaVersion !== 1 || !validGitHubDate(v.date) || !text(v.intro) || v.rankingUrl !== 'https://github.com/trending?since=daily' || ![v.capturedAt, v.publishedAt].every(t => text(t) && !Number.isNaN(Date.parse(t))) || !Array.isArray(v.items) || v.items.length !== 10) return false;
-  return v.items.every(object) && new Set(v.items.map(i => i.repo)).size === 10 && v.items.every((i, n) => object(i) && i.rank === n + 1 && text(i.repo) && /^[\w.-]+\/[\w.-]+$/.test(i.repo) && i.url === `https://github.com/${i.repo}` && Number.isInteger(i.starsToday) && Number(i.starsToday) >= 0 && [i.title, i.summary, i.useCase, i.requirements].every(text) && Array.isArray(i.explanation) && i.explanation.length > 0 && i.explanation.every(text) && Array.isArray(i.sources) && i.sources.length > 0 && i.sources.every(s => object(s) && text(s.label) && url(s.url)) && object(i.image) && text(i.image.src) && /^\/daily-k\/data\/github\/images\/[\w./-]+\.(png|jpg|webp)$/.test(i.image.src) && !i.image.src.includes('..') && text(i.image.alt) && text(i.image.caption) && url(i.image.sourceUrl));
+  return v.items.every(object) && new Set(v.items.map(i => i.repo)).size === 10 && v.items.every((i, n) => object(i) && i.rank === n + 1 && text(i.repo) && /^[\w.-]+\/[\w.-]+$/.test(i.repo) && i.url === `https://github.com/${i.repo}` && Number.isInteger(i.starsToday) && Number(i.starsToday) >= 0 && [i.title, i.summary, i.useCase, i.requirements].every(text) && (i.emphasis === undefined || (Array.isArray(i.emphasis) && i.emphasis.length <= 3 && i.emphasis.every(p => text(p) && ((i.summary as string).includes(p) || (i.requirements as string).includes(p))))) && Array.isArray(i.explanation) && i.explanation.length > 0 && i.explanation.every(text) && Array.isArray(i.sources) && i.sources.length > 0 && i.sources.every(s => object(s) && text(s.label) && url(s.url)) && object(i.image) && text(i.image.src) && /^\/daily-k\/data\/github\/images\/[\w./-]+\.(png|jpg|webp)$/.test(i.image.src) && !i.image.src.includes('..') && text(i.image.alt) && text(i.image.caption) && url(i.image.sourceUrl));
 }

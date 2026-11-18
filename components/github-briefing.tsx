@@ -1,21 +1,17 @@
 'use client';
 import {useEffect, useState} from 'react';
+import {emphasisParts} from '../lib/news';
 import {isGitHubBrief, isGitHubIndex, validGitHubDate, type GitHubBrief, type GitHubIndex, type GitHubItem} from '../lib/github';
 
 const time = (value: string) => new Intl.DateTimeFormat('ko-KR', {timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false}).format(new Date(value));
 
 function ProjectImage({item}: {item: GitHubItem}) {
   const [failed, setFailed] = useState(false);
-  return <section className="news-sources">
-    <section className="news-related"><section className="news-link-card">
-      <a className="news-link-image" href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${item.repo} 이미지 원본 보기`}>
-        {failed ? <small>이미지 없음</small> : <img src={item.image.src} alt={item.image.alt} loading="lazy" decoding="async" onError={() => setFailed(true)} className="object-contain" />}
-      </a>
-      <a className="news-link-copy" href={item.url} target="_blank" rel="noopener noreferrer">
-        <small className="news-publisher">GitHub</small><strong>{item.repo} ↗</strong>
-      </a>
-    </section></section>
-  </section>;
+  return <figure className="github-hero">
+    <a href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${item.repo} 이미지 원본 보기`}>
+      {failed ? <small>이미지를 불러오지 못했습니다.</small> : <img src={item.image.src} alt={item.image.alt} loading={item.rank === 1 ? 'eager' : 'lazy'} decoding="async" onError={() => setFailed(true)} />}
+    </a>
+  </figure>;
 }
 
 export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate: (href: string) => void}) {
@@ -57,6 +53,7 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
     <h1 className="sr-only">{date} GitHub Trending 1~10위</h1>
     {error ? <section className="news-message" role="alert"><p>{error}</p><button onClick={() => setRetry(n => n + 1)}>다시 불러오기</button></section> : missing ? <p className="news-message" role="status">이 날짜에는 발행된 분석이 없습니다. 다른 날짜를 선택해 주세요.</p> : !brief || brief.date !== date ? <p className="news-message" role="status">분석을 불러오고 있습니다.</p> : <ol className="posts news-stories">
       {brief.items.map(item => <li key={`${date}:${item.repo}`}><article>
+        <ProjectImage item={item}/>
         <section className="post-top news-static-heading">
           <small className="rank" aria-hidden="true">{String(item.rank).padStart(2, '0')}</small>
           <hgroup className="post-main">
@@ -65,9 +62,8 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
           </hgroup>
         </section>
         <section className="news-full-content" aria-labelledby={`github-${item.rank}`}>
-          <p>{item.summary}</p>
-          <p>{item.requirements}</p>
-          <ProjectImage item={item}/>
+          <p>{emphasisParts(item.summary, item.emphasis).map((part, i) => part.bold ? <strong key={i}>{part.text}</strong> : part.text)}</p>
+          <p>{emphasisParts(item.requirements, item.emphasis).map((part, i) => part.bold ? <strong key={i}>{part.text}</strong> : part.text)}</p>
         </section>
       </article></li>)}
     </ol>}

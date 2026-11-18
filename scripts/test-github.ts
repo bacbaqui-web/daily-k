@@ -17,6 +17,8 @@ for (const entry of index.editions) {
   assert.ok(!isGitHubBrief(reordered), 'Never silently accept reordered rankings');
   const unsafe = structuredClone(brief); unsafe.items[0].sources[0].url = 'javascript:alert(1)';
   assert.ok(!isGitHubBrief(unsafe));
+  const invalidEmphasis = structuredClone(brief); invalidEmphasis.items[0].emphasis = ['본문에 없는 강조 문구'];
+  assert.ok(!isGitHubBrief(invalidEmphasis), 'Emphasis must refer to existing copy');
   const truncated = structuredClone(brief); truncated.items.pop();
   assert.ok(!isGitHubBrief(truncated), 'Never publish only part of the top ten');
   const traversal = structuredClone(brief); traversal.items[0].image.src = '/daily-k/data/github/images/../../private.png';

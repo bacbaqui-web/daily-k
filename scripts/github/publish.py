@@ -56,6 +56,8 @@ def validate(state):
         require(check.get('factsChecked') is True and check.get('imageChecked') is True and nonempty(check.get('notes')), 'Source/image review incomplete')
         for field in ['title', 'summary', 'useCase', 'requirements']:
             require(nonempty(item.get(field)), 'Missing ' + field)
+        emphasis = item.get('emphasis', [])
+        require(isinstance(emphasis, list) and len(emphasis) <= 3 and all(nonempty(p) and (p in item['summary'] or p in item['requirements']) for p in emphasis), 'Invalid emphasis phrases')
         require(isinstance(item.get('explanation'), list) and len(item['explanation']) > 0 and all(map(nonempty, item['explanation'])), 'Missing explanation')
         require(isinstance(item.get('sources'), list) and item['sources'], 'Missing sources')
         for source in item['sources']:
@@ -68,7 +70,7 @@ def validate(state):
         require(data.startswith(b'\x89PNG\r\n\x1a\n') or data.startswith(b'\xff\xd8\xff') or (data.startswith(b'RIFF') and data[8:12] == b'WEBP'), 'Unsupported image bytes')
         require(nonempty(image.get('alt')) and nonempty(image.get('caption')) and image.get('sourceUrl', '').startswith('https://'), 'Missing image attribution')
         output.append({**{k: item[k] for k in ['rank', 'repo', 'title', 'summary', 'explanation', 'useCase', 'requirements', 'sources']},
-                       'url': f'https://github.com/{repo}', 'starsToday': original['starsToday'],
+                       'emphasis': emphasis, 'url': f'https://github.com/{repo}', 'starsToday': original['starsToday'],
                        'image': {'src': f"/daily-k/data/github/images/{date}/{image['file']}", **{k: image[k] for k in ['alt', 'caption', 'sourceUrl']}}})
     return {'schemaVersion': 1, 'date': date, 'capturedAt': snapshot['capturedAt'],
             'publishedAt': datetime.now(ZoneInfo('Asia/Seoul')).isoformat(),
