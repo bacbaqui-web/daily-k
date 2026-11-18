@@ -256,3 +256,10 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 
 /* Strong emphasis is restricted to selected facts in news paragraphs. */
 .news-full-content p strong{font-weight:900;color:var(--foreground);-webkit-text-stroke:.018em currentColor}
+
+/* GitHub reuses the news layout, typography and responsive source rows. */
+.news-controls.github-controls{grid-template-columns:auto minmax(min-content,max-content) auto}
+.github-briefing .news-link-image img{object-fit:contain}
+.github-briefing .news-link-copy{text-decoration:none}
+.github-briefing .news-story-title a{text-decoration:none}
+.github-briefing .news-story-title a:hover{text-decoration:underline}

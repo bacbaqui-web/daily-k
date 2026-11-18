@@ -1,17 +1,21 @@
 'use client';
 import {useEffect, useState} from 'react';
-import {VStack, HStack} from '@astryxdesign/core/Layout';
-import {Text, Heading} from '@astryxdesign/core/Text';
-import {Button} from '@astryxdesign/core/Button';
 import {isGitHubBrief, isGitHubIndex, validGitHubDate, type GitHubBrief, type GitHubIndex, type GitHubItem} from '../lib/github';
 
 const time = (value: string) => new Intl.DateTimeFormat('ko-KR', {timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false}).format(new Date(value));
 
 function ProjectImage({item}: {item: GitHubItem}) {
   const [failed, setFailed] = useState(false);
-  return <VStack as="figure" gap={2} className="m-0">
-    {failed ? <Text as="p" type="supporting">이미지를 불러오지 못했습니다.</Text> : <a href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${item.repo} 이미지 원본 보기`}><img src={item.image.src} alt={item.image.alt} loading="lazy" decoding="async" onError={() => setFailed(true)} className="block w-full max-h-64 object-contain rounded-lg bg-muted" /></a>}
-  </VStack>;
+  return <section className="news-sources">
+    <section className="news-related"><section className="news-link-card">
+      <a className="news-link-image" href={item.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${item.repo} 이미지 원본 보기`}>
+        {failed ? <small>이미지 없음</small> : <img src={item.image.src} alt={item.image.alt} loading="lazy" decoding="async" onError={() => setFailed(true)} className="object-contain" />}
+      </a>
+      <a className="news-link-copy" href={item.url} target="_blank" rel="noopener noreferrer">
+        <small className="news-publisher">GitHub</small><strong>{item.repo} ↗</strong>
+      </a>
+    </section></section>
+  </section>;
 }
 
 export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate: (href: string) => void}) {
@@ -44,27 +48,29 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
   const previous = dates.filter(d => date && d < date).at(-1), next = dates.find(d => date && d > date);
   const choose = (value: string) => {const u = new URL(location.href); u.searchParams.set('tab', 'github'); u.searchParams.set('githubDate', value); onNavigate(u.href);};
   const missing = index && (!date || !dates.includes(date));
-  return <VStack as="section" gap={6} paddingBlock={6} aria-label="GitHub Trending 브리핑">
-    <HStack gap={2} justify="center" wrap="wrap" aria-label="GitHub 브리핑 날짜">
-      <Button label="이전 날짜" variant="ghost" size="sm" isDisabled={!previous} onClick={() => previous && choose(previous)}>←</Button>
-      <label className="flex items-center gap-2"><Text type="supporting">날짜</Text><select aria-label="GitHub 브리핑 날짜 선택" value={date || ''} onChange={e => choose(e.target.value)} className="rounded-md border border-border bg-background text-foreground p-2">{date && !dates.includes(date) && <option value={date}>{date}</option>}{index?.editions.map(e => <option key={e.date} value={e.date}>{e.date}</option>)}</select></label>
-      <Button label="다음 날짜" variant="ghost" size="sm" isDisabled={!next} onClick={() => next && choose(next)}>→</Button>
-    </HStack>
-    <VStack gap={2}>
-      <Heading level={1}>오늘의 GitHub 10</Heading>
-      {brief && <Text type="supporting">일간 · 전체 언어 · {time(brief.capturedAt)} 기준</Text>}
-    </VStack>
-    {error ? <VStack gap={3} role="alert"><Text as="p">{error}</Text><Button label="다시 불러오기" onClick={() => setRetry(n => n + 1)} /></VStack> : missing ? <Text as="p" role="status">이 날짜에는 발행된 분석이 없습니다. 다른 날짜를 선택해 주세요.</Text> : !brief || brief.date !== date ? <Text as="p" role="status">분석을 불러오고 있습니다.</Text> : <VStack as="ol" gap={0} className="list-none m-0 p-0">
-      {brief.items.map(item => <VStack as="li" key={`${date}:${item.repo}`} gap={3} paddingBlock={6} className="border-t border-border" id={`github-${item.rank}`}>
-        <HStack justify="between" wrap="wrap" gap={2}>
-          <Heading level={2}><a href={item.url} target="_blank" rel="noopener noreferrer" className="hover:underline">{item.rank}. {item.repo.split('/')[1]} · {item.title} ↗</a></Heading>
-          <Text type="supporting">오늘 별 +{item.starsToday.toLocaleString('ko-KR')}</Text>
-        </HStack>
-        <ProjectImage item={item}/>
-        <Text as="p" type="large">{item.summary}</Text>
-        <Text as="p" type="supporting">{item.requirements}</Text>
-      </VStack>)}
-    </VStack>}
-    <Text as="p" type="supporting"><a href="https://github.com/trending?since=daily" target="_blank" rel="noopener noreferrer" className="underline">GitHub Trending</a> · ChatGPT 분석 · 직접 실행 미확인</Text>
-  </VStack>;
+  return <section className="news edition-board github-briefing" aria-label="GitHub Trending 브리핑">
+    <section className="news-controls news-controls-inline edition-controls github-controls" role="group" aria-label="GitHub 브리핑 날짜">
+      <button className="news-date-arrow" aria-label="이전 날짜" disabled={!previous} onClick={() => previous && choose(previous)}>←</button>
+      <label className="news-date-selection"><span className="sr-only">GitHub 브리핑 날짜 선택</span><input type="date" value={date || ''} onChange={e => validGitHubDate(e.target.value) && choose(e.target.value)} /></label>
+      <button className="news-date-arrow" aria-label="다음 날짜" disabled={!next} onClick={() => next && choose(next)}>→</button>
+    </section>
+    <h1 className="sr-only">{date} GitHub Trending 1~10위</h1>
+    {error ? <section className="news-message" role="alert"><p>{error}</p><button onClick={() => setRetry(n => n + 1)}>다시 불러오기</button></section> : missing ? <p className="news-message" role="status">이 날짜에는 발행된 분석이 없습니다. 다른 날짜를 선택해 주세요.</p> : !brief || brief.date !== date ? <p className="news-message" role="status">분석을 불러오고 있습니다.</p> : <ol className="posts news-stories">
+      {brief.items.map(item => <li key={`${date}:${item.repo}`}><article>
+        <section className="post-top news-static-heading">
+          <small className="rank" aria-hidden="true">{String(item.rank).padStart(2, '0')}</small>
+          <hgroup className="post-main">
+            <p className="news-story-meta"><span>GitHub Trending</span><span>오늘 별 +{item.starsToday.toLocaleString('ko-KR')}</span></p>
+            <h2 className="news-story-title" id={`github-${item.rank}`}><a href={item.url} target="_blank" rel="noopener noreferrer">{item.repo.split('/')[1]} · {item.title}</a></h2>
+          </hgroup>
+        </section>
+        <section className="news-full-content" aria-labelledby={`github-${item.rank}`}>
+          <p>{item.summary}</p>
+          <p>{item.requirements}</p>
+          <ProjectImage item={item}/>
+        </section>
+      </article></li>)}
+    </ol>}
+    <details className="edition-record-info"><summary>순위·확인 정보</summary><p>전체 언어 · 일간{brief && ` · ${time(brief.capturedAt)} 기준`}</p><p><a href="https://github.com/trending?since=daily" target="_blank" rel="noopener noreferrer">GitHub Trending ↗</a> · ChatGPT 분석 · 직접 실행 미확인</p></details>
+  </section>;
 }

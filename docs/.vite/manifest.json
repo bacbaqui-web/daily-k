@@ -1,45 +1,4 @@
 {
-  "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js": {
-    "file": "daily-k/_next/static/chunks/Tooltip-CSlfIfS-.js",
-    "name": "Tooltip",
-    "src": "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_useTooltip-D9t4LgmC.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
-  "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-DEQfcHF8.js",
-    "name": "app-route-prefetch-policy",
-    "src": "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "virtual:vinext-app-browser-entry"
-    ]
-  },
-  "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "daily-k/_next/static/chunks/layout-segment-context-DdYQbE3k.js",
-    "name": "layout-segment-context",
-    "src": "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
-  "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "daily-k/_next/static/chunks/streamed-icons-C2CoD8oi.js",
-    "name": "streamed-icons",
-    "src": "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/streamed-icons.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
   "_framework-CBxL4RM0.js": {
     "file": "daily-k/_next/static/chunks/framework-CBxL4RM0.js",
     "name": "framework",
@@ -51,34 +10,51 @@
     "file": "daily-k/_next/static/chunks/rolldown-runtime-B5T57xks.js",
     "name": "rolldown-runtime"
   },
-  "_useTooltip-D9t4LgmC.js": {
-    "file": "daily-k/_next/static/chunks/useTooltip-D9t4LgmC.js",
-    "name": "useTooltip",
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
   "app/page.tsx": {
-    "file": "daily-k/_next/static/chunks/page-CuDiWZ3o.js",
+    "file": "daily-k/_next/static/chunks/page-utos4T9Y.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-B5T57xks.js",
-      "virtual:vinext-app-browser-entry",
-      "_useTooltip-D9t4LgmC.js",
       "_framework-CBxL4RM0.js"
-    ],
-    "dynamicImports": [
-      "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js"
     ],
     "css": [
       "daily-k/_next/static/css/page.B90KkZvk.css"
     ]
   },
+  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-jhSltkT5.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "daily-k/_next/static/chunks/layout-segment-context-CJXeAe9_.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "daily-k/_next/static/chunks/streamed-icons-DeUgJCDM.js",
+    "name": "streamed-icons",
+    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
   "virtual:vinext-app-browser-entry": {
-    "file": "daily-k/_next/static/chunks/index-jq16UXn_.js",
+    "file": "daily-k/_next/static/chunks/index-BWXoz5Cq.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -87,11 +63,11 @@
       "_framework-CBxL4RM0.js"
     ],
     "dynamicImports": [
-      "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
       "virtual:vinext-app-browser-entry",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/page.tsx",
-      "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/layout-segment-context.js",
-      "../../../Users/bacbaqui/Desktop/code/02_tools/daily_k/astryx-latest/node_modules/vinext/dist/shims/streamed-icons.js"
+      "node_modules/vinext/dist/shims/streamed-icons.js"
     ]
   }
 }
