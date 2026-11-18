@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T06:33:30.500024+00:00",
+  "collectedAt": "2026-11-18T06:34:20.354825+00:00",
   "windowEnd": "2026-11-18T15:33:30.186417+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6231,6 +6231,71 @@
       "firstPublishedAt": "2026-11-18T04:15:49.061660+00:00"
     },
     {
+      "id": "aagag-1670601-0",
+      "url": "https://aagag.com/issue/?idx=1670601",
+      "source": "애객",
+      "title": "ㅇㅎ) 안과 진료 받는 눈나",
+      "publishedAt": "2026-11-18T15:32:30+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6Lmv.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6Lmv.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8997410",
+          "text": "사랑합니다"
+        },
+        {
+          "id": "8997412",
+          "text": "저도 눈이 나빠서 돋보기로 화면을 확대했습니다."
+        },
+        {
+          "id": "8997413",
+          "text": "왜 내눈이 좋아지냐"
+        },
+        {
+          "id": "8997415",
+          "text": "그리고 시력 테스트하는 애객러들"
+        },
+        {
+          "id": "8997417",
+          "text": "뀨뀨아닌가!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T15:34:05.764773+09:00",
+      "sourceTitles": [
+        "여자한테서 문자답장이 늦으면 포기해야하는 이유",
+        "ㅇㅎ) 안과 진료 받는 눈나",
+        "(ㅇㅎ?) 안과 진료 받는 눈나",
+        "ㅇㅎ) 안과 진료 받는 눈나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-18T06:34:20.253392+00:00",
+      "collectedAt": "2026-11-18T15:34:20.253407+09:00",
+      "firstPublishedAt": "2026-11-18T06:34:20.398074+00:00"
+    },
+    {
       "id": "aagag-1670557-0",
       "url": "https://aagag.com/issue/?idx=1670557",
       "source": "애객",
@@ -6725,7 +6790,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
