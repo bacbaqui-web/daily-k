@@ -335,6 +335,67 @@
       "uncertainty": "요청은 이라크 외무장관 설명이며 미국의 별도 확인과 이라크의 수용·이행은 미확인입니다."
     },
     {
+      "briefingPath": "2026-11-18/am.json",
+      "category": "국제정세",
+      "change": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "am",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-am",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimezone": "Asia/Tehran",
+      "followUp": {
+        "delta": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+        "editionId": "2026-11-16-am",
+        "storyId": "20261116-am-int-02"
+      },
+      "id": "2026-11-18-am/20261118-am-iran-strike",
+      "keyFacts": {
+        "1": "케슘섬 미사일 발사시설 공습 발표",
+        "2": "WTI 86.01달러, 브렌트유 93.14달러"
+      },
+      "previous": {
+        "editionId": "2026-11-16-am",
+        "storyId": "20261116-am-int-02"
+      },
+      "publishedAt": "2026-11-18T07:37:08+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-11-18T07:37:08+09:00",
+          "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111807194329530",
+          "verifiedAt": "2026-11-18T00:10:52.831020+00:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T06:18:50+09:00",
+          "title": "국제유가 소폭 상승 마감",
+          "url": "https://www.yna.co.kr/view/AKR20261118009800072",
+          "verifiedAt": "2026-11-18T00:10:52.826156+00:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261118-am-iran-strike",
+      "summary": [
+        "미군은 현지 17일 호르무즈 해협의 이란 케슘섬 미사일 발사시설을 공습했다고 밝혔습니다. 미국은 자국 병력과 자산을 겨냥한 공격에 대응한 조치라고 설명했습니다.",
+        "같은 날 WTI 12월물은 배럴당 86.01달러로 0.34%, 브렌트유 1월물은 93.14달러로 0.76% 상승 마감했습니다. 공습의 목적과 피해 상황은 당사자 설명을 구분해 볼 필요가 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 20,
@@ -712,5 +773,5 @@
   "id": "us-iran-military",
   "schemaVersion": 1,
   "title": "미국·이란 군사 대응",
-  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
 }

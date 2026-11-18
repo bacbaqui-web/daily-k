@@ -158,10 +158,62 @@
       "supersededBy": [],
       "title": "교육부, 수능 연기 어렵다는 입장…17일 추가 대책 예고",
       "uncertainty": "와이파이 차단·가방 검사 시행 여부와 구체적 범위는 아직 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-18/am.json",
+      "category": "정치·정책",
+      "change": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "am",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-am",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-csat-ai-response"
+      },
+      "id": "2026-11-18-am/20261118-am-csat-reward",
+      "keyFacts": {
+        "1": "신고 포상 건당 1억원 이상 제도 도입 지시",
+        "2": "자료 제출 의무화 입법 추진"
+      },
+      "previous": {
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-csat-ai-response"
+      },
+      "publishedAt": "2026-11-17T21:47:31+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T21:47:31+09:00",
+          "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시",
+          "url": "https://www.yna.co.kr/view/AKR20261117169651001",
+          "verifiedAt": "2026-11-18T00:10:52.831179+00:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261118-am-csat-reward",
+      "summary": [
+        "이재명 대통령이 17일 저녁 수능 점검회의와 후속 메시지를 통해 첨단장비를 이용한 입시부정 신고에 건당 1억원 이상을 포상하는 제도 도입을 지시했습니다.",
+        "AI 업체의 관련 자료 제출을 의무화하는 입법과 시험 중 재난문자 추가 발송 검토도 지시했습니다. 포상제와 자료 제출 의무화는 도입·입법 추진 단계로, 시행이 확정됐다는 뜻은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
     }
   ],
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
 }

@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/am.json",
+      "category": "과학·기술",
+      "change": "미국 현지 17일 아이클라우드·앱스토어·애플페이 등에서 이용 차질이 발생했습니다. 애플은 내부 업데이트가 원인이며 사이버공격과 관련이 없다고 설명했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "am",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-am",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-11-18-am/20261118-am-apple-outage",
+      "keyFacts": {
+        "1": "내부 업데이트 원인이라는 애플 설명",
+        "2": "일부 복구, 전체 완료 시점 미제시"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T07:35:17+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-18T07:35:17+09:00",
+          "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872366",
+          "verifiedAt": "2026-11-18T00:10:53.090189+00:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261118-am-apple-outage",
+      "summary": [
+        "미국 현지 17일 아이클라우드·앱스토어·애플페이 등에서 이용 차질이 발생했습니다. 애플은 내부 업데이트가 원인이며 사이버공격과 관련이 없다고 설명했습니다.",
+        "아침 보도 기준 아이클라우드 로그인 등 일부 기능은 복구됐지만 기업·교육용 서비스에서는 장애가 이어졌습니다. 전체 서비스의 복구 완료 시점은 제시되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "apple-outage-2026-11",
+  "schemaVersion": 1,
+  "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
+}

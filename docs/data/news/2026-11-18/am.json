@@ -1,0 +1,729 @@
+{
+  "cutoffAt": "2026-11-18T09:00:00+09:00",
+  "date": "2026-11-18",
+  "edition": "am",
+  "events": [
+    {
+      "at": null,
+      "date": "2026-11-18",
+      "detail": "수험표와 시험장 위치·유의 사항을 확인하는 예비소집이 실시됩니다. 본시험은 19일입니다.",
+      "source": {
+        "kind": "news",
+        "language": "ko",
+        "name": "연합뉴스",
+        "publishedAt": "2026-11-18T05:00:02+09:00",
+        "title": "오늘 수능 예비소집",
+        "url": "https://www.yna.co.kr/view/AKR20261117102600530",
+        "verifiedAt": "2026-11-18T00:10:52.944545+00:00"
+      },
+      "timeNote": "학교별 소집 시각 확인이 필요합니다.",
+      "title": "수능 예비소집"
+    },
+    {
+      "at": "2026-11-18T14:00:00+09:00",
+      "date": "2026-11-18",
+      "detail": "계엄 해제 표결 방해 혐의 사건의 선고가 예정돼 있습니다. 판결 결과는 아직 확인되지 않았습니다.",
+      "source": {
+        "kind": "news",
+        "language": "ko",
+        "name": "연합뉴스",
+        "publishedAt": "2026-11-18T05:30:01+09:00",
+        "title": "추경호 시장 오늘 1심 선고",
+        "url": "https://www.yna.co.kr/view/AKR20261117161000004",
+        "verifiedAt": "2026-11-18T00:10:52.953004+00:00"
+      },
+      "timeNote": "보도된 예정 시각입니다.",
+      "title": "추경호 시장 1심 선고 예정"
+    }
+  ],
+  "finalizedAt": "2026-11-18T09:17:56.402572+09:00",
+  "generatedAt": "2026-11-18T09:13:52.505778+09:00",
+  "id": "2026-11-18-am",
+  "intro": "밤사이 확인된 실적·시장 결과와 국내 안전·교육 소식을 정리했습니다.",
+  "keywords": [
+    "엔비디아 실적",
+    "미국 증시",
+    "수능 대책",
+    "케슘섬 공습",
+    "어선 수색"
+  ],
+  "omissionNotes": [
+    "만타 자유 연재 공간은 전날 오전 기업 발표로 밤사이 새 사실이 없어 제외했습니다. 웹툰 수량을 채우기 위해 추가하지 않았습니다.",
+    "미국 증시는 새 거래일 종가, 수능 대책은 포상·입법 지시, 미·이란 충돌은 새 공습으로 과거 기사와 구분했습니다.",
+    "추가 일정 중 원문을 따로 확인하지 못한 경제·외교 일정은 넣지 않았습니다."
+  ],
+  "overview": [
+    "엔비디아가 실적을 발표했고 미국 정규장 주요 지수는 하락했습니다. 정규장 결과와 실적 발표 후 움직임을 구분했습니다.",
+    "국내에서는 수능 추가 지시와 상주 지진, 태안 어선 수색 상황이 새로 확인됐습니다."
+  ],
+  "recordId": "2026-11-18-am",
+  "scheduledFor": "2026-11-18T09:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "alternatives": [],
+      "category": "과학·기술",
+      "emphasis": [
+        "엔비디아가"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "1e6c20dde1d75f0a239bfc26c41cfc55068a7ee7e18a155ba53456626ed6e636",
+      "id": "20261118-am-nvidia-results",
+      "keyFacts": {
+        "1": "분기 매출 전년 대비 103% 증가",
+        "2": "다음 분기 매출 전망 1,261억~1,339억 달러"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T06:57:00+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합인포맥스",
+          "publishedAt": "2026-11-18T06:57:00+09:00",
+          "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445236",
+          "verifiedAt": "2026-11-18T00:10:52.817086+00:00"
+        }
+      ],
+      "representativeUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445236",
+      "score": 96.9,
+      "scoreComponents": {
+        "domesticImpact": 95,
+        "importance": 99,
+        "interest": 95,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "밤사이 실제 실적이 발표됐으며 국내 반도체 기업과 세계 AI 투자 흐름에 관련됩니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합인포맥스",
+          "publishedAt": "2026-11-18T06:57:00+09:00",
+          "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445236",
+          "verifiedAt": "2026-11-18T00:10:52.817086+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "엔비디아가 미국 현지 17일 장 마감 뒤 발표한 최근 분기 매출은 1,158억4,000만 달러로 전년보다 103% 늘었습니다. 다음 분기 매출 전망은 1,261억~1,339억 달러로 제시했습니다.",
+        "다음 분기 수치는 회사의 전망입니다. 실적 발표 후 주가는 시간외 거래에서 한때 3% 이상 올랐지만, 정규장은 0.44% 하락 마감했습니다."
+      ],
+      "timeline": {
+        "change": "엔비디아가 미국 현지 17일 장 마감 뒤 발표한 최근 분기 매출은 1,158억4,000만 달러로 전년보다 103% 늘었습니다. 다음 분기 매출 전망은 1,261억~1,339억 달러로 제시했습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "issueId": "nvidia-results-2026-11",
+        "issueTitle": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아",
+        "stage": "보도"
+      },
+      "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아",
+      "topicKey": "nvidia-results-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "엔비디아가 미국 현지 17일 장 마감 뒤 발표한 최근 분기 매출은 1,158억4,000만 달러로 전년보다 103% 늘었습니다. 다음 분기 매출 전망은 1,261억~1,339억 달러로 제시했습니다.",
+      "whyItMatters": "밤사이 실제 실적이 발표됐으며 국내 반도체 기업과 세계 AI 투자 흐름에 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "경제·생활경제",
+      "emphasis": [
+        "미국"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "b1d56c33484bc368021c8cc250d25d10a6294d1de687ab55388b478df1706010",
+      "followUp": {
+        "delta": "16일 종가 이후 미국 현지 17일의 새로운 마감값을 확인했습니다.",
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-us-market"
+      },
+      "id": "20261118-am-us-market",
+      "keyFacts": {
+        "1": "다우 -1.64%, S&P500 -1.03%, 나스닥 -0.74%",
+        "2": "역외 환율 전일 서울 종가 대비 -3.55원"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T07:28:40+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T07:28:40+09:00",
+          "title": "뉴욕증시 하락…다우 1.64%·S&P500 1.03% 내려",
+          "url": "https://www.yna.co.kr/view/AKR20261118011351072",
+          "verifiedAt": "2026-11-18T00:10:52.839570+00:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "이투데이",
+          "publishedAt": "2026-11-18T07:55:00+09:00",
+          "title": "원·달러 NDF 3.55원 하락",
+          "url": "https://www.etoday.co.kr/news/view/2649506",
+          "verifiedAt": "2026-11-18T00:10:52.808822+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261118011351072",
+      "score": 96.2,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 98,
+        "interest": 94,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "국내 개장 전 새로 확인된 미국 종가와 환율 변화입니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T07:28:40+09:00",
+          "title": "뉴욕증시 하락…다우 1.64%·S&P500 1.03% 내려",
+          "url": "https://www.yna.co.kr/view/AKR20261118011351072",
+          "verifiedAt": "2026-11-18T00:10:52.839570+00:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "이투데이",
+          "publishedAt": "2026-11-18T07:55:00+09:00",
+          "title": "원·달러 NDF 3.55원 하락",
+          "url": "https://www.etoday.co.kr/news/view/2649506",
+          "verifiedAt": "2026-11-18T00:10:52.808822+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "미국 현지 17일 정규장에서 다우는 1.64%, S&P500은 1.03%, 나스닥은 0.74% 하락했습니다. 이 결과는 엔비디아 실적 발표 이전의 거래입니다.",
+        "역외 원·달러 1개월 선물환은 금리 차이를 보정하면 전날 서울 오후 3시30분 종가보다 3.55원 낮았습니다. 이는 오늘 서울시장 개장 환율을 뜻하지 않습니다."
+      ],
+      "timeline": {
+        "change": "16일 종가 이후 미국 현지 17일의 새로운 마감값을 확인했습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "issueId": "us-equities-chips-rates-oil",
+        "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+        "stage": "후속"
+      },
+      "title": "뉴욕증시 하락…다우 1.64%·S&P500 1.03% 내려",
+      "topicKey": "us-market-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "16일 종가 이후 미국 현지 17일의 새로운 마감값을 확인했습니다.",
+      "whyItMatters": "국내 개장 전 새로 확인된 미국 종가와 환율 변화입니다."
+    },
+    {
+      "alternatives": [],
+      "category": "정치·정책",
+      "emphasis": [
+        "이재명"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "53b19bfa8a75599628383e684e1154e5ef92c2c14da8916b1e29fd28a8c36094",
+      "fallbackNote": "전날 21시47분 보도된 추가 지시로 밤사이 새 소식에 포함했습니다.",
+      "followUp": {
+        "delta": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-csat-ai-response"
+      },
+      "id": "20261118-am-csat-reward",
+      "keyFacts": {
+        "1": "신고 포상 건당 1억원 이상 제도 도입 지시",
+        "2": "자료 제출 의무화 입법 추진"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-17T21:47:31+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T21:47:31+09:00",
+          "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시",
+          "url": "https://www.yna.co.kr/view/AKR20261117169651001",
+          "verifiedAt": "2026-11-18T00:10:52.831179+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261117169651001",
+      "score": 91.9,
+      "scoreComponents": {
+        "domesticImpact": 93,
+        "importance": 97,
+        "interest": 93,
+        "recency": 82,
+        "reliability": 90
+      },
+      "scoreReason": "수능을 앞두고 전날 밤 추가된 구체적 대책으로 수험생과 시험 운영에 영향을 줍니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T21:47:31+09:00",
+          "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시",
+          "url": "https://www.yna.co.kr/view/AKR20261117169651001",
+          "verifiedAt": "2026-11-18T00:10:52.831179+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "이재명 대통령이 17일 저녁 수능 점검회의와 후속 메시지를 통해 첨단장비를 이용한 입시부정 신고에 건당 1억원 이상을 포상하는 제도 도입을 지시했습니다.",
+        "AI 업체의 관련 자료 제출을 의무화하는 입법과 시험 중 재난문자 추가 발송 검토도 지시했습니다. 포상제와 자료 제출 의무화는 도입·입법 추진 단계로, 시행이 확정됐다는 뜻은 아닙니다."
+      ],
+      "timeline": {
+        "change": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "csat-smart-glasses-cheating-response-2026",
+        "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+        "stage": "후속"
+      },
+      "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시",
+      "topicKey": "csat-reward-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
+      "whyItMatters": "수능을 앞두고 전날 밤 추가된 구체적 대책으로 수험생과 시험 운영에 영향을 줍니다."
+    },
+    {
+      "alternatives": [],
+      "category": "국제정세",
+      "emphasis": [
+        "미군은"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "93d27a78fd71880878aac8bc9f23558e89341499901142224a49d4d49ce48622",
+      "followUp": {
+        "delta": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+        "editionId": "2026-11-16-am",
+        "storyId": "20261116-am-int-02"
+      },
+      "id": "20261118-am-iran-strike",
+      "keyFacts": {
+        "1": "케슘섬 미사일 발사시설 공습 발표",
+        "2": "WTI 86.01달러, 브렌트유 93.14달러"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T07:37:08+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-11-18T07:37:08+09:00",
+          "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111807194329530",
+          "verifiedAt": "2026-11-18T00:10:52.831020+00:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T06:18:50+09:00",
+          "title": "국제유가 소폭 상승 마감",
+          "url": "https://www.yna.co.kr/view/AKR20261118009800072",
+          "verifiedAt": "2026-11-18T00:10:52.826156+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.mt.co.kr/world/2026/11/18/2026111807194329530",
+      "score": 94.8,
+      "scoreComponents": {
+        "domesticImpact": 92,
+        "importance": 96,
+        "interest": 92,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "새로운 군사행동과 에너지 가격 변화로 국제 안보·국내 물가에 관련됩니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-11-18T07:37:08+09:00",
+          "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승",
+          "url": "https://www.mt.co.kr/world/2026/11/18/2026111807194329530",
+          "verifiedAt": "2026-11-18T00:10:52.831020+00:00"
+        },
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T06:18:50+09:00",
+          "title": "국제유가 소폭 상승 마감",
+          "url": "https://www.yna.co.kr/view/AKR20261118009800072",
+          "verifiedAt": "2026-11-18T00:10:52.826156+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "미군은 현지 17일 호르무즈 해협의 이란 케슘섬 미사일 발사시설을 공습했다고 밝혔습니다. 미국은 자국 병력과 자산을 겨냥한 공격에 대응한 조치라고 설명했습니다.",
+        "같은 날 WTI 12월물은 배럴당 86.01달러로 0.34%, 브렌트유 1월물은 93.14달러로 0.76% 상승 마감했습니다. 공습의 목적과 피해 상황은 당사자 설명을 구분해 볼 필요가 있습니다."
+      ],
+      "timeline": {
+        "change": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Tehran",
+        "issueId": "us-iran-military",
+        "issueTitle": "미국·이란 군사 대응",
+        "stage": "후속"
+      },
+      "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승",
+      "topicKey": "iran-strike-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+      "whyItMatters": "새로운 군사행동과 에너지 가격 변화로 국제 안보·국내 물가에 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "사회·안전",
+      "emphasis": [
+        "18일"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-18이며 보도 시각과 구분했습니다.",
+      "factsHash": "8c4a7b82e838bea3eea3540784313bae6030bf5d243f130b98acefce1c2b4b3d",
+      "id": "20261118-am-taean-search",
+      "keyFacts": {
+        "1": "승선원 7명 파악",
+        "2": "경비함정 9척·항공기 2대 투입"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T06:52:38+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-18T06:52:38+09:00",
+          "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872344",
+          "verifiedAt": "2026-11-18T00:10:52.962737+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.newsis.com/view/NISX20261118_0003872344",
+      "score": 94.1,
+      "scoreComponents": {
+        "domesticImpact": 91,
+        "importance": 95,
+        "interest": 91,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "오늘 새벽 신고된 인명 구조 사안으로 현재 확인된 수색 상황을 전달합니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-18T06:52:38+09:00",
+          "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872344",
+          "verifiedAt": "2026-11-18T00:10:52.962737+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "18일 오전 1시9분 충남 태안 선적의 7.93t급 어선과 연락이 닿지 않는다는 신고가 접수됐습니다. 선박 출입항 시스템상 승선원은 7명으로 파악됐습니다.",
+        "선박은 16일 출항했고 17일 오전 3시 마지막 위치를 보고했습니다. 아침 보도 기준 해경은 경비함정 9척과 항공기 2대 등을 투입해 수색 중이며 구조 결과는 확인되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "18일 오전 1시9분 충남 태안 선적의 7.93t급 어선과 연락이 닿지 않는다는 신고가 접수됐습니다. 선박 출입항 시스템상 승선원은 7명으로 파악됐습니다.",
+        "eventDate": "2026-11-18",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "taean-search-2026-11",
+        "issueTitle": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+        "stage": "보도"
+      },
+      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+      "topicKey": "taean-search-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "18일 오전 1시9분 충남 태안 선적의 7.93t급 어선과 연락이 닿지 않는다는 신고가 접수됐습니다. 선박 출입항 시스템상 승선원은 7명으로 파악됐습니다.",
+      "whyItMatters": "오늘 새벽 신고된 인명 구조 사안으로 현재 확인된 수색 상황을 전달합니다."
+    },
+    {
+      "alternatives": [],
+      "category": "사회·안전",
+      "emphasis": [
+        "17일"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "afc5d0b2bbe5ef1ef4e6c7478b2c181e9964095df0b20a91f15bced6b8990fe2",
+      "id": "20261118-am-sangju-quake",
+      "keyFacts": {
+        "1": "규모 3.6, 발생 17일 23:10",
+        "2": "상주·문경·보은 계기진도 4"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T06:25:44+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-18T06:25:44+09:00",
+          "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850777",
+          "verifiedAt": "2026-11-18T00:10:52.839375+00:00"
+        }
+      ],
+      "representativeUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850777",
+      "score": 93.4,
+      "scoreComponents": {
+        "domesticImpact": 90,
+        "importance": 94,
+        "interest": 90,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "밤사이 국내에서 발생한 지진이며 주민 안전과 직접 관련됩니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-18T06:25:44+09:00",
+          "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850777",
+          "verifiedAt": "2026-11-18T00:10:52.839375+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
+        "18일 오전 6시25분 보도 기준 경북소방본부에 피해 신고는 접수되지 않았습니다. 피해가 전혀 없다고 최종 확정된 것으로 확대해서 해석하지 않았습니다."
+      ],
+      "timeline": {
+        "change": "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "sangju-quake-2026-11",
+        "issueTitle": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+        "stage": "보도"
+      },
+      "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+      "topicKey": "sangju-quake-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
+      "whyItMatters": "밤사이 국내에서 발생한 지진이며 주민 안전과 직접 관련됩니다."
+    },
+    {
+      "alternatives": [],
+      "category": "경제·생활경제",
+      "emphasis": [
+        "KB국민·신한·하나·우리은행의"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-09-30이며 보도 시각과 구분했습니다.",
+      "factsHash": "e9485504afd16abc87f46fea40c2b4503a1beb8106c0f56a5c1e0d1346012b73",
+      "id": "20261118-am-bank-bad-loans",
+      "keyFacts": {
+        "1": "3분기 말 5조873억원, 지난해 말 대비 +32.2%",
+        "2": "기업 +44.0%, 가계 +7.0%"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T05:51:00+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T05:51:00+09:00",
+          "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가",
+          "url": "https://www.yna.co.kr/view/AKR20261117157300002",
+          "verifiedAt": "2026-11-18T00:10:52.924813+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261117157300002",
+      "score": 92.7,
+      "scoreComponents": {
+        "domesticImpact": 89,
+        "importance": 93,
+        "interest": 89,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "은행 대출의 건전성과 기업 자금 사정에 관련된 새 집계 보도입니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T05:51:00+09:00",
+          "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가",
+          "url": "https://www.yna.co.kr/view/AKR20261117157300002",
+          "verifiedAt": "2026-11-18T00:10:52.924813+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "KB국민·신한·하나·우리은행의 3분기 말 무수익여신은 5조873억원으로 지난해 말보다 32.2% 늘었습니다. 무수익여신은 연체·부도 등으로 이자를 수익으로 잡지 않는 대출을 포함합니다.",
+        "기업 부문 증가율은 44.0%, 가계 부문은 7.0%였습니다. 오늘 아침 보도된 분기보고서 분석 결과이며 오늘 하루 새 발생한 부실 규모는 아닙니다."
+      ],
+      "timeline": {
+        "change": "KB국민·신한·하나·우리은행의 3분기 말 무수익여신은 5조873억원으로 지난해 말보다 32.2% 늘었습니다. 무수익여신은 연체·부도 등으로 이자를 수익으로 잡지 않는 대출을 포함합니다.",
+        "eventDate": "2026-09-30",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "bank-bad-loans-2026-11",
+        "issueTitle": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가",
+        "stage": "보도"
+      },
+      "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가",
+      "topicKey": "bank-bad-loans-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "KB국민·신한·하나·우리은행의 3분기 말 무수익여신은 5조873억원으로 지난해 말보다 32.2% 늘었습니다. 무수익여신은 연체·부도 등으로 이자를 수익으로 잡지 않는 대출을 포함합니다.",
+      "whyItMatters": "은행 대출의 건전성과 기업 자금 사정에 관련된 새 집계 보도입니다."
+    },
+    {
+      "alternatives": [],
+      "category": "과학·기술",
+      "emphasis": [
+        "미국"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "2571e59b49b3cc997fba4636188bf697a494a4ffca91cebed5beb684f55de125",
+      "id": "20261118-am-apple-outage",
+      "keyFacts": {
+        "1": "내부 업데이트 원인이라는 애플 설명",
+        "2": "일부 복구, 전체 완료 시점 미제시"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T07:35:17+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-18T07:35:17+09:00",
+          "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872366",
+          "verifiedAt": "2026-11-18T00:10:53.090189+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.newsis.com/view/NISX20261118_0003872366",
+      "score": 92.0,
+      "scoreComponents": {
+        "domesticImpact": 88,
+        "importance": 92,
+        "interest": 88,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "여러 생활·개발 서비스에 걸친 신규 장애로 이용자 영향 범위가 넓습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-18T07:35:17+09:00",
+          "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872366",
+          "verifiedAt": "2026-11-18T00:10:53.090189+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "미국 현지 17일 아이클라우드·앱스토어·애플페이 등에서 이용 차질이 발생했습니다. 애플은 내부 업데이트가 원인이며 사이버공격과 관련이 없다고 설명했습니다.",
+        "아침 보도 기준 아이클라우드 로그인 등 일부 기능은 복구됐지만 기업·교육용 서비스에서는 장애가 이어졌습니다. 전체 서비스의 복구 완료 시점은 제시되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "미국 현지 17일 아이클라우드·앱스토어·애플페이 등에서 이용 차질이 발생했습니다. 애플은 내부 업데이트가 원인이며 사이버공격과 관련이 없다고 설명했습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "issueId": "apple-outage-2026-11",
+        "issueTitle": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+        "stage": "보도"
+      },
+      "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인",
+      "topicKey": "apple-outage-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "미국 현지 17일 아이클라우드·앱스토어·애플페이 등에서 이용 차질이 발생했습니다. 애플은 내부 업데이트가 원인이며 사이버공격과 관련이 없다고 설명했습니다.",
+      "whyItMatters": "여러 생활·개발 서비스에 걸친 신규 장애로 이용자 영향 범위가 넓습니다."
+    },
+    {
+      "alternatives": [],
+      "category": "국제정세",
+      "emphasis": [
+        "17일"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "factsHash": "18bc99f95cecb36c74fc0e6e01b4763308298c7201679882c4a2a5ffdf571284",
+      "id": "20261118-am-ukraine-allies",
+      "keyFacts": {
+        "1": "17일 브뤼셀 지원국 회의에서 이견 표출",
+        "2": "미국 차관 비판·나토 사무총장 옹호"
+      },
+      "placement": "lead",
+      "publishedAt": "2026-11-18T02:17:01+09:00",
+      "relatedArticles": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T02:17:01+09:00",
+          "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261118005200098",
+          "verifiedAt": "2026-11-18T00:10:52.944472+00:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261118005200098",
+      "score": 91.3,
+      "scoreComponents": {
+        "domesticImpact": 87,
+        "importance": 91,
+        "interest": 87,
+        "recency": 100,
+        "reliability": 90
+      },
+      "scoreReason": "종전 협상 과정에서 지원국의 전략 차이가 새로 드러났습니다.",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T02:17:01+09:00",
+          "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261118005200098",
+          "verifiedAt": "2026-11-18T00:10:52.944472+00:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "17일 브뤼셀 우크라이나 지원국 회의에서 미국 국방부 정책차관은 러시아 본토 깊숙한 곳을 공격하는 작전이 전쟁 종식에 효과적이지 않다고 주장했습니다.",
+        "나토 사무총장은 군수 물류 거점 공격도 우크라이나의 방어에 포함된다며 옹호했습니다. 지원국 간 공개적인 입장 차이이며 지원 중단이나 종전 합의가 확정된 것은 아닙니다."
+      ],
+      "timeline": {
+        "change": "17일 브뤼셀 우크라이나 지원국 회의에서 미국 국방부 정책차관은 러시아 본토 깊숙한 곳을 공격하는 작전이 전쟁 종식에 효과적이지 않다고 주장했습니다.",
+        "eventDate": "2026-11-17",
+        "eventEndDate": null,
+        "eventTimezone": "Europe/Brussels",
+        "issueId": "ukraine-allies-2026-11",
+        "issueTitle": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견",
+        "stage": "보도"
+      },
+      "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견",
+      "topicKey": "ukraine-allies-2026-11-18",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다.",
+      "whatChanged": "17일 브뤼셀 우크라이나 지원국 회의에서 미국 국방부 정책차관은 러시아 본토 깊숙한 곳을 공격하는 작전이 전쟁 종식에 효과적이지 않다고 주장했습니다.",
+      "whyItMatters": "종전 협상 과정에서 지원국의 전략 차이가 새로 드러났습니다."
+    }
+  ],
+  "timezone": "Asia/Seoul"
+}

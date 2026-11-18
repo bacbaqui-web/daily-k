@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/am.json",
+      "category": "사회·안전",
+      "change": "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "am",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-am",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-am/20261118-am-sangju-quake",
+      "keyFacts": {
+        "1": "규모 3.6, 발생 17일 23:10",
+        "2": "상주·문경·보은 계기진도 4"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T06:25:44+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-18T06:25:44+09:00",
+          "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850777",
+          "verifiedAt": "2026-11-18T00:10:52.839375+00:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261118-am-sangju-quake",
+      "summary": [
+        "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
+        "18일 오전 6시25분 보도 기준 경북소방본부에 피해 신고는 접수되지 않았습니다. 피해가 전혀 없다고 최종 확정된 것으로 확대해서 해석하지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+      "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
+    }
+  ],
+  "id": "sangju-quake-2026-11",
+  "schemaVersion": 1,
+  "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
+}

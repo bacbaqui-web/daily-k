@@ -1,6 +1,28 @@
 {
-  "editionCount": 123,
+  "editionCount": 124,
   "issues": [
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 14,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "후속",
+        "storyId": "20261118-am-iran-strike",
+        "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
     {
       "categories": [
         "경제·글로벌증시",
@@ -11,22 +33,170 @@
         "증시·기술",
         "증시·반도체"
       ],
-      "eventCount": 30,
+      "eventCount": 31,
       "firstCoveredAt": null,
       "firstCoveredDate": "2026-09-15",
       "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
-      "lastCoveredDate": "2026-11-17",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
       "latest": {
         "archive": false,
-        "change": "이전 거래일이나 16일 한국 증시를 반복하지 않고 미국 현지 16일의 새 종가를 확인했습니다.",
-        "editionId": "2026-11-17-am",
+        "change": "16일 종가 이후 미국 현지 17일의 새로운 마감값을 확인했습니다.",
+        "editionId": "2026-11-18-am",
         "stage": "후속",
-        "storyId": "20261117-am-us-market",
-        "title": "뉴욕증시 하락…나스닥 2.49%·반도체지수 5.28% 내려"
+        "storyId": "20261118-am-us-market",
+        "title": "뉴욕증시 하락…다우 1.64%·S&P500 1.03% 내려"
       },
       "path": "us-equities-chips-rates-oil.json",
       "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "ukraine-allies-2026-11",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "17일 브뤼셀 우크라이나 지원국 회의에서 미국 국방부 정책차관은 러시아 본토 깊숙한 곳을 공격하는 작전이 전쟁 종식에 효과적이지 않다고 주장했습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "보도",
+        "storyId": "20261118-am-ukraine-allies",
+        "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견"
+      },
+      "path": "ukraine-allies-2026-11.json",
+      "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "taean-search-2026-11",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "18일 오전 1시9분 충남 태안 선적의 7.93t급 어선과 연락이 닿지 않는다는 신고가 접수됐습니다. 선박 출입항 시스템상 승선원은 7명으로 파악됐습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "보도",
+        "storyId": "20261118-am-taean-search",
+        "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
+      },
+      "path": "taean-search-2026-11.json",
+      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "sangju-quake-2026-11",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "보도",
+        "storyId": "20261118-am-sangju-quake",
+        "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어"
+      },
+      "path": "sangju-quake-2026-11.json",
+      "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "nvidia-results-2026-11",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "엔비디아가 미국 현지 17일 장 마감 뒤 발표한 최근 분기 매출은 1,158억4,000만 달러로 전년보다 103% 늘었습니다. 다음 분기 매출 전망은 1,261억~1,339억 달러로 제시했습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "보도",
+        "storyId": "20261118-am-nvidia-results",
+        "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아"
+      },
+      "path": "nvidia-results-2026-11.json",
+      "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아"
+    },
+    {
+      "categories": [
+        "사회이슈",
+        "정치·정책"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "후속",
+        "storyId": "20261118-am-csat-reward",
+        "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "bank-bad-loans-2026-11",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "KB국민·신한·하나·우리은행의 3분기 말 무수익여신은 5조873억원으로 지난해 말보다 32.2% 늘었습니다. 무수익여신은 연체·부도 등으로 이자를 수익으로 잡지 않는 대출을 포함합니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "보도",
+        "storyId": "20261118-am-bank-bad-loans",
+        "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가"
+      },
+      "path": "bank-bad-loans-2026-11.json",
+      "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "apple-outage-2026-11",
+      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "미국 현지 17일 아이클라우드·앱스토어·애플페이 등에서 이용 차질이 발생했습니다. 애플은 내부 업데이트가 원인이며 사이버공격과 관련이 없다고 설명했습니다.",
+        "editionId": "2026-11-18-am",
+        "stage": "보도",
+        "storyId": "20261118-am-apple-outage",
+        "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인"
+      },
+      "path": "apple-outage-2026-11.json",
+      "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인"
     },
     {
       "categories": [
@@ -330,28 +500,6 @@
     },
     {
       "categories": [
-        "사회이슈",
-        "정치·정책"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-11-16T21:12:00.552371+09:00",
-      "lastCoveredDate": "2026-11-16",
-      "latest": {
-        "archive": false,
-        "change": "15일 전수조사 방침 이후 16일 국회 답변과 추가 대책 발표일, 전파 방해를 검토하지 않는다는 설명이 새로 나왔습니다.",
-        "editionId": "2026-11-16-pm",
-        "stage": "후속",
-        "storyId": "20261116-pm-csat-ai-response",
-        "title": "교육부, 수능 연기 어렵다는 입장…17일 추가 대책 예고"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
-    },
-    {
-      "categories": [
         "경제·생활경제"
       ],
       "eventCount": 1,
@@ -391,28 +539,6 @@
       },
       "path": "yemen-bab-el-mandeb-forces-redeployment-2026.json",
       "title": "예멘 정부 측 병력의 바브엘만데브 주변 재배치"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 13,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-16T09:08:12.481329+09:00",
-      "lastCoveredDate": "2026-11-16",
-      "latest": {
-        "archive": false,
-        "change": "현지 15일 추가 공격과 바레인의 요격 발표·대피 경보가 보도됐습니다. 피해는 미보고입니다.",
-        "editionId": "2026-11-16-am",
-        "stage": "후속",
-        "storyId": "20261116-am-int-02",
-        "title": "바레인, 이란발 추가 공중 위협 요격 발표…피해는 미보고"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -11701,7 +11827,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 907,
+  "storyCount": 916,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-17T09:16:27.049119+09:00"
+  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
 }
