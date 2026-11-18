@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T11:47:54.345216+09:00",
-  "windowEnd": "2026-11-18T11:42:18.881065+09:00",
+  "collectedAt": "2026-11-18T02:58:17.331219+00:00",
+  "windowEnd": "2026-11-18T11:58:16.989068+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3841,79 +3841,6 @@
       "firstPublishedAt": "2026-11-18T02:13:27.668147+00:00"
     },
     {
-      "id": "aagag-1670249-0",
-      "url": "https://aagag.com/issue/?idx=1670249",
-      "source": "애객",
-      "title": "문과가 2개월만에 서울대 의대 합격",
-      "publishedAt": "2026-11-17T11:43:55+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L5ypS.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L607e.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L5ypS.webp",
-        "https://i.aagag.com/o/L607e.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 6,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 6,
-      "laughingComments": 1,
-      "score": 12,
-      "kPerComment": 2.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8991728",
-          "text": "AI 안경은 아니신거같음"
-        },
-        {
-          "id": "8991731",
-          "text": "검증해봐야할거같은데 ㅋㅋㅋㅋㅋㅋ 증명해보슈 선생 ㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8991737",
-          "text": "뇌를 이용한 치팅!?"
-        },
-        {
-          "id": "8991738",
-          "text": "다행이 ai 치팅은 아닌거 같네."
-        },
-        {
-          "id": "8991756",
-          "text": "두뇌가 치팅끕"
-        },
-        {
-          "id": "8991752",
-          "text": "67학번 이신데 외할아버지께서 대법관이면... 친.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-17T11:49:32.382218+09:00",
-      "sourceTitles": [
-        "문과가 2개월만에 서울대 의대 합격 ㄷㄷ",
-        "문과가 2개월만에 서울대 의대 합격",
-        "문과가 2개월만에 서울대 의대 합격 ㄷㄷㄷ",
-        "문과가 2개월만에 서울대 의대 합격 ㄷㄷㄷ",
-        "문과생 서울대 의대 2개월 합격 했던 분",
-        "문과생 서울대 의대 2개월 합격 사례 떴네요"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-17T02:49:43.404996+00:00",
-      "collectedAt": "2026-11-17T11:49:43.405017+09:00",
-      "firstPublishedAt": "2026-11-17T02:49:43.502901+00:00"
-    },
-    {
       "id": "aagag-1670262-0",
       "url": "https://aagag.com/issue/?idx=1670262",
       "source": "애객",
@@ -6065,9 +5992,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
