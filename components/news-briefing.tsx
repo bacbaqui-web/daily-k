@@ -15,15 +15,14 @@ function ArticleImage({item}:{item:NewsSource}){
  const [failed,setFailed]=useState(false);
  return <div className="news-link-image">{item.imageUrl&&!failed?<img src={item.imageUrl} alt="" loading="lazy" decoding="async" onError={()=>setFailed(true)}/>:<span>{item.name}</span>}</div>;
 }
-function Sources({items,related=[],archived=false}:{items:NewsSource[];related?:NewsSource[];archived?:boolean}){
+function Sources({items,related=[]}:{items:NewsSource[];related?:NewsSource[]}){
  const unique=[...new Map([...related,...items].map(s=>[s.url,s])).values()];
  // Related metadata includes thumbnails; retain it when the same URL is also a source.
  const cards=unique.slice(0,3).map(s=>related.find(r=>r.url===s.url)||s);
  const remaining=items.filter(s=>!cards.some(c=>c.url===s.url));
  return <div className="news-sources">
-  <h3>{archived?'재검색한 관련 보도':'확인 · 관련 뉴스'}</h3>
   <div className="news-related">{cards.map(s=><a className="news-link-card" href={s.url} target="_blank" rel="noopener noreferrer" key={s.url}>
-   <ArticleImage item={s}/><div className="news-link-copy"><span className="news-publisher">{items.some(item=>item.url===s.url)?'확인: ':''}{s.name}</span><strong>{s.title}</strong>{s.publishedAt&&<time dateTime={s.publishedAt}>{koreaTime(s.publishedAt)}</time>}<span className="sr-only"> (새 탭)</span></div>
+   <ArticleImage item={s}/><div className="news-link-copy"><span className="news-publisher">{s.name}</span><strong>{s.title}</strong>{s.publishedAt&&<time dateTime={s.publishedAt}>{koreaTime(s.publishedAt)}</time>}<span className="sr-only"> (새 탭)</span></div>
   </a>)}</div>
   {remaining.length>0&&<p className="news-extra-sources">추가 확인: {remaining.map((s,i)=><span key={s.url}>{i>0?' · ':''}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}<span className="sr-only"> · {s.title} (새 탭)</span></a></span>)}</p>}
  </div>;
@@ -38,8 +37,8 @@ function NewsRecord({story,brief}:{story:NewsStory;brief:NewsView}){
   {story.archive?<>
    <details className="news-archive-detail"><summary>출처·기록 정보</summary><p>이전 ChatGPT 브리핑에서 옮긴 기록이며, 기사 원문으로 전체 내용을 재검증한 상태는 아닙니다.</p><p>{story.archive.sourceNames.length?`당시 적힌 출처: ${story.archive.sourceNames.join(' · ')} · 기사 URL 없음`:'원본 기록에 기사 출처·URL이 남아 있지 않습니다.'}</p><p>{brief.date} {brief.edition==='am'?'오전':'오후'} · 정확한 작성·사건 시각 미상</p>{story.archive.reviewNote&&<p>{story.archive.reviewNote}</p>}</details>
    {story.archive.previousCoverage&&<a className="news-previous-record" href={newsLink(story.archive.previousCoverage.date,story.archive.previousCoverage.edition,false,story.archive.previousCoverage.storyId)}>앞선 같은 이슈 · {story.archive.previousCoverage.date} {story.archive.previousCoverage.edition==='am'?'오전':'오후'}<br/>{story.archive.previousCoverage.title} →</a>}
-   {!!story.relatedArticles?.length&&<Sources items={[]} related={story.relatedArticles} archived/>}
-  </>:<><p className="news-event-time">사건·발표: {story.eventTimeNote}</p><Sources items={story.sources} related={story.relatedArticles}/></>}
+   {!!story.relatedArticles?.length&&<Sources items={[]} related={story.relatedArticles}/>}
+  </>:<><Sources items={story.sources} related={story.relatedArticles}/></>}
  </>;
 }
 function NewsDetails({story,brief}:{story:NewsViewStory;brief:NewsView}){
