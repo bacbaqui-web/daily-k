@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T02:58:17.331219+00:00",
+  "collectedAt": "2026-11-18T03:01:56.957844+00:00",
   "windowEnd": "2026-11-18T11:58:16.989068+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5568,6 +5568,67 @@
       "firstPublishedAt": "2026-11-17T04:08:47.722652+00:00"
     },
     {
+      "id": "aagag-1670426-0",
+      "url": "https://aagag.com/issue/?idx=1670426",
+      "source": "애객",
+      "title": "최근 화이트 의상",
+      "publishedAt": "2026-11-18T11:51:41+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5fbT.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5fbT.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8996208",
+          "text": "호카게들인가.."
+        },
+        {
+          "id": "8996222",
+          "text": "좋다 좋아"
+        },
+        {
+          "id": "8996223",
+          "text": "로케트 로케트..."
+        },
+        {
+          "id": "8996231",
+          "text": "진숙이"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T12:01:43.422572+09:00",
+      "sourceTitles": [
+        "(ㅇㅎ?) 검은색 의상 vs 흰색 의상",
+        "ㅇㅎ?) 검은색 의상 vs 흰색 의상",
+        "화이트  옐 & 은비 & 채연 .gif",
+        "최근 화이트 의상"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-18T03:01:56.796125+00:00",
+      "collectedAt": "2026-11-18T12:01:56.796160+09:00",
+      "firstPublishedAt": "2026-11-18T03:01:57.109769+00:00"
+    },
+    {
       "id": "aagag-1670404-0",
       "url": "https://aagag.com/issue/?idx=1670404",
       "source": "애객",
@@ -5992,7 +6053,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
