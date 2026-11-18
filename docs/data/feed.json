@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-18T23:17:29.010169+00:00",
+  "collectedAt": "2026-11-18T23:18:34.965809+00:00",
   "windowEnd": "2026-11-19T08:17:28.785566+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2458,6 +2458,91 @@
       "sourceTitlesFetchedAt": "2026-11-18T07:35:05.650821+00:00",
       "collectedAt": "2026-11-18T16:35:05.650900+09:00",
       "firstPublishedAt": "2026-11-18T07:35:05.810774+00:00"
+    },
+    {
+      "id": "aagag-1670780-0",
+      "url": "https://aagag.com/issue/?idx=1670780",
+      "source": "애객",
+      "title": "리트냥이 폰 꺼져있고 카톡 무응답",
+      "publishedAt": "2026-11-19T08:12:09+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6X5q.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6X5q.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 10,
+      "commentsPartial": false,
+      "kCount": 30,
+      "commentCount": 10,
+      "laughingComments": 4,
+      "score": 30,
+      "kPerComment": 3.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8999949",
+          "text": "ㅋㅋㅋ 밀항선 탔냐"
+        },
+        {
+          "id": "8999953",
+          "text": "자살 안했는지 좀 봐봐라"
+        },
+        {
+          "id": "8999954",
+          "text": "세상이 만만해 보엿것지 .."
+        },
+        {
+          "id": "8999962",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8999964",
+          "text": "아 노잼... 하필 젤 재미없게 노쇼냐"
+        },
+        {
+          "id": "8999965",
+          "text": "그 원래 범죄자들이 감옥가기 직전까지도 겁내 당당하고 거짓말 계속함 ㅎㅎ"
+        },
+        {
+          "id": "8999966",
+          "text": "세무냥이가 새삼 대단해보이네..ㄷㄷㄷ"
+        },
+        {
+          "id": "8999968",
+          "text": "끝까지 몇명 엿 멕이는거야 ㅋㅋㅋㅋ 세트 준비한 사람들, 아침부터 영상 보려고 준비한 사람들 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8999969",
+          "text": "아니 혹시 나쁜마음 먹었으면 어쩌나 그래도 그럴까봐 걱정"
+        },
+        {
+          "id": "8999973",
+          "text": "야랄났네ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T08:18:22.423358+09:00",
+      "sourceTitles": [
+        "리트냥이 핸드폰 꺼놓고 연락두절 잠수중",
+        "리트냥이 폰 꺼져있고 카톡 무응답",
+        "[속보] 이진우씨와 연락중인데 핸드폰 꺼져있고 카톡 무응답",
+        "LEET 만점자 이진우 핸드폰 꺼져있고 카톡 무응답 ㄷㄷㄷㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-18T23:18:34.876372+00:00",
+      "collectedAt": "2026-11-19T08:18:34.876388+09:00",
+      "firstPublishedAt": "2026-11-18T23:18:35.084453+00:00"
     },
     {
       "id": "aagag-1085434-1",
@@ -9740,7 +9825,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
