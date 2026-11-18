@@ -1,11 +1,6 @@
 'use client';
-import {editionHref,type EditionSelection} from '../lib/edition-view';
-import {useEffect,useMemo,useRef,useState,type ReactNode} from 'react';
-import {PreviewCard as PreviewCardPrimitive} from '@base-ui/react/preview-card';
-import {HoverCard,HoverCardTrigger} from './ui/hover-card';
-import {Dialog,DialogContent} from './ui/dialog';
-import {ReaderHeading} from './reader-heading';
-import {NewsReaderActions} from './news-question-button';
+import {type EditionSelection} from '../lib/edition-view';
+import {useEffect,useState} from 'react';
 import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
 import {combineBriefings,type NewsView,type NewsViewStory} from '../lib/news-view';
 import {type Correction} from '../lib/live';
@@ -44,66 +39,15 @@ function NewsRecord({story,brief}:{story:NewsStory;brief:NewsView}){
 function NewsDetails({story,brief}:{story:NewsViewStory;brief:NewsView}){
  return <><NewsRecord key={story.id} story={story} brief={brief}/>{story.additionalRecords.length>0&&<details className="news-additional-records"><summary>함께 보관한 내용 {story.additionalRecords.length}건</summary>{story.additionalRecords.map(s=><div className="news-additional-record" key={s.id}><h3>{s.title}</h3><NewsRecord story={s} brief={brief}/></div>)}</details>}</>;
 }
-function NewsPreview({story,brief,disabled,onOpen,children}:{story:NewsViewStory;brief:NewsView;disabled:boolean;onOpen:(button:HTMLElement)=>void;children:ReactNode}){
- const [open,setOpen]=useState(false),[canHover,setCanHover]=useState(false);
- const [pointer,setPointer]=useState<{x:number;y:number;element:HTMLElement|null}>({x:0,y:0,element:null});
- const anchor=useMemo(()=>({getBoundingClientRect:()=>new DOMRect(pointer.x,pointer.y,0,0),contextElement:pointer.element||undefined}),[pointer]);
- useEffect(()=>{const media=matchMedia('(hover: hover) and (pointer: fine)');const sync=()=>setCanHover(media.matches);sync();media.addEventListener('change',sync);return()=>media.removeEventListener('change',sync)},[]);
- useEffect(()=>{if(disabled)setOpen(false)},[disabled]);
- useEffect(()=>{if(!open)return;const close=()=>setOpen(false);window.addEventListener('scroll',close,{passive:true});window.addEventListener('resize',close);return()=>{window.removeEventListener('scroll',close);window.removeEventListener('resize',close)}},[open]);
- const visible=open&&canHover&&!disabled;
- return <HoverCard open={visible} onOpenChange={value=>setOpen(value&&canHover&&!disabled)}>
-  <HoverCardTrigger render={<button type="button"/>} delay={400} closeDelay={180} className="post-top news-story-trigger" aria-haspopup="dialog" aria-labelledby={`news-${story.id}`}
-   onPointerEnter={e=>{if(e.pointerType==='mouse')setPointer({x:e.currentTarget.getBoundingClientRect().right,y:e.clientY,element:e.currentTarget})}}
-   onPointerMove={e=>{if(e.pointerType==='mouse')setPointer({x:e.currentTarget.getBoundingClientRect().right,y:e.clientY,element:e.currentTarget})}}
-   onFocus={e=>{const rect=e.currentTarget.getBoundingClientRect();setPointer({x:rect.right,y:rect.top+rect.height/2,element:e.currentTarget})}}
-   onClick={e=>{setOpen(false);onOpen(e.currentTarget)}}>{children}</HoverCardTrigger>
-  <PreviewCardPrimitive.Portal><PreviewCardPrimitive.Positioner anchor={anchor} positionMethod="fixed" side="right" align="center" sideOffset={14} collisionPadding={12} collisionAvoidance={{side:'shift',align:'shift'}} className="preview-positioner">
-   <PreviewCardPrimitive.Popup className="news-preview" aria-label="뉴스 미리보기">{visible&&<><div className="news-preview-heading"><span>{story.category} · {story.status}</span><h3>{story.title}</h3></div><NewsDetails story={story} brief={brief}/><p className="preview-hint">뉴스를 누르면 읽기 창이 열립니다.</p></>}</PreviewCardPrimitive.Popup>
-  </PreviewCardPrimitive.Positioner></PreviewCardPrimitive.Portal>
- </HoverCard>;
-}
-function NewsStories({brief,liveRecord,corrections=[]}:{brief:NewsView;liveRecord?:string;corrections?:Correction[]}){
- const [active,setActive]=useState<number|null>(null);
- useEffect(()=>{const q=new URLSearchParams(location.search),id=liveRecord!==undefined?(q.get('item')||q.get('story')):q.get('story');const at=brief.stories.findIndex(s=>s.aliases.includes(id||''));if(at>=0)setActive(at)},[brief.id,liveRecord]);
- useEffect(()=>{if(location.hash==='#news-safety')document.getElementById('news-safety')?.scrollIntoView()},[brief.id]);
- const body=useRef<HTMLDivElement|null>(null),trigger=useRef<HTMLElement|null>(null);
- const story=active===null?null:brief.stories[active];
- function move(delta:number){setActive(current=>current===null?null:current+delta>=brief.stories.length?null:Math.max(0,current+delta))}
- useEffect(()=>{body.current?.scrollTo({top:0,behavior:'instant'})},[active]);
- useEffect(()=>{
-  if(active===null)return;
-  function navigate(event:KeyboardEvent){
-   if(event.defaultPrevented||event.repeat||event.altKey||event.ctrlKey||event.metaKey)return;
-   if(!['ArrowLeft','ArrowRight','ArrowUp','ArrowDown'].includes(event.key))return;
-   if(event.target instanceof HTMLElement&&event.target.closest('input,textarea,select,[contenteditable="true"],[role="textbox"],[role="slider"]'))return;
-   if(event.shiftKey&&event.key!=='ArrowUp'&&event.key!=='ArrowDown')return;
-   event.preventDefault();
-   if(event.key==='ArrowLeft'||event.key==='ArrowRight'){move(event.key==='ArrowLeft'?-1:1);return}
-   const panel=body.current;if(!panel)return;
-   const behavior=matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth';
-   if(event.shiftKey){const sources=panel.querySelector<HTMLElement>('.news-sources');panel.scrollTo({top:event.key==='ArrowUp'?0:sources?panel.scrollTop+sources.getBoundingClientRect().top-panel.getBoundingClientRect().top:panel.scrollHeight,behavior})}
-   else panel.scrollBy({top:event.key==='ArrowUp'?-500:500,behavior});
-  }
-  window.addEventListener('keydown',navigate,true);return()=>window.removeEventListener('keydown',navigate,true);
- },[active,brief.stories.length]);
- return <Dialog open={story!==null} disablePointerDismissal={false} onOpenChange={open=>{if(!open)setActive(null)}}>
-  <ol className="posts news-stories">{brief.stories.map((s,i)=><li key={s.id}>
-   <NewsPreview story={s} brief={brief} disabled={active!==null} onOpen={button=>{trigger.current=button;setActive(i)}}>
-    <span className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</span>
-    <span className="post-main"><span className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span>{corrections.some(c=>c.itemId===s.id)&&<span className="live-correction-badge">정정·철회 기록 있음</span>}</span><span className="news-story-title" role="heading" aria-level={2} id={`news-${s.id}`}>{s.title}</span></span>
-   </NewsPreview>
-   <div className="news-full-content"><NewsDetails story={s} brief={brief}/></div>
-  </li>)}</ol>
-  <DialogContent className="reader-dialog news-reader" showCloseButton={false} aria-describedby={undefined} initialFocus={body} finalFocus={()=>trigger.current||true}>
-   {story&&<>
-    <nav className="reader-nav reader-top" aria-label="뉴스 이동"><button onClick={()=>move(-1)} disabled={active===0} aria-label="이전 글">←</button><ReaderHeading title={story.title} index={active!+1} total={brief.stories.length} onClose={()=>setActive(null)}/><button onClick={()=>move(1)} aria-label="다음 글">→</button><div className="laugh-stats news-reader-meta"><span>{story.category}</span><span>{story.followUp?'후속 업데이트':story.status}</span><NewsReaderActions key={story.id} brief={brief} story={story} sharePath={liveRecord!==undefined?editionHref(brief,'news',story.id):undefined} recordStatus={liveRecord===undefined?undefined:liveRecord?'finalized':'preparing'}/></div></nav>
-    <div className="reader-body news-reader-body" ref={body} tabIndex={-1}>
-     <RecordCorrections items={corrections.filter(c=>c.itemId===story.id)}/><NewsDetails key={story.id} story={story} brief={brief}/>
-    </div>
-   </>}
-  </DialogContent>
- </Dialog>;
+function NewsStories({brief,corrections=[]}:{brief:NewsView;liveRecord?:string;corrections?:Correction[]}){
+ useEffect(()=>{const q=new URLSearchParams(location.search),id=q.get('item')||q.get('story');const story=brief.stories.find(s=>s.aliases.includes(id||''));if(story)document.getElementById(`news-${story.id}`)?.scrollIntoView();if(location.hash==='#news-safety')document.getElementById('news-safety')?.scrollIntoView()},[brief.id]);
+ return <ol className="posts news-stories">{brief.stories.map((s,i)=><li key={s.id}><article>
+  <section className="post-top news-static-heading">
+   <small className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</small>
+   <hgroup className="post-main"><p className="news-story-meta">{s.category} · {s.followUp?'후속 업데이트':s.status}</p><h2 className="news-story-title" id={`news-${s.id}`}>{s.title}</h2></hgroup>
+  </section>
+  <section className="news-full-content" aria-labelledby={`news-${s.id}`}><RecordCorrections items={corrections.filter(c=>c.itemId===s.id)}/><NewsDetails story={s} brief={brief}/></section>
+ </article></li>)}</ol>;
 }
 function NewsClosing({brief}:{brief:NewsView}){return <>
    {brief.edition==='pm'&&brief.keywords.length>0&&<section className="news-closing"><h2>오늘의 핵심 키워드</h2><p className="news-keywords">{brief.keywords.join(' · ')}</p></section>}

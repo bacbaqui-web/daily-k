@@ -240,3 +240,16 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 
 /* Keep all five sections and the theme button reachable on narrow screens. */
 @media(max-width:600px){.feed-tabs>header{gap:8px}.feed-tabs .category-tabs[data-slot="tabs-list"]{flex:1;min-width:0;gap:2px}.feed-tabs .category-tabs [data-slot="tabs-trigger"]{flex:1;min-width:0;padding:3px 4px;font-size:clamp(14px,4.6vw,18px)}.feed-tabs .header-actions{flex-shrink:0}}
+
+/* News stays inline; article links use the same horizontal layout on all screens. */
+.news-stories .news-static-heading{padding-block:14px 2px;align-items:flex-start}
+.news-static-heading .rank{padding-top:2px}
+.news-static-heading .news-story-meta{margin:0}
+.news-static-heading .news-story-title{margin:4px 0 0}
+.news-full-content{line-height:1.65}
+.news-full-content>p{margin:6px 0}
+.news-full-content .news-related{grid-template-columns:1fr}
+.news-full-content .news-link-card{flex-direction:row}
+.news-full-content .news-link-image{width:100px;flex-shrink:0;aspect-ratio:1}
+.news-full-content .news-link-copy{padding:10px 12px;gap:4px;min-width:0}
+.news-full-content .news-sources{margin-top:12px;padding-top:12px}
