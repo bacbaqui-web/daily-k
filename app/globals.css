@@ -253,3 +253,6 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .news-full-content .news-link-image{width:100px;flex-shrink:0;aspect-ratio:1}
 .news-full-content .news-link-copy{padding:10px 12px;gap:4px;min-width:0}
 .news-full-content .news-sources{margin-top:12px;padding-top:12px}
+
+/* Strong emphasis is restricted to selected facts in news paragraphs. */
+.news-full-content p strong{font-weight:900;color:var(--foreground);-webkit-text-stroke:.018em currentColor}
