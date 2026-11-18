@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T17:49:41.202917+09:00",
-  "windowEnd": "2026-11-18T17:43:37.051042+09:00",
+  "collectedAt": "2026-11-18T08:59:59.526088+00:00",
+  "windowEnd": "2026-11-18T17:59:59.176047+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7559,63 +7559,6 @@
       "firstPublishedAt": "2026-11-17T12:56:10.539169+00:00"
     },
     {
-      "id": "aagag-1670345-0",
-      "url": "https://aagag.com/issue/?idx=1670345",
-      "source": "애객",
-      "title": "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg",
-      "publishedAt": "2026-11-17T17:48:29+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6DtN.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "ㄷ"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L6DtN.webp"
-      ],
-      "videos": [],
-      "excerpt": "ㄷ",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8993405",
-          "text": "나 혼자만 스피드전"
-        },
-        {
-          "id": "8993407",
-          "text": "라섹? 기초적인 임플란트다"
-        },
-        {
-          "id": "8993436",
-          "text": "닌자 시험에서 순수 뇌지컬로 시험 침"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-17T17:58:52.922113+09:00",
-      "sourceTitles": [
-        "ㅇㅎ)아이템전인줄몰랐던세무사시험합격자.jpg",
-        "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg",
-        "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg",
-        "아이템전인 줄 몰랐던 세무사 시험 합격자.jpg"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-17T08:59:02.230924+00:00",
-      "collectedAt": "2026-11-17T17:59:02.230943+09:00",
-      "firstPublishedAt": "2026-11-17T08:59:02.325229+00:00"
-    },
-    {
       "id": "aagag-1670441-0",
       "url": "https://aagag.com/issue/?idx=1670441",
       "source": "애객",
@@ -7790,9 +7733,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
