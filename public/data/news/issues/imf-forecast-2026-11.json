@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-17/pm.json",
+      "category": "경제·생활경제",
+      "change": "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "pm",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-17-pm/20261117-pm-imf-forecast",
+      "keyFacts": {
+        "조건과 단계": "반도체 수출·투자·소비 흐름을 반영한 전망이며 실제 확정 성장률은 아닙니다. 협의단은 물가 압력과 특정 산업 집중 위험을 지적하며 추가 긴축과 성장 동력 다변화를 권고했습니다.",
+        "확인 내용": "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다."
+      },
+      "previous": null,
+      "publishedAt": "2026-11-17T15:20:51+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T15:20:51+09:00",
+          "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+          "url": "https://www.yna.co.kr/view/AKR20261117087051002",
+          "verifiedAt": "2026-11-18T00:19:54.310891+00:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "20261117-pm-imf-forecast",
+      "summary": [
+        "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다.",
+        "반도체 수출·투자·소비 흐름을 반영한 전망이며 실제 확정 성장률은 아닙니다. 협의단은 물가 압력과 특정 산업 집중 위험을 지적하며 추가 긴축과 성장 동력 다변화를 권고했습니다."
+      ],
+      "supersededBy": [],
+      "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+      "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다."
+    }
+  ],
+  "id": "imf-forecast-2026-11",
+  "schemaVersion": 1,
+  "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+}

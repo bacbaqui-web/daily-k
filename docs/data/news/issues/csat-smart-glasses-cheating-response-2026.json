@@ -160,6 +160,58 @@
       "uncertainty": "와이파이 차단·가방 검사 시행 여부와 구체적 범위는 아직 확정되지 않았습니다."
     },
     {
+      "briefingPath": "2026-11-17/pm.json",
+      "category": "정치·정책",
+      "change": "추가 대책 예고에서 단추·안경 검사와 8,400여명 증원 등 구체적인 운영 방안 발표로 진전됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "pm",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "추가 대책 예고에서 단추·안경 검사와 8,400여명 증원 등 구체적인 운영 방안 발표로 진전됐습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-csat-ai-response"
+      },
+      "id": "2026-11-17-pm/20261117-pm-csat-controls",
+      "keyFacts": {
+        "조건과 단계": "스마트기기 전담인력과 복도 감독관 등 8,400여명을 추가 배치하고 가방은 교실 밖에 보관합니다. 시험 시작 전 재난문자로 미제출 휴대전화를 확인하는 방안도 발표했습니다.",
+        "확인 내용": "정부가 19일 수능에서 옷 단추에 스티커를 붙이고 안경을 매 교시 점검하는 등 소지품 검사를 강화한다고 발표했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-csat-ai-response"
+      },
+      "publishedAt": "2026-11-17T15:45:58+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T15:45:58+09:00",
+          "title": "수능 단추 스티커·안경 점검…감독 인력 8,400여명 추가",
+          "url": "https://www.yna.co.kr/view/AKR20261117126600001",
+          "verifiedAt": "2026-11-18T00:19:54.312719+00:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261117-pm-csat-controls",
+      "summary": [
+        "정부가 19일 수능에서 옷 단추에 스티커를 붙이고 안경을 매 교시 점검하는 등 소지품 검사를 강화한다고 발표했습니다.",
+        "스마트기기 전담인력과 복도 감독관 등 8,400여명을 추가 배치하고 가방은 교실 밖에 보관합니다. 시험 시작 전 재난문자로 미제출 휴대전화를 확인하는 방안도 발표했습니다."
+      ],
+      "supersededBy": [],
+      "title": "수능 단추 스티커·안경 점검…감독 인력 8,400여명 추가",
+      "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다."
+    },
+    {
       "briefingPath": "2026-11-18/am.json",
       "category": "정치·정책",
       "change": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
@@ -185,8 +237,8 @@
         "2": "자료 제출 의무화 입법 추진"
       },
       "previous": {
-        "editionId": "2026-11-16-pm",
-        "storyId": "20261116-pm-csat-ai-response"
+        "editionId": "2026-11-17-pm",
+        "storyId": "20261117-pm-csat-controls"
       },
       "publishedAt": "2026-11-17T21:47:31+09:00",
       "sources": [
@@ -215,5 +267,5 @@
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
+  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
 }

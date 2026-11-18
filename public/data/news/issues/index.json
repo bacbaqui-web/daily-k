@@ -1,5 +1,5 @@
 {
-  "editionCount": 124,
+  "editionCount": 125,
   "issues": [
     {
       "categories": [
@@ -139,7 +139,7 @@
         "사회이슈",
         "정치·정책"
       ],
-      "eventCount": 4,
+      "eventCount": 5,
       "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
       "firstCoveredDate": "2026-10-29",
       "id": "csat-smart-glasses-cheating-response-2026",
@@ -202,22 +202,193 @@
       "categories": [
         "과학·기술"
       ],
-      "eventCount": 2,
+      "eventCount": 3,
       "firstCoveredAt": "2026-11-14T09:42:10.979637+09:00",
       "firstCoveredDate": "2026-11-14",
       "id": "us-china-offshore-ai-chip-remote-access-controls-2026",
-      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
       "lastCoveredDate": "2026-11-17",
       "latest": {
         "archive": false,
-        "change": "14일 규정 추진 보도 이후 공식 규칙이 발표됐습니다. 당시 보도된 7개국 대신 이번 발표의 5개국을 확인했습니다.",
-        "editionId": "2026-11-17-am",
+        "change": "미국 규칙 발표 이후 중국 외교부의 비판과 대응 예고가 추가됐습니다.",
+        "editionId": "2026-11-17-pm",
         "stage": "후속",
-        "storyId": "20261117-am-ai-chip-rule",
-        "title": "미국, 제3국 데이터센터 통한 첨단 AI칩 원격 이용 규제 발표"
+        "storyId": "20261117-pm-china-ai-response",
+        "title": "중국, 미국 AI칩 원격 이용 규제 비판·대응 예고"
       },
       "path": "us-china-offshore-ai-chip-remote-access-controls-2026.json",
       "title": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 10,
+      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
+      "firstCoveredDate": "2026-10-18",
+      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "기존 종전협상 보도 이후 크림대교 이틀째 공격과 러시아 긴급회의·키이우 교량 공격이 확인됐습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "후속",
+        "storyId": "20261117-pm-crimea-bridge",
+        "title": "우크라이나 크림대교 이틀째 공격…러시아 긴급회의"
+      },
+      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
+      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
+    },
+    {
+      "categories": [
+        "정치·정책"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-04T09:15:48.078092+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "prosecution-manipulation-special-counsel-bill-2026",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "후속",
+        "storyId": "20261117-pm-special-counsel",
+        "title": "조작기소 의혹 특검법 공포안 국무회의 의결"
+      },
+      "path": "prosecution-manipulation-special-counsel-bill-2026.json",
+      "title": "조작기소 의혹 특별검사법 입법과 권한 조정"
+    },
+    {
+      "categories": [
+        "문화·콘텐츠"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "marvel-launch-2026-11",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "웹툰엔터테인먼트가 개발·운영하는 마블 코믹스 앱이 미국 현지 16일 정식 출시됐다고 네이버웹툰이 17일 밝혔습니다. 3만5,000편 이상의 만화를 제공합니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "보도",
+        "storyId": "20261117-pm-marvel-launch",
+        "title": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시"
+      },
+      "path": "marvel-launch-2026-11.json",
+      "title": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 35,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "후속",
+        "storyId": "20261117-pm-korea-market",
+        "title": "코스피 2.59% 하락해 4,968.48 마감"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "imf-forecast-2026-11",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "보도",
+        "storyId": "20261117-pm-imf-forecast",
+        "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향"
+      },
+      "path": "imf-forecast-2026-11.json",
+      "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향"
+    },
+    {
+      "categories": [
+        "경제·생활경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "housing-survey-2026-11",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "국토교통부가 발표한 2025년 주거실태조사에서 전국 임차가구의 소득 대비 임대료 비율은 중위수 기준 17.0%로 전년 15.7%보다 높아졌습니다. 서울은 21.5%였습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "보도",
+        "storyId": "20261117-pm-housing-survey",
+        "title": "세입자 소득 대비 임대료 비율 17%…8년 만에 최고"
+      },
+      "path": "housing-survey-2026-11.json",
+      "title": "세입자 소득 대비 임대료 비율 17%…8년 만에 최고"
+    },
+    {
+      "categories": [
+        "국제정세"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "cho-entry-2026-11",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "조국 혁신정책연구원장이 학술행사 참석을 위해 일본에 도착했다가 입국을 거부당하고 귀국했습니다. 외교부는 일본 측에 유감과 재발 방지 요구를 전달했습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "보도",
+        "storyId": "20261117-pm-cho-entry",
+        "title": "조국 원장 일본 입국 거부…외교부 유감 표명"
+      },
+      "path": "cho-entry-2026-11.json",
+      "title": "조국 원장 일본 입국 거부…외교부 유감 표명"
+    },
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "ai-cyber-2026-11",
+      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "lastCoveredDate": "2026-11-17",
+      "latest": {
+        "archive": false,
+        "change": "크라우드스트라이크가 17일 브리핑에서 중국 연계 해킹조직의 AI 활용 공격 대상에 한국 외교·정책 관련 조직이 포함됐다고 밝혔습니다.",
+        "editionId": "2026-11-17-pm",
+        "stage": "보도",
+        "storyId": "20261117-pm-ai-cyber",
+        "title": "AI 활용 해킹 표적에 한국 외교·정책 조직 포함"
+      },
+      "path": "ai-cyber-2026-11.json",
+      "title": "AI 활용 해킹 표적에 한국 외교·정책 조직 포함"
     },
     {
       "categories": [
@@ -453,29 +624,6 @@
       },
       "path": "mrblue-q3-2026-results.json",
       "title": "미스터블루 2026년 3분기 실적"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 34,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-11-16T21:12:00.552371+09:00",
-      "lastCoveredDate": "2026-11-16",
-      "latest": {
-        "archive": false,
-        "change": "이전 거래일 전망이나 수치를 반복하지 않고 16일 정규장과 환율의 실제 마감값을 확인했습니다.",
-        "editionId": "2026-11-16-pm",
-        "stage": "후속",
-        "storyId": "20261116-pm-korea-market-close",
-        "title": "코스피 3.59%·코스닥 4.86% 하락…오늘 종가 확인"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -775,27 +923,6 @@
     },
     {
       "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-04T09:15:48.078092+09:00",
-      "firstCoveredDate": "2026-11-04",
-      "id": "prosecution-manipulation-special-counsel-bill-2026",
-      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
-      "lastCoveredDate": "2026-11-15",
-      "latest": {
-        "archive": false,
-        "change": "공포안의 17일 국무회의 상정 예정이 보도됐습니다. 의결·재가·공포는 미확인입니다.",
-        "editionId": "2026-11-15-am",
-        "stage": "후속",
-        "storyId": "20261115-am-pol-01",
-        "title": "조작기소 특검법 공포안, 17일 국무회의 상정 예정"
-      },
-      "path": "prosecution-manipulation-special-counsel-bill-2026.json",
-      "title": "조작기소 의혹 특별검사법 입법과 권한 조정"
-    },
-    {
-      "categories": [
         "과학·기술"
       ],
       "eventCount": 4,
@@ -877,28 +1004,6 @@
       },
       "path": "us-measles-cases-elimination-status-review-2026.json",
       "title": "미국 홍역 확산과 청정국 지위 검토"
-    },
-    {
-      "categories": [
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 9,
-      "firstCoveredAt": "2026-10-18T21:13:10+09:00",
-      "firstCoveredDate": "2026-10-18",
-      "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
-      "lastCoveredAt": "2026-11-14T21:48:30.371337+09:00",
-      "lastCoveredDate": "2026-11-14",
-      "latest": {
-        "archive": false,
-        "change": "나토 가입과 돈바스 철수를 연결한 질의가 공개됐습니다. 당사자 합의는 미확정입니다.",
-        "editionId": "2026-11-14-pm",
-        "stage": "후속",
-        "storyId": "20261114-pm-int-01",
-        "title": "젤렌스키 “미국, 나토 가입 대가로 돈바스 철수 의향 질의”"
-      },
-      "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
-      "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
     },
     {
       "categories": [
@@ -11827,7 +11932,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 916,
+  "storyCount": 926,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
+  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
 }

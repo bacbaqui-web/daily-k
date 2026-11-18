@@ -1,0 +1,771 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-18T09:25:57.079455+09:00",
+  "id": "2026-11-17-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-17T21:00:00+09:00",
+      "date": "2026-11-17",
+      "edition": "pm",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-18",
+          "detail": "계엄 해제 표결 방해 혐의 사건 선고가 다음 날 예정돼 있습니다. 기준 시점에 판결 결과는 나오지 않았습니다.",
+          "source": {
+            "kind": "news",
+            "language": "ko",
+            "name": "YTN",
+            "publishedAt": "2026-11-17T16:54:00+09:00",
+            "title": "추경호 내일 1심 선고",
+            "url": "https://www.ytn.co.kr/_ln/0103_202611171654423886",
+            "verifiedAt": "2026-11-18T00:19:54.408796+00:00"
+          },
+          "timeNote": "기사에서 확인한 예정일입니다.",
+          "title": "추경호 시장 1심 선고 예정"
+        }
+      ],
+      "generatedAt": "2026-11-18T09:22:01.101876+09:00",
+      "id": "2026-11-17-pm",
+      "intro": "11월17일 오후9시까지 확인된 주요 소식의 복구본입니다.",
+      "keywords": [
+        "코스피 하락",
+        "IMF 전망",
+        "수능 감독",
+        "특검법",
+        "AI 보안"
+      ],
+      "omissionNotes": [
+        "17일 21시 이후의 수능 포상제 지시와 밤 지진, 18일 엔비디아 실적·미국 종가는 포함하지 않았습니다.",
+        "증시는 새 국내 종가, 수능·특검은 예고 뒤 실제 발표·의결, AI칩은 중국 정부 대응으로 구분했습니다.",
+        "요청 단계가 누락된 회차를 원래 cutoff로 복구했습니다. 작성·검증 시각은 실제 18일 시각입니다."
+      ],
+      "overview": [
+        "국내 증시가 하락했고 IMF는 한국 성장률 전망을 상향했습니다. 수능 추가 대책과 특검법 공포안 의결이 확인됐습니다.",
+        "국제 군사 충돌과 AI 보안·통상 소식, 웹툰 플랫폼 정식 출시를 함께 정리했습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "17일"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "3c433f660c3316b0bcc6cc3fbfb00d996ddc7c0605d50b187e168325c6c01cf3",
+          "followUp": {
+            "delta": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
+            "editionId": "2026-11-16-pm",
+            "storyId": "20261116-pm-korea-market-close"
+          },
+          "id": "20261117-pm-korea-market",
+          "keyFacts": {
+            "조건과 단계": "원·달러 환율의 주간 종가는 전날보다 2.5원 오른 1,338.2원이었습니다. 밤사이 미국 시장 결과와 구분한 국내 당일 마감값입니다.",
+            "확인 내용": "17일 코스피는 2.59% 내린 4,968.48, 코스닥은 2.34% 내린 650.06에 마감했습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T16:06:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-17T16:06:00+09:00",
+              "title": "코스피 2.59% 하락해 4,968.48 마감",
+              "url": "https://www.newspim.com/news/view/20261117001170",
+              "verifiedAt": "2026-11-18T00:19:54.529717+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.newspim.com/news/view/20261117001170",
+          "score": 96.9,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 99,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "국내 자산시장과 환율의 당일 새 결과로 영향 범위가 넓습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-17T16:06:00+09:00",
+              "title": "코스피 2.59% 하락해 4,968.48 마감",
+              "url": "https://www.newspim.com/news/view/20261117001170",
+              "verifiedAt": "2026-11-18T00:19:54.529717+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "17일 코스피는 2.59% 내린 4,968.48, 코스닥은 2.34% 내린 650.06에 마감했습니다.",
+            "원·달러 환율의 주간 종가는 전날보다 2.5원 오른 1,338.2원이었습니다. 밤사이 미국 시장 결과와 구분한 국내 당일 마감값입니다."
+          ],
+          "timeline": {
+            "change": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "후속"
+          },
+          "title": "코스피 2.59% 하락해 4,968.48 마감",
+          "topicKey": "korea-market-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
+          "whyItMatters": "국내 자산시장과 환율의 당일 새 결과로 영향 범위가 넓습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "IMF"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "c7910789d793f8e3f8a947b63534e41ac7d142357d8bbea81dcf59e8d899bedb",
+          "id": "20261117-pm-imf-forecast",
+          "keyFacts": {
+            "조건과 단계": "반도체 수출·투자·소비 흐름을 반영한 전망이며 실제 확정 성장률은 아닙니다. 협의단은 물가 압력과 특정 산업 집중 위험을 지적하며 추가 긴축과 성장 동력 다변화를 권고했습니다.",
+            "확인 내용": "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T15:20:51+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T15:20:51+09:00",
+              "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+              "url": "https://www.yna.co.kr/view/AKR20261117087051002",
+              "verifiedAt": "2026-11-18T00:19:54.310891+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117087051002",
+          "score": 96.2,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 98,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "국가 경제 전망과 정책 대응에 관련된 공식 협의 결과입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T15:20:51+09:00",
+              "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+              "url": "https://www.yna.co.kr/view/AKR20261117087051002",
+              "verifiedAt": "2026-11-18T00:19:54.310891+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다.",
+            "반도체 수출·투자·소비 흐름을 반영한 전망이며 실제 확정 성장률은 아닙니다. 협의단은 물가 압력과 특정 산업 집중 위험을 지적하며 추가 긴축과 성장 동력 다변화를 권고했습니다."
+          ],
+          "timeline": {
+            "change": "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "imf-forecast-2026-11",
+            "issueTitle": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+            "stage": "보도"
+          },
+          "title": "IMF, 올해 한국 성장률 전망 3.9%로 상향",
+          "topicKey": "imf-forecast-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "IMF 연례협의단이 올해 한국 성장률 전망을 3.3%에서 3.9%로, 내년 전망을 2.8%에서 3.3%로 올렸습니다.",
+          "whyItMatters": "국가 경제 전망과 정책 대응에 관련된 공식 협의 결과입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "정치·정책",
+          "emphasis": [
+            "정부가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "c6a3bb2dd9e6ea99c2b7e196b4862b1d8deb307e7b789a94205c39abba8267a3",
+          "followUp": {
+            "delta": "추가 대책 예고에서 단추·안경 검사와 8,400여명 증원 등 구체적인 운영 방안 발표로 진전됐습니다.",
+            "editionId": "2026-11-16-pm",
+            "storyId": "20261116-pm-csat-ai-response"
+          },
+          "id": "20261117-pm-csat-controls",
+          "keyFacts": {
+            "조건과 단계": "스마트기기 전담인력과 복도 감독관 등 8,400여명을 추가 배치하고 가방은 교실 밖에 보관합니다. 시험 시작 전 재난문자로 미제출 휴대전화를 확인하는 방안도 발표했습니다.",
+            "확인 내용": "정부가 19일 수능에서 옷 단추에 스티커를 붙이고 안경을 매 교시 점검하는 등 소지품 검사를 강화한다고 발표했습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T15:45:58+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T15:45:58+09:00",
+              "title": "수능 단추 스티커·안경 점검…감독 인력 8,400여명 추가",
+              "url": "https://www.yna.co.kr/view/AKR20261117126600001",
+              "verifiedAt": "2026-11-18T00:19:54.312719+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117126600001",
+          "score": 95.5,
+          "scoreComponents": {
+            "domesticImpact": 93,
+            "importance": 97,
+            "interest": 93,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "대책 예고 이후 실제 시험 운영 방안이 발표돼 수험생과 감독관에게 직접 영향을 줍니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T15:45:58+09:00",
+              "title": "수능 단추 스티커·안경 점검…감독 인력 8,400여명 추가",
+              "url": "https://www.yna.co.kr/view/AKR20261117126600001",
+              "verifiedAt": "2026-11-18T00:19:54.312719+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "정부가 19일 수능에서 옷 단추에 스티커를 붙이고 안경을 매 교시 점검하는 등 소지품 검사를 강화한다고 발표했습니다.",
+            "스마트기기 전담인력과 복도 감독관 등 8,400여명을 추가 배치하고 가방은 교실 밖에 보관합니다. 시험 시작 전 재난문자로 미제출 휴대전화를 확인하는 방안도 발표했습니다."
+          ],
+          "timeline": {
+            "change": "추가 대책 예고에서 단추·안경 검사와 8,400여명 증원 등 구체적인 운영 방안 발표로 진전됐습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "후속"
+          },
+          "title": "수능 단추 스티커·안경 점검…감독 인력 8,400여명 추가",
+          "topicKey": "csat-controls-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "추가 대책 예고에서 단추·안경 검사와 8,400여명 증원 등 구체적인 운영 방안 발표로 진전됐습니다.",
+          "whyItMatters": "대책 예고 이후 실제 시험 운영 방안이 발표돼 수험생과 감독관에게 직접 영향을 줍니다."
+        },
+        {
+          "alternatives": [],
+          "category": "정치·정책",
+          "emphasis": [
+            "정부가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "4fa39f0bf75194c54d9ebfdae6d9c677420c966c5738f4c4f53efbf355a42f9e",
+          "followUp": {
+            "delta": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
+            "editionId": "2026-11-15-am",
+            "storyId": "20261115-am-pol-01"
+          },
+          "id": "20261117-pm-special-counsel",
+          "keyFacts": {
+            "조건과 단계": "최대 309명으로 구성해 최장 200일 수사할 수 있는 내용입니다. 공포안 의결이 확인된 단계이며 의혹이 사실로 확정됐거나 특검 수사 결과가 나온 것은 아닙니다.",
+            "확인 내용": "정부가 국가기관의 조작 수사·기소 의혹을 조사하는 이른바 조작기소 특검법 공포안을 17일 국무회의에서 의결했습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T11:37:54+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T11:37:54+09:00",
+              "title": "조작기소 의혹 특검법 공포안 국무회의 의결",
+              "url": "https://www.yna.co.kr/view/AKR20261117030800001",
+              "verifiedAt": "2026-11-18T00:19:54.323140+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117030800001",
+          "score": 91.8,
+          "scoreComponents": {
+            "domesticImpact": 92,
+            "importance": 96,
+            "interest": 92,
+            "recency": 85,
+            "reliability": 90
+          },
+          "scoreReason": "국무회의 상정 예고 이후 실제 의결이라는 절차 변화가 확인됐습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T11:37:54+09:00",
+              "title": "조작기소 의혹 특검법 공포안 국무회의 의결",
+              "url": "https://www.yna.co.kr/view/AKR20261117030800001",
+              "verifiedAt": "2026-11-18T00:19:54.323140+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "정부가 국가기관의 조작 수사·기소 의혹을 조사하는 이른바 조작기소 특검법 공포안을 17일 국무회의에서 의결했습니다.",
+            "최대 309명으로 구성해 최장 200일 수사할 수 있는 내용입니다. 공포안 의결이 확인된 단계이며 의혹이 사실로 확정됐거나 특검 수사 결과가 나온 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "prosecution-manipulation-special-counsel-bill-2026",
+            "issueTitle": "조작기소 의혹 특별검사법 입법과 권한 조정",
+            "stage": "후속"
+          },
+          "title": "조작기소 의혹 특검법 공포안 국무회의 의결",
+          "topicKey": "special-counsel-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
+          "whyItMatters": "국무회의 상정 예고 이후 실제 의결이라는 절차 변화가 확인됐습니다."
+        },
+        {
+          "alternatives": [],
+          "category": "경제·생활경제",
+          "emphasis": [
+            "국토교통부가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "9d6e8a1e6bfe38e236632cce378fea54332b44dd468c76f6aac71ffa9d770dcb",
+          "id": "20261117-pm-housing-survey",
+          "keyFacts": {
+            "조건과 단계": "보증금을 월세로 환산한 금액까지 포함한 지표입니다. 17일 발표된 지난해 조사 결과로, 오늘의 모든 세입자가 같은 비율을 부담한다는 뜻은 아닙니다.",
+            "확인 내용": "국토교통부가 발표한 2025년 주거실태조사에서 전국 임차가구의 소득 대비 임대료 비율은 중위수 기준 17.0%로 전년 15.7%보다 높아졌습니다. 서울은 21.5%였습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T16:00:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T16:00:00+09:00",
+              "title": "세입자 소득 대비 임대료 비율 17%…8년 만에 최고",
+              "url": "https://www.yna.co.kr/view/AKR20261117130200003",
+              "verifiedAt": "2026-11-18T00:19:54.328065+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117130200003",
+          "score": 94.1,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 95,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "가계 주거비 부담을 보여주는 새로운 공식 조사 결과입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T16:00:00+09:00",
+              "title": "세입자 소득 대비 임대료 비율 17%…8년 만에 최고",
+              "url": "https://www.yna.co.kr/view/AKR20261117130200003",
+              "verifiedAt": "2026-11-18T00:19:54.328065+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "국토교통부가 발표한 2025년 주거실태조사에서 전국 임차가구의 소득 대비 임대료 비율은 중위수 기준 17.0%로 전년 15.7%보다 높아졌습니다. 서울은 21.5%였습니다.",
+            "보증금을 월세로 환산한 금액까지 포함한 지표입니다. 17일 발표된 지난해 조사 결과로, 오늘의 모든 세입자가 같은 비율을 부담한다는 뜻은 아닙니다."
+          ],
+          "timeline": {
+            "change": "국토교통부가 발표한 2025년 주거실태조사에서 전국 임차가구의 소득 대비 임대료 비율은 중위수 기준 17.0%로 전년 15.7%보다 높아졌습니다. 서울은 21.5%였습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "housing-survey-2026-11",
+            "issueTitle": "세입자 소득 대비 임대료 비율 17%…8년 만에 최고",
+            "stage": "보도"
+          },
+          "title": "세입자 소득 대비 임대료 비율 17%…8년 만에 최고",
+          "topicKey": "housing-survey-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "국토교통부가 발표한 2025년 주거실태조사에서 전국 임차가구의 소득 대비 임대료 비율은 중위수 기준 17.0%로 전년 15.7%보다 높아졌습니다. 서울은 21.5%였습니다.",
+          "whyItMatters": "가계 주거비 부담을 보여주는 새로운 공식 조사 결과입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "우크라이나가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "f5648855cda71288b67f10a994a222d8ceb1fc1e72e2dfdf88e5e3a8c4380438",
+          "followUp": {
+            "delta": "기존 종전협상 보도 이후 크림대교 이틀째 공격과 러시아 긴급회의·키이우 교량 공격이 확인됐습니다.",
+            "editionId": "2026-11-14-pm",
+            "storyId": "20261114-pm-int-01"
+          },
+          "id": "20261117-pm-crimea-bridge",
+          "keyFacts": {
+            "조건과 단계": "연합뉴스는 러시아군도 키이우의 교량 두 곳을 공격했다고 전했습니다. 정상회담을 앞둔 새 충돌이며 종전 협상의 타결 여부와는 구분해야 합니다.",
+            "확인 내용": "우크라이나가 현지 17일 러시아 본토와 크림반도를 잇는 크림대교를 이틀째 공격했고 러시아 정부는 긴급회의를 소집했습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T19:12:11+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T19:12:11+09:00",
+              "title": "우크라이나 크림대교 이틀째 공격…러시아 긴급회의",
+              "url": "https://www.yna.co.kr/view/AKR20261117163100109",
+              "verifiedAt": "2026-11-18T00:19:54.310792+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117163100109",
+          "score": 93.4,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 94,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "새로운 기반시설 공격과 대응으로 종전 협상과 안보에 영향을 줍니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T19:12:11+09:00",
+              "title": "우크라이나 크림대교 이틀째 공격…러시아 긴급회의",
+              "url": "https://www.yna.co.kr/view/AKR20261117163100109",
+              "verifiedAt": "2026-11-18T00:19:54.310792+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "우크라이나가 현지 17일 러시아 본토와 크림반도를 잇는 크림대교를 이틀째 공격했고 러시아 정부는 긴급회의를 소집했습니다.",
+            "연합뉴스는 러시아군도 키이우의 교량 두 곳을 공격했다고 전했습니다. 정상회담을 앞둔 새 충돌이며 종전 협상의 타결 여부와는 구분해야 합니다."
+          ],
+          "timeline": {
+            "change": "기존 종전협상 보도 이후 크림대교 이틀째 공격과 러시아 긴급회의·키이우 교량 공격이 확인됐습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Kyiv",
+            "issueId": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+            "issueTitle": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방",
+            "stage": "후속"
+          },
+          "title": "우크라이나 크림대교 이틀째 공격…러시아 긴급회의",
+          "topicKey": "crimea-bridge-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "기존 종전협상 보도 이후 크림대교 이틀째 공격과 러시아 긴급회의·키이우 교량 공격이 확인됐습니다.",
+          "whyItMatters": "새로운 기반시설 공격과 대응으로 종전 협상과 안보에 영향을 줍니다."
+        },
+        {
+          "alternatives": [],
+          "category": "과학·기술",
+          "emphasis": [
+            "크라우드스트라이크가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "ea37f6b9d240179d61e20af41268fb349ac0dda15640d2b3b91e4f60e4759364",
+          "id": "20261117-pm-ai-cyber",
+          "keyFacts": {
+            "조건과 단계": "공격 기간은 10월17~29일이며 오늘 공개된 새 사실은 한국 관련 표적의 존재입니다. 구체적인 한국 기관명과 한국 기관의 실제 침해 여부·피해 규모는 공개되지 않았습니다.",
+            "확인 내용": "크라우드스트라이크가 17일 브리핑에서 중국 연계 해킹조직의 AI 활용 공격 대상에 한국 외교·정책 관련 조직이 포함됐다고 밝혔습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T15:56:50+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-17T15:56:50+09:00",
+              "title": "AI 활용 해킹 표적에 한국 외교·정책 조직 포함",
+              "url": "https://www.hankyung.com/article/202611172297i",
+              "verifiedAt": "2026-11-18T00:19:54.398852+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.hankyung.com/article/202611172297i",
+          "score": 92.7,
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 93,
+            "interest": 89,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "한국 관련 공격 표적이 새로 공개돼 국내 보안 대응에 관련됩니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-17T15:56:50+09:00",
+              "title": "AI 활용 해킹 표적에 한국 외교·정책 조직 포함",
+              "url": "https://www.hankyung.com/article/202611172297i",
+              "verifiedAt": "2026-11-18T00:19:54.398852+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "크라우드스트라이크가 17일 브리핑에서 중국 연계 해킹조직의 AI 활용 공격 대상에 한국 외교·정책 관련 조직이 포함됐다고 밝혔습니다.",
+            "공격 기간은 10월17~29일이며 오늘 공개된 새 사실은 한국 관련 표적의 존재입니다. 구체적인 한국 기관명과 한국 기관의 실제 침해 여부·피해 규모는 공개되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "크라우드스트라이크가 17일 브리핑에서 중국 연계 해킹조직의 AI 활용 공격 대상에 한국 외교·정책 관련 조직이 포함됐다고 밝혔습니다.",
+            "eventDate": "2026-10-17",
+            "eventEndDate": "2026-10-29",
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "ai-cyber-2026-11",
+            "issueTitle": "AI 활용 해킹 표적에 한국 외교·정책 조직 포함",
+            "stage": "보도"
+          },
+          "title": "AI 활용 해킹 표적에 한국 외교·정책 조직 포함",
+          "topicKey": "ai-cyber-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "크라우드스트라이크가 17일 브리핑에서 중국 연계 해킹조직의 AI 활용 공격 대상에 한국 외교·정책 관련 조직이 포함됐다고 밝혔습니다.",
+          "whyItMatters": "한국 관련 공격 표적이 새로 공개돼 국내 보안 대응에 관련됩니다."
+        },
+        {
+          "alternatives": [],
+          "category": "국제정세",
+          "emphasis": [
+            "조국"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "9b7c4b89cb498c4d9d2f9c8919c7b97a783f29e665da870560d43c889beb3a06",
+          "id": "20261117-pm-cho-entry",
+          "keyFacts": {
+            "조건과 단계": "일본 정부는 출입국 관련 법에 따른 조치라고 설명했지만 구체적인 적용 사유는 확인되지 않았습니다. 전과나 독도 방문 때문이라는 추측을 확정된 이유로 쓰지 않았습니다.",
+            "확인 내용": "조국 혁신정책연구원장이 학술행사 참석을 위해 일본에 도착했다가 입국을 거부당하고 귀국했습니다. 외교부는 일본 측에 유감과 재발 방지 요구를 전달했습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T20:45:48+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T20:45:48+09:00",
+              "title": "조국 원장 일본 입국 거부…외교부 유감 표명",
+              "url": "https://www.yna.co.kr/view/AKR20261117120852073",
+              "verifiedAt": "2026-11-18T00:19:54.330319+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261117120852073",
+          "score": 92.0,
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 92,
+            "interest": 88,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "당일 귀국과 외교 당국의 대응까지 확인된 새 사안입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-17T20:45:48+09:00",
+              "title": "조국 원장 일본 입국 거부…외교부 유감 표명",
+              "url": "https://www.yna.co.kr/view/AKR20261117120852073",
+              "verifiedAt": "2026-11-18T00:19:54.330319+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "조국 혁신정책연구원장이 학술행사 참석을 위해 일본에 도착했다가 입국을 거부당하고 귀국했습니다. 외교부는 일본 측에 유감과 재발 방지 요구를 전달했습니다.",
+            "일본 정부는 출입국 관련 법에 따른 조치라고 설명했지만 구체적인 적용 사유는 확인되지 않았습니다. 전과나 독도 방문 때문이라는 추측을 확정된 이유로 쓰지 않았습니다."
+          ],
+          "timeline": {
+            "change": "조국 혁신정책연구원장이 학술행사 참석을 위해 일본에 도착했다가 입국을 거부당하고 귀국했습니다. 외교부는 일본 측에 유감과 재발 방지 요구를 전달했습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "cho-entry-2026-11",
+            "issueTitle": "조국 원장 일본 입국 거부…외교부 유감 표명",
+            "stage": "보도"
+          },
+          "title": "조국 원장 일본 입국 거부…외교부 유감 표명",
+          "topicKey": "cho-entry-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "조국 혁신정책연구원장이 학술행사 참석을 위해 일본에 도착했다가 입국을 거부당하고 귀국했습니다. 외교부는 일본 측에 유감과 재발 방지 요구를 전달했습니다.",
+          "whyItMatters": "당일 귀국과 외교 당국의 대응까지 확인된 새 사안입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "과학·기술",
+          "emphasis": [
+            "중국"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "09bb5041be5d01c333ac64bbb8281669452e2b99cf1cfc3f3dd680b4d4c99b36",
+          "followUp": {
+            "delta": "미국 규칙 발표 이후 중국 외교부의 비판과 대응 예고가 추가됐습니다.",
+            "editionId": "2026-11-17-am",
+            "storyId": "20261117-am-ai-chip-rule"
+          },
+          "id": "20261117-pm-china-ai-response",
+          "keyFacts": {
+            "조건과 단계": "오전에 전해진 미국 규제 발표에 대한 중국 정부의 새 반응입니다. 구체적인 보복 조치와 시행 일정은 제시되지 않았습니다.",
+            "확인 내용": "중국 외교부가 미국의 첨단 AI 반도체 원격 이용 제한을 경제적 강압이라고 비판하고 필요한 대응 조치를 취하겠다고 밝혔습니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T16:35:10+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-17T16:35:10+09:00",
+              "title": "중국, 미국 AI칩 원격 이용 규제 비판·대응 예고",
+              "url": "https://www.mt.co.kr/world/2026/11/17/2026111716261013493",
+              "verifiedAt": "2026-11-18T00:19:54.315718+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.mt.co.kr/world/2026/11/17/2026111716261013493",
+          "score": 91.3,
+          "scoreComponents": {
+            "domesticImpact": 87,
+            "importance": 91,
+            "interest": 87,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "미국 규제 발표 이후 중국 정부의 공식 대응 방침이라는 후속 변화입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-17T16:35:10+09:00",
+              "title": "중국, 미국 AI칩 원격 이용 규제 비판·대응 예고",
+              "url": "https://www.mt.co.kr/world/2026/11/17/2026111716261013493",
+              "verifiedAt": "2026-11-18T00:19:54.315718+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "중국 외교부가 미국의 첨단 AI 반도체 원격 이용 제한을 경제적 강압이라고 비판하고 필요한 대응 조치를 취하겠다고 밝혔습니다.",
+            "오전에 전해진 미국 규제 발표에 대한 중국 정부의 새 반응입니다. 구체적인 보복 조치와 시행 일정은 제시되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "미국 규칙 발표 이후 중국 외교부의 비판과 대응 예고가 추가됐습니다.",
+            "eventDate": "2026-11-17",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "us-china-offshore-ai-chip-remote-access-controls-2026",
+            "issueTitle": "미국의 중국 기업 해외 AI 반도체 원격 접근 제한 규정 추진",
+            "stage": "후속"
+          },
+          "title": "중국, 미국 AI칩 원격 이용 규제 비판·대응 예고",
+          "topicKey": "china-ai-response-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "미국 규칙 발표 이후 중국 외교부의 비판과 대응 예고가 추가됐습니다.",
+          "whyItMatters": "미국 규제 발표 이후 중국 정부의 공식 대응 방침이라는 후속 변화입니다."
+        },
+        {
+          "alternatives": [],
+          "category": "문화·콘텐츠",
+          "emphasis": [
+            "웹툰엔터테인먼트가"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+          "factsHash": "4c4e5ace42a1ef20d6e4aaa32f6320adfed2ce01f1e2f1e542780e72863f15f4",
+          "id": "20261117-pm-marvel-launch",
+          "keyFacts": {
+            "조건과 단계": "한국은 이번 출시 대상에서 제외됐고 국내 확대 계획은 미정입니다. 기존 마블 언리미티드 서비스는 12월28일 종료될 예정으로, 새 앱 출시와 향후 종료 일정을 구분했습니다.",
+            "확인 내용": "웹툰엔터테인먼트가 개발·운영하는 마블 코믹스 앱이 미국 현지 16일 정식 출시됐다고 네이버웹툰이 17일 밝혔습니다. 3만5,000편 이상의 만화를 제공합니다."
+          },
+          "placement": "lead",
+          "publishedAt": "2026-11-17T14:09:35+08:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-11-17T14:09:35+08:00",
+              "title": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시",
+              "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03876966645646704",
+              "verifiedAt": "2026-11-18T00:19:54.450680+00:00"
+            }
+          ],
+          "representativeUrl": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03876966645646704",
+          "score": 90.6,
+          "scoreComponents": {
+            "domesticImpact": 86,
+            "importance": 90,
+            "interest": 86,
+            "recency": 100,
+            "reliability": 90
+          },
+          "scoreReason": "국내 웹툰 기업의 글로벌 플랫폼 사업에서 실제 출시가 확인된 변화입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "이데일리",
+              "publishedAt": "2026-11-17T14:09:35+08:00",
+              "title": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시",
+              "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03876966645646704",
+              "verifiedAt": "2026-11-18T00:19:54.450680+00:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "웹툰엔터테인먼트가 개발·운영하는 마블 코믹스 앱이 미국 현지 16일 정식 출시됐다고 네이버웹툰이 17일 밝혔습니다. 3만5,000편 이상의 만화를 제공합니다.",
+            "한국은 이번 출시 대상에서 제외됐고 국내 확대 계획은 미정입니다. 기존 마블 언리미티드 서비스는 12월28일 종료될 예정으로, 새 앱 출시와 향후 종료 일정을 구분했습니다."
+          ],
+          "timeline": {
+            "change": "웹툰엔터테인먼트가 개발·운영하는 마블 코믹스 앱이 미국 현지 16일 정식 출시됐다고 네이버웹툰이 17일 밝혔습니다. 3만5,000편 이상의 만화를 제공합니다.",
+            "eventDate": "2026-11-16",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "marvel-launch-2026-11",
+            "issueTitle": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시",
+            "stage": "보도"
+          },
+          "title": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시",
+          "topicKey": "marvel-launch-2026-11-17",
+          "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다.",
+          "whatChanged": "웹툰엔터테인먼트가 개발·운영하는 마블 코믹스 앱이 미국 현지 16일 정식 출시됐다고 네이버웹툰이 17일 밝혔습니다. 3만5,000편 이상의 만화를 제공합니다.",
+          "whyItMatters": "국내 웹툰 기업의 글로벌 플랫폼 사업에서 실제 출시가 확인된 변화입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-18T09:25:57.079455+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "f20e964c0ba6290c82afec18c6a669afbdbdf3e26d36270b4ec5060efeb924a1",
+  "opensAt": "2026-11-17T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-17T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

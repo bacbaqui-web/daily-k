@@ -51,6 +51,58 @@
       "uncertainty": "조항 삭제의 최종 법안 반영과 법안 통과, 특검 출범 및 의혹 입증은 미확정입니다."
     },
     {
+      "briefingPath": "2026-11-17/pm.json",
+      "category": "정치·정책",
+      "change": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "pm",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
+        "editionId": "2026-11-15-am",
+        "storyId": "20261115-am-pol-01"
+      },
+      "id": "2026-11-17-pm/20261117-pm-special-counsel",
+      "keyFacts": {
+        "조건과 단계": "최대 309명으로 구성해 최장 200일 수사할 수 있는 내용입니다. 공포안 의결이 확인된 단계이며 의혹이 사실로 확정됐거나 특검 수사 결과가 나온 것은 아닙니다.",
+        "확인 내용": "정부가 국가기관의 조작 수사·기소 의혹을 조사하는 이른바 조작기소 특검법 공포안을 17일 국무회의에서 의결했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-15-am",
+        "storyId": "20261115-am-pol-01"
+      },
+      "publishedAt": "2026-11-17T11:37:54+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-17T11:37:54+09:00",
+          "title": "조작기소 의혹 특검법 공포안 국무회의 의결",
+          "url": "https://www.yna.co.kr/view/AKR20261117030800001",
+          "verifiedAt": "2026-11-18T00:19:54.323140+00:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261117-pm-special-counsel",
+      "summary": [
+        "정부가 국가기관의 조작 수사·기소 의혹을 조사하는 이른바 조작기소 특검법 공포안을 17일 국무회의에서 의결했습니다.",
+        "최대 309명으로 구성해 최장 200일 수사할 수 있는 내용입니다. 공포안 의결이 확인된 단계이며 의혹이 사실로 확정됐거나 특검 수사 결과가 나온 것은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "조작기소 의혹 특검법 공포안 국무회의 의결",
+      "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다."
+    },
+    {
       "briefingPath": "2026-11-15/am.json",
       "category": "정치·정책",
       "change": "공포안의 17일 국무회의 상정 예정이 보도됐습니다. 의결·재가·공포는 미확인입니다.",
@@ -108,5 +160,5 @@
   "id": "prosecution-manipulation-special-counsel-bill-2026",
   "schemaVersion": 1,
   "title": "조작기소 의혹 특별검사법 입법과 권한 조정",
-  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
+  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
 }

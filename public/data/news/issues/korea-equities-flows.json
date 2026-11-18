@@ -1119,6 +1119,58 @@
       "uncertainty": "하락 원인별 기여도와 다음 거래일 방향은 이 속보만으로 확인할 수 없습니다."
     },
     {
+      "briefingPath": "2026-11-17/pm.json",
+      "category": "경제·생활경제",
+      "change": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-18T09:22:01.101876+09:00",
+      "coveredOn": "2026-11-17",
+      "edition": "pm",
+      "editionDate": "2026-11-17",
+      "editionId": "2026-11-17-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-17",
+      "eventEndDate": null,
+      "eventTimeNote": "17일 발표·보도 기준입니다. 조사 대상 기간과 실제 사건 시점은 본문에 구분했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-korea-market-close"
+      },
+      "id": "2026-11-17-pm/20261117-pm-korea-market",
+      "keyFacts": {
+        "조건과 단계": "원·달러 환율의 주간 종가는 전날보다 2.5원 오른 1,338.2원이었습니다. 밤사이 미국 시장 결과와 구분한 국내 당일 마감값입니다.",
+        "확인 내용": "17일 코스피는 2.59% 내린 4,968.48, 코스닥은 2.34% 내린 650.06에 마감했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-korea-market-close"
+      },
+      "publishedAt": "2026-11-17T16:06:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-11-17T16:06:00+09:00",
+          "title": "코스피 2.59% 하락해 4,968.48 마감",
+          "url": "https://www.newspim.com/news/view/20261117001170",
+          "verifiedAt": "2026-11-18T00:19:54.529717+00:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261117-pm-korea-market",
+      "summary": [
+        "17일 코스피는 2.59% 내린 4,968.48, 코스닥은 2.34% 내린 650.06에 마감했습니다.",
+        "원·달러 환율의 주간 종가는 전날보다 2.5원 오른 1,338.2원이었습니다. 밤사이 미국 시장 결과와 구분한 국내 당일 마감값입니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피 2.59% 하락해 4,968.48 마감",
+      "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2017,5 +2069,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-18T09:13:52.505778+09:00"
+  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
 }
