@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T04:48:00.514416+00:00",
+  "collectedAt": "2026-11-18T04:54:35.514591+00:00",
   "windowEnd": "2026-11-18T13:48:00.047295+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4949,6 +4949,56 @@
       "firstPublishedAt": "2026-11-17T11:17:00.557646+00:00"
     },
     {
+      "id": "aagag-1670569-0",
+      "url": "https://aagag.com/issue/?idx=1670569",
+      "source": "애객",
+      "title": "짧고 굵은 디시 좋소 썰",
+      "publishedAt": "2026-11-18T13:34:12+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6P1a.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6P1a.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 12,
+      "kPerComment": 6.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8996760",
+          "text": "체벌 있는 회사... 귀하네 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8996762",
+          "text": "UFC 체육관 정도에서 스파링하자고 하면 체벌이려나 ㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T13:54:27.147840+09:00",
+      "sourceTitles": [
+        "짧고 굵은 디시 좋소 썰",
+        "짧고 굵은 디시 좋소 썰",
+        "훌쩍훌쩍 짧고 굵은 디시 좆소 썰..jpg",
+        "훌쩍훌쩍 짧고 굵은 디시 좆소 썰..jpg",
+        "중소기업 갤러리 태명문...jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-18T04:54:35.457580+00:00",
+      "collectedAt": "2026-11-18T13:54:35.457599+09:00",
+      "firstPublishedAt": "2026-11-18T04:54:35.541947+00:00"
+    },
+    {
       "id": "aagag-1159907-0",
       "url": "https://aagag.com/issue/?idx=1159907",
       "source": "애객",
@@ -7069,7 +7119,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
