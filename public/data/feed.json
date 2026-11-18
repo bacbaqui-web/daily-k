@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T00:45:38.533782+00:00",
+  "collectedAt": "2026-11-18T00:47:13.756619+00:00",
   "windowEnd": "2026-11-18T09:45:38.423033+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6066,7 +6066,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -6093,6 +6093,51 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1670514-0",
+      "url": "https://aagag.com/issue/?idx=1670514",
+      "source": "애객",
+      "title": "ㅇㅆㅇㅆ)여고수가 신랑감을 찾아낸 만화",
+      "publishedAt": "2026-11-18T09:42:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6MXi.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6MXi.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8995641",
+          "text": "왜 스토리가 정상적이지??"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T09:46:58.999973+09:00",
+      "sourceTitles": [
+        "\"나를 이기는자와 혼인하겠다!\".manhwa",
+        "ㅇㅆㅇㅆ)여고수가 신랑감을 찾아낸 만화",
+        "ㅇㅆㅇㅆ)여고수가 신랑감을 찾아낸 만화",
+        "ㅇㅆㅇㅆ)여고수가 신랑감을 찾아낸 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-18T00:47:13.680289+00:00",
+      "collectedAt": "2026-11-18T09:47:13.680306+09:00",
+      "firstPublishedAt": "2026-11-18T00:47:13.789736+00:00"
+    },
     {
       "id": "aagag-1649096-0",
       "url": "https://aagag.com/issue/?idx=1649096",
