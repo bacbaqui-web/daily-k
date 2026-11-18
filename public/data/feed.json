@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T00:12:29.077997+00:00",
+  "collectedAt": "2026-11-18T00:14:10.660867+00:00",
   "windowEnd": "2026-11-18T09:12:28.976242+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2226,6 +2226,74 @@
       "sourceTitlesFetchedAt": "2026-11-17T05:17:34.142146+00:00",
       "collectedAt": "2026-11-17T14:17:34.142163+09:00",
       "firstPublishedAt": "2026-11-17T05:17:34.282867+00:00"
+    },
+    {
+      "id": "aagag-1670508-0",
+      "url": "https://aagag.com/issue/?idx=1670508",
+      "source": "애객",
+      "title": "뭔가 이상해진 카톡 이모티콘 바이럴",
+      "publishedAt": "2026-11-18T09:06:13+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6LkL.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6LkV.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6LkX.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "우우우\n쌀쌀쌀"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6LkL.webp",
+        "https://i.aagag.com/o/L6LkV.webp",
+        "https://i.aagag.com/o/L6LkX.webp"
+      ],
+      "videos": [],
+      "excerpt": "우우우\n쌀쌀쌀",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 26,
+      "commentCount": 2,
+      "laughingComments": 2,
+      "score": 26,
+      "kPerComment": 13.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8995445",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 글자가 많아지면 구사할 수 있는 어휘가 늘어나기 마련이지 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8995473",
+          "text": "족가 ㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T09:14:03.924867+09:00",
+      "sourceTitles": [
+        "특이점이 온 카톡 이모티콘.jpg",
+        "뭔가 이상해진 카톡 이모티콘",
+        "뭔가 이상해진 카톡 이모티콘 바이럴",
+        "싱글벙글 카톡이모티콘 바이럴",
+        "뭔가 이상해진 카톡 이모티콘",
+        "뭔가 이상해진 카톡 이모티콘",
+        "미쳐버린 카톡 이모티콘"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-18T00:14:10.593206+00:00",
+      "collectedAt": "2026-11-18T09:14:10.593224+09:00",
+      "firstPublishedAt": "2026-11-18T00:14:10.695178+00:00"
     },
     {
       "id": "aagag-1590083-0",
@@ -6093,7 +6161,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
