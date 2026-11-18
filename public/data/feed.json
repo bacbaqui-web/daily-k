@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T05:56:48.910547+00:00",
+  "collectedAt": "2026-11-18T05:59:57.689575+00:00",
   "windowEnd": "2026-11-18T14:56:48.802594+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5034,6 +5034,66 @@
       "firstPublishedAt": "2026-11-17T11:17:00.557646+00:00"
     },
     {
+      "id": "aagag-1670496-0",
+      "url": "https://aagag.com/issue/?idx=1670496",
+      "source": "애객",
+      "title": "명나라 황제의 아바타 놀이.jpg",
+      "publishedAt": "2026-11-18T14:49:04+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5hJ1.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5hJ1.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 12,
+      "commentCount": 5,
+      "laughingComments": 2,
+      "score": 12,
+      "kPerComment": 2.4,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8997162",
+          "text": "반대하면 투옥 ㅋㅋㅋ 내가황제다"
+        },
+        {
+          "id": "8997164",
+          "text": "아바타가 아니라 부캐 아님?"
+        },
+        {
+          "id": "8997165",
+          "text": "신하들은 여기 어울려줘야되는건가?"
+        },
+        {
+          "id": "8997177",
+          "text": "00년대 말년병장들이 비슷한 거 했던거같음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이등병으로 하는 포켓몬이나 유희왕 같은거"
+        },
+        {
+          "id": "8997184",
+          "text": "휴....드래곤볼이 있었지 ㅠㅜ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T14:59:46.804221+09:00",
+      "sourceTitles": [
+        "명나라 황제의 아바타 놀이",
+        "명나라 황제의 아바타 놀이.jpg",
+        "명나라 황제의 아바타 놀이.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-18T05:59:57.621938+00:00",
+      "collectedAt": "2026-11-18T14:59:57.621959+09:00",
+      "firstPublishedAt": "2026-11-18T05:59:57.719093+00:00"
+    },
+    {
       "id": "aagag-1670569-0",
       "url": "https://aagag.com/issue/?idx=1670569",
       "source": "애객",
@@ -7308,7 +7368,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
