@@ -53,3 +53,7 @@ python3 scripts/news/web_handoff.py --payload /home/ubuntu/daily-k-news/state/ID
 앱 메시지 도구의 전송과 웹 화면의 응답을 2026-11-16에 확인했다. 이것은 서버 무인 브라우저 운용이나 향후 세션·예약 성공을 보장하지 않는다. 웹 UI의 자동 추출을 별도 크롤러로 구현하지 않는다. ChatGPT 약관의 자동 추출 제한과 모델별 한도는 별도이며 API 요금과 혼동하지 않는다.
 
 전환 전 실행 명령은 /usr/bin/python3 scripts/news/oracle_runner.py. 되돌릴 때는 이 서비스의 chatgpt-handoff.conf만 제거하고 daemon-reload하며 automation-2도 이전 확인 전용 역할로 되돌려 경쟁 실행을 막는다. 다른 서비스·타이머를 변경하지 않는다.
+
+## 기사 사진
+
+원문 검증 시 og:image 또는 twitter:image의 대표 사진 주소도 확인한다. 실제 이미지 응답이 열리는 HTTPS 주소만 sources와 relatedArticles의 imageUrl에 함께 저장한다. 사진을 확인하지 못하면 주소를 만들지 않고 언론사 이름으로 표시한다. 이미지 추가는 기사 사실·승인 시각을 바꾸지 않는다.
