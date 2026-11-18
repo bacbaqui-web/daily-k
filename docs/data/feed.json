@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-18T20:05:21.769779+00:00",
+  "collectedAt": "2026-11-18T20:08:04.269726+00:00",
   "windowEnd": "2026-11-19T05:05:21.476017+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7431,6 +7431,64 @@
       "firstPublishedAt": "2026-11-18T07:36:24.902072+00:00"
     },
     {
+      "id": "aagag-711988-0",
+      "url": "https://aagag.com/issue/?idx=711988",
+      "source": "애객",
+      "title": "뺨 50대맞은 김준호",
+      "publishedAt": "2026-11-19T05:00:36+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/DdhFu.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/DdhFu.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 11,
+      "kPerComment": 5.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "393288",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 개웃기당"
+        },
+        {
+          "id": "393311",
+          "text": "똥군기 문화 다 없애고 다시는 안만든것만으로도 훌륭한 사람이라고 생각함"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T05:07:54.322214+09:00",
+      "sourceTitles": [
+        "뺨 50대 맞은 김준호",
+        "뺨 50대맞은 김준호",
+        "뺨 50대맞은 김준호",
+        "뺨 50대맞은 김준호",
+        "개그맨 김준호 일화",
+        "뺨 50대 맞은 김준호",
+        "뺨 50대맞은 김준호",
+        "뺨 50대맞은 김준호",
+        "뺨 50대 맞은 김준호.jpg",
+        "뺨 50대 맞은 김준호.jpg",
+        "뺨 50대맞은 김준호",
+        "뺨 50대맞은 김준호",
+        "뺨 50대맞은 김준호"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 13,
+      "sourceTitlesFetchedAt": "2026-11-18T20:08:04.204937+00:00",
+      "collectedAt": "2026-11-19T05:08:04.204956+09:00",
+      "firstPublishedAt": "2026-11-18T20:08:04.299295+00:00"
+    },
+    {
       "id": "aagag-773350-1",
       "url": "https://aagag.com/issue/?idx=773350_1",
       "source": "애객",
@@ -9481,7 +9539,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
