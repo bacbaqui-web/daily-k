@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T01:01:36.440778+00:00",
+  "collectedAt": "2026-11-18T01:02:29.828419+00:00",
   "windowEnd": "2026-11-18T10:01:36.335408+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3520,6 +3520,75 @@
       "firstPublishedAt": "2026-11-17T03:27:28.292947+00:00"
     },
     {
+      "id": "aagag-1670519-0",
+      "url": "https://aagag.com/issue/?idx=1670519",
+      "source": "애객",
+      "title": "드립력 건재한 지상렬 근황 ㅋㅋㅋㅋ",
+      "publishedAt": "2026-11-18T09:54:49+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6Lpc.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6Lpc.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 6,
+      "laughingComments": 3,
+      "score": 17,
+      "kPerComment": 2.8333333333333335,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8995700",
+          "text": "ㅋㅋㅋㅋㅋㅋ 폼 안죽었네"
+        },
+        {
+          "id": "8995702",
+          "text": "드립력으론 지상렬 아무도 못 따라오는듯"
+        },
+        {
+          "id": "8995703",
+          "text": "ㅋㅋㅋㅋㅋ 저 상황에서 저런 드립을 떠올리는게 진짜 대단"
+        },
+        {
+          "id": "8995704",
+          "text": "결혼 안햇엇낭"
+        },
+        {
+          "id": "8995706",
+          "text": "이부분에서는 독보적이야 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8995710",
+          "text": "진짜 쨉으로 던지는건 원탑인듯"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T10:02:24.561061+09:00",
+      "sourceTitles": [
+        "여전히 건재한 지상렬",
+        "지상렬 드립",
+        "드립력 건재한 지상렬 근황 ㅋㅋㅋㅋ",
+        "드립력 건재한 지상렬 근황 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-18T01:02:29.715915+00:00",
+      "collectedAt": "2026-11-18T10:02:29.715932+09:00",
+      "firstPublishedAt": "2026-11-18T01:02:29.882190+00:00"
+    },
+    {
       "id": "aagag-1538353-1",
       "url": "https://aagag.com/issue/?idx=1538353_1",
       "source": "애객",
@@ -6049,7 +6118,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
