@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T08:59:59.526088+00:00",
+  "collectedAt": "2026-11-18T09:01:29.883127+00:00",
   "windowEnd": "2026-11-18T17:59:59.176047+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -132,6 +132,76 @@
       "sourceTitlesFetchedAt": "2026-11-17T22:15:30.274118+00:00",
       "collectedAt": "2026-11-18T07:15:30.274141+09:00",
       "firstPublishedAt": "2026-11-17T22:15:30.412020+00:00"
+    },
+    {
+      "id": "aagag-1670630-0",
+      "url": "https://aagag.com/issue/?idx=1670630",
+      "source": "애객",
+      "title": "입사 5년차와 1년차의 차이.gif",
+      "publishedAt": "2026-11-18T17:50:42+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6MqV.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "뒷줄 남자들은 코르티스(올해 데뷔)\n앞줄은 아이브 안유진, 장원영"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6MqV.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "뒷줄 남자들은 코르티스(올해 데뷔)\n앞줄은 아이브 안유진, 장원영",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 59,
+      "commentCount": 5,
+      "laughingComments": 3,
+      "score": 59,
+      "kPerComment": 11.8,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8998214",
+          "text": "입사 5년차라니 ㅋㅋㅋㅋㅋㅋ 2018년 아이즈원부터 하면 9년차임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "8998220",
+          "text": "ㅁ네.?? 그럼 아이브만 벌써 5년이에요??"
+        },
+        {
+          "id": "8998232",
+          "text": "아이브가 2021년 12월 데뷔니까 햇수로는 6년차긴한데 만으로는 아직 5년 살짝 안되었죠 ㅎㅎㅎㅎ"
+        },
+        {
+          "id": "8998215",
+          "text": "코르티스 계들 아닌가? 깜냥도 안되는애들이 콘서트 열어서 엄청 구린노래 여러번 반복해서 부른애들 ㅋㅋㅋㅋ 라이브 실력도 후지고"
+        },
+        {
+          "id": "8998219",
+          "text": "https://aagag.com/issue/?idx=1661009 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-18T18:01:17.714413+09:00",
+      "sourceTitles": [
+        "입사 5년차와 1년차의 차이.gif",
+        "입사 5년차와 입사 1년차",
+        "입사 5년차와 1년차의 차이.gif",
+        "입사 5년차와 입사 1년차의 차이(feat.장원영)",
+        "입사 5년차 vs 신입 비교.ytb"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-18T09:01:29.788962+00:00",
+      "collectedAt": "2026-11-18T18:01:29.788981+09:00",
+      "firstPublishedAt": "2026-11-18T09:01:30.025576+00:00"
     },
     {
       "id": "aagag-1312987-0",
@@ -7733,7 +7803,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
