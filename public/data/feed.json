@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T02:13:33.262005+00:00",
+  "collectedAt": "2026-11-19T02:17:52.844056+00:00",
   "windowEnd": "2026-11-19T11:13:32.796920+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5419,6 +5419,71 @@
       "firstPublishedAt": "2026-11-18T23:58:47.446926+00:00"
     },
     {
+      "id": "aagag-1670813-0",
+      "url": "https://aagag.com/issue/?idx=1670813",
+      "source": "애객",
+      "title": "[속보] 리트냥이 전과 3범 확인",
+      "publishedAt": "2026-11-19T11:06:39+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6Xu8.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6Xu8.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 6,
+      "laughingComments": 3,
+      "score": 18,
+      "kPerComment": 3.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9000793",
+          "text": "전과까지 있으셔..?"
+        },
+        {
+          "id": "9000796",
+          "text": "세무냥이 어그로를 다 가져갓네 어마어마한놈 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9000799",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 관상은 과학이다. 다시 한번 증명"
+        },
+        {
+          "id": "9000805",
+          "text": "아차산으로 올라간 것도 자살은 아니겠네 이정도면 도피 루트 짜놨겠구만"
+        },
+        {
+          "id": "9000817",
+          "text": "전과 이력 있으면 개명 신청 받아주면 안된다고 봅니다 특히 사기죄면 벌금 10만원이라도 있으면 개명 불가가 맞지 않나?"
+        },
+        {
+          "id": "9000839",
+          "text": "얘 말고도 감평냥이 라고 감정평가사를 8개월만에 합격하신 목에 문신한 사람도 있음 ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T11:17:37.987941+09:00",
+      "sourceTitles": [
+        "[속보] 리트냥이 전과 3범 확인",
+        "뭐 학폭있으면 대학을 못간다고?",
+        "리트냥이 전과 3범이라고 제보 들어옴",
+        "[속보] 리트냥이 전과 3범"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-19T02:17:52.768131+00:00",
+      "collectedAt": "2026-11-19T11:17:52.768150+09:00",
+      "firstPublishedAt": "2026-11-19T02:17:52.877019+00:00"
+    },
+    {
       "id": "aagag-328840-0",
       "url": "https://aagag.com/issue/?idx=328840",
       "source": "애객",
@@ -10138,7 +10203,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
