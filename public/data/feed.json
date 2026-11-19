@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T03:31:16.069360+00:00",
+  "collectedAt": "2026-11-19T03:33:41.037457+00:00",
   "windowEnd": "2026-11-19T12:31:15.665597+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7019,6 +7019,68 @@
       "firstPublishedAt": "2026-11-18T11:26:25.461312+00:00"
     },
     {
+      "id": "aagag-1670833-0",
+      "url": "https://aagag.com/issue/?idx=1670833",
+      "source": "애객",
+      "title": "리트냥이 이진우의 개신박한 문장 암기법 (feat. 라이언 긱스) ㅋㅋㅋㅋㅋ",
+      "publishedAt": "2026-11-19T12:29:22+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6YyT.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "라이언 깁스는 에라이 이 인간아 ㅋㅋㅋ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6YyT.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "라이언 깁스는 에라이 이 인간아 ㅋㅋㅋ",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 14,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 14,
+      "kPerComment": 4.666666666666667,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9001195",
+          "text": "진우야 진짜 뒤질래? ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001199",
+          "text": "개그맨이냐 ㅋㅋ 라이온 깁스 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001204",
+          "text": "ㅅㅈ했다는 얘기가 돌던데........."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T12:33:34.309915+09:00",
+      "sourceTitles": [
+        "라이언 깁스",
+        "리트냥이 이진우의 개신박한 문장 암기법 (feat. 라이언 긱스) ㅋㅋㅋㅋㅋ",
+        "리트냥이 이진우의 개신박한 문장 암기법 (feat. 라이언 깁스) ㅋㅋㅋㅋㅋ",
+        "리트냥이 이진우의 개신박한 문장 암기법 (feat. 라이언 긱스) ㅋㅋㅋㅋㅋ",
+        "리트냥이 이진우의 개신박한 문장 암기법 (feat. 라이언 깁스) ㅋㅋㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-19T03:33:40.947274+00:00",
+      "collectedAt": "2026-11-19T12:33:40.947292+09:00",
+      "firstPublishedAt": "2026-11-19T03:33:41.104449+00:00"
+    },
+    {
       "id": "aagag-819383-0",
       "url": "https://aagag.com/issue/?idx=819383",
       "source": "애객",
@@ -10000,7 +10062,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
