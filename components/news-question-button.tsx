@@ -18,7 +18,7 @@ export function NewsReaderActions({brief,story}:{brief:NewsView;story:NewsViewSt
   catch{setState('manual')}
  }
  return <div className="news-share-control">
-  <button ref={button} type="button" className="news-share-button" title="이 뉴스 공유 링크 복사" aria-label={`${story.title} 공유 링크 복사`} onClick={copy}>{state==='copied'?<Check size={17} aria-hidden="true"/>:<Share2 size={17} aria-hidden="true"/>}</button>
+  <button ref={button} type="button" className="news-share-button" title="이 뉴스 공유 링크 복사" aria-label={`${story.title} 공유 링크 복사`} onClick={copy}>{state==='copied'?<Check size={13} strokeWidth={1.5} aria-hidden="true"/>:<Share2 size={13} strokeWidth={1.5} aria-hidden="true"/>}</button>
   <span className="news-share-feedback" role="status">{state==='copied'?'링크를 복사했습니다.':''}</span>
   {state==='manual'&&<div className="news-share-manual"><label>자동 복사가 되지 않았습니다. 링크를 직접 복사하세요.<input ref={field} aria-label="뉴스 공유 링크" readOnly value={url} onFocus={e=>e.currentTarget.select()}/></label><button type="button" onClick={()=>{setState('idle');button.current?.focus()}}>닫기</button></div>}
  </div>;
