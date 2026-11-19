@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "사회",
+      "change": "국토교통부의 항소에도 기본계획 취소 판단이 유지됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 서울고등법원의 항소심 선고입니다. 정확한 선고 시각은 기재하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-saemangeum-appeal",
+      "keyFacts": {
+        "정부 대응": "국토부, 판결문 검토 후 대응 방향 결정 방침",
+        "판단 근거": "조류 충돌 위험·환경 영향 검토 부족",
+        "항소심 결과": "새만금 국제공항 기본계획 취소 1심 유지"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T15:26:24+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2025/01/21/PYH2025012109890001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T15:26:24+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "기본계획 취소 1심 유지, 조류 충돌·환경 검토 부족 판단과 국토부 대응 방침을 확인했습니다."
+            ],
+            "image": "원문 og:image를 확인했습니다. 2025년 촬영된 자료사진입니다."
+          },
+          "title": "새만금공항 2심도 제동…\"조류충돌·환경영향 검토 부족\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261118120551004",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "20261118-pm-saemangeum-appeal",
+      "summary": [
+        "새만금 국제공항 기본계획을 취소한 1심 판단이 항소심에서도 유지됐습니다.",
+        "법원은 조류 충돌과 환경 영향을 충분히 검토하지 않았다고 판단했고, 국토교통부는 판결문을 검토해 대응 방향을 정하겠다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "새만금공항 기본계획, 2심도 취소",
+      "uncertainty": "항소심 결과이며 상고 여부와 사업의 최종 처리 방향은 확정되지 않았습니다."
+    }
+  ],
+  "id": "saemangeum-airport-plan-lawsuit",
+  "schemaVersion": 1,
+  "title": "새만금공항 기본계획 취소 소송",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}

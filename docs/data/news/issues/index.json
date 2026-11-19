@@ -1,27 +1,243 @@
 {
-  "editionCount": 125,
+  "editionCount": 126,
   "issues": [
     {
       "categories": [
+        "국제",
         "국제·안보",
         "국제정세"
       ],
-      "eventCount": 14,
+      "eventCount": 15,
       "firstCoveredAt": null,
       "firstCoveredDate": "2026-09-15",
       "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
       "lastCoveredDate": "2026-11-18",
       "latest": {
         "archive": false,
-        "change": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
-        "editionId": "2026-11-18-am",
-        "stage": "후속",
-        "storyId": "20261118-am-iran-strike",
-        "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승"
+        "change": "쿠웨이트 미군 시설 공격 주장과 방공 대응 발표",
+        "editionId": "2026-11-18-pm",
+        "stage": "발표",
+        "storyId": "20261118-pm-iran-kuwait",
+        "title": "이란, 쿠웨이트 미군기지 공격 발표"
       },
       "path": "us-iran-military.json",
       "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "사회·안전",
+        "안전"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "taean-search-2026-11",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "장비 증강과 중국 공조 요청, 승선원 소재 미확인",
+        "editionId": "2026-11-18-pm",
+        "stage": "후속",
+        "storyId": "20261118-pm-taean-search",
+        "title": "태안 어선 수색 확대, 중국에 공조 요청"
+      },
+      "path": "taean-search-2026-11.json",
+      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
+    },
+    {
+      "categories": [
+        "사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "saemangeum-airport-plan-lawsuit",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "국토교통부의 항소에도 기본계획 취소 판단이 유지됐습니다.",
+        "editionId": "2026-11-18-pm",
+        "stage": "결과",
+        "storyId": "20261118-pm-saemangeum-appeal",
+        "title": "새만금공항 기본계획, 2심도 취소"
+      },
+      "path": "saemangeum-airport-plan-lawsuit.json",
+      "title": "새만금공항 기본계획 취소 소송"
+    },
+    {
+      "categories": [
+        "사회·정보보호"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "norang-umbrella-data-breach-2026",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "유출 규모와 금융·납부정보 포함 사실 구체화",
+        "editionId": "2026-11-18-pm",
+        "stage": "결과",
+        "storyId": "20261118-pm-norang-breach",
+        "title": "노란우산 고객·계약정보 36만여 건 유출"
+      },
+      "path": "norang-umbrella-data-breach-2026.json",
+      "title": "노란우산 개인정보 침해 사고"
+    },
+    {
+      "categories": [
+        "경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "korea-household-credit-2026",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "3분기 말 가계신용 2,030.5조 원, 분기 증가 폭 둔화",
+        "editionId": "2026-11-18-pm",
+        "stage": "발표",
+        "storyId": "20261118-pm-household-credit",
+        "title": "가계신용 2,030.5조 원, 증가 폭은 둔화"
+      },
+      "path": "korea-household-credit-2026.json",
+      "title": "한국 가계신용"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 36,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "양대 지수 반등과 원·달러 주간 종가 하락",
+        "editionId": "2026-11-18-pm",
+        "stage": "결과",
+        "storyId": "20261118-pm-korea-market",
+        "title": "코스피, 하루 만에 5,000선 회복"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "외교·경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "korea-china-fta-services-investment",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "시장 개방·최혜국대우 합의, 일부 기술적 문안 협의는 잔존",
+        "editionId": "2026-11-18-pm",
+        "stage": "결과",
+        "storyId": "20261118-pm-korea-china-fta",
+        "title": "한중 FTA 서비스·투자 협상 실질 타결"
+      },
+      "path": "korea-china-fta-services-investment.json",
+      "title": "한중 FTA 서비스·투자 후속협상"
+    },
+    {
+      "categories": [
+        "경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "kdi-growth-outlook-2026",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "올해 3.8%·내년 3.9%로 상향",
+        "editionId": "2026-11-18-pm",
+        "stage": "발표",
+        "storyId": "20261118-pm-kdi-outlook",
+        "title": "KDI, 내년 성장률 전망 3.9%로 상향"
+      },
+      "path": "kdi-growth-outlook-2026.json",
+      "title": "KDI 한국 경제성장률 전망"
+    },
+    {
+      "categories": [
+        "정치·사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "election-commission-special-counsel-2026",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "직원 8명에 대한 구속영장 청구",
+        "editionId": "2026-11-18-pm",
+        "stage": "후속",
+        "storyId": "20261118-pm-election-warrants",
+        "title": "선관위 특검, 직원 8명 구속영장 청구"
+      },
+      "path": "election-commission-special-counsel-2026.json",
+      "title": "6·3 지방선거 관련 선관위 특검 수사"
+    },
+    {
+      "categories": [
+        "사회",
+        "사회이슈",
+        "정치·정책"
+      ],
+      "eventCount": 6,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "개인 필기구 제한과 와이파이 중단 범위·시간 안내",
+        "editionId": "2026-11-18-pm",
+        "stage": "확정",
+        "storyId": "20261118-pm-csat-final-rules",
+        "title": "수능 개인 필기구, 흑색 연필만 사용"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
+    {
+      "categories": [
+        "정치"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "chu-kyung-ho-martial-law-trial",
+      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "lastCoveredDate": "2026-11-18",
+      "latest": {
+        "archive": false,
+        "change": "내란 중요임무종사 혐의 무죄",
+        "editionId": "2026-11-18-pm",
+        "stage": "결과",
+        "storyId": "20261118-pm-chu-acquittal",
+        "title": "추경호, 계엄 표결 방해 혐의 1심 무죄"
+      },
+      "path": "chu-kyung-ho-martial-law-trial.json",
+      "title": "추경호 계엄 관련 형사재판"
     },
     {
       "categories": [
@@ -45,7 +261,7 @@
         "editionId": "2026-11-18-am",
         "stage": "후속",
         "storyId": "20261118-am-us-market",
-        "title": "뉴욕증시 하락…다우 1.64%·S&P500 1.03% 내려"
+        "title": "미국 증시, 주요 지수 모두 하락"
       },
       "path": "us-equities-chips-rates-oil.json",
       "title": "미국 증시의 반도체 실적·금리·유가 반응"
@@ -66,31 +282,10 @@
         "editionId": "2026-11-18-am",
         "stage": "보도",
         "storyId": "20261118-am-ukraine-allies",
-        "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견"
+        "title": "우크라이나의 러시아 후방 공격에 미국·나토 이견"
       },
       "path": "ukraine-allies-2026-11.json",
       "title": "우크라이나 러시아 후방 공격 놓고 미국·나토 이견"
-    },
-    {
-      "categories": [
-        "사회·안전"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
-      "firstCoveredDate": "2026-11-18",
-      "id": "taean-search-2026-11",
-      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "18일 오전 1시9분 충남 태안 선적의 7.93t급 어선과 연락이 닿지 않는다는 신고가 접수됐습니다. 선박 출입항 시스템상 승선원은 7명으로 파악됐습니다.",
-        "editionId": "2026-11-18-am",
-        "stage": "보도",
-        "storyId": "20261118-am-taean-search",
-        "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
-      },
-      "path": "taean-search-2026-11.json",
-      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
     },
     {
       "categories": [
@@ -108,7 +303,7 @@
         "editionId": "2026-11-18-am",
         "stage": "보도",
         "storyId": "20261118-am-sangju-quake",
-        "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어"
+        "title": "상주에서 규모 3.6 지진"
       },
       "path": "sangju-quake-2026-11.json",
       "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어"
@@ -129,32 +324,10 @@
         "editionId": "2026-11-18-am",
         "stage": "보도",
         "storyId": "20261118-am-nvidia-results",
-        "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아"
+        "title": "엔비디아 매출, 1년 새 두 배로"
       },
       "path": "nvidia-results-2026-11.json",
       "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아"
-    },
-    {
-      "categories": [
-        "사회이슈",
-        "정치·정책"
-      ],
-      "eventCount": 5,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "추가 대책 예고 이후 신고 포상제와 자료 제출 의무화 입법 지시가 새로 나왔습니다.",
-        "editionId": "2026-11-18-am",
-        "stage": "후속",
-        "storyId": "20261118-am-csat-reward",
-        "title": "수능 부정행위 신고 건당 1억원 이상 포상제 도입 지시"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
     },
     {
       "categories": [
@@ -172,7 +345,7 @@
         "editionId": "2026-11-18-am",
         "stage": "보도",
         "storyId": "20261118-am-bank-bad-loans",
-        "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가"
+        "title": "4대 은행, 이자를 수익으로 잡지 못하는 대출 증가"
       },
       "path": "bank-bad-loans-2026-11.json",
       "title": "4대 은행 무수익여신 5조원 넘어…기업 부문 44% 증가"
@@ -193,7 +366,7 @@
         "editionId": "2026-11-18-am",
         "stage": "보도",
         "storyId": "20261118-am-apple-outage",
-        "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인"
+        "title": "애플 서비스 장애, 일부만 복구"
       },
       "path": "apple-outage-2026-11.json",
       "title": "애플 주요 서비스 장애…일부 복구, 전체 정상화는 미확인"
@@ -282,29 +455,6 @@
       },
       "path": "marvel-launch-2026-11.json",
       "title": "웹툰엔터 개발·운영 마블 만화 앱 정식 출시"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 35,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
-      "lastCoveredDate": "2026-11-17",
-      "latest": {
-        "archive": false,
-        "change": "16일 종가 이후 17일 국내 증시·환율 마감값이 새로 확인됐습니다.",
-        "editionId": "2026-11-17-pm",
-        "stage": "후속",
-        "storyId": "20261117-pm-korea-market",
-        "title": "코스피 2.59% 하락해 4,968.48 마감"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -11932,7 +12082,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 926,
+  "storyCount": 937,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
 }

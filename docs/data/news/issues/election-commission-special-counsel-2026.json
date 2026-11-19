@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "정치·사회",
+      "change": "직원 8명에 대한 구속영장 청구",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 구속영장 청구가 이뤄졌습니다. 정확한 접수 시각과 확정된 심문 일정은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-election-warrants",
+      "keyFacts": {
+        "법적 단계": "구속영장 청구, 발부 여부 미확인",
+        "청구 대상": "중앙선관위 직원 3명, 시·도 선관위 직원 5명",
+        "특검 제시 혐의": "투표율 허위 입력, 투표록·개표상황표 위변조 등"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T15:39:07+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111816890001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T15:39:07+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "중앙선관위 3명·시도선관위 5명에 대한 구속영장 청구와 특검이 제시한 혐의를 확인했습니다."
+            ],
+            "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+          },
+          "title": "특검, '투표율 허위입력·공문서 위변조' 선관위 8명 구속영장(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261118120352004",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "20261118-pm-election-warrants",
+      "summary": [
+        "선관위 특별검사팀이 6·3 지방선거 관련 투표율 허위 입력과 투표록·개표상황표 위변조 혐의로 선관위 직원 8명의 구속영장을 청구했습니다.",
+        "중앙선관위 직원 3명과 시·도 선관위 직원 5명이 대상이며, 구속 여부와 혐의에 대한 법원 판단은 아직 나오지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "선관위 특검, 직원 8명 구속영장 청구",
+      "uncertainty": "영장 청구 단계로 구속·유죄가 확정되지 않았으며 선거 결과 전체의 조작이 입증됐다는 뜻도 아닙니다."
+    }
+  ],
+  "id": "election-commission-special-counsel-2026",
+  "schemaVersion": 1,
+  "title": "6·3 지방선거 관련 선관위 특검 수사",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}

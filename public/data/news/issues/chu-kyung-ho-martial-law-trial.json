@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "정치",
+      "change": "내란 중요임무종사 혐의 무죄",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 서울중앙지법의 1심 선고입니다. 정확한 선고 시각은 기재하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-chu-acquittal",
+      "keyFacts": {
+        "재판 결과": "내란 중요임무종사 혐의 1심 무죄",
+        "특검 대응": "판결문 검토 후 항소 여부 결정 방침",
+        "판단 요지": "계엄 해제 의결 저지 요청·승낙과 내란 가담 입증 부족"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T19:45:56+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111816380001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T19:45:56+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "18일 1심 무죄 선고와 계엄 해제 의결 저지 요청·승낙 및 내란 가담에 관한 법원 판단을 확인했습니다."
+            ],
+            "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+          },
+          "title": "추경호 '계엄해제 표결방해' 1심 무죄…\"내란행위 아냐\"(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20261118118453004",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "20261118-pm-chu-acquittal",
+      "summary": [
+        "추경호 대구시장이 12·3 비상계엄 당시 계엄 해제 표결을 방해한 혐의에 대해 1심에서 무죄를 선고받았습니다.",
+        "법원은 내란 가담이 입증되지 않았다고 판단했으며, 특검은 판결문을 검토해 항소 여부를 정할 방침입니다."
+      ],
+      "supersededBy": [],
+      "title": "추경호, 계엄 표결 방해 혐의 1심 무죄",
+      "uncertainty": "1심 판결이며 최종 확정판결은 아닙니다. 기준시각까지 항소 제기는 확인되지 않았습니다."
+    }
+  ],
+  "id": "chu-kyung-ho-martial-law-trial",
+  "schemaVersion": 1,
+  "title": "추경호 계엄 관련 형사재판",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}

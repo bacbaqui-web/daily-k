@@ -1,0 +1,1098 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-19T09:33:18.124963+09:00",
+  "id": "2026-11-18-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-18T21:00:00+09:00",
+      "date": "2026-11-18",
+      "edition": "pm",
+      "editionId": "2026-11-18-pm",
+      "events": [
+        {
+          "at": "2026-11-19T08:40:00+09:00",
+          "date": "2026-11-19",
+          "detail": "수험생은 오전 8시 10분까지 입실해야 하며, 첫 위급재난문자는 오전 8시 30분 발송할 예정입니다.",
+          "source": {
+            "imageUrl": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/18/202611181544026097_0.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "CBS노컷뉴스",
+            "publishedAt": "2026-11-18T15:49:25+09:00",
+            "sourceCheck": {
+              "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+              "facts": [
+                "19일 08:10 입실, 08:40 1교시 시작과 08:30 첫 재난문자 발송 계획을 확인했습니다."
+              ],
+              "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+            },
+            "title": "\"귀마개는요?\" \"겉옷 뭘 입지?\"…수능 D-1 바뀐 지침에 '혼란'",
+            "url": "https://www.nocutnews.co.kr/news/6608926",
+            "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+          },
+          "timeNote": "한국시간 기준 1교시 시작 예정입니다.",
+          "title": "2027학년도 대학수학능력시험"
+        },
+        {
+          "at": "2026-11-19T10:00:00+09:00",
+          "date": "2026-11-19",
+          "detail": "수능일에는 정규장 시작과 종료가 평소보다 각각 1시간 늦춰집니다.",
+          "source": {
+            "imageUrl": "https://img9.yna.co.kr/photo/cms/2026/06/25/83/PCM20260625000183990_P4.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-05T10:25:23+09:00",
+            "sourceCheck": {
+              "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+              "facts": [
+                "수능일 유가증권·코스닥·코넥스 정규장 10:00~16:30을 확인했습니다."
+              ],
+              "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+            },
+            "title": "19일 수능일, 주식시장 1시간 늦게 개장…정규장 오전 10시~오후 4시30분",
+            "url": "https://www.yna.co.kr/view/AKR20261105065500008",
+            "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+          },
+          "timeNote": "유가증권·코스닥·코넥스 정규장은 한국시간 10:00~16:30입니다.",
+          "title": "수능일 주식시장 오전 10시 개장"
+        },
+        {
+          "at": "2026-11-19T16:00:00+09:00",
+          "date": "2026-11-19",
+          "detail": "두 사건의 상고심 선고를 TV와 대법원 유튜브 채널 등에서 생중계하기로 했습니다.",
+          "source": {
+            "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/05/07/PYH2026050707030001300_P4.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-18T18:13:53+09:00",
+            "sourceCheck": {
+              "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+              "facts": [
+                "19일 16시 두 사건의 상고심 선고와 TV·대법원 유튜브 생중계 결정을 확인했습니다."
+              ],
+              "image": "원문 og:image를 확인했습니다. 지난 5월 한덕수 사건 2심 생중계 자료사진입니다."
+            },
+            "title": "대법, 내일 한덕수·김건희 선고 TV 생중계…당사자는 불출석",
+            "url": "https://www.yna.co.kr/view/AKR20261118170600004",
+            "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+          },
+          "timeNote": "한국시간 오후 4시 선고 예정입니다.",
+          "title": "한덕수·김건희 사건 대법원 선고"
+        }
+      ],
+      "generatedAt": "2026-11-19T09:28:23.214550+09:00",
+      "id": "2026-11-18-pm",
+      "intro": "2026년 11월 18일 오후 9시 기준 저녁 뉴스입니다.",
+      "keywords": [
+        "수능 최종 지침",
+        "추경호 1심 무죄",
+        "한중 FTA 실질 타결",
+        "쿠웨이트 미군기지",
+        "노란우산 정보 유출",
+        "태안 어선 수색",
+        "KDI 성장률 전망",
+        "코스피 5,000선"
+      ],
+      "omissionNotes": [
+        "엔비디아 분기 실적과 미국 증시 마감은 오전판에 이미 반영된 내용이어서 반복하지 않았습니다.",
+        "뉴스핌 관련 출처 https://web3.newspim.com/news/view/20261118001424 는 사용자가 확인한 최종수정 시각이 2026-11-19 08:00으로 기준시각 이후여서 제외했습니다. 기존 조사에서 기준시각 이전 입력·수정이 확인된 연합뉴스 원문으로 교체했습니다."
+      ],
+      "overview": [
+        "수능 필기구·와이파이 지침이 확정됐고, 추경호 대구시장은 계엄 해제 표결 방해 혐의 1심에서 무죄를 선고받았습니다.",
+        "한중 FTA 서비스·투자 협상이 실질 타결됐으며, 이란은 쿠웨이트 미군기지를 공격했다고 발표했습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회",
+          "emphasis": [
+            "흑색 연필만 사용",
+            "시험장 반경 100m"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 안내된 19일 수능 운영 지침입니다. 와이파이 중단 예정 구간은 18일 18시부터 19일 18시까지이며, 전국 현장의 이행 완료를 직접 확인한 것은 아닙니다.",
+          "factsHash": "8b9d998a9460ab60e913631cbc1cf43b99e8434b6ec5548675a70ed16ee6357f",
+          "followUp": {
+            "delta": "오전판의 포상제 도입 지시 이후, 개인 필기구 제한과 시험장 반경 100m 와이파이 중단 범위·시간 등 수능 운영 지침이 구체화됐습니다.",
+            "editionId": "2026-11-18-am",
+            "storyId": "20261118-am-csat-reward"
+          },
+          "id": "20261118-pm-csat-final-rules",
+          "keyFacts": {
+            "개인 필기구": "시험 중 흑색 연필만 사용 가능",
+            "와이파이 범위": "시험장 반경 100m 내 공공·통신사 와이파이",
+            "중단 기간": "2026-11-18 18:00~2026-11-19 18:00 KST",
+            "지급 물품": "샤프·컴퓨터용 사인펜·지우개·수정테이프 등 시험장 지급"
+          },
+          "publishedAt": "2026-11-18T20:09:51+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111708400001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T16:41:56+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "시험장 반경 100m의 공공·통신사 와이파이 중단 기간은 18일 18시부터 19일 18시까지입니다.",
+                  "개인 공유기와 휴대전화 테더링의 일괄 차단은 포함하지 않습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "수능 시험장 100ｍ내 공공 와이파이 차단…오늘 오후 6시부터",
+              "url": "https://www.yna.co.kr/view/AKR20261118153800017",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.mt.co.kr/policy/2026/11/18/2026111819395121303",
+          "score": 97.7,
+          "scoreComponents": {
+            "domesticImpact": 100,
+            "importance": 96,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 96
+          },
+          "scoreReason": "다음 날 전국 수험생에게 직접 적용되며 여러 매체가 최종 준비물과 통신 제한을 주요하게 보도했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111819395121303_1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-18T20:09:51+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "개인 필기구 중 흑색 연필만 시험 중 사용하며 나머지 개인 물품은 가방에 넣어 교실 밖에 보관합니다.",
+                  "시험장 지급 필기구와 08:10 입실, 08:30 첫 재난문자 계획을 확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "\"샤프·지우개 드려요\" 시험장엔 오직 '연필'만…수능 준비물 '최종 점검'",
+              "url": "https://www.mt.co.kr/policy/2026/11/18/2026111819395121303",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "교육부가 수능에서 개인이 가져온 필기구 중 흑색 연필만 사용하도록 하고, 샤프·지우개·컴퓨터용 사인펜 등은 시험장에서 지급하기로 했습니다.",
+            "정부와 통신 3사는 18일 오후 6시부터 19일 오후 6시까지 시험장 반경 100m의 공공·통신사 와이파이를 중단하기로 했습니다."
+          ],
+          "timeline": {
+            "change": "개인 필기구 제한과 와이파이 중단 범위·시간 안내",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "확정"
+          },
+          "title": "수능 개인 필기구, 흑색 연필만 사용",
+          "topicKey": "csat-controls-2026-11-17",
+          "uncertainty": "개인 공유기와 휴대전화 테더링까지 일괄 차단하는 조치는 아닙니다.",
+          "whatChanged": "전날 발표한 소지품 검사 대책에 개인 필기구 사용 제한과 와이파이 중단 범위·시간이 구체적으로 추가됐습니다.",
+          "whyItMatters": "전국 수험생의 준비물과 시험장 운영에 다음 날 바로 적용되는 지침입니다."
+        },
+        {
+          "category": "정치",
+          "emphasis": [
+            "1심에서 무죄",
+            "내란 가담이 입증되지 않았다고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 서울중앙지법의 1심 선고입니다. 정확한 선고 시각은 기재하지 않았습니다.",
+          "factsHash": "35338a2d5db043007460400586d1dfb7189093c64985d3bf40e060fb6d4dacbf",
+          "id": "20261118-pm-chu-acquittal",
+          "keyFacts": {
+            "재판 결과": "내란 중요임무종사 혐의 1심 무죄",
+            "특검 대응": "판결문 검토 후 항소 여부 결정 방침",
+            "판단 요지": "계엄 해제 의결 저지 요청·승낙과 내란 가담 입증 부족"
+          },
+          "publishedAt": "2026-11-18T19:45:56+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/replay/2026/nw1700/article/__icsFiles/afieldfile/2026/11/18/5news_20261118_170340_1_4_Large_u.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-18T17:04:27+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "1심 무죄와 특검의 판결문 검토 후 항소 여부 결정 방침을 확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "추경호 1심에서 무죄‥\"내란 가담 입증 안 돼\"",
+              "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6866670_36982.html",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261118118453004",
+          "score": 96.7,
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 95,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "비상계엄 관련 주요 피고인의 1심 결과로 헌정질서와 공적 책임에 미치는 영향이 큽니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111816380001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T19:45:56+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "18일 1심 무죄 선고와 계엄 해제 의결 저지 요청·승낙 및 내란 가담에 관한 법원 판단을 확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "추경호 '계엄해제 표결방해' 1심 무죄…\"내란행위 아냐\"(종합2보)",
+              "url": "https://www.yna.co.kr/view/AKR20261118118453004",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "추경호 대구시장이 12·3 비상계엄 당시 계엄 해제 표결을 방해한 혐의에 대해 1심에서 무죄를 선고받았습니다.",
+            "법원은 내란 가담이 입증되지 않았다고 판단했으며, 특검은 판결문을 검토해 항소 여부를 정할 방침입니다."
+          ],
+          "timeline": {
+            "change": "내란 중요임무종사 혐의 무죄",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "chu-kyung-ho-martial-law-trial",
+            "issueTitle": "추경호 계엄 관련 형사재판",
+            "stage": "결과"
+          },
+          "title": "추경호, 계엄 표결 방해 혐의 1심 무죄",
+          "topicKey": "chu-kyung-ho-martial-law-trial",
+          "uncertainty": "1심 판결이며 최종 확정판결은 아닙니다. 기준시각까지 항소 제기는 확인되지 않았습니다.",
+          "whatChanged": "계엄 해제 표결 방해 혐의에 대한 첫 법원 판단이 나왔습니다.",
+          "whyItMatters": "12·3 비상계엄 당시 여당 원내대표의 형사책임에 관한 주요 판결입니다."
+        },
+        {
+          "category": "외교·경제",
+          "emphasis": [
+            "후속협상의 실질 타결",
+            "일부 기술적 문안은 추가 협의"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 중국 선전 한중 정상회담에서 타결을 선언했습니다. 선언의 정확한 시각은 기재하지 않았습니다.",
+          "factsHash": "b141d32f6471947f698d5eb2b7fc75c0c944c09208fd2cb722b1b7712bf91d92",
+          "id": "20261118-pm-korea-china-fta",
+          "keyFacts": {
+            "남은 절차": "일부 기술적 문안 실무 협의",
+            "콘텐츠 조건": "영화·게임 분야 등에서 제3국보다 불리하지 않은 최혜국대우",
+            "합의 단계": "서비스·투자 후속협상 실질 타결"
+          },
+          "publishedAt": "2026-11-18T19:20:04+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.khan.co.kr/news/2026/11/18/news-p.v1.20261118.c8bf42839ef548adbbb5d4c62cb6cf05_P1.jpeg",
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-18T19:07:00+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "정상회담의 실질 타결 선언과 문화교류 확대 논의를 확인했습니다.",
+                  "한한령 전면 해제나 모든 콘텐츠 유통 허가가 완료됐다는 보도는 아닙니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "한·중 FTA 후속협상 실질적 타결 ‘관계 복원’ 이어가나…한한령 해제 여부도 주목",
+              "url": "https://www.khan.co.kr/article/202611181907001",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261118152451003",
+          "score": 95.15,
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 93,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 96
+          },
+          "scoreReason": "장기간 이어진 통상 협상의 구체적 결과이며 여러 산업의 시장 접근에 영향을 줍니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111812210001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T19:20:04+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "서비스·투자 후속협상 실질 타결, 영화·게임 최혜국대우와 남은 기술적 문안 협의를 확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "K-영화·게임, 중국서 최혜국대우…한한령 빗장 풀리나(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261118152451003",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "한국과 중국이 서비스·투자 분야 자유무역협정 후속협상의 실질 타결을 선언했습니다.",
+            "영화·게임 등에서 한국을 제3국보다 불리하지 않게 대우하기로 했지만, 일부 기술적 문안은 추가 협의하기로 했습니다."
+          ],
+          "timeline": {
+            "change": "시장 개방·최혜국대우 합의, 일부 기술적 문안 협의는 잔존",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Shanghai",
+            "issueId": "korea-china-fta-services-investment",
+            "issueTitle": "한중 FTA 서비스·투자 후속협상",
+            "stage": "결과"
+          },
+          "title": "한중 FTA 서비스·투자 협상 실질 타결",
+          "topicKey": "korea-china-fta-services-investment",
+          "uncertainty": "일부 문안 협의가 남아 있으며 즉시 발효나 한한령 전면 해제가 확인된 것은 아닙니다.",
+          "whatChanged": "8년 8개월 이어진 서비스·투자 후속협상이 실질 타결 단계에 도달했습니다.",
+          "whyItMatters": "콘텐츠·관광·유통 등 한국 기업의 중국 시장 진출 조건과 양국 경제협력에 관련됩니다."
+        },
+        {
+          "category": "국제",
+          "emphasis": [
+            "미군 드론·미사일 시설을 공격했다고",
+            "실제 피해 여부는 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "이란군의 18일 현지 발표를 다룬 보도입니다. 공격·방공 대응 시각의 서술이 기사마다 달라 분 단위 발생 시각은 기재하지 않았습니다.",
+          "factsHash": "48af1eab178b81a0f5c09c06f2d9043de86da1266e8a6140da3a40c5c675ce32",
+          "followUp": {
+            "delta": "미국의 케슘섬 공습 이후 이란이 쿠웨이트 미군 시설 공격을 발표했고 쿠웨이트군은 방공 대응을 발표했습니다.",
+            "editionId": "2026-11-18-am",
+            "storyId": "20261118-am-iran-strike"
+          },
+          "id": "20261118-pm-iran-kuwait",
+          "keyFacts": {
+            "공격 발표": "이란군, 쿠웨이트 알리 알살렘 기지 미군 시설 공격 주장",
+            "미군 시설 피해": "확인되지 않음",
+            "쿠웨이트 대응": "군 당국, 드론 공격에 대한 방공망 가동 발표"
+          },
+          "publishedAt": "2026-11-18T13:58:43+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img6.yna.co.kr/photo/reuters/2026/11/18/PRU20261118037301009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T16:13:52+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML에 접근했습니다. 당시 입력·수정 메타는 모두 2026-11-18T16:13:52+09:00으로 기준시각 이전이었습니다. 현재 원문을 새로 조회한 결과는 아닙니다.",
+                "facts": [
+                  "쿠웨이트 알리 알살렘 공군기지에 대한 드론 공격 보도와 미국의 케슘섬 공습 이후라는 선후 관계를 확인했습니다.",
+                  "미군 시설의 구체적인 피해 규모를 확인한 기사로 사용하지 않았습니다."
+                ],
+                "image": "원문 og:image와 twitter:image에서 HTTPS 주소를 확인했습니다. 호르무즈 해협의 화재 유조선 사진이며 쿠웨이트 기지 공격 현장 사진은 아닙니다."
+              },
+              "title": "중동긴장 급속 악화…이란, 쿠웨이트·바레인 두달만에 폭격",
+              "url": "https://www.yna.co.kr/view/AKR20261118142800009",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://imnews.imbc.com/news/2026/world/article/6866602_36925.html",
+          "score": 90.2,
+          "scoreComponents": {
+            "domesticImpact": 82,
+            "importance": 92,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 84
+          },
+          "scoreReason": "군사 충돌의 새 대상과 대응이 확인된 중대 국제 후속이며, 피해 검증의 한계는 별도로 반영했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/11/18/jh_20261118_29.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-18T13:58:43+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "이란군의 알리 알살렘 기지 공격 발표와 쿠웨이트군의 방공망 가동 발표를 확인했습니다."
+                ],
+                "image": "원문 og:image를 확인했습니다. 테헤란의 전쟁 선전 벽화 사진으로 공격 현장 사진은 아닙니다."
+              },
+              "title": "이란, 미·중·러 정상회담 전날 쿠웨이트 미군기지 타격",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6866602_36925.html",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "주장",
+          "summary": [
+            "이란군이 쿠웨이트 알리 알살렘 공군기지의 미군 드론·미사일 시설을 공격했다고 발표했습니다.",
+            "쿠웨이트군도 드론 공격에 대응해 방공망을 가동했다고 밝혔으며, 미군 시설의 실제 피해 여부는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "쿠웨이트 미군 시설 공격 주장과 방공 대응 발표",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Kuwait",
+            "issueId": "us-iran-military",
+            "issueTitle": "미국·이란 군사 대응",
+            "stage": "발표"
+          },
+          "title": "이란, 쿠웨이트 미군기지 공격 발표",
+          "topicKey": "iran-kuwait-us-base-attack-2026-11-18",
+          "uncertainty": "시설 명중·파괴와 사상자 수는 확인되지 않았습니다. 앞선 바레인 공격에 대한 미국의 무피해 설명을 이번 사건에 적용하지 않았습니다.",
+          "whatChanged": "오전의 미국 케슘섬 공습 보도 이후 이란의 쿠웨이트 미군 시설 공격 발표와 쿠웨이트의 방공 대응이 추가됐습니다.",
+          "whyItMatters": "걸프 지역 미군 주둔국으로 충돌이 확대돼 중동 안보와 에너지 수송의 불확실성이 커졌습니다."
+        },
+        {
+          "category": "사회·정보보호",
+          "emphasis": [
+            "고객·계약정보 36만여 건",
+            "은행 계좌번호와 공제 납부 내역"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 정밀조사 결과가 공개됐습니다. 침해 발생일과 결과 공개일은 다르며 발생 시각은 기재하지 않았습니다.",
+          "factsHash": "8fa6aef4fed58f583df50045786427359d217c62476a0be8c8c8a0415d674008",
+          "id": "20261118-pm-norang-breach",
+          "keyFacts": {
+            "유출 규모": "고객·계약정보 36만여 건, 18일 저녁 보도 기준",
+            "통지·조회": "대상자 개별 문자 발송, 홈페이지에서 개인별 항목 조회 안내",
+            "포함 정보": "은행 계좌번호·월부금액·납부일·납부 개월 수·납부 총금액 등"
+          },
+          "publishedAt": "2026-11-18T17:59:23+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/15/PYH2026111504370001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T11:50:11+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "외부 정밀조사로 유출 규모가 확대 파악됐다는 중앙회 설명을 확인했습니다.",
+                  "이 기사는 '36만2천명'으로 표기해 저녁 기사의 '36만여 건'과 단위를 합치거나 증가율을 계산하지 않았습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "노란우산 개인정보 유출 36만2천명 달해…당초보다 16만명 늘어(종합)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261118064351030",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.mt.co.kr/living/2026/11/18/2026111817523557707",
+          "score": 92.75,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 89,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 91
+          },
+          "scoreReason": "광범위한 소상공인 정보 유출의 규모와 항목이 새로 확인됐고 이용자의 대응에 직접 관련됩니다.",
+          "sources": [
+            {
+              "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111817523557707_1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-18T17:59:23+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "18일 공지를 인용한 고객·계약정보 총 36만여 건, 계좌번호·공제 납부 내역 유출과 개인별 항목 차이를 확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다.",
+                "officialNotice": "공식 공지 목록은 확인했으나 상세 본문은 접근 오류로 읽지 못했습니다. 구체적인 수치·항목은 공지를 인용한 이 기사로 확인했습니다."
+              },
+              "title": "노란우산 개인정보 36만여건 유출…계좌번호·공제 납부정보 포함",
+              "url": "https://www.mt.co.kr/living/2026/11/18/2026111817523557707",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "중소기업중앙회가 정밀조사 결과 노란우산 고객·계약정보 36만여 건이 유출됐다고 공개했습니다.",
+            "은행 계좌번호와 공제 납부 내역도 포함됐으며, 가입자는 홈페이지에서 개인별 유출 항목을 확인할 수 있습니다."
+          ],
+          "timeline": {
+            "change": "유출 규모와 금융·납부정보 포함 사실 구체화",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "norang-umbrella-data-breach-2026",
+            "issueTitle": "노란우산 개인정보 침해 사고",
+            "stage": "결과"
+          },
+          "title": "노란우산 고객·계약정보 36만여 건 유출",
+          "topicKey": "norang-umbrella-data-breach-2026-11",
+          "uncertainty": "보도마다 '명'과 '건'의 집계 단위가 달라 고유 피해 인원으로 환산하지 않았습니다. 실제 유출 항목은 개인마다 다릅니다.",
+          "whatChanged": "초기 유출 추정에서 정밀조사 결과로 규모가 확대 파악됐고 계좌번호·납부정보 등 항목이 구체화됐습니다.",
+          "whyItMatters": "소상공인의 신원·계약·금융정보가 함께 노출돼 사칭 연락 등 2차 피해 예방과 대응에 관련됩니다."
+        },
+        {
+          "category": "안전",
+          "emphasis": [
+            "함정 26척과 항공기 8대",
+            "승선원 7명의 행방도 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 오후 수색 확대 상황입니다. 미발견 상태는 19:13까지 갱신된 기사 기준이며 21시 현장 상황을 직접 확인한 것은 아닙니다.",
+          "factsHash": "66bc90248f4f99c40055fe9fb0915cc576692746704310102b77ebec0c837509",
+          "followUp": {
+            "delta": "수색 장비가 함정 26척·항공기 8대로 확대됐고 중국에 공조를 요청했으나 승선원 소재는 확인되지 않았습니다.",
+            "editionId": "2026-11-18-am",
+            "storyId": "20261118-am-taean-search"
+          },
+          "id": "20261118-pm-taean-search",
+          "keyFacts": {
+            "국제 공조": "중국에 수색 협조 요청",
+            "수색 결과": "저녁 보도까지 선체 일부·구명조끼 등 미발견",
+            "수색 장비": "함정 26척·항공기 8대",
+            "승선원": "7명, 한국인 3명·인도네시아인 4명"
+          },
+          "publishedAt": "2026-11-18T18:41:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-18T18:29:00+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "승선원 7명과 수색 장비 확대, 중국에 공조를 요청했다는 해경 설명을 확인했습니다."
+                ],
+                "image": "og:image와 twitter:image가 매체 공통 이미지여서 기사 사진으로 사용하지 않았습니다."
+              },
+              "title": "해경, '태안 어선 실종' 중국에 수색 공조 요청",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611181829170602",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.hani.co.kr/arti/area/chungcheong/1288013.html",
+          "score": 90.55,
+          "scoreComponents": {
+            "domesticImpact": 85,
+            "importance": 88,
+            "interest": 90,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "진행 중인 인명 수색에서 장비와 공조 범위가 실제 확대된 후속입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://flexible.img.hani.co.kr/flexible/normal/950/638/imgdb/original/2026/1118/20261118503592.webp",
+              "kind": "news",
+              "language": "ko",
+              "name": "한겨레",
+              "publishedAt": "2026-11-18T18:41:00+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "함선 26척·항공기 8대 투입, 중국 공조 요청과 유류품 미발견을 확인했습니다.",
+                  "본문 수정 시각은 19:13으로 기준시각 이전입니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "한국인 3명·인도네시아인 4명 탄 어선 실종…해경 16시간째 수색",
+              "url": "https://www.hani.co.kr/arti/area/chungcheong/1288013.html",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "해경이 연락이 끊긴 태안 어선 수색에 함정 26척과 항공기 8대를 투입하고 중국에 공조를 요청했습니다.",
+            "저녁 보도까지 선체 일부나 구명조끼를 찾지 못했으며, 승선원 7명의 행방도 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "장비 증강과 중국 공조 요청, 승선원 소재 미확인",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "taean-search-2026-11",
+            "issueTitle": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+            "stage": "후속"
+          },
+          "title": "태안 어선 수색 확대, 중국에 공조 요청",
+          "topicKey": "taean-search-2026-11-18",
+          "uncertainty": "구조·사망·침몰 여부가 확인되지 않았습니다. 중국에 공조를 요청한 사실과 중국의 실제 수색 참여는 구분합니다.",
+          "whatChanged": "오전판의 함정 9척·항공기 2대에서 수색 장비가 26척·8대로 늘었고 중국 공조 요청이 추가됐습니다.",
+          "whyItMatters": "승선원 7명의 생명과 직결된 수색이며 국제 공조를 포함해 대응 범위가 확대됐습니다."
+        },
+        {
+          "category": "경제",
+          "emphasis": [
+            "내년 전망을 3.9%",
+            "AI 인프라 투자가 빠르게 위축되면"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 발표한 2026년 하반기 경제전망입니다. 전망 대상은 2026년과 2027년입니다.",
+          "factsHash": "f82bc137491b92120da2a48fd5b73390e11fd4a8d4512e8209af0c9304098dc5",
+          "id": "20261118-pm-kdi-outlook",
+          "keyFacts": {
+            "2026년 전망": "3.2%에서 3.8%로 상향",
+            "2027년 전망": "2.2%에서 3.9%로 상향",
+            "주요 위험": "미국 AI 데이터센터 건설 지연·축소와 AI 인프라 투자 위축"
+          },
+          "publishedAt": "2026-11-18T12:00:01+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111808230512080_1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-18T12:00:00+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "성장률 전망과 각각 0.6%포인트·1.7%포인트 상향을 교차확인했습니다."
+                ],
+                "image": "원문 og:image의 성장률 전망 비교 그래픽을 확인했습니다."
+              },
+              "title": "\"韓 경제성장률, 올해보다 내년 더 높다\"…KDI, 내년 3.9% 성장전망",
+              "url": "https://www.mt.co.kr/amp/economy/2026/11/18/2026111808230512080",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261118092700002",
+          "score": 92.15,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 86,
+            "interest": 86,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "국책연구기관의 큰 폭 전망 변경이며 전날 IMF 발표와 구별되는 새 분석입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/cms/2021/03/10/16/PCM20210310000116990_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T12:00:01+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "올해 3.8%·내년 3.9% 전망, 8월 대비 상향 폭과 AI 인프라 투자 위축 위험을 확인했습니다."
+                ],
+                "image": "원문 og:image를 확인했습니다. KDI 청사 자료사진입니다."
+              },
+              "title": "KDI, 내년 성장률 2.2→3.9%로 상향…\"성장의 3분의 2가 반도체\"",
+              "url": "https://www.yna.co.kr/view/AKR20261118092700002",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "분석",
+          "summary": [
+            "KDI가 올해 성장률 전망을 3.8%, 내년 전망을 3.9%로 높였습니다.",
+            "반도체 수출·투자 호조를 반영했지만, AI 인프라 투자가 빠르게 위축되면 성장률이 크게 낮아질 수 있다고 경고했습니다."
+          ],
+          "timeline": {
+            "change": "올해 3.8%·내년 3.9%로 상향",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kdi-growth-outlook-2026",
+            "issueTitle": "KDI 한국 경제성장률 전망",
+            "stage": "발표"
+          },
+          "title": "KDI, 내년 성장률 전망 3.9%로 상향",
+          "topicKey": "kdi-economic-outlook-2026-autumn",
+          "uncertainty": "연간 성장률 확정 실적이 아닌 KDI 전망이며 AI 투자와 반도체 수요 변화에 따라 달라질 수 있습니다.",
+          "whatChanged": "8월 전망보다 올해 성장률은 0.6%포인트, 내년 성장률은 1.7%포인트 높아졌습니다.",
+          "whyItMatters": "경제정책과 기업 투자 판단의 근거가 되는 전망으로 반도체 의존에 따른 위험도 함께 제시했습니다."
+        },
+        {
+          "category": "증시·환율",
+          "emphasis": [
+            "5,000선을 회복",
+            "전날보다 5.2원 내렸습니다"
+          ],
+          "eventAt": "2026-11-18T15:30:00+09:00",
+          "eventTimeNote": "18일 주식 정규장 마감과 외환시장 15:30 주간 종가 기준입니다.",
+          "factsHash": "f9d6b92e905fa2ce3ddb1ff6646e606de534fc8c358f0b043848911cc4738117",
+          "followUp": {
+            "delta": "코스피가 4,968.48에서 5,067.44로 반등했고 원·달러 주간 종가는 1,338.2원에서 1,333.0원으로 내렸습니다.",
+            "editionId": "2026-11-17-pm",
+            "storyId": "20261117-pm-korea-market"
+          },
+          "id": "20261118-pm-korea-market",
+          "keyFacts": {
+            "원·달러": "15:30 주간 종가 1,333.0원, 전일 대비 5.2원 하락",
+            "코스닥": "662.81, 전일 대비 12.75포인트·1.96% 상승",
+            "코스피": "5,067.44, 전일 대비 98.96포인트·1.99% 상승"
+          },
+          "publishedAt": "2026-11-18T16:17:40+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://files.mtn.co.kr/article-asset/2026/11/18/c512691c-3c21-4bc4-9438-af2ed17cb18d.gif",
+              "kind": "news",
+              "language": "ko",
+              "name": "MTN 머니투데이방송",
+              "publishedAt": "2026-11-18T15:53:14+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "코스피·코스닥 종가와 상승률, 원·달러 1,333.0원·5.2원 하락이 일치합니다."
+                ],
+                "image": "원문 og:image의 증시 그래픽을 확인했습니다."
+              },
+              "title": "기관 나홀로 '사자'에 오천피 턱걸이…코스닥 2%↑ [MTN 마감시황]",
+              "url": "https://news.mtn.co.kr/article/2026111815531337914",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-18T15:39:58+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "1,333.0원은 서울외환시장 18일 오후 3시 30분 주간거래 종가임을 확인했습니다."
+                ],
+                "image": "og:image가 매체 공통 이미지여서 기사 사진으로 사용하지 않았습니다."
+              },
+              "title": "원/달러 환율, 5.2원 내린 1333.0원",
+              "url": "https://www.mt.co.kr/economy/2026/11/18/2026111815393427821",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.mt.co.kr/index.php/stock/2026/11/18/2026111816092454291",
+          "score": 92.55,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 85,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "전날 급락과 오전 해외시장 보도 이후 확인된 국내 당일 마감 결과입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111816092454291_1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-18T16:17:40+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "코스피 5,067.44·1.99% 상승, 코스닥 662.81·1.96% 상승을 확인했습니다.",
+                  "실시간 시세 위젯 대신 18일 정규장 마감 서술을 사용했습니다."
+                ],
+                "image": "원문 og:image의 코스피 추이 그래픽을 확인했습니다."
+              },
+              "title": "기관이 밀어올린 5000피, 삼전닉스 2·4%대 상승 마감",
+              "url": "https://www.mt.co.kr/index.php/stock/2026/11/18/2026111816092454291",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피가 1.99% 오른 5,067.44에 마감해 하루 만에 5,000선을 회복했고, 코스닥은 1.96% 오른 662.81로 마쳤습니다.",
+            "원·달러 환율은 오후 3시 30분 주간 거래 종가 기준 1,333.0원으로 전날보다 5.2원 내렸습니다."
+          ],
+          "timeline": {
+            "change": "양대 지수 반등과 원·달러 주간 종가 하락",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피, 하루 만에 5,000선 회복",
+          "topicKey": "korea-market-2026-11-18",
+          "uncertainty": "환율은 21시 현재 가격이나 외환시장 전체 거래 종료 가격이 아닙니다.",
+          "whatChanged": "17일 급락 이후 국내 주가지수가 반등했고 원·달러 주간 종가도 하락했습니다.",
+          "whyItMatters": "국내 자산 가격과 환율의 당일 확정 결과로 투자·거래 비용에 직접 관련됩니다."
+        },
+        {
+          "category": "경제",
+          "emphasis": [
+            "전분기보다 9.8조 원 늘었습니다",
+            "처음으로 1,200조 원을 넘었습니다"
+          ],
+          "eventAt": "2026-11-18T12:00:00+09:00",
+          "eventTimeNote": "한국은행의 18일 정오 발표 자료이며 통계 기준은 2026년 3분기 말입니다.",
+          "factsHash": "559311043d3b78a04d9946f24a34b0affd557757afb1cf65b4c773bbceeabbe8",
+          "id": "20261118-pm-household-credit",
+          "keyFacts": {
+            "가계신용": "2,030.5조 원, 전분기 대비 9.8조 원 증가",
+            "가계신용 범위": "가계대출과 결제 전 카드 사용액 등 판매신용의 합계",
+            "주택담보대출": "1,202.3조 원, 전분기 대비 9.6조 원 증가",
+            "통계 기준": "2026년 3분기 말"
+          },
+          "publishedAt": "2026-11-18T12:00:06+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://files.mtn.co.kr/article-asset/2026/11/18/77ab2132-9dae-4428-a23b-00695605f34d.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MTN 머니투데이방송",
+              "publishedAt": "2026-11-18T12:00:30+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "가계신용 잔액·증가 폭과 주택 관련 대출의 첫 1,200조원 돌파를 교차확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "3분기 가계빚 9.8조원 증가…증시 조정에 증가세 둔화",
+              "url": "https://news.mtn.co.kr/article/2026111811133543445",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261118077900002",
+          "score": 91.0,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 84,
+            "interest": 83,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "전국 가계부채의 새 분기 통계이며 잔액 증가와 증가 속도 둔화를 함께 보여줍니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111814810001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T12:00:06+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "가계신용 2,030.5조원·전분기 대비 9.8조원 증가와 주택담보대출 1,202.3조원을 확인했습니다.",
+                  "11월 18일 발표한 3분기 말 잠정 통계입니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "3분기 가계부채 증가폭 1년반 만에 최소…카드 외상은 급증",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261118077900002",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "한국은행 잠정 통계에서 3분기 말 가계신용은 2,030.5조 원으로 전분기보다 9.8조 원 늘었습니다.",
+            "증가 폭은 지난해 1분기 이후 가장 작았지만, 주택담보대출은 9.6조 원 늘어 잔액이 처음으로 1,200조 원을 넘었습니다."
+          ],
+          "timeline": {
+            "change": "3분기 말 가계신용 2,030.5조 원, 분기 증가 폭 둔화",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-household-credit-2026",
+            "issueTitle": "한국 가계신용",
+            "stage": "발표"
+          },
+          "title": "가계신용 2,030.5조 원, 증가 폭은 둔화",
+          "topicKey": "household-credit-q3-2026",
+          "uncertainty": "잠정 통계로 수정될 수 있습니다. 증가 폭 둔화는 부채 잔액 감소를 뜻하지 않습니다.",
+          "whatChanged": "3분기 가계신용 잠정치가 발표돼 전체 증가 폭 둔화와 주택담보대출 잔액의 새 규모가 확인됐습니다.",
+          "whyItMatters": "가계의 상환 부담과 금융 안정, 대출 관리 정책을 판단하는 핵심 통계입니다."
+        },
+        {
+          "category": "사회",
+          "emphasis": [
+            "항소심에서도 유지",
+            "환경 영향을 충분히 검토하지 않았다고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 서울고등법원의 항소심 선고입니다. 정확한 선고 시각은 기재하지 않았습니다.",
+          "factsHash": "2d10573572a035ec0a20799ffe9ce11aed660ae3156ffc08c19c3a21d7995e3e",
+          "id": "20261118-pm-saemangeum-appeal",
+          "keyFacts": {
+            "정부 대응": "국토부, 판결문 검토 후 대응 방향 결정 방침",
+            "판단 근거": "조류 충돌 위험·환경 영향 검토 부족",
+            "항소심 결과": "새만금 국제공항 기본계획 취소 1심 유지"
+          },
+          "publishedAt": "2026-11-18T15:26:24+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1118/202611181515008775_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-18T15:15:00+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "항소심에서도 기본계획 취소 판단이 유지됐음을 교차확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "새만금공항 건설 2심도 제동...\"환경보전 고려 안 해\"",
+              "url": "https://www.ytn.co.kr/_ln/0103_202611181515008775",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261118120551004",
+          "score": 88.2,
+          "scoreComponents": {
+            "domesticImpact": 86,
+            "importance": 82,
+            "interest": 83,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "항공 안전과 환경, 지역 공공투자가 걸린 소송에서 새 심급의 결과가 나왔습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2025/01/21/PYH2025012109890001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T15:26:24+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "기본계획 취소 1심 유지, 조류 충돌·환경 검토 부족 판단과 국토부 대응 방침을 확인했습니다."
+                ],
+                "image": "원문 og:image를 확인했습니다. 2025년 촬영된 자료사진입니다."
+              },
+              "title": "새만금공항 2심도 제동…\"조류충돌·환경영향 검토 부족\"(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261118120551004",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "새만금 국제공항 기본계획을 취소한 1심 판단이 항소심에서도 유지됐습니다.",
+            "법원은 조류 충돌과 환경 영향을 충분히 검토하지 않았다고 판단했고, 국토교통부는 판결문을 검토해 대응 방향을 정하겠다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "국토교통부의 항소에도 기본계획 취소 판단이 유지됐습니다.",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "saemangeum-airport-plan-lawsuit",
+            "issueTitle": "새만금공항 기본계획 취소 소송",
+            "stage": "결과"
+          },
+          "title": "새만금공항 기본계획, 2심도 취소",
+          "topicKey": "saemangeum-airport-plan-lawsuit",
+          "uncertainty": "항소심 결과이며 상고 여부와 사업의 최종 처리 방향은 확정되지 않았습니다.",
+          "whatChanged": "국토교통부의 항소에도 기본계획 취소 판단이 유지됐습니다.",
+          "whyItMatters": "공항 안전·환경 검토와 대규모 지역 인프라 사업의 추진에 영향을 주는 판결입니다."
+        },
+        {
+          "category": "정치·사회",
+          "emphasis": [
+            "직원 8명의 구속영장을 청구",
+            "법원 판단은 아직 나오지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 구속영장 청구가 이뤄졌습니다. 정확한 접수 시각과 확정된 심문 일정은 확인되지 않았습니다.",
+          "factsHash": "bd0c1d970c2a54186fa0c3daa110f4bd126534f134177f473f63b993f98e33f9",
+          "id": "20261118-pm-election-warrants",
+          "keyFacts": {
+            "법적 단계": "구속영장 청구, 발부 여부 미확인",
+            "청구 대상": "중앙선관위 직원 3명, 시·도 선관위 직원 5명",
+            "특검 제시 혐의": "투표율 허위 입력, 투표록·개표상황표 위변조 등"
+          },
+          "publishedAt": "2026-11-18T15:39:07+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/replay/2026/nw1700/article/__icsFiles/afieldfile/2026/11/18/5news_20261118_170733_1_5_Large.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-18T17:08:00+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "직원 8명에 대한 영장 청구와 투표록·개표상황표·투표율 관련 혐의를 교차확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "특검, 선관위 직원 8명 구속영장 청구",
+              "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6866671_36982.html",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261118120352004",
+          "score": 89.3,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 81,
+            "interest": 88,
+            "recency": 100,
+            "reliability": 94
+          },
+          "scoreReason": "선거 관리 신뢰와 관련된 첫 신병 확보 시도이며 혐의의 사법 판단은 남아 있습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111816890001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-18T15:39:07+09:00",
+              "sourceCheck": {
+                "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+                "facts": [
+                  "중앙선관위 3명·시도선관위 5명에 대한 구속영장 청구와 특검이 제시한 혐의를 확인했습니다."
+                ],
+                "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+              },
+              "title": "특검, '투표율 허위입력·공문서 위변조' 선관위 8명 구속영장(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261118120352004",
+              "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "선관위 특별검사팀이 6·3 지방선거 관련 투표율 허위 입력과 투표록·개표상황표 위변조 혐의로 선관위 직원 8명의 구속영장을 청구했습니다.",
+            "중앙선관위 직원 3명과 시·도 선관위 직원 5명이 대상이며, 구속 여부와 혐의에 대한 법원 판단은 아직 나오지 않았습니다."
+          ],
+          "timeline": {
+            "change": "직원 8명에 대한 구속영장 청구",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "election-commission-special-counsel-2026",
+            "issueTitle": "6·3 지방선거 관련 선관위 특검 수사",
+            "stage": "후속"
+          },
+          "title": "선관위 특검, 직원 8명 구속영장 청구",
+          "topicKey": "election-commission-special-counsel-2026",
+          "uncertainty": "영장 청구 단계로 구속·유죄가 확정되지 않았으며 선거 결과 전체의 조작이 입증됐다는 뜻도 아닙니다.",
+          "whatChanged": "특검이 중앙·지역 선관위 직원 8명에 대한 첫 신병 확보 절차에 들어갔습니다.",
+          "whyItMatters": "선거 관리 기록의 정확성과 선거관리기관의 책임에 관한 수사의 주요 진행입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-19T09:33:18.124963+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "e86882a391dfe98820c5026ae912fc1a63c2ff260a73744fa199f0803281f626",
+  "opensAt": "2026-11-18T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-18T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

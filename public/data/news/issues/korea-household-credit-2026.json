@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "경제",
+      "change": "3분기 말 가계신용 2,030.5조 원, 분기 증가 폭 둔화",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": "2026-11-18T12:00:00+09:00",
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "한국은행의 18일 정오 발표 자료이며 통계 기준은 2026년 3분기 말입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-household-credit",
+      "keyFacts": {
+        "가계신용": "2,030.5조 원, 전분기 대비 9.8조 원 증가",
+        "가계신용 범위": "가계대출과 결제 전 카드 사용액 등 판매신용의 합계",
+        "주택담보대출": "1,202.3조 원, 전분기 대비 9.6조 원 증가",
+        "통계 기준": "2026년 3분기 말"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T12:00:06+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111814810001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T12:00:06+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "가계신용 2,030.5조원·전분기 대비 9.8조원 증가와 주택담보대출 1,202.3조원을 확인했습니다.",
+              "11월 18일 발표한 3분기 말 잠정 통계입니다."
+            ],
+            "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+          },
+          "title": "3분기 가계부채 증가폭 1년반 만에 최소…카드 외상은 급증",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261118077900002",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261118-pm-household-credit",
+      "summary": [
+        "한국은행 잠정 통계에서 3분기 말 가계신용은 2,030.5조 원으로 전분기보다 9.8조 원 늘었습니다.",
+        "증가 폭은 지난해 1분기 이후 가장 작았지만, 주택담보대출은 9.6조 원 늘어 잔액이 처음으로 1,200조 원을 넘었습니다."
+      ],
+      "supersededBy": [],
+      "title": "가계신용 2,030.5조 원, 증가 폭은 둔화",
+      "uncertainty": "잠정 통계로 수정될 수 있습니다. 증가 폭 둔화는 부채 잔액 감소를 뜻하지 않습니다."
+    }
+  ],
+  "id": "korea-household-credit-2026",
+  "schemaVersion": 1,
+  "title": "한국 가계신용",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}

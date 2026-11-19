@@ -13,7 +13,7 @@
       "eventAt": null,
       "eventDate": "2026-11-18",
       "eventEndDate": null,
-      "eventTimeNote": "사건·집계 기준일은 2026-11-18이며 보도 시각과 구분했습니다.",
+      "eventTimeNote": "2026-11-18",
       "eventTimezone": "Asia/Seoul",
       "followUp": null,
       "id": "2026-11-18-am/20261118-am-taean-search",
@@ -25,6 +25,7 @@
       "publishedAt": "2026-11-18T06:52:38+09:00",
       "sources": [
         {
+          "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0002294860_web.jpg",
           "kind": "news",
           "language": "ko",
           "name": "뉴시스",
@@ -38,16 +39,79 @@
       "status": "보도",
       "storyId": "20261118-am-taean-search",
       "summary": [
-        "18일 오전 1시9분 충남 태안 선적의 7.93t급 어선과 연락이 닿지 않는다는 신고가 접수됐습니다. 선박 출입항 시스템상 승선원은 7명으로 파악됐습니다.",
-        "선박은 16일 출항했고 17일 오전 3시 마지막 위치를 보고했습니다. 아침 보도 기준 해경은 경비함정 9척과 항공기 2대 등을 투입해 수색 중이며 구조 결과는 확인되지 않았습니다."
+        "오늘 새벽 태안 선적 어선과 연락이 닿지 않는다는 신고가 들어왔습니다.",
+        "해경이 함정 9척과 항공기 2대 등을 투입했으며, 오전 보도까지 구조 결과는 확인되지 않았습니다."
       ],
       "supersededBy": [],
-      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+      "title": "7명 탄 태안 어선 연락 두절",
       "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
+    },
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "안전",
+      "change": "장비 증강과 중국 공조 요청, 승선원 소재 미확인",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 오후 수색 확대 상황입니다. 미발견 상태는 19:13까지 갱신된 기사 기준이며 21시 현장 상황을 직접 확인한 것은 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "수색 장비가 함정 26척·항공기 8대로 확대됐고 중국에 공조를 요청했으나 승선원 소재는 확인되지 않았습니다.",
+        "editionId": "2026-11-18-am",
+        "storyId": "20261118-am-taean-search"
+      },
+      "id": "2026-11-18-pm/20261118-pm-taean-search",
+      "keyFacts": {
+        "국제 공조": "중국에 수색 협조 요청",
+        "수색 결과": "저녁 보도까지 선체 일부·구명조끼 등 미발견",
+        "수색 장비": "함정 26척·항공기 8대",
+        "승선원": "7명, 한국인 3명·인도네시아인 4명"
+      },
+      "previous": {
+        "editionId": "2026-11-18-am",
+        "storyId": "20261118-am-taean-search"
+      },
+      "publishedAt": "2026-11-18T18:41:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://flexible.img.hani.co.kr/flexible/normal/950/638/imgdb/original/2026/1118/20261118503592.webp",
+          "kind": "news",
+          "language": "ko",
+          "name": "한겨레",
+          "publishedAt": "2026-11-18T18:41:00+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "함선 26척·항공기 8대 투입, 중국 공조 요청과 유류품 미발견을 확인했습니다.",
+              "본문 수정 시각은 19:13으로 기준시각 이전입니다."
+            ],
+            "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+          },
+          "title": "한국인 3명·인도네시아인 4명 탄 어선 실종…해경 16시간째 수색",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1288013.html",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261118-pm-taean-search",
+      "summary": [
+        "해경이 연락이 끊긴 태안 어선 수색에 함정 26척과 항공기 8대를 투입하고 중국에 공조를 요청했습니다.",
+        "저녁 보도까지 선체 일부나 구명조끼를 찾지 못했으며, 승선원 7명의 행방도 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "태안 어선 수색 확대, 중국에 공조 요청",
+      "uncertainty": "구조·사망·침몰 여부가 확인되지 않았습니다. 중국에 공조를 요청한 사실과 중국의 실제 수색 참여는 구분합니다."
     }
   ],
   "id": "taean-search-2026-11",
   "schemaVersion": 1,
   "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
-  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
 }

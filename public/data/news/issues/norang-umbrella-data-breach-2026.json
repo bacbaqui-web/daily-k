@@ -1,0 +1,63 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "사회·정보보호",
+      "change": "유출 규모와 금융·납부정보 포함 사실 구체화",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 정밀조사 결과가 공개됐습니다. 침해 발생일과 결과 공개일은 다르며 발생 시각은 기재하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-norang-breach",
+      "keyFacts": {
+        "유출 규모": "고객·계약정보 36만여 건, 18일 저녁 보도 기준",
+        "통지·조회": "대상자 개별 문자 발송, 홈페이지에서 개인별 항목 조회 안내",
+        "포함 정보": "은행 계좌번호·월부금액·납부일·납부 개월 수·납부 총금액 등"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T17:59:23+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111817523557707_1.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "머니투데이",
+          "publishedAt": "2026-11-18T17:59:23+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "18일 공지를 인용한 고객·계약정보 총 36만여 건, 계좌번호·공제 납부 내역 유출과 개인별 항목 차이를 확인했습니다."
+            ],
+            "image": "원문 og:image의 HTTPS 주소를 확인했습니다.",
+            "officialNotice": "공식 공지 목록은 확인했으나 상세 본문은 접근 오류로 읽지 못했습니다. 구체적인 수치·항목은 공지를 인용한 이 기사로 확인했습니다."
+          },
+          "title": "노란우산 개인정보 36만여건 유출…계좌번호·공제 납부정보 포함",
+          "url": "https://www.mt.co.kr/living/2026/11/18/2026111817523557707",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "보도",
+      "storyId": "20261118-pm-norang-breach",
+      "summary": [
+        "중소기업중앙회가 정밀조사 결과 노란우산 고객·계약정보 36만여 건이 유출됐다고 공개했습니다.",
+        "은행 계좌번호와 공제 납부 내역도 포함됐으며, 가입자는 홈페이지에서 개인별 유출 항목을 확인할 수 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "노란우산 고객·계약정보 36만여 건 유출",
+      "uncertainty": "보도마다 '명'과 '건'의 집계 단위가 달라 고유 피해 인원으로 환산하지 않았습니다. 실제 유출 항목은 개인마다 다릅니다."
+    }
+  ],
+  "id": "norang-umbrella-data-breach-2026",
+  "schemaVersion": 1,
+  "title": "노란우산 개인정보 침해 사고",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}

@@ -1145,10 +1145,10 @@
       "eventAt": null,
       "eventDate": "2026-11-17",
       "eventEndDate": null,
-      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimeNote": "2026-11-17 · 미국 현지",
       "eventTimezone": "America/New_York",
       "followUp": {
-        "delta": "16일 종가 이후 미국 현지 17일의 새로운 마감값을 확인했습니다.",
+        "delta": "17일 미국 증시 마감 소식입니다.",
         "editionId": "2026-11-17-am",
         "storyId": "20261117-am-us-market"
       },
@@ -1164,6 +1164,7 @@
       "publishedAt": "2026-11-18T07:28:40+09:00",
       "sources": [
         {
+          "imageUrl": "https://img7.yna.co.kr/photo/etc/gt/2026/11/17/PGT20261117047101009_P4.jpg",
           "kind": "news",
           "language": "ko",
           "name": "연합뉴스",
@@ -1173,6 +1174,7 @@
           "verifiedAt": "2026-11-18T00:10:52.839570+00:00"
         },
         {
+          "imageUrl": "https://img.etoday.co.kr/pto_db/2026/11/20261118064703_2419261_1200_800.jpg",
           "kind": "news",
           "language": "ko",
           "name": "이투데이",
@@ -1186,11 +1188,11 @@
       "status": "보도",
       "storyId": "20261118-am-us-market",
       "summary": [
-        "미국 현지 17일 정규장에서 다우는 1.64%, S&P500은 1.03%, 나스닥은 0.74% 하락했습니다. 이 결과는 엔비디아 실적 발표 이전의 거래입니다.",
-        "역외 원·달러 1개월 선물환은 금리 차이를 보정하면 전날 서울 오후 3시30분 종가보다 3.55원 낮았습니다. 이는 오늘 서울시장 개장 환율을 뜻하지 않습니다."
+        "다우는 1.64%, S&P500은 1.03%, 나스닥은 0.74% 내렸습니다.",
+        "엔비디아 실적이 나오기 전 마감한 수치입니다."
       ],
       "supersededBy": [],
-      "title": "뉴욕증시 하락…다우 1.64%·S&P500 1.03% 내려",
+      "title": "미국 증시, 주요 지수 모두 하락",
       "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
     },
     {
@@ -1931,5 +1933,5 @@
   "id": "us-equities-chips-rates-oil",
   "schemaVersion": 1,
   "title": "미국 증시의 반도체 실적·금리·유가 반응",
-  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
 }

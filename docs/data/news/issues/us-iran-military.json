@@ -347,10 +347,10 @@
       "eventAt": null,
       "eventDate": "2026-11-17",
       "eventEndDate": null,
-      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimeNote": "2026-11-17",
       "eventTimezone": "Asia/Tehran",
       "followUp": {
-        "delta": "바레인 위협 요격 이후 17일 케슘섬 공습과 새 유가 종가를 확인했습니다.",
+        "delta": "17일 케슘섬 공습이 새로 발표됐습니다.",
         "editionId": "2026-11-16-am",
         "storyId": "20261116-am-int-02"
       },
@@ -366,6 +366,7 @@
       "publishedAt": "2026-11-18T07:37:08+09:00",
       "sources": [
         {
+          "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111807194329530_1.jpg",
           "kind": "news",
           "language": "ko",
           "name": "머니투데이",
@@ -375,6 +376,7 @@
           "verifiedAt": "2026-11-18T00:10:52.831020+00:00"
         },
         {
+          "imageUrl": "https://img5.yna.co.kr/photo/etc/epa/2026/11/16/PEP20261116220901009_P4.jpg",
           "kind": "news",
           "language": "ko",
           "name": "연합뉴스",
@@ -388,12 +390,73 @@
       "status": "보도",
       "storyId": "20261118-am-iran-strike",
       "summary": [
-        "미군은 현지 17일 호르무즈 해협의 이란 케슘섬 미사일 발사시설을 공습했다고 밝혔습니다. 미국은 자국 병력과 자산을 겨냥한 공격에 대응한 조치라고 설명했습니다.",
-        "같은 날 WTI 12월물은 배럴당 86.01달러로 0.34%, 브렌트유 1월물은 93.14달러로 0.76% 상승 마감했습니다. 공습의 목적과 피해 상황은 당사자 설명을 구분해 볼 필요가 있습니다."
+        "미군이 케슘섬의 미사일 발사시설을 공습했다고 밝혔습니다.",
+        "미국은 자국 병력과 자산을 겨냥한 공격에 대응했다고 설명했습니다."
       ],
       "supersededBy": [],
-      "title": "미군, 이란 케슘섬 미사일 시설 공습…국제유가 소폭 상승",
+      "title": "미군, 이란 케슘섬 공습 발표",
       "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
+    },
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "국제",
+      "change": "쿠웨이트 미군 시설 공격 주장과 방공 대응 발표",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "이란군의 18일 현지 발표를 다룬 보도입니다. 공격·방공 대응 시각의 서술이 기사마다 달라 분 단위 발생 시각은 기재하지 않았습니다.",
+      "eventTimezone": "Asia/Kuwait",
+      "followUp": {
+        "delta": "미국의 케슘섬 공습 이후 이란이 쿠웨이트 미군 시설 공격을 발표했고 쿠웨이트군은 방공 대응을 발표했습니다.",
+        "editionId": "2026-11-18-am",
+        "storyId": "20261118-am-iran-strike"
+      },
+      "id": "2026-11-18-pm/20261118-pm-iran-kuwait",
+      "keyFacts": {
+        "공격 발표": "이란군, 쿠웨이트 알리 알살렘 기지 미군 시설 공격 주장",
+        "미군 시설 피해": "확인되지 않음",
+        "쿠웨이트 대응": "군 당국, 드론 공격에 대한 방공망 가동 발표"
+      },
+      "previous": {
+        "editionId": "2026-11-18-am",
+        "storyId": "20261118-am-iran-strike"
+      },
+      "publishedAt": "2026-11-18T13:58:43+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/11/18/jh_20261118_29.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-11-18T13:58:43+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "이란군의 알리 알살렘 기지 공격 발표와 쿠웨이트군의 방공망 가동 발표를 확인했습니다."
+            ],
+            "image": "원문 og:image를 확인했습니다. 테헤란의 전쟁 선전 벽화 사진으로 공격 현장 사진은 아닙니다."
+          },
+          "title": "이란, 미·중·러 정상회담 전날 쿠웨이트 미군기지 타격",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6866602_36925.html",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "주장",
+      "storyId": "20261118-pm-iran-kuwait",
+      "summary": [
+        "이란군이 쿠웨이트 알리 알살렘 공군기지의 미군 드론·미사일 시설을 공격했다고 발표했습니다.",
+        "쿠웨이트군도 드론 공격에 대응해 방공망을 가동했다고 밝혔으며, 미군 시설의 실제 피해 여부는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "이란, 쿠웨이트 미군기지 공격 발표",
+      "uncertainty": "시설 명중·파괴와 사상자 수는 확인되지 않았습니다. 앞선 바레인 공격에 대한 미국의 무피해 설명을 이번 사건에 적용하지 않았습니다."
     },
     {
       "archive": {
@@ -773,5 +836,5 @@
   "id": "us-iran-military",
   "schemaVersion": 1,
   "title": "미국·이란 군사 대응",
-  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
 }

@@ -13,7 +13,7 @@
       "eventAt": null,
       "eventDate": "2026-11-17",
       "eventEndDate": null,
-      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimeNote": "2026-11-17",
       "eventTimezone": "Asia/Seoul",
       "followUp": null,
       "id": "2026-11-18-am/20261118-am-sangju-quake",
@@ -25,6 +25,7 @@
       "publishedAt": "2026-11-18T06:25:44+09:00",
       "sources": [
         {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261118/202241929_1280.jpg",
           "kind": "news",
           "language": "ko",
           "name": "SBS",
@@ -38,16 +39,16 @@
       "status": "보도",
       "storyId": "20261118-am-sangju-quake",
       "summary": [
-        "17일 밤 11시10분 경북 상주 북서쪽 22km에서 규모 3.6 지진이 발생했습니다. 상주·문경과 충북 보은에서는 계기진도 4가 관측됐습니다.",
-        "18일 오전 6시25분 보도 기준 경북소방본부에 피해 신고는 접수되지 않았습니다. 피해가 전혀 없다고 최종 확정된 것으로 확대해서 해석하지 않았습니다."
+        "어젯밤 11시 10분 경북 상주에서 규모 3.6 지진이 발생했습니다.",
+        "오늘 오전 6시 25분 보도까지 경북소방본부에 피해 신고는 없었습니다."
       ],
       "supersededBy": [],
-      "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
+      "title": "상주에서 규모 3.6 지진",
       "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
     }
   ],
   "id": "sangju-quake-2026-11",
   "schemaVersion": 1,
   "title": "경북 상주 규모 3.6 지진…아침 보도 기준 피해 신고 없어",
-  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
 }

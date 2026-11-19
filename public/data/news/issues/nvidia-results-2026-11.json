@@ -13,7 +13,7 @@
       "eventAt": null,
       "eventDate": "2026-11-17",
       "eventEndDate": null,
-      "eventTimeNote": "사건·집계 기준일은 2026-11-17이며 보도 시각과 구분했습니다.",
+      "eventTimeNote": "2026-11-17 · 미국 현지",
       "eventTimezone": "America/New_York",
       "followUp": null,
       "id": "2026-11-18-am/20261118-am-nvidia-results",
@@ -25,6 +25,7 @@
       "publishedAt": "2026-11-18T06:57:00+09:00",
       "sources": [
         {
+          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4445236_357522_422_v150.jpg",
           "kind": "news",
           "language": "ko",
           "name": "연합인포맥스",
@@ -38,16 +39,16 @@
       "status": "보도",
       "storyId": "20261118-am-nvidia-results",
       "summary": [
-        "엔비디아가 미국 현지 17일 장 마감 뒤 발표한 최근 분기 매출은 1,158억4,000만 달러로 전년보다 103% 늘었습니다. 다음 분기 매출 전망은 1,261억~1,339억 달러로 제시했습니다.",
-        "다음 분기 수치는 회사의 전망입니다. 실적 발표 후 주가는 시간외 거래에서 한때 3% 이상 올랐지만, 정규장은 0.44% 하락 마감했습니다."
+        "엔비디아의 분기 매출이 지난해 같은 기간보다 103% 늘었습니다.",
+        "다음 분기에도 매출이 늘 것으로 전망했고, 발표 후 시간외 주가는 한때 3% 넘게 올랐습니다."
       ],
       "supersededBy": [],
-      "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아",
+      "title": "엔비디아 매출, 1년 새 두 배로",
       "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
     }
   ],
   "id": "nvidia-results-2026-11",
   "schemaVersion": 1,
   "title": "엔비디아 분기 매출 103% 증가…다음 분기 매출 전망도 예상 웃돌아",
-  "updatedAt": "2026-11-18T09:22:01.101876+09:00"
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
 }

@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "경제",
+      "change": "올해 3.8%·내년 3.9%로 상향",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 발표한 2026년 하반기 경제전망입니다. 전망 대상은 2026년과 2027년입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-kdi-outlook",
+      "keyFacts": {
+        "2026년 전망": "3.2%에서 3.8%로 상향",
+        "2027년 전망": "2.2%에서 3.9%로 상향",
+        "주요 위험": "미국 AI 데이터센터 건설 지연·축소와 AI 인프라 투자 위축"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T12:00:01+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/cms/2021/03/10/16/PCM20210310000116990_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T12:00:01+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "올해 3.8%·내년 3.9% 전망, 8월 대비 상향 폭과 AI 인프라 투자 위축 위험을 확인했습니다."
+            ],
+            "image": "원문 og:image를 확인했습니다. KDI 청사 자료사진입니다."
+          },
+          "title": "KDI, 내년 성장률 2.2→3.9%로 상향…\"성장의 3분의 2가 반도체\"",
+          "url": "https://www.yna.co.kr/view/AKR20261118092700002",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "분석",
+      "storyId": "20261118-pm-kdi-outlook",
+      "summary": [
+        "KDI가 올해 성장률 전망을 3.8%, 내년 전망을 3.9%로 높였습니다.",
+        "반도체 수출·투자 호조를 반영했지만, AI 인프라 투자가 빠르게 위축되면 성장률이 크게 낮아질 수 있다고 경고했습니다."
+      ],
+      "supersededBy": [],
+      "title": "KDI, 내년 성장률 전망 3.9%로 상향",
+      "uncertainty": "연간 성장률 확정 실적이 아닌 KDI 전망이며 AI 투자와 반도체 수요 변화에 따라 달라질 수 있습니다."
+    }
+  ],
+  "id": "kdi-growth-outlook-2026",
+  "schemaVersion": 1,
+  "title": "KDI 한국 경제성장률 전망",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}

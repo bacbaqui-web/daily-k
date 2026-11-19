@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-18/pm.json",
+      "category": "외교·경제",
+      "change": "시장 개방·최혜국대우 합의, 일부 기술적 문안 협의는 잔존",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "coveredOn": "2026-11-18",
+      "edition": "pm",
+      "editionDate": "2026-11-18",
+      "editionId": "2026-11-18-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 중국 선전 한중 정상회담에서 타결을 선언했습니다. 선언의 정확한 시각은 기재하지 않았습니다.",
+      "eventTimezone": "Asia/Shanghai",
+      "followUp": null,
+      "id": "2026-11-18-pm/20261118-pm-korea-china-fta",
+      "keyFacts": {
+        "남은 절차": "일부 기술적 문안 실무 협의",
+        "콘텐츠 조건": "영화·게임 분야 등에서 제3국보다 불리하지 않은 최혜국대우",
+        "합의 단계": "서비스·투자 후속협상 실질 타결"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-18T19:20:04+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111812210001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-18T19:20:04+09:00",
+          "sourceCheck": {
+            "access": "기존 조사에서 원문 본문과 HTML 메타데이터에 접근해 읽었습니다.",
+            "facts": [
+              "서비스·투자 후속협상 실질 타결, 영화·게임 최혜국대우와 남은 기술적 문안 협의를 확인했습니다."
+            ],
+            "image": "원문 og:image의 HTTPS 주소를 확인했습니다."
+          },
+          "title": "K-영화·게임, 중국서 최혜국대우…한한령 빗장 풀리나(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261118152451003",
+          "verifiedAt": "2026-11-19T09:28:23.214550+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "20261118-pm-korea-china-fta",
+      "summary": [
+        "한국과 중국이 서비스·투자 분야 자유무역협정 후속협상의 실질 타결을 선언했습니다.",
+        "영화·게임 등에서 한국을 제3국보다 불리하지 않게 대우하기로 했지만, 일부 기술적 문안은 추가 협의하기로 했습니다."
+      ],
+      "supersededBy": [],
+      "title": "한중 FTA 서비스·투자 협상 실질 타결",
+      "uncertainty": "일부 문안 협의가 남아 있으며 즉시 발효나 한한령 전면 해제가 확인된 것은 아닙니다."
+    }
+  ],
+  "id": "korea-china-fta-services-investment",
+  "schemaVersion": 1,
+  "title": "한중 FTA 서비스·투자 후속협상",
+  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+}
