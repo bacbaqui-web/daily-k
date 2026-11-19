@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T03:12:12.766093+00:00",
+  "collectedAt": "2026-11-19T03:13:48.156327+00:00",
   "windowEnd": "2026-11-19T12:12:12.381917+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5760,6 +5760,114 @@
       "firstPublishedAt": "2026-11-18T08:44:31.594406+00:00"
     },
     {
+      "id": "aagag-1670844-0",
+      "url": "https://aagag.com/issue/?idx=1670844",
+      "source": "애객",
+      "title": "1952년식 일체형 가스렌지로 아침식사 만들기",
+      "publishedAt": "2026-11-19T11:54:28+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": "Cooking breakfast on a 1952 stove \n▶음량조절 해주세요"
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6Sba.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6Sba.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "Cooking breakfast on a 1952 stove \n▶음량조절 해주세요",
+      "reportedCommentCount": 15,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 15,
+      "laughingComments": 4,
+      "score": 17,
+      "kPerComment": 1.1333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9001053",
+          "text": "설거지 걱정부터 하게되네 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001083",
+          "text": "저 부분은 분리가 되나?ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001059",
+          "text": "와.. 근데 진짜 낭만이네"
+        },
+        {
+          "id": "9001061",
+          "text": "나도 보면서 '설거지는?' 하고 있었..ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001064",
+          "text": "쥐생김"
+        },
+        {
+          "id": "9001066",
+          "text": "와 한번쯤 써보고 싶다"
+        },
+        {
+          "id": "9001071",
+          "text": "아니 팬케잌 구운 뚜껑 판을 닦지도 않고 걍 들어버리네;;"
+        },
+        {
+          "id": "9001072",
+          "text": "직접 음식이 올라가는 후라이팬처럼 사용하는 부분들은 탈착이 되는듯?한데 그래도 기름때문에 관리하기 쉽지 않아보임 ㅋ"
+        },
+        {
+          "id": "9001073",
+          "text": "저 한접시가 1인분인가?"
+        },
+        {
+          "id": "9001074",
+          "text": "뒤로 얼마나 떨어질지 감도 안옴"
+        },
+        {
+          "id": "9001077",
+          "text": "수평상태로 들리는거였으면 좋앗겠다 ㅎ"
+        },
+        {
+          "id": "9001078",
+          "text": "문신이 참.."
+        },
+        {
+          "id": "9001095",
+          "text": "연료 낭비 줄이는 관점에서 아이디어는 좋긴 한데.. 저 일체형처럼 보이는 플레이트들은 다 분리세척이 되는거겠지?"
+        },
+        {
+          "id": "9001105",
+          "text": "세척이 안되면 52년부터 쓴게 어떻게 저렇게 깨끗이 관리됐겠어요들"
+        },
+        {
+          "id": "9001108",
+          "text": "설거지부터 걱정2222"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T12:13:41.008057+09:00",
+      "sourceTitles": [
+        "1952년 서양의 주방 도구",
+        "화덕겸 후라이팬 기능이 있는 1952년 가스렌지",
+        "1952년식 일체형 가스렌지로 아침식사 만들기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-19T03:13:48.000659+00:00",
+      "collectedAt": "2026-11-19T12:13:48.000679+09:00",
+      "firstPublishedAt": "2026-11-19T03:13:48.213402+00:00"
+    },
+    {
       "id": "aagag-1213204-0",
       "url": "https://aagag.com/issue/?idx=1213204",
       "source": "애객",
@@ -10142,7 +10250,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
