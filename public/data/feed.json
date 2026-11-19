@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T13:29:46.564460+00:00",
+  "collectedAt": "2026-11-19T13:30:46.636979+00:00",
   "windowEnd": "2026-11-19T22:29:46.455515+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5377,6 +5377,86 @@
       "firstPublishedAt": "2026-11-19T08:31:02.307421+00:00"
     },
     {
+      "id": "aagag-1671046-0",
+      "url": "https://aagag.com/issue/?idx=1671046",
+      "source": "애객",
+      "title": "공정한 시험을 위한 대책",
+      "publishedAt": "2026-11-19T22:20:15+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L698T.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L698V.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "운동좀 해야겠다"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L698T.webp",
+        "https://i.aagag.com/o/L698V.webp"
+      ],
+      "videos": [],
+      "excerpt": "운동좀 해야겠다",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 8,
+      "commentCount": 7,
+      "laughingComments": 2,
+      "score": 8,
+      "kPerComment": 1.1428571428571428,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9003804",
+          "text": "감독관은 왜벗음 ㅋㅋㅋ"
+        },
+        {
+          "id": "9003808",
+          "text": "승부속옷이라서요"
+        },
+        {
+          "id": "9003812",
+          "text": "인도냐 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9003813",
+          "text": "항문검사도 해줘잉"
+        },
+        {
+          "id": "9003820",
+          "text": ""
+        },
+        {
+          "id": "9003814",
+          "text": "오?수영복 시험이라!"
+        },
+        {
+          "id": "9003828",
+          "text": "좋소 당장 합시다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T22:30:32.818094+09:00",
+      "sourceTitles": [
+        "AI 부정 행위 방지 검사가 적용된 미래의 시험장 풍경.jpg",
+        "ㅇㅎ) 미래의 시험",
+        "공정한 시험을 위한 대책",
+        "공정한 시험을 위한 대책",
+        "공정한 시험을 위한 대책"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-19T13:30:46.568617+00:00",
+      "collectedAt": "2026-11-19T22:30:46.568634+09:00",
+      "firstPublishedAt": "2026-11-19T13:30:46.666722+00:00"
+    },
+    {
       "id": "aagag-1671032-0",
       "url": "https://aagag.com/issue/?idx=1671032",
       "source": "애객",
@@ -5941,7 +6021,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
