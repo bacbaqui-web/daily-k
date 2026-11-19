@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T05:21:08.910099+00:00",
+  "collectedAt": "2026-11-19T05:24:11.172270+00:00",
   "windowEnd": "2026-11-19T14:21:08.787536+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3992,6 +3992,66 @@
       "sourceTitlesFetchedAt": "2026-11-19T03:57:36.555747+00:00",
       "collectedAt": "2026-11-19T12:57:36.555765+09:00",
       "firstPublishedAt": "2026-11-19T03:57:36.666753+00:00"
+    },
+    {
+      "id": "aagag-1670892-0",
+      "url": "https://aagag.com/issue/?idx=1670892",
+      "source": "애객",
+      "title": "리트냥이 오늘 행적 무한도전으로 요약.jpg",
+      "publishedAt": "2026-11-19T14:06:42+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6Xrx.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "런"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6Xrx.webp"
+      ],
+      "videos": [],
+      "excerpt": "런",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 19,
+      "kPerComment": 6.333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9001771",
+          "text": "지옥의 불구덩이 ㅋㅋ"
+        },
+        {
+          "id": "9001785",
+          "text": "통과를못하고 불타버린거네"
+        },
+        {
+          "id": "9001808",
+          "text": "없없무 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T14:24:03.281297+09:00",
+      "sourceTitles": [
+        "없는게 없는 무한도전 리트냥이 사태 예견",
+        "리트냥이 오늘 행적 무한도전으로 요약.jpg",
+        "리트냥이 오늘 행적 무한도전으로 요약.jpg",
+        "리트냥이 오늘 행적 무한도전으로 요약.jpg",
+        "리트냥이 오늘 행적 무한도전으로 요약.jpg",
+        "리트냥이 오늘 행적 무한도전으로 요약.jpg",
+        "리트냥이 오늘 행적 무한도전으로 요약.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-19T05:24:11.096396+00:00",
+      "collectedAt": "2026-11-19T14:24:11.096414+09:00",
+      "firstPublishedAt": "2026-11-19T05:24:11.202844+00:00"
     },
     {
       "id": "aagag-1085202-1",
@@ -9180,7 +9240,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
