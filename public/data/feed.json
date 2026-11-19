@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T07:46:49.550897+00:00",
+  "collectedAt": "2026-11-19T07:49:52.509745+00:00",
   "windowEnd": "2026-11-19T16:46:49.231778+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6536,6 +6536,83 @@
       "firstPublishedAt": "2026-11-19T05:24:50.068764+00:00"
     },
     {
+      "id": "aagag-1670954-0",
+      "url": "https://aagag.com/issue/?idx=1670954",
+      "source": "애객",
+      "title": "대충 국힙 97프로 정리한 존박 새로운 랩.mp4",
+      "publishedAt": "2026-11-19T16:27:13+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6V3b.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "톤이 그냥 미쳤네"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6V3b.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "톤이 그냥 미쳤네",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 7,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 1.5714285714285714,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9002537",
+          "text": "점점 실력이 오르네 국힙 99% 정리한듯?"
+        },
+        {
+          "id": "9002542",
+          "text": "국힘도 정리해줘"
+        },
+        {
+          "id": "9002544",
+          "text": "형 이제 대놓고 속마음을 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9002552",
+          "text": "저 안경쓴사람은 힙합좀 치는사람인가?"
+        },
+        {
+          "id": "9002557",
+          "text": "비프리 입니다"
+        },
+        {
+          "id": "9002554",
+          "text": "저음 미쳤네 ㅋㅋㅋ"
+        },
+        {
+          "id": "9002585",
+          "text": "에미넴 stan이랑 느낌이 비슷하네, 근데 stan이 진짜 뀨뀨명곡은 맞나보네 비슷할뿐이지 분위기에서 상대가 안됨"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T16:49:41.369286+09:00",
+      "sourceTitles": [
+        "존박의 제대로 각잡고 하는 랩 맛보기",
+        "🎤  존박의 재즈힙합 맛보기",
+        "대충 국힙 97프로 정리한 존박 새로운 랩.mp4",
+        "대충 국힙 97프로 정리한 존박 새로운 랩.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-19T07:49:52.423620+00:00",
+      "collectedAt": "2026-11-19T16:49:52.423639+09:00",
+      "firstPublishedAt": "2026-11-19T07:49:52.632268+00:00"
+    },
+    {
       "id": "aagag-711988-0",
       "url": "https://aagag.com/issue/?idx=711988",
       "source": "애객",
@@ -8343,7 +8420,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
