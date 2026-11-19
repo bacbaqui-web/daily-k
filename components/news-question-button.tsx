@@ -23,11 +23,11 @@ export function NewsReaderActions({brief,story,sharePath,recordStatus}:{brief:Ne
  function closeManual(){setState('idle');button.current?.focus()}
  return <div className="news-question-control">
   <span className="news-copy-buttons">
-   <button type="button" className="news-question-button" title="이 뉴스의 링크 복사" onClick={e=>copy('share',e.currentTarget)} disabled={state==='copying'}>{state==='copying'&&action==='share'?'복사 중…':'공유하기'}</button>
-   <button type="button" className="news-question-button" title="ChatGPT에 붙여넣을 뉴스 내용과 출처 복사" onClick={e=>copy('question',e.currentTarget)} disabled={state==='copying'}>{state==='copying'&&action==='question'?'복사 중…':'질문하기'}</button>
+   <button type="button" className="news-question-button" title="이 뉴스의 링크 복사" onClick={e=>copy('share',e.currentTarget)} disabled={state==='copying'}>{state==='copying'&&action==='share'?'복사 중…':'링크 복사'}</button>
+   <button type="button" className="news-question-button" title="ChatGPT에 붙여넣을 뉴스 내용과 출처 복사" onClick={e=>copy('question',e.currentTarget)} disabled={state==='copying'}>{state==='copying'&&action==='question'?'복사 중…':'내용 복사'}</button>
   </span>
   {state==='copied'&&action==='question'&&<a className="news-chatgpt-link" href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">ChatGPT 열기 ↗</a>}
-  {notice&&<p className="news-copy-notice" role="status" aria-live="polite">{action==='share'?'링크주소가 복사됐습니다.':<>뉴스가 복사됐습니다.<br/>ChatGPT에 붙여넣고 질문을 입력하세요.</>}</p>}
+  <p className="news-copy-notice" role="status" aria-live="polite">{notice&&<>{action==='share'?'링크주소가 복사됐습니다.':<>뉴스가 복사됐습니다.<br/>대화창에 붙여 넣고 질문하세요.</>}</>}</p>
   {state==='manual'&&<div className="news-copy-manual" role="group" aria-label={action==='share'?'뉴스 링크 직접 복사':'질문할 뉴스 직접 복사'} onKeyDown={e=>{if(e.key==='Escape'){e.stopPropagation();closeManual()}}}>
    <p>자동 복사가 되지 않았습니다. 아래 {action==='share'?'주소를':'내용을'} 직접 복사해 주세요.</p>
    <textarea ref={manual} aria-label={action==='share'?'공유할 뉴스 링크':'ChatGPT에 붙여넣을 뉴스'} value={action==='share'?shareUrl:prompt} readOnly onFocus={e=>e.currentTarget.select()}/>

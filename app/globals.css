@@ -269,3 +269,11 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .github-hero{margin:0;padding-block-start:1rem}
 .github-hero a{display:grid;place-items:center;aspect-ratio:16/7;inline-size:100%;border-radius:.5rem;background:var(--muted)}
 .github-hero img{display:block;inline-size:100%;block-size:100%;min-block-size:0;object-fit:contain;aspect-ratio:16/7;border-radius:inherit}
+
+/* News copy controls remain visible beneath each article. */
+.news-full-content .news-question-control{display:flex;justify-content:flex-start;position:relative;margin-top:.75rem;gap:.5rem}
+.news-full-content .news-question-button{font:inherit;font-size:.75rem;color:var(--news-accent);background:transparent;border:1px solid currentColor;border-radius:.375rem;padding:.375rem .625rem;min-block-size:2rem;min-inline-size:2rem;cursor:pointer}
+.news-full-content .news-copy-notice{position:static;transform:none;background:none;color:inherit;box-shadow:none;padding:0;margin:0;font-size:.75rem;max-width:100%;width:auto;text-align:left}
+.news-full-content .news-copy-notice:empty{display:block}
+.news-full-content .news-copy-manual{flex-basis:100%;min-width:0}
+.news-full-content .news-copy-manual textarea{display:block;width:100%;min-height:12rem;font:inherit}

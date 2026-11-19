@@ -4,6 +4,7 @@ import {useEffect,useState} from 'react';
 import {editionLabel,emphasisParts,isNewsBrief,isNewsIndex,koreaTime,newsLink,type Edition,type NewsIndex,type NewsSource,type NewsStory,type NewsBrief} from '../lib/news';
 import {combineBriefings,type NewsView,type NewsViewStory} from '../lib/news-view';
 import {type Correction} from '../lib/live';
+import {NewsReaderActions} from './news-question-button';
 import {RecordCorrections} from './record-corrections';
 
 function ArticleImage({item}:{item:NewsSource}){
@@ -46,7 +47,7 @@ function NewsStories({brief,corrections=[]}:{brief:NewsView;liveRecord?:string;c
    <small className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</small>
    <hgroup className="post-main"><p className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span></p><h2 className="news-story-title" id={`news-${s.id}`}>{s.title}</h2></hgroup>
   </section>
-  <section className="news-full-content" aria-labelledby={`news-${s.id}`}><RecordCorrections items={corrections.filter(c=>c.itemId===s.id)}/><NewsDetails story={s} brief={brief}/></section>
+  <section className="news-full-content" aria-labelledby={`news-${s.id}`}><RecordCorrections items={corrections.filter(c=>c.itemId===s.id)}/><NewsDetails story={s} brief={brief}/><NewsReaderActions brief={brief} story={s}/></section>
  </article></li>)}</ol>;
 }
 function NewsClosing({brief}:{brief:NewsView}){return <>
