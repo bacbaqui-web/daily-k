@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T12:44:15.558508+00:00",
+  "collectedAt": "2026-11-19T12:48:31.865690+00:00",
   "windowEnd": "2026-11-19T21:44:15.439652+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2784,6 +2784,71 @@
       "firstPublishedAt": "2026-11-19T07:28:13.170630+00:00"
     },
     {
+      "id": "aagag-1671035-0",
+      "url": "https://aagag.com/issue/?idx=1671035",
+      "source": "애객",
+      "title": "GTA6 노인 학대 미션 ㅋㅋㅋㅋㅋ",
+      "publishedAt": "2026-11-19T21:28:52+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6dCy.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6dCy.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 5,
+      "laughingComments": 3,
+      "score": 18,
+      "kPerComment": 3.6,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9003621",
+          "text": "어... 음... 어..."
+        },
+        {
+          "id": "9003628",
+          "text": "안 타셔도 되겠는데? ㅋㅋㅋ 도가니 멀쩡 하신데? ㅋㅋㅋ"
+        },
+        {
+          "id": "9003631",
+          "text": "아 마지막에 보니 아닌가"
+        },
+        {
+          "id": "9003634",
+          "text": "생각보다 잘 따라오시긴 하는데 ㅋㅋ"
+        },
+        {
+          "id": "9003638",
+          "text": "할매 잘뛰네 ㅋㅋㅋㅋㅋㅋ 그래 뛰어야 휠체어 더 안타지 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T21:48:11.293697+09:00",
+      "sourceTitles": [
+        "GTA6 노인 학대 미션 ㅋㅋㅋㅋㅋ",
+        "GTA6 노인 학대 미션 ㅋㅋㅋㅋㅋ",
+        "GTA6 노인학대도 가능했었네",
+        "GTA6 노인 학대 미션 ㅋㅋㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-19T12:48:31.690453+00:00",
+      "collectedAt": "2026-11-19T21:48:31.690470+09:00",
+      "firstPublishedAt": "2026-11-19T12:48:31.895568+00:00"
+    },
+    {
       "id": "aagag-328840-0",
       "url": "https://aagag.com/issue/?idx=328840",
       "source": "애객",
@@ -5501,7 +5566,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
