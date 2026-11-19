@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-20",
-  "collectedAt": "2026-11-19T20:08:06.043070+00:00",
+  "collectedAt": "2026-11-19T20:11:12.345888+00:00",
   "windowEnd": "2026-11-20T05:08:05.686843+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5584,59 +5584,10 @@
       "sourceTitlesFetchedAt": "2026-11-19T03:56:59.235543+00:00",
       "collectedAt": "2026-11-19T12:56:59.235561+09:00",
       "firstPublishedAt": "2026-11-19T03:56:59.508906+00:00"
-    },
-    {
-      "id": "aagag-1670742-0",
-      "url": "https://aagag.com/issue/?idx=1670742",
-      "source": "애객",
-      "title": "시간정지물..",
-      "publishedAt": "2026-11-19T04:53:03+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L60u9.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L60u9.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8999654",
-          "text": "정지했는데 왜 그냥 푸나요? 빙시네 이거"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-19T05:10:58.133548+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 수요일 좋아 !!",
-        "시간 정지당한 누나",
-        "시간정지물..",
-        "ㅇㅎ) 월요일 좋아 !!"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-18T20:11:07.395345+00:00",
-      "collectedAt": "2026-11-19T05:11:07.395360+09:00",
-      "firstPublishedAt": "2026-11-18T20:11:07.525251+00:00"
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
