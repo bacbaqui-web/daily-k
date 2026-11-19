@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T03:56:04.065522+00:00",
+  "collectedAt": "2026-11-19T03:56:59.304610+00:00",
   "windowEnd": "2026-11-19T12:56:03.770590+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9494,6 +9494,58 @@
       "firstPublishedAt": "2026-11-18T12:17:35.863507+00:00"
     },
     {
+      "id": "aagag-1670866-0",
+      "url": "https://aagag.com/issue/?idx=1670866",
+      "source": "애객",
+      "title": "ㅇㅎ) GTA6 인게임샷",
+      "publishedAt": "2026-11-19T12:54:45+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/Krtbh.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "씨발 오늘 한번 죽어보자"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/Krtbh.webp"
+      ],
+      "videos": [],
+      "excerpt": "씨발 오늘 한번 죽어보자",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9001326",
+          "text": "죽이네 허미"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T12:56:49.885205+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) GTA6 인게임샷",
+        "GTA6 메타스코어에 이어 오픈크리틱도 99점 달성",
+        "ㅇㅎ) GTA6 인게임샷",
+        "ㅇㅎ) GTA6 인게임샷",
+        "ㅇㅎ] 어흐어흐 GTA6 유출된 여캐 모델링.JPG",
+        "어흐어흐 GTA6 유출된 여캐 모델링.JPG",
+        "GTA로보는 미국식미녀의 기준"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-19T03:56:59.235543+00:00",
+      "collectedAt": "2026-11-19T12:56:59.235561+09:00",
+      "firstPublishedAt": "2026-11-19T03:56:59.508906+00:00"
+    },
+    {
       "id": "aagag-1670742-0",
       "url": "https://aagag.com/issue/?idx=1670742",
       "source": "애객",
@@ -9625,7 +9677,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
