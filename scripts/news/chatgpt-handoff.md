@@ -6,18 +6,19 @@
 
 - Oracle daily-k-news.timer의 09:00/21:00 KST 일정은 유지한다.
 - 서비스의 chatgpt-handoff.conf에서 실행 명령만 web_handoff.py --queue로 바꾼다. 기존 조사기는 호출하지 않는다.
-- Mac Codex automation-2가 실제 요청/수신/검증/전달을 수행한다. Mac과 앱이 실행 가능하고 ChatGPT 세션이 유효해야 한다. 서버 단독으로 ChatGPT 웹을 제어하지 않는다.
+- ChatGPT 독립 예약이 작성하고 Mac Codex automation-2가 수신/검증/전달을 수행한다. Mac과 앱이 실행 가능하고 ChatGPT 세션이 유효해야 한다. 서버 단독으로 ChatGPT 웹을 제어하지 않는다.
 - 로그인/도구 오류, 응답 지연, 검증 실패는 해당 회차 상태에 기록한다. 다른 방식으로 몰래 생성하거나 검증을 생략하지 않는다. 기존 게시 결과는 보존한다.
 
-## 요청·수신
+## 예약 작성·수신 (2026-11-19 변경)
 
-1. 원격 Git과 실서비스 회차 JSON, delivery.json, Discord news-sent.json을 먼저 대조한다. 이미 발행한 회차는 요청하지 않는다. 다른 작업이 run.lock을 잡았으면 기다린다.
-2. `state/ID/awaiting-chatgpt.json`의 cutoffAt을 고정한다. 없으면 회차 ID의 09:00 또는 21:00 KST를 사용한다. 생성/검증 시각은 실제 시각이다.
-3. `scripts/news/chatgpt-news-prompt.txt`의 문구를 바꾸지 않는다. 앞에만 기준 날짜·오전/오후·KST cutoff 및 실제 웹 검색, 예약 생성 금지를 명시한다. 회차 식별자 `[DailyK:YYYY-MM-DD-am|pm]`를 넣는다.
-4. ChatGPT 대화 `6afa77d2-bbfc-83e8-a46a-c0c438bfe58b`를 사용한다. 앱의 send_message_to_thread/read_thread를 우선한다. 모델은 임의 변경하지 않는다. 브라우저 세션 쿠키나 비밀번호를 파일에 저장하지 않는다.
-5. 보내기 전에 원격 회차 폴더에 chatgpt-request.json(회차, cutoff, 요청문, conversationUrl, status=submitting, startedAt)을 배타적 생성한다. 이미 있으면 대화를 먼저 확인한다. 전송 뒤 sent 상태와 실제 시각을 기록한다. 도구 성공 응답만으로 답변 완료라고 판단하지 않는다. 회차 표식이 붙은 새 사용자 메시지와 그 뒤 완성된 답변이 필요하다.
-6. 상태 조회가 오래된 답변을 돌려주면 ChatGPT UI에서 읽기 전용으로 새 메시지를 확인한다. 전송 여부 불명확하면 재전송하지 않는다. 60초 이하 간격, 최대 45분 기다리고 pending이면 다음 실행에서 이어간다.
-7. 원문 답변과 출처 링크를 chatgpt-response.txt에 보존한다. 질문별 요청 상태로 중복 요청을 방지한다.
+- ChatGPT 예약 `Daily K 뉴스 미리 작성` (`6a31e566a71c8191a20e859d3beb8c72`)이 Asia/Seoul 매일 08:30/20:30에 작성한다. 다른 뉴스 예약은 일시 정지 상태를 유지한다.
+- Codex automation-2는 09:00/21:00에 완성본을 가져와 검증·발행한다. 정기 실행에서 새 작성 요청을 보내지 않는다.
+- https://chatgpt.com/scheduled 에서 해당 예약의 최신 실행을 연다. 기존 결과 위치는 https://chatgpt.com/c/6a976870-e530-83e9-80ba-53bf5fb18ac2?automationId=6a31e566a71c8191a20e859d3beb8c72 이다. 실행별 대화가 바뀔 수 있으므로 날짜·editionId·[DailyK:ID]를 대조한다.
+- `researchCutoffAt`은 실제 08:30/20:30 조사 기준이고 `cutoffAt` 09:00/21:00은 기존 발행 회차 기준이다. 조사 범위를 정각까지로 과장하지 않는다. 원문·실제 수신 시각·예약 실행 URL을 state/ID에 보존한다.
+- 결과가 작성 중이면 60초 이하 간격으로 최대 45분 확인한다. 없거나 실패하면 근거를 기록하며 중복 작성 요청은 하지 않는다. 사실·형식 오류 수정만 결과 대화에 요청할 수 있다.
+- 이미 발행된 회차는 재발행하지 않는다. 기존 잠금·operationId·승인 기록·검증·배달 확인은 유지한다.
+- 전환 전 이미 보낸 2026-11-19-am 요청은 대화 `6afa77d2-bbfc-83e8-a46a-c0c438bfe58b`에서 수신을 이어간다.
+- ChatGPT 예약의 향후 실제 실행과 자동 수신은 첫 실행 후 별도로 확인한다. Codex 수신에는 Mac과 앱이 실행 가능해야 한다.
 
 ## 검증과 변환
 
@@ -53,13 +54,3 @@ python3 scripts/news/web_handoff.py --payload /home/ubuntu/daily-k-news/state/ID
 앱 메시지 도구의 전송과 웹 화면의 응답을 2026-11-16에 확인했다. 이것은 서버 무인 브라우저 운용이나 향후 세션·예약 성공을 보장하지 않는다. 웹 UI의 자동 추출을 별도 크롤러로 구현하지 않는다. ChatGPT 약관의 자동 추출 제한과 모델별 한도는 별도이며 API 요금과 혼동하지 않는다.
 
 전환 전 실행 명령은 /usr/bin/python3 scripts/news/oracle_runner.py. 되돌릴 때는 이 서비스의 chatgpt-handoff.conf만 제거하고 daemon-reload하며 automation-2도 이전 확인 전용 역할로 되돌려 경쟁 실행을 막는다. 다른 서비스·타이머를 변경하지 않는다.
-
-## 기사 사진
-
-원문 검증 시 og:image 또는 twitter:image의 대표 사진 주소도 확인한다. 실제 이미지 응답이 열리는 HTTPS 주소만 sources와 relatedArticles의 imageUrl에 함께 저장한다. 사진을 확인하지 못하면 주소를 만들지 않고 언론사 이름으로 표시한다. 이미지 추가는 기사 사실·승인 시각을 바꾸지 않는다.
-
-## 2026-11-18 완성본 직접 전달
-
-사용자 승인으로 요청문을 v2로 교체했다. 매번 저장된 최신 chatgpt-news-prompt.txt를 읽고 회차·cutoff·이전 7일 대표/추가/예비 기사 요약을 붙여 요청한다. 이전의 분야별 수량이나 웹툰 강제 규칙은 적용하지 않는다. ChatGPT가 제목·summary·emphasis를 완성하며 Codex는 다시 쓰지 않는다. JSON 결과와 원문 답변을 보존하고, 기존 공개 schema에 필요한 회차 메타데이터·실제 검증시각·해시만 연결한다. 제목·본문·강조 구절을 변환 전후 동일 비교한다. 형식 오류·출처 불일치·중복은 근거와 함께 같은 ChatGPT 대화에 수정 요청하며, 임의 문장 보충이나 직접 재작성은 하지 않는다. 사진 주소가 null이면 원문의 대표사진 메타데이터를 수신 측에서 확인해 보충할 수 있다. 뉴스 내용·순서·강조는 변경하지 않는다.
-
-기존 사실/보도일/사건일/중복 검사, 승인 digest, cutoff, operationId, 발행 잠금, 실제 홈페이지/Discord 게시 확인은 유지한다. 검사를 통과하지 못하면 게시하지 않는다. 웹 UI는 분야 색·간결한 본문·강한 핵심 강조·가로 기사 출처 카드를 그대로 사용한다. Discord는 상위 3개 제목과 전체 뉴스 링크만 표시한다. 현재 회차를 다시 생성하거나 재전송하지 않는다.
