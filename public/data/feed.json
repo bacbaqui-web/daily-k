@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T20:23:20.185747+09:00",
-  "windowEnd": "2026-11-19T20:12:22.019944+09:00",
+  "collectedAt": "2026-11-19T11:33:45.493387+00:00",
+  "windowEnd": "2026-11-19T20:33:45.190036+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3997,84 +3997,6 @@
       "firstPublishedAt": "2026-11-18T12:34:38.482554+00:00"
     },
     {
-      "id": "aagag-1670667-0",
-      "url": "https://aagag.com/issue/?idx=1670667",
-      "source": "애객",
-      "title": "삶이 무료하면 리트리버 키우라는 견주",
-      "publishedAt": "2026-11-18T20:06:35+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6HwJ.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6HwJ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 8,
-      "commentsPartial": false,
-      "kCount": 14,
-      "commentCount": 8,
-      "laughingComments": 2,
-      "score": 14,
-      "kPerComment": 1.75,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8998679",
-          "text": "이 리트리버는 삶을 유료로 바꿔줍니다!"
-        },
-        {
-          "id": "8998687",
-          "text": "크아악 춘식아"
-        },
-        {
-          "id": "8998688",
-          "text": "저 정도로 무료하진 않았을텐데..?"
-        },
-        {
-          "id": "8998692",
-          "text": "이제 삶이 유료하네 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8998695",
-          "text": "어렸을 때만 잘 버티면 된다 나이 좀만 들면 얌전해짐"
-        },
-        {
-          "id": "8998701",
-          "text": "거실에 첫눈이 일찍 왔네요"
-        },
-        {
-          "id": "8998739",
-          "text": "리트리버 천사견이라매 아오 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8998745",
-          "text": "리트리버보단 리트냥이가 요새 더 핫한데"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-18T20:26:15.732604+09:00",
-      "sourceTitles": [
-        "삶이 무료하면 키우라는 리트리버 견주.mp4",
-        "삶이 무료하면 리트리버 키우라는 견주.mp4",
-        "삶이 무료하면 리트리버 키우라는 견주",
-        "삶이 무료하면 리트리버 키우라는 견주",
-        "삶이 무료하면 리트리버 키우라는 견주 ㅋㅋㅋㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-18T11:26:25.332841+00:00",
-      "collectedAt": "2026-11-18T20:26:25.332857+09:00",
-      "firstPublishedAt": "2026-11-18T11:26:25.461312+00:00"
-    },
-    {
       "id": "aagag-1670833-0",
       "url": "https://aagag.com/issue/?idx=1670833",
       "source": "애객",
@@ -6312,9 +6234,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 371,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
