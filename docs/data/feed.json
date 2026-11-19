@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T04:59:19.092899+00:00",
+  "collectedAt": "2026-11-19T05:02:46.294033+00:00",
   "windowEnd": "2026-11-19T13:59:18.974321+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3943,6 +3943,81 @@
       "sourceTitlesFetchedAt": "2026-11-19T04:24:37.408688+00:00",
       "collectedAt": "2026-11-19T13:24:37.408704+09:00",
       "firstPublishedAt": "2026-11-19T04:24:37.529346+00:00"
+    },
+    {
+      "id": "aagag-1356165-0",
+      "url": "https://aagag.com/issue/?idx=1356165",
+      "source": "애객",
+      "title": "카드게임 우노에 대해 알아보자 araboza.",
+      "publishedAt": "2026-11-19T13:53:26+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/HqHN2.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/HqHN2.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 23,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 23,
+      "kPerComment": 7.666666666666667,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "5088157",
+          "text": "잘만들었네"
+        },
+        {
+          "id": "5090213",
+          "text": "아니 씨 ㅋㅋㅋㅋㅋ 우노 룰을 알고있으니깐 3배로 웃기네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001729",
+          "text": "우노가 재미 있기는해 ㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T14:02:36.516882+09:00",
+      "sourceTitles": [
+        "'우노'란 이런 게임.",
+        "우노 한 판에 극장판 찍는 친구들.mp4",
+        "보드게임에도 전쟁터에 나가듯 최선을 다하는 사람들",
+        "게임에 너무 몰입하는 친구들",
+        "소년만화 버전 우노 플레이",
+        "우리가 우노를 플레이 할때.mp4",
+        "타격감을 극한으로 끌어올린 우노",
+        "보드게임 몰입도 100%",
+        "보드 게임의 위험성!",
+        "언제봐도 개쩌는 카드게임 연출.mp4",
+        "우노를 전투적으로 즐기는 사람들",
+        "어둠의 듀얼",
+        "엄청 재밌게 게임하는 흑형들",
+        "우노 개재밌게 하는 남정네들",
+        "카드게임 박진감 넘치게 하기",
+        "어둠의 듀얼.mp4",
+        "찰지게 보드게임 하는 법",
+        "우노를 유희왕처럼 플레이 해보았다",
+        "UNO 카드게임은 위험하다",
+        "카드게임 우노에 대해 알아보자 araboza.",
+        "카드게임 우노에 대해 알아보자 araboza.",
+        "이번주 토요일날 중고차를 보러 가네요..."
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 22,
+      "sourceTitlesFetchedAt": "2026-11-19T05:02:46.104122+00:00",
+      "collectedAt": "2026-11-19T14:02:46.104146+09:00",
+      "firstPublishedAt": "2026-11-19T05:02:46.327691+00:00"
     },
     {
       "id": "aagag-1670873-0",
@@ -9229,7 +9304,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
