@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T20:01:57.681399+09:00",
-  "windowEnd": "2026-11-19T19:56:13.774034+09:00",
+  "collectedAt": "2026-11-19T11:12:22.247938+00:00",
+  "windowEnd": "2026-11-19T20:12:22.019944+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -1444,60 +1444,6 @@
       "sourceTitlesFetchedAt": "2026-11-18T23:18:34.876372+00:00",
       "collectedAt": "2026-11-19T08:18:34.876388+09:00",
       "firstPublishedAt": "2026-11-18T23:18:35.084453+00:00"
-    },
-    {
-      "id": "aagag-1670662-0",
-      "url": "https://aagag.com/issue/?idx=1670662",
-      "source": "애객",
-      "title": "하모니카 울리지 않고 브라질리언 왁싱하기",
-      "publishedAt": "2026-11-18T19:55:48+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6G6V.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6G6V.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 26,
-      "commentCount": 2,
-      "laughingComments": 2,
-      "score": 26,
-      "kPerComment": 13.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "8998666",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "8998668",
-          "text": "꼬치 떨어진거 아니냐ㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-18T20:08:23.857859+09:00",
-      "sourceTitles": [
-        "약혐) 하모니카 입에물고 브라질리언 왁싱하기.mp4",
-        "약혐) 하모니카 울리지 않고 브라질리언 왁싱하기.mp4",
-        "약혐)고통의 하모니카 연주",
-        "하모니카 울리지 않고 브라질리언 왁싱하기",
-        "약혐) 하모니카 울리지 않고 브라질리언 왁싱하기"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-18T11:08:34.974744+00:00",
-      "collectedAt": "2026-11-18T20:08:34.974761+09:00",
-      "firstPublishedAt": "2026-11-18T11:08:35.084612+00:00"
     },
     {
       "id": "aagag-1128357-0",
@@ -6176,9 +6122,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 371,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
