@@ -40,14 +40,14 @@ function NewsRecord({story,brief}:{story:NewsStory;brief:NewsView}){
 function NewsDetails({story,brief}:{story:NewsViewStory;brief:NewsView}){
  return <><NewsRecord key={story.id} story={story} brief={brief}/>{story.additionalRecords.length>0&&<details className="news-additional-records"><summary>함께 보관한 내용 {story.additionalRecords.length}건</summary>{story.additionalRecords.map(s=><div className="news-additional-record" key={s.id}><h3>{s.title}</h3><NewsRecord story={s} brief={brief}/></div>)}</details>}</>;
 }
-function NewsStories({brief,corrections=[]}:{brief:NewsView;liveRecord?:string;corrections?:Correction[]}){
+function NewsStories({brief,corrections=[],storyId=''}:{brief:NewsView;liveRecord?:string;corrections?:Correction[];storyId?:string}){
  useEffect(()=>{const q=new URLSearchParams(location.search),id=q.get('item')||q.get('story');const story=brief.stories.find(s=>s.aliases.includes(id||''));if(story)document.getElementById(`news-${story.id}`)?.scrollIntoView();if(location.hash==='#news-safety')document.getElementById('news-safety')?.scrollIntoView()},[brief.id]);
- return <ol className="posts news-stories">{brief.stories.map((s,i)=><li key={s.id}><article>
+ return <ol className="posts news-stories">{brief.stories.filter(s=>!storyId||s.id===storyId||s.aliases.includes(storyId)).map((s,i)=><li key={s.id}><article>
   <section className="post-top news-static-heading">
    <small className="rank" aria-hidden="true">{String(i+1).padStart(2,'0')}</small>
-   <hgroup className="post-main"><p className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span></p><h2 className="news-story-title" id={`news-${s.id}`}>{s.title}</h2></hgroup>
+   <hgroup className="post-main"><p className="news-story-meta"><span>{s.category}</span><span>{s.followUp?'후속 업데이트':s.status}</span></p><div className="news-title-share"><h2 className="news-story-title" id={`news-${s.id}`}>{s.title}</h2><NewsReaderActions brief={brief} story={s}/></div></hgroup>
   </section>
-  <section className="news-full-content" aria-labelledby={`news-${s.id}`}><RecordCorrections items={corrections.filter(c=>c.itemId===s.id)}/><NewsDetails story={s} brief={brief}/><NewsReaderActions brief={brief} story={s}/></section>
+  <section className="news-full-content" aria-labelledby={`news-${s.id}`}><RecordCorrections items={corrections.filter(c=>c.itemId===s.id)}/><NewsDetails story={s} brief={brief}/></section>
  </article></li>)}</ol>;
 }
 function NewsClosing({brief}:{brief:NewsView}){return <>
@@ -55,10 +55,17 @@ function NewsClosing({brief}:{brief:NewsView}){return <>
    {brief.watchItems.length>0&&brief.events.length===0&&<section className="news-closing"><h2>주목할 변수</h2><ul>{brief.watchItems.map(item=><li key={item}>{item}</li>)}</ul></section>}
    {brief.events.length>0&&<section className="news-closing"><h2>{brief.edition==='am'?'오늘 일정·시장 변수':'내일 주목할 변수'}</h2><ul className="news-events">{brief.events.map((e,i)=><li key={i}><span>{e.at?koreaTime(e.at):`${e.date} · ${e.timeNote||'시각 미확인'}`}</span><h3>{e.title}</h3><p>{e.detail}</p><a href={e.source.url} target="_blank" rel="noopener noreferrer">확인: {e.source.name} ↗</a></li>)}</ul><small>모든 시각은 한국시간입니다. 일정은 주최 측 사정에 따라 바뀔 수 있습니다.</small></section>}
 </>}
+function NewsContent({brief,corrections=[]}:{brief:NewsView;corrections?:Correction[]}){
+ const [storyId,setStoryId]=useState<string|null>(null);
+ useEffect(()=>{setStoryId(new URLSearchParams(location.search).get('story')||'')},[brief.id]);
+ if(storyId===null)return null;
+ const found=!storyId||brief.stories.some(s=>s.id===storyId||s.aliases.includes(storyId));
+ return <>{storyId&&<a className="news-all-link" href={newsLink(brief.date,brief.edition)}>← 이 회차 전체 뉴스</a>}{found?<NewsStories brief={brief} corrections={corrections} storyId={storyId}/>:<p role="status">이 뉴스를 찾지 못했습니다. 전체 뉴스에서 확인해 주세요.</p>}{!storyId&&<NewsClosing brief={brief}/>}</>;
+}
 export function NewsPrepared({brief,record,corrections=[]}:{brief:NewsBrief;record?:string;corrections?:Correction[]}){
  const view=combineBriefings([brief]);
  if(!view)return null;
- return <section className="news"><NewsStories brief={view} liveRecord={record||''} corrections={corrections}/><NewsClosing brief={view}/></section>;
+ return <section className="news"><NewsContent brief={view} corrections={corrections}/></section>;
 }
 export function NewsBriefing({selection}:{selection?:EditionSelection}){
  const [index,setIndex]=useState<NewsIndex|null>(null),[localDate,setDate]=useState(''),[localEdition,setEdition]=useState<Edition>('am');
@@ -96,8 +103,7 @@ export function NewsBriefing({selection}:{selection?:EditionSelection}){
    <button className="news-date-arrow" aria-label="다음 브리핑 날짜" disabled={!next} onClick={()=>next&&choose(next,edition)}>→</button>
   </div>}
   {loading?<p className="news-message" role="status">브리핑을 불러오고 있습니다.</p>:error?<div className="news-message" role="alert"><p>{error}</p><button onClick={()=>setRetry(v=>v+1)}>다시 시도</button></div>:!brief?<div className="news-message"><h2>아직 발행된 브리핑이 없습니다</h2><p>선택한 날짜의 {editionLabel(edition)}이 발행되면 여기에 표시됩니다.</p></div>:<>
-   <NewsStories key={brief.id} brief={brief}/>
-   <NewsClosing brief={brief}/>
+   <NewsContent key={brief.id} brief={brief}/>
   </>}
  </section>;
 }
