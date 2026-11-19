@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "기술·경제",
+      "change": "앤트로픽이 주당 83달러와 최종 공모 물량 9억8,000만주, 거래 개시 예정일을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "회사 발표일은 미국 현지 18일입니다. 정확한 최초 발표 시각은 확인하지 못했으며 거래 개시일과 공모 종결 예정일은 각각 미국 19일과 20일입니다. 공식 발표문의 날짜 표시는 2026-11-18이며 기준 시간대는 명시돼 있지 않아 eventDate와 eventTimezone을 null로 두었습니다. 게시·수정 메타데이터의 UTC 표기를 사건 날짜의 기준 시간대로 적용하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-19-am/20261119-am-anthropic-ipo",
+      "keyFacts": {
+        "거래 예정": "미국 2026-11-19, 나스닥, 종목코드 ANT",
+        "공모가": "주당 83달러",
+        "기존 주주 매각분": "23,648,646주",
+        "신주": "956,351,354주",
+        "종결 예정": "미국 2026-11-20, 통상적인 종결 조건 충족 시",
+        "최종 공모 물량": "980,000,000주"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-19T08:43:20+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://cdn.4th.kr/news/thumbnail/202611/2122184_224685_4019_v150.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "포쓰저널",
+          "publishedAt": "2026-11-19T08:43:20+09:00",
+          "sourceCheck": {
+            "access": "직접 HTTP 요청으로 원문 본문과 HTML에 접근해 읽었습니다.",
+            "facts": [
+              "공모가 83달러와 최종 공모 물량 9억8,000만주를 확인했습니다.",
+              "미국 19일 나스닥 거래 개시 및 조건 충족 시 20일 공모 종결 예정을 확인했습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "primarySourceCheck": "회사 공식 발표의 가격·물량·일정을 직접 대조했습니다. 공식 페이지 수정 메타는 2026-11-18T23:26:25.522Z로 한국시간 19일 08:26:25.522입니다. 날짜형 발행 메타의 자정값을 실제 발표 시각으로 사용하지 않았습니다.",
+            "primarySourceUrl": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+            "publication": "입력 메타는 08:43:20 KST이며 기사별 수정 시각은 표시되지 않았습니다."
+          },
+          "title": "'AI 버블 시험대' 앤트로픽, 공모가 83달러 확정…희망가 상단 훌쩍 넘겨",
+          "url": "https://www.4th.kr/news/articleView.html?idxno=2122184",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "20261119-am-anthropic-ipo",
+      "summary": [
+        "앤트로픽이 기업공개 공모가를 주당 83달러로 확정하고 총 9억8,000만주를 공모한다고 발표했습니다.",
+        "주식은 미국 현지 19일 나스닥에서 거래를 시작할 예정이며, 공모 절차는 통상적인 종결 조건을 충족하면 20일 마무리될 예정입니다."
+      ],
+      "supersededBy": [],
+      "title": "앤트로픽 공모가 83달러 확정",
+      "uncertainty": "거래 개시와 공모 종결은 예정 단계이며, 기존 주주 매각분을 포함한 전체 공모액이 모두 회사에 유입되는 것은 아닙니다."
+    }
+  ],
+  "id": "anthropic-ipo-2026",
+  "schemaVersion": 1,
+  "title": "앤트로픽 기업공개와 나스닥 상장",
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+}

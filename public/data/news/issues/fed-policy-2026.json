@@ -108,6 +108,76 @@
       "uncertainty": "향후 금리 경로와 일정 개편의 시장 효과는 미확정입니다."
     },
     {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "경제",
+      "change": "10월 회의 의사록이 공개돼 조건부 추가 금리 인상에 대한 폭넓은 공감대가 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": "2026-11-19T04:00:00+09:00",
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "10월 27~28일 회의 의사록이 미국 동부 11월 18일 14:00 EST, 한국시간 19일 04:00에 공개됐습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "2027년 회의 일정 안내 이후 10월 FOMC 의사록이 공개돼 추가 인상에 관한 참석자들의 내부 판단이 확인됐습니다.",
+        "editionId": "2026-11-13-am",
+        "storyId": "20261113-am-eco-01"
+      },
+      "id": "2026-11-19-am/20261119-am-fed-minutes",
+      "keyFacts": {
+        "10월 실제 결정": "기준금리 3.75~4.00% 동결",
+        "거의 모든 참석자": "기본 물가·고용 전망 아래 추가 인상이 적절할 가능성이 크다는 판단",
+        "공개 시각": "2026-11-19 04:00 KST",
+        "두 명의 의견": "물가 지표가 불리하면 다음 회의에서 25bp 초과 인상 검토 가능",
+        "회의 기간": "2026-10-27~2026-10-28"
+      },
+      "previous": {
+        "editionId": "2026-11-13-am",
+        "storyId": "20261113-am-eco-01"
+      },
+      "publishedAt": "2026-11-19T06:59:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4445438_357803_05_v150.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합인포맥스",
+          "publishedAt": "2026-11-19T06:59:00+09:00",
+          "sourceCheck": {
+            "access": "검색 도구의 원문 열기는 403이었으나 직접 HTTP 요청으로 원문 HTML 전체에 접근해 읽었습니다.",
+            "facts": [
+              "거의 모든 참석자의 조건부 추가 인상 판단과 두 명의 25bp 초과 인상 검토 의견을 확인했습니다.",
+              "10월 27~28일 회의에서 실제 금리는 3.75~4.00%로 동결됐습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "primarySourceCheck": "연준 의사록의 조건부 표현과 more than 25 basis points를 대조했습니다. 공식 공개 시각은 18일 14:00 EST, 한국시간 19일 04:00입니다.",
+            "primarySourceUrls": [
+              "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+              "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+            ],
+            "publication": "입력 메타는 06:59:00, 본문에 표시된 수정 시각은 08:34 KST입니다."
+          },
+          "title": "빅스텝, 10월 FOMC부터 고개…\"거의 모든 참가자\" 추가 인상 주문(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445438",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261119-am-fed-minutes",
+      "summary": [
+        "새로 공개된 10월 FOMC 의사록에서 거의 모든 참석자가 물가·고용이 예상대로 흐르면 추가 금리 인상이 적절할 가능성이 크다고 판단했습니다.",
+        "두 명은 물가 지표가 악화하면 다음 회의에서 0.25%포인트를 넘는 인상도 검토할 수 있다고 했지만, 인상 폭을 확정한 결정은 아닙니다."
+      ],
+      "supersededBy": [],
+      "title": "연준 의사록, 추가 금리 인상에 공감대",
+      "uncertainty": "향후 인상 시점과 폭은 미확정이며, 공개된 내용은 10월 회의 당시의 판단입니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 79,
@@ -207,5 +277,5 @@
   "id": "fed-policy-2026",
   "schemaVersion": 1,
   "title": "미국 연준 금리 결정과 물가 판단",
-  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
 }

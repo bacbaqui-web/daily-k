@@ -1,6 +1,188 @@
 {
-  "editionCount": 126,
+  "editionCount": 127,
   "issues": [
+    {
+      "categories": [
+        "국제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "us-venezuela-military-cooperation-2026",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "양국이 군사협력 복원 협정에 서명하고 공동훈련·정보공유 등의 협력 분야를 공개했습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "결과",
+        "storyId": "20261119-am-us-venezuela",
+        "title": "미국·베네수엘라, 군사협력 복원 협정"
+      },
+      "path": "us-venezuela-military-cooperation-2026.json",
+      "title": "미국·베네수엘라 군사협력 복원"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 32,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "미국 18일 정규장은 혼조로 끝났고 엔비디아는 실적 발표 이후 첫 거래일에 2.89% 하락했습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "결과",
+        "storyId": "20261119-am-us-market",
+        "title": "뉴욕증시 혼조…엔비디아 2.89% 하락"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "정치",
+        "정치·정책"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-11-04T09:15:48.078092+09:00",
+      "firstCoveredDate": "2026-11-04",
+      "id": "prosecution-manipulation-special-counsel-bill-2026",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "대통령 재가를 거친 특검법이 19일 관보에 공포돼 즉시 시행됐습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "시행",
+        "storyId": "20261119-am-special-counsel-law",
+        "title": "조작기소 의혹 특검법, 공포·시행"
+      },
+      "path": "prosecution-manipulation-special-counsel-bill-2026.json",
+      "title": "조작기소 의혹 특별검사법 입법과 권한 조정"
+    },
+    {
+      "categories": [
+        "국제정세",
+        "외교",
+        "정치·정책"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-12T21:15:38.833142+09:00",
+      "firstCoveredDate": "2026-11-12",
+      "id": "president-asean-apec-trip-plan-2026-11",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "APEC 환영 만찬에서 이 대통령과 푸틴 대통령이 처음 만나 북핵과 한반도 문제를 논의했습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "후속",
+        "storyId": "20261119-am-korea-russia-meeting",
+        "title": "이 대통령, 푸틴과 첫 회동"
+      },
+      "path": "president-asean-apec-trip-plan-2026-11.json",
+      "title": "대통령의 2026년 11월 아세안·APEC 순방계획"
+    },
+    {
+      "categories": [
+        "경제",
+        "경제·금리",
+        "경제·생활경제"
+      ],
+      "eventCount": 5,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-17",
+      "id": "fed-policy-2026",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "10월 회의 의사록이 공개돼 조건부 추가 금리 인상에 대한 폭넓은 공감대가 확인됐습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "발표",
+        "storyId": "20261119-am-fed-minutes",
+        "title": "연준 의사록, 추가 금리 인상에 공감대"
+      },
+      "path": "fed-policy-2026.json",
+      "title": "미국 연준 금리 결정과 물가 판단"
+    },
+    {
+      "categories": [
+        "사회",
+        "사회이슈",
+        "정치·정책"
+      ],
+      "eventCount": 7,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "전국 수능이 시작되고 부정행위 방지용 첫 위급재난문자가 실제 발송됐습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "시행",
+        "storyId": "20261119-am-csat-start",
+        "title": "수능 시작…부정행위 방지 재난문자 발송"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
+    {
+      "categories": [
+        "안전·날씨"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "csat-cold-wave-2026-11",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "수능 당일 서울 영하권 기온과 한파특보, 충청·호남·제주의 비·눈 현황이 확인됐습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "후속",
+        "storyId": "20261119-am-cold-wave",
+        "title": "영하권 수능 한파…충청·호남·제주 눈·비"
+      },
+      "path": "csat-cold-wave-2026-11.json",
+      "title": "수능 전후 한파와 눈·비"
+    },
+    {
+      "categories": [
+        "기술·경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "anthropic-ipo-2026",
+      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "앤트로픽이 주당 83달러와 최종 공모 물량 9억8,000만주, 거래 개시 예정일을 발표했습니다.",
+        "editionId": "2026-11-19-am",
+        "stage": "발표",
+        "storyId": "20261119-am-anthropic-ipo",
+        "title": "앤트로픽 공모가 83달러 확정"
+      },
+      "path": "anthropic-ipo-2026.json",
+      "title": "앤트로픽 기업공개와 나스닥 상장"
+    },
     {
       "categories": [
         "국제",
@@ -197,29 +379,6 @@
     },
     {
       "categories": [
-        "사회",
-        "사회이슈",
-        "정치·정책"
-      ],
-      "eventCount": 6,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "개인 필기구 제한과 와이파이 중단 범위·시간 안내",
-        "editionId": "2026-11-18-pm",
-        "stage": "확정",
-        "storyId": "20261118-pm-csat-final-rules",
-        "title": "수능 개인 필기구, 흑색 연필만 사용"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
-    },
-    {
-      "categories": [
         "정치"
       ],
       "eventCount": 1,
@@ -238,33 +397,6 @@
       },
       "path": "chu-kyung-ho-martial-law-trial.json",
       "title": "추경호 계엄 관련 형사재판"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 31,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-18T09:13:52.505778+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "16일 종가 이후 미국 현지 17일의 새로운 마감값을 확인했습니다.",
-        "editionId": "2026-11-18-am",
-        "stage": "후속",
-        "storyId": "20261118-am-us-market",
-        "title": "미국 증시, 주요 지수 모두 하락"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -413,27 +545,6 @@
       },
       "path": "russia-ukraine-energy-infrastructure-strikes-2026-10.json",
       "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방"
-    },
-    {
-      "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-11-04T09:15:48.078092+09:00",
-      "firstCoveredDate": "2026-11-04",
-      "id": "prosecution-manipulation-special-counsel-bill-2026",
-      "lastCoveredAt": "2026-11-18T09:22:01.101876+09:00",
-      "lastCoveredDate": "2026-11-17",
-      "latest": {
-        "archive": false,
-        "change": "17일 상정 예정이던 공포안의 국무회의 의결을 확인했습니다.",
-        "editionId": "2026-11-17-pm",
-        "stage": "후속",
-        "storyId": "20261117-pm-special-counsel",
-        "title": "조작기소 의혹 특검법 공포안 국무회의 의결"
-      },
-      "path": "prosecution-manipulation-special-counsel-bill-2026.json",
-      "title": "조작기소 의혹 특별검사법 입법과 권한 조정"
     },
     {
       "categories": [
@@ -731,28 +842,6 @@
       },
       "path": "supreme-court-han-kim-verdict-schedule-2026.json",
       "title": "한덕수·김건희 사건 대법원 선고 일정"
-    },
-    {
-      "categories": [
-        "국제정세",
-        "정치·정책"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-12T21:15:38.833142+09:00",
-      "firstCoveredDate": "2026-11-12",
-      "id": "president-asean-apec-trip-plan-2026-11",
-      "lastCoveredAt": "2026-11-16T21:12:00.552371+09:00",
-      "lastCoveredDate": "2026-11-16",
-      "latest": {
-        "archive": false,
-        "change": "12일 순방계획 발표 이후 실제 정상회의가 열렸고 대통령의 새 협력 제안과 정상들의 반응이 보도됐습니다.",
-        "editionId": "2026-11-16-pm",
-        "stage": "후속",
-        "storyId": "20261116-pm-korea-asean-summit",
-        "title": "한·아세안 정상회의서 AI·문화산업 협력 제안…FTA 개선 협상 언급"
-      },
-      "path": "president-asean-apec-trip-plan-2026-11.json",
-      "title": "대통령의 2026년 11월 아세안·APEC 순방계획"
     },
     {
       "categories": [
@@ -1577,28 +1666,6 @@
       },
       "path": "korea-france-nuclear-joint-committee-2026.json",
       "title": "한·프랑스 원자력공동위의 차세대 원자로·핵주기 협력"
-    },
-    {
-      "categories": [
-        "경제·금리",
-        "경제·생활경제"
-      ],
-      "eventCount": 4,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-17",
-      "id": "fed-policy-2026",
-      "lastCoveredAt": "2026-11-13T09:23:17.343407+09:00",
-      "lastCoveredDate": "2026-11-13",
-      "latest": {
-        "archive": false,
-        "change": "2027년 정책결정 회의를 7회로 하는 일정이 공개됐습니다. 전체 회의는 8회이며 향후 금리 결정은 미확정입니다.",
-        "editionId": "2026-11-13-am",
-        "stage": "후속",
-        "storyId": "20261113-am-eco-01",
-        "title": "연준, 내년 금리결정 회의 7회로 축소…전체 회의는 8회 유지"
-      },
-      "path": "fed-policy-2026.json",
-      "title": "미국 연준 금리 결정과 물가 판단"
     },
     {
       "categories": [
@@ -12082,7 +12149,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 937,
+  "storyCount": 945,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
 }

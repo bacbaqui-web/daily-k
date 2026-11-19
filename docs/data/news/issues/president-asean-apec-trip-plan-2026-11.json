@@ -101,10 +101,74 @@
       "supersededBy": [],
       "title": "한·아세안 정상회의서 AI·문화산업 협력 제안…FTA 개선 협상 언급",
       "uncertainty": "구상별 예산·사업 일정과 FTA 개선 협상 타결은 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "외교",
+      "change": "APEC 환영 만찬에서 이 대통령과 푸틴 대통령이 처음 만나 북핵과 한반도 문제를 논의했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 중국 선전 현지의 APEC 환영 만찬 종료 무렵 회동했으며 19일 아침 보도됐습니다. 정확한 회동 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Shanghai",
+      "followUp": {
+        "delta": "한·아세안 정상회의 이후 APEC 순방 계기에 푸틴 대통령과 첫 대면하고 북핵·한반도 문제를 논의했습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-korea-asean-summit"
+      },
+      "id": "2026-11-19-am/20261119-am-korea-russia-meeting",
+      "keyFacts": {
+        "공감 내용": "한반도 정세 악화 방지와 긴장 완화 필요성",
+        "논의 의제": "북한 핵 문제 등 한반도 현안",
+        "대화 시간": "10여 분, 청와대 설명",
+        "회동일·장소": "2026-11-18, 중국 선전 APEC 환영 만찬"
+      },
+      "previous": {
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-korea-asean-summit"
+      },
+      "publishedAt": "2026-11-19T07:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021537875_web.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-19T07:00:00+09:00",
+          "sourceCheck": {
+            "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+            "facts": [
+              "18일 APEC 만찬에서 취임 후 첫 대면과 10여 분 대화를 확인했습니다.",
+              "북핵 논의와 긴장 완화 필요성에 대한 의견 일치는 청와대 고위 관계자의 설명입니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "publication": "입력 메타와 본문은 07:00:00 KST이며 별도 수정 시각은 표시되지 않았습니다."
+          },
+          "title": "이 대통령, APEC 만찬서 푸틴과 첫 대면…靑 \"북핵 등 한반도 문제 대화 나눠\"",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874104",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261119-am-korea-russia-meeting",
+      "summary": [
+        "이재명 대통령이 18일 중국 선전 APEC 환영 만찬에서 푸틴 러시아 대통령과 취임 후 처음으로 만나 10여 분간 대화했습니다.",
+        "청와대는 두 정상이 북한 핵 문제를 논의하고 한반도 긴장을 완화할 필요성에 의견을 같이했다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "이 대통령, 푸틴과 첫 회동",
+      "uncertainty": "대화 내용은 청와대 설명 기준이며 구체적인 북핵 합의나 후속 이행 조치가 발표된 것은 아닙니다."
     }
   ],
   "id": "president-asean-apec-trip-plan-2026-11",
   "schemaVersion": 1,
   "title": "대통령의 2026년 11월 아세안·APEC 순방계획",
-  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
 }

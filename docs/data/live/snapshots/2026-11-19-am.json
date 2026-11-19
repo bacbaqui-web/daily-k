@@ -1,0 +1,913 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-19T10:06:28.610617+09:00",
+  "id": "2026-11-19-am",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-19T09:00:00+09:00",
+      "date": "2026-11-19",
+      "edition": "am",
+      "editionId": "2026-11-19-am",
+      "events": [
+        {
+          "at": "2026-11-19T10:00:00+09:00",
+          "date": "2026-11-19",
+          "detail": "유가증권·코스닥·코넥스 정규시장은 10:00~16:30에 운영될 예정입니다.",
+          "source": {
+            "imageUrl": "https://img9.yna.co.kr/photo/cms/2026/06/25/83/PCM20260625000183990_P4.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-05T10:25:23+09:00",
+            "sourceCheck": {
+              "access": "원문 본문과 HTML을 읽었습니다.",
+              "facts": [
+                "한국거래소가 공지한 19일 정규시장 10:00~16:30 운영 시간을 확인했습니다."
+              ],
+              "image": "원문 og:image·twitter:image에서 확인했습니다.",
+              "publication": "입력 11월 5일 10:25:23, 수정 10:27:24 KST입니다."
+            },
+            "title": "19일 수능일, 주식시장 1시간 늦게 개장…정규장 오전 10시~오후 4시30분",
+            "url": "https://www.yna.co.kr/view/AKR20261105065500008",
+            "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+          },
+          "timeNote": "한국시간, 수능일 정규장 운영 시간입니다.",
+          "title": "국내 주식시장 오전 10시 개장"
+        },
+        {
+          "at": "2026-11-19T13:45:00+09:00",
+          "date": "2026-11-19",
+          "detail": "중국 선전에서 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담이 예정돼 있습니다.",
+          "source": {
+            "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021537835_web.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "뉴시스",
+            "publishedAt": "2026-11-19T06:00:35+09:00",
+            "sourceCheck": {
+              "access": "원문 본문과 HTML을 읽었습니다.",
+              "facts": [
+                "백악관 일정에 따른 미중 회담 현지 12:45와 미중러 회담 현지 14:30 예정 시간을 확인했습니다."
+              ],
+              "image": "원문 og:image·twitter:image에서 확인했습니다.",
+              "publication": "입력 메타는 19일 06:00:35 KST이며 별도 수정 시각은 표시되지 않았습니다."
+            },
+            "title": "북미 깜짝회담 이뤄질까…트럼프, 오늘 방중 일정 마무리",
+            "url": "https://www.newsis.com/view/NISX20261119_0003874123",
+            "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+          },
+          "timeNote": "중국 현지 12:45를 한국시간으로 환산했습니다.",
+          "title": "미중 정상회담"
+        },
+        {
+          "at": "2026-11-19T15:30:00+09:00",
+          "date": "2026-11-19",
+          "detail": "트럼프·시진핑·푸틴 정상의 3자 회담이 예정돼 있으며, 기준시각까지 회담 결과는 나오지 않았습니다.",
+          "source": {
+            "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021537835_web.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "뉴시스",
+            "publishedAt": "2026-11-19T06:00:35+09:00",
+            "sourceCheck": {
+              "access": "원문 본문과 HTML을 읽었습니다.",
+              "facts": [
+                "백악관 일정에 따른 미중 회담 현지 12:45와 미중러 회담 현지 14:30 예정 시간을 확인했습니다."
+              ],
+              "image": "원문 og:image·twitter:image에서 확인했습니다.",
+              "publication": "입력 메타는 19일 06:00:35 KST이며 별도 수정 시각은 표시되지 않았습니다."
+            },
+            "title": "북미 깜짝회담 이뤄질까…트럼프, 오늘 방중 일정 마무리",
+            "url": "https://www.newsis.com/view/NISX20261119_0003874123",
+            "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+          },
+          "timeNote": "중국 현지 14:30을 한국시간으로 환산했습니다.",
+          "title": "미국·중국·러시아 3자 정상회담"
+        },
+        {
+          "at": "2026-11-19T16:00:00+09:00",
+          "date": "2026-11-19",
+          "detail": "두 사건의 상고심 선고가 예정돼 있으며 TV와 대법원 유튜브 등으로 생중계할 계획입니다.",
+          "source": {
+            "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/05/07/PYH2026050707030001300_P4.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-18T18:13:53+09:00",
+            "sourceCheck": {
+              "access": "원문 본문과 HTML을 읽었습니다.",
+              "facts": [
+                "19일 16:00 선고 예정과 18일 발표된 실시간 생중계 결정을 확인했습니다."
+              ],
+              "image": "원문 og:image·twitter:image에서 확인했습니다. 5월 촬영 자료사진입니다.",
+              "publication": "입력·수정 메타 모두 18일 18:13:53 KST입니다."
+            },
+            "title": "대법, 내일 한덕수·김건희 선고 TV 생중계…당사자는 불출석",
+            "url": "https://www.yna.co.kr/view/AKR20261118170600004",
+            "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+          },
+          "timeNote": "한국시간, 대법원이 공지한 선고 예정 시각입니다.",
+          "title": "한덕수·김건희 사건 대법원 선고"
+        }
+      ],
+      "generatedAt": "2026-11-19T10:02:47.115654+09:00",
+      "id": "2026-11-19-am",
+      "intro": "2026년 11월 19일 오전 9시 기준 주요 뉴스입니다.",
+      "keywords": [
+        "수능 시행",
+        "특검법 공포",
+        "FOMC 의사록",
+        "한러 정상 회동",
+        "뉴욕증시",
+        "앤트로픽 IPO",
+        "미국·베네수엘라 군사협력",
+        "수능 한파"
+      ],
+      "omissionNotes": [
+        "전날 오후판의 한중 FTA 타결, 추경호 1심 무죄, 선관위 직원 영장 청구, 가계신용·KDI 전망은 새 사실 없는 반복 보도를 제외했습니다.",
+        "태안 어선 수색과 애플 서비스 장애는 구조·발견 또는 완전 복구 등 결과 변화를 확인할 근거를 확보하지 못해 반복 기사로 넣지 않았습니다.",
+        "미중·미중러 정상회담과 한덕수·김건희 상고심은 기준시각 이후의 예정 일정만 담았습니다.",
+        "앤트로픽의 확대 전 공모 물량·조달 추산과 출처마다 다른 미·베네수 군사교류 단절 연도는 본문에서 제외했습니다. 기사 사진 메타가 공통 로고인 출처는 imageUrl을 null로 기록했습니다."
+      ],
+      "overview": [
+        "전국에서 수능이 시작됐고, 조작기소 의혹 특검법이 공포와 함께 시행됐습니다.",
+        "밤사이 연준의 추가 금리 인상 논의와 이재명 대통령·푸틴 대통령의 첫 회동이 전해졌습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회",
+          "emphasis": [
+            "전국 1,312개 시험장",
+            "위급재난문자가 전국에 발송"
+          ],
+          "eventAt": "2026-11-19T08:40:00+09:00",
+          "eventTimeNote": "시험은 19일 08:40, 첫 위급재난문자 발송은 08:30 KST입니다.",
+          "factsHash": "0467374e73760bf0dbaa953e1f1e7a59cb52c233451df4ed517b7f6ea9e06e71",
+          "followUp": {
+            "delta": "개인 필기구·와이파이 지침 발표 이후 시험이 시작됐고, 미제출 휴대전화 적발용 위급재난문자가 실제 발송됐습니다.",
+            "editionId": "2026-11-18-pm",
+            "storyId": "20261118-pm-csat-final-rules"
+          },
+          "id": "20261119-am-csat-start",
+          "keyFacts": {
+            "시험 시작": "2026-11-19 08:40 KST",
+            "시험장": "85개 시험지구, 1,312개 시험장",
+            "첫 문자 발송": "2026-11-19 08:30 KST",
+            "추가 문자": "시험 중 불시 발송 예정"
+          },
+          "publishedAt": "2026-11-19T08:40:41+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.hankyung.com/photo/202611/ZA.46466405.1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "modifiedAt": "2026-11-19T08:34:00+09:00",
+              "name": "한국경제(연합뉴스 전재)",
+              "publishedAt": "2026-11-19T08:34:09+09:00",
+              "sourceCheck": {
+                "access": "검색 도구의 원문 열기는 실패했으나 직접 HTTP 요청으로 원문 본문과 HTML 메타데이터를 읽었습니다.",
+                "facts": [
+                  "19일 오전 8시 30분 전국에 위급재난문자가 실제 발송됐으며, 미제출 휴대전화 적발을 위한 조치였음을 본문에서 확인했습니다.",
+                  "시험 도중에도 불시에 추가 발송할 예정이라는 부제와 본문을 확인했습니다."
+                ],
+                "image": "원문 og:image와 twitter:image:src에서 동일한 HTTPS 이미지 주소를 확인했습니다.",
+                "publication": "원문 화면의 입력·수정 시각은 모두 2026-11-19 08:34입니다. JSON-LD의 datePublished는 08:34:09+09:00, dateModified는 08:34:00+09:00으로 모두 cutoff 이전입니다. 수정 시각의 초 단위는 원문 메타데이터의 00 표기를 그대로 기록했습니다.",
+                "replacement": "기준시각 이후 수정된 https://www.yna.co.kr/view/AKR20261119024300530 대신 사용합니다. 별도 취재 기사가 아닌 한국경제에 게시된 연합뉴스 전재본입니다.",
+                "supportedText": "기존 title·summary·emphasis의 근거가 유지돼 해당 문구는 수정하지 않습니다."
+              },
+              "title": "전국에 10.5초간 울린 경보음…부정행위 방지 첫 위급재난문자",
+              "url": "https://www.hankyung.com/article/202611196272Y",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.fnnews.com/news/202611190840417421",
+          "score": 98.0,
+          "scoreComponents": {
+            "domesticImpact": 100,
+            "importance": 96,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "전국 수험생과 국민에게 직접 영향을 주는 당일 시행 사실로 여러 주요 매체가 보도했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://image.fnnews.com/resource/media/image/2026/11/19/202611190840386691_e.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스1·파이낸셜뉴스",
+              "publishedAt": "2026-11-19T08:40:41+09:00",
+              "sourceCheck": {
+                "access": "뉴스1 기사의 파이낸셜뉴스 전재 본문과 HTML을 읽었습니다.",
+                "facts": [
+                  "19일 08:40 전국 85개 시험지구, 1,312개 시험장에서 시험이 시작됐습니다.",
+                  "55만1,864명은 지원자 수이며 실제 응시 인원으로 사용하지 않았습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력·수정 메타 모두 2026-11-19 08:40:41 KST입니다."
+              },
+              "title": "55만 응시 현행 마지막 수능 시작…AI 커닝·N수생·사탐런 '변수'",
+              "url": "https://www.fnnews.com/news/202611190840417421",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "2027학년도 수능이 19일 오전 8시 40분 전국 1,312개 시험장에서 시작됐습니다.",
+            "앞서 오전 8시 30분에는 미제출 휴대전화 적발을 위한 위급재난문자가 전국에 발송됐으며, 시험 중에도 불시에 추가 발송될 예정입니다."
+          ],
+          "timeline": {
+            "change": "전국 수능이 시작되고 부정행위 방지용 첫 위급재난문자가 실제 발송됐습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "시행"
+          },
+          "title": "수능 시작…부정행위 방지 재난문자 발송",
+          "topicKey": "csat-start-emergency-alert-2026-11-19",
+          "uncertainty": "기준시각까지의 출처로 부정행위 적발 성과나 최종 응시·결시 인원은 확인되지 않았습니다.",
+          "whatChanged": "전날 운영 지침 안내에서 실제 시험 시작과 첫 위급재난문자 발송으로 진행됐습니다.",
+          "whyItMatters": "전국 수험생에게 적용되는 시험 운영과 부정행위 방지 조치가 실제 시행됐습니다."
+        },
+        {
+          "category": "정치",
+          "emphasis": [
+            "공포·시행됐습니다",
+            "준비기간 20일을 포함해 최장 200일"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "공포·시행일은 19일입니다. 재가와 관보 공개의 정확한 시각은 확인되지 않았습니다.",
+          "factsHash": "8892aeda658110708b23a534d54c8f137e329ca8c828123939d68300fe5d25b1",
+          "followUp": {
+            "delta": "공포안의 국무회의 의결 이후 대통령 재가와 19일 관보 공포·즉시 시행이 확인됐습니다.",
+            "editionId": "2026-11-17-pm",
+            "storyId": "20261117-pm-special-counsel"
+          },
+          "id": "20261119-am-special-counsel-law",
+          "keyFacts": {
+            "공포·시행일": "2026-11-19",
+            "다음 절차": "특검 후보 추천과 대통령 임명",
+            "수사 인력": "최대 309명",
+            "활동기간": "준비기간 20일 포함 최장 200일"
+          },
+          "publishedAt": "2026-11-19T08:29:33+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://newsimg.hankookilbo.com/2026/11/19/ae8dd4a9-21df-4487-9815-61902efe4023.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "한국일보",
+              "publishedAt": "2026-11-19T08:05:00+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "공포 당일 시행과 준비기간 20일을 포함한 최장 200일 활동기간을 확인했습니다.",
+                  "정당의 후보 추천과 대통령 임명 절차를 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력 08:05, 수정 08:07 KST입니다."
+              },
+              "title": "이 대통령, 순방 중 조작기소 특검 재가·공포... 즉시 시행",
+              "url": "https://www.hankookilbo.com/news/article/A2026111907550001246",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261119025000001",
+          "score": 96.6,
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 95,
+            "interest": 93,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "국가기관의 공적 책임을 다룰 특별수사 제도가 의결 단계를 넘어 실제 시행됐습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111821740001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-19T08:29:33+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "대통령 재가를 거친 법률의 19일 관보 게재와 공포 당일 시행을 확인했습니다.",
+                  "특검 추천 등 후속 절차가 예정돼 있습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력·수정 메타 모두 2026-11-19 08:29:33 KST입니다."
+              },
+              "title": "李대통령, 순방 중 조작기소 특검법 재가…공포돼 즉시 시행",
+              "url": "https://www.yna.co.kr/view/AKR20261119025000001",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "국가기관의 조작 수사·기소 의혹을 조사하기 위한 특검법이 대통령 재가를 거쳐 19일 공포·시행됐습니다.",
+            "특검은 준비기간 20일을 포함해 최장 200일간 활동할 수 있으며, 후보 추천과 임명 절차가 이어질 예정입니다."
+          ],
+          "timeline": {
+            "change": "대통령 재가를 거친 특검법이 19일 관보에 공포돼 즉시 시행됐습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "prosecution-manipulation-special-counsel-bill-2026",
+            "issueTitle": "조작기소 의혹 특별검사법 입법과 권한 조정",
+            "stage": "시행"
+          },
+          "title": "조작기소 의혹 특검법, 공포·시행",
+          "topicKey": "prosecution-manipulation-special-counsel-law-effective-2026-11-19",
+          "uncertainty": "법 시행은 의혹의 입증이나 특검 수사 결과를 뜻하지 않으며, 특검 임명·수사 개시는 이번 자료에서 확인되지 않았습니다.",
+          "whatChanged": "17일 국무회의 의결에 이어 대통령 재가와 관보 공포, 법 시행이 이뤄졌습니다.",
+          "whyItMatters": "국가기관 수사·기소 과정의 의혹을 조사할 특별검사 추천과 임명의 법적 절차가 시작됩니다."
+        },
+        {
+          "category": "경제",
+          "emphasis": [
+            "추가 금리 인상이 적절할 가능성",
+            "0.25%포인트를 넘는 인상"
+          ],
+          "eventAt": "2026-11-19T04:00:00+09:00",
+          "eventTimeNote": "10월 27~28일 회의 의사록이 미국 동부 11월 18일 14:00 EST, 한국시간 19일 04:00에 공개됐습니다.",
+          "factsHash": "9f51b6ed39c5bf1cea8863e413b6ee4f32a71dd6e16643ce6c0581e5bf47f864",
+          "followUp": {
+            "delta": "2027년 회의 일정 안내 이후 10월 FOMC 의사록이 공개돼 추가 인상에 관한 참석자들의 내부 판단이 확인됐습니다.",
+            "editionId": "2026-11-13-am",
+            "storyId": "20261113-am-eco-01"
+          },
+          "id": "20261119-am-fed-minutes",
+          "keyFacts": {
+            "10월 실제 결정": "기준금리 3.75~4.00% 동결",
+            "거의 모든 참석자": "기본 물가·고용 전망 아래 추가 인상이 적절할 가능성이 크다는 판단",
+            "공개 시각": "2026-11-19 04:00 KST",
+            "두 명의 의견": "물가 지표가 불리하면 다음 회의에서 25bp 초과 인상 검토 가능",
+            "회의 기간": "2026-10-27~2026-10-28"
+          },
+          "publishedAt": "2026-11-19T06:59:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/reuters/2026/11/19/PRU20261119036501009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-19T07:22:04+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "의사록 공개일, 회의일과 추가 인상에 관한 참석자 의견을 교차확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력·수정 메타 모두 2026-11-19 07:22:04 KST입니다.",
+                "qualification": "기사의 '25bp 이상' 표현은 공식 의사록과 대조해 본문에 '0.25%포인트를 넘는 인상'으로 반영했습니다."
+              },
+              "title": "10월 FOMC서 추가 금리인상 공감대…일부는 '빅스텝' 거론",
+              "url": "https://www.yna.co.kr/view/AKR20261119014700072",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445438",
+          "score": 94.95,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 93,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "국내 금융여건에도 파급되는 통화정책 판단이 새로 공개됐으며 공식 의사록으로 조건과 인상 폭 표현을 대조했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://cdn.news.einfomax.co.kr/news/thumbnail/202611/4445438_357803_05_v150.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합인포맥스",
+              "publishedAt": "2026-11-19T06:59:00+09:00",
+              "sourceCheck": {
+                "access": "검색 도구의 원문 열기는 403이었으나 직접 HTTP 요청으로 원문 HTML 전체에 접근해 읽었습니다.",
+                "facts": [
+                  "거의 모든 참석자의 조건부 추가 인상 판단과 두 명의 25bp 초과 인상 검토 의견을 확인했습니다.",
+                  "10월 27~28일 회의에서 실제 금리는 3.75~4.00%로 동결됐습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "primarySourceCheck": "연준 의사록의 조건부 표현과 more than 25 basis points를 대조했습니다. 공식 공개 시각은 18일 14:00 EST, 한국시간 19일 04:00입니다.",
+                "primarySourceUrls": [
+                  "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+                  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+                ],
+                "publication": "입력 메타는 06:59:00, 본문에 표시된 수정 시각은 08:34 KST입니다."
+              },
+              "title": "빅스텝, 10월 FOMC부터 고개…\"거의 모든 참가자\" 추가 인상 주문(상보)",
+              "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445438",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "새로 공개된 10월 FOMC 의사록에서 거의 모든 참석자가 물가·고용이 예상대로 흐르면 추가 금리 인상이 적절할 가능성이 크다고 판단했습니다.",
+            "두 명은 물가 지표가 악화하면 다음 회의에서 0.25%포인트를 넘는 인상도 검토할 수 있다고 했지만, 인상 폭을 확정한 결정은 아닙니다."
+          ],
+          "timeline": {
+            "change": "10월 회의 의사록이 공개돼 조건부 추가 금리 인상에 대한 폭넓은 공감대가 확인됐습니다.",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "fed-policy-2026",
+            "issueTitle": "미국 연준 금리 결정과 물가 판단",
+            "stage": "발표"
+          },
+          "title": "연준 의사록, 추가 금리 인상에 공감대",
+          "topicKey": "fed-october-minutes-release-2026-11-18",
+          "uncertainty": "향후 인상 시점과 폭은 미확정이며, 공개된 내용은 10월 회의 당시의 판단입니다.",
+          "whatChanged": "10월 회의의 추가 인상 논의와 조건부 큰 폭 인상 의견이 의사록 공개로 새로 드러났습니다.",
+          "whyItMatters": "미국의 향후 금리 경로는 국제 자금 흐름과 원화 환율, 국내 차입 비용에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "외교",
+          "emphasis": [
+            "취임 후 처음으로 만나",
+            "긴장을 완화할 필요성"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 중국 선전 현지의 APEC 환영 만찬 종료 무렵 회동했으며 19일 아침 보도됐습니다. 정확한 회동 시각은 확인되지 않았습니다.",
+          "factsHash": "8320c0d10958c4cd878ed4b7b7b1b64db48210b60512b59efa32bd3215a8e0ea",
+          "followUp": {
+            "delta": "한·아세안 정상회의 이후 APEC 순방 계기에 푸틴 대통령과 첫 대면하고 북핵·한반도 문제를 논의했습니다.",
+            "editionId": "2026-11-16-pm",
+            "storyId": "20261116-pm-korea-asean-summit"
+          },
+          "id": "20261119-am-korea-russia-meeting",
+          "keyFacts": {
+            "공감 내용": "한반도 정세 악화 방지와 긴장 완화 필요성",
+            "논의 의제": "북한 핵 문제 등 한반도 현안",
+            "대화 시간": "10여 분, 청와대 설명",
+            "회동일·장소": "2026-11-18, 중국 선전 APEC 환영 만찬"
+          },
+          "publishedAt": "2026-11-19T07:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://newsimg.hankookilbo.com/2026/11/19/915c8577-dc50-466e-b7cc-6075048b4ec4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "한국일보",
+              "publishedAt": "2026-11-19T07:00:00+09:00",
+              "sourceCheck": {
+                "access": "검색 도구의 AMP 원문 열기는 실패했으나 직접 HTTP 요청으로 본문과 HTML을 읽었습니다.",
+                "facts": [
+                  "만찬 종료 무렵의 10여 분 회동과 북한 핵 문제 논의를 교차확인했습니다.",
+                  "한반도 긴장 완화에 의견을 같이했다는 청와대 설명을 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력·수정 메타 모두 2026-11-19 07:00:00 KST입니다."
+              },
+              "title": "이 대통령, 푸틴과 북핵 문제 논의... 한러 정상 7년 만에 대면",
+              "url": "https://www.hankookilbo.com/news/article/amp/A2026111902060004309",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261119_0003874104",
+          "score": 93.95,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 91,
+            "interest": 92,
+            "recency": 100,
+            "reliability": 94
+          },
+          "scoreReason": "한반도 안보에 직접 관련된 한러 정상의 실제 대화로, 예정된 미중러 회담의 결과와 구별되는 새 외교 행위입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021537875_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-19T07:00:00+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "18일 APEC 만찬에서 취임 후 첫 대면과 10여 분 대화를 확인했습니다.",
+                  "북핵 논의와 긴장 완화 필요성에 대한 의견 일치는 청와대 고위 관계자의 설명입니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력 메타와 본문은 07:00:00 KST이며 별도 수정 시각은 표시되지 않았습니다."
+              },
+              "title": "이 대통령, APEC 만찬서 푸틴과 첫 대면…靑 \"북핵 등 한반도 문제 대화 나눠\"",
+              "url": "https://www.newsis.com/view/NISX20261119_0003874104",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "이재명 대통령이 18일 중국 선전 APEC 환영 만찬에서 푸틴 러시아 대통령과 취임 후 처음으로 만나 10여 분간 대화했습니다.",
+            "청와대는 두 정상이 북한 핵 문제를 논의하고 한반도 긴장을 완화할 필요성에 의견을 같이했다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "APEC 환영 만찬에서 이 대통령과 푸틴 대통령이 처음 만나 북핵과 한반도 문제를 논의했습니다.",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Shanghai",
+            "issueId": "president-asean-apec-trip-plan-2026-11",
+            "issueTitle": "대통령의 2026년 11월 아세안·APEC 순방계획",
+            "stage": "후속"
+          },
+          "title": "이 대통령, 푸틴과 첫 회동",
+          "topicKey": "korea-russia-leaders-meeting-2026-11-18",
+          "uncertainty": "대화 내용은 청와대 설명 기준이며 구체적인 북핵 합의나 후속 이행 조치가 발표된 것은 아닙니다.",
+          "whatChanged": "순방 중 이 대통령과 푸틴 대통령의 첫 대면 및 한반도 문제 논의가 새로 확인됐습니다.",
+          "whyItMatters": "한러 정상 간 직접 대화와 북핵·한반도 긴장 완화에 대한 입장 교환이 이뤄졌습니다."
+        },
+        {
+          "category": "증시",
+          "emphasis": [
+            "나스닥은 0.42% 상승",
+            "2.89% 내렸고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지 18일 정규장 마감값으로 한국시간 19일 아침 보도됐습니다.",
+          "factsHash": "02276226fd7afd5469be936e484ef36e5309dc7cbef8448c6d680e52389963b9",
+          "followUp": {
+            "delta": "미국 17일 세 지수 하락 이후, 18일에는 나스닥이 반등했으나 다우·S&P500은 하락했고 엔비디아는 실적 발표 뒤 첫 정규장에서 2.89% 내렸습니다.",
+            "editionId": "2026-11-18-am",
+            "storyId": "20261118-am-us-market"
+          },
+          "id": "20261119-am-us-market",
+          "keyFacts": {
+            "S&P500": "전일 대비 -0.23%, 5거래일 연속 하락",
+            "거래일": "2026-11-18 미국 정규장",
+            "나스닥": "전일 대비 +0.42%",
+            "다우": "전일 대비 -1.11%",
+            "엔비디아": "전일 대비 -2.89%"
+          },
+          "publishedAt": "2026-11-19T07:54:29+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111906582147139_1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-19T07:00:48+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "세 지수의 등락률과 S&P500의 5거래일 연속 하락을 교차확인했습니다.",
+                  "엔비디아 하락률은 반올림한 2.9%로 표기돼 있습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력 07:00:48, 수정 07:11:17 KST입니다.",
+                "qualification": "시장 마감 수치 확인에 사용했으며 인물 관련 의혹과 금리 인상 폭에 대한 서술은 채택하지 않았습니다."
+              },
+              "title": "엔비디아 호실적에도 젠슨 황 스캔들에 발목…나스닥만 반등[뉴욕마감]",
+              "url": "https://www.mt.co.kr/world/2026/11/19/2026111906582147139",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261119010551072",
+          "score": 93.2,
+          "scoreComponents": {
+            "domesticImpact": 92,
+            "importance": 88,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "주요 지수와 핵심 반도체 종목의 새 정규장 결과를 복수 매체에서 확인했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img2.yna.co.kr/photo/reuters/2026/11/19/PRU20261119011501009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-19T07:54:29+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "미국 18일 정규장의 다우 -1.11%, S&P500 -0.23%, 나스닥 +0.42%를 확인했습니다.",
+                  "엔비디아 -2.89%와 S&P500의 5거래일 연속 하락을 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력 07:54:29, 수정 08:18:18 KST입니다."
+              },
+              "title": "엔비디아 호실적에도 S&P500 5일연속 하락…나스닥만 0.4%↑(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261119010551072",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "미국 18일 정규장에서 다우는 1.11%, S&P500은 0.23% 내렸지만 나스닥은 0.42% 상승했습니다.",
+            "엔비디아는 실적 발표 후 첫 정규장에서 2.89% 내렸고, S&P500은 5거래일 연속 하락했습니다."
+          ],
+          "timeline": {
+            "change": "미국 18일 정규장은 혼조로 끝났고 엔비디아는 실적 발표 이후 첫 거래일에 2.89% 하락했습니다.",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-equities-chips-rates-oil",
+            "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+            "stage": "결과"
+          },
+          "title": "뉴욕증시 혼조…엔비디아 2.89% 하락",
+          "topicKey": "us-market-2026-11-19",
+          "uncertainty": "가격 변화의 원인별 기여도는 확정할 수 없으며, 이 수치는 시간외 거래나 19일 한국 증시 개장값이 아닙니다.",
+          "whatChanged": "전날 실적 발표 전 미국 증시 마감 및 엔비디아 시간외 반응 이후, 18일 정규장 결과가 확인됐습니다.",
+          "whyItMatters": "국내 투자자와 반도체 업종이 참고하는 해외 증시의 새로운 거래 결과입니다."
+        },
+        {
+          "category": "기술·경제",
+          "emphasis": [
+            "주당 83달러로 확정",
+            "총 9억8,000만주"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "회사 발표일은 미국 현지 18일입니다. 정확한 최초 발표 시각은 확인하지 못했으며 거래 개시일과 공모 종결 예정일은 각각 미국 19일과 20일입니다. 공식 발표문의 날짜 표시는 2026-11-18이며 기준 시간대는 명시돼 있지 않아 eventDate와 eventTimezone을 null로 두었습니다. 게시·수정 메타데이터의 UTC 표기를 사건 날짜의 기준 시간대로 적용하지 않았습니다.",
+          "factsHash": "1780abb07e952f41b2c25a5aaeee000026f94141c6200d6371428ad7d0b66e7e",
+          "id": "20261119-am-anthropic-ipo",
+          "keyFacts": {
+            "거래 예정": "미국 2026-11-19, 나스닥, 종목코드 ANT",
+            "공모가": "주당 83달러",
+            "기존 주주 매각분": "23,648,646주",
+            "신주": "956,351,354주",
+            "종결 예정": "미국 2026-11-20, 통상적인 종결 조건 충족 시",
+            "최종 공모 물량": "980,000,000주"
+          },
+          "publishedAt": "2026-11-19T08:43:20+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.hankyung.com/photo/202611/01.46458772.1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-19T06:27:08+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "공모가 83달러, 종전 희망 범위 70~78달러와 미국 19일 나스닥 거래 예정일을 교차확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력 06:27:08, 수정 06:37:00 KST입니다.",
+                "qualification": "기사의 8억2,500만주와 940억달러는 최종 공모 물량 확대 전 계획·추산으로, 최종 수량이나 조달 완료액으로 사용하지 않았습니다."
+              },
+              "title": "앤트로픽 공모가 83달러로 결정…940억달러 역대 최대 IPO",
+              "url": "https://www.hankyung.com/article/202611196053i",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.4th.kr/news/articleView.html?idxno=2122184",
+          "score": 90.9,
+          "scoreComponents": {
+            "domesticImpact": 85,
+            "importance": 87,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "복수 주요 매체가 다룬 대규모 AI 기업 공개이며 최종 가격·물량을 기준시각 이전 회사 발표로 확인했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://cdn.4th.kr/news/thumbnail/202611/2122184_224685_4019_v150.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "포쓰저널",
+              "publishedAt": "2026-11-19T08:43:20+09:00",
+              "sourceCheck": {
+                "access": "직접 HTTP 요청으로 원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "공모가 83달러와 최종 공모 물량 9억8,000만주를 확인했습니다.",
+                  "미국 19일 나스닥 거래 개시 및 조건 충족 시 20일 공모 종결 예정을 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "primarySourceCheck": "회사 공식 발표의 가격·물량·일정을 직접 대조했습니다. 공식 페이지 수정 메타는 2026-11-18T23:26:25.522Z로 한국시간 19일 08:26:25.522입니다. 날짜형 발행 메타의 자정값을 실제 발표 시각으로 사용하지 않았습니다.",
+                "primarySourceUrl": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+                "publication": "입력 메타는 08:43:20 KST이며 기사별 수정 시각은 표시되지 않았습니다."
+              },
+              "title": "'AI 버블 시험대' 앤트로픽, 공모가 83달러 확정…희망가 상단 훌쩍 넘겨",
+              "url": "https://www.4th.kr/news/articleView.html?idxno=2122184",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "앤트로픽이 기업공개 공모가를 주당 83달러로 확정하고 총 9억8,000만주를 공모한다고 발표했습니다.",
+            "주식은 미국 현지 19일 나스닥에서 거래를 시작할 예정이며, 공모 절차는 통상적인 종결 조건을 충족하면 20일 마무리될 예정입니다."
+          ],
+          "timeline": {
+            "change": "앤트로픽이 주당 83달러와 최종 공모 물량 9억8,000만주, 거래 개시 예정일을 발표했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "anthropic-ipo-2026",
+            "issueTitle": "앤트로픽 기업공개와 나스닥 상장",
+            "stage": "발표"
+          },
+          "title": "앤트로픽 공모가 83달러 확정",
+          "topicKey": "anthropic-ipo-pricing-2026-11-18",
+          "uncertainty": "거래 개시와 공모 종결은 예정 단계이며, 기존 주주 매각분을 포함한 전체 공모액이 모두 회사에 유입되는 것은 아닙니다.",
+          "whatChanged": "공모가와 최종 공모 물량이 확정됐고 회사가 나스닥 거래 개시 예정일을 제시했습니다.",
+          "whyItMatters": "대규모 AI 개발기업의 자금 조달 조건이 확정돼 공개시장의 투자와 기업가치 평가로 이어지는 단계입니다."
+        },
+        {
+          "category": "국제",
+          "emphasis": [
+            "군사관계를 복원하는 협정",
+            "공동 군사훈련과 정보 공유"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "18일 베네수엘라 카라카스 방문 중 체결된 협정으로 한국시간 19일 아침 보도됐습니다. 정확한 서명 시각은 확인되지 않았습니다.",
+          "factsHash": "f2370c18b02dcaa1e1569236d4fbb4ac9bd4f7f7a2f65ae9ddf57d9745028d78",
+          "id": "20261119-am-us-venezuela",
+          "keyFacts": {
+            "참여 인사": "피트 헤그세스 미국 국방장관·델시 로드리게스 베네수엘라 임시대통령",
+            "체결일": "2026-11-18 현지",
+            "협력 분야": "공동훈련·정보공유·군사 장비 및 역량"
+          },
+          "publishedAt": "2026-11-19T05:17:55+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스1·파이낸셜뉴스",
+              "publishedAt": "2026-11-19T08:04:02+09:00",
+              "sourceCheck": {
+                "access": "검색 도구의 원문 열기는 실패했으나 직접 HTTP 요청으로 뉴스1 전재 본문과 HTML을 읽었습니다.",
+                "facts": [
+                  "18일 군사협력 협정 체결 발표와 공동훈련·정보공유·장비 협력 내용을 교차확인했습니다."
+                ],
+                "image": "og:image·twitter:image가 파이낸셜뉴스 공통 로고여서 기사 사진으로 사용하지 않았습니다.",
+                "publication": "입력 08:04:02, 수정 08:26:17 KST입니다.",
+                "qualification": "교류 단절 연도는 이 기사에서 2005년, 연합뉴스에서 2001년으로 달라 해당 연도와 경과 연수는 제외했습니다."
+              },
+              "title": "美·베네수, 21년 만에 군사관계 복원…공동훈련·정보 공유 합의",
+              "url": "https://www.fnnews.com/news/202611190804017431",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261119006500071",
+          "score": 82.75,
+          "scoreComponents": {
+            "domesticImpact": 62,
+            "importance": 85,
+            "interest": 82,
+            "recency": 100,
+            "reliability": 93
+          },
+          "scoreReason": "군사관계 복원이라는 실제 협정 체결로 국제 안보구도에 지속적인 의미가 있습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img4.yna.co.kr/photo/reuters/2026/11/19/PRU20261119039301009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-19T05:17:55+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "18일 헤그세스 미국 국방장관의 베네수엘라 방문과 군사관계 복원 협정 서명을 확인했습니다.",
+                  "공동훈련·정보공유·국방 장비 및 역량 협력에 관한 설명을 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력·수정 메타 모두 2026-11-19 05:17:55 KST입니다.",
+                "qualification": "교류 단절 연도는 다른 출처와 달라 '몇 년 만의 복원'이라는 표현은 사용하지 않았습니다."
+              },
+              "title": "美, 베네수와 군사관계 복원 협정…'서반구 전략' 남미 교두보로",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261119006500071",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "미국과 베네수엘라가 현지 18일 군사관계를 복원하는 협정에 서명했습니다.",
+            "협정에는 공동 군사훈련과 정보 공유, 군사 장비·역량 분야의 협력이 포함됐습니다."
+          ],
+          "timeline": {
+            "change": "양국이 군사협력 복원 협정에 서명하고 공동훈련·정보공유 등의 협력 분야를 공개했습니다.",
+            "eventDate": "2026-11-18",
+            "eventEndDate": null,
+            "eventTimezone": "America/Caracas",
+            "issueId": "us-venezuela-military-cooperation-2026",
+            "issueTitle": "미국·베네수엘라 군사협력 복원",
+            "stage": "결과"
+          },
+          "title": "미국·베네수엘라, 군사협력 복원 협정",
+          "topicKey": "us-venezuela-military-cooperation-2026-11-18",
+          "uncertainty": "공동훈련의 구체적인 일정과 실제 집행 규모는 확인되지 않았습니다.",
+          "whatChanged": "미국 국방장관과 베네수엘라 임시대통령의 만남에서 군사협력 복원 협정이 체결됐습니다.",
+          "whyItMatters": "남미의 군사협력 관계와 미국의 역내 안보정책에 영향을 주는 협정입니다."
+        },
+        {
+          "category": "안전·날씨",
+          "emphasis": [
+            "영하 0.3도",
+            "도로 살얼음"
+          ],
+          "eventAt": "2026-11-19T06:00:00+09:00",
+          "eventTimeNote": "서울 기온은 19일 06시 관측값이며, 한파특보는 05시 기준 발효 상태입니다. 비·눈 현황은 07:39 보도 기준입니다.",
+          "factsHash": "92342ffab0caf9d6a6ff310d22d9e9781ff7c17a8193d97a2e3aa70aeab49e74",
+          "id": "20261119-am-cold-wave",
+          "keyFacts": {
+            "비·눈": "충청·호남·제주 중심, 07:39 보도",
+            "서울 기온": "2026-11-19 06:00 영하 0.3도",
+            "이동 위험": "도로 살얼음·강풍",
+            "한파특보": "강원 산지·경상권 중심, 05시 기준"
+          },
+          "publishedAt": "2026-11-19T07:39:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.fnnews.com/resource/media/image/2026/11/19/202611190645345363_e.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스1·파이낸셜뉴스",
+              "publishedAt": "2026-11-19T06:32:23+09:00",
+              "sourceCheck": {
+                "access": "검색 도구의 원문 열기는 실패했으나 직접 HTTP 요청으로 뉴스1 전재 본문과 HTML을 읽었습니다.",
+                "facts": [
+                  "서울 영하 0.3도는 기상청 AWS의 06시 관측값임을 확인했습니다.",
+                  "05시 기준 한파특보와 빙판길·도로 살얼음 주의 안내를 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력 06:32:23, 수정 06:45:38 KST입니다."
+              },
+              "title": "'서울 -0.3도' 6년 만에 수능 한파…강원·경상권 한파 특보(종합)",
+              "url": "https://www.fnnews.com/news/202611190632233643",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.ytn.co.kr/_ln/0108_202611190739130461",
+          "reserveUpdate": {
+            "delta": "이전 예비 기사의 수능 전후 추위 전망 이후, 19일 영하권 관측과 한파특보·비와 눈이 확인됐습니다.",
+            "editionId": "2026-11-13-pm",
+            "publishedAt": "2026-11-19T07:39:00+09:00",
+            "sourceUrl": "https://www.ytn.co.kr/_ln/0108_202611190739130461"
+          },
+          "score": 91.3,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 83,
+            "interest": 89,
+            "recency": 100,
+            "reliability": 96
+          },
+          "scoreReason": "전날 예보의 반복을 넘어 당일 관측과 특보가 확인됐고 전국 이동 안전에 유용합니다.",
+          "sources": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1119/202611190739130461_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-19T07:39:00+09:00",
+              "sourceCheck": {
+                "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+                "facts": [
+                  "서울 영하 0.3도, 강원 산간·영남 일부 한파주의보와 충청·호남·제주의 비나 눈을 확인했습니다.",
+                  "노면 결빙과 강한 바람에 대한 주의 안내를 확인했습니다."
+                ],
+                "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+                "publication": "입력·수정 메타 모두 2026-11-19 07:39:00 KST입니다."
+              },
+              "title": "[날씨] 영하권 '수능 한파' 기승...충청·호남·제주 비·눈",
+              "url": "https://www.ytn.co.kr/_ln/0108_202611190739130461",
+              "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "수능일인 19일 오전 6시 서울 기온이 영하 0.3도로 내려갔고, 강원 산지와 경상권을 중심으로 한파특보가 발효됐습니다.",
+            "충청·호남·제주에는 비나 눈이 내리고 있어 도로 살얼음과 강한 바람에 주의가 필요합니다."
+          ],
+          "timeline": {
+            "change": "수능 당일 서울 영하권 기온과 한파특보, 충청·호남·제주의 비·눈 현황이 확인됐습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-cold-wave-2026-11",
+            "issueTitle": "수능 전후 한파와 눈·비",
+            "stage": "후속"
+          },
+          "title": "영하권 수능 한파…충청·호남·제주 눈·비",
+          "topicKey": "csat-cold-wave-observations-2026-11-19",
+          "uncertainty": "예상 적설량을 관측 적설량으로 사용하지 않았으며 지역별 도로 결빙 여부는 다를 수 있습니다.",
+          "whatChanged": "이전 수능 전후 추위 예보에 이어 당일 영하권 관측 기온과 한파특보, 실제 비·눈 현황이 확인됐습니다.",
+          "whyItMatters": "수험생과 출근길 보행자·운전자의 이동 안전에 직접 관련됩니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-19T10:06:28.610617+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "78e6d91549645eec0d8b2d2033c2f1506180b7c49bf3fe08725be7a08ed72529",
+  "opensAt": "2026-11-18T21:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-19T09:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

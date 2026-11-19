@@ -103,6 +103,70 @@
       "uncertainty": "17일 21시 이전 보도 기준이며 이후 결과는 포함하지 않았습니다."
     },
     {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "정치",
+      "change": "대통령 재가를 거친 특검법이 19일 관보에 공포돼 즉시 시행됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "공포·시행일은 19일입니다. 재가와 관보 공개의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "공포안의 국무회의 의결 이후 대통령 재가와 19일 관보 공포·즉시 시행이 확인됐습니다.",
+        "editionId": "2026-11-17-pm",
+        "storyId": "20261117-pm-special-counsel"
+      },
+      "id": "2026-11-19-am/20261119-am-special-counsel-law",
+      "keyFacts": {
+        "공포·시행일": "2026-11-19",
+        "다음 절차": "특검 후보 추천과 대통령 임명",
+        "수사 인력": "최대 309명",
+        "활동기간": "준비기간 20일 포함 최장 200일"
+      },
+      "previous": {
+        "editionId": "2026-11-17-pm",
+        "storyId": "20261117-pm-special-counsel"
+      },
+      "publishedAt": "2026-11-19T08:29:33+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111821740001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T08:29:33+09:00",
+          "sourceCheck": {
+            "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+            "facts": [
+              "대통령 재가를 거친 법률의 19일 관보 게재와 공포 당일 시행을 확인했습니다.",
+              "특검 추천 등 후속 절차가 예정돼 있습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "publication": "입력·수정 메타 모두 2026-11-19 08:29:33 KST입니다."
+          },
+          "title": "李대통령, 순방 중 조작기소 특검법 재가…공포돼 즉시 시행",
+          "url": "https://www.yna.co.kr/view/AKR20261119025000001",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "시행",
+      "status": "확정",
+      "storyId": "20261119-am-special-counsel-law",
+      "summary": [
+        "국가기관의 조작 수사·기소 의혹을 조사하기 위한 특검법이 대통령 재가를 거쳐 19일 공포·시행됐습니다.",
+        "특검은 준비기간 20일을 포함해 최장 200일간 활동할 수 있으며, 후보 추천과 임명 절차가 이어질 예정입니다."
+      ],
+      "supersededBy": [],
+      "title": "조작기소 의혹 특검법, 공포·시행",
+      "uncertainty": "법 시행은 의혹의 입증이나 특검 수사 결과를 뜻하지 않으며, 특검 임명·수사 개시는 이번 자료에서 확인되지 않았습니다."
+    },
+    {
       "briefingPath": "2026-11-15/am.json",
       "category": "정치·정책",
       "change": "공포안의 17일 국무회의 상정 예정이 보도됐습니다. 의결·재가·공포는 미확인입니다.",
@@ -160,5 +224,5 @@
   "id": "prosecution-manipulation-special-counsel-bill-2026",
   "schemaVersion": 1,
   "title": "조작기소 의혹 특별검사법 입법과 권한 조정",
-  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
 }

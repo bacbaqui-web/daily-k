@@ -326,10 +326,74 @@
       "supersededBy": [],
       "title": "수능 개인 필기구, 흑색 연필만 사용",
       "uncertainty": "개인 공유기와 휴대전화 테더링까지 일괄 차단하는 조치는 아닙니다."
+    },
+    {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "사회",
+      "change": "전국 수능이 시작되고 부정행위 방지용 첫 위급재난문자가 실제 발송됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": "2026-11-19T08:40:00+09:00",
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "시험은 19일 08:40, 첫 위급재난문자 발송은 08:30 KST입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "개인 필기구·와이파이 지침 발표 이후 시험이 시작됐고, 미제출 휴대전화 적발용 위급재난문자가 실제 발송됐습니다.",
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-csat-final-rules"
+      },
+      "id": "2026-11-19-am/20261119-am-csat-start",
+      "keyFacts": {
+        "시험 시작": "2026-11-19 08:40 KST",
+        "시험장": "85개 시험지구, 1,312개 시험장",
+        "첫 문자 발송": "2026-11-19 08:30 KST",
+        "추가 문자": "시험 중 불시 발송 예정"
+      },
+      "previous": {
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-csat-final-rules"
+      },
+      "publishedAt": "2026-11-19T08:40:41+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2026/11/19/202611190840386691_e.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴스1·파이낸셜뉴스",
+          "publishedAt": "2026-11-19T08:40:41+09:00",
+          "sourceCheck": {
+            "access": "뉴스1 기사의 파이낸셜뉴스 전재 본문과 HTML을 읽었습니다.",
+            "facts": [
+              "19일 08:40 전국 85개 시험지구, 1,312개 시험장에서 시험이 시작됐습니다.",
+              "55만1,864명은 지원자 수이며 실제 응시 인원으로 사용하지 않았습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "publication": "입력·수정 메타 모두 2026-11-19 08:40:41 KST입니다."
+          },
+          "title": "55만 응시 현행 마지막 수능 시작…AI 커닝·N수생·사탐런 '변수'",
+          "url": "https://www.fnnews.com/news/202611190840417421",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "시행",
+      "status": "확정",
+      "storyId": "20261119-am-csat-start",
+      "summary": [
+        "2027학년도 수능이 19일 오전 8시 40분 전국 1,312개 시험장에서 시작됐습니다.",
+        "앞서 오전 8시 30분에는 미제출 휴대전화 적발을 위한 위급재난문자가 전국에 발송됐으며, 시험 중에도 불시에 추가 발송될 예정입니다."
+      ],
+      "supersededBy": [],
+      "title": "수능 시작…부정행위 방지 재난문자 발송",
+      "uncertainty": "기준시각까지의 출처로 부정행위 적발 성과나 최종 응시·결시 인원은 확인되지 않았습니다."
     }
   ],
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
 }

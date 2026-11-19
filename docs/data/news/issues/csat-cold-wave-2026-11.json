@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "안전·날씨",
+      "change": "수능 당일 서울 영하권 기온과 한파특보, 충청·호남·제주의 비·눈 현황이 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": "2026-11-19T06:00:00+09:00",
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "서울 기온은 19일 06시 관측값이며, 한파특보는 05시 기준 발효 상태입니다. 비·눈 현황은 07:39 보도 기준입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-19-am/20261119-am-cold-wave",
+      "keyFacts": {
+        "비·눈": "충청·호남·제주 중심, 07:39 보도",
+        "서울 기온": "2026-11-19 06:00 영하 0.3도",
+        "이동 위험": "도로 살얼음·강풍",
+        "한파특보": "강원 산지·경상권 중심, 05시 기준"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-19T07:39:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1119/202611190739130461_t.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-19T07:39:00+09:00",
+          "sourceCheck": {
+            "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+            "facts": [
+              "서울 영하 0.3도, 강원 산간·영남 일부 한파주의보와 충청·호남·제주의 비나 눈을 확인했습니다.",
+              "노면 결빙과 강한 바람에 대한 주의 안내를 확인했습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "publication": "입력·수정 메타 모두 2026-11-19 07:39:00 KST입니다."
+          },
+          "title": "[날씨] 영하권 '수능 한파' 기승...충청·호남·제주 비·눈",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611190739130461",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "20261119-am-cold-wave",
+      "summary": [
+        "수능일인 19일 오전 6시 서울 기온이 영하 0.3도로 내려갔고, 강원 산지와 경상권을 중심으로 한파특보가 발효됐습니다.",
+        "충청·호남·제주에는 비나 눈이 내리고 있어 도로 살얼음과 강한 바람에 주의가 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "영하권 수능 한파…충청·호남·제주 눈·비",
+      "uncertainty": "예상 적설량을 관측 적설량으로 사용하지 않았으며 지역별 도로 결빙 여부는 다를 수 있습니다."
+    }
+  ],
+  "id": "csat-cold-wave-2026-11",
+  "schemaVersion": 1,
+  "title": "수능 전후 한파와 눈·비",
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+}

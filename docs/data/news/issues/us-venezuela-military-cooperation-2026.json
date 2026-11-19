@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "국제",
+      "change": "양국이 군사협력 복원 협정에 서명하고 공동훈련·정보공유 등의 협력 분야를 공개했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "18일 베네수엘라 카라카스 방문 중 체결된 협정으로 한국시간 19일 아침 보도됐습니다. 정확한 서명 시각은 확인되지 않았습니다.",
+      "eventTimezone": "America/Caracas",
+      "followUp": null,
+      "id": "2026-11-19-am/20261119-am-us-venezuela",
+      "keyFacts": {
+        "참여 인사": "피트 헤그세스 미국 국방장관·델시 로드리게스 베네수엘라 임시대통령",
+        "체결일": "2026-11-18 현지",
+        "협력 분야": "공동훈련·정보공유·군사 장비 및 역량"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-19T05:17:55+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img4.yna.co.kr/photo/reuters/2026/11/19/PRU20261119039301009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T05:17:55+09:00",
+          "sourceCheck": {
+            "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+            "facts": [
+              "18일 헤그세스 미국 국방장관의 베네수엘라 방문과 군사관계 복원 협정 서명을 확인했습니다.",
+              "공동훈련·정보공유·국방 장비 및 역량 협력에 관한 설명을 확인했습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "publication": "입력·수정 메타 모두 2026-11-19 05:17:55 KST입니다.",
+            "qualification": "교류 단절 연도는 다른 출처와 달라 '몇 년 만의 복원'이라는 표현은 사용하지 않았습니다."
+          },
+          "title": "美, 베네수와 군사관계 복원 협정…'서반구 전략' 남미 교두보로",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119006500071",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "20261119-am-us-venezuela",
+      "summary": [
+        "미국과 베네수엘라가 현지 18일 군사관계를 복원하는 협정에 서명했습니다.",
+        "협정에는 공동 군사훈련과 정보 공유, 군사 장비·역량 분야의 협력이 포함됐습니다."
+      ],
+      "supersededBy": [],
+      "title": "미국·베네수엘라, 군사협력 복원 협정",
+      "uncertainty": "공동훈련의 구체적인 일정과 실제 집행 규모는 확인되지 않았습니다."
+    }
+  ],
+  "id": "us-venezuela-military-cooperation-2026",
+  "schemaVersion": 1,
+  "title": "미국·베네수엘라 군사협력 복원",
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+}

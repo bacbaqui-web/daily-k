@@ -1196,6 +1196,71 @@
       "uncertainty": "해당 보도 기준이며 이후 결과는 별도 확인이 필요합니다."
     },
     {
+      "briefingPath": "2026-11-19/am.json",
+      "category": "증시",
+      "change": "미국 18일 정규장은 혼조로 끝났고 엔비디아는 실적 발표 이후 첫 거래일에 2.89% 하락했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "am",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-am",
+      "eventAt": null,
+      "eventDate": "2026-11-18",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지 18일 정규장 마감값으로 한국시간 19일 아침 보도됐습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "미국 17일 세 지수 하락 이후, 18일에는 나스닥이 반등했으나 다우·S&P500은 하락했고 엔비디아는 실적 발표 뒤 첫 정규장에서 2.89% 내렸습니다.",
+        "editionId": "2026-11-18-am",
+        "storyId": "20261118-am-us-market"
+      },
+      "id": "2026-11-19-am/20261119-am-us-market",
+      "keyFacts": {
+        "S&P500": "전일 대비 -0.23%, 5거래일 연속 하락",
+        "거래일": "2026-11-18 미국 정규장",
+        "나스닥": "전일 대비 +0.42%",
+        "다우": "전일 대비 -1.11%",
+        "엔비디아": "전일 대비 -2.89%"
+      },
+      "previous": {
+        "editionId": "2026-11-18-am",
+        "storyId": "20261118-am-us-market"
+      },
+      "publishedAt": "2026-11-19T07:54:29+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/photo/reuters/2026/11/19/PRU20261119011501009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T07:54:29+09:00",
+          "sourceCheck": {
+            "access": "원문 본문과 HTML에 접근해 읽었습니다.",
+            "facts": [
+              "미국 18일 정규장의 다우 -1.11%, S&P500 -0.23%, 나스닥 +0.42%를 확인했습니다.",
+              "엔비디아 -2.89%와 S&P500의 5거래일 연속 하락을 확인했습니다."
+            ],
+            "image": "원문 og:image 또는 twitter:image에서 이 HTTPS 주소를 확인했습니다.",
+            "publication": "입력 07:54:29, 수정 08:18:18 KST입니다."
+          },
+          "title": "엔비디아 호실적에도 S&P500 5일연속 하락…나스닥만 0.4%↑(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119010551072",
+          "verifiedAt": "2026-11-19T10:02:47.115654+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "20261119-am-us-market",
+      "summary": [
+        "미국 18일 정규장에서 다우는 1.11%, S&P500은 0.23% 내렸지만 나스닥은 0.42% 상승했습니다.",
+        "엔비디아는 실적 발표 후 첫 정규장에서 2.89% 내렸고, S&P500은 5거래일 연속 하락했습니다."
+      ],
+      "supersededBy": [],
+      "title": "뉴욕증시 혼조…엔비디아 2.89% 하락",
+      "uncertainty": "가격 변화의 원인별 기여도는 확정할 수 없으며, 이 수치는 시간외 거래나 19일 한국 증시 개장값이 아닙니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 16,
@@ -1933,5 +1998,5 @@
   "id": "us-equities-chips-rates-oil",
   "schemaVersion": 1,
   "title": "미국 증시의 반도체 실적·금리·유가 반응",
-  "updatedAt": "2026-11-19T09:28:23.214550+09:00"
+  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
 }
