@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T08:06:28.254739+00:00",
+  "collectedAt": "2026-11-19T08:09:41.561963+00:00",
   "windowEnd": "2026-11-19T17:06:28.141087+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4813,6 +4813,107 @@
       "firstPublishedAt": "2026-11-19T04:25:56.091884+00:00"
     },
     {
+      "id": "aagag-1670965-0",
+      "url": "https://aagag.com/issue/?idx=1670965",
+      "source": "애객",
+      "title": "방어야 미안",
+      "publishedAt": "2026-11-19T16:56:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6YYf.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6YYf.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": ".",
+      "reportedCommentCount": 13,
+      "commentsPartial": false,
+      "kCount": 17,
+      "commentCount": 13,
+      "laughingComments": 3,
+      "score": 17,
+      "kPerComment": 1.3076923076923077,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9002662",
+          "text": "뚝배기! (깡)"
+        },
+        {
+          "id": "9002664",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ 아 뭐지 하고 다시 올라가니까 깡"
+        },
+        {
+          "id": "9002684",
+          "text": "영상보면서 입으로 뚝배기! 했는데 댓글에 딱!!"
+        },
+        {
+          "id": "9002712",
+          "text": "깡!"
+        },
+        {
+          "id": "9002666",
+          "text": "저건 대방어도 한방 아니냐"
+        },
+        {
+          "id": "9002669",
+          "text": "방어 실패"
+        },
+        {
+          "id": "9002673",
+          "text": "스트레스 안받게 이렇게~ (깡!)"
+        },
+        {
+          "id": "9002676",
+          "text": "꺼내는 순간 숨이 안 쉬어지는데 어떻게 안놀래요"
+        },
+        {
+          "id": "9002679",
+          "text": "스트레스(물리)"
+        },
+        {
+          "id": "9002682",
+          "text": "ㅋㅋㅋㅋ ㅅㅂ 방망이 ㅋㅋㅋ 빵터짐"
+        },
+        {
+          "id": "9002686",
+          "text": "마지막 ㅋㅋ"
+        },
+        {
+          "id": "9002705",
+          "text": "걍 대가리에 침 박어"
+        },
+        {
+          "id": "9002708",
+          "text": "방어 닉값 전혀 못하네 원킬"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T17:09:31.495330+09:00",
+      "sourceTitles": [
+        "방어 먹기 미안해지는 영상",
+        "일하는데 알람 울려서 깜놀ㄷㄷ",
+        "방어야 미안",
+        "방어 스트레스 안 받게 잡는 기술"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-19T08:09:41.445334+00:00",
+      "collectedAt": "2026-11-19T17:09:41.445353+09:00",
+      "firstPublishedAt": "2026-11-19T08:09:41.609353+00:00"
+    },
+    {
       "id": "aagag-142761-1",
       "url": "https://aagag.com/issue/?idx=142761_1",
       "source": "애객",
@@ -8420,7 +8521,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
