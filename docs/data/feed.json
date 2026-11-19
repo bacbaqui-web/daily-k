@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-19",
-  "collectedAt": "2026-11-19T04:16:58.235255+00:00",
+  "collectedAt": "2026-11-19T04:22:15.290938+00:00",
   "windowEnd": "2026-11-19T13:16:57.875142+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3838,6 +3838,67 @@
       "sourceTitlesFetchedAt": "2026-11-18T23:01:10.857766+00:00",
       "collectedAt": "2026-11-19T08:01:10.857815+09:00",
       "firstPublishedAt": "2026-11-18T23:01:10.958425+00:00"
+    },
+    {
+      "id": "aagag-1670873-0",
+      "url": "https://aagag.com/issue/?idx=1670873",
+      "source": "애객",
+      "title": "랜덤 소개팅 즉흥연기",
+      "publishedAt": "2026-11-19T13:12:06+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L66bD.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L66bD.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 23,
+      "commentCount": 4,
+      "laughingComments": 4,
+      "score": 23,
+      "kPerComment": 5.75,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9001446",
+          "text": "순발력 쩐다ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001466",
+          "text": "키 280 ㅋㅋㅋ"
+        },
+        {
+          "id": "9001469",
+          "text": "너무 랜덤이잖앜ㅋㅋㅋㅋㅋㅋㅋㅋ 표준분포좀 해달라곸ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9001486",
+          "text": "단풍나무세요에서 뿜었네ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-19T13:22:00.142422+09:00",
+      "sourceTitles": [
+        "랜덤 소개팅 즉흥연기",
+        "랜덤 소개팅 즉흥연기",
+        "요즘 이런게 웃김",
+        "즉흥연기 순발력 키우기 ㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-19T04:22:15.169523+00:00",
+      "collectedAt": "2026-11-19T13:22:15.169541+09:00",
+      "firstPublishedAt": "2026-11-19T04:22:15.330415+00:00"
     },
     {
       "id": "aagag-1670865-0",
@@ -9122,7 +9183,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
