@@ -1,0 +1,648 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-20T21:08:31.973626+09:00",
+  "id": "2026-11-20-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-20T21:00:00+09:00",
+      "date": "2026-11-20",
+      "edition": "pm",
+      "editionId": "2026-11-20-pm",
+      "events": [],
+      "generatedAt": "2026-11-20T21:03:50.907628+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-20-pm",
+      "intro": "11월 20일 저녁 주요 뉴스입니다. 국내 증시 급락과 민주유공자법 통과, 대법원장 탄핵 추진 결정, AI 시험 부정행위 후속 대책을 중심으로 정리했습니다.",
+      "keywords": [
+        "코스피 5.21% 급락",
+        "코스닥 5.71% 하락",
+        "민주유공자법 국회 통과",
+        "조희대 대법원장 탄핵 추진 당론",
+        "시험 공정성 회복 TF",
+        "수능 전자기기 적발 111건",
+        "공동주택 공시가격 반영률 69%",
+        "러시아·유럽 안보 협의",
+        "철도노조 준법투쟁 예고"
+      ],
+      "omissionNotes": [
+        "실제 예약 실행 시작 시각인 2026-11-20T20:32:53+09:00을 researchCutoffAt으로 기록했습니다. 조사 완료 시각은 2026-11-20T20:35:30+09:00입니다. 발행 기준 cutoffAt은 오후 9시이지만 오후 9시까지 조사했다고 주장하지 않습니다. 이번 원고에 수록한 원문 보도의 확인된 송고·입력 시각은 모두 researchCutoffAt 이전입니다.",
+        "최근 7일 이력 확인을 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 직접 접근했습니다. 목록은 열렸으며 확인된 가장 최근 회차는 2026-11-19-am이었습니다. 2026-11-19-pm 및 2026-11-20-am은 해당 목록에서 확인되지 않았습니다.",
+        "2026-11-19-am, 11-18-pm, 11-18-am, 11-17-pm, 11-17-am, 11-16-pm, 11-16-am 개별 JSON 파일을 직접 열려고 했으나 접근 오류가 발생했습니다. 외부 파일 요청도 네트워크 연결 오류로 실패했습니다. 따라서 최근 7일 대표·추가·예비 기사 전체 비교는 완료되지 않았습니다. 수신 측은 실제 발행된 최근 7일의 개별 JSON을 반드시 읽고 중복 및 후속 기사 여부를 다시 검사해야 합니다.",
+        "2026-11-19-pm 및 2026-11-20-am 예약 원고와 수정 내역은 현재 대화에서 확인했습니다. 코스피의 전날 상승 마감, 민주당의 대법원장 탄핵 추진 계획, 수능 전자기기 관련 초기 적발 수치와 비교해 당일 달라진 결과를 중심으로 선정했습니다. 다만 실제 발행본이 확인되지 않아 이들 회차의 followUp 객체를 확정해 만들지 않았습니다.",
+        "timeline.issueId와 issueTitle은 현재 대화에서 확인할 수 있는 직전 예약 원고의 값을 가능한 범위에서 재사용했습니다. 그러나 발행된 최근 7일의 최신 이력과 대조하지 못했으므로 수신 측이 반드시 실제 발행본에 있는 기존 식별자와 일치시키거나 새로운 사건인지 확인해야 합니다. 특히 코스피, 조희대 탄핵, 수능 부정행위 사건의 식별자를 우선 검사해야 합니다.",
+        "수능 관련 기사에서 전날 4교시 기준 98명과 오늘 111건은 집계 범위와 기준 시점이 다른 수치일 수 있습니다. 이번 원고에서는 111건을 전자기기 관련 적발로 한정했고 실제 AI 이용 확정 사례로 서술하지 않았습니다. 수신 측에서 최종 집계 기준과 기존 기사 연결을 재검사해야 합니다.",
+        "조희대 대법원장 탄핵 관련 기사는 전날 추진 계획에서 오늘 당론 채택으로 달라진 사실만 정리했습니다. 탄핵소추안이 국회에서 이미 의결됐거나 헌법재판소가 심판 결과를 내렸다는 의미가 아닙니다.",
+        "민주유공자법은 국회 가결 사실까지만 확인했습니다. 대통령의 공포나 실제 시행이 완료됐다고 서술하지 않았으며, 지원 대상 선정 기준을 둘러싼 정당별 해석은 주장 주체를 구분했습니다.",
+        "11월 20일 아침 원고에 있던 미국 증시 급락과 앤트로픽 상장 첫날 결과는 오후에 새로 확정된 내용이 아니므로 별도 기사로 반복하지 않았습니다. 국내 코스피·코스닥 마감은 아침 이후 새로 확정된 결과이므로 포함했습니다.",
+        "서울 지하철 성수지선은 오전 8시 47분부터 운행이 정상화됐다는 연합뉴스 8시 52분 이후 보도를 확인했습니다. 오전 원고의 운행 중단에서 달라진 사실이지만 저녁 기준 더 중요한 정책·경제·사회 사안들을 우선해 독립 기사로 선정하지 않았습니다.",
+        "국내 웹툰 산업 관련 신규 소식과 개별 기업 홍보성 소식은 공적 영향 및 확인 기준을 충족하는 중요한 새 사실을 확보하지 못해 기사 수를 채우기 위해 추가하지 않았습니다.",
+        "각 기사의 원문을 열어 핵심 사실을 확인했습니다. 기사 사진의 실제 og:image 또는 twitter:image HTTPS 주소는 검증하지 못해 imageUrl을 모두 null로 유지했습니다. 기사 내용 확인 성공과 사진 메타데이터 미확인을 구분했으며 검색 사진이나 추측한 이미지 주소를 사용하지 않았습니다.",
+        "2026년 11월 21일에 진행되는 별도의 중요 공식 일정을 충분히 검증하지 못해 임의로 만들지 않았습니다. 일정에는 날짜와 계획을 확인할 수 있는 22일 코레일 비상수송대책본부 가동과 23일 준법투쟁 예고만 기재했습니다.",
+        "발행 승인 여부, 검증 해시, operationId 및 수신 측의 검증 시각은 생성하지 않았습니다. GitHub, 홈페이지, Discord에 게시하거나 전송하지 않았으며 파일 및 예약도 생성하지 않았습니다."
+      ],
+      "overview": [
+        "코스피와 코스닥이 나란히 5% 넘게 급락했고, 국회에서는 민주유공자법이 통과됐습니다.",
+        "민주당은 조희대 대법원장 탄핵 추진을 당론으로 채택했으며, 청와대는 AI 부정행위 대응을 위한 시험 공정성 회복 TF 운영을 결정했습니다."
+      ],
+      "researchCompletedAt": "2026-11-20T20:35:30+09:00",
+      "researchCutoffAt": "2026-11-20T20:32:53+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "경제·증시",
+          "emphasis": [
+            "5.21% 떨어진 4,869.96",
+            "매도 사이드카가 발동됐고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 국내 주식시장 정규장 마감 결과입니다. 환율은 같은 날 오후 3시 30분 기준가입니다.",
+          "factsHash": "1d1be0d6ac00d4abce3791594f37a89bbe86338c43f2c47b628a5da2b681b190",
+          "followUp": {
+            "delta": "전날 반등했던 코스피가 하루 만에 5.21% 급락했고 코스닥도 5% 넘게 하락하면서 두 시장 모두 매도 사이드카가 발동됐습니다.",
+            "editionId": "2026-11-19-pm",
+            "storyId": "kospi-close-rebound-20261119"
+          },
+          "id": "kospi-five-percent-drop-20261120",
+          "keyFacts": {
+            "exchangeRate": "원·달러 오후 3시 30분 기준 1,336.2원, 전일 대비 6.2원 상승",
+            "foreignInvestors": "연합뉴스 집계 기준 코스피 1조1,420억원 순매도",
+            "kosdaqClose": "645.68, 전 거래일 대비 39.13포인트 및 5.71% 하락",
+            "kospiClose": "4,869.96, 전 거래일 대비 267.93포인트 및 5.21% 하락",
+            "kospiIntradayLow": "4,831.69",
+            "marketAction": "코스피와 코스닥 양 시장 매도 사이드카 발동",
+            "marketCapitalization": "코스피 시가총액 3,991조3,977억원"
+          },
+          "publishedAt": "2026-11-20T16:29:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112014060001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T15:53:00+09:00",
+              "title": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261120132200002",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            },
+            {
+              "imageUrl": "https://cphoto.asiae.co.kr/listimglink/1/2026112010001617280_1795136416.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "아시아경제",
+              "publishedAt": "2026-11-20T15:59:00+09:00",
+              "title": "코스피·코스닥 5% 하락 마감…\"시장 참여자 매수 의지 약해져\"",
+              "url": "https://view.asiae.co.kr/article/2026112015594961221",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120137600008",
+          "score": 98.3,
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 99,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "국내 양대 주가지수의 동반 5%대 하락과 매도 사이드카 발동, 환율 상승이 당일 마감 결과로 확인됐습니다.",
+          "sourceCheck": "연합뉴스 16시 29분 원문에서 코스피·코스닥 마감 지수, 하락률, 시가총액, 양 시장 사이드카 발동을 확인했습니다. 연합뉴스 15시 53분 환율 기사에서 오후 3시 30분 기준 원·달러 환율 1,336.2원과 6.2원 상승을 확인했습니다. 아시아경제 기사에서도 두 지수의 종가와 하락률을 대조했습니다. 매매 주체별 수급 수치는 집계 시점에 따라 차이가 있어 본문에 포함하지 않았습니다. 원본 이미지 메타데이터는 검증하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img2.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112014080001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T16:29:00+09:00",
+              "title": "5%대 급락 '검은 금요일'…코스피 4,800대로 후퇴, 10개월만 최저(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261120137600008",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피는 5.21% 떨어진 4,869.96, 코스닥은 5.71% 내린 645.68로 장을 마쳤습니다.",
+            "두 시장에서 매도 사이드카가 발동됐고 원·달러 환율은 전날보다 6.2원 오른 1,336.2원을 기록했습니다."
+          ],
+          "timeline": {
+            "change": "19일 상승 마감했던 코스피가 20일 5.21% 급락해 4,869.96으로 내려갔고 코스닥도 5.71% 하락했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피 5.21% 급락, 4,869 마감",
+          "topicKey": "kr-stock-market-november-2026",
+          "uncertainty": "증시 급락의 원인은 복합적이며 특정 기업의 상장이나 미국의 반도체 규제 우려 하나만으로 설명할 수 없습니다.",
+          "whatChanged": "전날 반등했던 코스피가 하루 만에 5.21% 급락했고 코스닥도 5% 넘게 하락하면서 두 시장 모두 매도 사이드카가 발동됐습니다.",
+          "whyItMatters": "미국 기술주 약세와 반도체 규제 우려가 국내 증시에도 반영됐으며 외국인 매도세와 환율 상승이 함께 나타났습니다."
+        },
+        {
+          "category": "정치·사회",
+          "emphasis": [
+            "재석 178명 전원 찬성",
+            "635명으로 추산했으며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 오후 국회 본회의에서 가결됐습니다. 정확한 표결 종료 시각은 확인하지 못했습니다.",
+          "factsHash": "0983256a7da4573fb0a94390649bb71b48bd256539cedfc8a5c04a70a5099004",
+          "id": "democracy-merit-law-passed-20261120",
+          "keyFacts": {
+            "assemblyVote": "재석 178명 전원 찬성으로 가결",
+            "coverage": "민주화보상법 또는 부마항쟁보상법에 따라 인정된 사망자·행방불명자·일정 장해등급 판정자",
+            "estimatedEligiblePersons": "국가보훈부 추산 635명",
+            "opposition": "국민의힘 표결 불참",
+            "priorLegislation": "2024년 국회 통과 후 대통령 재의요구로 폐기된 법안의 재추진",
+            "support": "의료비 지원, 장기요양 본인부담금 일부 지원 등의 근거"
+          },
+          "publishedAt": "2026-11-20T16:25:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.seoul.co.kr/img/upload/2026/11/20/SSC_20261120151546.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "서울신문",
+              "publishedAt": "2026-11-20T15:15:00+09:00",
+              "title": "민주유공자법, 與주도 국회 통과… 국힘 불참",
+              "url": "https://m.seoul.co.kr/news/politics/congress/2026/11/20/20261120500212",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120121451001",
+          "score": 96.9,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 98,
+            "interest": 93,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "국회 본회의에서 법률안의 가결 결과가 확정됐으며 지원 대상과 법안의 주요 내용이 확인됐습니다.",
+          "sourceCheck": "연합뉴스 16시 25분 원문에서 표결 결과, 법안의 지원 대상, 국가보훈부 추산 인원과 여야 입장을 확인했습니다. 서울신문의 15시 15분 입력·15시 38분 수정 기사에서도 재석 178명 전원 찬성, 국민의힘 표결 불참과 대상자 635명을 확인했습니다. 여야의 법안 평가와 해석은 각 정당의 주장으로 구분했습니다. 국회 통과와 법률 시행을 혼동하지 않았으며 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112013620001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T16:25:00+09:00",
+              "title": "민주유공자법, 與주도 국회 통과…국힘 \"운동권 특혜법\" 반발(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261120121451001",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "국회는 민주유공자법을 재석 178명 전원 찬성으로 통과시켰고 국민의힘 의원들은 표결에 참여하지 않았습니다.",
+            "국가보훈부는 등록 대상자를 635명으로 추산했으며, 국민의힘은 선정 기준이 모호하다며 반대했습니다."
+          ],
+          "timeline": {
+            "change": "민주유공자법이 국민의힘의 필리버스터 종료 뒤 재석 178명 전원 찬성으로 국회 본회의를 통과했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-democracy-merit-legislation-2026",
+            "issueTitle": "민주유공자 예우법 입법",
+            "stage": "결과"
+          },
+          "title": "민주유공자법, 국회 본회의 통과",
+          "topicKey": "kr-democracy-merit-legislation",
+          "uncertainty": "국회 본회의 통과는 확인됐지만 법률 공포와 시행 절차가 모두 완료된 것은 아닙니다. 대상자별 최종 등록 여부도 법률상 요건과 심사에 따라 결정됩니다.",
+          "whatChanged": "전날부터 이어진 필리버스터가 종료되고 민주유공자법이 20일 본회의에서 가결됐습니다.",
+          "whyItMatters": "민주화운동 과정의 사망자와 행방불명자, 일정한 장해등급을 인정받은 사람 등에 대한 국가 차원의 예우와 의료·요양 지원 근거가 마련되는 입법 절차가 진행됐습니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "당론으로 채택했습니다",
+            "연내 소추안 발의를 추진"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 더불어민주당 의원총회에서 당론 채택이 결정됐습니다. 정확한 회의 종료 시각은 확인하지 못했습니다.",
+          "factsHash": "b192ad31596a70904d20d8a2acd63e5ec52f27a1b95efcc358524828ee36f764",
+          "followUp": {
+            "delta": "전날 밤 추진 계획을 발표한 데 이어 20일 의원총회에서 탄핵소추 추진이 공식 당론으로 채택됐습니다.",
+            "editionId": "2026-11-20-am",
+            "storyId": "cho-hee-dae-impeachment-plan-20261120"
+          },
+          "id": "cho-hee-dae-impeachment-party-decision-20261120",
+          "keyFacts": {
+            "decision": "민주당 의원총회에서 조희대 대법원장 탄핵소추 추진 당론 채택",
+            "excludedGround": "민주당은 한덕수 전 총리 사건의 전날 판결 자체를 탄핵 사유에 포함하지 않았다고 설명",
+            "oppositionPosition": "국민의힘은 삼권분립 침해를 우려하며 반대",
+            "partyStatedGrounds": "비상계엄 당시 대법원 대응, 이재명 대통령 사건 파기환송, 대법관 재제청 관련 논란 등",
+            "plannedFiling": "2026년 연내 조기 발의 추진",
+            "taskForceLeader": "양부남 민주당 의원"
+          },
+          "publishedAt": "2026-11-20T16:50:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1120/202611201419355208_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-20T14:19:00+09:00",
+              "title": "민주당 '조희대 대법원장 탄핵' 당론 결정 [현장영상+]",
+              "url": "https://www.ytn.co.kr/_ln/0101_202611201419355208_001",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            },
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112001810001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T15:32:00+09:00",
+              "title": "與, '조희대 탄핵추진' 당론 채택…\"가능한 한 연내 빨리 처리\"(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261120106951001",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120106952001",
+          "score": 97.45,
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 97,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "전날 추진 계획에서 당일 정당의 공식 의사결정으로 진행 단계가 바뀌었으며 국회 절차에 직접 연결되는 새 결과가 나왔습니다.",
+          "sourceCheck": "연합뉴스 16시 50분 종합기사에서 당론 채택, 연내 발의 방침, 민주당이 제시한 탄핵 사유와 국민의힘 반대 입장을 확인했습니다. 15시 32분 앞선 종합기사 및 YTN 14시 19분 의원총회 브리핑에서도 당론 채택을 확인했습니다. 민주당의 탄핵 사유는 확정된 법적 판단이 아니라 정당이 제시한 주장으로 구분했습니다. 탄핵소추안의 국회 의결이 완료됐다는 표현을 사용하지 않았습니다. 이미지 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112001810001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T16:50:00+09:00",
+              "title": "與 당론채택에 초유의 대법원장 탄핵심판 초읽기…국힘 \"광기\" 반발(종합2보)",
+              "url": "https://www.yna.co.kr/view/AKR20261120106952001",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "더불어민주당이 조희대 대법원장 탄핵소추 추진을 의원총회에서 당론으로 채택했습니다.",
+            "당은 연내 소추안 발의를 추진하겠다고 밝혔으며 국민의힘은 삼권분립 침해 우려를 제기하며 반대했습니다."
+          ],
+          "timeline": {
+            "change": "전날 발표된 민주당의 탄핵 추진 방침이 20일 의원총회에서 공식 당론으로 채택됐으며 연내 발의를 추진하기로 했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "cho-hee-dae-impeachment-2026",
+            "issueTitle": "조희대 대법원장 탄핵 추진",
+            "stage": "확정"
+          },
+          "title": "민주당, 조희대 탄핵 추진 당론 채택",
+          "topicKey": "cho-hee-dae-impeachment",
+          "uncertainty": "당론 채택은 완료됐지만 탄핵소추안 발의·본회의 의결·헌법재판소 심판은 아직 완료되지 않았으며 정확한 발의 날짜도 확정되지 않았습니다.",
+          "whatChanged": "전날 밤 추진 계획을 발표한 데 이어 20일 의원총회에서 탄핵소추 추진이 공식 당론으로 채택됐습니다.",
+          "whyItMatters": "국회 다수당이 대법원장 탄핵소추를 공식 추진하기로 하면서 향후 국회 발의·표결과 헌법재판소 심판 여부가 주요 사법·정치 현안이 됐습니다."
+        },
+        {
+          "category": "사회·교육",
+          "emphasis": [
+            "총 111건을 적발",
+            "실제 AI 이용 여부는 아직 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 청와대가 TF 확대 운영 방침을 발표했습니다. 교육부의 111건 집계 역시 이날 확인된 보도 기준이며 정확한 최종 집계 완료 시각은 확인하지 못했습니다.",
+          "factsHash": "cd406cb2c6478e0bde15466773bb8fa332ca3145b387f6f480b19b694e73a585",
+          "followUp": {
+            "delta": "전날 수능 4교시 기준 전자기기 관련 적발 98명에서 이날 집계 111건이 보도됐고, 청와대는 기존 비상대응 TF를 확대 운영하기로 했습니다.",
+            "editionId": "2026-11-19-pm",
+            "storyId": "csat-cheating-98-20261119"
+          },
+          "id": "exam-fairness-task-force-20261120",
+          "keyFacts": {
+            "aiUseStatus": "실제 AI 서비스 사용 여부 미확인",
+            "electronicDeviceCases": "교육부 집계 전자기기 관련 적발 111건",
+            "investigation": "총리실 주관 중앙제보센터와 부처별 제보센터 연계 지시",
+            "leader": "임광현 대통령비서실장",
+            "plannedScope": "수능 및 국가시험 전반의 감독 체계 점검과 부정행위 방지 대책 마련",
+            "structure": "11월 17일 구성한 AI 악용 부정행위 비상대응 TF 확대 운영",
+            "taskForce": "가칭 시험 공정성 회복 TF"
+          },
+          "publishedAt": "2026-11-20T17:24:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/11/20/jse_20261120_13.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-20T17:32:00+09:00",
+              "title": "청와대, '시험 공정성 회복을 위한 TF' 구성‥비서실장 단장",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6867341_36911.html",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            },
+            {
+              "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-20T17:35:00+09:00",
+              "title": "청와대, '시험 공정성 회복 TF' 운영...과거 시험 제보센터 가동",
+              "url": "https://www.ytn.co.kr/_ln/0101_202611201735291944",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120154100001",
+          "score": 97.35,
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 96,
+            "interest": 97,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "수능 관련 전자기기 적발 규모가 새로 집계됐고, 청와대 차원의 국가시험 감독 체계 개편 대응이 구체화됐습니다.",
+          "sourceCheck": "연합뉴스 17시 24분 기사에서 TF 구성 결정, 단장, 중앙제보센터 가동 지시와 감독 체계 점검 계획을 확인했습니다. 연합뉴스 17시 기사에서 전자기기 관련 적발 111건과 실제 AI 사용 여부 미확인을 확인했습니다. MBC 17시 32분 입력·17시 33분 수정 기사 및 YTN 17시 35분 보도에서 TF 운영 계획을 교차 확인했습니다. 111건을 전체 수능 부정행위자 수 또는 AI 사용 확정자 수로 표현하지 않았습니다. 이미지 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112011080001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T17:24:00+09:00",
+              "title": "靑, '시험공정성회복TF' 구성…'AI부정행위 근절' 근본대책 마련",
+              "url": "https://www.yna.co.kr/view/AKR20261120154100001",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            },
+            {
+              "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111816270005400_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T17:00:00+09:00",
+              "title": "수능 끝나도 'AI 커닝' 추적…빅테크 협조로 부정행위 가린다",
+              "url": "https://www.yna.co.kr/view/AKR20261120143100017",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "청와대는 임광현 대통령비서실장이 단장을 맡는 시험 공정성 회복 TF를 구성·운영하기로 했습니다.",
+            "교육부는 수능 전자기기 관련 부정행위 총 111건을 적발했다고 밝혔지만, 실제 AI 이용 여부는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "수능 전자기기 관련 적발 111건이 새로 보도됐고 청와대는 AI 부정행위에 대응하기 위한 시험 공정성 회복 TF 확대 운영을 결정했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "후속"
+          },
+          "title": "청와대, 시험 공정성 회복 TF 운영 결정",
+          "topicKey": "2027-csat-exam-security",
+          "uncertainty": "111건은 전자기기 관련 적발 건수이며 실제 AI 서비스 이용이 입증된 사건 수는 아닙니다. TF의 구체적인 제도개선안과 시행 일정도 아직 확정되지 않았습니다.",
+          "whatChanged": "전날 수능 4교시 기준 전자기기 관련 적발 98명에서 이날 집계 111건이 보도됐고, 청와대는 기존 비상대응 TF를 확대 운영하기로 했습니다.",
+          "whyItMatters": "AI와 스마트기기를 활용한 시험 부정행위 대응이 수능뿐 아니라 국가시험 전반의 감독 체계와 사후 조사로 확대되고 있습니다."
+        },
+        {
+          "category": "부동산·경제",
+          "emphasis": [
+            "69.0%로 유지",
+            "5년째 동결됩니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 중앙부동산가격공시위원회에서 2027년 부동산 가격공시 추진 방안을 심의·의결했습니다. 회의의 정확한 의결 시각은 확인하지 못했습니다.",
+          "factsHash": "dd6d67d165286f74a0919be368f593aa4abbc2662ef97701f1daab14c43de2fd",
+          "id": "public-property-value-rate-2027-20261120",
+          "keyFacts": {
+            "administrativeUse": "보유세, 건강보험료, 기초연금 등 67개 행정 사무의 기준",
+            "apartments": "공동주택 시세반영률 69.0%",
+            "freezePeriod": "2023~2027년 5년 연속 동결",
+            "land": "표준토지 65.5%",
+            "policyYear": "2027년",
+            "singleDetachedHouses": "표준단독주택 53.6%"
+          },
+          "publishedAt": "2026-11-20T16:38:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.fnnews.com/resource/media/image/2026/11/19/202611191440151492_e.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "파이낸셜뉴스",
+              "publishedAt": "2026-11-20T17:24:00+09:00",
+              "title": "내년 공시가 현실화율 69% 동결…\"집값 오른 곳은 보유세 부담 여전\"",
+              "url": "https://www.fnnews.com/news/202611201723359635",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120143400003",
+          "score": 96.1,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 95,
+            "interest": 92,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "부동산 관련 세금과 복지 행정에 영향을 미치는 내년도 공시가격 산정 기준이 공식 의결됐습니다.",
+          "sourceCheck": "연합뉴스 16시 38분 원문에서 중앙부동산가격공시위원회의 의결 사실, 2027년 공동주택 69.0%, 표준단독주택 53.6%, 표준토지 65.5%를 확인했습니다. 파이낸셜뉴스 17시 24분 기사에서도 같은 비율을 교차 확인했습니다. 공시가격 시세반영률의 동결과 개별 부동산 공시가격의 동결은 구분했습니다. 원본 이미지 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img6.yna.co.kr/photo/yna/YH/2026/03/17/PYH2026031714150001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T16:38:00+09:00",
+              "title": "내년 공동주택 공시가격 현실화율 69% 유지…5년째 동결",
+              "url": "https://www.yna.co.kr/view/AKR20261120143400003",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "정부는 2027년 공동주택 공시가격 시세반영률을 올해와 같은 69.0%로 유지하기로 의결했습니다.",
+            "표준단독주택은 53.6%, 표준토지는 65.5%를 적용하며 공시가격 현실화율은 5년째 동결됩니다."
+          ],
+          "timeline": {
+            "change": "정부가 2027년 공동주택 69.0%, 표준단독주택 53.6%, 표준토지 65.5%의 시세반영률을 유지하는 방안을 의결했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-property-public-valuation-2027",
+            "issueTitle": "2027년 부동산 공시가격 산정 방안",
+            "stage": "확정"
+          },
+          "title": "내년 공동주택 공시가격 반영률 69% 동결",
+          "topicKey": "kr-property-public-valuation",
+          "uncertainty": "시세반영률을 동결해도 주택 시세 변동에 따라 개별 주택의 2027년 공시가격과 세금 부담은 달라질 수 있습니다.",
+          "whatChanged": "국토교통부 공청회와 중앙부동산가격공시위원회 심의를 거쳐 2027년 공시가격 목표 시세반영률 동결 방침이 의결됐습니다.",
+          "whyItMatters": "공시가격은 보유세뿐 아니라 건강보험료와 기초연금 등 복지제도에서 재산가액을 판단하는 기준으로 활용됩니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "준회원 형태라도 수용할 수 없다고",
+            "민간인 3명이 숨지고 15명이 다쳤다고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 러시아 외무차관 발언과 우크라이나 당국의 피해 발표를 다룬 한국어 보도입니다. 발언과 공격의 정확한 현지 시각은 확인하지 못했습니다.",
+          "factsHash": "2f170e6d3e1543018129f309257fb7b73d47f11cffc4c07963558644f8c9b8c5",
+          "followUp": {
+            "delta": "러시아가 유럽 측 대표들의 방문을 조율하고 있다고 새로 밝혔으며 우크라이나 당국은 키이우 교량 공격에 따른 민간인 피해를 발표했습니다.",
+            "editionId": "2026-11-17-pm",
+            "storyId": "20261117-pm-crimea-bridge"
+          },
+          "id": "russia-europe-envoys-ukraine-20261120",
+          "keyFacts": {
+            "attack": "우크라이나 당국 발표 기준 키이우 드니프로강 교량 3곳 공격",
+            "casualties": "우크라이나 당국 발표 기준 민간인 3명 사망·15명 부상",
+            "natoPosition": "러시아는 우크라이나의 나토 정회원·준회원 가입 모두 반대",
+            "proposedVisit": "유럽 측 대표의 러시아 방문 검토 및 조율 중",
+            "reportedDelegation": "인테르팍스 보도 기준 유럽 대표 3명",
+            "russianOfficial": "세르게이 랴브코프 러시아 외무차관"
+          },
+          "publishedAt": "2026-11-20T18:05:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img2.yna.co.kr/photo/etc/epa/2026/11/20/PEP20261120003901009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T18:05:00+09:00",
+              "title": "러 \"유럽대표 러 방문 조율 중…우크라 나토 가입 안돼\"",
+              "url": "https://www.yna.co.kr/view/AKR20261120159700109",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120159700109",
+          "score": 87.65,
+          "scoreComponents": {
+            "domesticImpact": 65,
+            "importance": 94,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 94
+          },
+          "scoreReason": "유럽 안보 협의와 우크라이나 민간 기반시설 공격에 관한 새로운 발언 및 피해 발표가 같은 날 확인됐습니다.",
+          "sourceCheck": "연합뉴스 18시 5분 원문에서 러시아 랴브코프 외무차관의 발언, 유럽 대표단 방문 조율 관련 러시아 언론 보도, 우크라이나 당국이 발표한 키이우 교량 공격 피해를 확인했습니다. 러시아의 나토 가입 반대 입장은 해당 정부의 공식 발언으로, 민간인 피해는 우크라이나 당국의 발표로 구분했습니다. 독립적인 현장 피해 검증과 유럽 대표단의 최종 방문 일정은 확인되지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img2.yna.co.kr/photo/etc/epa/2026/11/20/PEP20261120003901009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T18:05:00+09:00",
+              "title": "러 \"유럽대표 러 방문 조율 중…우크라 나토 가입 안돼\"",
+              "url": "https://www.yna.co.kr/view/AKR20261120159700109",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "러시아 외무차관은 유럽 측 대표들의 러시아 방문을 조율 중이라면서 우크라이나의 나토 가입은 준회원 형태라도 수용할 수 없다고 밝혔습니다.",
+            "우크라이나 당국은 이날 키이우 교량 3곳에 대한 러시아 공격으로 민간인 3명이 숨지고 15명이 다쳤다고 발표했습니다."
+          ],
+          "timeline": {
+            "change": "러시아 외무차관이 유럽 대표단 방문 조율 사실을 밝히고 우크라이나의 나토 준회원국 가입까지 거부한다는 입장을 재확인했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "russia-ukraine-energy-infrastructure-strikes-2026-10",
+            "issueTitle": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방",
+            "stage": "보도"
+          },
+          "title": "러시아, 유럽 대표단 방문 협의 중",
+          "topicKey": "russia-ukraine-security-talks",
+          "uncertainty": "유럽 대표단의 실제 방문 인원과 일정은 확정되지 않았습니다. 민간인 사상자 수는 우크라이나 당국의 발표 기준입니다.",
+          "whatChanged": "러시아가 유럽 측 대표들의 방문을 조율하고 있다고 새로 밝혔으며 우크라이나 당국은 키이우 교량 공격에 따른 민간인 피해를 발표했습니다.",
+          "whyItMatters": "우크라이나의 안보 보장과 나토 가입 문제가 종전 협상의 쟁점으로 남아 있으며 민간 기반시설에 대한 공격도 이어지고 있습니다."
+        },
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "23일 오전 9시 준법투쟁 예고",
+            "22일부터 비상수송대책본부를 가동"
+          ],
+          "eventAt": "2026-11-23T09:00:00+09:00",
+          "eventTimeNote": "철도노조의 준법투쟁 예고 시각은 2026년 11월 23일 오전 9시입니다. 코레일 비상수송대책본부는 22일부터 가동 예정이나 정확한 가동 시작 시각은 확인되지 않았습니다.",
+          "factsHash": "e70600414f2316888262a01505291bfbc6d1ad4393167567bda962e4ee314162",
+          "id": "korail-industrial-action-plan-20261120",
+          "keyFacts": {
+            "emergencyOperation": "2026년 11월 22일부터 코레일 비상수송대책본부 가동 예정",
+            "expectedImpact": "일부 열차 운행 지연 가능",
+            "passengerAdvice": "코레일 홈페이지 및 관련 앱에서 운행 상황 확인",
+            "plannedAction": "2026년 11월 23일 오전 9시 철도노조 준법투쟁 예고",
+            "priorityConcern": "대학 논술·면접 일정과 겹치는 철도 이용",
+            "refundPolicy": "쟁의 기간 승차권 변경·환불 위약금 면제 안내"
+          },
+          "publishedAt": "2026-11-20T16:52:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082713720001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T16:52:00+09:00",
+              "title": "철도노조 23일 쟁의 예고…대입 수험생 '이동 대책' 비상",
+              "url": "https://www.yna.co.kr/view/AKR20261120147500063",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120147500063",
+          "score": 92.95,
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 93,
+            "interest": 87,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "주말과 대학 입시 이동 일정에 영향을 줄 수 있는 철도 운행 변수가 구체적인 날짜와 함께 확인됐습니다.",
+          "sourceCheck": "연합뉴스 16시 52분 원문에서 철도노조의 23일 오전 9시 준법투쟁 예고, 코레일의 22일 비상수송대책본부 가동 계획, 대학 입시 일정 관련 안내 및 승차권 위약금 면제 방침을 확인했습니다. 실제 열차 지연이나 파업 발생을 확정된 결과로 표현하지 않았습니다. 이미지 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082713720001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T16:52:00+09:00",
+              "title": "철도노조 23일 쟁의 예고…대입 수험생 '이동 대책' 비상",
+              "url": "https://www.yna.co.kr/view/AKR20261120147500063",
+              "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "코레일은 철도노조의 23일 오전 9시 준법투쟁 예고에 맞춰 22일부터 비상수송대책본부를 가동한다고 밝혔습니다.",
+            "열차 운행 지연이 예상되며 코레일은 대학 논술·면접 응시자에게 미리 열차 운행 상황을 확인하라고 당부했습니다."
+          ],
+          "timeline": {
+            "change": "철도노조가 23일 오전 9시 준법투쟁을 예고했으며 코레일은 22일부터 비상수송대책본부를 가동하기로 했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-rail-labor-action-november-2026",
+            "issueTitle": "2026년 11월 철도노조 쟁의 및 열차 운행",
+            "stage": "예정"
+          },
+          "title": "철도노조 23일 준법투쟁 예고",
+          "topicKey": "kr-rail-labor-action-november-2026",
+          "uncertainty": "준법투쟁과 열차 지연은 예정된 상황이며 실제 운행 차질 규모와 노사 협상 결과는 아직 확정되지 않았습니다.",
+          "whatChanged": "철도노조의 23일 쟁의 예고에 대응해 코레일이 22일부터 비상수송대책본부를 가동한다는 일정을 새로 발표했습니다.",
+          "whyItMatters": "철도 이용객과 대학 논술·면접 응시자의 이동 일정에 영향을 줄 수 있어 운행 지연과 대체 교통수단 확인이 필요합니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-20T21:08:31.973626+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "8aa7679a068b576e69221f49b3f6f5df9c65b6f5632367fe6bf4458e955d09ef",
+  "opensAt": "2026-11-20T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-20T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

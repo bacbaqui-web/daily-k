@@ -1288,6 +1288,64 @@
       "uncertainty": "다음 거래일 증시 방향이나 외국인 수급 전환 여부는 확인된 결과가 아닙니다."
     },
     {
+      "briefingPath": "2026-11-20/pm.json",
+      "category": "경제·증시",
+      "change": "19일 상승 마감했던 코스피가 20일 5.21% 급락해 4,869.96으로 내려갔고 코스닥도 5.71% 하락했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T21:03:50.907628+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "pm",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 20일 국내 주식시장 정규장 마감 결과입니다. 환율은 같은 날 오후 3시 30분 기준가입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날 반등했던 코스피가 하루 만에 5.21% 급락했고 코스닥도 5% 넘게 하락하면서 두 시장 모두 매도 사이드카가 발동됐습니다.",
+        "editionId": "2026-11-19-pm",
+        "storyId": "kospi-close-rebound-20261119"
+      },
+      "id": "2026-11-20-pm/kospi-five-percent-drop-20261120",
+      "keyFacts": {
+        "exchangeRate": "원·달러 오후 3시 30분 기준 1,336.2원, 전일 대비 6.2원 상승",
+        "foreignInvestors": "연합뉴스 집계 기준 코스피 1조1,420억원 순매도",
+        "kosdaqClose": "645.68, 전 거래일 대비 39.13포인트 및 5.71% 하락",
+        "kospiClose": "4,869.96, 전 거래일 대비 267.93포인트 및 5.21% 하락",
+        "kospiIntradayLow": "4,831.69",
+        "marketAction": "코스피와 코스닥 양 시장 매도 사이드카 발동",
+        "marketCapitalization": "코스피 시가총액 3,991조3,977억원"
+      },
+      "previous": {
+        "editionId": "2026-11-19-pm",
+        "storyId": "kospi-close-rebound-20261119"
+      },
+      "publishedAt": "2026-11-20T16:29:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112014080001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-20T16:29:00+09:00",
+          "title": "5%대 급락 '검은 금요일'…코스피 4,800대로 후퇴, 10개월만 최저(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261120137600008",
+          "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kospi-five-percent-drop-20261120",
+      "summary": [
+        "코스피는 5.21% 떨어진 4,869.96, 코스닥은 5.71% 내린 645.68로 장을 마쳤습니다.",
+        "두 시장에서 매도 사이드카가 발동됐고 원·달러 환율은 전날보다 6.2원 오른 1,336.2원을 기록했습니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피 5.21% 급락, 4,869 마감",
+      "uncertainty": "증시 급락의 원인은 복합적이며 특정 기업의 상장이나 미국의 반도체 규제 우려 하나만으로 설명할 수 없습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2186,5 +2244,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
+  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
 }

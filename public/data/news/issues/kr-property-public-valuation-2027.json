@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-20/pm.json",
+      "category": "부동산·경제",
+      "change": "정부가 2027년 공동주택 69.0%, 표준단독주택 53.6%, 표준토지 65.5%의 시세반영률을 유지하는 방안을 의결했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T21:03:50.907628+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "pm",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 20일 중앙부동산가격공시위원회에서 2027년 부동산 가격공시 추진 방안을 심의·의결했습니다. 회의의 정확한 의결 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-20-pm/public-property-value-rate-2027-20261120",
+      "keyFacts": {
+        "administrativeUse": "보유세, 건강보험료, 기초연금 등 67개 행정 사무의 기준",
+        "apartments": "공동주택 시세반영률 69.0%",
+        "freezePeriod": "2023~2027년 5년 연속 동결",
+        "land": "표준토지 65.5%",
+        "policyYear": "2027년",
+        "singleDetachedHouses": "표준단독주택 53.6%"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-20T16:38:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img6.yna.co.kr/photo/yna/YH/2026/03/17/PYH2026031714150001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-20T16:38:00+09:00",
+          "title": "내년 공동주택 공시가격 현실화율 69% 유지…5년째 동결",
+          "url": "https://www.yna.co.kr/view/AKR20261120143400003",
+          "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "public-property-value-rate-2027-20261120",
+      "summary": [
+        "정부는 2027년 공동주택 공시가격 시세반영률을 올해와 같은 69.0%로 유지하기로 의결했습니다.",
+        "표준단독주택은 53.6%, 표준토지는 65.5%를 적용하며 공시가격 현실화율은 5년째 동결됩니다."
+      ],
+      "supersededBy": [],
+      "title": "내년 공동주택 공시가격 반영률 69% 동결",
+      "uncertainty": "시세반영률을 동결해도 주택 시세 변동에 따라 개별 주택의 2027년 공시가격과 세금 부담은 달라질 수 있습니다."
+    }
+  ],
+  "id": "kr-property-public-valuation-2027",
+  "schemaVersion": 1,
+  "title": "2027년 부동산 공시가격 산정 방안",
+  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
+}

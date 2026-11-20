@@ -560,10 +560,67 @@
       "supersededBy": [],
       "title": "젤렌스키 “미국, 나토 가입 대가로 돈바스 철수 의향 질의”",
       "uncertainty": "미국 측 별도 확인과 러시아 동의, 최종 중재안·합의는 미확정입니다."
+    },
+    {
+      "briefingPath": "2026-11-20/pm.json",
+      "category": "국제·안보",
+      "change": "러시아 외무차관이 유럽 대표단 방문 조율 사실을 밝히고 우크라이나의 나토 준회원국 가입까지 거부한다는 입장을 재확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T21:03:50.907628+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "pm",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-pm",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 20일 러시아 외무차관 발언과 우크라이나 당국의 피해 발표를 다룬 한국어 보도입니다. 발언과 공격의 정확한 현지 시각은 확인하지 못했습니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "러시아가 유럽 측 대표들의 방문을 조율하고 있다고 새로 밝혔으며 우크라이나 당국은 키이우 교량 공격에 따른 민간인 피해를 발표했습니다.",
+        "editionId": "2026-11-17-pm",
+        "storyId": "20261117-pm-crimea-bridge"
+      },
+      "id": "2026-11-20-pm/russia-europe-envoys-ukraine-20261120",
+      "keyFacts": {
+        "attack": "우크라이나 당국 발표 기준 키이우 드니프로강 교량 3곳 공격",
+        "casualties": "우크라이나 당국 발표 기준 민간인 3명 사망·15명 부상",
+        "natoPosition": "러시아는 우크라이나의 나토 정회원·준회원 가입 모두 반대",
+        "proposedVisit": "유럽 측 대표의 러시아 방문 검토 및 조율 중",
+        "reportedDelegation": "인테르팍스 보도 기준 유럽 대표 3명",
+        "russianOfficial": "세르게이 랴브코프 러시아 외무차관"
+      },
+      "previous": {
+        "editionId": "2026-11-17-pm",
+        "storyId": "20261117-pm-crimea-bridge"
+      },
+      "publishedAt": "2026-11-20T18:05:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/photo/etc/epa/2026/11/20/PEP20261120003901009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-20T18:05:00+09:00",
+          "title": "러 \"유럽대표 러 방문 조율 중…우크라 나토 가입 안돼\"",
+          "url": "https://www.yna.co.kr/view/AKR20261120159700109",
+          "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "russia-europe-envoys-ukraine-20261120",
+      "summary": [
+        "러시아 외무차관은 유럽 측 대표들의 러시아 방문을 조율 중이라면서 우크라이나의 나토 가입은 준회원 형태라도 수용할 수 없다고 밝혔습니다.",
+        "우크라이나 당국은 이날 키이우 교량 3곳에 대한 러시아 공격으로 민간인 3명이 숨지고 15명이 다쳤다고 발표했습니다."
+      ],
+      "supersededBy": [],
+      "title": "러시아, 유럽 대표단 방문 협의 중",
+      "uncertainty": "유럽 대표단의 실제 방문 인원과 일정은 확정되지 않았습니다. 민간인 사상자 수는 우크라이나 당국의 발표 기준입니다."
     }
   ],
   "id": "russia-ukraine-energy-infrastructure-strikes-2026-10",
   "schemaVersion": 1,
   "title": "러시아·우크라이나 에너지 기반시설 공격과 휴전 공방",
-  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
+  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
 }

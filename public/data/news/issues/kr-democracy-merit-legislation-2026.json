@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-20/pm.json",
+      "category": "정치·사회",
+      "change": "민주유공자법이 국민의힘의 필리버스터 종료 뒤 재석 178명 전원 찬성으로 국회 본회의를 통과했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T21:03:50.907628+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "pm",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 20일 오후 국회 본회의에서 가결됐습니다. 정확한 표결 종료 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-20-pm/democracy-merit-law-passed-20261120",
+      "keyFacts": {
+        "assemblyVote": "재석 178명 전원 찬성으로 가결",
+        "coverage": "민주화보상법 또는 부마항쟁보상법에 따라 인정된 사망자·행방불명자·일정 장해등급 판정자",
+        "estimatedEligiblePersons": "국가보훈부 추산 635명",
+        "opposition": "국민의힘 표결 불참",
+        "priorLegislation": "2024년 국회 통과 후 대통령 재의요구로 폐기된 법안의 재추진",
+        "support": "의료비 지원, 장기요양 본인부담금 일부 지원 등의 근거"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-20T16:25:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112013620001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-20T16:25:00+09:00",
+          "title": "민주유공자법, 與주도 국회 통과…국힘 \"운동권 특혜법\" 반발(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261120121451001",
+          "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "democracy-merit-law-passed-20261120",
+      "summary": [
+        "국회는 민주유공자법을 재석 178명 전원 찬성으로 통과시켰고 국민의힘 의원들은 표결에 참여하지 않았습니다.",
+        "국가보훈부는 등록 대상자를 635명으로 추산했으며, 국민의힘은 선정 기준이 모호하다며 반대했습니다."
+      ],
+      "supersededBy": [],
+      "title": "민주유공자법, 국회 본회의 통과",
+      "uncertainty": "국회 본회의 통과는 확인됐지만 법률 공포와 시행 절차가 모두 완료된 것은 아닙니다. 대상자별 최종 등록 여부도 법률상 요건과 심사에 따라 결정됩니다."
+    }
+  ],
+  "id": "kr-democracy-merit-legislation-2026",
+  "schemaVersion": 1,
+  "title": "민주유공자 예우법 입법",
+  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
+}

@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-20/pm.json",
+      "category": "사회·교통",
+      "change": "철도노조가 23일 오전 9시 준법투쟁을 예고했으며 코레일은 22일부터 비상수송대책본부를 가동하기로 했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T21:03:50.907628+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "pm",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-pm",
+      "eventAt": "2026-11-23T09:00:00+09:00",
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "철도노조의 준법투쟁 예고 시각은 2026년 11월 23일 오전 9시입니다. 코레일 비상수송대책본부는 22일부터 가동 예정이나 정확한 가동 시작 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-20-pm/korail-industrial-action-plan-20261120",
+      "keyFacts": {
+        "emergencyOperation": "2026년 11월 22일부터 코레일 비상수송대책본부 가동 예정",
+        "expectedImpact": "일부 열차 운행 지연 가능",
+        "passengerAdvice": "코레일 홈페이지 및 관련 앱에서 운행 상황 확인",
+        "plannedAction": "2026년 11월 23일 오전 9시 철도노조 준법투쟁 예고",
+        "priorityConcern": "대학 논술·면접 일정과 겹치는 철도 이용",
+        "refundPolicy": "쟁의 기간 승차권 변경·환불 위약금 면제 안내"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-20T16:52:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2026/08/27/PYH2026082713720001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-20T16:52:00+09:00",
+          "title": "철도노조 23일 쟁의 예고…대입 수험생 '이동 대책' 비상",
+          "url": "https://www.yna.co.kr/view/AKR20261120147500063",
+          "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "korail-industrial-action-plan-20261120",
+      "summary": [
+        "코레일은 철도노조의 23일 오전 9시 준법투쟁 예고에 맞춰 22일부터 비상수송대책본부를 가동한다고 밝혔습니다.",
+        "열차 운행 지연이 예상되며 코레일은 대학 논술·면접 응시자에게 미리 열차 운행 상황을 확인하라고 당부했습니다."
+      ],
+      "supersededBy": [],
+      "title": "철도노조 23일 준법투쟁 예고",
+      "uncertainty": "준법투쟁과 열차 지연은 예정된 상황이며 실제 운행 차질 규모와 노사 협상 결과는 아직 확정되지 않았습니다."
+    }
+  ],
+  "id": "kr-rail-labor-action-november-2026",
+  "schemaVersion": 1,
+  "title": "2026년 11월 철도노조 쟁의 및 열차 운행",
+  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
+}
