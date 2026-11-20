@@ -1,34 +1,4 @@
 {
-  "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-q5DZWiPw.js",
-    "name": "app-route-prefetch-policy",
-    "src": "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "virtual:vinext-app-browser-entry"
-    ]
-  },
-  "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "daily-k/_next/static/chunks/layout-segment-context-CKsSDrv6.js",
-    "name": "layout-segment-context",
-    "src": "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
-  "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "daily-k/_next/static/chunks/streamed-icons-C0-_Izid.js",
-    "name": "streamed-icons",
-    "src": "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/streamed-icons.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
   "_framework-CBxL4RM0.js": {
     "file": "daily-k/_next/static/chunks/framework-CBxL4RM0.js",
     "name": "framework",
@@ -41,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "daily-k/_next/static/chunks/page-BJf90olm.js",
+    "file": "daily-k/_next/static/chunks/page-CkVMCbs5.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -53,8 +23,38 @@
       "daily-k/_next/static/css/page.B90KkZvk.css"
     ]
   },
+  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-BnrWTrOz.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "daily-k/_next/static/chunks/layout-segment-context-uGaFmDvq.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "daily-k/_next/static/chunks/streamed-icons-DeUgJCDM.js",
+    "name": "streamed-icons",
+    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
   "virtual:vinext-app-browser-entry": {
-    "file": "daily-k/_next/static/chunks/index-Cz6HCM2Y.js",
+    "file": "daily-k/_next/static/chunks/index-DpQandG7.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -63,11 +63,11 @@
       "_framework-CBxL4RM0.js"
     ],
     "dynamicImports": [
-      "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-      "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/streamed-icons.js",
-      "app/page.tsx",
+      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
       "virtual:vinext-app-browser-entry",
-      "../../../Users/bacbaqui/Documents/Codex/2026-11-17/https-www-instagram-com-reel-dfzmuqkaeai/github-tab-work/node_modules/vinext/dist/shims/layout-segment-context.js"
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/page.tsx",
+      "node_modules/vinext/dist/shims/streamed-icons.js"
     ]
   }
 }
