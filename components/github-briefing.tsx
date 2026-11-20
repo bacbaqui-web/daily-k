@@ -1,5 +1,7 @@
 'use client';
 import {useEffect, useState} from 'react';
+import {BriefCopyButton} from './news-question-button';
+import {buildGitHubQuestion} from '../lib/github-question';
 import {emphasisParts} from '../lib/news';
 import {isGitHubBrief, isGitHubIndex, validGitHubDate, type GitHubBrief, type GitHubIndex, type GitHubItem} from '../lib/github';
 
@@ -58,7 +60,7 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
           <small className="rank" aria-hidden="true">{String(item.rank).padStart(2, '0')}</small>
           <hgroup className="post-main">
             <p className="news-story-meta"><span>GitHub Trending</span><span>오늘 별 +{item.starsToday.toLocaleString('ko-KR')}</span></p>
-            <h2 className="news-story-title" id={`github-${item.rank}`}><a href={item.url} target="_blank" rel="noopener noreferrer">{item.repo.split('/')[1]} · {item.title}</a></h2>
+            <section className="news-title-share"><h2 className="news-story-title" id={`github-${item.rank}`}><a href={item.url} target="_blank" rel="noopener noreferrer">{item.repo.split('/')[1]} · {item.title}</a></h2><BriefCopyButton text={buildGitHubQuestion(brief,item)} title={item.repo} question/></section>
           </hgroup>
         </section>
         <section className="news-full-content" aria-labelledby={`github-${item.rank}`}>
