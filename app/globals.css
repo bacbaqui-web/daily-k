@@ -282,7 +282,7 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 
 /* Keep navigation beside the article while its body scrolls. */
 .reader-dialog .reader-edge{position:absolute;top:100px;bottom:0;z-index:3;width:56px;padding:0;border:0;border-radius:0;background:transparent;color:var(--muted-foreground);font-size:28px;cursor:pointer;touch-action:pan-y;opacity:0}
-.reader-dialog .reader-edge-left{left:0}.reader-dialog .reader-edge-right{right:0}
+.reader-dialog .reader-edge-left{left:0}.reader-dialog .reader-edge-right{right:0;width:112px}
 .reader-dialog .reader-edge:focus-visible{opacity:1;color:transparent;background:transparent;outline:2px solid var(--ring);outline-offset:-2px}
 .reader-dialog .reader-edge:disabled{opacity:0;pointer-events:none}
 
