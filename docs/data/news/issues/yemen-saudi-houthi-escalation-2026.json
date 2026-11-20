@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-20/am.json",
+      "category": "국제·안보",
+      "change": "후티군이 사우디 주요 시설을 상대로 네 차례 공격했다고 주장했고 사우디 당국은 리야드 금융단지 일부 피해를 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "am",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "후티군 대변인이 현지시간 11월 19일 공격 사실을 발표했다고 뉴시스가 보도했습니다. 개별 공격 실행 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-20-am/houthis-saudi-attack-claims-20261120",
+      "keyFacts": {
+        "casualties": "사우디 당국은 인명 피해가 없다고 발표",
+        "claimant": "예멘 후티군 대변인 야히야 사리",
+        "operationsClaimed": "4차례 작전",
+        "reportedTargets": "리야드 킹칼리드 국제공항, 카미스 무샤이트 공군기지, 리야드 금융단지, 주바일 석유화학단지",
+        "saudiAcknowledgement": "리야드 금융단지 일부 건물 피해 확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-20T07:11:44+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021536385_web.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-20T07:11:44+09:00",
+          "title": "예멘 후티 \"사우디 공항· 공군기지· 금융센터 ·석유시설 보복 폭격\"",
+          "url": "https://www.newsis.com/view/NISX20261120_0003875966",
+          "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "주장",
+      "storyId": "houthis-saudi-attack-claims-20261120",
+      "summary": [
+        "예멘 후티 반군은 사우디아라비아의 리야드 공항과 공군기지, 금융센터, 석유화학시설을 겨냥해 4차례 공격했다고 발표했습니다.",
+        "사우디 당국은 리야드 금융단지 건물 피해를 인정했지만 다른 목표물의 피해는 확인하지 않았으며, 인명 피해는 없었다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "후티, 사우디 주요 시설 4곳 공격 주장",
+      "uncertainty": "후티가 주장한 모든 공격 목표의 실제 피격과 피해 규모는 독립적으로 확인되지 않았습니다."
+    }
+  ],
+  "id": "yemen-saudi-houthi-escalation-2026",
+  "schemaVersion": 1,
+  "title": "예멘 후티·사우디아라비아 무력 충돌",
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
+}

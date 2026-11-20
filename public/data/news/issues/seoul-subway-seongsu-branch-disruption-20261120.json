@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-20/am.json",
+      "category": "사회·교통",
+      "change": "20일 오전 5시 37분 용답역 선로전환기 장애로 성수지선 양방향 운행이 중단되고 1호선 일부 열차가 지연됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "am",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-am",
+      "eventAt": "2026-11-20T05:37:00+09:00",
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "서울교통공사와 연합뉴스가 안내한 20일 오전 5시 37분 운행 중단 기준입니다. 조사 기준까지 정상 운행 재개 여부는 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-20-am/seoul-subway-seongsu-disruption-20261120",
+      "keyFacts": {
+        "affectedService": "지하철 2호선 성수지선 양방향 운행 중단",
+        "mainLine": "지하철 2호선 본선은 정상 운행으로 보도",
+        "reportedCause": "정지신호 위반 열차로 인한 용답역 선로전환기 훼손",
+        "secondaryEffect": "1호선 일부 열차 출고 지연",
+        "start": "2026년 11월 20일 오전 5시 37분"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-20T07:43:12+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://wimg.heraldcorp.com/news/cms/2026/11/20/news-p.v1.20260530.ef375171170a46ee820a0e1066ea601c_P1.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "헤럴드경제",
+          "publishedAt": "2026-11-20T07:43:12+09:00",
+          "title": "[속보] 서울지하철 2호선 성수역~신설동역 지선 운행 중지… 본선은 정상운행",
+          "url": "https://biz.heraldcorp.com/article/10943387",
+          "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "seoul-subway-seongsu-disruption-20261120",
+      "summary": [
+        "20일 오전 5시 37분부터 서울 지하철 2호선 성수지선 양방향 운행이 중단되고 1호선 일부 열차도 지연됐습니다.",
+        "용답역에서 정지신호를 위반한 열차로 선로전환기가 훼손됐으며, 서울교통공사는 복구 작업을 진행 중이라고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "서울 지하철 성수지선 운행 중단",
+      "uncertainty": "복구 완료 시각과 정상 운행 재개 여부는 조사 기준 시각까지 확인되지 않았습니다."
+    }
+  ],
+  "id": "seoul-subway-seongsu-branch-disruption-20261120",
+  "schemaVersion": 1,
+  "title": "서울 지하철 성수지선 운행 장애",
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
+}

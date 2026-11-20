@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-20/am.json",
+      "category": "정치·사법",
+      "change": "민주당 지도부가 대법원장 탄핵추진단 구성 계획을 밝히고 20일 의원총회에서 당론 채택을 추진하기로 했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "am",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-am",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "19일 밤 민주당 긴급 최고위원회의 이후 발표된 방침입니다. 20일 의원총회 개최 예정이나 당론 채택 여부와 정확한 회의 시각은 조사 기준까지 확정되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-20-am/cho-hee-dae-impeachment-plan-20261120",
+      "keyFacts": {
+        "decision": "더불어민주당 지도부가 조희대 대법원장 탄핵 추진 계획 발표",
+        "nextStep": "11월 20일 의원총회 당론 채택 추진 및 탄핵추진단 구성",
+        "oppositionPosition": "국민의힘은 보복 탄핵이라며 반대",
+        "trigger": "한덕수 전 국무총리 관련 대법원 일부 무죄 취지 파기환송 판결"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-19T22:25:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img.khan.co.kr/news/2026/11/19/rcv.YNA.20261119.PYH2026111923520001300.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "경향신문",
+          "publishedAt": "2026-11-19T22:25:00+09:00",
+          "title": "민주당, 조희대 탄핵추진단 구성키로…20일 의총서 탄핵 당론 채택",
+          "url": "https://www.khan.co.kr/article/202611192225001/amp",
+          "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "예정",
+      "storyId": "cho-hee-dae-impeachment-plan-20261120",
+      "summary": [
+        "더불어민주당은 조희대 대법원장 탄핵을 추진하기로 하고 20일 의원총회에서 당론을 채택한 뒤 탄핵추진단을 구성할 계획이라고 밝혔습니다.",
+        "한덕수 전 국무총리 사건의 대법원 파기환송 판결 이후 나온 결정으로, 국민의힘은 이를 보복 탄핵이라고 규정하며 반발했습니다."
+      ],
+      "supersededBy": [],
+      "title": "민주당, 조희대 탄핵추진단 구성 계획",
+      "uncertainty": "20일 의원총회에서 당론이 확정되기 전이며 탄핵소추안 제출·표결 일정은 아직 발표되지 않았습니다."
+    }
+  ],
+  "id": "cho-hee-dae-impeachment-2026",
+  "schemaVersion": 1,
+  "title": "조희대 대법원장 탄핵 추진",
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
+}

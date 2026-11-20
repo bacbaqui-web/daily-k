@@ -1,26 +1,204 @@
 {
-  "editionCount": 128,
+  "editionCount": 129,
   "issues": [
     {
       "categories": [
-        "국제"
+        "국제·안보"
       ],
       "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "yemen-saudi-houthi-escalation-2026",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "후티군이 사우디 주요 시설을 상대로 네 차례 공격했다고 주장했고 사우디 당국은 리야드 금융단지 일부 피해를 확인했습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "보도",
+        "storyId": "houthis-saudi-attack-claims-20261120",
+        "title": "후티, 사우디 주요 시설 4곳 공격 주장"
+      },
+      "path": "yemen-saudi-houthi-escalation-2026.json",
+      "title": "예멘 후티·사우디아라비아 무력 충돌"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 33,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "19일 미국 정규장에서 다우지수가 2.19% 하락해 5만선을 밑돌았고 S&P500과 나스닥도 2% 넘게 내려 마감했습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "결과",
+        "storyId": "us-stocks-plunge-20261120",
+        "title": "뉴욕증시 2%대 급락, 다우 5만선 붕괴"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "국제",
+        "국제·외교"
+      ],
+      "eventCount": 2,
       "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
       "firstCoveredDate": "2026-11-19",
       "id": "us-china-russia-first-trilateral-summit",
-      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
-      "lastCoveredDate": "2026-11-19",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
       "latest": {
         "archive": false,
-        "change": "19일 중국 선전에서 세 나라 정상이 직접 만나 약 90분 동안 회담한 뒤 일정을 마쳤습니다.",
-        "editionId": "2026-11-19-pm",
-        "stage": "결과",
-        "storyId": "us-china-russia-summit-20261119",
-        "title": "미·중·러 첫 정상회담, 90분 만에 종료"
+        "change": "회담 종료 이후 4개 항의 공동 평화선언이 공개됐으나 핵군축과 전쟁 종식의 세부 이행 방안은 발표되지 않았습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "후속",
+        "storyId": "trilateral-peace-declaration-20261120",
+        "title": "미·중·러, 공동 평화선언 발표"
       },
       "path": "us-china-russia-first-trilateral-summit.json",
       "title": "미국·중국·러시아 첫 3자 정상회담"
+    },
+    {
+      "categories": [
+        "사회·교통"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "seoul-subway-seongsu-branch-disruption-20261120",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "20일 오전 5시 37분 용답역 선로전환기 장애로 성수지선 양방향 운행이 중단되고 1호선 일부 열차가 지연됐습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "발표",
+        "storyId": "seoul-subway-seongsu-disruption-20261120",
+        "title": "서울 지하철 성수지선 운행 중단"
+      },
+      "path": "seoul-subway-seongsu-branch-disruption-20261120.json",
+      "title": "서울 지하철 성수지선 운행 장애"
+    },
+    {
+      "categories": [
+        "금융·증시"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "kr-foreign-securities-flows-2026",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "금융감독원이 10월 국내 주식 25조9,780억원 순매도와 상장채권 7조3,750억원 순투자를 공식 발표했습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "발표",
+        "storyId": "foreign-stock-outflow-october-20261120",
+        "title": "외국인, 10월 국내 주식 26조원 순매도"
+      },
+      "path": "kr-foreign-securities-flows-2026.json",
+      "title": "2026년 외국인 국내 증권투자 동향"
+    },
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "israel-iran-military-escalation-2026",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "이스라엘 현지 방송이 네타냐후 총리의 군사행동 관련 발언과 미·이스라엘 공동 작전 준비 주장을 새롭게 전했습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "보도",
+        "storyId": "israel-iran-strike-planning-20261120",
+        "title": "이스라엘, 대이란 군사행동 검토"
+      },
+      "path": "israel-iran-military-escalation-2026.json",
+      "title": "이스라엘·이란 군사적 긴장"
+    },
+    {
+      "categories": [
+        "사회·안전",
+        "안전·날씨"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "csat-cold-wave-2026-11",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "20일부터 21일까지 서해안과 제주 산지에 적설이 예상되고 일부 지역에 대설주의보와 도로 결빙 주의가 안내됐습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "예정",
+        "storyId": "november-snow-forecast-20261120",
+        "title": "충남·전북 서해안 최대 7㎝ 눈 예보"
+      },
+      "path": "csat-cold-wave-2026-11.json",
+      "title": "수능 전후 한파와 눈·비"
+    },
+    {
+      "categories": [
+        "정치·사법"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "cho-hee-dae-impeachment-2026",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "민주당 지도부가 대법원장 탄핵추진단 구성 계획을 밝히고 20일 의원총회에서 당론 채택을 추진하기로 했습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "발표",
+        "storyId": "cho-hee-dae-impeachment-plan-20261120",
+        "title": "민주당, 조희대 탄핵추진단 구성 계획"
+      },
+      "path": "cho-hee-dae-impeachment-2026.json",
+      "title": "조희대 대법원장 탄핵 추진"
+    },
+    {
+      "categories": [
+        "기술·AI",
+        "기술·경제"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "anthropic-ipo-2026",
+      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "lastCoveredDate": "2026-11-20",
+      "latest": {
+        "archive": false,
+        "change": "앤트로픽이 나스닥 상장 첫 거래를 마쳤으며 공모가 83달러 대비 17.07% 오른 97.17달러에 마감했습니다.",
+        "editionId": "2026-11-20-am",
+        "stage": "결과",
+        "storyId": "anthropic-ipo-close-20261120",
+        "title": "앤트로픽, 상장 첫날 17.07% 상승"
+      },
+      "path": "anthropic-ipo-2026.json",
+      "title": "앤트로픽 기업공개와 나스닥 상장"
     },
     {
       "categories": [
@@ -177,34 +355,6 @@
     },
     {
       "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 32,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "lastCoveredDate": "2026-11-19",
-      "latest": {
-        "archive": false,
-        "change": "미국 18일 정규장은 혼조로 끝났고 엔비디아는 실적 발표 이후 첫 거래일에 2.89% 하락했습니다.",
-        "editionId": "2026-11-19-am",
-        "stage": "결과",
-        "storyId": "20261119-am-us-market",
-        "title": "뉴욕증시 혼조…엔비디아 2.89% 하락"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
-    },
-    {
-      "categories": [
         "정치",
         "정치·정책"
       ],
@@ -270,48 +420,6 @@
       },
       "path": "fed-policy-2026.json",
       "title": "미국 연준 금리 결정과 물가 판단"
-    },
-    {
-      "categories": [
-        "안전·날씨"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "firstCoveredDate": "2026-11-19",
-      "id": "csat-cold-wave-2026-11",
-      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "lastCoveredDate": "2026-11-19",
-      "latest": {
-        "archive": false,
-        "change": "수능 당일 서울 영하권 기온과 한파특보, 충청·호남·제주의 비·눈 현황이 확인됐습니다.",
-        "editionId": "2026-11-19-am",
-        "stage": "후속",
-        "storyId": "20261119-am-cold-wave",
-        "title": "영하권 수능 한파…충청·호남·제주 눈·비"
-      },
-      "path": "csat-cold-wave-2026-11.json",
-      "title": "수능 전후 한파와 눈·비"
-    },
-    {
-      "categories": [
-        "기술·경제"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "firstCoveredDate": "2026-11-19",
-      "id": "anthropic-ipo-2026",
-      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "lastCoveredDate": "2026-11-19",
-      "latest": {
-        "archive": false,
-        "change": "앤트로픽이 주당 83달러와 최종 공모 물량 9억8,000만주, 거래 개시 예정일을 발표했습니다.",
-        "editionId": "2026-11-19-am",
-        "stage": "발표",
-        "storyId": "20261119-am-anthropic-ipo",
-        "title": "앤트로픽 공모가 83달러 확정"
-      },
-      "path": "anthropic-ipo-2026.json",
-      "title": "앤트로픽 기업공개와 나스닥 상장"
     },
     {
       "categories": [
@@ -12235,7 +12343,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 953,
+  "storyCount": 962,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
 }

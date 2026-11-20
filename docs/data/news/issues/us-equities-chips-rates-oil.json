@@ -1261,6 +1261,62 @@
       "uncertainty": "가격 변화의 원인별 기여도는 확정할 수 없으며, 이 수치는 시간외 거래나 19일 한국 증시 개장값이 아닙니다."
     },
     {
+      "briefingPath": "2026-11-20/am.json",
+      "category": "경제·증시",
+      "change": "19일 미국 정규장에서 다우지수가 2.19% 하락해 5만선을 밑돌았고 S&P500과 나스닥도 2% 넘게 내려 마감했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "am",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-am",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 19일 미국 뉴욕증권거래소 정규장 마감 결과입니다. 정확한 종가 확정 시각은 별도로 기록하지 않았습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "전날 혼조세로 마감했던 미국 주요 지수가 19일 거래에서 동반 2%대 급락했고 다우지수는 5만선 아래로 내려갔습니다.",
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-us-market"
+      },
+      "id": "2026-11-20-am/us-stocks-plunge-20261120",
+      "keyFacts": {
+        "dow": "49,097.06, 전 거래일 대비 2.19% 하락",
+        "nasdaq": "23,879.20, 전 거래일 대비 2.25% 하락",
+        "sector": "AI·반도체 관련주 약세",
+        "session": "2026년 11월 19일 미국 정규장",
+        "sp500": "7,175.83, 전 거래일 대비 2.02% 하락"
+      },
+      "previous": {
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-us-market"
+      },
+      "publishedAt": "2026-11-20T06:27:15+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2026/11/20/NISI20261120_0002297336_web.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-20T06:27:15+09:00",
+          "title": "뉴욕증시, AI주 약세에 2%대 하락…다우지수 5만선 붕괴",
+          "url": "https://www.newsis.com/view/NISX20261120_0003875967",
+          "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "us-stocks-plunge-20261120",
+      "summary": [
+        "미국 뉴욕증시에서 다우지수는 2.19% 하락한 49,097.06으로 마감해 5만선 아래로 내려갔고, S&P500과 나스닥도 각각 2.02%, 2.25% 떨어졌습니다.",
+        "앤트로픽 상장 첫날 AI 관련주에서 매도가 확대됐고, 엔비디아와 AMD 등 주요 기술주도 하락했습니다."
+      ],
+      "supersededBy": [],
+      "title": "뉴욕증시 2%대 급락, 다우 5만선 붕괴",
+      "uncertainty": "증시 하락에 영향을 준 요인은 복합적이며 앤트로픽 상장만이 원인이라고 확정할 수 없습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 16,
@@ -1998,5 +2054,5 @@
   "id": "us-equities-chips-rates-oil",
   "schemaVersion": 1,
   "title": "미국 증시의 반도체 실적·금리·유가 반응",
-  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
 }

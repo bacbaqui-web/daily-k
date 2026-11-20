@@ -1,0 +1,809 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-20T09:00:00+09:00",
+      "date": "2026-11-20",
+      "edition": "am",
+      "editionId": "2026-11-20-am",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-20",
+          "detail": "민주당 지도부가 대법원장 탄핵 추진을 당론으로 확정할 예정이라고 밝혔습니다. 최종 결정 여부는 회의 결과 확인이 필요합니다.",
+          "source": {
+            "imageUrl": "https://img.khan.co.kr/news/2026/11/19/rcv.YNA.20261119.PYH2026111923520001300.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "경향신문",
+            "publishedAt": "2026-11-19T22:25:00+09:00",
+            "title": "민주당, 조희대 탄핵추진단 구성키로…20일 의총서 탄핵 당론 채택 - 경향신문 AMP",
+            "url": "https://www.khan.co.kr/article/202611192225001/amp",
+            "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+          },
+          "timeNote": "의원총회 예정이며 정확한 시작 시각은 확인되지 않았습니다.",
+          "title": "더불어민주당, 조희대 대법원장 탄핵 당론 채택 논의"
+        },
+        {
+          "at": "2026-11-20T14:00:00+09:00",
+          "date": "2026-11-20",
+          "detail": "이재명 대통령 주재 수석보좌관회의가 청와대에서 예정돼 있습니다.",
+          "source": {
+            "imageUrl": "https://img.newspim.com/news/2026/11/15/2611152003562530_t1.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "뉴스핌",
+            "publishedAt": "2026-11-20T05:00:00+09:00",
+            "title": "[오늘의 정치일정] 11월 20일(금)",
+            "url": "https://www.newspim.com/news/view/20261119001461",
+            "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+          },
+          "timeNote": "청와대 일정표 기준 오후 2시 예정입니다.",
+          "title": "대통령 주재 수석보좌관회의"
+        },
+        {
+          "at": null,
+          "date": "2026-11-20",
+          "detail": "국민권익위원회가 스마트기기와 AI를 이용한 수능 부정행위 등에 대한 집중 신고를 접수합니다.",
+          "source": {
+            "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/18/PYH2026111815760005200_P4.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-19T18:27:35+09:00",
+            "title": "내일부터 두달간 수능 부정행위 신고 접수…포상금 최대 1억 | 연합뉴스",
+            "url": "https://www.yna.co.kr/view/AKR20261119163200001",
+            "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+          },
+          "timeNote": "11월 20일부터 2027년 1월 19일까지이며 시작 시각은 확인되지 않았습니다.",
+          "title": "수능 부정행위 집중 신고 기간 시작"
+        }
+      ],
+      "generatedAt": "2026-11-20T09:16:07.810668+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-20-am",
+      "intro": "11월 20일 아침 주요 뉴스입니다. 미·중·러 공동선언과 국내 사법부 탄핵 논란, 뉴욕증시 급락, 출근길 지하철 운행 차질을 중심으로 정리했습니다.",
+      "keywords": [
+        "미·중·러 공동 평화선언",
+        "조희대 대법원장 탄핵 추진",
+        "이스라엘·이란 군사 긴장",
+        "뉴욕증시 2%대 급락",
+        "서울 지하철 성수지선 운행 중단",
+        "외국인 주식 26조원 순매도",
+        "앤트로픽 상장 첫날",
+        "후티·사우디 충돌",
+        "서해안 강설"
+      ],
+      "omissionNotes": [
+        "researchCutoffAt은 예약 실행이 시작된 2026년 11월 20일 오전 8시 31분 33초(한국시간)입니다. researchCompletedAt은 실제 조사 완료 시각인 오전 8시 34분 44초입니다. cutoffAt 오전 9시는 발행 회차 기준일 뿐이며 오전 9시까지의 보도를 조사했다고 주장하지 않습니다. 포함한 보도의 확인된 최초 송고·입력 시각은 모두 researchCutoffAt 이전입니다.",
+        "최근 7일 이력의 index.json에는 접근했습니다. 해당 목록에서 확인된 가장 최근 회차는 2026-11-19-am이며 2026-11-19-pm은 목록에 나타나지 않았습니다. 11월 19일 오전, 18일 오전·오후, 17일 오후 등의 개별 JSON 파일 직접 읽기를 시도했지만 웹 접근 오류가 발생했습니다. 나머지 7일간 개별 회차도 원문 대조가 완료되지 않았습니다. 수신 측에서 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 연결된 최근 7일의 대표·추가·예비 기사 전체를 반드시 다시 읽고 중복·후속 여부를 검사해 주세요.",
+        "미·중·러 공동선언은 전날 저녁 회담 종료 보도보다 새로운 결과입니다. 앞서 작성된 2026-11-19-pm 원고에는 관련 기사 ID us-china-russia-summit-20261119가 있었지만 실제 발행된 이력 JSON에서 해당 ID를 재확인하지 못했습니다. 후속 관계를 추정해 확정하지 않았으며 수신 측에서 최신 발행 이력의 followUp.storyId와 editionId를 연결해야 합니다.",
+        "timeline.issueId와 issueTitle 역시 최근 7일 이력에 연결된 기존 사건과 동일한 값을 확인하지 못했습니다. 이번 원고의 새 식별자들은 수신 측 연결 검사가 필요합니다. 특히 미·중·러 정상회담, 국내 정치·사법 사건, 미국 증시 변동, 외국인 국내 증권투자 동향, 중동 군사 긴장 기사에 기존 issueId가 있으면 그 값을 그대로 재사용해야 합니다.",
+        "조희대 탄핵 추진 기사는 전날 대법원 판결을 반복하지 않고 19일 밤 이후 새로 발표된 탄핵추진단 구성 및 당론 채택 계획만 다뤘습니다. 아직 의원총회 결과가 나온 것으로 서술하지 않았습니다.",
+        "이스라엘의 대이란 군사행동 관련 보도는 현지 언론과 군 관계자 주장에 근거합니다. 실제 공격 결정이나 실행 여부는 독립적으로 확인되지 않아 사실로 단정하지 않았습니다. 후티의 사우디 공격 주장도 사우디 당국이 인정한 피해와 구분했습니다.",
+        "외국인 증권투자 기사는 20일 새로 발표된 금융감독원 자료이지만 통계 대상은 2026년 10월입니다. 당일 외국인 매매 규모와 혼동하지 않도록 구분했습니다.",
+        "수능 스마트기기 관련 98명 적발, 김건희 징역 4년 확정, 한덕수 일부 무죄 취지 파기환송, 한국 누적 수출 1조달러 돌파는 전날 저녁 원고에 이미 들어간 사안이므로 새로운 결과 없이 반복하지 않았습니다.",
+        "한중 FTA 서비스·투자 협상 실질 타결은 11월 18일 발표된 사안으로 밤사이 새 사실이 확인되지 않아 독립 기사로 반복하지 않았습니다. 국내 웹툰 산업 기사도 중요성과 검증 조건을 충족하는 새 소식이 확인되지 않아 수량을 채우지 않았습니다.",
+        "이번 회차에서 기사 원문 본문을 확인한 사실과 원본 이미지 메타데이터 확인 여부를 분리했습니다. og:image 및 twitter:image의 실제 HTTPS 주소를 확정하지 못했으므로 imageUrl은 모두 null입니다. 확인되지 않은 사진·URL·시각을 임의로 만들지 않았습니다.",
+        "relatedArticles는 중복 없이 확인한 관련 원문만 수록했습니다. 별도 원문을 충분히 확인하지 못한 기사에는 빈 배열을 사용했습니다.",
+        "기사의 점수는 뉴스 선정용 상대적 중요도 판단이며 출처의 검증 등급이나 수신 측 승인 결과를 뜻하지 않습니다. 실제 최종 검증 시각, 발행 해시, operationId, 승인 상태는 기록하지 않았습니다. GitHub·홈페이지·Discord 게시 및 파일·예약 생성도 하지 않았습니다."
+      ],
+      "overview": [
+        "미·중·러 정상은 핵위험 감소를 담은 공동선언을 발표했지만, 전쟁 종식과 핵군축을 위한 구체적인 이행 계획은 제시하지 않았습니다.",
+        "민주당은 조희대 대법원장 탄핵 추진을 결정했고, 뉴욕증시는 2%대 급락했으며 서울 지하철 일부 구간에서 운행 차질이 발생했습니다."
+      ],
+      "researchCompletedAt": "2026-11-20T08:34:44+09:00",
+      "researchCutoffAt": "2026-11-20T08:31:33+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "국제·외교",
+          "emphasis": [
+            "4개 항의 공동 평화선언",
+            "핵군축 이행 일정이 담기지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "중국 선전에서 현지시간 11월 19일 오후 약 90분간 회담한 뒤 공동선언을 발표했습니다. 선언의 정확한 발표 시각은 확인하지 못했습니다.",
+          "fallbackNote": "전날 저녁에는 회담 종료 사실만 확인됐으나 이후 핵위험 감소와 핵확산 방지 대화 등 4개 항목의 공동선언 내용이 공개됐습니다.",
+          "followUp": {
+            "delta": "전날 저녁에는 회담 종료 사실만 확인됐으나 이후 핵위험 감소와 핵확산 방지 대화 등 4개 항목의 공동선언 내용이 공개됐습니다.",
+            "editionId": "2026-11-19-pm",
+            "storyId": "us-china-russia-summit-20261119"
+          },
+          "id": "trilateral-peace-declaration-20261120",
+          "keyFacts": {
+            "declaration": "핵위험 감소·핵확산 방지 대화, 석유제품 공급 확대, 유엔 개혁, 국제형사재판소 관할권 남용 반대",
+            "meeting": "2026년 11월 19일 중국 선전에서 약 90분간 회담",
+            "missingCommitments": "핵군축 이행 일정과 우크라이나·이란 전쟁의 구체적인 해결 조치 미제시",
+            "participants": "도널드 트럼프 미국 대통령, 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령"
+          },
+          "publishedAt": "2026-11-19T22:45:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/replay/2026/nw2500/article/__icsFiles/afieldfile/2026/11/20/news25_20261120_1_8_Large.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-20T00:29:00+09:00",
+              "title": "미·중·러 정상, 세기의 회담‥'평화선언' 발표",
+              "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6867093_36989.html",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            },
+            {
+              "imageUrl": "https://img6.yna.co.kr/photo/etc/up/2026/11/19/PUP20261119037901009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T02:57:00+09:00",
+              "title": "[미중러 정상회담] \"돌파구 없는 선언적 만남…배타적 세력권 강조\"",
+              "url": "https://www.yna.co.kr/view/AKR20261120004100071",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261119182800083",
+          "scoreComponents": {
+            "domesticImpact": 83,
+            "importance": 100,
+            "interest": 98,
+            "recency": 97,
+            "reliability": 98
+          },
+          "scoreReason": "세계 주요 3국 정상의 첫 공동선언으로 국제적 영향이 크고, 전날 회담 종료 보도에서 진전된 구체적인 결과가 확인됐습니다.",
+          "sourceCheck": "연합뉴스 19일 22시 45분 원문에서 공동선언의 주요 항목과 정상회담 결과를 확인했습니다. MBC의 20일 0시 29분 보도에서도 4개 항 선언과 구체적 해결책 부재를 확인했습니다. 연합뉴스 20일 2시 57분 기사에서는 외신의 평가를 확인했으며, 이를 확정된 외교 성과와 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img5.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119182800083_06_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-19T22:45:00+09:00",
+              "title": "미중러 사상 첫 정상회담·한중 FTA 타결…中선전 APEC 폐막",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261119182800083",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "미국·중국·러시아 정상이 첫 3자 정상회담을 마친 뒤 핵위험 감소와 핵확산 방지 대화 등을 담은 4개 항의 공동 평화선언을 발표했습니다.",
+            "공동성명에는 우크라이나·이란 전쟁의 구체적 해결책이나 핵군축 이행 일정이 담기지 않았습니다."
+          ],
+          "timeline": {
+            "change": "회담 종료 이후 4개 항의 공동 평화선언이 공개됐으나 핵군축과 전쟁 종식의 세부 이행 방안은 발표되지 않았습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": "2026-11-19",
+            "eventTimezone": "Asia/Shanghai",
+            "issueId": "us-china-russia-first-trilateral-summit",
+            "issueTitle": "미국·중국·러시아 첫 3자 정상회담",
+            "stage": "후속"
+          },
+          "title": "미·중·러, 공동 평화선언 발표",
+          "topicKey": "us-china-russia-trilateral-summit",
+          "uncertainty": "선언에 담긴 대화 약속의 이행 일정과 후속 회의 계획은 구체적으로 확인되지 않았습니다.",
+          "whatChanged": "전날 저녁에는 회담 종료 사실만 확인됐으나 이후 핵위험 감소와 핵확산 방지 대화 등 4개 항목의 공동선언 내용이 공개됐습니다.",
+          "whyItMatters": "세계 주요 핵보유국 정상들이 공동 입장을 발표했지만 핵군축의 구체적인 조치와 국제 분쟁 해결 방안은 후속 협상에 남았습니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "탄핵추진단을 구성할 계획",
+            "보복 탄핵이라고 규정하며 반발했습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "19일 밤 민주당 긴급 최고위원회의 이후 발표된 방침입니다. 20일 의원총회 개최 예정이나 당론 채택 여부와 정확한 회의 시각은 조사 기준까지 확정되지 않았습니다.",
+          "fallbackNote": "한덕수 사건 파기환송에 대한 정치권 반응에서 나아가 민주당 지도부가 대법원장 탄핵추진단 구성과 다음 날 당론 채택 계획을 구체적으로 밝혔습니다.",
+          "id": "cho-hee-dae-impeachment-plan-20261120",
+          "keyFacts": {
+            "decision": "더불어민주당 지도부가 조희대 대법원장 탄핵 추진 계획 발표",
+            "nextStep": "11월 20일 의원총회 당론 채택 추진 및 탄핵추진단 구성",
+            "oppositionPosition": "국민의힘은 보복 탄핵이라며 반대",
+            "trigger": "한덕수 전 국무총리 관련 대법원 일부 무죄 취지 파기환송 판결"
+          },
+          "publishedAt": "2026-11-19T22:25:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/20/today_20261120_061316_1_6_Large.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-20T06:13:00+09:00",
+              "title": "범여권 \"조희대 탄핵\"‥국힘 \"내란몰이 철퇴\"",
+              "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867112_37012.html",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.khan.co.kr/article/202611192225001/amp",
+          "reserveUpdate": {
+            "delta": "한덕수 사건 파기환송에 대한 정치권 반응에서 나아가 민주당 지도부가 대법원장 탄핵추진단 구성과 다음 날 당론 채택 계획을 구체적으로 밝혔습니다.",
+            "editionId": "2026-11-14-pm",
+            "publishedAt": "2026-11-19T22:25:00+09:00",
+            "sourceUrl": "https://www.khan.co.kr/article/202611192225001/amp"
+          },
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 99,
+            "interest": 96,
+            "recency": 97,
+            "reliability": 98
+          },
+          "scoreReason": "대법원 판결 이후 입법부의 구체적인 후속 절차가 발표됐으며 여러 주요 매체가 당론 채택 계획과 여야 입장을 확인해 보도했습니다.",
+          "sourceCheck": "경향신문 19일 22시 25분 원문에서 박성준 수석대변인의 탄핵추진단 구성 및 20일 당론 채택 계획을 확인했습니다. JTBC 원문에서 국정조사를 거치지 않고 탄핵 절차를 추진한다는 방침을 확인했습니다. MBC 20일 6시 13분 보도에서 국민의힘의 반대 입장을 확인했습니다. 탄핵 의결이 완료됐다는 표현은 사용하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img.khan.co.kr/news/2026/11/19/rcv.YNA.20261119.PYH2026111923520001300.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-19T22:25:00+09:00",
+              "title": "민주당, 조희대 탄핵추진단 구성키로…20일 의총서 탄핵 당론 채택",
+              "url": "https://www.khan.co.kr/article/202611192225001/amp",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "더불어민주당은 조희대 대법원장 탄핵을 추진하기로 하고 20일 의원총회에서 당론을 채택한 뒤 탄핵추진단을 구성할 계획이라고 밝혔습니다.",
+            "한덕수 전 국무총리 사건의 대법원 파기환송 판결 이후 나온 결정으로, 국민의힘은 이를 보복 탄핵이라고 규정하며 반발했습니다."
+          ],
+          "timeline": {
+            "change": "민주당 지도부가 대법원장 탄핵추진단 구성 계획을 밝히고 20일 의원총회에서 당론 채택을 추진하기로 했습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "cho-hee-dae-impeachment-2026",
+            "issueTitle": "조희대 대법원장 탄핵 추진",
+            "stage": "발표"
+          },
+          "title": "민주당, 조희대 탄핵추진단 구성 계획",
+          "topicKey": "cho-hee-dae-impeachment",
+          "uncertainty": "20일 의원총회에서 당론이 확정되기 전이며 탄핵소추안 제출·표결 일정은 아직 발표되지 않았습니다.",
+          "whatChanged": "한덕수 사건 파기환송에 대한 정치권 반응에서 나아가 민주당 지도부가 대법원장 탄핵추진단 구성과 다음 날 당론 채택 계획을 구체적으로 밝혔습니다.",
+          "whyItMatters": "국회 다수당의 대법원장 탄핵 추진은 사법부와 입법부의 관계 및 향후 헌법상 탄핵 절차에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "공동 작전 계획이 준비됐다고",
+            "실제 공격 결정이나 일정은 공식 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "이스라엘 채널13 방송은 현지시간 11월 19일, 네타냐후 총리가 전날 소집한 안보 회의의 내용을 전했습니다. 실제 회의의 시각과 장소는 독립적으로 확인하지 못했습니다.",
+          "id": "israel-iran-strike-planning-20261120",
+          "keyFacts": {
+            "militaryClaim": "이스라엘군 관계자가 미 중부사령부와 공동 작전 계획이 승인됐다고 주장",
+            "officialStatus": "실제 공격 명령 및 날짜 미확인",
+            "reportedCoordination": "미 중부사령관과 이스라엘군 수뇌부가 역내 정세 및 공동 대응 태세 협의",
+            "reportedPosition": "채널13이 네타냐후 총리의 대이란 군사행동 불가피 발언을 보도"
+          },
+          "publishedAt": "2026-11-20T02:27:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-19T21:46:00+09:00",
+              "title": "네타냐후, '대이란 군사행동' 강행 움직임...\"시기 조율만 남아\"",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611192146319159",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261119178751079",
+          "reserveUpdate": {
+            "delta": "이스라엘 현지 방송이 네타냐후 총리의 안보 회의 발언과 미국·이스라엘 공동작전 준비 관련 군 관계자 주장을 새로 보도했습니다.",
+            "editionId": "2026-11-14-pm",
+            "publishedAt": "2026-11-20T02:27:00+09:00",
+            "sourceUrl": "https://www.yna.co.kr/view/AKR20261119178751079"
+          },
+          "scoreComponents": {
+            "domesticImpact": 80,
+            "importance": 98,
+            "interest": 93,
+            "recency": 96,
+            "reliability": 86
+          },
+          "scoreReason": "중동 분쟁 확대 가능성과 국제 에너지 시장에 미칠 파급력이 크지만 핵심 내용이 현지 언론의 소식통 인용이라는 점을 반영했습니다.",
+          "sourceCheck": "연합뉴스 20일 2시 27분 종합기사에서 채널13 방송의 주장과 미국·이스라엘군 협의 내용을 확인했습니다. YTN 19일 21시 46분 보도에서도 관련 발언이 일치합니다. 군사작전이 실제 승인·개시됐다는 사실은 독립적으로 확인하지 못해 보도와 주장으로 한정했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img5.yna.co.kr/photo/etc/af/2026/10/22/PAF20261022272101009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T02:27:00+09:00",
+              "title": "\"네타냐후 '대이란 군사행동 불가피' 입장…시기 조율만 남아\"(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261119178751079",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "이스라엘 채널13 방송은 네타냐후 총리가 안보 회의에서 대이란 군사행동이 불가피하다는 입장을 밝혔으며, 미군과 이스라엘군의 공동 작전 계획이 준비됐다고 보도했습니다.",
+            "이스라엘군 관계자는 실행 시점과 미국 대통령의 결단이 남았다고 주장했지만, 실제 공격 결정이나 일정은 공식 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "이스라엘 현지 방송이 네타냐후 총리의 군사행동 관련 발언과 미·이스라엘 공동 작전 준비 주장을 새롭게 전했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "israel-iran-military-escalation-2026",
+            "issueTitle": "이스라엘·이란 군사적 긴장",
+            "stage": "보도"
+          },
+          "title": "이스라엘, 대이란 군사행동 검토",
+          "topicKey": "israel-iran-military-tension",
+          "uncertainty": "군사행동 계획과 실행 임박 주장은 현지 언론의 익명 소식통 인용이며, 미국의 공격 승인과 구체적인 작전 시점은 확인되지 않았습니다.",
+          "whatChanged": "이스라엘 현지 방송이 네타냐후 총리의 안보 회의 발언과 미국·이스라엘 공동작전 준비 관련 군 관계자 주장을 새로 보도했습니다.",
+          "whyItMatters": "이란과 이스라엘의 충돌 확대 가능성은 중동 안보와 국제 에너지 공급에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·증시",
+          "emphasis": [
+            "2.19% 하락한 49,097.06",
+            "S&P500과 나스닥도 각각 2.02%, 2.25% 떨어졌습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 19일 미국 뉴욕증권거래소 정규장 마감 결과입니다. 정확한 종가 확정 시각은 별도로 기록하지 않았습니다.",
+          "followUp": {
+            "delta": "전날 혼조세로 마감했던 미국 주요 지수가 19일 거래에서 동반 2%대 급락했고 다우지수는 5만선 아래로 내려갔습니다.",
+            "editionId": "2026-11-19-am",
+            "storyId": "20261119-am-us-market"
+          },
+          "id": "us-stocks-plunge-20261120",
+          "keyFacts": {
+            "dow": "49,097.06, 전 거래일 대비 2.19% 하락",
+            "nasdaq": "23,879.20, 전 거래일 대비 2.25% 하락",
+            "sector": "AI·반도체 관련주 약세",
+            "session": "2026년 11월 19일 미국 정규장",
+            "sp500": "7,175.83, 전 거래일 대비 2.02% 하락"
+          },
+          "publishedAt": "2026-11-20T06:27:15+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1120/202611200656130170_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-20T06:56:00+09:00",
+              "title": "앤트로픽 상장에도 뉴욕 증시 동반 2%대 급락 마감...앤트로픽 97.17달러로 첫날 거래 마감하며 공모가 대비 17.07%↑",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611200656130170",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261120_0003875967",
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 97,
+            "interest": 94,
+            "recency": 99,
+            "reliability": 98
+          },
+          "scoreReason": "뉴욕 주요 지수의 큰 폭 하락이 정규장 종가로 확정됐고 국내 반도체·금융시장에 영향을 미칠 수 있는 새 결과입니다.",
+          "sourceCheck": "뉴시스 20일 6시 27분 15초 기사에서 뉴욕증시 3대 지수 종가와 하락률을 확인했으며, 6시 38분 24초 수정본도 조사 기준 이전입니다. YTN 6시 56분 보도에서 같은 지수를 교차 확인했습니다. 하락 원인은 매체의 시장 해석과 실제 종가를 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.newsis.com/2026/11/20/NISI20261120_0002297336_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-20T06:27:15+09:00",
+              "title": "뉴욕증시, AI주 약세에 2%대 하락…다우지수 5만선 붕괴",
+              "url": "https://www.newsis.com/view/NISX20261120_0003875967",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "미국 뉴욕증시에서 다우지수는 2.19% 하락한 49,097.06으로 마감해 5만선 아래로 내려갔고, S&P500과 나스닥도 각각 2.02%, 2.25% 떨어졌습니다.",
+            "앤트로픽 상장 첫날 AI 관련주에서 매도가 확대됐고, 엔비디아와 AMD 등 주요 기술주도 하락했습니다."
+          ],
+          "timeline": {
+            "change": "19일 미국 정규장에서 다우지수가 2.19% 하락해 5만선을 밑돌았고 S&P500과 나스닥도 2% 넘게 내려 마감했습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-equities-chips-rates-oil",
+            "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+            "stage": "결과"
+          },
+          "title": "뉴욕증시 2%대 급락, 다우 5만선 붕괴",
+          "topicKey": "us-stock-market-november-2026",
+          "uncertainty": "증시 하락에 영향을 준 요인은 복합적이며 앤트로픽 상장만이 원인이라고 확정할 수 없습니다.",
+          "whatChanged": "전날 혼조세로 마감했던 미국 주요 지수가 19일 거래에서 동반 2%대 급락했고 다우지수는 5만선 아래로 내려갔습니다.",
+          "whyItMatters": "미국 AI 관련주와 반도체주 약세는 국내 증시의 투자심리와 외국인 자금 흐름에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "성수지선 양방향 운행이 중단",
+            "선로전환기가 훼손됐으며"
+          ],
+          "eventAt": "2026-11-20T05:37:00+09:00",
+          "eventTimeNote": "서울교통공사와 연합뉴스가 안내한 20일 오전 5시 37분 운행 중단 기준입니다. 조사 기준까지 정상 운행 재개 여부는 확인하지 못했습니다.",
+          "id": "seoul-subway-seongsu-disruption-20261120",
+          "keyFacts": {
+            "affectedService": "지하철 2호선 성수지선 양방향 운행 중단",
+            "mainLine": "지하철 2호선 본선은 정상 운행으로 보도",
+            "reportedCause": "정지신호 위반 열차로 인한 용답역 선로전환기 훼손",
+            "secondaryEffect": "1호선 일부 열차 출고 지연",
+            "start": "2026년 11월 20일 오전 5시 37분"
+          },
+          "publishedAt": "2026-11-20T07:43:12+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.newspim.com/news/2026/10/08/261008182947110_815_tc.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-20T07:48:00+09:00",
+              "title": "서울지하철 2호선 성수지선 양방향 운행중단...출근길 시민 불편",
+              "url": "https://newspim.com/news/view/20261120000069",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            },
+            {
+              "imageUrl": "https://wimg.heraldcorp.com/news/cms/2026/11/20/news-p.v1.20260530.ef375171170a46ee820a0e1066ea601c_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "헤럴드경제",
+              "publishedAt": "2026-11-20T07:43:12+09:00",
+              "title": "[속보] 서울지하철 2호선 성수역~신설동역 지선 운행 중지… 본선은 정상운행",
+              "url": "https://biz.heraldcorp.com/article/10943387",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://biz.heraldcorp.com/article/10943387",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 96,
+            "interest": 91,
+            "recency": 99,
+            "reliability": 98
+          },
+          "scoreReason": "출근 시간대 대중교통 운행 차질로 시민 이동에 직접 영향을 주고 장애 시작 시각과 원인이 확인됐습니다.",
+          "sourceCheck": "연합뉴스 7시 원문에서 장애 시작 시각과 원인, 1호선 지연을 확인했습니다. 뉴스핌 7시 48분 기사와 헤럴드경제 7시 43분 12초 기사에서도 운행 중단 및 본선 정상 운행을 교차 확인했습니다. 최신 운행 재개 공지는 확인되지 않았으므로 복구 완료로 표시하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://wimg.heraldcorp.com/news/cms/2026/11/20/news-p.v1.20260530.ef375171170a46ee820a0e1066ea601c_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "헤럴드경제",
+              "publishedAt": "2026-11-20T07:43:12+09:00",
+              "title": "[속보] 서울지하철 2호선 성수역~신설동역 지선 운행 중지… 본선은 정상운행",
+              "url": "https://biz.heraldcorp.com/article/10943387",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "20일 오전 5시 37분부터 서울 지하철 2호선 성수지선 양방향 운행이 중단되고 1호선 일부 열차도 지연됐습니다.",
+            "용답역에서 정지신호를 위반한 열차로 선로전환기가 훼손됐으며, 서울교통공사는 복구 작업을 진행 중이라고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "20일 오전 5시 37분 용답역 선로전환기 장애로 성수지선 양방향 운행이 중단되고 1호선 일부 열차가 지연됐습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "seoul-subway-seongsu-branch-disruption-20261120",
+            "issueTitle": "서울 지하철 성수지선 운행 장애",
+            "stage": "발표"
+          },
+          "title": "서울 지하철 성수지선 운행 중단",
+          "topicKey": "seoul-subway-service-disruptions",
+          "uncertainty": "복구 완료 시각과 정상 운행 재개 여부는 조사 기준 시각까지 확인되지 않았습니다.",
+          "whatChanged": "20일 새벽 성수지선에서 선로전환기 장애로 운행 중단이 발생했고 1호선 일부 열차 출고까지 지연됐습니다.",
+          "whyItMatters": "서울 동북부와 동부 지역 지하철 이용자의 출근길 이동에 직접적인 차질이 발생했습니다."
+        },
+        {
+          "category": "금융·증시",
+          "emphasis": [
+            "25조9,780억원을 순매도",
+            "7조3,750억원을 순투자"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 20일 금융감독원이 발표한 2026년 10월 외국인 증권투자 동향으로, 수치의 대상 기간은 10월 1일부터 31일까지입니다.",
+          "id": "foreign-stock-outflow-october-20261120",
+          "keyFacts": {
+            "kosdaq": "10월 코스닥시장 9,630억원 순매도",
+            "kospi": "10월 유가증권시장 25조150억원 순매도",
+            "octoberBonds": "10월 상장채권 7조3,750억원 순투자",
+            "octoberStocks": "2026년 10월 외국인 국내 상장주식 25조9,780억원 순매도",
+            "septemberStocks": "2026년 9월 19조1,160억원 순매도",
+            "twoMonthStocks": "9~10월 합계 45조940억원 순매도"
+          },
+          "publishedAt": "2026-11-20T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img1.newsis.com/2026/03/11/NISI20260311_0021204512_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-20T06:00:00+09:00",
+              "title": "外人, 지난달 국내 주식 26조 순매도…두 달 만에 45조 팔았다",
+              "url": "https://www.newsis.com/view/NISX20261119_0003875600",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261119_0003875600",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 95,
+            "interest": 92,
+            "recency": 98,
+            "reliability": 98
+          },
+          "scoreReason": "금융감독원 월간 공식 통계가 새로 공개됐으며 국내 주식·채권 자금 흐름의 규모가 큰 경제 뉴스입니다.",
+          "sourceCheck": "뉴시스 20일 6시 기사 원문에서 금융감독원의 10월 외국인 증권투자 통계를 확인했습니다. 기사 수정 시각은 6시 18분 25초로 조사 기준 이전입니다. 9월과 10월의 주식 순매도액을 합산해 두 달 합계도 확인했습니다. 채권은 순매수가 아니라 만기상환을 반영한 순투자액을 사용했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.newsis.com/2026/03/11/NISI20260311_0021204512_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-20T06:00:00+09:00",
+              "title": "外人, 지난달 국내 주식 26조 순매도…두 달 만에 45조 팔았다",
+              "url": "https://www.newsis.com/view/NISX20261119_0003875600",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "금융감독원은 외국인 투자자가 10월 국내 상장주식 25조9,780억원을 순매도해 두 달 연속 매도했다고 발표했습니다.",
+            "9월까지 합친 두 달간 순매도 규모는 약 45조1천억원이며, 10월 상장채권에는 7조3,750억원을 순투자했습니다."
+          ],
+          "timeline": {
+            "change": "금융감독원이 10월 국내 주식 25조9,780억원 순매도와 상장채권 7조3,750억원 순투자를 공식 발표했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-foreign-securities-flows-2026",
+            "issueTitle": "2026년 외국인 국내 증권투자 동향",
+            "stage": "발표"
+          },
+          "title": "외국인, 10월 국내 주식 26조원 순매도",
+          "topicKey": "kr-foreign-investor-securities-flows",
+          "uncertainty": "통계는 10월 월간 확정 집계이며 11월 현재까지의 외국인 누적 거래를 뜻하지 않습니다.",
+          "whatChanged": "금융감독원이 10월 외국인 증권투자 동향을 새로 발표해 주식 대규모 순매도와 채권 순투자 전환 규모가 확인됐습니다.",
+          "whyItMatters": "외국인 자금이 국내 주식에서는 빠져나가고 채권에서는 순유입된 흐름을 보여주는 공식 통계입니다."
+        },
+        {
+          "category": "기술·AI",
+          "emphasis": [
+            "17.07% 오른 97.17달러",
+            "시초가보다 낮은 97.17달러"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 19일 미국 뉴욕 나스닥 정규장 상장 첫 거래 결과입니다. 미국 동부시간 기준입니다.",
+          "followUp": {
+            "delta": "상장 예정과 거래 개시 보도에서 나아가 첫 거래일 시초가 111.50달러와 종가 97.17달러가 확인됐습니다.",
+            "editionId": "2026-11-19-am",
+            "storyId": "20261119-am-anthropic-ipo"
+          },
+          "id": "anthropic-ipo-close-20261120",
+          "keyFacts": {
+            "firstDayClose": "주당 97.17달러, 공모가 대비 17.07% 상승",
+            "offerPrice": "주당 83달러",
+            "openingPrice": "주당 111.50달러",
+            "openingToClose": "시초가 111.50달러에서 종가 97.17달러로 하락",
+            "ticker": "ANT"
+          },
+          "publishedAt": "2026-11-20T06:56:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1120/202611200656130170_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-20T06:56:00+09:00",
+              "title": "앤트로픽 상장에도 뉴욕 증시 동반 2%대 급락 마감...앤트로픽 97.17달러로 첫날 거래 마감하며 공모가 대비 17.07%↑",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611200656130170",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.ytn.co.kr/_ln/0104_202611200656130170",
+          "scoreComponents": {
+            "domesticImpact": 76,
+            "importance": 94,
+            "interest": 97,
+            "recency": 99,
+            "reliability": 98
+          },
+          "scoreReason": "생성형 AI 업계의 대형 기업공개 결과가 주식 거래 종료와 함께 확정됐으며 주요 기술·경제 매체들이 보도했습니다.",
+          "sourceCheck": "YTN 2026년 11월 20일 오전 6시 56분 원문에서 앤트로픽의 공모가 83달러, 시초가 111.50달러, 종가 97.17달러 및 공모가 대비 17.07% 상승을 확인했습니다. 원문에 없는 장중 115달러 초과와 총 1,073억달러 조달 완료 주장은 삭제했습니다. 연합뉴스와 전자신문은 researchCutoffAt 이후 수정된 원문만 확인돼 출처에서 제외했습니다. 사진 메타데이터는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1120/202611200656130170_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-20T06:56:00+09:00",
+              "title": "앤트로픽 상장에도 뉴욕 증시 동반 2%대 급락 마감...앤트로픽 97.17달러로 첫날 거래 마감하며 공모가 대비 17.07%↑",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611200656130170",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "AI 기업 앤트로픽이 19일 미국 나스닥에 상장해 공모가 83달러보다 17.07% 오른 97.17달러로 첫 거래를 마쳤습니다.",
+            "주당 111.50달러로 거래를 시작했지만 종가는 시초가보다 낮은 97.17달러를 기록했습니다."
+          ],
+          "timeline": {
+            "change": "앤트로픽이 나스닥 상장 첫 거래를 마쳤으며 공모가 83달러 대비 17.07% 오른 97.17달러에 마감했습니다.",
+            "eventDate": "2026-11-19",
+            "eventEndDate": "2026-11-19",
+            "eventTimezone": "America/New_York",
+            "issueId": "anthropic-ipo-2026",
+            "issueTitle": "앤트로픽 기업공개와 나스닥 상장",
+            "stage": "결과"
+          },
+          "title": "앤트로픽, 상장 첫날 17.07% 상승",
+          "topicKey": "anthropic-ipo-2026",
+          "uncertainty": "상장 첫날 공모가·시초가·종가는 확인됐으나 총 조달 규모와 향후 주가 변동은 이 출처만으로 확정할 수 없습니다.",
+          "whatChanged": "상장 예정과 거래 개시 보도에서 나아가 첫 거래일 시초가 111.50달러와 종가 97.17달러가 확인됐습니다.",
+          "whyItMatters": "주요 생성형 AI 기업의 첫 대규모 상장 결과로 AI 산업의 자본 조달과 시장 평가에 중요한 참고 자료가 됩니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "4차례 공격했다고 발표했습니다",
+            "다른 목표물의 피해는 확인하지 않았으며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "후티군 대변인이 현지시간 11월 19일 공격 사실을 발표했다고 뉴시스가 보도했습니다. 개별 공격 실행 시각은 확인되지 않았습니다.",
+          "id": "houthis-saudi-attack-claims-20261120",
+          "keyFacts": {
+            "casualties": "사우디 당국은 인명 피해가 없다고 발표",
+            "claimant": "예멘 후티군 대변인 야히야 사리",
+            "operationsClaimed": "4차례 작전",
+            "reportedTargets": "리야드 킹칼리드 국제공항, 카미스 무샤이트 공군기지, 리야드 금융단지, 주바일 석유화학단지",
+            "saudiAcknowledgement": "리야드 금융단지 일부 건물 피해 확인"
+          },
+          "publishedAt": "2026-11-20T07:11:44+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021536385_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-20T07:11:44+09:00",
+              "title": "예멘 후티 \"사우디 공항· 공군기지· 금융센터 ·석유시설 보복 폭격\"",
+              "url": "https://www.newsis.com/view/NISX20261120_0003875966",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.newsis.com/view/NISX20261120_0003875966",
+          "reserveUpdate": {
+            "delta": "후티군이 사우디의 네 종류의 주요 시설을 공격했다고 새로 주장했고 사우디 당국은 금융단지의 일부 피해만 확인했습니다.",
+            "editionId": "2026-11-13-am",
+            "publishedAt": "2026-11-20T07:11:44+09:00",
+            "sourceUrl": "https://www.newsis.com/view/NISX20261120_0003875966"
+          },
+          "scoreComponents": {
+            "domesticImpact": 69,
+            "importance": 93,
+            "interest": 87,
+            "recency": 98,
+            "reliability": 83
+          },
+          "scoreReason": "중동의 에너지·항공 기반시설을 대상으로 한 새 공격 주장이지만 피해 확인 범위가 제한된 점을 반영했습니다.",
+          "sourceCheck": "뉴시스 20일 7시 11분 44초 원문에서 후티 대변인의 공격 주장, 사우디 당국의 금융단지 피해 인정, 인명 피해 미보고를 확인했습니다. 후티 측 주장과 사우디 측 확인 범위를 분리했으며, 다른 세 시설의 실제 피해를 확정하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.newsis.com/2026/11/18/NISI20261118_0021536385_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-20T07:11:44+09:00",
+              "title": "예멘 후티 \"사우디 공항· 공군기지· 금융센터 ·석유시설 보복 폭격\"",
+              "url": "https://www.newsis.com/view/NISX20261120_0003875966",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "주장",
+          "summary": [
+            "예멘 후티 반군은 사우디아라비아의 리야드 공항과 공군기지, 금융센터, 석유화학시설을 겨냥해 4차례 공격했다고 발표했습니다.",
+            "사우디 당국은 리야드 금융단지 건물 피해를 인정했지만 다른 목표물의 피해는 확인하지 않았으며, 인명 피해는 없었다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "후티군이 사우디 주요 시설을 상대로 네 차례 공격했다고 주장했고 사우디 당국은 리야드 금융단지 일부 피해를 확인했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "yemen-saudi-houthi-escalation-2026",
+            "issueTitle": "예멘 후티·사우디아라비아 무력 충돌",
+            "stage": "보도"
+          },
+          "title": "후티, 사우디 주요 시설 4곳 공격 주장",
+          "topicKey": "yemen-saudi-houthi-conflict",
+          "uncertainty": "후티가 주장한 모든 공격 목표의 실제 피격과 피해 규모는 독립적으로 확인되지 않았습니다.",
+          "whatChanged": "후티군이 사우디의 네 종류의 주요 시설을 공격했다고 새로 주장했고 사우디 당국은 금융단지의 일부 피해만 확인했습니다.",
+          "whyItMatters": "사우디의 금융·항공·에너지 시설을 둘러싼 무력 충돌이 확대되면 민간 안전과 국제 원유 공급에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·안전",
+          "emphasis": [
+            "2~7㎝",
+            "도로 살얼음과 강한 바람"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "기상청의 11월 20~21일 예보를 다룬 20일 오전 5시 26분 보도입니다. 지역별 눈 시작·종료 시각은 확정하지 않았습니다.",
+          "followUp": {
+            "delta": "20일 아침 예보에서 충남·전북 서해안과 제주 산지의 예상 적설량, 낮 기온, 도로 살얼음 위험이 구체적으로 제시됐습니다.",
+            "editionId": "2026-11-19-am",
+            "storyId": "20261119-am-cold-wave"
+          },
+          "id": "november-snow-forecast-20261120",
+          "keyFacts": {
+            "daytimeTemperature": "전국 낮 최고 1~9도",
+            "jejuMountainSnow": "제주 산지 3~8㎝",
+            "safetyConcerns": "도로 살얼음, 강풍, 해상 풍랑",
+            "westCoastSnow": "충남·전북 서해안 2~7㎝"
+          },
+          "publishedAt": "2026-11-20T05:26:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/11/20/yj20261119-03.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-20T00:06:00+09:00",
+              "title": "[날씨] 아침 기온 전국 대부분 영하권‥ 전북 곳곳 대설주의보",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6867084_36918.html",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261120007100034",
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 92,
+            "interest": 82,
+            "recency": 97,
+            "reliability": 97
+          },
+          "scoreReason": "국민 안전과 이동에 영향을 주는 당일 기상 예보로, 적설량과 주의 지역이 구체적으로 확인됐습니다.",
+          "sourceCheck": "연합뉴스 20일 5시 26분 기사 원문에서 지역별 예상 적설량과 낮 최고기온을 확인했습니다. MBC 0시 6분 기사에서 대설주의보와 아침 영하권 예보를 추가 확인했습니다. 예보를 실제 적설 결과로 서술하지 않았으며 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120007100034_01_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-20T05:26:00+09:00",
+              "title": "충남·전라·제주 눈 또는 비…서해안 최대 7㎝ 눈",
+              "url": "https://www.yna.co.kr/view/AKR20261120007100034",
+              "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "기상청은 20일부터 21일까지 충남과 전북 서해안에 2~7㎝, 제주 산지에는 3~8㎝의 눈이 내릴 것으로 예보했습니다.",
+            "전국의 낮 최고기온은 1~9도에 머물겠으며 도로 살얼음과 강한 바람에 주의가 필요합니다."
+          ],
+          "timeline": {
+            "change": "20일부터 21일까지 서해안과 제주 산지에 적설이 예상되고 일부 지역에 대설주의보와 도로 결빙 주의가 안내됐습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": "2026-11-21",
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-cold-wave-2026-11",
+            "issueTitle": "수능 전후 한파와 눈·비",
+            "stage": "예정"
+          },
+          "title": "충남·전북 서해안 최대 7㎝ 눈 예보",
+          "topicKey": "kr-winter-weather-2026",
+          "uncertainty": "예상 적설량과 강수 지역은 실제 기상 변화에 따라 달라질 수 있습니다.",
+          "whatChanged": "20일 아침 예보에서 충남·전북 서해안과 제주 산지의 예상 적설량, 낮 기온, 도로 살얼음 위험이 구체적으로 제시됐습니다.",
+          "whyItMatters": "서해안과 내륙의 도로 결빙 및 해상 풍랑으로 교통·안전 피해 가능성이 있어 대비가 필요합니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-20-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-20T09:20:38.624205+09:00",
+  "result": {
+    "id": "2026-11-20-am",
+    "operationId": "publish-news-2026-11-20-am",
+    "recordedAt": "2026-11-20T09:20:38.624205+09:00",
+    "sha256": "5de512d7b2effec3d98117fb6055b3b23c4b9409bf84c4820e959bb46296a57c",
+    "windowId": "2026-11-20-am"
+  }
+}

@@ -56,10 +56,65 @@
       "supersededBy": [],
       "title": "영하권 수능 한파…충청·호남·제주 눈·비",
       "uncertainty": "예상 적설량을 관측 적설량으로 사용하지 않았으며 지역별 도로 결빙 여부는 다를 수 있습니다."
+    },
+    {
+      "briefingPath": "2026-11-20/am.json",
+      "category": "사회·안전",
+      "change": "20일부터 21일까지 서해안과 제주 산지에 적설이 예상되고 일부 지역에 대설주의보와 도로 결빙 주의가 안내됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "am",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-am",
+      "eventAt": null,
+      "eventDate": "2026-11-20",
+      "eventEndDate": "2026-11-21",
+      "eventTimeNote": "기상청의 11월 20~21일 예보를 다룬 20일 오전 5시 26분 보도입니다. 지역별 눈 시작·종료 시각은 확정하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "20일 아침 예보에서 충남·전북 서해안과 제주 산지의 예상 적설량, 낮 기온, 도로 살얼음 위험이 구체적으로 제시됐습니다.",
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-cold-wave"
+      },
+      "id": "2026-11-20-am/november-snow-forecast-20261120",
+      "keyFacts": {
+        "daytimeTemperature": "전국 낮 최고 1~9도",
+        "jejuMountainSnow": "제주 산지 3~8㎝",
+        "safetyConcerns": "도로 살얼음, 강풍, 해상 풍랑",
+        "westCoastSnow": "충남·전북 서해안 2~7㎝"
+      },
+      "previous": {
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-cold-wave"
+      },
+      "publishedAt": "2026-11-20T05:26:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120007100034_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-20T05:26:00+09:00",
+          "title": "충남·전라·제주 눈 또는 비…서해안 최대 7㎝ 눈",
+          "url": "https://www.yna.co.kr/view/AKR20261120007100034",
+          "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "november-snow-forecast-20261120",
+      "summary": [
+        "기상청은 20일부터 21일까지 충남과 전북 서해안에 2~7㎝, 제주 산지에는 3~8㎝의 눈이 내릴 것으로 예보했습니다.",
+        "전국의 낮 최고기온은 1~9도에 머물겠으며 도로 살얼음과 강한 바람에 주의가 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "충남·전북 서해안 최대 7㎝ 눈 예보",
+      "uncertainty": "예상 적설량과 강수 지역은 실제 기상 변화에 따라 달라질 수 있습니다."
     }
   ],
   "id": "csat-cold-wave-2026-11",
   "schemaVersion": 1,
   "title": "수능 전후 한파와 눈·비",
-  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
 }

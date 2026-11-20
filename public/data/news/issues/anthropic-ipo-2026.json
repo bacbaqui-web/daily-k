@@ -1,6 +1,62 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-11-20/am.json",
+      "category": "기술·AI",
+      "change": "앤트로픽이 나스닥 상장 첫 거래를 마쳤으며 공모가 83달러 대비 17.07% 오른 97.17달러에 마감했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "coveredOn": "2026-11-20",
+      "edition": "am",
+      "editionDate": "2026-11-20",
+      "editionId": "2026-11-20-am",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": "2026-11-19",
+      "eventTimeNote": "2026년 11월 19일 미국 뉴욕 나스닥 정규장 상장 첫 거래 결과입니다. 미국 동부시간 기준입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "상장 예정과 거래 개시 보도에서 나아가 첫 거래일 시초가 111.50달러와 종가 97.17달러가 확인됐습니다.",
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-anthropic-ipo"
+      },
+      "id": "2026-11-20-am/anthropic-ipo-close-20261120",
+      "keyFacts": {
+        "firstDayClose": "주당 97.17달러, 공모가 대비 17.07% 상승",
+        "offerPrice": "주당 83달러",
+        "openingPrice": "주당 111.50달러",
+        "openingToClose": "시초가 111.50달러에서 종가 97.17달러로 하락",
+        "ticker": "ANT"
+      },
+      "previous": {
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-anthropic-ipo"
+      },
+      "publishedAt": "2026-11-20T06:56:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1120/202611200656130170_t.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-20T06:56:00+09:00",
+          "title": "앤트로픽 상장에도 뉴욕 증시 동반 2%대 급락 마감...앤트로픽 97.17달러로 첫날 거래 마감하며 공모가 대비 17.07%↑",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611200656130170",
+          "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "anthropic-ipo-close-20261120",
+      "summary": [
+        "AI 기업 앤트로픽이 19일 미국 나스닥에 상장해 공모가 83달러보다 17.07% 오른 97.17달러로 첫 거래를 마쳤습니다.",
+        "주당 111.50달러로 거래를 시작했지만 종가는 시초가보다 낮은 97.17달러를 기록했습니다."
+      ],
+      "supersededBy": [],
+      "title": "앤트로픽, 상장 첫날 17.07% 상승",
+      "uncertainty": "상장 첫날 공모가·시초가·종가는 확인됐으나 총 조달 규모와 향후 주가 변동은 이 출처만으로 확정할 수 없습니다."
+    },
+    {
       "briefingPath": "2026-11-19/am.json",
       "category": "기술·경제",
       "change": "앤트로픽이 주당 83달러와 최종 공모 물량 9억8,000만주, 거래 개시 예정일을 발표했습니다.",
@@ -65,5 +121,5 @@
   "id": "anthropic-ipo-2026",
   "schemaVersion": 1,
   "title": "앤트로픽 기업공개와 나스닥 상장",
-  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
+  "updatedAt": "2026-11-20T09:16:07.810668+09:00"
 }
