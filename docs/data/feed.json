@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-20T23:18:33.597302+00:00",
+  "collectedAt": "2026-11-20T23:19:23.637535+00:00",
   "windowEnd": "2026-11-21T08:18:32.944191+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -13714,6 +13714,50 @@
       "firstPublishedAt": "2026-11-20T16:15:36.038287+00:00"
     },
     {
+      "id": "aagag-1671367-0",
+      "url": "https://aagag.com/issue/?idx=1671367",
+      "source": "애객",
+      "title": "비키녀의 예술작품.mp4",
+      "publishedAt": "2026-11-21T08:18:49+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L1GPW.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L1GPW.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-21T08:19:16.631157+09:00",
+      "sourceTitles": [
+        "예술",
+        "비키녀의 예술작품.mp4",
+        "비키니 예술작품",
+        "ㅇㅎ) 서양식 일보일배"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-20T23:19:23.508559+00:00",
+      "collectedAt": "2026-11-21T08:19:23.508576+09:00",
+      "firstPublishedAt": "2026-11-20T23:19:23.802537+00:00"
+    },
+    {
       "id": "aagag-1671369-0",
       "url": "https://aagag.com/issue/?idx=1671369",
       "source": "애객",
@@ -13788,7 +13832,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
