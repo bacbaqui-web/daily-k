@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-20T23:00:02.598075+00:00",
+  "collectedAt": "2026-11-20T23:03:09.027159+00:00",
   "windowEnd": "2026-11-21T08:00:02.219086+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -13788,7 +13788,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -13815,6 +13815,61 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671379-0",
+      "url": "https://aagag.com/issue/?idx=1671379",
+      "source": "애객",
+      "title": "ㅆㄷ) 메이드 로봇",
+      "publishedAt": "2026-11-21T07:50:58+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/K8yZA.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/K8yZG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/K8yZL.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/K8yZA.webp",
+        "https://i.aagag.com/o/K8yZG.webp",
+        "https://i.aagag.com/o/K8yZL.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-21T08:02:55.064727+09:00",
+      "sourceTitles": [
+        "우리집에는 로봇 메이드가 있다 Manhwa",
+        "ㅆㄷ) 메이드 로봇",
+        "ㅆㄷ) 메이드 로봇",
+        "메이드 로봇을 고용하는manhaw",
+        "메이드 로봇이 왔다!!manhaw",
+        "아버지가 아들에게 사준 오나홀",
+        "아버지가 아들에게 사준 오나홀"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-20T23:03:08.882593+00:00",
+      "collectedAt": "2026-11-21T08:03:08.882610+09:00",
+      "firstPublishedAt": "2026-11-20T23:03:09.062950+00:00"
+    },
     {
       "id": "aagag-1671348-0",
       "url": "https://aagag.com/issue/?idx=1671348",
