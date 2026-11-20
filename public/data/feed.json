@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-20T16:33:53.397017+00:00",
+  "collectedAt": "2026-11-20T16:41:22.362501+00:00",
   "windowEnd": "2026-11-21T01:33:53.016875+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8201,6 +8201,82 @@
       "firstPublishedAt": "2026-11-20T15:49:03.844126+00:00"
     },
     {
+      "id": "aagag-1671284-0",
+      "url": "https://aagag.com/issue/?idx=1671284",
+      "source": "애객",
+      "title": "의외로 논쟁이라는 사진",
+      "publishedAt": "2026-11-21T00:04:43+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6hNq.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "아기 예수의 탄생\nVS\n떨어지는 운석을 목격하는 두 마리의 티라노"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6hNq.webp"
+      ],
+      "videos": [],
+      "excerpt": "아기 예수의 탄생\nVS\n떨어지는 운석을 목격하는 두 마리의 티라노",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 13,
+      "commentCount": 7,
+      "laughingComments": 3,
+      "score": 13,
+      "kPerComment": 1.8571428571428572,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9008216",
+          "text": "보자마자 공룡으로 보이긴 했음 ㅋㅋ"
+        },
+        {
+          "id": "9008219",
+          "text": "손에 집중하면 사람이고 코에 집중하면 공룡이네 ㅋㅋ"
+        },
+        {
+          "id": "9008236",
+          "text": "아마겟돈처럼 마지막을 생각하고 서로 두손 꼭 쥐고 잇네"
+        },
+        {
+          "id": "9008237",
+          "text": "아씨...이제 티라노만 보이네"
+        },
+        {
+          "id": "9008246",
+          "text": "티라노다!ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9008287",
+          "text": "공룡시대의 종말"
+        },
+        {
+          "id": "9008310",
+          "text": "티라노를 위해 기도하는 사람이 보였음.."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T01:41:11.995956+09:00",
+      "sourceTitles": [
+        "떨어지는 운석을 목격하는 두 마리의 티라노.jpg",
+        "아기 예수의 탄생",
+        "의외로 의견이 갈린다는 사진",
+        "의외로 의견이 갈린다는 사진",
+        "의외로 인터넷에서 논쟁인 사진",
+        "의외로 논쟁이라는 사진",
+        "의외로 논쟁이라는 사진"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-20T16:41:22.268987+00:00",
+      "collectedAt": "2026-11-21T01:41:22.269005+09:00",
+      "firstPublishedAt": "2026-11-20T16:41:22.394709+00:00"
+    },
+    {
       "id": "aagag-1387310-0",
       "url": "https://aagag.com/issue/?idx=1387310",
       "source": "애객",
@@ -12020,7 +12096,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
