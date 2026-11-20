@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T05:07:39.955336+09:00",
-  "windowEnd": "2026-11-21T04:58:41.220585+09:00",
+  "collectedAt": "2026-11-20T20:18:06.532936+00:00",
+  "windowEnd": "2026-11-21T05:18:06.199231+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -12528,99 +12528,6 @@
       "firstPublishedAt": "2026-11-20T16:15:36.038287+00:00"
     },
     {
-      "id": "aagag-1671082-0",
-      "url": "https://aagag.com/issue/?idx=1671082",
-      "source": "애객",
-      "title": "ㅇㅎ) 레제 코스프레",
-      "publishedAt": "2026-11-20T04:54:49+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKT.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKX.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKY.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKa.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKc.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKe.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKf.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKg.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6fKh.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L6fKT.webp",
-        "https://i.aagag.com/o/L6fKX.webp",
-        "https://i.aagag.com/o/L6fKY.webp",
-        "https://i.aagag.com/o/L6fKa.webp",
-        "https://i.aagag.com/o/L6fKc.webp",
-        "https://i.aagag.com/o/L6fKe.webp",
-        "https://i.aagag.com/o/L6fKf.webp",
-        "https://i.aagag.com/o/L6fKg.webp",
-        "https://i.aagag.com/o/L6fKh.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9004295",
-          "text": "Yummychiyo (小仓千代) https://x.com/yummychiyo 출처에서 찾았는데 ai 같기도 하고.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-20T05:12:55.316195+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 레제 코스프레",
-        "ㅎㅂ) 레제 코스프레",
-        "레제 코스프레",
-        "레제 코스프레"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-19T20:13:00.462405+00:00",
-      "collectedAt": "2026-11-20T05:13:00.462423+09:00",
-      "firstPublishedAt": "2026-11-19T20:13:00.554415+00:00"
-    },
-    {
       "id": "aagag-1671077-0",
       "url": "https://aagag.com/issue/?idx=1671077",
       "source": "애객",
@@ -12674,9 +12581,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 324,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
