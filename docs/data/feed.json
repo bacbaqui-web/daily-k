@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-20T19:58:41.516669+00:00",
+  "collectedAt": "2026-11-20T19:59:47.337275+00:00",
   "windowEnd": "2026-11-21T04:58:41.220585+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -12560,7 +12560,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -12587,6 +12587,64 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671348-0",
+      "url": "https://aagag.com/issue/?idx=1671348",
+      "source": "애객",
+      "title": "AI때문에 수능날 재난문자가 울리는 만화.manhwa",
+      "publishedAt": "2026-11-21T04:54:11+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6gqc.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6gqi.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6gqk.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6gqm.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6gqc.webp",
+        "https://i.aagag.com/o/L6gqi.webp",
+        "https://i.aagag.com/o/L6gqk.webp",
+        "https://i.aagag.com/o/L6gqm.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-21T04:59:34.723495+09:00",
+      "sourceTitles": [
+        "AI때문에 수능날 재난문자가 울리는 만화.manhwa",
+        "AI때문에 수능날 재난문자가 울리는 4컷.manhwa",
+        "AI때문에 수능날 재난문자가 울리는 4컷.manhwa",
+        "AI때문에 수능날 재난문자가 울리는 4컷.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-20T19:59:47.236173+00:00",
+      "collectedAt": "2026-11-21T04:59:47.236189+09:00",
+      "firstPublishedAt": "2026-11-20T19:59:47.519708+00:00"
+    },
     {
       "id": "aagag-856798-0",
       "url": "https://aagag.com/issue/?idx=856798",
