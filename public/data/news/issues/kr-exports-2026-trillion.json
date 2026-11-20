@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-19/pm.json",
+      "category": "경제",
+      "change": "19일 오후 2시 9분 38초에 올해 누적 수출이 사상 처음으로 1조달러를 돌파했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "pm",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-pm",
+      "eventAt": "2026-11-19T14:09:38+09:00",
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "산업통상부가 발표한 누적 수출 1조달러 돌파 기준 시각입니다. 당일 집계는 잠정치입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-19-pm/kr-exports-trillion-20261119",
+      "keyFacts": {
+        "countryOrder": "미국·독일·중국에 이어 네 번째",
+        "semiconductorExports": "2026년 1~10월 3,968억달러, 전년 동기 대비 193.1% 증가",
+        "semiconductorShare": "2026년 1~10월 전체 수출의 42.7%",
+        "threshold": "2026년 누적 수출 1조달러",
+        "thresholdReachedAt": "2026-11-19T14:09:38+09:00"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-19T14:31:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111918070006100_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T14:31:00+09:00",
+          "title": "한국 수출 1조달러 돌파…일본 넘어 세계 4대 수출 강국(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119094200003",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kr-exports-trillion-20261119",
+      "summary": [
+        "산업통상부는 19일 오후 2시 9분 38초를 기준으로 올해 누적 수출액이 사상 처음 1조달러를 넘어섰다고 잠정 집계했습니다.",
+        "미국·독일·중국에 이은 세계 네 번째 기록으로, 올해 1~10월 반도체 수출은 지난해보다 193.1% 늘어 전체 수출의 42.7%를 차지했습니다."
+      ],
+      "supersededBy": [],
+      "title": "한국 수출, 사상 첫 1조달러 돌파",
+      "uncertainty": "1조달러 돌파는 잠정 집계이고, 2026년 연간 최종 수출액과 세계 수출 순위는 아직 확정되지 않았습니다."
+    }
+  ],
+  "id": "kr-exports-2026-trillion",
+  "schemaVersion": 1,
+  "title": "한국 2026년 수출 1조달러 달성",
+  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
+}

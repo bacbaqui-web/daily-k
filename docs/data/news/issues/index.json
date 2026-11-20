@@ -1,6 +1,159 @@
 {
-  "editionCount": 127,
+  "editionCount": 128,
   "issues": [
+    {
+      "categories": [
+        "국제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "us-china-russia-first-trilateral-summit",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "19일 중국 선전에서 세 나라 정상이 직접 만나 약 90분 동안 회담한 뒤 일정을 마쳤습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "결과",
+        "storyId": "us-china-russia-summit-20261119",
+        "title": "미·중·러 첫 정상회담, 90분 만에 종료"
+      },
+      "path": "us-china-russia-first-trilateral-summit.json",
+      "title": "미국·중국·러시아 첫 3자 정상회담"
+    },
+    {
+      "categories": [
+        "정치·사회",
+        "정치·정책"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-16T21:12:00.552371+09:00",
+      "firstCoveredDate": "2026-11-16",
+      "id": "supreme-court-han-kim-verdict-schedule-2026",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "대법원이 계엄 선포 전 행위에 대해 일부 무죄 취지로 파기환송하면서 한덕수 전 총리의 2심 재판이 다시 열리게 됐습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "후속",
+        "storyId": "han-duck-soo-remand-20261119",
+        "title": "한덕수 2심 파기환송, 구속 유지"
+      },
+      "path": "supreme-court-han-kim-verdict-schedule-2026.json",
+      "title": "한덕수·김건희 사건 대법원 선고 일정"
+    },
+    {
+      "categories": [
+        "국토·교통"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "kr-national-rail-underground-project",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "국토교통부 공청회에서 서울 주요 노선을 포함한 전국 9개 신규 철도 지하화 추진안과 사업비 추산이 공개됐습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "검토",
+        "storyId": "rail-underground-nine-segments-20261119",
+        "title": "서울역~금천구청 등 9개 철도 지하화 추진"
+      },
+      "path": "kr-national-rail-underground-project.json",
+      "title": "전국 철도 지하화 통합개발"
+    },
+    {
+      "categories": [
+        "경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "kr-exports-2026-trillion",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "19일 오후 2시 9분 38초에 올해 누적 수출이 사상 처음으로 1조달러를 돌파했습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "결과",
+        "storyId": "kr-exports-trillion-20261119",
+        "title": "한국 수출, 사상 첫 1조달러 돌파"
+      },
+      "path": "kr-exports-2026-trillion.json",
+      "title": "한국 2026년 수출 1조달러 달성"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 37,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "수능일 장중 코스피 5천선이 무너졌지만 반도체주 반등으로 5,137.89에 상승 마감했습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "결과",
+        "storyId": "kospi-close-rebound-20261119",
+        "title": "코스피, 5천선 이탈 후 5,137 마감"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "국제·인권"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "icj-myanmar-rohingya-genocide-case",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "국제사법재판소의 선고가 시작되면서 2017년 로힝야족 민간인 대량 살해와 성폭력에 관한 판단이 공개됐습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "보도",
+        "storyId": "icj-rohingya-findings-20261119",
+        "title": "국제사법재판소, 로힝야족 대량 살해 인정"
+      },
+      "path": "icj-myanmar-rohingya-genocide-case.json",
+      "title": "국제사법재판소 미얀마 로힝야족 집단학살 사건"
+    },
+    {
+      "categories": [
+        "사회",
+        "사회·교육",
+        "사회이슈",
+        "정치·정책"
+      ],
+      "eventCount": 8,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "lastCoveredDate": "2026-11-19",
+      "latest": {
+        "archive": false,
+        "change": "수능 당일 세 차례의 위급재난문자 발송 이후 교육부가 부정행위 98명과 시험 중 기기 사용 5건을 발표했습니다.",
+        "editionId": "2026-11-19-pm",
+        "stage": "발표",
+        "storyId": "csat-cheating-98-20261119",
+        "title": "수능 스마트기기 관련 부정행위 98명 적발"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
     {
       "categories": [
         "국제"
@@ -117,29 +270,6 @@
       },
       "path": "fed-policy-2026.json",
       "title": "미국 연준 금리 결정과 물가 판단"
-    },
-    {
-      "categories": [
-        "사회",
-        "사회이슈",
-        "정치·정책"
-      ],
-      "eventCount": 7,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "lastCoveredDate": "2026-11-19",
-      "latest": {
-        "archive": false,
-        "change": "전국 수능이 시작되고 부정행위 방지용 첫 위급재난문자가 실제 발송됐습니다.",
-        "editionId": "2026-11-19-am",
-        "stage": "시행",
-        "storyId": "20261119-am-csat-start",
-        "title": "수능 시작…부정행위 방지 재난문자 발송"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
     },
     {
       "categories": [
@@ -290,29 +420,6 @@
       },
       "path": "korea-household-credit-2026.json",
       "title": "한국 가계신용"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 36,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "양대 지수 반등과 원·달러 주간 종가 하락",
-        "editionId": "2026-11-18-pm",
-        "stage": "결과",
-        "storyId": "20261118-pm-korea-market",
-        "title": "코스피, 하루 만에 5,000선 회복"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -821,27 +928,6 @@
       },
       "path": "us-russian-diesel-import-shipping-2026.json",
       "title": "미국의 러시아산 경유 수입과 해운 차질"
-    },
-    {
-      "categories": [
-        "정치·정책"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-16T21:12:00.552371+09:00",
-      "firstCoveredDate": "2026-11-16",
-      "id": "supreme-court-han-kim-verdict-schedule-2026",
-      "lastCoveredAt": "2026-11-16T21:12:00.552371+09:00",
-      "lastCoveredDate": "2026-11-16",
-      "latest": {
-        "archive": false,
-        "change": "두 주요 사건의 상고심 선고기일이 16일 공개됐습니다. 유무죄나 형량의 최종 결론은 아직 나오지 않았습니다.",
-        "editionId": "2026-11-16-pm",
-        "stage": "발표",
-        "storyId": "20261116-pm-supreme-court-schedule",
-        "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고"
-      },
-      "path": "supreme-court-han-kim-verdict-schedule-2026.json",
-      "title": "한덕수·김건희 사건 대법원 선고 일정"
     },
     {
       "categories": [
@@ -12149,7 +12235,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 945,
+  "storyCount": 953,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
 }

@@ -1,0 +1,57 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-19/pm.json",
+      "category": "국토·교통",
+      "change": "국토교통부 공청회에서 서울 주요 노선을 포함한 전국 9개 신규 철도 지하화 추진안과 사업비 추산이 공개됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "pm",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 19일 국토교통부 주최 철도지하화통합개발 종합계획 수립 공청회에서 발표된 내용입니다. 발표 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-19-pm/rail-underground-nine-segments-20261119",
+      "keyFacts": {
+        "estimatedTotalCost": "철도 지하화와 상부 개발 총 53조6천억원",
+        "newProjects": "전국 9개 신규 추진사업",
+        "nextSteps": "종합계획 고시 후 사전타당성 검토, 기본계획, 예비타당성 조사 등",
+        "seoulGyeongbu": "서울역~금천구청역 34.7km",
+        "seoulGyeongwon": "서빙고역~도봉산역 32.9km"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-19T17:37:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119141351003_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T17:37:00+09:00",
+          "title": "서울역∼금천구청 등 9개 철도 지하화 사업 신규 추진(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119141351003",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "stage": "검토",
+      "status": "검토",
+      "storyId": "rail-underground-nine-segments-20261119",
+      "summary": [
+        "국토교통부 공청회에서 서울역~금천구청역과 서빙고역~도봉산역 등을 포함한 전국 9개 구간의 철도 지하화 신규 추진안이 공개됐습니다.",
+        "전체 철도 지하화·상부 개발 사업비는 53조6천억원으로 추산됐으며, 사업별 타당성 검토와 기본계획 수립 등 절차가 남아 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "서울역~금천구청 등 9개 철도 지하화 추진",
+      "uncertainty": "공청회에서 공개된 계획안으로, 모든 사업의 예산과 착공 여부가 최종 확정된 것은 아닙니다."
+    }
+  ],
+  "id": "kr-national-rail-underground-project",
+  "schemaVersion": 1,
+  "title": "전국 철도 지하화 통합개발",
+  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
+}

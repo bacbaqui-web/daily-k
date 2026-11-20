@@ -1,0 +1,657 @@
+{
+  "cutoffAt": "2026-11-19T21:00:00+09:00",
+  "date": "2026-11-19",
+  "edition": "pm",
+  "editionId": "2026-11-19-pm",
+  "events": [],
+  "finalizedAt": "2026-11-20T09:14:06.923017+09:00",
+  "generatedAt": "2026-11-20T09:10:11.870754+09:00",
+  "generationMode": "chatgpt-app",
+  "id": "2026-11-19-pm",
+  "intro": "11월 19일 저녁 주요 뉴스입니다. 오후에 확인된 판결과 경제지표, 수능 결과, 국제 정상회담을 중심으로 정리했습니다.",
+  "keywords": [
+    "수출 1조달러",
+    "김건희 징역 4년 확정",
+    "한덕수 파기환송",
+    "미중러 첫 3자회담",
+    "수능 부정행위 98명",
+    "로힝야족 국제사법재판소",
+    "코스피 5,137.89",
+    "철도 지하화 9개 구간"
+  ],
+  "omissionNotes": [
+    "실제 조사 시작 시각은 2026-11-19T20:25:57+09:00이고 조사 완료 시각은 20:32:56+09:00입니다. cutoffAt 21:00은 발행 회차의 기준 시각일 뿐이며, 21:00까지 보도를 확인했다는 뜻이 아닙니다. 선정 기사들은 조사 시작 이전에 보도된 자료만 사용했습니다.",
+    "최근 7일 이력의 index.json 목록은 확인했지만 개별 회차 JSON 원문에 접근하지 못했습니다. 2026-11-19-am, 11-18-pm 및 이전 회차의 대표·추가·예비 기사 전체 비교가 완료되지 않았습니다. 수신 측에서 반드시 개별 회차 JSON을 읽고 중복 및 후속 기사 여부를 재검사해 주세요.",
+    "이력 JSON에 접근하지 못해 기존 storyId와 최신 timeline.issueId, issueTitle을 확정할 수 없었습니다. 현재 timeline 식별자는 임시 연결값입니다. 특히 수능 부정행위 대응과 국내 증시, 재판 후속 기사는 기존 이력의 식별자를 확인한 뒤 동일 사건의 기존 값을 그대로 재사용해야 합니다. 필요한 followUp 및 reserveUpdate 정보도 수신 측 재검사 후 연결해야 합니다.",
+    "이전 이력과의 비교가 불완전하므로 후속으로 의심되는 사건의 followUp을 임의로 만들지 않았습니다. 기존 기사와 연결할 때는 현재 whatChanged 및 timeline.change에 기재한 새로운 사실을 기준으로 15자 이상의 delta를 작성해 주세요.",
+    "기사 내용 확인과 사진 메타데이터 검증은 별개입니다. 이번 회차에서는 og:image 또는 twitter:image의 실제 HTTPS 주소를 확정하지 못했으므로 모든 imageUrl을 null로 유지했습니다. 임의의 검색 이미지 주소는 사용하지 않았습니다.",
+    "국제사법재판소 로힝야 사건은 선고 도중 보도된 살해·성폭력 관련 판단만 확인했습니다. 협약 위반에 관한 전체 최종 판결을 확인하지 못해 국가의 집단학살 책임이 최종 확정됐다는 서술을 제외했습니다.",
+    "예정 일정은 확인된 신규 일정만 넣도록 했으며 이번 조사에서 발행 기준에 맞는 일정을 충분히 검증하지 못해 events를 빈 배열로 두었습니다. 기사 수나 분야를 채우기 위한 예비 기사와 웹툰 산업 기사는 추가하지 않았습니다.",
+    "발행 operationId, 승인 여부, 검증 해시 및 수신 측 검증 시각은 생성하지 않았습니다. GitHub, 홈페이지 및 Discord에는 게시하거나 전송하지 않았습니다."
+  ],
+  "overview": [
+    "한국의 올해 누적 수출이 처음으로 1조달러를 넘어섰고, 대법원은 김건희 씨에게 징역 4년을 확정했습니다.",
+    "미국·중국·러시아 정상은 첫 3자회담을 마쳤으며, 교육부는 수능에서 부정행위자 98명을 적발했다고 발표했습니다."
+  ],
+  "recordId": "2026-11-19-pm",
+  "researchCompletedAt": "2026-11-19T20:32:56+09:00",
+  "researchCutoffAt": "2026-11-19T20:25:57+09:00",
+  "scheduledFor": "2026-11-19T21:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "category": "경제",
+      "emphasis": [
+        "사상 처음 1조달러",
+        "세계 네 번째",
+        "193.1% 늘어"
+      ],
+      "eventAt": "2026-11-19T14:09:38+09:00",
+      "eventTimeNote": "산업통상부가 발표한 누적 수출 1조달러 돌파 기준 시각입니다. 당일 집계는 잠정치입니다.",
+      "factsHash": "8ef1123ca8a77dd6f18a33662d8b4491f39faf44ff11a8bd6a53b8ec3dd39537",
+      "id": "kr-exports-trillion-20261119",
+      "keyFacts": {
+        "countryOrder": "미국·독일·중국에 이어 네 번째",
+        "semiconductorExports": "2026년 1~10월 3,968억달러, 전년 동기 대비 193.1% 증가",
+        "semiconductorShare": "2026년 1~10월 전체 수출의 42.7%",
+        "threshold": "2026년 누적 수출 1조달러",
+        "thresholdReachedAt": "2026-11-19T14:09:38+09:00"
+      },
+      "publishedAt": "2026-11-19T14:31:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111918070006100_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T14:31:00+09:00",
+          "title": "한국 수출 1조달러 돌파…일본 넘어 세계 4대 수출 강국(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119094200003",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261119094200003",
+      "score": 98.8,
+      "scoreComponents": {
+        "domesticImpact": 98,
+        "importance": 100,
+        "interest": 95,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "산업통상부 공식 통계에 근거한 국가 경제의 새로운 수출 기록으로, 여러 매체가 주요 뉴스로 다뤘습니다.",
+      "sourceCheck": "연합뉴스 경제 기사 원문에서 산업통상부의 돌파 시각, 누적 수출액, 반도체 수출 증가율과 비중을 확인했습니다. 대통령 발언을 다룬 별도 연합뉴스 원문에서도 돌파 사실을 교차 확인했습니다. 기사 이미지의 메타데이터 원본 주소는 검증하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111918070006100_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T14:31:00+09:00",
+          "title": "한국 수출 1조달러 돌파…일본 넘어 세계 4대 수출 강국(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119094200003",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "산업통상부는 19일 오후 2시 9분 38초를 기준으로 올해 누적 수출액이 사상 처음 1조달러를 넘어섰다고 잠정 집계했습니다.",
+        "미국·독일·중국에 이은 세계 네 번째 기록으로, 올해 1~10월 반도체 수출은 지난해보다 193.1% 늘어 전체 수출의 42.7%를 차지했습니다."
+      ],
+      "timeline": {
+        "change": "19일 오후 2시 9분 38초에 올해 누적 수출이 사상 처음으로 1조달러를 돌파했습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kr-exports-2026-trillion",
+        "issueTitle": "한국 2026년 수출 1조달러 달성",
+        "stage": "결과"
+      },
+      "title": "한국 수출, 사상 첫 1조달러 돌파",
+      "topicKey": "kr-exports-2026",
+      "uncertainty": "1조달러 돌파는 잠정 집계이고, 2026년 연간 최종 수출액과 세계 수출 순위는 아직 확정되지 않았습니다.",
+      "whatChanged": "오전에 예상 단계였던 연간 수출 1조달러 돌파가 오후 산업통상부의 공식 잠정 집계로 확인됐습니다.",
+      "whyItMatters": "한국 수출 규모가 처음으로 1조달러에 도달했으며, AI 관련 반도체 수요가 수출 증가의 주요 동력임을 보여줍니다."
+    },
+    {
+      "category": "정치·사회",
+      "emphasis": [
+        "징역 4년과 벌금 5천만원",
+        "무죄가 유지됐으며"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "대법원 전원합의체의 2026년 11월 19일 상고심 선고입니다. 판결의 정확한 시각은 별도로 확인하지 못했습니다.",
+      "factsHash": "9f74b23eb55b416df8153f5a737fac52fde8b27ab98f179b99c52e313a69adeb",
+      "followUp": {
+        "delta": "대법원 전원합의체가 상고를 기각하면서 2심에서 선고된 징역 4년과 벌금 5천만원이 최종 확정됐습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-supreme-court-schedule"
+      },
+      "id": "kim-keon-hee-final-ruling-20261119",
+      "keyFacts": {
+        "acquittal": "명태균 여론조사 수수 관련 정치자금법 위반 혐의 무죄",
+        "convictions": "도이치모터스 주가조작 일부 및 통일교 금품 수수 관련 혐의 유죄",
+        "remainingProceedings": "별도 기소 사건 재판 진행 중",
+        "ruling": "징역 4년 및 벌금 5천만원 확정"
+      },
+      "publishedAt": "2026-11-19T18:24:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/cms/2026/10/15/74/PCM20261015000074990_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T18:24:00+09:00",
+          "title": "'3대 의혹' 김건희 징역 4년 확정…영부인 출신 첫 실형(종합2보)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119137053004",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261119137053004",
+      "score": 98.25,
+      "scoreComponents": {
+        "domesticImpact": 96,
+        "importance": 99,
+        "interest": 97,
+        "recency": 100,
+        "reliability": 99
+      },
+      "scoreReason": "대법원 전원합의체가 주요 형사사건의 최종 판결을 선고한 날이며, 판결 내용이 원문으로 확인됩니다.",
+      "sourceCheck": "연합뉴스 18시 24분 종합기사 원문에서 형량, 유죄·무죄 구분, 별도 사건 재판 진행 상황을 확인했습니다. 관련 앞선 기사는 주소와 송고 정보를 확인했으나 직접 열람은 제한됐습니다. 사진 메타데이터는 미확인입니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/cms/2026/10/15/74/PCM20261015000074990_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T18:24:00+09:00",
+          "title": "'3대 의혹' 김건희 징역 4년 확정…영부인 출신 첫 실형(종합2보)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119137053004",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "대법원 전원합의체가 도이치모터스 주가조작과 통일교 금품 수수 등 혐의로 기소된 김건희 씨에게 징역 4년과 벌금 5천만원을 선고한 원심을 확정했습니다.",
+        "주가조작 가담과 금품 수수는 유죄로 인정됐지만 명태균 씨의 여론조사 제공과 관련한 정치자금법 위반 혐의는 무죄가 유지됐으며, 다른 혐의의 재판은 별도로 진행 중입니다."
+      ],
+      "timeline": {
+        "change": "대법원 전원합의체가 2심의 징역 4년과 벌금 5천만원을 확정하고 여론조사 관련 무죄 판단을 유지했습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "supreme-court-han-kim-verdict-schedule-2026",
+        "issueTitle": "한덕수·김건희 사건 대법원 선고 일정",
+        "stage": "확정"
+      },
+      "title": "김건희, 징역 4년 확정",
+      "topicKey": "kim-keon-hee-court-case",
+      "uncertainty": "이 사건 형량은 확정됐지만 별도로 기소된 다른 사건의 유무죄나 형량은 확정되지 않았습니다.",
+      "whatChanged": "대법원 전원합의체가 상고를 기각하면서 2심에서 선고된 징역 4년과 벌금 5천만원이 최종 확정됐습니다.",
+      "whyItMatters": "전직 대통령 배우자의 주요 형사사건에 대한 최종 사법 판단이며, 나머지 재판과는 구분해야 합니다."
+    },
+    {
+      "category": "정치·사회",
+      "emphasis": [
+        "일부 무죄 취지로 파기환송",
+        "구속은 유지됩니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "대법원 상고심 판결은 2026년 11월 19일 선고됐습니다. 정확한 선고 시각은 확인하지 못했습니다.",
+      "factsHash": "ad939c7f6111b638450df2c50e5fd04de974987e8140a493bc6bc4eeb9d3bc20",
+      "followUp": {
+        "delta": "징역 15년을 선고한 원심판결이 일부 파기되면서 서울고등법원에서 다시 재판하게 됐고 구속기간도 연장됐습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-supreme-court-schedule"
+      },
+      "id": "han-duck-soo-remand-20261119",
+      "keyFacts": {
+        "custody": "구속 유지 및 구속기간 2개월 연장",
+        "priorSentence": "2심 징역 15년",
+        "remainingConviction": "계엄 선포 후 내란 중요임무 종사 관련 판단 유지",
+        "supremeCourtDecision": "일부 무죄 취지 파기환송"
+      },
+      "publishedAt": "2026-11-19T18:45:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/photo/yna/YH/2025/11/24/PYH2025112403040001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T18:45:00+09:00",
+          "title": "대법, 한덕수 2심 파기환송…'계엄 국무회의'만 무죄취지(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119151952004",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261119151952004",
+      "score": 97.0,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 98,
+        "interest": 94,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "비상계엄 관련 주요 사건에서 대법원의 새로운 법적 판단과 후속 재판 절차가 확정됐습니다.",
+      "sourceCheck": "연합뉴스의 17시 17분 원문과 18시 45분 종합보도를 대조해 파기환송 범위, 구속 유지, 2심 기존 형량을 확인했습니다. 최종 형량이 확정됐다는 표현은 배제했습니다. 이미지 메타데이터는 미확인입니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/photo/yna/YH/2025/11/24/PYH2025112403040001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T18:45:00+09:00",
+          "title": "대법, 한덕수 2심 파기환송…'계엄 국무회의'만 무죄취지(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119151952004",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "대법원은 12·3 비상계엄 관련 내란 중요임무 종사 혐의로 징역 15년을 선고받은 한덕수 전 국무총리의 2심 판결을 일부 무죄 취지로 파기환송했습니다.",
+        "계엄 선포 이후 서명 종용 등 행위의 유죄 판단은 유지하면서 선포 전 국무회의 관련 행위는 다시 판단하도록 했으며, 한 전 총리의 구속은 유지됩니다."
+      ],
+      "timeline": {
+        "change": "대법원이 계엄 선포 전 행위에 대해 일부 무죄 취지로 파기환송하면서 한덕수 전 총리의 2심 재판이 다시 열리게 됐습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "supreme-court-han-kim-verdict-schedule-2026",
+        "issueTitle": "한덕수·김건희 사건 대법원 선고 일정",
+        "stage": "후속"
+      },
+      "title": "한덕수 2심 파기환송, 구속 유지",
+      "topicKey": "december-martial-law-trials",
+      "uncertainty": "한 전 총리의 최종 형량은 아직 확정되지 않았으며 파기환송심 결과를 기다려야 합니다.",
+      "whatChanged": "징역 15년을 선고한 원심판결이 일부 파기되면서 서울고등법원에서 다시 재판하게 됐고 구속기간도 연장됐습니다.",
+      "whyItMatters": "비상계엄 전후 행위에 대한 법적 판단을 구분한 대법원 판결로, 파기환송심에서 형량이 다시 결정됩니다."
+    },
+    {
+      "category": "국제",
+      "emphasis": [
+        "사상 첫 3자 정상회담",
+        "약 90분",
+        "구체적인 합의 내용이 아직 공개되지 않았습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "중국 현지시간 2026년 11월 19일 오후 4시 25분경부터 오후 5시 55분경까지 진행된 것으로 보도됐습니다. 시작 시각은 근삿값이라 eventAt은 비워뒀습니다.",
+      "factsHash": "4f5f2ac801d27bc0d7592f8c456b7f2c2298fdfce2ee895816e1706aaea6482c",
+      "id": "us-china-russia-summit-20261119",
+      "keyFacts": {
+        "duration": "약 90분",
+        "issues": "핵 군축, 우크라이나 전쟁, 이란 문제",
+        "participants": "도널드 트럼프, 시진핑, 블라디미르 푸틴",
+        "venue": "중국 광둥성 선전 치린산장"
+      },
+      "publishedAt": "2026-11-19T19:06:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img6.yna.co.kr/photo/reuters/2026/11/19/PRU20261119263401009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T19:06:00+09:00",
+          "title": "[미중러 정상회담] 中선전 치린산장서 한시간반만에 종료",
+          "url": "https://www.yna.co.kr/view/AKR20261119170400083",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261119170400083",
+      "reserveUpdate": {
+        "delta": "개최 예정으로 보도되던 미·중·러 첫 3자 정상회담이 실제 열렸으며 약 90분간 진행된 뒤 종료됐습니다.",
+        "editionId": "2026-11-14-am",
+        "publishedAt": "2026-11-19T19:06:00+09:00",
+        "sourceUrl": "https://www.yna.co.kr/view/AKR20261119170400083"
+      },
+      "score": 93.85,
+      "scoreComponents": {
+        "domesticImpact": 82,
+        "importance": 97,
+        "interest": 98,
+        "recency": 100,
+        "reliability": 96
+      },
+      "scoreReason": "세계 주요 3국 정상이 처음 함께 진행한 회담으로, 핵 군축과 국제안보 현안을 논의한 사실이 확인됐습니다.",
+      "sourceCheck": "연합뉴스 19시 6분 원문에서 세 정상의 참석, 장소, 중국 현지 회담 시각과 주요 논의 의제를 확인했습니다. 구체적 합의 내용은 해당 기사에 없어 확정 표현을 사용하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img6.yna.co.kr/photo/reuters/2026/11/19/PRU20261119263401009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T19:06:00+09:00",
+          "title": "[미중러 정상회담] 中선전 치린산장서 한시간반만에 종료",
+          "url": "https://www.yna.co.kr/view/AKR20261119170400083",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "트럼프 미국 대통령과 시진핑 중국 국가주석, 푸틴 러시아 대통령이 19일 중국 선전에서 사상 첫 3자 정상회담을 약 90분 동안 진행했습니다.",
+        "세 정상은 핵 군축과 우크라이나·이란 문제 등을 논의했으며, 회담 종료 직후 확인된 보도에서는 구체적인 합의 내용이 아직 공개되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "19일 중국 선전에서 세 나라 정상이 직접 만나 약 90분 동안 회담한 뒤 일정을 마쳤습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": "2026-11-19",
+        "eventTimezone": "Asia/Shanghai",
+        "issueId": "us-china-russia-first-trilateral-summit",
+        "issueTitle": "미국·중국·러시아 첫 3자 정상회담",
+        "stage": "결과"
+      },
+      "title": "미·중·러 첫 정상회담, 90분 만에 종료",
+      "topicKey": "us-china-russia-trilateral-summit",
+      "uncertainty": "회담 종료 직후 기준으로 공동 합의문의 구체적인 내용과 이행 조치는 확인되지 않았습니다.",
+      "whatChanged": "개최 예정으로 보도되던 미·중·러 첫 3자 정상회담이 실제 열렸으며 약 90분간 진행된 뒤 종료됐습니다.",
+      "whyItMatters": "핵 군축과 주요 전쟁 문제를 둘러싸고 미국·중국·러시아 지도자가 함께 논의했다는 점에서 국제 안보와 외교의 주요 변화입니다."
+    },
+    {
+      "category": "사회·교육",
+      "emphasis": [
+        "스마트기기 관련 부정행위 대상자 98명",
+        "49명",
+        "실제 사용한 사례는 5건",
+        "일반 부정행위는 98명 집계에 포함되지 않았습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 19일 오후 4시 37분 4교시 종료 기준 집계이며 교육부 브리핑은 오후 7시에 열렸습니다.",
+      "factsHash": "da53b654f6e20760ed3d2afa578eb0b8d085e7376f71cf4e94425a002365ccb1",
+      "followUp": {
+        "delta": "교육부가 발표한 98명은 전체 부정행위자가 아니라 스마트기기 관련 적발 대상자이며, 일반 부정행위는 제외된 수치임을 명확히 했습니다.",
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-csat-start"
+      },
+      "id": "csat-cheating-98-20261119",
+      "keyFacts": {
+        "alertBreakdown": "1차 31명, 2차 11명, 3차 7명",
+        "deviceUseDuringExam": "시험 중 스마트기기 사용 확인 5건",
+        "electronicDeviceCases": "전자기기 소지 적발 44명",
+        "emergencyAlertDetections": "세 차례 위급재난문자로 49명",
+        "reportedViolators": "4교시 종료 기준 스마트기기 관련 부정행위 대상자 98명",
+        "scope": "전자기기 관련 부정행위만 집계하며 종료령 후 답안 작성, 4교시 응시 방법 위반 등 일반 부정행위는 제외"
+      },
+      "publishedAt": "2026-11-19T19:47:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111907470001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T19:47:00+09:00",
+          "title": "[수능] 교육부 '부정행위자 98명 적발…시험중 스마트기기 활용 5건'(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119171351530",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261119171351530",
+      "score": 96.4,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 96,
+        "interest": 96,
+        "recency": 100,
+        "reliability": 97
+      },
+      "scoreReason": "전국 수능 당일 새롭게 집계된 시험 운영 결과로, 오전 보도와 구별되는 구체적인 결과가 발표됐습니다.",
+      "sourceCheck": "연합뉴스 2026년 11월 19일 19시 47분 원문과 같은 날 교육부 발표를 인용한 한국어 보도를 대조했습니다. 98명은 전자기기 관련 부정행위만 집계한 수치이며, 일반 부정행위 유형은 포함되지 않습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111907470001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T19:47:00+09:00",
+          "title": "[수능] 교육부 '부정행위자 98명 적발…시험중 스마트기기 활용 5건'(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119171351530",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "교육부는 2027학년도 수능 4교시 종료 기준으로 스마트기기 관련 부정행위 대상자 98명을 적발했으며, 이 가운데 49명은 세 차례 위급재난문자를 통해 찾아냈다고 발표했습니다.",
+        "시험 중 스마트기기를 실제 사용한 사례는 5건으로 스마트안경 사용과 스마트폰 문제지 촬영 등이 포함됐으며, 일반 부정행위는 98명 집계에 포함되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "수능 당일 세 차례의 위급재난문자 발송 이후 교육부가 부정행위 98명과 시험 중 기기 사용 5건을 발표했습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "csat-smart-glasses-cheating-response-2026",
+        "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+        "stage": "발표"
+      },
+      "title": "수능 스마트기기 관련 부정행위 98명 적발",
+      "topicKey": "2027-csat-exam-security",
+      "uncertainty": "98명은 4교시 종료 기준 집계이며 전체 최종 집계와 개별 징계 수위는 달라질 수 있습니다.",
+      "whatChanged": "교육부가 발표한 98명은 전체 부정행위자가 아니라 스마트기기 관련 적발 대상자이며, 일반 부정행위는 제외된 수치임을 명확히 했습니다.",
+      "whyItMatters": "전국 단위 시험 운영과 전자기기 부정행위 대응의 실제 적발 규모가 확인됐으며, 응시자별 최종 제재가 남아 있습니다."
+    },
+    {
+      "category": "국제·인권",
+      "emphasis": [
+        "민간인 수천 명을 살해",
+        "광범위한 성폭력",
+        "최종 결론은 이 보도만으로 확인되지 않았습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 19일 네덜란드 헤이그에서 선고가 진행됐습니다. 실제 해당 판단이 낭독된 시각은 확인하지 못했습니다.",
+      "factsHash": "83c3cb02f54c93d27aee5d9f4b5852421a07131ccc1844b098162b9b5f8050ee",
+      "id": "icj-rohingya-findings-20261119",
+      "keyFacts": {
+        "case": "감비아가 2019년 미얀마를 상대로 제기한 로힝야족 집단학살 사건",
+        "court": "국제사법재판소(ICJ)",
+        "legalStatus": "국가 책임에 관한 최종 판결 전체 내용 미확인",
+        "reportedFindings": "2017년 미얀마군의 민간인 수천 명 살해와 광범위한 성폭력"
+      },
+      "publishedAt": "2026-11-19T20:07:23+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img1.newsis.com/2016/12/19/NISI20161219_0012510202_web.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-19T20:07:23+09:00",
+          "title": "ICJ \"미얀마군, 로힝야족 상당부분 말살 의도 있었다\" 판결(종합)",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875837",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.newsis.com/view/NISX20261119_0003875837",
+      "score": 84.2,
+      "scoreComponents": {
+        "domesticImpact": 55,
+        "importance": 95,
+        "interest": 84,
+        "recency": 100,
+        "reliability": 88
+      },
+      "scoreReason": "국제사법재판소의 주요 인권 사건 판단으로 국제적 영향이 크지만, 전체 판결문을 아직 확인하지 못한 한계를 반영했습니다.",
+      "sourceCheck": "뉴스1 원문 대신 직접 열람 가능한 뉴시스 2026년 11월 19일 20시 7분 23초 기사를 확인했습니다. 국제사법재판소가 2017년 미얀마군의 로힝야 민간인 수천 명 살해, 광범위한 성폭력과 집단 일부를 말살하려는 의도를 인정했다는 내용을 확인했습니다. 이는 연구 기준 시각 20시 25분 57초 이전 보도입니다. 전체 최종 판결문의 모든 주문은 별도로 검증하지 않았으며, 사진 메타데이터는 미확인입니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img1.newsis.com/2016/12/19/NISI20161219_0012510202_web.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-19T20:07:23+09:00",
+          "title": "ICJ \"미얀마군, 로힝야족 상당부분 말살 의도 있었다\" 판결(종합)",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875837",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "국제사법재판소는 미얀마군이 2017년 로힝야족 민간인 수천 명을 살해하고 광범위한 성폭력을 저질렀다고 판단했습니다.",
+        "19일 시작된 집단학살 사건 판결 선고에서 나온 판단으로, 미얀마 국가의 집단학살방지협약 위반에 관한 최종 결론은 이 보도만으로 확인되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "국제사법재판소의 선고가 시작되면서 2017년 로힝야족 민간인 대량 살해와 성폭력에 관한 판단이 공개됐습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Europe/Amsterdam",
+        "issueId": "icj-myanmar-rohingya-genocide-case",
+        "issueTitle": "국제사법재판소 미얀마 로힝야족 집단학살 사건",
+        "stage": "보도"
+      },
+      "title": "국제사법재판소, 로힝야족 대량 살해 인정",
+      "topicKey": "icj-myanmar-rohingya-case",
+      "uncertainty": "확인한 시점의 한국어 보도는 살해·성폭력에 관한 재판부 판단을 전했으며, 협약 위반 여부에 대한 전체 최종 판결문은 검증하지 못했습니다.",
+      "whatChanged": "예정돼 있던 국제사법재판소 판결 선고가 시작됐으며 미얀마군의 로힝야족 대량 살해와 광범위한 성폭력에 관한 판단이 보도됐습니다.",
+      "whyItMatters": "2017년 로힝야족 탄압과 관련한 국가 책임 문제를 다루는 국제 사법 절차의 새로운 판단입니다."
+    },
+    {
+      "category": "증시·환율",
+      "emphasis": [
+        "4,963.61까지 떨어졌다가",
+        "1.39% 오른 5,137.89",
+        "4,055억원을 순매도"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 19일 수능일 국내 증시 정규장 종료 기준입니다. 수능으로 평소보다 거래 시작과 종료가 한 시간 늦춰졌습니다.",
+      "factsHash": "b840363403fc18de17a347a426057a26b8c7395d04ec4f1556bf1c3be922304d",
+      "followUp": {
+        "delta": "장중 코스피 5천선이 다시 무너졌지만 반도체주를 중심으로 반등하면서 종가는 상승으로 확정됐습니다.",
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-korea-market"
+      },
+      "id": "kospi-close-rebound-20261119",
+      "keyFacts": {
+        "foreignInvestors": "당일 코스피에서 4,055억원 순매도",
+        "kosdaqClose": "684.81, 전일 대비 3.32% 상승",
+        "kospiClose": "5,137.89, 전일 대비 1.39% 상승",
+        "kospiIntradayLow": "4,963.61"
+      },
+      "publishedAt": "2026-11-19T17:06:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img.hankyung.com/photo/202611/01.46481676.1.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-11-19T17:06:00+09:00",
+          "title": "코스피, 5000선 붕괴 딛고 상승 전환…반도체 반등에 5137 마감",
+          "url": "https://www.hankyung.com/article/2026111980426",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.hankyung.com/article/2026111980426",
+      "score": 95.2,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 94,
+        "interest": 92,
+        "recency": 100,
+        "reliability": 96
+      },
+      "scoreReason": "국내 주가지수가 장중 급락을 되돌린 결과와 외국인 수급의 지속 여부가 확인됐습니다.",
+      "sourceCheck": "한국경제 원문에서 코스피·코스닥 종가, 장중 저점과 당일 외국인 4,055억원 순매도를 확인했습니다. 해당 원문만으로 5거래일 연속 순매도는 확인할 수 없어 관련 표현을 삭제했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img.hankyung.com/photo/202611/01.46481676.1.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-11-19T17:06:00+09:00",
+          "title": "코스피, 5000선 붕괴 딛고 상승 전환…반도체 반등에 5137 마감",
+          "url": "https://www.hankyung.com/article/2026111980426",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "코스피는 장중 4,963.61까지 떨어졌다가 반등해 전날보다 1.39% 오른 5,137.89로 마감했습니다.",
+        "코스닥도 3.32% 상승한 684.81로 거래를 마쳤지만, 외국인은 이날 코스피에서 4,055억원을 순매도했습니다."
+      ],
+      "timeline": {
+        "change": "수능일 장중 코스피 5천선이 무너졌지만 반도체주 반등으로 5,137.89에 상승 마감했습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "stage": "결과"
+      },
+      "title": "코스피, 5천선 이탈 후 5,137 마감",
+      "topicKey": "kr-stock-market-november-2026",
+      "uncertainty": "다음 거래일 증시 방향이나 외국인 수급 전환 여부는 확인된 결과가 아닙니다.",
+      "whatChanged": "장중 코스피 5천선이 다시 무너졌지만 반도체주를 중심으로 반등하면서 종가는 상승으로 확정됐습니다.",
+      "whyItMatters": "시장 변동성이 큰 가운데 반도체 중심 반등이 나타났으나 외국인 매도 흐름은 이어졌습니다."
+    },
+    {
+      "category": "국토·교통",
+      "emphasis": [
+        "전국 9개 구간",
+        "53조6천억원",
+        "타당성 검토와 기본계획 수립"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 19일 국토교통부 주최 철도지하화통합개발 종합계획 수립 공청회에서 발표된 내용입니다. 발표 시각은 확인하지 못했습니다.",
+      "factsHash": "a9efe07562f11507c177a43b687d6160ed51a4c674e9656708cf59be9641f180",
+      "id": "rail-underground-nine-segments-20261119",
+      "keyFacts": {
+        "estimatedTotalCost": "철도 지하화와 상부 개발 총 53조6천억원",
+        "newProjects": "전국 9개 신규 추진사업",
+        "nextSteps": "종합계획 고시 후 사전타당성 검토, 기본계획, 예비타당성 조사 등",
+        "seoulGyeongbu": "서울역~금천구청역 34.7km",
+        "seoulGyeongwon": "서빙고역~도봉산역 32.9km"
+      },
+      "publishedAt": "2026-11-19T17:37:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119141351003_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T17:37:00+09:00",
+          "title": "서울역∼금천구청 등 9개 철도 지하화 사업 신규 추진(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119141351003",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261119141351003",
+      "score": 92.05,
+      "scoreComponents": {
+        "domesticImpact": 86,
+        "importance": 93,
+        "interest": 84,
+        "recency": 100,
+        "reliability": 96
+      },
+      "scoreReason": "장기 국토개발에 영향을 주는 대규모 사업안이 공개됐지만 실제 추진과 투자 확정까지 추가 절차가 필요합니다.",
+      "sourceCheck": "연합뉴스 원문에서 공청회 제안 내용, 신규 추진 9개 사업, 서울 대상 구간의 거리, 사업비 추산과 후속 절차를 확인했습니다. 관련 사업이 모두 확정됐다는 표현은 제외했습니다. 사진 메타데이터는 미확인입니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119141351003_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T17:37:00+09:00",
+          "title": "서울역∼금천구청 등 9개 철도 지하화 사업 신규 추진(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119141351003",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "status": "검토",
+      "summary": [
+        "국토교통부 공청회에서 서울역~금천구청역과 서빙고역~도봉산역 등을 포함한 전국 9개 구간의 철도 지하화 신규 추진안이 공개됐습니다.",
+        "전체 철도 지하화·상부 개발 사업비는 53조6천억원으로 추산됐으며, 사업별 타당성 검토와 기본계획 수립 등 절차가 남아 있습니다."
+      ],
+      "timeline": {
+        "change": "국토교통부 공청회에서 서울 주요 노선을 포함한 전국 9개 신규 철도 지하화 추진안과 사업비 추산이 공개됐습니다.",
+        "eventDate": "2026-11-19",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kr-national-rail-underground-project",
+        "issueTitle": "전국 철도 지하화 통합개발",
+        "stage": "검토"
+      },
+      "title": "서울역~금천구청 등 9개 철도 지하화 추진",
+      "topicKey": "kr-rail-underground-development",
+      "uncertainty": "공청회에서 공개된 계획안으로, 모든 사업의 예산과 착공 여부가 최종 확정된 것은 아닙니다.",
+      "whatChanged": "지방정부가 제안한 16개 철도 관련 사업 가운데 9개가 신규 추진안에 포함됐다는 연구 결과가 공청회에서 공개됐습니다.",
+      "whyItMatters": "서울과 수도권을 포함한 주요 도시 철도의 지하화 방향과 상부 부지 개발 계획에 영향을 줄 수 있는 대규모 국토 개발 구상입니다."
+    }
+  ],
+  "timezone": "Asia/Seoul"
+}

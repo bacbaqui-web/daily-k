@@ -1233,6 +1233,61 @@
       "uncertainty": "환율은 21시 현재 가격이나 외환시장 전체 거래 종료 가격이 아닙니다."
     },
     {
+      "briefingPath": "2026-11-19/pm.json",
+      "category": "증시·환율",
+      "change": "수능일 장중 코스피 5천선이 무너졌지만 반도체주 반등으로 5,137.89에 상승 마감했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "pm",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 19일 수능일 국내 증시 정규장 종료 기준입니다. 수능으로 평소보다 거래 시작과 종료가 한 시간 늦춰졌습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "장중 코스피 5천선이 다시 무너졌지만 반도체주를 중심으로 반등하면서 종가는 상승으로 확정됐습니다.",
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-korea-market"
+      },
+      "id": "2026-11-19-pm/kospi-close-rebound-20261119",
+      "keyFacts": {
+        "foreignInvestors": "당일 코스피에서 4,055억원 순매도",
+        "kosdaqClose": "684.81, 전일 대비 3.32% 상승",
+        "kospiClose": "5,137.89, 전일 대비 1.39% 상승",
+        "kospiIntradayLow": "4,963.61"
+      },
+      "previous": {
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-korea-market"
+      },
+      "publishedAt": "2026-11-19T17:06:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img.hankyung.com/photo/202611/01.46481676.1.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "한국경제",
+          "publishedAt": "2026-11-19T17:06:00+09:00",
+          "title": "코스피, 5000선 붕괴 딛고 상승 전환…반도체 반등에 5137 마감",
+          "url": "https://www.hankyung.com/article/2026111980426",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kospi-close-rebound-20261119",
+      "summary": [
+        "코스피는 장중 4,963.61까지 떨어졌다가 반등해 전날보다 1.39% 오른 5,137.89로 마감했습니다.",
+        "코스닥도 3.32% 상승한 684.81로 거래를 마쳤지만, 외국인은 이날 코스피에서 4,055억원을 순매도했습니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피, 5천선 이탈 후 5,137 마감",
+      "uncertainty": "다음 거래일 증시 방향이나 외국인 수급 전환 여부는 확인된 결과가 아닙니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2131,5 +2186,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
 }

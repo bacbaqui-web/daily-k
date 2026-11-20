@@ -328,6 +328,63 @@
       "uncertainty": "개인 공유기와 휴대전화 테더링까지 일괄 차단하는 조치는 아닙니다."
     },
     {
+      "briefingPath": "2026-11-19/pm.json",
+      "category": "사회·교육",
+      "change": "수능 당일 세 차례의 위급재난문자 발송 이후 교육부가 부정행위 98명과 시험 중 기기 사용 5건을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "pm",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 19일 오후 4시 37분 4교시 종료 기준 집계이며 교육부 브리핑은 오후 7시에 열렸습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "교육부가 발표한 98명은 전체 부정행위자가 아니라 스마트기기 관련 적발 대상자이며, 일반 부정행위는 제외된 수치임을 명확히 했습니다.",
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-csat-start"
+      },
+      "id": "2026-11-19-pm/csat-cheating-98-20261119",
+      "keyFacts": {
+        "alertBreakdown": "1차 31명, 2차 11명, 3차 7명",
+        "deviceUseDuringExam": "시험 중 스마트기기 사용 확인 5건",
+        "electronicDeviceCases": "전자기기 소지 적발 44명",
+        "emergencyAlertDetections": "세 차례 위급재난문자로 49명",
+        "reportedViolators": "4교시 종료 기준 스마트기기 관련 부정행위 대상자 98명",
+        "scope": "전자기기 관련 부정행위만 집계하며 종료령 후 답안 작성, 4교시 응시 방법 위반 등 일반 부정행위는 제외"
+      },
+      "previous": {
+        "editionId": "2026-11-19-am",
+        "storyId": "20261119-am-csat-start"
+      },
+      "publishedAt": "2026-11-19T19:47:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111907470001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T19:47:00+09:00",
+          "title": "[수능] 교육부 '부정행위자 98명 적발…시험중 스마트기기 활용 5건'(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119171351530",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "csat-cheating-98-20261119",
+      "summary": [
+        "교육부는 2027학년도 수능 4교시 종료 기준으로 스마트기기 관련 부정행위 대상자 98명을 적발했으며, 이 가운데 49명은 세 차례 위급재난문자를 통해 찾아냈다고 발표했습니다.",
+        "시험 중 스마트기기를 실제 사용한 사례는 5건으로 스마트안경 사용과 스마트폰 문제지 촬영 등이 포함됐으며, 일반 부정행위는 98명 집계에 포함되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "수능 스마트기기 관련 부정행위 98명 적발",
+      "uncertainty": "98명은 4교시 종료 기준 집계이며 전체 최종 집계와 개별 징계 수위는 달라질 수 있습니다."
+    },
+    {
       "briefingPath": "2026-11-19/am.json",
       "category": "사회",
       "change": "전국 수능이 시작되고 부정행위 방지용 첫 위급재난문자가 실제 발송됐습니다.",
@@ -395,5 +452,5 @@
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
 }

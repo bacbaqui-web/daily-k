@@ -45,10 +45,120 @@
       "supersededBy": [],
       "title": "대법원, 한덕수·김건희 사건 19일 오후 4시 선고 예고",
       "uncertainty": "최종 판결 내용은 미확정이며 기존 심급의 판단을 대법원 결론으로 표현하지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-19/pm.json",
+      "category": "정치·사회",
+      "change": "대법원이 계엄 선포 전 행위에 대해 일부 무죄 취지로 파기환송하면서 한덕수 전 총리의 2심 재판이 다시 열리게 됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "pm",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "대법원 상고심 판결은 2026년 11월 19일 선고됐습니다. 정확한 선고 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "징역 15년을 선고한 원심판결이 일부 파기되면서 서울고등법원에서 다시 재판하게 됐고 구속기간도 연장됐습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-supreme-court-schedule"
+      },
+      "id": "2026-11-19-pm/han-duck-soo-remand-20261119",
+      "keyFacts": {
+        "custody": "구속 유지 및 구속기간 2개월 연장",
+        "priorSentence": "2심 징역 15년",
+        "remainingConviction": "계엄 선포 후 내란 중요임무 종사 관련 판단 유지",
+        "supremeCourtDecision": "일부 무죄 취지 파기환송"
+      },
+      "previous": {
+        "editionId": "2026-11-19-pm",
+        "storyId": "kim-keon-hee-final-ruling-20261119"
+      },
+      "publishedAt": "2026-11-19T18:45:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/photo/yna/YH/2025/11/24/PYH2025112403040001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T18:45:00+09:00",
+          "title": "대법, 한덕수 2심 파기환송…'계엄 국무회의'만 무죄취지(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119151952004",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "han-duck-soo-remand-20261119",
+      "summary": [
+        "대법원은 12·3 비상계엄 관련 내란 중요임무 종사 혐의로 징역 15년을 선고받은 한덕수 전 국무총리의 2심 판결을 일부 무죄 취지로 파기환송했습니다.",
+        "계엄 선포 이후 서명 종용 등 행위의 유죄 판단은 유지하면서 선포 전 국무회의 관련 행위는 다시 판단하도록 했으며, 한 전 총리의 구속은 유지됩니다."
+      ],
+      "supersededBy": [],
+      "title": "한덕수 2심 파기환송, 구속 유지",
+      "uncertainty": "한 전 총리의 최종 형량은 아직 확정되지 않았으며 파기환송심 결과를 기다려야 합니다."
+    },
+    {
+      "briefingPath": "2026-11-19/pm.json",
+      "category": "정치·사회",
+      "change": "대법원 전원합의체가 2심의 징역 4년과 벌금 5천만원을 확정하고 여론조사 관련 무죄 판단을 유지했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "coveredOn": "2026-11-19",
+      "edition": "pm",
+      "editionDate": "2026-11-19",
+      "editionId": "2026-11-19-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-19",
+      "eventEndDate": null,
+      "eventTimeNote": "대법원 전원합의체의 2026년 11월 19일 상고심 선고입니다. 판결의 정확한 시각은 별도로 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "대법원 전원합의체가 상고를 기각하면서 2심에서 선고된 징역 4년과 벌금 5천만원이 최종 확정됐습니다.",
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-supreme-court-schedule"
+      },
+      "id": "2026-11-19-pm/kim-keon-hee-final-ruling-20261119",
+      "keyFacts": {
+        "acquittal": "명태균 여론조사 수수 관련 정치자금법 위반 혐의 무죄",
+        "convictions": "도이치모터스 주가조작 일부 및 통일교 금품 수수 관련 혐의 유죄",
+        "remainingProceedings": "별도 기소 사건 재판 진행 중",
+        "ruling": "징역 4년 및 벌금 5천만원 확정"
+      },
+      "previous": {
+        "editionId": "2026-11-16-pm",
+        "storyId": "20261116-pm-supreme-court-schedule"
+      },
+      "publishedAt": "2026-11-19T18:24:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/cms/2026/10/15/74/PCM20261015000074990_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-19T18:24:00+09:00",
+          "title": "'3대 의혹' 김건희 징역 4년 확정…영부인 출신 첫 실형(종합2보)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119137053004",
+          "verifiedAt": "2026-11-20T09:10:11.870754+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "kim-keon-hee-final-ruling-20261119",
+      "summary": [
+        "대법원 전원합의체가 도이치모터스 주가조작과 통일교 금품 수수 등 혐의로 기소된 김건희 씨에게 징역 4년과 벌금 5천만원을 선고한 원심을 확정했습니다.",
+        "주가조작 가담과 금품 수수는 유죄로 인정됐지만 명태균 씨의 여론조사 제공과 관련한 정치자금법 위반 혐의는 무죄가 유지됐으며, 다른 혐의의 재판은 별도로 진행 중입니다."
+      ],
+      "supersededBy": [],
+      "title": "김건희, 징역 4년 확정",
+      "uncertainty": "이 사건 형량은 확정됐지만 별도로 기소된 다른 사건의 유무죄나 형량은 확정되지 않았습니다."
     }
   ],
   "id": "supreme-court-han-kim-verdict-schedule-2026",
   "schemaVersion": 1,
   "title": "한덕수·김건희 사건 대법원 선고 일정",
-  "updatedAt": "2026-11-19T10:02:47.115654+09:00"
+  "updatedAt": "2026-11-20T09:10:11.870754+09:00"
 }
