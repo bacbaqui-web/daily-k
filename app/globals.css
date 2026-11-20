@@ -286,3 +286,8 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .reader-dialog .reader-edge:hover,.reader-dialog .reader-edge:focus-visible{opacity:1;background:var(--muted);outline:2px solid var(--ring);outline-offset:-2px}
 .reader-dialog .reader-edge:disabled{opacity:0;pointer-events:none}
 .reader-dialog:has(.reader-edge) .reader-body{padding-left:60px;padding-right:60px}
+
+.reader-dialog:has(.reader-edge) .reader-top{grid-template-columns:minmax(0,1fr)}
+.reader-dialog:has(.reader-edge) .reader-top>.reader-heading,.reader-dialog:has(.reader-edge) .reader-top>.laugh-stats{grid-column:1}
+.reader-dialog .reader-body{scrollbar-width:none;scrollbar-gutter:auto}
+.reader-dialog .reader-body::-webkit-scrollbar{display:none;width:0;height:0}
