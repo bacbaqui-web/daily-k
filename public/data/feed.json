@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T01:31:15.534661+00:00",
+  "collectedAt": "2026-11-21T01:33:27.788962+00:00",
   "windowEnd": "2026-11-21T10:31:15.005193+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -14479,6 +14479,60 @@
       "firstPublishedAt": "2026-11-20T16:15:36.038287+00:00"
     },
     {
+      "id": "aagag-1671414-0",
+      "url": "https://aagag.com/issue/?idx=1671414",
+      "source": "애객",
+      "title": "ㅇㅎ) 남자들 이렇게 하지 마세요",
+      "publishedAt": "2026-11-21T10:30:02+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KsC5I.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KsC5V.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KsC5I.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/KsC5V.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-21T10:33:17.249164+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 남자들 이렇게 하지 마세요",
+        "ㅇㅎ) 남자들 이렇게 하지 마세요",
+        "ㅇㅎ) 남자들 이렇게 하지 마세요",
+        "누나가 가르쳐 준다"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-21T01:33:27.687255+00:00",
+      "collectedAt": "2026-11-21T10:33:27.687271+09:00",
+      "firstPublishedAt": "2026-11-21T01:33:27.828393+00:00"
+    },
+    {
       "id": "aagag-1671367-0",
       "url": "https://aagag.com/issue/?idx=1671367",
       "source": "애객",
@@ -14597,7 +14651,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
