@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T05:31:40.886756+00:00",
+  "collectedAt": "2026-11-21T05:32:39.965013+00:00",
   "windowEnd": "2026-11-21T14:31:40.081600+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -15327,6 +15327,55 @@
       "firstPublishedAt": "2026-11-21T01:50:42.019778+00:00"
     },
     {
+      "id": "aagag-1671464-0",
+      "url": "https://aagag.com/issue/?idx=1671464",
+      "source": "애객",
+      "title": "분수 싸는거 보여주는 누나",
+      "publishedAt": "2026-11-21T14:30:27+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6I8v.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6I8v.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9009811",
+          "text": "이정도의 수둔을!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T14:32:25.739515+09:00",
+      "sourceTitles": [
+        "분수 보여주는 누나",
+        "ㅇㅎ) 분수 싸는거 보여주는 누나",
+        "분수 싸는거 보여주는 누나",
+        "ㅇㅎ) 분수 싸는거 보여주는 누나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-21T05:32:39.837607+00:00",
+      "collectedAt": "2026-11-21T14:32:39.837624+09:00",
+      "firstPublishedAt": "2026-11-21T05:32:40.006558+00:00"
+    },
+    {
       "id": "aagag-1671414-0",
       "url": "https://aagag.com/issue/?idx=1671414",
       "source": "애객",
@@ -15499,7 +15548,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
