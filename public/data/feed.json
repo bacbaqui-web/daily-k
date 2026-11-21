@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T00:42:34.314484+00:00",
+  "collectedAt": "2026-11-21T00:44:16.657566+00:00",
   "windowEnd": "2026-11-21T09:42:33.975383+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -14523,7 +14523,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -14550,6 +14550,69 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671400-0",
+      "url": "https://aagag.com/issue/?idx=1671400",
+      "source": "애객",
+      "title": "벌써 한국인 다 된 아기.manwha",
+      "publishedAt": "2026-11-21T09:36:56+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6sAb.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6sAe.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6sAl.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6sAn.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6sAb.webp",
+        "https://i.aagag.com/o/L6sAe.webp",
+        "https://i.aagag.com/o/L6sAl.webp",
+        "https://i.aagag.com/o/L6sAn.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 2.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9008912",
+          "text": "한국 사람들이 버스 내릴 때 서두르는 건 성격이 급한 영향도 있겠지만, 나 때문에 버스가 바로 출발 못하는 상황 자체가 민폐로 느껴져서 그러는 것도 있다고 봄. 적어도 나는..ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T09:44:09.929957+09:00",
+      "sourceTitles": [
+        "한국인 아기 특징.manhwa",
+        "벌써 한국인 다 된 아기.manwha",
+        "벌써 한국인 다 된 아기.manwha",
+        "벌써 한국인 다 된 아기.manwha"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-21T00:44:16.562384+00:00",
+      "collectedAt": "2026-11-21T09:44:16.562404+09:00",
+      "firstPublishedAt": "2026-11-21T00:44:16.853935+00:00"
+    },
     {
       "id": "aagag-1671379-0",
       "url": "https://aagag.com/issue/?idx=1671379",
