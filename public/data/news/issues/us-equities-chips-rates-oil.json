@@ -1317,6 +1317,64 @@
       "uncertainty": "증시 하락에 영향을 준 요인은 복합적이며 앤트로픽 상장만이 원인이라고 확정할 수 없습니다."
     },
     {
+      "briefingPath": "2026-11-21/am.json",
+      "category": "경제·증시",
+      "change": "전날 뉴욕증시의 2%대 하락에 이어 나스닥이 5.28% 급락하고 다우와 S&P500은 고점 대비 10% 이상 하락한 조정 국면에 진입했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T09:28:57.083664+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "am",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-am",
+      "eventAt": null,
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 동부시간 2026년 11월 20일 뉴욕증시 정규장 마감 결과입니다. 한국시간 11월 21일 오전 보도됐으며 정확한 종가 확정 시각은 별도로 확인하지 않았습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "19일 미국 증시에서 나스닥이 2.25% 하락한 데 이어 20일에는 5.28% 추가 급락했고, 엔비디아도 하루 만에 14.01% 떨어졌습니다.",
+        "editionId": "2026-11-20-am",
+        "storyId": "us-stocks-plunge-20261120"
+      },
+      "id": "2026-11-21-am/nasdaq-five-percent-plunge-20261121",
+      "keyFacts": {
+        "anthropic": "상장 둘째 날 주가 8.50% 하락",
+        "dow": "48,147.33, 전 거래일 대비 1.93% 하락",
+        "marketCorrection": "다우지수와 S&P500지수가 최근 고점 대비 10% 이상 하락",
+        "nasdaq": "22,617.73, 전 거래일 대비 5.28% 하락",
+        "nasdaqYearToDate": "2026년 연간 상승분 모두 반납",
+        "nvidia": "20일 정규장 주가 14.01% 하락, 52주 신저가",
+        "sp500": "6,910.39, 전 거래일 대비 3.70% 하락"
+      },
+      "previous": {
+        "editionId": "2026-11-20-am",
+        "storyId": "us-stocks-plunge-20261120"
+      },
+      "publishedAt": "2026-11-21T06:11:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/reuters/2026/11/21/PRU20261121030301009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T06:11:00+09:00",
+          "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261121009251072",
+          "verifiedAt": "2026-11-21T09:28:57.083664+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "nasdaq-five-percent-plunge-20261121",
+      "summary": [
+        "미국 나스닥지수는 5.28% 떨어진 22,617.73으로 마감했고, S&P500도 3.70% 하락했습니다.",
+        "엔비디아 주가는 14.01% 급락했으며 다우지수와 S&P500은 최근 고점보다 10% 이상 내려 조정 국면에 들어섰습니다."
+      ],
+      "supersededBy": [],
+      "title": "나스닥 5.28% 폭락, 엔비디아 14% 하락",
+      "uncertainty": "주가와 지수의 마감 수치는 확인됐지만 매도세의 원인은 여러 요인이 겹친 결과로, 엔비디아의 경영 논란이나 AI 투자 우려 한 가지 때문이라고 단정할 수 없습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 16,
@@ -2054,5 +2112,5 @@
   "id": "us-equities-chips-rates-oil",
   "schemaVersion": 1,
   "title": "미국 증시의 반도체 실적·금리·유가 반응",
-  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
+  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
 }

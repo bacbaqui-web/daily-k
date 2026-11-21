@@ -1,6 +1,64 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-11-21/am.json",
+      "category": "국제·안보",
+      "change": "후티의 사우디 시설 공격 주장에 이어 사우디 연합군이 예멘 내 후티 거점 공습과 드론 5대·탄도미사일 1발 요격을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T09:28:57.083664+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "am",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-am",
+      "eventAt": null,
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "사우디 주도 연합군은 현지시간 2026년 11월 20일 예멘 호데이다와 사나에서 군사작전을 수행했다고 발표했습니다. 개별 작전의 정확한 실행 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Aden",
+      "followUp": {
+        "delta": "전날 후티 반군이 사우디 주요 시설 공격을 주장한 데 이어 사우디 주도 연합군이 예멘 내 후티 거점에 대한 공격과 드론·미사일 요격 사실을 발표했습니다.",
+        "editionId": "2026-11-20-am",
+        "storyId": "houthis-saudi-attack-claims-20261120"
+      },
+      "id": "2026-11-21-am/saudi-houthi-port-strikes-20261121",
+      "keyFacts": {
+        "additionalOperation": "예멘 수도 사나에서 군사작전 수행 발표",
+        "claimant": "사우디아라비아 주도 연합군",
+        "damageStatus": "실제 공습 및 요격 피해 규모 독립 확인 불가",
+        "interceptionClaim": "후티 드론 5대와 탄도미사일 1발 요격 주장",
+        "operationDate": "현지시간 2026년 11월 20일",
+        "previousDevelopment": "후티 반군이 19일 사우디 공항·공군기지·금융단지 등 공격을 주장",
+        "targets": "예멘 호데이다 무기·탄도미사일 밀수 및 운송 거점"
+      },
+      "previous": {
+        "editionId": "2026-11-20-am",
+        "storyId": "houthis-saudi-attack-claims-20261120"
+      },
+      "publishedAt": "2026-11-21T01:17:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121001800079_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T01:17:00+09:00",
+          "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121001800079",
+          "verifiedAt": "2026-11-21T09:28:57.083664+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "saudi-houthi-port-strikes-20261121",
+      "summary": [
+        "사우디 주도 연합군은 예멘 호데이다의 후티 반군 무기 밀수·운송 거점을 타격하고 수도 사나에서도 군사작전을 벌였다고 발표했습니다.",
+        "연합군은 후티가 발사한 드론 5대와 탄도미사일 1발을 요격했다고 밝혔지만, 실제 피해 규모는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "사우디 연합군, 예멘 후티 거점 공습 발표",
+      "uncertainty": "공습과 요격 성공은 사우디 연합군의 발표입니다. 실제 표적 피해 규모와 민간인 피해 여부는 독립적으로 확인되지 않았습니다."
+    },
+    {
       "briefingPath": "2026-11-20/am.json",
       "category": "국제·안보",
       "change": "후티군이 사우디 주요 시설을 상대로 네 차례 공격했다고 주장했고 사우디 당국은 리야드 금융단지 일부 피해를 확인했습니다.",
@@ -53,5 +111,5 @@
   "id": "yemen-saudi-houthi-escalation-2026",
   "schemaVersion": 1,
   "title": "예멘 후티·사우디아라비아 무력 충돌",
-  "updatedAt": "2026-11-20T21:03:50.907628+09:00"
+  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
 }

@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-21/am.json",
+      "category": "경제·무역",
+      "change": "대중국 무역흑자 433억달러의 이면에 반도체 흑자 848억달러와 다른 품목의 적자 415억달러가 있다는 분석이 새로 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T09:28:57.083664+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "am",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-am",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 보도된 한국무역협회와 산업통상부의 2026년 1~10월 무역 자료 분석입니다. 올해 전체 연간 실적이 아닌 10월 말까지 누적 통계입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-21-am/china-trade-surplus-chip-dependence-20261121",
+      "keyFacts": {
+        "automobileTradeBalance": "대중국 자동차 무역수지 42억달러 적자",
+        "nonSemiconductorDeficitChange": "전년 동기보다 적자 124억달러 확대",
+        "nonSemiconductorTradeBalance": "415억달러 적자",
+        "period": "2026년 1월~10월",
+        "previousYearSamePeriod": "2025년 1~10월 105억달러 적자",
+        "semiconductorExportShare": "대중국 전체 수출액 1,985억달러 중 반도체 63%",
+        "semiconductorExports": "대중국 반도체 수출액 1,243억달러",
+        "semiconductorTradeBalance": "848억달러 흑자",
+        "tradeBalanceWithChina": "433억달러 흑자"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-21T07:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/07/31/PYH2026073103380001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T07:00:00+09:00",
+          "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261120164900003",
+          "verifiedAt": "2026-11-21T09:28:57.083664+09:00"
+        }
+      ],
+      "stage": "분석",
+      "status": "분석",
+      "storyId": "china-trade-surplus-chip-dependence-20261121",
+      "summary": [
+        "올해 1~10월 한국의 대중국 무역수지는 433억달러 흑자였으며, 흑자의 대부분은 반도체에서 나왔습니다.",
+        "반도체를 제외한 품목은 415억달러 적자로 지난해 같은 기간보다 적자 폭이 124억달러 커졌습니다."
+      ],
+      "supersededBy": [],
+      "title": "대중 무역 433억달러 흑자, 반도체 빼면 적자",
+      "uncertainty": "현재 수치는 1~10월 누적 실적이므로 2026년 연간 무역수지 흑자가 확정된 것은 아닙니다. 반도체 이외 품목의 적자 확대가 앞으로도 이어질지는 확인되지 않았습니다."
+    }
+  ],
+  "id": "kr-china-trade-semiconductor-dependence-2026",
+  "schemaVersion": 1,
+  "title": "2026년 한국 대중국 무역수지와 반도체 의존",
+  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
+}
