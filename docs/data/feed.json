@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T02:08:17.144933+00:00",
+  "collectedAt": "2026-11-21T02:12:10.377264+00:00",
   "windowEnd": "2026-11-21T11:08:16.816476+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7552,6 +7552,63 @@
       "firstPublishedAt": "2026-11-20T15:18:22.199056+00:00"
     },
     {
+      "id": "aagag-1671420-0",
+      "url": "https://aagag.com/issue/?idx=1671420",
+      "source": "애객",
+      "title": "박지윤 악플러, 잡고 보니 전 남편",
+      "publishedAt": "2026-11-21T10:52:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6oZC.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "?"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6oZC.webp"
+      ],
+      "videos": [],
+      "excerpt": "?",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 16,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 16,
+      "kPerComment": 5.333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9009130",
+          "text": "사실적시 명예훼손 ㅋㅋㅋ"
+        },
+        {
+          "id": "9009153",
+          "text": "당사자는 세번 정도 무죄주자"
+        },
+        {
+          "id": "9009160",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 찌질하네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T11:12:04.185534+09:00",
+      "sourceTitles": [
+        "박지윤 악플러, 잡고 보니 정체는?",
+        "박지윤 악플러, 잡고 보니 전 남편",
+        "박지윤 악플러, 잡고 보니 전 남편",
+        "박지윤 악플러, 잡고 보니 전 남편"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-21T02:12:10.268743+00:00",
+      "collectedAt": "2026-11-21T11:12:10.268760+09:00",
+      "firstPublishedAt": "2026-11-21T02:12:10.418374+00:00"
+    },
+    {
       "id": "aagag-1671130-0",
       "url": "https://aagag.com/issue/?idx=1671130",
       "source": "애객",
@@ -14724,7 +14781,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
