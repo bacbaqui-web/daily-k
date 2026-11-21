@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T10:41:29.593021+00:00",
+  "collectedAt": "2026-11-21T10:43:11.988916+00:00",
   "windowEnd": "2026-11-21T19:41:29.382085+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5148,6 +5148,79 @@
       "sourceTitlesFetchedAt": "2026-11-20T14:41:08.418287+00:00",
       "collectedAt": "2026-11-20T23:41:08.418304+09:00",
       "firstPublishedAt": "2026-11-20T14:41:08.487664+00:00"
+    },
+    {
+      "id": "aagag-1671529-0",
+      "url": "https://aagag.com/issue/?idx=1671529",
+      "source": "애객",
+      "title": "과즙세연 면전에서 필터 없이 폭격하는 대니초",
+      "publishedAt": "2026-11-21T19:34:05+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6wb1.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6wb1.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 24,
+      "commentCount": 7,
+      "laughingComments": 3,
+      "score": 24,
+      "kPerComment": 3.4285714285714284,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9010630",
+          "text": "모두가 알지만 하지 않았던 그 말을 본인 앞에서 ㅋㅋㅋ"
+        },
+        {
+          "id": "9010631",
+          "text": "뭐야이게??? AI아냐?"
+        },
+        {
+          "id": "9010642",
+          "text": "Roast는 서양 스탠딩 코메디쪽의 장르 중 하는데 선을 씨게 넘는거에 모두가 동의하게 무제한 코메디 하는거라고 보면 됨"
+        },
+        {
+          "id": "9010637",
+          "text": "아니 대상이 누구던지 저건 개그라기보단 그냥 모욕이잖아...."
+        },
+        {
+          "id": "9010657",
+          "text": "놀랍게도 저런거 하는데에요 ㅋㅋㅋ"
+        },
+        {
+          "id": "9010639",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9010641",
+          "text": "근데 이게 재밌어...?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T19:43:03.657001+09:00",
+      "sourceTitles": [
+        "과즙세연 면전에 필터링없이 빠꾸없는 멘트치는 대니초",
+        "과즙세연 면전에서 필터 없이 폭격하는 대니초",
+        "과즙세연 면전에서 필터 없이 폭격하는 대니초",
+        "과즙세연 면전에 필터링없이 빠꾸없는 멘트치는 대니초"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-21T10:43:11.818060+00:00",
+      "collectedAt": "2026-11-21T19:43:11.818080+09:00",
+      "firstPublishedAt": "2026-11-21T10:43:12.048873+00:00"
     },
     {
       "id": "aagag-1671122-0",
@@ -16994,7 +17067,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
