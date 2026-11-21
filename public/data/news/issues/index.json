@@ -1,6 +1,200 @@
 {
-  "editionCount": 131,
+  "editionCount": 132,
   "issues": [
+    {
+      "categories": [
+        "국제·경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "taiwan-stock-market-stabilization-2026",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "대만 금융당국이 급락장 대응책으로 직전 거래일 종가 미만 공매도 제한과 증거금 상향을 발표하고 23일부터 적용하기로 했습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "예정",
+        "storyId": "taiwan-short-selling-restrictions-20261121",
+        "title": "대만, 증시 급락에 공매도 제한 강화"
+      },
+      "path": "taiwan-stock-market-stabilization-2026.json",
+      "title": "2026년 11월 대만 증시 안정 대책"
+    },
+    {
+      "categories": [
+        "사회·안전",
+        "안전"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "taean-search-2026-11",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "실종 어선의 추정 위치에서 약 300m 떨어진 해상에서 부표를 발견한 뒤 해경이 관련 여부를 확인하며 수중 수색에 착수했습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "후속",
+        "storyId": "taean-haegwangho-buoy-underwater-search-20261121",
+        "title": "실종 어선 해광호 추정 부표 발견, 수중 수색 착수"
+      },
+      "path": "taean-search-2026-11.json",
+      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "kr-pyeongchang-airgun-fatal-accident-20261121",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "공기총 손질 중 부상 사고라는 초기 보도와 달리 사격 연습 중 행인이 피격됐고 병원 치료 중 사망한 사실이 확인됐습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "결과",
+        "storyId": "pyeongchang-airgun-bystander-death-20261121",
+        "title": "평창서 공기총 사격 연습 중 행인 1명 사망"
+      },
+      "path": "kr-pyeongchang-airgun-fatal-accident-20261121.json",
+      "title": "2026년 11월 평창 공기총 사망 사고"
+    },
+    {
+      "categories": [
+        "사회·교육"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "kr-national-exam-ai-cheating-prevention-2026",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "AI 부정행위 논란 이후 첫 국가자격시험에서 전자기기 일괄 수거와 무작위 전화 확인, 첨단기기 점검 인력이 실제 도입됐습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "시행",
+        "storyId": "national-exam-stricter-device-controls-20261121",
+        "title": "국가자격시험, 휴대전화 수거·무작위 확인 시행"
+      },
+      "path": "kr-national-exam-ai-cheating-prevention-2026.json",
+      "title": "2026년 국가자격시험 AI 부정행위 방지 대책"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "kr-jincheon-electronic-anklet-escape-20261121",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "충북 진천에서 보호관찰 대상자가 전자발찌를 훼손하고 도주한 사실이 확인돼 보호관찰소와 경찰이 공동 추적에 나섰습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "결과",
+        "storyId": "jincheon-electronic-anklet-escape-20261121",
+        "title": "진천서 전자발찌 훼손 도주, 당국 추적"
+      },
+      "path": "kr-jincheon-electronic-anklet-escape-20261121.json",
+      "title": "2026년 11월 진천 전자감독 대상자 도주"
+    },
+    {
+      "categories": [
+        "사회·교통"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-21T09:28:57.083664+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "kr-gyeongbu-sojeongri-derailment-20261121",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "경부선 일반열차 운행 중단 이후 코레일이 밤샘 복구를 거쳐 22일 첫차부터 운행을 재개하겠다고 발표했습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "예정",
+        "storyId": "gyeongbu-rail-service-restart-plan-20261121",
+        "title": "경부선 일반열차, 22일 첫차부터 재개 계획"
+      },
+      "path": "kr-gyeongbu-sojeongri-derailment-20261121.json",
+      "title": "2026년 11월 경부선 소정리역 화물열차 탈선"
+    },
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "hormuz-maritime-attacks-november-2026",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "호르무즈 해협에서 미확인 발사체에 의한 유조선 피격 신고가 약 50분 간격으로 2건 접수됐으며 공격 주체는 확인되지 않았습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "보도",
+        "storyId": "hormuz-tanker-projectile-reports-20261121",
+        "title": "호르무즈 해협, 유조선 피격 신고 잇따라"
+      },
+      "path": "hormuz-maritime-attacks-november-2026.json",
+      "title": "2026년 11월 호르무즈 해협 상선 피격"
+    },
+    {
+      "categories": [
+        "사회",
+        "사회·교육",
+        "사회이슈",
+        "정치·교육",
+        "정치·정책"
+      ],
+      "eventCount": 10,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "이재명 대통령이 수능 부정행위 신고 포상금에 관한 정부 부처의 최대 1억원 안내를 바로잡고 건당 최소 1억원 원칙을 재확인했습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "후속",
+        "storyId": "csat-cheating-reward-minimum-20261121",
+        "title": "이 대통령, 수능 부정 신고 포상금 최소 1억 강조"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
+    {
+      "categories": [
+        "정치·사법"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "cho-hee-dae-impeachment-2026",
+      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "lastCoveredDate": "2026-11-21",
+      "latest": {
+        "archive": false,
+        "change": "민주당의 탄핵 추진 당론 채택 이후 대변인이 12월 3일 전후 발의 가능성을 개인 의견으로 제시했으며 공식 날짜는 미정이라고 설명했습니다.",
+        "editionId": "2026-11-21-pm",
+        "stage": "검토",
+        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121",
+        "title": "민주당 대변인, 조희대 탄핵안 12월 3일 발의 거론"
+      },
+      "path": "cho-hee-dae-impeachment-2026.json",
+      "title": "조희대 대법원장 탄핵 추진"
+    },
     {
       "categories": [
         "국제·안보"
@@ -49,27 +243,6 @@
       },
       "path": "us-equities-chips-rates-oil.json",
       "title": "미국 증시의 반도체 실적·금리·유가 반응"
-    },
-    {
-      "categories": [
-        "사회·교통"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-21T09:28:57.083664+09:00",
-      "firstCoveredDate": "2026-11-21",
-      "id": "kr-gyeongbu-sojeongri-derailment-20261121",
-      "lastCoveredAt": "2026-11-21T09:28:57.083664+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "21일 새벽 화물열차 5량이 소정리역에서 탈선해 전차선이 파손됐고 경부선 천안~대전 일반열차 운행이 중단됐습니다.",
-        "editionId": "2026-11-21-am",
-        "stage": "결과",
-        "storyId": "sojeongri-freight-train-derailment-20261121",
-        "title": "경부선 화물열차 5량 탈선, 일반열차 중단"
-      },
-      "path": "kr-gyeongbu-sojeongri-derailment-20261121.json",
-      "title": "2026년 11월 경부선 소정리역 화물열차 탈선"
     },
     {
       "categories": [
@@ -200,51 +373,6 @@
       },
       "path": "korea-equities-flows.json",
       "title": "한국 증시와 외국인 수급"
-    },
-    {
-      "categories": [
-        "사회",
-        "사회·교육",
-        "사회이슈",
-        "정치·정책"
-      ],
-      "eventCount": 9,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-11-20T21:03:50.907628+09:00",
-      "lastCoveredDate": "2026-11-20",
-      "latest": {
-        "archive": false,
-        "change": "수능 전자기기 관련 적발 111건이 새로 보도됐고 청와대는 AI 부정행위에 대응하기 위한 시험 공정성 회복 TF 확대 운영을 결정했습니다.",
-        "editionId": "2026-11-20-pm",
-        "stage": "후속",
-        "storyId": "exam-fairness-task-force-20261120",
-        "title": "청와대, 시험 공정성 회복 TF 운영 결정"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
-    },
-    {
-      "categories": [
-        "정치·사법"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
-      "firstCoveredDate": "2026-11-20",
-      "id": "cho-hee-dae-impeachment-2026",
-      "lastCoveredAt": "2026-11-20T21:03:50.907628+09:00",
-      "lastCoveredDate": "2026-11-20",
-      "latest": {
-        "archive": false,
-        "change": "전날 발표된 민주당의 탄핵 추진 방침이 20일 의원총회에서 공식 당론으로 채택됐으며 연내 발의를 추진하기로 했습니다.",
-        "editionId": "2026-11-20-pm",
-        "stage": "확정",
-        "storyId": "cho-hee-dae-impeachment-party-decision-20261120",
-        "title": "민주당, 조희대 탄핵 추진 당론 채택"
-      },
-      "path": "cho-hee-dae-impeachment-2026.json",
-      "title": "조희대 대법원장 탄핵 추진"
     },
     {
       "categories": [
@@ -571,28 +699,6 @@
       },
       "path": "us-iran-military.json",
       "title": "미국·이란 군사 대응"
-    },
-    {
-      "categories": [
-        "사회·안전",
-        "안전"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
-      "firstCoveredDate": "2026-11-18",
-      "id": "taean-search-2026-11",
-      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "장비 증강과 중국 공조 요청, 승선원 소재 미확인",
-        "editionId": "2026-11-18-pm",
-        "stage": "후속",
-        "storyId": "20261118-pm-taean-search",
-        "title": "태안 어선 수색 확대, 중국에 공조 요청"
-      },
-      "path": "taean-search-2026-11.json",
-      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
     },
     {
       "categories": [
@@ -12449,7 +12555,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 973,
+  "storyCount": 982,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
 }

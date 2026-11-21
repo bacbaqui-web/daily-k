@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "사회·교육",
+      "change": "AI 부정행위 논란 이후 첫 국가자격시험에서 전자기기 일괄 수거와 무작위 전화 확인, 첨단기기 점검 인력이 실제 도입됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 시행된 경비지도사 국가자격시험의 감독 절차입니다. 시험 전체의 정확한 시작 및 종료 시각은 기사 출처별로 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-21-pm/national-exam-stricter-device-controls-20261121",
+      "keyFacts": {
+        "cameraPrevention": "초소형 카메라 촬영을 막기 위한 부직포 앞치마 제공",
+        "deviceCollection": "감독관이 전원 차단 여부를 확인한 뒤 전자기기 일괄 수거",
+        "exam": "2026년 11월 21일 경비지도사 국가자격시험",
+        "inspectors": "AI 관련 첨단 전자기기 점검 전담 인력 배치",
+        "minister": "김영훈 고용노동부 장관 시험장 현장 점검",
+        "randomCalls": "시험 시작 전 휴대전화 무작위 전화 확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-21T10:12:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img5.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121023800530_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T10:12:00+09:00",
+          "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+          "url": "https://www.yna.co.kr/view/AKR20261121023800530",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "시행",
+      "status": "확정",
+      "storyId": "national-exam-stricter-device-controls-20261121",
+      "summary": [
+        "21일 경비지도사 국가자격시험에서 감독관이 휴대전화 전원을 확인하고 기기를 일괄 수거하는 방식을 시행했습니다.",
+        "무작위 전화 확인과 초소형 카메라 차단용 앞치마, 별도 점검 인력도 처음 도입됐습니다."
+      ],
+      "supersededBy": [],
+      "title": "국가자격시험, 휴대전화 수거·무작위 확인 시행",
+      "uncertainty": "강화된 감독 방식의 적용은 확인됐지만 실제 AI 부정행위 적발 규모나 앞으로 모든 국가시험에 동일한 절차가 적용될지는 이 출처만으로 확정할 수 없습니다."
+    }
+  ],
+  "id": "kr-national-exam-ai-cheating-prevention-2026",
+  "schemaVersion": 1,
+  "title": "2026년 국가자격시험 AI 부정행위 방지 대책",
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
+}

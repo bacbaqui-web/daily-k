@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "사회·안전",
+      "change": "공기총 손질 중 부상 사고라는 초기 보도와 달리 사격 연습 중 행인이 피격됐고 병원 치료 중 사망한 사실이 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": "2026-11-21T11:04:00+09:00",
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 오전 11시 4분께 사고 신고가 접수됐습니다. 사망은 병원 이송 후 확인됐으며 정확한 사망 시각은 확인하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-21-pm/pyeongchang-airgun-bystander-death-20261121",
+      "keyFacts": {
+        "correctedCircumstances": "총기 손질 중 오발이라는 초기 설명에서 사격 연습 중 사고로 정정",
+        "location": "강원도 평창군 방림면",
+        "policeAction": "중과실치사 혐의 입건 및 조사",
+        "relationship": "피해자와 공기총 사용자는 서로 모르는 사이",
+        "reportedAt": "2026-11-21T11:04:00+09:00",
+        "suspect": "공기총 사격 연습 중이던 60대 남성",
+        "victim": "60대 행인 1명 사망"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-21T18:19:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img8.yna.co.kr/photo/cms/2018/08/21/42/PCM20180821000242990_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T18:19:00+09:00",
+          "title": "평창서 공기총 사격 연습 중 60대 행인 맞아 숨져(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261121034451062",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "pyeongchang-airgun-bystander-death-20261121",
+      "summary": [
+        "강원 평창에서 60대 남성이 공기총 사격 연습을 하던 중 인근을 지나던 60대 행인이 총에 맞아 숨졌습니다.",
+        "경찰은 공기총을 쏜 남성을 중과실치사 혐의로 입건하고 정확한 사고 경위를 조사하고 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "평창서 공기총 사격 연습 중 행인 1명 사망",
+      "uncertainty": "사격 연습 중 피격과 사망은 확인됐지만 정확한 과실 정도, 총기 관리 위반 여부 및 형사책임은 수사 결과에 따라 판단됩니다."
+    }
+  ],
+  "id": "kr-pyeongchang-airgun-fatal-accident-20261121",
+  "schemaVersion": 1,
+  "title": "2026년 11월 평창 공기총 사망 사고",
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
+}

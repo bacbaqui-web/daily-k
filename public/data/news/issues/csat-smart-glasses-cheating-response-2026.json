@@ -515,10 +515,66 @@
       "supersededBy": [],
       "title": "청와대, 시험 공정성 회복 TF 운영 결정",
       "uncertainty": "111건은 전자기기 관련 적발 건수이며 실제 AI 서비스 이용이 입증된 사건 수는 아닙니다. TF의 구체적인 제도개선안과 시행 일정도 아직 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "정치·교육",
+      "change": "이재명 대통령이 수능 부정행위 신고 포상금에 관한 정부 부처의 최대 1억원 안내를 바로잡고 건당 최소 1억원 원칙을 재확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 이재명 대통령이 사회관계망서비스를 통해 포상금 기준에 관한 입장을 밝혔습니다. 정확한 게시 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날 정부의 시험 공정성 회복 TF 운영 결정에 이어 대통령이 기존 정부 부처의 최대 1억원 안내를 바로잡으며 건당 최소 1억원과 부정행위자 수에 따른 가산 원칙을 강조했습니다.",
+        "editionId": "2026-11-20-pm",
+        "storyId": "exam-fairness-task-force-20261120"
+      },
+      "id": "2026-11-21-pm/csat-cheating-reward-minimum-20261121",
+      "keyFacts": {
+        "additionalReward": "원칙적으로 부정행위자 수만큼 가산",
+        "implementation": "최종 지급 기준과 제도 시행 여부 미확정",
+        "presidentPosition": "수능 부정행위 신고 1건당 최소 1억원",
+        "previousGovernmentGuidance": "국무총리실 및 국민권익위원회가 신고 1건당 최대 1억원 지급 추진으로 안내",
+        "selfReporting": "본인의 부정을 자수하면서 공동부정행위자를 신고하는 경우 처벌 감경과 포상금 지급 방침 언급"
+      },
+      "previous": {
+        "editionId": "2026-11-20-pm",
+        "storyId": "exam-fairness-task-force-20261120"
+      },
+      "publishedAt": "2026-11-21T15:40:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112011080001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T15:40:00+09:00",
+          "title": "李대통령 \"수능 부정행위 신고포상금 건당 최소 1억…행위자수만큼 가산\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121039400001",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "검토",
+      "storyId": "csat-cheating-reward-minimum-20261121",
+      "summary": [
+        "이재명 대통령은 수능 부정행위 신고 포상금을 건당 최소 1억원으로 하고 부정행위자 수만큼 늘려야 한다고 밝혔습니다.",
+        "앞서 정부 부처는 최대 1억원 지급을 추진한다고 설명해 실제 포상금 지급 기준은 아직 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "이 대통령, 수능 부정 신고 포상금 최소 1억 강조",
+      "uncertainty": "대통령의 제도 도입 지시와 발언은 확인됐지만 최종 규정, 지급 재원, 적용 대상과 지급 절차는 확정되지 않았습니다. 이미 건당 최소 1억원을 받을 수 있는 제도가 시행 중이라는 뜻은 아닙니다."
     }
   ],
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
 }

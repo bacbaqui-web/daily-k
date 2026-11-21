@@ -51,10 +51,68 @@
       "supersededBy": [],
       "title": "경부선 화물열차 5량 탈선, 일반열차 중단",
       "uncertainty": "탈선의 정확한 원인과 복구 완료 시점은 조사 중입니다. 조사 기준에 확인된 일반열차 운행 중단 상황은 이후 달라질 수 있습니다."
+    },
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "사회·교통",
+      "change": "경부선 일반열차 운행 중단 이후 코레일이 밤샘 복구를 거쳐 22일 첫차부터 운행을 재개하겠다고 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "코레일은 2026년 11월 22일 첫차부터 운행을 재개할 계획이라고 발표했습니다. 정확한 첫차 시각과 복구 완료 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "오전에는 경부선 일반열차 운행 중단이 확인됐으나 오후에는 임시열차·연계버스 투입 규모와 22일 첫차부터 운행을 재개한다는 계획이 발표됐습니다.",
+        "editionId": "2026-11-21-am",
+        "storyId": "sojeongri-freight-train-derailment-20261121"
+      },
+      "id": "2026-11-21-pm/gyeongbu-rail-service-restart-plan-20261121",
+      "keyFacts": {
+        "affectedService": "경부선 천안~대전 구간 일반열차 운행 중단",
+        "incident": "11월 21일 오전 5시 37분께 소정리역에서 화물열차 21량 중 5량 탈선",
+        "ktx": "고속전용선을 이용하는 기존 KTX는 정상 운행",
+        "recovery": "장비와 인력 180명을 투입해 밤샘 복구 예정",
+        "replacementBuses": "천안~대전 구간 연계버스 23대 투입",
+        "restart": "11월 22일 첫차부터 운행 재개 계획",
+        "temporaryTrains": "KTX 4대와 ITX-새마을 11대 등 임시열차 15대 투입"
+      },
+      "previous": {
+        "editionId": "2026-11-21-am",
+        "storyId": "sojeongri-freight-train-derailment-20261121"
+      },
+      "publishedAt": "2026-11-21T19:56:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112101750006300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T19:56:00+09:00",
+          "title": "경부선 화물열차 탈선 '일반열차 운행중지'…내일 첫차부터 재개(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20261121012753061",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "gyeongbu-rail-service-restart-plan-20261121",
+      "summary": [
+        "코레일은 소정리역 화물열차 탈선으로 중단된 경부선 일반열차를 22일 첫차부터 재개하겠다고 밝혔습니다.",
+        "21일에는 천안~대전 구간의 운행 차질이 이어져 임시열차 15편과 연계버스 23대를 투입했습니다."
+      ],
+      "supersededBy": [],
+      "title": "경부선 일반열차, 22일 첫차부터 재개 계획",
+      "uncertainty": "22일 첫차 운행 재개는 코레일의 계획입니다. 사고 구간의 복구와 안전점검이 실제 완료됐는지는 아직 확인되지 않았습니다."
     }
   ],
   "id": "kr-gyeongbu-sojeongri-derailment-20261121",
   "schemaVersion": 1,
   "title": "2026년 11월 경부선 소정리역 화물열차 탈선",
-  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
 }

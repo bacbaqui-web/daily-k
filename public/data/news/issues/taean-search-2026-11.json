@@ -108,10 +108,69 @@
       "supersededBy": [],
       "title": "태안 어선 수색 확대, 중국에 공조 요청",
       "uncertainty": "구조·사망·침몰 여부가 확인되지 않았습니다. 중국에 공조를 요청한 사실과 중국의 실제 수색 참여는 구분합니다."
+    },
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "사회·안전",
+      "change": "실종 어선의 추정 위치에서 약 300m 떨어진 해상에서 부표를 발견한 뒤 해경이 관련 여부를 확인하며 수중 수색에 착수했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": "2026-11-20T21:45:00+09:00",
+      "eventDate": "2026-11-20",
+      "eventEndDate": null,
+      "eventTimeNote": "부표는 한국시간 2026년 11월 20일 오후 9시 45분께 발견됐으며 21일 해경의 확인 및 수중 수색 착수가 보도됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "해광호 실종 수색 과정에서 실종 추정 위치로부터 약 300m 떨어진 바다에서 부표가 새로 발견됐고 수중 수색이 시작됐습니다.",
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-taean-search"
+      },
+      "id": "2026-11-21-pm/taean-haegwangho-buoy-underwater-search-20261121",
+      "keyFacts": {
+        "buoyFoundAt": "2026-11-20T21:45:00+09:00",
+        "buoyLocation": "태안 서격렬비열도 북서방 약 22해리 해상",
+        "identification": "선장 가족이 해광호에서 사용하던 부표로 보인다고 진술, 해경 확인 중",
+        "missingPersons": "승선원 7명",
+        "relativeLocation": "해광호 추정 위치에서 약 300m 떨어진 곳",
+        "searchResources": "함정 25척과 항공기 8대 투입",
+        "underwaterSearch": "추정 위치 주변 수중 수색 착수",
+        "vessel": "해광호, 7.93t 어선"
+      },
+      "previous": {
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-taean-search"
+      },
+      "publishedAt": "2026-11-21T12:07:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112102260001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T12:07:00+09:00",
+          "title": "태안 연락두절 어선 해광호 수색 중 부이 발견…\"해광호 것\" 진술",
+          "url": "https://www.yna.co.kr/view/AKR20261121030900063",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "taean-haegwangho-buoy-underwater-search-20261121",
+      "summary": [
+        "해경은 태안 앞바다에서 실종된 해광호가 사용한 것으로 추정되는 부표 1개를 발견해 수중 수색에 착수했습니다.",
+        "승선원 7명의 행방은 여전히 확인되지 않았으며 부표가 실제 해광호 소유인지 조사하고 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "실종 어선 해광호 추정 부표 발견, 수중 수색 착수",
+      "uncertainty": "부표가 해광호 소유라는 사실은 아직 확정되지 않았습니다. 부표만으로 선박의 사고 원인이나 현재 상태를 판단할 수 없습니다."
     }
   ],
   "id": "taean-search-2026-11",
   "schemaVersion": 1,
   "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
-  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
 }

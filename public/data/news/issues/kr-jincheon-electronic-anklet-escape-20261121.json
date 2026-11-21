@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "사회·안전",
+      "change": "충북 진천에서 보호관찰 대상자가 전자발찌를 훼손하고 도주한 사실이 확인돼 보호관찰소와 경찰이 공동 추적에 나섰습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 오전 8시 45~50분께 충북 진천에서 발생했습니다. 연합뉴스와 YTN의 사건 시각이 5분가량 달라 정확한 시각을 확정하지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-21-pm/jincheon-electronic-anklet-escape-20261121",
+      "keyFacts": {
+        "action": "승용차로 이동한 뒤 전자발찌 훼손 및 도주",
+        "arrestStatus": "확인된 오후 보도에서 검거 여부 미확인",
+        "incidentLocation": "충북 진천군 양백리",
+        "reportedTime": "2026년 11월 21일 오전 8시 45~50분께, 매체별 차이",
+        "residence": "경기도 평택 거주",
+        "response": "법무부 보호관찰소와 경찰 공조 추적",
+        "suspect": "성범죄로 복역한 뒤 보호관찰 중이던 50대 남성"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-21T15:08:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/cms/2021/09/08/79/PCM20210908000079990_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T15:08:00+09:00",
+          "title": "50대 성범죄자 충북 진천서 전자발찌 끊고 도주…당국 추적",
+          "url": "https://www.yna.co.kr/view/AKR20261121038500064",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "jincheon-electronic-anklet-escape-20261121",
+      "summary": [
+        "21일 오전 충북 진천에서 성범죄 전력의 50대 보호관찰 대상자가 전자발찌를 끊고 달아났습니다.",
+        "법무부 보호관찰소와 경찰은 보도 당시 행방을 추적 중이었으며 검거 여부는 추가 확인이 필요합니다."
+      ],
+      "supersededBy": [],
+      "title": "진천서 전자발찌 훼손 도주, 당국 추적",
+      "uncertainty": "확인한 오후 보도에서는 추적이 진행 중이었으며 이후 검거 여부나 이동 경로는 확인되지 않았습니다."
+    }
+  ],
+  "id": "kr-jincheon-electronic-anklet-escape-20261121",
+  "schemaVersion": 1,
+  "title": "2026년 11월 진천 전자감독 대상자 도주",
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
+}

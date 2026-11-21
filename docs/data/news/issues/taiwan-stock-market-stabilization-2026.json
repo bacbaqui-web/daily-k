@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "국제·경제",
+      "change": "대만 금융당국이 급락장 대응책으로 직전 거래일 종가 미만 공매도 제한과 증거금 상향을 발표하고 23일부터 적용하기로 했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 대만 금융감독관리위원회가 발표한 시장 안정 대책입니다. 시행은 대만 현지시간 11월 23일 증시 개장부터 예정돼 있으며 정확한 시각은 확인하지 않았습니다.",
+      "eventTimezone": "Asia/Taipei",
+      "followUp": null,
+      "id": "2026-11-21-pm/taiwan-short-selling-restrictions-20261121",
+      "keyFacts": {
+        "additionalMeasures": "풋워런트 신청 접수 중단 및 주식 대여·자사주 매입 관련 조치",
+        "announcedAt": "2026년 11월 21일",
+        "effectiveDate": "2026년 11월 23일 증시 개장부터",
+        "exception": "증권사·선물사의 위험회피 목적 일부 거래 제외",
+        "marginAfter": "공매도 최소 증거금 150%",
+        "marginBefore": "공매도 최소 증거금 130%",
+        "marketBackground": "대만 가권지수 11월 20일 6.23% 급락",
+        "regulator": "대만 금융감독관리위원회",
+        "shortSaleRule": "직전 영업일 종가보다 낮은 가격의 공매도 금지"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-21T17:36:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/etc/epa/2026/11/06/PEP20261106226701009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T17:36:00+09:00",
+          "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121044000083",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "taiwan-short-selling-restrictions-20261121",
+      "summary": [
+        "대만 금융당국은 증시 급락에 대응해 23일부터 전날 종가보다 낮은 가격의 공매도를 제한하기로 했습니다.",
+        "공매도 최소 증거금은 130%에서 150%로 높이고 일부 위험회피 거래에는 예외를 둡니다."
+      ],
+      "supersededBy": [],
+      "title": "대만, 증시 급락에 공매도 제한 강화",
+      "uncertainty": "23일 시행은 당국이 발표한 일정입니다. 조치 이후 주가 안정 효과는 아직 확인되지 않았습니다."
+    }
+  ],
+  "id": "taiwan-stock-market-stabilization-2026",
+  "schemaVersion": 1,
+  "title": "2026년 11월 대만 증시 안정 대책",
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
+}

@@ -104,10 +104,66 @@
       "supersededBy": [],
       "title": "민주당, 조희대 탄핵 추진 당론 채택",
       "uncertainty": "당론 채택은 완료됐지만 탄핵소추안 발의·본회의 의결·헌법재판소 심판은 아직 완료되지 않았으며 정확한 발의 날짜도 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "정치·사법",
+      "change": "민주당의 탄핵 추진 당론 채택 이후 대변인이 12월 3일 전후 발의 가능성을 개인 의견으로 제시했으며 공식 날짜는 미정이라고 설명했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 국회에서 민주당 대변인이 발의 예상 시점을 개인적인 의견으로 언급했습니다. 발의 일정은 확정되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "20일 민주당이 조희대 대법원장 탄핵 추진을 당론으로 채택한 뒤 21일 당 대변인이 12월 3일 전후를 예상 발의 시점으로 언급했습니다.",
+        "editionId": "2026-11-20-pm",
+        "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
+      },
+      "id": "2026-11-21-pm/cho-hee-dae-impeachment-december-date-discussed-20261121",
+      "keyFacts": {
+        "officialDecision": "당 지도부의 공식 발의 날짜 결정 없음",
+        "previousStep": "11월 20일 탄핵소추 추진 당론 채택",
+        "reasonGiven": "12월 2일 예산 국회 종료 및 12월 3일 비상계엄 2주기",
+        "speaker": "조계원 더불어민주당 대변인",
+        "suggestedDate": "2026년 12월 3일 전후"
+      },
+      "previous": {
+        "editionId": "2026-11-20-pm",
+        "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
+      },
+      "publishedAt": "2026-11-21T12:19:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2026/09/09/PYH2026090918590001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T12:19:00+09:00",
+          "title": "與 \"조희대 탄핵안, 12·3 '내란 2주기' 기점 발의 컨센서스\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121031900001",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "검토",
+      "status": "검토",
+      "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121",
+      "summary": [
+        "더불어민주당 조계원 대변인은 조희대 대법원장 탄핵안을 12월 3일쯤 발의하는 데 공감대가 있을 것으로 본다고 말했습니다.",
+        "다만 자신의 견해이며 당 지도부에서 발의 날짜를 공식 결정한 것은 아니라고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "민주당 대변인, 조희대 탄핵안 12월 3일 발의 거론",
+      "uncertainty": "12월 3일은 당 차원의 확정 일정이 아닌 대변인의 사견입니다. 탄핵소추안 발의·국회 의결·헌법재판소 심판이 완료됐다는 의미도 아닙니다."
     }
   ],
   "id": "cho-hee-dae-impeachment-2026",
   "schemaVersion": 1,
   "title": "조희대 대법원장 탄핵 추진",
-  "updatedAt": "2026-11-21T09:28:57.083664+09:00"
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
 }

@@ -1,0 +1,797 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-21T21:00:00+09:00",
+      "date": "2026-11-21",
+      "edition": "pm",
+      "editionId": "2026-11-21-pm",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-22",
+          "detail": "코레일은 소정리역 화물열차 탈선 사고 구간을 밤새 복구·점검한 뒤 경부선 일반열차 운행을 재개할 계획입니다. 실제 재개 여부는 추가 확인이 필요합니다.",
+          "source": {
+            "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112101750006300_P4.jpg",
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-21T19:56:10+09:00",
+            "title": "경부선 화물열차 탈선 '일반열차 운행중지'…내일 첫차부터 재개(종합2보) | 연합뉴스",
+            "url": "https://www.yna.co.kr/view/AKR20261121012753061",
+            "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+          },
+          "timeNote": "22일 첫차부터 재개 예정이며 정확한 첫차 출발 시각은 확인되지 않았습니다.",
+          "title": "경부선 일반열차 운행 재개 계획"
+        }
+      ],
+      "generatedAt": "2026-11-21T21:19:20.420658+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-21-pm",
+      "intro": "11월 21일 저녁 주요 뉴스입니다. 경부선 열차 운행 재개 계획과 수능 부정행위 신고 포상금 논란, 호르무즈 해협 유조선 피격, 조희대 대법원장 탄핵 추진 후속 소식을 정리했습니다.",
+      "keywords": [
+        "경부선 일반열차 22일 재개 계획",
+        "소정리역 화물열차 탈선",
+        "수능 부정 신고 포상금 최소 1억원",
+        "호르무즈 해협 유조선 피격 신고",
+        "조희대 탄핵안 발의 시점 논의",
+        "태안 실종 어선 해광호 수중 수색",
+        "진천 전자발찌 훼손 도주",
+        "대만 공매도 제한 강화",
+        "국가자격시험 전자기기 수거",
+        "평창 공기총 사망 사고"
+      ],
+      "omissionNotes": [
+        "예약 실행 시작 시각인 2026-11-21T20:27:43+09:00을 researchCutoffAt으로 기록했습니다. 실제 웹 조사 완료를 확인한 시각은 2026-11-21T20:31:48+09:00입니다. 발행 회차 기준 cutoffAt은 21:00이지만 21:00까지 조사했다고 주장하지 않습니다. 모든 수록 기사에 사용된 원문은 researchCutoffAt 이전에 공개된 보도입니다.",
+        "최근 7일 이력을 확인하기 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 접근했습니다. 확인 가능한 인덱스 정보에는 2026-11-21-am 4건, 11-20-pm 7건, 11-20-am 9건을 비롯한 과거 회차가 표시됐습니다. 그러나 개별 발행 JSON 읽기에서는 접근 오류가 발생했고 인덱스 재접근도 실패했습니다. GitHub 저장소의 해당 JSON을 읽는 대체 시도에서도 파일을 찾지 못했습니다. 따라서 최근 7일 대표·추가·예비 기사 전체 대조는 완료하지 못했습니다. 수신 측은 실제 발행된 최근 7일의 모든 개별 JSON을 다시 읽고 중복과 후속 관계를 반드시 재검사해야 합니다.",
+        "현재 대화에 남아 있는 2026-11-20-pm 원고의 7건과 2026-11-21-am 기존 4건을 비교했습니다. 코스피 급락, 민주유공자법 통과, 조희대 탄핵 추진 당론 채택, 시험 공정성 회복 TF, 공시가격 반영률 동결, 러시아·유럽 협의, 철도노조 준법투쟁 계획 및 오전 미국 증시 급락·화물열차 탈선·사우디 공습 주장·대중 무역 분석은 새 사실 없이 반복하지 않았습니다.",
+        "경부선 기사는 오전 운행 중단에서 오후 임시수송과 다음 날 운행 재개 계획으로 달라진 내용을, 조희대 탄핵 기사는 전날 당론 채택에서 당 대변인이 예상 발의 시점을 언급한 내용을, 수능 포상금 기사는 전날 TF 구성 결정에서 대통령의 구체적인 포상 기준 발언으로 달라진 내용을 중심으로 작성했습니다.",
+        "기존 발행본의 최신 followUp.storyId 및 timeline.issueId·issueTitle을 직접 읽어 검증하지는 못했습니다. 현재 대화에 있는 직전 원고의 식별자를 확인할 수 있는 경부선, 수능 부정행위, 조희대 탄핵 기사에는 해당 식별자를 재사용했습니다. 해광호 실종 수색은 지난 7일의 예비·추가 기사에 동일 사건이 있는지 확인하지 못해 추측한 followUp과 reserveUpdate를 만들지 않았습니다. 수신 측은 실제 발행본과의 식별자 일치 여부를 재검사해야 합니다.",
+        "21일 경비지도사 국가자격시험의 휴대전화 수거·무작위 확인은 실제 적용된 새로운 감독 절차이므로 포함했습니다. 다만 일부 보도에서 언급한 응시자 6명 시험 무효 처리 수치는 독립적인 원문 대조가 충분하지 않아 본문과 keyFacts에 넣지 않았으며, 실제 AI 사용 적발자로도 표현하지 않았습니다.",
+        "호르무즈 해협 관련 UKMTO의 피격 신고 2건은 두 척의 선박이 각각 피격됐다는 확정 사실이 아닙니다. 동일 선박 여부, 공격 주체, 실제 손상 및 환경 피해가 확인되지 않아 신고 사실과 미확인 사항만 전달했습니다.",
+        "진천 전자발찌 훼손 도주 사건은 오후 18시 10분까지 확인된 보도를 기준으로 작성했습니다. 이후 검거 여부를 실시간으로 확인한 것은 아니므로 현재도 도주 중이라고 단정하지 않았습니다.",
+        "태안 해광호 부표 발견은 11월 20일 밤에 발생했지만 21일 확인된 수색 후속 소식으로 포함했습니다. 부표가 실종 선박에 속하는지, 선박이 어디에 있는지, 승선원 7명의 생사는 확인되지 않았습니다.",
+        "대만 금융당국의 공매도 규제는 21일 발표됐고 23일 적용 예정입니다. 시행이 완료됐다고 쓰지 않았으며, 오후 회차 events에는 다음 날인 22일 일정만 허용한다는 기존 발행 규칙에 따라 23일 계획을 넣지 않았습니다. 조희대 탄핵안의 12월 3일 발의 가능성 역시 확정 일정이 아니므로 events에서 제외했습니다.",
+        "다른 후보로는 이 대통령의 울산 AI 데이터센터 현장 방문, 북한의 공장 건설 현지 지도, 홍대 일대 차량 충돌, 미국 기술주 추가 분석, 주말 대학 논술시험 감독 강화 등이 확인됐습니다. 별도 신규 정책 결정이나 더 큰 공적 영향이 확인되지 않거나 이미 관련 주제에서 다뤄진 내용이어서 독립 기사를 추가하지 않았습니다. 기사 수나 분야별 할당량은 강제하지 않았습니다.",
+        "기사 원문의 본문 사실은 확인했지만 og:image 또는 twitter:image에서 해당 기사에 연결할 실제 HTTPS 사진 주소를 검증하지 못했습니다. 모든 imageUrl은 null로 두었고, 원문에 실린 관련 없는 과거 사건 자료사진을 현재 사건의 사진으로 사용하지 않았습니다.",
+        "모든 story의 importance는 기사 배열 순서를 보존하도록 100부터 92까지 서로 다른 정수로 지정했습니다. 시각이 서로 다르게 보도된 사건은 정확한 시각을 임의로 확정하지 않았으며, 대통령·정당·해상 안전기관의 발표와 실제 확정된 결과를 구분했습니다.",
+        "수신 측에서 기록할 발행 검증 시각·해시·operationId·승인 여부는 생성하지 않았습니다. 기존 발행본이나 GitHub·홈페이지·Discord를 직접 수정·게시·전송하지 않았으며 파일 및 새 예약도 만들지 않았습니다."
+      ],
+      "overview": [
+        "코레일은 화물열차 탈선으로 중단된 경부선 일반열차를 22일 첫차부터 재개하겠다고 밝혔고, 이재명 대통령은 수능 부정행위 신고 포상금을 건당 최소 1억원으로 해야 한다고 강조했습니다.",
+        "호르무즈 해협에서는 유조선 피격 신고가 이어졌으며, 국내에서는 실종 어선 수색과 전자발찌 훼손 도주 사건 등 안전 관련 소식이 새로 확인됐습니다."
+      ],
+      "researchCompletedAt": "2026-11-21T20:31:48+09:00",
+      "researchCutoffAt": "2026-11-21T20:27:43+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "22일 첫차부터 재개",
+            "임시열차 15편과 연계버스 23대"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "코레일은 2026년 11월 22일 첫차부터 운행을 재개할 계획이라고 발표했습니다. 정확한 첫차 시각과 복구 완료 시각은 확인되지 않았습니다.",
+          "followUp": {
+            "delta": "오전에는 경부선 일반열차 운행 중단이 확인됐으나 오후에는 임시열차·연계버스 투입 규모와 22일 첫차부터 운행을 재개한다는 계획이 발표됐습니다.",
+            "editionId": "2026-11-21-am",
+            "storyId": "sojeongri-freight-train-derailment-20261121"
+          },
+          "id": "gyeongbu-rail-service-restart-plan-20261121",
+          "keyFacts": {
+            "affectedService": "경부선 천안~대전 구간 일반열차 운행 중단",
+            "incident": "11월 21일 오전 5시 37분께 소정리역에서 화물열차 21량 중 5량 탈선",
+            "ktx": "고속전용선을 이용하는 기존 KTX는 정상 운행",
+            "recovery": "장비와 인력 180명을 투입해 밤샘 복구 예정",
+            "replacementBuses": "천안~대전 구간 연계버스 23대 투입",
+            "restart": "11월 22일 첫차부터 운행 재개 계획",
+            "temporaryTrains": "KTX 4대와 ITX-새마을 11대 등 임시열차 15대 투입"
+          },
+          "publishedAt": "2026-11-21T19:56:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.khan.co.kr/news/2026/11/21/rcv.YNA.20261121.PYH2026112102780006300_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-21T19:47:00+09:00",
+              "title": "[속보]코레일 “22일 첫차부터 경부선 일반열차 운행 정상화”",
+              "url": "https://www.khan.co.kr/article/202611211947001",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            },
+            {
+              "imageUrl": "https://img.khan.co.kr/news/2026/11/21/news-p.v1.20261121.4c9a63b9b5254fa0bd714f04e84b17f6_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-21T13:48:00+09:00",
+              "title": "경부선 화물열차 탈선 여파…코레일, 임시열차 15편 투입",
+              "url": "https://www.khan.co.kr/article/202611211348001",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121012753061",
+          "scoreComponents": {
+            "domesticImpact": 99,
+            "importance": 100,
+            "interest": 96,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "당일 발생한 주요 철도 운행 중단에 관해 이용객에게 직접 필요한 복구 계획과 대체 교통수단이 새로 확인됐습니다.",
+          "sourceCheck": "연합뉴스 19시 56분 종합기사에서 사고 규모, 천안~대전 운행 중단, 임시열차 15대와 연계버스 23대 투입, 복구 인력 180명, 22일 첫차부터 재개 계획을 확인했습니다. 경향신문 19시 47분 입력·20시 수정 기사에서도 재개 계획을 확인했습니다. 실제 운행 재개와 재개 계획을 구분했습니다. 사진의 og:image 또는 twitter:image 주소는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img5.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112101750006300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T19:56:00+09:00",
+              "title": "경부선 화물열차 탈선 '일반열차 운행중지'…내일 첫차부터 재개(종합2보)",
+              "url": "https://www.yna.co.kr/view/AKR20261121012753061",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "코레일은 소정리역 화물열차 탈선으로 중단된 경부선 일반열차를 22일 첫차부터 재개하겠다고 밝혔습니다.",
+            "21일에는 천안~대전 구간의 운행 차질이 이어져 임시열차 15편과 연계버스 23대를 투입했습니다."
+          ],
+          "timeline": {
+            "change": "경부선 일반열차 운행 중단 이후 코레일이 밤샘 복구를 거쳐 22일 첫차부터 운행을 재개하겠다고 발표했습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-gyeongbu-sojeongri-derailment-20261121",
+            "issueTitle": "2026년 11월 경부선 소정리역 화물열차 탈선",
+            "stage": "예정"
+          },
+          "title": "경부선 일반열차, 22일 첫차부터 재개 계획",
+          "topicKey": "kr-gyeongbu-line-rail-derailment",
+          "uncertainty": "22일 첫차 운행 재개는 코레일의 계획입니다. 사고 구간의 복구와 안전점검이 실제 완료됐는지는 아직 확인되지 않았습니다.",
+          "whatChanged": "오전에는 경부선 일반열차 운행 중단이 확인됐으나 오후에는 임시열차·연계버스 투입 규모와 22일 첫차부터 운행을 재개한다는 계획이 발표됐습니다.",
+          "whyItMatters": "경부선 일반열차를 이용하는 승객과 주말 대학 논술시험 응시자의 이동에 직접 영향을 주며, 다음 날 열차 운행 계획을 확인할 필요가 있습니다."
+        },
+        {
+          "category": "정치·교육",
+          "emphasis": [
+            "건당 최소 1억원",
+            "실제 포상금 지급 기준은 아직 확정되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 21일 이재명 대통령이 사회관계망서비스를 통해 포상금 기준에 관한 입장을 밝혔습니다. 정확한 게시 시각은 확인하지 못했습니다.",
+          "followUp": {
+            "delta": "전날 정부의 시험 공정성 회복 TF 운영 결정에 이어 대통령이 기존 정부 부처의 최대 1억원 안내를 바로잡으며 건당 최소 1억원과 부정행위자 수에 따른 가산 원칙을 강조했습니다.",
+            "editionId": "2026-11-20-pm",
+            "storyId": "exam-fairness-task-force-20261120"
+          },
+          "id": "csat-cheating-reward-minimum-20261121",
+          "keyFacts": {
+            "additionalReward": "원칙적으로 부정행위자 수만큼 가산",
+            "implementation": "최종 지급 기준과 제도 시행 여부 미확정",
+            "presidentPosition": "수능 부정행위 신고 1건당 최소 1억원",
+            "previousGovernmentGuidance": "국무총리실 및 국민권익위원회가 신고 1건당 최대 1억원 지급 추진으로 안내",
+            "selfReporting": "본인의 부정을 자수하면서 공동부정행위자를 신고하는 경우 처벌 감경과 포상금 지급 방침 언급"
+          },
+          "publishedAt": "2026-11-21T15:40:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1121/202611211541272517_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-21T15:41:00+09:00",
+              "title": "이 대통령 \"수능 부정행위 신고 포상, 1건당 최소 1억\"",
+              "url": "https://www.ytn.co.kr/_ln/0101_202611211541272517",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            },
+            {
+              "imageUrl": "https://img.khan.co.kr/news/2026/11/21/news-p.v1.20261121.048dbf63e33d44a8b1d0d61d0b2e1180_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-21T15:51:00+09:00",
+              "title": "이 대통령 “수능 부정 신고 포상금, 최대 1억원 아닌 건당 최소 1억원”",
+              "url": "https://www.khan.co.kr/article/202611211551001",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121039400001",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 99,
+            "interest": 98,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "대통령이 정부 부처의 기존 안내와 다른 구체적인 포상금 기준을 직접 밝혀 향후 정책 설계와 수험생 관련 제도에 영향을 줄 수 있습니다.",
+          "sourceCheck": "연합뉴스 15시 40분 원문에서 이 대통령의 최소 1억원 발언, 인원수별 가산 원칙, 앞선 총리실·권익위의 최대 1억원 지급 추진 안내를 확인했습니다. YTN 15시 41분 보도와 경향신문 15시 51분 입력·16시 7분 수정 기사에서도 대통령 발언을 확인했습니다. 대통령의 입장 표명과 포상금 지급 제도의 법적 확정을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112011080001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T15:40:00+09:00",
+              "title": "李대통령 \"수능 부정행위 신고포상금 건당 최소 1억…행위자수만큼 가산\"",
+              "url": "https://www.yna.co.kr/view/AKR20261121039400001",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "검토",
+          "summary": [
+            "이재명 대통령은 수능 부정행위 신고 포상금을 건당 최소 1억원으로 하고 부정행위자 수만큼 늘려야 한다고 밝혔습니다.",
+            "앞서 정부 부처는 최대 1억원 지급을 추진한다고 설명해 실제 포상금 지급 기준은 아직 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "이재명 대통령이 수능 부정행위 신고 포상금에 관한 정부 부처의 최대 1억원 안내를 바로잡고 건당 최소 1억원 원칙을 재확인했습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "후속"
+          },
+          "title": "이 대통령, 수능 부정 신고 포상금 최소 1억 강조",
+          "topicKey": "2027-csat-exam-security",
+          "uncertainty": "대통령의 제도 도입 지시와 발언은 확인됐지만 최종 규정, 지급 재원, 적용 대상과 지급 절차는 확정되지 않았습니다. 이미 건당 최소 1억원을 받을 수 있는 제도가 시행 중이라는 뜻은 아닙니다.",
+          "whatChanged": "전날 정부의 시험 공정성 회복 TF 운영 결정에 이어 대통령이 기존 정부 부처의 최대 1억원 안내를 바로잡으며 건당 최소 1억원과 부정행위자 수에 따른 가산 원칙을 강조했습니다.",
+          "whyItMatters": "대학입시 부정행위 신고에 대한 포상금 설계와 신고자 보호, 실제 제도 시행 조건에 영향을 주는 발언입니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "피격됐다는 신고가 2건",
+            "같은 선박에 관한 것인지는 확인되지 않았으며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "영국 해상무역기구가 밝힌 오만 현지시간 2026년 11월 21일 오전 9시께와 그로부터 약 50분 뒤의 피격 신고입니다. 정확한 피격 시점과 선박 식별 정보는 확인되지 않았습니다.",
+          "id": "hormuz-tanker-projectile-reports-20261121",
+          "keyFacts": {
+            "casualties": "보고된 인명 피해 없음",
+            "firstReport": "오만 카사브 북쪽 약 11해리 지점에서 선미 피격 신고",
+            "perpetrator": "공격 주체 미확인",
+            "reportingBody": "영국 해상무역기구(UKMTO)",
+            "reports": "11월 21일 오전 피격 신고 2건",
+            "sameVessel": "동일 선박 여부 미확인",
+            "secondReport": "약 50분 뒤 카사브 동쪽 약 17해리 지점에서 기관실 공격 신고"
+          },
+          "publishedAt": "2026-11-21T19:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T19:00:00+09:00",
+              "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
+              "url": "https://www.yna.co.kr/view/AKR20261121046400099",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121046400099",
+          "scoreComponents": {
+            "domesticImpact": 86,
+            "importance": 98,
+            "interest": 95,
+            "recency": 99,
+            "reliability": 95
+          },
+          "scoreReason": "국제 원유 수송의 핵심 해협에서 추가 선박 공격 신고가 접수돼 해상 안전과 에너지 공급망에 영향을 줄 수 있습니다.",
+          "sourceCheck": "연합뉴스 19시 원문에서 UKMTO의 피격 신고 2건, 신고 위치와 시간 차이, 인명 피해 미보고, 동일 선박 여부와 공격 주체 미확인을 확인했습니다. 본문에 실린 선박 사진은 17일의 별도 사건 자료사진으로 명시돼 이번 사건의 사진으로 사용하지 않았습니다. 독립적으로 확인된 공격 주체와 피해 규모를 만들지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T19:00:00+09:00",
+              "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
+              "url": "https://www.yna.co.kr/view/AKR20261121046400099",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "영국 해상무역기구는 21일 호르무즈 해협에서 유조선이 미확인 발사체에 피격됐다는 신고가 2건 접수됐다고 밝혔습니다.",
+            "두 신고가 같은 선박에 관한 것인지는 확인되지 않았으며 인명 피해는 보고되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "호르무즈 해협에서 미확인 발사체에 의한 유조선 피격 신고가 약 50분 간격으로 2건 접수됐으며 공격 주체는 확인되지 않았습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Muscat",
+            "issueId": "hormuz-maritime-attacks-november-2026",
+            "issueTitle": "2026년 11월 호르무즈 해협 상선 피격",
+            "stage": "보도"
+          },
+          "title": "호르무즈 해협, 유조선 피격 신고 잇따라",
+          "topicKey": "hormuz-maritime-security",
+          "uncertainty": "두 신고가 한 척 또는 서로 다른 선박에 관한 것인지 확인되지 않았습니다. 공격 주체와 해양환경 피해도 미확인 상태입니다.",
+          "whatChanged": "호르무즈 해협에서 유조선 피격 신고 2건이 새로 접수됐고 선미와 기관실 부근에 대한 공격이 각각 보고됐습니다.",
+          "whyItMatters": "호르무즈 해협은 원유와 액화천연가스 운송의 핵심 통로여서 선박 안전 문제는 국제 에너지·물류 공급에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "12월 3일쯤 발의",
+            "공식 결정한 것은 아니라고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 21일 국회에서 민주당 대변인이 발의 예상 시점을 개인적인 의견으로 언급했습니다. 발의 일정은 확정되지 않았습니다.",
+          "followUp": {
+            "delta": "20일 민주당이 조희대 대법원장 탄핵 추진을 당론으로 채택한 뒤 21일 당 대변인이 12월 3일 전후를 예상 발의 시점으로 언급했습니다.",
+            "editionId": "2026-11-20-pm",
+            "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
+          },
+          "id": "cho-hee-dae-impeachment-december-date-discussed-20261121",
+          "keyFacts": {
+            "officialDecision": "당 지도부의 공식 발의 날짜 결정 없음",
+            "previousStep": "11월 20일 탄핵소추 추진 당론 채택",
+            "reasonGiven": "12월 2일 예산 국회 종료 및 12월 3일 비상계엄 2주기",
+            "speaker": "조계원 더불어민주당 대변인",
+            "suggestedDate": "2026년 12월 3일 전후"
+          },
+          "publishedAt": "2026-11-21T12:19:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1121/202611211537180140_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-21T15:37:00+09:00",
+              "title": "민주당 \"조희대 탄핵안, 12·3 내란 2주기쯤 발의 공감대\"",
+              "url": "https://www.ytn.co.kr/_ln/0101_202611211537180140",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121031900001",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 97,
+            "interest": 96,
+            "recency": 94,
+            "reliability": 98
+          },
+          "scoreReason": "대법원장 탄핵 추진에 관한 새로운 일정 논의가 나왔지만 공식 결정이 아니라는 점을 중요도와 문장에 반영했습니다.",
+          "sourceCheck": "연합뉴스 12시 19분 원문과 YTN 15시 37분 원문에서 조계원 대변인의 12월 3일 전후 발의 예상 발언을 확인했습니다. 두 원문 모두 공식 지도부 결정이 아닌 개인 의견이라는 단서를 명시하고 있어 제목과 본문에 이를 반영했습니다. 발의가 확정됐다고 표현하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2026/09/09/PYH2026090918590001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T12:19:00+09:00",
+              "title": "與 \"조희대 탄핵안, 12·3 '내란 2주기' 기점 발의 컨센서스\"",
+              "url": "https://www.yna.co.kr/view/AKR20261121031900001",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "검토",
+          "summary": [
+            "더불어민주당 조계원 대변인은 조희대 대법원장 탄핵안을 12월 3일쯤 발의하는 데 공감대가 있을 것으로 본다고 말했습니다.",
+            "다만 자신의 견해이며 당 지도부에서 발의 날짜를 공식 결정한 것은 아니라고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "민주당의 탄핵 추진 당론 채택 이후 대변인이 12월 3일 전후 발의 가능성을 개인 의견으로 제시했으며 공식 날짜는 미정이라고 설명했습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "cho-hee-dae-impeachment-2026",
+            "issueTitle": "조희대 대법원장 탄핵 추진",
+            "stage": "검토"
+          },
+          "title": "민주당 대변인, 조희대 탄핵안 12월 3일 발의 거론",
+          "topicKey": "cho-hee-dae-impeachment",
+          "uncertainty": "12월 3일은 당 차원의 확정 일정이 아닌 대변인의 사견입니다. 탄핵소추안 발의·국회 의결·헌법재판소 심판이 완료됐다는 의미도 아닙니다.",
+          "whatChanged": "20일 민주당이 조희대 대법원장 탄핵 추진을 당론으로 채택한 뒤 21일 당 대변인이 12월 3일 전후를 예상 발의 시점으로 언급했습니다.",
+          "whyItMatters": "국회 다수당의 대법원장 탄핵 추진이 발의 시점 논의로 이어지고 있지만 실제 탄핵소추 절차가 시작된 것은 아닙니다."
+        },
+        {
+          "category": "사회·안전",
+          "emphasis": [
+            "부표 1개를 발견",
+            "승선원 7명의 행방은 여전히 확인되지 않았으며"
+          ],
+          "eventAt": "2026-11-20T21:45:00+09:00",
+          "eventTimeNote": "부표는 한국시간 2026년 11월 20일 오후 9시 45분께 발견됐으며 21일 해경의 확인 및 수중 수색 착수가 보도됐습니다.",
+          "followUp": {
+            "delta": "해광호 실종 수색 과정에서 실종 추정 위치로부터 약 300m 떨어진 바다에서 부표가 새로 발견됐고 수중 수색이 시작됐습니다.",
+            "editionId": "2026-11-18-pm",
+            "storyId": "20261118-pm-taean-search"
+          },
+          "id": "taean-haegwangho-buoy-underwater-search-20261121",
+          "keyFacts": {
+            "buoyFoundAt": "2026-11-20T21:45:00+09:00",
+            "buoyLocation": "태안 서격렬비열도 북서방 약 22해리 해상",
+            "identification": "선장 가족이 해광호에서 사용하던 부표로 보인다고 진술, 해경 확인 중",
+            "missingPersons": "승선원 7명",
+            "relativeLocation": "해광호 추정 위치에서 약 300m 떨어진 곳",
+            "searchResources": "함정 25척과 항공기 8대 투입",
+            "underwaterSearch": "추정 위치 주변 수중 수색 착수",
+            "vessel": "해광호, 7.93t 어선"
+          },
+          "publishedAt": "2026-11-21T12:07:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1121/202611211705398851_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-21T17:05:00+09:00",
+              "title": "태안 실종 어선 '해광호' 추정 부이 발견...수중수색 시작",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611211705398851",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121030900063",
+          "scoreComponents": {
+            "domesticImpact": 93,
+            "importance": 96,
+            "interest": 94,
+            "recency": 96,
+            "reliability": 98
+          },
+          "scoreReason": "7명의 생사가 확인되지 않은 실종 사고에서 새로운 수색 단서와 수중 수색 착수 사실이 확인됐습니다.",
+          "sourceCheck": "연합뉴스 12시 7분 원문에서 부표 발견 시각과 위치, 해광호 소유 여부 확인 중이라는 사실, 승선원 7명과 수색 자원을 확인했습니다. 뉴스1 14시 10분 기사와 YTN 17시 5분 기사에서도 부표 발견과 수중 수색 착수를 대조했습니다. 부표의 소유 및 실종 선박 상태를 확정하지 않았습니다. 사진 주소 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112102260001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T12:07:00+09:00",
+              "title": "태안 연락두절 어선 해광호 수색 중 부이 발견…\"해광호 것\" 진술",
+              "url": "https://www.yna.co.kr/view/AKR20261121030900063",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "해경은 태안 앞바다에서 실종된 해광호가 사용한 것으로 추정되는 부표 1개를 발견해 수중 수색에 착수했습니다.",
+            "승선원 7명의 행방은 여전히 확인되지 않았으며 부표가 실제 해광호 소유인지 조사하고 있습니다."
+          ],
+          "timeline": {
+            "change": "실종 어선의 추정 위치에서 약 300m 떨어진 해상에서 부표를 발견한 뒤 해경이 관련 여부를 확인하며 수중 수색에 착수했습니다.",
+            "eventDate": "2026-11-20",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "taean-search-2026-11",
+            "issueTitle": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+            "stage": "후속"
+          },
+          "title": "실종 어선 해광호 추정 부표 발견, 수중 수색 착수",
+          "topicKey": "taean-missing-fishing-boat",
+          "uncertainty": "부표가 해광호 소유라는 사실은 아직 확정되지 않았습니다. 부표만으로 선박의 사고 원인이나 현재 상태를 판단할 수 없습니다.",
+          "whatChanged": "해광호 실종 수색 과정에서 실종 추정 위치로부터 약 300m 떨어진 바다에서 부표가 새로 발견됐고 수중 수색이 시작됐습니다.",
+          "whyItMatters": "실종 선박과 승선원 7명을 찾기 위한 수색의 범위와 방식이 달라졌지만 선박의 실제 위치를 확인한 것은 아닙니다."
+        },
+        {
+          "category": "사회·안전",
+          "emphasis": [
+            "전자발찌를 끊고 달아났습니다",
+            "검거 여부는 추가 확인이 필요합니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 21일 오전 8시 45~50분께 충북 진천에서 발생했습니다. 연합뉴스와 YTN의 사건 시각이 5분가량 달라 정확한 시각을 확정하지 않았습니다.",
+          "id": "jincheon-electronic-anklet-escape-20261121",
+          "keyFacts": {
+            "action": "승용차로 이동한 뒤 전자발찌 훼손 및 도주",
+            "arrestStatus": "확인된 오후 보도에서 검거 여부 미확인",
+            "incidentLocation": "충북 진천군 양백리",
+            "reportedTime": "2026년 11월 21일 오전 8시 45~50분께, 매체별 차이",
+            "residence": "경기도 평택 거주",
+            "response": "법무부 보호관찰소와 경찰 공조 추적",
+            "suspect": "성범죄로 복역한 뒤 보호관찰 중이던 50대 남성"
+          },
+          "publishedAt": "2026-11-21T15:08:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-21T18:10:00+09:00",
+              "title": "평택 거주 50대 성범죄자, 충북 진천서 전자발찌 끊고 도주",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611211810106154",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121038500064",
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 95,
+            "interest": 95,
+            "recency": 94,
+            "reliability": 99
+          },
+          "scoreReason": "전자감독 대상자의 도주가 확인된 지역 안전 사안이며 소재 확보 여부에 관한 후속 확인이 필요한 사건입니다.",
+          "sourceCheck": "연합뉴스 15시 8분 원문에서 사건 장소, 대상자의 보호관찰 상태, 전자발찌 훼손과 도주, 당국 추적을 확인했습니다. YTN 18시 10분 보도에서도 같은 핵심 사실을 확인했습니다. 연합뉴스는 8시 50분께, YTN은 8시 45분께라고 보도해 정확한 사건 시각은 확정하지 않았습니다. 검거되지 않았다는 현재 시점의 실시간 단정도 피했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img0.yna.co.kr/photo/cms/2021/09/08/79/PCM20210908000079990_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T15:08:00+09:00",
+              "title": "50대 성범죄자 충북 진천서 전자발찌 끊고 도주…당국 추적",
+              "url": "https://www.yna.co.kr/view/AKR20261121038500064",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "21일 오전 충북 진천에서 성범죄 전력의 50대 보호관찰 대상자가 전자발찌를 끊고 달아났습니다.",
+            "법무부 보호관찰소와 경찰은 보도 당시 행방을 추적 중이었으며 검거 여부는 추가 확인이 필요합니다."
+          ],
+          "timeline": {
+            "change": "충북 진천에서 보호관찰 대상자가 전자발찌를 훼손하고 도주한 사실이 확인돼 보호관찰소와 경찰이 공동 추적에 나섰습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-jincheon-electronic-anklet-escape-20261121",
+            "issueTitle": "2026년 11월 진천 전자감독 대상자 도주",
+            "stage": "결과"
+          },
+          "title": "진천서 전자발찌 훼손 도주, 당국 추적",
+          "topicKey": "kr-electronic-monitoring-escape",
+          "uncertainty": "확인한 오후 보도에서는 추적이 진행 중이었으며 이후 검거 여부나 이동 경로는 확인되지 않았습니다.",
+          "whatChanged": "보호관찰 대상자가 평택에서 충북 진천으로 이동한 뒤 전자발찌를 훼손하고 달아나 법무부와 경찰이 공동 추적에 나섰습니다.",
+          "whyItMatters": "전자감독 대상자의 소재를 확보하지 못한 상태여서 해당 지역의 안전과 전자감독 관리 체계에 영향을 주는 사건입니다."
+        },
+        {
+          "category": "국제·경제",
+          "emphasis": [
+            "23일부터",
+            "130%에서 150%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 21일 대만 금융감독관리위원회가 발표한 시장 안정 대책입니다. 시행은 대만 현지시간 11월 23일 증시 개장부터 예정돼 있으며 정확한 시각은 확인하지 않았습니다.",
+          "id": "taiwan-short-selling-restrictions-20261121",
+          "keyFacts": {
+            "additionalMeasures": "풋워런트 신청 접수 중단 및 주식 대여·자사주 매입 관련 조치",
+            "announcedAt": "2026년 11월 21일",
+            "effectiveDate": "2026년 11월 23일 증시 개장부터",
+            "exception": "증권사·선물사의 위험회피 목적 일부 거래 제외",
+            "marginAfter": "공매도 최소 증거금 150%",
+            "marginBefore": "공매도 최소 증거금 130%",
+            "marketBackground": "대만 가권지수 11월 20일 6.23% 급락",
+            "regulator": "대만 금융감독관리위원회",
+            "shortSaleRule": "직전 영업일 종가보다 낮은 가격의 공매도 금지"
+          },
+          "publishedAt": "2026-11-21T17:36:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/etc/epa/2026/11/06/PEP20261106226701009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T17:36:00+09:00",
+              "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
+              "url": "https://www.yna.co.kr/view/AKR20261121044000083",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121044000083",
+          "scoreComponents": {
+            "domesticImpact": 81,
+            "importance": 94,
+            "interest": 88,
+            "recency": 96,
+            "reliability": 98
+          },
+          "scoreReason": "대만 정부가 금융시장 급락에 대응해 실제 거래 규정과 증거금 기준을 변경하기로 한 정책 결정입니다.",
+          "sourceCheck": "연합뉴스 17시 36분 원문에서 대만 금융감독관리위원회의 5대 조치, 23일 시행 계획, 직전 거래일 종가 미만 공매도 제한, 위험회피 거래 예외, 증거금 130%에서 150%로의 인상을 확인했습니다. 발표 시점과 실제 시행일을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/etc/epa/2026/11/06/PEP20261106226701009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T17:36:00+09:00",
+              "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
+              "url": "https://www.yna.co.kr/view/AKR20261121044000083",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "대만 금융당국은 증시 급락에 대응해 23일부터 전날 종가보다 낮은 가격의 공매도를 제한하기로 했습니다.",
+            "공매도 최소 증거금은 130%에서 150%로 높이고 일부 위험회피 거래에는 예외를 둡니다."
+          ],
+          "timeline": {
+            "change": "대만 금융당국이 급락장 대응책으로 직전 거래일 종가 미만 공매도 제한과 증거금 상향을 발표하고 23일부터 적용하기로 했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Taipei",
+            "issueId": "taiwan-stock-market-stabilization-2026",
+            "issueTitle": "2026년 11월 대만 증시 안정 대책",
+            "stage": "예정"
+          },
+          "title": "대만, 증시 급락에 공매도 제한 강화",
+          "topicKey": "taiwan-stock-market-stabilization",
+          "uncertainty": "23일 시행은 당국이 발표한 일정입니다. 조치 이후 주가 안정 효과는 아직 확인되지 않았습니다.",
+          "whatChanged": "대만 금융감독관리위원회가 직전 거래일 종가 미만 공매도 제한과 증거금 인상 등 5대 증시 안정 대책을 새로 발표했습니다.",
+          "whyItMatters": "아시아 증시의 급락에 대응해 실제 공매도 규정을 변경하는 조치로 금융시장 안정 대책과 거래에 영향을 줍니다."
+        },
+        {
+          "category": "사회·교육",
+          "emphasis": [
+            "기기를 일괄 수거",
+            "무작위 전화 확인"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 21일 시행된 경비지도사 국가자격시험의 감독 절차입니다. 시험 전체의 정확한 시작 및 종료 시각은 기사 출처별로 확인되지 않았습니다.",
+          "id": "national-exam-stricter-device-controls-20261121",
+          "keyFacts": {
+            "cameraPrevention": "초소형 카메라 촬영을 막기 위한 부직포 앞치마 제공",
+            "deviceCollection": "감독관이 전원 차단 여부를 확인한 뒤 전자기기 일괄 수거",
+            "exam": "2026년 11월 21일 경비지도사 국가자격시험",
+            "inspectors": "AI 관련 첨단 전자기기 점검 전담 인력 배치",
+            "minister": "김영훈 고용노동부 장관 시험장 현장 점검",
+            "randomCalls": "시험 시작 전 휴대전화 무작위 전화 확인"
+          },
+          "publishedAt": "2026-11-21T10:12:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1121/202611211202235613_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-21T12:02:00+09:00",
+              "title": "\"AI 부정행위 막아라\"...앞치마부터 금속탐지기까지, 국가시험 감독 강화",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611211202235613",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            },
+            {
+              "imageUrl": "https://wimg.heraldcorp.com/news/cms/2026/11/21/news-p.v1.20261121.8e91255bdaac4054a5c80999ff024ae6_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "헤럴드경제",
+              "publishedAt": "2026-11-21T14:03:04+09:00",
+              "title": "‘AI 커닝’ 후 첫 국가자격시험…휴대전화 걷고 수험생엔 앞치마",
+              "url": "https://biz.heraldcorp.com/article/10944659",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121023800530",
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 93,
+            "interest": 94,
+            "recency": 94,
+            "reliability": 99
+          },
+          "scoreReason": "전날 발표된 시험 공정성 강화 방침과 달리 실제 시험장에 새 감독 절차가 적용된 구체적인 결과입니다.",
+          "sourceCheck": "연합뉴스 10시 12분 원문에서 휴대전화 일괄 수거와 전원 확인, 무작위 전화 확인, 앞치마 지급 및 고용노동부 장관의 현장 점검을 확인했습니다. YTN 12시 2분 보도와 헤럴드경제 14시 3분 기사에서도 감독 강화 조치를 확인했습니다. 실제 시행된 시험장 조치와 향후 전체 국가시험에 대한 제도 확대 여부를 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img5.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121023800530_01_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T10:12:00+09:00",
+              "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+              "url": "https://www.yna.co.kr/view/AKR20261121023800530",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "21일 경비지도사 국가자격시험에서 감독관이 휴대전화 전원을 확인하고 기기를 일괄 수거하는 방식을 시행했습니다.",
+            "무작위 전화 확인과 초소형 카메라 차단용 앞치마, 별도 점검 인력도 처음 도입됐습니다."
+          ],
+          "timeline": {
+            "change": "AI 부정행위 논란 이후 첫 국가자격시험에서 전자기기 일괄 수거와 무작위 전화 확인, 첨단기기 점검 인력이 실제 도입됐습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-national-exam-ai-cheating-prevention-2026",
+            "issueTitle": "2026년 국가자격시험 AI 부정행위 방지 대책",
+            "stage": "시행"
+          },
+          "title": "국가자격시험, 휴대전화 수거·무작위 확인 시행",
+          "topicKey": "kr-national-exam-security",
+          "uncertainty": "강화된 감독 방식의 적용은 확인됐지만 실제 AI 부정행위 적발 규모나 앞으로 모든 국가시험에 동일한 절차가 적용될지는 이 출처만으로 확정할 수 없습니다.",
+          "whatChanged": "기존에는 휴대전화 전원을 끄고 가방에 넣도록 했으나 이날 시험부터 감독관의 전원 확인과 일괄 수거, 무작위 전화 확인, 별도 첨단기기 점검이 실제 적용됐습니다.",
+          "whyItMatters": "최근 AI를 활용한 국가자격시험 부정행위 논란 이후 시험장에서 구체적인 감독 방식이 처음 변경돼 적용된 사례입니다."
+        },
+        {
+          "category": "사회·안전",
+          "emphasis": [
+            "행인이 총에 맞아 숨졌습니다",
+            "중과실치사 혐의로 입건"
+          ],
+          "eventAt": "2026-11-21T11:04:00+09:00",
+          "eventTimeNote": "2026년 11월 21일 오전 11시 4분께 사고 신고가 접수됐습니다. 사망은 병원 이송 후 확인됐으며 정확한 사망 시각은 확인하지 않았습니다.",
+          "id": "pyeongchang-airgun-bystander-death-20261121",
+          "keyFacts": {
+            "correctedCircumstances": "총기 손질 중 오발이라는 초기 설명에서 사격 연습 중 사고로 정정",
+            "location": "강원도 평창군 방림면",
+            "policeAction": "중과실치사 혐의 입건 및 조사",
+            "relationship": "피해자와 공기총 사용자는 서로 모르는 사이",
+            "reportedAt": "2026-11-21T11:04:00+09:00",
+            "suspect": "공기총 사격 연습 중이던 60대 남성",
+            "victim": "60대 행인 1명 사망"
+          },
+          "publishedAt": "2026-11-21T18:19:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-21T19:16:00+09:00",
+              "title": "강원 평창서 공기총 사격 연습 중 60대 행인 맞아 숨져",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611211916389035",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            },
+            {
+              "imageUrl": "https://img.khan.co.kr/news/2026/11/21/news-p.v1.20220627.bbc6093f1aa24828870dcb50d7040579_P1.jpeg",
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-21T18:40:00+09:00",
+              "title": "공기총 사격 연습 중 날아간 총알에 60대 행인 숨져",
+              "url": "https://www.khan.co.kr/article/202611211840001",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121034451062",
+          "scoreComponents": {
+            "domesticImpact": 82,
+            "importance": 92,
+            "interest": 88,
+            "recency": 96,
+            "reliability": 98
+          },
+          "scoreReason": "일반 시민의 사망이 확인된 총기 안전 사고이며 초기 사고 설명이 경찰 조사로 정정된 중요한 후속 사실이 있습니다.",
+          "sourceCheck": "연합뉴스 18시 19분 종합기사에서 행인 사망과 경찰의 사격 연습 중 피격 판단, 중과실치사 혐의 입건을 확인했습니다. YTN 19시 16분 기사와 경향신문 18시 40분 입력·18시 44분 수정 기사에서도 같은 내용을 확인했습니다. 연합뉴스 13시 44분 초기 기사에는 피해자 부상과 총기 손질 중 사고로 보도됐으나 이후 확인된 경찰 조사 결과를 기준으로 수정된 사실만 사용했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img8.yna.co.kr/photo/cms/2018/08/21/42/PCM20180821000242990_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T18:19:00+09:00",
+              "title": "평창서 공기총 사격 연습 중 60대 행인 맞아 숨져(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261121034451062",
+              "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "강원 평창에서 60대 남성이 공기총 사격 연습을 하던 중 인근을 지나던 60대 행인이 총에 맞아 숨졌습니다.",
+            "경찰은 공기총을 쏜 남성을 중과실치사 혐의로 입건하고 정확한 사고 경위를 조사하고 있습니다."
+          ],
+          "timeline": {
+            "change": "공기총 손질 중 부상 사고라는 초기 보도와 달리 사격 연습 중 행인이 피격됐고 병원 치료 중 사망한 사실이 확인됐습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-pyeongchang-airgun-fatal-accident-20261121",
+            "issueTitle": "2026년 11월 평창 공기총 사망 사고",
+            "stage": "결과"
+          },
+          "title": "평창서 공기총 사격 연습 중 행인 1명 사망",
+          "topicKey": "kr-airgun-safety-accident",
+          "uncertainty": "사격 연습 중 피격과 사망은 확인됐지만 정확한 과실 정도, 총기 관리 위반 여부 및 형사책임은 수사 결과에 따라 판단됩니다.",
+          "whatChanged": "당초 공기총 손질 중 발생한 부상 사고로 알려졌으나 경찰 조사 결과 사격 연습 중 지나가던 행인이 맞은 것으로 파악됐고 피해자의 사망이 확인됐습니다.",
+          "whyItMatters": "총기 사용과 사격 연습의 안전관리 문제로 일반 행인이 사망한 사건이며 사고 경위에 대한 경찰 조사가 진행 중입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-21-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-21T21:22:43.151090+09:00",
+  "result": {
+    "id": "2026-11-21-pm",
+    "operationId": "publish-news-2026-11-21-pm",
+    "recordedAt": "2026-11-21T21:22:43.151090+09:00",
+    "sha256": "1f74c639f512db99cfbc02b7814e34b7f1366d296551faa6ae1e3d4a5d32aeec",
+    "windowId": "2026-11-21-pm"
+  }
+}

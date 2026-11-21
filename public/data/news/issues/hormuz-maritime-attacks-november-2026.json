@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-21/pm.json",
+      "category": "국제·안보",
+      "change": "호르무즈 해협에서 미확인 발사체에 의한 유조선 피격 신고가 약 50분 간격으로 2건 접수됐으며 공격 주체는 확인되지 않았습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "coveredOn": "2026-11-21",
+      "edition": "pm",
+      "editionDate": "2026-11-21",
+      "editionId": "2026-11-21-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "영국 해상무역기구가 밝힌 오만 현지시간 2026년 11월 21일 오전 9시께와 그로부터 약 50분 뒤의 피격 신고입니다. 정확한 피격 시점과 선박 식별 정보는 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Muscat",
+      "followUp": null,
+      "id": "2026-11-21-pm/hormuz-tanker-projectile-reports-20261121",
+      "keyFacts": {
+        "casualties": "보고된 인명 피해 없음",
+        "firstReport": "오만 카사브 북쪽 약 11해리 지점에서 선미 피격 신고",
+        "perpetrator": "공격 주체 미확인",
+        "reportingBody": "영국 해상무역기구(UKMTO)",
+        "reports": "11월 21일 오전 피격 신고 2건",
+        "sameVessel": "동일 선박 여부 미확인",
+        "secondReport": "약 50분 뒤 카사브 동쪽 약 17해리 지점에서 기관실 공격 신고"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-21T19:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T19:00:00+09:00",
+          "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121046400099",
+          "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "hormuz-tanker-projectile-reports-20261121",
+      "summary": [
+        "영국 해상무역기구는 21일 호르무즈 해협에서 유조선이 미확인 발사체에 피격됐다는 신고가 2건 접수됐다고 밝혔습니다.",
+        "두 신고가 같은 선박에 관한 것인지는 확인되지 않았으며 인명 피해는 보고되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "호르무즈 해협, 유조선 피격 신고 잇따라",
+      "uncertainty": "두 신고가 한 척 또는 서로 다른 선박에 관한 것인지 확인되지 않았습니다. 공격 주체와 해양환경 피해도 미확인 상태입니다."
+    }
+  ],
+  "id": "hormuz-maritime-attacks-november-2026",
+  "schemaVersion": 1,
+  "title": "2026년 11월 호르무즈 해협 상선 피격",
+  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
+}
