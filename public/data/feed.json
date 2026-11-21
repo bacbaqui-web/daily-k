@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T04:19:25.347257+00:00",
+  "collectedAt": "2026-11-21T04:21:54.821361+00:00",
   "windowEnd": "2026-11-21T13:19:24.908113+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -15263,7 +15263,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -15290,6 +15290,96 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671443-0",
+      "url": "https://aagag.com/issue/?idx=1671443",
+      "source": "애객",
+      "title": "대만에서 존재한다는 배우들 사망씬 문화.Manhwa",
+      "publishedAt": "2026-11-21T13:17:37+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTM.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTQ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTS.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTU.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTW.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTY.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTa.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6lTc.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6lTM.webp",
+        "https://i.aagag.com/o/L6lTQ.webp",
+        "https://i.aagag.com/o/L6lTS.webp",
+        "https://i.aagag.com/o/L6lTU.webp",
+        "https://i.aagag.com/o/L6lTW.webp",
+        "https://i.aagag.com/o/L6lTY.webp",
+        "https://i.aagag.com/o/L6lTa.webp",
+        "https://i.aagag.com/o/L6lTc.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9009593",
+          "text": "그만큼 배우를 생각 해 준거니 좋다고 생각함"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T13:21:41.654913+09:00",
+      "sourceTitles": [
+        "대만에 존재한다는 배우들 사망씬 문화",
+        "대만에서 존재한다는 배우들 사망씬 문화.Manhwa",
+        "대만에서 존재한다는 배우들 사망씬 문화.Manhwa",
+        "대만에서 존재한다는 배우들 사망씬 문화.Manhwa",
+        "대만에서 존재한다는 배우들 사망씬 문화.Manhwa",
+        "대만에서 존재한다는 배우들 사망씬 문화.Manhwa",
+        "대만에서 존재한다는 배우들 사망씬 문화.Manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-21T04:21:54.723510+00:00",
+      "collectedAt": "2026-11-21T13:21:54.723528+09:00",
+      "firstPublishedAt": "2026-11-21T04:21:55.013566+00:00"
+    },
     {
       "id": "aagag-1671400-0",
       "url": "https://aagag.com/issue/?idx=1671400",
