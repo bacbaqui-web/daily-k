@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T10:01:15.797403+00:00",
+  "collectedAt": "2026-11-21T10:02:52.071197+00:00",
   "windowEnd": "2026-11-21T19:01:15.366010+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -16612,7 +16612,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -16639,6 +16639,89 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1619235-0",
+      "url": "https://aagag.com/issue/?idx=1619235",
+      "source": "애객",
+      "title": "오늘부터 전국 연못에 반지를 떨어뜨릴 겁니다",
+      "publishedAt": "2026-11-21T18:57:46+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KIpSz.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KIpT3.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KIpSz.webp",
+        "https://i.aagag.com/o/KIpT3.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "8053423",
+          "text": "금은 산신령은 할배 아니였어???"
+        },
+        {
+          "id": "8053441",
+          "text": "형 조용히 하고 번호 기다려..."
+        },
+        {
+          "id": "8053750",
+          "text": "나라마다 틀리더라구요 일본은 물의 여신이래요"
+        },
+        {
+          "id": "8053516",
+          "text": "도리!"
+        },
+        {
+          "id": "8055047",
+          "text": "엄... 원래 버전은 '에르메스' '헤르메스' 라더군. 흠흠."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T19:02:44.014085+09:00",
+      "sourceTitles": [
+        "반지를 호수에 떨어뜨렸다.manhwa",
+        "반지를 호수에 떨어뜨렸다.manhwa",
+        "ㅆㄷ) 전설의 호수",
+        "ㅆㄷ) 호수의 산신령",
+        "신령님의 눈가 주름 덕분에 매우 껄리는 만화",
+        "오늘부터 전국 호수를 순회할 겁니다",
+        "최근 신적 존재들의 결혼 방식",
+        "요즘 산신령 트랜드manhaw",
+        "호수의 여신에게 잘못 걸린 만화",
+        "호수의 여신에게 잘못 걸린 만화",
+        "전국 호수를 향해 노총각들이 몰려가는 만화",
+        "오늘부터 전국 호수에 반지 뿌립니다",
+        "호수에 빠트린 결혼반지 주워주는 여신",
+        "호수 바닥에 떨어진 결혼 반지를 줍다",
+        "오늘부터 전국 연못에 반지를 떨어뜨릴 겁니다.manhwa",
+        "오늘부터 전국 연못에 반지를 떨어뜨릴 겁니다",
+        "실수로 결혼 반지를 빠뜨린 manhwa",
+        "실수로 결혼 반지를 빠뜨린 manhwa",
+        "금 혼인신고서, 은 혼인신고서",
+        "금 혼인신고서, 은 혼인신고서manhaW"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 20,
+      "sourceTitlesFetchedAt": "2026-11-21T10:02:51.936295+00:00",
+      "collectedAt": "2026-11-21T19:02:51.936315+09:00",
+      "firstPublishedAt": "2026-11-21T10:02:52.114516+00:00"
+    },
     {
       "id": "aagag-1671443-0",
       "url": "https://aagag.com/issue/?idx=1671443",
