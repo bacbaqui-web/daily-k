@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-21",
-  "collectedAt": "2026-11-21T11:17:13.584627+00:00",
+  "collectedAt": "2026-11-21T11:19:31.038609+00:00",
   "windowEnd": "2026-11-21T20:17:13.171232+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -16912,6 +16912,59 @@
       "firstPublishedAt": "2026-11-21T10:05:42.525099+00:00"
     },
     {
+      "id": "aagag-1671522-0",
+      "url": "https://aagag.com/issue/?idx=1671522",
+      "source": "애객",
+      "title": "트위터 1200만 조회수 달성한 한국인의 썰",
+      "publishedAt": "2026-11-21T20:15:25+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6p4p.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "오...."
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6p4p.webp"
+      ],
+      "videos": [],
+      "excerpt": "오....",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 10,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 10,
+      "kPerComment": 10.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9010774",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ그와중에 마지막 가능충이 웃기네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-21T20:19:23.426250+09:00",
+      "sourceTitles": [
+        "트위터에서 1200만 조회수 탄 글.jpg",
+        "ㅇㅎ?) 트위터 1200만 조회수 달성한 썰.jpg",
+        "트위터 1200만 조회수 달성한 한국인의 썰",
+        "ㅇㅎ?) 트위터 1200만 조회수 달성한 썰.jpg",
+        "트위터 1200만 조회수 달성한 썰",
+        "트위터 1200만 조회수 달성한 썰",
+        "ㅇㅎ?) 트위터 1200만 조회수 달성한 썰.jpg",
+        "트위터 1200만 조회수 달성한 썰.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-21T11:19:30.808015+00:00",
+      "collectedAt": "2026-11-21T20:19:30.808034+09:00",
+      "firstPublishedAt": "2026-11-21T11:19:31.084462+00:00"
+    },
+    {
       "id": "aagag-1671464-0",
       "url": "https://aagag.com/issue/?idx=1671464",
       "source": "애객",
@@ -17133,7 +17186,7 @@
     }
   ],
   "partialCommentPosts": 5,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
