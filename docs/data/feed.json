@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T10:46:08.824564+09:00",
-  "windowEnd": "2026-11-22T10:37:35.130857+09:00",
+  "collectedAt": "2026-11-22T01:56:37.167484+00:00",
+  "windowEnd": "2026-11-22T10:56:36.851153+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6238,79 +6238,6 @@
       "firstPublishedAt": "2026-11-21T10:43:40.329208+00:00"
     },
     {
-      "id": "aagag-1671416-0",
-      "url": "https://aagag.com/issue/?idx=1671416",
-      "source": "애객",
-      "title": "아이브) 어제자 MAMA2026 안유진",
-      "publishedAt": "2026-11-21T10:37:50+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6psD.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6psJ.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6psD.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6psJ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 4,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9009083",
-          "text": "ㅡㅡ뭐? 없는데?"
-        },
-        {
-          "id": "9009101",
-          "text": "없어서 가리는거죠~ 붕뜨니까 다 보이잖아아요"
-        },
-        {
-          "id": "9009095",
-          "text": "우리나라 키큰여자들은 거의 없죠.. 있다면 수술"
-        },
-        {
-          "id": "9009108",
-          "text": "키보다는 몸통 크기가 작은데 크다? 그럼 축복 받은거죠. 그이름 카 리 나"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-21T10:50:32.235985+09:00",
-      "sourceTitles": [
-        "아이브) 어제자 MAMA2026 안유진",
-        "ㅇㅎ?) 안유진",
-        "오늘자 아이브 우리유진 이서 비쥬얼 ㄷㄷ.GIF",
-        "화이트 원피스 안유진 .gif",
-        "아이브 안유진 흰색 드레스",
-        "아이브 유진"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-21T01:50:41.870820+00:00",
-      "collectedAt": "2026-11-21T10:50:41.870838+09:00",
-      "firstPublishedAt": "2026-11-21T01:50:42.019778+00:00"
-    },
-    {
       "id": "aagag-1671518-0",
       "url": "https://aagag.com/issue/?idx=1671518",
       "source": "애객",
@@ -6728,9 +6655,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 327,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
