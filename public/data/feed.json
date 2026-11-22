@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T05:11:52.865474+00:00",
+  "collectedAt": "2026-11-22T05:12:53.673762+00:00",
   "windowEnd": "2026-11-22T14:11:52.611681+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6202,6 +6202,71 @@
       "firstPublishedAt": "2026-11-21T05:35:11.306743+00:00"
     },
     {
+      "id": "aagag-1671688-0",
+      "url": "https://aagag.com/issue/?idx=1671688",
+      "source": "애객",
+      "title": "ㅇㅎ?) GTA6 스토리에 개연성 추가 ㄷㄷ",
+      "publishedAt": "2026-11-22T14:01:35+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6umR.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "외모 개연성이 부족해서 사람들이 스토리에 반감을 가지는 게 아닐까?"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6umR.webp"
+      ],
+      "videos": [],
+      "excerpt": "외모 개연성이 부족해서 사람들이 스토리에 반감을 가지는 게 아닐까?",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9012881",
+          "text": "이뻐.. 빨리 PC버전 주세요!"
+        },
+        {
+          "id": "9012882",
+          "text": "이게 맞다"
+        },
+        {
+          "id": "9012883",
+          "text": "지금은 데모판이라고 보면됨 완성은 pc판에서 유저들이 할것임"
+        },
+        {
+          "id": "9012885",
+          "text": "4번짤 호우.."
+        },
+        {
+          "id": "9012904",
+          "text": "이걸로 상황정리..."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-22T14:12:41.878129+09:00",
+      "sourceTitles": [
+        "GTA6에 개연성을 첨가하는 법.jpg",
+        "ㅇㅎ?) GTA6 스토리에 개연성 추가 ㄷㄷ",
+        "ㅇㅎ?) GTA6 스토리에 개연성 추가 ㄷㄷ",
+        "ㅇㅎ?) GTA6 스토리에 개연성 추가 ㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-22T05:12:53.596016+00:00",
+      "collectedAt": "2026-11-22T14:12:53.596055+09:00",
+      "firstPublishedAt": "2026-11-22T05:12:53.700641+00:00"
+    },
+    {
       "id": "aagag-1671682-0",
       "url": "https://aagag.com/issue/?idx=1671682",
       "source": "애객",
@@ -6929,7 +6994,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
