@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T02:13:26.101887+00:00",
+  "collectedAt": "2026-11-22T02:14:32.706110+00:00",
   "windowEnd": "2026-11-22T11:13:25.816006+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6598,7 +6598,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -6625,6 +6625,63 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671658-0",
+      "url": "https://aagag.com/issue/?idx=1671658",
+      "source": "애객",
+      "title": "국가고령화대책.manwha",
+      "publishedAt": "2026-11-22T11:04:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5gt6.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5gt6.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9012339",
+          "text": "성별을 변환시키면 어떡해"
+        },
+        {
+          "id": "9012342",
+          "text": "어디서 또 조토피아 같은거 긁어왔나 했더니 역시 그곳이네 아우 진짜"
+        },
+        {
+          "id": "9012356",
+          "text": "인구 감소를 걱정하니 이런 역할을 주는구나"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-22T11:14:22.385650+09:00",
+      "sourceTitles": [
+        "국가고령화대책",
+        "65세 이상 노인은 둘 중 하나를 선택해야하는 만화.manhwa",
+        "국가고령화 대책.manhwa",
+        "국가고령화대책.manwha",
+        "국가고령화대책.manwha",
+        "국가고령화대책.manwha",
+        "65세 이상의 노인은 둘 중 하나를 선택해야 합니다.",
+        "2077년의 저출산 대책.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-22T02:14:32.626515+00:00",
+      "collectedAt": "2026-11-22T11:14:32.626534+09:00",
+      "firstPublishedAt": "2026-11-22T02:14:32.739248+00:00"
+    },
     {
       "id": "aagag-1399001-0",
       "url": "https://aagag.com/issue/?idx=1399001",
