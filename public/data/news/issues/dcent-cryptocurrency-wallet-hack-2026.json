@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/am.json",
+      "category": "경제·기술",
+      "change": "해킹 사고 이후 운영사가 스마트폰 앱 단독 지갑 서비스를 종료하는 수순을 안내하고 이용자들에게 자산 이전을 권고했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "am",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 9월 16일 해킹 피해가 알려졌고 11월 22일 앱 단독 지갑 서비스 종료 수순이 보도됐습니다. 운영사가 최초 종료 안내를 게시한 정확한 시각과 최종 서비스 종료일은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-22-am/dcent-app-wallet-service-closure-20261122",
+      "keyFacts": {
+        "company": "아이오트러스트",
+        "estimatedLoss": "XRPL.to 분석 기준 XRP 약 1,272만8천개, 약 154억원 탈취 추산",
+        "hardwareWallet": "별도 하드웨어 지갑 연결·관리 기능은 계속 제공",
+        "investigation": "KISA 및 수사기관과 사고 원인 조사 진행",
+        "newDevelopment": "앱 단독 지갑 서비스 종료 수순 안내",
+        "securityIncident": "2026년 9월 16일 무단 자산 이전 피해 접수",
+        "service": "디센트 DCENT 앱 단독 소프트웨어 지갑",
+        "totalLoss": "다른 가상자산을 포함한 전체 피해 규모 미확정",
+        "userNotice": "이용자에게 다른 지갑으로 자산 이전 안내"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T05:59:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121047900002_04_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T05:59:00+09:00",
+          "title": "'해킹 피해' 디센트, 가상자산 앱 지갑 서비스 종료 수순",
+          "url": "https://www.yna.co.kr/view/AKR20261121047900002",
+          "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "dcent-app-wallet-service-closure-20261122",
+      "summary": [
+        "가상자산 지갑 업체 디센트가 해킹 피해 이후 스마트폰 앱 단독 지갑 서비스를 종료하는 절차에 들어갔다고 밝혔습니다.",
+        "운영사는 이용자에게 자산 이전을 안내했으며, 하드웨어 지갑 연결 기능은 유지하고 해킹 원인과 전체 피해 규모는 아직 확인하지 못했습니다."
+      ],
+      "supersededBy": [],
+      "title": "디센트, 해킹 피해 앱 지갑 종료 수순",
+      "uncertainty": "정확한 해킹 원인과 전체 피해 규모는 미확정입니다. 원인이 구형 운영체제의 난수 생성 취약점이라는 설명은 운영사가 의심하는 가능성이며 확정된 분석 결과가 아닙니다."
+    }
+  ],
+  "id": "dcent-cryptocurrency-wallet-hack-2026",
+  "schemaVersion": 1,
+  "title": "2026년 디센트 앱 지갑 해킹 사고",
+  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+}

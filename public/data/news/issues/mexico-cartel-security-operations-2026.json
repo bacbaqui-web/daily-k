@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/am.json",
+      "category": "국제·사회",
+      "change": "미국 FBI 10대 지명수배자였던 카르텔 두목을 멕시코군이 체포했으며 교전 과정에서 총 11명이 사망했다고 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "am",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-am",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "멕시코군은 현지시간 11월 20일 밤부터 시날로아주에서 군사작전을 진행했고 21일 검거 사실을 발표했습니다. 정확한 체포 시각은 확인되지 않았습니다.",
+      "eventTimezone": "America/Mazatlan",
+      "followUp": null,
+      "id": "2026-11-22-am/mexico-cartel-most-wanted-arrested-20261122",
+      "keyFacts": {
+        "arrests": "두목과 조직 내 2인자 등 8명 체포",
+        "fatalities": "멕시코 군인 4명과 마약조직원 7명 등 11명 사망",
+        "operationLocation": "멕시코 시날로아주",
+        "organization": "과사베 카르텔",
+        "reward": "500만달러, 보도 환산액 약 67억원",
+        "suspect": "파우스토 이시드로 메사 플로레스, 별칭 차포 이시드로",
+        "usAssistance": "미국 정부의 정보 지원이 있었다고 보도",
+        "wantedBy": "미국 FBI 10대 지명수배자 명단"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T04:50:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/etc/inner/KR/2026/11/22/AKR20261122000451087_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T04:50:00+09:00",
+          "title": "멕시코군, 美 10대 지명수배자 명단 오른 카르텔 두목 검거(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261122000451087",
+          "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "보도",
+      "storyId": "mexico-cartel-most-wanted-arrested-20261122",
+      "summary": [
+        "멕시코군이 미국 정부가 현상금 약 67억원을 걸었던 마약 카르텔 두목 '차포 이시드로'를 체포했다고 발표했습니다.",
+        "체포 과정에서 총격전이 벌어져 멕시코 군인 4명과 조직원 7명 등 11명이 숨졌습니다."
+      ],
+      "supersededBy": [],
+      "title": "멕시코군, 현상금 67억원 카르텔 두목 검거",
+      "uncertainty": "체포 및 사망자 수는 멕시코 당국의 발표와 이를 인용한 보도 기준입니다. 범죄 혐의에 대한 최종 법원 판단은 별개의 절차입니다."
+    }
+  ],
+  "id": "mexico-cartel-security-operations-2026",
+  "schemaVersion": 1,
+  "title": "멕시코 마약 카르텔 두목 검거 작전",
+  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+}

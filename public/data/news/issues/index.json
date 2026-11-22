@@ -1,6 +1,153 @@
 {
-  "editionCount": 132,
+  "editionCount": 133,
   "issues": [
+    {
+      "categories": [
+        "국제·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "us-fbi-ncic-cyber-incident-2026",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "FBI 범죄정보망의 외부 침입 의혹에 대한 조사 소식 이후 트럼프 대통령이 사건을 보고받았다고 공개적으로 언급했습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "후속",
+        "storyId": "fbi-criminal-database-intrusion-20261122",
+        "title": "FBI 범죄정보망 해킹 의혹, 당국 조사"
+      },
+      "path": "us-fbi-ncic-cyber-incident-2026.json",
+      "title": "미국 FBI 국가범죄정보센터 해킹 의혹"
+    },
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "russia-ukraine-baltic-maritime-conflict-2026",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "발트해에서 러시아 화물선이 드론 공격을 받았다는 발표가 나왔고 핀란드 정부가 선박 화재와 영해 표류를 확인했습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "보도",
+        "storyId": "baltic-russian-cargo-ship-drone-20261122",
+        "title": "발트해서 러시아 화물선 드론 피격"
+      },
+      "path": "russia-ukraine-baltic-maritime-conflict-2026.json",
+      "title": "러시아·우크라이나 전쟁의 발트해 해상 충돌"
+    },
+    {
+      "categories": [
+        "국제·사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "mexico-cartel-security-operations-2026",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "미국 FBI 10대 지명수배자였던 카르텔 두목을 멕시코군이 체포했으며 교전 과정에서 총 11명이 사망했다고 발표했습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "결과",
+        "storyId": "mexico-cartel-most-wanted-arrested-20261122",
+        "title": "멕시코군, 현상금 67억원 카르텔 두목 검거"
+      },
+      "path": "mexico-cartel-security-operations-2026.json",
+      "title": "멕시코 마약 카르텔 두목 검거 작전"
+    },
+    {
+      "categories": [
+        "사회·안전"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "kr-hongdae-bus-collision-2026",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "홍대입구역 인근에서 발생한 버스 돌진 사고에 대해 3중 추돌 경위와 6명 부상, 운전자의 제동장치 이상 주장이 추가 확인됐습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "후속",
+        "storyId": "hongdae-bus-three-vehicle-crash-20261122",
+        "title": "홍대입구역 버스 인도 돌진, 6명 부상"
+      },
+      "path": "kr-hongdae-bus-collision-2026.json",
+      "title": "2026년 11월 홍대입구역 버스 3중 추돌"
+    },
+    {
+      "categories": [
+        "사회·교통"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-21T09:28:57.083664+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "kr-gyeongbu-sojeongri-derailment-20261121",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "코레일이 밤샘 복구와 안전점검을 마치고 22일 첫차부터 경부선 일반열차 운행을 정상적으로 재개했습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "결과",
+        "storyId": "gyeongbu-rail-service-resumed-20261122",
+        "title": "경부선 일반열차, 첫차부터 운행 재개"
+      },
+      "path": "kr-gyeongbu-sojeongri-derailment-20261121.json",
+      "title": "2026년 11월 경부선 소정리역 화물열차 탈선"
+    },
+    {
+      "categories": [
+        "사회·부동산"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "kr-anyang-redevelopment-deposit-investigation-2026",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "경기도 점검에서 임대주택 보증금을 사용한 206억원 배당이 확인됐다는 보도가 나왔고 안양시의 수사 의뢰 방침이 전해졌습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "보도",
+        "storyId": "anyang-redevelopment-deposit-dividend-probe-20261122",
+        "title": "재개발조합, 세입자 보증금 206억원 배당 논란"
+      },
+      "path": "kr-anyang-redevelopment-deposit-investigation-2026.json",
+      "title": "안양 재개발조합 임대보증금 배당 논란"
+    },
+    {
+      "categories": [
+        "경제·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "dcent-cryptocurrency-wallet-hack-2026",
+      "lastCoveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "해킹 사고 이후 운영사가 스마트폰 앱 단독 지갑 서비스를 종료하는 수순을 안내하고 이용자들에게 자산 이전을 권고했습니다.",
+        "editionId": "2026-11-22-am",
+        "stage": "후속",
+        "storyId": "dcent-app-wallet-service-closure-20261122",
+        "title": "디센트, 해킹 피해 앱 지갑 종료 수순"
+      },
+      "path": "dcent-cryptocurrency-wallet-hack-2026.json",
+      "title": "2026년 디센트 앱 지갑 해킹 사고"
+    },
     {
       "categories": [
         "국제·경제"
@@ -106,27 +253,6 @@
       },
       "path": "kr-jincheon-electronic-anklet-escape-20261121.json",
       "title": "2026년 11월 진천 전자감독 대상자 도주"
-    },
-    {
-      "categories": [
-        "사회·교통"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-21T09:28:57.083664+09:00",
-      "firstCoveredDate": "2026-11-21",
-      "id": "kr-gyeongbu-sojeongri-derailment-20261121",
-      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "경부선 일반열차 운행 중단 이후 코레일이 밤샘 복구를 거쳐 22일 첫차부터 운행을 재개하겠다고 발표했습니다.",
-        "editionId": "2026-11-21-pm",
-        "stage": "예정",
-        "storyId": "gyeongbu-rail-service-restart-plan-20261121",
-        "title": "경부선 일반열차, 22일 첫차부터 재개 계획"
-      },
-      "path": "kr-gyeongbu-sojeongri-derailment-20261121.json",
-      "title": "2026년 11월 경부선 소정리역 화물열차 탈선"
     },
     {
       "categories": [
@@ -12555,7 +12681,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 982,
+  "storyCount": 989,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-21T21:19:20.420658+09:00"
+  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
 }

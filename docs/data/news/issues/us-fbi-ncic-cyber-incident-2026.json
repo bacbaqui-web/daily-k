@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/am.json",
+      "category": "국제·기술",
+      "change": "FBI 범죄정보망의 외부 침입 의혹에 대한 조사 소식 이후 트럼프 대통령이 사건을 보고받았다고 공개적으로 언급했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "am",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지시간 11월 20일 FBI 국가범죄정보센터의 외부 침입 정황이 보도됐고, 21일 트럼프 대통령이 인터뷰에서 보고받은 사실을 언급했습니다. 실제 침입 발생 시각은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-22-am/fbi-criminal-database-intrusion-20261122",
+      "keyFacts": {
+        "agency": "미국 연방수사국 FBI",
+        "function": "미국 연방·주·지방 수사기관의 체포영장 및 신원조회 정보 공유",
+        "incident": "외부 해커 침입 의심 정황에 대한 조사",
+        "informationLoss": "실제 정보 유출·변조 여부 미확인",
+        "presidentResponse": "트럼프 대통령이 현지시간 21일 사건을 보고받았다고 언급",
+        "relatedConcern": "미 농무부 시스템에서도 별도 사이버공격 피해 보도",
+        "system": "국가범죄정보센터 NCIC"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T06:03:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img8.yna.co.kr/photo/reuters/2026/11/21/PRU20261121093101009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T06:03:00+09:00",
+          "title": "FBI까지 해킹 피해…트럼프는 \"긍정적으로 보자\" 딴소리(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122001051071",
+          "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+        },
+        {
+          "imageUrl": "https://img7.yna.co.kr/photo/reuters/2026/10/23/PRU20261023186901009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-21T16:40:00+09:00",
+          "title": "미 FBI 범죄정보망에 외부인 침입…\"농무부도 해킹당해\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261121041400009",
+          "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "fbi-criminal-database-intrusion-20261122",
+      "summary": [
+        "미국 FBI가 전국 수사기관의 영장·신원조회 정보를 공유하는 범죄정보망에 외부 침입이 있었는지 조사하고 있습니다.",
+        "트럼프 대통령은 사건을 보고받았다고 밝혔으며, 실제 정보 유출이나 자료 훼손 여부는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "FBI 범죄정보망 해킹 의혹, 당국 조사",
+      "uncertainty": "외부 침입 의혹은 조사 중이며 공격자, 접근 범위, 실제 유출 정보와 데이터 무결성 훼손 여부는 확인되지 않았습니다. 다른 정부 전산장애와의 연관성도 확정되지 않았습니다."
+    }
+  ],
+  "id": "us-fbi-ncic-cyber-incident-2026",
+  "schemaVersion": 1,
+  "title": "미국 FBI 국가범죄정보센터 해킹 의혹",
+  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+}

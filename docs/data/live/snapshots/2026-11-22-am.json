@@ -1,0 +1,641 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-22T09:10:53.910729+09:00",
+  "id": "2026-11-22-am",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-22T09:00:00+09:00",
+      "date": "2026-11-22",
+      "edition": "am",
+      "editionId": "2026-11-22-am",
+      "events": [],
+      "generatedAt": "2026-11-22T09:06:52.658951+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-22-am",
+      "intro": "11월 22일 아침 주요 뉴스입니다. 경부선 일반열차 운행 재개와 발트해 러시아 화물선 피격, 미국 FBI 범죄정보망 해킹 의혹, 홍대입구역 버스 사고 등을 정리했습니다.",
+      "keywords": [
+        "경부선 일반열차 운행 재개",
+        "소정리역 화물열차 탈선 복구",
+        "발트해 러시아 화물선 드론 피격",
+        "FBI 국가범죄정보센터 해킹 의혹",
+        "홍대입구역 버스 인도 돌진",
+        "멕시코 카르텔 두목 검거",
+        "안양 재개발조합 206억원 배당",
+        "디센트 앱 지갑 서비스 종료"
+      ],
+      "omissionNotes": [
+        "2026-11-22T08:33:21+09:00을 이번 실행의 실제 조사 시작 시각인 researchCutoffAt으로 기록했습니다. 웹 조사 완료 시각은 2026-11-22T08:35:43+09:00입니다. cutoffAt 09:00은 발행 기준 시각이며 실제로 09:00까지 조사했다고 주장하지 않습니다. 수록한 원문의 확인된 보도·수정 시각은 모두 researchCutoffAt 이전입니다.",
+        "최근 7일 이력 확인을 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 실제 접근했고 목록을 읽었습니다. 해당 인덱스에는 2026-11-21-am 4건, 2026-11-20-pm 7건, 2026-11-20-am 9건 등 이전 회차 정보가 표시됐으며 가장 최근 항목은 2026-11-21-am이었습니다. 2026-11-21-pm은 확인 당시 인덱스에 표시되지 않았습니다.",
+        "최근 7일 개별 JSON 파일 읽기를 시도했지만 https://bacbaqui-web.github.io/daily-k/data/news/2026-11-21/am.json 및 2026-11-20/pm.json, 2026-11-20/am.json 의 웹 접근에 오류가 발생했습니다. GitHub 저장소를 통한 대체 읽기에서도 해당 파일을 찾지 못했습니다. 따라서 실제 발행본의 대표·추가·예비 기사 전체 비교는 완료되지 않았습니다. 수신 측은 최근 7일 개별 발행 JSON을 다시 읽고 중복, 최신 후속 식별자, 예비 기사 관련 reserveUpdate 적용 여부를 반드시 재검사해야 합니다.",
+        "현재 대화에 남아 있는 2026-11-21-pm 예약 원고의 경부선 운행 재개 계획, 수능 포상금 기준, 호르무즈 해협 피격 신고, 조희대 대법원장 탄핵안 발의 시점 논의, 태안 해광호 수색, 진천 전자발찌 훼손 도주, 대만 공매도 제한 강화, 국가자격시험 감독 강화, 평창 공기총 사망 사고와 2026-11-21-am 및 2026-11-20-pm 원고를 비교했습니다. 확정된 새 사실이 없는 반복 기사는 제외했습니다.",
+        "경부선 기사는 21일 오후 운행 재개 계획에서 22일 실제 정상 운행 재개로 바뀐 결과이므로 포함했습니다. followUp.storyId와 timeline.issueId 및 issueTitle은 현재 대화의 전날 원고를 재사용했습니다. 실제 발행 JSON과의 일치 여부는 수신 측 검사가 필요합니다.",
+        "홍대입구역 버스 사고는 21일 저녁 발생했지만 22일 오전 보도에서 구체적인 3중 추돌 경위와 운전자 진술이 추가 확인돼 포함했습니다. 21일 오후 실제 발행본에 이미 동일 사고가 수록됐는지 개별 JSON으로 확인하지 못했으므로 수신 측이 중복 여부를 검사해야 합니다.",
+        "미국 FBI 정보망 침입 의혹은 21일 처음 보도됐고 22일 새벽에는 트럼프 대통령이 보고받았다고 말한 사실이 확인됐습니다. 범죄정보 데이터베이스가 실제로 유출 또는 변조됐다고 단정하지 않았으며, 전날 발행본의 예비 기사에 들어갔는지는 확인하지 못했습니다.",
+        "발트해 러시아 화물선 드론 공격은 러시아 당국의 공격 발표와 핀란드 정부의 선박 화재·표류 확인을 구분했습니다. 핀란드군 관계자가 우크라이나 배후 가능성을 언급했지만 실제 공격 주체는 미확정입니다.",
+        "멕시코 마약조직 두목 체포 기사에서는 멕시코 당국이 발표한 체포 인원과 사망자 11명을 사용했습니다. 검거된 인물의 범죄 혐의가 최종 판결로 확정됐다는 표현은 피했습니다.",
+        "YTN의 안양 재개발조합 자금 집행 단독보도는 206억원의 배당과 경기도 점검 결과, 수사 의뢰 방침이라는 구체적인 새 사실이 있어 포함했습니다. 독립적인 두 번째 원문을 확인하지 못했다는 한계를 sourceCheck에 명시했습니다. 전 조합장의 형사책임을 확정하지 않았습니다.",
+        "디센트 앱 지갑 기사는 9월 해킹 피해 이후 11월 22일 서비스 종료 수순이 새로 확인됐다는 점에서 포함했습니다. 전체 디센트 서비스가 종료되는 것이 아니며 하드웨어 지갑 연결 기능은 유지됩니다. 실제 종료일과 전체 피해액은 미확정입니다.",
+        "주요 제외 후보로 트럼프 대통령의 이란과 영구 핵합의 추진 발언을 확인했습니다. 연합뉴스 2026년 11월 22일 02시 08분 원문 https://www.yna.co.kr/view/AKR20261122001000071 에 근거하지만 실제 합의 타결 또는 새로운 공식 협상 일정이 확정된 것은 아니어서 전날 대이란 발언의 반복을 피했습니다.",
+        "전국 영하권 추위와 강원 평창 봉평의 영하 13.9도 관측, 강릉 상가주택 화재로 1명 사망, 충남 서산 돈사 화재, 이번 주 코스피 전망과 한미 금리 일정도 조사했습니다. 추위는 전날부터 이어진 상황이고 개별 화재는 다른 주요 사안과 비교해 영향 범위가 제한적이며, 주간 증시 전망은 새로 확정된 경제지표가 아니어서 독립 기사로 선정하지 않았습니다.",
+        "국내 수능·AI 부정행위 후속 감독 논란, 조희대 탄핵 추진, 태안 해광호 실종 수색, 호르무즈 피격, 미국 증시 급락은 기존 회차의 내용과 겹치는 부분이 많아 별도로 반복하지 않았습니다. 추가로 확인한 새 결정이나 결과가 없는 의견·해설 기사는 제외했습니다.",
+        "이번 조사에서 연합뉴스, SBS 최신뉴스와 22일 오전 기사, YTN 최신뉴스 및 주요기사, MBC 아침뉴스 등을 비교했습니다. 복수 언론사의 원문에서 중요한 사건을 교차 확인했으며 종이신문 전체 1면을 모두 확인한 것은 아닙니다.",
+        "각 기사 원문에서 확인한 사실과 당사자 주장·추정·조사 중인 내용을 구분했습니다. 원문의 og:image 또는 twitter:image에서 현재 기사에 연결할 정확한 HTTPS 사진 주소를 확인하지 못해 imageUrl은 모두 null로 기록했습니다. 사진 메타데이터 미확인과 기사 사실 확인 실패는 별개입니다.",
+        "오늘 11월 22일에 발생할 중요한 공식 일정 가운데 정확한 근거를 확인해 새로 수록할 항목이 없어 events는 빈 배열로 두었습니다. 이번 주 예정된 기준금리 결정이나 23일 철도노조 관련 계획은 오늘 일정으로 넣지 않았습니다.",
+        "scoreComponents.importance는 실제 이야기 배열 순서가 발행기의 내림차순 정렬에서도 유지되도록 100부터 94까지 서로 다른 정수로 지정했습니다. 발행 검증 해시, operationId, 승인 여부는 기록하지 않았고 GitHub·홈페이지·Discord에 직접 게시하거나 새 파일·예약을 생성하지 않았습니다."
+      ],
+      "overview": [
+        "경부선 일반열차가 밤샘 복구 끝에 운행을 재개했고, 발트해에서는 러시아 화물선이 드론 공격을 받아 핀란드 영해로 표류했습니다.",
+        "미국 FBI 핵심 정보망에 대한 해킹 의혹이 제기됐으며, 서울에서는 버스 3중 추돌로 6명이 다치고 멕시코에서는 대형 마약조직 두목이 체포됐습니다."
+      ],
+      "researchCompletedAt": "2026-11-22T08:35:43+09:00",
+      "researchCutoffAt": "2026-11-22T08:33:21+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "22일 첫차부터 정상 운행",
+            "오전 6시 10분께부터"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 22일 첫차부터 경부선 일반열차 운행이 재개됐습니다. 코레일에 따르면 오전 6시 10분께부터 열차가 소정리역 사고 구간을 정상 통과했습니다.",
+          "factsHash": "ff953a3c3827479ab663ab39e9a6e466058099d901ef18e3e06e5200117098b7",
+          "followUp": {
+            "delta": "21일 저녁에는 22일 첫차 운행 재개가 계획 단계였으나, 22일 오전 복구와 안전점검을 마치고 실제 운행이 시작됐습니다.",
+            "editionId": "2026-11-21-pm",
+            "storyId": "gyeongbu-rail-service-restart-plan-20261121"
+          },
+          "id": "gyeongbu-rail-service-resumed-20261122",
+          "keyFacts": {
+            "casualties": "탈선 사고 인명 피해 없음",
+            "derailment": "화물열차 21량 중 5량 탈선",
+            "firstPassage": "오전 6시 10분께부터 소정리역 구간 정상 통과",
+            "incidentDate": "2026년 11월 21일 오전 5시 37분께",
+            "location": "세종시 소정리역",
+            "restoration": "코레일 복구 인력 180명 투입, 밤샘 복구 및 안전점검 완료",
+            "serviceRestart": "2026년 11월 22일 첫차부터 일반열차 운행 재개"
+          },
+          "publishedAt": "2026-11-22T07:28:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243134_1280.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-11-22T07:16:00+09:00",
+              "title": "코레일 \"이탈 열차 운행 중단, 첫 열차부터 재개\"",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857285",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            },
+            {
+              "imageUrl": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/22/today_20261122_070616_1_3_Large.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-22T07:06:00+09:00",
+              "title": "홍대입구역 인근 3중 추돌‥경부선 첫차 운행 재개",
+              "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867543_37012.html",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261122005400063",
+          "score": 99.15,
+          "scoreComponents": {
+            "domesticImpact": 99,
+            "importance": 100,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "전날 국내 주요 철도 노선의 운행 중단이 실제 복구와 운행 재개로 바뀐 결과이며 이용객에게 직접 필요한 정보입니다.",
+          "sourceCheck": "연합뉴스 07시 28분 원문에서 코레일의 실제 운행 재개 발표와 오전 6시 10분께 정상 통과, 사고 규모, 복구 인력 180명을 확인했습니다. SBS 07시 16분 입력·08시 05분 수정 기사에서도 밤샘 복구와 안전점검을 마치고 운행을 재개했다고 보도했습니다. 전날 발표된 운행 재개 계획을 실제 완료된 결과로 갱신했습니다. 사진 메타데이터는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112102780006300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T07:28:00+09:00",
+              "title": "코레일 \"경부선 일반열차 운행 정상적으로 재개\"",
+              "url": "https://www.yna.co.kr/view/AKR20261122005400063",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코레일은 소정리역 화물열차 탈선으로 중단됐던 경부선 천안~대전 일반열차가 22일 첫차부터 정상 운행 중이라고 밝혔습니다.",
+            "밤샘 복구와 안전점검을 마쳤고 오전 6시 10분께부터 열차가 사고 구간을 통과했습니다."
+          ],
+          "timeline": {
+            "change": "코레일이 밤샘 복구와 안전점검을 마치고 22일 첫차부터 경부선 일반열차 운행을 정상적으로 재개했습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-gyeongbu-sojeongri-derailment-20261121",
+            "issueTitle": "2026년 11월 경부선 소정리역 화물열차 탈선",
+            "stage": "결과"
+          },
+          "title": "경부선 일반열차, 첫차부터 운행 재개",
+          "topicKey": "kr-gyeongbu-line-rail-derailment",
+          "uncertainty": "운행 재개는 확인됐지만 탈선의 최종 원인과 사고 조사 결과는 아직 확인되지 않았습니다.",
+          "whatChanged": "21일 저녁에는 22일 첫차 운행 재개가 계획 단계였으나, 22일 오전 복구와 안전점검을 마치고 실제 운행이 시작됐습니다.",
+          "whyItMatters": "경부선 일반열차 이용객의 이동 차질을 일으켰던 사고 구간에서 열차 운행이 재개됐습니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "드론 2대에 공격",
+            "선박 화재와 자국 영해 표류"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 21일 현지시간 발트해 핀란드만 공해상에서 발생한 사건입니다. 정확한 피격 시각은 확인되지 않았습니다.",
+          "factsHash": "3307ada24c8d1b97316c6bb104e3650e75b865972c2a5137c3b8f5a8179cd6bc",
+          "id": "baltic-russian-cargo-ship-drone-20261122",
+          "keyFacts": {
+            "attackClaim": "러시아 레닌그라드주 주지사가 드론 2대에 의한 공격 발표",
+            "cargo": "군수물자 적재 여부 미확인",
+            "confirmedByFinland": "핀란드 정부가 선박 화재 및 핀란드 영해로 표류한 사실 확인",
+            "damage": "전체 피해 규모 및 선원 피해 최종 확인 불가",
+            "location": "발트해 핀란드만 공해상",
+            "owner": "러시아 국방부 산하 해운업체 오보론로지스티카",
+            "suspectedAttacker": "핀란드 국방군 관계자가 우크라이나 배후 가능성 언급",
+            "vessel": "스파르타Ⅱ호"
+          },
+          "publishedAt": "2026-11-22T02:24:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243132_1280.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-11-22T07:19:00+09:00",
+              "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857286",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261121051951099",
+          "score": 93.35,
+          "scoreComponents": {
+            "domesticImpact": 78,
+            "importance": 99,
+            "interest": 95,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "러시아와 유럽 주변국의 해상 안보에 영향을 미치는 새로운 군사 사건이며 러시아와 핀란드 당국의 발표가 확인됐습니다.",
+          "sourceCheck": "연합뉴스 02시 24분 원문에서 러시아 당국의 드론 공격 발표, 핀란드 정부의 화재·표류 확인, 스파르타Ⅱ호의 소유 관계와 우크라이나 배후 가능성을 확인했습니다. SBS 07시 19분 보도도 같은 사건을 다뤘습니다. 실제 공격 주체와 화물 내용은 확인되지 않아 주장과 확인 사실을 구분했습니다. 원문 사진의 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img8.yna.co.kr/photo/ap/2026/11/22/PAP20261122023901009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T02:24:00+09:00",
+              "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"(종합)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261121051951099",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "러시아 당국은 21일 발트해 핀란드만에서 자국 화물선 스파르타Ⅱ호가 드론 2대에 공격받았다고 밝혔습니다.",
+            "핀란드 정부도 선박 화재와 자국 영해 표류를 확인했으며 우크라이나의 공격 여부는 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "발트해에서 러시아 화물선이 드론 공격을 받았다는 발표가 나왔고 핀란드 정부가 선박 화재와 영해 표류를 확인했습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Helsinki",
+            "issueId": "russia-ukraine-baltic-maritime-conflict-2026",
+            "issueTitle": "러시아·우크라이나 전쟁의 발트해 해상 충돌",
+            "stage": "보도"
+          },
+          "title": "발트해서 러시아 화물선 드론 피격",
+          "topicKey": "russia-ukraine-baltic-maritime-conflict",
+          "uncertainty": "핀란드군 관계자는 우크라이나가 배후일 가능성을 제기했지만 공격 주체는 확정되지 않았습니다. 실제 적재 화물과 전체 피해 규모도 확인되지 않았습니다.",
+          "whatChanged": "러시아 국방부 산하 해운업체 소유 화물선이 발트해에서 드론 공격을 받았다는 발표가 나왔고, 핀란드 정부가 화재와 영해 표류를 확인했습니다.",
+          "whyItMatters": "러시아와 우크라이나 간 무력 충돌이 발트해 선박 안전에도 영향을 주면서 유럽 주변국의 안보 긴장이 커지고 있습니다."
+        },
+        {
+          "category": "국제·기술",
+          "emphasis": [
+            "범죄정보망에 외부 침입",
+            "정보 유출이나 자료 훼손 여부는 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지시간 11월 20일 FBI 국가범죄정보센터의 외부 침입 정황이 보도됐고, 21일 트럼프 대통령이 인터뷰에서 보고받은 사실을 언급했습니다. 실제 침입 발생 시각은 확인되지 않았습니다.",
+          "factsHash": "edadfe93567fdb3ea65cf8ed7b152dd554a32807323a6aeb23e01e2d913758b1",
+          "fallbackNote": "21일 처음 보도된 침입 의혹에 대해 22일 오전에는 미국 대통령이 사건을 보고받았다는 추가 사실이 확인돼 포함했습니다.",
+          "id": "fbi-criminal-database-intrusion-20261122",
+          "keyFacts": {
+            "agency": "미국 연방수사국 FBI",
+            "function": "미국 연방·주·지방 수사기관의 체포영장 및 신원조회 정보 공유",
+            "incident": "외부 해커 침입 의심 정황에 대한 조사",
+            "informationLoss": "실제 정보 유출·변조 여부 미확인",
+            "presidentResponse": "트럼프 대통령이 현지시간 21일 사건을 보고받았다고 언급",
+            "relatedConcern": "미 농무부 시스템에서도 별도 사이버공격 피해 보도",
+            "system": "국가범죄정보센터 NCIC"
+          },
+          "publishedAt": "2026-11-22T06:03:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/11/21/yen_20261121_22.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-21T13:32:00+09:00",
+              "title": "FBI 범죄정보망도 해킹 의혹‥美 수사당국 조사 착수",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6867465_36925.html",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261122001051071",
+          "score": 92.75,
+          "scoreComponents": {
+            "domesticImpact": 77,
+            "importance": 98,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 96
+          },
+          "scoreReason": "미국의 핵심 범죄정보 시스템에 대한 보안 사고 의혹으로 공적 영향이 크지만 침입 범위와 실제 피해가 조사 중이라는 한계가 있습니다.",
+          "sourceCheck": "연합뉴스 21일 16시 40분 기사에서 FBI NCIC 침입 의혹과 조사 진행, 미국 농무부의 별도 사이버공격 보도를 확인했습니다. MBC 21일 13시 32분 기사에서도 NCIC 침입 정황을 확인했습니다. 연합뉴스 22일 06시 03분 종합기사에서 트럼프 대통령이 사건을 보고받았다고 밝힌 사실을 추가 확인했습니다. 해킹 성공과 실제 자료 유출·변조를 확정하지 않았으며 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img8.yna.co.kr/photo/reuters/2026/11/21/PRU20261121093101009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T06:03:00+09:00",
+              "title": "FBI까지 해킹 피해…트럼프는 \"긍정적으로 보자\" 딴소리(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261122001051071",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            },
+            {
+              "imageUrl": "https://img7.yna.co.kr/photo/reuters/2026/10/23/PRU20261023186901009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T16:40:00+09:00",
+              "title": "미 FBI 범죄정보망에 외부인 침입…\"농무부도 해킹당해\"(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261121041400009",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "미국 FBI가 전국 수사기관의 영장·신원조회 정보를 공유하는 범죄정보망에 외부 침입이 있었는지 조사하고 있습니다.",
+            "트럼프 대통령은 사건을 보고받았다고 밝혔으며, 실제 정보 유출이나 자료 훼손 여부는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "FBI 범죄정보망의 외부 침입 의혹에 대한 조사 소식 이후 트럼프 대통령이 사건을 보고받았다고 공개적으로 언급했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "us-fbi-ncic-cyber-incident-2026",
+            "issueTitle": "미국 FBI 국가범죄정보센터 해킹 의혹",
+            "stage": "후속"
+          },
+          "title": "FBI 범죄정보망 해킹 의혹, 당국 조사",
+          "topicKey": "us-government-cybersecurity-incidents",
+          "uncertainty": "외부 침입 의혹은 조사 중이며 공격자, 접근 범위, 실제 유출 정보와 데이터 무결성 훼손 여부는 확인되지 않았습니다. 다른 정부 전산장애와의 연관성도 확정되지 않았습니다.",
+          "whatChanged": "미국 FBI의 핵심 범죄정보 데이터베이스 침입 의혹이 제기된 뒤 트럼프 대통령이 해당 사건을 보고받았다고 공개적으로 밝혔습니다.",
+          "whyItMatters": "FBI의 국가범죄정보센터는 미국 전역의 수사기관이 사용하는 정보망으로, 자료 유출이나 훼손이 발생했다면 법 집행과 정보 보안에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·안전",
+          "emphasis": [
+            "버스 1대가 인도로 돌진",
+            "승객 6명이 경상을 입었고"
+          ],
+          "eventAt": "2026-11-21T18:56:00+09:00",
+          "eventTimeNote": "2026년 11월 21일 오후 6시 56분께 서울 마포구 홍대입구역 1번 출구 인근에서 발생했습니다. 22일 오전 보도에서 사고 경위와 운전자 진술 등이 추가 확인됐습니다.",
+          "factsHash": "cfb79d4451644916fa2d0b1912f3cbe68b38a6d350a8efdbe4cdd8c53d9a35a7",
+          "fallbackNote": "21일 저녁 사고를 22일 아침에 새로 확인된 구체적인 충돌 경위와 원인 조사 상황 중심으로 포함했습니다.",
+          "id": "hongdae-bus-three-vehicle-crash-20261122",
+          "keyFacts": {
+            "driverClaim": "운전자가 브레이크 작동 불량 주장",
+            "incidentAt": "2026-11-21T18:56:00+09:00",
+            "injuries": "버스 승객 6명 경상 및 병원 이송",
+            "location": "서울 마포구 홍대입구역 1번 출구 인근",
+            "pedestrianArea": "버스 1대가 인도로 진입해 구조물 파손",
+            "pedestrians": "버스가 침범한 인도에서 보행자 피해는 확인되지 않음",
+            "policeInvestigation": "블랙박스 및 주변 CCTV 분석 예정",
+            "vehicles": "시내버스 2대와 승용차 1대의 3중 추돌"
+          },
+          "publishedAt": "2026-11-22T07:15:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img0.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121049100004_01_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-21T19:56:00+09:00",
+              "title": "홍대입구역에서 버스 인도 돌진…6명 경상 입어",
+              "url": "https://www.yna.co.kr/view/AKR20261121049100004",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            },
+            {
+              "imageUrl": "https://www.imaeil.com/photos/2026/11/21/2026112120235933594_l.png",
+              "kind": "news",
+              "language": "ko",
+              "name": "매일신문",
+              "publishedAt": "2026-11-21T20:24:46+09:00",
+              "title": "서울 홍대입구역 인근서 버스 인도 돌진…6명 부상",
+              "url": "https://www.imaeil.com/page/view/2026112120220763001",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857284",
+          "score": 96.0,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 97,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "보행자가 많은 도심에서 버스가 인도로 돌진해 다수의 승객이 다친 안전 사고이며 추가 사고 경위가 확인됐습니다.",
+          "sourceCheck": "SBS 22일 07시 15분 입력·08시 05분 수정 원문에서 3중 추돌, 인도 돌진, 승객 6명 경상, 운전자 진술 및 경찰 조사 계획을 확인했습니다. 연합뉴스 21일 19시 56분 원문에서 사고 시각과 부상자를 확인했습니다. 운전자의 브레이크 고장 주장은 조사 결과로 확정하지 않았습니다. 사진 주소는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243137_1280.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-11-22T07:15:00+09:00",
+              "title": "'쾅' 순식간에 인도 덮쳤다…승객 6명 병원 이송",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857284",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "21일 저녁 서울 홍대입구역 근처에서 버스 2대와 승용차가 추돌해 버스 1대가 인도로 돌진했습니다.",
+            "승객 6명이 경상을 입었고, 운전자는 브레이크가 작동하지 않았다고 주장했지만 정확한 원인은 조사 중입니다."
+          ],
+          "timeline": {
+            "change": "홍대입구역 인근에서 발생한 버스 돌진 사고에 대해 3중 추돌 경위와 6명 부상, 운전자의 제동장치 이상 주장이 추가 확인됐습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-hongdae-bus-collision-2026",
+            "issueTitle": "2026년 11월 홍대입구역 버스 3중 추돌",
+            "stage": "후속"
+          },
+          "title": "홍대입구역 버스 인도 돌진, 6명 부상",
+          "topicKey": "kr-hongdae-bus-collision-2026",
+          "uncertainty": "브레이크가 작동하지 않았다는 설명은 운전자의 주장입니다. 차량 결함이나 운전자 과실 등 사고 원인은 아직 확정되지 않았습니다.",
+          "whatChanged": "21일 저녁 발생한 버스 돌진 사고에 대해 22일 오전 보도에서 3중 추돌 경위, 승객 6명 부상, 운전자의 제동장치 이상 주장과 경찰의 조사 계획이 구체적으로 전해졌습니다.",
+          "whyItMatters": "보행자가 많은 도심에서 대형 버스가 인도로 돌진한 사고로, 차량 결함 여부와 운전 경위에 대한 조사가 필요합니다."
+        },
+        {
+          "category": "국제·사회",
+          "emphasis": [
+            "현상금 약 67억원",
+            "11명이 숨졌습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "멕시코군은 현지시간 11월 20일 밤부터 시날로아주에서 군사작전을 진행했고 21일 검거 사실을 발표했습니다. 정확한 체포 시각은 확인되지 않았습니다.",
+          "factsHash": "71d81b9a4556b3a0654a7fc8d857ae20ae928302cdddc9d829540c69c3715312",
+          "id": "mexico-cartel-most-wanted-arrested-20261122",
+          "keyFacts": {
+            "arrests": "두목과 조직 내 2인자 등 8명 체포",
+            "fatalities": "멕시코 군인 4명과 마약조직원 7명 등 11명 사망",
+            "operationLocation": "멕시코 시날로아주",
+            "organization": "과사베 카르텔",
+            "reward": "500만달러, 보도 환산액 약 67억원",
+            "suspect": "파우스토 이시드로 메사 플로레스, 별칭 차포 이시드로",
+            "usAssistance": "미국 정부의 정보 지원이 있었다고 보도",
+            "wantedBy": "미국 FBI 10대 지명수배자 명단"
+          },
+          "publishedAt": "2026-11-22T04:50:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243135_1280.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-11-22T06:01:00+09:00",
+              "title": "멕시코군, 미국 10대 지명수배자 명단 오른 마약 카르텔 두목 검거",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857217",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261122000451087",
+          "score": 88.45,
+          "scoreComponents": {
+            "domesticImpact": 63,
+            "importance": 96,
+            "interest": 93,
+            "recency": 100,
+            "reliability": 98
+          },
+          "scoreReason": "국제 마약조직 단속에서 주요 피의자 검거와 다수의 사망자가 발생한 새 사건으로 복수 언론사의 보도가 확인됐습니다.",
+          "sourceCheck": "연합뉴스 04시 50분 종합기사에서 멕시코군의 체포 발표, 피의자 신원, 8명 체포, 11명 사망, 현상금 500만달러를 확인했습니다. SBS 06시 01분 입력·06시 41분 수정 기사에서도 동일한 작전 결과를 확인했습니다. 멕시코 당국 발표와 최종 형사재판 결과를 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/etc/inner/KR/2026/11/22/AKR20261122000451087_01_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T04:50:00+09:00",
+              "title": "멕시코군, 美 10대 지명수배자 명단 오른 카르텔 두목 검거(종합)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261122000451087",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "멕시코군이 미국 정부가 현상금 약 67억원을 걸었던 마약 카르텔 두목 '차포 이시드로'를 체포했다고 발표했습니다.",
+            "체포 과정에서 총격전이 벌어져 멕시코 군인 4명과 조직원 7명 등 11명이 숨졌습니다."
+          ],
+          "timeline": {
+            "change": "미국 FBI 10대 지명수배자였던 카르텔 두목을 멕시코군이 체포했으며 교전 과정에서 총 11명이 사망했다고 발표했습니다.",
+            "eventDate": "2026-11-21",
+            "eventEndDate": null,
+            "eventTimezone": "America/Mazatlan",
+            "issueId": "mexico-cartel-security-operations-2026",
+            "issueTitle": "멕시코 마약 카르텔 두목 검거 작전",
+            "stage": "결과"
+          },
+          "title": "멕시코군, 현상금 67억원 카르텔 두목 검거",
+          "topicKey": "mexico-cartel-security-operations",
+          "uncertainty": "체포 및 사망자 수는 멕시코 당국의 발표와 이를 인용한 보도 기준입니다. 범죄 혐의에 대한 최종 법원 판단은 별개의 절차입니다.",
+          "whatChanged": "미국 FBI 10대 지명수배자 명단에 올라 있던 마약조직 두목과 조직원들이 멕시코군의 작전으로 체포됐으며 교전 과정에서 사망자가 발생했습니다.",
+          "whyItMatters": "미국으로의 마약 밀반입과 관련된 주요 범죄조직 두목의 검거로, 멕시코·미국 간 마약조직 단속 및 국경 안보 문제에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·부동산",
+          "emphasis": [
+            "206억원을 지급",
+            "경찰에 수사 의뢰하기로"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "조합원 지급은 2025년 초에 이뤄졌고 경기도 점검은 2026년 5월 진행됐습니다. 수사 의뢰 방침은 11월 22일 YTN 단독보도로 확인됐으나 정확한 결정일은 확인되지 않았습니다.",
+          "factsHash": "c10ec856a04cdc381a19a1a5e121feab4a80adc95ceaec93960c7517ff0735ac",
+          "id": "anyang-redevelopment-deposit-dividend-probe-20261122",
+          "keyFacts": {
+            "administrativeAction": "안양시가 전 조합장을 도시정비법 위반 혐의로 경찰에 수사 의뢰하기로 함",
+            "audit": "경기도 점검에서 총회 의결 생략 및 임대보증금 사용 확인",
+            "location": "경기도 안양 재개발아파트 조합",
+            "paidAmount": "206억원",
+            "paidMembers": "867명",
+            "remainingAssets": "2026년 3월 기준 123억원",
+            "remainingExpectedPayment": "174억원",
+            "response": "전 조합장은 지급 절차가 적법했다고 반박",
+            "totalMembers": "조합원 1,668명",
+            "unpaidMembers": "801명"
+          },
+          "publishedAt": "2026-11-22T07:47:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1122/202611220747296256_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-22T07:47:00+09:00",
+              "title": "[단독] 해임 막으려 206억 유용?...전 재개발조합장 수사 의뢰",
+              "url": "https://www.ytn.co.kr/_ln/0103_202611220747296256",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.ytn.co.kr/_ln/0103_202611220747296256",
+          "score": 93.7,
+          "scoreComponents": {
+            "domesticImpact": 89,
+            "importance": 95,
+            "interest": 89,
+            "recency": 100,
+            "reliability": 93
+          },
+          "scoreReason": "주거 관련 자금 206억원과 다수 조합원에게 영향을 주는 행정 점검 및 수사 의뢰 사안이지만 현재 확인된 보도는 단일 언론사의 단독 기사입니다.",
+          "sourceCheck": "YTN 07시 47분 단독 원문에서 조합원 867명에게 206억원 지급, 경기도 점검에서 총회 의결 생략 및 임대보증금 사용을 확인했다는 내용, 안양시 수사 의뢰 방침과 당사자 반박을 확인했습니다. 독립된 두 번째 원문은 확보하지 못했습니다. 행정 점검 결과와 형사책임의 확정을 구분했으며 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1122/202611220747296256_t.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-22T07:47:00+09:00",
+              "title": "[단독] 해임 막으려 206억 유용?...전 재개발조합장 수사 의뢰",
+              "url": "https://www.ytn.co.kr/_ln/0103_202611220747296256",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "경기도 점검에서 안양 재개발조합이 총회 의결 없이 임대주택 세입자 보증금으로 조합원 867명에게 206억원을 지급한 사실이 드러났다고 YTN이 보도했습니다.",
+            "안양시는 전 조합장을 경찰에 수사 의뢰하기로 했으며 당사자는 지급 절차가 적법했다고 반박했습니다."
+          ],
+          "timeline": {
+            "change": "경기도 점검에서 임대주택 보증금을 사용한 206억원 배당이 확인됐다는 보도가 나왔고 안양시의 수사 의뢰 방침이 전해졌습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "kr-anyang-redevelopment-deposit-investigation-2026",
+            "issueTitle": "안양 재개발조합 임대보증금 배당 논란",
+            "stage": "보도"
+          },
+          "title": "재개발조합, 세입자 보증금 206억원 배당 논란",
+          "topicKey": "kr-redevelopment-association-fund-management",
+          "uncertainty": "YTN이 보도한 행정 점검 결과와 수사 의뢰 방침은 확인됐지만 전 조합장의 형사책임은 확정되지 않았습니다. 당사자는 적법한 절차를 거쳤다고 반박했습니다.",
+          "whatChanged": "재개발조합이 총회 의결 없이 세입자 보증금을 배당금 재원으로 사용했다는 경기도 점검 결과와 안양시의 경찰 수사 의뢰 방침이 새로 보도됐습니다.",
+          "whyItMatters": "재개발사업의 임대보증금 관리와 조합원 간 배당 형평성, 도시정비사업 자금 집행의 적법성에 관한 문제입니다."
+        },
+        {
+          "category": "경제·기술",
+          "emphasis": [
+            "앱 단독 지갑 서비스를 종료",
+            "해킹 원인과 전체 피해 규모는 아직 확인하지 못했습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 9월 16일 해킹 피해가 알려졌고 11월 22일 앱 단독 지갑 서비스 종료 수순이 보도됐습니다. 운영사가 최초 종료 안내를 게시한 정확한 시각과 최종 서비스 종료일은 확인되지 않았습니다.",
+          "factsHash": "c559e4d7a9ce74a8181d2ef972de9352b259ee8db9bd0274947f1203bf732cdd",
+          "id": "dcent-app-wallet-service-closure-20261122",
+          "keyFacts": {
+            "company": "아이오트러스트",
+            "estimatedLoss": "XRPL.to 분석 기준 XRP 약 1,272만8천개, 약 154억원 탈취 추산",
+            "hardwareWallet": "별도 하드웨어 지갑 연결·관리 기능은 계속 제공",
+            "investigation": "KISA 및 수사기관과 사고 원인 조사 진행",
+            "newDevelopment": "앱 단독 지갑 서비스 종료 수순 안내",
+            "securityIncident": "2026년 9월 16일 무단 자산 이전 피해 접수",
+            "service": "디센트 DCENT 앱 단독 소프트웨어 지갑",
+            "totalLoss": "다른 가상자산을 포함한 전체 피해 규모 미확정",
+            "userNotice": "이용자에게 다른 지갑으로 자산 이전 안내"
+          },
+          "publishedAt": "2026-11-22T05:59:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121047900002_04_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T05:59:00+09:00",
+              "title": "'해킹 피해' 디센트, 가상자산 앱 지갑 서비스 종료 수순",
+              "url": "https://www.yna.co.kr/view/AKR20261121047900002",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261121047900002",
+          "score": 90.65,
+          "scoreComponents": {
+            "domesticImpact": 77,
+            "importance": 94,
+            "interest": 88,
+            "recency": 100,
+            "reliability": 97
+          },
+          "scoreReason": "국내 이용자가 있는 가상자산 지갑 서비스의 종료 수순이 새로 확인됐으며 자산 관리에 직접적인 영향을 주지만 전체 이용자 규모와 피해액은 미확정입니다.",
+          "sourceCheck": "연합뉴스 05시 59분 원문에서 앱 단독 지갑의 종료 수순, 하드웨어 지갑 기능 유지, 이용자 자산 이전 안내와 피해 규모 미확인을 확인했습니다. XRP 피해 추산은 외부 분석기관의 계산으로 전체 피해액이 아닙니다. 관련 독립 후속 원문은 추가로 확인하지 못했습니다. 해킹의 정확한 원인과 최종 종료일을 만들어 넣지 않았으며 사진 주소도 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121047900002_04_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T05:59:00+09:00",
+              "title": "'해킹 피해' 디센트, 가상자산 앱 지갑 서비스 종료 수순",
+              "url": "https://www.yna.co.kr/view/AKR20261121047900002",
+              "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "가상자산 지갑 업체 디센트가 해킹 피해 이후 스마트폰 앱 단독 지갑 서비스를 종료하는 절차에 들어갔다고 밝혔습니다.",
+            "운영사는 이용자에게 자산 이전을 안내했으며, 하드웨어 지갑 연결 기능은 유지하고 해킹 원인과 전체 피해 규모는 아직 확인하지 못했습니다."
+          ],
+          "timeline": {
+            "change": "해킹 사고 이후 운영사가 스마트폰 앱 단독 지갑 서비스를 종료하는 수순을 안내하고 이용자들에게 자산 이전을 권고했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "dcent-cryptocurrency-wallet-hack-2026",
+            "issueTitle": "2026년 디센트 앱 지갑 해킹 사고",
+            "stage": "후속"
+          },
+          "title": "디센트, 해킹 피해 앱 지갑 종료 수순",
+          "topicKey": "dcent-cryptocurrency-wallet-hack",
+          "uncertainty": "정확한 해킹 원인과 전체 피해 규모는 미확정입니다. 원인이 구형 운영체제의 난수 생성 취약점이라는 설명은 운영사가 의심하는 가능성이며 확정된 분석 결과가 아닙니다.",
+          "whatChanged": "9월부터 조사 중이던 디센트 앱 지갑 해킹 사고에 이어 운영사가 스마트폰 단독 지갑 서비스를 종료하는 절차에 들어갔다는 사실이 새로 확인됐습니다.",
+          "whyItMatters": "해당 앱 지갑의 이용자는 보유 자산의 안전과 향후 서비스 이용 방식에 직접 영향을 받으며, 해킹 원인과 피해 규모도 아직 특정되지 않았습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-22T09:10:53.910729+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "5c4906f0eda307c3db240fa07137715af486a22ab1f846c0b0d7a7206b5f61ee",
+  "opensAt": "2026-11-21T21:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-22T09:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

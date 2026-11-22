@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/am.json",
+      "category": "사회·부동산",
+      "change": "경기도 점검에서 임대주택 보증금을 사용한 206억원 배당이 확인됐다는 보도가 나왔고 안양시의 수사 의뢰 방침이 전해졌습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "am",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "조합원 지급은 2025년 초에 이뤄졌고 경기도 점검은 2026년 5월 진행됐습니다. 수사 의뢰 방침은 11월 22일 YTN 단독보도로 확인됐으나 정확한 결정일은 확인되지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-22-am/anyang-redevelopment-deposit-dividend-probe-20261122",
+      "keyFacts": {
+        "administrativeAction": "안양시가 전 조합장을 도시정비법 위반 혐의로 경찰에 수사 의뢰하기로 함",
+        "audit": "경기도 점검에서 총회 의결 생략 및 임대보증금 사용 확인",
+        "location": "경기도 안양 재개발아파트 조합",
+        "paidAmount": "206억원",
+        "paidMembers": "867명",
+        "remainingAssets": "2026년 3월 기준 123억원",
+        "remainingExpectedPayment": "174억원",
+        "response": "전 조합장은 지급 절차가 적법했다고 반박",
+        "totalMembers": "조합원 1,668명",
+        "unpaidMembers": "801명"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T07:47:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1122/202611220747296256_t.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-22T07:47:00+09:00",
+          "title": "[단독] 해임 막으려 206억 유용?...전 재개발조합장 수사 의뢰",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611220747296256",
+          "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "anyang-redevelopment-deposit-dividend-probe-20261122",
+      "summary": [
+        "경기도 점검에서 안양 재개발조합이 총회 의결 없이 임대주택 세입자 보증금으로 조합원 867명에게 206억원을 지급한 사실이 드러났다고 YTN이 보도했습니다.",
+        "안양시는 전 조합장을 경찰에 수사 의뢰하기로 했으며 당사자는 지급 절차가 적법했다고 반박했습니다."
+      ],
+      "supersededBy": [],
+      "title": "재개발조합, 세입자 보증금 206억원 배당 논란",
+      "uncertainty": "YTN이 보도한 행정 점검 결과와 수사 의뢰 방침은 확인됐지만 전 조합장의 형사책임은 확정되지 않았습니다. 당사자는 적법한 절차를 거쳤다고 반박했습니다."
+    }
+  ],
+  "id": "kr-anyang-redevelopment-deposit-investigation-2026",
+  "schemaVersion": 1,
+  "title": "안양 재개발조합 임대보증금 배당 논란",
+  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+}

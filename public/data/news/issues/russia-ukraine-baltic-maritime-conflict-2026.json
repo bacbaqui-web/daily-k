@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/am.json",
+      "category": "국제·안보",
+      "change": "발트해에서 러시아 화물선이 드론 공격을 받았다는 발표가 나왔고 핀란드 정부가 선박 화재와 영해 표류를 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T09:06:52.658951+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "am",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-am",
+      "eventAt": null,
+      "eventDate": "2026-11-21",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 현지시간 발트해 핀란드만 공해상에서 발생한 사건입니다. 정확한 피격 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Europe/Helsinki",
+      "followUp": null,
+      "id": "2026-11-22-am/baltic-russian-cargo-ship-drone-20261122",
+      "keyFacts": {
+        "attackClaim": "러시아 레닌그라드주 주지사가 드론 2대에 의한 공격 발표",
+        "cargo": "군수물자 적재 여부 미확인",
+        "confirmedByFinland": "핀란드 정부가 선박 화재 및 핀란드 영해로 표류한 사실 확인",
+        "damage": "전체 피해 규모 및 선원 피해 최종 확인 불가",
+        "location": "발트해 핀란드만 공해상",
+        "owner": "러시아 국방부 산하 해운업체 오보론로지스티카",
+        "suspectedAttacker": "핀란드 국방군 관계자가 우크라이나 배후 가능성 언급",
+        "vessel": "스파르타Ⅱ호"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T02:24:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img8.yna.co.kr/photo/ap/2026/11/22/PAP20261122023901009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T02:24:00+09:00",
+          "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261121051951099",
+          "verifiedAt": "2026-11-22T09:06:52.658951+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "baltic-russian-cargo-ship-drone-20261122",
+      "summary": [
+        "러시아 당국은 21일 발트해 핀란드만에서 자국 화물선 스파르타Ⅱ호가 드론 2대에 공격받았다고 밝혔습니다.",
+        "핀란드 정부도 선박 화재와 자국 영해 표류를 확인했으며 우크라이나의 공격 여부는 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "발트해서 러시아 화물선 드론 피격",
+      "uncertainty": "핀란드군 관계자는 우크라이나가 배후일 가능성을 제기했지만 공격 주체는 확정되지 않았습니다. 실제 적재 화물과 전체 피해 규모도 확인되지 않았습니다."
+    }
+  ],
+  "id": "russia-ukraine-baltic-maritime-conflict-2026",
+  "schemaVersion": 1,
+  "title": "러시아·우크라이나 전쟁의 발트해 해상 충돌",
+  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+}
