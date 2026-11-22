@@ -1,6 +1,161 @@
 {
-  "editionCount": 133,
+  "editionCount": 134,
   "issues": [
+    {
+      "categories": [
+        "사회·안전",
+        "안전"
+      ],
+      "eventCount": 4,
+      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "taean-search-2026-11",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "실종 해광호의 추정 부표를 발견한 데 이어 해경이 해저에서 탐지한 물체를 실제 해광호 선체로 확인했습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "후속",
+        "storyId": "taean-haegwangho-hull-confirmed-20261122",
+        "title": "태안 실종 어선 해광호, 수심 52m서 발견"
+      },
+      "path": "taean-search-2026-11.json",
+      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
+    },
+    {
+      "categories": [
+        "경제·노동"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "kr-retirement-age-extension-2026",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "노동부 장관이 27일 여당 특위에서도 정년연장 합의가 이뤄지지 않으면 정부가 직접 입장 발표에 나설 수 있다고 밝혔습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "검토",
+        "storyId": "retirement-age-government-position-20261122",
+        "title": "노동장관, 정년연장 합의 없으면 정부 나설 것"
+      },
+      "path": "kr-retirement-age-extension-2026.json",
+      "title": "법정 정년 65세 연장 논의"
+    },
+    {
+      "categories": [
+        "사회·교통"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-20T21:03:50.907628+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "kr-rail-labor-action-november-2026",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "철도노조가 23일 시작하려던 안전운행 투쟁을 경부선 탈선 사고의 복구 상황을 고려해 26일로 연기했습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "예정",
+        "storyId": "rail-union-action-postponed-20261122",
+        "title": "철도노조, 준법투쟁 26일로 연기"
+      },
+      "path": "kr-rail-labor-action-november-2026.json",
+      "title": "2026년 11월 철도노조 쟁의 및 열차 운행"
+    },
+    {
+      "categories": [
+        "사회·정보보안"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "kr-kepco-personal-data-breach-2026",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "한전이 두 시스템에서 약 152만명분의 개인정보 유출을 확인하고 접속 차단, 피해 안내 및 관계기관 조사를 진행하고 있다고 공개했습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "발표",
+        "storyId": "kepco-personal-data-leak-20261122",
+        "title": "한전, 개인정보 약 152만명분 유출"
+      },
+      "path": "kr-kepco-personal-data-breach-2026.json",
+      "title": "2026년 한국전력 개인정보 유출 사고"
+    },
+    {
+      "categories": [
+        "정치·교육"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "kr-education-minister-choi-resignation-2026",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "수능 부정행위 대책 혼란으로 최교진 교육부 장관이 사의를 표명했고 대통령이 이를 수락한 뒤 면직안을 재가했습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "결과",
+        "storyId": "education-minister-choi-dismissal-20261122",
+        "title": "최교진 교육부 장관 사퇴, 면직안 재가"
+      },
+      "path": "kr-education-minister-choi-resignation-2026.json",
+      "title": "최교진 교육부 장관 사퇴와 후임 인선"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "경제·증시",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 39,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "국내외 증시 급락에 대응해 정부가 증시안정펀드 가동 준비에 착수하고 자사주 매수 한도 완화와 공매도 특별 감시 방침을 발표했습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "후속",
+        "storyId": "f4-stock-stabilization-measures-20261122",
+        "title": "정부, 증시안정펀드 가동 준비 착수"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "사회",
+        "사회·교육",
+        "사회이슈",
+        "정치·교육",
+        "정치·정책"
+      ],
+      "eventCount": 11,
+      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
+      "firstCoveredDate": "2026-10-29",
+      "id": "csat-smart-glasses-cheating-response-2026",
+      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "lastCoveredDate": "2026-11-22",
+      "latest": {
+        "archive": false,
+        "change": "수능 부정행위 신고 포상금 논의에 이어 대통령이 시험지 촬영·외부 전송 방지를 위한 법적 근거 정비와 식별 표식 도입 검토를 예고했습니다.",
+        "editionId": "2026-11-22-pm",
+        "stage": "검토",
+        "storyId": "exam-paper-leak-prevention-law-review-20261122",
+        "title": "이 대통령, 시험 문제 유출 방지 법 정비 예고"
+      },
+      "path": "csat-smart-glasses-cheating-response-2026.json",
+      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
+    },
     {
       "categories": [
         "국제·기술"
@@ -171,28 +326,6 @@
     },
     {
       "categories": [
-        "사회·안전",
-        "안전"
-      ],
-      "eventCount": 3,
-      "firstCoveredAt": "2026-11-18T09:13:52.505778+09:00",
-      "firstCoveredDate": "2026-11-18",
-      "id": "taean-search-2026-11",
-      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "실종 어선의 추정 위치에서 약 300m 떨어진 해상에서 부표를 발견한 뒤 해경이 관련 여부를 확인하며 수중 수색에 착수했습니다.",
-        "editionId": "2026-11-21-pm",
-        "stage": "후속",
-        "storyId": "taean-haegwangho-buoy-underwater-search-20261121",
-        "title": "실종 어선 해광호 추정 부표 발견, 수중 수색 착수"
-      },
-      "path": "taean-search-2026-11.json",
-      "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색"
-    },
-    {
-      "categories": [
         "사회·안전"
       ],
       "eventCount": 1,
@@ -274,31 +407,6 @@
       },
       "path": "hormuz-maritime-attacks-november-2026.json",
       "title": "2026년 11월 호르무즈 해협 상선 피격"
-    },
-    {
-      "categories": [
-        "사회",
-        "사회·교육",
-        "사회이슈",
-        "정치·교육",
-        "정치·정책"
-      ],
-      "eventCount": 10,
-      "firstCoveredAt": "2026-10-29T21:14:11.761376+09:00",
-      "firstCoveredDate": "2026-10-29",
-      "id": "csat-smart-glasses-cheating-response-2026",
-      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "이재명 대통령이 수능 부정행위 신고 포상금에 관한 정부 부처의 최대 1억원 안내를 바로잡고 건당 최소 1억원 원칙을 재확인했습니다.",
-        "editionId": "2026-11-21-pm",
-        "stage": "후속",
-        "storyId": "csat-cheating-reward-minimum-20261121",
-        "title": "이 대통령, 수능 부정 신고 포상금 최소 1억 강조"
-      },
-      "path": "csat-smart-glasses-cheating-response-2026.json",
-      "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
     },
     {
       "categories": [
@@ -415,27 +523,6 @@
     },
     {
       "categories": [
-        "사회·교통"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-20T21:03:50.907628+09:00",
-      "firstCoveredDate": "2026-11-20",
-      "id": "kr-rail-labor-action-november-2026",
-      "lastCoveredAt": "2026-11-20T21:03:50.907628+09:00",
-      "lastCoveredDate": "2026-11-20",
-      "latest": {
-        "archive": false,
-        "change": "철도노조가 23일 오전 9시 준법투쟁을 예고했으며 코레일은 22일부터 비상수송대책본부를 가동하기로 했습니다.",
-        "editionId": "2026-11-20-pm",
-        "stage": "예정",
-        "storyId": "korail-industrial-action-plan-20261120",
-        "title": "철도노조 23일 준법투쟁 예고"
-      },
-      "path": "kr-rail-labor-action-november-2026.json",
-      "title": "2026년 11월 철도노조 쟁의 및 열차 운행"
-    },
-    {
-      "categories": [
         "부동산·경제"
       ],
       "eventCount": 1,
@@ -475,30 +562,6 @@
       },
       "path": "kr-democracy-merit-legislation-2026.json",
       "title": "민주유공자 예우법 입법"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "경제·증시",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 38,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-11-20T21:03:50.907628+09:00",
-      "lastCoveredDate": "2026-11-20",
-      "latest": {
-        "archive": false,
-        "change": "19일 상승 마감했던 코스피가 20일 5.21% 급락해 4,869.96으로 내려갔고 코스닥도 5.71% 하락했습니다.",
-        "editionId": "2026-11-20-pm",
-        "stage": "결과",
-        "storyId": "kospi-five-percent-drop-20261120",
-        "title": "코스피 5.21% 급락, 4,869 마감"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -12681,7 +12744,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 989,
+  "storyCount": 996,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
 }

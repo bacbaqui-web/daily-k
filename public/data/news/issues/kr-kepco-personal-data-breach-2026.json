@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/pm.json",
+      "category": "사회·정보보안",
+      "change": "한전이 두 시스템에서 약 152만명분의 개인정보 유출을 확인하고 접속 차단, 피해 안내 및 관계기관 조사를 진행하고 있다고 공개했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "pm",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "한전은 2026년 11월 20일 유출 상황을 인지했고 22일 유출 사실과 대응 현황을 공개했습니다. 최초 침입 및 실제 정보 탈취 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-22-pm/kepco-personal-data-leak-20261122",
+      "keyFacts": {
+        "affectedSystems": "한전ON 고객 서비스 플랫폼 및 전자조달시스템",
+        "combinedAffectedRecords": "두 시스템 유출 대상 합산 약 152만명분",
+        "company": "한국전력공사",
+        "exposedInformation": "주민·외국인등록번호, 성명, 주소, 계좌번호, 카드번호 등 시스템별 상이",
+        "hanjeonOnUsers": "65만487명",
+        "incidentRecognized": "2026년 11월 20일",
+        "investigation": "개인정보보호위원회 신고 및 유관기관과 원인 조사",
+        "procurementUsers": "86만9761명",
+        "response": "외부 접속 차단, 일부 서비스 중단, 피해자 통보와 비상대책 종합상황실 운영"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T19:50:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228416_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T19:50:00+09:00",
+          "title": "한전, 고객 등 개인정보 152만여 건 유출…주민·계좌번호 포함",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857929",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "전자신문",
+          "publishedAt": "2026-11-22T18:28:00+09:00",
+          "title": "한전, 개인정보 152만명분 유출…주민번호·계좌·카드번호까지",
+          "url": "https://www.etnews.com/20261122000093",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "kepco-personal-data-leak-20261122",
+      "summary": [
+        "한국전력의 한전ON과 전자조달시스템에서 이용자 개인정보 약 152만명분이 유출된 사실이 확인됐습니다.",
+        "유출 항목에는 주민등록번호와 계좌번호·카드번호 등이 포함됐으며, 한전은 접속 차단과 피해 안내 및 원인 조사를 진행하고 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "한전, 개인정보 약 152만명분 유출",
+      "uncertainty": "두 시스템의 유출 대상 인원 합산이므로 중복 이용자를 제외한 고유 피해 인원은 별도 확인이 필요합니다. 개별 정보의 정확한 유출 범위, 공격 경로 및 실제 2차 피해 규모도 조사 중입니다."
+    }
+  ],
+  "id": "kr-kepco-personal-data-breach-2026",
+  "schemaVersion": 1,
+  "title": "2026년 한국전력 개인정보 유출 사고",
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
+}

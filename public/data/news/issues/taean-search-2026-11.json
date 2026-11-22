@@ -167,10 +167,71 @@
       "supersededBy": [],
       "title": "실종 어선 해광호 추정 부표 발견, 수중 수색 착수",
       "uncertainty": "부표가 해광호 소유라는 사실은 아직 확정되지 않았습니다. 부표만으로 선박의 사고 원인이나 현재 상태를 판단할 수 없습니다."
+    },
+    {
+      "briefingPath": "2026-11-22/pm.json",
+      "category": "사회·안전",
+      "change": "실종 해광호의 추정 부표를 발견한 데 이어 해경이 해저에서 탐지한 물체를 실제 해광호 선체로 확인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "pm",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 21일 오후 7시 55분께 해저에서 선박 추정 물체를 탐지했고, 22일 정밀 탐색으로 해광호 선체임을 확인했습니다. 정확한 최종 확인 시각은 원문에서 별도로 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날 수색에서는 해광호 추정 부표가 발견된 상태였으나 22일에는 해저에서 탐지한 물체가 실제 해광호 선체라는 사실이 확인됐습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "taean-haegwangho-buoy-underwater-search-20261121"
+      },
+      "id": "2026-11-22-pm/taean-haegwangho-hull-confirmed-20261122",
+      "keyFacts": {
+        "crewStatus": "승선원 7명 실종 상태",
+        "departure": "2026년 11월 16일 오전 7시 16분 안흥외항 출항",
+        "identification": "2026년 11월 22일 해경의 정밀 탐색으로 선체 확인",
+        "location": "서격렬비열도 북서방 약 22해리 해상",
+        "missingCrew": "내국인 3명과 인도네시아 국적 선원 4명, 총 7명",
+        "missingReport": "2026년 11월 18일 오전 1시께 연락 두절 신고",
+        "relativePosition": "기존 침몰 추정 위치에서 북동쪽 약 440m",
+        "underwaterDetection": "2026년 11월 21일 오후 7시 55분께",
+        "vessel": "해광호, 7.93t 연안통발 어선",
+        "waterDepth": "수심 52m"
+      },
+      "previous": {
+        "editionId": "2026-11-21-pm",
+        "storyId": "taean-haegwangho-buoy-underwater-search-20261121"
+      },
+      "publishedAt": "2026-11-22T16:15:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/yna/YH/2026/11/22/PYH2026112201890006300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T16:15:00+09:00",
+          "title": "해경 \"해저서 해광호 선체 발견\"…수색 닷새째만",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261122036000063",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "taean-haegwangho-hull-confirmed-20261122",
+      "summary": [
+        "해경이 태안 앞바다 수심 52m에서 발견한 선박이 실종 어선 해광호라는 사실을 확인했습니다.",
+        "실종된 승선원 7명은 아직 발견되지 않았으며 해경은 선체와 주변 해역의 수색을 이어가고 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "태안 실종 어선 해광호, 수심 52m서 발견",
+      "uncertainty": "선체 발견이 승선원 발견이나 생사 확인을 뜻하지 않습니다. 사고 원인과 선체 내부 상태도 추가 조사가 필요합니다."
     }
   ],
   "id": "taean-search-2026-11",
   "schemaVersion": 1,
   "title": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
-  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
 }

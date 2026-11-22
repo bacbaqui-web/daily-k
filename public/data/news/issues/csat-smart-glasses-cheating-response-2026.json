@@ -571,10 +571,67 @@
       "supersededBy": [],
       "title": "이 대통령, 수능 부정 신고 포상금 최소 1억 강조",
       "uncertainty": "대통령의 제도 도입 지시와 발언은 확인됐지만 최종 규정, 지급 재원, 적용 대상과 지급 절차는 확정되지 않았습니다. 이미 건당 최소 1억원을 받을 수 있는 제도가 시행 중이라는 뜻은 아닙니다."
+    },
+    {
+      "briefingPath": "2026-11-22/pm.json",
+      "category": "정치·교육",
+      "change": "수능 부정행위 신고 포상금 논의에 이어 대통령이 시험지 촬영·외부 전송 방지를 위한 법적 근거 정비와 식별 표식 도입 검토를 예고했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "pm",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 22일 이재명 대통령이 사회관계망서비스를 통해 시험 관리 실태 점검과 법적 근거 정비를 지시하겠다는 방침을 공개했습니다. 정확한 게시 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날 신고 포상금 기준에 관한 대통령 발언 이후 문제지 촬영·외부 전송 방지를 위한 법적 근거 정비와 문제지 고유 식별 표식 검토 방침이 추가로 발표됐습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "csat-cheating-reward-minimum-20261121"
+      },
+      "id": "2026-11-22-pm/exam-paper-leak-prevention-law-review-20261122",
+      "keyFacts": {
+        "announcementDate": "2026년 11월 22일",
+        "identificationMark": "문제지별 고유 식별 표식 도입 방안 검토",
+        "inspectionScope": "수능 및 국가자격시험 등 각종 시험의 관리 실태를 관계 부처와 함께 점검",
+        "legalReview": "시험 중 문제지 촬영 및 외부 전송 방지를 위한 법적 근거 정비 지시 방침",
+        "legislativeStatus": "구체적인 법령 개정안과 시행 일정 미확정",
+        "speaker": "이재명 대통령"
+      },
+      "previous": {
+        "editionId": "2026-11-21-pm",
+        "storyId": "csat-cheating-reward-minimum-20261121"
+      },
+      "publishedAt": "2026-11-22T12:09:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102704570001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T12:09:00+09:00",
+          "title": "李대통령 \"공정 원칙 흔들려선 안돼…全부처 시험관리실태 점검\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122022800001",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "stage": "검토",
+      "status": "검토",
+      "storyId": "exam-paper-leak-prevention-law-review-20261122",
+      "summary": [
+        "이재명 대통령은 시험 중 문제지 촬영과 외부 전송을 막기 위한 법적 근거를 정비하도록 지시하겠다고 밝혔습니다.",
+        "문제지별 고유 식별 표식 도입과 국가시험 전반의 관리 실태 점검도 추진하겠다고 했지만, 구체적인 법 개정안은 아직 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "이 대통령, 시험 문제 유출 방지 법 정비 예고",
+      "uncertainty": "법률 개정이나 고유 식별 표식 도입이 이미 결정·시행된 것은 아닙니다. 구체적인 기술적 방식, 적용 대상과 시행 일정은 확인되지 않았습니다."
     }
   ],
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
 }

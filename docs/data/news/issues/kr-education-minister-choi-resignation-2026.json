@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/pm.json",
+      "category": "정치·교육",
+      "change": "수능 부정행위 대책 혼란으로 최교진 교육부 장관이 사의를 표명했고 대통령이 이를 수락한 뒤 면직안을 재가했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "pm",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 22일 최교진 장관이 사의를 표명했고 대통령이 이를 수락한 뒤 면직안을 재가했습니다. 정확한 재가 완료 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-22-pm/education-minister-choi-dismissal-20261122",
+      "keyFacts": {
+        "background": "2027학년도 수능을 앞두고 부정행위 방지 대책이 잇따라 변경되며 혼란 발생",
+        "followupInstruction": "국무총리에게 수능 사후 조치를 포함한 대응에 만전을 기하라고 지시",
+        "minister": "최교진 교육부 장관",
+        "presidentialAction": "이재명 대통령이 사의를 수락하고 면직안 재가",
+        "resignation": "2026년 11월 22일 사의 표명",
+        "successor": "청와대가 절차에 따라 후임 인선 진행 예정"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T19:23:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2025/07/17/202507171045541058_e.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-11-22T19:23:00+09:00",
+          "title": "[속보] 靑 \"최교진 교육부 장관 면직안 재가 완료\"",
+          "url": "https://www.fnnews.com/news/202611221923009242",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        },
+        {
+          "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112011080001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T19:04:00+09:00",
+          "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122024051001",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "education-minister-choi-dismissal-20261122",
+      "summary": [
+        "최교진 교육부 장관이 수능 부정행위 대책 혼선에 책임을 지고 사의를 표명했고, 이재명 대통령이 면직안을 재가했습니다.",
+        "청와대는 후임 인선을 진행하겠다고 밝혔으며 국무총리에게 수능 사후 조치에 만전을 기하라고 지시했습니다."
+      ],
+      "supersededBy": [],
+      "title": "최교진 교육부 장관 사퇴, 면직안 재가",
+      "uncertainty": "장관 면직은 확인됐지만 후임 인선은 확정되지 않았습니다. 거론되는 후보를 실제 임명자로 볼 수 없습니다."
+    }
+  ],
+  "id": "kr-education-minister-choi-resignation-2026",
+  "schemaVersion": 1,
+  "title": "최교진 교육부 장관 사퇴와 후임 인선",
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
+}

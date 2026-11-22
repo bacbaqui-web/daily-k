@@ -1,0 +1,648 @@
+{
+  "cutoffAt": "2026-11-22T21:00:00+09:00",
+  "date": "2026-11-22",
+  "edition": "pm",
+  "editionId": "2026-11-22-pm",
+  "events": [
+    {
+      "at": "2026-11-23T18:00:00+09:00",
+      "date": "2026-11-23",
+      "detail": "한국교육과정평가원 전용 게시판에서 수능 문제와 정답에 대한 이의신청을 마감합니다. 최종 정답은 12월 1일 오후 5시에 공개될 예정입니다.",
+      "source": {
+        "kind": "news",
+        "language": "ko",
+        "name": "한국교육과정평가원",
+        "publishedAt": null,
+        "title": "한국교육과정평가원 대학수학능력시험 문제·정답공개 및 이의 신청 안내",
+        "url": "https://cdn2.kice.re.kr/imsi/27dae-suneung/popup.html",
+        "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+      },
+      "timeNote": "한국시간 11월 23일 오후 6시 마감",
+      "title": "2027학년도 수능 문제·정답 이의신청 마감"
+    }
+  ],
+  "finalizedAt": "2026-11-22T21:04:17.975461+09:00",
+  "generatedAt": "2026-11-22T21:00:06.633533+09:00",
+  "generationMode": "chatgpt-app",
+  "id": "2026-11-22-pm",
+  "intro": "11월 22일 저녁 주요 뉴스입니다. 교육부 장관 면직과 한국전력 개인정보 유출, 정부의 증시 안정 대책, 철도노조 쟁의 연기 등을 정리했습니다.",
+  "keywords": [
+    "최교진 교육부 장관 면직",
+    "수능 부정행위 대책 혼란",
+    "한국전력 개인정보 152만명분 유출",
+    "증권시장안정펀드 가동 준비",
+    "자사주 매수 한도 완화",
+    "철도노조 준법투쟁 26일 연기",
+    "해광호 선체 발견",
+    "시험 문제 유출 방지 법 정비",
+    "정년연장 정부 개입 검토",
+    "수능 이의신청 마감"
+  ],
+  "omissionNotes": [
+    "이번 실행에서 실제 웹 조사를 시작하며 확인한 한국시간은 2026-11-22T20:34:09+09:00입니다. 조사를 마친 시각은 2026-11-22T20:37:25+09:00입니다. 발행 기준 cutoffAt은 21:00이지만 그 시각까지 조사했다고 주장하지 않습니다. 수록된 원문은 모두 실제 조사 완료 시각 이전에 공개된 자료입니다.",
+    "최근 7일 발행 이력을 확인하기 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 접근했습니다. 이번 접근은 오류로 실패했습니다. 앞선 조사에서 확인한 목록에는 2026-11-21-pm과 이전 회차가 있었지만 그 정보만으로 현재 목록의 최신 상태를 재검증했다고 볼 수 없습니다. 개별 발행 JSON도 직접 읽지 못해 대표·추가·예비 기사 전체 비교는 완료되지 않았습니다. 수신 측은 최근 7일의 실제 발행본을 반드시 다시 읽고 중복과 후속 관계를 재검사해야 합니다.",
+    "현재 대화에 있는 2026-11-22-am 및 2026-11-21-pm 원고와 이전 회차들을 비교했습니다. 오전에 이미 다룬 경부선 일반열차 운행 재개, 발트해 러시아 화물선 피격, FBI 정보망 침입 의혹, 홍대입구역 버스 사고, 멕시코 카르텔 두목 검거, 안양 재개발조합 논란, 디센트 지갑 서비스 종료는 오후에 더 중요한 새 결과를 확인하지 못해 반복하지 않았습니다.",
+    "오늘 오후에 새로 확정된 교육부 장관 면직, 한국전력 개인정보 유출 규모 공개, 증시안정펀드 준비 결정, 철도노조 쟁의 날짜 변경, 해광호 선체 확인을 우선 선정했습니다. 대통령의 시험 관리 법 정비 발언과 정년연장 관련 장관 발언은 제도 시행이나 법 개정이 확정되지 않은 검토 단계로 구분했습니다.",
+    "한국전력의 약 152만명분은 한전ON과 전자조달시스템의 유출 대상 합산입니다. 두 시스템의 이용자 중복 여부와 개별 정보 유출 범위가 완전히 확정된 것으로 해석하지 않도록 했습니다. 실제 추가 금융 피해나 피해자 전원의 동일한 개인정보 유출도 단정하지 않았습니다.",
+    "증시안정펀드 기사는 정부가 가동 준비에 착수했다는 사실만 반영했습니다. 펀드 자금이 이미 시장에 투입됐거나 주가 안정 효과가 나타났다고 표현하지 않았습니다. 24일부터 예정된 자기주식 매수 한도 완화 역시 시행 완료로 쓰지 않았습니다.",
+    "철도노조의 준법투쟁은 당초 23일 시작 예정이었으나 22일 저녁 공식 발표로 26일로 연기됐습니다. 이전 회차의 23일 쟁의 예고를 그대로 유지하면 일정 오류가 발생하므로 수신 측은 최신 일정으로 대조해야 합니다. 다만 26일 실제 쟁의 진행 여부는 확정되지 않았습니다.",
+    "해광호 선체 확인은 전날 부표 발견에서 달라진 사실입니다. 해경이 선체를 확인했다는 의미이며 승선원 7명의 위치나 생사를 확인했다는 뜻은 아닙니다.",
+    "followUp.storyId와 timeline.issueId 및 issueTitle은 현재 대화에 있는 이전 원고에서 확인할 수 있는 항목에 한해 재사용했습니다. 실제 발행된 최근 7일 JSON의 최신 식별자와는 대조하지 못했으므로 수신 측이 반드시 검사해야 합니다. 기존 예비 기사에 이번 후속이 포함돼 있었는지 확인할 수 없어 근거 없는 reserveUpdate는 생성하지 않았습니다.",
+    "오늘의 주요 후보 중 유럽의 디지털세 논의, 미국 FBI 해킹 의혹, 발트해 러시아 화물선 사건은 주로 오전 이전 보도에 기반한 내용입니다. 오후에 새로 확인된 중대한 결정이나 결과가 없는 항목은 재수록하지 않았습니다. 기존 21일 발표된 수능 신고 포상금 기준도 동일한 내용으로 반복하지 않았습니다.",
+    "연합뉴스, SBS, 전자신문, 파이낸셜뉴스 등의 한국어 원문을 직접 읽고 사건·정책별 발표일과 보도 시각을 확인했습니다. 검토한 주요기사 및 원문은 각 story의 sources와 relatedArticles에 기록했습니다. 모든 언론사의 첫 화면과 종이신문 1면을 전수 확인한 것은 아닙니다.",
+    "기사 사진의 실제 og:image 또는 twitter:image HTTPS 주소는 확인하지 못해 imageUrl은 모두 null로 기록했습니다. 이는 기사 본문의 사실 확인 실패가 아니라 사진 메타데이터 미확인입니다. 검색 이미지나 관련 없는 자료사진으로 대체하지 않았습니다.",
+    "11월 23일의 수능 이의신청 마감은 한국교육과정평가원 공식 안내에서 오후 6시 마감을 직접 확인해 events에 포함했습니다. 철도노조 쟁의는 26일로 연기됐으므로 23일 일정에 넣지 않았습니다. 확인되지 않은 다른 일정은 생성하지 않았습니다.",
+    "모든 story의 importance는 원문 배열 순서가 발행기와 Discord의 내림차순 정렬에서도 유지되도록 100부터 94까지 서로 다른 정수로 지정했습니다. 실제 발행 검증 시각, 승인 여부, 해시 및 operationId는 기록하지 않았습니다. GitHub·홈페이지·Discord에 직접 게시하거나 파일 및 새 예약을 생성하지 않았습니다."
+  ],
+  "overview": [
+    "최교진 교육부 장관의 면직안이 재가됐고, 한국전력에서는 이용자 개인정보 약 152만명분이 유출됐습니다.",
+    "정부는 증시안정펀드 가동 준비에 착수했으며 철도노조는 준법투쟁을 26일로 연기했고, 태안 실종 어선 해광호의 선체도 확인됐습니다."
+  ],
+  "recordId": "2026-11-22-pm",
+  "researchCompletedAt": "2026-11-22T20:37:25+09:00",
+  "researchCutoffAt": "2026-11-22T20:34:09+09:00",
+  "scheduledFor": "2026-11-22T21:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "category": "정치·교육",
+      "emphasis": [
+        "면직안을 재가했습니다",
+        "후임 인선을 진행"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 22일 최교진 장관이 사의를 표명했고 대통령이 이를 수락한 뒤 면직안을 재가했습니다. 정확한 재가 완료 시각은 확인되지 않았습니다.",
+      "factsHash": "c3b2ba781c168874a2c187b7d7366c1966846de995bb94f0709dc2498c601a10",
+      "id": "education-minister-choi-dismissal-20261122",
+      "keyFacts": {
+        "background": "2027학년도 수능을 앞두고 부정행위 방지 대책이 잇따라 변경되며 혼란 발생",
+        "followupInstruction": "국무총리에게 수능 사후 조치를 포함한 대응에 만전을 기하라고 지시",
+        "minister": "최교진 교육부 장관",
+        "presidentialAction": "이재명 대통령이 사의를 수락하고 면직안 재가",
+        "resignation": "2026년 11월 22일 사의 표명",
+        "successor": "청와대가 절차에 따라 후임 인선 진행 예정"
+      },
+      "publishedAt": "2026-11-22T19:23:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243215_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T20:04:00+09:00",
+          "title": "수능 대혼란에 \"책임 통감\"…최교진 교육장관 사퇴",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857881",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.fnnews.com/news/202611221923009242",
+      "score": 99.2,
+      "scoreComponents": {
+        "domesticImpact": 98,
+        "importance": 100,
+        "interest": 98,
+        "recency": 100,
+        "reliability": 99
+      },
+      "scoreReason": "수능 관리 책임과 관련해 현직 국무위원의 사퇴 및 면직이라는 공식 인사 결정이 내려졌으며 여러 주요 언론사가 비중 있게 보도했습니다.",
+      "sourceCheck": "연합뉴스 19시 4분 원문에서 대통령의 사의 수락, 후임 인선 방침과 수능 사후 조치 관련 지시를 확인했습니다. 파이낸셜뉴스 19시 23분 기사에서 청와대의 면직안 재가 완료 발표를 확인했습니다. SBS 20시 4분 기사에서도 사퇴와 수능 대책 혼란의 경위를 대조했습니다. 사실상 경질이라는 평가는 보도상의 해석으로 보고, 본문은 공식적으로 확인된 사의 수락과 면직안 재가만 전달했습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://image.fnnews.com/resource/media/image/2025/07/17/202507171045541058_e.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "파이낸셜뉴스",
+          "publishedAt": "2026-11-22T19:23:00+09:00",
+          "title": "[속보] 靑 \"최교진 교육부 장관 면직안 재가 완료\"",
+          "url": "https://www.fnnews.com/news/202611221923009242",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        },
+        {
+          "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112011080001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T19:04:00+09:00",
+          "title": "李대통령, 최교진 사의 수락…靑 \"다음 인선 절차대로 진행\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122024051001",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "최교진 교육부 장관이 수능 부정행위 대책 혼선에 책임을 지고 사의를 표명했고, 이재명 대통령이 면직안을 재가했습니다.",
+        "청와대는 후임 인선을 진행하겠다고 밝혔으며 국무총리에게 수능 사후 조치에 만전을 기하라고 지시했습니다."
+      ],
+      "timeline": {
+        "change": "수능 부정행위 대책 혼란으로 최교진 교육부 장관이 사의를 표명했고 대통령이 이를 수락한 뒤 면직안을 재가했습니다.",
+        "eventDate": "2026-11-22",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kr-education-minister-choi-resignation-2026",
+        "issueTitle": "최교진 교육부 장관 사퇴와 후임 인선",
+        "stage": "결과"
+      },
+      "title": "최교진 교육부 장관 사퇴, 면직안 재가",
+      "topicKey": "kr-education-minister-resignation",
+      "uncertainty": "장관 면직은 확인됐지만 후임 인선은 확정되지 않았습니다. 거론되는 후보를 실제 임명자로 볼 수 없습니다.",
+      "whatChanged": "수능 부정행위 대책 혼란에 대한 책임론이 교육부 장관의 사퇴와 대통령의 면직안 재가로 이어졌습니다.",
+      "whyItMatters": "대학입시 관리의 책임을 맡은 교육부 장관이 교체되면서 수능 사후 조치와 시험 공정성 대책을 추진할 새 책임자 인선이 필요해졌습니다."
+    },
+    {
+      "category": "사회·정보보안",
+      "emphasis": [
+        "약 152만명분이 유출",
+        "주민등록번호와 계좌번호·카드번호"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "한전은 2026년 11월 20일 유출 상황을 인지했고 22일 유출 사실과 대응 현황을 공개했습니다. 최초 침입 및 실제 정보 탈취 시각은 확인되지 않았습니다.",
+      "factsHash": "515df1dd0a4509096f1e6a2f902f961cee335aa42155667e4c7d8073cae00946",
+      "id": "kepco-personal-data-leak-20261122",
+      "keyFacts": {
+        "affectedSystems": "한전ON 고객 서비스 플랫폼 및 전자조달시스템",
+        "combinedAffectedRecords": "두 시스템 유출 대상 합산 약 152만명분",
+        "company": "한국전력공사",
+        "exposedInformation": "주민·외국인등록번호, 성명, 주소, 계좌번호, 카드번호 등 시스템별 상이",
+        "hanjeonOnUsers": "65만487명",
+        "incidentRecognized": "2026년 11월 20일",
+        "investigation": "개인정보보호위원회 신고 및 유관기관과 원인 조사",
+        "procurementUsers": "86만9761명",
+        "response": "외부 접속 차단, 일부 서비스 중단, 피해자 통보와 비상대책 종합상황실 운영"
+      },
+      "publishedAt": "2026-11-22T19:50:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228416_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T19:50:00+09:00",
+          "title": "한전, 고객 등 개인정보 152만여 건 유출…주민·계좌번호 포함",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857929",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "전자신문",
+          "publishedAt": "2026-11-22T18:28:00+09:00",
+          "title": "한전, 개인정보 152만명분 유출…주민번호·계좌·카드번호까지",
+          "url": "https://www.etnews.com/20261122000093",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857929",
+      "score": 98.65,
+      "scoreComponents": {
+        "domesticImpact": 98,
+        "importance": 99,
+        "interest": 97,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "대규모 개인정보 유출에 주민등록번호와 금융정보가 포함돼 직접적인 이용자 피해 위험이 있으며 여러 매체가 구체적인 규모를 확인했습니다.",
+      "sourceCheck": "SBS 19시 50분 원문에서 한전ON 65만487명, 전자조달시스템 86만9761명, 유출된 개인정보의 종류와 한전의 대응을 확인했습니다. 전자신문 18시 28분 원문에서도 합산 약 152만명분 유출 및 20일 사고 인지, 22일 공개 사실을 확인했습니다. 시스템별 유출 항목이 달라 모든 피해자의 계좌·카드번호가 유출됐다고 단정하지 않았습니다. 외부 공격 경로와 개별 피해 범위는 조사 중인 사항으로 구분했습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261004/202228416_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T19:50:00+09:00",
+          "title": "한전, 고객 등 개인정보 152만여 건 유출…주민·계좌번호 포함",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857929",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "전자신문",
+          "publishedAt": "2026-11-22T18:28:00+09:00",
+          "title": "한전, 개인정보 152만명분 유출…주민번호·계좌·카드번호까지",
+          "url": "https://www.etnews.com/20261122000093",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "한국전력의 한전ON과 전자조달시스템에서 이용자 개인정보 약 152만명분이 유출된 사실이 확인됐습니다.",
+        "유출 항목에는 주민등록번호와 계좌번호·카드번호 등이 포함됐으며, 한전은 접속 차단과 피해 안내 및 원인 조사를 진행하고 있습니다."
+      ],
+      "timeline": {
+        "change": "한전이 두 시스템에서 약 152만명분의 개인정보 유출을 확인하고 접속 차단, 피해 안내 및 관계기관 조사를 진행하고 있다고 공개했습니다.",
+        "eventDate": "2026-11-22",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kr-kepco-personal-data-breach-2026",
+        "issueTitle": "2026년 한국전력 개인정보 유출 사고",
+        "stage": "발표"
+      },
+      "title": "한전, 개인정보 약 152만명분 유출",
+      "topicKey": "kr-kepco-personal-data-breach",
+      "uncertainty": "두 시스템의 유출 대상 인원 합산이므로 중복 이용자를 제외한 고유 피해 인원은 별도 확인이 필요합니다. 개별 정보의 정확한 유출 범위, 공격 경로 및 실제 2차 피해 규모도 조사 중입니다.",
+      "whatChanged": "한전의 고객 서비스 및 조달 시스템에서 대규모 개인정보 유출이 발생한 사실과 유출 항목, 피해 통보 및 조사 조치가 22일 공개됐습니다.",
+      "whyItMatters": "주민등록번호와 금융정보 등 민감한 개인정보가 포함돼 있어 영향을 받은 이용자의 금융 사기와 개인정보 오남용 위험을 점검할 필요가 있습니다."
+    },
+    {
+      "category": "경제·증시",
+      "emphasis": [
+        "즉시 가동할 수 있도록 준비에 착수",
+        "24일부터 3개월간 완화"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 22일 관계기관 긴급 시장상황점검회의에서 결정한 대응 방향입니다. 자사주 매수 한도 완화는 11월 24일부터 3개월간 적용할 계획입니다.",
+      "factsHash": "5e416964cb33cd0a5e68141c1b26e88b73267abd5a28dcdd819b358936a2f28c",
+      "followUp": {
+        "delta": "20일 국내 증시 급락 이후 정부와 금융당국이 증시안정펀드 가동 준비와 자사주 매수 한도 완화, 불법 공매도 특별 감시 방침을 구체적으로 발표했습니다.",
+        "editionId": "2026-11-20-pm",
+        "storyId": "kospi-five-percent-drop-20261120"
+      },
+      "id": "f4-stock-stabilization-measures-20261122",
+      "keyFacts": {
+        "background": "최근 국내외 기술주 및 반도체 관련주 급락에 따른 증시 변동성 확대",
+        "meeting": "2026년 11월 22일 관계기관 긴급 시장상황점검회의",
+        "participants": "재정경제부·한국은행·금융위원회·금융감독원 수장",
+        "shortSellingSupervision": "불법 공매도 3개월간 특별 집중 감시",
+        "stabilizationFund": "증권시장안정펀드 즉시 가동이 가능하도록 준비 착수",
+        "treasuryStockRule": "상장기업 일일 자기주식 매수주문 수량 한도 완화",
+        "treasuryStockSchedule": "2026년 11월 24일부터 3개월간 적용 계획"
+      },
+      "publishedAt": "2026-11-22T18:42:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243214_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T18:51:00+09:00",
+          "title": "F4 \"시장 상황 따라 증안펀드 바로 가동할 수 있게 준비 착수\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857913",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261122044300002",
+      "score": 98.05,
+      "scoreComponents": {
+        "domesticImpact": 97,
+        "importance": 98,
+        "interest": 96,
+        "recency": 100,
+        "reliability": 99
+      },
+      "scoreReason": "국내 금융시장 급락에 대한 정부의 구체적인 대응 결정이며 투자자와 상장기업의 거래 환경에 직접 영향을 줄 수 있습니다.",
+      "sourceCheck": "연합뉴스 18시 42분 원문에서 긴급 시장상황점검회의, 증안펀드 가동 준비 결정, 24일부터 3개월간 자사주 매수 한도 완화 계획과 불법 공매도 특별 감시를 확인했습니다. SBS 18시 51분 기사에서 같은 조치를 대조했습니다. 증시안정펀드의 실제 자금 투입과 가동 준비를 구분했고, 24일 시행 예정인 조치를 이미 시행된 것으로 표현하지 않았습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/22/PYH2026112206860001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T18:42:00+09:00",
+          "title": "F4 \"시장 상황 따라 증안펀드 바로 가동할 수 있게 준비 착수\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122044300002",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "정부와 금융당국은 증시 급락에 대비해 증권시장안정펀드를 필요할 때 즉시 가동할 수 있도록 준비에 착수했습니다.",
+        "상장사 자사주 매수 한도는 24일부터 3개월간 완화하고, 불법 공매도에 대한 특별 집중 감시도 3개월간 운영할 계획입니다."
+      ],
+      "timeline": {
+        "change": "국내외 증시 급락에 대응해 정부가 증시안정펀드 가동 준비에 착수하고 자사주 매수 한도 완화와 공매도 특별 감시 방침을 발표했습니다.",
+        "eventDate": "2026-11-22",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "korea-equities-flows",
+        "issueTitle": "한국 증시와 외국인 수급",
+        "stage": "후속"
+      },
+      "title": "정부, 증시안정펀드 가동 준비 착수",
+      "topicKey": "kr-stock-market-november-2026",
+      "uncertainty": "증시안정펀드를 실제 투입한 것은 아니며 시장 상황에 따라 가동할 수 있도록 준비하는 단계입니다. 향후 주가 안정 효과도 확인되지 않았습니다.",
+      "whatChanged": "20일 국내 증시 급락 이후 정부와 금융당국이 증시안정펀드 가동 준비와 자사주 매수 한도 완화, 불법 공매도 특별 감시 방침을 구체적으로 발표했습니다.",
+      "whyItMatters": "정부의 시장 안정 조치 준비는 급격한 주가 변동에 대응하는 안전장치이며, 자사주 매수와 공매도 감독에 관한 거래 환경에도 영향을 줍니다."
+    },
+    {
+      "category": "사회·교통",
+      "emphasis": [
+        "26일로 연기",
+        "완전한 복구에 시간이 필요"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 22일 저녁 철도노조가 기존 11월 23일 시작 예정이던 안전운행 투쟁을 11월 26일로 연기한다고 발표했습니다. 26일의 정확한 시작 시각은 확인되지 않았습니다.",
+      "factsHash": "327782262d596de3ecc599105632e89cca4bf0bbe8214f85d1474934883e2743",
+      "followUp": {
+        "delta": "기존 23일 오전 9시로 예고됐던 철도노조 준법투쟁 시작일이 소정리역 탈선 사고 복구 사정을 고려해 26일로 변경됐습니다.",
+        "editionId": "2026-11-20-pm",
+        "storyId": "korail-industrial-action-plan-20261120"
+      },
+      "id": "rail-union-action-postponed-20261122",
+      "keyFacts": {
+        "originalStart": "2026년 11월 23일 오전 9시 예정",
+        "passengerAdvice": "코레일 홈페이지와 앱에서 실제 운행 상황 확인 필요",
+        "reason": "소정리역 탈선 사고의 완전한 복구와 안정화에 시간이 필요하다고 판단",
+        "revisedStartDate": "2026년 11월 26일",
+        "service": "11월 22일 경부선 일반열차 운행은 재개된 상태",
+        "unchangedActivities": "안전 분야 휴일 지키기 및 지역별 야간 총회 등 일부 일정 유지",
+        "union": "전국철도노동조합"
+      },
+      "publishedAt": "2026-11-22T19:06:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T19:06:00+09:00",
+          "title": "철도노조, 23일 예정됐던 쟁의행위 26일로 연기…\"사고 복구 먼저\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122021351063",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261122021351063",
+      "score": 96.45,
+      "scoreComponents": {
+        "domesticImpact": 94,
+        "importance": 97,
+        "interest": 92,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "전날부터 알려진 전국 철도 쟁의 일정이 실제로 변경된 것으로 대중교통 이용자의 이동 계획에 직접 영향을 주는 후속 소식입니다.",
+      "sourceCheck": "연합뉴스 19시 6분 종합기사에서 철도노조가 23일 예정된 안전운행 투쟁을 26일로 연기한 사실, 사고 복구를 이유로 밝힌 점과 일부 활동은 유지한다는 발표를 확인했습니다. 22일 낮까지 나온 23일 투쟁 예고 기사보다 저녁 발표가 최신 결정이므로 변경된 날짜를 사용했습니다. 23일 쟁의가 원래 계획대로 시작된다고 서술하지 않았습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T19:06:00+09:00",
+          "title": "철도노조, 23일 예정됐던 쟁의행위 26일로 연기…\"사고 복구 먼저\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122021351063",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "철도노조가 23일 시작할 예정이었던 준법투쟁을 26일로 연기한다고 밝혔습니다.",
+        "소정리역 화물열차 탈선 사고의 완전한 복구에 시간이 필요하다는 이유이며, 휴일 근무 관련 투쟁과 지역별 야간 총회는 예정대로 진행하기로 했습니다."
+      ],
+      "timeline": {
+        "change": "철도노조가 23일 시작하려던 안전운행 투쟁을 경부선 탈선 사고의 복구 상황을 고려해 26일로 연기했습니다.",
+        "eventDate": "2026-11-26",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kr-rail-labor-action-november-2026",
+        "issueTitle": "2026년 11월 철도노조 쟁의 및 열차 운행",
+        "stage": "예정"
+      },
+      "title": "철도노조, 준법투쟁 26일로 연기",
+      "topicKey": "kr-rail-labor-action-november-2026",
+      "uncertainty": "26일로 연기한다는 노조 결정은 확인됐지만 노사 협상 결과와 26일 실제 쟁의 진행 여부, 운행 지연 규모는 확정되지 않았습니다.",
+      "whatChanged": "기존 23일 오전 9시로 예고됐던 철도노조 준법투쟁 시작일이 소정리역 탈선 사고 복구 사정을 고려해 26일로 변경됐습니다.",
+      "whyItMatters": "23일 철도 이용을 계획한 승객에게 중요한 일정 변경이며, 노조가 예고한 열차 운행 차질의 시점도 달라졌습니다."
+    },
+    {
+      "category": "사회·안전",
+      "emphasis": [
+        "수심 52m",
+        "승선원 7명은 아직 발견되지 않았으며"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 21일 오후 7시 55분께 해저에서 선박 추정 물체를 탐지했고, 22일 정밀 탐색으로 해광호 선체임을 확인했습니다. 정확한 최종 확인 시각은 원문에서 별도로 확인되지 않았습니다.",
+      "factsHash": "b786a655a4998c4ed6388ccaa23b7c8fd84ddde35f47519b44cade6fca3589ed",
+      "followUp": {
+        "delta": "전날 수색에서는 해광호 추정 부표가 발견된 상태였으나 22일에는 해저에서 탐지한 물체가 실제 해광호 선체라는 사실이 확인됐습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "taean-haegwangho-buoy-underwater-search-20261121"
+      },
+      "id": "taean-haegwangho-hull-confirmed-20261122",
+      "keyFacts": {
+        "crewStatus": "승선원 7명 실종 상태",
+        "departure": "2026년 11월 16일 오전 7시 16분 안흥외항 출항",
+        "identification": "2026년 11월 22일 해경의 정밀 탐색으로 선체 확인",
+        "location": "서격렬비열도 북서방 약 22해리 해상",
+        "missingCrew": "내국인 3명과 인도네시아 국적 선원 4명, 총 7명",
+        "missingReport": "2026년 11월 18일 오전 1시께 연락 두절 신고",
+        "relativePosition": "기존 침몰 추정 위치에서 북동쪽 약 440m",
+        "underwaterDetection": "2026년 11월 21일 오후 7시 55분께",
+        "vessel": "해광호, 7.93t 연안통발 어선",
+        "waterDepth": "수심 52m"
+      },
+      "publishedAt": "2026-11-22T16:15:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243204_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T16:32:00+09:00",
+          "title": "선원 7명 태우고 실종 '해광호'…수색 닷새 만에 바닷속에서 발견",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857818",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261122036000063",
+      "score": 96.0,
+      "scoreComponents": {
+        "domesticImpact": 92,
+        "importance": 96,
+        "interest": 95,
+        "recency": 100,
+        "reliability": 99
+      },
+      "scoreReason": "7명이 실종된 사고에서 선박 자체가 확인된 중요한 수색 진전이지만 실종자 구조 여부는 아직 확인되지 않았습니다.",
+      "sourceCheck": "연합뉴스 16시 15분 원문에서 해광호 선체 확인, 탐지 시각, 수심 52m, 기존 추정 위치와의 거리 및 승선원 구성을 확인했습니다. SBS 16시 32분 원문에서도 수색 닷새 만의 선체 확인 사실을 대조했습니다. 전날 발견된 부표만으로 선박 위치가 확정됐다고 쓰지 않았으며 승선원 7명의 생사도 추측하지 않았습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img0.yna.co.kr/photo/yna/YH/2026/11/22/PYH2026112201890006300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T16:15:00+09:00",
+          "title": "해경 \"해저서 해광호 선체 발견\"…수색 닷새째만",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261122036000063",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "해경이 태안 앞바다 수심 52m에서 발견한 선박이 실종 어선 해광호라는 사실을 확인했습니다.",
+        "실종된 승선원 7명은 아직 발견되지 않았으며 해경은 선체와 주변 해역의 수색을 이어가고 있습니다."
+      ],
+      "timeline": {
+        "change": "실종 해광호의 추정 부표를 발견한 데 이어 해경이 해저에서 탐지한 물체를 실제 해광호 선체로 확인했습니다.",
+        "eventDate": "2026-11-22",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "taean-search-2026-11",
+        "issueTitle": "태안 앞바다서 7명 탄 어선 연락 두절…해경 수색",
+        "stage": "후속"
+      },
+      "title": "태안 실종 어선 해광호, 수심 52m서 발견",
+      "topicKey": "taean-missing-fishing-boat",
+      "uncertainty": "선체 발견이 승선원 발견이나 생사 확인을 뜻하지 않습니다. 사고 원인과 선체 내부 상태도 추가 조사가 필요합니다.",
+      "whatChanged": "전날 수색에서는 해광호 추정 부표가 발견된 상태였으나 22일에는 해저에서 탐지한 물체가 실제 해광호 선체라는 사실이 확인됐습니다.",
+      "whyItMatters": "실종 어선의 위치를 확인해 수중 수색을 구체화할 수 있게 됐지만 승선원 7명의 행방은 여전히 확인되지 않았습니다."
+    },
+    {
+      "category": "정치·교육",
+      "emphasis": [
+        "법적 근거를 정비",
+        "구체적인 법 개정안은 아직 확정되지 않았습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "2026년 11월 22일 이재명 대통령이 사회관계망서비스를 통해 시험 관리 실태 점검과 법적 근거 정비를 지시하겠다는 방침을 공개했습니다. 정확한 게시 시각은 확인되지 않았습니다.",
+      "factsHash": "8bb8219059cf3e752fa51e4612c5681abc0728814ed9cb0b3a2dba34c60576ff",
+      "followUp": {
+        "delta": "전날 신고 포상금 기준에 관한 대통령 발언 이후 문제지 촬영·외부 전송 방지를 위한 법적 근거 정비와 문제지 고유 식별 표식 검토 방침이 추가로 발표됐습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "csat-cheating-reward-minimum-20261121"
+      },
+      "id": "exam-paper-leak-prevention-law-review-20261122",
+      "keyFacts": {
+        "announcementDate": "2026년 11월 22일",
+        "identificationMark": "문제지별 고유 식별 표식 도입 방안 검토",
+        "inspectionScope": "수능 및 국가자격시험 등 각종 시험의 관리 실태를 관계 부처와 함께 점검",
+        "legalReview": "시험 중 문제지 촬영 및 외부 전송 방지를 위한 법적 근거 정비 지시 방침",
+        "legislativeStatus": "구체적인 법령 개정안과 시행 일정 미확정",
+        "speaker": "이재명 대통령"
+      },
+      "publishedAt": "2026-11-22T12:09:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://image.ytn.co.kr/general/jpg/2026/1122/202611221210553181_t.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-22T12:10:00+09:00",
+          "title": "이 대통령, AI 부정행위 근절 관련 시험 관리 강화 지시",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611221210553181",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261122022800001",
+      "score": 96.4,
+      "scoreComponents": {
+        "domesticImpact": 95,
+        "importance": 95,
+        "interest": 96,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "시험 공정성 대책이 신고 포상금에서 법적 근거와 문제지 관리 방식 검토로 확대됐지만 구체적인 제도 시행은 아직 확정되지 않았습니다.",
+      "sourceCheck": "연합뉴스 12시 9분 원문에서 대통령의 법적 근거 정비 지시 방침, 문제지 고유 식별 표식 검토와 전 부처 시험 관리 실태 점검 계획을 확인했습니다. 관련 YTN 보도도 확인했습니다. 대통령이 앞으로 지시하겠다고 밝힌 내용과 실제 법령 개정 완료를 구분했습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102704570001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T12:09:00+09:00",
+          "title": "李대통령 \"공정 원칙 흔들려선 안돼…全부처 시험관리실태 점검\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122022800001",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "검토",
+      "summary": [
+        "이재명 대통령은 시험 중 문제지 촬영과 외부 전송을 막기 위한 법적 근거를 정비하도록 지시하겠다고 밝혔습니다.",
+        "문제지별 고유 식별 표식 도입과 국가시험 전반의 관리 실태 점검도 추진하겠다고 했지만, 구체적인 법 개정안은 아직 확정되지 않았습니다."
+      ],
+      "timeline": {
+        "change": "수능 부정행위 신고 포상금 논의에 이어 대통령이 시험지 촬영·외부 전송 방지를 위한 법적 근거 정비와 식별 표식 도입 검토를 예고했습니다.",
+        "eventDate": "2026-11-22",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "csat-smart-glasses-cheating-response-2026",
+        "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+        "stage": "검토"
+      },
+      "title": "이 대통령, 시험 문제 유출 방지 법 정비 예고",
+      "topicKey": "2027-csat-exam-security",
+      "uncertainty": "법률 개정이나 고유 식별 표식 도입이 이미 결정·시행된 것은 아닙니다. 구체적인 기술적 방식, 적용 대상과 시행 일정은 확인되지 않았습니다.",
+      "whatChanged": "전날 신고 포상금 기준에 관한 대통령 발언 이후 문제지 촬영·외부 전송 방지를 위한 법적 근거 정비와 문제지 고유 식별 표식 검토 방침이 추가로 발표됐습니다.",
+      "whyItMatters": "수능뿐 아니라 논술·내신·국가자격시험의 감독 방식과 부정행위 조사 절차가 바뀔 가능성이 있습니다."
+    },
+    {
+      "category": "경제·노동",
+      "emphasis": [
+        "정부의 입장 발표 등을 검토",
+        "60세에서 65세로"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "김영훈 고용노동부 장관이 2026년 11월 22일 방송 인터뷰에서 밝힌 입장입니다. 민주당 정년연장특위의 다음 회의는 11월 27일로 예정돼 있습니다.",
+      "factsHash": "48baed57967c52a09d88d48a8df3a46b7dcc3828754223f309b7763f42912f31",
+      "id": "retirement-age-government-position-20261122",
+      "keyFacts": {
+        "committeeMeeting": "2026년 11월 27일 더불어민주당 정년연장특위 회의 예정",
+        "currentStatutoryRetirementAge": "60세",
+        "discussedRetirementAge": "65세",
+        "legislativeStatus": "구체적인 개정안 및 시행 시기 미확정",
+        "mainDispute": "연장 방식과 시기에 대한 노동계·경영계 이견",
+        "minister": "김영훈 고용노동부 장관",
+        "possibleAction": "특위 합의가 없을 경우 정부 입장 발표 등 검토",
+        "statementDate": "2026년 11월 22일"
+      },
+      "publishedAt": "2026-11-22T14:39:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": "https://img.sbs.co.kr/newimg/news/20261122/202243200_1280.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "SBS",
+          "publishedAt": "2026-11-22T16:16:00+09:00",
+          "title": "노동장관 \"정년연장, 27일 여당 특위 합의 안 되면 정부 나설 것\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857798",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261122019051530",
+      "score": 94.9,
+      "scoreComponents": {
+        "domesticImpact": 92,
+        "importance": 94,
+        "interest": 92,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "정년연장 입법의 장기 교착 상황에서 정부 개입 가능성이 구체적인 날짜와 함께 제시됐지만 아직 합의나 법 개정 결과는 없습니다.",
+      "sourceCheck": "연합뉴스 14시 39분 종합기사에서 김영훈 장관의 27일 특위 관련 발언, 노동부의 보충 설명, 정년을 60세에서 65세로 늘리는 방식을 둘러싼 이견을 확인했습니다. SBS 16시 16분 기사에서도 같은 발언을 대조했습니다. 장관의 정부 개입 검토 발언을 확정된 정부안 발표나 법률 개정으로 표현하지 않았습니다. 사진 메타데이터는 확인하지 못했습니다.",
+      "sources": [
+        {
+          "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/10/08/PYH2026100819890001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T14:39:00+09:00",
+          "title": "노동장관 \"정년연장, 27일 與특위 합의 안 되면 정부 나설 것\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122019051530",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "status": "검토",
+      "summary": [
+        "김영훈 고용노동부 장관은 27일 여당 정년연장특위에서 합의가 나오지 않으면 정부의 입장 발표 등을 검토하겠다고 밝혔습니다.",
+        "법정 정년을 60세에서 65세로 늘리는 방식을 두고 노사 간 이견이 이어지고 있어 구체적인 개정안과 시행 시기는 정해지지 않았습니다."
+      ],
+      "timeline": {
+        "change": "노동부 장관이 27일 여당 특위에서도 정년연장 합의가 이뤄지지 않으면 정부가 직접 입장 발표에 나설 수 있다고 밝혔습니다.",
+        "eventDate": "2026-11-22",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul",
+        "issueId": "kr-retirement-age-extension-2026",
+        "issueTitle": "법정 정년 65세 연장 논의",
+        "stage": "검토"
+      },
+      "title": "노동장관, 정년연장 합의 없으면 정부 나설 것",
+      "topicKey": "kr-retirement-age-extension-2026",
+      "uncertainty": "정부가 구체적인 정년연장안을 이미 발표한 것은 아닙니다. 27일 특위의 합의 여부와 정부 발표, 법률 개정 일정 모두 확정되지 않았습니다.",
+      "whatChanged": "노사 간 합의가 진전되지 않는 정년연장 논의에 대해 노동부 장관이 27일 특위에서도 결론이 나지 않으면 정부가 직접 입장을 밝히는 방안을 검토하겠다고 말했습니다.",
+      "whyItMatters": "법정 정년 연장은 근로자의 퇴직 시기와 기업의 인건비, 청년 고용 및 고령층 소득 보장에 영향을 줄 수 있는 주요 노동 정책입니다."
+    }
+  ],
+  "timezone": "Asia/Seoul"
+}

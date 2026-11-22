@@ -1346,6 +1346,64 @@
       "uncertainty": "증시 급락의 원인은 복합적이며 특정 기업의 상장이나 미국의 반도체 규제 우려 하나만으로 설명할 수 없습니다."
     },
     {
+      "briefingPath": "2026-11-22/pm.json",
+      "category": "경제·증시",
+      "change": "국내외 증시 급락에 대응해 정부가 증시안정펀드 가동 준비에 착수하고 자사주 매수 한도 완화와 공매도 특별 감시 방침을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "pm",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 22일 관계기관 긴급 시장상황점검회의에서 결정한 대응 방향입니다. 자사주 매수 한도 완화는 11월 24일부터 3개월간 적용할 계획입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "20일 국내 증시 급락 이후 정부와 금융당국이 증시안정펀드 가동 준비와 자사주 매수 한도 완화, 불법 공매도 특별 감시 방침을 구체적으로 발표했습니다.",
+        "editionId": "2026-11-20-pm",
+        "storyId": "kospi-five-percent-drop-20261120"
+      },
+      "id": "2026-11-22-pm/f4-stock-stabilization-measures-20261122",
+      "keyFacts": {
+        "background": "최근 국내외 기술주 및 반도체 관련주 급락에 따른 증시 변동성 확대",
+        "meeting": "2026년 11월 22일 관계기관 긴급 시장상황점검회의",
+        "participants": "재정경제부·한국은행·금융위원회·금융감독원 수장",
+        "shortSellingSupervision": "불법 공매도 3개월간 특별 집중 감시",
+        "stabilizationFund": "증권시장안정펀드 즉시 가동이 가능하도록 준비 착수",
+        "treasuryStockRule": "상장기업 일일 자기주식 매수주문 수량 한도 완화",
+        "treasuryStockSchedule": "2026년 11월 24일부터 3개월간 적용 계획"
+      },
+      "previous": {
+        "editionId": "2026-11-20-pm",
+        "storyId": "kospi-five-percent-drop-20261120"
+      },
+      "publishedAt": "2026-11-22T18:42:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img3.yna.co.kr/photo/yna/YH/2026/11/22/PYH2026112206860001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T18:42:00+09:00",
+          "title": "F4 \"시장 상황 따라 증안펀드 바로 가동할 수 있게 준비 착수\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122044300002",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "f4-stock-stabilization-measures-20261122",
+      "summary": [
+        "정부와 금융당국은 증시 급락에 대비해 증권시장안정펀드를 필요할 때 즉시 가동할 수 있도록 준비에 착수했습니다.",
+        "상장사 자사주 매수 한도는 24일부터 3개월간 완화하고, 불법 공매도에 대한 특별 집중 감시도 3개월간 운영할 계획입니다."
+      ],
+      "supersededBy": [],
+      "title": "정부, 증시안정펀드 가동 준비 착수",
+      "uncertainty": "증시안정펀드를 실제 투입한 것은 아니며 시장 상황에 따라 가동할 수 있도록 준비하는 단계입니다. 향후 주가 안정 효과도 확인되지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2244,5 +2302,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-22T09:06:52.658951+09:00"
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
 }

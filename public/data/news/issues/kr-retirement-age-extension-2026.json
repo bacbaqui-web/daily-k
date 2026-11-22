@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-22/pm.json",
+      "category": "경제·노동",
+      "change": "노동부 장관이 27일 여당 특위에서도 정년연장 합의가 이뤄지지 않으면 정부가 직접 입장 발표에 나설 수 있다고 밝혔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "coveredOn": "2026-11-22",
+      "edition": "pm",
+      "editionDate": "2026-11-22",
+      "editionId": "2026-11-22-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "김영훈 고용노동부 장관이 2026년 11월 22일 방송 인터뷰에서 밝힌 입장입니다. 민주당 정년연장특위의 다음 회의는 11월 27일로 예정돼 있습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-22-pm/retirement-age-government-position-20261122",
+      "keyFacts": {
+        "committeeMeeting": "2026년 11월 27일 더불어민주당 정년연장특위 회의 예정",
+        "currentStatutoryRetirementAge": "60세",
+        "discussedRetirementAge": "65세",
+        "legislativeStatus": "구체적인 개정안 및 시행 시기 미확정",
+        "mainDispute": "연장 방식과 시기에 대한 노동계·경영계 이견",
+        "minister": "김영훈 고용노동부 장관",
+        "possibleAction": "특위 합의가 없을 경우 정부 입장 발표 등 검토",
+        "statementDate": "2026년 11월 22일"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-22T14:39:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/10/08/PYH2026100819890001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T14:39:00+09:00",
+          "title": "노동장관 \"정년연장, 27일 與특위 합의 안 되면 정부 나설 것\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122019051530",
+          "verifiedAt": "2026-11-22T21:00:06.633533+09:00"
+        }
+      ],
+      "stage": "검토",
+      "status": "검토",
+      "storyId": "retirement-age-government-position-20261122",
+      "summary": [
+        "김영훈 고용노동부 장관은 27일 여당 정년연장특위에서 합의가 나오지 않으면 정부의 입장 발표 등을 검토하겠다고 밝혔습니다.",
+        "법정 정년을 60세에서 65세로 늘리는 방식을 두고 노사 간 이견이 이어지고 있어 구체적인 개정안과 시행 시기는 정해지지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "노동장관, 정년연장 합의 없으면 정부 나설 것",
+      "uncertainty": "정부가 구체적인 정년연장안을 이미 발표한 것은 아닙니다. 27일 특위의 합의 여부와 정부 발표, 법률 개정 일정 모두 확정되지 않았습니다."
+    }
+  ],
+  "id": "kr-retirement-age-extension-2026",
+  "schemaVersion": 1,
+  "title": "법정 정년 65세 연장 논의",
+  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
+}
