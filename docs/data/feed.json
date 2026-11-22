@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-23T08:43:49.793623+09:00",
-  "windowEnd": "2026-11-23T08:39:41.012695+09:00",
+  "collectedAt": "2026-11-22T23:54:17.320051+00:00",
+  "windowEnd": "2026-11-23T08:54:17.015729+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6228,62 +6228,6 @@
       "firstPublishedAt": "2026-11-22T11:05:52.288653+00:00"
     },
     {
-      "id": "aagag-1671615-0",
-      "url": "https://aagag.com/issue/?idx=1671615",
-      "source": "애객",
-      "title": "어린이가 짊어진 학업의 무게.gif",
-      "publishedAt": "2026-11-22T08:28:39+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/IDqeh.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/IDqeh.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 2,
-      "commentCount": 2,
-      "laughingComments": 1,
-      "score": 2,
-      "kPerComment": 1.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9011894",
-          "text": "가방도 무겁겠지만 애기들은 몸에 비해 머리도 무거워가지구 충분히 저럴 수 있음ㅋㅋ 귀여웡.."
-        },
-        {
-          "id": "9011920",
-          "text": "짠~~"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-22T08:46:20.319090+09:00",
-      "sourceTitles": [
-        "초딩이 짊어진 학업의 무게.gif",
-        "어린이가 짊어진 학업의 무게.mp4",
-        "어린이가 짊어진 학업의 무게.gif",
-        "어린이가 짊어진 학업의 무게.gif",
-        "책가방이 너무 무겁다.gif",
-        "[ㅇㅎ포함] 개드립에서 주운 랜덤짤+영상",
-        "자신도 모르게 웃음이 나오는.gif"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-11-21T23:46:28.962118+00:00",
-      "collectedAt": "2026-11-22T08:46:28.962135+09:00",
-      "firstPublishedAt": "2026-11-21T23:46:29.059540+00:00"
-    },
-    {
       "id": "aagag-1671804-0",
       "url": "https://aagag.com/issue/?idx=1671804",
       "source": "애객",
@@ -6515,9 +6459,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 286,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
