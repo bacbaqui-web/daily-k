@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T11:04:32.170778+00:00",
+  "collectedAt": "2026-11-22T11:05:52.100531+00:00",
   "windowEnd": "2026-11-22T20:04:31.863946+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7064,6 +7064,63 @@
       "firstPublishedAt": "2026-11-22T08:11:54.655628+00:00"
     },
     {
+      "id": "aagag-1671764-0",
+      "url": "https://aagag.com/issue/?idx=1671764",
+      "source": "애객",
+      "title": "ㅇㅎ)남자친구가 삐졌을 때 화 풀어주는 법",
+      "publishedAt": "2026-11-22T20:02:09+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L75g8.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "옆에 와서 누우라고 탕탕치면 알아서 풀림"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L75g8.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "옆에 와서 누우라고 탕탕치면 알아서 풀림",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9013957",
+          "text": "저나이때는 욕구의 노예다.... 그리고 저정도면 무적권 풀릴만 하다..."
+        },
+        {
+          "id": "9013960",
+          "text": "조심해 친구 나락갈 수 있어"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-22T20:05:45.743783+09:00",
+      "sourceTitles": [
+        "ㅇㅎ)남자친구가 삐졌을 때 화 풀어주는 법",
+        "ㅇㅎ)남자친구가 삐졌을 때 화 풀어주는 법",
+        "ㅇㅎ) 글래머 여친과 싸우고 난후 화해가 쉬운 이유",
+        "ㅇㅎ)왕사슴 여친과 싸운 후"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-22T11:05:52.007274+00:00",
+      "collectedAt": "2026-11-22T20:05:52.007293+09:00",
+      "firstPublishedAt": "2026-11-22T11:05:52.288653+00:00"
+    },
+    {
       "id": "aagag-1671615-0",
       "url": "https://aagag.com/issue/?idx=1671615",
       "source": "애객",
@@ -7417,7 +7474,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
