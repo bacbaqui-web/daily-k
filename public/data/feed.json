@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T08:57:42.709244+00:00",
+  "collectedAt": "2026-11-22T08:58:35.497626+00:00",
   "windowEnd": "2026-11-22T17:57:42.537511+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7181,7 +7181,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7208,6 +7208,45 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671735-0",
+      "url": "https://aagag.com/issue/?idx=1671735",
+      "source": "애객",
+      "title": "치매로 아들을 못알아보는 엄마.manhwa",
+      "publishedAt": "2026-11-22T17:56:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6C4E.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6C4E.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-22T17:58:27.802830+09:00",
+      "sourceTitles": [
+        "치매에 걸려 아빠를 잊어버리신 할머니.manhwa",
+        "치매로 아들을 못알아보는 엄마.manhwa",
+        "치매로 아들을 못알아보는 엄마.manhwa"
+      ],
+      "sourceHistoryPartial": true,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-22T08:58:35.430869+00:00",
+      "collectedAt": "2026-11-22T17:58:35.430888+09:00",
+      "firstPublishedAt": "2026-11-22T08:58:35.531678+00:00"
+    },
     {
       "id": "aagag-1614590-0",
       "url": "https://aagag.com/issue/?idx=1614590",
