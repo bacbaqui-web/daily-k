@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T04:07:18.933066+00:00",
+  "collectedAt": "2026-11-22T04:08:05.577492+00:00",
   "windowEnd": "2026-11-22T13:07:18.684007+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6148,6 +6148,72 @@
       "firstPublishedAt": "2026-11-21T21:53:14.077109+00:00"
     },
     {
+      "id": "aagag-1671677-0",
+      "url": "https://aagag.com/issue/?idx=1671677",
+      "source": "애객",
+      "title": "대만에서 화보집 낸 치어리더.jpg",
+      "publishedAt": "2026-11-22T13:04:14+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5k4E.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5k4X.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5k4Y.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L5k4m.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "안지현"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L5k4E.webp",
+        "https://i.aagag.com/o/L5k4X.webp",
+        "https://i.aagag.com/o/L5k4Y.webp",
+        "https://i.aagag.com/o/L5k4m.webp"
+      ],
+      "videos": [],
+      "excerpt": "안지현",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9012729",
+          "text": "내외수 차별금지!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-22T13:07:58.377099+09:00",
+      "sourceTitles": [
+        "(ㅇㅎ)타이완에서 화보집 낸 치어리더.jpg",
+        "대만에서 화보집 낸 치어리더.jpg",
+        "ㅇㅎ) 대만에서 화보집 발표한 안지현 치어리더"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-22T04:08:05.525106+00:00",
+      "collectedAt": "2026-11-22T13:08:05.525123+09:00",
+      "firstPublishedAt": "2026-11-22T04:08:05.725760+00:00"
+    },
+    {
       "id": "aagag-1671619-0",
       "url": "https://aagag.com/issue/?idx=1671619",
       "source": "애객",
@@ -6345,7 +6411,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
