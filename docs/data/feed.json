@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T09:59:22.455002+00:00",
+  "collectedAt": "2026-11-22T10:00:30.088538+00:00",
   "windowEnd": "2026-11-22T18:59:22.181560+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7812,7 +7812,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7839,6 +7839,63 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1671747-0",
+      "url": "https://aagag.com/issue/?idx=1671747",
+      "source": "애객",
+      "title": "AI안경을 썼습니다 합격을 취소시켜 주십시오",
+      "publishedAt": "2026-11-22T18:52:45+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L6mGB.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "1등급에 해당 합격~ (야인시대 나레이션 양반 톤으로)"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L6mGB.webp"
+      ],
+      "videos": [],
+      "excerpt": "1등급에 해당 합격~ (야인시대 나레이션 양반 톤으로)",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9013726",
+          "text": "가자~ 영창 2년으로~"
+        },
+        {
+          "id": "9013728",
+          "text": "먼소리야 나랑 개그코드가 많이 다른듯;"
+        },
+        {
+          "id": "9013730",
+          "text": "응 안돼 현역이야"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-22T19:00:16.104071+09:00",
+      "sourceTitles": [
+        "다들 팬티 사는 주기 언제쯤이냐",
+        "AI안경을 썼습니다 합격을 취소시켜 주십시오",
+        "Ai안경 썼는데 1등급 시켜주는 만화",
+        "AI안경을 썼습니다 합격을 취소시켜 주십시오"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-22T10:00:29.999623+00:00",
+      "collectedAt": "2026-11-22T19:00:29.999642+09:00",
+      "firstPublishedAt": "2026-11-22T10:00:30.269598+00:00"
+    },
     {
       "id": "aagag-1671735-0",
       "url": "https://aagag.com/issue/?idx=1671735",
