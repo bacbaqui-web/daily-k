@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-22T22:06:54.781697+00:00",
+  "collectedAt": "2026-11-22T22:08:21.815900+00:00",
   "windowEnd": "2026-11-23T07:06:54.482588+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6390,55 +6390,6 @@
       "firstPublishedAt": "2026-11-22T04:08:05.725760+00:00"
     },
     {
-      "id": "aagag-1671619-0",
-      "url": "https://aagag.com/issue/?idx=1671619",
-      "source": "애객",
-      "title": "하이록스가 건강에 좋은 이유",
-      "publishedAt": "2026-11-22T06:53:45+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6X4j.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6X4j.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9011770",
-          "text": "하이닉스는 건강에 해로운데.... 하이록스는 건강에 이롭구나...."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-22T07:07:59.603706+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 운동하는 유부녀 눈나",
-        "하이록스가 건강에 좋은 이유",
-        "ㅇㅎ?) 하이록스가 건강에 좋은 이유.mp4",
-        "하이록스 대회나간 소연"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-21T22:08:11.647415+00:00",
-      "collectedAt": "2026-11-22T07:08:11.647430+09:00",
-      "firstPublishedAt": "2026-11-21T22:08:11.858952+00:00"
-    },
-    {
       "id": "aagag-1671599-0",
       "url": "https://aagag.com/issue/?idx=1671599",
       "source": "애객",
@@ -6485,7 +6436,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 44,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
