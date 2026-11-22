@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-22T20:33:30.007435+00:00",
+  "collectedAt": "2026-11-22T20:34:20.774221+00:00",
   "windowEnd": "2026-11-23T05:33:29.730151+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5010,6 +5010,63 @@
       "sourceTitlesFetchedAt": "2026-11-22T19:57:06.197711+00:00",
       "collectedAt": "2026-11-23T04:57:06.197735+09:00",
       "firstPublishedAt": "2026-11-22T19:57:06.293330+00:00"
+    },
+    {
+      "id": "aagag-1671822-0",
+      "url": "https://aagag.com/issue/?idx=1671822",
+      "source": "애객",
+      "title": "많은걸 오해한 베트남인",
+      "publishedAt": "2026-11-23T05:17:30+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L77R7.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "아니야 우리 한중일은 베트남이 무서워서 그런거니깐\n계속 깝쳐줘!!"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L77R7.webp"
+      ],
+      "videos": [],
+      "excerpt": "아니야 우리 한중일은 베트남이 무서워서 그런거니깐\n계속 깝쳐줘!!",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 3.6666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9014820",
+          "text": "뭐야 깨달아버렸어 자아만 비대해져서는ㅋㅋ 끼고싶으면 태국이나 이기고 오라니깐"
+        },
+        {
+          "id": "9014823",
+          "text": "어차피 저런애들은 베트남국뽕 애들한테 묻히니까 걱정말라고 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9014828",
+          "text": "오~~ 똑똑한 응우엔이 있었네"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-23T05:34:11.300720+09:00",
+      "sourceTitles": [
+        "빨간약을 먹어버린 베트남인...",
+        "많은걸 오해한 베트남인",
+        "많은걸 오해한 베트남인",
+        "빨간약을 먹어버린 베트남인... jjack"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-22T20:34:20.634086+00:00",
+      "collectedAt": "2026-11-23T05:34:20.634102+09:00",
+      "firstPublishedAt": "2026-11-22T20:34:20.933486+00:00"
     }
   ],
   "taggedPosts": [
@@ -6363,7 +6420,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
