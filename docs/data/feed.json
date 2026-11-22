@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-22",
-  "collectedAt": "2026-11-22T14:41:34.696574+00:00",
+  "collectedAt": "2026-11-22T14:42:28.540114+00:00",
   "windowEnd": "2026-11-22T23:41:34.366571+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6699,6 +6699,59 @@
       "firstPublishedAt": "2026-11-21T21:53:14.077109+00:00"
     },
     {
+      "id": "aagag-1671796-0",
+      "url": "https://aagag.com/issue/?idx=1671796",
+      "source": "애객",
+      "title": "드래곤볼 팬아트 레전드",
+      "publishedAt": "2026-11-22T23:36:20+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L6iqM.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "진짜 잘그린다"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L6iqM.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "진짜 잘그린다",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9014478",
+          "text": "근데..어째 시작이 다 이상한데????"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-22T23:42:20.198825+09:00",
+      "sourceTitles": [
+        "ㅇㅎ?)드래곤볼",
+        "ㅇㅎ)드래곤볼 구멍과 기둥",
+        "ㅇㅎ)드래곤볼 구멍과 기둥",
+        "드래곤볼 팬아트 레전드"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-22T14:42:28.453915+00:00",
+      "collectedAt": "2026-11-22T23:42:28.453932+09:00",
+      "firstPublishedAt": "2026-11-22T14:42:28.668808+00:00"
+    },
+    {
       "id": "aagag-1671677-0",
       "url": "https://aagag.com/issue/?idx=1671677",
       "source": "애객",
@@ -6860,7 +6913,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
