@@ -1,0 +1,675 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-23T09:00:00+09:00",
+      "date": "2026-11-23",
+      "edition": "am",
+      "editionId": "2026-11-23-am",
+      "events": [
+        {
+          "at": "2026-11-23T18:00:00+09:00",
+          "date": "2026-11-23",
+          "detail": "한국교육과정평가원 전용 게시판에서 2027학년도 수능 문제 및 정답에 관한 이의신청 접수를 마감합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "한국교육과정평가원",
+            "publishedAt": null,
+            "title": "한국교육과정평가원 대학수학능력시험 문제·정답공개 및 이의 신청 안내",
+            "url": "https://cdn2.kice.re.kr/imsi/27dae-suneung/popup.html",
+            "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+          },
+          "timeNote": "한국시간 11월 23일 오후 6시 마감",
+          "title": "2027학년도 수능 문제·정답 이의신청 마감"
+        }
+      ],
+      "generatedAt": "2026-11-23T09:42:13.097980+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-23-am",
+      "intro": "11월 23일 아침 주요 뉴스입니다. 유엔기후총회 합의 실패와 북미 정상회담 무산 보도, 북한 영변 핵시설 증축 분석, 미국의 대이란 군사 경고 등을 정리했습니다.",
+      "keywords": [
+        "COP31 최종 합의 실패",
+        "유엔 기후총회 17년 만에 결렬",
+        "북미 정상회담 추진 무산 보도",
+        "미국 정부 북미 접촉 시도 부인",
+        "북한 영변 우라늄 농축시설",
+        "고농축 우라늄 연간 35㎏ 추가 생산 가능성",
+        "트럼프 이란 추가 공격 경고",
+        "강원 북부 최대 8㎝ 눈 예보",
+        "리비아 러시아 군함 드론 피격",
+        "김정은 10개국 신임 대사 접견",
+        "수능 문제 정답 이의신청 마감"
+      ],
+      "omissionNotes": [
+        "실제 조사를 시작하며 확인한 한국시간 2026-11-23T08:29:09+09:00을 researchCutoffAt으로 기록했습니다. 조사 완료 시각은 2026-11-23T08:33:02+09:00입니다. 발행 회차 기준 cutoffAt은 09:00이지만 09:00까지 조사했다고 주장하지 않습니다. 이번 원고의 모든 기사 원문은 researchCutoffAt 이전에 공개된 보도에 한정했습니다.",
+        "최근 7일 이력 확인을 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 접근했으나 웹 읽기에서 오류가 발생했습니다. GitHub의 공개 저장소 bacbaqui-web/daily-k에서 public/data/news/ 경로를 찾아 2026-11-16-am부터 2026-11-22-pm까지 총 14개 발행 회차 JSON을 읽는 대체 경로를 확보했습니다.",
+        "실제 공개 저장소의 14개 회차에서 각각 stories 배열의 기사 ID, 제목, topicKey 및 timeline.issueId·issueTitle을 비교했습니다. 별도로 분리된 추가·예비 기사 배열은 확인되지 않았습니다. 개별 웹 발행 경로가 열리지 않았고 index.json의 최신 회차 반영 상태도 검증하지 못했으므로 수신 측은 최근 7일 공개 웹 발행본의 대표·추가·예비 기사와 중복 여부를 다시 검사해야 합니다.",
+        "GitHub에 공개된 2026-11-22-pm 발행 JSON의 7개 기사는 최교진 교육부 장관 면직, 한전 개인정보 유출, 정부 증시안정펀드 준비, 철도노조 쟁의 연기, 태안 해광호 선체 확인, 시험 문제 유출 방지 법 정비 검토, 정년연장 관련 노동부 장관 발언입니다. 이들은 새로 확인된 중요한 결과 없이 반복하지 않았습니다.",
+        "실제 발행본에 기록된 timeline 식별자가 이전 예약 답변 초안과 다른 사례를 확인했습니다. 국내 증시 관련 최신 issueId는 korea-equities-flows, 태안 실종 어선은 taean-search-2026-11, 수능 부정행위 대응은 csat-smart-glasses-cheating-response-2026입니다. 이번 원고에서는 해당 사건들을 반복 선정하지 않았고 후속이 필요한 북미회담과 미국·이란 군사 관련 이력은 공개 JSON의 식별자를 재사용했습니다.",
+        "북미 정상회담 추진 무산은 22일 처음 보도된 사안이지만 22일 오후 공개 발행본에는 없습니다. 23일 조간에서도 비중 있게 다뤄졌으며 트럼프 행정부 관계자가 회담 주선 노력을 부인한다는 핵심 단서를 포함해 오늘 오전 원고에 수록했습니다. 월스트리트저널의 익명 관계자 보도와 미국 정부의 부인을 분리했습니다.",
+        "북한 영변 핵시설 증축 자체는 18일 국제원자력기구의 발표로 이미 알려진 사실입니다. 오늘 새로 수록한 내용은 증축 공간에 원심분리기가 설치될 경우 연간 고농축 우라늄 35㎏ 이상 추가 생산이 가능하다는 분석입니다. 실제 원심분리기 설치가 확인됐다는 표현은 사용하지 않았습니다.",
+        "트럼프 대통령의 대이란 발언은 전날의 영구 핵합의 추진 발언보다 구체적인 새해 이후 추가 군사공격 가능성 경고가 나와 수록했습니다. 실제 공격 계획 또는 명령이 확정됐다는 의미로 작성하지 않았습니다.",
+        "리비아 러시아 군함 피격 보도와 전날 오전의 발트해 러시아 화물선 피격 보도는 서로 다른 지역·선박의 사건입니다. 두 사건을 같은 사고의 후속으로 잘못 연결하지 않았습니다. 공격 주체와 정확한 선박 수, 전체 피해 규모는 독립적으로 확정되지 않아 추정으로 표시했습니다.",
+        "오늘 아침 주요 신문 사설 비교 자료 https://www.yna.co.kr/view/AKR20261123012800011 에서 교육부 장관 사퇴, 조희대 대법원장 탄핵 추진, 국내 증시 급락을 여러 언론사가 비중 있게 다루는 사실을 확인했습니다. 다만 이들 사건의 새로운 결정이나 결과가 아니라 전날 이미 발행된 사안에 관한 해설과 의견이므로 독립 기사로 반복하지 않았습니다.",
+        "이번 조사에서는 연합뉴스, 뉴시스, 한국일보, 한국경제, 경향신문, 뉴스1, YTN, MBC, 매일경제, 헤럴드경제 등의 주요기사와 한국어 원문을 비교했습니다. 모든 언론사의 첫 화면 및 신문 1면 전체를 전수 확인한 것은 아닙니다.",
+        "기사마다 보도 시각과 실제 사건 발생일을 구분했습니다. COP31 협상 실패는 22일 튀르키예 현지시간 발생했고 23일 새벽 한국어 종합기사가 보도됐습니다. 리비아 군함 사고도 현지시간 22일 발생한 사안입니다. 각국 정부와 당국자의 발표 및 전문가의 조건부 분석을 확정된 사건 결과와 구분했습니다.",
+        "원문에서 기사 사진의 og:image 또는 twitter:image HTTPS 주소를 확인하지 못해 모든 imageUrl을 null로 두었습니다. 여러 원문에 다른 날짜나 다른 장소의 자료사진이 포함돼 있었으므로 이를 해당 사건의 현장 사진으로 사용하지 않았습니다. 기사 사실 확인과 사진 메타데이터 미확인은 별개입니다.",
+        "2026년 11월 23일 오후 6시 수능 문제·정답 이의신청 마감은 한국교육과정평가원 공식 안내에서 확인했습니다. 철도노조 준법투쟁 시작일은 26일로 연기됐으므로 오늘 일정으로 넣지 않았습니다. 확정하지 못한 다른 일정을 채우기 위해 생성하지 않았습니다.",
+        "모든 기사에 1~2개의 강조 구절을 지정했고 해당 구절이 summary의 실제 문장에 포함되도록 작성했습니다. importance는 기사 배열 순서와 일치하도록 서로 다른 값으로 지정했습니다. 실제 발행 검증 시각, 검증 해시, 승인 여부 및 operationId는 생성하지 않았습니다.",
+        "GitHub 저장소와 홈페이지, Discord에는 직접 게시·수정·전송하지 않았습니다. 파일과 새 예약도 생성하지 않았습니다. 이번 답변은 발행 전 검증을 위한 2026-11-23-am 완성 원고입니다."
+      ],
+      "overview": [
+        "제31차 유엔기후총회가 17년 만에 최종 합의문 채택에 실패했고, 트럼프 대통령의 북미 정상회담 추진이 무산됐다는 보도를 미국 정부 관계자가 부인했습니다.",
+        "북한 영변 핵시설의 추가 생산 가능성이 제기됐으며, 전국에 비와 눈이 예보된 가운데 리비아에서는 러시아 군함 피격 소식이 전해졌습니다."
+      ],
+      "researchCompletedAt": "2026-11-23T08:33:02+09:00",
+      "researchCutoffAt": "2026-11-23T08:29:09+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "국제·환경",
+          "emphasis": [
+            "최종 합의문 채택에 실패",
+            "17년 만에 공동 결정문 없이 폐막"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "튀르키예 현지시간 2026년 11월 22일 폐막 전체회의에서 최종 공동 결정문 채택 실패가 발표됐습니다. 정확한 발표 시각은 확인하지 못했습니다.",
+          "id": "cop31-final-agreement-failure-20261123",
+          "keyFacts": {
+            "additionalDispute": "기후변화 적응 재원과 탄소 포집 기술에 대한 입장 차이",
+            "closingDate": "2026년 11월 22일 현지시간",
+            "conference": "제31차 유엔기후변화협약 당사국총회 COP31",
+            "existingAgreements": "기존 파리협정은 이번 결정문 채택 실패로 폐기되지 않음",
+            "historicalComparison": "2009년 COP15 이후 17년 만의 최종 합의 실패",
+            "location": "튀르키예 안탈리아",
+            "majorDispute": "화석연료로부터의 전환 및 단계적 퇴출 관련 문구",
+            "opposingPositions": "러시아·사우디아라비아 등 산유국과 유럽연합 등의 견해 충돌",
+            "outcome": "최종 공동 결정문 채택 실패"
+          },
+          "publishedAt": "2026-11-23T01:26:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img3.yna.co.kr/photo/reuters/2026/11/22/PRU20261122270501009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T21:37:00+09:00",
+              "title": "'화석연료' 놓고 갈라진 유엔기후총회…합의문 채택 실패",
+              "url": "https://www.yna.co.kr/view/AKR20261122050451109",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261122050452109",
+          "scoreComponents": {
+            "domesticImpact": 85,
+            "importance": 100,
+            "interest": 94,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "전 세계 기후변화 대응에 관한 다자 협상이 공식적으로 결렬된 중대한 결과이며 복수 주요 언론사가 확인했습니다.",
+          "sourceCheck": "연합뉴스 23일 01시 26분 종합기사에서 COP31 의장의 결정문 채택 실패 발표, 러시아·사우디아라비아 등과 유럽연합의 입장 차이, 초안에서 화석연료 관련 표현이 삭제된 경위를 확인했습니다. 뉴시스 종합기사에서도 협상 결렬과 17년 만의 합의 실패를 대조했습니다. 결정문 채택 실패와 기존 국제기후협약의 효력은 구분했습니다. 원문 사진의 og:image 및 twitter:image 주소는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img3.yna.co.kr/photo/reuters/2026/11/22/PRU20261122270501009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T01:26:00+09:00",
+              "title": "유엔기후총회 17년만에 합의 실패…화석연료 놓고 극한대립(종합)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261122050452109",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-23T01:08:10+09:00",
+              "title": "유엔 기후총회, 화석연료 전환 이견…17년 만에 합의문 채택 실패(종합)",
+              "url": "https://nwww.newsis.com/view/NISX20261123_0003878383",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "제31차 유엔기후총회가 화석연료 감축과 기후재원 문제를 둘러싼 이견으로 최종 합의문 채택에 실패했습니다.",
+            "2009년 이후 17년 만에 공동 결정문 없이 폐막했으며, 기존 파리협정까지 폐기된 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "화석연료 감축과 기후재원에 관한 국가별 이견을 끝내 해소하지 못해 COP31이 최종 공동 결정문 채택에 실패했습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": null,
+            "eventTimezone": "Europe/Istanbul",
+            "issueId": "cop31-final-decision-2026",
+            "issueTitle": "제31차 유엔기후총회 최종 합의문 협상",
+            "stage": "결과"
+          },
+          "title": "유엔 기후총회, 17년 만에 합의 실패",
+          "topicKey": "cop31-climate-negotiations",
+          "uncertainty": "이번 총회의 최종 결정문 채택 실패는 확인됐지만 이전 총회에서 체결된 협약이나 국가별 기후정책이 자동으로 무효화되는 것은 아닙니다.",
+          "whatChanged": "총회 기간 연장에도 화석연료 전환과 기후재원 관련 이견을 해소하지 못해 최종 공동 결정문 채택이 무산됐습니다.",
+          "whyItMatters": "세계 각국의 온실가스 감축과 기후변화 대응 재원에 관한 새로운 공동 행동 방향을 이번 총회에서 확정하지 못했습니다."
+        },
+        {
+          "category": "정치·외교",
+          "emphasis": [
+            "조건 이견으로 무산됐다고",
+            "회담 주선 시도 자체를 부인"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "월스트리트저널의 원보도는 미국 현지시간 2026년 11월 21일 나왔으며 한국어 보도는 22일부터 이어졌습니다. 회담 추진 및 접촉 시도에 관한 주장에는 확정된 개별 사건 시각이 없습니다.",
+          "fallbackNote": "22일 처음 보도됐으나 22일 오후 실제 발행본에는 포함되지 않았습니다. 23일 조간에서도 중요하게 다뤄졌고 미국 정부의 부인이라는 핵심 조건을 함께 전달하기 위해 수록했습니다.",
+          "followUp": {
+            "delta": "앞서 트럼프 대통령이 북한과의 정상회담 가능성을 언급한 이후 실제 물밑 접촉과 조건 이견으로 회담이 무산됐다는 보도가 나왔지만 미국 행정부 관계자는 이를 부인했습니다.",
+            "editionId": "2026-11-17-am",
+            "storyId": "20261117-am-trump-kim"
+          },
+          "id": "trump-kim-summit-attempt-failure-report-20261123",
+          "keyFacts": {
+            "northKoreanConditions": "구체적인 조건 미확인",
+            "officialPolicy": "백악관은 북한 비핵화 지지 입장 재확인",
+            "originalReport": "월스트리트저널의 미국 현지시간 11월 21일 보도",
+            "reportedOutcome": "북한 측이 미국이 받아들이기 어려운 조건을 제시해 회담 무산",
+            "reportedPlan": "트럼프 대통령의 아시아 순방 기간 북미 정상회담 추진",
+            "reportedPossibleOffer": "종전선언, 북핵 폐기 요구를 포함하지 않는 성명, 연락사무소 개설 등 검토",
+            "usAdministrationResponse": "트럼프 행정부 관계자가 회담 주선 노력이 없었다고 부인"
+          },
+          "publishedAt": "2026-11-23T04:30:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-22T16:47:00+09:00",
+              "title": "美, 아시아 순방 계기 북미회담 추진…北 수용 불가 조건에 무산",
+              "url": "https://www.hankyung.com/article/2026112223007",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.hankookilbo.com/news/article/A2026112215550005503",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 99,
+            "interest": 98,
+            "recency": 94,
+            "reliability": 92
+          },
+          "scoreReason": "한반도 외교·안보에 직접적인 영향을 미치는 주요 보도이지만 미국 정부가 핵심 사실을 부인하고 있어 불확실성을 명확히 반영했습니다.",
+          "sourceCheck": "연합뉴스 22일 12시 33분 기사에서 월스트리트저널이 전한 북미회담 추진 및 무산 주장과 미국 측이 검토했다는 협상안을 확인했습니다. 한국경제 22일 16시 47분 원문에서 트럼프 행정부 관계자의 회담 주선 부인과 백악관의 기존 비핵화 입장을 확인했습니다. 한국일보 23일 04시 30분 조간 기사에서 같은 사안의 중요성을 재확인했습니다. 회담 시도 및 무산을 독립적으로 확정된 사실로 서술하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국일보",
+              "publishedAt": "2026-11-23T04:30:00+09:00",
+              "title": "\"종전선언 검토에도 북미회담 무산\"… 트럼프 '즉흥 이벤트 외교' 한계",
+              "url": "https://www.hankookilbo.com/news/article/A2026112215550005503",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-22T12:33:00+09:00",
+              "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
+              "url": "https://www.yna.co.kr/view/AKR20261122023100009",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "월스트리트저널은 트럼프 대통령이 아시아 순방 중 김정은 북한 국무위원장과의 회담을 추진했지만 조건 이견으로 무산됐다고 보도했습니다.",
+            "미국 정부 관계자는 회담 주선 시도 자체를 부인했으며 북한이 제시했다는 조건도 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "북미 정상회담 가능성 언급 이후 실제 접촉과 협상 결렬에 관한 익명 소식통 보도가 나왔으며 미국 정부 관계자는 회담 주선 시도를 부인했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "trump-kim-2026-11",
+            "issueTitle": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
+            "stage": "보도"
+          },
+          "title": "북미회담 추진 무산 보도, 미국 정부는 부인",
+          "topicKey": "trump-kim-2026-11-17",
+          "uncertainty": "익명 소식통에 근거한 보도이며 미국 행정부 관계자가 회담 주선 시도 자체를 부인했습니다. 북한이 제시했다는 조건도 알려지지 않았으므로 협상 과정이 독립적으로 확정된 것은 아닙니다.",
+          "whatChanged": "앞서 트럼프 대통령이 북한과의 정상회담 가능성을 언급한 이후 실제 물밑 접촉과 조건 이견으로 회담이 무산됐다는 보도가 나왔지만 미국 행정부 관계자는 이를 부인했습니다.",
+          "whyItMatters": "북미 대화 재개와 한국전쟁 종전선언, 북한 핵 프로그램 협상에 관한 미국 정부의 실제 정책 방향을 판단하는 데 중요한 사안입니다."
+        },
+        {
+          "category": "북한·안보",
+          "emphasis": [
+            "연간 35㎏ 이상 추가 생산",
+            "실제 생산량 증가는 아직 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지시간 2026년 11월 22일 월스트리트저널이 관련 분석을 보도했습니다. 위성사진 촬영일은 11월 6일이며 기존 시설의 외부 공사는 10월 말 완료된 것으로 앞서 발표됐습니다.",
+          "id": "yongbyon-uranium-enrichment-expansion-analysis-20261123",
+          "keyFacts": {
+            "alternativeEstimate": "유사 시설 배치 밀도 적용 시 연간 약 37㎏ 추가 생산 추산",
+            "alternativeUse": "장비 보관이나 기존 시설 운영 지원 등 다른 용도 가능성",
+            "analyst": "미 외교정책연구소 FPRI 샘 레어 연구원",
+            "construction": "기존 농축시설에 연결된 증축 건물",
+            "facility": "북한 영변 우라늄 농축시설",
+            "installationStatus": "실제 원심분리기 설치 여부 미확인",
+            "previousIAEAStatement": "9월 중순부터 증축해 10월 말 외부 공사 완료",
+            "productionEstimate": "원심분리기를 추가 설치할 경우 연간 고농축 우라늄 35㎏ 이상 추가 생산 가능",
+            "satelliteImageDate": "2026년 11월 6일"
+          },
+          "publishedAt": "2026-11-23T04:40:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-23T04:55:00+09:00",
+              "title": "\"북, 증축 영변 우라늄 농축시설에 원심분리기 추가설치 가능성\"",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611230455048441",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123003200071",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 98,
+            "interest": 97,
+            "recency": 98,
+            "reliability": 96
+          },
+          "scoreReason": "한반도 핵안보에 중요한 새 생산능력 추정치가 나왔지만 실제 원심분리기 설치와 생산 증가는 확인되지 않은 조건부 분석입니다.",
+          "sourceCheck": "연합뉴스 04시 40분 원문에서 월스트리트저널의 위성사진 분석, 국제원자력기구의 앞선 증축 확인, 미국 전문가의 원심분리기 설치 가능성과 연간 35㎏ 이상 추가 생산 추산을 확인했습니다. YTN 04시 55분 및 매일경제 06시 41분 기사에서도 조건부 추산을 대조했습니다. 증축 건물 존재와 원심분리기 실제 설치 여부를 구분했습니다. 연합뉴스에 실린 과거 영변 시설 사진은 기사와 직접 관련 없는 자료사진으로 표시돼 이번 증축 건물의 사진으로 사용하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T04:40:00+09:00",
+              "title": "\"北, 증축 영변 우라늄 농축시설에 원심분리기 추가설치 가능성\"",
+              "url": "https://www.yna.co.kr/view/AKR20261123003200071",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "분석",
+          "summary": [
+            "미국 전문가들은 북한 영변 농축시설의 새 건물에 원심분리기가 설치되면 고농축 우라늄을 연간 35㎏ 이상 추가 생산할 수 있다고 분석했습니다.",
+            "증축 건물은 위성사진으로 확인됐지만 원심분리기 설치 여부와 실제 생산량 증가는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "기존에 확인된 영변 농축시설 증축 건물에 원심분리기를 설치하면 연간 35㎏ 이상의 고농축 우라늄을 추가 생산할 수 있다는 새로운 분석이 제시됐습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "nk-yongbyon-enrichment-expansion-2026",
+            "issueTitle": "2026년 북한 영변 우라늄 농축시설 증축",
+            "stage": "분석"
+          },
+          "title": "북 영변 핵시설, 우라늄 추가 생산 가능성",
+          "topicKey": "nk-yongbyon-enrichment-expansion",
+          "uncertainty": "연간 35㎏ 이상은 새 원심분리기 설치를 가정한 생산능력 추산입니다. 원심분리기 설치가 확인되지 않았으며 새 건물이 다른 용도로 사용될 가능성도 있습니다.",
+          "whatChanged": "이미 알려진 영변 농축시설 증축에 대해 새 건물의 원심분리기 설치 가능성과 추가 고농축 우라늄 생산 능력을 수치로 추정한 분석이 나왔습니다.",
+          "whyItMatters": "실제로 원심분리기가 설치된다면 북한의 핵물질 생산 능력이 늘어날 수 있어 한반도 비핵화와 군사적 긴장에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "추가 군사 공격을 지시할 의향",
+            "실제 공격 명령이나 구체적인 일정도 발표되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지시간 2026년 11월 22일 폭스뉴스 인터뷰에서 나온 발언입니다. 실제 군사작전 일정이 확정된 것은 아닙니다.",
+          "followUp": {
+            "delta": "이란과 영구적인 핵합의를 추진하겠다는 앞선 발언에서 나아가 협상 결렬 시 새해 이후 추가 군사공격을 지시할 의향이 있다는 조건부 경고가 나왔습니다.",
+            "editionId": "2026-11-18-pm",
+            "storyId": "20261118-pm-iran-kuwait"
+          },
+          "id": "trump-iran-new-year-strike-warning-20261123",
+          "keyFacts": {
+            "additionalWarning": "이란의 대미 해상 봉쇄 돌파 시도에 대한 군사적 응징 가능성 언급",
+            "condition": "이란과의 협상이 합의에 이르지 못할 경우",
+            "interview": "폭스뉴스 인터뷰",
+            "militaryDecision": "새 공격 명령 및 실행 일정 미확인",
+            "negotiationStatus": "미국과 이란의 합의 미타결",
+            "speaker": "도널드 트럼프 미국 대통령",
+            "statementDate": "2026년 11월 22일 미국 현지시간",
+            "warning": "2027년 새해 이후 추가 군사 공격을 지시할 의향 표명"
+          },
+          "publishedAt": "2026-11-23T04:03:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-23T06:27:00+09:00",
+              "title": "트럼프 \"말만 하는 탭댄서들\"‥새해 이란 공격 가능성 경고",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6867687_36925.html",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-23T05:50:00+09:00",
+              "title": "트럼프, 이란과 합의 불발시 새해 공격 경고",
+              "url": "https://www.mt.co.kr/world/2026/11/23/2026112305175925741",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123002900071",
+          "scoreComponents": {
+            "domesticImpact": 80,
+            "importance": 97,
+            "interest": 96,
+            "recency": 98,
+            "reliability": 98
+          },
+          "scoreReason": "미국 대통령의 직접 발언으로 확인된 군사적 경고이며 중동 안보에 중요하지만 실제 군사공격 결정은 내려지지 않았습니다.",
+          "sourceCheck": "연합뉴스 04시 03분 원문에서 폭스뉴스 인터뷰의 조건부 군사 공격 경고를 확인했습니다. MBC 06시 27분과 머니투데이 05시 50분 기사에서도 발언의 취지와 조건을 대조했습니다. 앞선 협상 추진 발언과 이번 군사 공격 가능성 경고를 구분하고 실제 군사명령이 확정됐다는 표현을 사용하지 않았습니다. 원본 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T04:03:00+09:00",
+              "title": "트럼프 \"이란, 항상 말만 해\"…합의 불발시 새해 공격 경고",
+              "url": "https://www.yna.co.kr/view/AKR20261123002900071",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "트럼프 미국 대통령은 이란과 합의하지 못하면 새해 이후 추가 군사 공격을 지시할 의향이 있다고 밝혔습니다.",
+            "미국과 이란의 협상은 타결되지 않았으며 실제 공격 명령이나 구체적인 일정도 발표되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "미국과 이란의 군사 대립 및 핵협상 공방 속에서 트럼프 대통령이 새해 이후의 추가 공격 가능성을 조건부로 공개 경고했습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-iran-military",
+            "issueTitle": "미국·이란 군사 대응",
+            "stage": "후속"
+          },
+          "title": "트럼프, 이란 합의 불발 시 새해 공격 경고",
+          "topicKey": "us-iran-military",
+          "uncertainty": "트럼프 대통령의 조건부 발언으로, 공격을 결정하거나 실행했다는 뜻은 아닙니다. 향후 협상 결과와 군사적 대응 여부는 불확실합니다.",
+          "whatChanged": "이란과 영구적인 핵합의를 추진하겠다는 앞선 발언에서 나아가 협상 결렬 시 새해 이후 추가 군사공격을 지시할 의향이 있다는 조건부 경고가 나왔습니다.",
+          "whyItMatters": "미국과 이란의 군사적 긴장이 높아질 수 있으며 중동 안보와 원유 수송, 국제 에너지시장에도 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·날씨",
+          "emphasis": [
+            "최대 8㎝의 눈",
+            "어는 비와 도로 살얼음"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 전국 날씨에 대한 기상청 예보입니다. 강원 북부 일부는 낮까지 시간당 1~3㎝의 강한 눈이 내릴 가능성이 있으며 대설특보 발효 여부는 별도 확인이 필요합니다.",
+          "followUp": {
+            "delta": "23일 출근 시간대 수도권과 강원 등에서 비·눈이 시작되고 오후 전국으로 확대될 수 있다는 구체적인 예보가 발표됐습니다.",
+            "editionId": "2026-11-20-am",
+            "storyId": "november-snow-forecast-20261120"
+          },
+          "id": "nationwide-rain-snow-commute-20261123",
+          "keyFacts": {
+            "centralSouthernGangwonSnow": "강원 중·남부 내륙·산지 1~5㎝ 적설 예보",
+            "daytimeTemperature": "전국 낮 최고기온 7~15도 예상",
+            "forecastDate": "2026년 11월 23일",
+            "freezingRainRisk": "경기 북부 및 강원 내륙·산지 등의 어는 비와 도로 살얼음 가능성",
+            "intenseSnow": "강원 북부 일부 시간당 1~3㎝ 강한 눈 가능성",
+            "northernGangwonSnow": "강원 북부 내륙·산지 3~8㎝ 적설 예보",
+            "rainExpansion": "오후 그 밖의 충청권과 남부지방으로 확대 전망",
+            "rainStart": "오전 수도권, 강원 내륙·산지, 충남 북부",
+            "warningStatus": "강원 북부 대설특보 발표 가능성, 발효 확정 아님"
+          },
+          "publishedAt": "2026-11-23T07:23:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스1",
+              "publishedAt": null,
+              "publishedDate": "2026-11-23",
+              "publishedTimezone": "Asia/Seoul",
+              "title": "전국 비·눈에 강원 최대 8㎝ 적설…출근길 '강풍·어는 비' 주의(종합)",
+              "url": "https://www.news1.kr/society/weather-disaster/6362186",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.khan.co.kr/article/202611230723001/amp",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 96,
+            "interest": 94,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "국내 출근길 안전에 직접 영향을 미치는 기상정보로 지역별 적설량과 위험 조건이 복수의 최신 보도에서 확인됐습니다.",
+          "sourceCheck": "연합뉴스 05시 30분과 경향신문 07시 23분 원문에서 강수 확대 시점, 강원 북부 3~8㎝ 적설 예보, 강한 눈 및 도로 살얼음 가능성을 확인했습니다. 뉴스1 원문의 06시 53분 갱신 기사에서도 같은 예보를 대조했으나 최초 게시 시각은 확정하지 않아 해당 출처의 publishedAt을 null로 두었습니다. 기사 사진은 다른 날짜의 눈과 추위 장면을 담은 자료사진이므로 현재 날씨 사진으로 사용하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-23T07:23:00+09:00",
+              "title": "“출근길 우산 챙기세요” 전국 흐리고 비·눈에 아침 영하권 추위…강원 최대 8㎝ 적설",
+              "url": "https://www.khan.co.kr/article/202611230723001/amp",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T05:30:00+09:00",
+              "title": "전국 곳곳 흐리고 비…강원 북부 '대설 특보' 가능성",
+              "url": "https://www.yna.co.kr/view/AKR20261123003400034",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "오늘 오전 수도권과 강원에서 시작되는 비와 눈은 오후 전국으로 확대될 전망이며, 강원 북부에는 최대 8㎝의 눈이 예보됐습니다.",
+            "경기 북부와 강원 내륙에는 어는 비와 도로 살얼음이 예상돼 출근길 교통안전에 주의가 필요합니다."
+          ],
+          "timeline": {
+            "change": "23일 출근길 중부지역의 비·눈과 강원 북부 최대 8㎝ 적설, 어는 비로 인한 도로 살얼음 위험이 예보됐습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-cold-wave-2026-11",
+            "issueTitle": "수능 전후 한파와 눈·비",
+            "stage": "예정"
+          },
+          "title": "오늘 전국 비·눈, 강원 최대 8㎝ 예보",
+          "topicKey": "kr-winter-weather-2026",
+          "uncertainty": "예상 적설량과 강수 확대는 예보이며 실제 관측된 적설량이 아닙니다. 대설특보가 내려질 가능성도 발효 확정과 구분해야 합니다.",
+          "whatChanged": "23일 출근 시간대 수도권과 강원 등에서 비·눈이 시작되고 오후 전국으로 확대될 수 있다는 구체적인 예보가 발표됐습니다.",
+          "whyItMatters": "출근길 도로 살얼음과 강원 산지의 강한 눈은 차량 운행 및 보행 안전에 직접 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "국제·안보",
+          "emphasis": [
+            "러시아 군함이 공격받아 파손",
+            "우크라이나의 공격 여부"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "리비아 현지시간 2026년 11월 22일 벵가지 해군기지에서 발생한 사건입니다. 실제 드론 공격 및 폭발의 정확한 시각은 확인되지 않았습니다.",
+          "id": "libya-russian-warship-drone-attack-report-20261123",
+          "keyFacts": {
+            "droneClaim": "해상 드론 최소 4대 요격, 2대 명중이라는 현지 당국자 설명",
+            "fatalities": "확인된 사망자 보고 없음",
+            "incidentDate": "2026년 11월 22일 현지시간",
+            "injuries": "부상자 발생 보도",
+            "localOfficialStatement": "군함 파손 및 기지 시설 화재",
+            "location": "리비아 동부 벵가지 해군기지",
+            "perpetrator": "우크라이나 공격 가능성 제기, 실제 공격 주체 미확인",
+            "reportedVessel": "러시아 해군 초계함 메르쿠리호",
+            "russianResponse": "보도 시점까지 러시아 당국의 공식 반응 미확인"
+          },
+          "publishedAt": "2026-11-23T03:39:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-23T04:29:00+09:00",
+              "title": "리비아 항구서 러시아 군함 피격...우크라 공격 추정",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611230429054876",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            },
+            {
+              "imageUrl": "https://img1.newsis.com/2026/11/23/NISI20261123_0001770415_web.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-23T07:05:41+09:00",
+              "title": "리비아 항구 정박 러 군함 폭발…우크라 드론 공격 추정",
+              "url": "https://mobile.newsis.com/view/NISX20261123_0003878404",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261122052851079",
+          "scoreComponents": {
+            "domesticImpact": 68,
+            "importance": 95,
+            "interest": 91,
+            "recency": 98,
+            "reliability": 94
+          },
+          "scoreReason": "러시아 관련 해상 안보 위협이 북아프리카까지 제기된 사건이지만 공격 주체와 정확한 피해 범위는 아직 조사 중입니다.",
+          "sourceCheck": "연합뉴스 03시 39분 종합기사에서 벵가지 정박 러시아 군함 피격 관련 리비아 당국자의 발표와 부상자 발생, 공격 주체 미확인을 확인했습니다. YTN 04시 29분 및 뉴시스 07시 05분 원문에서도 사건을 확인했습니다. 일부 다른 보도는 피격 선박이 두 척이라고 전해 선박 수를 본문에 확정하지 않았습니다. 연합뉴스 기사에 실린 발트해 러시아 화물선 화재 사진은 이번 사건과 관련 없는 자료사진으로 명시돼 사용하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T03:39:00+09:00",
+              "title": "\"리비아 항구 정박 러시아 군함 피격…우크라 드론 공격 추정\"(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261122052851079",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "리비아 동부 당국자들은 벵가지항에 정박한 러시아 군함이 공격받아 파손되고 부상자가 발생했다고 밝혔습니다.",
+            "해상 드론 2대가 명중했다는 설명이 나왔지만 우크라이나의 공격 여부와 정확한 피해 규모는 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "리비아 벵가지 해군기지의 러시아 군함에서 폭발과 화재가 발생했다는 보도가 나왔으며 현지 당국자는 해상 드론 공격 가능성을 제기했습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": null,
+            "eventTimezone": "Africa/Tripoli",
+            "issueId": "russia-libya-maritime-security-2026",
+            "issueTitle": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹",
+            "stage": "보도"
+          },
+          "title": "리비아 정박 러시아 군함, 드론 피격 보도",
+          "topicKey": "russia-libya-maritime-security",
+          "uncertainty": "리비아 당국자의 설명에 따른 것으로 공격 주체와 최종 피해 규모는 확인되지 않았습니다. 다른 매체는 피격 선박의 종류와 척수를 다르게 보도해 선박 규모를 추가로 확정하지 않았습니다.",
+          "whatChanged": "리비아 벵가지항에 정박한 러시아 군함이 폭발과 화재 피해를 입었다는 현지 당국자의 발표가 나왔고 해상 드론 공격 가능성이 제기됐습니다.",
+          "whyItMatters": "러시아 관련 군사·해상 시설의 공격 위험이 북아프리카 항구에서도 제기돼 리비아의 해상 안전과 역내 군사적 긴장에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "북한·외교",
+          "emphasis": [
+            "10개국 신임 대사",
+            "30여 년 만"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "북한 조선중앙통신에 따르면 2026년 11월 22일 오전 평양 노동당 중앙위원회 본부청사에서 열린 신임장 접수 행사입니다. 북한 매체는 23일 이를 보도했습니다.",
+          "id": "kim-jong-un-ten-ambassador-credentials-20261123",
+          "keyFacts": {
+            "countries": "인도네시아, 스웨덴, 베트남, 러시아, 브라질, 체코, 인도, 필리핀, 태국, 방글라데시",
+            "diplomats": "10개국 신임 대사",
+            "eventDate": "2026년 11월 22일 오전",
+            "leaderClaim": "북한은 패권과 팽창을 추구하지 않는다고 주장",
+            "location": "평양 노동당 중앙위원회 본부청사",
+            "official": "김정은 북한 국무위원장",
+            "originalReporting": "조선중앙통신의 2026년 11월 23일 보도",
+            "reportedHistoricalComparison": "최고지도자가 직접 신임장을 접수한 것은 30여 년 만",
+            "statedForeignPolicy": "주권 수호 및 대외관계 확대 지향"
+          },
+          "publishedAt": "2026-11-23T06:45:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://wimg.heraldcorp.com/news/cms/2026/11/23/rcv.YNA.20261123.PYH2026112300370004200_P1.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "헤럴드경제",
+              "publishedAt": "2026-11-23T07:28:04+09:00",
+              "title": "김정은 “동아시아 정치군사 환경 힘·능력 요구…패권·팽창 추구 안 해”",
+              "url": "https://biz.heraldcorp.com/article/10945363",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123006800504",
+          "scoreComponents": {
+            "domesticImpact": 88,
+            "importance": 94,
+            "interest": 87,
+            "recency": 98,
+            "reliability": 96
+          },
+          "scoreReason": "북한 최고지도자가 이례적으로 여러 나라 신임 대사를 직접 만난 외교 행사가 확인됐지만 새로운 외교협정이나 군사적 합의가 발표된 것은 아닙니다.",
+          "sourceCheck": "연합뉴스 06시 45분 원문과 헤럴드경제 07시 28분 기사에서 북한 관영매체가 밝힌 신임장 접수 행사, 참여 국가와 김정은의 연설을 확인했습니다. 최고지도자 직접 접수의 역사적 비교는 보도된 설명으로 전달했고 북한의 대외정책 주장을 확정된 국제정세 평가로 취급하지 않았습니다. 사진의 실제 HTTPS 메타데이터는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img3.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123006800504_01_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T06:45:00+09:00",
+              "title": "김정은 \"전지구적 안보불안정 위기…北, 패권·팽창 추구 안 해\"",
+              "url": "https://www.yna.co.kr/view/AKR20261123006800504",
+              "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "김정은 북한 국무위원장이 러시아와 스웨덴 등을 포함한 10개국 신임 대사에게서 신임장을 직접 받았습니다.",
+            "북한은 패권과 팽창을 추구하지 않는다고 주장했으며, 최고지도자의 직접 신임장 접수는 30여 년 만이라고 전해졌습니다."
+          ],
+          "timeline": {
+            "change": "김정은 북한 국무위원장이 10개국 신임 대사들의 신임장을 직접 접수하고 군사적 안전과 외교관계 확대에 관한 입장을 발표했습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Pyongyang",
+            "issueId": "nk-diplomatic-credentials-2026",
+            "issueTitle": "2026년 북한 최고지도자 외국 대사 신임장 접수",
+            "stage": "보도"
+          },
+          "title": "김정은, 10개국 신임 대사 신임장 직접 접수",
+          "topicKey": "nk-diplomatic-credentials-2026",
+          "uncertainty": "신임장 접수와 발언은 북한 관영매체가 전한 내용입니다. 패권이나 팽창을 추구하지 않는다는 주장은 북한 지도자의 입장이지 독립적으로 입증된 사실이 아닙니다.",
+          "whatChanged": "김정은 국무위원장이 외국 신임 대사 10명에게서 신임장을 직접 받고 대외관계 확대에 관한 연설을 했다는 북한 매체의 발표가 나왔습니다.",
+          "whyItMatters": "북한 최고지도자가 여러 국가의 대사를 직접 만나 외교관계 확대와 군사·안보 정책에 관한 입장을 공개적으로 밝힌 행사입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-23-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-23T09:45:51.468843+09:00",
+  "result": {
+    "id": "2026-11-23-am",
+    "operationId": "publish-news-2026-11-23-am",
+    "recordedAt": "2026-11-23T09:45:51.468843+09:00",
+    "sha256": "59a150dd3867f1674f6ec727caa256ee33ba1fd3a947e78ccf261a503cb8bdde",
+    "windowId": "2026-11-23-am"
+  }
+}

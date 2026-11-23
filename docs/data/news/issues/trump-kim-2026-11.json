@@ -44,10 +44,78 @@
       "supersededBy": [],
       "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
       "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    },
+    {
+      "briefingPath": "2026-11-23/am.json",
+      "category": "정치·외교",
+      "change": "북미 정상회담 가능성 언급 이후 실제 접촉과 협상 결렬에 관한 익명 소식통 보도가 나왔으며 미국 정부 관계자는 회담 주선 시도를 부인했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "am",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "월스트리트저널의 원보도는 미국 현지시간 2026년 11월 21일 나왔으며 한국어 보도는 22일부터 이어졌습니다. 회담 추진 및 접촉 시도에 관한 주장에는 확정된 개별 사건 시각이 없습니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "앞서 트럼프 대통령이 북한과의 정상회담 가능성을 언급한 이후 실제 물밑 접촉과 조건 이견으로 회담이 무산됐다는 보도가 나왔지만 미국 행정부 관계자는 이를 부인했습니다.",
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-trump-kim"
+      },
+      "id": "2026-11-23-am/trump-kim-summit-attempt-failure-report-20261123",
+      "keyFacts": {
+        "northKoreanConditions": "구체적인 조건 미확인",
+        "officialPolicy": "백악관은 북한 비핵화 지지 입장 재확인",
+        "originalReport": "월스트리트저널의 미국 현지시간 11월 21일 보도",
+        "reportedOutcome": "북한 측이 미국이 받아들이기 어려운 조건을 제시해 회담 무산",
+        "reportedPlan": "트럼프 대통령의 아시아 순방 기간 북미 정상회담 추진",
+        "reportedPossibleOffer": "종전선언, 북핵 폐기 요구를 포함하지 않는 성명, 연락사무소 개설 등 검토",
+        "usAdministrationResponse": "트럼프 행정부 관계자가 회담 주선 노력이 없었다고 부인"
+      },
+      "previous": {
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-trump-kim"
+      },
+      "publishedAt": "2026-11-23T04:30:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "한국일보",
+          "publishedAt": "2026-11-23T04:30:00+09:00",
+          "title": "\"종전선언 검토에도 북미회담 무산\"… 트럼프 '즉흥 이벤트 외교' 한계",
+          "url": "https://www.hankookilbo.com/news/article/A2026112215550005503",
+          "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-22T12:33:00+09:00",
+          "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122023100009",
+          "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "trump-kim-summit-attempt-failure-report-20261123",
+      "summary": [
+        "월스트리트저널은 트럼프 대통령이 아시아 순방 중 김정은 북한 국무위원장과의 회담을 추진했지만 조건 이견으로 무산됐다고 보도했습니다.",
+        "미국 정부 관계자는 회담 주선 시도 자체를 부인했으며 북한이 제시했다는 조건도 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "북미회담 추진 무산 보도, 미국 정부는 부인",
+      "uncertainty": "익명 소식통에 근거한 보도이며 미국 행정부 관계자가 회담 주선 시도 자체를 부인했습니다. 북한이 제시했다는 조건도 알려지지 않았으므로 협상 과정이 독립적으로 확정된 것은 아닙니다."
     }
   ],
   "id": "trump-kim-2026-11",
   "schemaVersion": 1,
   "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐",
-  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
+  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
 }

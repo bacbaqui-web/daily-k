@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-23/am.json",
+      "category": "국제·안보",
+      "change": "리비아 벵가지 해군기지의 러시아 군함에서 폭발과 화재가 발생했다는 보도가 나왔으며 현지 당국자는 해상 드론 공격 가능성을 제기했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "am",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-am",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": null,
+      "eventTimeNote": "리비아 현지시간 2026년 11월 22일 벵가지 해군기지에서 발생한 사건입니다. 실제 드론 공격 및 폭발의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Africa/Tripoli",
+      "followUp": null,
+      "id": "2026-11-23-am/libya-russian-warship-drone-attack-report-20261123",
+      "keyFacts": {
+        "droneClaim": "해상 드론 최소 4대 요격, 2대 명중이라는 현지 당국자 설명",
+        "fatalities": "확인된 사망자 보고 없음",
+        "incidentDate": "2026년 11월 22일 현지시간",
+        "injuries": "부상자 발생 보도",
+        "localOfficialStatement": "군함 파손 및 기지 시설 화재",
+        "location": "리비아 동부 벵가지 해군기지",
+        "perpetrator": "우크라이나 공격 가능성 제기, 실제 공격 주체 미확인",
+        "reportedVessel": "러시아 해군 초계함 메르쿠리호",
+        "russianResponse": "보도 시점까지 러시아 당국의 공식 반응 미확인"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-23T03:39:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T03:39:00+09:00",
+          "title": "\"리비아 항구 정박 러시아 군함 피격…우크라 드론 공격 추정\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261122052851079",
+          "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "libya-russian-warship-drone-attack-report-20261123",
+      "summary": [
+        "리비아 동부 당국자들은 벵가지항에 정박한 러시아 군함이 공격받아 파손되고 부상자가 발생했다고 밝혔습니다.",
+        "해상 드론 2대가 명중했다는 설명이 나왔지만 우크라이나의 공격 여부와 정확한 피해 규모는 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "리비아 정박 러시아 군함, 드론 피격 보도",
+      "uncertainty": "리비아 당국자의 설명에 따른 것으로 공격 주체와 최종 피해 규모는 확인되지 않았습니다. 다른 매체는 피격 선박의 종류와 척수를 다르게 보도해 선박 규모를 추가로 확정하지 않았습니다."
+    }
+  ],
+  "id": "russia-libya-maritime-security-2026",
+  "schemaVersion": 1,
+  "title": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹",
+  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+}

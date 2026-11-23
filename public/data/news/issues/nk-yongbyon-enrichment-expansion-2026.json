@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-23/am.json",
+      "category": "북한·안보",
+      "change": "기존에 확인된 영변 농축시설 증축 건물에 원심분리기를 설치하면 연간 35㎏ 이상의 고농축 우라늄을 추가 생산할 수 있다는 새로운 분석이 제시됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "am",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지시간 2026년 11월 22일 월스트리트저널이 관련 분석을 보도했습니다. 위성사진 촬영일은 11월 6일이며 기존 시설의 외부 공사는 10월 말 완료된 것으로 앞서 발표됐습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-23-am/yongbyon-uranium-enrichment-expansion-analysis-20261123",
+      "keyFacts": {
+        "alternativeEstimate": "유사 시설 배치 밀도 적용 시 연간 약 37㎏ 추가 생산 추산",
+        "alternativeUse": "장비 보관이나 기존 시설 운영 지원 등 다른 용도 가능성",
+        "analyst": "미 외교정책연구소 FPRI 샘 레어 연구원",
+        "construction": "기존 농축시설에 연결된 증축 건물",
+        "facility": "북한 영변 우라늄 농축시설",
+        "installationStatus": "실제 원심분리기 설치 여부 미확인",
+        "previousIAEAStatement": "9월 중순부터 증축해 10월 말 외부 공사 완료",
+        "productionEstimate": "원심분리기를 추가 설치할 경우 연간 고농축 우라늄 35㎏ 이상 추가 생산 가능",
+        "satelliteImageDate": "2026년 11월 6일"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-23T04:40:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T04:40:00+09:00",
+          "title": "\"北, 증축 영변 우라늄 농축시설에 원심분리기 추가설치 가능성\"",
+          "url": "https://www.yna.co.kr/view/AKR20261123003200071",
+          "verifiedAt": "2026-11-23T09:42:13.097980+09:00"
+        }
+      ],
+      "stage": "분석",
+      "status": "분석",
+      "storyId": "yongbyon-uranium-enrichment-expansion-analysis-20261123",
+      "summary": [
+        "미국 전문가들은 북한 영변 농축시설의 새 건물에 원심분리기가 설치되면 고농축 우라늄을 연간 35㎏ 이상 추가 생산할 수 있다고 분석했습니다.",
+        "증축 건물은 위성사진으로 확인됐지만 원심분리기 설치 여부와 실제 생산량 증가는 아직 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "북 영변 핵시설, 우라늄 추가 생산 가능성",
+      "uncertainty": "연간 35㎏ 이상은 새 원심분리기 설치를 가정한 생산능력 추산입니다. 원심분리기 설치가 확인되지 않았으며 새 건물이 다른 용도로 사용될 가능성도 있습니다."
+    }
+  ],
+  "id": "nk-yongbyon-enrichment-expansion-2026",
+  "schemaVersion": 1,
+  "title": "2026년 북한 영변 우라늄 농축시설 증축",
+  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+}

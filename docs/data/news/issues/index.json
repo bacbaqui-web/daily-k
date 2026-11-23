@@ -1,6 +1,158 @@
 {
-  "editionCount": 134,
+  "editionCount": 135,
   "issues": [
+    {
+      "categories": [
+        "국제",
+        "국제·안보",
+        "국제정세"
+      ],
+      "eventCount": 16,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-iran-military",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "미국과 이란의 군사 대립 및 핵협상 공방 속에서 트럼프 대통령이 새해 이후의 추가 공격 가능성을 조건부로 공개 경고했습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "후속",
+        "storyId": "trump-iran-new-year-strike-warning-20261123",
+        "title": "트럼프, 이란 합의 불발 시 새해 공격 경고"
+      },
+      "path": "us-iran-military.json",
+      "title": "미국·이란 군사 대응"
+    },
+    {
+      "categories": [
+        "국제정세",
+        "정치·외교"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
+      "firstCoveredDate": "2026-11-17",
+      "id": "trump-kim-2026-11",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "북미 정상회담 가능성 언급 이후 실제 접촉과 협상 결렬에 관한 익명 소식통 보도가 나왔으며 미국 정부 관계자는 회담 주선 시도를 부인했습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "보도",
+        "storyId": "trump-kim-summit-attempt-failure-report-20261123",
+        "title": "북미회담 추진 무산 보도, 미국 정부는 부인"
+      },
+      "path": "trump-kim-2026-11.json",
+      "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐"
+    },
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "russia-libya-maritime-security-2026",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "리비아 벵가지 해군기지의 러시아 군함에서 폭발과 화재가 발생했다는 보도가 나왔으며 현지 당국자는 해상 드론 공격 가능성을 제기했습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "보도",
+        "storyId": "libya-russian-warship-drone-attack-report-20261123",
+        "title": "리비아 정박 러시아 군함, 드론 피격 보도"
+      },
+      "path": "russia-libya-maritime-security-2026.json",
+      "title": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹"
+    },
+    {
+      "categories": [
+        "북한·안보"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "nk-yongbyon-enrichment-expansion-2026",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "기존에 확인된 영변 농축시설 증축 건물에 원심분리기를 설치하면 연간 35㎏ 이상의 고농축 우라늄을 추가 생산할 수 있다는 새로운 분석이 제시됐습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "분석",
+        "storyId": "yongbyon-uranium-enrichment-expansion-analysis-20261123",
+        "title": "북 영변 핵시설, 우라늄 추가 생산 가능성"
+      },
+      "path": "nk-yongbyon-enrichment-expansion-2026.json",
+      "title": "2026년 북한 영변 우라늄 농축시설 증축"
+    },
+    {
+      "categories": [
+        "북한·외교"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "nk-diplomatic-credentials-2026",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "김정은 북한 국무위원장이 10개국 신임 대사들의 신임장을 직접 접수하고 군사적 안전과 외교관계 확대에 관한 입장을 발표했습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "보도",
+        "storyId": "kim-jong-un-ten-ambassador-credentials-20261123",
+        "title": "김정은, 10개국 신임 대사 신임장 직접 접수"
+      },
+      "path": "nk-diplomatic-credentials-2026.json",
+      "title": "2026년 북한 최고지도자 외국 대사 신임장 접수"
+    },
+    {
+      "categories": [
+        "사회·날씨",
+        "사회·안전",
+        "안전·날씨"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "csat-cold-wave-2026-11",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "23일 출근길 중부지역의 비·눈과 강원 북부 최대 8㎝ 적설, 어는 비로 인한 도로 살얼음 위험이 예보됐습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "예정",
+        "storyId": "nationwide-rain-snow-commute-20261123",
+        "title": "오늘 전국 비·눈, 강원 최대 8㎝ 예보"
+      },
+      "path": "csat-cold-wave-2026-11.json",
+      "title": "수능 전후 한파와 눈·비"
+    },
+    {
+      "categories": [
+        "국제·환경"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "cop31-final-decision-2026",
+      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "화석연료 감축과 기후재원에 관한 국가별 이견을 끝내 해소하지 못해 COP31이 최종 공동 결정문 채택에 실패했습니다.",
+        "editionId": "2026-11-23-am",
+        "stage": "결과",
+        "storyId": "cop31-final-agreement-failure-20261123",
+        "title": "유엔 기후총회, 17년 만에 합의 실패"
+      },
+      "path": "cop31-final-decision-2026.json",
+      "title": "제31차 유엔기후총회 최종 합의문 협상"
+    },
     {
       "categories": [
         "사회·안전",
@@ -650,28 +802,6 @@
     },
     {
       "categories": [
-        "사회·안전",
-        "안전·날씨"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-19T10:02:47.115654+09:00",
-      "firstCoveredDate": "2026-11-19",
-      "id": "csat-cold-wave-2026-11",
-      "lastCoveredAt": "2026-11-20T09:16:07.810668+09:00",
-      "lastCoveredDate": "2026-11-20",
-      "latest": {
-        "archive": false,
-        "change": "20일부터 21일까지 서해안과 제주 산지에 적설이 예상되고 일부 지역에 대설주의보와 도로 결빙 주의가 안내됐습니다.",
-        "editionId": "2026-11-20-am",
-        "stage": "예정",
-        "storyId": "november-snow-forecast-20261120",
-        "title": "충남·전북 서해안 최대 7㎝ 눈 예보"
-      },
-      "path": "csat-cold-wave-2026-11.json",
-      "title": "수능 전후 한파와 눈·비"
-    },
-    {
-      "categories": [
         "기술·AI",
         "기술·경제"
       ],
@@ -865,29 +995,6 @@
       },
       "path": "fed-policy-2026.json",
       "title": "미국 연준 금리 결정과 물가 판단"
-    },
-    {
-      "categories": [
-        "국제",
-        "국제·안보",
-        "국제정세"
-      ],
-      "eventCount": 15,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-iran-military",
-      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "쿠웨이트 미군 시설 공격 주장과 방공 대응 발표",
-        "editionId": "2026-11-18-pm",
-        "stage": "발표",
-        "storyId": "20261118-pm-iran-kuwait",
-        "title": "이란, 쿠웨이트 미군기지 공격 발표"
-      },
-      "path": "us-iran-military.json",
-      "title": "미국·이란 군사 대응"
     },
     {
       "categories": [
@@ -1287,27 +1394,6 @@
       },
       "path": "united-outage-2026-11.json",
       "title": "유나이티드항공 시스템 장애로 출발편 차질"
-    },
-    {
-      "categories": [
-        "국제정세"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
-      "firstCoveredDate": "2026-11-17",
-      "id": "trump-kim-2026-11",
-      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
-      "lastCoveredDate": "2026-11-17",
-      "latest": {
-        "archive": false,
-        "change": "미국 현지 11월16일 발언, 한국시간 17일 00:51 보도입니다.",
-        "editionId": "2026-11-17-am",
-        "stage": "보도",
-        "storyId": "20261117-am-trump-kim",
-        "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐"
-      },
-      "path": "trump-kim-2026-11.json",
-      "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐"
     },
     {
       "categories": [
@@ -12744,7 +12830,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 996,
+  "storyCount": 1003,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-22T21:00:06.633533+09:00"
+  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
 }
