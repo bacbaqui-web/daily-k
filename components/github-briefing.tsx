@@ -38,7 +38,7 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
     if (!index.editions.some(e => e.date === date)) return;
     const controller = new AbortController();
     fetch(`/daily-k/data/github/${date}.json`, {cache: 'no-store', signal: controller.signal}).then(async r => {
-      if (!r.ok) throw Error(); const value: unknown = await r.json(); if (!isGitHubBrief(value) || value.date !== date) throw Error(); setBrief(value);
+      if (!r.ok) throw Error(); const value: unknown = await r.json(); if (!isGitHubBrief(value, index.editions.find(e => e.date === date)?.count) || value.date !== date) throw Error(); setBrief(value);
     }).catch(() => {if (!controller.signal.aborted) setError('이 날짜의 분석을 불러오지 못했습니다. 다시 불러오기를 눌러 주세요.');});
     return () => controller.abort();
   }, [date, index, retry]);
@@ -52,14 +52,14 @@ export function GitHubBriefing({search, onNavigate}: {search: string; onNavigate
       <label className="news-date-selection"><span className="sr-only">GitHub 브리핑 날짜 선택</span><input type="date" value={date || ''} onChange={e => validGitHubDate(e.target.value) && choose(e.target.value)} /></label>
       <button className="news-date-arrow" aria-label="다음 날짜" disabled={!next} onClick={() => next && choose(next)}>→</button>
     </section>
-    <h1 className="sr-only">{date} GitHub Trending 1~10위</h1>
+    <h1 className="sr-only">{date} GitHub Trending{brief ? ` ${brief.items.length}개` : ''}</h1>
     {error ? <section className="news-message" role="alert"><p>{error}</p><button onClick={() => setRetry(n => n + 1)}>다시 불러오기</button></section> : missing ? <p className="news-message" role="status">이 날짜에는 발행된 분석이 없습니다. 다른 날짜를 선택해 주세요.</p> : !brief || brief.date !== date ? <p className="news-message" role="status">분석을 불러오고 있습니다.</p> : <ol className="posts news-stories">
       {brief.items.map(item => <li key={`${date}:${item.repo}`}><article>
         <ProjectImage item={item}/>
         <section className="post-top news-static-heading">
           <small className="rank" aria-hidden="true">{String(item.rank).padStart(2, '0')}</small>
           <hgroup className="post-main">
-            <p className="news-story-meta"><span>GitHub Trending</span><span>오늘 별 +{item.starsToday.toLocaleString('ko-KR')}</span></p>
+            <p className="news-story-meta"><span>GitHub Trending</span><span>{[item.language ?? (item.starsTotal !== undefined ? '언어 미표기' : null), item.starsTotal !== undefined ? `누적 별 ${item.starsTotal.toLocaleString('ko-KR')}` : null, `오늘 +${item.starsToday.toLocaleString('ko-KR')}`, item.forks !== undefined ? `포크 ${item.forks.toLocaleString('ko-KR')}` : null].filter(Boolean).join(' · ')}</span></p>
             <section className="news-title-share"><h2 className="news-story-title" id={`github-${item.rank}`}><a href={item.url} target="_blank" rel="noopener noreferrer">{item.repo.split('/')[1]} · {item.title}</a></h2><BriefCopyButton text={buildGitHubQuestion(brief,item)} title={item.repo} question/></section>
           </hgroup>
         </section>

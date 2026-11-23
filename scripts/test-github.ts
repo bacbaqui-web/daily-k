@@ -10,8 +10,8 @@ for (const entry of index.editions) {
   const raw = readFileSync(new URL(entry.path, root), 'utf8');
   assert.equal(raw, readFileSync(new URL(`../docs/data/github/${entry.path}`, import.meta.url), 'utf8'));
   const brief = JSON.parse(raw);
-  assert.ok(isGitHubBrief(brief), entry.date);
-  const malformed = structuredClone(brief); malformed.items[0] = null;
+  assert.ok(isGitHubBrief(brief, entry.count), entry.date);
+  const malformed: any = structuredClone(brief); malformed.items[0] = null;
   assert.ok(!isGitHubBrief(malformed), 'Malformed items fail without crashing');
   const reordered = structuredClone(brief); [reordered.items[0], reordered.items[1]] = [reordered.items[1], reordered.items[0]];
   assert.ok(!isGitHubBrief(reordered), 'Never silently accept reordered rankings');
@@ -20,7 +20,7 @@ for (const entry of index.editions) {
   const invalidEmphasis = structuredClone(brief); invalidEmphasis.items[0].emphasis = ['본문에 없는 강조 문구'];
   assert.ok(!isGitHubBrief(invalidEmphasis), 'Emphasis must refer to existing copy');
   const truncated = structuredClone(brief); truncated.items.pop();
-  assert.ok(!isGitHubBrief(truncated), 'Never publish only part of the top ten');
+  assert.ok(!isGitHubBrief(truncated), 'Never publish only part of the captured ranking');
   const traversal = structuredClone(brief); traversal.items[0].image.src = '/daily-k/data/github/images/../../private.png';
   assert.ok(!isGitHubBrief(traversal));
   for (const item of brief.items) {
@@ -31,3 +31,13 @@ for (const entry of index.editions) {
   }
 }
 console.log(`GitHub: ${index.editions.length} edition(s), full ranking, safe links and image parity verified`);
+
+const sample = JSON.parse(readFileSync(new URL(index.editions[0].path, root), 'utf8'));
+const variable = {...sample, itemCount: 7, items: sample.items.slice(0, 7).map((item: object) => ({...item, starsTotal: 1234, forks: 56, language: null}))};
+assert.ok(isGitHubBrief(variable, 7), 'Any complete count and unspecified language are valid');
+assert.equal(isGitHubBrief(variable, 10), false, 'Index and edition counts must agree');
+assert.ok(isGitHubIndex({schemaVersion: 1, editions: [{date: sample.date, path: `${sample.date}.json`, count: 7}]}));
+delete variable.items[0].forks;
+assert.equal(isGitHubBrief(variable), false, 'New editions require all captured metrics');
+variable.items[0].forks = -1;
+assert.equal(isGitHubBrief(variable), false, 'Negative metrics are invalid');

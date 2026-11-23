@@ -12,6 +12,7 @@ import tempfile
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from collect import parse_ranking
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -43,10 +44,15 @@ def validate(state):
         require(review.get(name + 'Sha256') == digest(state / (name + '.json')), name + ' changed after review')
     require(review.get('responseSha256') == digest(state / 'chatgpt-response.txt'), 'Response changed after review')
     require(nonempty(analysis.get('intro')), 'Missing intro')
-    require(len(snapshot['items']) == len(analysis['items']) == len(images) == 10, 'Exactly ten entries required')
-    require(len({i['repo'] for i in snapshot['items']}) == 10, 'Duplicate repository')
+    count = snapshot.get('itemCount', 10)
+    require(type(count) is int and count > 0, 'Invalid snapshot count')
+    require(len(snapshot['items']) == len(analysis['items']) == len(images) == count, 'Every captured entry is required')
+    if 'itemCount' in snapshot:
+        captured = parse_ranking((state / 'trending.html').read_text())
+        require([{k: i[k] for k in ['rank', 'repo', 'starsToday', 'starsTotal', 'forks', 'language']} for i in captured] == [{k: i.get(k) for k in ['rank', 'repo', 'starsToday', 'starsTotal', 'forks', 'language']} for i in snapshot['items']], 'Snapshot differs from full captured ranking')
+    require(len({i['repo'] for i in snapshot['items']}) == count, 'Duplicate repository')
     checks = review.get('items', [])
-    require(len(checks) == 10, 'Ten source reviews required')
+    require(len(checks) == count, 'Every captured entry needs a source review')
     output = []
     for rank, (original, item, image, check) in enumerate(zip(snapshot['items'], analysis['items'], images, checks), 1):
         repo = original['repo']
@@ -71,8 +77,9 @@ def validate(state):
         require(nonempty(image.get('alt')) and nonempty(image.get('caption')) and image.get('sourceUrl', '').startswith('https://'), 'Missing image attribution')
         output.append({**{k: item[k] for k in ['rank', 'repo', 'title', 'summary', 'explanation', 'useCase', 'requirements', 'sources']},
                        'emphasis': emphasis, 'url': f'https://github.com/{repo}', 'starsToday': original['starsToday'],
+                       **{k: original[k] for k in ['starsTotal', 'forks', 'language'] if k in original},
                        'image': {'src': f"/daily-k/data/github/images/{date}/{image['file']}", **{k: image[k] for k in ['alt', 'caption', 'sourceUrl']}}})
-    return {'schemaVersion': 1, 'date': date, 'capturedAt': snapshot['capturedAt'],
+    return {'schemaVersion': 1, 'date': date, **({'itemCount': count} if 'itemCount' in snapshot else {}), 'capturedAt': snapshot['capturedAt'],
             'publishedAt': datetime.now(ZoneInfo('Asia/Seoul')).isoformat(),
             'rankingUrl': snapshot['rankingUrl'], 'intro': analysis['intro'], 'items': output}, images
 
@@ -97,7 +104,7 @@ def publish(state, root=ROOT, check=False):
             published = root / folder / 'data/github/images' / date / image['file']
             require(not published.exists() or digest(published) == image['sha256'], 'Published image differs; preserve the original')
     if check:
-        return {'checked': True, 'date': date, 'count': 10}
+        return {'checked': True, 'date': date, 'count': len(brief['items'])}
     lock = root / '.github-publish.lock'
     fd = os.open(lock, os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o600)
     try:
@@ -111,12 +118,12 @@ def publish(state, root=ROOT, check=False):
             index_path = base / 'index.json'
             index = json.loads(index_path.read_text()) if index_path.exists() else {'schemaVersion': 1, 'editions': []}
             entries = [e for e in index['editions'] if e['date'] != date]
-            entries.append({'date': date, 'path': f'{date}.json', 'count': 10})
+            entries.append({'date': date, 'path': f'{date}.json', 'count': len(brief['items'])})
             atomic_json(index_path, {'schemaVersion': 1, 'editions': sorted(entries, key=lambda e: e['date'], reverse=True)})
     finally:
         os.close(fd)
         lock.unlink()
-    return {'written': True, 'date': date, 'count': 10, 'gitPushRequired': True}
+    return {'written': True, 'date': date, 'count': len(brief['items']), 'gitPushRequired': True}
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

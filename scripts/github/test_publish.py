@@ -19,6 +19,24 @@ def test(state):
         before = {str(p.relative_to(root)): p.read_bytes() for p in root.rglob('*') if p.is_file()}
         publish(copy, root)
         assert before == {str(p.relative_to(root)): p.read_bytes() for p in root.rglob('*') if p.is_file()}, 'Retry must preserve original publication'
+        if 'itemCount' in json.loads((copy / 'snapshot.json').read_text()):
+            snapshot = copy / 'snapshot.json'
+            original = snapshot.read_bytes()
+            changed = json.loads(original)
+            changed['items'][-1]['starsTotal'] += 1
+            snapshot.write_text(json.dumps(changed))
+            review_path = copy / 'review.json'
+            original_review = review_path.read_bytes()
+            review_value = json.loads(original_review)
+            review_value['snapshotSha256'] = digest(snapshot)
+            review_path.write_text(json.dumps(review_value))
+            try:
+                publish(copy, root, check=True)
+                raise AssertionError('Metrics must match captured HTML even after rehashing')
+            except ValueError as e:
+                assert 'Snapshot differs' in str(e)
+            snapshot.write_bytes(original)
+            review_path.write_bytes(original_review)
         analysis = copy / 'analysis.json'
         changed = json.loads(analysis.read_text())
         changed['items'][0], changed['items'][1] = changed['items'][1], changed['items'][0]

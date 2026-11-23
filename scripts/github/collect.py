@@ -19,25 +19,35 @@ def fetch(url):
 
 def parse_ranking(source):
     items = []
-    for article in re.findall(r'<article\b.*?</article>', source, re.S):
+    articles = re.findall(r'<article\b.*?</article>', source, re.S)
+    if len(articles) != len(re.findall(r'<article\b', source)):
+        raise ValueError('Incomplete ranking HTML')
+    for article in articles:
         heading = re.search(r'<h2\b.*?</h2>', article, re.S)
         if not heading:
-            continue
+            raise ValueError("Ranking entry is missing its heading")
         link = re.search(r'href="/([A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+)"', heading[0])
         if not link:
-            continue
+            raise ValueError("Ranking entry is missing its repository")
         repo = link[1]
         text = html.unescape(re.sub(r'<[^>]+>', ' ', article))
         stars = re.search(r'([\d,]+)\s+stars?\s+today', text)
         if not stars:
             raise ValueError(f'Missing daily stars: {repo}')
+        def total(suffix):
+            anchor = re.search(r'<a\b[^>]*href="/' + re.escape(repo) + '/' + suffix + r'"[^>]*>(.*?)</a>', article, re.S)
+            value = html.unescape(re.sub(r'<[^>]+>', '', anchor[1])).strip() if anchor else ''
+            if not re.fullmatch(r'[\d,]+', value):
+                raise ValueError(f'Missing or invalid {suffix}: {repo}')
+            return int(value.replace(',', ''))
+        language = re.search(r'<span\b[^>]*itemprop="programmingLanguage"[^>]*>(.*?)</span>', article, re.S)
         items.append({'rank': len(items) + 1, 'repo': repo,
                       'url': f'https://github.com/{repo}',
-                      'starsToday': int(stars[1].replace(',', ''))})
-        if len(items) == 10:
-            break
-    if len(items) != 10 or len({x['repo'] for x in items}) != 10:
-        raise ValueError('Expected exactly ten unique repositories; refusing partial ranking')
+                      'starsToday': int(stars[1].replace(',', '')),
+                      'starsTotal': total('stargazers'), 'forks': total('forks'),
+                      'language': html.unescape(language[1]).strip() if language else None})
+    if not items or len({x['repo'] for x in items}) != len(items):
+        raise ValueError('Expected a non-empty ranking with unique repositories')
     return items
 
 def collect(output, saved_html=None):
@@ -72,7 +82,7 @@ def collect(output, saved_html=None):
         items = list(pool.map(enrich, items))
     value = {'schemaVersion': 1, 'date': captured.date().isoformat(),
              'capturedAt': captured.isoformat(), 'rankingUrl': TRENDING,
-             'period': 'daily', 'language': 'all', 'items': items}
+             'period': 'daily', 'language': 'all', 'itemCount': len(items), 'items': items}
     target.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps({'snapshot': str(target), 'date': value['date'], 'count': len(items)}))
 
