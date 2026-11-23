@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T00:41:02.197278+09:00",
-  "windowEnd": "2026-11-24T00:36:48.534136+09:00",
+  "collectedAt": "2026-11-23T15:51:32.622346+00:00",
+  "windowEnd": "2026-11-24T00:51:32.359191+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8746,117 +8746,6 @@
       "firstPublishedAt": "2026-11-23T04:59:10.512061+00:00"
     },
     {
-      "id": "aagag-1671804-0",
-      "url": "https://aagag.com/issue/?idx=1671804",
-      "source": "애객",
-      "title": "르세라핌 사쿠라 검정 브라",
-      "publishedAt": "2026-11-23T00:40:04+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wUM.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wUc.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wps.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wV5.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wqu.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wpY.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wqM.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6wUM.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wUc.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wps.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wV5.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wqu.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wpY.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wqM.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9014608",
-          "text": "사쿠라 이제 한국아이돌로 보이네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T00:42:35.509849+09:00",
-      "sourceTitles": [
-        "르세라핌 사쿠라",
-        "르세라핌 사쿠라 검정 브라",
-        "ㅇㅎ) 어제자 사쿠라 .gif",
-        "ㅇㅎ) 오늘자 르세라핌 사쿠라",
-        "ㅇㅎ?) 오늘자 사쿠라 .gif",
-        "르세라핌 사쿠라"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-22T15:42:46.956199+00:00",
-      "collectedAt": "2026-11-23T00:42:46.956216+09:00",
-      "firstPublishedAt": "2026-11-22T15:42:47.051603+00:00"
-    },
-    {
       "id": "aagag-1671878-0",
       "url": "https://aagag.com/issue/?idx=1671878",
       "source": "애객",
@@ -8899,9 +8788,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 351,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
