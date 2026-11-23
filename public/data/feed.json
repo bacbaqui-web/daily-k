@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-23T23:37:54.911126+09:00",
-  "windowEnd": "2026-11-23T23:32:15.461093+09:00",
+  "collectedAt": "2026-11-23T14:48:24.910104+00:00",
+  "windowEnd": "2026-11-23T23:48:24.452163+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8387,59 +8387,6 @@
       "firstPublishedAt": "2026-11-22T15:42:47.051603+00:00"
     },
     {
-      "id": "aagag-1671796-0",
-      "url": "https://aagag.com/issue/?idx=1671796",
-      "source": "애객",
-      "title": "드래곤볼 팬아트 레전드",
-      "publishedAt": "2026-11-22T23:36:20+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6iqM.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "진짜 잘그린다"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6iqM.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "진짜 잘그린다",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9014478",
-          "text": "근데..어째 시작이 다 이상한데????"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-22T23:42:20.198825+09:00",
-      "sourceTitles": [
-        "ㅇㅎ?)드래곤볼",
-        "ㅇㅎ)드래곤볼 구멍과 기둥",
-        "ㅇㅎ)드래곤볼 구멍과 기둥",
-        "드래곤볼 팬아트 레전드"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-22T14:42:28.453915+00:00",
-      "collectedAt": "2026-11-22T23:42:28.453932+09:00",
-      "firstPublishedAt": "2026-11-22T14:42:28.668808+00:00"
-    },
-    {
       "id": "aagag-1671878-0",
       "url": "https://aagag.com/issue/?idx=1671878",
       "source": "애객",
@@ -8482,9 +8429,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 352,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
