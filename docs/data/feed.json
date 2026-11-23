@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T05:31:04.903221+09:00",
-  "windowEnd": "2026-11-24T05:22:33.889198+09:00",
+  "collectedAt": "2026-11-23T20:41:32.375070+00:00",
+  "windowEnd": "2026-11-24T05:41:32.090804+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6503,63 +6503,6 @@
       "firstPublishedAt": "2026-11-22T23:40:43.905493+00:00"
     },
     {
-      "id": "aagag-1671822-0",
-      "url": "https://aagag.com/issue/?idx=1671822",
-      "source": "애객",
-      "title": "많은걸 오해한 베트남인",
-      "publishedAt": "2026-11-23T05:17:30+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L77R7.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "아니야 우리 한중일은 베트남이 무서워서 그런거니깐\n계속 깝쳐줘!!"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L77R7.webp"
-      ],
-      "videos": [],
-      "excerpt": "아니야 우리 한중일은 베트남이 무서워서 그런거니깐\n계속 깝쳐줘!!",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 3,
-      "laughingComments": 2,
-      "score": 11,
-      "kPerComment": 3.6666666666666665,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9014820",
-          "text": "뭐야 깨달아버렸어 자아만 비대해져서는ㅋㅋ 끼고싶으면 태국이나 이기고 오라니깐"
-        },
-        {
-          "id": "9014823",
-          "text": "어차피 저런애들은 베트남국뽕 애들한테 묻히니까 걱정말라고 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9014828",
-          "text": "오~~ 똑똑한 응우엔이 있었네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T05:34:11.300720+09:00",
-      "sourceTitles": [
-        "빨간약을 먹어버린 베트남인...",
-        "많은걸 오해한 베트남인",
-        "많은걸 오해한 베트남인",
-        "빨간약을 먹어버린 베트남인... jjack"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-22T20:34:20.634086+00:00",
-      "collectedAt": "2026-11-23T05:34:20.634102+09:00",
-      "firstPublishedAt": "2026-11-22T20:34:20.933486+00:00"
-    },
-    {
       "id": "aagag-1671858-0",
       "url": "https://aagag.com/issue/?idx=1671858",
       "source": "애객",
@@ -9236,9 +9179,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 350,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
