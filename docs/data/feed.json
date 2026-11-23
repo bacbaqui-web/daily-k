@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-23T02:05:31.236977+00:00",
+  "collectedAt": "2026-11-23T02:07:00.895816+00:00",
   "windowEnd": "2026-11-23T11:05:30.957216+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2203,6 +2203,81 @@
       "sourceTitlesFetchedAt": "2026-11-22T03:05:30.161960+00:00",
       "collectedAt": "2026-11-22T12:05:30.161995+09:00",
       "firstPublishedAt": "2026-11-22T03:05:30.452356+00:00"
+    },
+    {
+      "id": "aagag-1671893-0",
+      "url": "https://aagag.com/issue/?idx=1671893",
+      "source": "애객",
+      "title": "남자끼리 술 먹다 뻗으면 안되는 이유",
+      "publishedAt": "2026-11-23T11:00:55+09:00",
+      "content": [
+        {
+          "type": "text",
+          "text": ","
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L5shc.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L5shc.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": ",",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 37,
+      "commentCount": 6,
+      "laughingComments": 5,
+      "score": 37,
+      "kPerComment": 6.166666666666667,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9015928",
+          "text": "목에 담오겠는데 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9015929",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9015932",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ얼마나 마신거야"
+        },
+        {
+          "id": "9015933",
+          "text": "목 안결리나? ㅋㅋㅋ 술먹다 뻗으면 안되는 이유라기 보단 \"먼저 뻗으면 안되는 이유\" 네요 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9015956",
+          "text": "어... 음 hub같은데 나올거같은데 나만 그런생각하나 ㄷㄷ"
+        },
+        {
+          "id": "9015968",
+          "text": "아 씨 화장실에서 똥싸다가 빵 터졌네 옆사로에 사람있는데 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-23T11:06:51.179430+09:00",
+      "sourceTitles": [
+        "남자끼리 술 마시고 먼저 잠들면 안 되는 이유 ㄷㄷ",
+        "남자끼리 술 먹다 뻗으면 안되는 이유",
+        "남자새끼들끼리 술마실 떄 먼저 뻗음 안되는 이유 ㄷㄷ",
+        "남자새끼들끼리 술마실 떄 먼저 뻗음 안되는 이유 ㄷㄷ",
+        "술먹고 뻗은친구 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "술먹고 먼저 잠드면 생기는 일 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-23T02:07:00.797968+00:00",
+      "collectedAt": "2026-11-23T11:07:00.797987+09:00",
+      "firstPublishedAt": "2026-11-23T02:07:00.927549+00:00"
     },
     {
       "id": "aagag-1157454-1",
@@ -6944,7 +7019,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
