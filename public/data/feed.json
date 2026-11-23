@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-23T19:08:47.942747+09:00",
-  "windowEnd": "2026-11-23T19:00:53.651073+09:00",
+  "collectedAt": "2026-11-23T10:19:18.184976+00:00",
+  "windowEnd": "2026-11-23T19:19:17.756175+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6965,62 +6965,6 @@
       "firstPublishedAt": "2026-11-22T23:08:29.973204+00:00"
     },
     {
-      "id": "aagag-1671749-0",
-      "url": "https://aagag.com/issue/?idx=1671749",
-      "source": "애객",
-      "title": "쭉쭉빵빵 트위터녀 vs GTA6",
-      "publishedAt": "2026-11-22T19:04:03+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/JQM3K.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/JQM3K.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9013781",
-          "text": "맨디선에서 컷"
-        },
-        {
-          "id": "9013785",
-          "text": "PC판 모드 기대중!!!!!"
-        },
-        {
-          "id": "9013787",
-          "text": "벌써 활동 10년차인 아모란스 누님.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-22T19:17:33.069297+09:00",
-      "sourceTitles": [
-        "쭉쭉빵빵 트위터녀 vs GTA6",
-        "ㅇㅎ) GTA6와 맞짱뜬 세계 최고 여캠 스트리머.jpg",
-        "쭉쭉빵빵 트위터녀 vs GTA6",
-        "ㅇㅎ) 쭉쭉빵빵 트위터녀 vs GTA6",
-        "쭉쭉빵빵 트위터녀 vs GTA6",
-        "여자대GTA",
-        "쭉쭉빵빵 트위터녀 vs GTA6"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 7,
-      "sourceTitlesFetchedAt": "2026-11-22T10:17:40.187336+00:00",
-      "collectedAt": "2026-11-22T19:17:40.187354+09:00",
-      "firstPublishedAt": "2026-11-22T10:17:40.413557+00:00"
-    },
-    {
       "id": "aagag-1671989-0",
       "url": "https://aagag.com/issue/?idx=1671989",
       "source": "애객",
@@ -7409,9 +7353,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 329,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
