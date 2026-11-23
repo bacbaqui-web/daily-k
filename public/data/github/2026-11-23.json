@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-23",
+  "capturedAt": "2026-11-23T09:04:08.295015+09:00",
+  "publishedAt": "2026-11-23T09:14:08.357846+09:00",
+  "rankingUrl": "https://github.com/trending?since=daily",
+  "intro": "순위 페이지에 접근하지 못해 2026년 11월 23일 09:04 KST에 수집된 제공 스냅샷을 사용했습니다. 순위와 오늘 별 증가량은 그대로 유지하고, 기능·설치·비용·제한은 공식 자료로 확인했습니다.",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "title": "웹사이트 보안 문제 조사하기",
+      "summary": "허가받은 웹사이트를 알려주면 AI가 의심되는 보안 문제와 증거를 정리하도록 돕습니다. AI에 추가하는 점검 지침입니다.",
+      "explanation": [
+        "오늘 별 증가량: +1716.",
+        "웹사이트와 외부에 공개된 서비스의 점검 순서를 AI에 알려줍니다. 의심되는 문제는 실제 요청·응답과 영향을 확인해야 하며, 보고서 초안만으로 보안 문제가 입증되지는 않습니다.",
+        "점검 지침은 여러 AI 도구에서 쓸 수 있지만 전용 명령과 /hunt는 Claude Code용입니다. HackerOne 계정은 비공개 점검 대상과 본인 보고서를 조회할 때 필요합니다. Burp 연결은 선택이며, 유료판 전용 기능을 쓰면 별도 비용이 듭니다."
+      ],
+      "useCase": "점검을 허가받은 쇼핑몰에서 로그인과 이용 권한 문제를 조사하고, 같은 문제가 나타나는 조건과 증거를 보고서로 정리하는 데 활용할 수 있습니다.",
+      "requirements": "Claude Code 등 지원 AI 도구에 설치합니다. 지침·코드는 무료이며 AI 이용료는 별도입니다. 본인 소유이거나 서면으로 허가받은 대상만 점검해야 합니다.",
+      "sources": [
+        {
+          "label": "기능·설치·지원 AI",
+          "url": "https://raw.githubusercontent.com/elementalsouls/Claude-BugHunter/main/README.md"
+        },
+        {
+          "label": "설치 조건과 선택 기능",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter/blob/main/INSTALL.md"
+        },
+        {
+          "label": "점검 허가와 이용 범위",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter/blob/main/SECURITY.md"
+        },
+        {
+          "label": "선택 점검 도구 Burp의 유료판",
+          "url": "https://portswigger.net/burp/pro"
+        }
+      ],
+      "emphasis": [
+        "보안 문제와 증거",
+        "AI에 추가하는 점검 지침"
+      ],
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "starsToday": 1716,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/01.png",
+        "alt": "보안 점검 작업 지침 소개",
+        "caption": "보안 점검 작업 지침 소개",
+        "sourceUrl": "https://raw.githubusercontent.com/elementalsouls/Claude-BugHunter/main/assets/banner-v2.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "obra/superpowers",
+      "title": "AI의 코딩 순서 잡아주기",
+      "summary": "만들 기능을 AI에 말하면 계획부터 확인받고 코드를 쓰도록 안내합니다. 시험과 검토를 빠뜨리지 않게 AI에 넣는 작업 지침입니다.",
+      "explanation": [
+        "오늘 별 증가량: +788.",
+        "할 일을 작게 나누고, 기능이 제대로 작동하는지 확인할 시험을 먼저 만들도록 안내합니다. 실제 코드를 쓰고 실행하는 일은 연결한 AI 도구가 맡으며, 쓰는 환경에 따라 작업 방식이 달라집니다.",
+        "기업용 지원과 추가 도구, 비용 관리 서비스는 선택해서 이용하는 상용 서비스입니다."
+      ],
+      "useCase": "로그인 기능에 필요한 조건을 정한 뒤, 작동 시험 만들기·코드 작성·검토 순서로 AI가 작업하도록 구성할 수 있습니다.",
+      "requirements": "Claude Code·Codex·Cursor 등 지원 AI 도구에 각각 설치해야 합니다. 지침은 무료이며 연결한 AI의 계정·요금·사용 한도는 별도로 적용됩니다.",
+      "sources": [
+        {
+          "label": "작업 순서·설치·상용 서비스",
+          "url": "https://raw.githubusercontent.com/obra/superpowers/main/README.md"
+        },
+        {
+          "label": "무료 이용 라이선스",
+          "url": "https://raw.githubusercontent.com/obra/superpowers/main/LICENSE"
+        }
+      ],
+      "emphasis": [
+        "계획부터 확인",
+        "시험과 검토"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "starsToday": 788,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/02.png",
+        "alt": "obra/superpowers 저장소 소개 이미지",
+        "caption": "저장소 소개 이미지 · 실제 사용 화면은 아닙니다",
+        "sourceUrl": "https://opengraph.githubassets.com/3173ee42dfce5530ec11611e824452eb1ab82c6d17da6294f7ba46216dc45f93/obra/superpowers"
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "HKUDS/CLI-Anything",
+      "title": "쓰던 앱을 AI가 다루게 만들기",
+      "summary": "사진 편집이나 문서 변환을 AI에 맡길 수 있게, 기존 앱을 조작할 도구를 만듭니다. 이미 만든 도구를 골라 설치할 수도 있습니다.",
+      "explanation": [
+        "오늘 별 증가량: +699.",
+        "AI에 설치하는 제작 지침과, 만들어진 조작 도구를 골라 설치하는 CLI-Hub를 제공합니다. 새 도구는 앱의 원본 코드를 분석해 만들며, 빠진 기능은 추가 수정이 필요할 수 있습니다.",
+        "Windows에서 Claude Code와 함께 쓰려면 Git for Windows 또는 Windows 안에서 Linux를 쓰는 WSL이 필요합니다."
+      ],
+      "useCase": "이미지 편집 앱을 조작할 도구를 준비한 뒤, 여러 파일에 같은 편집 규칙을 적용하고 저장하는 작업을 AI에 맡기도록 만들 수 있습니다.",
+      "requirements": "새 도구 생성에는 Python 3.10 이상·지원 AI·대상 앱 또는 원본 코드가 필요합니다. 원래 앱도 설치해야 할 수 있습니다. 코드는 무료이며 AI·외부 요금은 별도입니다. Codex 연결은 실험 단계입니다.",
+      "sources": [
+        {
+          "label": "기능·필수 환경·Windows·실험 기능",
+          "url": "https://raw.githubusercontent.com/HKUDS/CLI-Anything/main/README.md"
+        }
+      ],
+      "emphasis": [
+        "기존 앱을 조작",
+        "이미 만든 도구"
+      ],
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "starsToday": 699,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/03.png",
+        "alt": "AI가 앱을 조작하는 과정을 설명한 그림",
+        "caption": "AI가 앱을 조작하는 과정을 설명한 그림",
+        "sourceUrl": "https://raw.githubusercontent.com/HKUDS/CLI-Anything/main/assets/teaser.png"
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "jingyaogong/minimind",
+      "title": "질문에 답하는 작은 AI 만들기",
+      "summary": "예제 문장과 질문·답변 자료로 작은 대화형 AI를 직접 가르치는 코드입니다. 학습 전후에 답변이 어떻게 달라지는지 살펴볼 수 있습니다.",
+      "explanation": [
+        "오늘 별 증가량: +473.",
+        "문장을 배우는 첫 학습부터 질문에 답하도록 가르치는 추가 학습까지 코드와 예제 자료를 제공합니다. 이미 학습된 AI를 내려받아 대화하는 방법도 있습니다.",
+        "CPU로도 실행할 수 있지만 학습 속도와 호환성 차이가 큽니다. 기본 학습 자료는 중국어 비중이 높고 영어 성능에도 한계가 있습니다. 소개된 학습 시간과 비용은 특정 장비·학습 단계의 사례입니다."
+      ],
+      "useCase": "예제 문장으로 작은 AI를 학습시킨 뒤 질문·답변 자료를 더 가르쳐, 답변이 어떻게 달라지는지 공부할 수 있습니다.",
+      "requirements": "Python과 AI 학습용 PyTorch, 학습 자료를 준비해 코드를 실행해야 합니다. 코드는 무료이며 장비·서버 대여비는 별도입니다. 예제 학습 자료는 중국어 중심입니다.",
+      "sources": [
+        {
+          "label": "학습 방법·장비 조건·성능 한계",
+          "url": "https://raw.githubusercontent.com/jingyaogong/minimind/master/README.md"
+        },
+        {
+          "label": "설치할 Python 도구 목록",
+          "url": "https://raw.githubusercontent.com/jingyaogong/minimind/master/requirements.txt"
+        }
+      ],
+      "emphasis": [
+        "작은 대화형 AI",
+        "직접 가르치는 코드"
+      ],
+      "url": "https://github.com/jingyaogong/minimind",
+      "starsToday": 473,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/04.jpg",
+        "alt": "MiniMind 대화 화면",
+        "caption": "MiniMind 대화 화면",
+        "sourceUrl": "https://raw.githubusercontent.com/jingyaogong/minimind/master/images/agent_webui.jpg"
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "cursor/plugins",
+      "title": "AI로 메일 찾고 일정 확인하기",
+      "summary": "Cursor에 필요한 기능을 더하면 AI에게 메일·문서 검색이나 일정 확인을 시킬 수 있습니다. 서비스 연결과 작업 지침을 모은 추가 기능입니다.",
+      "explanation": [
+        "오늘 별 증가량: +294.",
+        "코드를 검토하는 규칙부터 Gmail·Google Drive·Calendar 연결까지 필요한 기능을 골라 붙입니다. 기능을 설치한 뒤에도 이용자마다 해당 서비스에 로그인하거나 접근을 허용해야 할 수 있습니다.",
+        "개인 설치와 팀 전용 배포 공간의 이용 조건은 다릅니다. 팀에 기능을 배포해도 외부 서비스 인증까지 자동으로 끝나는 것은 아닙니다."
+      ],
+      "useCase": "Cursor의 AI에게 관련 문서를 찾아 달라고 하거나 회의 일정을 확인해 달라고 요청할 수 있도록 필요한 기능과 서비스 계정을 연결할 수 있습니다.",
+      "requirements": "Cursor 설치·로그인 후 추가 기능을 설치합니다. 코드는 무료이며 AI 요금·한도는 요금제에 따릅니다. 외부 계정·권한·요금은 별도이며 팀 전용 배포는 Teams·Enterprise용입니다.",
+      "sources": [
+        {
+          "label": "제공하는 추가 기능 목록",
+          "url": "https://raw.githubusercontent.com/cursor/plugins/main/README.md"
+        },
+        {
+          "label": "설치·외부 인증·팀 전용 배포 조건",
+          "url": "https://cursor.com/docs/plugins"
+        },
+        {
+          "label": "AI 요금과 사용 한도",
+          "url": "https://cursor.com/docs/models-and-pricing"
+        },
+        {
+          "label": "앱 설치와 로그인",
+          "url": "https://cursor.com/docs/get-started/quickstart"
+        }
+      ],
+      "emphasis": [
+        "메일·문서 검색",
+        "일정 확인"
+      ],
+      "url": "https://github.com/cursor/plugins",
+      "starsToday": 294,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/05.png",
+        "alt": "Cursor 로고",
+        "caption": "Cursor 로고",
+        "sourceUrl": "https://avatars.githubusercontent.com/u/126759922?s=400&v=4"
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "firecrawl/firecrawl",
+      "title": "웹사이트 글을 한꺼번에 모으기",
+      "summary": "웹사이트 주소를 넣으면 여러 페이지의 글과 링크를 한꺼번에 모아 줍니다. 웹서비스나 PC에 설치하는 프로그램으로 씁니다.",
+      "explanation": [
+        "오늘 별 증가량: +915.",
+        "PC용을 AI에 연결할 때는 Node.js 22 이상이 필요합니다. 화면 내용을 나중에 불러오는 일부 페이지를 읽으려면 Chrome·Chromium 중 하나도 필요합니다. 기본 설정에서는 PC에서 읽지 못한 페이지를 웹서비스에 다시 요청합니다.",
+        "웹서비스의 일부 조회는 가입 없이 무료 한도로 쓸 수 있습니다. 무료 계정을 만들면 더 많은 기능을 쓸 수 있으며, 사용량과 선택 기능에 따라 크레딧이 소모됩니다.",
+        "서버 전체를 직접 설치하려면 Docker·Compose와 서버 운영이 필요하고 운영비는 별도입니다. 직접 설치한 서버에는 웹서비스의 모든 기능이 포함되지 않습니다."
+      ],
+      "useCase": "회사 제품 설명서의 여러 페이지를 모아, 고객지원 AI가 답변할 때 참고할 문서 자료로 정리할 수 있습니다.",
+      "requirements": "무료 PC용은 Rust·C 개발 도구가 필요합니다. 웹서비스는 무료 한도와 유료 요금제가 있으며, 여러 페이지 수집 등에는 계정·인증키가 필요합니다.",
+      "sources": [
+        {
+          "label": "PC용·웹서비스·서버형의 기능과 설치",
+          "url": "https://raw.githubusercontent.com/firecrawl/firecrawl/main/README.md"
+        },
+        {
+          "label": "무가입 이용과 기능별 제한",
+          "url": "https://docs.firecrawl.dev/rate-limits"
+        },
+        {
+          "label": "무료 계정·유료 요금·사용량 계산",
+          "url": "https://docs.firecrawl.dev/billing"
+        },
+        {
+          "label": "직접 설치한 서버와 웹서비스의 차이",
+          "url": "https://docs.firecrawl.dev/contributing/open-source-or-cloud"
+        }
+      ],
+      "emphasis": [
+        "여러 페이지의 글과 링크",
+        "무료 한도와 유료 요금제"
+      ],
+      "url": "https://github.com/firecrawl/firecrawl",
+      "starsToday": 915,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/06.png",
+        "alt": "Firecrawl 자체 운영과 클라우드 비교",
+        "caption": "Firecrawl 자체 운영과 클라우드 비교",
+        "sourceUrl": "https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/open-source-cloud.png"
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "nginx/nginx",
+      "title": "웹사이트 글과 사진 보내주기",
+      "summary": "사람이 웹사이트에 들어오면 준비해 둔 글과 사진을 보내 주는 서버 프로그램입니다. 접속 요청을 여러 서버에 나눠 보내게 설정할 수도 있습니다.",
+      "explanation": [
+        "오늘 별 증가량: +163.",
+        "웹사이트 파일을 직접 보내거나 요청을 앱이 돌아가는 서버에 전달합니다. 자주 찾는 내용은 저장해 뒀다가 다시 보내도록 설정할 수 있습니다. 사이트에 보여줄 내용과 운영할 서버는 따로 준비해야 합니다."
+      ],
+      "useCase": "이미 만든 쇼핑몰에서 상품 사진을 보내고, 접속 요청은 여러 앱 서버로 나눠 처리하도록 설정할 수 있습니다.",
+      "requirements": "서버에 설치하고 설정 파일을 직접 작성해야 합니다. 프로그램은 무료이며 서버 운영비와 기업용 제품·지원은 별도입니다. Windows판은 시험 단계로 성능·기능 제한이 있습니다.",
+      "sources": [
+        {
+          "label": "기능·설치·무료와 상용 구분",
+          "url": "https://raw.githubusercontent.com/nginx/nginx/master/README.md"
+        },
+        {
+          "label": "사이트 파일 제공과 서버 연결",
+          "url": "https://nginx.org/en/docs/beginners_guide.html"
+        },
+        {
+          "label": "Windows판의 시험 단계와 제한",
+          "url": "https://nginx.org/en/docs/windows.html"
+        }
+      ],
+      "emphasis": [
+        "글과 사진",
+        "여러 서버"
+      ],
+      "url": "https://github.com/nginx/nginx",
+      "starsToday": 163,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/07.png",
+        "alt": "NGINX 소개 배너",
+        "caption": "NGINX 소개 배너",
+        "sourceUrl": "https://github.com/user-attachments/assets/3a7eeb08-1133-47f5-859c-fad4f5a6a013"
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "openvinotoolkit/openvino",
+      "title": "내 컴퓨터에 맞게 AI 실행하기",
+      "summary": "이미 학습된 AI를 컴퓨터에 맞게 바꿔, 사진 분석이나 음성 받아쓰기에 쓰는 코드입니다. 앱에 연결하는 개발 작업이 필요합니다.",
+      "explanation": [
+        "오늘 별 증가량: +158.",
+        "이미 학습된 AI를 지원 기기에서 실행할 형태로 바꾸고, 컴퓨터 자원을 덜 쓰도록 돕습니다. 지원되는 CPU에서도 실행할 수 있으며, 기기와 운영체제에 따라 되는 기능이 다릅니다.",
+        "Ubuntu 24.04에서 Intel AI 전용칩을 쓰는 지원은 시험 단계입니다."
+      ],
+      "useCase": "학습된 음성 인식 AI를 PC 앱에 연결해, 녹음 파일을 글로 바꾸는 기능을 만들 수 있습니다.",
+      "requirements": "무료이며 학습된 AI와 앱 연결 개발이 필요합니다. Intel 그래픽·AI 칩은 드라이버를 따로 설치합니다. Mac 지원은 Apple Silicon·macOS 12.6 이상 기준입니다.",
+      "sources": [
+        {
+          "label": "지원하는 AI 작업·설치·라이선스",
+          "url": "https://raw.githubusercontent.com/openvinotoolkit/openvino/master/README.md"
+        },
+        {
+          "label": "기기·운영체제·드라이버·시험 지원",
+          "url": "https://docs.openvino.ai/2026/about-openvino/release-notes-openvino/system-requirements.html"
+        }
+      ],
+      "emphasis": [
+        "이미 학습된 AI",
+        "앱에 연결하는 개발 작업"
+      ],
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "starsToday": 158,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/08.png",
+        "alt": "OpenVINO 로고",
+        "caption": "OpenVINO 로고",
+        "sourceUrl": "https://storage.openvinotoolkit.org/assets/branding/openvino-logo-transparent-white-outline.svg"
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "cathrynlavery/diagram-design",
+      "title": "설명한 내용을 그림으로 정리",
+      "summary": "일의 순서나 구조를 글로 설명하면 AI가 흐름도나 구조도를 그리도록 돕는 지침입니다. 결과는 브라우저에서 여는 파일로 받을 수 있습니다.",
+      "explanation": [
+        "오늘 별 증가량: +518.",
+        "기존 도표를 다시 그리거나 웹사이트의 색상·글꼴을 가져와 적용할 수 있습니다. 기본 결과는 브라우저에서 여는 HTML 파일이며 SVG·PNG 그림으로 저장하는 기능도 있습니다.",
+        "도형을 마우스로 끌어 고치는 편집 화면은 없습니다. AI에게 수정을 요청하거나 그림을 정한 코드를 고치며, 결과의 품질과 배치는 사용하는 AI에 따라 달라질 수 있습니다."
+      ],
+      "useCase": "주문 접수부터 배송까지의 순서를 글로 설명해 흐름도를 만들고, 회사 색상에 맞춰 발표 자료에 넣을 그림으로 준비할 수 있습니다.",
+      "requirements": "지원 AI 도구에 설치하는 무료 지침이며 AI 이용료는 별도입니다. PNG 그림 저장에는 Python용 화면 캡처 도구 Playwright와 Chromium 브라우저가 필요합니다.",
+      "sources": [
+        {
+          "label": "입력·결과 파일·수정 방식·한계",
+          "url": "https://raw.githubusercontent.com/cathrynlavery/diagram-design/main/README.md"
+        },
+        {
+          "label": "PNG 저장에 필요한 설치",
+          "url": "https://github.com/cathrynlavery/diagram-design/blob/main/docs/cookbook.md"
+        },
+        {
+          "label": "무료 이용 라이선스",
+          "url": "https://raw.githubusercontent.com/cathrynlavery/diagram-design/main/LICENSE"
+        }
+      ],
+      "emphasis": [
+        "흐름도나 구조도",
+        "브라우저에서 여는 파일"
+      ],
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "starsToday": 518,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/09.webp",
+        "alt": "Diagram Design 도표 예시",
+        "caption": "Diagram Design 도표 예시",
+        "sourceUrl": "https://raw.githubusercontent.com/cathrynlavery/diagram-design/main/docs/hero/hero-light.webp"
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "mvanhorn/last30days-skill",
+      "title": "요즘 사람들의 질문과 불만 모으기",
+      "summary": "주제를 알려주면 AI가 최근 글·댓글·영상 자막을 모아 사람들의 질문과 반응을 정리합니다. AI에 추가하는 조사 지침과 수집 프로그램입니다.",
+      "explanation": [
+        "오늘 별 증가량: +668.",
+        "Reddit 등 일부 출처는 별도 인증키 없이 조회할 수 있습니다. YouTube 자료는 yt-dlp 같은 추가 도구로 모으며, 유료 조회 서비스를 연결해 보완하는 경로도 있습니다.",
+        "최근 한 달을 중심으로 조사하지만 모든 출처에서 한 달치 자료를 확보하지는 못합니다. X의 일반 공식 조회 방식은 전체 기록을 볼 권한이 없으면 약 최근 일주일로 제한될 수 있습니다."
+      ],
+      "useCase": "새 영상 편집 프로그램에 관한 최근 질문과 불만을 모아, 비교 영상에서 다룰 내용을 정하는 데 활용할 수 있습니다.",
+      "requirements": "지원 AI 도구와 Python 3.12 이상이 필요합니다. 코드는 무료이며 AI·외부 조회 요금은 별도입니다. 출처에 따라 로그인·인증키·추가 도구가 필요하고 조회 기간도 다릅니다.",
+      "sources": [
+        {
+          "label": "기능·지원 AI·설치 방법",
+          "url": "https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/README.md"
+        },
+        {
+          "label": "Python 실행 조건과 지침·프로그램 구성",
+          "url": "https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/skills/last30days/SKILL.md"
+        },
+        {
+          "label": "출처별 인증·추가 도구·요금·조회 기간",
+          "url": "https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/CONFIGURATION.md"
+        }
+      ],
+      "emphasis": [
+        "글·댓글·영상 자막",
+        "질문과 반응"
+      ],
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "starsToday": 668,
+      "image": {
+        "src": "/daily-k/data/github/images/2026-11-23/10.png",
+        "alt": "mvanhorn/last30days-skill 저장소 소개 이미지",
+        "caption": "저장소 소개 이미지 · 실제 사용 화면은 아닙니다",
+        "sourceUrl": "https://opengraph.githubassets.com/1e8e2d8767fd6cca6dcc30fc64186ef67724cec4a0c098ebffd3f3c39a9a4946/mvanhorn/last30days-skill"
+      }
+    }
+  ]
+}
