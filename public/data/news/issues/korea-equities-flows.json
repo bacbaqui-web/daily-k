@@ -1404,6 +1404,125 @@
       "uncertainty": "증시안정펀드를 실제 투입한 것은 아니며 시장 상황에 따라 가동할 수 있도록 준비하는 단계입니다. 향후 주가 안정 효과도 확인되지 않았습니다."
     },
     {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "경제·금융",
+      "change": "정부의 증시 안정 대책 발표 이후 금융위원회가 상장사 자사주 하루 매수 주문 한도를 3개월간 완화하는 안건을 공식 의결했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 23일 금융위원회 정례회의에서 한시적 규정 완화가 의결됐습니다. 실제 적용 기간은 2026년 11월 24일부터 2027년 2월 23일까지로 발표됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "22일 정부가 발표한 자사주 매수 한도 완화 계획을 23일 금융위원회가 정식 의결해 24일부터 내년 2월 23일까지 적용하도록 확정했습니다.",
+        "editionId": "2026-11-22-pm",
+        "storyId": "f4-stock-stabilization-measures-20261122"
+      },
+      "id": "2026-11-23-pm/fsc-share-buyback-limit-relaxed-vote-20261123",
+      "keyFacts": {
+        "decisionDate": "2026년 11월 23일 정례회의",
+        "directBuyback": "신고한 자기주식 전체 수량만큼 하루 매수 주문 가능",
+        "duration": "3개월간 한시적 완화",
+        "effectiveEnd": "2027-02-23",
+        "effectiveStart": "2026-11-24",
+        "legalLimit": "배당가능이익 한도 내 자사주 취득 제한 유지",
+        "previousStep": "11월 22일 관계기관 긴급 시장상황점검회의에서 발표한 계획의 후속 의결",
+        "regulator": "금융위원회",
+        "trustBuyback": "신탁재산 총액 범위 내에서 하루 매수 주문 가능하도록 완화"
+      },
+      "previous": {
+        "editionId": "2026-11-23-pm",
+        "storyId": "kospi-second-consecutive-plunge-20261123"
+      },
+      "publishedAt": "2026-11-23T15:05:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T15:05:00+09:00",
+          "title": "상장사 자사주 1일 취득 한도 3개월간 풀린다…증시 안정 차원",
+          "url": "https://www.yna.co.kr/view/AKR20261123120600002",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "fsc-share-buyback-limit-relaxed-vote-20261123",
+      "summary": [
+        "금융위원회가 상장기업의 자사주 하루 매수 주문 한도를 24일부터 3개월간 완화하기로 의결했습니다.",
+        "기업은 신고한 전체 자사주 취득 수량만큼 하루에 매수 주문을 낼 수 있지만, 실제 매입과 주가 안정 효과는 아직 확인되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "금융위, 자사주 하루 매수 한도 완화 의결",
+      "uncertainty": "한도 완화 의결은 완료됐지만 시행은 24일부터입니다. 자사주 실제 취득 규모와 시장 안정 효과는 확정되지 않았으며 상법상 배당가능이익 한도는 유지됩니다."
+    },
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "경제·증시",
+      "change": "정부의 시장 안정 대책 준비 발표 이후 첫 거래일에도 코스피가 3.31% 추가 하락했고 매도 사이드카가 두 거래일 연속 발동됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 23일 국내 주식시장 정규장 마감 결과입니다. 원·달러 환율은 같은 날 오후 3시 30분 기준입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "22일 정부가 증시안정펀드 가동 준비를 발표한 뒤 열린 23일 시장에서도 코스피가 3.31% 추가 하락하고 두 거래일 연속 매도 사이드카가 발동됐습니다.",
+        "editionId": "2026-11-22-pm",
+        "storyId": "f4-stock-stabilization-measures-20261122"
+      },
+      "id": "2026-11-23-pm/kospi-second-consecutive-plunge-20261123",
+      "keyFacts": {
+        "exchangeRate": "오후 3시 30분 기준 원·달러 1,345.9원, 전 거래일 대비 9.7원 상승",
+        "foreignInvestors": "코스피 시장 외국인 2,472억원 순매도, 7거래일 연속 매도 우위",
+        "kosdaqClose": "635.45, 전 거래일 대비 10.23포인트 및 1.58% 하락",
+        "kospiClose": "4,708.54, 전 거래일 대비 161.42포인트 및 3.31% 하락",
+        "kospiIntradayLow": "4,586.80, 장중 약 5.8% 하락",
+        "kospiTwoSessionDecline": "11월 20일과 23일 누적 하락률 8.36%",
+        "marketContext": "미국 기술주 급락 및 AI 반도체 관련 불확실성 등이 투자심리에 영향",
+        "sidecar": "코스피 시장 매도 사이드카 11월 20일과 23일 두 거래일 연속 발동"
+      },
+      "previous": {
+        "editionId": "2026-11-22-pm",
+        "storyId": "f4-stock-stabilization-measures-20261122"
+      },
+      "publishedAt": "2026-11-23T16:11:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112315240001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T16:11:00+09:00",
+          "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123129851008",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kospi-second-consecutive-plunge-20261123",
+      "summary": [
+        "코스피가 전 거래일보다 3.31% 떨어진 4,708.54로 마감했고 코스닥도 1.58% 하락한 635.45를 기록했습니다.",
+        "코스피는 장중 5.8%까지 밀리며 2거래일 연속 매도 사이드카가 발동됐고, 원·달러 환율은 1,345.9원으로 올랐습니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피 3.31% 추가 하락, 4,708 마감",
+      "uncertainty": "지수와 환율은 확인된 마감 수치이지만 주가 하락의 원인은 복합적입니다. 증시안정펀드의 실제 자금 투입과 정책 효과는 확인되지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2302,5 +2421,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
 }

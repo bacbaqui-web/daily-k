@@ -53,10 +53,70 @@
       "supersededBy": [],
       "title": "선관위 특검, 직원 8명 구속영장 청구",
       "uncertainty": "영장 청구 단계로 구속·유죄가 확정되지 않았으며 선거 결과 전체의 조작이 입증됐다는 뜻도 아닙니다."
+    },
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "정치·사법",
+      "change": "특검이 구속영장을 청구한 선관위 직원 8명이 실제 법원의 구속 전 피의자심문을 받는 단계로 수사가 진행됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 23일 오전 3명, 오후 5명에 대한 영장실질심사가 서울중앙지법에서 진행됐습니다. 원문은 오후 심사 개시 시각을 오후 2시로 보도했으나 심사 종료 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "18일 특검의 선관위 직원 8명 구속영장 청구 이후 23일 법원에서 오전 3명과 오후 5명에 대한 영장실질심사가 진행됐으며 법원 판단은 아직 확인되지 않았습니다.",
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-election-warrants"
+      },
+      "id": "2026-11-23-pm/election-commission-eight-warrant-hearings-20261123",
+      "keyFacts": {
+        "afternoonHearings": "5명, 오후 2시부터 진행",
+        "allegations": "실시간 투표율 허위 입력, 투표록·개표상황표 위·변조 등 혐의",
+        "criminalLiability": "법원 판단 또는 유죄 확정 전",
+        "hearingDate": "2026년 11월 23일",
+        "investigation": "2026년 6·3 지방선거 관련 선관위 특검 수사",
+        "morningHearings": "3명",
+        "suspects": "중앙 및 지역 선관위 직원 8명",
+        "warrantDecision": "조사 완료 기준 확인되지 않음",
+        "warrantRequested": "2026년 11월 18일"
+      },
+      "previous": {
+        "editionId": "2026-11-18-pm",
+        "storyId": "20261118-pm-election-warrants"
+      },
+      "publishedAt": "2026-11-23T15:27:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304590001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T15:27:00+09:00",
+          "title": "'투표율 허위입력' 선관위 직원 8명 구속심사…특검수사 변곡점(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123083351004",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "election-commission-eight-warrant-hearings-20261123",
+      "summary": [
+        "6·3 지방선거 관련 투표율 허위 입력과 투표록 위·변조 혐의를 받는 선관위 직원 8명이 법원에서 구속 전 피의자심문을 받았습니다.",
+        "특검이 지난 18일 청구한 영장에 대한 심사로, 구속 여부와 혐의 인정 여부는 아직 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "선관위 직원 8명 구속심사, 법원 판단 대기",
+      "uncertainty": "영장심사는 구속 여부를 판단하는 절차로, 영장 발부나 유죄가 확정된 것은 아닙니다. 허위 입력과 문서 위·변조는 수사기관이 제기한 혐의입니다."
     }
   ],
   "id": "election-commission-special-counsel-2026",
   "schemaVersion": 1,
   "title": "6·3 지방선거 관련 선관위 특검 수사",
-  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
 }

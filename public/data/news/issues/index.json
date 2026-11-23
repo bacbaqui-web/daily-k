@@ -1,6 +1,159 @@
 {
-  "editionCount": 135,
+  "editionCount": 136,
   "issues": [
+    {
+      "categories": [
+        "사회·날씨"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "kr-winter-weather-outlook-2026-2027",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "기상청이 강한 엘니뇨를 고려한 겨울철 3개월 전망을 새로 발표하고 12월과 다음 해 2월의 평년 초과 기온 확률을 각각 50%로 제시했습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "발표",
+        "storyId": "winter-el-nino-three-month-outlook-20261123",
+        "title": "기상청, 올겨울 평년보다 포근할 가능성 높아"
+      },
+      "path": "kr-winter-weather-outlook-2026-2027.json",
+      "title": "2026~2027년 겨울철 기상청 3개월 전망"
+    },
+    {
+      "categories": [
+        "사회·노동"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "kr-nurse-workplace-bullying-investigation-2026",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "경찰이 신체적 폭행 없는 직장 내 괴롭힘과 우울증 발생 사이의 인과관계를 인정하고 전직 간호사 3명을 상해 등 혐의로 송치했습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "결과",
+        "storyId": "nurse-workplace-bullying-injury-referral-20261123",
+        "title": "간호사 태움, 폭행 없이 상해 혐의 적용"
+      },
+      "path": "kr-nurse-workplace-bullying-investigation-2026.json",
+      "title": "고 강수빈 간호사 태움 사건 수사"
+    },
+    {
+      "categories": [
+        "사회·정보보안"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-22T21:00:06.633533+09:00",
+      "firstCoveredDate": "2026-11-22",
+      "id": "kr-kepco-personal-data-breach-2026",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "한국전력의 대규모 개인정보 유출 사실이 공개된 뒤 개인정보보호위원회가 유출 경위와 안전조치 의무 준수 여부에 관한 공식 조사에 착수했습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "후속",
+        "storyId": "kepco-privacy-regulator-investigation-20261123",
+        "title": "개인정보위, 한전 152만명분 유출 조사 착수"
+      },
+      "path": "kr-kepco-personal-data-breach-2026.json",
+      "title": "2026년 한국전력 개인정보 유출 사고"
+    },
+    {
+      "categories": [
+        "경제",
+        "경제·무역"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
+      "firstCoveredDate": "2026-11-19",
+      "id": "kr-exports-2026-trillion",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "연간 누적 수출 1조달러 돌파 이후 11월 1~20일 잠정 수출이 774억달러로 기간별 역대 최대를 기록하고 반도체 수출 비중이 49.7%로 집계됐습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "후속",
+        "storyId": "november-exports-first-twenty-days-record-20261123",
+        "title": "11월 1~20일 수출 774억달러, 역대 최대"
+      },
+      "path": "kr-exports-2026-trillion.json",
+      "title": "한국 2026년 수출 1조달러 달성"
+    },
+    {
+      "categories": [
+        "정치·인사"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "kr-cabinet-reshuffle-2026-11-23",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "대통령이 국가정보원장 후보자에 강금실 전 장관을 비롯해 외교·통일·행정안전·문화체육관광부 장관 후보자를 새롭게 지명했습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "발표",
+        "storyId": "presidential-cabinet-reshuffle-20261123",
+        "title": "국정원장 강금실 지명, 4개 부처 장관 교체"
+      },
+      "path": "kr-cabinet-reshuffle-2026-11-23.json",
+      "title": "2026년 11월 국정원장 및 4개 부처 장관 인사"
+    },
+    {
+      "categories": [
+        "경제·금융",
+        "경제·생활경제",
+        "경제·증시",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 41,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "정부의 증시 안정 대책 발표 이후 금융위원회가 상장사 자사주 하루 매수 주문 한도를 3개월간 완화하는 안건을 공식 의결했습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "확정",
+        "storyId": "fsc-share-buyback-limit-relaxed-vote-20261123",
+        "title": "금융위, 자사주 하루 매수 한도 완화 의결"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
+    },
+    {
+      "categories": [
+        "정치·사법",
+        "정치·사회"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "election-commission-special-counsel-2026",
+      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "lastCoveredDate": "2026-11-23",
+      "latest": {
+        "archive": false,
+        "change": "특검이 구속영장을 청구한 선관위 직원 8명이 실제 법원의 구속 전 피의자심문을 받는 단계로 수사가 진행됐습니다.",
+        "editionId": "2026-11-23-pm",
+        "stage": "후속",
+        "storyId": "election-commission-eight-warrant-hearings-20261123",
+        "title": "선관위 직원 8명 구속심사, 법원 판단 대기"
+      },
+      "path": "election-commission-special-counsel-2026.json",
+      "title": "6·3 지방선거 관련 선관위 특검 수사"
+    },
     {
       "categories": [
         "국제",
@@ -219,27 +372,6 @@
     },
     {
       "categories": [
-        "사회·정보보안"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-22T21:00:06.633533+09:00",
-      "firstCoveredDate": "2026-11-22",
-      "id": "kr-kepco-personal-data-breach-2026",
-      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
-      "lastCoveredDate": "2026-11-22",
-      "latest": {
-        "archive": false,
-        "change": "한전이 두 시스템에서 약 152만명분의 개인정보 유출을 확인하고 접속 차단, 피해 안내 및 관계기관 조사를 진행하고 있다고 공개했습니다.",
-        "editionId": "2026-11-22-pm",
-        "stage": "발표",
-        "storyId": "kepco-personal-data-leak-20261122",
-        "title": "한전, 개인정보 약 152만명분 유출"
-      },
-      "path": "kr-kepco-personal-data-breach-2026.json",
-      "title": "2026년 한국전력 개인정보 유출 사고"
-    },
-    {
-      "categories": [
         "정치·교육"
       ],
       "eventCount": 1,
@@ -258,30 +390,6 @@
       },
       "path": "kr-education-minister-choi-resignation-2026.json",
       "title": "최교진 교육부 장관 사퇴와 후임 인선"
-    },
-    {
-      "categories": [
-        "경제·생활경제",
-        "경제·증시",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 39,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-11-22T21:00:06.633533+09:00",
-      "lastCoveredDate": "2026-11-22",
-      "latest": {
-        "archive": false,
-        "change": "국내외 증시 급락에 대응해 정부가 증시안정펀드 가동 준비에 착수하고 자사주 매수 한도 완화와 공매도 특별 감시 방침을 발표했습니다.",
-        "editionId": "2026-11-22-pm",
-        "stage": "후속",
-        "storyId": "f4-stock-stabilization-measures-20261122",
-        "title": "정부, 증시안정펀드 가동 준비 착수"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -867,27 +975,6 @@
     },
     {
       "categories": [
-        "경제"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-20T09:10:11.870754+09:00",
-      "firstCoveredDate": "2026-11-19",
-      "id": "kr-exports-2026-trillion",
-      "lastCoveredAt": "2026-11-20T09:10:11.870754+09:00",
-      "lastCoveredDate": "2026-11-19",
-      "latest": {
-        "archive": false,
-        "change": "19일 오후 2시 9분 38초에 올해 누적 수출이 사상 처음으로 1조달러를 돌파했습니다.",
-        "editionId": "2026-11-19-pm",
-        "stage": "결과",
-        "storyId": "kr-exports-trillion-20261119",
-        "title": "한국 수출, 사상 첫 1조달러 돌파"
-      },
-      "path": "kr-exports-2026-trillion.json",
-      "title": "한국 2026년 수출 1조달러 달성"
-    },
-    {
-      "categories": [
         "국제·인권"
       ],
       "eventCount": 1,
@@ -1100,27 +1187,6 @@
       },
       "path": "kdi-growth-outlook-2026.json",
       "title": "KDI 한국 경제성장률 전망"
-    },
-    {
-      "categories": [
-        "정치·사회"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "firstCoveredDate": "2026-11-18",
-      "id": "election-commission-special-counsel-2026",
-      "lastCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "lastCoveredDate": "2026-11-18",
-      "latest": {
-        "archive": false,
-        "change": "직원 8명에 대한 구속영장 청구",
-        "editionId": "2026-11-18-pm",
-        "stage": "후속",
-        "storyId": "20261118-pm-election-warrants",
-        "title": "선관위 특검, 직원 8명 구속영장 청구"
-      },
-      "path": "election-commission-special-counsel-2026.json",
-      "title": "6·3 지방선거 관련 선관위 특검 수사"
     },
     {
       "categories": [
@@ -12830,7 +12896,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1003,
+  "storyCount": 1011,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
 }

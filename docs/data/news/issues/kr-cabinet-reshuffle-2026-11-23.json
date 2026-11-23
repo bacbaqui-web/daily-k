@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "정치·인사",
+      "change": "대통령이 국가정보원장 후보자에 강금실 전 장관을 비롯해 외교·통일·행정안전·문화체육관광부 장관 후보자를 새롭게 지명했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 23일 오후 청와대 브리핑에서 국가정보원장 및 4개 부처 장관 후보자 지명이 발표됐습니다. 정확한 브리핑 시작 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-23-pm/presidential-cabinet-reshuffle-20261123",
+      "keyFacts": {
+        "announcementDate": "2026년 11월 23일",
+        "appointmentStatus": "후보자 지명 발표, 실제 임명 절차는 별도",
+        "cultureMinister": "강유정 청와대 수석대변인 지명",
+        "firstFemaleDirector": "강금실 후보자가 임명될 경우 첫 여성 국가정보원장",
+        "foreignMinister": "임웅순 국가안보실 제2차장 지명",
+        "interiorMinister": "한준호 더불어민주당 의원 지명",
+        "nationalIntelligenceService": "강금실 전 법무부 장관 지명",
+        "totalPositions": "국가정보원장 1명 및 4개 부처 장관 후보자",
+        "unificationMinister": "홍익표 전 더불어민주당 의원 지명"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-23T16:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img7.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123121251001_03_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T16:00:00+09:00",
+          "title": "李대통령, 외교·통일 포함 중폭개각…국정원장 강금실 파격발탁(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123121251001",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "presidential-cabinet-reshuffle-20261123",
+      "summary": [
+        "이재명 대통령이 국가정보원장 후보자에 강금실 전 법무부 장관을 지명하고 외교·통일 등 4개 부처 장관 후보자를 새로 발표했습니다.",
+        "외교 임웅순·통일 홍익표·행안 한준호·문체 강유정 후보자가 지명됐으며, 실제 임명은 후속 절차를 거쳐야 합니다."
+      ],
+      "supersededBy": [],
+      "title": "국정원장 강금실 지명, 4개 부처 장관 교체",
+      "uncertainty": "후보자 지명은 확정됐지만 모든 후보자의 임명 절차가 완료된 것은 아닙니다. 강금실 후보자가 실제 임명되면 첫 여성 국정원장이 됩니다."
+    }
+  ],
+  "id": "kr-cabinet-reshuffle-2026-11-23",
+  "schemaVersion": 1,
+  "title": "2026년 11월 국정원장 및 4개 부처 장관 인사",
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+}

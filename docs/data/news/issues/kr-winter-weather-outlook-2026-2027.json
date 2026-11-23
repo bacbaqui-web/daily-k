@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "사회·날씨",
+      "change": "기상청이 강한 엘니뇨를 고려한 겨울철 3개월 전망을 새로 발표하고 12월과 다음 해 2월의 평년 초과 기온 확률을 각각 50%로 제시했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "기상청이 2026년 11월 23일 발표한 2026년 12월부터 2027년 2월까지의 3개월 기후 전망입니다. 장기 확률 예측이며 특정 날짜의 날씨를 확정한 것은 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-23-pm/winter-el-nino-three-month-outlook-20261123",
+      "keyFacts": {
+        "agency": "기상청",
+        "announcementDate": "2026년 11월 23일",
+        "climateFactor": "강한 엘니뇨 현상",
+        "coldWaveRisk": "북극 소용돌이 약화 등에 따른 일시적 강한 한파 가능",
+        "decemberTemperature": "평년보다 높을 확률 50%, 비슷할 확률 40%, 낮을 확률 10%",
+        "droughtRisk": "일부 지역에서는 겨울철 기상가뭄 가능성",
+        "februaryTemperature": "평년보다 높을 확률 50%, 비슷할 확률 40%, 낮을 확률 10%",
+        "forecastPeriod": "2026년 12월~2027년 2월",
+        "januaryTemperature": "평년보다 높을 확률 40%, 비슷할 확률 40%, 낮을 확률 20%",
+        "precipitation": "겨울철 눈과 비가 평년보다 많을 가능성"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-23T12:08:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T12:08:00+09:00",
+          "title": "'최강 엘니뇨'에 올겨울 포근하고 눈·비 많을 듯(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123070451530",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "분석",
+      "storyId": "winter-el-nino-three-month-outlook-20261123",
+      "summary": [
+        "기상청은 강한 엘니뇨 영향으로 올겨울 12월과 내년 2월 기온이 평년보다 높을 확률을 각각 50%로 전망했습니다.",
+        "눈과 비도 평년보다 많을 가능성이 있지만 북극 찬 공기가 유입되면 일시적인 강한 한파가 나타날 수 있다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "기상청, 올겨울 평년보다 포근할 가능성 높아",
+      "uncertainty": "장기 전망은 확률로 제시됩니다. 겨울 전체가 계속 따뜻하거나 눈과 비가 반드시 평년보다 많다는 뜻은 아니며 갑작스러운 한파와 지역별 가뭄 가능성도 있습니다."
+    }
+  ],
+  "id": "kr-winter-weather-outlook-2026-2027",
+  "schemaVersion": 1,
+  "title": "2026~2027년 겨울철 기상청 3개월 전망",
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+}

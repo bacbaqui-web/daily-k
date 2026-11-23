@@ -1,0 +1,744 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-23T21:05:17.907085+09:00",
+  "id": "2026-11-23-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-23T21:00:00+09:00",
+      "date": "2026-11-23",
+      "edition": "pm",
+      "editionId": "2026-11-23-pm",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-24",
+          "detail": "금융위원회 의결에 따라 상장기업의 하루 자사주 매수 주문 한도를 2027년 2월 23일까지 한시적으로 완화합니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": null,
+            "title": "상장사 자사주 1일 취득 한도 3개월간 풀린다…증시 안정 차원 | 연합뉴스",
+            "url": "https://www.yna.co.kr/view/AKR20261123120600002",
+            "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+          },
+          "timeNote": "11월 24일부터 적용 예정이며 정확한 개시 시각은 별도로 확인되지 않았습니다.",
+          "title": "상장사 자사주 매수 주문 한도 완화 시행 예정"
+        }
+      ],
+      "generatedAt": "2026-11-23T21:01:18.155472+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-23-pm",
+      "intro": "11월 23일 저녁 주요 뉴스입니다. 국정원장과 4개 부처 장관 후보자 지명, 코스피 추가 급락, 수출 호조와 증시 안정 조치, 선관위 특검 수사 등을 정리했습니다.",
+      "keywords": [
+        "강금실 국정원장 후보자 지명",
+        "외교·통일·행정안전·문체부 개각",
+        "코스피 4,708.54 마감",
+        "2거래일 연속 매도 사이드카",
+        "11월 1~20일 수출 774억달러",
+        "반도체 수출 비중 49.7%",
+        "선관위 직원 8명 구속심사",
+        "금융위 자사주 매수 한도 완화 의결",
+        "한국전력 개인정보 유출 조사",
+        "간호사 태움 상해 혐의 송치",
+        "기상청 겨울 엘니뇨 전망"
+      ],
+      "omissionNotes": [
+        "이번 예약 실행의 실제 시작 시각은 2026-11-23T20:28:11+09:00으로 기록했습니다. 조사를 마치며 확인한 한국시간은 2026-11-23T20:32:33+09:00입니다. 발행 회차 cutoffAt은 21:00이지만 21:00까지 조사했다고 주장하지 않습니다. 수록한 원문의 확인된 발행 시각은 모두 researchCutoffAt보다 이릅니다.",
+        "최근 7일 이력을 확인하기 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 접근했습니다. 인덱스는 이번 조사 중 한 차례 확인할 수 있었으나 재접근에서는 오류가 발생했습니다. 개별 웹 발행 JSON에 대한 접근도 제한돼 공개 GitHub 저장소 bacbaqui-web/daily-k의 public/data/news/ 아래 JSON을 읽는 대체 경로를 사용했습니다.",
+        "GitHub의 실제 공개 발행 자료에서 2026-11-16부터 2026-11-22까지 오전·오후 14개 회차의 JSON을 읽고 stories 항목의 id, title, topicKey, timeline.issueId 및 issueTitle을 비교했습니다. 읽은 파일에는 별도로 분리된 추가·예비 기사 배열이 없었습니다. 수신 측은 다른 데이터 경로에 추가·예비 기사가 저장돼 있는지 확인하고 실제 발행본과의 최종 중복 검사를 수행해야 합니다.",
+        "2026-11-22-pm 실제 발행본의 최신 식별자에 맞춰 증시 후속은 issueId=korea-equities-flows 및 issueTitle=한국 증시와 외국인 수급을, 한국전력 개인정보 유출 후속은 issueId=kr-kepco-personal-data-breach-2026 및 issueTitle=2026년 한국전력 개인정보 유출 사고를 사용했습니다. 각각 해당 발행본의 storyId인 f4-stock-stabilization-measures-20261122 및 kepco-personal-data-leak-20261122를 followUp에 연결했습니다.",
+        "2026-11-19-pm 공개 발행본의 수출 1조달러 돌파 기사 kr-exports-trillion-20261119와 이번 관세청 잠정 통계를 비교했습니다. 오늘의 774억달러는 11월 1~20일에 대한 신규 발표로, 이전의 연간 누적 1조달러 실적을 반복한 것이 아닙니다. 기존 timeline.issueId=kr-exports-2026-trillion 및 issueTitle=한국 2026년 수출 1조달러 달성을 재사용했습니다.",
+        "선관위 특검 관련 2026-11-18-pm 발행본의 storyId=20261118-pm-election-warrants를 확인했습니다. 지난 18일은 구속영장 청구였고 오늘은 8명에 대한 법원 심사가 실제 진행된 사실이므로 새로운 후속으로 포함했습니다. 영장 발부와 범죄 혐의 인정은 확인되지 않았습니다.",
+        "오늘 정규장 코스피 급락과 금융위원회의 자사주 매수 한도 완화 의결은 서로 다른 새 결과입니다. 전자는 당일 시장 마감 결과이고 후자는 전날 정부가 예고한 정책의 정식 의결이므로 각각 수록했습니다. 증시안정펀드가 이미 투입됐거나 규정 완화가 23일 시행됐다고 표현하지 않았습니다.",
+        "11월 23일 오전 발행 원고에서 이미 다룬 COP31 합의 실패, 북미 정상회담 추진 무산 보도, 영변 농축시설 증축 분석, 미국의 이란 공격 경고, 리비아 러시아 군함 피격, 김정은의 외국 대사 신임장 접수 및 당일 비·눈 예보는 오후에 새로운 중대한 결과를 확인하지 못해 반복하지 않았습니다.",
+        "22일 오후 원고의 최교진 교육부 장관 면직, 철도노조 준법투쟁 26일 연기, 태안 실종 어선 해광호 선체 확인, 수능 시험 관리 법 정비 검토 및 정년연장 관련 장관 발언도 새 사실 없는 반복을 피했습니다. 새 인사 발표는 전날 장관 면직과 구별되는 독립적인 공식 결정으로 선정했습니다.",
+        "다른 후보 중 최태원 SK그룹 회장의 재산분할금 9,440억원 지급 의사와 화해권고 신청, 법학적성시험 부정행위 의혹과 관련한 경찰의 공범 수사 가능성 발언, 김건희 씨 관련 재판의 혐의 부인, 서울지하철 준법투쟁 출근길 상황 등을 확인했습니다. 기업·개인 분쟁의 현재 절차나 새로운 결정이 없는 수사 가능성 발언보다는 공적 영향이 큰 정부 인사·금융시장·공식 통계·선거 수사를 우선했습니다.",
+        "주요 뉴스 선정 과정에서 연합뉴스 2026년 11월 23일 10시 30분 주요기사 https://www.yna.co.kr/view/AKR20261123055600011 및 18시 주요기사 https://www.yna.co.kr/view/AKR20261123150300011 를 비교했습니다. 연합뉴스·경향신문·매일신문·한국경제·한국일보·YTN 등 여러 언론사의 관련 한국어 기사 원문도 확인했습니다. 다만 모든 언론사 첫 화면과 종이신문 전체 1면을 전수 조사한 것은 아닙니다.",
+        "간호사 태움 사건은 경찰이 폭언과 따돌림에 따른 우울증 발병을 상해 혐의로 판단하고 송치한 사실을 다뤘습니다. 피해자의 사망에 대한 형사책임이 확인됐다거나 법원이 이미 유죄를 확정했다고 쓰지 않았습니다. 경찰 설명상 첫 적용이라는 조건도 유지했습니다.",
+        "기상청 전망은 확률 정보이므로 겨울이 반드시 따뜻하다거나 눈과 비가 반드시 많이 내린다고 확정하지 않았습니다. 원문에서 확인한 12월과 다음 해 2월의 평년 초과 기온 확률 50%를 제시하고 일시적인 한파 가능성을 함께 전달했습니다.",
+        "원문 기사에 실제 사진이나 자료사진이 있는 경우에도 og:image 또는 twitter:image의 정확한 HTTPS 주소를 검증하지 못했습니다. 따라서 모든 imageUrl은 null로 기록했습니다. 이는 기사 내용의 사실 확인 실패와 별개이며 다른 사건이나 날짜의 자료사진으로 임의 대체하지 않았습니다.",
+        "2026년 11월 24일 공식 일정으로는 금융위원회가 의결한 상장사 자사주 하루 매수 주문 한도 완화 시행일만 확인해 events에 넣었습니다. 26일 예정된 철도노조 준법투쟁과 27일 정년연장특위 회의 등은 다음 날 일정이 아니므로 추가하지 않았습니다.",
+        "각 story의 emphasis는 summary에 실제 존재하는 구절로 2개씩 지정했습니다. importance는 원고의 기사 중요도 배열 순서와 일치하도록 100부터 93까지 서로 다른 값으로 부여했습니다. 발행 검증 시각, 승인 여부, 검증 해시 및 operationId는 생성하지 않았습니다.",
+        "이번 작업은 뉴스 원고 작성과 이력 확인만 수행했습니다. GitHub 저장소, Daily K 홈페이지, Discord에 직접 게시하거나 전송하지 않았으며 새 파일과 예약도 생성하지 않았습니다."
+      ],
+      "overview": [
+        "이재명 대통령이 강금실 국정원장 후보자 등 5명을 지명했고, 코스피는 3.31% 추가 하락해 4,708.54로 마감했습니다.",
+        "11월 1~20일 수출은 역대 최대를 기록했으며, 선관위 직원 8명의 구속심사와 한전 개인정보 유출에 대한 당국 조사도 진행됐습니다."
+      ],
+      "researchCompletedAt": "2026-11-23T20:32:33+09:00",
+      "researchCutoffAt": "2026-11-23T20:28:11+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "정치·인사",
+          "emphasis": [
+            "국가정보원장 후보자에 강금실",
+            "실제 임명은 후속 절차를 거쳐야 합니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 오후 청와대 브리핑에서 국가정보원장 및 4개 부처 장관 후보자 지명이 발표됐습니다. 정확한 브리핑 시작 시각은 확인되지 않았습니다.",
+          "factsHash": "ace3f8b74030f82213eda60ea2141b68f97ab3a8d07f13ba037dad48b7359823",
+          "id": "presidential-cabinet-reshuffle-20261123",
+          "keyFacts": {
+            "announcementDate": "2026년 11월 23일",
+            "appointmentStatus": "후보자 지명 발표, 실제 임명 절차는 별도",
+            "cultureMinister": "강유정 청와대 수석대변인 지명",
+            "firstFemaleDirector": "강금실 후보자가 임명될 경우 첫 여성 국가정보원장",
+            "foreignMinister": "임웅순 국가안보실 제2차장 지명",
+            "interiorMinister": "한준호 더불어민주당 의원 지명",
+            "nationalIntelligenceService": "강금실 전 법무부 장관 지명",
+            "totalPositions": "국가정보원장 1명 및 4개 부처 장관 후보자",
+            "unificationMinister": "홍익표 전 더불어민주당 의원 지명"
+          },
+          "publishedAt": "2026-11-23T16:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "경향신문",
+              "publishedAt": "2026-11-23T17:14:00+09:00",
+              "title": "이 대통령, 외교·안보라인 전면 교체…국정원 강금실·외교 임웅순·통일 홍익표",
+              "url": "https://www.khan.co.kr/article/202611231714001",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123121251001",
+          "score": 99.45,
+          "scoreComponents": {
+            "domesticImpact": 99,
+            "importance": 100,
+            "interest": 98,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "국가정보기관과 외교·안보 및 주요 행정부처의 수장 후보자가 동시에 바뀌는 공식 인사 발표로, 국내 정치와 정책 운영에 미치는 영향이 큽니다.",
+          "sourceCheck": "연합뉴스 16시 종합기사에서 국가정보원장과 4개 부처 장관 후보자의 이름, 지명 사실, 첫 여성 국정원장 가능성을 확인했습니다. 경향신문 17시 14분 기사에서 외교·안보라인 개편과 나머지 장관 후보자 지명을 대조했습니다. 후보자 지명과 임명 완료를 구분했습니다. 원문에 사진이 있으나 og:image 또는 twitter:image의 실제 HTTPS 주소는 검증하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img7.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123121251001_03_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T16:00:00+09:00",
+              "title": "李대통령, 외교·통일 포함 중폭개각…국정원장 강금실 파격발탁(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123121251001",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "이재명 대통령이 국가정보원장 후보자에 강금실 전 법무부 장관을 지명하고 외교·통일 등 4개 부처 장관 후보자를 새로 발표했습니다.",
+            "외교 임웅순·통일 홍익표·행안 한준호·문체 강유정 후보자가 지명됐으며, 실제 임명은 후속 절차를 거쳐야 합니다."
+          ],
+          "timeline": {
+            "change": "대통령이 국가정보원장 후보자에 강금실 전 장관을 비롯해 외교·통일·행정안전·문화체육관광부 장관 후보자를 새롭게 지명했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-cabinet-reshuffle-2026-11-23",
+            "issueTitle": "2026년 11월 국정원장 및 4개 부처 장관 인사",
+            "stage": "발표"
+          },
+          "title": "국정원장 강금실 지명, 4개 부처 장관 교체",
+          "topicKey": "kr-cabinet-reshuffle-november-2026",
+          "uncertainty": "후보자 지명은 확정됐지만 모든 후보자의 임명 절차가 완료된 것은 아닙니다. 강금실 후보자가 실제 임명되면 첫 여성 국정원장이 됩니다.",
+          "whatChanged": "이재명 대통령이 국정원장과 외교·통일·행정안전·문화체육관광부 장관 후보자를 새로 지명하면서 외교·안보 및 주요 부처의 인사 개편을 공식 발표했습니다.",
+          "whyItMatters": "외교·안보와 행정, 문화 정책을 담당하는 주요 책임자가 한꺼번에 교체되는 인사로 향후 정부 정책 추진에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·증시",
+          "emphasis": [
+            "3.31% 떨어진 4,708.54",
+            "2거래일 연속 매도 사이드카"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 국내 주식시장 정규장 마감 결과입니다. 원·달러 환율은 같은 날 오후 3시 30분 기준입니다.",
+          "factsHash": "2ba91b0ccd40c4f625fd5d81d93e30f4138e2ee0c123bade796986bff3a8125f",
+          "followUp": {
+            "delta": "22일 정부가 증시안정펀드 가동 준비를 발표한 뒤 열린 23일 시장에서도 코스피가 3.31% 추가 하락하고 두 거래일 연속 매도 사이드카가 발동됐습니다.",
+            "editionId": "2026-11-22-pm",
+            "storyId": "f4-stock-stabilization-measures-20261122"
+          },
+          "id": "kospi-second-consecutive-plunge-20261123",
+          "keyFacts": {
+            "exchangeRate": "오후 3시 30분 기준 원·달러 1,345.9원, 전 거래일 대비 9.7원 상승",
+            "foreignInvestors": "코스피 시장 외국인 2,472억원 순매도, 7거래일 연속 매도 우위",
+            "kosdaqClose": "635.45, 전 거래일 대비 10.23포인트 및 1.58% 하락",
+            "kospiClose": "4,708.54, 전 거래일 대비 161.42포인트 및 3.31% 하락",
+            "kospiIntradayLow": "4,586.80, 장중 약 5.8% 하락",
+            "kospiTwoSessionDecline": "11월 20일과 23일 누적 하락률 8.36%",
+            "marketContext": "미국 기술주 급락 및 AI 반도체 관련 불확실성 등이 투자심리에 영향",
+            "sidecar": "코스피 시장 매도 사이드카 11월 20일과 23일 두 거래일 연속 발동"
+          },
+          "publishedAt": "2026-11-23T16:11:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112315240001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T16:11:00+09:00",
+              "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123129851008",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123129851008",
+          "score": 98.95,
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 99,
+            "interest": 99,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "국내 양대 주가지수의 추가 하락과 매도 사이드카 재발동이 당일 마감 결과로 확인됐으며 금융시장에 직접적인 영향을 미칩니다.",
+          "sourceCheck": "연합뉴스 16시 11분 종합기사에서 코스피·코스닥 종가 및 하락률, 장중 저점, 매도 사이드카 발동과 원·달러 환율을 확인했습니다. 같은 날 18시 연합뉴스 주요기사에서도 코스피 종가와 하락률이 재확인됐습니다. 오전 장중 하락률을 마감 하락률로 사용하지 않았습니다. 주가 하락 원인은 분석으로만 취급했으며 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img7.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112315240001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T16:11:00+09:00",
+              "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123129851008",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피가 전 거래일보다 3.31% 떨어진 4,708.54로 마감했고 코스닥도 1.58% 하락한 635.45를 기록했습니다.",
+            "코스피는 장중 5.8%까지 밀리며 2거래일 연속 매도 사이드카가 발동됐고, 원·달러 환율은 1,345.9원으로 올랐습니다."
+          ],
+          "timeline": {
+            "change": "정부의 시장 안정 대책 준비 발표 이후 첫 거래일에도 코스피가 3.31% 추가 하락했고 매도 사이드카가 두 거래일 연속 발동됐습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피 3.31% 추가 하락, 4,708 마감",
+          "topicKey": "kr-stock-market-november-2026",
+          "uncertainty": "지수와 환율은 확인된 마감 수치이지만 주가 하락의 원인은 복합적입니다. 증시안정펀드의 실제 자금 투입과 정책 효과는 확인되지 않았습니다.",
+          "whatChanged": "20일 코스피가 5.21% 급락한 데 이어 23일에도 3.31% 추가 하락했고, 정부의 시장 안정 대책 발표 이후에도 매도 사이드카가 다시 발동됐습니다.",
+          "whyItMatters": "국내 주식시장의 이틀 연속 큰 폭 하락과 환율 상승은 투자자뿐 아니라 기업의 자금조달과 금융시장 안정에도 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·무역",
+          "emphasis": [
+            "101.5% 늘어난 774억달러",
+            "전체의 49.7%를 차지했고"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "관세청이 2026년 11월 23일 발표한 11월 1~20일 통관 기준 잠정 통계입니다. 월간 최종 실적이나 11월 전체 확정치가 아닙니다.",
+          "factsHash": "9dda9775923632b93813a797823e20e1a2d923aa59f9924aad5d4b53818f8b5b",
+          "followUp": {
+            "delta": "19일 연간 누적 수출액 1조달러 돌파에 이어 11월 1~20일 수출액 774억달러와 반도체 비중 49.7%라는 새 잠정 통계가 발표됐습니다.",
+            "editionId": "2026-11-19-pm",
+            "storyId": "kr-exports-trillion-20261119"
+          },
+          "id": "november-exports-first-twenty-days-record-20261123",
+          "keyFacts": {
+            "dailyAverageExports": "48억4천만달러, 전년 동기 대비 95.2% 증가",
+            "exports": "774억달러, 전년 동기 대비 101.5% 증가",
+            "imports": "503억달러, 전년 동기 대비 39.4% 증가",
+            "period": "2026년 11월 1~20일",
+            "record": "11월 1~20일 기간 기준 역대 최대 수출액",
+            "semiconductorExports": "385억달러, 전년 동기 대비 294.4% 증가",
+            "semiconductorShare": "전체 수출의 49.7%",
+            "sourceStatus": "관세청 통관 기준 잠정치",
+            "tradeSurplus": "271억달러 흑자",
+            "workingDays": "16.0일, 전년 동기 15.5일"
+          },
+          "publishedAt": "2026-11-23T09:11:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "매일신문",
+              "publishedAt": "2026-11-23T10:55:54+09:00",
+              "title": "'1조달러' 넘은 수출, 11월 1~20일도 역대 최대…반도체가 절반",
+              "url": "https://www.imaeil.com/page/view/2026112310550570955",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123030651002",
+          "score": 94.95,
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 98,
+            "interest": 95,
+            "recency": 85,
+            "reliability": 99
+          },
+          "scoreReason": "한국 수출의 새로운 기간별 실적과 반도체 집중도를 보여주는 공식 잠정 통계로 경제적 파급력이 큽니다.",
+          "sourceCheck": "연합뉴스 09시 11분 원문에서 관세청 잠정 수출액 774억달러, 증가율 101.5%, 반도체 수출 385억달러 및 비중 49.7%, 무역흑자 271억달러를 확인했습니다. 매일신문 10시 55분 기사에서도 주요 수치를 대조했습니다. 19일 보도된 연간 누적 수출 1조달러 돌파와 이번 1~20일 신규 통계를 구분했습니다. 과거 항구 모습을 담은 자료사진은 사용하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T09:11:00+09:00",
+              "title": "'1조 달러' 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123030651002",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "11월 1~20일 한국 수출액이 지난해 같은 기간보다 101.5% 늘어난 774억달러로, 같은 기간 기준 역대 최대를 기록했습니다.",
+            "반도체 수출은 385억달러로 294.4% 증가해 전체의 49.7%를 차지했고 무역수지는 271억달러 흑자였습니다."
+          ],
+          "timeline": {
+            "change": "연간 누적 수출 1조달러 돌파 이후 11월 1~20일 잠정 수출이 774억달러로 기간별 역대 최대를 기록하고 반도체 수출 비중이 49.7%로 집계됐습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-exports-2026-trillion",
+            "issueTitle": "한국 2026년 수출 1조달러 달성",
+            "stage": "후속"
+          },
+          "title": "11월 1~20일 수출 774억달러, 역대 최대",
+          "topicKey": "kr-exports-2026",
+          "uncertainty": "수치는 통관 기준 잠정치이며 11월 전체 수출액의 확정 결과는 아닙니다. 반도체 수출 증가가 다른 모든 업종의 호조를 뜻하지는 않습니다.",
+          "whatChanged": "19일 연간 누적 수출 1조달러 돌파가 보도된 데 이어 23일에는 11월 1~20일 수출액 774억달러와 반도체 비중 49.7%라는 새로운 기간별 실적이 공개됐습니다.",
+          "whyItMatters": "한국 수출이 증가하고 있지만 반도체가 전체 수출의 절반 가까이를 차지해 특정 산업의 경기 변동에 대한 의존도가 큽니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "선관위 직원 8명이",
+            "구속 여부와 혐의 인정 여부는 아직 확정되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 오전 3명, 오후 5명에 대한 영장실질심사가 서울중앙지법에서 진행됐습니다. 원문은 오후 심사 개시 시각을 오후 2시로 보도했으나 심사 종료 시각은 확인되지 않았습니다.",
+          "factsHash": "5a74ae7de5bd015fb8e3071afc2b36bd788332085d1c8379681f2e9c2068e2a6",
+          "followUp": {
+            "delta": "18일 특검의 선관위 직원 8명 구속영장 청구 이후 23일 법원에서 오전 3명과 오후 5명에 대한 영장실질심사가 진행됐으며 법원 판단은 아직 확인되지 않았습니다.",
+            "editionId": "2026-11-18-pm",
+            "storyId": "20261118-pm-election-warrants"
+          },
+          "id": "election-commission-eight-warrant-hearings-20261123",
+          "keyFacts": {
+            "afternoonHearings": "5명, 오후 2시부터 진행",
+            "allegations": "실시간 투표율 허위 입력, 투표록·개표상황표 위·변조 등 혐의",
+            "criminalLiability": "법원 판단 또는 유죄 확정 전",
+            "hearingDate": "2026년 11월 23일",
+            "investigation": "2026년 6·3 지방선거 관련 선관위 특검 수사",
+            "morningHearings": "3명",
+            "suspects": "중앙 및 지역 선관위 직원 8명",
+            "warrantDecision": "조사 완료 기준 확인되지 않음",
+            "warrantRequested": "2026년 11월 18일"
+          },
+          "publishedAt": "2026-11-23T15:27:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304590001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T15:27:00+09:00",
+              "title": "'투표율 허위입력' 선관위 직원 8명 구속심사…특검수사 변곡점(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123083351004",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123083351004",
+          "score": 97.2,
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 97,
+            "interest": 96,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "선거 행정 관련 특검 수사가 실제 법원 영장심사 단계로 진행됐으나 구속과 범죄 성립 여부는 아직 확정되지 않았습니다.",
+          "sourceCheck": "연합뉴스 15시 27분 종합기사에서 선관위 직원 8명에 대한 구속심사 진행, 오전 3명과 오후 5명의 심사 일정, 18일 특검의 영장 청구 및 적용 혐의를 확인했습니다. 오전 보도와 오후 심사 진행 보도를 구분했으며 영장 발부 여부나 선거기록 조작 혐의가 인정됐다고 단정하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304590001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T15:27:00+09:00",
+              "title": "'투표율 허위입력' 선관위 직원 8명 구속심사…특검수사 변곡점(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123083351004",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "6·3 지방선거 관련 투표율 허위 입력과 투표록 위·변조 혐의를 받는 선관위 직원 8명이 법원에서 구속 전 피의자심문을 받았습니다.",
+            "특검이 지난 18일 청구한 영장에 대한 심사로, 구속 여부와 혐의 인정 여부는 아직 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "특검이 구속영장을 청구한 선관위 직원 8명이 실제 법원의 구속 전 피의자심문을 받는 단계로 수사가 진행됐습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "election-commission-special-counsel-2026",
+            "issueTitle": "6·3 지방선거 관련 선관위 특검 수사",
+            "stage": "후속"
+          },
+          "title": "선관위 직원 8명 구속심사, 법원 판단 대기",
+          "topicKey": "election-commission-special-counsel-2026",
+          "uncertainty": "영장심사는 구속 여부를 판단하는 절차로, 영장 발부나 유죄가 확정된 것은 아닙니다. 허위 입력과 문서 위·변조는 수사기관이 제기한 혐의입니다.",
+          "whatChanged": "18일 특검이 선관위 직원 8명에 대해 구속영장을 청구한 이후 23일 실제 법원의 구속 전 피의자심문 절차가 진행됐습니다.",
+          "whyItMatters": "지방선거 투표율 입력과 선거기록 관리의 적법성에 관한 특검 수사로 선거 행정의 신뢰에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·금융",
+          "emphasis": [
+            "24일부터 3개월간 완화",
+            "신고한 전체 자사주 취득 수량만큼"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 금융위원회 정례회의에서 한시적 규정 완화가 의결됐습니다. 실제 적용 기간은 2026년 11월 24일부터 2027년 2월 23일까지로 발표됐습니다.",
+          "factsHash": "f6f76a878b964188f06deb2173cb1cd76c34fdfdf9401bc26db4573974e08fd5",
+          "followUp": {
+            "delta": "22일 정부가 발표한 자사주 매수 한도 완화 계획을 23일 금융위원회가 정식 의결해 24일부터 내년 2월 23일까지 적용하도록 확정했습니다.",
+            "editionId": "2026-11-22-pm",
+            "storyId": "f4-stock-stabilization-measures-20261122"
+          },
+          "id": "fsc-share-buyback-limit-relaxed-vote-20261123",
+          "keyFacts": {
+            "decisionDate": "2026년 11월 23일 정례회의",
+            "directBuyback": "신고한 자기주식 전체 수량만큼 하루 매수 주문 가능",
+            "duration": "3개월간 한시적 완화",
+            "effectiveEnd": "2027-02-23",
+            "effectiveStart": "2026-11-24",
+            "legalLimit": "배당가능이익 한도 내 자사주 취득 제한 유지",
+            "previousStep": "11월 22일 관계기관 긴급 시장상황점검회의에서 발표한 계획의 후속 의결",
+            "regulator": "금융위원회",
+            "trustBuyback": "신탁재산 총액 범위 내에서 하루 매수 주문 가능하도록 완화"
+          },
+          "publishedAt": "2026-11-23T15:05:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-23T15:08:00+09:00",
+              "title": "금융위, 상장사 자사주 취득한도 3개월간 확대",
+              "url": "https://www.hankyung.com/article/2026112344646",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123120600002",
+          "score": 96.4,
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 96,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "전날 발표된 증시 안정 조치가 실제 금융위원회의 의결로 이어져 제도 적용 일정과 조건이 확정됐습니다.",
+          "sourceCheck": "연합뉴스 15시 05분 원문에서 금융위 정례회의 의결, 하루 주문 한도 변경 내용, 24일~2027년 2월 23일 적용 기간과 배당가능이익 제한 유지를 확인했습니다. 한국경제 15시 08분 기사에서도 같은 의결 내용을 대조했습니다. 전날의 단순 준비 발표와 오늘의 정식 의결을 구분했고 시행 완료나 실제 자사주 매입을 주장하지 않았습니다. 원문 이미지 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T15:05:00+09:00",
+              "title": "상장사 자사주 1일 취득 한도 3개월간 풀린다…증시 안정 차원",
+              "url": "https://www.yna.co.kr/view/AKR20261123120600002",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "금융위원회가 상장기업의 자사주 하루 매수 주문 한도를 24일부터 3개월간 완화하기로 의결했습니다.",
+            "기업은 신고한 전체 자사주 취득 수량만큼 하루에 매수 주문을 낼 수 있지만, 실제 매입과 주가 안정 효과는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "정부의 증시 안정 대책 발표 이후 금융위원회가 상장사 자사주 하루 매수 주문 한도를 3개월간 완화하는 안건을 공식 의결했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "확정"
+          },
+          "title": "금융위, 자사주 하루 매수 한도 완화 의결",
+          "topicKey": "kr-stock-market-stabilization-policy",
+          "uncertainty": "한도 완화 의결은 완료됐지만 시행은 24일부터입니다. 자사주 실제 취득 규모와 시장 안정 효과는 확정되지 않았으며 상법상 배당가능이익 한도는 유지됩니다.",
+          "whatChanged": "22일 정부가 자사주 매수 한도 완화를 계획으로 발표한 데 이어 23일 금융위원회가 이를 정례회의에서 공식 의결하고 적용 기간과 구체적인 주문 한도를 확정했습니다.",
+          "whyItMatters": "급락장에 대응해 상장기업이 자사주 매수 주문을 더 탄력적으로 낼 수 있게 하는 제도 변경으로 증시 안정 조치 중 실제 의결이 완료된 내용입니다."
+        },
+        {
+          "category": "사회·정보보안",
+          "emphasis": [
+            "공식 조사에 착수",
+            "위법 여부와 제재는 아직 결정되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "한전은 2026년 11월 22일 오후 6시께 개인정보보호위원회에 유출 사실을 신고했고, 개인정보위는 23일 조사 착수 사실을 공개했습니다. 정확한 조사 착수 시각은 확인되지 않았습니다.",
+          "factsHash": "46914df55374c14a381eb7cbdb197dc210b63f63502e4893f088f3092bd020ad",
+          "followUp": {
+            "delta": "22일 한전이 약 152만명분의 개인정보 유출을 공개한 뒤 23일 개인정보보호위원회가 현장 조사와 자료 제출 요구를 포함한 공식 조사에 착수했습니다.",
+            "editionId": "2026-11-22-pm",
+            "storyId": "kepco-personal-data-leak-20261122"
+          },
+          "id": "kepco-privacy-regulator-investigation-20261123",
+          "keyFacts": {
+            "affectedSystems": "한국전력 한전ON 및 전자조달시스템",
+            "combinedRecords": "약 152만명분",
+            "finalFinding": "법 위반 여부 및 제재 미확정",
+            "hanjeonOnRecords": "65만487명",
+            "investigationAnnounced": "2026년 11월 23일",
+            "investigationScope": "유출 경위, 피해 규모 및 개인정보 안전조치 의무 준수 여부",
+            "potentialAction": "위법 사항 발견 시 처분 방침",
+            "procurementRecords": "86만9,761명",
+            "regulator": "개인정보보호위원회",
+            "reportedToRegulator": "2026년 11월 22일 오후 6시께"
+          },
+          "publishedAt": "2026-11-23T16:09:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112309910001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T16:09:00+09:00",
+              "title": "개보위, '152만명 개인정보 유출' 한전 조사 착수",
+              "url": "https://www.yna.co.kr/view/AKR20261123137200530",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123137200530",
+          "score": 96.55,
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 95,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "대규모 개인정보 유출 사건에서 감독기관의 공식 조사라는 새로운 행정 절차가 시작됐으며 이용자 보호와 기업 책임에 직접 관련됩니다.",
+          "sourceCheck": "연합뉴스 16시 09분 원문에서 개인정보위가 한전으로부터 22일 오후 6시께 신고를 접수하고 조사에 착수했다고 밝힌 내용, 조사 범위, 한전ON 65만487명과 전자조달시스템 86만9,761명의 유출 규모를 확인했습니다. 개인정보위가 실제 제재를 확정한 것은 아니므로 조사 개시와 최종 처분을 구분했습니다. 22일에 공개된 유출 규모를 새로운 증가 수치처럼 표현하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112309910001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T16:09:00+09:00",
+              "title": "개보위, '152만명 개인정보 유출' 한전 조사 착수",
+              "url": "https://www.yna.co.kr/view/AKR20261123137200530",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "개인정보보호위원회가 한국전력의 개인정보 약 152만명분 유출 사고에 대한 공식 조사에 착수했다고 밝혔습니다.",
+            "현장 조사와 자료 제출 요구로 유출 경위와 안전조치 의무 준수 여부를 확인할 예정이며, 위법 여부와 제재는 아직 결정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "한국전력의 대규모 개인정보 유출 사실이 공개된 뒤 개인정보보호위원회가 유출 경위와 안전조치 의무 준수 여부에 관한 공식 조사에 착수했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-kepco-personal-data-breach-2026",
+            "issueTitle": "2026년 한국전력 개인정보 유출 사고",
+            "stage": "후속"
+          },
+          "title": "개인정보위, 한전 152만명분 유출 조사 착수",
+          "topicKey": "kr-kepco-personal-data-breach",
+          "uncertainty": "조사 착수는 확인됐지만 정보보호 의무 위반이나 제재가 확정된 것은 아닙니다. 두 시스템 이용자의 중복 여부와 추가 피해 범위도 조사 결과에 따라 달라질 수 있습니다.",
+          "whatChanged": "22일 한전의 대규모 개인정보 유출 사실 공개에 이어 23일 개인정보보호위원회가 현장 조사와 자료 제출 요구를 통해 유출 경위와 법령 준수 여부를 조사하기 시작했습니다.",
+          "whyItMatters": "주민등록번호와 계좌정보 등 개인정보 유출에 대한 사업자의 보안 관리 책임과 피해 규모를 감독기관이 공식적으로 조사하는 단계에 들어갔습니다."
+        },
+        {
+          "category": "사회·노동",
+          "emphasis": [
+            "전직 간호사 3명을 불구속 송치",
+            "신체적 폭행 없이 상해 혐의를 적용한 첫 사례"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 경기남부경찰청이 수사 결과와 전직 간호사 3명의 불구속 송치 사실을 밝혔습니다. 실제 송치 처리의 정확한 시각은 확인되지 않았습니다.",
+          "factsHash": "9275b9bec1f2284b2665738f383006ee6c667defbc1a9f65480a58c755e4b5a2",
+          "id": "nurse-workplace-bullying-injury-referral-20261123",
+          "keyFacts": {
+            "additionalCharges": "일부 피의자에게 의료법 및 정보통신망법 위반 혐의 추가",
+            "allegations": "폭언·따돌림 등으로 우울증을 유발한 상해 혐의",
+            "deathLiability": "사망에 대한 형사책임은 별도로 인정하지 않음",
+            "investigatingAgency": "경기남부경찰청 광역범죄수사대",
+            "judicialOutcome": "최종 법원 판단 미확정",
+            "otherReferrals": "병원장 2명도 의료법 관련 혐의로 송치됐다는 보도",
+            "policeAssessment": "신체적 폭행 없이 정신질환을 유발한 태움에 상해 혐의 적용한 첫 사례라는 설명",
+            "referredSuspects": "전직 간호사 3명 불구속 송치",
+            "victim": "고 강수빈 간호사"
+          },
+          "publishedAt": "2026-11-23T14:09:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-23T18:03:00+09:00",
+              "title": "정신적 태움에 첫 '상해 혐의'…간호사 등 5명 불구속 송치",
+              "url": "https://www.hankyung.com/article/2026112350361",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국일보",
+              "publishedAt": "2026-11-23T12:10:00+09:00",
+              "title": "죽음 부른 '태움' 간호사 3명 등 송치... 폭언·따돌림 상해 혐의 적용",
+              "url": "https://www.hankookilbo.com/news/article/amp/A2026112311160002908",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123097900061",
+          "score": 94.95,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 94,
+            "interest": 94,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "직장 내 정신적 괴롭힘을 상해 혐의로 판단해 송치한 새로운 수사 결과로, 근로자 보호와 형사책임 판단에 중요한 의미가 있습니다.",
+          "sourceCheck": "연합뉴스 14시 09분 원문에서 경찰의 상해 혐의 적용, 전직 간호사 3명 송치, 정신적 괴롭힘과 우울증의 인과관계에 관한 수사 판단을 확인했습니다. 한국경제 18시 03분 원문에서도 간호사 3명과 병원장 2명의 송치 및 첫 상해 혐의 적용이라는 경찰 설명을 대조했습니다. 한국일보 12시 10분 보도도 동일 사건을 다뤘습니다. 송치와 유죄 확정, 우울증에 대한 판단과 사망의 형사책임은 구분했습니다. 기사와 무관한 자료사진은 사용하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T14:09:00+09:00",
+              "title": "폭행 없는 태움에도 상해 혐의…정신적 괴롭힘 처벌 길 열까",
+              "url": "https://www.yna.co.kr/view/AKR20261123097900061",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "경찰이 고 강수빈 간호사에게 폭언과 따돌림으로 우울증을 유발한 혐의를 받는 전직 간호사 3명을 불구속 송치했습니다.",
+            "간호사 태움 사건에서 신체적 폭행 없이 상해 혐의를 적용한 첫 사례라는 경찰 설명이며, 형사책임은 아직 법원에서 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "경찰이 신체적 폭행 없는 직장 내 괴롭힘과 우울증 발생 사이의 인과관계를 인정하고 전직 간호사 3명을 상해 등 혐의로 송치했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-nurse-workplace-bullying-investigation-2026",
+            "issueTitle": "고 강수빈 간호사 태움 사건 수사",
+            "stage": "결과"
+          },
+          "title": "간호사 태움, 폭행 없이 상해 혐의 적용",
+          "topicKey": "kr-nurse-workplace-bullying-investigation",
+          "uncertainty": "경찰은 우울증 발생과 괴롭힘의 인과관계를 인정했지만 사망 자체에 대한 형사책임을 인정한 것은 아닙니다. 송치는 유죄 판결이나 형사처벌 확정을 뜻하지 않습니다.",
+          "whatChanged": "경찰이 간호사 직장 내 괴롭힘 사건에서 지속적 폭언과 따돌림이 우울증을 유발했다고 판단하고 신체적 폭행 없이도 상해 혐의를 적용해 전직 간호사 3명을 송치했습니다.",
+          "whyItMatters": "직장 내 괴롭힘으로 발생한 정신질환을 형사상 상해로 평가한 수사 사례로 의료 현장의 근로자 보호와 사용자 관리 책임 논의에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·날씨",
+          "emphasis": [
+            "각각 50%로 전망",
+            "일시적인 강한 한파가 나타날 수"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "기상청이 2026년 11월 23일 발표한 2026년 12월부터 2027년 2월까지의 3개월 기후 전망입니다. 장기 확률 예측이며 특정 날짜의 날씨를 확정한 것은 아닙니다.",
+          "factsHash": "e75b184ab87a473e46c22f233a0be3dee87d45fb0a817e68c51e904e6448f250",
+          "id": "winter-el-nino-three-month-outlook-20261123",
+          "keyFacts": {
+            "agency": "기상청",
+            "announcementDate": "2026년 11월 23일",
+            "climateFactor": "강한 엘니뇨 현상",
+            "coldWaveRisk": "북극 소용돌이 약화 등에 따른 일시적 강한 한파 가능",
+            "decemberTemperature": "평년보다 높을 확률 50%, 비슷할 확률 40%, 낮을 확률 10%",
+            "droughtRisk": "일부 지역에서는 겨울철 기상가뭄 가능성",
+            "februaryTemperature": "평년보다 높을 확률 50%, 비슷할 확률 40%, 낮을 확률 10%",
+            "forecastPeriod": "2026년 12월~2027년 2월",
+            "januaryTemperature": "평년보다 높을 확률 40%, 비슷할 확률 40%, 낮을 확률 20%",
+            "precipitation": "겨울철 눈과 비가 평년보다 많을 가능성"
+          },
+          "publishedAt": "2026-11-23T12:08:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-23T15:53:00+09:00",
+              "title": "[날씨] 강한 엘니뇨에 포근한 겨울 전망...눈비 많아도 가뭄 우려",
+              "url": "https://www.ytn.co.kr/_ln/0108_202611231553026339",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123070451530",
+          "score": 94.3,
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 93,
+            "interest": 91,
+            "recency": 100,
+            "reliability": 99
+          },
+          "scoreReason": "겨울철 생활과 에너지·농업·교통 안전에 영향을 줄 수 있는 공식 기후 전망이지만 확률 예측으로서 불확실성이 있습니다.",
+          "sourceCheck": "연합뉴스 12시 08분 원문에서 기상청의 3개월 전망과 12월·2월의 평년 초과 기온 확률 50%, 1월의 40%, 엘니뇨 영향 및 일시적인 한파 가능성을 확인했습니다. YTN의 오후 날씨 보도에서도 따뜻한 겨울 전망과 가뭄 가능성을 대조했습니다. 확률 예보를 확정 관측값으로 표현하지 않았고 원문 자료사진을 현재 기상 현장 사진으로 사용하지 않았습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T12:08:00+09:00",
+              "title": "'최강 엘니뇨'에 올겨울 포근하고 눈·비 많을 듯(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261123070451530",
+              "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+            }
+          ],
+          "status": "분석",
+          "summary": [
+            "기상청은 강한 엘니뇨 영향으로 올겨울 12월과 내년 2월 기온이 평년보다 높을 확률을 각각 50%로 전망했습니다.",
+            "눈과 비도 평년보다 많을 가능성이 있지만 북극 찬 공기가 유입되면 일시적인 강한 한파가 나타날 수 있다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "기상청이 강한 엘니뇨를 고려한 겨울철 3개월 전망을 새로 발표하고 12월과 다음 해 2월의 평년 초과 기온 확률을 각각 50%로 제시했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-winter-weather-outlook-2026-2027",
+            "issueTitle": "2026~2027년 겨울철 기상청 3개월 전망",
+            "stage": "발표"
+          },
+          "title": "기상청, 올겨울 평년보다 포근할 가능성 높아",
+          "topicKey": "kr-winter-weather-outlook-2026-2027",
+          "uncertainty": "장기 전망은 확률로 제시됩니다. 겨울 전체가 계속 따뜻하거나 눈과 비가 반드시 평년보다 많다는 뜻은 아니며 갑작스러운 한파와 지역별 가뭄 가능성도 있습니다.",
+          "whatChanged": "기상청이 23일 새 3개월 전망을 발표해 12월과 다음 해 2월의 평년 초과 기온 확률을 각각 50%로 제시하고 겨울 강수 및 한파 가능성도 설명했습니다.",
+          "whyItMatters": "겨울철 난방과 에너지 수요, 농업 및 도로 안전에 영향을 줄 수 있는 계절 기상 전망입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-23T21:05:17.907085+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "66f71a30571377903743cd3ad3634b6ee9e908130f720a114d68bd12e1e5938c",
+  "opensAt": "2026-11-23T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-23T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

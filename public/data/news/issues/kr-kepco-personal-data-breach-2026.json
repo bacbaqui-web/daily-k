@@ -62,10 +62,71 @@
       "supersededBy": [],
       "title": "한전, 개인정보 약 152만명분 유출",
       "uncertainty": "두 시스템의 유출 대상 인원 합산이므로 중복 이용자를 제외한 고유 피해 인원은 별도 확인이 필요합니다. 개별 정보의 정확한 유출 범위, 공격 경로 및 실제 2차 피해 규모도 조사 중입니다."
+    },
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "사회·정보보안",
+      "change": "한국전력의 대규모 개인정보 유출 사실이 공개된 뒤 개인정보보호위원회가 유출 경위와 안전조치 의무 준수 여부에 관한 공식 조사에 착수했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "한전은 2026년 11월 22일 오후 6시께 개인정보보호위원회에 유출 사실을 신고했고, 개인정보위는 23일 조사 착수 사실을 공개했습니다. 정확한 조사 착수 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "22일 한전이 약 152만명분의 개인정보 유출을 공개한 뒤 23일 개인정보보호위원회가 현장 조사와 자료 제출 요구를 포함한 공식 조사에 착수했습니다.",
+        "editionId": "2026-11-22-pm",
+        "storyId": "kepco-personal-data-leak-20261122"
+      },
+      "id": "2026-11-23-pm/kepco-privacy-regulator-investigation-20261123",
+      "keyFacts": {
+        "affectedSystems": "한국전력 한전ON 및 전자조달시스템",
+        "combinedRecords": "약 152만명분",
+        "finalFinding": "법 위반 여부 및 제재 미확정",
+        "hanjeonOnRecords": "65만487명",
+        "investigationAnnounced": "2026년 11월 23일",
+        "investigationScope": "유출 경위, 피해 규모 및 개인정보 안전조치 의무 준수 여부",
+        "potentialAction": "위법 사항 발견 시 처분 방침",
+        "procurementRecords": "86만9,761명",
+        "regulator": "개인정보보호위원회",
+        "reportedToRegulator": "2026년 11월 22일 오후 6시께"
+      },
+      "previous": {
+        "editionId": "2026-11-22-pm",
+        "storyId": "kepco-personal-data-leak-20261122"
+      },
+      "publishedAt": "2026-11-23T16:09:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img4.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112309910001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T16:09:00+09:00",
+          "title": "개보위, '152만명 개인정보 유출' 한전 조사 착수",
+          "url": "https://www.yna.co.kr/view/AKR20261123137200530",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "kepco-privacy-regulator-investigation-20261123",
+      "summary": [
+        "개인정보보호위원회가 한국전력의 개인정보 약 152만명분 유출 사고에 대한 공식 조사에 착수했다고 밝혔습니다.",
+        "현장 조사와 자료 제출 요구로 유출 경위와 안전조치 의무 준수 여부를 확인할 예정이며, 위법 여부와 제재는 아직 결정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "개인정보위, 한전 152만명분 유출 조사 착수",
+      "uncertainty": "조사 착수는 확인됐지만 정보보호 의무 위반이나 제재가 확정된 것은 아닙니다. 두 시스템 이용자의 중복 여부와 추가 피해 범위도 조사 결과에 따라 달라질 수 있습니다."
     }
   ],
   "id": "kr-kepco-personal-data-breach-2026",
   "schemaVersion": 1,
   "title": "2026년 한국전력 개인정보 유출 사고",
-  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
 }

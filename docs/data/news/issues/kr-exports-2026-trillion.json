@@ -48,10 +48,71 @@
       "supersededBy": [],
       "title": "한국 수출, 사상 첫 1조달러 돌파",
       "uncertainty": "1조달러 돌파는 잠정 집계이고, 2026년 연간 최종 수출액과 세계 수출 순위는 아직 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "경제·무역",
+      "change": "연간 누적 수출 1조달러 돌파 이후 11월 1~20일 잠정 수출이 774억달러로 기간별 역대 최대를 기록하고 반도체 수출 비중이 49.7%로 집계됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "관세청이 2026년 11월 23일 발표한 11월 1~20일 통관 기준 잠정 통계입니다. 월간 최종 실적이나 11월 전체 확정치가 아닙니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "19일 연간 누적 수출액 1조달러 돌파에 이어 11월 1~20일 수출액 774억달러와 반도체 비중 49.7%라는 새 잠정 통계가 발표됐습니다.",
+        "editionId": "2026-11-19-pm",
+        "storyId": "kr-exports-trillion-20261119"
+      },
+      "id": "2026-11-23-pm/november-exports-first-twenty-days-record-20261123",
+      "keyFacts": {
+        "dailyAverageExports": "48억4천만달러, 전년 동기 대비 95.2% 증가",
+        "exports": "774억달러, 전년 동기 대비 101.5% 증가",
+        "imports": "503억달러, 전년 동기 대비 39.4% 증가",
+        "period": "2026년 11월 1~20일",
+        "record": "11월 1~20일 기간 기준 역대 최대 수출액",
+        "semiconductorExports": "385억달러, 전년 동기 대비 294.4% 증가",
+        "semiconductorShare": "전체 수출의 49.7%",
+        "sourceStatus": "관세청 통관 기준 잠정치",
+        "tradeSurplus": "271억달러 흑자",
+        "workingDays": "16.0일, 전년 동기 15.5일"
+      },
+      "previous": {
+        "editionId": "2026-11-19-pm",
+        "storyId": "kr-exports-trillion-20261119"
+      },
+      "publishedAt": "2026-11-23T09:11:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T09:11:00+09:00",
+          "title": "'1조 달러' 한국 수출, 이달 중순도 역대 최대…반도체 4배 급증(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123030651002",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "november-exports-first-twenty-days-record-20261123",
+      "summary": [
+        "11월 1~20일 한국 수출액이 지난해 같은 기간보다 101.5% 늘어난 774억달러로, 같은 기간 기준 역대 최대를 기록했습니다.",
+        "반도체 수출은 385억달러로 294.4% 증가해 전체의 49.7%를 차지했고 무역수지는 271억달러 흑자였습니다."
+      ],
+      "supersededBy": [],
+      "title": "11월 1~20일 수출 774억달러, 역대 최대",
+      "uncertainty": "수치는 통관 기준 잠정치이며 11월 전체 수출액의 확정 결과는 아닙니다. 반도체 수출 증가가 다른 모든 업종의 호조를 뜻하지는 않습니다."
     }
   ],
   "id": "kr-exports-2026-trillion",
   "schemaVersion": 1,
   "title": "한국 2026년 수출 1조달러 달성",
-  "updatedAt": "2026-11-23T09:42:13.097980+09:00"
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
 }

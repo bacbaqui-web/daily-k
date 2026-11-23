@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-23/pm.json",
+      "category": "사회·노동",
+      "change": "경찰이 신체적 폭행 없는 직장 내 괴롭힘과 우울증 발생 사이의 인과관계를 인정하고 전직 간호사 3명을 상해 등 혐의로 송치했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-23T21:01:18.155472+09:00",
+      "coveredOn": "2026-11-23",
+      "edition": "pm",
+      "editionDate": "2026-11-23",
+      "editionId": "2026-11-23-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 23일 경기남부경찰청이 수사 결과와 전직 간호사 3명의 불구속 송치 사실을 밝혔습니다. 실제 송치 처리의 정확한 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-23-pm/nurse-workplace-bullying-injury-referral-20261123",
+      "keyFacts": {
+        "additionalCharges": "일부 피의자에게 의료법 및 정보통신망법 위반 혐의 추가",
+        "allegations": "폭언·따돌림 등으로 우울증을 유발한 상해 혐의",
+        "deathLiability": "사망에 대한 형사책임은 별도로 인정하지 않음",
+        "investigatingAgency": "경기남부경찰청 광역범죄수사대",
+        "judicialOutcome": "최종 법원 판단 미확정",
+        "otherReferrals": "병원장 2명도 의료법 관련 혐의로 송치됐다는 보도",
+        "policeAssessment": "신체적 폭행 없이 정신질환을 유발한 태움에 상해 혐의 적용한 첫 사례라는 설명",
+        "referredSuspects": "전직 간호사 3명 불구속 송치",
+        "victim": "고 강수빈 간호사"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-23T14:09:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-23T14:09:00+09:00",
+          "title": "폭행 없는 태움에도 상해 혐의…정신적 괴롭힘 처벌 길 열까",
+          "url": "https://www.yna.co.kr/view/AKR20261123097900061",
+          "verifiedAt": "2026-11-23T21:01:18.155472+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "nurse-workplace-bullying-injury-referral-20261123",
+      "summary": [
+        "경찰이 고 강수빈 간호사에게 폭언과 따돌림으로 우울증을 유발한 혐의를 받는 전직 간호사 3명을 불구속 송치했습니다.",
+        "간호사 태움 사건에서 신체적 폭행 없이 상해 혐의를 적용한 첫 사례라는 경찰 설명이며, 형사책임은 아직 법원에서 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "간호사 태움, 폭행 없이 상해 혐의 적용",
+      "uncertainty": "경찰은 우울증 발생과 괴롭힘의 인과관계를 인정했지만 사망 자체에 대한 형사책임을 인정한 것은 아닙니다. 송치는 유죄 판결이나 형사처벌 확정을 뜻하지 않습니다."
+    }
+  ],
+  "id": "kr-nurse-workplace-bullying-investigation-2026",
+  "schemaVersion": 1,
+  "title": "고 강수빈 간호사 태움 사건 수사",
+  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+}
