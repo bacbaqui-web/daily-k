@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-23T01:46:51.278494+00:00",
+  "collectedAt": "2026-11-23T01:49:21.907687+00:00",
   "windowEnd": "2026-11-23T10:46:51.065997+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4968,6 +4968,60 @@
       "sourceTitlesFetchedAt": "2026-11-23T00:44:36.645775+00:00",
       "collectedAt": "2026-11-23T09:44:36.645818+09:00",
       "firstPublishedAt": "2026-11-23T00:44:36.763850+00:00"
+    },
+    {
+      "id": "aagag-1671884-0",
+      "url": "https://aagag.com/issue/?idx=1671884",
+      "source": "애객",
+      "title": "테슬라 화면 보고 미래를 예측하는 사람",
+      "publishedAt": "2026-11-23T10:41:17+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Ckd.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7Ckd.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㅋㅋㅋ",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 11,
+      "kPerComment": 5.5,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9015779",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9015799",
+          "text": "아니요 저거 유료 사용일듯합니다."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-23T10:49:14.276467+09:00",
+      "sourceTitles": [
+        "테슬라 FSD 자율주행 절망편.",
+        "테슬라 화면 보고 미래를 예측하는 사람",
+        "테슬라 화면 보고 미래를 예측하는 사람",
+        "테슬라 화면 보고 미래를 예측하는 사람",
+        "테슬라 화면 보고 미래를 예측하는 사람"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-23T01:49:21.817233+00:00",
+      "collectedAt": "2026-11-23T10:49:21.817250+09:00",
+      "firstPublishedAt": "2026-11-23T01:49:21.945134+00:00"
     }
   ],
   "taggedPosts": [
@@ -6790,7 +6844,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
