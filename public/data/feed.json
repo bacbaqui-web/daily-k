@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-23",
-  "collectedAt": "2026-11-23T14:36:30.762616+09:00",
-  "windowEnd": "2026-11-23T14:29:48.737061+09:00",
+  "collectedAt": "2026-11-23T05:46:58.595914+00:00",
+  "windowEnd": "2026-11-23T14:46:58.260693+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3734,71 +3734,6 @@
       "firstPublishedAt": "2026-11-22T08:59:08.882231+00:00"
     },
     {
-      "id": "aagag-1671695-0",
-      "url": "https://aagag.com/issue/?idx=1671695",
-      "source": "애객",
-      "title": "아 미친놈 하나때문에 피곤하다 ㅜㅜ",
-      "publishedAt": "2026-11-22T14:34:10+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6zkG.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6zkG.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": ".",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 13,
-      "commentCount": 4,
-      "laughingComments": 2,
-      "score": 13,
-      "kPerComment": 3.25,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9012983",
-          "text": "물올려"
-        },
-        {
-          "id": "9012984",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 소리 꼭 켜세요"
-        },
-        {
-          "id": "9012990",
-          "text": "Ai인듯? 카메라가 한바퀴를 못 돌았는데 원점으로 돌아옴"
-        },
-        {
-          "id": "9012998",
-          "text": "ㅋㅋㅋㅋ 끼야약 하고 웃는거야?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-22T14:43:15.082408+09:00",
-      "sourceTitles": [
-        "개 깜 놀람",
-        "아 미친놈 하나 때문에 피곤하다 ㅜㅜ",
-        "아 미친놈 하나 때문에 피곤하다 ㅜㅜ",
-        "아 미친놈 하나때문에 피곤하다 ㅜㅜ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-22T05:43:22.430060+00:00",
-      "collectedAt": "2026-11-22T14:43:22.430080+09:00",
-      "firstPublishedAt": "2026-11-22T05:43:22.661852+00:00"
-    },
-    {
       "id": "aagag-1266532-1",
       "url": "https://aagag.com/issue/?idx=1266532_1",
       "source": "애객",
@@ -6307,9 +6242,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
