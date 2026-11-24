@@ -1,6 +1,76 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-11-24/pm.json",
+      "category": "사회·교통",
+      "change": "서울지하철 노사의 최종 교섭이 난항을 겪는 가운데 서울시가 파업 발생 시 적용할 구체적인 비상수송계획을 공개했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T21:03:58.771281+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "pm",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 24일 최종 교섭이 진행됐으며 오후 6시 7분 보도에서는 협상 난항이 확인됐습니다. 파업은 협상 최종 결렬 시 25일 첫차부터 예정돼 있습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "오전에 예고된 최종 교섭이 실제 진행됐지만 3개 노조의 본교섭이 정회했고 서울시가 출근시간대 운행 유지와 버스 증편 대책을 발표했습니다.",
+        "editionId": "2026-11-24-am",
+        "storyId": "seoul-subway-final-negotiation-20261124"
+      },
+      "id": "2026-11-24-pm/seoul-subway-emergency-transport-plan-20261124",
+      "keyFacts": {
+        "busAdditionalTrips": "출근 1,873회와 퇴근 1,646회 등 총 3,519회 증편",
+        "conditionalStrike": "11월 25일 첫차부터 총파업 예정",
+        "dailySubwayPlan": "1~8호선 하루 전체 운행률 81% 수준 유지 계획",
+        "lineNine": "서울시 설명상 9호선 정상 운행 예정",
+        "morningSubwayPlan": "오전 7~9시 1~8호선 평시 대비 100% 운행 계획",
+        "negotiationStatus": "3개 노조 본교섭이 각각 2~4분 만에 정회",
+        "operator": "서울교통공사",
+        "safetyMeasures": "혼잡 역사 안전관리 인력 추가 배치",
+        "unions": "3개 노동조합"
+      },
+      "previous": {
+        "editionId": "2026-11-24-am",
+        "storyId": "seoul-subway-final-negotiation-20261124"
+      },
+      "publishedAt": "2026-11-24T18:07:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T18:07:00+09:00",
+          "title": "서울지하철 노사 막판 교섭 난항…내일 첫차부터 총파업 위기",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261124167600004",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T09:42:00+09:00",
+          "title": "서울시, 25일 지하철 파업 대비 비상수송대책…\"출근길 뚫는다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261124049200004",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "예정",
+      "storyId": "seoul-subway-emergency-transport-plan-20261124",
+      "summary": [
+        "서울교통공사와 3개 노조의 최종 교섭이 난항을 겪고 있어 협상이 결렬되면 25일 첫차부터 총파업에 들어갈 예정입니다.",
+        "서울시는 파업에 대비해 오전 7~9시 지하철 1~8호선 운행률을 100%로 유지하고 시내버스를 하루 3,519회 증편할 계획입니다."
+      ],
+      "supersededBy": [],
+      "title": "서울지하철 교섭 난항, 파업 대비 버스 증편",
+      "uncertainty": "확인한 저녁 보도에서는 최종 협상 결과가 나오지 않았습니다. 파업과 비상수송계획의 실제 시행 여부는 이후 협상 결과에 따라 달라집니다."
+    },
+    {
       "briefingPath": "2026-11-24/am.json",
       "category": "사회·교통",
       "change": "서울지하철 노사가 총파업 예고일을 하루 앞두고 인력 및 임금 문제에 관한 마지막 교섭을 진행할 예정입니다.",
@@ -58,5 +128,5 @@
   "id": "seoul-subway-labor-dispute-2026",
   "schemaVersion": 1,
   "title": "2026년 11월 서울지하철 노사협상과 총파업",
-  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
+  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
 }

@@ -44,10 +44,70 @@
       "supersededBy": [],
       "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
       "uncertainty": "보도 기준이며 이후 변경이나 최종 결과는 별도 확인이 필요합니다."
+    },
+    {
+      "briefingPath": "2026-11-24/pm.json",
+      "category": "외교·안보",
+      "change": "러시아 군용기의 울릉도 접근으로 경계경보가 발령됐고 한국 정부가 러시아 국방무관 초치와 외교적 항의에 나섰습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T21:03:58.771281+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "pm",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 24일 오전 러시아 군용기가 한국방공식별구역에 진입해 울릉도에 접근했습니다. 오후에는 국방부와 외교부의 항의 조치가 확인됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "울릉도 주변에 러시아 군용기가 접근해 이례적으로 경계경보가 발령됐으며, 이후 정부가 러시아 측에 공식 항의하고 재발 방지를 요구했습니다.",
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-russia-kadiz"
+      },
+      "id": "2026-11-24-pm/russian-military-aircraft-ulleung-alert-20261124",
+      "keyFacts": {
+        "aircraft": "러시아 군용기 여러 대",
+        "airspaceViolation": "합동참모본부가 실제 영공 침범은 없었다고 확인",
+        "alertError": "경북도가 재난문자에 북한 항공기 추정이라는 잘못된 표현을 사용",
+        "civilDefense": "울릉군 경계경보 발령 및 해제",
+        "defenseMinistry": "주한 러시아 국방무관 초치",
+        "foreignMinistry": "러시아 측에 유감 표명 및 재발 방지 요구",
+        "incidentDate": "2026년 11월 24일",
+        "location": "동해 한국방공식별구역 및 울릉도 인근",
+        "militaryResponse": "한국군 대응 이후 러시아 군용기 이탈"
+      },
+      "previous": {
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-russia-kadiz"
+      },
+      "publishedAt": "2026-11-24T16:48:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T16:48:00+09:00",
+          "title": "정부, 러 군용기 울릉도 영공 근접에 항의…\"용납할 수 없어\"(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20261124134152504",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "russian-military-aircraft-ulleung-alert-20261124",
+      "summary": [
+        "러시아 군용기 여러 대가 울릉도 영공 가까이 접근해 한때 경계경보가 발령됐으나 실제 영공 침범은 없었습니다.",
+        "국방부는 주한 러시아 국방무관을 불러 항의했고, 외교부도 러시아 측에 재발 방지를 요구했습니다."
+      ],
+      "supersededBy": [],
+      "title": "러 군용기 울릉도 접근, 경계경보 발령",
+      "uncertainty": "한국방공식별구역 진입과 영공 침범은 서로 다른 개념입니다. 실제 영공 침범은 없었으며 러시아 군용기의 접근 의도는 확인되지 않았습니다."
     }
   ],
   "id": "russia-kadiz-2026-11",
   "schemaVersion": 1,
   "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
-  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
+  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
 }

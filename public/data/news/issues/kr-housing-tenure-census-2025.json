@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-24/pm.json",
+      "category": "경제·주거",
+      "change": "국가데이터처가 보증금 있는 월세 가구의 약 104만 가구 증가와 전세 비중 감소를 보여주는 인구주택총조사 결과를 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T21:03:58.771281+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "pm",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "국가데이터처가 2026년 11월 24일 공개한 2025년 인구주택총조사 표본조사 결과입니다. 조사 기준일은 2025년 11월 1일입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-24-pm/housing-census-monthly-rent-increase-20261124",
+      "keyFacts": {
+        "agency": "국가데이터처",
+        "combinedMonthlyRentShare": "26.0%",
+        "jeonse": "299만8천 가구, 13.3%",
+        "jeonseChange": "25만4천 가구 감소, 비중 2.2%포인트 하락",
+        "monthlyRentWithDeposit": "542만6천 가구, 24.1%",
+        "monthlyRentWithDepositIncrease": "2020년 대비 103만9천 가구 증가",
+        "monthlyRentWithoutDeposit": "42만3천 가구, 1.9%",
+        "ownerOccupied": "57.0%",
+        "referenceDate": "2025-11-01",
+        "totalHouseholds": "2,249만5천 가구"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T15:07:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T15:07:00+09:00",
+          "title": "'월세살이' 5년새 104만 가구 늘어…'비혼 동거' 17만 가구(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261124092351002",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "housing-census-monthly-rent-increase-20261124",
+      "summary": [
+        "2025년 인구주택총조사에서 보증금이 있는 월세 가구가 5년 전보다 약 104만 가구 늘었으며, 전체 월세 가구 비중은 26%로 집계됐습니다.",
+        "전세 가구 비중은 5년 전보다 2.2%포인트 낮아진 13.3%였고, 자기 집에 사는 가구는 전체의 57%였습니다."
+      ],
+      "supersededBy": [],
+      "title": "월세 가구 26%, 전세 가구는 13.3%로 감소",
+      "uncertainty": "전체 가구의 거주 형태를 조사한 결과이며 신규 전월세 계약 중 월세 비중을 뜻하지 않습니다. 조사 기준일 이후의 변화는 반영되지 않았습니다."
+    }
+  ],
+  "id": "kr-housing-tenure-census-2025",
+  "schemaVersion": 1,
+  "title": "2025년 인구주택총조사 주거 형태 변화",
+  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+}

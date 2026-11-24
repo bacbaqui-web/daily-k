@@ -1,0 +1,74 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-24/pm.json",
+      "category": "경제·금융",
+      "change": "금융위원회가 해킹 피해 배상책임과 거래소 대주주 지분 제한, 원화 스테이블코인 발행 요건 등을 담은 법률 제정안을 공개했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T21:03:58.771281+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "pm",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-pm",
+      "eventAt": "2026-11-24T15:00:00+09:00",
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "금융위원회가 2026년 11월 24일 오후 3시 가상자산위원회를 개최하고 법률 제정안의 입법 추진 방안을 논의했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-24-pm/digital-asset-law-government-proposal-20261124",
+      "keyFacts": {
+        "administrativePenalty": "전산안전성 의무 위반으로 사고 발생 시 최대 매출액의 10% 과징금 근거 마련",
+        "compensation": "해킹·전산장애 피해에 대한 사업자의 원칙적 무과실 배상책임",
+        "issuerCapital": "발행업 자기자본 50억원 이상 등 인가 요건",
+        "lawName": "디지털자산업의 혁신과 이용자 보호에 관한 법률 제정안",
+        "legislativeStatus": "정부 제정안 공개, 법률 시행 미확정",
+        "licensing": "사업 유형별 인가·지정·등록제로 전환 추진",
+        "ownershipException": "금융위원회 승인 시 최대 34%까지 허용하는 방안",
+        "ownershipLimit": "거래소 대주주 지분 원칙적으로 20% 제한",
+        "regulator": "금융위원회",
+        "stablecoinIssuance": "초기에는 은행권 과반 지분 컨소시엄부터 발행 허용"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T15:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T15:00:00+09:00",
+          "title": "디지털자산업자, 해킹 피해 과실 없어도 배상…금융사 수준 규제",
+          "url": "https://www.yna.co.kr/view/AKR20261124124200002",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        },
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "대한민국 정책브리핑",
+          "publishedAt": null,
+          "publishedDate": "2026-11-24",
+          "publishedTimezone": "Asia/Seoul",
+          "title": "스테이블코인, 은행 과반 지분 컨소시엄부터 발행 허용 추진",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976382",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "검토",
+      "storyId": "digital-asset-law-government-proposal-20261124",
+      "summary": [
+        "금융위원회가 가상자산 거래소 등의 해킹 피해에 원칙적으로 과실이 없어도 배상 책임을 지도록 하는 디지털자산법 정부안을 공개했습니다.",
+        "은행권이 과반 지분을 가진 컨소시엄부터 원화 스테이블코인 발행을 허용하고 거래소 대주주 지분은 원칙적으로 20%로 제한하는 방안도 담겼습니다."
+      ],
+      "supersededBy": [],
+      "title": "디지털자산법 공개, 해킹 피해 배상 의무 추진",
+      "uncertainty": "정부가 공개한 제정안으로 아직 국회 통과나 시행이 확정되지 않았습니다. 무과실 배상책임에도 이용자의 고의 또는 중대한 과실 등에 관한 예외가 포함됩니다."
+    }
+  ],
+  "id": "kr-digital-asset-basic-law-2026",
+  "schemaVersion": 1,
+  "title": "디지털자산법 제정과 이용자 보호 제도",
+  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+}

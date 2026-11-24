@@ -1,0 +1,790 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-24T21:00:00+09:00",
+      "date": "2026-11-24",
+      "edition": "pm",
+      "editionId": "2026-11-24-pm",
+      "events": [
+        {
+          "at": null,
+          "date": "2026-11-25",
+          "detail": "서울교통공사 3개 노조의 조건부 총파업 일정입니다. 실제 파업 여부는 협상 결과에 따라 달라지며 서울시는 비상수송대책을 마련했습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-24T18:07:00+09:00",
+            "title": "서울지하철 노사 막판 교섭 난항…내일 첫차부터 총파업 위기",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261124167600004",
+            "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+          },
+          "timeNote": "노사협상 최종 결렬 시 25일 첫차부터 시작할 예정입니다.",
+          "title": "서울지하철 총파업 예정"
+        }
+      ],
+      "generatedAt": "2026-11-24T21:03:58.771281+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-24-pm",
+      "intro": "11월 24일 저녁 주요 뉴스입니다. 러시아 군용기의 울릉도 접근과 코스피 급반등, 디지털자산법 정부안 공개, 서울지하철 파업 대비 대책 등을 정리했습니다.",
+      "keywords": [
+        "러시아 군용기 울릉도 접근",
+        "울릉군 경계경보",
+        "코스피 6.32% 상승",
+        "코스피 5,000선 회복",
+        "디지털자산법 정부안",
+        "가상자산 해킹 무과실 배상",
+        "원화 스테이블코인",
+        "서울지하철 파업 대비",
+        "김병기 의원 불구속 송치",
+        "가정폭력 반의사불벌 규정",
+        "월세 가구 26%",
+        "수능 부정행위 고발 6건",
+        "종교 인구 440만명 감소",
+        "한전 개인정보 유출 해명"
+      ],
+      "omissionNotes": [
+        "이번 회차의 실제 시작 시각은 2026-11-24T20:30:08+09:00이며 마지막 웹 조사 후 확인한 시각은 2026-11-24T20:30:52+09:00입니다. 발행 기준 cutoffAt은 21:00이지만 실제 기사 선정에는 researchCutoffAt 이전의 보도만 사용했습니다.",
+        "최근 7일 이력 확인을 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 접근했습니다. 인덱스 열람에는 성공했으나 최신 항목은 2026-11-23-pm으로 표시됐습니다. 홈페이지 개별 회차 JSON에 대한 직접 접근에서는 오류가 발생했습니다.",
+        "대체 경로인 https://raw.githubusercontent.com/bacbaqui-web/daily-k/main/public/data/news/ 에서 2026-11-17-pm부터 2026-11-24-am까지 총 14개 회차 JSON에 접근했습니다. 각 회차의 확인 가능한 기사 목록과 주요 주제를 비교하고 필요한 후속 기사 식별자를 직접 확인했습니다. 다만 모든 파일의 대표·추가·예비 기사 배열을 전수 추출하지는 못했습니다. 수신 측은 최근 7일의 전체 발행 자료를 대상으로 중복 및 최신 후속 연결을 반드시 재검사해야 합니다.",
+        "오늘 오전 실제 발행본 https://raw.githubusercontent.com/bacbaqui-web/daily-k/main/public/data/news/2026-11-24/am.json 을 확인했습니다. 젠슨 황 복귀, 미국 증시 반등, 선관위 구속심사 결과, 소비자심리지수, 서울지하철 교섭 예정, 국제유가 하락, 리비아 정부의 우크라이나 규탄, 혈액제제 폐기 감사와 비교했습니다.",
+        "국내 코스피 급반등은 오전에 보도한 미국 증시 상승과 다른 거래일·시장의 실제 마감 결과입니다. 23일 오후 발행본에서 국내 증시의 기존 storyId와 timeline.issueId=korea-equities-flows 및 issueTitle=한국 증시와 외국인 수급을 확인해 재사용했습니다.",
+        "서울지하철 후속은 24일 오전 실제 발행본에서 seoul-subway-final-negotiation-20261124 및 seoul-subway-labor-dispute-2026 식별자와 기존 issueTitle을 확인했습니다. 단순 교섭 예정이 아니라 교섭 진행 상황과 서울시의 비상수송계획을 새 사실로 반영했습니다.",
+        "수능 부정행위 관련 기사는 22일 오후 실제 발행본의 exam-paper-leak-prevention-law-review-20261122 및 timeline.issueId=csat-smart-glasses-cheating-response-2026, issueTitle=수능 스마트안경 부정행위 대응과 시험 감독 강화를 재사용했습니다. 이전 원고에 쓰였던 다른 임시 식별자는 사용하지 않았습니다.",
+        "한전 후속은 23일 오후 실제 발행본에서 kepco-privacy-regulator-investigation-20261123 및 kr-kepco-personal-data-breach-2026 식별자와 기존 issueTitle을 확인해 연결했습니다. 이번에는 해커와의 협상 주장에 대한 한전의 반박과 군·정부 관련 데이터에 대한 설명만 새 사실로 반영했습니다.",
+        "디지털자산법 정부안 공개와 인구주택총조사 발표는 오늘 오전 회차에 일정으로만 들어 있었으므로 실제 공개된 정책안과 조사 결과를 오후 기사로 수록했습니다.",
+        "러시아 군용기의 울릉도 접근 자체는 오전에 발생했지만 오늘 오전 발행본에 포함되지 않았습니다. 오후에 새로 확인된 국방무관 초치와 외교적 항의를 포함해 선정했습니다. 한국방공식별구역 진입을 실제 영공 침범과 혼동하지 않았습니다.",
+        "인구주택총조사의 주거 형태 변화와 종교 인구 변화는 동일한 조사에서 공개된 서로 다른 분야의 주요 통계입니다. 월세 기사는 전체 가구의 거주 형태를, 종교 기사는 10년간의 종교 인구 변화를 중심으로 각각 작성했습니다.",
+        "주요기사 비교에는 연합뉴스 18시 헤드라인 https://www.yna.co.kr/view/AKR20261124160700011 을 사용했으며 YTN, MBC, 뉴시스, 한겨레, 매일경제, 서울경제TV, 머니투데이, 뉴스핌, 더팩트 등의 개별 한국어 원문을 함께 조사했습니다. 금융위원회 공식 보도자료도 확인했습니다. 모든 언론사의 첫 화면과 종이신문 전체 1면을 직접 전수 비교한 것은 아닙니다.",
+        "주요 제외 후보로 젠슨 황의 복귀 이후 남아 있는 여러 규제 조사에 관한 월스트리트저널 인용 보도를 확인했습니다. 기존 조사와 관련한 새로운 처분이나 결론이 아니라 남은 법적 위험에 관한 설명이어서 오전 복귀 기사의 반복을 피했습니다.",
+        "이용철 법무부 장관 후보자와 이태현 KBS 사장 후보자의 인사청문회 관련 보도도 확인했습니다. 청문회 진행 사실과 후보자의 개별 답변을 확인했으나 임명 또는 청문보고서 채택 등 확정된 추가 결과를 확보하지 못해 이번 회차의 독립 기사에서는 제외했습니다.",
+        "국제뉴스도 별도로 검색했습니다. 리비아 러시아 군함 공격과 우크라이나 관련 보도는 오전에 이미 다룬 내용과 중복되는 부분이 많았고, 다른 국제 후보는 이번 회차에 사용할 새로운 사실과 한국어 원문의 보도 시각을 충분히 확인하지 못했습니다. 분야별 기사 수를 채우기 위해 검증되지 않은 국제 기사를 추가하지 않았습니다.",
+        "고위공직자 다주택 현황과 통영시의원 벌금형 보도 등도 확인했으나 이번 회차에서 선정한 안보·금융·제도 변경 및 전국 단위 통계보다 공적 영향과 신규성의 우선순위가 낮다고 판단했습니다.",
+        "연합뉴스의 코스피 마감 종합기사 https://www.yna.co.kr/view/AKR20261124138251008 은 직접 접근에 실패했습니다. 따라서 해당 원문을 읽었다고 기록하지 않았으며 실제 접근 가능한 서울경제TV, 머니투데이 및 연합뉴스 18시 헤드라인에서 마감 결과를 확인했습니다.",
+        "각 기사에 실제 확인한 출처 URL과 보도 시각을 기록했습니다. 최초 보도 시각을 확인하지 못한 정책브리핑 및 한겨레 기사에는 publishedAt:null과 확인 가능한 날짜·시간대를 기록했습니다. 원문 og:image 또는 twitter:image의 정확한 HTTPS 주소는 확인하지 못해 imageUrl은 모두 null로 두었습니다.",
+        "오후 회차 events는 다음 날인 11월 25일 일정만 허용하는 기존 규칙을 적용했습니다. 서울지하철 총파업은 협상 결렬이라는 조건을 명시했으며, 26일 철도노조 준법투쟁 등 이후 날짜의 일정은 제외했습니다.",
+        "서울지하철 협상은 확인한 저녁 보도 이후에도 상황이 달라질 수 있습니다. 수신 측은 발행 전에 파업 철회·타결 여부를 추가 확인하고, 새로운 결과가 발생했다면 기존 원고의 확정 사실과 조건부 일정을 구분해 검토해야 합니다.",
+        "모든 story에 summary에서 그대로 추출한 강조 구절을 2개씩 지정했습니다. importance는 기사 배열 순서와 일치하도록 100부터 91까지 서로 다른 정수로 부여했습니다.",
+        "실제 발행 검증 시각, 검증 해시, 승인 여부 및 operationId는 생성하지 않았습니다. GitHub·홈페이지·Discord에 직접 게시하거나 수정·전송하지 않았으며 새 파일이나 예약도 생성하지 않았습니다.",
+        "코스피 종가·등락률은 확인했으나 매수 사이드카를 일반 매수 주문 정지처럼 설명한 기사 본문은 제외했습니다.",
+        "종교 인구 기사 대표 링크의 접근이 제한됐고 대체 보도에서 종교별 감소와 정확한 수치를 모두 대조하기 어려워 제외했습니다."
+      ],
+      "overview": [
+        "러시아 군용기의 울릉도 접근에 정부가 항의했고, 코스피는 6.32% 상승해 5,000선을 회복했습니다.",
+        "정부가 디지털자산법 제정안을 공개한 가운데 서울지하철 노사협상은 난항을 겪고 있으며, 인구주택총조사에서는 월세 가구와 무종교 인구의 증가가 확인됐습니다."
+      ],
+      "researchCompletedAt": "2026-11-24T20:30:52+09:00",
+      "researchCutoffAt": "2026-11-24T20:30:08+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "외교·안보",
+          "emphasis": [
+            "실제 영공 침범은 없었습니다",
+            "재발 방지를 요구했습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 24일 오전 러시아 군용기가 한국방공식별구역에 진입해 울릉도에 접근했습니다. 오후에는 국방부와 외교부의 항의 조치가 확인됐습니다.",
+          "followUp": {
+            "delta": "울릉도 주변에 러시아 군용기가 접근해 이례적으로 경계경보가 발령됐으며, 이후 정부가 러시아 측에 공식 항의하고 재발 방지를 요구했습니다.",
+            "editionId": "2026-11-17-am",
+            "storyId": "20261117-am-russia-kadiz"
+          },
+          "id": "russian-military-aircraft-ulleung-alert-20261124",
+          "keyFacts": {
+            "aircraft": "러시아 군용기 여러 대",
+            "airspaceViolation": "합동참모본부가 실제 영공 침범은 없었다고 확인",
+            "alertError": "경북도가 재난문자에 북한 항공기 추정이라는 잘못된 표현을 사용",
+            "civilDefense": "울릉군 경계경보 발령 및 해제",
+            "defenseMinistry": "주한 러시아 국방무관 초치",
+            "foreignMinistry": "러시아 측에 유감 표명 및 재발 방지 요구",
+            "incidentDate": "2026년 11월 24일",
+            "location": "동해 한국방공식별구역 및 울릉도 인근",
+            "militaryResponse": "한국군 대응 이후 러시아 군용기 이탈"
+          },
+          "publishedAt": "2026-11-24T16:48:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-24T09:38:00+09:00",
+              "title": "\"러 군용기 여러 대 카디즈 진입\"...울릉도 지역 경계경보",
+              "url": "https://www.ytn.co.kr/_ln/0101_202611240938501010",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T09:02:00+09:00",
+              "title": "러시아군용기 접근했는데 '북한 항공기'…문자 오발송, 울릉 혼란",
+              "url": "https://www.yna.co.kr/view/AKR20261124031700053",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124134152504",
+          "scoreComponents": {
+            "domesticImpact": 99,
+            "importance": 100,
+            "interest": 98,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "국내 주민에 대한 실제 경계경보 발령과 정부의 공식 외교적 대응이 확인된 중대한 안보 사안입니다.",
+          "sourceCheck": "연합뉴스 오후 종합기사와 YTN 오전 9시 38분 보도에서 러시아 군용기의 접근, 경계경보, 실제 영공 침범이 없었다는 합참 설명을 확인했습니다. 연합뉴스 오후 3시 45분 및 4시 48분 종합기사에서 국방부와 외교부의 항의를 확인했습니다. 재난문자의 북한 항공기 관련 표현은 경북도의 잘못된 안내로 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T16:48:00+09:00",
+              "title": "정부, 러 군용기 울릉도 영공 근접에 항의…\"용납할 수 없어\"(종합2보)",
+              "url": "https://www.yna.co.kr/view/AKR20261124134152504",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "러시아 군용기 여러 대가 울릉도 영공 가까이 접근해 한때 경계경보가 발령됐으나 실제 영공 침범은 없었습니다.",
+            "국방부는 주한 러시아 국방무관을 불러 항의했고, 외교부도 러시아 측에 재발 방지를 요구했습니다."
+          ],
+          "timeline": {
+            "change": "러시아 군용기의 울릉도 접근으로 경계경보가 발령됐고 한국 정부가 러시아 국방무관 초치와 외교적 항의에 나섰습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "russia-kadiz-2026-11",
+            "issueTitle": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
+            "stage": "결과"
+          },
+          "title": "러 군용기 울릉도 접근, 경계경보 발령",
+          "topicKey": "kr-russia-kadiz-military-aircraft",
+          "uncertainty": "한국방공식별구역 진입과 영공 침범은 서로 다른 개념입니다. 실제 영공 침범은 없었으며 러시아 군용기의 접근 의도는 확인되지 않았습니다.",
+          "whatChanged": "울릉도 주변에 러시아 군용기가 접근해 이례적으로 경계경보가 발령됐으며, 이후 정부가 러시아 측에 공식 항의하고 재발 방지를 요구했습니다.",
+          "whyItMatters": "외국 군용기의 접근으로 국내 주민에게 대피 안내가 발송됐으며 한국의 영공 방어와 러시아와의 외교관계에 영향을 주는 사건입니다."
+        },
+        {
+          "category": "경제·금융",
+          "emphasis": [
+            "과실이 없어도 배상 책임",
+            "거래소 대주주 지분은 원칙적으로 20%"
+          ],
+          "eventAt": "2026-11-24T15:00:00+09:00",
+          "eventTimeNote": "금융위원회가 2026년 11월 24일 오후 3시 가상자산위원회를 개최하고 법률 제정안의 입법 추진 방안을 논의했습니다.",
+          "id": "digital-asset-law-government-proposal-20261124",
+          "keyFacts": {
+            "administrativePenalty": "전산안전성 의무 위반으로 사고 발생 시 최대 매출액의 10% 과징금 근거 마련",
+            "compensation": "해킹·전산장애 피해에 대한 사업자의 원칙적 무과실 배상책임",
+            "issuerCapital": "발행업 자기자본 50억원 이상 등 인가 요건",
+            "lawName": "디지털자산업의 혁신과 이용자 보호에 관한 법률 제정안",
+            "legislativeStatus": "정부 제정안 공개, 법률 시행 미확정",
+            "licensing": "사업 유형별 인가·지정·등록제로 전환 추진",
+            "ownershipException": "금융위원회 승인 시 최대 34%까지 허용하는 방안",
+            "ownershipLimit": "거래소 대주주 지분 원칙적으로 20% 제한",
+            "regulator": "금융위원회",
+            "stablecoinIssuance": "초기에는 은행권 과반 지분 컨소시엄부터 발행 허용"
+          },
+          "publishedAt": "2026-11-24T15:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-24T15:17:00+09:00",
+              "title": "디지털자산법 정부안 공개...코인거래소 대주주 주식 20% 제한",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611241517257934",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-24T15:00:00+09:00",
+              "title": "가상자산거래소 대주주 지분 상한 20% 도입…초과분은 '의결권 제한'만",
+              "url": "https://www.newspim.com/news/view/20261124000686",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124124200002",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 98,
+            "interest": 97,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "가상자산 시장 전체의 규제와 소비자 보호 체계를 바꾸는 구체적인 정부 법률안이 공식 발표됐습니다.",
+          "sourceCheck": "연합뉴스 원문에서 해킹 피해 무과실 배상책임과 예외, 과징금 기준을 확인했습니다. YTN 원문 및 대한민국 정책브리핑에서 거래소 지분 제한, 스테이블코인 발행 조건을 확인했습니다. 금융위원회 공식 보도자료 https://www.fsc.go.kr/no010101/88199 에서 가상자산위원회 개최 시각과 법률안의 입법 추진 단계도 확인했습니다. 정부안 공개와 법률 시행을 구분했습니다. 정책브리핑의 최초 게시 시각 및 원문 이미지 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T15:00:00+09:00",
+              "title": "디지털자산업자, 해킹 피해 과실 없어도 배상…금융사 수준 규제",
+              "url": "https://www.yna.co.kr/view/AKR20261124124200002",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "대한민국 정책브리핑",
+              "publishedAt": null,
+              "publishedDate": "2026-11-24",
+              "publishedTimezone": "Asia/Seoul",
+              "title": "스테이블코인, 은행 과반 지분 컨소시엄부터 발행 허용 추진",
+              "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976382",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "검토",
+          "summary": [
+            "금융위원회가 가상자산 거래소 등의 해킹 피해에 원칙적으로 과실이 없어도 배상 책임을 지도록 하는 디지털자산법 정부안을 공개했습니다.",
+            "은행권이 과반 지분을 가진 컨소시엄부터 원화 스테이블코인 발행을 허용하고 거래소 대주주 지분은 원칙적으로 20%로 제한하는 방안도 담겼습니다."
+          ],
+          "timeline": {
+            "change": "금융위원회가 해킹 피해 배상책임과 거래소 대주주 지분 제한, 원화 스테이블코인 발행 요건 등을 담은 법률 제정안을 공개했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-digital-asset-basic-law-2026",
+            "issueTitle": "디지털자산법 제정과 이용자 보호 제도",
+            "stage": "발표"
+          },
+          "title": "디지털자산법 공개, 해킹 피해 배상 의무 추진",
+          "topicKey": "kr-digital-asset-basic-law",
+          "uncertainty": "정부가 공개한 제정안으로 아직 국회 통과나 시행이 확정되지 않았습니다. 무과실 배상책임에도 이용자의 고의 또는 중대한 과실 등에 관한 예외가 포함됩니다.",
+          "whatChanged": "가상자산 규제와 이용자 보호, 스테이블코인 발행 요건에 관한 구체적인 정부 법률안이 공개됐습니다.",
+          "whyItMatters": "가상자산 이용자의 피해 보상과 국내 원화 스테이블코인 사업, 거래소 지배구조에 영향을 줄 수 있는 종합적인 제도 변경안입니다."
+        },
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "25일 첫차부터 총파업",
+            "하루 3,519회 증편"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 24일 최종 교섭이 진행됐으며 오후 6시 7분 보도에서는 협상 난항이 확인됐습니다. 파업은 협상 최종 결렬 시 25일 첫차부터 예정돼 있습니다.",
+          "followUp": {
+            "delta": "오전에 예고된 최종 교섭이 실제 진행됐지만 3개 노조의 본교섭이 정회했고 서울시가 출근시간대 운행 유지와 버스 증편 대책을 발표했습니다.",
+            "editionId": "2026-11-24-am",
+            "storyId": "seoul-subway-final-negotiation-20261124"
+          },
+          "id": "seoul-subway-emergency-transport-plan-20261124",
+          "keyFacts": {
+            "busAdditionalTrips": "출근 1,873회와 퇴근 1,646회 등 총 3,519회 증편",
+            "conditionalStrike": "11월 25일 첫차부터 총파업 예정",
+            "dailySubwayPlan": "1~8호선 하루 전체 운행률 81% 수준 유지 계획",
+            "lineNine": "서울시 설명상 9호선 정상 운행 예정",
+            "morningSubwayPlan": "오전 7~9시 1~8호선 평시 대비 100% 운행 계획",
+            "negotiationStatus": "3개 노조 본교섭이 각각 2~4분 만에 정회",
+            "operator": "서울교통공사",
+            "safetyMeasures": "혼잡 역사 안전관리 인력 추가 배치",
+            "unions": "3개 노동조합"
+          },
+          "publishedAt": "2026-11-24T18:07:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한겨레",
+              "publishedAt": null,
+              "publishedDate": "2026-11-24",
+              "publishedTimezone": "Asia/Seoul",
+              "title": "서울지하철 노사 오늘 막판 협상…“25일 파업해도 출근 시간대 100% 운행”",
+              "url": "https://www.hani.co.kr/arti/area/area_general/1288880.html",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-24T11:48:00+09:00",
+              "title": "서울지하철 노사 최종 협상 돌입...결렬 시 내일 첫차 파업",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611241148461920",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261124167600004",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 97,
+            "interest": 97,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "다음 날 수도권 교통에 영향을 주는 협상 진행 상황과 구체적인 비상수송 대책이 새롭게 확인됐습니다.",
+          "sourceCheck": "연합뉴스 18시 7분 원문에서 3개 노조의 본교섭 정회와 협상 난항을 확인했습니다. 09시 42분 원문에서 서울시 비상수송대책의 운행률과 버스 증편 규모를 확인했습니다. 한겨레 기사에서도 비상수송대책을 대조했으며 수정 시각은 17시 23분이지만 최초 입력 시각은 확인하지 못했습니다. 파업을 확정된 결과로 서술하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T18:07:00+09:00",
+              "title": "서울지하철 노사 막판 교섭 난항…내일 첫차부터 총파업 위기",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261124167600004",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T09:42:00+09:00",
+              "title": "서울시, 25일 지하철 파업 대비 비상수송대책…\"출근길 뚫는다\"",
+              "url": "https://www.yna.co.kr/view/AKR20261124049200004",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "서울교통공사와 3개 노조의 최종 교섭이 난항을 겪고 있어 협상이 결렬되면 25일 첫차부터 총파업에 들어갈 예정입니다.",
+            "서울시는 파업에 대비해 오전 7~9시 지하철 1~8호선 운행률을 100%로 유지하고 시내버스를 하루 3,519회 증편할 계획입니다."
+          ],
+          "timeline": {
+            "change": "서울지하철 노사의 최종 교섭이 난항을 겪는 가운데 서울시가 파업 발생 시 적용할 구체적인 비상수송계획을 공개했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "seoul-subway-labor-dispute-2026",
+            "issueTitle": "2026년 11월 서울지하철 노사협상과 총파업",
+            "stage": "후속"
+          },
+          "title": "서울지하철 교섭 난항, 파업 대비 버스 증편",
+          "topicKey": "seoul-subway-labor-dispute-2026",
+          "uncertainty": "확인한 저녁 보도에서는 최종 협상 결과가 나오지 않았습니다. 파업과 비상수송계획의 실제 시행 여부는 이후 협상 결과에 따라 달라집니다.",
+          "whatChanged": "오전에 예정됐던 최종 교섭이 실제 시작됐지만 3개 노조의 본교섭이 잇따라 정회했고, 서울시가 구체적인 비상수송계획을 발표했습니다.",
+          "whyItMatters": "다음 날 서울과 수도권 시민들의 출퇴근에 직접적인 영향을 줄 수 있으며 대체 교통수단의 운행계획을 미리 확인할 필요가 있습니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "수사 14개월 만에 불구속 송치",
+            "14건 중 7건을 송치"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 24일 서울경찰청이 김병기 의원에 대한 수사 결과와 불구속 송치 사실을 공개했습니다. 정확한 송치 처리 시각은 확인하지 못했습니다.",
+          "id": "kim-byung-kee-police-referral-20261124",
+          "keyFacts": {
+            "arrestStatus": "불구속",
+            "charges": "뇌물수수, 특정범죄가중법상 뇌물, 업무방해 등",
+            "investigationPeriod": "약 14개월",
+            "judicialOutcome": "기소 및 최종 법원 판단 미확정",
+            "lawmaker": "무소속 김병기 의원",
+            "notReferredAllegations": "7건",
+            "referredAllegations": "7건",
+            "referredCases": "차남 취업·편입 특혜 관련 의혹 등",
+            "totalAllegations": "14건"
+          },
+          "publishedAt": "2026-11-24T16:40:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-24T17:27:00+09:00",
+              "title": "경찰, '뇌물 혐의' 김병기 불구속 송치...수사 1년 2개월여 만",
+              "url": "https://www.ytn.co.kr/_ln/0103_202611241727224585",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124090751004",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 96,
+            "interest": 96,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "현직 국회의원에 대한 장기간의 비위 의혹 수사가 구체적인 송치 및 불송치 결과로 이어졌습니다.",
+          "sourceCheck": "연합뉴스 16시 40분 종합기사에서 전체 의혹 14건 중 송치 7건과 불송치 7건, 불구속 송치 사실을 확인했습니다. YTN 17시 27분 보도에서 송치된 주요 혐의와 일부 불송치 사유를 대조했습니다. 언론사의 수사 결과에 대한 평가를 본문에 포함하지 않았으며 혐의와 유죄를 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T16:40:00+09:00",
+              "title": "김병기 14개월만 불구속 송치…혐의 절반 남겨 '용두사미'(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261124090751004",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "경찰이 무소속 김병기 의원을 뇌물수수와 업무방해 등 혐의로 수사 14개월 만에 불구속 송치했습니다.",
+            "수사한 의혹 14건 중 7건을 송치하고 나머지 7건은 불송치했으며, 실제 기소와 유죄 여부는 아직 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "경찰이 김병기 의원에 관한 14개 의혹 중 7건에 대해 불구속 송치하고 나머지 7건은 불송치하기로 결정했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-kim-byung-kee-corruption-investigation-2026",
+            "issueTitle": "김병기 의원 비위 의혹 수사",
+            "stage": "결과"
+          },
+          "title": "김병기 의원 불구속 송치, 의혹 14건 중 7건",
+          "topicKey": "kr-kim-byung-kee-corruption-investigation",
+          "uncertainty": "경찰이 혐의가 있다고 판단한 사안의 송치는 유죄 확정이 아닙니다. 불송치된 사안 역시 적용된 수사 절차와 증거 판단의 결과로 구분해야 합니다.",
+          "whatChanged": "14개월 동안 이어진 김병기 의원 관련 경찰 수사가 7개 의혹에 대한 불구속 송치와 나머지 7개 의혹에 대한 불송치 결정으로 마무리됐습니다.",
+          "whyItMatters": "현직 국회의원의 의정활동과 공천, 자녀 취업 특혜 관련 의혹에 대한 경찰의 공식 수사 결과입니다."
+        },
+        {
+          "category": "정치·사회",
+          "emphasis": [
+            "반의사불벌 규정의 적용을 배제",
+            "피해자 보호시설 확충"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 24일 이재명 대통령 주재 국무회의 비공개 회의에서 관련 제도 개선 방안이 논의됐습니다.",
+          "id": "domestic-violence-prosecution-rule-review-20261124",
+          "keyFacts": {
+            "guidelines": "사건 처리 및 처벌 지침 마련 필요성에 공감",
+            "legislativeStatus": "법 개정 및 시행 일정 미확정",
+            "meeting": "2026년 11월 24일 국무회의",
+            "policeMeasures": "신고 처리 관련 인력과 예산 보강 필요성 논의",
+            "proposal": "가정폭력범죄 반의사불벌 규정 적용 배제 검토",
+            "responsibleMinistry": "성평등가족부",
+            "victimProtection": "여성 보호시설 확충 및 예산 지원 논의"
+          },
+          "publishedAt": "2026-11-24T16:30:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-24T15:35:57+09:00",
+              "title": "靑 \"가정폭력범죄 반의사불벌죄 적용 배제 필요에 의견 모아져\"",
+              "url": "https://www.newsis.com/view/NISX20261124_0003881313",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T16:24:00+09:00",
+              "title": "靑 \"'가정폭력 범죄에 반의사불벌죄 적용 배제' 의견 모아져\"",
+              "url": "https://www.yna.co.kr/view/AKR20261124144400001",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://imnews.imbc.com/news/2026/politics/article/6868197_36912.html",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 95,
+            "interest": 93,
+            "recency": 97,
+            "reliability": 99
+          },
+          "scoreReason": "가정폭력 피해자 보호와 형사사법 절차를 변경할 수 있는 정부의 새로운 제도 개선 방향입니다.",
+          "sourceCheck": "MBC와 뉴시스, 연합뉴스 원문에서 김성완 청와대 대변인의 국무회의 결과 설명을 확인했습니다. 반의사불벌 규정의 의미와 경찰 인력·예산 및 보호시설 확충 필요성에 대한 공감대를 확인했습니다. 국무회의에서 의견이 모인 것과 실제 법률 개정·시행을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-24T16:30:00+09:00",
+              "title": "靑 \"'가정폭력 범죄에 반의사불벌죄 적용 배제' 의견 모여\"",
+              "url": "https://imnews.imbc.com/news/2026/politics/article/6868197_36912.html",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "검토",
+          "summary": [
+            "정부는 가정폭력 범죄에 피해자가 처벌을 원하지 않더라도 형사처벌할 수 있도록 반의사불벌 규정의 적용을 배제하는 방안을 추진하기로 의견을 모았습니다.",
+            "경찰 인력 보강과 피해자 보호시설 확충도 논의했으며 구체적인 법 개정안과 시행 시기는 아직 정해지지 않았습니다."
+          ],
+          "timeline": {
+            "change": "국무회의에서 가정폭력범죄의 반의사불벌 규정 적용 배제 필요성에 의견이 모였으며 경찰과 피해자 보호시설 지원 방안이 논의됐습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-domestic-violence-prosecution-reform-2026",
+            "issueTitle": "가정폭력범죄 반의사불벌 규정 개선",
+            "stage": "검토"
+          },
+          "title": "정부, 가정폭력 피해자 의사와 무관한 처벌 추진",
+          "topicKey": "kr-domestic-violence-criminal-law-reform",
+          "uncertainty": "국무회의에서 제도 개선 필요성에 의견이 모인 단계입니다. 적용 대상 범죄와 구체적인 법 개정 내용은 확정되지 않았습니다.",
+          "whatChanged": "가정폭력 범죄의 반의사불벌 규정 적용을 배제할 필요성에 국무위원들이 공감하고 경찰 및 피해자 보호체계 보강 방안을 논의했습니다.",
+          "whyItMatters": "가해자의 압박 등으로 피해자가 처벌을 원하지 않는다는 의사를 밝히는 경우에도 수사와 형사처벌을 진행할 수 있는 제도적 기반이 마련될 가능성이 있습니다."
+        },
+        {
+          "category": "경제·주거",
+          "emphasis": [
+            "약 104만 가구 늘었으며",
+            "2.2%포인트 낮아진 13.3%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "국가데이터처가 2026년 11월 24일 공개한 2025년 인구주택총조사 표본조사 결과입니다. 조사 기준일은 2025년 11월 1일입니다.",
+          "id": "housing-census-monthly-rent-increase-20261124",
+          "keyFacts": {
+            "agency": "국가데이터처",
+            "combinedMonthlyRentShare": "26.0%",
+            "jeonse": "299만8천 가구, 13.3%",
+            "jeonseChange": "25만4천 가구 감소, 비중 2.2%포인트 하락",
+            "monthlyRentWithDeposit": "542만6천 가구, 24.1%",
+            "monthlyRentWithDepositIncrease": "2020년 대비 103만9천 가구 증가",
+            "monthlyRentWithoutDeposit": "42만3천 가구, 1.9%",
+            "ownerOccupied": "57.0%",
+            "referenceDate": "2025-11-01",
+            "totalHouseholds": "2,249만5천 가구"
+          },
+          "publishedAt": "2026-11-24T15:07:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "천지일보",
+              "publishedAt": "2026-11-24T15:26:00+09:00",
+              "title": "월세 가구 5년 새 104만 늘었다… 전세는 25만 감소",
+              "url": "https://www.newscj.com/news/articleView.html?idxno=3451690",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124092351002",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 94,
+            "interest": 95,
+            "recency": 97,
+            "reliability": 99
+          },
+          "scoreReason": "국내 가구의 주거 형태와 임대시장 구조 변화를 보여주는 새로운 전국 단위 공식 통계입니다.",
+          "sourceCheck": "연합뉴스 15시 7분 종합기사 본문에서 2025년 조사 기준일과 전체 가구 수, 보증금 있는 월세 24.1%, 보증금 없는 월세 1.9%, 전세 13.3%, 자가 57%를 확인했습니다. 월세 가구 증가분 약 104만 가구가 보증금 있는 월세에 해당한다는 점을 구분했습니다. 천지일보의 관련 보도에서도 월세 증가와 전세 감소를 확인했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T15:07:00+09:00",
+              "title": "'월세살이' 5년새 104만 가구 늘어…'비혼 동거' 17만 가구(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261124092351002",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "2025년 인구주택총조사에서 보증금이 있는 월세 가구가 5년 전보다 약 104만 가구 늘었으며, 전체 월세 가구 비중은 26%로 집계됐습니다.",
+            "전세 가구 비중은 5년 전보다 2.2%포인트 낮아진 13.3%였고, 자기 집에 사는 가구는 전체의 57%였습니다."
+          ],
+          "timeline": {
+            "change": "국가데이터처가 보증금 있는 월세 가구의 약 104만 가구 증가와 전세 비중 감소를 보여주는 인구주택총조사 결과를 발표했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-housing-tenure-census-2025",
+            "issueTitle": "2025년 인구주택총조사 주거 형태 변화",
+            "stage": "발표"
+          },
+          "title": "월세 가구 26%, 전세 가구는 13.3%로 감소",
+          "topicKey": "kr-housing-census-2025",
+          "uncertainty": "전체 가구의 거주 형태를 조사한 결과이며 신규 전월세 계약 중 월세 비중을 뜻하지 않습니다. 조사 기준일 이후의 변화는 반영되지 않았습니다.",
+          "whatChanged": "2020년 조사와 비교해 보증금 있는 월세 가구가 약 104만 가구 증가하고 전세 가구는 약 25만 가구 감소했다는 새로운 조사 결과가 발표됐습니다.",
+          "whyItMatters": "국내 가구의 주거 형태가 전세에서 월세 쪽으로 변화하고 있음을 보여주는 전국 단위 통계로 주거비와 임대주택 정책에 중요한 자료입니다."
+        },
+        {
+          "category": "사회·교육",
+          "emphasis": [
+            "총 6건으로 늘었습니다",
+            "실제 AI 사용 여부는 아직 확인되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "경찰청이 2026년 11월 24일 공개한 전날까지의 교육부 고발 접수 현황입니다. 각 부정행위 의심 사건은 11월 19일 수능과 관련됩니다.",
+          "followUp": {
+            "delta": "시험 문제 유출 방지와 감독 강화 방침이 발표된 이후 경찰이 실제 수능 관련 교육부 고발이 기존 5건에서 6건으로 늘었다고 공개했습니다.",
+            "editionId": "2026-11-22-pm",
+            "storyId": "exam-paper-leak-prevention-law-review-20261122"
+          },
+          "id": "csat-cheating-police-six-complaints-20261124",
+          "keyFacts": {
+            "additionalComplaints": "1건",
+            "aiUsage": "실제 AI 이용 여부 미확인",
+            "allegedOffense": "위계에 의한 공무집행방해 혐의",
+            "cameraCases": "1건",
+            "exam": "2027학년도 대학수학능력시험",
+            "examDate": "2026-11-19",
+            "mobilePhoneCases": "4건",
+            "previousComplaints": "5건",
+            "smartGlassesCases": "1건",
+            "totalComplaints": "2026년 11월 23일 기준 6건"
+          },
+          "publishedAt": "2026-11-24T16:15:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-24T17:12:00+09:00",
+              "title": "수능 부정행위 교육부 고발 어제까지 6건‥옷·신발에 휴대전화 숨겨",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6868219_36919.html",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "더팩트",
+              "publishedAt": "2026-11-24T18:39:00+09:00",
+              "title": "신발 깔창에 휴대전화 숨겨…경찰, 수능 부정행위 6건 수사",
+              "url": "https://news.tf.co.kr/read/life/2392929.htm",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124146600004",
+          "scoreComponents": {
+            "domesticImpact": 94,
+            "importance": 93,
+            "interest": 96,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "수능 부정행위 대응 과정에서 실제 고발 접수 규모가 변경되고 새로운 구체적 수사 현황이 공개됐습니다.",
+          "sourceCheck": "연합뉴스, MBC, 더팩트 원문에서 경찰청이 공개한 교육부 고발 접수 건수와 기기별 유형, 적용 혐의를 확인했습니다. 경찰 고발 건수와 이전 회차의 전체 부정행위 및 전자기기 적발 집계를 구분했습니다. AI 사용 자체를 입증했다는 내용은 확인되지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T16:15:00+09:00",
+              "title": "수능 부정행위 교육부 고발 6건…스마트안경·카메라 등 이용",
+              "url": "https://www.yna.co.kr/view/AKR20261124146600004",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "교육부가 수능 당일 부정행위와 관련해 1건을 추가 고발하면서 경찰에 접수된 고발이 총 6건으로 늘었습니다.",
+            "휴대전화 이용 4건과 스마트안경·카메라 이용 각 1건이며, 실제 AI 사용 여부는 아직 확인되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "경찰청이 교육부의 수능 부정행위 관련 추가 고발 1건을 포함한 총 6건의 접수 현황과 전자기기별 유형을 공개했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "후속"
+          },
+          "title": "수능 부정행위 경찰 고발 6건으로 늘어",
+          "topicKey": "2027-csat-exam-security",
+          "uncertainty": "6건은 교육부가 경찰에 고발한 사건 수로 수능 전체 부정행위 적발 건수와 다릅니다. 실제 AI 이용과 최종 형사책임은 확인되지 않았습니다.",
+          "whatChanged": "기존 교육부 고발 5건에서 1건이 추가됐고 경찰이 전체 6건의 전자기기별 유형과 적용 혐의를 공개했습니다.",
+          "whyItMatters": "수능 부정행위에 대한 정부의 대응이 수사기관의 실제 고발 접수와 개별 사건 조사로 이어지고 있습니다."
+        },
+        {
+          "category": "사회·정보보안",
+          "emphasis": [
+            "이후 협상한 사실은 없다고",
+            "기존에 공개된 조달업체 제재 정보"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "한전은 11월 19일 해커 측 이메일을 수신하고 20일 개인정보 유출 사실을 확인했다고 24일 설명했습니다.",
+          "followUp": {
+            "delta": "개인정보보호위원회의 공식 조사 착수 이후 한전이 해커와의 협상 주장을 부인하고 군·정부 관련 데이터의 성격에 대해 공식적으로 해명했습니다.",
+            "editionId": "2026-11-23-pm",
+            "storyId": "kepco-privacy-regulator-investigation-20261123"
+          },
+          "id": "kepco-hacker-negotiation-denial-20261124",
+          "keyFacts": {
+            "company": "한국전력공사",
+            "companyResponseDate": "2026년 11월 24일",
+            "confirmationDate": "2026년 11월 20일",
+            "emailReceivedDate": "2026년 11월 19일",
+            "governmentData": "공개된 조달청 부정당업자 제재 정보와 일치한다는 한전 설명",
+            "investigation": "개인정보보호위원회 조사 진행 중",
+            "negotiationDenial": "표본 데이터 확인 이후 해커와 추가 접촉하거나 협상하지 않았다는 한전 설명",
+            "previousAffectedRecords": "한전ON 및 전자조달시스템 합산 약 152만명분"
+          },
+          "publishedAt": "2026-11-24T15:34:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T11:15:00+09:00",
+              "title": "해커 손에 넘어간 개인정보…한전 유출사고에 고객 우려↑",
+              "url": "https://www.yna.co.kr/view/AKR20261124081800003",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "representativeUrl": "https://imnews.imbc.com/news/2026/econo/article/6868175_36933.html",
+          "scoreComponents": {
+            "domesticImpact": 92,
+            "importance": 91,
+            "interest": 94,
+            "recency": 97,
+            "reliability": 96
+          },
+          "scoreReason": "대규모 개인정보 유출 사건의 새로운 공식 해명이지만 사업자의 설명이며 독립적인 조사 결과는 아직 나오지 않았습니다.",
+          "sourceCheck": "MBC 15시 34분 원문에서 한전의 공식 해명 내용을 확인했습니다. 연합뉴스 11시 15분 원문에서 해커 이메일과 표본 데이터 확인 경위를 대조했습니다. 해커의 주장과 한전의 반박을 구분했으며 한전의 설명을 독립적인 수사 결과로 취급하지 않았습니다. 기존 피해 규모가 새롭게 증가했다는 표현도 사용하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-24T15:34:00+09:00",
+              "title": "한전 \"'개인정보 유출 판매' 해커와 협상한 사실 없어\"",
+              "url": "https://imnews.imbc.com/news/2026/econo/article/6868175_36933.html",
+              "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+            }
+          ],
+          "status": "주장",
+          "summary": [
+            "한국전력은 개인정보를 탈취한 해커로부터 표본 데이터를 받아 유출 사실을 확인했지만 이후 협상한 사실은 없다고 밝혔습니다.",
+            "해커가 확보했다고 주장한 군·정부시설 관련 정보는 기존에 공개된 조달업체 제재 정보와 일치한다는 것이 한전의 설명입니다."
+          ],
+          "timeline": {
+            "change": "한국전력이 해커의 협상 주장을 부인하고 군·정부시설 관련 데이터가 기존 공개 정보와 일치한다는 입장을 발표했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-kepco-personal-data-breach-2026",
+            "issueTitle": "2026년 한국전력 개인정보 유출 사고",
+            "stage": "후속"
+          },
+          "title": "한전, 개인정보 탈취 해커와 협상 주장 부인",
+          "topicKey": "kr-kepco-personal-data-breach",
+          "uncertainty": "협상하지 않았다는 설명과 군·정부 관련 정보의 성격은 한전의 입장입니다. 실제 탈취된 전체 데이터의 범위와 보안상 책임은 당국 조사 결과를 확인해야 합니다.",
+          "whatChanged": "전날 개인정보보호위원회의 조사 착수 이후 해커 측의 협상 주장과 군·정부시설 정보 유출 주장에 대해 한전이 공식적으로 해명했습니다.",
+          "whyItMatters": "대규모 개인정보 유출에 대한 대응 과정과 추가적인 정부·군 관련 정보 유출 가능성에 관한 사업자의 공식 설명이 나왔습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-24-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-24T21:08:21.677203+09:00",
+  "result": {
+    "id": "2026-11-24-pm",
+    "operationId": "publish-news-2026-11-24-pm",
+    "recordedAt": "2026-11-24T21:08:21.677203+09:00",
+    "sha256": "654d72d4c10e821a5d2a88083135ea62aab0d5941f9445a2c797ddf1a421be14",
+    "windowId": "2026-11-24-pm"
+  }
+}

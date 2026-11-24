@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-24/pm.json",
+      "category": "정치·사법",
+      "change": "경찰이 김병기 의원에 관한 14개 의혹 중 7건에 대해 불구속 송치하고 나머지 7건은 불송치하기로 결정했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T21:03:58.771281+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "pm",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 24일 서울경찰청이 김병기 의원에 대한 수사 결과와 불구속 송치 사실을 공개했습니다. 정확한 송치 처리 시각은 확인하지 못했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-24-pm/kim-byung-kee-police-referral-20261124",
+      "keyFacts": {
+        "arrestStatus": "불구속",
+        "charges": "뇌물수수, 특정범죄가중법상 뇌물, 업무방해 등",
+        "investigationPeriod": "약 14개월",
+        "judicialOutcome": "기소 및 최종 법원 판단 미확정",
+        "lawmaker": "무소속 김병기 의원",
+        "notReferredAllegations": "7건",
+        "referredAllegations": "7건",
+        "referredCases": "차남 취업·편입 특혜 관련 의혹 등",
+        "totalAllegations": "14건"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T16:40:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T16:40:00+09:00",
+          "title": "김병기 14개월만 불구속 송치…혐의 절반 남겨 '용두사미'(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261124090751004",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kim-byung-kee-police-referral-20261124",
+      "summary": [
+        "경찰이 무소속 김병기 의원을 뇌물수수와 업무방해 등 혐의로 수사 14개월 만에 불구속 송치했습니다.",
+        "수사한 의혹 14건 중 7건을 송치하고 나머지 7건은 불송치했으며, 실제 기소와 유죄 여부는 아직 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "김병기 의원 불구속 송치, 의혹 14건 중 7건",
+      "uncertainty": "경찰이 혐의가 있다고 판단한 사안의 송치는 유죄 확정이 아닙니다. 불송치된 사안 역시 적용된 수사 절차와 증거 판단의 결과로 구분해야 합니다."
+    }
+  ],
+  "id": "kr-kim-byung-kee-corruption-investigation-2026",
+  "schemaVersion": 1,
+  "title": "김병기 의원 비위 의혹 수사",
+  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+}

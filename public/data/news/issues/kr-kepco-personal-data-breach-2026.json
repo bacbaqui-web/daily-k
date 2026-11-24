@@ -123,10 +123,69 @@
       "supersededBy": [],
       "title": "개인정보위, 한전 152만명분 유출 조사 착수",
       "uncertainty": "조사 착수는 확인됐지만 정보보호 의무 위반이나 제재가 확정된 것은 아닙니다. 두 시스템 이용자의 중복 여부와 추가 피해 범위도 조사 결과에 따라 달라질 수 있습니다."
+    },
+    {
+      "briefingPath": "2026-11-24/pm.json",
+      "category": "사회·정보보안",
+      "change": "한국전력이 해커의 협상 주장을 부인하고 군·정부시설 관련 데이터가 기존 공개 정보와 일치한다는 입장을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T21:03:58.771281+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "pm",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "한전은 11월 19일 해커 측 이메일을 수신하고 20일 개인정보 유출 사실을 확인했다고 24일 설명했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "개인정보보호위원회의 공식 조사 착수 이후 한전이 해커와의 협상 주장을 부인하고 군·정부 관련 데이터의 성격에 대해 공식적으로 해명했습니다.",
+        "editionId": "2026-11-23-pm",
+        "storyId": "kepco-privacy-regulator-investigation-20261123"
+      },
+      "id": "2026-11-24-pm/kepco-hacker-negotiation-denial-20261124",
+      "keyFacts": {
+        "company": "한국전력공사",
+        "companyResponseDate": "2026년 11월 24일",
+        "confirmationDate": "2026년 11월 20일",
+        "emailReceivedDate": "2026년 11월 19일",
+        "governmentData": "공개된 조달청 부정당업자 제재 정보와 일치한다는 한전 설명",
+        "investigation": "개인정보보호위원회 조사 진행 중",
+        "negotiationDenial": "표본 데이터 확인 이후 해커와 추가 접촉하거나 협상하지 않았다는 한전 설명",
+        "previousAffectedRecords": "한전ON 및 전자조달시스템 합산 약 152만명분"
+      },
+      "previous": {
+        "editionId": "2026-11-23-pm",
+        "storyId": "kepco-privacy-regulator-investigation-20261123"
+      },
+      "publishedAt": "2026-11-24T15:34:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-11-24T15:34:00+09:00",
+          "title": "한전 \"'개인정보 유출 판매' 해커와 협상한 사실 없어\"",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6868175_36933.html",
+          "verifiedAt": "2026-11-24T21:03:58.771281+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "주장",
+      "storyId": "kepco-hacker-negotiation-denial-20261124",
+      "summary": [
+        "한국전력은 개인정보를 탈취한 해커로부터 표본 데이터를 받아 유출 사실을 확인했지만 이후 협상한 사실은 없다고 밝혔습니다.",
+        "해커가 확보했다고 주장한 군·정부시설 관련 정보는 기존에 공개된 조달업체 제재 정보와 일치한다는 것이 한전의 설명입니다."
+      ],
+      "supersededBy": [],
+      "title": "한전, 개인정보 탈취 해커와 협상 주장 부인",
+      "uncertainty": "협상하지 않았다는 설명과 군·정부 관련 정보의 성격은 한전의 입장입니다. 실제 탈취된 전체 데이터의 범위와 보안상 책임은 당국 조사 결과를 확인해야 합니다."
     }
   ],
   "id": "kr-kepco-personal-data-breach-2026",
   "schemaVersion": 1,
   "title": "2026년 한국전력 개인정보 유출 사고",
-  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
+  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
 }
