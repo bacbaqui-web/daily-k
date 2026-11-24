@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T07:38:39.859505+00:00",
+  "collectedAt": "2026-11-24T07:39:27.694172+00:00",
   "windowEnd": "2026-11-24T16:38:39.519069+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8840,6 +8840,50 @@
       "firstPublishedAt": "2026-11-23T09:09:10.959169+00:00"
     },
     {
+      "id": "aagag-1672263-0",
+      "url": "https://aagag.com/issue/?idx=1672263",
+      "source": "애객",
+      "title": "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ",
+      "publishedAt": "2026-11-24T16:37:04+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7PDJ.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7PDJ.webp"
+      ],
+      "videos": [],
+      "excerpt": "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-24T16:39:14.814986+09:00",
+      "sourceTitles": [
+        "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ",
+        "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ",
+        "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ",
+        "ㅇㅎ)헐크버스터 코스프레 반전 ㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-24T07:39:27.625133+00:00",
+      "collectedAt": "2026-11-24T16:39:27.625149+09:00",
+      "firstPublishedAt": "2026-11-24T07:39:27.723711+00:00"
+    },
+    {
       "id": "aagag-1672062-0",
       "url": "https://aagag.com/issue/?idx=1672062",
       "source": "애객",
@@ -8884,7 +8928,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
