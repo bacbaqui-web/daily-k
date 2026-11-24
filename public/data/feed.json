@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T15:32:47.397598+09:00",
-  "windowEnd": "2026-11-24T15:24:47.446232+09:00",
+  "collectedAt": "2026-11-24T06:43:10.851269+00:00",
+  "windowEnd": "2026-11-24T15:43:10.617358+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5225,68 +5225,6 @@
       "firstPublishedAt": "2026-11-24T03:09:58.038349+00:00"
     },
     {
-      "id": "aagag-1671956-0",
-      "url": "https://aagag.com/issue/?idx=1671956",
-      "source": "애객",
-      "title": "아빠가 창피해서 죽을 지경인 자매",
-      "publishedAt": "2026-11-23T15:32:12+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wJX.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L6wJd.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L6wJX.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L6wJd.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 17,
-      "commentCount": 2,
-      "laughingComments": 2,
-      "score": 17,
-      "kPerComment": 8.5,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9017246",
-          "text": "저건 나라도 저럴듯 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ (아빠처럼 ㅠㅠ)"
-        },
-        {
-          "id": "9017248",
-          "text": "아들 둘이었어봐 ㅋㅋㅋ난리난다잉"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T15:36:25.474182+09:00",
-      "sourceTitles": [
-        "아빠가 창피해서 죽을 지경인 자매",
-        "아빠가 창피해서 죽을 지경인 자매",
-        "아빠가 창피해서 죽을 지경인 자매 ㅋㅋㅋ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-23T06:36:38.520963+00:00",
-      "collectedAt": "2026-11-23T15:36:38.520982+09:00",
-      "firstPublishedAt": "2026-11-23T06:36:38.645725+00:00"
-    },
-    {
       "id": "aagag-1672065-0",
       "url": "https://aagag.com/issue/?idx=1672065",
       "source": "애객",
@@ -8550,9 +8488,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 371,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
