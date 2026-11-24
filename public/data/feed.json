@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T06:43:10.851269+00:00",
+  "collectedAt": "2026-11-24T06:44:52.547845+00:00",
   "windowEnd": "2026-11-24T15:43:10.617358+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8488,7 +8488,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8515,6 +8515,84 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672241-0",
+      "url": "https://aagag.com/issue/?idx=1672241",
+      "source": "애객",
+      "title": "ai가 위로해주는 만화",
+      "publishedAt": "2026-11-24T15:34:27+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7OZz.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Oa0.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Oa1.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Oa6.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Oa8.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "우웅 마망"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7OZz.webp",
+        "https://i.aagag.com/o/L7Oa0.webp",
+        "https://i.aagag.com/o/L7Oa1.webp",
+        "https://i.aagag.com/o/L7Oa6.webp",
+        "https://i.aagag.com/o/L7Oa8.webp"
+      ],
+      "videos": [],
+      "excerpt": "우웅 마망",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9021711",
+          "text": "-_ -"
+        },
+        {
+          "id": "9021731",
+          "text": "제미나이가 요청을 거절하면 \"이 뀨뀨뀨뀨야\" 와 같은 쌍욕을 붙여서 다시 요청하면 높은 확률로 해줌"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T15:44:39.885690+09:00",
+      "sourceTitles": [
+        "ai가 위로해주는 만화",
+        "ai가 위로해주는 만화",
+        "ai가 위로해주는 만화",
+        "AI 얀데레",
+        "제미나이 NTR 얀데레 각성 만화.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-24T06:44:52.482440+00:00",
+      "collectedAt": "2026-11-24T15:44:52.482459+09:00",
+      "firstPublishedAt": "2026-11-24T06:44:52.577500+00:00"
+    },
     {
       "id": "aagag-1672227-0",
       "url": "https://aagag.com/issue/?idx=1672227",
