@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T12:37:45.437104+00:00",
+  "collectedAt": "2026-11-24T12:39:16.210646+00:00",
   "windowEnd": "2026-11-24T21:37:45.073475+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7236,7 +7236,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7263,6 +7263,55 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672345-0",
+      "url": "https://aagag.com/issue/?idx=1672345",
+      "source": "애객",
+      "title": "영크크들은 잘모르는 고대저주.manhwa",
+      "publishedAt": "2026-11-24T21:34:18+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7HgX.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7HgX.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9023325",
+          "text": "아침먹고 땡"
+        },
+        {
+          "id": "9023329",
+          "text": "아 피식해버림"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T21:39:07.925237+09:00",
+      "sourceTitles": [
+        "영크크들은 잘모르는 고대저주.manhwa",
+        "영크들은 잘 모르는 고대저주",
+        "영크크들은 잘모르는 고대저주.manhwa",
+        "영크크들은 잘모르는 고대저주.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-24T12:39:16.139227+00:00",
+      "collectedAt": "2026-11-24T21:39:16.139244+09:00",
+      "firstPublishedAt": "2026-11-24T12:39:16.241275+00:00"
+    },
     {
       "id": "aagag-1446006-1",
       "url": "https://aagag.com/issue/?idx=1446006_1",
