@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T19:12:39.141526+09:00",
-  "windowEnd": "2026-11-24T19:03:58.227250+09:00",
+  "collectedAt": "2026-11-24T10:23:08.815155+00:00",
+  "windowEnd": "2026-11-24T19:23:08.518671+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6971,101 +6971,6 @@
       "firstPublishedAt": "2026-11-24T06:47:26.509247+00:00"
     },
     {
-      "id": "aagag-1672009-0",
-      "url": "https://aagag.com/issue/?idx=1672009",
-      "source": "애객",
-      "title": "신기한 강아지산책용 물통.",
-      "publishedAt": "2026-11-23T19:04:45+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7AKC.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7AKO.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "신기하네요."
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7AKC.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7AKO.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "신기하네요.",
-      "reportedCommentCount": 9,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 9,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9018097",
-          "text": "카메라 앵글 일 안하냐 그게 아니잖아"
-        },
-        {
-          "id": "9018103",
-          "text": "우로 1보갓!"
-        },
-        {
-          "id": "9018107",
-          "text": "이 유튜버 참 감없네"
-        },
-        {
-          "id": "9018112",
-          "text": "저 통  참 좋네"
-        },
-        {
-          "id": "9018113",
-          "text": "저통 좀 보여주세요"
-        },
-        {
-          "id": "9018120",
-          "text": "위상 기하학을 이용한.. 누나 몸매 좀 더 보여줘"
-        },
-        {
-          "id": "9018134",
-          "text": "나는 다른 물통인줄"
-        },
-        {
-          "id": "9018150",
-          "text": "이거 닦기 매우매우 불편하게생김"
-        },
-        {
-          "id": "9018155",
-          "text": "쪼그려앉았는데 흰 색 쪼가리라도 보여야지"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T19:20:11.266401+09:00",
-      "sourceTitles": [
-        "실래지만 저통의 용도는 뭔가요??",
-        "신기한 강아지산책용 물통.",
-        "강아지 산책용 물통",
-        "ㅇㅎ) 강아지 산책용 물통"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-23T10:20:23.133511+00:00",
-      "collectedAt": "2026-11-23T19:20:23.133527+09:00",
-      "firstPublishedAt": "2026-11-23T10:20:23.321014+00:00"
-    },
-    {
       "id": "aagag-1505772-0",
       "url": "https://aagag.com/issue/?idx=1505772",
       "source": "애객",
@@ -7557,9 +7462,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 370,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
