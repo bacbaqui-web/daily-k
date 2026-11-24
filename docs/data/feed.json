@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T03:09:07.029950+00:00",
+  "collectedAt": "2026-11-24T03:09:58.003204+00:00",
   "windowEnd": "2026-11-24T12:09:06.722375+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4199,6 +4199,111 @@
       "firstPublishedAt": "2026-11-23T13:14:00.810186+00:00"
     },
     {
+      "id": "aagag-1586473-0",
+      "url": "https://aagag.com/issue/?idx=1586473",
+      "source": "애객",
+      "title": "일본 기차의 위험",
+      "publishedAt": "2026-11-24T12:06:11+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Juifu.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "다음 역까지는 20분 거리라는 설명이...ㄷㄷㄷㄷ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Juifu.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "다음 역까지는 20분 거리라는 설명이...ㄷㄷㄷㄷ",
+      "reportedCommentCount": 13,
+      "commentsPartial": false,
+      "kCount": 18,
+      "commentCount": 13,
+      "laughingComments": 3,
+      "score": 18,
+      "kPerComment": 1.3846153846153846,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "7474627",
+          "text": "찍은 사람도 대단하네"
+        },
+        {
+          "id": "7474630",
+          "text": "덕공... 어찌하여 목만오셨소이까"
+        },
+        {
+          "id": "7474651",
+          "text": "주인에게 배신을 당하였소"
+        },
+        {
+          "id": "7474779",
+          "text": "아....이상한 상상을 ....."
+        },
+        {
+          "id": "7474840",
+          "text": "야동좀 그만보이소"
+        },
+        {
+          "id": "7474933",
+          "text": "아니 센세"
+        },
+        {
+          "id": "7475265",
+          "text": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "7475519",
+          "text": "왕남자다잉!"
+        },
+        {
+          "id": "7474996",
+          "text": "아니 죽었어 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "7475006",
+          "text": "궥!"
+        },
+        {
+          "id": "7475449",
+          "text": "근데 저걸 왜 찍고 있었던 걸까..."
+        },
+        {
+          "id": "7475945",
+          "text": "제가 예전에 서울 강서구청에서 화곡시장정류장까지 저렇게 버스뒷문에 껴 갔었음 전 목은 아니고 양쪽 관자놀이가... 기사님 저 꼈어요! 라고 소리쳐도 기사님은 못들으시고 지나가는 사람들만 다 쳐다보고 맨뒷자리 여고생들은 킥킥거리고... 그랬음"
+        },
+        {
+          "id": "9020605",
+          "text": "아....위험한 상황인데 상상하니까 웃기고 참 복잡한 기분이군요...ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T12:09:47.695061+09:00",
+      "sourceTitles": [
+        "전철 문에 목이 끼이는 사고 발생 ㄷㄷㄷ",
+        "전철 문에 목이 끼이는 사고 발생",
+        "전철 문에 목이 끼이는 사고 발생",
+        "전철 문에 목이 끼이는 사고 ㄷㄷ...mp4",
+        "어딜 감히 내리려고 하느냐",
+        "일본 기차의 위험",
+        "일본 지하철 목 끼이는 순간",
+        "일본 지하철 목 끼이는 순간...mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-24T03:09:57.924006+00:00",
+      "collectedAt": "2026-11-24T12:09:57.924025+09:00",
+      "firstPublishedAt": "2026-11-24T03:09:58.038349+00:00"
+    },
+    {
       "id": "aagag-1671956-0",
       "url": "https://aagag.com/issue/?idx=1671956",
       "source": "애객",
@@ -7390,7 +7495,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
