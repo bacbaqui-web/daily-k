@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T10:27:31.155185+09:00",
-  "windowEnd": "2026-11-24T10:20:49.121293+09:00",
+  "collectedAt": "2026-11-24T01:37:55.038577+00:00",
+  "windowEnd": "2026-11-24T10:37:54.733080+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7516,53 +7516,12 @@
       "sourceTitlesFetchedAt": "2026-11-23T20:44:09.632192+00:00",
       "collectedAt": "2026-11-24T05:44:09.632210+09:00",
       "firstPublishedAt": "2026-11-23T20:44:09.748821+00:00"
-    },
-    {
-      "id": "aagag-1671878-0",
-      "url": "https://aagag.com/issue/?idx=1671878",
-      "source": "애객",
-      "title": "ㅇㅆㅇㅆ)취한 여인을 부축해주려는 만화",
-      "publishedAt": "2026-11-23T10:22:56+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7BnB.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7BnB.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-23T10:33:12.555342+09:00",
-      "sourceTitles": [
-        "취한 여인을 부축해주려는 만화.manhwa",
-        "술에 잔뜩 취한 여고수",
-        "ㅇㅎ) 취한 여인을 부축해주려는 만화",
-        "ㅇㅆㅇㅆ)취한 여인을 부축해주려는 만화",
-        "ㅇㅆㅇㅆ)취한 여인을 부축해주려는 만화"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-23T01:33:19.939441+00:00",
-      "collectedAt": "2026-11-23T10:33:19.939459+09:00",
-      "firstPublishedAt": "2026-11-23T01:33:20.042388+00:00"
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 349,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
