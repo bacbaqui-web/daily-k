@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T09:47:28.787901+00:00",
+  "collectedAt": "2026-11-24T09:48:27.499494+00:00",
   "windowEnd": "2026-11-24T18:47:28.433902+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7794,6 +7794,81 @@
       "firstPublishedAt": "2026-11-24T02:55:02.677827+00:00"
     },
     {
+      "id": "aagag-1672294-0",
+      "url": "https://aagag.com/issue/?idx=1672294",
+      "source": "애객",
+      "title": "ㅇㅎ) 속옷 협찬받은 항공과 졸업생",
+      "publishedAt": "2026-11-24T18:42:13+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7Oih.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7Oin.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7Oih.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L7Oin.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9022677",
+          "text": "그 활주로 드립 생각나네 음..."
+        },
+        {
+          "id": "9022683",
+          "text": "왜이렇게 필터같지"
+        },
+        {
+          "id": "9022688",
+          "text": "https://www.instagram.com/subni0.0/"
+        },
+        {
+          "id": "9022702",
+          "text": "와드!"
+        },
+        {
+          "id": "9022698",
+          "text": "항공과 좋아!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T18:48:16.939261+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 속옷 협찬받은 항공과 졸업생",
+        "ㅇㅎ) 속옷 협찬받은 항공과 졸업생",
+        "(ㅎㅂ) 속옷 협찬받은 항공과 졸업생",
+        "속옷 협찬받은 항공과 졸업생"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-24T09:48:27.412473+00:00",
+      "collectedAt": "2026-11-24T18:48:27.412494+09:00",
+      "firstPublishedAt": "2026-11-24T09:48:27.669236+00:00"
+    },
+    {
       "id": "aagag-1672244-0",
       "url": "https://aagag.com/issue/?idx=1672244",
       "source": "애객",
@@ -7997,7 +8072,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
