@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T17:59:23.050867+09:00",
-  "windowEnd": "2026-11-24T17:53:26.383825+09:00",
+  "collectedAt": "2026-11-24T09:09:49.652642+00:00",
+  "windowEnd": "2026-11-24T18:09:49.333074+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7945,82 +7945,6 @@
       "firstPublishedAt": "2026-11-24T06:26:22.494333+00:00"
     },
     {
-      "id": "aagag-1671989-0",
-      "url": "https://aagag.com/issue/?idx=1671989",
-      "source": "애객",
-      "title": "ㅇㅎ)) 르세라핌 사쿠라",
-      "publishedAt": "2026-11-23T18:02:59+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7G2g.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7G2n.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7G2q.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7G2p.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7G2o.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": ":"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7G2g.webp",
-        "https://i.aagag.com/o/L7G2n.webp",
-        "https://i.aagag.com/o/L7G2q.webp",
-        "https://i.aagag.com/o/L7G2p.webp",
-        "https://i.aagag.com/o/L7G2o.webp"
-      ],
-      "videos": [],
-      "excerpt": ":",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9017882",
-          "text": "사쿠라여? 사쿠라네!!"
-        },
-        {
-          "id": "9017884",
-          "text": "어젠가 올라온 옷 멋지던데..."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T18:09:03.353372+09:00",
-      "sourceTitles": [
-        "ㅇㅎ)) 르세라핌 사쿠라",
-        "요즘 미모 고점 찍는 르세라핌 사쿠라",
-        "ㅇㅎ?) 사쿠라 인스타"
-      ],
-      "sourceHistoryPartial": true,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-23T09:09:10.864851+00:00",
-      "collectedAt": "2026-11-23T18:09:10.864869+09:00",
-      "firstPublishedAt": "2026-11-23T09:09:10.959169+00:00"
-    },
-    {
       "id": "aagag-1672263-0",
       "url": "https://aagag.com/issue/?idx=1672263",
       "source": "애객",
@@ -8109,9 +8033,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 371,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
