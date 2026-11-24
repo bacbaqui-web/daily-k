@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T14:06:00.058388+00:00",
+  "collectedAt": "2026-11-24T14:07:48.316331+00:00",
   "windowEnd": "2026-11-24T23:05:59.663565+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -720,6 +720,80 @@
       "sourceTitlesFetchedAt": "2026-11-24T05:18:23.054765+00:00",
       "collectedAt": "2026-11-24T14:18:23.054781+09:00",
       "firstPublishedAt": "2026-11-24T05:18:23.185268+00:00"
+    },
+    {
+      "id": "aagag-1672358-0",
+      "url": "https://aagag.com/issue/?idx=1672358",
+      "source": "애객",
+      "title": "반도체바라기",
+      "publishedAt": "2026-11-24T22:56:26+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7OY1.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7OY1.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 7,
+      "commentsPartial": false,
+      "kCount": 38,
+      "commentCount": 7,
+      "laughingComments": 6,
+      "score": 38,
+      "kPerComment": 5.428571428571429,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9023554",
+          "text": "ㅋㅋ ai 발전으로 옛날 합필갤 보는 느낌이다"
+        },
+        {
+          "id": "9023583",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 거의 20년 전인데.... AI 발전으로 인터넷에서 보게 된것이 20년전 디씨 창작물st 이라니 ㅠㅠ"
+        },
+        {
+          "id": "9023558",
+          "text": "발성ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9023559",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9023561",
+          "text": "뀨뀨 개재미따 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9023568",
+          "text": "오 황태식이~"
+        },
+        {
+          "id": "9023574",
+          "text": "존테리는 왜있어 ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T23:07:34.045842+09:00",
+      "sourceTitles": [
+        "Ai)반도체 바라기",
+        "어떤 새끼가 재수없게 울고 지랄이야",
+        "오늘의 주식요약(feat.황태식)",
+        "체바라기",
+        "반도체바라기"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-24T14:07:48.194177+00:00",
+      "collectedAt": "2026-11-24T23:07:48.194196+09:00",
+      "firstPublishedAt": "2026-11-24T14:07:48.351780+00:00"
     },
     {
       "id": "aagag-1036428-0",
@@ -6486,7 +6560,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
