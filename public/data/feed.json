@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T03:46:24.832071+00:00",
+  "collectedAt": "2026-11-24T03:48:34.854892+00:00",
   "windowEnd": "2026-11-24T12:46:24.476898+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -3180,6 +3180,99 @@
       "sourceTitlesFetchedAt": "2026-11-23T20:07:44.353553+00:00",
       "collectedAt": "2026-11-24T05:07:44.353585+09:00",
       "firstPublishedAt": "2026-11-23T20:07:44.459158+00:00"
+    },
+    {
+      "id": "aagag-1672186-0",
+      "url": "https://aagag.com/issue/?idx=1672186",
+      "source": "애객",
+      "title": "제네시스 GV90 소프트웨어 기술력 근황",
+      "publishedAt": "2026-11-24T12:40:11+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7MhY.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "화면 사이즈 바뀔때마다 다른 OS 부팅시켜줌 ㄷㄷ"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7MhY.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "화면 사이즈 바뀔때마다 다른 OS 부팅시켜줌 ㄷㄷ",
+      "reportedCommentCount": 11,
+      "commentsPartial": false,
+      "kCount": 22,
+      "commentCount": 11,
+      "laughingComments": 4,
+      "score": 22,
+      "kPerComment": 2.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9020725",
+          "text": "화면 크기에 맞게 최적화이긴한데...ㅋㅋㅋ"
+        },
+        {
+          "id": "9020728",
+          "text": "최적화를 못하니 OS를 두개 얹어버리네ㅋㅋ"
+        },
+        {
+          "id": "9020731",
+          "text": "좋다는거에요 나쁘다는거에요 개인적인 생각으로는 배율 최적화 실패하고 꼼수 부렸단 느낌인데"
+        },
+        {
+          "id": "9020747",
+          "text": "조롱이죠 ㅋㅋ"
+        },
+        {
+          "id": "9020736",
+          "text": "이제 자율주행만 넣음 되네"
+        },
+        {
+          "id": "9020740",
+          "text": "뭐 차선책이긴한데 그냥 꼼수 같은건데 잘만들었네~ 할수있는데 이번 테슬라 신기능 보고는 옴레기랑 아이폰 그 시절같음 ㅋㅋㅋㅋㅋ뭐지 싶음ㅋㅋㅋㅋㅋㅋㅋ 애랑 어른이랑 싸우는느낌ㅋㅋㅋ"
+        },
+        {
+          "id": "9020744",
+          "text": "안되는 애플 듀오보다 좋네요"
+        },
+        {
+          "id": "9020745",
+          "text": "와......"
+        },
+        {
+          "id": "9020754",
+          "text": "sw개발능력 개판이네"
+        },
+        {
+          "id": "9020758",
+          "text": "와 이건좀 심각하네 경쟁사들 비하면.."
+        },
+        {
+          "id": "9020761",
+          "text": "sw 개발사가 달라... 기반 OS도 달라..."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T12:48:28.078158+09:00",
+      "sourceTitles": [
+        "소리On) 제네시스 GV90 소프트웨어 기술력",
+        "제네시스 GV90 소프트웨어 기술력 근황",
+        "제네시스 GV90 소프트웨어 기술력 근황",
+        "GV90 소프트웨어 근황.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-24T03:48:34.738334+00:00",
+      "collectedAt": "2026-11-24T12:48:34.738351+09:00",
+      "firstPublishedAt": "2026-11-24T03:48:35.024231+00:00"
     },
     {
       "id": "aagag-1219519-1",
@@ -7813,7 +7906,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
