@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T01:37:55.038577+00:00",
+  "collectedAt": "2026-11-24T01:40:39.636253+00:00",
   "windowEnd": "2026-11-24T10:37:54.733080+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2825,6 +2825,96 @@
       "sourceTitlesFetchedAt": "2026-11-23T07:40:47.004864+00:00",
       "collectedAt": "2026-11-23T16:40:47.004897+09:00",
       "firstPublishedAt": "2026-11-23T07:40:47.208117+00:00"
+    },
+    {
+      "id": "aagag-1672093-0",
+      "url": "https://aagag.com/issue/?idx=1672093",
+      "source": "애객",
+      "title": "현대차 내비 루팅 뚫려서 차주들이 하는 짓.mp4",
+      "publishedAt": "2026-11-24T10:22:22+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7DMJ.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "택시 미터기 넣어서 친구 태워줄때 미터기 켜고 달리기\n이외에도 표준형 5W 세대라면 거의 공공재 수준으로 털려서 별짓 다 가능한 상태"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7DMJ.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "택시 미터기 넣어서 친구 태워줄때 미터기 켜고 달리기\n이외에도 표준형 5W 세대라면 거의 공공재 수준으로 털려서 별짓 다 가능한 상태",
+      "reportedCommentCount": 10,
+      "commentsPartial": false,
+      "kCount": 27,
+      "commentCount": 10,
+      "laughingComments": 5,
+      "score": 27,
+      "kPerComment": 2.7,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9020057",
+          "text": "그래 어차피 테슬라에 밀리는거 오히려 창작마당처럼 오픈해버리고 접근성을 높이자!"
+        },
+        {
+          "id": "9020117",
+          "text": "어 이거 왠지 스마트폰 도입 초기 ios와 안드로이드를 보는 것 같은 기분.."
+        },
+        {
+          "id": "9020133",
+          "text": "맞아요 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9020063",
+          "text": "ㅋㅋㅋㅋㅋ 아 이거 5세대 뚫어서 만든건데 거기에 별걸다 추가했네요 ㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9020069",
+          "text": "https://www.threads.com/@reikop__io/post/DgGmyeUkntZ 오늘 제가 만든거 ㅋㅋㅋ"
+        },
+        {
+          "id": "9020064",
+          "text": "차라리 앱스토어 열어서 저런거 올리게 해줘라ㅋㅋㅋㅋ 그것도 나름대로 컨텐츠 확장 방향이겠네"
+        },
+        {
+          "id": "9020074",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9020087",
+          "text": "어..지금 나오는 쏘렌토 전(UM)인데 이거 저도 할 수 있는건가요???"
+        },
+        {
+          "id": "9020100",
+          "text": "5세대, 5w 뚫려서 가능합니다"
+        },
+        {
+          "id": "9020131",
+          "text": "와 이건 혼자 달릴때도 할만한데요!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T10:40:26.060566+09:00",
+      "sourceTitles": [
+        "현대차 내비 루팅되자 벌어진 일",
+        "현대차 내비 루팅되자 벌어진 일",
+        "현대차 내비 루팅 뚫려서 차주들이 하는 짓",
+        "현대차 내비 루팅되자 벌어진 일.MP4",
+        "현대차 내비 루팅 뚫려서 차주들이 하는 짓.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-24T01:40:39.530075+00:00",
+      "collectedAt": "2026-11-24T10:40:39.530093+09:00",
+      "firstPublishedAt": "2026-11-24T01:40:39.666893+00:00"
     },
     {
       "id": "aagag-1432389-0",
@@ -7519,7 +7609,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
