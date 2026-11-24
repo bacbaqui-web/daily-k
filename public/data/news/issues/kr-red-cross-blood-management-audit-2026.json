@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-24/am.json",
+      "category": "사회·보건",
+      "change": "최근 5년간 혈액제제 폐기량과 반복적인 업무상 실수에 대한 관리 미흡이 감사 자료를 통해 새로 보도됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "am",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "보건복지부의 대한적십자사 종합감사 처분요구서를 분석한 2026년 11월 24일 보도입니다. 감사 대상 통계 기간은 2021~2025년이며 감사 처분요구서의 최초 공개 시각은 확인하지 못했습니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-24-am/red-cross-blood-disposal-audit-20261124",
+      "keyFacts": {
+        "auditAuthority": "보건복지부",
+        "auditFinding": "특정 혈액원에서 같은 폐기 사유와 업무상 실수가 반복됐지만 본부 차원의 원인 분석이 미흡",
+        "auditedOrganization": "대한적십자사",
+        "discardRate2025": "전체 생산량의 1.48%",
+        "discarded2021": "95,943개",
+        "discarded2022": "128,559개",
+        "discarded2023": "100,186개",
+        "discarded2024": "92,016개",
+        "discarded2025": "95,274개",
+        "period": "2021~2025년",
+        "requiredAction": "폐기 현황 종합 분석과 반복 폐기 혈액원 집중 관리 및 개선 방안 마련 요구",
+        "totalDiscarded": "511,978개 혈액제제"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T06:11:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T06:11:00+09:00",
+          "title": "소중한 헌혈 매년 10만 팩씩 버려져…\"적십자사 관리 부실\"",
+          "url": "https://www.yna.co.kr/view/AKR20261123132200530",
+          "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "red-cross-blood-disposal-audit-20261124",
+      "summary": [
+        "보건복지부 감사 자료에 따르면 2021~2025년 국내에서 만들어진 혈액제제 가운데 51만1,978팩이 폐기됐습니다.",
+        "일부 혈액원에서 업무상 실수에 따른 폐기가 반복됐지만 대한적십자사가 원인을 제대로 분석하지 않아 복지부가 개선을 요구했습니다."
+      ],
+      "supersededBy": [],
+      "title": "헌혈 혈액 5년간 51만 팩 폐기, 관리 부실 지적",
+      "uncertainty": "전체 폐기량이 모두 관리 부실로 발생한 것은 아닙니다. 검사 이상 등 불가피한 폐기 사유도 포함돼 있으며 예방 가능했던 폐기량 전체는 확인되지 않았습니다."
+    }
+  ],
+  "id": "kr-red-cross-blood-management-audit-2026",
+  "schemaVersion": 1,
+  "title": "대한적십자사 혈액제제 폐기 및 관리 감사",
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
+}

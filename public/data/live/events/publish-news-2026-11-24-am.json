@@ -1,0 +1,845 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-24T09:00:00+09:00",
+      "date": "2026-11-24",
+      "edition": "am",
+      "editionId": "2026-11-24-am",
+      "events": [
+        {
+          "at": "2026-11-24T10:00:00+09:00",
+          "date": "2026-11-24",
+          "detail": "인력 충원과 감축 계획 철회 등을 논의하며 결렬 시 25일 첫차부터 총파업이 예정돼 있습니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": null,
+            "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 첫차부터 파업 | 연합뉴스",
+            "url": "https://www.yna.co.kr/view/AKR20261123167400004",
+            "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+          },
+          "timeNote": "오전 10시부터 3개 노조와 차례로 교섭합니다.",
+          "title": "서울지하철 노사 최종 교섭"
+        },
+        {
+          "at": null,
+          "date": "2026-11-24",
+          "detail": "국회가 이용철 법무부 장관 후보자와 이태현 KBS 사장 후보자에 대한 인사청문회를 각각 개최할 예정입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": null,
+            "title": "국회, 이용철 법무장관·이태현 KBS 사장 후보 인사청문회 개최 | 연합뉴스",
+            "url": "https://www.yna.co.kr/view/AKR20261123145400001",
+            "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+          },
+          "timeNote": "개별 청문회의 정확한 시작 시각은 확인하지 못했습니다.",
+          "title": "법무부 장관·KBS 사장 후보자 인사청문회"
+        },
+        {
+          "at": null,
+          "date": "2026-11-24",
+          "detail": "금융위원회가 의결한 상장기업의 자사주 하루 매수 주문 한도 완화가 3개월간 적용될 예정입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "YTN",
+            "publishedAt": null,
+            "title": "■11월 24일 화요일 경제 캘린더 | YTN",
+            "url": "https://www.ytn.co.kr/_ln/0102_202611240509598399",
+            "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+          },
+          "timeNote": "24일부터 적용되며 정확한 개시 시각은 확인하지 못했습니다.",
+          "title": "상장사 자사주 하루 매수 주문 한도 완화"
+        },
+        {
+          "at": null,
+          "date": "2026-11-24",
+          "detail": "스테이블코인 발행과 유통, 가상자산 사업자 규제 등을 포함한 디지털자산법 정부안이 공개될 예정입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "YTN",
+            "publishedAt": null,
+            "title": "■11월 24일 화요일 경제 캘린더 | YTN",
+            "url": "https://www.ytn.co.kr/_ln/0102_202611240509598399",
+            "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+          },
+          "timeNote": "금융위원회 가상자산위원회 개최 예정이며 정확한 시각은 확인하지 못했습니다.",
+          "title": "디지털자산법 정부안 공개 예정"
+        },
+        {
+          "at": null,
+          "date": "2026-11-24",
+          "detail": "국가데이터처가 인구주택총조사 표본조사를 통해 파악한 종교 등 세부 조사 결과를 발표할 예정입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "YTN",
+            "publishedAt": null,
+            "title": "■11월 24일 화요일 경제 캘린더 | YTN",
+            "url": "https://www.ytn.co.kr/_ln/0102_202611240509598399",
+            "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+          },
+          "timeNote": "당일 발표 예정이며 정확한 시각은 확인하지 못했습니다.",
+          "title": "2025 인구주택총조사 표본 집계 결과 발표"
+        }
+      ],
+      "generatedAt": "2026-11-24T09:08:50.874559+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-24-am",
+      "intro": "11월 24일 아침 주요 뉴스입니다. 젠슨 황의 엔비디아 복귀와 미국 증시 급등, 선관위 특검 첫 구속, 국내 소비심리 하락, 서울지하철 파업 전 최종 교섭 등을 정리했습니다.",
+      "keywords": [
+        "젠슨 황 엔비디아 CEO 복귀",
+        "엔비디아 31.48% 상승",
+        "나스닥 6.51% 급등",
+        "선관위 직원 1명 구속",
+        "선관위 직원 7명 영장 기각",
+        "11월 소비자심리지수 103.1",
+        "주택가격전망지수 하락",
+        "서울지하철 최종 교섭",
+        "25일 조건부 총파업",
+        "국제유가 3%대 하락",
+        "리비아 정부 우크라이나 규탄",
+        "대한적십자사 혈액제제 폐기 감사",
+        "디지털자산법 정부안"
+      ],
+      "omissionNotes": [
+        "이번 실행 기준 시각인 2026-11-24T08:31:50+09:00을 researchCutoffAt으로 기록했습니다. 웹 조사 종료 시 확인한 한국시간은 08:32:40입니다. 발행 회차 기준 cutoffAt은 09:00이지만 오전 9시까지 조사했다고 주장하지 않습니다. 수록 기사에 사용된 확인 가능한 보도 시각은 모두 researchCutoffAt 이전입니다.",
+        "최근 7일 발행 이력 확인을 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 에 접근해 목록을 읽었습니다. 확인된 인덱스의 최신 항목은 2026-11-23-am이었으며 23일 오후 회차는 표시되지 않았습니다. 웹의 개별 회차 JSON 접근은 오류가 발생해 공개 GitHub 저장소의 raw 파일로 대체했습니다.",
+        "https://raw.githubusercontent.com/bacbaqui-web/daily-k/main/public/data/news/ 아래 2026-11-17-am부터 2026-11-23-pm까지 총 14개 회차의 JSON 접근에 성공했습니다. 주요 기사 목록과 관련 주제의 식별자를 비교했습니다. 다만 14개 파일의 모든 항목을 전수 추출하거나 별도 추가·예비 기사 저장 경로까지 확인하지는 못했습니다. 수신 측은 최근 7일 대표·추가·예비 기사 전체를 다시 검사하고 최신 후속 식별자를 검증해야 합니다.",
+        "23일 오후 실제 발행본은 https://raw.githubusercontent.com/bacbaqui-web/daily-k/main/public/data/news/2026-11-23/pm.json 에서 확인했습니다. 국정원장과 장관 후보자 지명, 코스피 하락, 수출 통계, 선관위 영장심사, 자사주 매수 한도 의결, 한전 개인정보 유출 조사, 간호사 태움 사건, 겨울철 기상 전망과 비교했습니다.",
+        "미국 증시 후속은 2026-11-21-am 실제 발행본에서 storyId=nasdaq-five-percent-plunge-20261121, issueId=us-equities-chips-rates-oil, issueTitle=미국 증시의 반도체 실적·금리·유가 반응을 확인해 재사용했습니다. 이전 예약 초안에 들어 있던 다른 timeline 식별자를 사용하지 않았습니다.",
+        "선관위 구속심사 후속은 2026-11-23-pm 실제 발행본에서 storyId=election-commission-eight-warrant-hearings-20261123, issueId=election-commission-special-counsel-2026, issueTitle=6·3 지방선거 관련 선관위 특검 수사를 확인해 사용했습니다.",
+        "리비아 러시아 선박 사건은 2026-11-23-am 실제 발행본의 storyId=libya-russian-warship-drone-attack-report-20261123 및 기존 timeline.issueId와 issueTitle을 그대로 재사용했습니다. 공격 주체 인정과 리비아 정부의 규탄이라는 새로운 사실을 중심으로 작성했습니다.",
+        "젠슨 황 복귀와 미국 증시 상승은 각각 기업의 공식 경영진 인사 결정과 실제 금융시장 마감 결과라는 별개의 새 사실이므로 구분했습니다. 다만 젠슨 황의 기존 사임 관련 가장 최근 발행 식별자가 최근 7일 이전에 존재하는지는 확인하지 못했습니다. 수신 측에서 기존 이슈 연결 여부를 검사해야 합니다.",
+        "미국 증시는 오전 장중 나스닥 7%대 상승 보도 대신 최종 종가인 6.51% 상승을 사용했습니다. 엔비디아 시가총액 증가분은 매체별 반올림 수치가 달라 본문에서 제외했습니다.",
+        "소비자심리지수에 관한 연합뉴스 06시 기사 https://www.yna.co.kr/view/AKR20261123156700002 에서는 전월 지수 106.6, 현재 지수 103.1, 하락 폭 2.3포인트가 서로 일치하지 않았습니다. MBC·매일경제·파이낸셜뉴스·뉴데일리경제의 보도를 비교해 일치하는 현재 지수와 하락 폭만 사용했으며 해당 연합뉴스 기사는 출처 배열에서 제외했습니다.",
+        "서울지하철 최종 교섭은 22일부터 보도됐지만 23일 오후 실제 발행본에는 없었습니다. 당일 교섭과 다음 날 조건부 파업이 시민 이동에 미치는 영향이 커 포함했습니다. 교섭 결과와 파업 여부는 아직 확정되지 않았으며 전국철도노조의 26일 준법투쟁과 구분했습니다.",
+        "적십자사 혈액제제 폐기 보도에서는 51만여 팩 전체가 업무상 실수로 폐기된 것처럼 표현하지 않았습니다. 불가피한 폐기도 포함돼 있으므로 감사에서 지적한 반복적 실수와 관리 부실을 전체 폐기량과 구분했습니다.",
+        "주요기사 선정 과정에서 연합뉴스 07시 30분 헤드라인 https://www.yna.co.kr/view/AKR20261124014700011 과 한국경제 A1 기사 https://www.hankyung.com/article/2026112454041, YTN 경제 캘린더 https://www.ytn.co.kr/_ln/0102_202611240509598399 및 MBC·조선비즈·헤럴드경제·파이낸셜뉴스·매일경제 등의 관련 원문을 비교했습니다. 모든 언론사의 첫 화면과 종이신문 전체 1면을 전수 조사한 것은 아닙니다.",
+        "주요 제외 후보로 고위공직자 다주택 보유 현황, 한미 관세 정책 관련 전문가 제언, 고양 아파트 화재, 서해안 비·눈 예보 등을 확인했습니다. 상대적으로 새로운 공적 결정의 중요도가 낮거나 이번 회차의 다른 기사보다 영향 범위가 제한적이어서 제외했습니다.",
+        "전날 오후 금융위가 의결한 자사주 매수 한도 완화는 새로운 의결이 반복 보도된 것이 아니므로 독립 기사로 재수록하지 않고 오늘 시행 예정 일정에만 넣었습니다. 국회 인사청문회와 디지털자산법 정부안 공개도 아직 결과가 나오지 않아 events에만 포함했습니다.",
+        "모든 기사에 실제 확인한 원문 URL과 확인 가능한 보도 시각을 기록했습니다. og:image 또는 twitter:image의 정확한 HTTPS 주소는 확보하지 못해 imageUrl은 모두 null로 남겼습니다. 사진 메타데이터 미확인과 기사 사실 확인 실패를 구분했습니다.",
+        "기존 예비 기사와의 연관성을 확인하지 못한 경우 임의로 reserveUpdate를 생성하지 않았습니다. 수신 측은 추가·예비 기사 중복 검사와 이미지 메타데이터, 보도 수정 시각, 후속 식별자를 발행 전에 재확인해야 합니다.",
+        "기사마다 summary에 실제 포함된 강조 구절을 2개씩 지정했으며 importance는 배열 순서에 맞춰 100부터 93까지 서로 다른 값으로 설정했습니다. 실제 발행 검증 시각, 승인 여부, 검증 해시 및 operationId는 생성하지 않았습니다.",
+        "GitHub 저장소와 Daily K 홈페이지, Discord에는 직접 게시·수정·전송하지 않았으며 파일이나 새 예약도 생성하지 않았습니다."
+      ],
+      "overview": [
+        "젠슨 황이 엔비디아 최고경영자로 복귀하면서 나스닥이 6.51% 급등했고, 법원은 선관위 직원 8명 중 1명의 구속영장을 발부했습니다.",
+        "국내 소비심리는 두 달 연속 하락했으며 서울지하철은 파업을 앞두고 최종 교섭에 나섭니다."
+      ],
+      "researchCompletedAt": "2026-11-24T08:32:40+09:00",
+      "researchCutoffAt": "2026-11-24T08:31:50+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "경제·기술",
+          "emphasis": [
+            "사임 11일 만에 경영에 복귀",
+            "국가안보에 위험을 초래하지 않는다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 현지시간 2026년 11월 23일 엔비디아 이사회가 복귀 결정을 발표했으며 즉시 효력이 발생했습니다. 정확한 의결 시각은 확인되지 않았습니다.",
+          "followUp": {
+            "delta": "12일 최고경영자직에서 물러났던 젠슨 황이 엔비디아 이사회의 만장일치 결정으로 11일 만에 최고경영자와 사장, 이사회 이사직에 복귀했습니다.",
+            "editionId": "2026-11-15-am",
+            "storyId": "20261115-am-tech-01"
+          },
+          "id": "nvidia-jensen-huang-ceo-return-20261124",
+          "keyFacts": {
+            "boardAssessment": "미국 정부 고위급 의견을 전달받았으며 국가안보상 위험이 없다고 판단",
+            "boardDecision": "이사회 만장일치 복귀 의결",
+            "company": "엔비디아",
+            "daysAbsent": "11일",
+            "effectiveDate": "복귀 결정 즉시 효력 발생",
+            "executive": "젠슨 황",
+            "positions": "최고경영자, 사장 및 이사회 이사",
+            "presidentialResponse": "트럼프 미국 대통령이 복귀 결정을 환영",
+            "resignationDate": "2026년 11월 12일",
+            "returnDate": "2026년 11월 23일 미국 현지시간"
+          },
+          "publishedAt": "2026-11-24T00:55:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-24T01:14:00+09:00",
+              "title": "젠슨 황, 엔비디아 CEO 전격 복귀…이사회 만장일치 결정",
+              "url": "https://www.hankyung.com/article/2026112454041",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-24T04:10:00+09:00",
+              "title": "젠슨 황, 11일 만에 엔비디아 전격 복귀...엔비디아 주가 폭등",
+              "url": "https://www.ytn.co.kr/_ln/0104_202611240410379771",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123174352072",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 100,
+            "interest": 99,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "세계 AI 반도체 산업의 핵심 기업에서 최고경영자 복귀가 공식 결정됐으며 여러 주요 매체가 비중 있게 보도했습니다.",
+          "sourceCheck": "연합뉴스 00시 55분 종합기사의 본문에서 이사회 만장일치 의결, 복귀 직책, 즉시 효력 발생 및 국가안보 관련 이사회 설명을 확인했습니다. 한국경제 01시 14분 기사와 YTN 04시 10분 기사에서 복귀 사실을 대조했습니다. 한국경제는 해당 기사를 지면 A1에 배치했습니다. 이사회의 판단과 별도 의혹의 해소 여부를 구분했습니다. 원문 사진 메타데이터는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img1.yna.co.kr/photo/etc/af/2026/11/23/PAF20261123168101009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T00:55:00+09:00",
+              "title": "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
+              "url": "https://www.yna.co.kr/view/AKR20261123174352072",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "엔비디아 이사회가 만장일치로 젠슨 황의 최고경영자 복귀를 결정해 사임 11일 만에 경영에 복귀했습니다.",
+            "이사회는 미국 정부 고위급 인사들의 의견을 반영했으며 황의 복귀가 국가안보에 위험을 초래하지 않는다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "젠슨 황이 최고경영자직에서 사임한 지 11일 만에 엔비디아 이사회의 만장일치 결정으로 경영에 복귀했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+            "issueTitle": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사",
+            "stage": "결과"
+          },
+          "title": "젠슨 황, 11일 만에 엔비디아 CEO 복귀",
+          "topicKey": "nvidia-leadership-change-2026",
+          "uncertainty": "국가안보상 위험이 없다는 설명은 엔비디아 이사회의 판단입니다. 복귀 결정만으로 기존에 제기된 모든 의혹이나 별도 규제 조사가 종결됐다고 볼 수 없습니다.",
+          "whatChanged": "12일 최고경영자직에서 물러났던 젠슨 황이 엔비디아 이사회의 만장일치 결정으로 11일 만에 최고경영자와 사장, 이사회 이사직에 복귀했습니다.",
+          "whyItMatters": "세계 AI 반도체 시장을 주도하는 엔비디아의 경영 책임자가 다시 바뀌면서 AI 산업과 반도체 공급망에 대한 불확실성이 일부 해소될 수 있습니다."
+        },
+        {
+          "category": "경제·증시",
+          "emphasis": [
+            "31.48% 급등",
+            "6.51% 오른 24,089.56"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "미국 동부시간 2026년 11월 23일 뉴욕증시 정규장 마감 결과입니다. 한국시간 24일 오전 보도됐습니다.",
+          "followUp": {
+            "delta": "20일 나스닥이 5.28% 급락했던 것과 달리 다음 거래일인 23일에는 젠슨 황의 복귀 발표 이후 6.51% 상승했고 엔비디아도 31.48% 반등했습니다.",
+            "editionId": "2026-11-21-am",
+            "storyId": "nasdaq-five-percent-plunge-20261121"
+          },
+          "id": "us-stocks-nvidia-rebound-20261124",
+          "keyFacts": {
+            "dow": "49,595.31, 3.01% 상승",
+            "historicalComparison": "나스닥과 S&P500 모두 2025년 4월 이후 최대 하루 상승률",
+            "micron": "19% 상승",
+            "nasdaq": "24,089.56, 전 거래일 대비 6.51% 상승",
+            "nvidia": "165.05달러, 31.48% 상승",
+            "semiconductorIndex": "필라델피아 반도체지수 약 14% 상승",
+            "skHynixAdr": "20% 상승",
+            "sp500": "7,237.17, 4.73% 상승"
+          },
+          "publishedAt": "2026-11-24T06:51:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "조선비즈",
+              "publishedAt": "2026-11-24T06:54:00+09:00",
+              "title": "젠슨 황 복귀에 뉴욕증시 상승 마감… 나스닥 6%대 급등",
+              "url": "https://biz.chosun.com/international/international_general/2026/11/24/7XYD7SE2TVA4NKKTJSNKSYNE7U/",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "아시아경제",
+              "publishedAt": "2026-11-24T06:11:00+09:00",
+              "title": "[속보]젠슨 황 복귀에 뉴욕증시 일제히 급등 마감…나스닥 6.5% ↑",
+              "url": "https://view.asiae.co.kr/article/2026112406040843385",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261124009451072",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 99,
+            "interest": 99,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "지난주 글로벌 증시 급락 이후 미국 기술주가 기록적인 반등을 보였으며 국내 증시와 반도체 산업에 미치는 영향이 큽니다.",
+          "sourceCheck": "연합뉴스 06시 51분 원문에서 미국 3대 지수의 정규장 종가와 반도체 관련주 상승을 확인했습니다. 조선비즈 06시 54분 기사에서 엔비디아 종가 165.05달러와 정확한 상승률 31.48%를 확인했습니다. 아시아경제 06시 11분 기사에서도 3대 지수 상승률을 대조했습니다. 장중 7%대 나스닥 상승률을 최종 마감 수치로 사용하지 않았습니다. 원문 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img6.yna.co.kr/photo/etc/af/2026/11/24/PAF20261124016601009_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T06:51:00+09:00",
+              "title": "'젠슨황 귀환'에 나스닥 6.5%↑…1년7개월만에 최대 상승(종합)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261124009451072",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "젠슨 황의 복귀 소식에 엔비디아 주가가 31.48% 급등했고 나스닥은 6.51% 오른 24,089.56으로 마감했습니다.",
+            "S&P500과 다우지수도 각각 4.73%, 3.01% 상승했으며 나스닥은 지난해 4월 이후 가장 큰 하루 상승률을 기록했습니다."
+          ],
+          "timeline": {
+            "change": "미국 증시가 지난 거래일의 급락에서 벗어나 나스닥 6.51%, 엔비디아 31.48% 상승이라는 새로운 정규장 마감 결과를 기록했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "us-equities-chips-rates-oil",
+            "issueTitle": "미국 증시의 반도체 실적·금리·유가 반응",
+            "stage": "결과"
+          },
+          "title": "나스닥 6.51% 급등, 엔비디아 31.48% 상승",
+          "topicKey": "us-stock-market-november-2026",
+          "uncertainty": "당일 마감 수치는 확인됐지만 이번 반등이 지속될지, AI 산업의 투자 및 수익성 우려가 해소됐는지는 알 수 없습니다.",
+          "whatChanged": "지난 20일 미국 증시 급락 이후 다음 거래일인 23일에는 젠슨 황의 복귀 발표와 함께 AI 반도체 관련주가 큰 폭으로 반등했습니다.",
+          "whyItMatters": "미국 AI·반도체 관련주의 급반등은 삼성전자와 SK하이닉스 등 국내 반도체 기업에 대한 투자심리에도 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "직원 1명이 증거인멸 우려로 구속",
+            "7명의 구속영장을 기각"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "서울중앙지법이 2026년 11월 23일 직원 8명의 영장실질심사를 진행한 뒤 24일 새벽 결과가 보도됐습니다. 정확한 영장 발부 시각은 확인되지 않았습니다.",
+          "followUp": {
+            "delta": "23일 선관위 직원 8명의 구속 전 피의자심문 이후 법원이 1명의 구속영장을 발부하고 나머지 7명의 영장을 기각했습니다.",
+            "editionId": "2026-11-23-pm",
+            "storyId": "election-commission-eight-warrant-hearings-20261123"
+          },
+          "id": "election-commission-one-arrest-seven-rejections-20261124",
+          "keyFacts": {
+            "arrestWarrantsIssued": "1명",
+            "arrestWarrantsRejected": "7명",
+            "court": "서울중앙지방법원",
+            "criminalLiability": "최종 법원 판단 미확정",
+            "firstDetention": "선관위 특검 출범 이후 첫 구속",
+            "issuedReason": "증거인멸 우려",
+            "nextStep": "특검이 영장 기각 사유를 검토한 뒤 재청구 검토",
+            "rejectedReason": "구속의 필요성과 상당성을 인정하기 어렵다는 법원 판단",
+            "suspects": "중앙선관위 및 시도선관위 직원 8명"
+          },
+          "publishedAt": "2026-11-24T02:16:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-24T01:36:00+09:00",
+              "title": "[속보] '투표율 허위입력' 선관위 직원 8명 중 1명 구속‥7명 기각",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6867972_36919.html",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124002551004",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 98,
+            "interest": 97,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "전날 주요 사법 뉴스였던 선관위 직원 구속심사의 실제 법원 결정이 새로 확인됐습니다.",
+          "sourceCheck": "연합뉴스 02시 16분 종합기사에서 영장 발부 1명과 기각 7명, 각각의 법원 판단 및 특검의 재청구 검토 방침을 확인했습니다. MBC 01시 36분 입력·01시 39분 수정 기사에서 동일한 법원 결정과 특검 출범 이후 첫 구속이라는 사실을 대조했습니다. 수사기관의 혐의 제기와 법원의 최종 유죄 판단을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304570001300_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T02:16:00+09:00",
+              "title": "'선거 개표상황표 은닉' 선관위 직원 8명 중 1명 구속(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261124002551004",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "6·3 지방선거 관련 개표상황표 은닉·위조 혐의를 받는 선관위 직원 1명이 증거인멸 우려로 구속됐습니다.",
+            "법원은 나머지 직원 7명의 구속영장을 기각했으며, 특검은 기각 사유를 검토해 영장 재청구 여부를 결정할 방침입니다."
+          ],
+          "timeline": {
+            "change": "선관위 직원 8명의 구속심사가 끝나 1명이 구속되고 7명의 영장이 기각되면서 특검 출범 이후 첫 구속자가 나왔습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "election-commission-special-counsel-2026",
+            "issueTitle": "6·3 지방선거 관련 선관위 특검 수사",
+            "stage": "결과"
+          },
+          "title": "선관위 직원 8명 중 1명 구속, 7명 영장 기각",
+          "topicKey": "election-commission-special-counsel-2026",
+          "uncertainty": "구속영장 발부는 유죄 확정이 아니며 영장 기각 역시 무혐의를 뜻하지 않습니다. 선거 전체의 결과가 조작됐다는 사실이 확정된 것도 아닙니다.",
+          "whatChanged": "23일 저녁까지 결과가 확인되지 않았던 선관위 직원 8명의 구속심사에서 1명에 대한 영장이 발부되고 7명에 대한 영장이 기각됐습니다.",
+          "whyItMatters": "지방선거 관리 과정의 위법 의혹에 관한 특검 수사에서 첫 구속자가 나왔으며 향후 수사 방향에도 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·생활",
+          "emphasis": [
+            "전월보다 2.3포인트 하락",
+            "6포인트 떨어진 118"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "한국은행이 2026년 11월 24일 발표한 11월 소비자동향조사 결과입니다. 11월 전체의 실제 소비지출액을 집계한 통계는 아닙니다.",
+          "id": "november-consumer-confidence-decline-20261124",
+          "keyFacts": {
+            "agency": "한국은행",
+            "consecutiveDeclines": "두 달 연속 하락",
+            "consumerConfidence": "103.1",
+            "currentEconomicAssessment": "78, 전월 대비 4포인트 하락",
+            "expectedInflation": "향후 1년 기대인플레이션율 2.6%, 전월 대비 0.1%포인트 하락",
+            "housingPriceExpectations": "118, 전월 대비 6포인트 하락",
+            "indexBaseline": "장기평균 100",
+            "jobOpportunityExpectations": "83, 전월 대비 3포인트 하락",
+            "monthlyChange": "2.3포인트 하락",
+            "survey": "2026년 11월 소비자동향조사"
+          },
+          "publishedAt": "2026-11-24T06:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-24T06:01:00+09:00",
+              "title": "소비자심리지수 또 하락‥\"증시조정·금리상승에 비관적 전망\"",
+              "url": "https://imnews.imbc.com/news/2026/econo/article/6867982_36932.html",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "매일경제",
+              "publishedAt": "2026-11-24T06:54:34+09:00",
+              "title": "증시 급락에…소비자심리지수 7개월 만에 최저",
+              "url": "https://stock.mk.co.kr/news/view/1204541",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴데일리경제",
+              "publishedAt": "2026-11-24T06:01:00+09:00",
+              "title": "증시 조정·대출금리 상승에 소비심리 두 달째 하락 … 주택가격 전망도 꺾여",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350316.html",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.fnnews.com/news/202611231628310144",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 97,
+            "interest": 95,
+            "recency": 99,
+            "reliability": 98
+          },
+          "scoreReason": "국내 가계의 경제 상황 인식과 향후 소비 및 주택시장 기대를 보여주는 새로운 공식 경제지표입니다.",
+          "sourceCheck": "파이낸셜뉴스, MBC, 매일경제 및 뉴데일리경제 원문에서 소비자심리지수 103.1과 전월 대비 2.3포인트 하락을 교차 확인했습니다. MBC 원문에서 주택가격전망지수 118과 6포인트 하락, 기대인플레이션율 2.6%를 확인했습니다. 연합뉴스 06시 원문에는 전월 지수를 106.6으로 적었으나 현재 지수와 하락 폭에 맞지 않고 뉴데일리경제는 전월 지수를 105.4로 보도했습니다. 수치 불일치가 있는 연합뉴스는 출처 목록에서 제외했으며 본문에는 복수 매체가 일치하는 수치만 사용했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "파이낸셜뉴스",
+              "publishedAt": "2026-11-24T06:00:00+09:00",
+              "title": "증시 폭락·금리 상승에 소비심리 얼었다…두 달 연속 하락",
+              "url": "https://www.fnnews.com/news/202611231628310144",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "한국은행이 발표한 11월 소비자심리지수는 103.1로 전월보다 2.3포인트 하락해 두 달 연속 내림세를 보였습니다.",
+            "증시 하락과 대출금리 상승 등으로 경기 전망이 나빠졌으며, 주택가격전망지수도 6포인트 떨어진 118을 기록했습니다."
+          ],
+          "timeline": {
+            "change": "한국은행이 11월 소비자심리지수 103.1과 두 달 연속 하락, 주택가격전망지수 6포인트 하락이라는 새 조사 결과를 발표했습니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-consumer-confidence-2026",
+            "issueTitle": "한국 소비자심리와 주택가격 기대 변화",
+            "stage": "발표"
+          },
+          "title": "소비심리 두 달째 하락, 집값 상승 기대도 줄어",
+          "topicKey": "kr-consumer-confidence-november-2026",
+          "uncertainty": "소비자심리지수는 여전히 장기평균 기준인 100보다 높습니다. 주택가격전망지수 하락은 집값 상승 기대가 약해졌다는 뜻이지 실제 집값이 같은 비율로 하락했다는 뜻은 아닙니다.",
+          "whatChanged": "한국은행의 새로운 월간 조사에서 소비자심리지수가 두 달 연속 하락하고 주택가격 상승 기대도 크게 약해진 사실이 확인됐습니다.",
+          "whyItMatters": "가계가 느끼는 경기와 생활형편에 대한 기대가 낮아지면서 향후 소비와 주택시장에도 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "오늘 오전 10시부터",
+            "25일 첫차부터 무기한 총파업"
+          ],
+          "eventAt": "2026-11-24T10:00:00+09:00",
+          "eventTimeNote": "2026년 11월 24일 오전 10시부터 서울교통공사와 3개 노조의 순차 교섭이 예정돼 있습니다. 협상 결렬 시 25일 첫차부터 파업한다는 노조 방침입니다.",
+          "fallbackNote": "최종 교섭 계획은 전날에도 보도됐지만 23일 오후 실제 발행본에는 포함되지 않았습니다. 파업 전 마지막 교섭이 진행되는 당일이며 수도권 시민의 이동에 직접 영향을 줄 수 있어 포함했습니다.",
+          "id": "seoul-subway-final-negotiation-20261124",
+          "keyFacts": {
+            "additionalNegotiations": "오전 11시 및 오후 1시 30분",
+            "affectedNetwork": "서울지하철 1~8호선 및 9호선 일부 구간",
+            "conditionalStrike": "2026년 11월 25일 첫차부터 무기한 총파업",
+            "firstNegotiationTime": "오전 10시",
+            "firstUnionDemands": "인력 2,212명 감축 계획 철회 및 부족 인원 1,313명 채용",
+            "mainDispute": "인력 감축 철회와 신규 채용 규모",
+            "negotiationDate": "2026년 11월 24일",
+            "operator": "서울교통공사",
+            "strikeStatus": "최종 협상 결과에 따라 결정",
+            "unions": "노동조합 3곳"
+          },
+          "publishedAt": "2026-11-24T05:05:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "헤럴드경제",
+              "publishedAt": "2026-11-24T06:06:16+09:00",
+              "title": "서울지하철 25일 출근길 ‘비상’…노사, 오늘 파업 전 마지막 교섭",
+              "url": "https://biz.heraldcorp.com/article/10946746",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-23T20:52:00+09:00",
+              "title": "서울지하철 내일 최종교섭...결렬 땐 25일 총파업",
+              "url": "https://www.ytn.co.kr/_ln/0115_202611232052348145",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123167400004",
+          "scoreComponents": {
+            "domesticImpact": 97,
+            "importance": 96,
+            "interest": 96,
+            "recency": 96,
+            "reliability": 98
+          },
+          "scoreReason": "수도권 대중교통 이용자의 이동에 직접 영향을 줄 수 있는 주요 노동·교통 일정입니다.",
+          "sourceCheck": "연합뉴스 05시 05분 기사와 헤럴드경제 06시 06분 기사에서 당일 최종 교섭과 25일 조건부 파업 계획, 인력 관련 쟁점을 확인했습니다. 전날 20시 52분 YTN 보도에서도 같은 계획을 확인했습니다. 세부 노조별 교섭 순서는 일부 보도에서 차이가 있어 전체 교섭 시작 시각과 확인된 교섭 시간대만 사용했습니다. 전국철도노조의 26일 준법투쟁과 서울교통공사 노조 파업을 서로 다른 사안으로 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T05:05:00+09:00",
+              "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 첫차부터 파업",
+              "url": "https://www.yna.co.kr/view/AKR20261123167400004",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "서울교통공사와 3개 노동조합이 오늘 오전 10시부터 인력 충원과 임금 인상 문제를 놓고 최종 교섭에 나섭니다.",
+            "협상이 결렬되면 25일 첫차부터 무기한 총파업에 들어갈 예정이지만 실제 파업 여부는 아직 확정되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "서울지하철 노사가 총파업 예고일을 하루 앞두고 인력 및 임금 문제에 관한 마지막 교섭을 진행할 예정입니다.",
+            "eventDate": "2026-11-24",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "seoul-subway-labor-dispute-2026",
+            "issueTitle": "2026년 11월 서울지하철 노사협상과 총파업",
+            "stage": "예정"
+          },
+          "title": "서울지하철 오늘 최종 교섭, 결렬 땐 내일 파업",
+          "topicKey": "seoul-subway-labor-dispute-2026",
+          "uncertainty": "최종 교섭의 결과는 아직 나오지 않았습니다. 파업이 실제 시작되더라도 모든 열차가 운행을 중단한다는 의미는 아니며 운행률은 별도 안내를 확인해야 합니다.",
+          "whatChanged": "서울지하철의 준법투쟁이 이어지는 가운데 총파업 예정일을 하루 앞두고 노사가 최종 교섭에 들어갈 예정입니다.",
+          "whyItMatters": "서울 지하철 1~8호선과 9호선 일부 구간의 운행에 영향을 줄 수 있어 수도권 시민의 출퇴근과 이동 계획에 중요합니다."
+        },
+        {
+          "category": "경제·에너지",
+          "emphasis": [
+            "배럴당 89.37달러",
+            "약 3개월 만에 가장 낮은 수준"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 23일 현지시간 국제 원유 선물시장 마감 결과입니다. 거래소별 정확한 종가 확정 시각은 별도로 확인하지 않았습니다.",
+          "followUp": {
+            "delta": "브렌트유와 서부텍사스산원유의 2027년 1월 인도분 선물 가격이 각각 3.46%, 3.88% 하락하며 약 3개월 만의 최저 수준을 기록했습니다.",
+            "editionId": "2026-11-17-am",
+            "storyId": "20261117-am-oil-close"
+          },
+          "id": "international-oil-three-percent-drop-20261124",
+          "keyFacts": {
+            "brent": "2027년 1월물 배럴당 89.37달러",
+            "brentChange": "3.46% 하락",
+            "brentComparison": "2026년 8월 31일 이후 최저",
+            "libyaDevelopment": "리비아 국영석유공사가 샤라라 유전 송유관 재가동 발표",
+            "marketAssessment": "원유 생산 증가와 공급 과잉 우려",
+            "wti": "2027년 1월물 배럴당 80.17달러",
+            "wtiChange": "3.88% 하락",
+            "wtiComparison": "2026년 8월 10일 이후 최저"
+          },
+          "publishedAt": "2026-11-24T05:59:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "이투데이",
+              "publishedAt": "2026-11-24T06:03:00+09:00",
+              "title": "[속보] 국제유가 하락⋯WTI 3.88%↓",
+              "url": "https://www.etoday.co.kr/news/view/2651912",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "파이낸셜뉴스",
+              "publishedAt": "2026-11-24T06:45:00+09:00",
+              "title": "[국제유가] 3% 넘게 급락…브렌트유, 90달러 붕괴",
+              "url": "https://www.fnnews.com/news/202611240640366338",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124008300072",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 95,
+            "interest": 92,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "국내 에너지 비용과 물가에 영향을 줄 수 있는 국제 원유가격의 새로운 거래 결과이며 복수 매체에서 마감 수치가 일치합니다.",
+          "sourceCheck": "연합뉴스 05시 59분 원문에서 두 원유 선물의 종가와 하락률, 약 3개월 만의 최저 수준 및 리비아 국영석유공사의 송유관 재가동 발표를 확인했습니다. 이투데이 06시 03분 기사와 파이낸셜뉴스 06시 45분 기사에서 동일한 마감 수치를 대조했습니다. 가격 하락 원인에 대한 시장 분석과 확정된 가격을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T05:59:00+09:00",
+              "title": "국제유가 3%대 급락…중동 원유 공급 증가에 3개월만에 최저",
+              "url": "https://www.yna.co.kr/view/AKR20261124008300072",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "국제유가가 3% 넘게 하락해 브렌트유는 배럴당 89.37달러, 미국 서부텍사스산원유는 80.17달러로 마감했습니다.",
+            "중동 등의 원유 공급 증가와 리비아 송유관 재가동 소식이 겹치며 약 3개월 만에 가장 낮은 수준으로 떨어졌습니다."
+          ],
+          "timeline": {
+            "change": "국제 원유 선물가격이 3% 이상 하락하면서 브렌트유는 90달러 아래로 내려갔고 WTI도 배럴당 80.17달러를 기록했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "middle-east-oil-supply",
+            "issueTitle": "중동 원유 공급과 국제유가",
+            "stage": "결과"
+          },
+          "title": "국제유가 3%대 하락, 브렌트유 90달러 아래로",
+          "topicKey": "international-oil-prices-november-2026",
+          "uncertainty": "국제 원유 선물가격 하락이 국내 주유소 가격에 같은 폭으로 즉시 반영되는 것은 아닙니다. 환율과 유통 과정, 향후 중동 정세도 영향을 줍니다.",
+          "whatChanged": "브렌트유와 서부텍사스산원유의 2027년 1월 인도분 선물 가격이 각각 3.46%, 3.88% 하락하며 약 3개월 만의 최저 수준을 기록했습니다.",
+          "whyItMatters": "원유 수입 의존도가 높은 한국의 에너지 비용과 물가, 정유·화학 산업에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "국제·외교",
+          "emphasis": [
+            "공격해 침몰시켰다고 밝혔습니다",
+            "공식 해명을 요구했습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "러시아 군함 피격은 11월 22일 발생한 것으로 보도됐으며 젤렌스키 대통령의 공격 인정과 리비아 통합정부의 규탄은 각각 23일 현지시간에 나왔습니다.",
+          "followUp": {
+            "delta": "공격 주체가 미확인 상태였던 러시아 군함 피격 사건에 대해 우크라이나 대통령이 공격을 인정했고 리비아 통합정부가 공식 규탄과 해명 요구에 나섰습니다.",
+            "editionId": "2026-11-23-am",
+            "storyId": "libya-russian-warship-drone-attack-report-20261123"
+          },
+          "id": "libya-demands-ukraine-explanation-20261124",
+          "keyFacts": {
+            "damageVerification": "전체 피해 규모의 독립 확인 미완료",
+            "diplomaticDemand": "군사작전의 성격과 범위에 관한 공식 해명 요구",
+            "easternAuthority": "리비아 동부 당국도 국제 조사 요구",
+            "libyanGovernmentResponse": "트리폴리 소재 통합정부 외무부가 우크라이나의 군사작전을 규탄",
+            "previousIncident": "리비아 벵가지 인근 러시아 선박 피격",
+            "ukrainianStatement": "젤렌스키 대통령이 공격 사실을 인정하고 러시아 군함 침몰을 주장"
+          },
+          "publishedAt": "2026-11-24T05:32:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-23T18:00:00+09:00",
+              "title": "젤렌스키, 리비아 연안 러 군함 공격 확인…\"목표 달성\"",
+              "url": "https://www.yna.co.kr/view/AKR20261123156400109",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261124006600079",
+          "scoreComponents": {
+            "domesticImpact": 73,
+            "importance": 94,
+            "interest": 91,
+            "recency": 98,
+            "reliability": 96
+          },
+          "scoreReason": "전날 공격 주체가 미확인 상태였던 국제 군사 사건에서 당사자의 인정과 제3국 정부의 공식 외교적 대응이 새로 확인됐습니다.",
+          "sourceCheck": "연합뉴스 24일 05시 32분 원문에서 리비아 통합정부 외무부의 규탄 성명과 공식 해명 요구를 확인했습니다. 23일 18시 원문에서 젤렌스키 대통령의 공격 인정과 군함 침몰 주장을 확인했습니다. 한겨레의 관련 기사에서도 우크라이나 측 발표를 확인했으나 최초 입력 시각을 확정하지 않아 출처 목록에는 추가하지 않았습니다. 공격 인정과 실제 피해의 독립 검증을 구분했습니다. 원문 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": "https://img2.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124006600079_01_i_P4.jpg",
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T05:32:00+09:00",
+              "title": "리비아 정부, 우크라의 러 선박 공격 규탄…공식 해명 요구",
+              "url": "https://www.yna.co.kr/view/AKR20261124006600079",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "젤렌스키 우크라이나 대통령이 리비아 인근의 러시아 군함을 공격해 침몰시켰다고 밝혔습니다.",
+            "리비아 통합정부는 자국 영토와 영해에서의 외국 군사작전을 반대한다며 우크라이나에 공식 해명을 요구했습니다."
+          ],
+          "timeline": {
+            "change": "러시아 선박 피격 이후 우크라이나가 공격 사실을 인정했고 리비아 통합정부가 군사작전을 규탄하며 공식 해명을 요구했습니다.",
+            "eventDate": "2026-11-23",
+            "eventEndDate": null,
+            "eventTimezone": "Africa/Tripoli",
+            "issueId": "russia-libya-maritime-security-2026",
+            "issueTitle": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹",
+            "stage": "후속"
+          },
+          "title": "우크라, 러 군함 공격 인정…리비아 정부 규탄",
+          "topicKey": "russia-libya-maritime-security",
+          "uncertainty": "공격에 대한 우크라이나의 인정은 확인됐지만 군함 침몰과 전체 피해 규모는 당사자의 발표에 의존하는 부분이 있어 독립적인 확인이 필요합니다.",
+          "whatChanged": "23일 오전까지 공격 주체가 확인되지 않았던 리비아 러시아 군함 피격 사건에 대해 우크라이나 대통령이 공격 사실을 인정했고 리비아 통합정부가 공식 해명을 요구했습니다.",
+          "whyItMatters": "러시아와 우크라이나의 전쟁이 제3국의 영토 및 해상 안보에 영향을 주면서 리비아의 외교적 대응으로 이어지고 있습니다."
+        },
+        {
+          "category": "사회·보건",
+          "emphasis": [
+            "51만1,978팩이 폐기",
+            "복지부가 개선을 요구했습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "보건복지부의 대한적십자사 종합감사 처분요구서를 분석한 2026년 11월 24일 보도입니다. 감사 대상 통계 기간은 2021~2025년이며 감사 처분요구서의 최초 공개 시각은 확인하지 못했습니다.",
+          "id": "red-cross-blood-disposal-audit-20261124",
+          "keyFacts": {
+            "auditAuthority": "보건복지부",
+            "auditFinding": "특정 혈액원에서 같은 폐기 사유와 업무상 실수가 반복됐지만 본부 차원의 원인 분석이 미흡",
+            "auditedOrganization": "대한적십자사",
+            "discardRate2025": "전체 생산량의 1.48%",
+            "discarded2021": "95,943개",
+            "discarded2022": "128,559개",
+            "discarded2023": "100,186개",
+            "discarded2024": "92,016개",
+            "discarded2025": "95,274개",
+            "period": "2021~2025년",
+            "requiredAction": "폐기 현황 종합 분석과 반복 폐기 혈액원 집중 관리 및 개선 방안 마련 요구",
+            "totalDiscarded": "511,978개 혈액제제"
+          },
+          "publishedAt": "2026-11-24T06:11:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T06:11:00+09:00",
+              "title": "소중한 헌혈 매년 10만 팩씩 버려져…\"적십자사 관리 부실\"",
+              "url": "https://www.yna.co.kr/view/AKR20261123132200530",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261123132200530",
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 93,
+            "interest": 92,
+            "recency": 97,
+            "reliability": 94
+          },
+          "scoreReason": "공공 의료자원의 관리 문제에 관한 구체적인 감사 자료가 보도됐지만 현재 확보한 직접적인 한국어 보도는 한 매체입니다.",
+          "sourceCheck": "연합뉴스 06시 11분 원문에서 복지부 종합감사 처분요구서에 근거한 5년간 폐기량과 연도별 수치, 특정 혈액원의 반복적인 업무상 실수, 적십자사 본부의 분석 미흡 및 복지부의 개선 요구를 확인했습니다. 복지부 처분요구서 자체와 독립적인 추가 보도는 확보하지 못했습니다. 모든 혈액 폐기를 관리 부실로 돌리지 않았으며 기사에 실린 과거 혈액원 사진의 메타데이터는 확인하지 못했습니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-24T06:11:00+09:00",
+              "title": "소중한 헌혈 매년 10만 팩씩 버려져…\"적십자사 관리 부실\"",
+              "url": "https://www.yna.co.kr/view/AKR20261123132200530",
+              "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "보건복지부 감사 자료에 따르면 2021~2025년 국내에서 만들어진 혈액제제 가운데 51만1,978팩이 폐기됐습니다.",
+            "일부 혈액원에서 업무상 실수에 따른 폐기가 반복됐지만 대한적십자사가 원인을 제대로 분석하지 않아 복지부가 개선을 요구했습니다."
+          ],
+          "timeline": {
+            "change": "최근 5년간 혈액제제 폐기량과 반복적인 업무상 실수에 대한 관리 미흡이 감사 자료를 통해 새로 보도됐습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "kr-red-cross-blood-management-audit-2026",
+            "issueTitle": "대한적십자사 혈액제제 폐기 및 관리 감사",
+            "stage": "보도"
+          },
+          "title": "헌혈 혈액 5년간 51만 팩 폐기, 관리 부실 지적",
+          "topicKey": "kr-red-cross-blood-management",
+          "uncertainty": "전체 폐기량이 모두 관리 부실로 발생한 것은 아닙니다. 검사 이상 등 불가피한 폐기 사유도 포함돼 있으며 예방 가능했던 폐기량 전체는 확인되지 않았습니다.",
+          "whatChanged": "최근 5년간 혈액제제 폐기 규모와 일부 혈액원에서 반복된 업무상 실수, 적십자사 본부의 관리 문제에 관한 복지부 감사 내용이 보도됐습니다.",
+          "whyItMatters": "수혈에 필요한 혈액의 안정적인 공급과 헌혈 자원의 효율적인 관리에 관한 공공기관의 책임 문제입니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-24-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-24T09:13:01.646971+09:00",
+  "result": {
+    "id": "2026-11-24-am",
+    "operationId": "publish-news-2026-11-24-am",
+    "recordedAt": "2026-11-24T09:13:01.646971+09:00",
+    "sha256": "f023bba9df735be5cc14ac2eb0fe1f89a7fdc1e6ae2cd623984bea112e2b7109",
+    "windowId": "2026-11-24-am"
+  }
+}

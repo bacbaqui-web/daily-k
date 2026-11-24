@@ -2,6 +2,16 @@
   "editions": [
     {
       "count": 8,
+      "cutoffAt": "2026-11-24T09:00:00+09:00",
+      "date": "2026-11-24",
+      "edition": "am",
+      "generatedAt": "2026-11-24T09:08:50.874559+09:00",
+      "headline": "젠슨 황, 11일 만에 엔비디아 CEO 복귀",
+      "id": "2026-11-24-am",
+      "path": "2026-11-24/am.json"
+    },
+    {
+      "count": 8,
       "cutoffAt": "2026-11-23T21:00:00+09:00",
       "date": "2026-11-23",
       "edition": "pm",
@@ -1398,5 +1408,5 @@
   ],
   "schemaVersion": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
 }

@@ -1,6 +1,187 @@
 {
-  "editionCount": 136,
+  "editionCount": 137,
   "issues": [
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 35,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "미국 증시가 지난 거래일의 급락에서 벗어나 나스닥 6.51%, 엔비디아 31.48% 상승이라는 새로운 정규장 마감 결과를 기록했습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "결과",
+        "storyId": "us-stocks-nvidia-rebound-20261124",
+        "title": "나스닥 6.51% 급등, 엔비디아 31.48% 상승"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
+    {
+      "categories": [
+        "사회·교통"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "firstCoveredDate": "2026-11-24",
+      "id": "seoul-subway-labor-dispute-2026",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "서울지하철 노사가 총파업 예고일을 하루 앞두고 인력 및 임금 문제에 관한 마지막 교섭을 진행할 예정입니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "예정",
+        "storyId": "seoul-subway-final-negotiation-20261124",
+        "title": "서울지하철 오늘 최종 교섭, 결렬 땐 내일 파업"
+      },
+      "path": "seoul-subway-labor-dispute-2026.json",
+      "title": "2026년 11월 서울지하철 노사협상과 총파업"
+    },
+    {
+      "categories": [
+        "국제·안보",
+        "국제·외교"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-23T09:42:13.097980+09:00",
+      "firstCoveredDate": "2026-11-23",
+      "id": "russia-libya-maritime-security-2026",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "러시아 선박 피격 이후 우크라이나가 공격 사실을 인정했고 리비아 통합정부가 군사작전을 규탄하며 공식 해명을 요구했습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "후속",
+        "storyId": "libya-demands-ukraine-explanation-20261124",
+        "title": "우크라, 러 군함 공격 인정…리비아 정부 규탄"
+      },
+      "path": "russia-libya-maritime-security-2026.json",
+      "title": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹"
+    },
+    {
+      "categories": [
+        "경제·기술",
+        "과학·기술"
+      ],
+      "eventCount": 5,
+      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
+      "firstCoveredDate": "2026-11-09",
+      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "젠슨 황이 최고경영자직에서 사임한 지 11일 만에 엔비디아 이사회의 만장일치 결정으로 경영에 복귀했습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "결과",
+        "storyId": "nvidia-jensen-huang-ceo-return-20261124",
+        "title": "젠슨 황, 11일 만에 엔비디아 CEO 복귀"
+      },
+      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
+      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
+    },
+    {
+      "categories": [
+        "경제·생활경제",
+        "경제·에너지",
+        "국제·에너지",
+        "국제정세"
+      ],
+      "eventCount": 22,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "middle-east-oil-supply",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "국제 원유 선물가격이 3% 이상 하락하면서 브렌트유는 90달러 아래로 내려갔고 WTI도 배럴당 80.17달러를 기록했습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "결과",
+        "storyId": "international-oil-three-percent-drop-20261124",
+        "title": "국제유가 3%대 하락, 브렌트유 90달러 아래로"
+      },
+      "path": "middle-east-oil-supply.json",
+      "title": "중동 원유 공급과 국제유가"
+    },
+    {
+      "categories": [
+        "사회·보건"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "firstCoveredDate": "2026-11-24",
+      "id": "kr-red-cross-blood-management-audit-2026",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "최근 5년간 혈액제제 폐기량과 반복적인 업무상 실수에 대한 관리 미흡이 감사 자료를 통해 새로 보도됐습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "보도",
+        "storyId": "red-cross-blood-disposal-audit-20261124",
+        "title": "헌혈 혈액 5년간 51만 팩 폐기, 관리 부실 지적"
+      },
+      "path": "kr-red-cross-blood-management-audit-2026.json",
+      "title": "대한적십자사 혈액제제 폐기 및 관리 감사"
+    },
+    {
+      "categories": [
+        "경제·생활"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "firstCoveredDate": "2026-11-24",
+      "id": "kr-consumer-confidence-2026",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "한국은행이 11월 소비자심리지수 103.1과 두 달 연속 하락, 주택가격전망지수 6포인트 하락이라는 새 조사 결과를 발표했습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "발표",
+        "storyId": "november-consumer-confidence-decline-20261124",
+        "title": "소비심리 두 달째 하락, 집값 상승 기대도 줄어"
+      },
+      "path": "kr-consumer-confidence-2026.json",
+      "title": "한국 소비자심리와 주택가격 기대 변화"
+    },
+    {
+      "categories": [
+        "정치·사법",
+        "정치·사회"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
+      "firstCoveredDate": "2026-11-18",
+      "id": "election-commission-special-counsel-2026",
+      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "lastCoveredDate": "2026-11-24",
+      "latest": {
+        "archive": false,
+        "change": "선관위 직원 8명의 구속심사가 끝나 1명이 구속되고 7명의 영장이 기각되면서 특검 출범 이후 첫 구속자가 나왔습니다.",
+        "editionId": "2026-11-24-am",
+        "stage": "결과",
+        "storyId": "election-commission-one-arrest-seven-rejections-20261124",
+        "title": "선관위 직원 8명 중 1명 구속, 7명 영장 기각"
+      },
+      "path": "election-commission-special-counsel-2026.json",
+      "title": "6·3 지방선거 관련 선관위 특검 수사"
+    },
     {
       "categories": [
         "사회·날씨"
@@ -134,28 +315,6 @@
     },
     {
       "categories": [
-        "정치·사법",
-        "정치·사회"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-19T09:28:23.214550+09:00",
-      "firstCoveredDate": "2026-11-18",
-      "id": "election-commission-special-counsel-2026",
-      "lastCoveredAt": "2026-11-23T21:01:18.155472+09:00",
-      "lastCoveredDate": "2026-11-23",
-      "latest": {
-        "archive": false,
-        "change": "특검이 구속영장을 청구한 선관위 직원 8명이 실제 법원의 구속 전 피의자심문을 받는 단계로 수사가 진행됐습니다.",
-        "editionId": "2026-11-23-pm",
-        "stage": "후속",
-        "storyId": "election-commission-eight-warrant-hearings-20261123",
-        "title": "선관위 직원 8명 구속심사, 법원 판단 대기"
-      },
-      "path": "election-commission-special-counsel-2026.json",
-      "title": "6·3 지방선거 관련 선관위 특검 수사"
-    },
-    {
-      "categories": [
         "국제",
         "국제·안보",
         "국제정세"
@@ -198,27 +357,6 @@
       },
       "path": "trump-kim-2026-11.json",
       "title": "트럼프, 중국서 김정은 만날 가능성 언급…회담 확정은 아냐"
-    },
-    {
-      "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-23T09:42:13.097980+09:00",
-      "firstCoveredDate": "2026-11-23",
-      "id": "russia-libya-maritime-security-2026",
-      "lastCoveredAt": "2026-11-23T09:42:13.097980+09:00",
-      "lastCoveredDate": "2026-11-23",
-      "latest": {
-        "archive": false,
-        "change": "리비아 벵가지 해군기지의 러시아 군함에서 폭발과 화재가 발생했다는 보도가 나왔으며 현지 당국자는 해상 드론 공격 가능성을 제기했습니다.",
-        "editionId": "2026-11-23-am",
-        "stage": "보도",
-        "storyId": "libya-russian-warship-drone-attack-report-20261123",
-        "title": "리비아 정박 러시아 군함, 드론 피격 보도"
-      },
-      "path": "russia-libya-maritime-security-2026.json",
-      "title": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹"
     },
     {
       "categories": [
@@ -709,34 +847,6 @@
       },
       "path": "yemen-saudi-houthi-escalation-2026.json",
       "title": "예멘 후티·사우디아라비아 무력 충돌"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 34,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-21T09:28:57.083664+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "전날 뉴욕증시의 2%대 하락에 이어 나스닥이 5.28% 급락하고 다우와 S&P500은 고점 대비 10% 이상 하락한 조정 국면에 진입했습니다.",
-        "editionId": "2026-11-21-am",
-        "stage": "후속",
-        "storyId": "nasdaq-five-percent-plunge-20261121",
-        "title": "나스닥 5.28% 폭락, 엔비디아 14% 하락"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -1505,30 +1615,6 @@
     },
     {
       "categories": [
-        "경제·생활경제",
-        "경제·에너지",
-        "국제·에너지",
-        "국제정세"
-      ],
-      "eventCount": 21,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "middle-east-oil-supply",
-      "lastCoveredAt": "2026-11-17T09:16:27.049119+09:00",
-      "lastCoveredDate": "2026-11-17",
-      "latest": {
-        "archive": false,
-        "change": "14일 수급 전망 보도 이후 16일 선물시장 실제 마감값이 새로 확인됐습니다.",
-        "editionId": "2026-11-17-am",
-        "stage": "후속",
-        "storyId": "20261117-am-oil-close",
-        "title": "국제유가 3%대 하락…WTI 85.72달러 마감"
-      },
-      "path": "middle-east-oil-supply.json",
-      "title": "중동 원유 공급과 국제유가"
-    },
-    {
-      "categories": [
         "경제·생활경제"
       ],
       "eventCount": 1,
@@ -1906,27 +1992,6 @@
       },
       "path": "retirement-pension-q3-2026-assets-returns.json",
       "title": "2026년 3분기 퇴직연금 적립금과 운용수익률"
-    },
-    {
-      "categories": [
-        "과학·기술"
-      ],
-      "eventCount": 4,
-      "firstCoveredAt": "2026-11-09T09:19:54.489884+09:00",
-      "firstCoveredDate": "2026-11-09",
-      "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
-      "lastCoveredAt": "2026-11-15T15:15:53.219711+09:00",
-      "lastCoveredDate": "2026-11-15",
-      "latest": {
-        "archive": false,
-        "change": "정부가 공급·협력 지속 계획을 점검했습니다. CEO 교체도 보도됐으며 전체 납품·사업 성과는 미확인입니다.",
-        "editionId": "2026-11-15-am",
-        "stage": "후속",
-        "storyId": "20261115-am-tech-01",
-        "title": "정부, 엔비디아와 GPU 26만장 공급·국내 협력 지속 재확인"
-      },
-      "path": "nvidia-board-foreign-intelligence-targeting-investigation-2026.json",
-      "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사"
     },
     {
       "categories": [
@@ -12896,7 +12961,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1011,
+  "storyCount": 1019,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
 }

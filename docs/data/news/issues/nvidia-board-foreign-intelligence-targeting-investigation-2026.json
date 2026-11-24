@@ -106,6 +106,67 @@
       "uncertainty": "납품 완료와 향후 일정 이행, 민간 확보 규모 및 사업 성과는 미확정입니다."
     },
     {
+      "briefingPath": "2026-11-24/am.json",
+      "category": "경제·기술",
+      "change": "젠슨 황이 최고경영자직에서 사임한 지 11일 만에 엔비디아 이사회의 만장일치 결정으로 경영에 복귀했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "am",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-am",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지시간 2026년 11월 23일 엔비디아 이사회가 복귀 결정을 발표했으며 즉시 효력이 발생했습니다. 정확한 의결 시각은 확인되지 않았습니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "12일 최고경영자직에서 물러났던 젠슨 황이 엔비디아 이사회의 만장일치 결정으로 11일 만에 최고경영자와 사장, 이사회 이사직에 복귀했습니다.",
+        "editionId": "2026-11-15-am",
+        "storyId": "20261115-am-tech-01"
+      },
+      "id": "2026-11-24-am/nvidia-jensen-huang-ceo-return-20261124",
+      "keyFacts": {
+        "boardAssessment": "미국 정부 고위급 의견을 전달받았으며 국가안보상 위험이 없다고 판단",
+        "boardDecision": "이사회 만장일치 복귀 의결",
+        "company": "엔비디아",
+        "daysAbsent": "11일",
+        "effectiveDate": "복귀 결정 즉시 효력 발생",
+        "executive": "젠슨 황",
+        "positions": "최고경영자, 사장 및 이사회 이사",
+        "presidentialResponse": "트럼프 미국 대통령이 복귀 결정을 환영",
+        "resignationDate": "2026년 11월 12일",
+        "returnDate": "2026년 11월 23일 미국 현지시간"
+      },
+      "previous": {
+        "editionId": "2026-11-15-am",
+        "storyId": "20261115-am-tech-01"
+      },
+      "publishedAt": "2026-11-24T00:55:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img1.yna.co.kr/photo/etc/af/2026/11/23/PAF20261123168101009_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T00:55:00+09:00",
+          "title": "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20261123174352072",
+          "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "nvidia-jensen-huang-ceo-return-20261124",
+      "summary": [
+        "엔비디아 이사회가 만장일치로 젠슨 황의 최고경영자 복귀를 결정해 사임 11일 만에 경영에 복귀했습니다.",
+        "이사회는 미국 정부 고위급 인사들의 의견을 반영했으며 황의 복귀가 국가안보에 위험을 초래하지 않는다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "젠슨 황, 11일 만에 엔비디아 CEO 복귀",
+      "uncertainty": "국가안보상 위험이 없다는 설명은 엔비디아 이사회의 판단입니다. 복귀 결정만으로 기존에 제기된 모든 의혹이나 별도 규제 조사가 종결됐다고 볼 수 없습니다."
+    },
+    {
       "briefingPath": "2026-11-11/am.json",
       "category": "과학·기술",
       "change": "반도체 공급망·물량 관련 새 의혹과 기업 반박이 추가됐습니다. 거래의 불법성과 조사 결과는 미확정입니다.",
@@ -222,5 +283,5 @@
   "id": "nvidia-board-foreign-intelligence-targeting-investigation-2026",
   "schemaVersion": 1,
   "title": "엔비디아 이사회의 외국 정보기관 표적 의혹 독립 조사",
-  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
 }

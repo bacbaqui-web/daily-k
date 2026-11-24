@@ -52,10 +52,67 @@
       "supersededBy": [],
       "title": "리비아 정박 러시아 군함, 드론 피격 보도",
       "uncertainty": "리비아 당국자의 설명에 따른 것으로 공격 주체와 최종 피해 규모는 확인되지 않았습니다. 다른 매체는 피격 선박의 종류와 척수를 다르게 보도해 선박 규모를 추가로 확정하지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-24/am.json",
+      "category": "국제·외교",
+      "change": "러시아 선박 피격 이후 우크라이나가 공격 사실을 인정했고 리비아 통합정부가 군사작전을 규탄하며 공식 해명을 요구했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "am",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-am",
+      "eventAt": null,
+      "eventDate": "2026-11-23",
+      "eventEndDate": null,
+      "eventTimeNote": "러시아 군함 피격은 11월 22일 발생한 것으로 보도됐으며 젤렌스키 대통령의 공격 인정과 리비아 통합정부의 규탄은 각각 23일 현지시간에 나왔습니다.",
+      "eventTimezone": "Africa/Tripoli",
+      "followUp": {
+        "delta": "공격 주체가 미확인 상태였던 러시아 군함 피격 사건에 대해 우크라이나 대통령이 공격을 인정했고 리비아 통합정부가 공식 규탄과 해명 요구에 나섰습니다.",
+        "editionId": "2026-11-23-am",
+        "storyId": "libya-russian-warship-drone-attack-report-20261123"
+      },
+      "id": "2026-11-24-am/libya-demands-ukraine-explanation-20261124",
+      "keyFacts": {
+        "damageVerification": "전체 피해 규모의 독립 확인 미완료",
+        "diplomaticDemand": "군사작전의 성격과 범위에 관한 공식 해명 요구",
+        "easternAuthority": "리비아 동부 당국도 국제 조사 요구",
+        "libyanGovernmentResponse": "트리폴리 소재 통합정부 외무부가 우크라이나의 군사작전을 규탄",
+        "previousIncident": "리비아 벵가지 인근 러시아 선박 피격",
+        "ukrainianStatement": "젤렌스키 대통령이 공격 사실을 인정하고 러시아 군함 침몰을 주장"
+      },
+      "previous": {
+        "editionId": "2026-11-23-am",
+        "storyId": "libya-russian-warship-drone-attack-report-20261123"
+      },
+      "publishedAt": "2026-11-24T05:32:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img2.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124006600079_01_i_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T05:32:00+09:00",
+          "title": "리비아 정부, 우크라의 러 선박 공격 규탄…공식 해명 요구",
+          "url": "https://www.yna.co.kr/view/AKR20261124006600079",
+          "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "libya-demands-ukraine-explanation-20261124",
+      "summary": [
+        "젤렌스키 우크라이나 대통령이 리비아 인근의 러시아 군함을 공격해 침몰시켰다고 밝혔습니다.",
+        "리비아 통합정부는 자국 영토와 영해에서의 외국 군사작전을 반대한다며 우크라이나에 공식 해명을 요구했습니다."
+      ],
+      "supersededBy": [],
+      "title": "우크라, 러 군함 공격 인정…리비아 정부 규탄",
+      "uncertainty": "공격에 대한 우크라이나의 인정은 확인됐지만 군함 침몰과 전체 피해 규모는 당사자의 발표에 의존하는 부분이 있어 독립적인 확인이 필요합니다."
     }
   ],
   "id": "russia-libya-maritime-security-2026",
   "schemaVersion": 1,
   "title": "2026년 리비아 벵가지 러시아 선박 드론 공격 의혹",
-  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
 }

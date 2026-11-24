@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-24/am.json",
+      "category": "사회·교통",
+      "change": "서울지하철 노사가 총파업 예고일을 하루 앞두고 인력 및 임금 문제에 관한 마지막 교섭을 진행할 예정입니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "am",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-am",
+      "eventAt": "2026-11-24T10:00:00+09:00",
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 24일 오전 10시부터 서울교통공사와 3개 노조의 순차 교섭이 예정돼 있습니다. 협상 결렬 시 25일 첫차부터 파업한다는 노조 방침입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-24-am/seoul-subway-final-negotiation-20261124",
+      "keyFacts": {
+        "additionalNegotiations": "오전 11시 및 오후 1시 30분",
+        "affectedNetwork": "서울지하철 1~8호선 및 9호선 일부 구간",
+        "conditionalStrike": "2026년 11월 25일 첫차부터 무기한 총파업",
+        "firstNegotiationTime": "오전 10시",
+        "firstUnionDemands": "인력 2,212명 감축 계획 철회 및 부족 인원 1,313명 채용",
+        "mainDispute": "인력 감축 철회와 신규 채용 규모",
+        "negotiationDate": "2026년 11월 24일",
+        "operator": "서울교통공사",
+        "strikeStatus": "최종 협상 결과에 따라 결정",
+        "unions": "노동조합 3곳"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T05:05:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T05:05:00+09:00",
+          "title": "서울지하철 노사 오늘 막판 담판…결렬 땐 내일 첫차부터 파업",
+          "url": "https://www.yna.co.kr/view/AKR20261123167400004",
+          "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "seoul-subway-final-negotiation-20261124",
+      "summary": [
+        "서울교통공사와 3개 노동조합이 오늘 오전 10시부터 인력 충원과 임금 인상 문제를 놓고 최종 교섭에 나섭니다.",
+        "협상이 결렬되면 25일 첫차부터 무기한 총파업에 들어갈 예정이지만 실제 파업 여부는 아직 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "서울지하철 오늘 최종 교섭, 결렬 땐 내일 파업",
+      "uncertainty": "최종 교섭의 결과는 아직 나오지 않았습니다. 파업이 실제 시작되더라도 모든 열차가 운행을 중단한다는 의미는 아니며 운행률은 별도 안내를 확인해야 합니다."
+    }
+  ],
+  "id": "seoul-subway-labor-dispute-2026",
+  "schemaVersion": 1,
+  "title": "2026년 11월 서울지하철 노사협상과 총파업",
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
+}

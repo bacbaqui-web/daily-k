@@ -113,10 +113,70 @@
       "supersededBy": [],
       "title": "선관위 직원 8명 구속심사, 법원 판단 대기",
       "uncertainty": "영장심사는 구속 여부를 판단하는 절차로, 영장 발부나 유죄가 확정된 것은 아닙니다. 허위 입력과 문서 위·변조는 수사기관이 제기한 혐의입니다."
+    },
+    {
+      "briefingPath": "2026-11-24/am.json",
+      "category": "정치·사법",
+      "change": "선관위 직원 8명의 구속심사가 끝나 1명이 구속되고 7명의 영장이 기각되면서 특검 출범 이후 첫 구속자가 나왔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "am",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "서울중앙지법이 2026년 11월 23일 직원 8명의 영장실질심사를 진행한 뒤 24일 새벽 결과가 보도됐습니다. 정확한 영장 발부 시각은 확인되지 않았습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "23일 선관위 직원 8명의 구속 전 피의자심문 이후 법원이 1명의 구속영장을 발부하고 나머지 7명의 영장을 기각했습니다.",
+        "editionId": "2026-11-23-pm",
+        "storyId": "election-commission-eight-warrant-hearings-20261123"
+      },
+      "id": "2026-11-24-am/election-commission-one-arrest-seven-rejections-20261124",
+      "keyFacts": {
+        "arrestWarrantsIssued": "1명",
+        "arrestWarrantsRejected": "7명",
+        "court": "서울중앙지방법원",
+        "criminalLiability": "최종 법원 판단 미확정",
+        "firstDetention": "선관위 특검 출범 이후 첫 구속",
+        "issuedReason": "증거인멸 우려",
+        "nextStep": "특검이 영장 기각 사유를 검토한 뒤 재청구 검토",
+        "rejectedReason": "구속의 필요성과 상당성을 인정하기 어렵다는 법원 판단",
+        "suspects": "중앙선관위 및 시도선관위 직원 8명"
+      },
+      "previous": {
+        "editionId": "2026-11-23-pm",
+        "storyId": "election-commission-eight-warrant-hearings-20261123"
+      },
+      "publishedAt": "2026-11-24T02:16:00+09:00",
+      "sources": [
+        {
+          "imageUrl": "https://img9.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112304570001300_P4.jpg",
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T02:16:00+09:00",
+          "title": "'선거 개표상황표 은닉' 선관위 직원 8명 중 1명 구속(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261124002551004",
+          "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "election-commission-one-arrest-seven-rejections-20261124",
+      "summary": [
+        "6·3 지방선거 관련 개표상황표 은닉·위조 혐의를 받는 선관위 직원 1명이 증거인멸 우려로 구속됐습니다.",
+        "법원은 나머지 직원 7명의 구속영장을 기각했으며, 특검은 기각 사유를 검토해 영장 재청구 여부를 결정할 방침입니다."
+      ],
+      "supersededBy": [],
+      "title": "선관위 직원 8명 중 1명 구속, 7명 영장 기각",
+      "uncertainty": "구속영장 발부는 유죄 확정이 아니며 영장 기각 역시 무혐의를 뜻하지 않습니다. 선거 전체의 결과가 조작됐다는 사실이 확정된 것도 아닙니다."
     }
   ],
   "id": "election-commission-special-counsel-2026",
   "schemaVersion": 1,
   "title": "6·3 지방선거 관련 선관위 특검 수사",
-  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
 }

@@ -1233,10 +1233,69 @@
       "supersededBy": [],
       "title": "IEA, 10월 세계 석유 공급 하루 약 200만 배럴 초과 추산",
       "uncertainty": "IEA 추산·전망이며 향후 수송 안전과 실제 생산·수요, 국내 가격 반영은 미확정입니다."
+    },
+    {
+      "briefingPath": "2026-11-24/am.json",
+      "category": "경제·에너지",
+      "change": "국제 원유 선물가격이 3% 이상 하락하면서 브렌트유는 90달러 아래로 내려갔고 WTI도 배럴당 80.17달러를 기록했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-24T09:08:50.874559+09:00",
+      "coveredOn": "2026-11-24",
+      "edition": "am",
+      "editionDate": "2026-11-24",
+      "editionId": "2026-11-24-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 23일 현지시간 국제 원유 선물시장 마감 결과입니다. 거래소별 정확한 종가 확정 시각은 별도로 확인하지 않았습니다.",
+      "eventTimezone": null,
+      "followUp": {
+        "delta": "브렌트유와 서부텍사스산원유의 2027년 1월 인도분 선물 가격이 각각 3.46%, 3.88% 하락하며 약 3개월 만의 최저 수준을 기록했습니다.",
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-oil-close"
+      },
+      "id": "2026-11-24-am/international-oil-three-percent-drop-20261124",
+      "keyFacts": {
+        "brent": "2027년 1월물 배럴당 89.37달러",
+        "brentChange": "3.46% 하락",
+        "brentComparison": "2026년 8월 31일 이후 최저",
+        "libyaDevelopment": "리비아 국영석유공사가 샤라라 유전 송유관 재가동 발표",
+        "marketAssessment": "원유 생산 증가와 공급 과잉 우려",
+        "wti": "2027년 1월물 배럴당 80.17달러",
+        "wtiChange": "3.88% 하락",
+        "wtiComparison": "2026년 8월 10일 이후 최저"
+      },
+      "previous": {
+        "editionId": "2026-11-17-am",
+        "storyId": "20261117-am-oil-close"
+      },
+      "publishedAt": "2026-11-24T05:59:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T05:59:00+09:00",
+          "title": "국제유가 3%대 급락…중동 원유 공급 증가에 3개월만에 최저",
+          "url": "https://www.yna.co.kr/view/AKR20261124008300072",
+          "verifiedAt": "2026-11-24T09:08:50.874559+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "international-oil-three-percent-drop-20261124",
+      "summary": [
+        "국제유가가 3% 넘게 하락해 브렌트유는 배럴당 89.37달러, 미국 서부텍사스산원유는 80.17달러로 마감했습니다.",
+        "중동 등의 원유 공급 증가와 리비아 송유관 재가동 소식이 겹치며 약 3개월 만에 가장 낮은 수준으로 떨어졌습니다."
+      ],
+      "supersededBy": [],
+      "title": "국제유가 3%대 하락, 브렌트유 90달러 아래로",
+      "uncertainty": "국제 원유 선물가격 하락이 국내 주유소 가격에 같은 폭으로 즉시 반영되는 것은 아닙니다. 환율과 유통 과정, 향후 중동 정세도 영향을 줍니다."
     }
   ],
   "id": "middle-east-oil-supply",
   "schemaVersion": 1,
   "title": "중동 원유 공급과 국제유가",
-  "updatedAt": "2026-11-23T21:01:18.155472+09:00"
+  "updatedAt": "2026-11-24T09:08:50.874559+09:00"
 }
