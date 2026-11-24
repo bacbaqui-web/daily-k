@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T06:05:42.060311+00:00",
+  "collectedAt": "2026-11-24T06:08:55.285545+00:00",
   "windowEnd": "2026-11-24T15:05:41.608567+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8424,7 +8424,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8451,6 +8451,76 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672227-0",
+      "url": "https://aagag.com/issue/?idx=1672227",
+      "source": "애객",
+      "title": "🍆 AI안경 활용하는 방법",
+      "publishedAt": "2026-11-24T14:58:35+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/JwL8i.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/JwL8i.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9021460",
+          "text": "나 이제 저 가지의 의미가 뭔지 알게 되었어"
+        },
+        {
+          "id": "9021470",
+          "text": "카운트 0인 애는 남장여자?"
+        },
+        {
+          "id": "9021475",
+          "text": "0이 젤 위험해 보여"
+        },
+        {
+          "id": "9021479",
+          "text": "가지 의미가 ㄷㄷ"
+        },
+        {
+          "id": "9021520",
+          "text": "검색하는 법 #127814 x1F346 검색창에 검색합니다. 나만 당할 수 없지"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T15:08:47.814658+09:00",
+      "sourceTitles": [
+        "Ai 안경을 활용하는 Manhwa",
+        "Ai 안경을 활용하는 Manhwa",
+        "🍆 AI안경 활용하는 방법",
+        "🍆 AI안경 활용하는 방법",
+        "🍆 OO한 숫자가 보이는 안경",
+        "OO한 숫자가 보이는 안경",
+        "🍆 OO한 숫자가 보이는 안경",
+        "남자머리위에 지금까지 여장한 횟수를 보여주는 안경",
+        "🍆)여장 횟수가 보이는 안경",
+        "🍆 숫자가 보이는 안경 manhwa",
+        "머리 위에 횟수가 보이는 안경",
+        "🍆 숫자가 보이는 안경 manhwa",
+        "여장한 횟수를 보여주는 안경"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 13,
+      "sourceTitlesFetchedAt": "2026-11-24T06:08:55.200677+00:00",
+      "collectedAt": "2026-11-24T15:08:55.200696+09:00",
+      "firstPublishedAt": "2026-11-24T06:08:55.316621+00:00"
+    },
     {
       "id": "aagag-1672161-0",
       "url": "https://aagag.com/issue/?idx=1672161",
