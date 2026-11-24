@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T11:58:38.560832+00:00",
+  "collectedAt": "2026-11-24T12:00:11.671134+00:00",
   "windowEnd": "2026-11-24T20:58:38.170754+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7094,6 +7094,60 @@
       "firstPublishedAt": "2026-11-24T06:26:22.494333+00:00"
     },
     {
+      "id": "aagag-1672333-0",
+      "url": "https://aagag.com/issue/?idx=1672333",
+      "source": "애객",
+      "title": "거울이 천장에 달려있으면 안되는 이유",
+      "publishedAt": "2026-11-24T20:56:49+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KouuY.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KouuY.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9023188",
+          "text": "자 이제 안되는 이유를 가져와 (대충 애객러 정수리짤)"
+        },
+        {
+          "id": "9023191",
+          "text": "어떻게 그런 나쁜말을...."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T21:00:02.261124+09:00",
+      "sourceTitles": [
+        "후방) 거울이 천장에 달려있으면 안되는 이유",
+        "(후방) 거울이 천장에 달려있으면 안되는 이유.mp4",
+        "거울이 천장에 달려있으면 안되는 이유",
+        "ㅇㅎ)거울이 천장에 달려있으면 안되는 이유.gif",
+        "ㅇㅎ) 천장에 거울이 달려있으면 안되는 이유 ㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-24T12:00:11.596142+00:00",
+      "collectedAt": "2026-11-24T21:00:11.596158+09:00",
+      "firstPublishedAt": "2026-11-24T12:00:11.703514+00:00"
+    },
+    {
       "id": "aagag-1672263-0",
       "url": "https://aagag.com/issue/?idx=1672263",
       "source": "애객",
@@ -7182,7 +7236,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
