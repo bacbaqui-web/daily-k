@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T11:04:13.029755+00:00",
+  "collectedAt": "2026-11-24T11:10:07.874815+00:00",
   "windowEnd": "2026-11-24T20:00:55.240620+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5877,71 +5877,6 @@
       "firstPublishedAt": "2026-11-23T13:14:39.317721+00:00"
     },
     {
-      "id": "aagag-1672019-0",
-      "url": "https://aagag.com/issue/?idx=1672019",
-      "source": "애객",
-      "title": "김장후 먹방하는 일본인 아재",
-      "publishedAt": "2026-11-23T20:02:19+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7FIJ.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7FIJ.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 5,
-      "laughingComments": 2,
-      "score": 11,
-      "kPerComment": 2.2,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9018304",
-          "text": "저런건 국가기밀로 해야되는데"
-        },
-        {
-          "id": "9018305",
-          "text": "스윙스 바쁘네 일본에서 김장도 하고 ㅋㅋㅋㅋㅋ 누군가 지대로 해먹었다 했더니 라면아재네 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9018307",
-          "text": "저정도면 걍 일본어를 졸라 잘하는 한국인 아니냐고"
-        },
-        {
-          "id": "9018308",
-          "text": "아니왜 제대로하는뎈ㅋㅋ"
-        },
-        {
-          "id": "9018317",
-          "text": "아 진짜 제대로 먹네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T20:09:50.148959+09:00",
-      "sourceTitles": [
-        "김장후 먹방하는 일본인 아재.mp4",
-        "김장후 먹방하는 일본인 아재.mp4",
-        "김장후 먹방하는 일본인 아재",
-        "김장후 먹방하는 일본인 아재"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-23T11:10:03.726555+00:00",
-      "collectedAt": "2026-11-23T20:10:03.726572+09:00",
-      "firstPublishedAt": "2026-11-23T11:10:03.872706+00:00"
-    },
-    {
       "id": "aagag-1672269-0",
       "url": "https://aagag.com/issue/?idx=1672269",
       "source": "애객",
@@ -7675,7 +7610,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 22,
+  "candidateCount": 373,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
