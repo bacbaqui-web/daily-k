@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T07:21:59.091650+00:00",
+  "collectedAt": "2026-11-24T07:23:45.720586+00:00",
   "windowEnd": "2026-11-24T16:21:58.727745+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -2337,6 +2337,74 @@
       "sourceTitlesFetchedAt": "2026-11-23T07:42:44.558354+00:00",
       "collectedAt": "2026-11-23T16:42:44.558389+09:00",
       "firstPublishedAt": "2026-11-23T07:42:44.652036+00:00"
+    },
+    {
+      "id": "aagag-1672254-0",
+      "url": "https://aagag.com/issue/?idx=1672254",
+      "source": "애객",
+      "title": "GTA 6) 복싱 배운 거 같은 NCP.mp4",
+      "publishedAt": "2026-11-24T16:13:15+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7BRf.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7BRf.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 34,
+      "commentCount": 5,
+      "laughingComments": 3,
+      "score": 34,
+      "kPerComment": 6.8,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9021862",
+          "text": "게임 진짜 잘만들었네.. 시간가는줄 모르고하겠다.."
+        },
+        {
+          "id": "9021870",
+          "text": "ㅋㅋㅋㅋ주인공 임자만났네"
+        },
+        {
+          "id": "9021875",
+          "text": "npc인데 scp급 전투력을 가진 특수 npc라서 ncp라고 쓴건가보다"
+        },
+        {
+          "id": "9021880",
+          "text": "총 들고있는대도 안쏘고 패기만하네 ㅋㅋㅋㅋㅋ 진짜 착한 행인인듯 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9021887",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 뀨뀨 npc가 능력치가 다 달러? 리얼 갓겜이다 ㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T16:23:33.205990+09:00",
+      "sourceTitles": [
+        "gta6 선출 npc",
+        "GTA6)재야의 무림고수",
+        "복싱을 배운 것 같은 GTA 6 NPC",
+        "복싱을 배운 것 같은 GTA 6 NPC",
+        "gta6) 이상한 npc들 모음",
+        "gta6) 길거리 npc 최신 근황;",
+        "GTA 6) 복싱 배운 거 같은 NCP.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-24T07:23:45.613508+00:00",
+      "collectedAt": "2026-11-24T16:23:45.613529+09:00",
+      "firstPublishedAt": "2026-11-24T07:23:45.761991+00:00"
     },
     {
       "id": "aagag-819080-0",
@@ -8816,7 +8884,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
