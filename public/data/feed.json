@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T09:20:02.826577+09:00",
-  "windowEnd": "2026-11-24T09:14:39.791905+09:00",
+  "collectedAt": "2026-11-24T00:30:27.112376+00:00",
+  "windowEnd": "2026-11-24T09:30:26.784013+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4184,56 +4184,6 @@
       "firstPublishedAt": "2026-11-23T13:14:00.810186+00:00"
     },
     {
-      "id": "aagag-1671863-0",
-      "url": "https://aagag.com/issue/?idx=1671863",
-      "source": "애객",
-      "title": "신입이 일을 너무 못한 다음날 아침 상사한테 연락옴",
-      "publishedAt": "2026-11-23T09:16:07+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6vgw.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L6vh1.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L6vgw.webp",
-        "https://i.aagag.com/o/L6vh1.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 18,
-      "commentCount": 1,
-      "laughingComments": 1,
-      "score": 18,
-      "kPerComment": 18.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9015238",
-          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ술사주고 위로해주는 선배 전화일줄 알았는데"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-23T09:28:21.075172+09:00",
-      "sourceTitles": [
-        "신입이 일 못하는 만화",
-        "신입이 일을 너무 못한 다음날 아침 상사한테 연락옴",
-        "신입이 일을 너무 못한 다음날 아침 상사한테 연락옴"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-23T00:28:30.824523+00:00",
-      "collectedAt": "2026-11-23T09:28:30.824539+09:00",
-      "firstPublishedAt": "2026-11-23T00:28:30.943645+00:00"
-    },
-    {
       "id": "aagag-1671956-0",
       "url": "https://aagag.com/issue/?idx=1671956",
       "source": "애객",
@@ -7738,9 +7688,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 348,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
