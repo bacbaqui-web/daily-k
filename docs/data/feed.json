@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T06:24:47.852742+00:00",
+  "collectedAt": "2026-11-24T06:26:22.456618+00:00",
   "windowEnd": "2026-11-24T15:24:47.446232+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8304,6 +8304,67 @@
       "firstPublishedAt": "2026-11-24T02:55:02.677827+00:00"
     },
     {
+      "id": "aagag-1672235-0",
+      "url": "https://aagag.com/issue/?idx=1672235",
+      "source": "애객",
+      "title": "ㅇㅎ)로데오 경기전 분위기 띄우는 처자",
+      "publishedAt": "2026-11-24T15:20:37+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7NIP.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "본선 경기 시작전 오프닝 이벤트?♡♡"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7NIP.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "본선 경기 시작전 오프닝 이벤트?♡♡",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9021620",
+          "text": "Ai 화이팅"
+        },
+        {
+          "id": "9021621",
+          "text": "분위기는 벌써 절정인걸 ~"
+        },
+        {
+          "id": "9021625",
+          "text": "0.1배속 화이팅!!!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T15:26:14.746690+09:00",
+      "sourceTitles": [
+        "로데오 누나",
+        "ㅇㅎ)로데오 경기전 분위기 띄우는 처자",
+        "로데오 경기장 분위기 확 띄우는 장면",
+        "ㅇㅎ) 로데오 경기장 분위기 확 띄우는 장면"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-24T06:26:22.357704+00:00",
+      "collectedAt": "2026-11-24T15:26:22.357721+09:00",
+      "firstPublishedAt": "2026-11-24T06:26:22.494333+00:00"
+    },
+    {
       "id": "aagag-1671989-0",
       "url": "https://aagag.com/issue/?idx=1671989",
       "source": "애객",
@@ -8424,7 +8485,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
