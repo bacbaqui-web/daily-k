@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T14:53:59.615991+00:00",
+  "collectedAt": "2026-11-24T14:54:58.486755+00:00",
   "windowEnd": "2026-11-24T23:53:59.160831+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6560,7 +6560,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -6587,6 +6587,86 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672362-0",
+      "url": "https://aagag.com/issue/?idx=1672362",
+      "source": "애객",
+      "title": "퍼리 세계로 전생한.JPG",
+      "publishedAt": "2026-11-24T23:40:12+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Rgo.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Rgr.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Rgu.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Rgx.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Rgy.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Rh5.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7Rgo.webp",
+        "https://i.aagag.com/o/L7Rgr.webp",
+        "https://i.aagag.com/o/L7Rgu.webp",
+        "https://i.aagag.com/o/L7Rgx.webp",
+        "https://i.aagag.com/o/L7Rgy.webp",
+        "https://i.aagag.com/o/L7Rh5.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 2,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9023660",
+          "text": "어흐어흐"
+        },
+        {
+          "id": "9023665",
+          "text": "역 퍼리야?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T23:54:48.434630+09:00",
+      "sourceTitles": [
+        "퍼리 세계로 전생한.JPG",
+        "ㅆㄷ) 이세계로 전생했더니 수인 천지였다",
+        "수인투성이 이세계 manhwa",
+        "ㅆㄷ)털투성이 전생",
+        "ㅆㄷ) 이세계로 전생했더니 수인 천지였다"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-24T14:54:58.421437+00:00",
+      "collectedAt": "2026-11-24T23:54:58.421454+09:00",
+      "firstPublishedAt": "2026-11-24T14:54:58.516409+00:00"
+    },
     {
       "id": "aagag-1672345-0",
       "url": "https://aagag.com/issue/?idx=1672345",
