@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T00:14:40.178508+00:00",
+  "collectedAt": "2026-11-24T00:15:40.982888+00:00",
   "windowEnd": "2026-11-24T09:14:39.791905+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4641,6 +4641,69 @@
       "firstPublishedAt": "2026-11-23T11:46:45.280818+00:00"
     },
     {
+      "id": "aagag-1672138-0",
+      "url": "https://aagag.com/issue/?idx=1672138",
+      "source": "애객",
+      "title": "싱글벙글 부활한 젠슨황 근황..gif",
+      "publishedAt": "2026-11-24T09:04:12+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L64sC.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "ㅇㄱㅈㅉㅇㅇ?"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L64sC.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "ㅇㄱㅈㅉㅇㅇ?",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 16,
+      "commentCount": 3,
+      "laughingComments": 2,
+      "score": 16,
+      "kPerComment": 5.333333333333333,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9019753",
+          "text": "역시 부활 황"
+        },
+        {
+          "id": "9019756",
+          "text": "ㅋㅋㅋㅋㅋㅋ미치겠넼ㅋㅋ 기다렸다는 듯이 이런거 계속나왘ㅋㅋ"
+        },
+        {
+          "id": "9019778",
+          "text": "ㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T09:15:27.607046+09:00",
+      "sourceTitles": [
+        "신 포텐의왕 젠슨황 부활.mp4",
+        "이 정도면 죽었겠지? ㅋㅋ",
+        "싱글벙글 부활한 젠슨황 근황..gif",
+        "젠슨 황 복귀 후 첫 공개석상에서 이미지 쇄신 제대로 하는 방법",
+        "의외로 장례식장에서 해도 되는 행위",
+        "각종 SNS에서 범람하고있는 젠슨황 영상"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 6,
+      "sourceTitlesFetchedAt": "2026-11-24T00:15:40.892963+00:00",
+      "collectedAt": "2026-11-24T09:15:40.892980+09:00",
+      "firstPublishedAt": "2026-11-24T00:15:41.074400+00:00"
+    },
+    {
       "id": "aagag-1633124-0",
       "url": "https://aagag.com/issue/?idx=1633124",
       "source": "애객",
@@ -7610,7 +7673,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
