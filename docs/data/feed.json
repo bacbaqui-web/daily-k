@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T02:47:10.743828+00:00",
+  "collectedAt": "2026-11-24T02:49:04.763770+00:00",
   "windowEnd": "2026-11-24T11:47:10.487066+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7269,7 +7269,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7296,6 +7296,55 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672161-0",
+      "url": "https://aagag.com/issue/?idx=1672161",
+      "source": "애객",
+      "title": "한미중일의 서명차이.manhwa",
+      "publishedAt": "2026-11-24T11:46:16+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7MfE.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7MfE.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 3,
+      "commentCount": 1,
+      "laughingComments": 1,
+      "score": 3,
+      "kPerComment": 3.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9020486",
+          "text": "누군데 자꾸 기밀 유출하냐 ㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-24T11:48:57.751292+09:00",
+      "sourceTitles": [
+        "한미중일의 서명차이.manhwa",
+        "한미중일의 서명차이.manhwa",
+        "한미중일의 서명차이.manhwa",
+        "국기무스메) 나라별 싸인",
+        "국기딸)싸인",
+        "한미중일의 서명차이.manhwa",
+        "한미중일의 서명차이.manhwa",
+        "한미중일의 서명차이.manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-24T02:49:04.688543+00:00",
+      "collectedAt": "2026-11-24T11:49:04.688560+09:00",
+      "firstPublishedAt": "2026-11-24T02:49:04.797641+00:00"
+    },
     {
       "id": "aagag-1672137-0",
       "url": "https://aagag.com/issue/?idx=1672137",
