@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T09:21:42.424296+00:00",
+  "collectedAt": "2026-11-25T09:22:43.028852+00:00",
   "windowEnd": "2026-11-25T18:21:42.051762+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4199,6 +4199,85 @@
       "sourceTitlesFetchedAt": "2026-11-25T04:49:59.024305+00:00",
       "collectedAt": "2026-11-25T13:49:59.024322+09:00",
       "firstPublishedAt": "2026-11-25T04:49:59.134269+00:00"
+    },
+    {
+      "id": "aagag-1672544-0",
+      "url": "https://aagag.com/issue/?idx=1672544",
+      "source": "애객",
+      "title": "구멍으로 넣어서 하는 것입니다",
+      "publishedAt": "2026-11-25T18:18:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/KgeNf.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "아니다"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/KgeNf.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "아니다",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 23,
+      "commentCount": 5,
+      "laughingComments": 4,
+      "score": 23,
+      "kPerComment": 4.6,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9027336",
+          "text": "아열어 ㅋㅋㅋ"
+        },
+        {
+          "id": "9027340",
+          "text": "ㅋㅋㅋㅋㅋㅋ방금 ㅋㅋㅋㅋㅋ 피곤했는데 보고 웃음 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9027342",
+          "text": "금괴빼냐고 ㅋㅋ"
+        },
+        {
+          "id": "9027343",
+          "text": "숨겨진 게임 도중 치트키 등장"
+        },
+        {
+          "id": "9027344",
+          "text": "나홀로 챌린지 ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-25T18:22:37.863240+09:00",
+      "sourceTitles": [
+        "구멍으로 빼는 거 아니겠어?.mp4",
+        "구멍으로 넣어서 하는 것입니다",
+        "구멍으로 넣어서 하려고 하는 토트넘 팬",
+        "구멍으로 넣어서 하는 것입니다",
+        "삶은 힘들지만, 어리석으면 더 힘들다..",
+        "아 이 집 빵 꺼내는것도 되게 어렵게 만들어놨네",
+        "아 이 집 빵 꺼내는것도 되게 어렵게 만들어놨네",
+        "빵 꺼내려는 토트넘 팬.mp4",
+        "삶은 힘들지만, 어리석으면 더 힘들다...",
+        "삶은 힘들지만, 어리석으면 더 힘들다...",
+        "아 이 집 빵 꺼내는것도 되게 어렵게 만들어놨네",
+        "어.... 그게....",
+        "머리가 나쁘면 몸이 고생한다",
+        "빵을 사고 싶었던 남자"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 14,
+      "sourceTitlesFetchedAt": "2026-11-25T09:22:42.927057+00:00",
+      "collectedAt": "2026-11-25T18:22:42.927077+09:00",
+      "firstPublishedAt": "2026-11-25T09:22:43.230927+00:00"
     },
     {
       "id": "aagag-1584515-1",
@@ -10846,7 +10925,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
