@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T09:58:13.524900+00:00",
+  "collectedAt": "2026-11-25T09:59:40.496258+00:00",
   "windowEnd": "2026-11-25T18:58:13.216099+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10920,7 +10920,7 @@
     }
   ],
   "partialCommentPosts": 4,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -10947,6 +10947,68 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672557-0",
+      "url": "https://aagag.com/issue/?idx=1672557",
+      "source": "애객",
+      "title": "야니네코에 드디어 나온 야스냥이",
+      "publishedAt": "2026-11-25T18:53:20+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Suo.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Suq.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Suw.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Sv0.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "\\\n\n나오자마자\n없어짐"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7Suo.webp",
+        "https://i.aagag.com/o/L7Suq.webp",
+        "https://i.aagag.com/o/L7Suw.webp",
+        "https://i.aagag.com/o/L7Sv0.webp"
+      ],
+      "videos": [],
+      "excerpt": "\\\n\n나오자마자\n없어짐",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-25T18:59:34.813015+09:00",
+      "sourceTitles": [
+        "야니네코에 드디어 나온 야스냥이",
+        "야니네코에 드디어 나온 야스냥이",
+        "야니네코에 드디어 나온 야스냥이",
+        "담배고양이) 드디어 등장한 ㅅㅅ중독 냥이.manga"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-25T09:59:40.424307+00:00",
+      "collectedAt": "2026-11-25T18:59:40.424324+09:00",
+      "firstPublishedAt": "2026-11-25T09:59:40.526580+00:00"
+    },
     {
       "id": "aagag-1672449-0",
       "url": "https://aagag.com/issue/?idx=1672449",
