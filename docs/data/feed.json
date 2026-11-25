@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T05:02:59.001504+00:00",
+  "collectedAt": "2026-11-25T05:04:23.935114+00:00",
   "windowEnd": "2026-11-25T13:05:43.869698+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6344,6 +6344,76 @@
       "firstPublishedAt": "2026-11-25T04:13:56.368802+00:00"
     },
     {
+      "id": "aagag-1672389-0",
+      "url": "https://aagag.com/issue/?idx=1672389",
+      "source": "애객",
+      "title": "ai) GTA 서울",
+      "publishedAt": "2026-11-25T05:28:31+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7Ogr.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7Ogr.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 6,
+      "commentsPartial": false,
+      "kCount": 16,
+      "commentCount": 6,
+      "laughingComments": 4,
+      "score": 16,
+      "kPerComment": 2.6666666666666665,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9024009",
+          "text": "김치부터 못먹으면 살아남기 힘들겠네ㅋㅋㅋ"
+        },
+        {
+          "id": "9024104",
+          "text": "막타는 웃겼다ㅋㅋㅋ"
+        },
+        {
+          "id": "9024158",
+          "text": "DLC 서울 나오나요? ㅎㅎㅎ"
+        },
+        {
+          "id": "9024172",
+          "text": "미국인들은 저런 느낌일까? 게임에 자기 사는 동네가 그대로 재연되고 있다니.."
+        },
+        {
+          "id": "9024254",
+          "text": "김치가 맵다고 뒤지는건 뭐여 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9024667",
+          "text": "디테일하넼ㅋㅋㅋㅋ 따릉이, 배민 바이크 디테일 지린다."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-25T14:04:13.214202+09:00",
+      "sourceTitles": [
+        "왜 재밌어보이냐 ㅋㅋㅋㅋ",
+        "AI로 만든 GTA 서울",
+        "ai) GTA 서울",
+        "Ai] GTA 서울 - 2. shorts",
+        "AI로 만든 GTA 서울 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-25T05:04:23.774685+00:00",
+      "collectedAt": "2026-11-25T14:04:23.774703+09:00",
+      "firstPublishedAt": "2026-11-25T05:04:23.976503+00:00"
+    },
+    {
       "id": "aagag-1672431-0",
       "url": "https://aagag.com/issue/?idx=1672431",
       "source": "애객",
@@ -10223,7 +10293,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 102,
+  "candidateCount": 119,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
