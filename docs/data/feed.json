@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T05:52:28.773817+00:00",
+  "collectedAt": "2026-11-25T05:55:07.365781+00:00",
   "windowEnd": "2026-11-25T14:52:28.359109+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8526,6 +8526,67 @@
       "sourceTitlesFetchedAt": "2026-11-24T12:41:12.675575+00:00",
       "collectedAt": "2026-11-24T21:41:12.675596+09:00",
       "firstPublishedAt": "2026-11-24T12:41:12.796916+00:00"
+    },
+    {
+      "id": "aagag-1672491-0",
+      "url": "https://aagag.com/issue/?idx=1672491",
+      "source": "애객",
+      "title": "당해보니 기분이 어때? ㅋㅋㅋ",
+      "publishedAt": "2026-11-25T14:44:31+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7Xfl.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7Xfl.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 11,
+      "commentCount": 5,
+      "laughingComments": 2,
+      "score": 11,
+      "kPerComment": 2.2,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9026279",
+          "text": "그냥 내 집에서 나오라는거 같은데"
+        },
+        {
+          "id": "9026280",
+          "text": "좀 좋을지도?"
+        },
+        {
+          "id": "9026282",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9026304",
+          "text": "앞니 다 썩었네 ㅋㅋ"
+        },
+        {
+          "id": "9026317",
+          "text": "어떻긴 개같지"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-25T14:54:59.442474+09:00",
+      "sourceTitles": [
+        "당해보니 기분이 어때?",
+        "??? 곧 방통위가 온다고 친절하게 알려주다니",
+        "당해보니 기분이 어때? ㅋㅋㅋ",
+        "당해보니 기분이 어때? ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-25T05:55:07.294087+00:00",
+      "collectedAt": "2026-11-25T14:55:07.294104+09:00",
+      "firstPublishedAt": "2026-11-25T05:55:07.396529+00:00"
     }
   ],
   "taggedPosts": [
@@ -10505,7 +10566,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
