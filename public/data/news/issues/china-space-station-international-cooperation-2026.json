@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "국제·과학",
+      "change": "중국의 선저우 24호가 파키스탄 우주비행사를 태우고 톈궁에 도킹해 중국 우주정거장의 첫 외국인 방문이 이뤄졌습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "선저우 24호는 중국 현지시간 2026년 11월 25일 오전 8시 18분에 발사됐으며 같은 날 우주정거장에 도킹했습니다.",
+      "eventTimezone": "Asia/Shanghai",
+      "followUp": null,
+      "id": "2026-11-25-pm/china-shenzhou-24-first-foreign-astronaut-20261125",
+      "keyFacts": {
+        "crew": "중국인 2명 및 파키스탄인 1명",
+        "dockingStatus": "우주정거장 도킹 성공",
+        "foreignAstronaut": "무함마드 지샨 알리",
+        "historicalSignificance": "중국 우주정거장 최초 외국인 방문",
+        "launchAt": "2026-11-25T08:18:00+08:00",
+        "mission": "중국·파키스탄 공동 과학실험 예정",
+        "spaceStation": "톈궁",
+        "spacecraft": "선저우 24호"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T17:25:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T17:25:00+09:00",
+          "title": "中선저우 24호, 우주정거장 도킹 성공…톈궁 첫 외국인 방문(종합)",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261125067251083",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "china-shenzhou-24-first-foreign-astronaut-20261125",
+      "summary": [
+        "중국 유인우주선 선저우 24호가 파키스탄 우주비행사를 태우고 중국 우주정거장 톈궁과의 도킹에 성공했습니다.",
+        "중국 우주정거장에 외국인이 방문한 첫 사례로, 파키스탄 우주비행사는 중국 측과 공동 과학실험을 진행할 예정입니다."
+      ],
+      "supersededBy": [],
+      "title": "중국 우주정거장에 첫 외국인 우주비행사 도착",
+      "uncertainty": "발사와 도킹은 확인됐지만 예정된 공동 과학실험의 결과는 아직 나오지 않았습니다."
+    }
+  ],
+  "id": "china-space-station-international-cooperation-2026",
+  "schemaVersion": 1,
+  "title": "중국 톈궁 우주정거장 국제협력 확대",
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+}

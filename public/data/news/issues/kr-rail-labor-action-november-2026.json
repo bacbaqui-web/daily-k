@@ -107,10 +107,69 @@
       "supersededBy": [],
       "title": "철도노조, 준법투쟁 26일로 연기",
       "uncertainty": "26일로 연기한다는 노조 결정은 확인됐지만 노사 협상 결과와 26일 실제 쟁의 진행 여부, 운행 지연 규모는 확정되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "사회·교통",
+      "change": "철도노조가 안전운행 투쟁의 구체적인 기간을 발표했고 코레일이 열차 지연 대응과 승차권 위약금 면제 방침을 공개했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": "2026-11-26T09:00:00+09:00",
+      "eventDate": "2026-11-26",
+      "eventEndDate": "2026-12-04",
+      "eventTimeNote": "준법투쟁은 2026년 11월 26일 오전 9시부터 12월 4일까지 예정돼 있습니다. 12월 10일 총파업은 노사협상 결렬을 전제로 한 일정입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "22일 준법투쟁 시작일이 26일로 연기된 이후 구체적인 종료일과 쟁의 방침, 코레일의 승차권 위약금 면제 대책이 추가로 공개됐습니다.",
+        "editionId": "2026-11-22-pm",
+        "storyId": "rail-union-action-postponed-20261122"
+      },
+      "id": "2026-11-25-pm/rail-union-safety-action-detailed-schedule-20261125",
+      "keyFacts": {
+        "actionEndDate": "2026-12-04",
+        "actionStart": "2026-11-26T09:00:00+09:00",
+        "conditionalStrikeDate": "2026-12-10",
+        "operatorResponse": "코레일 비상수송대책본부 가동",
+        "passengerAdvice": "열차 운행 상황 사전 확인 및 중요 일정의 경우 대체 교통수단 고려",
+        "ticketRefund": "쟁의 기간 승차권 환불 및 변경 위약금 면제",
+        "union": "전국철도노동조합",
+        "unionDemands": "승진제도 개선, 추가 수당 지급, 인력 확충"
+      },
+      "previous": {
+        "editionId": "2026-11-22-pm",
+        "storyId": "rail-union-action-postponed-20261122"
+      },
+      "publishedAt": "2026-11-25T14:56:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T14:56:00+09:00",
+          "title": "철도노조, 26일∼12월4일 '안전운행 투쟁'…운행 차질 불가피",
+          "url": "https://www.yna.co.kr/view/AKR20261125120500063",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "rail-union-safety-action-detailed-schedule-20261125",
+      "summary": [
+        "전국철도노동조합이 26일 오전 9시부터 12월 4일까지 안전운행 투쟁을 진행하기로 했습니다.",
+        "코레일은 일부 열차의 운행 지연이 예상된다며 해당 기간 승차권 환불과 변경에 따른 위약금을 면제한다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "철도노조, 내일부터 12월 4일까지 준법투쟁",
+      "uncertainty": "실제 열차 지연 및 운행 차질 규모는 확정되지 않았습니다. 12월 10일 총파업도 노사협상 결과에 따라 달라질 수 있습니다."
     }
   ],
   "id": "kr-rail-labor-action-november-2026",
   "schemaVersion": 1,
   "title": "2026년 11월 철도노조 쟁의 및 열차 운행",
-  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
 }

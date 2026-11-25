@@ -1523,6 +1523,65 @@
       "uncertainty": "지수와 환율은 확인된 마감 수치이지만 주가 하락의 원인은 복합적입니다. 증시안정펀드의 실제 자금 투입과 정책 효과는 확인되지 않았습니다."
     },
     {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "경제·증시",
+      "change": "코스피가 전날 급반등분을 모두 반납하고 6.16% 하락하며 약 10개월 만의 최저 종가를 기록했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": "2026-11-25T15:30:00+09:00",
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 25일 국내 증시 정규장 마감 결과입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "23일 코스피가 4,708.54로 하락한 이후 24일 반등했으나 25일 다시 6.16% 급락해 이전 저점보다 낮은 4,697.51로 마감했습니다.",
+        "editionId": "2026-11-23-pm",
+        "storyId": "kospi-second-consecutive-plunge-20261123"
+      },
+      "id": "2026-11-25-pm/kospi-rebound-reversed-plunge-20261125",
+      "keyFacts": {
+        "historicalComparison": "2026년 1월 13일 이후 종가 기준 최저치",
+        "kosdaqClose": "650.64, 2.29% 하락",
+        "kospiChange": "308.52포인트, 6.16% 하락",
+        "kospiClose": "4,697.51",
+        "previousClose": "5,006.03",
+        "samsungElectronics": "9.87% 하락",
+        "sidecar": "오전 9시 8분 매도 사이드카 발동",
+        "skHynix": "11.05% 하락"
+      },
+      "previous": {
+        "editionId": "2026-11-23-pm",
+        "storyId": "fsc-share-buyback-limit-relaxed-vote-20261123"
+      },
+      "publishedAt": "2026-11-25T15:53:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "세계일보",
+          "publishedAt": "2026-11-25T15:53:00+09:00",
+          "title": "[속보] 코스피, 6%대 급락 4697…전날 급등분 모두 반납",
+          "url": "https://www.segye.com/newsView/20261125513634",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kospi-rebound-reversed-plunge-20261125",
+      "summary": [
+        "코스피가 6.16% 하락한 4,697.51로 마감해 전날 상승분을 모두 반납하고 약 10개월 만의 최저치를 기록했습니다.",
+        "삼성전자는 9.87%, SK하이닉스는 11.05% 떨어졌으며 코스닥도 2.29% 하락했습니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피 6.16% 폭락, 하루 만에 상승분 반납",
+      "uncertainty": "마감 수치는 확정됐지만 추가 하락 여부와 시장 안정 대책의 효과는 확인되지 않았습니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2421,5 +2480,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
 }

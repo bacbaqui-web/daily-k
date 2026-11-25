@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "정치·에너지",
+      "change": "원전 확대·감축 전문가 간 첫 공개토론회가 불참으로 무산됐으며 중립 전문가들의 설명회로 대체됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 25일 오전 서울 중구에서 예정됐던 공개토론회 대신 공개설명회가 개최됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-pm/nuclear-power-public-debate-cancelled-20261125",
+      "keyFacts": {
+        "absentExperts": "원전 확대 측 전문위원 3명",
+        "actualMeeting": "중립 전문위원의 양측 입장 설명회",
+        "committee": "제12차 전력수급기본계획을 위한 원전 공론화위원회",
+        "dispute": "2050년까지 논의 범위를 확대할지 등을 둘러싼 이견",
+        "finalNuclearShare": "미확정",
+        "meetingDate": "2026-11-25",
+        "nextStep": "12월 시민 숙의토론 예정",
+        "planningHorizon": "2040년까지 전력수급계획"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T09:37:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T09:37:00+09:00",
+          "title": "출발부터 삐긋한 원전 공론화…확대측 불참에 토론 무산",
+          "url": "https://www.yna.co.kr/view/AKR20261125041500530",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "nuclear-power-public-debate-cancelled-20261125",
+      "summary": [
+        "제12차 전력수급기본계획 수립을 위한 원전 공론화 첫 공개토론회가 원전 확대 측 전문가들의 불참으로 무산됐습니다.",
+        "중립 위원들이 양측 입장을 소개하는 설명회로 대체됐으며 공론화위원회는 다음 달 시민 숙의토론을 진행할 계획입니다."
+      ],
+      "supersededBy": [],
+      "title": "원전 공론화 첫 토론 무산, 설명회로 대체",
+      "uncertainty": "이번 토론회가 무산됐다고 전체 공론화 절차나 전력수급기본계획 수립이 취소된 것은 아닙니다. 향후 원전 비중도 확정되지 않았습니다."
+    }
+  ],
+  "id": "kr-12th-electricity-supply-plan-nuclear-deliberation",
+  "schemaVersion": 1,
+  "title": "제12차 전력수급기본계획 원전 공론화",
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+}

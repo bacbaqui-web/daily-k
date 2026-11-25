@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "경제·주거",
+      "change": "LH가 기존 공적주택 공급 정책을 뒷받침할 수도권 건설형 공적주택 50만호 착공 및 공사 발주 확대 계획을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 25일 서울 은평구에서 진행된 대통령의 공적주택 현장 방문 및 간담회에서 발표된 계획입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-pm/lh-public-housing-construction-plan-20261125",
+      "keyFacts": {
+        "agency": "한국토지주택공사",
+        "constructionOrders": "아파트 공사 발주 규모 182조원으로 확대 계획",
+        "constructionTarget": "5년간 수도권 건설형 공적주택 50만호 착공",
+        "existingGovernmentTarget": "2030년까지 공적주택 119만호 공급",
+        "presidentialInstruction": "공급 속도 및 품질 개선과 목표 초과 달성 주문",
+        "universalPublicRentalHousing": "2030년까지 보편형 공공임대주택 19만호 공급 계획",
+        "youthNewlywedHousing": "서울 청년·신혼부부 주택 2만호 이상 공급 계획"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T19:11:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T19:11:00+09:00",
+          "title": "LH \"5년간 공적주택 50만호 착공\"…李대통령 \"초과 달성하라\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125168600001?section=politics/all",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "예정",
+      "storyId": "lh-public-housing-construction-plan-20261125",
+      "summary": [
+        "한국토지주택공사(LH)가 앞으로 5년간 수도권에 건설형 공적주택 50만호를 착공하겠다는 계획을 발표했습니다.",
+        "이재명 대통령은 공급 목표를 초과 달성하도록 주문하고 중산층도 선택할 수 있도록 공공임대주택의 입지와 품질을 개선해야 한다고 강조했습니다."
+      ],
+      "supersededBy": [],
+      "title": "LH, 5년간 수도권 공적주택 50만호 착공 추진",
+      "uncertainty": "50만호는 착공 목표이며 실제 입주 가능한 주택 50만호가 확보됐다는 뜻은 아닙니다. 국토부의 119만호 공급 목표와 단순 합산할 수도 없습니다."
+    }
+  ],
+  "id": "kr-public-housing-supply-2030",
+  "schemaVersion": 1,
+  "title": "2030년 공적주택 공급 확대 계획",
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+}

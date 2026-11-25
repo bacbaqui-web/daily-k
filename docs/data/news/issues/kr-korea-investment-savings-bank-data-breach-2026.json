@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "경제·정보보안",
+      "change": "한국투자저축은행의 고객 개인정보 유출 규모가 8만6,433명으로 확인돼 저축은행 업권에서 가장 큰 피해 사례가 됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-22",
+      "eventEndDate": "2026-11-23",
+      "eventTimeNote": "11월 22일 밤부터 23일 새벽 사이 비정상적인 외부 접근이 발생했으며 은행이 23일 이를 확인하고 24일 홈페이지에 공지했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-pm/korea-investment-savings-bank-data-leak-20261125",
+      "keyFacts": {
+        "affectedBanks": "최근 해킹 피해가 알려진 저축은행 총 6곳",
+        "affectedCustomers": "86,433명",
+        "company": "한국투자저축은행",
+        "detectionDate": "2026-11-23",
+        "exposedInformation": "성명, 생년월일, 성별, 휴대전화번호, 연계정보(CI)",
+        "financialInformation": "계좌 비밀번호 등은 유출되지 않았다는 회사 설명",
+        "incidentPeriod": "2026년 11월 22일 밤~23일 새벽",
+        "publicNoticeDate": "2026-11-24",
+        "response": "불법 접속 경로 차단과 관련 서비스 중단, 보안 강화"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T18:11:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T18:11:00+09:00",
+          "title": "한국투자저축은행 8만6천여명 개인정보 유출…업권 최대 규모",
+          "url": "https://www.yna.co.kr/view/AKR20261125165600002",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "확정",
+      "storyId": "korea-investment-savings-bank-data-leak-20261125",
+      "summary": [
+        "한국투자저축은행에서 고객 8만6,433명의 개인정보가 유출돼 저축은행 업계 역대 최대 규모의 유출 사고로 확인됐습니다.",
+        "이름과 생년월일, 휴대전화번호 등이 유출됐으며 은행은 계좌 비밀번호 등 금융거래 정보는 유출되지 않았다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "한국투자저축은행, 고객 8만6,433명 정보 유출",
+      "uncertainty": "금융거래 정보가 유출되지 않았다는 내용은 은행 측 설명입니다. 정확한 침입 경위와 실제 2차 피해 규모는 확인되지 않았습니다."
+    }
+  ],
+  "id": "kr-korea-investment-savings-bank-data-breach-2026",
+  "schemaVersion": 1,
+  "title": "2026년 한국투자저축은행 개인정보 유출",
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+}

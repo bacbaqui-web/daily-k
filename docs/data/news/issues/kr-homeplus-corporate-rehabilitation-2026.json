@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "경제·유통",
+      "change": "상품 매입 자금 부족으로 온라인 배송에 이어 대형마트 67개 점포의 영업까지 임시 중단하기로 결정했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-27",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 25일 오후 홈플러스가 사내 공지로 영업 중단 계획을 발표했습니다. 온라인 영업은 26일, 대형마트 영업은 27일부터 중단할 예정입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-pm/homeplus-all-store-temporary-closure-20261125",
+      "keyFacts": {
+        "acquisition": "인수의향서가 접수됐다는 회사 발표",
+        "affectedStores": "대형마트 67개 점포",
+        "company": "홈플러스",
+        "mallOperations": "입점업체의 영업은 유지할 수 있도록 노력한다는 회사 방침",
+        "offlineSuspensionDate": "2026-11-27",
+        "onlineSuspensionDate": "2026-11-26",
+        "reason": "매출 감소 장기화와 상품 매입 자금 부족",
+        "remainingProcedures": "법원·채권단 협의 및 본실사",
+        "reopeningDate": "미확정"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T15:46:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T15:46:00+09:00",
+          "title": "홈플러스, 27일부터 전 점포 임시휴업…\"상품 매입자금 부족\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125134700030",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "예정",
+      "status": "예정",
+      "storyId": "homeplus-all-store-temporary-closure-20261125",
+      "summary": [
+        "기업회생 절차를 밟고 있는 홈플러스가 상품 매입 자금 부족으로 27일부터 대형마트 67곳의 영업을 임시 중단합니다.",
+        "온라인 배송도 26일부터 중단하며, 회사는 최근 인수의향서가 접수됐지만 계약 체결까지 추가 협의와 실사가 필요하다고 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "홈플러스, 27일부터 대형마트 67곳 임시휴업",
+      "uncertainty": "임시휴업은 영구 폐점이나 파산 확정과 다릅니다. 인수의향서 접수는 회사 발표이며 실제 인수 계약과 영업 재개일은 확정되지 않았습니다."
+    }
+  ],
+  "id": "kr-homeplus-corporate-rehabilitation-2026",
+  "schemaVersion": 1,
+  "title": "홈플러스 기업회생 및 영업 중단",
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+}

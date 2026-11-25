@@ -160,10 +160,69 @@
       "supersededBy": [],
       "title": "민주당 대변인, 조희대 탄핵안 12월 3일 발의 거론",
       "uncertainty": "12월 3일은 당 차원의 확정 일정이 아닌 대변인의 사견입니다. 탄핵소추안 발의·국회 의결·헌법재판소 심판이 완료됐다는 의미도 아닙니다."
+    },
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "정치·사법",
+      "change": "대법원장 탄핵 추진에 대해 창원지법 전체 판사회의가 사법부 독립과 권력분립을 위태롭게 한다는 공식 의견을 채택했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 25일 오후 1시부터 창원지방법원 전체 판사회의가 열렸으며 공식 의견이 의결됐습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "민주당의 탄핵소추안 발의 시점이 논의되는 가운데 창원지법 판사회의가 사법부 독립 침해에 대한 우려를 담은 공식 의견을 처음으로 채택했습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
+      },
+      "id": "2026-11-25-pm/changwon-judges-impeachment-opposition-20261125",
+      "keyFacts": {
+        "attendingJudges": "약 60명",
+        "court": "창원지방법원",
+        "decision": "참석자 과반 동의로 공식 의견 채택",
+        "eligibleJudges": "69명",
+        "meetingDate": "2026-11-25",
+        "nextMeeting": "11월 30일 전국법관대표회의 예정",
+        "position": "재판을 이유로 한 법관 탄핵이 사법부 독립과 권력분립을 훼손한다는 우려",
+        "previousDevelopment": "더불어민주당의 조희대 대법원장 탄핵 추진 당론 채택"
+      },
+      "previous": {
+        "editionId": "2026-11-21-pm",
+        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
+      },
+      "publishedAt": "2026-11-25T16:35:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T16:35:00+09:00",
+          "title": "창원지법 전체 판사회의 \"법관 탄핵 추진은 헌법가치 훼손\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125054551052",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "changwon-judges-impeachment-opposition-20261125",
+      "summary": [
+        "창원지방법원 판사들이 조희대 대법원장 탄핵 추진과 관련해 재판을 이유로 법관을 탄핵하는 것은 사법부 독립을 훼손한다는 공식 의견을 채택했습니다.",
+        "전체 법관 69명 중 약 60명이 회의에 참석했고 참석자 과반이 동의했으며, 일선 법원 판사회의의 첫 공식 반대 입장입니다."
+      ],
+      "supersededBy": [],
+      "title": "창원지법 판사들, 대법원장 탄핵 추진에 반대",
+      "uncertainty": "헌법적 가치가 훼손된다는 설명은 판사회의가 채택한 의견입니다. 탄핵의 위헌 여부에 대한 헌법재판소 판단이나 탄핵소추안 의결 결과가 나온 것은 아닙니다."
     }
   ],
   "id": "cho-hee-dae-impeachment-2026",
   "schemaVersion": 1,
   "title": "조희대 대법원장 탄핵 추진",
-  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
 }

@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "사회·인구",
+      "change": "올해 1~9월 출생아 증가율이 역대 최고를 기록하고 3분기 합계출산율이 0.90명으로 집계됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "국가데이터처가 2026년 11월 25일 발표한 9월 및 3분기 인구동향 통계입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-pm/korea-births-record-growth-september-20261125",
+      "keyFacts": {
+        "agency": "국가데이터처",
+        "birthsJanuarySeptember": "218,896명",
+        "birthsSeptember": "25,113명, 12.2% 증가",
+        "birthsThirdQuarter": "73,091명, 12.1% 증가",
+        "cumulativeGrowth": "14.3% 증가",
+        "fertilitySeptember": "0.95명",
+        "fertilityThirdQuarter": "0.90명",
+        "marriageQuarterlyTrend": "11분기 만에 감소 전환",
+        "marriagesSeptember": "16,299건, 11.7% 감소",
+        "naturalPopulationChangeSeptember": "4,705명 감소"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T12:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T12:00:00+09:00",
+          "title": "올해 1∼9월 태어난 아기 21만9천명…증가율 역대 최고",
+          "url": "https://www.yna.co.kr/view/AKR20261125087700002",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "korea-births-record-growth-september-20261125",
+      "summary": [
+        "올해 1~9월 출생아 수가 21만8,896명으로 지난해 같은 기간보다 14.3% 늘어 1981년 통계 작성 이후 가장 높은 증가율을 기록했습니다.",
+        "3분기 합계출산율은 0.90명으로 상승했지만 혼인 건수는 11분기 만에 감소세로 돌아섰습니다."
+      ],
+      "supersededBy": [],
+      "title": "올해 출생아 14.3% 증가, 역대 최고 증가율",
+      "uncertainty": "올해 연간 합계출산율이 0.90명 이상으로 확정된 것은 아닙니다. 출생아 증가와 별개로 사망자가 출생아보다 많은 인구 자연감소는 이어지고 있습니다."
+    }
+  ],
+  "id": "kr-population-births-marriages-2026",
+  "schemaVersion": 1,
+  "title": "2026년 한국 출생아 및 혼인 추세",
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+}

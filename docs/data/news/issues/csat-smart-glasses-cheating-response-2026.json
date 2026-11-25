@@ -689,10 +689,69 @@
       "supersededBy": [],
       "title": "수능 부정행위 경찰 고발 6건으로 늘어",
       "uncertainty": "6건은 교육부가 경찰에 고발한 사건 수로 수능 전체 부정행위 적발 건수와 다릅니다. 실제 AI 이용과 최종 형사책임은 확인되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-25/pm.json",
+      "category": "사회·교육",
+      "change": "교육부가 부정행위 사후 조사를 위해 수능 시험지 보관기간을 5년으로 늘리는 규정 개선 방침을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T21:02:58.317292+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "pm",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 25일 교육부가 시험지 보관 관련 규정 개선 방침과 지난해 수능 시험지 보관 실태 조사 결과를 공개했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "수능 부정행위 관련 경찰 고발이 6건으로 늘어난 데 이어 교육부가 사후 조사에 필요한 시험지 의무 보관기간을 5년으로 연장할 방침을 발표했습니다.",
+        "editionId": "2026-11-24-pm",
+        "storyId": "csat-cheating-police-six-complaints-20261124"
+      },
+      "id": "2026-11-25-pm/csat-exam-paper-retention-five-years-20261125",
+      "keyFacts": {
+        "agency": "교육부",
+        "currentRetention": "1년",
+        "discardedExamSites": "233곳",
+        "implementationStatus": "시험지 보관 관련 규정 개선 예정",
+        "investigation": "폐기량, 폐기 일자 및 과정 추가 확인",
+        "plannedRetention": "5년",
+        "retainingSchools": "전체 시험장의 약 82%",
+        "surveyedExam": "2026학년도 대학수학능력시험"
+      },
+      "previous": {
+        "editionId": "2026-11-24-pm",
+        "storyId": "csat-cheating-police-six-complaints-20261124"
+      },
+      "publishedAt": "2026-11-25T09:47:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T09:47:00+09:00",
+          "title": "교육부, 수능 시험지 보관기간 1년→5년 연장 추진",
+          "url": "https://www.yna.co.kr/view/AKR20261125052100530",
+          "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "예정",
+      "storyId": "csat-exam-paper-retention-five-years-20261125",
+      "summary": [
+        "교육부가 수능 부정행위의 사후 조사를 위해 시험지 의무 보관기간을 기존 1년에서 5년으로 연장하기로 했습니다.",
+        "지난해 수능 시험지 보관 실태를 조사한 결과 233개 시험장에서 시험지가 폐기된 것으로 확인돼 구체적인 폐기 경위를 조사하고 있습니다."
+      ],
+      "supersededBy": [],
+      "title": "수능 시험지 보관기간 1년에서 5년으로 연장 추진",
+      "uncertainty": "관련 규정을 개선할 예정이며 시행이 완료된 것은 아닙니다. 기존 규정상 1년이 지나면 자율 폐기가 가능했으므로 233개 시험장이 위법하게 시험지를 폐기했다고 단정할 수 없습니다."
     }
   ],
   "id": "csat-smart-glasses-cheating-response-2026",
   "schemaVersion": 1,
   "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
-  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
 }

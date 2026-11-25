@@ -1,0 +1,989 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-25T21:00:00+09:00",
+      "date": "2026-11-25",
+      "edition": "pm",
+      "editionId": "2026-11-25-pm",
+      "events": [
+        {
+          "at": "2026-11-26T09:00:00+09:00",
+          "date": "2026-11-26",
+          "detail": "일부 열차의 운행 지연이 예상되며 코레일은 쟁의 기간 승차권 환불 및 변경 위약금을 면제할 예정입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "연합뉴스",
+            "publishedAt": "2026-11-25T14:56:00+09:00",
+            "title": "철도노조, 26일∼12월4일 '안전운행 투쟁'…운행 차질 불가피",
+            "url": "https://www.yna.co.kr/view/AKR20261125120500063",
+            "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+          },
+          "timeNote": "오전 9시부터 12월 4일까지 진행 예정입니다.",
+          "title": "전국철도노조 안전운행 투쟁 시작"
+        },
+        {
+          "at": null,
+          "date": "2026-11-26",
+          "detail": "상품 매입 자금 부족으로 온라인 영업을 중단하며 대형마트 전 점포는 27일부터 임시휴업에 들어갈 예정입니다.",
+          "source": {
+            "imageUrl": null,
+            "kind": "news",
+            "language": "ko",
+            "name": "YTN",
+            "publishedAt": "2026-11-25T16:31:00+09:00",
+            "title": "홈플러스, 모레부터 마트 임시휴업...\"인수의향서 낸 기업 있어\"",
+            "url": "https://www.ytn.co.kr/_ln/0102_202611251631364935",
+            "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+          },
+          "timeNote": "26일부터 중단 예정이며 정확한 개시 시각은 확인되지 않았습니다.",
+          "title": "홈플러스 온라인 배송 중단"
+        }
+      ],
+      "generatedAt": "2026-11-25T21:02:58.317292+09:00",
+      "generationMode": "chatgpt-app",
+      "id": "2026-11-25-pm",
+      "intro": "11월 25일 저녁 주요 뉴스입니다. 홈플러스 전 점포 임시휴업, 창원지법 판사회의의 대법원장 탄핵 추진 반대, 코스피 급락, 출생아 증가와 금융권 개인정보 유출 등을 정리했습니다.",
+      "keywords": [
+        "홈플러스 대형마트 67곳 임시휴업",
+        "홈플러스 온라인 배송 중단",
+        "창원지법 판사회의 탄핵 반대",
+        "코스피 6.16% 폭락",
+        "출생아 14.3% 증가",
+        "3분기 합계출산율 0.90명",
+        "LH 수도권 공적주택 50만호 착공",
+        "한국투자저축은행 개인정보 8만6,433명 유출",
+        "빗썸 해킹 피해 확대",
+        "철도노조 안전운행 투쟁",
+        "수능 시험지 보관기간 5년",
+        "선저우 24호 톈궁 도킹",
+        "원전 공론화 토론 무산"
+      ],
+      "omissionNotes": [
+        "researchCutoffAt은 이번 회차 시작 시각인 2026-11-25T20:30:13+09:00입니다. 실제 웹 조사 종료 후 시간 조회에서 확인한 researchCompletedAt은 2026-11-25T20:30:47+09:00입니다. 모든 수록 기사는 researchCutoffAt 이전에 공개된 보도에 근거합니다. 21시까지 조사했다고 주장하지 않습니다.",
+        "최근 7일 발행 이력 확인을 위해 https://bacbaqui-web.github.io/daily-k/data/news/index.json 을 직접 읽었습니다. 확인 당시 최신 목록은 2026-11-24-pm이었으나 공개 GitHub 원본에서는 25일 오전 발행본도 읽을 수 있었습니다.",
+        "https://raw.githubusercontent.com/bacbaqui-web/daily-k/main/public/data/news/ 아래 2026-11-18-pm부터 2026-11-25-am까지 총 14개 회차의 개별 JSON 접근에 성공했습니다. 확인 가능한 기사 목록과 키워드, 관련 주제의 ID 및 타임라인을 비교했습니다. 다만 반환 범위 제한으로 모든 파일의 대표·추가·예비 기사 배열을 전수 추출하지는 못했습니다. 수신 측은 최근 7일 전체 발행 자료의 중복과 후속 관계, 예비 기사 연결 여부를 반드시 재검사해야 합니다.",
+        "오늘 오전 실제 발행본 https://raw.githubusercontent.com/bacbaqui-web/daily-k/main/public/data/news/2026-11-25/am.json 에서 서울지하철 파업 철회, 미국 과잉생산 관세 전망, 중고교 내신 감독 강화, 정부기관 세종 이전, 국가자격시험 전수조사, 미국 증시 혼조, 경찰 포상 취소, 중국 당서기 조사, 기업심리지수, 러시아 군용기 관련 입장, 예멘 정세와 비교했습니다.",
+        "미국 과잉생산 관세 관련 별도 검색을 수행했지만 오전에 보도한 발표 전망을 넘어 새로운 공식 관세 결정과 한국 적용 세율을 확인하지 못했습니다. 전망을 반복하거나 실제 관세가 확정됐다고 표현하지 않았습니다.",
+        "24일 오후 실제 발행본에는 코스피 반등 기사가 수록되지 않았습니다. 따라서 이번 코스피 급락 기사에는 미발행 초안의 ID 대신 23일 오후 실제 발행본의 kospi-second-consecutive-plunge-20261123을 연결하고 issueId=korea-equities-flows 및 issueTitle=한국 증시와 외국인 수급을 재사용했습니다. 단순한 일일 지수 등락 반복이 아니라 6%대 폭락과 10개월 만의 최저치라는 새 사실을 선정 근거로 삼았습니다.",
+        "창원지법 판사회의 후속은 21일 오후 실제 발행본의 cho-hee-dae-impeachment-december-date-discussed-20261121과 issueId=cho-hee-dae-impeachment-2026 및 기존 issueTitle을 직접 확인해 사용했습니다.",
+        "철도노조 후속은 22일 오후 실제 발행본의 rail-union-action-postponed-20261122, issueId=kr-rail-labor-action-november-2026, issueTitle=2026년 11월 철도노조 쟁의 및 열차 운행을 재사용했습니다. 새로 확인된 종료일과 승차권 위약금 면제 방침을 중심으로 작성했습니다.",
+        "수능 시험지 보관기간 연장은 24일 오후 실제 발행본의 csat-cheating-police-six-complaints-20261124 및 기존 수능 부정행위 대응 타임라인을 재사용했습니다. 25일 오전 중고교 내신 감독 강화 기사는 실제 발행 과정에서 별도 issueId=kr-school-exam-smart-device-penalties-2026으로 분리된 것을 확인했으므로 수능 시험지 보관 기사와 잘못 연결하지 않았습니다.",
+        "빗썸과 한국투자저축은행, 홈플러스 관련 과거 예비 기사 및 최근 7일 이전의 기존 이슈 식별자 존재 여부는 완전히 확인하지 못했습니다. 근거 없는 followUp과 reserveUpdate를 생성하지 않았으며 수신 측에서 기존 이력과의 연결 여부를 검사해야 합니다.",
+        "주요기사 비교에는 연합뉴스 10시 30분 헤드라인 https://www.yna.co.kr/view/AKR20261125062000011 및 18시 헤드라인 https://www.yna.co.kr/view/AKR20261125155400011 을 사용했습니다. YTN, 국민일보, 한국경제, 세계일보, 전자신문, MBC, SBS Biz, 머니투데이, 아이뉴스24, CBS노컷뉴스 등의 개별 원문도 확인했습니다. 모든 언론사의 첫 화면과 종이신문 전체 1면을 전수 비교한 것은 아닙니다.",
+        "강금실 국정원장 후보자의 인사청문회 준비 착수는 기존 후보자 지명 이후의 통상적인 절차이며 새로운 임명 결정이 없어 독립 기사로 선정하지 않았습니다.",
+        "이용철 법무부 장관 후보자에 대한 민주당의 적격 평가와 국민의힘의 사퇴 요구도 확인했습니다. 양측의 입장 표명과 청문보고서 채택 계획은 확인됐으나 실제 청문보고서 채택 또는 임명 완료를 확인하지 못해 이번 회차에서는 제외했습니다.",
+        "양대 노총의 정년연장 연내 입법 촉구 기자회견은 기존 정년연장 논의에서 새로운 법률안 합의나 국회 의결이 나온 것이 아니므로 제외했습니다.",
+        "태안 실종 어선 해광호의 수중 수색 난항 보도도 확인했으나 이전 회차의 선체 발견 이후 새로운 실종자 발견이나 구조 결과를 확인하지 못해 반복하지 않았습니다.",
+        "서울 중등교사 임용시험의 앞치마 착용 및 탐지장비 도입은 새 감독 방안이지만 오늘 오전 국가자격시험과 중고교 내신 감독 강화 기사가 이미 수록됐습니다. 이번 오후 회차에서는 사후 조사에 직접 관련된 수능 시험지 보관 규정 변경을 우선했습니다.",
+        "LH의 공적주택 기사에서 정부의 2030년까지 119만호 공급 목표는 지난 9월에 발표된 기존 정책임을 확인했습니다. 이번 신규 사실은 LH의 수도권 건설형 공적주택 50만호 착공 계획과 대통령의 공급 확대 주문입니다. 두 목표를 합산하거나 모두 신규 공급량이라고 표현하지 않았습니다.",
+        "빗썸 기사는 19시 50분 보도로 기존 발표보다 피해 범위가 확대됐다는 중요한 새 사실이 확인돼 포함했습니다. 추가 피해 인원은 공개되지 않았으며 별도의 독립 원문을 확보하지 못했다는 한계를 sourceCheck에 기록했습니다.",
+        "원전 공론화 토론회는 오늘 오전 일정으로 이미 안내됐습니다. 오후 원고에는 실제 토론 무산 및 설명회 진행 결과를 수록했습니다. 전체 공론화 중단이나 최종 원전 비중 확정으로 표현하지 않았습니다.",
+        "원문 사진 및 자료사진은 확인할 수 있었으나 og:image 또는 twitter:image의 정확한 HTTPS 주소를 검증하지 못했습니다. 모든 imageUrl은 null로 남겼으며 기사 사실 확인과 사진 메타데이터 미확인을 구분했습니다.",
+        "오후 회차 events에는 다음 날인 11월 26일의 확인된 일정만 수록했습니다. 한국은행 금융통화위원회의 26일 기준금리 결정 관련 보도도 확인했지만 공식 일정 원문과 세부 발표 시각을 충분히 검증하지 못해 이번 events에서 제외했습니다.",
+        "모든 기사의 emphasis는 summary에 실제 포함된 구절을 사용했고 importance는 중요도순 배열과 일치하도록 100부터 90까지 서로 다른 값을 부여했습니다.",
+        "실제 발행 검증 시각, 승인 여부, 검증 해시 및 operationId는 생성하지 않았습니다. GitHub 저장소와 Daily K 홈페이지, Discord에 직접 게시·수정·전송하지 않았으며 파일이나 새 예약도 생성하지 않았습니다."
+      ],
+      "overview": [
+        "홈플러스가 자금 부족으로 27일부터 대형마트 전 점포의 영업을 중단하며, 코스피는 6.16% 급락해 전날 상승분을 모두 반납했습니다.",
+        "올해 1~9월 출생아 증가율은 역대 최고를 기록했고, 한국투자저축은행과 빗썸에서는 대규모 개인정보 유출 피해가 새로 확인됐습니다."
+      ],
+      "researchCompletedAt": "2026-11-25T20:30:47+09:00",
+      "researchCutoffAt": "2026-11-25T20:30:13+09:00",
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "경제·유통",
+          "emphasis": [
+            "대형마트 67곳의 영업을 임시 중단",
+            "온라인 배송도 26일부터 중단"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 25일 오후 홈플러스가 사내 공지로 영업 중단 계획을 발표했습니다. 온라인 영업은 26일, 대형마트 영업은 27일부터 중단할 예정입니다.",
+          "id": "homeplus-all-store-temporary-closure-20261125",
+          "keyFacts": {
+            "acquisition": "인수의향서가 접수됐다는 회사 발표",
+            "affectedStores": "대형마트 67개 점포",
+            "company": "홈플러스",
+            "mallOperations": "입점업체의 영업은 유지할 수 있도록 노력한다는 회사 방침",
+            "offlineSuspensionDate": "2026-11-27",
+            "onlineSuspensionDate": "2026-11-26",
+            "reason": "매출 감소 장기화와 상품 매입 자금 부족",
+            "remainingProcedures": "법원·채권단 협의 및 본실사",
+            "reopeningDate": "미확정"
+          },
+          "publishedAt": "2026-11-25T15:46:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "YTN",
+              "publishedAt": "2026-11-25T16:31:00+09:00",
+              "title": "홈플러스, 모레부터 마트 임시휴업...\"인수의향서 낸 기업 있어\"",
+              "url": "https://www.ytn.co.kr/_ln/0102_202611251631364935",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125134700030",
+          "scoreComponents": {
+            "domesticImpact": 99,
+            "importance": 100,
+            "interest": 99,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "전국 대형마트의 영업 중단이라는 구체적인 결정으로 소비자와 노동자, 협력업체에 미치는 영향이 큽니다.",
+          "sourceCheck": "연합뉴스와 YTN 원문에서 임시휴업 결정, 온라인 배송 중단일, 67개 점포 규모 및 회사의 인수의향서 접수 발표를 확인했습니다. 입점업체 영업 유지 노력과 실제 영업 보장을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T15:46:00+09:00",
+              "title": "홈플러스, 27일부터 전 점포 임시휴업…\"상품 매입자금 부족\"",
+              "url": "https://www.yna.co.kr/view/AKR20261125134700030",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "기업회생 절차를 밟고 있는 홈플러스가 상품 매입 자금 부족으로 27일부터 대형마트 67곳의 영업을 임시 중단합니다.",
+            "온라인 배송도 26일부터 중단하며, 회사는 최근 인수의향서가 접수됐지만 계약 체결까지 추가 협의와 실사가 필요하다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "상품 매입 자금 부족으로 온라인 배송에 이어 대형마트 67개 점포의 영업까지 임시 중단하기로 결정했습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-homeplus-corporate-rehabilitation-2026",
+            "issueTitle": "홈플러스 기업회생 및 영업 중단",
+            "stage": "예정"
+          },
+          "title": "홈플러스, 27일부터 대형마트 67곳 임시휴업",
+          "topicKey": "kr-homeplus-corporate-rehabilitation",
+          "uncertainty": "임시휴업은 영구 폐점이나 파산 확정과 다릅니다. 인수의향서 접수는 회사 발표이며 실제 인수 계약과 영업 재개일은 확정되지 않았습니다.",
+          "whatChanged": "상품 공급과 납품대금 지급에 어려움을 겪던 홈플러스가 온라인 영업 중단에 이어 대형마트 전 점포의 임시휴업을 결정했습니다.",
+          "whyItMatters": "전국 대형마트 이용객과 직원, 납품업체 및 입점업체에 직접 영향을 미치며 기업회생의 불확실성도 커졌습니다."
+        },
+        {
+          "category": "정치·사법",
+          "emphasis": [
+            "사법부 독립을 훼손한다는 공식 의견",
+            "일선 법원 판사회의의 첫 공식 반대 입장"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 25일 오후 1시부터 창원지방법원 전체 판사회의가 열렸으며 공식 의견이 의결됐습니다.",
+          "followUp": {
+            "delta": "민주당의 탄핵소추안 발의 시점이 논의되는 가운데 창원지법 판사회의가 사법부 독립 침해에 대한 우려를 담은 공식 의견을 처음으로 채택했습니다.",
+            "editionId": "2026-11-21-pm",
+            "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
+          },
+          "id": "changwon-judges-impeachment-opposition-20261125",
+          "keyFacts": {
+            "attendingJudges": "약 60명",
+            "court": "창원지방법원",
+            "decision": "참석자 과반 동의로 공식 의견 채택",
+            "eligibleJudges": "69명",
+            "meetingDate": "2026-11-25",
+            "nextMeeting": "11월 30일 전국법관대표회의 예정",
+            "position": "재판을 이유로 한 법관 탄핵이 사법부 독립과 권력분립을 훼손한다는 우려",
+            "previousDevelopment": "더불어민주당의 조희대 대법원장 탄핵 추진 당론 채택"
+          },
+          "publishedAt": "2026-11-25T16:35:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "국민일보",
+              "publishedAt": "2026-11-25T16:52:00+09:00",
+              "title": "[속보] 창원지법 판사들 “법관 탄핵 추진, 헌법가치 훼손”",
+              "url": "https://www.kmib.co.kr/article/20261125501436",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "한국경제",
+              "publishedAt": "2026-11-25T17:39:00+09:00",
+              "title": "\"법관 탄핵은 헌법가치 훼손\"…일선 판사들 첫 반발 나왔다",
+              "url": "https://www.hankyung.com/article/202611259476i",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125054551052",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 99,
+            "interest": 98,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "대법원장 탄핵 추진에 대한 일선 법원의 첫 공식 집단 대응으로 사법부와 정치권의 관계에 중요한 변화입니다.",
+          "sourceCheck": "연합뉴스와 국민일보, 한국경제 원문에서 전체 판사회의 개최와 공식 의견 의결, 참석 규모를 확인했습니다. 판사회의의 입장과 헌법적 판단의 확정을 구분했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T16:35:00+09:00",
+              "title": "창원지법 전체 판사회의 \"법관 탄핵 추진은 헌법가치 훼손\"(종합)",
+              "url": "https://www.yna.co.kr/view/AKR20261125054551052",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "창원지방법원 판사들이 조희대 대법원장 탄핵 추진과 관련해 재판을 이유로 법관을 탄핵하는 것은 사법부 독립을 훼손한다는 공식 의견을 채택했습니다.",
+            "전체 법관 69명 중 약 60명이 회의에 참석했고 참석자 과반이 동의했으며, 일선 법원 판사회의의 첫 공식 반대 입장입니다."
+          ],
+          "timeline": {
+            "change": "대법원장 탄핵 추진에 대해 창원지법 전체 판사회의가 사법부 독립과 권력분립을 위태롭게 한다는 공식 의견을 채택했습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "cho-hee-dae-impeachment-2026",
+            "issueTitle": "조희대 대법원장 탄핵 추진",
+            "stage": "후속"
+          },
+          "title": "창원지법 판사들, 대법원장 탄핵 추진에 반대",
+          "topicKey": "cho-hee-dae-impeachment",
+          "uncertainty": "헌법적 가치가 훼손된다는 설명은 판사회의가 채택한 의견입니다. 탄핵의 위헌 여부에 대한 헌법재판소 판단이나 탄핵소추안 의결 결과가 나온 것은 아닙니다.",
+          "whatChanged": "더불어민주당의 대법원장 탄핵 추진 당론 채택 이후 일선 법원 판사들이 처음으로 집단적인 공식 반대 의견을 채택했습니다.",
+          "whyItMatters": "대법원장 탄핵 추진을 둘러싼 논쟁이 정치권을 넘어 일선 법원의 공식 대응으로 확대됐습니다."
+        },
+        {
+          "category": "경제·증시",
+          "emphasis": [
+            "6.16% 하락한 4,697.51",
+            "SK하이닉스는 11.05%"
+          ],
+          "eventAt": "2026-11-25T15:30:00+09:00",
+          "eventTimeNote": "2026년 11월 25일 국내 증시 정규장 마감 결과입니다.",
+          "followUp": {
+            "delta": "23일 코스피가 4,708.54로 하락한 이후 24일 반등했으나 25일 다시 6.16% 급락해 이전 저점보다 낮은 4,697.51로 마감했습니다.",
+            "editionId": "2026-11-23-pm",
+            "storyId": "kospi-second-consecutive-plunge-20261123"
+          },
+          "id": "kospi-rebound-reversed-plunge-20261125",
+          "keyFacts": {
+            "historicalComparison": "2026년 1월 13일 이후 종가 기준 최저치",
+            "kosdaqClose": "650.64, 2.29% 하락",
+            "kospiChange": "308.52포인트, 6.16% 하락",
+            "kospiClose": "4,697.51",
+            "previousClose": "5,006.03",
+            "samsungElectronics": "9.87% 하락",
+            "sidecar": "오전 9시 8분 매도 사이드카 발동",
+            "skHynix": "11.05% 하락"
+          },
+          "publishedAt": "2026-11-25T15:53:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "전자신문",
+              "publishedAt": "2026-11-25T16:03:00+09:00",
+              "title": "코스피, 6% 급락해 4700선 반납 마감…전날 상승분 모두 내줘",
+              "url": "https://www.etnews.com/20261125000461",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.segye.com/newsView/20261125513634",
+          "scoreComponents": {
+            "domesticImpact": 99,
+            "importance": 98,
+            "interest": 99,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "단순한 일일 등락이 아니라 6%대 폭락과 약 10개월 만의 최저치라는 새로운 결과가 확인됐습니다.",
+          "sourceCheck": "세계일보와 전자신문 원문에서 코스피·코스닥 종가와 등락률을 대조했고 전자신문에서 삼성전자 및 SK하이닉스 하락률을 확인했습니다. 연합뉴스 18시 헤드라인에서도 동일한 코스피 종가를 확인했습니다. 24일 코스피 반등 기사는 실제 발행본에서 제외됐으므로 해당 초안의 ID로 후속 연결하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "세계일보",
+              "publishedAt": "2026-11-25T15:53:00+09:00",
+              "title": "[속보] 코스피, 6%대 급락 4697…전날 급등분 모두 반납",
+              "url": "https://www.segye.com/newsView/20261125513634",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피가 6.16% 하락한 4,697.51로 마감해 전날 상승분을 모두 반납하고 약 10개월 만의 최저치를 기록했습니다.",
+            "삼성전자는 9.87%, SK하이닉스는 11.05% 떨어졌으며 코스닥도 2.29% 하락했습니다."
+          ],
+          "timeline": {
+            "change": "코스피가 전날 급반등분을 모두 반납하고 6.16% 하락하며 약 10개월 만의 최저 종가를 기록했습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피 6.16% 폭락, 하루 만에 상승분 반납",
+          "topicKey": "kr-stock-market-november-2026",
+          "uncertainty": "마감 수치는 확정됐지만 추가 하락 여부와 시장 안정 대책의 효과는 확인되지 않았습니다.",
+          "whatChanged": "23일 코스피가 4,708.54로 하락한 뒤 24일 5,006.03까지 반등했지만 25일 다시 급락해 이전 저점도 밑돌았습니다.",
+          "whyItMatters": "국내 증시가 하루 사이 큰 폭의 상승과 하락을 반복하면서 금융시장 변동성이 크게 확대됐습니다."
+        },
+        {
+          "category": "사회·인구",
+          "emphasis": [
+            "14.3% 늘어",
+            "3분기 합계출산율은 0.90명"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "국가데이터처가 2026년 11월 25일 발표한 9월 및 3분기 인구동향 통계입니다.",
+          "id": "korea-births-record-growth-september-20261125",
+          "keyFacts": {
+            "agency": "국가데이터처",
+            "birthsJanuarySeptember": "218,896명",
+            "birthsSeptember": "25,113명, 12.2% 증가",
+            "birthsThirdQuarter": "73,091명, 12.1% 증가",
+            "cumulativeGrowth": "14.3% 증가",
+            "fertilitySeptember": "0.95명",
+            "fertilityThirdQuarter": "0.90명",
+            "marriageQuarterlyTrend": "11분기 만에 감소 전환",
+            "marriagesSeptember": "16,299건, 11.7% 감소",
+            "naturalPopulationChangeSeptember": "4,705명 감소"
+          },
+          "publishedAt": "2026-11-25T12:00:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "아이뉴스24",
+              "publishedAt": "2026-11-25T12:00:00+09:00",
+              "title": "1~9월 출생아 14.3% 늘어 역대 최대…서울·경기 주도",
+              "url": "https://www.inews24.com/v/2030071",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125087700002",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 97,
+            "interest": 98,
+            "recency": 97,
+            "reliability": 99
+          },
+          "scoreReason": "한국의 저출생 추세와 혼인 변화를 보여주는 새로운 전국 단위 공식 통계입니다.",
+          "sourceCheck": "연합뉴스와 아이뉴스24 원문에서 1~9월 누적 출생아 수와 14.3% 증가율, 역대 최고 증가율이라는 통계 기준을 확인했습니다. 랑펀미디어 원문에서 9월 출산율과 혼인·자연감소 수치를 대조했습니다. 역대 최대 출생아 수가 아니라 역대 최고 증가율이라는 점을 명확히 했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T12:00:00+09:00",
+              "title": "올해 1∼9월 태어난 아기 21만9천명…증가율 역대 최고",
+              "url": "https://www.yna.co.kr/view/AKR20261125087700002",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "올해 1~9월 출생아 수가 21만8,896명으로 지난해 같은 기간보다 14.3% 늘어 1981년 통계 작성 이후 가장 높은 증가율을 기록했습니다.",
+            "3분기 합계출산율은 0.90명으로 상승했지만 혼인 건수는 11분기 만에 감소세로 돌아섰습니다."
+          ],
+          "timeline": {
+            "change": "올해 1~9월 출생아 증가율이 역대 최고를 기록하고 3분기 합계출산율이 0.90명으로 집계됐습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-population-births-marriages-2026",
+            "issueTitle": "2026년 한국 출생아 및 혼인 추세",
+            "stage": "발표"
+          },
+          "title": "올해 출생아 14.3% 증가, 역대 최고 증가율",
+          "topicKey": "kr-population-births-marriages-2026",
+          "uncertainty": "올해 연간 합계출산율이 0.90명 이상으로 확정된 것은 아닙니다. 출생아 증가와 별개로 사망자가 출생아보다 많은 인구 자연감소는 이어지고 있습니다.",
+          "whatChanged": "올해 9월까지 누적 출생아 증가율이 통계 작성 이후 최고치를 기록했고 3분기 합계출산율은 0.90명으로 집계됐습니다.",
+          "whyItMatters": "저출생 추세의 변화와 향후 보육·교육·인구정책 수요를 파악할 수 있는 공식 지표입니다."
+        },
+        {
+          "category": "경제·주거",
+          "emphasis": [
+            "건설형 공적주택 50만호를 착공",
+            "입지와 품질을 개선"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 25일 서울 은평구에서 진행된 대통령의 공적주택 현장 방문 및 간담회에서 발표된 계획입니다.",
+          "id": "lh-public-housing-construction-plan-20261125",
+          "keyFacts": {
+            "agency": "한국토지주택공사",
+            "constructionOrders": "아파트 공사 발주 규모 182조원으로 확대 계획",
+            "constructionTarget": "5년간 수도권 건설형 공적주택 50만호 착공",
+            "existingGovernmentTarget": "2030년까지 공적주택 119만호 공급",
+            "presidentialInstruction": "공급 속도 및 품질 개선과 목표 초과 달성 주문",
+            "universalPublicRentalHousing": "2030년까지 보편형 공공임대주택 19만호 공급 계획",
+            "youthNewlywedHousing": "서울 청년·신혼부부 주택 2만호 이상 공급 계획"
+          },
+          "publishedAt": "2026-11-25T19:11:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-25T17:55:00+09:00",
+              "title": "李, 한 달 새 세 차례 주택 현장행…\"재정 부족해 공급 못하는 일 없게 하라\"",
+              "url": "https://www.mt.co.kr/amp/politics/2026/11/25/2026112516274420922",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T17:08:00+09:00",
+              "title": "李대통령 \"공적임대주택, 중산층도 선택하는 주거사다리 역할\"",
+              "url": "https://www.yna.co.kr/view/AKR20261125141300001",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125168600001?section=politics/all",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 96,
+            "interest": 96,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "정부의 기존 주택 공급 목표에 관한 구체적인 LH 착공 계획이 공개됐으며 주거정책에 미치는 영향이 큽니다.",
+          "sourceCheck": "연합뉴스 19시 11분 원문에서 LH의 50만호 착공과 182조원 발주 계획을 확인했습니다. 머니투데이와 연합뉴스 17시 08분 기사에서 대통령의 공급 확대 및 품질 개선 방침을 확인했습니다. 119만호 공급 목표는 9월 발표된 기존 정책이므로 새로 추가된 공급 물량처럼 표현하지 않았습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T19:11:00+09:00",
+              "title": "LH \"5년간 공적주택 50만호 착공\"…李대통령 \"초과 달성하라\"",
+              "url": "https://www.yna.co.kr/view/AKR20261125168600001?section=politics/all",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "한국토지주택공사(LH)가 앞으로 5년간 수도권에 건설형 공적주택 50만호를 착공하겠다는 계획을 발표했습니다.",
+            "이재명 대통령은 공급 목표를 초과 달성하도록 주문하고 중산층도 선택할 수 있도록 공공임대주택의 입지와 품질을 개선해야 한다고 강조했습니다."
+          ],
+          "timeline": {
+            "change": "LH가 기존 공적주택 공급 정책을 뒷받침할 수도권 건설형 공적주택 50만호 착공 및 공사 발주 확대 계획을 발표했습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-public-housing-supply-2030",
+            "issueTitle": "2030년 공적주택 공급 확대 계획",
+            "stage": "발표"
+          },
+          "title": "LH, 5년간 수도권 공적주택 50만호 착공 추진",
+          "topicKey": "kr-public-housing-supply-2030",
+          "uncertainty": "50만호는 착공 목표이며 실제 입주 가능한 주택 50만호가 확보됐다는 뜻은 아닙니다. 국토부의 119만호 공급 목표와 단순 합산할 수도 없습니다.",
+          "whatChanged": "기존 정부의 공적주택 공급 목표에 맞춰 LH가 수도권 건설형 공적주택 50만호 착공과 발주 확대 계획을 보고했습니다.",
+          "whyItMatters": "수도권 주택 공급과 공공임대주택의 품질, 청년·신혼부부 등의 주거 안정에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "경제·정보보안",
+          "emphasis": [
+            "8만6,433명의 개인정보가 유출",
+            "저축은행 업계 역대 최대 규모"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 22일 밤부터 23일 새벽 사이 비정상적인 외부 접근이 발생했으며 은행이 23일 이를 확인하고 24일 홈페이지에 공지했습니다.",
+          "id": "korea-investment-savings-bank-data-leak-20261125",
+          "keyFacts": {
+            "affectedBanks": "최근 해킹 피해가 알려진 저축은행 총 6곳",
+            "affectedCustomers": "86,433명",
+            "company": "한국투자저축은행",
+            "detectionDate": "2026-11-23",
+            "exposedInformation": "성명, 생년월일, 성별, 휴대전화번호, 연계정보(CI)",
+            "financialInformation": "계좌 비밀번호 등은 유출되지 않았다는 회사 설명",
+            "incidentPeriod": "2026년 11월 22일 밤~23일 새벽",
+            "publicNoticeDate": "2026-11-24",
+            "response": "불법 접속 경로 차단과 관련 서비스 중단, 보안 강화"
+          },
+          "publishedAt": "2026-11-25T18:11:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-25T18:05:00+09:00",
+              "title": "한투저축은행, 8만6433명 정보유출… 금융권 최대 규모",
+              "url": "https://www.mt.co.kr/index.php/amp/finance/2026/11/25/2026112517474212900",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125165600002",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 95,
+            "interest": 96,
+            "recency": 99,
+            "reliability": 99
+          },
+          "scoreReason": "다수 금융기관 이용자에게 직접적인 개인정보 피해가 발생했으며 구체적인 유출 규모가 확인됐습니다.",
+          "sourceCheck": "연합뉴스와 머니투데이 원문에서 유출 대상 86,433명과 유출 항목, 사고 인지 및 대응 조치를 확인했습니다. 전체 금융권이 아닌 저축은행 업권 최대 규모라는 범위를 유지했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T18:11:00+09:00",
+              "title": "한국투자저축은행 8만6천여명 개인정보 유출…업권 최대 규모",
+              "url": "https://www.yna.co.kr/view/AKR20261125165600002",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "한국투자저축은행에서 고객 8만6,433명의 개인정보가 유출돼 저축은행 업계 역대 최대 규모의 유출 사고로 확인됐습니다.",
+            "이름과 생년월일, 휴대전화번호 등이 유출됐으며 은행은 계좌 비밀번호 등 금융거래 정보는 유출되지 않았다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "한국투자저축은행의 고객 개인정보 유출 규모가 8만6,433명으로 확인돼 저축은행 업권에서 가장 큰 피해 사례가 됐습니다.",
+            "eventDate": "2026-11-22",
+            "eventEndDate": "2026-11-23",
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-korea-investment-savings-bank-data-breach-2026",
+            "issueTitle": "2026년 한국투자저축은행 개인정보 유출",
+            "stage": "보도"
+          },
+          "title": "한국투자저축은행, 고객 8만6,433명 정보 유출",
+          "topicKey": "kr-savings-bank-cybersecurity-incidents",
+          "uncertainty": "금융거래 정보가 유출되지 않았다는 내용은 은행 측 설명입니다. 정확한 침입 경위와 실제 2차 피해 규모는 확인되지 않았습니다.",
+          "whatChanged": "한국투자저축은행의 개인정보 유출 규모와 유출 항목이 구체적으로 확인되면서 최근 해킹 피해가 알려진 저축은행이 6곳으로 늘었습니다.",
+          "whyItMatters": "금융기관의 고객 개인정보가 유출돼 사칭이나 금융사기 등 2차 피해 가능성에 주의가 필요합니다."
+        },
+        {
+          "category": "경제·정보보안",
+          "emphasis": [
+            "약 1시간이 아닌 보름 이상",
+            "추가 피해 인원은 공개되지 않았습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "빗썸의 후속 점검에서 2026년 10월 12일부터 27일까지 이어진 침입이 추가로 확인됐으며 11월 25일 관련 내용이 보도됐습니다.",
+          "id": "bithumb-data-breach-expanded-20261125",
+          "keyFacts": {
+            "additionalAffectedPersons": "협력업체 직원 피해도 확인됐다는 보도",
+            "affectedSystem": "내부 업무 시스템",
+            "company": "빗썸",
+            "companyResponse": "피해 고객 개별 통지와 피해 구제 및 보상 절차 진행 방침",
+            "exposedInformation": "주민등록번호, 여권번호, 계좌번호, 신분증 사본, 거래내역 등",
+            "previousAffectedCustomers": "7,159명",
+            "previousIncidentDuration": "약 1시간",
+            "updatedAffectedCustomers": "기존 발표보다 증가, 정확한 추가 인원 비공개",
+            "updatedIncidentPeriod": "2026년 10월 12일~27일"
+          },
+          "publishedAt": "2026-11-25T19:50:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T19:50:00+09:00",
+              "title": "빗썸, 해킹 피해 추가 확인…보름 동안 해킹 사실 몰랐다",
+              "url": "https://www.yna.co.kr/view/AKR20261125176100002",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125176100002",
+          "scoreComponents": {
+            "domesticImpact": 96,
+            "importance": 94,
+            "interest": 96,
+            "recency": 99,
+            "reliability": 97
+          },
+          "scoreReason": "기존에 발표된 금융 플랫폼의 개인정보 유출 규모와 침입 기간이 크게 확대된 새로운 조사 결과입니다.",
+          "sourceCheck": "연합뉴스 19시 50분 원문에서 빗썸의 추가 피해 확인과 기존 발표보다 길어진 침입 기간, 유출 정보 항목, 피해 보상 방침을 확인했습니다. 조사 기준 이전의 독립적인 추가 한국어 원문은 확보하지 못했습니다. 정확한 추가 피해 인원을 추측하지 않았으며 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T19:50:00+09:00",
+              "title": "빗썸, 해킹 피해 추가 확인…보름 동안 해킹 사실 몰랐다",
+              "url": "https://www.yna.co.kr/view/AKR20261125176100002",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "빗썸의 개인정보 유출 피해자가 당초 발표한 7,159명보다 늘었으며 해커의 침입 기간도 약 1시간이 아닌 보름 이상으로 확인됐습니다.",
+            "주민등록번호와 여권번호, 계좌번호, 신분증 사본 등이 유출됐지만 추가 피해 인원은 공개되지 않았습니다."
+          ],
+          "timeline": {
+            "change": "후속 보안 점검에서 기존 발표보다 많은 개인정보 유출 피해와 약 15일에 걸친 침입 사실이 추가로 확인됐습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-bithumb-personal-data-breach-2026",
+            "issueTitle": "2026년 빗썸 개인정보 유출 사고",
+            "stage": "후속"
+          },
+          "title": "빗썸 해킹 피해 확대, 보름 동안 침입 몰랐다",
+          "topicKey": "kr-bithumb-personal-data-breach",
+          "uncertainty": "추가 피해 인원과 최종 피해 규모는 공개되지 않았습니다. 거래소 계정이나 고객 데이터베이스의 직접 침해 정황이 없다는 내용은 빗썸 측 설명입니다.",
+          "whatChanged": "빗썸이 기존에 발표한 피해 인원과 침입 기간보다 실제 피해 범위가 더 넓었다는 사실이 후속 보안 점검에서 확인됐습니다.",
+          "whyItMatters": "금융거래와 신원 확인에 활용되는 민감정보가 포함돼 있어 피해 이용자의 개인정보 악용 가능성과 거래소의 보안 관리 문제가 중요합니다."
+        },
+        {
+          "category": "사회·교통",
+          "emphasis": [
+            "26일 오전 9시부터 12월 4일까지",
+            "환불과 변경에 따른 위약금을 면제"
+          ],
+          "eventAt": "2026-11-26T09:00:00+09:00",
+          "eventTimeNote": "준법투쟁은 2026년 11월 26일 오전 9시부터 12월 4일까지 예정돼 있습니다. 12월 10일 총파업은 노사협상 결렬을 전제로 한 일정입니다.",
+          "followUp": {
+            "delta": "22일 준법투쟁 시작일이 26일로 연기된 이후 구체적인 종료일과 쟁의 방침, 코레일의 승차권 위약금 면제 대책이 추가로 공개됐습니다.",
+            "editionId": "2026-11-22-pm",
+            "storyId": "rail-union-action-postponed-20261122"
+          },
+          "id": "rail-union-safety-action-detailed-schedule-20261125",
+          "keyFacts": {
+            "actionEndDate": "2026-12-04",
+            "actionStart": "2026-11-26T09:00:00+09:00",
+            "conditionalStrikeDate": "2026-12-10",
+            "operatorResponse": "코레일 비상수송대책본부 가동",
+            "passengerAdvice": "열차 운행 상황 사전 확인 및 중요 일정의 경우 대체 교통수단 고려",
+            "ticketRefund": "쟁의 기간 승차권 환불 및 변경 위약금 면제",
+            "union": "전국철도노동조합",
+            "unionDemands": "승진제도 개선, 추가 수당 지급, 인력 확충"
+          },
+          "publishedAt": "2026-11-25T14:56:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T14:56:00+09:00",
+              "title": "철도노조, 26일∼12월4일 '안전운행 투쟁'…운행 차질 불가피",
+              "url": "https://www.yna.co.kr/view/AKR20261125120500063",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125120500063",
+          "scoreComponents": {
+            "domesticImpact": 98,
+            "importance": 93,
+            "interest": 96,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "다음 날부터 전국 철도 이용객에게 직접 영향을 줄 수 있는 구체적인 쟁의 일정과 이용객 보호 대책입니다.",
+          "sourceCheck": "연합뉴스와 KBC 원문에서 준법투쟁 시작일과 종료일, 조건부 총파업 일정을 확인했습니다. 연합뉴스 본문에서 코레일의 환불·변경 위약금 면제 방침을 확인했습니다. 오늘 오전 철회된 서울교통공사 노조 파업과 별개의 쟁의입니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T14:56:00+09:00",
+              "title": "철도노조, 26일∼12월4일 '안전운행 투쟁'…운행 차질 불가피",
+              "url": "https://www.yna.co.kr/view/AKR20261125120500063",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "전국철도노동조합이 26일 오전 9시부터 12월 4일까지 안전운행 투쟁을 진행하기로 했습니다.",
+            "코레일은 일부 열차의 운행 지연이 예상된다며 해당 기간 승차권 환불과 변경에 따른 위약금을 면제한다고 밝혔습니다."
+          ],
+          "timeline": {
+            "change": "철도노조가 안전운행 투쟁의 구체적인 기간을 발표했고 코레일이 열차 지연 대응과 승차권 위약금 면제 방침을 공개했습니다.",
+            "eventDate": "2026-11-26",
+            "eventEndDate": "2026-12-04",
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-rail-labor-action-november-2026",
+            "issueTitle": "2026년 11월 철도노조 쟁의 및 열차 운행",
+            "stage": "예정"
+          },
+          "title": "철도노조, 내일부터 12월 4일까지 준법투쟁",
+          "topicKey": "kr-rail-labor-action-november-2026",
+          "uncertainty": "실제 열차 지연 및 운행 차질 규모는 확정되지 않았습니다. 12월 10일 총파업도 노사협상 결과에 따라 달라질 수 있습니다.",
+          "whatChanged": "22일 시작일을 26일로 연기했던 철도노조가 구체적인 종료일과 쟁의 방침을 발표했으며 코레일은 승차권 위약금 면제 등 대응책을 공개했습니다.",
+          "whyItMatters": "전국 철도 이용객의 출퇴근과 장거리 이동, 대학 논술 및 면접 응시 일정에 영향을 줄 수 있습니다."
+        },
+        {
+          "category": "사회·교육",
+          "emphasis": [
+            "기존 1년에서 5년으로 연장",
+            "233개 시험장에서 시험지가 폐기"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 25일 교육부가 시험지 보관 관련 규정 개선 방침과 지난해 수능 시험지 보관 실태 조사 결과를 공개했습니다.",
+          "followUp": {
+            "delta": "수능 부정행위 관련 경찰 고발이 6건으로 늘어난 데 이어 교육부가 사후 조사에 필요한 시험지 의무 보관기간을 5년으로 연장할 방침을 발표했습니다.",
+            "editionId": "2026-11-24-pm",
+            "storyId": "csat-cheating-police-six-complaints-20261124"
+          },
+          "id": "csat-exam-paper-retention-five-years-20261125",
+          "keyFacts": {
+            "agency": "교육부",
+            "currentRetention": "1년",
+            "discardedExamSites": "233곳",
+            "implementationStatus": "시험지 보관 관련 규정 개선 예정",
+            "investigation": "폐기량, 폐기 일자 및 과정 추가 확인",
+            "plannedRetention": "5년",
+            "retainingSchools": "전체 시험장의 약 82%",
+            "surveyedExam": "2026학년도 대학수학능력시험"
+          },
+          "publishedAt": "2026-11-25T09:47:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-25T10:01:00+09:00",
+              "title": "수능 시험지 보관기간 현행 1년에서 5년으로 연장",
+              "url": "https://imnews.imbc.com/news/2026/society/article/6868388_36918.html",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS Biz",
+              "publishedAt": "2026-11-25T09:52:00+09:00",
+              "title": "수능 시험지 보관기간 1년→5년 연장",
+              "url": "https://biz.sbs.co.kr/amp/article/20000348711",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125052100530",
+          "scoreComponents": {
+            "domesticImpact": 95,
+            "importance": 92,
+            "interest": 95,
+            "recency": 97,
+            "reliability": 99
+          },
+          "scoreReason": "시험 부정행위 대응에서 사후 증거 보존에 관한 새로운 제도 개선 방침이 발표됐습니다.",
+          "sourceCheck": "연합뉴스와 MBC, SBS Biz 원문에서 보관기간 연장 방침, 지난해 시험지 보관율과 폐기 시험장 233곳을 교차 확인했습니다. 폐기 행위의 위법성이 확인된 것은 아니며 관련 규정 개정도 예정 단계입니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T09:47:00+09:00",
+              "title": "교육부, 수능 시험지 보관기간 1년→5년 연장 추진",
+              "url": "https://www.yna.co.kr/view/AKR20261125052100530",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "교육부가 수능 부정행위의 사후 조사를 위해 시험지 의무 보관기간을 기존 1년에서 5년으로 연장하기로 했습니다.",
+            "지난해 수능 시험지 보관 실태를 조사한 결과 233개 시험장에서 시험지가 폐기된 것으로 확인돼 구체적인 폐기 경위를 조사하고 있습니다."
+          ],
+          "timeline": {
+            "change": "교육부가 부정행위 사후 조사를 위해 수능 시험지 보관기간을 5년으로 늘리는 규정 개선 방침을 발표했습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "csat-smart-glasses-cheating-response-2026",
+            "issueTitle": "수능 스마트안경 부정행위 대응과 시험 감독 강화",
+            "stage": "발표"
+          },
+          "title": "수능 시험지 보관기간 1년에서 5년으로 연장 추진",
+          "topicKey": "2027-csat-exam-security",
+          "uncertainty": "관련 규정을 개선할 예정이며 시행이 완료된 것은 아닙니다. 기존 규정상 1년이 지나면 자율 폐기가 가능했으므로 233개 시험장이 위법하게 시험지를 폐기했다고 단정할 수 없습니다.",
+          "whatChanged": "시험장 감독 강화와 부정행위 수사에 이어 교육부가 향후 사후 조사를 위한 시험지 보관기간 연장 계획을 발표했습니다.",
+          "whyItMatters": "시험 이후 부정행위 의혹이 제기되더라도 관련 시험지를 확보해 조사할 수 있는 기간이 늘어날 수 있습니다."
+        },
+        {
+          "category": "국제·과학",
+          "emphasis": [
+            "톈궁과의 도킹에 성공",
+            "외국인이 방문한 첫 사례"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "선저우 24호는 중국 현지시간 2026년 11월 25일 오전 8시 18분에 발사됐으며 같은 날 우주정거장에 도킹했습니다.",
+          "id": "china-shenzhou-24-first-foreign-astronaut-20261125",
+          "keyFacts": {
+            "crew": "중국인 2명 및 파키스탄인 1명",
+            "dockingStatus": "우주정거장 도킹 성공",
+            "foreignAstronaut": "무함마드 지샨 알리",
+            "historicalSignificance": "중국 우주정거장 최초 외국인 방문",
+            "launchAt": "2026-11-25T08:18:00+08:00",
+            "mission": "중국·파키스탄 공동 과학실험 예정",
+            "spaceStation": "톈궁",
+            "spacecraft": "선저우 24호"
+          },
+          "publishedAt": "2026-11-25T17:25:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "머니투데이",
+              "publishedAt": "2026-11-25T14:58:00+09:00",
+              "title": "中 우주굴기…선저우 24호, 첫 외국인 태우고 톈궁 도킹 성공",
+              "url": "https://www.mt.co.kr/world/2026/11/25/2026112513335472653",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261125067251083",
+          "scoreComponents": {
+            "domesticImpact": 73,
+            "importance": 91,
+            "interest": 92,
+            "recency": 98,
+            "reliability": 99
+          },
+          "scoreReason": "중국 유인우주 개발 역사에서 처음 이뤄진 국제협력 임무의 실제 성공 결과입니다.",
+          "sourceCheck": "연합뉴스와 머니투데이 원문에서 선저우 24호 발사 및 도킹 성공, 파키스탄 우주비행사의 탑승과 최초 외국인 방문 사실을 확인했습니다. 발사 예정 보도 대신 실제 도킹 결과를 사용했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T17:25:00+09:00",
+              "title": "中선저우 24호, 우주정거장 도킹 성공…톈궁 첫 외국인 방문(종합)",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261125067251083",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "중국 유인우주선 선저우 24호가 파키스탄 우주비행사를 태우고 중국 우주정거장 톈궁과의 도킹에 성공했습니다.",
+            "중국 우주정거장에 외국인이 방문한 첫 사례로, 파키스탄 우주비행사는 중국 측과 공동 과학실험을 진행할 예정입니다."
+          ],
+          "timeline": {
+            "change": "중국의 선저우 24호가 파키스탄 우주비행사를 태우고 톈궁에 도킹해 중국 우주정거장의 첫 외국인 방문이 이뤄졌습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Shanghai",
+            "issueId": "china-space-station-international-cooperation-2026",
+            "issueTitle": "중국 톈궁 우주정거장 국제협력 확대",
+            "stage": "결과"
+          },
+          "title": "중국 우주정거장에 첫 외국인 우주비행사 도착",
+          "topicKey": "china-space-station-international-cooperation",
+          "uncertainty": "발사와 도킹은 확인됐지만 예정된 공동 과학실험의 결과는 아직 나오지 않았습니다.",
+          "whatChanged": "전날 발표된 외국인 탑승 유인우주선 발사 계획이 실제 발사와 톈궁 도킹 성공으로 이어졌습니다.",
+          "whyItMatters": "중국이 독자적으로 운영하는 우주정거장에 외국인 우주비행사가 처음 참여하면서 국제 우주협력의 범위가 확대됐습니다."
+        },
+        {
+          "category": "정치·에너지",
+          "emphasis": [
+            "첫 공개토론회가",
+            "설명회로 대체됐으며"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "2026년 11월 25일 오전 서울 중구에서 예정됐던 공개토론회 대신 공개설명회가 개최됐습니다.",
+          "id": "nuclear-power-public-debate-cancelled-20261125",
+          "keyFacts": {
+            "absentExperts": "원전 확대 측 전문위원 3명",
+            "actualMeeting": "중립 전문위원의 양측 입장 설명회",
+            "committee": "제12차 전력수급기본계획을 위한 원전 공론화위원회",
+            "dispute": "2050년까지 논의 범위를 확대할지 등을 둘러싼 이견",
+            "finalNuclearShare": "미확정",
+            "meetingDate": "2026-11-25",
+            "nextStep": "12월 시민 숙의토론 예정",
+            "planningHorizon": "2040년까지 전력수급계획"
+          },
+          "publishedAt": "2026-11-25T09:37:00+09:00",
+          "relatedArticles": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "CBS노컷뉴스",
+              "publishedAt": "2026-11-25T13:28:00+09:00",
+              "title": "원전 공론화 파행…확대측 불참에 토론회 대신 설명회",
+              "url": "https://m.nocutnews.co.kr/news/6612390",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            },
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-25T11:15:00+09:00",
+              "title": "[정책의속살] 원전 공론화 '반쪽' 우려…기후부 '첫 작품' 12차 전기본 진통",
+              "url": "https://m.newspim.com/news/view/20261125000398",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261125041500530",
+          "scoreComponents": {
+            "domesticImpact": 91,
+            "importance": 90,
+            "interest": 89,
+            "recency": 96,
+            "reliability": 99
+          },
+          "scoreReason": "국가 전력정책 수립 절차에 실제 차질이 발생했지만 최종 전력 공급정책이 변경된 것은 아닙니다.",
+          "sourceCheck": "연합뉴스와 CBS노컷뉴스, 뉴스핌 원문에서 확대 측 전문가 불참과 토론회 대체 개최, 양측의 논의 범위 관련 이견을 확인했습니다. 오전 회차에서 이미 예정된 행사였으므로 새로운 정책 결정으로 과장하지 않고 실제 진행 결과를 전달했습니다. 사진 메타데이터는 미확인입니다.",
+          "sources": [
+            {
+              "imageUrl": null,
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-25T09:37:00+09:00",
+              "title": "출발부터 삐긋한 원전 공론화…확대측 불참에 토론 무산",
+              "url": "https://www.yna.co.kr/view/AKR20261125041500530",
+              "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "제12차 전력수급기본계획 수립을 위한 원전 공론화 첫 공개토론회가 원전 확대 측 전문가들의 불참으로 무산됐습니다.",
+            "중립 위원들이 양측 입장을 소개하는 설명회로 대체됐으며 공론화위원회는 다음 달 시민 숙의토론을 진행할 계획입니다."
+          ],
+          "timeline": {
+            "change": "원전 확대·감축 전문가 간 첫 공개토론회가 불참으로 무산됐으며 중립 전문가들의 설명회로 대체됐습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "kr-12th-electricity-supply-plan-nuclear-deliberation",
+            "issueTitle": "제12차 전력수급기본계획 원전 공론화",
+            "stage": "결과"
+          },
+          "title": "원전 공론화 첫 토론 무산, 설명회로 대체",
+          "topicKey": "kr-12th-electricity-supply-plan",
+          "uncertainty": "이번 토론회가 무산됐다고 전체 공론화 절차나 전력수급기본계획 수립이 취소된 것은 아닙니다. 향후 원전 비중도 확정되지 않았습니다.",
+          "whatChanged": "오전에 예정된 원전 공론화 행사가 실제 진행됐으나 확대·감축 측 전문가 간 직접 토론 없이 중립 위원들의 설명회로 대체됐습니다.",
+          "whyItMatters": "2040년까지 국내 전력 공급과 원전 역할을 결정하기 위한 공론화 절차의 대표성과 신뢰성에 영향을 줄 수 있습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-25-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-25T21:09:15.208469+09:00",
+  "result": {
+    "id": "2026-11-25-pm",
+    "operationId": "publish-news-2026-11-25-pm",
+    "recordedAt": "2026-11-25T21:09:15.208469+09:00",
+    "sha256": "3132a5fd6c4072dfd5f5d0236815662357f0a37aa7e12a388e87814600b2390c",
+    "windowId": "2026-11-25-pm"
+  }
+}
