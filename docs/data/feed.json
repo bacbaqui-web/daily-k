@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T08:14:47.488961+00:00",
+  "collectedAt": "2026-11-25T08:16:22.696575+00:00",
   "windowEnd": "2026-11-25T17:14:47.162234+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10983,6 +10983,65 @@
       "firstPublishedAt": "2026-11-24T09:48:27.669236+00:00"
     },
     {
+      "id": "aagag-1672527-0",
+      "url": "https://aagag.com/issue/?idx=1672527",
+      "source": "애객",
+      "title": "ㅇㅎ) 허리에 치명적인 자세",
+      "publishedAt": "2026-11-25T17:12:53+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7UgR.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7UgR.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [
+        "https://www.instagram.com/ava_starz"
+      ],
+      "comments": [
+        {
+          "id": "9027041",
+          "text": "와..."
+        },
+        {
+          "id": "9027043",
+          "text": "강호의 도리로 가는 포탈 인스타 https://www.instagram.com/ava_starz"
+        },
+        {
+          "id": "9027050",
+          "text": "구글에 ava_starz leaked"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-25T17:16:13.120706+09:00",
+      "sourceTitles": [
+        "ㅇㅎㅂ?? 빅찌찌 좋아하는 사람들만 들어와라",
+        "ㅇㅎ) 허리에 치명적인 자세",
+        "ㅇㅎ) 허리에 치명적인 자세",
+        "ㅇㅎ) 허리에 치명적인 자세"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-25T08:16:22.619496+00:00",
+      "collectedAt": "2026-11-25T17:16:22.619513+09:00",
+      "firstPublishedAt": "2026-11-25T08:16:22.731102+00:00"
+    },
+    {
       "id": "aagag-1672353-0",
       "url": "https://aagag.com/issue/?idx=1672353",
       "source": "애객",
@@ -11047,60 +11106,6 @@
       "sourceTitlesFetchedAt": "2026-11-24T13:50:45.944784+00:00",
       "collectedAt": "2026-11-24T22:50:45.944822+09:00",
       "firstPublishedAt": "2026-11-24T13:50:46.044580+00:00"
-    },
-    {
-      "id": "aagag-1672244-0",
-      "url": "https://aagag.com/issue/?idx=1672244",
-      "source": "애객",
-      "title": "ㅇㅎ)수중발레의 아름다움.jpg",
-      "publishedAt": "2026-11-24T17:09:52+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L74iI.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L74iI.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9022118",
-          "text": "저 구멍이 우리가 가야할 그곳입니다."
-        },
-        {
-          "id": "9022120",
-          "text": "당구장모양같다"
-        },
-        {
-          "id": "9022139",
-          "text": "결코 무릎을 접지 마시오"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-24T17:15:54.069524+09:00",
-      "sourceTitles": [
-        "ㅇㅎ) 수중발레의 아름다움...jpg",
-        "ㅇㅎ)수중발레의 아름다움.jpg",
-        "수중 발레의 아름다움.jpg",
-        "ㅇㅎ)수중발레의 아름다움.jpg",
-        "ㅇㅎ)수중발레의 아름다움"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-24T08:16:01.999048+00:00",
-      "collectedAt": "2026-11-24T17:16:01.999066+09:00",
-      "firstPublishedAt": "2026-11-24T08:16:02.100679+00:00"
     },
     {
       "id": "aagag-1672333-0",
@@ -11211,7 +11216,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
