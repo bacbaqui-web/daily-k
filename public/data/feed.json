@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T05:26:29.202929+00:00",
+  "collectedAt": "2026-11-25T05:28:35.434543+00:00",
   "windowEnd": "2026-11-25T14:26:28.759347+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -10361,6 +10361,59 @@
       "firstPublishedAt": "2026-11-24T12:00:11.703514+00:00"
     },
     {
+      "id": "aagag-1672485-0",
+      "url": "https://aagag.com/issue/?idx=1672485",
+      "source": "애객",
+      "title": "젠레스 존 제로 한 짤 요약",
+      "publishedAt": "2026-11-25T14:17:51+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L2XDh.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "덤으로 반대 취향인 사람들을 위해\n동물로 된 수컷도 든든하게 나옴"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L2XDh.webp"
+      ],
+      "videos": [],
+      "excerpt": "덤으로 반대 취향인 사람들을 위해\n동물로 된 수컷도 든든하게 나옴",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9026159",
+          "text": "네?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-25T14:28:24.894037+09:00",
+      "sourceTitles": [
+        "젠레스 존 제로 한 짤 요약",
+        "따먹고싶은웃돌이이쏘요?",
+        "젠레스 존 제로 한 짤 요약",
+        "(ㅇㅎ?) 과학을 공부해야 하는 이유.jpg",
+        "\"심지어 동물로 된 암컷이다..!\"",
+        "퍼리)뽀로로 근황",
+        "암컷 아저씨 짤 근황.jpg",
+        "퍼리)"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 8,
+      "sourceTitlesFetchedAt": "2026-11-25T05:28:35.235512+00:00",
+      "collectedAt": "2026-11-25T14:28:35.235530+09:00",
+      "firstPublishedAt": "2026-11-25T05:28:35.658419+00:00"
+    },
+    {
       "id": "aagag-1672263-0",
       "url": "https://aagag.com/issue/?idx=1672263",
       "source": "애객",
@@ -10406,7 +10459,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
