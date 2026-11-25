@@ -59,6 +59,64 @@
       "uncertainty": "공습과 요격 성공은 사우디 연합군의 발표입니다. 실제 표적 피해 규모와 민간인 피해 여부는 독립적으로 확인되지 않았습니다."
     },
     {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "국제·안보",
+      "change": "예멘 정부군이 후티 반군의 공세로 임시수도 아덴이 위협받고 있다고 밝히며 도시 방어 의지를 표명했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "예멘 정부군 대변인이 현지시간 2026년 11월 24일 브리핑에서 현재 상황을 설명했습니다.",
+      "eventTimezone": "Asia/Aden",
+      "followUp": {
+        "delta": "사우디 연합군이 후티 거점 공습을 발표한 이후에도 예멘 내 무력 충돌이 이어지면서 정부군이 임시수도 아덴의 위협 상황을 새로 밝혔습니다.",
+        "editionId": "2026-11-21-am",
+        "storyId": "saudi-houthi-port-strikes-20261121"
+      },
+      "id": "2026-11-25-am/yemen-aden-houthi-threat-20261125",
+      "keyFacts": {
+        "announcementDate": "2026년 11월 24일 현지시간",
+        "cityStatus": "아덴 함락 미확인",
+        "country": "예멘",
+        "governmentPosition": "아덴 방어 의지 표명",
+        "humanitarianImpact": "유엔 집계상 7월 휴전 붕괴 이후 피란민 36만명 이상",
+        "reportingAuthority": "예멘 정부군",
+        "temporaryCapital": "아덴"
+      },
+      "previous": {
+        "editionId": "2026-11-21-am",
+        "storyId": "saudi-houthi-port-strikes-20261121"
+      },
+      "publishedAt": "2026-11-25T00:31:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T00:31:00+09:00",
+          "title": "예멘 정부 임시수도 아덴 함락되나…후티, 60㎞ 앞까지 진격",
+          "url": "https://www.yna.co.kr/view/AKR20261125000800079",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "보도",
+      "storyId": "yemen-aden-houthi-threat-20261125",
+      "summary": [
+        "예멘 정부군은 후티 반군의 공세로 정부의 임시수도인 아덴이 위협받고 있다고 밝혔습니다.",
+        "정부군은 아덴을 방어하겠다는 입장을 밝혔으며 유엔에 따르면 지난 7월 휴전 붕괴 이후 36만명 넘는 피란민이 발생했습니다."
+      ],
+      "supersededBy": [],
+      "title": "후티 반군 공세에 예멘 임시수도 아덴 위협",
+      "uncertainty": "아덴에 대한 위협은 예멘 정부군의 발표이며 임시수도가 실제로 함락된 것은 아닙니다."
+    },
+    {
       "briefingPath": "2026-11-20/am.json",
       "category": "국제·안보",
       "change": "후티군이 사우디 주요 시설을 상대로 네 차례 공격했다고 주장했고 사우디 당국은 리야드 금융단지 일부 피해를 확인했습니다.",
@@ -111,5 +169,5 @@
   "id": "yemen-saudi-houthi-escalation-2026",
   "schemaVersion": 1,
   "title": "예멘 후티·사우디아라비아 무력 충돌",
-  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
 }

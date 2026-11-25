@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "경제·산업",
+      "change": "한국은행이 전산업 기업심리지수 하락과 내수기업의 4년 6개월 만의 최고 심리지수를 보여주는 새 조사 결과를 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "한국은행이 2026년 11월 25일 발표한 11월 기업경기조사 결과입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-am/november-business-confidence-decline-20261125",
+      "keyFacts": {
+        "agency": "한국은행",
+        "allIndustryCBSI": "103.5, 전월 대비 0.7포인트 하락",
+        "baseline": "장기평균 100",
+        "domesticCompanies": "105.3, 1.5포인트 상승",
+        "economicSentimentIndex": "99.9, 0.9포인트 하락",
+        "exportCompanies": "103.4, 2.7포인트 하락",
+        "manufacturingCBSI": "104.8, 0.8포인트 하락",
+        "nonManufacturingCBSI": "102.5, 0.7포인트 하락",
+        "respondents": "3,440개 기업",
+        "surveyPeriod": "2026년 11월 10~17일"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T06:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T06:00:00+09:00",
+          "title": "기업 체감경기 한달만에 악화…내수기업은 4년6개월만 최고",
+          "url": "https://www.yna.co.kr/view/AKR20261124156500002",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "november-business-confidence-decline-20261125",
+      "summary": [
+        "한국은행의 11월 전산업 기업심리지수가 103.5로 전월보다 0.7포인트 하락했습니다.",
+        "수출기업의 체감경기는 악화했지만 내수기업 지수는 105.3으로 올라 4년 6개월 만에 최고치를 기록했습니다."
+      ],
+      "supersededBy": [],
+      "title": "기업 체감경기 하락, 내수기업은 4년 반 만에 최고",
+      "uncertainty": "기업심리지수는 조사 대상 기업의 경기 인식이며 실제 매출이나 전체 내수 소비가 같은 폭으로 변했다는 뜻은 아닙니다."
+    }
+  ],
+  "id": "kr-business-confidence-2026",
+  "schemaVersion": 1,
+  "title": "한국 기업경기 및 기업심리지수 변화",
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+}

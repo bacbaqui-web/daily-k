@@ -123,10 +123,68 @@
       "supersededBy": [],
       "title": "서울지하철 오늘 최종 교섭, 결렬 땐 내일 파업",
       "uncertainty": "최종 교섭의 결과는 아직 나오지 않았습니다. 파업이 실제 시작되더라도 모든 열차가 운행을 중단한다는 의미는 아니며 운행률은 별도 안내를 확인해야 합니다."
+    },
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "사회·교통",
+      "change": "서울교통공사와 3개 노조가 임금 및 신규 채용 등에 합의해 총파업을 철회하고 정상 운행에 들어갔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "25일 오전 2시 40분께 제1노조가 합의했으며 이후 제2·3노조도 협상을 타결했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날 최종 교섭 난항으로 비상수송대책까지 발표됐으나 25일 새벽 3개 노조가 모두 합의하면서 총파업 계획을 철회했습니다.",
+        "editionId": "2026-11-24-pm",
+        "storyId": "seoul-subway-emergency-transport-plan-20261124"
+      },
+      "id": "2026-11-25-am/seoul-subway-strike-cancelled-20261125",
+      "keyFacts": {
+        "operations": "서울지하철 1~8호선 정상 운행",
+        "recruitment": "500명 신규 채용 합의",
+        "restructuring": "인력 감축을 포함한 경영혁신계획 보류",
+        "seniorityIncrease": "호봉승급 증가분 1.4% 이내 별도 반영",
+        "strike": "11월 25일 총파업 철회",
+        "unions": "서울교통공사 노동조합 3곳 모두 협상 타결",
+        "wageIncrease": "2025년도 총인건비 대비 3.5% 이내 인상"
+      },
+      "previous": {
+        "editionId": "2026-11-24-pm",
+        "storyId": "seoul-subway-emergency-transport-plan-20261124"
+      },
+      "publishedAt": "2026-11-25T05:15:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T05:15:00+09:00",
+          "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다(종합3보)",
+          "url": "https://www.yna.co.kr/view/AKR20261125004253004",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "seoul-subway-strike-cancelled-20261125",
+      "summary": [
+        "서울교통공사와 3개 노동조합이 밤샘 협상 끝에 합의하면서 오늘 예정됐던 총파업이 철회됐습니다.",
+        "노사는 신규 인력 500명 채용과 임금 3.5% 이내 인상, 인력 감축 계획 보류에 합의했습니다."
+      ],
+      "supersededBy": [],
+      "title": "서울지하철 파업 철회, 첫차부터 정상 운행",
+      "uncertainty": "신규 채용과 근무제도 개선은 노사 합의 사항으로 실제 채용 절차와 세부 일정은 별도로 진행됩니다."
     }
   ],
   "id": "seoul-subway-labor-dispute-2026",
   "schemaVersion": 1,
   "title": "2026년 11월 서울지하철 노사협상과 총파업",
-  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
 }

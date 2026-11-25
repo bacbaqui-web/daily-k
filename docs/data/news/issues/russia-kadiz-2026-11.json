@@ -104,10 +104,67 @@
       "supersededBy": [],
       "title": "러 군용기 울릉도 접근, 경계경보 발령",
       "uncertainty": "한국방공식별구역 진입과 영공 침범은 서로 다른 개념입니다. 실제 영공 침범은 없었으며 러시아 군용기의 접근 의도는 확인되지 않았습니다."
+    },
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "외교·안보",
+      "change": "한국 정부의 항의 이후 러시아 국방부가 군용기 비행의 성격과 국제규정 준수에 관한 공식 입장을 밝혔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "러시아 국방부가 2026년 11월 24일 현지시간에 군용기 비행에 관한 입장을 발표했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "울릉도 영공 근접에 한국 정부가 공식 항의한 이후 러시아 국방부가 계획된 비행이었다며 국제규정을 준수했다고 주장했습니다.",
+        "editionId": "2026-11-24-pm",
+        "storyId": "russian-military-aircraft-ulleung-alert-20261124"
+      },
+      "id": "2026-11-25-am/russia-ulleung-flight-official-response-20261125",
+      "keyFacts": {
+        "airspaceViolation": "전날 한국 합참 설명상 실제 영공 침범 없음",
+        "internationalRulesClaim": "공역 이용에 관한 국제규정 준수 주장",
+        "koreanPosition": "영공 근접에 대한 항의와 재발 방지 요구",
+        "russianPosition": "동해 국제수역 상공에서 계획된 비행 수행",
+        "statementBy": "러시아 국방부",
+        "statementDate": "2026년 11월 24일 현지시간"
+      },
+      "previous": {
+        "editionId": "2026-11-24-pm",
+        "storyId": "russian-military-aircraft-ulleung-alert-20261124"
+      },
+      "publishedAt": "2026-11-25T00:56:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T00:56:00+09:00",
+          "title": "러 국방부 \"Tu-160 전략폭격기, 동해 상공서 계획된 비행\"",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261125000900109",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "주장",
+      "storyId": "russia-ulleung-flight-official-response-20261125",
+      "summary": [
+        "러시아 국방부는 전날 울릉도 영공에 근접했던 자국 군용기가 국제수역 상공에서 계획된 비행을 했다고 밝혔습니다.",
+        "러시아는 국제규정을 준수했다고 주장했으며 한국 정부는 이미 러시아 측에 공식 항의하고 재발 방지를 요구했습니다."
+      ],
+      "supersededBy": [],
+      "title": "러시아, 울릉도 접근에 국제규정 준수 주장",
+      "uncertainty": "국제규정을 준수했다는 설명은 러시아 측 주장입니다. 울릉도에 근접한 구체적인 의도는 확인되지 않았습니다."
     }
   ],
   "id": "russia-kadiz-2026-11",
   "schemaVersion": 1,
   "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어",
-  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
 }

@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "정치·행정",
+      "change": "정부가 기존 이전 구상 가운데 31개 기관의 세종 이전계획을 확정 고시하고 2027년과 2031년까지 단계적으로 이전하기로 했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "행정안전부가 2026년 11월 24일 중앙행정기관 등의 이전계획 변경안을 확정 고시했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-am/central-government-agencies-sejong-relocation-20261125",
+      "keyFacts": {
+        "affectedCivilServants": "공무원 정원 기준 5,460명",
+        "agency": "행정안전부",
+        "announcementDate": "2026-11-24",
+        "confirmedAgencies": "31개 기관",
+        "estimatedConstructionCost": "약 1조6천억원",
+        "estimatedRentalRelocationCost": "약 482억원",
+        "firstPhase": "2027년까지 임차청사로 22개 기관 1,600명 이전",
+        "humanRightsCommission": "임차청사 이전에서 신축청사 이전으로 변경",
+        "remainingAgencies": "법령 개정이 필요한 13개 기관 4,469명",
+        "secondPhase": "2031년까지 신축청사로 9개 기관 3,860명 이전"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T20:00:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-24T20:00:00+09:00",
+          "title": "정부, 31개 기관 세종 이전계획 고시…인권위 청사신축 후 이전",
+          "url": "https://www.yna.co.kr/view/AKR20261124175900530",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "확정",
+      "status": "확정",
+      "storyId": "central-government-agencies-sejong-relocation-20261125",
+      "summary": [
+        "정부가 중앙행정기관 등 31곳의 공무원 5,460명을 2031년까지 세종으로 이전하는 계획을 확정했습니다.",
+        "금융위원회와 개인정보보호위원회 등 22곳은 내년까지 먼저 옮기고, 감사원과 경찰청 등 9곳은 새 청사를 지어 이전합니다."
+      ],
+      "supersededBy": [],
+      "title": "정부기관 31곳 세종 이전 확정, 내년부터 순차 이동",
+      "uncertainty": "기관별 세부 이전 날짜는 향후 확정됩니다. 외교부와 국방부 등 나머지 13개 기관은 법령 개정이 필요해 이번 고시에서 제외됐습니다."
+    }
+  ],
+  "id": "kr-central-government-sejong-relocation-2026",
+  "schemaVersion": 1,
+  "title": "중앙행정기관 추가 세종 이전계획",
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+}

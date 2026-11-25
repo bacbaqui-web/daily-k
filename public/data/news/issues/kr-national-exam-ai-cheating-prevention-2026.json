@@ -49,10 +49,70 @@
       "supersededBy": [],
       "title": "국가자격시험, 휴대전화 수거·무작위 확인 시행",
       "uncertainty": "강화된 감독 방식의 적용은 확인됐지만 실제 AI 부정행위 적발 규모나 앞으로 모든 국가시험에 동일한 절차가 적용될지는 이 출처만으로 확정할 수 없습니다."
+    },
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "사회·교육",
+      "change": "정부가 국가자격시험 현장 감독 강화에 이어 올해 시행한 528개 시험에 대한 전수조사와 응시 제한 및 형사처벌 강화 방안을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 24일 고용노동부와 한국산업인력공단이 국가자격시험 공정성 확보 방안을 발표했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "21일 경비지도사 시험에 강화된 감독 방식이 적용된 데 이어 정부가 올해 시행한 국가자격시험 전체에 대한 전수조사와 처벌 강화 방안을 발표했습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "national-exam-stricter-device-controls-20261121"
+      },
+      "id": "2026-11-25-am/national-qualification-exams-full-investigation-20261125",
+      "keyFacts": {
+        "agencies": "고용노동부·한국산업인력공단",
+        "existingPrisonMaximum": "징역 2년",
+        "existingRestriction": "국가기술자격시험 응시 제한 3년",
+        "followupAction": "의심 사례 수사 의뢰 방침",
+        "investigationMethod": "기존 시험성적 자료를 분석해 부정행위 의심 사례 확인",
+        "investigationScope": "올해 공단 시행 국가자격시험 528개 종목",
+        "legislativeStatus": "처벌 강화 관련 법 개정 추진",
+        "proposedPrisonMaximum": "징역 5년",
+        "proposedRestriction": "응시 제한 10년"
+      },
+      "previous": {
+        "editionId": "2026-11-21-pm",
+        "storyId": "national-exam-stricter-device-controls-20261121"
+      },
+      "publishedAt": "2026-11-24T20:25:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-11-24T20:25:00+09:00",
+          "title": "\"제2의 '세무냥이' 끝까지 잡겠다‥올해 국가자격시험 528개 전수조사\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868257_37005.html",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "후속",
+      "status": "확정",
+      "storyId": "national-qualification-exams-full-investigation-20261125",
+      "summary": [
+        "정부가 올해 한국산업인력공단이 시행한 528개 국가자격시험을 전수조사하고 부정행위 의심 사례는 수사 의뢰하기로 했습니다.",
+        "국가기술자격시험 부정행위자의 응시 제한 기간을 3년에서 10년으로 늘리고 형사처벌도 최대 징역 5년으로 강화하는 방안을 추진합니다."
+      ],
+      "supersededBy": [],
+      "title": "올해 국가자격시험 528개 전수조사",
+      "uncertainty": "전수조사 계획이 발표됐지만 전체 조사 결과는 나오지 않았습니다. 응시 제한 및 형사처벌 강화는 법 개정이 필요한 추진 사항입니다."
     }
   ],
   "id": "kr-national-exam-ai-cheating-prevention-2026",
   "schemaVersion": 1,
   "title": "2026년 국가자격시험 AI 부정행위 방지 대책",
-  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
 }

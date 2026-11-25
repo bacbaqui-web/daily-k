@@ -1,23 +1,93 @@
 {
-  "editionCount": 138,
+  "editionCount": 139,
   "issues": [
+    {
+      "categories": [
+        "국제·안보"
+      ],
+      "eventCount": 3,
+      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
+      "firstCoveredDate": "2026-11-20",
+      "id": "yemen-saudi-houthi-escalation-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "예멘 정부군이 후티 반군의 공세로 임시수도 아덴이 위협받고 있다고 밝히며 도시 방어 의지를 표명했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "후속",
+        "storyId": "yemen-aden-houthi-threat-20261125",
+        "title": "후티 반군 공세에 예멘 임시수도 아덴 위협"
+      },
+      "path": "yemen-saudi-houthi-escalation-2026.json",
+      "title": "예멘 후티·사우디아라비아 무력 충돌"
+    },
+    {
+      "categories": [
+        "국제·무역"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "firstCoveredDate": "2026-11-25",
+      "id": "us-section-301-excess-production-tariffs-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "미국의 과잉생산 관세 조사 결과 발표가 임박했다는 보도와 한국에 대한 15% 관세 상한 유지 전망이 나왔습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "보도",
+        "storyId": "us-excess-production-tariff-announcement-expected-20261125",
+        "title": "미국, 과잉생산 관세 발표 임박…한국 15% 유지 전망"
+      },
+      "path": "us-section-301-excess-production-tariffs-2026.json",
+      "title": "미국 무역법 301조 과잉생산 관세 조사"
+    },
+    {
+      "categories": [
+        "경제·글로벌증시",
+        "경제·생활경제",
+        "경제·증시",
+        "국제·증시",
+        "증시",
+        "증시·금리",
+        "증시·기술",
+        "증시·반도체"
+      ],
+      "eventCount": 36,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "us-equities-chips-rates-oil",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "전날 급등했던 미국 기술주가 하락세로 돌아서면서 나스닥은 내리고 다우지수는 상승하는 혼조세를 보였습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "결과",
+        "storyId": "us-stocks-mixed-nvidia-pullback-20261125",
+        "title": "미국 증시 혼조, 나스닥 1.48% 하락"
+      },
+      "path": "us-equities-chips-rates-oil.json",
+      "title": "미국 증시의 반도체 실적·금리·유가 반응"
+    },
     {
       "categories": [
         "사회·교통"
       ],
-      "eventCount": 2,
+      "eventCount": 3,
       "firstCoveredAt": "2026-11-24T09:08:50.874559+09:00",
       "firstCoveredDate": "2026-11-24",
       "id": "seoul-subway-labor-dispute-2026",
-      "lastCoveredAt": "2026-11-24T21:03:58.771281+09:00",
-      "lastCoveredDate": "2026-11-24",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
       "latest": {
         "archive": false,
-        "change": "서울지하철 노사의 최종 교섭이 난항을 겪는 가운데 서울시가 파업 발생 시 적용할 구체적인 비상수송계획을 공개했습니다.",
-        "editionId": "2026-11-24-pm",
-        "stage": "후속",
-        "storyId": "seoul-subway-emergency-transport-plan-20261124",
-        "title": "서울지하철 교섭 난항, 파업 대비 버스 증편"
+        "change": "서울교통공사와 3개 노조가 임금 및 신규 채용 등에 합의해 총파업을 철회하고 정상 운행에 들어갔습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "결과",
+        "storyId": "seoul-subway-strike-cancelled-20261125",
+        "title": "서울지하철 파업 철회, 첫차부터 정상 운행"
       },
       "path": "seoul-subway-labor-dispute-2026.json",
       "title": "2026년 11월 서울지하철 노사협상과 총파업"
@@ -27,22 +97,148 @@
         "국제정세",
         "외교·안보"
       ],
-      "eventCount": 2,
+      "eventCount": 3,
       "firstCoveredAt": "2026-11-17T09:16:27.049119+09:00",
       "firstCoveredDate": "2026-11-17",
       "id": "russia-kadiz-2026-11",
-      "lastCoveredAt": "2026-11-24T21:03:58.771281+09:00",
-      "lastCoveredDate": "2026-11-24",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
       "latest": {
         "archive": false,
-        "change": "러시아 군용기의 울릉도 접근으로 경계경보가 발령됐고 한국 정부가 러시아 국방무관 초치와 외교적 항의에 나섰습니다.",
-        "editionId": "2026-11-24-pm",
-        "stage": "결과",
-        "storyId": "russian-military-aircraft-ulleung-alert-20261124",
-        "title": "러 군용기 울릉도 접근, 경계경보 발령"
+        "change": "한국 정부의 항의 이후 러시아 국방부가 군용기 비행의 성격과 국제규정 준수에 관한 공식 입장을 밝혔습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "후속",
+        "storyId": "russia-ulleung-flight-official-response-20261125",
+        "title": "러시아, 울릉도 접근에 국제규정 준수 주장"
       },
       "path": "russia-kadiz-2026-11.json",
       "title": "러시아 군용기, 새벽 동해 방공식별구역 진입…영공 침범은 없어"
+    },
+    {
+      "categories": [
+        "사회·교육"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "firstCoveredDate": "2026-11-25",
+      "id": "kr-school-exam-smart-device-penalties-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "교육부가 수능 부정행위 방지 대책을 중고등학교 내신 시험으로 확대하고 성적 무효 처리와 징계 강화 방안을 발표했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "발표",
+        "storyId": "school-exam-smart-device-penalties-20261125",
+        "title": "중고교 내신 부정행위, 전 과목 0점·최대 퇴학 추진"
+      },
+      "path": "kr-school-exam-smart-device-penalties-2026.json",
+      "title": "중고교 내신 시험 부정행위 대책"
+    },
+    {
+      "categories": [
+        "사회·교육"
+      ],
+      "eventCount": 2,
+      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
+      "firstCoveredDate": "2026-11-21",
+      "id": "kr-national-exam-ai-cheating-prevention-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "정부가 국가자격시험 현장 감독 강화에 이어 올해 시행한 528개 시험에 대한 전수조사와 응시 제한 및 형사처벌 강화 방안을 발표했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "후속",
+        "storyId": "national-qualification-exams-full-investigation-20261125",
+        "title": "올해 국가자격시험 528개 전수조사"
+      },
+      "path": "kr-national-exam-ai-cheating-prevention-2026.json",
+      "title": "2026년 국가자격시험 AI 부정행위 방지 대책"
+    },
+    {
+      "categories": [
+        "정치·사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "firstCoveredDate": "2026-11-25",
+      "id": "kr-historical-human-rights-awards-revocation-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "정부가 과거 신군부 시기 인권침해 사건 등과 관련된 경찰관의 정부포상 104점을 추가로 취소하기로 의결했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "결과",
+        "storyId": "police-historical-human-rights-awards-revoked-20261125",
+        "title": "5·18 진압·삼청교육 관련 정부포상 104점 취소"
+      },
+      "path": "kr-historical-human-rights-awards-revocation-2026.json",
+      "title": "과거 인권침해 관련 경찰 정부포상 취소"
+    },
+    {
+      "categories": [
+        "정치·행정"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "firstCoveredDate": "2026-11-25",
+      "id": "kr-central-government-sejong-relocation-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "정부가 기존 이전 구상 가운데 31개 기관의 세종 이전계획을 확정 고시하고 2027년과 2031년까지 단계적으로 이전하기로 했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "확정",
+        "storyId": "central-government-agencies-sejong-relocation-20261125",
+        "title": "정부기관 31곳 세종 이전 확정, 내년부터 순차 이동"
+      },
+      "path": "kr-central-government-sejong-relocation-2026.json",
+      "title": "중앙행정기관 추가 세종 이전계획"
+    },
+    {
+      "categories": [
+        "경제·산업"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "firstCoveredDate": "2026-11-25",
+      "id": "kr-business-confidence-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "한국은행이 전산업 기업심리지수 하락과 내수기업의 4년 6개월 만의 최고 심리지수를 보여주는 새 조사 결과를 발표했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "발표",
+        "storyId": "november-business-confidence-decline-20261125",
+        "title": "기업 체감경기 하락, 내수기업은 4년 반 만에 최고"
+      },
+      "path": "kr-business-confidence-2026.json",
+      "title": "한국 기업경기 및 기업심리지수 변화"
+    },
+    {
+      "categories": [
+        "국제·정치"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "firstCoveredDate": "2026-11-25",
+      "id": "china-politburo-discipline-investigations-2026",
+      "lastCoveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "lastCoveredDate": "2026-11-25",
+      "latest": {
+        "archive": false,
+        "change": "중국 당국이 상하이 당서기이자 중앙정치국위원인 천지닝에 대한 기율 및 법률 위반 혐의 조사를 공개했습니다.",
+        "editionId": "2026-11-25-am",
+        "stage": "발표",
+        "storyId": "china-shanghai-party-secretary-investigation-20261125",
+        "title": "중국 상하이 당서기 조사, 정치국위원 네 번째"
+      },
+      "path": "china-politburo-discipline-investigations-2026.json",
+      "title": "중국공산당 고위 지도부 기율 조사"
     },
     {
       "categories": [
@@ -173,34 +369,6 @@
       },
       "path": "csat-smart-glasses-cheating-response-2026.json",
       "title": "수능 스마트안경 부정행위 대응과 시험 감독 강화"
-    },
-    {
-      "categories": [
-        "경제·글로벌증시",
-        "경제·생활경제",
-        "경제·증시",
-        "국제·증시",
-        "증시",
-        "증시·금리",
-        "증시·기술",
-        "증시·반도체"
-      ],
-      "eventCount": 35,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "us-equities-chips-rates-oil",
-      "lastCoveredAt": "2026-11-24T09:08:50.874559+09:00",
-      "lastCoveredDate": "2026-11-24",
-      "latest": {
-        "archive": false,
-        "change": "미국 증시가 지난 거래일의 급락에서 벗어나 나스닥 6.51%, 엔비디아 31.48% 상승이라는 새로운 정규장 마감 결과를 기록했습니다.",
-        "editionId": "2026-11-24-am",
-        "stage": "결과",
-        "storyId": "us-stocks-nvidia-rebound-20261124",
-        "title": "나스닥 6.51% 급등, 엔비디아 31.48% 상승"
-      },
-      "path": "us-equities-chips-rates-oil.json",
-      "title": "미국 증시의 반도체 실적·금리·유가 반응"
     },
     {
       "categories": [
@@ -851,27 +1019,6 @@
     },
     {
       "categories": [
-        "사회·교육"
-      ],
-      "eventCount": 1,
-      "firstCoveredAt": "2026-11-21T21:19:20.420658+09:00",
-      "firstCoveredDate": "2026-11-21",
-      "id": "kr-national-exam-ai-cheating-prevention-2026",
-      "lastCoveredAt": "2026-11-21T21:19:20.420658+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "AI 부정행위 논란 이후 첫 국가자격시험에서 전자기기 일괄 수거와 무작위 전화 확인, 첨단기기 점검 인력이 실제 도입됐습니다.",
-        "editionId": "2026-11-21-pm",
-        "stage": "시행",
-        "storyId": "national-exam-stricter-device-controls-20261121",
-        "title": "국가자격시험, 휴대전화 수거·무작위 확인 시행"
-      },
-      "path": "kr-national-exam-ai-cheating-prevention-2026.json",
-      "title": "2026년 국가자격시험 AI 부정행위 방지 대책"
-    },
-    {
-      "categories": [
         "사회·안전"
       ],
       "eventCount": 1,
@@ -932,27 +1079,6 @@
       },
       "path": "cho-hee-dae-impeachment-2026.json",
       "title": "조희대 대법원장 탄핵 추진"
-    },
-    {
-      "categories": [
-        "국제·안보"
-      ],
-      "eventCount": 2,
-      "firstCoveredAt": "2026-11-20T09:16:07.810668+09:00",
-      "firstCoveredDate": "2026-11-20",
-      "id": "yemen-saudi-houthi-escalation-2026",
-      "lastCoveredAt": "2026-11-21T09:28:57.083664+09:00",
-      "lastCoveredDate": "2026-11-21",
-      "latest": {
-        "archive": false,
-        "change": "후티의 사우디 시설 공격 주장에 이어 사우디 연합군이 예멘 내 후티 거점 공습과 드론 5대·탄도미사일 1발 요격을 발표했습니다.",
-        "editionId": "2026-11-21-am",
-        "stage": "후속",
-        "storyId": "saudi-houthi-port-strikes-20261121",
-        "title": "사우디 연합군, 예멘 후티 거점 공습 발표"
-      },
-      "path": "yemen-saudi-houthi-escalation-2026.json",
-      "title": "예멘 후티·사우디아라비아 무력 충돌"
     },
     {
       "categories": [
@@ -13046,7 +13172,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1027,
+  "storyCount": 1038,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-24T21:03:58.771281+09:00"
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
 }

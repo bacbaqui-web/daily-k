@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "국제·무역",
+      "change": "미국의 과잉생산 관세 조사 결과 발표가 임박했다는 보도와 한국에 대한 15% 관세 상한 유지 전망이 나왔습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": null,
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지시간 24일 저녁, 한국시간 25일 오전에 조사 결과가 발표될 가능성이 있다는 보도입니다.",
+      "eventTimezone": null,
+      "followUp": null,
+      "id": "2026-11-25-am/us-excess-production-tariff-announcement-expected-20261125",
+      "keyFacts": {
+        "agency": "미국 무역대표부 USTR",
+        "announcementStatus": "조사 기준까지 실제 발표 및 최종 세율 미확인",
+        "existingAgreementCeiling": "한미 무역합의상 관세 15% 상한",
+        "existingForcedLaborTariff": "한국 12.5%",
+        "expectedOutcome": "기존 15% 상한 유지 전망",
+        "investigation": "무역법 301조에 따른 과잉생산 관련 조사",
+        "targets": "한국·중국·일본·유럽연합 등 16개 경제주체"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T06:09:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T06:09:00+09:00",
+          "title": "美 '과잉생산 관세' 이르면 오늘 발표…외신 \"韓 15% 유지 예상\"(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20261124182853071",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "us-excess-production-tariff-announcement-expected-20261125",
+      "summary": [
+        "미국 언론은 미국 무역대표부가 한국을 포함한 16개 경제주체의 과잉생산 관련 관세 부과 계획을 이르면 오늘 발표할 것이라고 보도했습니다.",
+        "한국은 기존 강제노동 관련 관세 12.5%를 포함해 총 15% 상한이 유지될 것으로 전망되지만 아직 확정되지 않았습니다."
+      ],
+      "supersededBy": [],
+      "title": "미국, 과잉생산 관세 발표 임박…한국 15% 유지 전망",
+      "uncertainty": "미국 언론이 인용한 소식통의 전망으로 실제 관세 부과 계획과 적용 세율은 확인되지 않았습니다. 디지털 규제 관련 별도 조사 가능성도 남아 있습니다."
+    }
+  ],
+  "id": "us-section-301-excess-production-tariffs-2026",
+  "schemaVersion": 1,
+  "title": "미국 무역법 301조 과잉생산 관세 조사",
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+}

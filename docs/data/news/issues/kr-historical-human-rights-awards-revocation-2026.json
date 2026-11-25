@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "정치·사회",
+      "change": "정부가 과거 신군부 시기 인권침해 사건 등과 관련된 경찰관의 정부포상 104점을 추가로 취소하기로 의결했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "2026년 11월 24일 국무회의에서 포상 취소안이 의결됐으며 25일 대통령이 관련 입장을 밝혔습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-am/police-historical-human-rights-awards-revoked-20261125",
+      "keyFacts": {
+        "affectedPersons": "102명",
+        "governmentAwards": "104점",
+        "governmentDecision": "2026년 11월 24일 국무회의 의결",
+        "gwangjuSuppression": "18명에게 수여된 18점",
+        "martialLawExpansion": "8명에게 수여된 8점",
+        "ministerialCommendations": "69점",
+        "presidentialResponse": "25일 추가적인 부적절한 서훈 취소 추진 의사 표명",
+        "retrials": "간첩 사건 재심 무죄 관련 4명에게 수여된 5점",
+        "samcheongEducation": "72명에게 수여된 73점"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T06:51:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T06:51:00+09:00",
+          "title": "李대통령, 5·18 진압경찰 등 포상취소에 \"당연…역사교정 계속\"",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261125013900001",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "police-historical-human-rights-awards-revoked-20261125",
+      "summary": [
+        "정부가 5·18 민주화운동 진압과 삼청교육 등 인권침해 사건에 관련된 경찰관 102명의 정부포상 104점을 취소했습니다.",
+        "관련 장관 표창 69점도 취소됐으며 이재명 대통령은 부적절한 서훈을 계속 찾아 취소하겠다는 입장을 밝혔습니다."
+      ],
+      "supersededBy": [],
+      "title": "5·18 진압·삼청교육 관련 정부포상 104점 취소",
+      "uncertainty": "이번 취소는 조사로 확인된 대상에 한정됩니다. 추가 조사 결과와 향후 취소 규모는 확정되지 않았습니다."
+    }
+  ],
+  "id": "kr-historical-human-rights-awards-revocation-2026",
+  "schemaVersion": 1,
+  "title": "과거 인권침해 관련 경찰 정부포상 취소",
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+}

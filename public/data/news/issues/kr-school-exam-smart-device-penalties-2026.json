@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-25/am.json",
+      "category": "사회·교육",
+      "change": "교육부가 수능 부정행위 방지 대책을 중고등학교 내신 시험으로 확대하고 성적 무효 처리와 징계 강화 방안을 발표했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-25T09:04:25.744225+09:00",
+      "coveredOn": "2026-11-25",
+      "edition": "am",
+      "editionDate": "2026-11-25",
+      "editionId": "2026-11-25-am",
+      "eventAt": null,
+      "eventDate": "2026-11-24",
+      "eventEndDate": null,
+      "eventTimeNote": "교육부가 2026년 11월 24일 국무회의에서 발표한 중고교 스마트기기 부정행위 대응 방안입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-25-am/school-exam-smart-device-penalties-20261125",
+      "keyFacts": {
+        "agency": "교육부",
+        "announcementDate": "2026-11-24",
+        "application": "현재 진행 중인 고등학교 2학기 기말고사부터 적용 방침",
+        "devices": "전자기기 제출 및 시험 전후 점검",
+        "highSchoolPenalty": "최대 퇴학까지 징계하도록 권고",
+        "middleSchoolPenalty": "출석정지 등 징계 가능",
+        "scope": "중고등학교 내신 평가",
+        "scorePenalty": "스마트기기 부정행위 적발 시 당일 모든 과목 0점 처리 방안",
+        "supervision": "수능 수준의 시험 감독 강화"
+      },
+      "previous": null,
+      "publishedAt": "2026-11-24T16:59:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "MBC",
+          "publishedAt": "2026-11-24T16:59:00+09:00",
+          "title": "내신 'AI 커닝' 엄벌‥올해 국가 자격시험 전수조사",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6868207_36982.html",
+          "verifiedAt": "2026-11-25T09:04:25.744225+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "school-exam-smart-device-penalties-20261125",
+      "summary": [
+        "교육부는 중고등학교 내신 시험의 감독을 수능 수준으로 강화하고 스마트기기 부정행위가 적발되면 당일 모든 과목을 0점 처리하는 방안을 발표했습니다.",
+        "고등학생은 최대 퇴학까지 징계할 수 있도록 권고하고, 현재 진행 중인 고등학교 2학기 기말고사부터 강화된 관리 기준을 적용할 방침입니다."
+      ],
+      "supersededBy": [],
+      "title": "중고교 내신 부정행위, 전 과목 0점·최대 퇴학 추진",
+      "uncertainty": "퇴학은 가능한 최대 징계에 관한 권고입니다. 모든 부정행위 학생이 자동으로 퇴학 처리된다는 뜻은 아닙니다."
+    }
+  ],
+  "id": "kr-school-exam-smart-device-penalties-2026",
+  "schemaVersion": 1,
+  "title": "중고교 내신 시험 부정행위 대책",
+  "updatedAt": "2026-11-25T09:04:25.744225+09:00"
+}
