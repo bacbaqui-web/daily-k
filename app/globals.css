@@ -290,3 +290,6 @@ header{justify-content:space-between}.sources-button{font-size:14px;color:#59666
 .reader-dialog:has(.reader-edge) .reader-top>.reader-heading,.reader-dialog:has(.reader-edge) .reader-top>.laugh-stats{grid-column:1}
 .reader-dialog .reader-body{scrollbar-width:none;scrollbar-gutter:auto}
 .reader-dialog .reader-body::-webkit-scrollbar{display:none;width:0;height:0}
+
+/* Keep the live region available without painting an empty notification. */
+.comic-reader .news-copy-notice:empty{opacity:0}

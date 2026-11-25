@@ -1,4 +1,77 @@
 {
+  "../daily-k-share/node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js": {
+    "file": "daily-k/_next/static/chunks/Tooltip-BSm6Emdn.js",
+    "name": "Tooltip",
+    "src": "../daily-k-share/node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_focusOutline.stylex-CewDnt4V.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-400-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-400-normal.g7Dtegnw.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-400-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-500-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-500-normal.BWnGEVsr.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-500-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-600-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-600-normal.Cv_xCTDl.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-600-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-700-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-700-normal.th6qEP7c.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-700-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-400-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-400-normal.CXAzuTZb.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-400-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-500-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-500-normal.Du0rIuHj.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-500-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-600-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-600-normal.DJlfifZj.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-600-normal.woff2"
+  },
+  "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-700-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-700-normal.CS4sQkGV.woff2",
+    "src": "../daily-k-share/node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-700-normal.woff2"
+  },
+  "../daily-k-share/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-Dnt1FCyJ.js",
+    "name": "app-route-prefetch-policy",
+    "src": "../daily-k-share/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "../daily-k-share/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "daily-k/_next/static/chunks/layout-segment-context-BYdJXD6q.js",
+    "name": "layout-segment-context",
+    "src": "../daily-k-share/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
+  "../daily-k-share/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "daily-k/_next/static/chunks/streamed-icons-BLuFjTUO.js",
+    "name": "streamed-icons",
+    "src": "../daily-k-share/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
   "_focusOutline.stylex-CewDnt4V.js": {
     "file": "daily-k/_next/static/chunks/focusOutline.stylex-CewDnt4V.js",
     "name": "focusOutline.stylex",
@@ -19,7 +92,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "daily-k/_next/static/chunks/page-B2_ONDc_.js",
+    "file": "daily-k/_next/static/chunks/page-DKNNBgXm.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -30,7 +103,7 @@
       "_framework-CBxL4RM0.js"
     ],
     "dynamicImports": [
-      "node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js"
+      "../daily-k-share/node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js"
     ],
     "css": [
       "daily-k/_next/static/css/page.DVVm-53x.css"
@@ -46,81 +119,8 @@
       "daily-k/_next/static/media/figtree-latin-700-normal.th6qEP7c.woff2"
     ]
   },
-  "node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js": {
-    "file": "daily-k/_next/static/chunks/Tooltip-BSm6Emdn.js",
-    "name": "Tooltip",
-    "src": "node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_focusOutline.stylex-CewDnt4V.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-400-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-400-normal.g7Dtegnw.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-400-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-500-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-500-normal.BWnGEVsr.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-500-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-600-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-600-normal.Cv_xCTDl.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-600-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-700-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-700-normal.th6qEP7c.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-700-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-400-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-ext-400-normal.CXAzuTZb.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-400-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-500-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-ext-500-normal.Du0rIuHj.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-500-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-600-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-ext-600-normal.DJlfifZj.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-600-normal.woff2"
-  },
-  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-700-normal.woff2": {
-    "file": "daily-k/_next/static/media/figtree-latin-ext-700-normal.CS4sQkGV.woff2",
-    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-700-normal.woff2"
-  },
-  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-B2z5qOS1.js",
-    "name": "app-route-prefetch-policy",
-    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "virtual:vinext-app-browser-entry"
-    ]
-  },
-  "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "daily-k/_next/static/chunks/layout-segment-context-BY5NhpOW.js",
-    "name": "layout-segment-context",
-    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
-  "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "daily-k/_next/static/chunks/streamed-icons-BLuFjTUO.js",
-    "name": "streamed-icons",
-    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-B5T57xks.js",
-      "_framework-CBxL4RM0.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "daily-k/_next/static/chunks/index-CKUFpcfD.js",
+    "file": "daily-k/_next/static/chunks/index-DhnXG33d.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -129,11 +129,11 @@
       "_framework-CBxL4RM0.js"
     ],
     "dynamicImports": [
-      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "../daily-k-share/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
       "virtual:vinext-app-browser-entry",
-      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "../daily-k-share/node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/page.tsx",
-      "node_modules/vinext/dist/shims/streamed-icons.js"
+      "../daily-k-share/node_modules/vinext/dist/shims/streamed-icons.js"
     ]
   }
 }
