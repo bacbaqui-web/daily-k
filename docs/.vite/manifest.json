@@ -1,4 +1,12 @@
 {
+  "_focusOutline.stylex-CewDnt4V.js": {
+    "file": "daily-k/_next/static/chunks/focusOutline.stylex-CewDnt4V.js",
+    "name": "focusOutline.stylex",
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
   "_framework-CBxL4RM0.js": {
     "file": "daily-k/_next/static/chunks/framework-CBxL4RM0.js",
     "name": "framework",
@@ -11,20 +19,78 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "daily-k/_next/static/chunks/page-DoNcGxd8.js",
+    "file": "daily-k/_next/static/chunks/page-B2_ONDc_.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-B5T57xks.js",
+      "virtual:vinext-app-browser-entry",
+      "_focusOutline.stylex-CewDnt4V.js",
       "_framework-CBxL4RM0.js"
     ],
+    "dynamicImports": [
+      "node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js"
+    ],
     "css": [
-      "daily-k/_next/static/css/page.B90KkZvk.css"
+      "daily-k/_next/static/css/page.DVVm-53x.css"
+    ],
+    "assets": [
+      "daily-k/_next/static/media/figtree-latin-ext-400-normal.CXAzuTZb.woff2",
+      "daily-k/_next/static/media/figtree-latin-400-normal.g7Dtegnw.woff2",
+      "daily-k/_next/static/media/figtree-latin-ext-500-normal.Du0rIuHj.woff2",
+      "daily-k/_next/static/media/figtree-latin-500-normal.BWnGEVsr.woff2",
+      "daily-k/_next/static/media/figtree-latin-ext-600-normal.DJlfifZj.woff2",
+      "daily-k/_next/static/media/figtree-latin-600-normal.Cv_xCTDl.woff2",
+      "daily-k/_next/static/media/figtree-latin-ext-700-normal.CS4sQkGV.woff2",
+      "daily-k/_next/static/media/figtree-latin-700-normal.th6qEP7c.woff2"
     ]
   },
+  "node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js": {
+    "file": "daily-k/_next/static/chunks/Tooltip-BSm6Emdn.js",
+    "name": "Tooltip",
+    "src": "node_modules/@astryxdesign/core/dist/Tooltip/Tooltip.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-B5T57xks.js",
+      "_focusOutline.stylex-CewDnt4V.js",
+      "_framework-CBxL4RM0.js"
+    ]
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-400-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-400-normal.g7Dtegnw.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-400-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-500-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-500-normal.BWnGEVsr.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-500-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-600-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-600-normal.Cv_xCTDl.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-600-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-700-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-700-normal.th6qEP7c.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-700-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-400-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-400-normal.CXAzuTZb.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-500-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-500-normal.Du0rIuHj.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-500-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-600-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-600-normal.DJlfifZj.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-700-normal.woff2": {
+    "file": "daily-k/_next/static/media/figtree-latin-ext-700-normal.CS4sQkGV.woff2",
+    "src": "node_modules/@astryxdesign/theme-neutral/fonts/figtree-latin-ext-700-normal.woff2"
+  },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-DLkr7wbQ.js",
+    "file": "daily-k/_next/static/chunks/app-route-prefetch-policy-B2z5qOS1.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -33,7 +99,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "daily-k/_next/static/chunks/layout-segment-context-BXUDA4Ih.js",
+    "file": "daily-k/_next/static/chunks/layout-segment-context-BY5NhpOW.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -44,7 +110,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "daily-k/_next/static/chunks/streamed-icons-DeUgJCDM.js",
+    "file": "daily-k/_next/static/chunks/streamed-icons-BLuFjTUO.js",
     "name": "streamed-icons",
     "src": "node_modules/vinext/dist/shims/streamed-icons.js",
     "isDynamicEntry": true,
@@ -54,7 +120,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "daily-k/_next/static/chunks/index-DwhwTvrh.js",
+    "file": "daily-k/_next/static/chunks/index-CKUFpcfD.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
