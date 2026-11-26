@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-26/pm.json",
+      "category": "경제",
+      "change": "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-26T21:06:13.923775+09:00",
+      "coveredOn": "2026-11-26",
+      "edition": "pm",
+      "editionDate": "2026-11-26",
+      "editionId": "2026-11-26-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-26",
+      "eventEndDate": null,
+      "eventTimeNote": "기사와 발표 내용에서 확인했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-26-pm/bok-rate-hike-20261126",
+      "keyFacts": {
+        "detail": "반도체 수출 호조 등을 반영해 내년 성장률 전망을 2.9%에서 4.1%로 높였습니다.",
+        "result": "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다."
+      },
+      "previous": null,
+      "publishedAt": "2026-11-26T14:30:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-26T14:30:00+09:00",
+          "title": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+          "url": "https://www.yna.co.kr/view/AKR20261126120000011",
+          "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "bok-rate-hike-20261126",
+      "summary": [
+        "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다.",
+        "반도체 수출 호조 등을 반영해 내년 성장률 전망을 2.9%에서 4.1%로 높였습니다."
+      ],
+      "supersededBy": [],
+      "title": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+      "uncertainty": "후속 수치와 일정은 추가 확인이 필요합니다."
+    }
+  ],
+  "id": "bok-rate-hike-20261126",
+  "schemaVersion": 1,
+  "title": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+  "updatedAt": "2026-11-26T21:06:13.923775+09:00"
+}

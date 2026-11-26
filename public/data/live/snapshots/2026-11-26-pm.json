@@ -1,0 +1,246 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-26T21:10:17.686871+09:00",
+  "id": "2026-11-26-pm",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-26T21:00:00+09:00",
+      "date": "2026-11-26",
+      "edition": "pm",
+      "events": [],
+      "generatedAt": "2026-11-26T21:06:13.923775+09:00",
+      "generationMode": "codex-cli",
+      "id": "2026-11-26-pm",
+      "intro": "11월 26일 저녁 주요 뉴스입니다.",
+      "keywords": [
+        "기준금리",
+        "코스피",
+        "스페이스X"
+      ],
+      "overview": [
+        "한국은행이 기준금리를 3.25%로 올리고 내년 성장률 전망도 높였습니다.",
+        "코스피는 소폭 반등했고, 미국은 스페이스X의 우주 데이터센터 위성 배치를 승인했습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "경제",
+          "emphasis": [
+            "3.25%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "기사와 발표 내용에서 확인했습니다.",
+          "factsHash": "c71d84173b80dabeece0aa217b41fe3e680d33fa7ce2c42bcd6c829f5e2d8dc4",
+          "id": "bok-rate-hike-20261126",
+          "keyFacts": {
+            "detail": "반도체 수출 호조 등을 반영해 내년 성장률 전망을 2.9%에서 4.1%로 높였습니다.",
+            "result": "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다."
+          },
+          "publishedAt": "2026-11-26T14:30:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-26T14:30:00+09:00",
+              "title": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+              "url": "https://www.yna.co.kr/view/AKR20261126120000011",
+              "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261126120000011",
+          "score": 95.5,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 100,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "반도체 수출 호조 등을 반영해 내년 성장률 전망을 2.9%에서 4.1%로 높였습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-26T14:30:00+09:00",
+              "title": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+              "url": "https://www.yna.co.kr/view/AKR20261126120000011",
+              "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다.",
+            "반도체 수출 호조 등을 반영해 내년 성장률 전망을 2.9%에서 4.1%로 높였습니다."
+          ],
+          "timeline": {
+            "change": "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다.",
+            "eventDate": "2026-11-26",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "bok-rate-hike-20261126",
+            "issueTitle": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+            "stage": "발표"
+          },
+          "title": "한은 기준금리 3.25%로 인상…내년 성장률 전망 4.1%",
+          "topicKey": "bok-rate-hike-20261126",
+          "uncertainty": "후속 수치와 일정은 추가 확인이 필요합니다.",
+          "whatChanged": "한국은행이 기준금리를 3.00%에서 3.25%로 올렸습니다.",
+          "whyItMatters": "반도체 수출 호조 등을 반영해 내년 성장률 전망을 2.9%에서 4.1%로 높였습니다."
+        },
+        {
+          "category": "과학·기술",
+          "emphasis": [
+            "최대 100만 기"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "기사와 발표 내용에서 확인했습니다.",
+          "factsHash": "69af5dd0978d2fc92c95c5559d5a6ad3d83f3c75cf45569d6612432bc0f5d2b3",
+          "id": "fcc-starmind-approval-20261126",
+          "keyFacts": {
+            "detail": "이번 결정은 발사와 운용을 허가한 것으로, 위성이 이미 배치된 것은 아닙니다.",
+            "result": "미 연방통신위원회가 스페이스X의 궤도 데이터센터용 위성 최대 100만 기 배치를 승인했습니다."
+          },
+          "publishedAt": "2026-11-26T14:04:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "전자신문",
+              "publishedAt": "2026-11-26T14:04:00+09:00",
+              "title": "미 FCC, 스페이스X 데이터센터 위성 최대 100만 기 승인",
+              "url": "https://www.etnews.com/20261126000337",
+              "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.etnews.com/20261126000337",
+          "score": 93.4,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 94,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "이번 결정은 발사와 운용을 허가한 것으로, 위성이 이미 배치된 것은 아닙니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "전자신문",
+              "publishedAt": "2026-11-26T14:04:00+09:00",
+              "title": "미 FCC, 스페이스X 데이터센터 위성 최대 100만 기 승인",
+              "url": "https://www.etnews.com/20261126000337",
+              "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "미 연방통신위원회가 스페이스X의 궤도 데이터센터용 위성 최대 100만 기 배치를 승인했습니다.",
+            "이번 결정은 발사와 운용을 허가한 것으로, 위성이 이미 배치된 것은 아닙니다."
+          ],
+          "timeline": {
+            "change": "미 연방통신위원회가 스페이스X의 궤도 데이터센터용 위성 최대 100만 기 배치를 승인했습니다.",
+            "eventDate": "2026-11-25",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "fcc-starmind-approval-20261126",
+            "issueTitle": "미 FCC, 스페이스X 데이터센터 위성 최대 100만 기 승인",
+            "stage": "발표"
+          },
+          "title": "미 FCC, 스페이스X 데이터센터 위성 최대 100만 기 승인",
+          "topicKey": "fcc-starmind-approval-20261126",
+          "uncertainty": "후속 수치와 일정은 추가 확인이 필요합니다.",
+          "whatChanged": "미 연방통신위원회가 스페이스X의 궤도 데이터센터용 위성 최대 100만 기 배치를 승인했습니다.",
+          "whyItMatters": "이번 결정은 발사와 운용을 허가한 것으로, 위성이 이미 배치된 것은 아닙니다."
+        },
+        {
+          "category": "경제",
+          "emphasis": [
+            "4,711.21"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "기사와 발표 내용에서 확인했습니다.",
+          "factsHash": "3a7bd613e5243c40eb1c11981ea91c4f03b4bd45d7d0260bc155f6333b092acd",
+          "followUp": {
+            "delta": "전날 급락에 이어 오늘은 장중 상승폭을 줄이며 4,711.21로 마감했습니다.",
+            "editionId": "2026-11-25-pm",
+            "storyId": "kospi-rebound-reversed-plunge-20261125"
+          },
+          "id": "kospi-close-rebound-20261126",
+          "keyFacts": {
+            "detail": "장중 4,800선을 넘겼지만 상승폭을 대부분 반납했습니다.",
+            "result": "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다."
+          },
+          "publishedAt": "2026-11-26T16:26:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-26T16:26:00+09:00",
+              "title": "코스피 0.29% 반등…4,711.21 마감",
+              "url": "https://member.newspim.com/news/view/20261126001067",
+              "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+            }
+          ],
+          "representativeUrl": "https://member.newspim.com/news/view/20261126001067",
+          "score": 92.35,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 91,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "장중 4,800선을 넘겼지만 상승폭을 대부분 반납했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴스핌",
+              "publishedAt": "2026-11-26T16:26:00+09:00",
+              "title": "코스피 0.29% 반등…4,711.21 마감",
+              "url": "https://member.newspim.com/news/view/20261126001067",
+              "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다.",
+            "장중 4,800선을 넘겼지만 상승폭을 대부분 반납했습니다."
+          ],
+          "timeline": {
+            "change": "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다.",
+            "eventDate": "2026-11-26",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피 0.29% 반등…4,711.21 마감",
+          "topicKey": "kr-stock-market-november-2026",
+          "uncertainty": "후속 수치와 일정은 추가 확인이 필요합니다.",
+          "whatChanged": "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다.",
+          "whyItMatters": "장중 4,800선을 넘겼지만 상승폭을 대부분 반납했습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-26T21:10:17.686871+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "9163e13b65df59196323277784a6637161a4096aa9fbf0a15ed4f27f79edfeb1",
+  "opensAt": "2026-11-26T09:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-26T21:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}

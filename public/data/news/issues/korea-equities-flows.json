@@ -1582,6 +1582,58 @@
       "uncertainty": "마감 수치는 확정됐지만 추가 하락 여부와 시장 안정 대책의 효과는 확인되지 않았습니다."
     },
     {
+      "briefingPath": "2026-11-26/pm.json",
+      "category": "경제",
+      "change": "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-26T21:06:13.923775+09:00",
+      "coveredOn": "2026-11-26",
+      "edition": "pm",
+      "editionDate": "2026-11-26",
+      "editionId": "2026-11-26-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-26",
+      "eventEndDate": null,
+      "eventTimeNote": "기사와 발표 내용에서 확인했습니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "전날 급락에 이어 오늘은 장중 상승폭을 줄이며 4,711.21로 마감했습니다.",
+        "editionId": "2026-11-25-pm",
+        "storyId": "kospi-rebound-reversed-plunge-20261125"
+      },
+      "id": "2026-11-26-pm/kospi-close-rebound-20261126",
+      "keyFacts": {
+        "detail": "장중 4,800선을 넘겼지만 상승폭을 대부분 반납했습니다.",
+        "result": "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-25-pm",
+        "storyId": "kospi-rebound-reversed-plunge-20261125"
+      },
+      "publishedAt": "2026-11-26T16:26:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴스핌",
+          "publishedAt": "2026-11-26T16:26:00+09:00",
+          "title": "코스피 0.29% 반등…4,711.21 마감",
+          "url": "https://member.newspim.com/news/view/20261126001067",
+          "verifiedAt": "2026-11-26T21:06:13.923775+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kospi-close-rebound-20261126",
+      "summary": [
+        "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다.",
+        "장중 4,800선을 넘겼지만 상승폭을 대부분 반납했습니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피 0.29% 반등…4,711.21 마감",
+      "uncertainty": "후속 수치와 일정은 추가 확인이 필요합니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2480,5 +2532,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-26T09:18:54.047642+09:00"
+  "updatedAt": "2026-11-26T21:06:13.923775+09:00"
 }

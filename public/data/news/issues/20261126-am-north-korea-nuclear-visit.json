@@ -1,54 +1,54 @@
 {
-  "schemaVersion": 1,
-  "id": "20261126-am-north-korea-nuclear-visit",
-  "title": "김정은, 핵시설 방문…전술핵 활용 확대 언급",
   "entries": [
     {
-      "id": "2026-11-26-am/20261126-am-north-korea-nuclear-visit",
-      "editionId": "2026-11-26-am",
-      "storyId": "20261126-am-north-korea-nuclear-visit",
-      "editionDate": "2026-11-26",
-      "edition": "am",
-      "coveredAt": "2026-11-26T09:34:14.195930+09:00",
+      "briefingPath": "2026-11-26/am.json",
+      "category": "외교·안보",
+      "change": "김정은은 생산시설 확장 상황을 살피고 전술핵을 여러 영역에서 활용하는 데 주목해야 한다고 말했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-26T09:49:20.067626+09:00",
       "coveredOn": "2026-11-26",
-      "publishedAt": "2026-11-26T07:53:29+09:00",
+      "edition": "am",
+      "editionDate": "2026-11-26",
+      "editionId": "2026-11-26-am",
       "eventAt": null,
       "eventDate": "2026-11-25",
       "eventEndDate": null,
-      "eventTimezone": "Asia/Seoul",
       "eventTimeNote": "2026-11-25",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-26-am/20261126-am-north-korea-nuclear-visit",
+      "keyFacts": {
+        "detail": "김정은은 생산시설 확장 상황을 살피고 전술핵을 여러 영역에서 활용하는 데 주목해야 한다고 말했습니다.",
+        "result": "북한 매체는 김정은이 25일 핵물질 생산기지와 핵무기연구소를 방문했다고 보도했습니다."
+      },
+      "previous": null,
+      "publishedAt": "2026-11-26T07:53:29+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "YTN",
+          "publishedAt": "2026-11-26T07:53:29+09:00",
+          "title": "김정은, 핵시설 방문…전술핵 활용 확대 언급",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611260753291633",
+          "verifiedAt": "2026-11-26T09:34:14.195930+09:00"
+        }
+      ],
       "stage": "보도",
-      "change": "김정은은 생산시설 확장 상황을 살피고 전술핵을 여러 영역에서 활용하는 데 주목해야 한다고 말했습니다.",
-      "title": "김정은, 핵시설 방문…전술핵 활용 확대 언급",
-      "category": "외교·안보",
       "status": "보도",
+      "storyId": "20261126-am-north-korea-nuclear-visit",
       "summary": [
         "북한 매체는 김정은이 25일 핵물질 생산기지와 핵무기연구소를 방문했다고 보도했습니다.",
         "김정은은 생산시설 확장 상황을 살피고 전술핵을 여러 영역에서 활용하는 데 주목해야 한다고 말했습니다."
       ],
-      "keyFacts": {
-        "result": "북한 매체는 김정은이 25일 핵물질 생산기지와 핵무기연구소를 방문했다고 보도했습니다.",
-        "detail": "김정은은 생산시설 확장 상황을 살피고 전술핵을 여러 영역에서 활용하는 데 주목해야 한다고 말했습니다."
-      },
-      "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
-      "sources": [
-        {
-          "name": "YTN",
-          "title": "김정은, 핵시설 방문…전술핵 활용 확대 언급",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611260753291633",
-          "language": "ko",
-          "kind": "news",
-          "publishedAt": "2026-11-26T07:53:29+09:00",
-          "verifiedAt": "2026-11-26T09:34:14.195930+09:00",
-          "imageUrl": null
-        }
-      ],
-      "briefingPath": "2026-11-26/am.json",
-      "previous": null,
-      "followUp": null,
-      "correctionOf": null,
-      "supersededBy": []
+      "supersededBy": [],
+      "title": "김정은, 핵시설 방문…전술핵 활용 확대 언급",
+      "uncertainty": "후속 상황은 추가 확인이 필요합니다."
     }
   ],
-  "updatedAt": "2026-11-26T09:34:14.195930+09:00"
+  "id": "20261126-am-north-korea-nuclear-visit",
+  "schemaVersion": 1,
+  "title": "김정은, 핵시설 방문…전술핵 활용 확대 언급",
+  "updatedAt": "2026-11-26T21:06:13.923775+09:00"
 }
