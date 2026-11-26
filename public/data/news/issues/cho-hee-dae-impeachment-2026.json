@@ -1,30 +1,38 @@
 {
+  "schemaVersion": 1,
+  "id": "cho-hee-dae-impeachment-2026",
+  "title": "조희대 대법원장 탄핵 추진",
   "entries": [
     {
-      "briefingPath": "2026-11-20/am.json",
-      "category": "정치·사법",
-      "change": "민주당 지도부가 대법원장 탄핵추진단 구성 계획을 밝히고 20일 의원총회에서 당론 채택을 추진하기로 했습니다.",
-      "correctionOf": null,
+      "id": "2026-11-20-am/cho-hee-dae-impeachment-plan-20261120",
+      "editionId": "2026-11-20-am",
+      "storyId": "cho-hee-dae-impeachment-plan-20261120",
+      "editionDate": "2026-11-20",
+      "edition": "am",
       "coveredAt": "2026-11-20T09:16:07.810668+09:00",
       "coveredOn": "2026-11-20",
-      "edition": "am",
-      "editionDate": "2026-11-20",
-      "editionId": "2026-11-20-am",
+      "publishedAt": "2026-11-19T22:25:00+09:00",
       "eventAt": null,
       "eventDate": "2026-11-19",
       "eventEndDate": null,
-      "eventTimeNote": "19일 밤 민주당 긴급 최고위원회의 이후 발표된 방침입니다. 20일 의원총회 개최 예정이나 당론 채택 여부와 정확한 회의 시각은 조사 기준까지 확정되지 않았습니다.",
       "eventTimezone": "Asia/Seoul",
-      "followUp": null,
-      "id": "2026-11-20-am/cho-hee-dae-impeachment-plan-20261120",
+      "eventTimeNote": "19일 밤 민주당 긴급 최고위원회의 이후 발표된 방침입니다. 20일 의원총회 개최 예정이나 당론 채택 여부와 정확한 회의 시각은 조사 기준까지 확정되지 않았습니다.",
+      "stage": "발표",
+      "change": "민주당 지도부가 대법원장 탄핵추진단 구성 계획을 밝히고 20일 의원총회에서 당론 채택을 추진하기로 했습니다.",
+      "title": "민주당, 조희대 탄핵추진단 구성 계획",
+      "category": "정치·사법",
+      "status": "예정",
+      "summary": [
+        "더불어민주당은 조희대 대법원장 탄핵을 추진하기로 하고 20일 의원총회에서 당론을 채택한 뒤 탄핵추진단을 구성할 계획이라고 밝혔습니다.",
+        "한덕수 전 국무총리 사건의 대법원 파기환송 판결 이후 나온 결정으로, 국민의힘은 이를 보복 탄핵이라고 규정하며 반발했습니다."
+      ],
       "keyFacts": {
         "decision": "더불어민주당 지도부가 조희대 대법원장 탄핵 추진 계획 발표",
         "nextStep": "11월 20일 의원총회 당론 채택 추진 및 탄핵추진단 구성",
         "oppositionPosition": "국민의힘은 보복 탄핵이라며 반대",
         "trigger": "한덕수 전 국무총리 관련 대법원 일부 무죄 취지 파기환송 판결"
       },
-      "previous": null,
-      "publishedAt": "2026-11-19T22:25:00+09:00",
+      "uncertainty": "20일 의원총회에서 당론이 확정되기 전이며 탄핵소추안 제출·표결 일정은 아직 발표되지 않았습니다.",
       "sources": [
         {
           "imageUrl": "https://img.khan.co.kr/news/2026/11/19/rcv.YNA.20261119.PYH2026111923520001300.jpg",
@@ -37,38 +45,35 @@
           "verifiedAt": "2026-11-20T09:16:07.810668+09:00"
         }
       ],
-      "stage": "발표",
-      "status": "예정",
-      "storyId": "cho-hee-dae-impeachment-plan-20261120",
-      "summary": [
-        "더불어민주당은 조희대 대법원장 탄핵을 추진하기로 하고 20일 의원총회에서 당론을 채택한 뒤 탄핵추진단을 구성할 계획이라고 밝혔습니다.",
-        "한덕수 전 국무총리 사건의 대법원 파기환송 판결 이후 나온 결정으로, 국민의힘은 이를 보복 탄핵이라고 규정하며 반발했습니다."
-      ],
-      "supersededBy": [],
-      "title": "민주당, 조희대 탄핵추진단 구성 계획",
-      "uncertainty": "20일 의원총회에서 당론이 확정되기 전이며 탄핵소추안 제출·표결 일정은 아직 발표되지 않았습니다."
+      "briefingPath": "2026-11-20/am.json",
+      "previous": null,
+      "followUp": null,
+      "correctionOf": null,
+      "supersededBy": []
     },
     {
-      "briefingPath": "2026-11-20/pm.json",
-      "category": "정치·사법",
-      "change": "전날 발표된 민주당의 탄핵 추진 방침이 20일 의원총회에서 공식 당론으로 채택됐으며 연내 발의를 추진하기로 했습니다.",
-      "correctionOf": null,
+      "id": "2026-11-20-pm/cho-hee-dae-impeachment-party-decision-20261120",
+      "editionId": "2026-11-20-pm",
+      "storyId": "cho-hee-dae-impeachment-party-decision-20261120",
+      "editionDate": "2026-11-20",
+      "edition": "pm",
       "coveredAt": "2026-11-20T21:03:50.907628+09:00",
       "coveredOn": "2026-11-20",
-      "edition": "pm",
-      "editionDate": "2026-11-20",
-      "editionId": "2026-11-20-pm",
+      "publishedAt": "2026-11-20T16:50:00+09:00",
       "eventAt": null,
       "eventDate": "2026-11-20",
       "eventEndDate": null,
-      "eventTimeNote": "2026년 11월 20일 더불어민주당 의원총회에서 당론 채택이 결정됐습니다. 정확한 회의 종료 시각은 확인하지 못했습니다.",
       "eventTimezone": "Asia/Seoul",
-      "followUp": {
-        "delta": "전날 밤 추진 계획을 발표한 데 이어 20일 의원총회에서 탄핵소추 추진이 공식 당론으로 채택됐습니다.",
-        "editionId": "2026-11-20-am",
-        "storyId": "cho-hee-dae-impeachment-plan-20261120"
-      },
-      "id": "2026-11-20-pm/cho-hee-dae-impeachment-party-decision-20261120",
+      "eventTimeNote": "2026년 11월 20일 더불어민주당 의원총회에서 당론 채택이 결정됐습니다. 정확한 회의 종료 시각은 확인하지 못했습니다.",
+      "stage": "확정",
+      "change": "전날 발표된 민주당의 탄핵 추진 방침이 20일 의원총회에서 공식 당론으로 채택됐으며 연내 발의를 추진하기로 했습니다.",
+      "title": "민주당, 조희대 탄핵 추진 당론 채택",
+      "category": "정치·사법",
+      "status": "확정",
+      "summary": [
+        "더불어민주당이 조희대 대법원장 탄핵소추 추진을 의원총회에서 당론으로 채택했습니다.",
+        "당은 연내 소추안 발의를 추진하겠다고 밝혔으며 국민의힘은 삼권분립 침해 우려를 제기하며 반대했습니다."
+      ],
       "keyFacts": {
         "decision": "민주당 의원총회에서 조희대 대법원장 탄핵소추 추진 당론 채택",
         "excludedGround": "민주당은 한덕수 전 총리 사건의 전날 판결 자체를 탄핵 사유에 포함하지 않았다고 설명",
@@ -77,11 +82,7 @@
         "plannedFiling": "2026년 연내 조기 발의 추진",
         "taskForceLeader": "양부남 민주당 의원"
       },
-      "previous": {
-        "editionId": "2026-11-20-am",
-        "storyId": "cho-hee-dae-impeachment-plan-20261120"
-      },
-      "publishedAt": "2026-11-20T16:50:00+09:00",
+      "uncertainty": "당론 채택은 완료됐지만 탄핵소추안 발의·본회의 의결·헌법재판소 심판은 아직 완료되지 않았으며 정확한 발의 날짜도 확정되지 않았습니다.",
       "sources": [
         {
           "imageUrl": "https://img1.yna.co.kr/photo/yna/YH/2026/11/20/PYH2026112001810001300_P4.jpg",
@@ -94,38 +95,42 @@
           "verifiedAt": "2026-11-20T21:03:50.907628+09:00"
         }
       ],
-      "stage": "확정",
-      "status": "확정",
-      "storyId": "cho-hee-dae-impeachment-party-decision-20261120",
-      "summary": [
-        "더불어민주당이 조희대 대법원장 탄핵소추 추진을 의원총회에서 당론으로 채택했습니다.",
-        "당은 연내 소추안 발의를 추진하겠다고 밝혔으며 국민의힘은 삼권분립 침해 우려를 제기하며 반대했습니다."
-      ],
-      "supersededBy": [],
-      "title": "민주당, 조희대 탄핵 추진 당론 채택",
-      "uncertainty": "당론 채택은 완료됐지만 탄핵소추안 발의·본회의 의결·헌법재판소 심판은 아직 완료되지 않았으며 정확한 발의 날짜도 확정되지 않았습니다."
+      "briefingPath": "2026-11-20/pm.json",
+      "previous": {
+        "editionId": "2026-11-20-am",
+        "storyId": "cho-hee-dae-impeachment-plan-20261120"
+      },
+      "followUp": {
+        "delta": "전날 밤 추진 계획을 발표한 데 이어 20일 의원총회에서 탄핵소추 추진이 공식 당론으로 채택됐습니다.",
+        "editionId": "2026-11-20-am",
+        "storyId": "cho-hee-dae-impeachment-plan-20261120"
+      },
+      "correctionOf": null,
+      "supersededBy": []
     },
     {
-      "briefingPath": "2026-11-21/pm.json",
-      "category": "정치·사법",
-      "change": "민주당의 탄핵 추진 당론 채택 이후 대변인이 12월 3일 전후 발의 가능성을 개인 의견으로 제시했으며 공식 날짜는 미정이라고 설명했습니다.",
-      "correctionOf": null,
+      "id": "2026-11-21-pm/cho-hee-dae-impeachment-december-date-discussed-20261121",
+      "editionId": "2026-11-21-pm",
+      "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121",
+      "editionDate": "2026-11-21",
+      "edition": "pm",
       "coveredAt": "2026-11-21T21:19:20.420658+09:00",
       "coveredOn": "2026-11-21",
-      "edition": "pm",
-      "editionDate": "2026-11-21",
-      "editionId": "2026-11-21-pm",
+      "publishedAt": "2026-11-21T12:19:00+09:00",
       "eventAt": null,
       "eventDate": "2026-11-21",
       "eventEndDate": null,
-      "eventTimeNote": "2026년 11월 21일 국회에서 민주당 대변인이 발의 예상 시점을 개인적인 의견으로 언급했습니다. 발의 일정은 확정되지 않았습니다.",
       "eventTimezone": "Asia/Seoul",
-      "followUp": {
-        "delta": "20일 민주당이 조희대 대법원장 탄핵 추진을 당론으로 채택한 뒤 21일 당 대변인이 12월 3일 전후를 예상 발의 시점으로 언급했습니다.",
-        "editionId": "2026-11-20-pm",
-        "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
-      },
-      "id": "2026-11-21-pm/cho-hee-dae-impeachment-december-date-discussed-20261121",
+      "eventTimeNote": "2026년 11월 21일 국회에서 민주당 대변인이 발의 예상 시점을 개인적인 의견으로 언급했습니다. 발의 일정은 확정되지 않았습니다.",
+      "stage": "검토",
+      "change": "민주당의 탄핵 추진 당론 채택 이후 대변인이 12월 3일 전후 발의 가능성을 개인 의견으로 제시했으며 공식 날짜는 미정이라고 설명했습니다.",
+      "title": "민주당 대변인, 조희대 탄핵안 12월 3일 발의 거론",
+      "category": "정치·사법",
+      "status": "검토",
+      "summary": [
+        "더불어민주당 조계원 대변인은 조희대 대법원장 탄핵안을 12월 3일쯤 발의하는 데 공감대가 있을 것으로 본다고 말했습니다.",
+        "다만 자신의 견해이며 당 지도부에서 발의 날짜를 공식 결정한 것은 아니라고 밝혔습니다."
+      ],
       "keyFacts": {
         "officialDecision": "당 지도부의 공식 발의 날짜 결정 없음",
         "previousStep": "11월 20일 탄핵소추 추진 당론 채택",
@@ -133,11 +138,7 @@
         "speaker": "조계원 더불어민주당 대변인",
         "suggestedDate": "2026년 12월 3일 전후"
       },
-      "previous": {
-        "editionId": "2026-11-20-pm",
-        "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
-      },
-      "publishedAt": "2026-11-21T12:19:00+09:00",
+      "uncertainty": "12월 3일은 당 차원의 확정 일정이 아닌 대변인의 사견입니다. 탄핵소추안 발의·국회 의결·헌법재판소 심판이 완료됐다는 의미도 아닙니다.",
       "sources": [
         {
           "imageUrl": "https://img8.yna.co.kr/photo/yna/YH/2026/09/09/PYH2026090918590001300_P4.jpg",
@@ -150,38 +151,42 @@
           "verifiedAt": "2026-11-21T21:19:20.420658+09:00"
         }
       ],
-      "stage": "검토",
-      "status": "검토",
-      "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121",
-      "summary": [
-        "더불어민주당 조계원 대변인은 조희대 대법원장 탄핵안을 12월 3일쯤 발의하는 데 공감대가 있을 것으로 본다고 말했습니다.",
-        "다만 자신의 견해이며 당 지도부에서 발의 날짜를 공식 결정한 것은 아니라고 밝혔습니다."
-      ],
-      "supersededBy": [],
-      "title": "민주당 대변인, 조희대 탄핵안 12월 3일 발의 거론",
-      "uncertainty": "12월 3일은 당 차원의 확정 일정이 아닌 대변인의 사견입니다. 탄핵소추안 발의·국회 의결·헌법재판소 심판이 완료됐다는 의미도 아닙니다."
+      "briefingPath": "2026-11-21/pm.json",
+      "previous": {
+        "editionId": "2026-11-20-pm",
+        "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
+      },
+      "followUp": {
+        "delta": "20일 민주당이 조희대 대법원장 탄핵 추진을 당론으로 채택한 뒤 21일 당 대변인이 12월 3일 전후를 예상 발의 시점으로 언급했습니다.",
+        "editionId": "2026-11-20-pm",
+        "storyId": "cho-hee-dae-impeachment-party-decision-20261120"
+      },
+      "correctionOf": null,
+      "supersededBy": []
     },
     {
-      "briefingPath": "2026-11-25/pm.json",
-      "category": "정치·사법",
-      "change": "대법원장 탄핵 추진에 대해 창원지법 전체 판사회의가 사법부 독립과 권력분립을 위태롭게 한다는 공식 의견을 채택했습니다.",
-      "correctionOf": null,
+      "id": "2026-11-25-pm/changwon-judges-impeachment-opposition-20261125",
+      "editionId": "2026-11-25-pm",
+      "storyId": "changwon-judges-impeachment-opposition-20261125",
+      "editionDate": "2026-11-25",
+      "edition": "pm",
       "coveredAt": "2026-11-25T21:02:58.317292+09:00",
       "coveredOn": "2026-11-25",
-      "edition": "pm",
-      "editionDate": "2026-11-25",
-      "editionId": "2026-11-25-pm",
+      "publishedAt": "2026-11-25T16:35:00+09:00",
       "eventAt": null,
       "eventDate": "2026-11-25",
       "eventEndDate": null,
-      "eventTimeNote": "2026년 11월 25일 오후 1시부터 창원지방법원 전체 판사회의가 열렸으며 공식 의견이 의결됐습니다.",
       "eventTimezone": "Asia/Seoul",
-      "followUp": {
-        "delta": "민주당의 탄핵소추안 발의 시점이 논의되는 가운데 창원지법 판사회의가 사법부 독립 침해에 대한 우려를 담은 공식 의견을 처음으로 채택했습니다.",
-        "editionId": "2026-11-21-pm",
-        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
-      },
-      "id": "2026-11-25-pm/changwon-judges-impeachment-opposition-20261125",
+      "eventTimeNote": "2026년 11월 25일 오후 1시부터 창원지방법원 전체 판사회의가 열렸으며 공식 의견이 의결됐습니다.",
+      "stage": "후속",
+      "change": "대법원장 탄핵 추진에 대해 창원지법 전체 판사회의가 사법부 독립과 권력분립을 위태롭게 한다는 공식 의견을 채택했습니다.",
+      "title": "창원지법 판사들, 대법원장 탄핵 추진에 반대",
+      "category": "정치·사법",
+      "status": "확정",
+      "summary": [
+        "창원지방법원 판사들이 조희대 대법원장 탄핵 추진과 관련해 재판을 이유로 법관을 탄핵하는 것은 사법부 독립을 훼손한다는 공식 의견을 채택했습니다.",
+        "전체 법관 69명 중 약 60명이 회의에 참석했고 참석자 과반이 동의했으며, 일선 법원 판사회의의 첫 공식 반대 입장입니다."
+      ],
       "keyFacts": {
         "attendingJudges": "약 60명",
         "court": "창원지방법원",
@@ -192,11 +197,7 @@
         "position": "재판을 이유로 한 법관 탄핵이 사법부 독립과 권력분립을 훼손한다는 우려",
         "previousDevelopment": "더불어민주당의 조희대 대법원장 탄핵 추진 당론 채택"
       },
-      "previous": {
-        "editionId": "2026-11-21-pm",
-        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
-      },
-      "publishedAt": "2026-11-25T16:35:00+09:00",
+      "uncertainty": "헌법적 가치가 훼손된다는 설명은 판사회의가 채택한 의견입니다. 탄핵의 위헌 여부에 대한 헌법재판소 판단이나 탄핵소추안 의결 결과가 나온 것은 아닙니다.",
       "sources": [
         {
           "imageUrl": null,
@@ -209,20 +210,72 @@
           "verifiedAt": "2026-11-25T21:02:58.317292+09:00"
         }
       ],
+      "briefingPath": "2026-11-25/pm.json",
+      "previous": {
+        "editionId": "2026-11-21-pm",
+        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
+      },
+      "followUp": {
+        "delta": "민주당의 탄핵소추안 발의 시점이 논의되는 가운데 창원지법 판사회의가 사법부 독립 침해에 대한 우려를 담은 공식 의견을 처음으로 채택했습니다.",
+        "editionId": "2026-11-21-pm",
+        "storyId": "cho-hee-dae-impeachment-december-date-discussed-20261121"
+      },
+      "correctionOf": null,
+      "supersededBy": []
+    },
+    {
+      "id": "2026-11-26-am/20261126-am-impeachment-coalition",
+      "editionId": "2026-11-26-am",
+      "storyId": "20261126-am-impeachment-coalition",
+      "editionDate": "2026-11-26",
+      "edition": "am",
+      "coveredAt": "2026-11-26T09:34:14.195930+09:00",
+      "coveredOn": "2026-11-26",
+      "publishedAt": "2026-11-26T06:14:00+09:00",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimezone": "Asia/Seoul",
+      "eventTimeNote": "2026-11-25",
       "stage": "후속",
-      "status": "확정",
-      "storyId": "changwon-judges-impeachment-opposition-20261125",
+      "change": "조국혁신당은 환영했지만, 발의와 처리 일정을 논의하는 방식에는 의견 차이가 있습니다.",
+      "title": "민주당, 조희대 대법원장 탄핵에 5당 공조 제안",
+      "category": "정치",
+      "status": "보도",
       "summary": [
-        "창원지방법원 판사들이 조희대 대법원장 탄핵 추진과 관련해 재판을 이유로 법관을 탄핵하는 것은 사법부 독립을 훼손한다는 공식 의견을 채택했습니다.",
-        "전체 법관 69명 중 약 60명이 회의에 참석했고 참석자 과반이 동의했으며, 일선 법원 판사회의의 첫 공식 반대 입장입니다."
+        "김민석 민주당 대표가 25일 범여권 5당이 함께 탄핵을 추진하자고 제안했습니다.",
+        "조국혁신당은 환영했지만, 발의와 처리 일정을 논의하는 방식에는 의견 차이가 있습니다."
       ],
-      "supersededBy": [],
-      "title": "창원지법 판사들, 대법원장 탄핵 추진에 반대",
-      "uncertainty": "헌법적 가치가 훼손된다는 설명은 판사회의가 채택한 의견입니다. 탄핵의 위헌 여부에 대한 헌법재판소 판단이나 탄핵소추안 의결 결과가 나온 것은 아닙니다."
+      "keyFacts": {
+        "result": "김민석 민주당 대표가 25일 범여권 5당이 함께 탄핵을 추진하자고 제안했습니다.",
+        "detail": "조국혁신당은 환영했지만, 발의와 처리 일정을 논의하는 방식에는 의견 차이가 있습니다."
+      },
+      "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+      "sources": [
+        {
+          "name": "MBC",
+          "title": "민주당, 조희대 대법원장 탄핵에 5당 공조 제안",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868635_37013.html",
+          "language": "ko",
+          "kind": "news",
+          "publishedAt": "2026-11-26T06:14:00+09:00",
+          "verifiedAt": "2026-11-26T09:34:14.195930+09:00",
+          "imageUrl": null
+        }
+      ],
+      "briefingPath": "2026-11-26/am.json",
+      "previous": {
+        "editionId": "2026-11-25-pm",
+        "storyId": "changwon-judges-impeachment-opposition-20261125"
+      },
+      "followUp": {
+        "editionId": "2026-11-25-pm",
+        "storyId": "changwon-judges-impeachment-opposition-20261125",
+        "delta": "창원지법의 반대 표명에 이어 탄핵 추진에 참여할 정당과 처리 일정을 둘러싼 입장차가 확인됐습니다."
+      },
+      "correctionOf": null,
+      "supersededBy": []
     }
   ],
-  "id": "cho-hee-dae-impeachment-2026",
-  "schemaVersion": 1,
-  "title": "조희대 대법원장 탄핵 추진",
-  "updatedAt": "2026-11-26T09:18:54.047642+09:00"
+  "updatedAt": "2026-11-26T09:34:14.195930+09:00"
 }
