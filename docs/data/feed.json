@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T05:42:35.545299+09:00",
-  "windowEnd": "2026-11-27T05:35:46.897078+09:00",
+  "collectedAt": "2026-11-26T20:53:04.591826+00:00",
+  "windowEnd": "2026-11-27T05:53:04.305290+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7298,75 +7298,6 @@
       "firstPublishedAt": "2026-11-26T05:46:24.259084+00:00"
     },
     {
-      "id": "aagag-1672630-0",
-      "url": "https://aagag.com/issue/?idx=1672630",
-      "source": "애객",
-      "title": "ㅇㅎ)확인하는? 권은비",
-      "publishedAt": "2026-11-26T05:32:04+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7b7b.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7b7r.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7b7z.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7b7b.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7b7r.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7b7z.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9028740",
-          "text": "뭘 뜯는거지 ?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-26T05:47:39.574812+09:00",
-      "sourceTitles": [
-        "권은비",
-        "ㅇㅎ)확인하는? 권은비",
-        "권은비",
-        "치마에서 무언가 꺼내는 권은비"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-25T20:47:53.669501+00:00",
-      "collectedAt": "2026-11-26T05:47:53.669518+09:00",
-      "firstPublishedAt": "2026-11-25T20:47:53.909367+00:00"
-    },
-    {
       "id": "aagag-1672836-0",
       "url": "https://aagag.com/issue/?idx=1672836",
       "source": "애객",
@@ -7589,9 +7520,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
