@@ -1,6 +1,59 @@
 {
   "entries": [
     {
+      "briefingPath": "2026-11-26/am.json",
+      "category": "경제·국제",
+      "change": "미국의 발표 여부와 한국 관세 상한이 새롭게 확인됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-26T09:18:54.047642+09:00",
+      "coveredOn": "2026-11-26",
+      "edition": "am",
+      "editionDate": "2026-11-26",
+      "editionId": "2026-11-26-am",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지시간 11월 25일 발표 내용입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": {
+        "delta": "발표가 예고됐던 과잉생산 관세안이 실제로 공개됐으며 한국의 상한과 인상 가능성이 확인됐습니다.",
+        "editionId": "2026-11-25-am",
+        "storyId": "us-excess-production-tariff-announcement-expected-20261125"
+      },
+      "id": "2026-11-26-am/20261126-am-tariff",
+      "keyFacts": {
+        "detail": "한국에는 기존 합의에 따른 15% 상한을 적용하되, 협의 결과에 따라 25%까지 올릴 여지도 남겼습니다.",
+        "result": "미국이 한국 등 14개 경제주체를 대상으로 과잉생산 관세안을 발표했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-25-am",
+        "storyId": "us-excess-production-tariff-announcement-expected-20261125"
+      },
+      "publishedAt": "2026-11-26T01:09:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-26T01:09:00+09:00",
+          "title": "미국, 과잉생산 관세안 발표…한국 15% 상한 유지",
+          "url": "https://www.yna.co.kr/view/AKR20261125185752071",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "보도",
+      "storyId": "20261126-am-tariff",
+      "summary": [
+        "미국이 한국 등 14개 경제주체를 대상으로 과잉생산 관세안을 발표했습니다.",
+        "한국에는 기존 합의에 따른 15% 상한을 적용하되, 협의 결과에 따라 25%까지 올릴 여지도 남겼습니다."
+      ],
+      "supersededBy": [],
+      "title": "미국, 과잉생산 관세안 발표…한국 15% 상한 유지",
+      "uncertainty": "관세안은 의견 수렴을 거쳐 확정될 예정입니다."
+    },
+    {
       "briefingPath": "2026-11-25/am.json",
       "category": "국제·무역",
       "change": "미국의 과잉생산 관세 조사 결과 발표가 임박했다는 보도와 한국에 대한 15% 관세 상한 유지 전망이 나왔습니다.",
@@ -55,5 +108,5 @@
   "id": "us-section-301-excess-production-tariffs-2026",
   "schemaVersion": 1,
   "title": "미국 무역법 301조 과잉생산 관세 조사",
-  "updatedAt": "2026-11-25T21:02:58.317292+09:00"
+  "updatedAt": "2026-11-26T09:18:54.047642+09:00"
 }

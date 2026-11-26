@@ -1,0 +1,242 @@
+{
+  "cutoffAt": "2026-11-26T09:00:00+09:00",
+  "date": "2026-11-26",
+  "edition": "am",
+  "events": [],
+  "finalizedAt": "2026-11-26T09:22:58.047206+09:00",
+  "generatedAt": "2026-11-26T09:18:54.047642+09:00",
+  "generationMode": "codex-direct",
+  "id": "2026-11-26-am",
+  "intro": "11월 26일 오전 주요 뉴스입니다.",
+  "keywords": [
+    "미국 관세",
+    "PCE 물가",
+    "미국 성장률"
+  ],
+  "omissionNotes": [
+    "오전 9시 기준 이전 원문만 사용했습니다."
+  ],
+  "overview": [
+    "미국이 과잉생산 관세안을 발표하며 한국에 대한 15% 상한을 유지했습니다.",
+    "미국의 물가 상승률과 3분기 경제성장률이 함께 높아졌습니다."
+  ],
+  "recordId": "2026-11-26-am",
+  "scheduledFor": "2026-11-26T09:00:00+09:00",
+  "schemaVersion": 1,
+  "stories": [
+    {
+      "category": "경제·국제",
+      "emphasis": [
+        "14개 경제주체",
+        "15% 상한"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "미국 현지시간 11월 25일 발표 내용입니다.",
+      "factsHash": "de91a91f69c30319f04aaef0ce19cf7fb832ae3548ee2dc3728cf6f60e86d49a",
+      "followUp": {
+        "delta": "발표가 예고됐던 과잉생산 관세안이 실제로 공개됐으며 한국의 상한과 인상 가능성이 확인됐습니다.",
+        "editionId": "2026-11-25-am",
+        "storyId": "us-excess-production-tariff-announcement-expected-20261125"
+      },
+      "id": "20261126-am-tariff",
+      "keyFacts": {
+        "detail": "한국에는 기존 합의에 따른 15% 상한을 적용하되, 협의 결과에 따라 25%까지 올릴 여지도 남겼습니다.",
+        "result": "미국이 한국 등 14개 경제주체를 대상으로 과잉생산 관세안을 발표했습니다."
+      },
+      "publishedAt": "2026-11-26T01:09:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-26T01:09:00+09:00",
+          "title": "미국, 과잉생산 관세안 발표…한국 15% 상한 유지",
+          "url": "https://www.yna.co.kr/view/AKR20261125185752071",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261125185752071",
+      "score": 96.1,
+      "scoreComponents": {
+        "domesticImpact": 92,
+        "importance": 98,
+        "interest": 90,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "미국의 발표 여부와 한국 관세 상한이 새롭게 확인됐습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-26T01:09:00+09:00",
+          "title": "미국, 과잉생산 관세안 발표…한국 15% 상한 유지",
+          "url": "https://www.yna.co.kr/view/AKR20261125185752071",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "status": "보도",
+      "summary": [
+        "미국이 한국 등 14개 경제주체를 대상으로 과잉생산 관세안을 발표했습니다.",
+        "한국에는 기존 합의에 따른 15% 상한을 적용하되, 협의 결과에 따라 25%까지 올릴 여지도 남겼습니다."
+      ],
+      "timeline": {
+        "change": "미국의 발표 여부와 한국 관세 상한이 새롭게 확인됐습니다.",
+        "eventDate": "2026-11-25",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "issueId": "us-section-301-excess-production-tariffs-2026",
+        "issueTitle": "미국 무역법 301조 과잉생산 관세 조사",
+        "stage": "발표"
+      },
+      "title": "미국, 과잉생산 관세안 발표…한국 15% 상한 유지",
+      "topicKey": "us-section-301-excess-production-tariffs-2026",
+      "uncertainty": "관세안은 의견 수렴을 거쳐 확정될 예정입니다.",
+      "whatChanged": "미국의 발표 여부와 한국 관세 상한이 새롭게 확인됐습니다.",
+      "whyItMatters": "미국의 발표 여부와 한국 관세 상한이 새롭게 확인됐습니다."
+    },
+    {
+      "category": "경제·국제",
+      "emphasis": [
+        "3.8% 올랐습니다",
+        "3.3%"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "미국 현지시간 11월 25일 발표 내용입니다.",
+      "factsHash": "68a7a86e92e46e26b41c1c19906c19cf3c18aa69dd401630b336b4ae0b4ad376",
+      "fallbackNote": "전날 밤 발표된 미국 10월 물가 통계로 오전 회차에 처음 확인했습니다.",
+      "id": "20261126-am-pce",
+      "keyFacts": {
+        "detail": "식료품과 에너지를 뺀 근원 물가 상승률은 3.3%로, 2023년 이후 가장 높았습니다.",
+        "result": "미국의 10월 개인소비지출 물가지수가 1년 전보다 3.8% 올랐습니다."
+      },
+      "publishedAt": "2026-11-25T23:42:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T23:42:00+09:00",
+          "title": "미국 10월 소비물가 3.8% 상승",
+          "url": "https://www.yna.co.kr/view/AKR20261125185851072",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261125185851072",
+      "score": 91.9,
+      "scoreComponents": {
+        "domesticImpact": 91,
+        "importance": 97,
+        "interest": 90,
+        "recency": 82,
+        "reliability": 98
+      },
+      "scoreReason": "미국의 새로운 물가 지표로 금리 전망에 영향을 줄 수 있습니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T23:42:00+09:00",
+          "title": "미국 10월 소비물가 3.8% 상승",
+          "url": "https://www.yna.co.kr/view/AKR20261125185851072",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "미국의 10월 개인소비지출 물가지수가 1년 전보다 3.8% 올랐습니다.",
+        "식료품과 에너지를 뺀 근원 물가 상승률은 3.3%로, 2023년 이후 가장 높았습니다."
+      ],
+      "timeline": {
+        "change": "미국의 새로운 물가 지표로 금리 전망에 영향을 줄 수 있습니다.",
+        "eventDate": "2026-11-25",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "issueId": "us-pce-inflation-2026-10",
+        "issueTitle": "2026년 10월 미국 개인소비지출 물가",
+        "stage": "발표"
+      },
+      "title": "미국 10월 소비물가 3.8% 상승",
+      "topicKey": "us-pce-inflation-2026-10",
+      "uncertainty": "해당 통계는 추후 수정될 수 있습니다.",
+      "whatChanged": "미국의 새로운 물가 지표로 금리 전망에 영향을 줄 수 있습니다.",
+      "whyItMatters": "미국의 새로운 물가 지표로 금리 전망에 영향을 줄 수 있습니다."
+    },
+    {
+      "category": "경제·국제",
+      "emphasis": [
+        "연율 4.3%",
+        "0.9%포인트 높아졌습니다"
+      ],
+      "eventAt": null,
+      "eventTimeNote": "미국 현지시간 11월 25일 발표 내용입니다.",
+      "factsHash": "af03a0ccccc1cfe12b90893e64e6da8002f7edc05218e3a17e117f54bc3057ea",
+      "id": "20261126-am-gdp",
+      "keyFacts": {
+        "detail": "소비와 투자 증가가 반영되면서 지난달 속보치보다 0.9%포인트 높아졌습니다.",
+        "result": "미국의 올해 3분기 경제성장률 잠정치가 전 분기 대비 연율 4.3%로 집계됐습니다."
+      },
+      "publishedAt": "2026-11-26T01:28:00+09:00",
+      "relatedArticles": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-26T01:28:00+09:00",
+          "title": "미국 3분기 성장률 4.3%로 상향",
+          "url": "https://www.yna.co.kr/view/AKR20261125186251072",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "representativeUrl": "https://www.yna.co.kr/view/AKR20261125186251072",
+      "score": 94.9,
+      "scoreComponents": {
+        "domesticImpact": 90,
+        "importance": 96,
+        "interest": 90,
+        "recency": 100,
+        "reliability": 98
+      },
+      "scoreReason": "세계 최대 경제권의 성장률 잠정치가 상향된 새로운 통계입니다.",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-26T01:28:00+09:00",
+          "title": "미국 3분기 성장률 4.3%로 상향",
+          "url": "https://www.yna.co.kr/view/AKR20261125186251072",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "status": "확정",
+      "summary": [
+        "미국의 올해 3분기 경제성장률 잠정치가 전 분기 대비 연율 4.3%로 집계됐습니다.",
+        "소비와 투자 증가가 반영되면서 지난달 속보치보다 0.9%포인트 높아졌습니다."
+      ],
+      "timeline": {
+        "change": "세계 최대 경제권의 성장률 잠정치가 상향된 새로운 통계입니다.",
+        "eventDate": "2026-11-25",
+        "eventEndDate": null,
+        "eventTimezone": "America/New_York",
+        "issueId": "us-economic-growth-2026",
+        "issueTitle": "2026년 미국 경제성장률 변화",
+        "stage": "발표"
+      },
+      "title": "미국 3분기 성장률 4.3%로 상향",
+      "topicKey": "us-economic-growth-2026",
+      "uncertainty": "해당 통계는 추후 수정될 수 있습니다.",
+      "whatChanged": "세계 최대 경제권의 성장률 잠정치가 상향된 새로운 통계입니다.",
+      "whyItMatters": "세계 최대 경제권의 성장률 잠정치가 상향된 새로운 통계입니다."
+    }
+  ],
+  "timezone": "Asia/Seoul"
+}

@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-26/am.json",
+      "category": "경제·국제",
+      "change": "미국의 새로운 물가 지표로 금리 전망에 영향을 줄 수 있습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-26T09:18:54.047642+09:00",
+      "coveredOn": "2026-11-26",
+      "edition": "am",
+      "editionDate": "2026-11-26",
+      "editionId": "2026-11-26-am",
+      "eventAt": null,
+      "eventDate": "2026-11-25",
+      "eventEndDate": null,
+      "eventTimeNote": "미국 현지시간 11월 25일 발표 내용입니다.",
+      "eventTimezone": "America/New_York",
+      "followUp": null,
+      "id": "2026-11-26-am/20261126-am-pce",
+      "keyFacts": {
+        "detail": "식료품과 에너지를 뺀 근원 물가 상승률은 3.3%로, 2023년 이후 가장 높았습니다.",
+        "result": "미국의 10월 개인소비지출 물가지수가 1년 전보다 3.8% 올랐습니다."
+      },
+      "previous": null,
+      "publishedAt": "2026-11-25T23:42:00+09:00",
+      "sources": [
+        {
+          "imageUrl": null,
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-25T23:42:00+09:00",
+          "title": "미국 10월 소비물가 3.8% 상승",
+          "url": "https://www.yna.co.kr/view/AKR20261125185851072",
+          "verifiedAt": "2026-11-26T09:18:54.047642+09:00"
+        }
+      ],
+      "stage": "발표",
+      "status": "확정",
+      "storyId": "20261126-am-pce",
+      "summary": [
+        "미국의 10월 개인소비지출 물가지수가 1년 전보다 3.8% 올랐습니다.",
+        "식료품과 에너지를 뺀 근원 물가 상승률은 3.3%로, 2023년 이후 가장 높았습니다."
+      ],
+      "supersededBy": [],
+      "title": "미국 10월 소비물가 3.8% 상승",
+      "uncertainty": "해당 통계는 추후 수정될 수 있습니다."
+    }
+  ],
+  "id": "us-pce-inflation-2026-10",
+  "schemaVersion": 1,
+  "title": "2026년 10월 미국 개인소비지출 물가",
+  "updatedAt": "2026-11-26T09:18:54.047642+09:00"
+}
