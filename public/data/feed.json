@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-26",
-  "collectedAt": "2026-11-26T09:41:21.859670+00:00",
+  "collectedAt": "2026-11-26T09:43:52.880528+00:00",
   "windowEnd": "2026-11-26T18:38:06.116244+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -973,63 +973,6 @@
       "sourceTitlesFetchedAt": "2026-11-26T07:10:50.902732+00:00",
       "collectedAt": "2026-11-26T16:10:50.902752+09:00",
       "firstPublishedAt": "2026-11-26T07:10:51.010380+00:00"
-    },
-    {
-      "id": "aagag-1672547-0",
-      "url": "https://aagag.com/issue/?idx=1672547",
-      "source": "애객",
-      "title": "GTA6) 착하게살고싶었음 청년",
-      "publishedAt": "2026-11-25T18:22:26+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7Va2.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "."
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7Va2.webp"
-      ],
-      "videos": [],
-      "excerpt": ".",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 37,
-      "commentCount": 3,
-      "laughingComments": 3,
-      "score": 37,
-      "kPerComment": 12.333333333333334,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9027353",
-          "text": "적성을 찾은거 같은데? 그런데 게임의 취지가 그건데 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9027361",
-          "text": "배그 유튜버 안내메세지도 gta에서도 여전히 운전 더럽게 못해서 ㅋㅋㅋㅋㅋㅋㅋㅋ 저렇게 사고치고 다니던데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9027364",
-          "text": "신고할까봐 다시 쳐서 죽인시점부터 이미 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-25T18:43:39.802205+09:00",
-      "sourceTitles": [
-        "GTA6 죽음의 운전자",
-        "GTA6] 착하게살고싶었음 청년.txt",
-        "GTA6) 착하게살고싶었음 청년",
-        "GTA6) 착하게살고싶었음 청년"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-25T09:43:45.542858+00:00",
-      "collectedAt": "2026-11-25T18:43:45.542876+09:00",
-      "firstPublishedAt": "2026-11-25T09:43:45.654649+00:00"
     },
     {
       "id": "aagag-1240925-0",
@@ -7447,7 +7390,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 22,
+  "candidateCount": 175,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
