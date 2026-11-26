@@ -4,7 +4,7 @@
   "edition": "am",
   "events": [],
   "finalizedAt": "2026-11-26T09:22:58.047206+09:00",
-  "generatedAt": "2026-11-26T09:34:14.195930+09:00",
+  "generatedAt": "2026-11-26T09:49:20.067626+09:00",
   "generationMode": "codex-direct",
   "id": "2026-11-26-am",
   "intro": "11월 26일 아침 주요 뉴스입니다.",
@@ -18,7 +18,8 @@
   ],
   "overview": [
     "민주당이 조희대 대법원장 탄핵에 5당 공조를 제안했습니다. 미국은 과잉생산 관세안을 공개했습니다.",
-    "북한 매체가 김정은의 핵시설 방문을 보도했습니다. 중국에 구금된 한국인 반도체 엔지니어의 체포 경위도 알려졌습니다."
+    "북한 매체가 김정은의 핵시설 방문을 보도했습니다. 중국에 구금된 한국인 반도체 엔지니어의 체포 경위도 알려졌습니다.",
+    "국제유가가 올랐습니다. 삼성의 500단대 낸드 기술 발표 일정과 에쓰오일 샤힌 프로젝트 완공 소식도 나왔습니다."
   ],
   "recordId": "2026-11-26-am",
   "scheduledFor": "2026-11-26T09:00:00+09:00",
@@ -306,8 +307,212 @@
       },
       "score": 93.4,
       "factsHash": "6e1196eb92e606250953b913d467fb8474249dd47cee5875e731c4aa1e16eaff"
+    },
+    {
+      "id": "20261126-am-brent-rebound",
+      "topicKey": "20261126-am-brent-rebound",
+      "category": "국제·경제",
+      "title": "국제유가 상승…브렌트유 3.51% 올라",
+      "summary": [
+        "브렌트유 1월물은 배럴당 94.61달러에 마감했습니다. 전 거래일보다 3.51% 올랐습니다.",
+        "후티가 사우디 정유시설을 공격했다고 주장하면서 원유 공급 차질 우려가 커졌습니다."
+      ],
+      "emphasis": [
+        "배럴당 94.61달러"
+      ],
+      "status": "보도",
+      "eventAt": null,
+      "eventTimeNote": "보도에서 확인한 내용을 반영했습니다.",
+      "publishedAt": "2026-11-26T06:11:00+09:00",
+      "representativeUrl": "https://imnews.imbc.com/news/2026/world/article/6868634_36926.html",
+      "sources": [
+        {
+          "name": "MBC",
+          "title": "국제유가 상승…브렌트유 3.51% 올라",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6868634_36926.html",
+          "kind": "news",
+          "language": "ko",
+          "publishedAt": "2026-11-26T06:11:00+09:00",
+          "verifiedAt": "2026-11-26T09:49:20.067626+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "MBC",
+          "title": "국제유가 상승…브렌트유 3.51% 올라",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6868634_36926.html",
+          "kind": "news",
+          "language": "ko",
+          "publishedAt": "2026-11-26T06:11:00+09:00",
+          "verifiedAt": "2026-11-26T09:49:20.067626+09:00",
+          "imageUrl": null
+        }
+      ],
+      "keyFacts": {
+        "result": "브렌트유 1월물은 배럴당 94.61달러에 마감했습니다. 전 거래일보다 3.51% 올랐습니다.",
+        "detail": "후티가 사우디 정유시설을 공격했다고 주장하면서 원유 공급 차질 우려가 커졌습니다."
+      },
+      "whatChanged": "브렌트유 1월물은 배럴당 94.61달러에 마감했습니다. 전 거래일보다 3.51% 올랐습니다.",
+      "whyItMatters": "후티가 사우디 정유시설을 공격했다고 주장하면서 원유 공급 차질 우려가 커졌습니다.",
+      "uncertainty": "추가 발표와 후속 상황을 확인할 필요가 있습니다.",
+      "scoreReason": "후티가 사우디 정유시설을 공격했다고 주장하면서 원유 공급 차질 우려가 커졌습니다.",
+      "scoreComponents": {
+        "importance": 93,
+        "domesticImpact": 85,
+        "reliability": 95,
+        "interest": 85,
+        "recency": 100
+      },
+      "timeline": {
+        "issueId": "20261126-am-brent-rebound",
+        "issueTitle": "국제유가 상승…브렌트유 3.51% 올라",
+        "stage": "보도",
+        "change": "브렌트유 1월물은 배럴당 94.61달러에 마감했습니다. 전 거래일보다 3.51% 올랐습니다.",
+        "eventDate": "2026-11-25",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul"
+      },
+      "score": 91.8,
+      "factsHash": "02c680eb14ddb4bf58cac13fa8c7b18407c59053ec38a7652e0b98f2640f1a60"
+    },
+    {
+      "id": "20261126-am-samsung-nand",
+      "topicKey": "20261126-am-samsung-nand",
+      "category": "과학·기술",
+      "title": "삼성전자, 500단대 낸드 기술 발표 예정",
+      "summary": [
+        "삼성전자가 내년 2월 국제 학회에서 500단대 낸드 기술 연구를 발표할 예정입니다.",
+        "발표할 연구의 낸드는 칩당 1.5테라비트 용량을 갖췄습니다."
+      ],
+      "emphasis": [
+        "칩당 1.5테라비트"
+      ],
+      "status": "예정",
+      "eventAt": null,
+      "eventTimeNote": "보도에서 확인한 내용을 반영했습니다.",
+      "publishedAt": "2026-11-26T08:38:00+09:00",
+      "representativeUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446594",
+      "sources": [
+        {
+          "name": "연합인포맥스",
+          "title": "삼성전자, 500단대 낸드 기술 발표 예정",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446594",
+          "kind": "news",
+          "language": "ko",
+          "publishedAt": "2026-11-26T08:38:00+09:00",
+          "verifiedAt": "2026-11-26T09:49:20.067626+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "연합인포맥스",
+          "title": "삼성전자, 500단대 낸드 기술 발표 예정",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446594",
+          "kind": "news",
+          "language": "ko",
+          "publishedAt": "2026-11-26T08:38:00+09:00",
+          "verifiedAt": "2026-11-26T09:49:20.067626+09:00",
+          "imageUrl": null
+        }
+      ],
+      "keyFacts": {
+        "result": "삼성전자가 내년 2월 국제 학회에서 500단대 낸드 기술 연구를 발표할 예정입니다.",
+        "detail": "발표할 연구의 낸드는 칩당 1.5테라비트 용량을 갖췄습니다."
+      },
+      "whatChanged": "삼성전자가 내년 2월 국제 학회에서 500단대 낸드 기술 연구를 발표할 예정입니다.",
+      "whyItMatters": "발표할 연구의 낸드는 칩당 1.5테라비트 용량을 갖췄습니다.",
+      "uncertainty": "추가 발표와 후속 상황을 확인할 필요가 있습니다.",
+      "scoreReason": "발표할 연구의 낸드는 칩당 1.5테라비트 용량을 갖췄습니다.",
+      "scoreComponents": {
+        "importance": 91,
+        "domesticImpact": 85,
+        "reliability": 95,
+        "interest": 85,
+        "recency": 100
+      },
+      "timeline": {
+        "issueId": "20261126-am-samsung-nand",
+        "issueTitle": "삼성전자, 500단대 낸드 기술 발표 예정",
+        "stage": "예정",
+        "change": "삼성전자가 내년 2월 국제 학회에서 500단대 낸드 기술 연구를 발표할 예정입니다.",
+        "eventDate": null,
+        "eventEndDate": null,
+        "eventTimezone": null
+      },
+      "score": 91.1,
+      "factsHash": "b987965f916502aaec70d25b47f357fc7a2fce0c960d8844d2f545a1b67a9457"
+    },
+    {
+      "id": "20261126-am-shaheen-completion",
+      "topicKey": "20261126-am-shaheen-completion",
+      "category": "산업",
+      "title": "에쓰오일, 9조 2천억 원 규모 샤힌 프로젝트 완공",
+      "summary": [
+        "에쓰오일이 25일 샤힌 프로젝트 완공 기념행사를 열었습니다.",
+        "울산 온산국가산업단지에 9조 2천억 원 규모의 석유화학 생산시설을 구축했습니다."
+      ],
+      "emphasis": [
+        "9조 2천억 원"
+      ],
+      "status": "보도",
+      "eventAt": null,
+      "eventTimeNote": "보도에서 확인한 내용을 반영했습니다.",
+      "publishedAt": "2026-11-26T00:48:00+09:00",
+      "representativeUrl": "https://www.kmib.co.kr/article/20261125502031",
+      "sources": [
+        {
+          "name": "국민일보",
+          "title": "에쓰오일, 9조 2천억 원 규모 샤힌 프로젝트 완공",
+          "url": "https://www.kmib.co.kr/article/20261125502031",
+          "kind": "news",
+          "language": "ko",
+          "publishedAt": "2026-11-26T00:48:00+09:00",
+          "verifiedAt": "2026-11-26T09:49:20.067626+09:00",
+          "imageUrl": null
+        }
+      ],
+      "relatedArticles": [
+        {
+          "name": "국민일보",
+          "title": "에쓰오일, 9조 2천억 원 규모 샤힌 프로젝트 완공",
+          "url": "https://www.kmib.co.kr/article/20261125502031",
+          "kind": "news",
+          "language": "ko",
+          "publishedAt": "2026-11-26T00:48:00+09:00",
+          "verifiedAt": "2026-11-26T09:49:20.067626+09:00",
+          "imageUrl": null
+        }
+      ],
+      "keyFacts": {
+        "result": "에쓰오일이 25일 샤힌 프로젝트 완공 기념행사를 열었습니다.",
+        "detail": "울산 온산국가산업단지에 9조 2천억 원 규모의 석유화학 생산시설을 구축했습니다."
+      },
+      "whatChanged": "에쓰오일이 25일 샤힌 프로젝트 완공 기념행사를 열었습니다.",
+      "whyItMatters": "울산 온산국가산업단지에 9조 2천억 원 규모의 석유화학 생산시설을 구축했습니다.",
+      "uncertainty": "추가 발표와 후속 상황을 확인할 필요가 있습니다.",
+      "scoreReason": "울산 온산국가산업단지에 9조 2천억 원 규모의 석유화학 생산시설을 구축했습니다.",
+      "scoreComponents": {
+        "importance": 90,
+        "domesticImpact": 85,
+        "reliability": 95,
+        "interest": 85,
+        "recency": 100
+      },
+      "timeline": {
+        "issueId": "20261126-am-shaheen-completion",
+        "issueTitle": "에쓰오일, 9조 2천억 원 규모 샤힌 프로젝트 완공",
+        "stage": "보도",
+        "change": "에쓰오일이 25일 샤힌 프로젝트 완공 기념행사를 열었습니다.",
+        "eventDate": "2026-11-25",
+        "eventEndDate": null,
+        "eventTimezone": "Asia/Seoul"
+      },
+      "score": 90.75,
+      "factsHash": "511e4a42faba079f1b74a8abcaa8ca1a328ef02cf91becd4d652552e11aefd06"
     }
   ],
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-11-26T09:34:14.195930+09:00"
+  "updatedAt": "2026-11-26T09:49:20.067626+09:00"
 }

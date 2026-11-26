@@ -2,6 +2,69 @@
   "editionCount": 141,
   "issues": [
     {
+      "id": "20261126-am-shaheen-completion",
+      "title": "에쓰오일, 9조 2천억 원 규모 샤힌 프로젝트 완공",
+      "categories": [
+        "산업"
+      ],
+      "firstCoveredAt": "2026-11-26T09:49:20.067626+09:00",
+      "lastCoveredAt": "2026-11-26T09:49:20.067626+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-11-26",
+      "lastCoveredDate": "2026-11-26",
+      "latest": {
+        "editionId": "2026-11-26-am",
+        "storyId": "20261126-am-shaheen-completion",
+        "title": "에쓰오일, 9조 2천억 원 규모 샤힌 프로젝트 완공",
+        "stage": "보도",
+        "change": "에쓰오일이 25일 샤힌 프로젝트 완공 기념행사를 열었습니다.",
+        "archive": false
+      },
+      "path": "20261126-am-shaheen-completion.json"
+    },
+    {
+      "id": "20261126-am-samsung-nand",
+      "title": "삼성전자, 500단대 낸드 기술 발표 예정",
+      "categories": [
+        "과학·기술"
+      ],
+      "firstCoveredAt": "2026-11-26T09:49:20.067626+09:00",
+      "lastCoveredAt": "2026-11-26T09:49:20.067626+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-11-26",
+      "lastCoveredDate": "2026-11-26",
+      "latest": {
+        "editionId": "2026-11-26-am",
+        "storyId": "20261126-am-samsung-nand",
+        "title": "삼성전자, 500단대 낸드 기술 발표 예정",
+        "stage": "예정",
+        "change": "삼성전자가 내년 2월 국제 학회에서 500단대 낸드 기술 연구를 발표할 예정입니다.",
+        "archive": false
+      },
+      "path": "20261126-am-samsung-nand.json"
+    },
+    {
+      "id": "20261126-am-brent-rebound",
+      "title": "국제유가 상승…브렌트유 3.51% 올라",
+      "categories": [
+        "국제·경제"
+      ],
+      "firstCoveredAt": "2026-11-26T09:49:20.067626+09:00",
+      "lastCoveredAt": "2026-11-26T09:49:20.067626+09:00",
+      "eventCount": 1,
+      "firstCoveredDate": "2026-11-26",
+      "lastCoveredDate": "2026-11-26",
+      "latest": {
+        "editionId": "2026-11-26-am",
+        "storyId": "20261126-am-brent-rebound",
+        "title": "국제유가 상승…브렌트유 3.51% 올라",
+        "stage": "보도",
+        "change": "브렌트유 1월물은 배럴당 94.61달러에 마감했습니다. 전 거래일보다 3.51% 올랐습니다.",
+        "archive": false
+      },
+      "path": "20261126-am-brent-rebound.json"
+    },
+    {
       "id": "us-section-301-excess-production-tariffs-2026",
       "title": "미국 무역법 301조 과잉생산 관세 조사",
       "categories": [
@@ -13363,7 +13426,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1053,
+  "storyCount": 1056,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-26T09:34:14.195930+09:00"
+  "updatedAt": "2026-11-26T09:49:20.067626+09:00"
 }
