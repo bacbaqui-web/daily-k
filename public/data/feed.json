@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T08:40:44.824087+09:00",
-  "windowEnd": "2026-11-27T08:35:22.195687+09:00",
+  "collectedAt": "2026-11-26T23:51:14.106125+00:00",
+  "windowEnd": "2026-11-27T08:51:13.753759+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7536,69 +7536,6 @@
       "firstPublishedAt": "2026-11-26T00:16:54.563445+00:00"
     },
     {
-      "id": "aagag-1672656-0",
-      "url": "https://aagag.com/issue/?idx=1672656",
-      "source": "애객",
-      "title": "숙이는 초원",
-      "publishedAt": "2026-11-26T08:29:51+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7biE.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7biM.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7biE.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7biM.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 2,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 2,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9029093",
-          "text": "저 푸른 초원속에 뚜비뚜바~"
-        },
-        {
-          "id": "9029113",
-          "text": "와 ㄷㄷㄷㄷ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-26T08:41:28.955982+09:00",
-      "sourceTitles": [
-        "숙이는 라잇썸 초원.swf",
-        "ㅇㅎ) 물 마시는 한초원.gif",
-        "ㅇㅎ) 숙이는 라잇썸 초원",
-        "숙이는 초원"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-25T23:41:36.597105+00:00",
-      "collectedAt": "2026-11-26T08:41:36.597122+09:00",
-      "firstPublishedAt": "2026-11-25T23:41:36.715940+00:00"
-    },
-    {
       "id": "aagag-1672456-0",
       "url": "https://aagag.com/issue/?idx=1672456",
       "source": "애객",
@@ -7944,9 +7881,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
