@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-26",
-  "collectedAt": "2026-11-26T17:05:55.923869+09:00",
-  "windowEnd": "2026-11-26T17:00:20.846490+09:00",
+  "collectedAt": "2026-11-26T08:16:28.103815+00:00",
+  "windowEnd": "2026-11-26T17:16:27.758081+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6677,65 +6677,6 @@
       "firstPublishedAt": "2026-11-25T12:33:48.826925+00:00"
     },
     {
-      "id": "aagag-1672527-0",
-      "url": "https://aagag.com/issue/?idx=1672527",
-      "source": "애객",
-      "title": "ㅇㅎ) 허리에 치명적인 자세",
-      "publishedAt": "2026-11-25T17:12:53+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7UgR.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7UgR.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [
-        "https://www.instagram.com/ava_starz"
-      ],
-      "comments": [
-        {
-          "id": "9027041",
-          "text": "와..."
-        },
-        {
-          "id": "9027043",
-          "text": "강호의 도리로 가는 포탈 인스타 https://www.instagram.com/ava_starz"
-        },
-        {
-          "id": "9027050",
-          "text": "구글에 ava_starz leaked"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-25T17:16:13.120706+09:00",
-      "sourceTitles": [
-        "ㅇㅎㅂ?? 빅찌찌 좋아하는 사람들만 들어와라",
-        "ㅇㅎ) 허리에 치명적인 자세",
-        "ㅇㅎ) 허리에 치명적인 자세",
-        "ㅇㅎ) 허리에 치명적인 자세"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-25T08:16:22.619496+00:00",
-      "collectedAt": "2026-11-25T17:16:22.619513+09:00",
-      "firstPublishedAt": "2026-11-25T08:16:22.731102+00:00"
-    },
-    {
       "id": "aagag-1672656-0",
       "url": "https://aagag.com/issue/?idx=1672656",
       "source": "애객",
@@ -7254,9 +7195,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
