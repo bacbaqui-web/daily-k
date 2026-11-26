@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-26",
-  "collectedAt": "2026-11-26T05:45:28.787029+00:00",
+  "collectedAt": "2026-11-26T05:46:24.228687+00:00",
   "windowEnd": "2026-11-26T14:45:28.448049+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7137,6 +7137,66 @@
       "firstPublishedAt": "2026-11-25T19:52:18.713561+00:00"
     },
     {
+      "id": "aagag-1672729-0",
+      "url": "https://aagag.com/issue/?idx=1672729",
+      "source": "애객",
+      "title": "가슴이 너무 크면 생기는 일.mp4",
+      "publishedAt": "2026-11-26T14:44:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7hJB.webp",
+          "alt": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7hJQ.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "위아래로 흔들리는게 아닌 회전을 한다고ㅋㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7hJB.webp"
+      ],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7hJQ.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "위아래로 흔들리는게 아닌 회전을 한다고ㅋㅋㅋ",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9030987",
+          "text": "자유를 찾으려고 하는가"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-26T14:46:10.345064+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 가슴이 너무 크면 생기는 일",
+        "ㅇㅎ) 가슴이 너무 크면 생기는 일",
+        "ㅇㅎ)가슴이 너무 크면 회전을 한다고?",
+        "가슴이 너무 크면 생기는 일.mp4"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-26T05:46:24.155056+00:00",
+      "collectedAt": "2026-11-26T14:46:24.155074+09:00",
+      "firstPublishedAt": "2026-11-26T05:46:24.259084+00:00"
+    },
+    {
       "id": "aagag-1672630-0",
       "url": "https://aagag.com/issue/?idx=1672630",
       "source": "애객",
@@ -7353,7 +7413,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
