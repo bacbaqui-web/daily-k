@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-26",
-  "collectedAt": "2026-11-26T11:19:47.829924+00:00",
+  "collectedAt": "2026-11-26T11:22:39.932458+00:00",
   "windowEnd": "2026-11-26T20:19:47.460232+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7130,7 +7130,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -7157,6 +7157,66 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1672663-0",
+      "url": "https://aagag.com/issue/?idx=1672663",
+      "source": "애객",
+      "title": "주인공이 이탈리아인, 나치와 손잡고 남아메리카 소수민족을 멸족시키는 만화",
+      "publishedAt": "2026-11-26T20:04:01+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/C0s5D.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "죠죠2부 전투조류"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/C0s5D.webp"
+      ],
+      "videos": [],
+      "excerpt": "죠죠2부 전투조류",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 2,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 2,
+      "kPerComment": 1.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9032361",
+          "text": "어마어마한 장면들이 쏟아져 나오는"
+        },
+        {
+          "id": "9032369",
+          "text": "갠적으로 3부보다 2부가 재밌었음 ㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-26T20:22:31.125164+09:00",
+      "sourceTitles": [
+        "나치, 이태리인과 손잡은 주인공이 남아메리카 소수민족을 살해하는 만화",
+        "나치랑 손잡고 소수민족 절멸하는 만화",
+        "나치랑 손잡고 소수민족 절멸하는 일본 만화",
+        "\"주인공이 나치와 결탁해서 소수민족을 절멸시키는 애니\"",
+        "주인공이 이탈리아인, 나치와 손잡고 남아메리카 소수민족을 멸족시키는 만화",
+        "나치와 손 잡고 소수민족을 멸망시킨 캐릭터가 주인공인 일본 인기 애니메이션",
+        "나치랑 손잡고 소수민족을 학살하는 만화",
+        "주인공이 나치랑 어울려서 소수민족을 멸족시키는 애니",
+        "솔직히 만잘알들이 제일 좋아하는 죠죠 시리즈",
+        "ㅆㄷ)만화덕후들 사이의 최대논쟁인것",
+        "ㅆㄷ)만화덕후들 사이의 최대논쟁인것"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 11,
+      "sourceTitlesFetchedAt": "2026-11-26T11:22:39.839178+00:00",
+      "collectedAt": "2026-11-26T20:22:39.839196+09:00",
+      "firstPublishedAt": "2026-11-26T11:22:40.053499+00:00"
+    },
     {
       "id": "aagag-1672759-0",
       "url": "https://aagag.com/issue/?idx=1672759",
