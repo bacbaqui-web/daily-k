@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T21:50:31.127725+09:00",
-  "windowEnd": "2026-11-27T21:46:28.787354+09:00",
+  "collectedAt": "2026-11-27T13:01:02.751563+00:00",
+  "windowEnd": "2026-11-27T22:01:02.326159+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -3374,68 +3374,6 @@
       "sourceTitlesFetchedAt": "2026-11-26T23:36:20.585535+00:00",
       "collectedAt": "2026-11-27T08:36:20.585557+09:00",
       "firstPublishedAt": "2026-11-26T23:36:20.901261+00:00"
-    },
-    {
-      "id": "aagag-1672806-0",
-      "url": "https://aagag.com/issue/?idx=1672806",
-      "source": "애객",
-      "title": "스레드 아들맘 평균.jpg",
-      "publishedAt": "2026-11-26T21:40:10+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7PgE.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7PgE.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 5,
-      "commentsPartial": false,
-      "kCount": 20,
-      "commentCount": 5,
-      "laughingComments": 3,
-      "score": 20,
-      "kPerComment": 4.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9032615",
-          "text": "고추는 좀.."
-        },
-        {
-          "id": "9032622",
-          "text": "저거 자랑으레 집에 걸어두면 볼만하겠네 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9032635",
-          "text": "고추는 진잨 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9032653",
-          "text": "도깨비가 가져가서 저걸로 샤워함"
-        },
-        {
-          "id": "9032663",
-          "text": "개뀨뀨ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-26T21:57:08.153565+09:00",
-      "sourceTitles": [
-        "스레드 아들맘 평균.jpg",
-        "스레드 아들맘 평균.jpg",
-        "한국에서 남자가 겪는 치욕...jpg",
-        "부끄부끄 자식을 너무 사랑하는 부모님이 만든 조형물",
-        "아들 수치사 시키기"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-26T12:57:14.939710+00:00",
-      "collectedAt": "2026-11-26T21:57:14.939727+09:00",
-      "firstPublishedAt": "2026-11-26T12:57:15.139528+00:00"
     },
     {
       "id": "aagag-1574908-0",
@@ -7903,9 +7841,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
