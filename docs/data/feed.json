@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T19:07:36.392282+09:00",
-  "windowEnd": "2026-11-27T19:01:15.742522+09:00",
+  "collectedAt": "2026-11-27T10:18:02.896090+00:00",
+  "windowEnd": "2026-11-27T19:18:02.653417+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -5544,63 +5544,6 @@
       "firstPublishedAt": "2026-11-27T08:57:33.393401+00:00"
     },
     {
-      "id": "aagag-1672786-0",
-      "url": "https://aagag.com/issue/?idx=1672786",
-      "source": "애객",
-      "title": "국힙에 누끼치기 싫다던 존박 근황",
-      "publishedAt": "2026-11-26T19:10:07+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7hAj.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "참고로 디스곡 제작전 타블로에게 미리 허락 받았다고 한다\n그리고 투컷이 반년전 아무나 자기 디스곡 내달라고 먼저하긴 함"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7hAj.webp"
-      ],
-      "videos": [],
-      "excerpt": "참고로 디스곡 제작전 타블로에게 미리 허락 받았다고 한다\n그리고 투컷이 반년전 아무나 자기 디스곡 내달라고 먼저하긴 함",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 3,
-      "laughingComments": 2,
-      "score": 12,
-      "kPerComment": 4.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9032156",
-          "text": "발사 ~ << 이게 너무 맥아리 없는데 웃김 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9032163",
-          "text": "투컷 디스를 하는데 왜 타블로한테 허락을 받아요? 타블로는 무조건 허락할것같은데 ㅋㅋ"
-        },
-        {
-          "id": "9032167",
-          "text": "투컷이 속한 그룹 3명중 2명이 좋아하니까요"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-26T19:14:30.260131+09:00",
-      "sourceTitles": [
-        "국힙에 누 끼치기 싫다던 존박 근황",
-        "국힙에 누끼치기 싫다던 존박 근황",
-        "국힙에 누끼치기 싫다던 존박 근황",
-        "국힙에 누끼치기 싫다던 존박 근황"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-26T10:14:37.768864+00:00",
-      "collectedAt": "2026-11-26T19:14:37.768881+09:00",
-      "firstPublishedAt": "2026-11-26T10:14:37.882036+00:00"
-    },
-    {
       "id": "aagag-1672888-0",
       "url": "https://aagag.com/issue/?idx=1672888",
       "source": "애객",
@@ -8045,9 +7988,9 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
