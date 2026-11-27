@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T00:41:49.677131+00:00",
+  "collectedAt": "2026-11-27T00:44:56.427501+00:00",
   "windowEnd": "2026-11-27T09:41:49.391903+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7789,6 +7789,71 @@
       "firstPublishedAt": "2026-11-27T00:27:11.536941+00:00"
     },
     {
+      "id": "aagag-1672874-0",
+      "url": "https://aagag.com/issue/?idx=1672874",
+      "source": "애객",
+      "title": "ㅇㅇㅇㅎ)눈 치우는 누나",
+      "publishedAt": "2026-11-27T09:27:34+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7oLB.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7oLB.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 5,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9033807",
+          "text": "헤으응 눈~~나~"
+        },
+        {
+          "id": "9033821",
+          "text": "폭설인가보다. 눈만 세시간째 치우시네"
+        },
+        {
+          "id": "9033823",
+          "text": "춥다 추워"
+        },
+        {
+          "id": "9033825",
+          "text": "독일 맥주집 가게앞 눈치우는 눈나? 고마워요"
+        },
+        {
+          "id": "9033848",
+          "text": "AI인가? 개추워보이는디"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-27T09:44:50.088410+09:00",
+      "sourceTitles": [
+        "눈 치우는 누나",
+        "ㅇㅇㅇㅎ)눈 치우는 누나",
+        "ㅇㅎ?) 눈 치우는 누나",
+        "ㅇㅎ)눈 치우는 누나"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-27T00:44:56.320403+00:00",
+      "collectedAt": "2026-11-27T09:44:56.320421+09:00",
+      "firstPublishedAt": "2026-11-27T00:44:56.463000+00:00"
+    },
+    {
       "id": "aagag-1672677-0",
       "url": "https://aagag.com/issue/?idx=1672677",
       "source": "애객",
@@ -8308,7 +8373,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
