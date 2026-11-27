@@ -1,0 +1,241 @@
+{
+  "activatedAt": "2026-10-09T12:20:40.979182+09:00",
+  "channel": "news",
+  "checks": [],
+  "empty": false,
+  "finalizedAt": "2026-11-27T09:03:03.590280+09:00",
+  "id": "2026-11-27-am",
+  "items": [],
+  "news": {
+    "brief": {
+      "cutoffAt": "2026-11-27T09:00:00+09:00",
+      "date": "2026-11-27",
+      "edition": "am",
+      "events": [],
+      "generatedAt": "2026-11-27T09:02:56.834542+09:00",
+      "generationMode": "codex-cli",
+      "id": "2026-11-27-am",
+      "intro": "11월 27일 아침 주요 뉴스입니다.",
+      "keywords": [
+        "학교 총파업",
+        "군사분계선",
+        "청해부대"
+      ],
+      "overview": [
+        "학교 비정규직이 하루 총파업에 나서 일부 학교의 급식과 돌봄이 달라집니다.",
+        "북한군의 군사분계선 침범 집계가 공개됐고, 이란 외무장관은 외국군 주둔에 우려를 밝혔습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회",
+          "emphasis": [
+            "하루 총파업"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "보도에서 확인한 내용입니다.",
+          "factsHash": "c5ef34c0fbdce788d82143757b1d4c0391b0ef331a243719f3b883d659c6c60b",
+          "id": "school-staff-strike-20261127",
+          "keyFacts": {
+            "detail": "교육당국은 대체 급식과 돌봄 인력 배치 등 학교별 대응에 나섰습니다.",
+            "result": "임금 교섭이 결렬돼 급식과 돌봄 등을 맡는 학교 비정규직 노동자들이 27일 하루 총파업에 나섭니다."
+          },
+          "publishedAt": "2026-11-27T06:36:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-11-27T06:36:00+09:00",
+              "title": "학교 비정규직 총파업…급식·돌봄 비상",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865922",
+              "verifiedAt": "2026-11-27T09:02:56.834542+09:00"
+            }
+          ],
+          "representativeUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865922",
+          "score": 94.8,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 98,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "교육당국은 대체 급식과 돌봄 인력 배치 등 학교별 대응에 나섰습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS",
+              "publishedAt": "2026-11-27T06:36:00+09:00",
+              "title": "학교 비정규직 총파업…급식·돌봄 비상",
+              "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865922",
+              "verifiedAt": "2026-11-27T09:02:56.834542+09:00"
+            }
+          ],
+          "status": "예정",
+          "summary": [
+            "임금 교섭이 결렬돼 급식과 돌봄 등을 맡는 학교 비정규직 노동자들이 27일 하루 총파업에 나섭니다.",
+            "교육당국은 대체 급식과 돌봄 인력 배치 등 학교별 대응에 나섰습니다."
+          ],
+          "timeline": {
+            "change": "임금 교섭이 결렬돼 급식과 돌봄 등을 맡는 학교 비정규직 노동자들이 27일 하루 총파업에 나섭니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "school-staff-strike-20261127",
+            "issueTitle": "학교 비정규직 총파업…급식·돌봄 비상",
+            "stage": "보도"
+          },
+          "title": "학교 비정규직 총파업…급식·돌봄 비상",
+          "topicKey": "school-staff-strike-20261127",
+          "uncertainty": "추가 상황은 후속 발표를 확인해야 합니다.",
+          "whatChanged": "임금 교섭이 결렬돼 급식과 돌봄 등을 맡는 학교 비정규직 노동자들이 27일 하루 총파업에 나섭니다.",
+          "whyItMatters": "교육당국은 대체 급식과 돌봄 인력 배치 등 학교별 대응에 나섰습니다."
+        },
+        {
+          "category": "안보",
+          "emphasis": [
+            "40여 차례"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "보도에서 확인한 내용입니다.",
+          "factsHash": "921b041153b81ba43687efcd21bcfd2277f58de5ed92607b3c593859b75b508d",
+          "id": "north-korea-mdl-crossings-20261127",
+          "keyFacts": {
+            "detail": "지난 9월 비무장지대 지뢰 도발 이후에도 침범이 이어진 것으로 나타났습니다.",
+            "result": "합동참모본부가 국회에 제출한 자료에 따르면 북한군은 10~11월 군사분계선을 40여 차례 침범했습니다."
+          },
+          "publishedAt": "2026-11-27T06:01:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-27T06:01:00+09:00",
+              "title": "합참 자료 공개…북한군 10~11월 군사분계선 40여 차례 침범",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261126190400504",
+              "verifiedAt": "2026-11-27T09:02:56.834542+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261126190400504",
+          "score": 94.1,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 96,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "지난 9월 비무장지대 지뢰 도발 이후에도 침범이 이어진 것으로 나타났습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-27T06:01:00+09:00",
+              "title": "합참 자료 공개…북한군 10~11월 군사분계선 40여 차례 침범",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261126190400504",
+              "verifiedAt": "2026-11-27T09:02:56.834542+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "합동참모본부가 국회에 제출한 자료에 따르면 북한군은 10~11월 군사분계선을 40여 차례 침범했습니다.",
+            "지난 9월 비무장지대 지뢰 도발 이후에도 침범이 이어진 것으로 나타났습니다."
+          ],
+          "timeline": {
+            "change": "합동참모본부가 국회에 제출한 자료에 따르면 북한군은 10~11월 군사분계선을 40여 차례 침범했습니다.",
+            "eventDate": null,
+            "eventEndDate": null,
+            "eventTimezone": null,
+            "issueId": "north-korea-mdl-crossings-20261127",
+            "issueTitle": "합참 자료 공개…북한군 10~11월 군사분계선 40여 차례 침범",
+            "stage": "보도"
+          },
+          "title": "합참 자료 공개…북한군 10~11월 군사분계선 40여 차례 침범",
+          "topicKey": "north-korea-mdl-crossings-20261127",
+          "uncertainty": "추가 상황은 후속 발표를 확인해야 합니다.",
+          "whatChanged": "합동참모본부가 국회에 제출한 자료에 따르면 북한군은 10~11월 군사분계선을 40여 차례 침범했습니다.",
+          "whyItMatters": "지난 9월 비무장지대 지뢰 도발 이후에도 침범이 이어진 것으로 나타났습니다."
+        },
+        {
+          "category": "외교",
+          "emphasis": [
+            "외국군 주둔은 분쟁을 키울 수 있다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "보도에서 확인한 내용입니다.",
+          "factsHash": "acd9ac77429af198a6e6588b2ac11288615fb84af99140fc3ea6ded177836412",
+          "id": "korea-iran-minister-call-20261126",
+          "keyFacts": {
+            "detail": "이란 매체는 아라그치 장관이 외국군 주둔은 분쟁을 키울 수 있다고 말했다고 전했습니다.",
+            "result": "조현 외교부 장관은 26일 이란 외무장관과 통화하며 청해부대 임무 확대 추진이 국민 보호를 위한 것이라고 설명했습니다."
+          },
+          "publishedAt": "2026-11-27T04:10:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-27T04:10:00+09:00",
+              "title": "한·이란 외교장관 통화…이란, 외국군 주둔에 우려",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6868938_36925.html",
+              "verifiedAt": "2026-11-27T09:02:56.834542+09:00"
+            }
+          ],
+          "representativeUrl": "https://imnews.imbc.com/news/2026/world/article/6868938_36925.html",
+          "score": 93.4,
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 94,
+            "interest": 85,
+            "recency": 100,
+            "reliability": 95
+          },
+          "scoreReason": "이란 매체는 아라그치 장관이 외국군 주둔은 분쟁을 키울 수 있다고 말했다고 전했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "MBC",
+              "publishedAt": "2026-11-27T04:10:00+09:00",
+              "title": "한·이란 외교장관 통화…이란, 외국군 주둔에 우려",
+              "url": "https://imnews.imbc.com/news/2026/world/article/6868938_36925.html",
+              "verifiedAt": "2026-11-27T09:02:56.834542+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "조현 외교부 장관은 26일 이란 외무장관과 통화하며 청해부대 임무 확대 추진이 국민 보호를 위한 것이라고 설명했습니다.",
+            "이란 매체는 아라그치 장관이 외국군 주둔은 분쟁을 키울 수 있다고 말했다고 전했습니다."
+          ],
+          "timeline": {
+            "change": "조현 외교부 장관은 26일 이란 외무장관과 통화하며 청해부대 임무 확대 추진이 국민 보호를 위한 것이라고 설명했습니다.",
+            "eventDate": "2026-11-26",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-iran-minister-call-20261126",
+            "issueTitle": "한·이란 외교장관 통화…이란, 외국군 주둔에 우려",
+            "stage": "보도"
+          },
+          "title": "한·이란 외교장관 통화…이란, 외국군 주둔에 우려",
+          "topicKey": "korea-iran-minister-call-20261126",
+          "uncertainty": "추가 상황은 후속 발표를 확인해야 합니다.",
+          "whatChanged": "조현 외교부 장관은 26일 이란 외무장관과 통화하며 청해부대 임무 확대 추진이 국민 보호를 위한 것이라고 설명했습니다.",
+          "whyItMatters": "이란 매체는 아라그치 장관이 외국군 주둔은 분쟁을 키울 수 있다고 말했다고 전했습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "recordedAt": "2026-11-27T09:03:03.590280+09:00",
+    "revision": 1
+  },
+  "newsInputSha256": "facefbf6725d7db70e9416a32063642bdda68c2299b8a35ee04386bae4d4eb17",
+  "opensAt": "2026-11-26T21:00:00+09:00",
+  "publicationMode": "single-run",
+  "scheduledFor": "2026-11-27T09:00:00+09:00",
+  "schemaVersion": 1,
+  "status": "finalized",
+  "timezone": "Asia/Seoul"
+}
