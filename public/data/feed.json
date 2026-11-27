@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T03:23:35.048444+00:00",
+  "collectedAt": "2026-11-27T03:24:39.968083+00:00",
   "windowEnd": "2026-11-27T12:23:34.611432+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7859,6 +7859,57 @@
       "firstPublishedAt": "2026-11-26T09:04:09.130334+00:00"
     },
     {
+      "id": "aagag-1672892-0",
+      "url": "https://aagag.com/issue/?idx=1672892",
+      "source": "애객",
+      "title": "ㅇㅎ)옷의 중요성 ㄷㄷ",
+      "publishedAt": "2026-11-27T12:23:42+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7mhJ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7mhO.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7mhJ.webp",
+        "https://i.aagag.com/o/L7mhO.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9034656",
+          "text": "집 청소좀 해"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-27T12:24:28.170199+09:00",
+      "sourceTitles": [
+        "의상이 색기에 미치는 영향",
+        "옷차림의 중요성",
+        "(ㅇㅎ?) 옷의 중요성",
+        "ㅇㅎ)옷의 중요성 ㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-27T03:24:39.901405+00:00",
+      "collectedAt": "2026-11-27T12:24:39.901423+09:00",
+      "firstPublishedAt": "2026-11-27T03:24:40.114868+00:00"
+    },
+    {
       "id": "aagag-1672865-0",
       "url": "https://aagag.com/issue/?idx=1672865",
       "source": "애객",
@@ -8252,7 +8303,7 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
