@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T15:11:13.849716+09:00",
-  "windowEnd": "2026-11-27T15:07:01.161764+09:00",
+  "collectedAt": "2026-11-27T06:21:36.606859+00:00",
+  "windowEnd": "2026-11-27T15:21:36.284063+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7616,61 +7616,12 @@
       "sourceTitlesFetchedAt": "2026-11-26T19:44:07.571065+00:00",
       "collectedAt": "2026-11-27T04:44:07.571083+09:00",
       "firstPublishedAt": "2026-11-26T19:44:07.721148+00:00"
-    },
-    {
-      "id": "aagag-1672724-0",
-      "url": "https://aagag.com/issue/?idx=1672724",
-      "source": "애객",
-      "title": "ㅇㅎ)신혼 부부의 일상을 보여주는 영화...mp4",
-      "publishedAt": "2026-11-26T15:15:12+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/IRk63.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "영화 나의 사랑 나의 신부"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/IRk63.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "영화 나의 사랑 나의 신부",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-26T15:19:34.333956+09:00",
-      "sourceTitles": [
-        "신혼 부부 일상을 보여주는 영화",
-        "ㅇㅎ)신혼 부부의 일상을 보여주는 영화...mp4",
-        "신혼 부부의 일상을 보여주는 영화.mp4",
-        "ㅇㅎ?)신혼 부부의 일상을 보여주는 영화...mp4",
-        "신혼부부의 일상 희망편.mp4"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-26T06:19:42.401100+00:00",
-      "collectedAt": "2026-11-26T15:19:42.401124+09:00",
-      "firstPublishedAt": "2026-11-26T06:19:42.602263+00:00"
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
