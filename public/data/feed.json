@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T14:56:36.478615+09:00",
-  "windowEnd": "2026-11-27T14:50:08.021062+09:00",
+  "collectedAt": "2026-11-27T06:07:01.486355+00:00",
+  "windowEnd": "2026-11-27T15:07:01.161764+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4261,79 +4261,6 @@
       "firstPublishedAt": "2026-11-26T20:06:23.054891+00:00"
     },
     {
-      "id": "aagag-1672730-0",
-      "url": "https://aagag.com/issue/?idx=1672730",
-      "source": "애객",
-      "title": "서울, 내일 학교비정규직 총파업에 급식 간소화…도시락 지참도",
-      "publishedAt": "2026-11-26T14:52:24+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7hKf.webp",
-          "alt": ""
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7hKf.webp"
-      ],
-      "videos": [],
-      "excerpt": "",
-      "reportedCommentCount": 8,
-      "commentsPartial": false,
-      "kCount": 16,
-      "commentCount": 8,
-      "laughingComments": 3,
-      "score": 16,
-      "kPerComment": 2.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9031038",
-          "text": "맛있어 보이는데..애기 혀마중 나가겠다.."
-        },
-        {
-          "id": "9031085",
-          "text": "ㅋㅋㅋㅋ 애들 햄버거 환장하는뎈ㅋㅋ"
-        },
-        {
-          "id": "9031042",
-          "text": "아 햄버거 다 디졌다ㅋㅋㅋ"
-        },
-        {
-          "id": "9031043",
-          "text": "아 빵에서 햄버거로 업그레이드됬네 ㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9031044",
-          "text": "서울뿐만이 아닌 거 같던데"
-        },
-        {
-          "id": "9031046",
-          "text": "억지 부리면 다 들어주니깐 억지부리는 사람들이 너무 많아졌다 에휴"
-        },
-        {
-          "id": "9031056",
-          "text": "어떤게 억지인지 좀 알려주시겠습니까? 저 이슈에 대해서 잘 알지 못해서요."
-        },
-        {
-          "id": "9031091",
-          "text": "방학기간에는 급식운영을 안합니다 그럼에도 정규직 전환을 해버리면 월급은 동일하게 나갑니다 교육재정 지출이 대폭 상승합니다 세금으로 나갑니다 이게 싫고 방학때도 월급을 받고싶으면 임용고사 통과해서 교사가 되면 됩니다 능력은 안되고 욕심은 많고 떼를 쓰면 들어주니깐 계속해서 떼쓰는 문화가 커지는것 같습니다 주민센터에서도 떼쓰고 억지부리고 학교에서도 억지부리고 떼쓰고 노조도 억지부리고 떼쓰고 뭐 장단점이 있겠지만 전 반대하는 입장입니다"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-26T15:03:53.761108+09:00",
-      "sourceTitles": [
-        "서울, 내일 학교비정규직 총파업에 급식 간소화…도시락 지참도",
-        "서울, 내일 학교비정규직 총파업에 급식 간소화…도시락 지참도",
-        "서울, 내일 학교비정규직 총파업, 아이들 급식 비상",
-        "서울, 내일 학교비정규직 총파업에 급식 간소화…도시락 지참도"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-26T06:04:07.352343+00:00",
-      "collectedAt": "2026-11-26T15:04:07.352360+09:00",
-      "firstPublishedAt": "2026-11-26T06:04:07.445831+00:00"
-    },
-    {
       "id": "aagag-1672925-0",
       "url": "https://aagag.com/issue/?idx=1672925",
       "source": "애객",
@@ -7741,9 +7668,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
