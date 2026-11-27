@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T13:04:42.121821+09:00",
-  "windowEnd": "2026-11-27T12:58:37.466237+09:00",
+  "collectedAt": "2026-11-27T04:15:11.358987+00:00",
+  "windowEnd": "2026-11-27T13:15:11.020722+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -6419,80 +6419,6 @@
       "sourceTitlesFetchedAt": "2026-11-26T22:48:48.192525+00:00",
       "collectedAt": "2026-11-27T07:48:48.192552+09:00",
       "firstPublishedAt": "2026-11-26T22:48:48.295583+00:00"
-    },
-    {
-      "id": "aagag-1672716-0",
-      "url": "https://aagag.com/issue/?idx=1672716",
-      "source": "애객",
-      "title": "발가락털을 부끄러워하지마 자랑스러워하길",
-      "publishedAt": "2026-11-26T13:04:33+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7Z6J.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "딱 한가닥 있는데 ?"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7Z6J.webp"
-      ],
-      "videos": [],
-      "excerpt": "딱 한가닥 있는데 ?",
-      "reportedCommentCount": 7,
-      "commentsPartial": false,
-      "kCount": 11,
-      "commentCount": 7,
-      "laughingComments": 2,
-      "score": 11,
-      "kPerComment": 1.5714285714285714,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9030557",
-          "text": "아니 근데 왜 다른 말단에 있는 머리는..."
-        },
-        {
-          "id": "9030567",
-          "text": "저거 레이저 제모기로 다 없앴는데...ㄷㄷㄷ"
-        },
-        {
-          "id": "9030574",
-          "text": "발끝에 털은 많은데 왜 내가 수족냉증인걸까?"
-        },
-        {
-          "id": "9030576",
-          "text": "나도 딱 한가닥씩 있음 ㅋㅋㅋㅋㅋ 혈류가 딱 한가닥씩 나오게만 간다는건가 ㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9030577",
-          "text": "전 사진처럼 있는데 ㄷㄷㄷㄷ"
-        },
-        {
-          "id": "9030579",
-          "text": "이제 발가락털 함부로 못 뽑겠네, 건강 알리미였다니 ㅋㅋ"
-        },
-        {
-          "id": "9030581",
-          "text": "그냥 발가락에 모낭이 있고없고의 문제 아닐까요 털이 없다고 혈류가 차단된것도 아닌데.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-26T13:12:34.141742+09:00",
-      "sourceTitles": [
-        "발가락털을 부끄러워하지마 자랑스러워하길",
-        "발가락 털에 있는 의외의 기능",
-        "발가락털을 부끄러워하지마 자랑스러워하길",
-        "당신이 발가락 털이 있다면",
-        "발가락털을 부끄러워하지마"
-      ],
-      "sourceHistoryPartial": true,
-      "sourceHistoryCount": 6,
-      "sourceTitlesFetchedAt": "2026-11-26T04:12:45.579045+00:00",
-      "collectedAt": "2026-11-26T13:12:45.579064+09:00",
-      "firstPublishedAt": "2026-11-26T04:12:45.879242+00:00"
     }
   ],
   "taggedPosts": [
@@ -8093,9 +8019,9 @@
     }
   ],
   "partialCommentPosts": 1,
-  "candidateCount": 306,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
