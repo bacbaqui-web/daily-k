@@ -1,26 +1,73 @@
 {
-  "editionCount": 143,
+  "editionCount": 144,
   "issues": [
     {
       "categories": [
         "사회"
       ],
-      "eventCount": 1,
+      "eventCount": 2,
       "firstCoveredAt": "2026-11-27T09:02:56.834542+09:00",
       "firstCoveredDate": "2026-11-27",
       "id": "school-staff-strike-20261127",
-      "lastCoveredAt": "2026-11-27T09:02:56.834542+09:00",
+      "lastCoveredAt": "2026-11-27T21:00:04.999681+09:00",
       "lastCoveredDate": "2026-11-27",
       "latest": {
         "archive": false,
-        "change": "임금 교섭이 결렬돼 급식과 돌봄 등을 맡는 학교 비정규직 노동자들이 27일 하루 총파업에 나섭니다.",
-        "editionId": "2026-11-27-am",
-        "stage": "보도",
-        "storyId": "school-staff-strike-20261127",
-        "title": "학교 비정규직 총파업…급식·돌봄 비상"
+        "change": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+        "editionId": "2026-11-27-pm",
+        "stage": "결과",
+        "storyId": "school-strike-impact-20261127",
+        "title": "학교 파업에 급식 대상 학교 약 32% 차질"
       },
       "path": "school-staff-strike-20261127.json",
       "title": "학교 비정규직 총파업…급식·돌봄 비상"
+    },
+    {
+      "categories": [
+        "정치·노동"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-27T21:00:04.999681+09:00",
+      "firstCoveredDate": "2026-11-27",
+      "id": "retirement-age-talks-20261127",
+      "lastCoveredAt": "2026-11-27T21:00:04.999681+09:00",
+      "lastCoveredDate": "2026-11-27",
+      "latest": {
+        "archive": false,
+        "change": "민주당 정년연장특위가 약 10개월 만에 노동계와 경영계 협의를 재개했지만 합의에 이르지 못했습니다.",
+        "editionId": "2026-11-27-pm",
+        "stage": "결과",
+        "storyId": "retirement-age-talks-20261127",
+        "title": "65세 정년 연장 논의, 10개월 만에 재개됐지만 합의 불발"
+      },
+      "path": "retirement-age-talks-20261127.json",
+      "title": "65세 정년 연장 논의, 10개월 만에 재개됐지만 합의 불발"
+    },
+    {
+      "categories": [
+        "경제",
+        "경제·금융",
+        "경제·생활경제",
+        "경제·증시",
+        "증시·반도체",
+        "증시·환율"
+      ],
+      "eventCount": 44,
+      "firstCoveredAt": null,
+      "firstCoveredDate": "2026-09-15",
+      "id": "korea-equities-flows",
+      "lastCoveredAt": "2026-11-27T21:00:04.999681+09:00",
+      "lastCoveredDate": "2026-11-27",
+      "latest": {
+        "archive": false,
+        "change": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+        "editionId": "2026-11-27-pm",
+        "stage": "결과",
+        "storyId": "kospi-4900-recovery-20261127",
+        "title": "코스피 4.34% 상승해 4,900선 회복"
+      },
+      "path": "korea-equities-flows.json",
+      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -63,32 +110,6 @@
       },
       "path": "korea-iran-minister-call-20261126.json",
       "title": "한·이란 외교장관 통화…이란, 외국군 주둔에 우려"
-    },
-    {
-      "categories": [
-        "경제",
-        "경제·금융",
-        "경제·생활경제",
-        "경제·증시",
-        "증시·반도체",
-        "증시·환율"
-      ],
-      "eventCount": 43,
-      "firstCoveredAt": null,
-      "firstCoveredDate": "2026-09-15",
-      "id": "korea-equities-flows",
-      "lastCoveredAt": "2026-11-26T21:06:13.923775+09:00",
-      "lastCoveredDate": "2026-11-26",
-      "latest": {
-        "archive": false,
-        "change": "코스피가 전날 급락 뒤 0.29% 올라 4,711.21에 마감했습니다.",
-        "editionId": "2026-11-26-pm",
-        "stage": "결과",
-        "storyId": "kospi-close-rebound-20261126",
-        "title": "코스피 0.29% 반등…4,711.21 마감"
-      },
-      "path": "korea-equities-flows.json",
-      "title": "한국 증시와 외국인 수급"
     },
     {
       "categories": [
@@ -13532,7 +13553,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1062,
+  "storyCount": 1065,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-27T09:02:56.834542+09:00"
+  "updatedAt": "2026-11-27T21:00:04.999681+09:00"
 }

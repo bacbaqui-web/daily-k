@@ -1,0 +1,237 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-27T21:00:00+09:00",
+      "date": "2026-11-27",
+      "edition": "pm",
+      "events": [],
+      "generatedAt": "2026-11-27T21:00:04.999681+09:00",
+      "generationMode": "codex-cli",
+      "id": "2026-11-27-pm",
+      "intro": "11월 27일 저녁 주요 뉴스입니다.",
+      "keywords": [
+        "학교 급식",
+        "정년 연장",
+        "코스피"
+      ],
+      "overview": [
+        "학교 비정규직 파업으로 급식 대상 학교 약 32%가 정상 급식을 제공하지 못했습니다.",
+        "65세 정년 연장 노사 협의는 결론을 내지 못했고, 코스피는 4,900선을 회복했습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "사회",
+          "emphasis": [
+            "약 32%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 27일 집계 또는 협의 결과입니다.",
+          "followUp": {
+            "delta": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+            "editionId": "2026-11-27-am",
+            "storyId": "school-staff-strike-20261127"
+          },
+          "id": "school-strike-impact-20261127",
+          "keyFacts": {
+            "detail": "교육부는 오전 11시 기준 교육공무직원 2만3,562명이 파업에 참여했다고 집계했습니다.",
+            "result": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다."
+          },
+          "publishedAt": "2026-11-27T15:57:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-27T15:57:00+09:00",
+              "title": "학교 파업에 급식 대상 학교 약 32% 차질",
+              "url": "https://www.yna.co.kr/view/AKR20261127123700530",
+              "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261127123700530",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 98,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "교육부는 오전 11시 기준 교육공무직원 2만3,562명이 파업에 참여했다고 집계했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-27T15:57:00+09:00",
+              "title": "학교 파업에 급식 대상 학교 약 32% 차질",
+              "url": "https://www.yna.co.kr/view/AKR20261127123700530",
+              "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+            "교육부는 오전 11시 기준 교육공무직원 2만3,562명이 파업에 참여했다고 집계했습니다."
+          ],
+          "timeline": {
+            "change": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "school-staff-strike-20261127",
+            "issueTitle": "학교 비정규직 총파업…급식·돌봄 비상",
+            "stage": "결과"
+          },
+          "title": "학교 파업에 급식 대상 학교 약 32% 차질",
+          "topicKey": "school-staff-strike-20261127",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+          "whyItMatters": "교육부는 오전 11시 기준 교육공무직원 2만3,562명이 파업에 참여했다고 집계했습니다."
+        },
+        {
+          "category": "정치·노동",
+          "emphasis": [
+            "합의에 이르지 못했습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 27일 집계 또는 협의 결과입니다.",
+          "id": "retirement-age-talks-20261127",
+          "keyFacts": {
+            "detail": "정년을 늘리는 시기와 퇴직 후 재고용을 어떻게 병행할지가 쟁점입니다.",
+            "result": "민주당 정년연장특위가 약 10개월 만에 노동계와 경영계 협의를 재개했지만 합의에 이르지 못했습니다."
+          },
+          "publishedAt": "2026-11-27T15:17:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS Biz",
+              "publishedAt": "2026-11-27T15:17:00+09:00",
+              "title": "65세 정년 연장 논의, 10개월 만에 재개됐지만 합의 불발",
+              "url": "https://biz.sbs.co.kr/amp/article/20000349397",
+              "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+            }
+          ],
+          "representativeUrl": "https://biz.sbs.co.kr/amp/article/20000349397",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 96,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "정년을 늘리는 시기와 퇴직 후 재고용을 어떻게 병행할지가 쟁점입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "SBS Biz",
+              "publishedAt": "2026-11-27T15:17:00+09:00",
+              "title": "65세 정년 연장 논의, 10개월 만에 재개됐지만 합의 불발",
+              "url": "https://biz.sbs.co.kr/amp/article/20000349397",
+              "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "민주당 정년연장특위가 약 10개월 만에 노동계와 경영계 협의를 재개했지만 합의에 이르지 못했습니다.",
+            "정년을 늘리는 시기와 퇴직 후 재고용을 어떻게 병행할지가 쟁점입니다."
+          ],
+          "timeline": {
+            "change": "민주당 정년연장특위가 약 10개월 만에 노동계와 경영계 협의를 재개했지만 합의에 이르지 못했습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "retirement-age-talks-20261127",
+            "issueTitle": "65세 정년 연장 논의, 10개월 만에 재개됐지만 합의 불발",
+            "stage": "결과"
+          },
+          "title": "65세 정년 연장 논의, 10개월 만에 재개됐지만 합의 불발",
+          "topicKey": "retirement-age-talks-20261127",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "민주당 정년연장특위가 약 10개월 만에 노동계와 경영계 협의를 재개했지만 합의에 이르지 못했습니다.",
+          "whyItMatters": "정년을 늘리는 시기와 퇴직 후 재고용을 어떻게 병행할지가 쟁점입니다."
+        },
+        {
+          "category": "경제",
+          "emphasis": [
+            "4,915.68"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 27일 집계 또는 협의 결과입니다.",
+          "followUp": {
+            "delta": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+            "editionId": "2026-11-26-pm",
+            "storyId": "kospi-close-rebound-20261126"
+          },
+          "id": "kospi-4900-recovery-20261127",
+          "keyFacts": {
+            "detail": "외국인과 기관이 동반 매수했고, 코스닥도 8% 넘게 올라 700선을 회복했습니다.",
+            "result": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다."
+          },
+          "publishedAt": "2026-11-27T16:03:04+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-27T16:03:04+09:00",
+              "title": "코스피 4.34% 상승해 4,900선 회복",
+              "url": "https://files.newsis.com/view/NISX20261127_0003886561",
+              "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+            }
+          ],
+          "representativeUrl": "https://files.newsis.com/view/NISX20261127_0003886561",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 94,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "외국인과 기관이 동반 매수했고, 코스닥도 8% 넘게 올라 700선을 회복했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-27T16:03:04+09:00",
+              "title": "코스피 4.34% 상승해 4,900선 회복",
+              "url": "https://files.newsis.com/view/NISX20261127_0003886561",
+              "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+            "외국인과 기관이 동반 매수했고, 코스닥도 8% 넘게 올라 700선을 회복했습니다."
+          ],
+          "timeline": {
+            "change": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "korea-equities-flows",
+            "issueTitle": "한국 증시와 외국인 수급",
+            "stage": "결과"
+          },
+          "title": "코스피 4.34% 상승해 4,900선 회복",
+          "topicKey": "kr-stock-market-november-2026",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+          "whyItMatters": "외국인과 기관이 동반 매수했고, 코스닥도 8% 넘게 올라 700선을 회복했습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-27-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-27T21:00:11.175823+09:00",
+  "result": {
+    "id": "2026-11-27-pm",
+    "operationId": "publish-news-2026-11-27-pm",
+    "recordedAt": "2026-11-27T21:00:11.175823+09:00",
+    "sha256": "8b5751bebf78bde92d8bd79fff0c0fc60661ed0ed22a7c9eb7f502e377d8e41c",
+    "windowId": "2026-11-27-pm"
+  }
+}

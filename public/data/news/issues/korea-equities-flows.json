@@ -1634,6 +1634,58 @@
       "uncertainty": "후속 수치와 일정은 추가 확인이 필요합니다."
     },
     {
+      "briefingPath": "2026-11-27/pm.json",
+      "category": "경제",
+      "change": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-27T21:00:04.999681+09:00",
+      "coveredOn": "2026-11-27",
+      "edition": "pm",
+      "editionDate": "2026-11-27",
+      "editionId": "2026-11-27-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-27",
+      "eventEndDate": null,
+      "eventTimeNote": "11월 27일 집계 또는 협의 결과입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+        "editionId": "2026-11-26-pm",
+        "storyId": "kospi-close-rebound-20261126"
+      },
+      "id": "2026-11-27-pm/kospi-4900-recovery-20261127",
+      "keyFacts": {
+        "detail": "외국인과 기관이 동반 매수했고, 코스닥도 8% 넘게 올라 700선을 회복했습니다.",
+        "result": "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-26-pm",
+        "storyId": "kospi-close-rebound-20261126"
+      },
+      "publishedAt": "2026-11-27T16:03:04+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-27T16:03:04+09:00",
+          "title": "코스피 4.34% 상승해 4,900선 회복",
+          "url": "https://files.newsis.com/view/NISX20261127_0003886561",
+          "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "kospi-4900-recovery-20261127",
+      "summary": [
+        "코스피가 전날보다 4.34% 오른 4,915.68에 마감했습니다.",
+        "외국인과 기관이 동반 매수했고, 코스닥도 8% 넘게 올라 700선을 회복했습니다."
+      ],
+      "supersededBy": [],
+      "title": "코스피 4.34% 상승해 4,900선 회복",
+      "uncertainty": "후속 상황은 추가 확인이 필요합니다."
+    },
+    {
       "archive": {
         "importedAt": "2026-10-02T12:34:33+09:00",
         "lineEnd": 39,
@@ -2532,5 +2584,5 @@
   "id": "korea-equities-flows",
   "schemaVersion": 1,
   "title": "한국 증시와 외국인 수급",
-  "updatedAt": "2026-11-27T09:02:56.834542+09:00"
+  "updatedAt": "2026-11-27T21:00:04.999681+09:00"
 }

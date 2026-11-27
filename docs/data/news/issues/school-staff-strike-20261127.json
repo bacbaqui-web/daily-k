@@ -44,10 +44,62 @@
       "supersededBy": [],
       "title": "학교 비정규직 총파업…급식·돌봄 비상",
       "uncertainty": "추가 상황은 후속 발표를 확인해야 합니다."
+    },
+    {
+      "briefingPath": "2026-11-27/pm.json",
+      "category": "사회",
+      "change": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-27T21:00:04.999681+09:00",
+      "coveredOn": "2026-11-27",
+      "edition": "pm",
+      "editionDate": "2026-11-27",
+      "editionId": "2026-11-27-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-27",
+      "eventEndDate": null,
+      "eventTimeNote": "11월 27일 집계 또는 협의 결과입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": {
+        "delta": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+        "editionId": "2026-11-27-am",
+        "storyId": "school-staff-strike-20261127"
+      },
+      "id": "2026-11-27-pm/school-strike-impact-20261127",
+      "keyFacts": {
+        "detail": "교육부는 오전 11시 기준 교육공무직원 2만3,562명이 파업에 참여했다고 집계했습니다.",
+        "result": "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다."
+      },
+      "previous": {
+        "editionId": "2026-11-27-am",
+        "storyId": "school-staff-strike-20261127"
+      },
+      "publishedAt": "2026-11-27T15:57:00+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "연합뉴스",
+          "publishedAt": "2026-11-27T15:57:00+09:00",
+          "title": "학교 파업에 급식 대상 학교 약 32% 차질",
+          "url": "https://www.yna.co.kr/view/AKR20261127123700530",
+          "verifiedAt": "2026-11-27T21:00:04.999681+09:00"
+        }
+      ],
+      "stage": "결과",
+      "status": "확정",
+      "storyId": "school-strike-impact-20261127",
+      "summary": [
+        "학교 비정규직 파업으로 급식 대상 학교 약 32%가 대체식을 제공하거나 급식을 중단했습니다.",
+        "교육부는 오전 11시 기준 교육공무직원 2만3,562명이 파업에 참여했다고 집계했습니다."
+      ],
+      "supersededBy": [],
+      "title": "학교 파업에 급식 대상 학교 약 32% 차질",
+      "uncertainty": "후속 상황은 추가 확인이 필요합니다."
     }
   ],
   "id": "school-staff-strike-20261127",
   "schemaVersion": 1,
   "title": "학교 비정규직 총파업…급식·돌봄 비상",
-  "updatedAt": "2026-11-27T09:02:56.834542+09:00"
+  "updatedAt": "2026-11-27T21:00:04.999681+09:00"
 }
