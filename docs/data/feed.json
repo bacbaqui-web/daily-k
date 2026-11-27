@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T05:30:46.095825+09:00",
-  "windowEnd": "2026-11-28T05:26:32.096694+09:00",
+  "collectedAt": "2026-11-27T20:41:16.924386+00:00",
+  "windowEnd": "2026-11-28T05:41:16.583382+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8505,100 +8505,12 @@
       "sourceTitlesFetchedAt": "2026-11-27T05:03:38.061985+00:00",
       "collectedAt": "2026-11-27T14:03:38.062004+09:00",
       "firstPublishedAt": "2026-11-27T05:03:38.304307+00:00"
-    },
-    {
-      "id": "aagag-1672836-0",
-      "url": "https://aagag.com/issue/?idx=1672836",
-      "source": "애객",
-      "title": "풍만한 사나",
-      "publishedAt": "2026-11-27T05:33:19+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7VhH.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7VhH.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-27T05:37:00.909529+09:00",
-      "sourceTitles": [
-        "사나 (트와이스)",
-        "풍만한 사나",
-        "ㅇㅎ) 숙이는 트와이스 사나",
-        "풍만한 사나"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-26T20:37:10.009114+00:00",
-      "collectedAt": "2026-11-27T05:37:10.009131+09:00",
-      "firstPublishedAt": "2026-11-26T20:37:10.246508+00:00"
-    },
-    {
-      "id": "aagag-1672832-0",
-      "url": "https://aagag.com/issue/?idx=1672832",
-      "source": "애객",
-      "title": "ㅇㅎ) 전 시그니처 지원 체포하겠어.mp4",
-      "publishedAt": "2026-11-27T05:29:03+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7mSr.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7mSr.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-27T05:39:13.601572+09:00",
-      "sourceTitles": [
-        "요즘 유향하는 체포챌린지",
-        "ㅇㅎ) 전 시그니처 지원 체포하겠어.mp4",
-        "ㅇㅎ?) 지지원 체포하겠어.mp4",
-        "시그니처 지원 인스타"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-26T20:39:26.142084+00:00",
-      "collectedAt": "2026-11-27T05:39:26.142101+09:00",
-      "firstPublishedAt": "2026-11-26T20:39:26.251662+00:00"
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
