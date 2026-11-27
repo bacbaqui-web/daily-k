@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T12:30:47.610799+00:00",
+  "collectedAt": "2026-11-27T12:31:36.500039+00:00",
   "windowEnd": "2026-11-27T21:30:47.263373+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7751,6 +7751,55 @@
       "firstPublishedAt": "2026-11-27T03:43:33.055710+00:00"
     },
     {
+      "id": "aagag-1673012-0",
+      "url": "https://aagag.com/issue/?idx=1673012",
+      "source": "애객",
+      "title": "ㅇㅎ) 모텔 갔을때 남자들 뻑가는 모먼트",
+      "publishedAt": "2026-11-27T21:28:02+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7sUH.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7sUH.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9036799",
+          "text": "안가봐서 모르겠는데요?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-27T21:31:24.925604+09:00",
+      "sourceTitles": [
+        "(ㅇㅎ?) 모텔 갔을 때 남자들 뻑가는 모먼트",
+        "ㅇㅎ) 모텔 갔을때 남자들 뻑가는 모먼트",
+        "ㅇㅎ) 모텔 갔을때 남자들 뻑가는 모먼트",
+        "ㅇㅎ) 모텔 갔을때 남자들 죽는 모먼트"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-27T12:31:36.392764+00:00",
+      "collectedAt": "2026-11-27T21:31:36.392781+09:00",
+      "firstPublishedAt": "2026-11-27T12:31:36.543069+00:00"
+    },
+    {
       "id": "aagag-1672991-0",
       "url": "https://aagag.com/issue/?idx=1672991",
       "source": "애객",
@@ -8214,7 +8263,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
