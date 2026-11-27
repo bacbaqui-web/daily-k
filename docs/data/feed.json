@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-27T20:41:16.924386+00:00",
+  "collectedAt": "2026-11-27T20:42:24.813666+00:00",
   "windowEnd": "2026-11-28T05:41:16.583382+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8220,6 +8220,53 @@
       "firstPublishedAt": "2026-11-27T00:08:48.244020+00:00"
     },
     {
+      "id": "aagag-1673051-0",
+      "url": "https://aagag.com/issue/?idx=1673051",
+      "source": "애객",
+      "title": "173cm 유부녀 치어리더",
+      "publishedAt": "2026-11-28T05:33:25+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/Jti4n.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/Jti4n.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-28T05:42:13.312848+09:00",
+      "sourceTitles": [
+        "173cm 유부녀 치어",
+        "ㅇㅎ?) 173cm 유부녀 치어리더.swf",
+        "173cm 유부녀 치어리더",
+        "ㅇㅎ?)  173cm 유부녀 치어리더",
+        "대만에서 아웃송 선보이는 KT 김해리 치어리더",
+        "키 173cm 김해리 치어리더 주황색 원피스",
+        "김해리 치어리더"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-27T20:42:24.739080+00:00",
+      "collectedAt": "2026-11-28T05:42:24.739096+09:00",
+      "firstPublishedAt": "2026-11-27T20:42:24.970543+00:00"
+    },
+    {
       "id": "aagag-1673044-0",
       "url": "https://aagag.com/issue/?idx=1673044",
       "source": "애객",
@@ -8508,7 +8555,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
