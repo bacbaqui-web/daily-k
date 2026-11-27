@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-27T19:59:38.622175+00:00",
+  "collectedAt": "2026-11-27T20:01:08.514980+00:00",
   "windowEnd": "2026-11-28T04:59:38.249066+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -6939,7 +6939,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -6966,6 +6966,115 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1673040-0",
+      "url": "https://aagag.com/issue/?idx=1673040",
+      "source": "애객",
+      "title": "안경잡이들의 소개팅.manhwa",
+      "publishedAt": "2026-11-28T04:56:32+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CX5.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CX8.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXC.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXE.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXH.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXI.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXJ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXK.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXM.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXO.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7CXQ.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7CX5.webp",
+        "https://i.aagag.com/o/L7CX8.webp",
+        "https://i.aagag.com/o/L7CXC.webp",
+        "https://i.aagag.com/o/L7CXE.webp",
+        "https://i.aagag.com/o/L7CXG.webp",
+        "https://i.aagag.com/o/L7CXH.webp",
+        "https://i.aagag.com/o/L7CXI.webp",
+        "https://i.aagag.com/o/L7CXJ.webp",
+        "https://i.aagag.com/o/L7CXK.webp",
+        "https://i.aagag.com/o/L7CXM.webp",
+        "https://i.aagag.com/o/L7CXO.webp",
+        "https://i.aagag.com/o/L7CXQ.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-28T05:01:01.502071+09:00",
+      "sourceTitles": [
+        "안경잡이들의 소개팅.manhwa",
+        "안경잡이들의 소개팅.manhwa",
+        "소개팅 상대가 AI 안경을 끼고 나타났다",
+        "AI안경으로 여친사귀는 만화.manhwa",
+        "안경잡이들의 연애",
+        "AI안경이 보편화된 세상",
+        "ai 안경이 보편화된 미래의 소개팅 ㅋㅋㅋ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 7,
+      "sourceTitlesFetchedAt": "2026-11-27T20:01:08.391380+00:00",
+      "collectedAt": "2026-11-28T05:01:08.391400+09:00",
+      "firstPublishedAt": "2026-11-27T20:01:08.698700+00:00"
+    },
     {
       "id": "aagag-1621854-0",
       "url": "https://aagag.com/issue/?idx=1621854",
