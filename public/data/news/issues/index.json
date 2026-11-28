@@ -1,6 +1,69 @@
 {
-  "editionCount": 145,
+  "editionCount": 146,
   "issues": [
+    {
+      "categories": [
+        "사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "firstCoveredDate": "2026-11-28",
+      "id": "jeju-wind-flight-disruptions-20261128",
+      "lastCoveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "lastCoveredDate": "2026-11-28",
+      "latest": {
+        "archive": false,
+        "change": "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다.",
+        "editionId": "2026-11-28-pm",
+        "stage": "보도",
+        "storyId": "jeju-wind-flight-disruptions-20261128",
+        "title": "제주 강풍에 항공편 52편 결항·80편 지연"
+      },
+      "path": "jeju-wind-flight-disruptions-20261128.json",
+      "title": "제주 강풍에 항공편 52편 결항·80편 지연"
+    },
+    {
+      "categories": [
+        "사회"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "firstCoveredDate": "2026-11-28",
+      "id": "health-exams-electronics-20261128",
+      "lastCoveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "lastCoveredDate": "2026-11-28",
+      "latest": {
+        "archive": false,
+        "change": "응급구조사와 치과기공사 등을 선발하는 국가시험에서 전자기기를 제출하지 않은 사례 3건이 확인됐습니다.",
+        "editionId": "2026-11-28-pm",
+        "stage": "보도",
+        "storyId": "health-exams-electronics-20261128",
+        "title": "보건의료인 국가시험서 전자기기 미제출 3건 적발"
+      },
+      "path": "health-exams-electronics-20261128.json",
+      "title": "보건의료인 국가시험서 전자기기 미제출 3건 적발"
+    },
+    {
+      "categories": [
+        "산업·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "firstCoveredDate": "2026-11-28",
+      "id": "donghae-aidc-groundbreaking-20261128",
+      "lastCoveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "lastCoveredDate": "2026-11-28",
+      "latest": {
+        "archive": false,
+        "change": "강원 동해시 북평제2산업단지에서 기가와트급 인공지능 데이터센터 건설이 시작됐습니다.",
+        "editionId": "2026-11-28-pm",
+        "stage": "보도",
+        "storyId": "donghae-aidc-groundbreaking-20261128",
+        "title": "강원 동해에 기가와트급 AI 데이터센터 착공"
+      },
+      "path": "donghae-aidc-groundbreaking-20261128.json",
+      "title": "강원 동해에 기가와트급 AI 데이터센터 착공"
+    },
     {
       "categories": [
         "과학·기술"
@@ -13616,7 +13679,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1068,
+  "storyCount": 1071,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-28T09:01:31.718835+09:00"
+  "updatedAt": "2026-11-28T21:02:08.312163+09:00"
 }

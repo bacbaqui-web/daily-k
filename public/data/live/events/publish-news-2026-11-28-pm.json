@@ -1,0 +1,227 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-28T21:00:00+09:00",
+      "date": "2026-11-28",
+      "edition": "pm",
+      "events": [],
+      "generatedAt": "2026-11-28T21:02:08.312163+09:00",
+      "generationMode": "codex-cli",
+      "id": "2026-11-28-pm",
+      "intro": "11월 28일 저녁 주요 뉴스입니다.",
+      "keywords": [
+        "동해 데이터센터",
+        "제주 강풍",
+        "국가시험"
+      ],
+      "overview": [
+        "강원 동해에서 기가와트급 인공지능 데이터센터 공사가 시작됐습니다.",
+        "제주에서는 강풍으로 항공편이 차질을 빚었고, 보건의료인 국가시험에서는 전자기기 미제출 사례가 확인됐습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "산업·기술",
+          "emphasis": [
+            "기가와트급 인공지능 데이터센터"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 28일에 확인된 소식입니다.",
+          "id": "donghae-aidc-groundbreaking-20261128",
+          "keyFacts": {
+            "detail": "GS가 추진하는 이 시설은 정부가 지원하는 인공지능 데이터센터 대형 사업의 첫 착공 사례입니다.",
+            "result": "강원 동해시 북평제2산업단지에서 기가와트급 인공지능 데이터센터 건설이 시작됐습니다."
+          },
+          "publishedAt": "2026-11-28T11:57:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T11:57:00+09:00",
+              "title": "강원 동해에 기가와트급 AI 데이터센터 착공",
+              "url": "https://www.yna.co.kr/view/AKR20261128028800017",
+              "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261128028800017",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 98,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "GS가 추진하는 이 시설은 정부가 지원하는 인공지능 데이터센터 대형 사업의 첫 착공 사례입니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T11:57:00+09:00",
+              "title": "강원 동해에 기가와트급 AI 데이터센터 착공",
+              "url": "https://www.yna.co.kr/view/AKR20261128028800017",
+              "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "강원 동해시 북평제2산업단지에서 기가와트급 인공지능 데이터센터 건설이 시작됐습니다.",
+            "GS가 추진하는 이 시설은 정부가 지원하는 인공지능 데이터센터 대형 사업의 첫 착공 사례입니다."
+          ],
+          "timeline": {
+            "change": "강원 동해시 북평제2산업단지에서 기가와트급 인공지능 데이터센터 건설이 시작됐습니다.",
+            "eventDate": "2026-11-28",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "donghae-aidc-groundbreaking-20261128",
+            "issueTitle": "강원 동해에 기가와트급 AI 데이터센터 착공",
+            "stage": "보도"
+          },
+          "title": "강원 동해에 기가와트급 AI 데이터센터 착공",
+          "topicKey": "donghae-aidc-groundbreaking-20261128",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "강원 동해시 북평제2산업단지에서 기가와트급 인공지능 데이터센터 건설이 시작됐습니다.",
+          "whyItMatters": "GS가 추진하는 이 시설은 정부가 지원하는 인공지능 데이터센터 대형 사업의 첫 착공 사례입니다."
+        },
+        {
+          "category": "사회",
+          "emphasis": [
+            "항공편 52편이 결항"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 28일에 확인된 소식입니다.",
+          "id": "jeju-wind-flight-disruptions-20261128",
+          "keyFacts": {
+            "detail": "제주 전역에 강풍이 불면서 시설물 피해 신고도 잇따랐습니다.",
+            "result": "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다."
+          },
+          "publishedAt": "2026-11-28T18:37:15+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-28T18:37:15+09:00",
+              "title": "제주 강풍에 항공편 52편 결항·80편 지연",
+              "url": "https://files.newsis.com/view/NISX20261128_0003887250",
+              "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+            }
+          ],
+          "representativeUrl": "https://files.newsis.com/view/NISX20261128_0003887250",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 95,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "제주 전역에 강풍이 불면서 시설물 피해 신고도 잇따랐습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-28T18:37:15+09:00",
+              "title": "제주 강풍에 항공편 52편 결항·80편 지연",
+              "url": "https://files.newsis.com/view/NISX20261128_0003887250",
+              "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다.",
+            "제주 전역에 강풍이 불면서 시설물 피해 신고도 잇따랐습니다."
+          ],
+          "timeline": {
+            "change": "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다.",
+            "eventDate": "2026-11-28",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "jeju-wind-flight-disruptions-20261128",
+            "issueTitle": "제주 강풍에 항공편 52편 결항·80편 지연",
+            "stage": "보도"
+          },
+          "title": "제주 강풍에 항공편 52편 결항·80편 지연",
+          "topicKey": "jeju-wind-flight-disruptions-20261128",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다.",
+          "whyItMatters": "제주 전역에 강풍이 불면서 시설물 피해 신고도 잇따랐습니다."
+        },
+        {
+          "category": "사회",
+          "emphasis": [
+            "사례 3건"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 28일에 확인된 소식입니다.",
+          "id": "health-exams-electronics-20261128",
+          "keyFacts": {
+            "detail": "복지부와 국시원은 전국 23개 시험장에서 전파탐지기를 운용하는 등 점검을 강화했습니다.",
+            "result": "응급구조사와 치과기공사 등을 선발하는 국가시험에서 전자기기를 제출하지 않은 사례 3건이 확인됐습니다."
+          },
+          "publishedAt": "2026-11-28T18:37:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T18:37:00+09:00",
+              "title": "보건의료인 국가시험서 전자기기 미제출 3건 적발",
+              "url": "https://www.yna.co.kr/view/AKR20261128028751530",
+              "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261128028751530",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 93,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "복지부와 국시원은 전국 23개 시험장에서 전파탐지기를 운용하는 등 점검을 강화했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T18:37:00+09:00",
+              "title": "보건의료인 국가시험서 전자기기 미제출 3건 적발",
+              "url": "https://www.yna.co.kr/view/AKR20261128028751530",
+              "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "응급구조사와 치과기공사 등을 선발하는 국가시험에서 전자기기를 제출하지 않은 사례 3건이 확인됐습니다.",
+            "복지부와 국시원은 전국 23개 시험장에서 전파탐지기를 운용하는 등 점검을 강화했습니다."
+          ],
+          "timeline": {
+            "change": "응급구조사와 치과기공사 등을 선발하는 국가시험에서 전자기기를 제출하지 않은 사례 3건이 확인됐습니다.",
+            "eventDate": "2026-11-28",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "health-exams-electronics-20261128",
+            "issueTitle": "보건의료인 국가시험서 전자기기 미제출 3건 적발",
+            "stage": "보도"
+          },
+          "title": "보건의료인 국가시험서 전자기기 미제출 3건 적발",
+          "topicKey": "health-exams-electronics-20261128",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "응급구조사와 치과기공사 등을 선발하는 국가시험에서 전자기기를 제출하지 않은 사례 3건이 확인됐습니다.",
+          "whyItMatters": "복지부와 국시원은 전국 23개 시험장에서 전파탐지기를 운용하는 등 점검을 강화했습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-28-pm",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-28T21:02:30.474813+09:00",
+  "result": {
+    "id": "2026-11-28-pm",
+    "operationId": "publish-news-2026-11-28-pm",
+    "recordedAt": "2026-11-28T21:02:30.474813+09:00",
+    "sha256": "25669d805737eb710a7cb7e8613189cc8341392073a629560e76345288af5bc3",
+    "windowId": "2026-11-28-pm"
+  }
+}

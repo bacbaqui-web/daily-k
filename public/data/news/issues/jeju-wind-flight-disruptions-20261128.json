@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "briefingPath": "2026-11-28/pm.json",
+      "category": "사회",
+      "change": "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다.",
+      "correctionOf": null,
+      "coveredAt": "2026-11-28T21:02:08.312163+09:00",
+      "coveredOn": "2026-11-28",
+      "edition": "pm",
+      "editionDate": "2026-11-28",
+      "editionId": "2026-11-28-pm",
+      "eventAt": null,
+      "eventDate": "2026-11-28",
+      "eventEndDate": null,
+      "eventTimeNote": "11월 28일에 확인된 소식입니다.",
+      "eventTimezone": "Asia/Seoul",
+      "followUp": null,
+      "id": "2026-11-28-pm/jeju-wind-flight-disruptions-20261128",
+      "keyFacts": {
+        "detail": "제주 전역에 강풍이 불면서 시설물 피해 신고도 잇따랐습니다.",
+        "result": "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다."
+      },
+      "previous": null,
+      "publishedAt": "2026-11-28T18:37:15+09:00",
+      "sources": [
+        {
+          "kind": "news",
+          "language": "ko",
+          "name": "뉴시스",
+          "publishedAt": "2026-11-28T18:37:15+09:00",
+          "title": "제주 강풍에 항공편 52편 결항·80편 지연",
+          "url": "https://files.newsis.com/view/NISX20261128_0003887250",
+          "verifiedAt": "2026-11-28T21:02:08.312163+09:00"
+        }
+      ],
+      "stage": "보도",
+      "status": "보도",
+      "storyId": "jeju-wind-flight-disruptions-20261128",
+      "summary": [
+        "한국공항공사 제주공항에 따르면 오후 6시 기준 항공편 52편이 결항하고 80편이 지연됐습니다.",
+        "제주 전역에 강풍이 불면서 시설물 피해 신고도 잇따랐습니다."
+      ],
+      "supersededBy": [],
+      "title": "제주 강풍에 항공편 52편 결항·80편 지연",
+      "uncertainty": "후속 상황은 추가 확인이 필요합니다."
+    }
+  ],
+  "id": "jeju-wind-flight-disruptions-20261128",
+  "schemaVersion": 1,
+  "title": "제주 강풍에 항공편 52편 결항·80편 지연",
+  "updatedAt": "2026-11-28T21:02:08.312163+09:00"
+}
