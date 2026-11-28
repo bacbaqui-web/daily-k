@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T02:33:24.057567+00:00",
+  "collectedAt": "2026-11-28T02:35:05.435429+00:00",
   "windowEnd": "2026-11-28T11:33:23.718864+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4219,6 +4219,71 @@
       "sourceTitlesFetchedAt": "2026-11-27T20:11:55.317315+00:00",
       "collectedAt": "2026-11-28T05:11:55.317390+09:00",
       "firstPublishedAt": "2026-11-27T20:11:55.416423+00:00"
+    },
+    {
+      "id": "aagag-1673097-0",
+      "url": "https://aagag.com/issue/?idx=1673097",
+      "source": "애객",
+      "title": "강소라가 생각한 걸그룹으로 데뷔시 본인 포지션",
+      "publishedAt": "2026-11-28T11:21:11+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7yI1.webp",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "시뮬레이션 겁나 돌려봤나봐 ㅋㅋ"
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7yI1.webp"
+      ],
+      "videos": [],
+      "excerpt": "시뮬레이션 겁나 돌려봤나봐 ㅋㅋ",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 19,
+      "commentCount": 5,
+      "laughingComments": 3,
+      "score": 19,
+      "kPerComment": 3.8,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9038291",
+          "text": "남다른 메타인지"
+        },
+        {
+          "id": "9038297",
+          "text": "ㅋㅋㅋㅋ 트와이스 다현, 쯔위 혹은 리센느 원이 위치겠군 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9038308",
+          "text": "아이돌 나오는 소설 좀 보셨구만 ㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9038320",
+          "text": "전직 작가라 그런가 디테일해"
+        },
+        {
+          "id": "9038331",
+          "text": "뚝딱 ㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T11:34:50.865653+09:00",
+      "sourceTitles": [
+        "강소라가 생각한 걸그룹으로 데뷔시 본인 포지션",
+        "강소라가 상상한 여자아이돌 데뷔 시 본인 포지션.jpg",
+        "강소라가 생각한 걸그룹으로 데뷔시 본인 포지션",
+        "강소라가 상상한 아이돌 데뷔 시 본인 포지션.jpg"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-28T02:35:05.358844+00:00",
+      "collectedAt": "2026-11-28T11:35:05.358862+09:00",
+      "firstPublishedAt": "2026-11-28T02:35:05.470447+00:00"
     },
     {
       "id": "aagag-1605916-0",
@@ -9097,7 +9162,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
