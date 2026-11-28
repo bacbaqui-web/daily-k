@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T14:01:57.616419+09:00",
-  "windowEnd": "2026-11-28T13:55:17.342965+09:00",
+  "collectedAt": "2026-11-28T05:12:28.518173+00:00",
+  "windowEnd": "2026-11-28T14:12:28.215842+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -9064,79 +9064,12 @@
       "sourceTitlesFetchedAt": "2026-11-27T20:02:50.803548+00:00",
       "collectedAt": "2026-11-28T05:02:50.803568+09:00",
       "firstPublishedAt": "2026-11-27T20:02:50.903464+00:00"
-    },
-    {
-      "id": "aagag-1672931-0",
-      "url": "https://aagag.com/issue/?idx=1672931",
-      "source": "애객",
-      "title": "또 한번 팬미팅차 한국 온다는 AV배우",
-      "publishedAt": "2026-11-27T14:02:54+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7ili.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/KTpLO.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/JSiOC.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7ilk.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "작년에 이어 2번째 내한"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7ili.webp",
-        "https://i.aagag.com/o/KTpLO.webp",
-        "https://i.aagag.com/o/JSiOC.webp",
-        "https://i.aagag.com/o/L7ilk.webp"
-      ],
-      "videos": [],
-      "excerpt": "작년에 이어 2번째 내한",
-      "reportedCommentCount": 0,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 0,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [],
-      "commentsFetchedAt": "2026-11-27T14:03:29.151021+09:00",
-      "sourceTitles": [
-        "또 한 번 팬미팅 차 한국 온다는 어른 배우",
-        "ㅇㅎ)2번째 팬미팅 방한 예정 \"AV배우\"",
-        "또 한번 팬미팅차 한국 온다는 AV배우",
-        "또 한번 팬미팅차 한국 온다는 AV배우",
-        "한국에 또 오는  AV배우",
-        "여자는 일본이 더 이쁘지 않나요?.jpg",
-        "ㅇㅎ 참 이쁘다.",
-        "아오조라 히카리 한국 팬미팅",
-        "아오조라 히카리 팬미팅"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 9,
-      "sourceTitlesFetchedAt": "2026-11-27T05:03:38.061985+00:00",
-      "collectedAt": "2026-11-27T14:03:38.062004+09:00",
-      "firstPublishedAt": "2026-11-27T05:03:38.304307+00:00"
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 307,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
