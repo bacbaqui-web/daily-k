@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T14:44:05.539651+00:00",
+  "collectedAt": "2026-11-28T14:45:07.521143+00:00",
   "windowEnd": "2026-11-28T23:44:05.226191+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7909,6 +7909,56 @@
       "firstPublishedAt": "2026-11-28T02:18:43.419419+00:00"
     },
     {
+      "id": "aagag-1673228-0",
+      "url": "https://aagag.com/issue/?idx=1673228",
+      "source": "애객",
+      "title": "오늘자 산타복장 카리나",
+      "publishedAt": "2026-11-28T23:36:10+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L83Vx.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L83Vx.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9040756",
+          "text": "크.. 명불허전이구만"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T23:44:53.322659+09:00",
+      "sourceTitles": [
+        "ㅇㅎ) 위에서 보는 산타복 카리나",
+        "오늘자 산타복장 카리나",
+        "x리나 산타복 ㄷㄷ .mp4",
+        "오늘자 산타 카리나 ㄷㄷ",
+        "실시간 산타 카리나 ㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-28T14:45:07.354059+00:00",
+      "collectedAt": "2026-11-28T23:45:07.354077+09:00",
+      "firstPublishedAt": "2026-11-28T14:45:07.699637+00:00"
+    },
+    {
       "id": "aagag-1673213-0",
       "url": "https://aagag.com/issue/?idx=1673213",
       "source": "애객",
@@ -8555,7 +8605,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
