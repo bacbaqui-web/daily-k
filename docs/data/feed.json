@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T11:01:59.241637+00:00",
+  "collectedAt": "2026-11-28T11:04:11.804317+00:00",
   "windowEnd": "2026-11-28T20:01:58.926728+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8384,7 +8384,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -8411,6 +8411,111 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1673193-0",
+      "url": "https://aagag.com/issue/?idx=1673193",
+      "source": "애객",
+      "title": "교통사고난 뒤 병원에서 귀인을 만남.",
+      "publishedAt": "2026-11-28T19:58:09+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82ca.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82cm.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82cy.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82d3.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82d9.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82dJ.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82dW.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82dv.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L82dz.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L82ca.webp",
+        "https://i.aagag.com/o/L82cm.webp",
+        "https://i.aagag.com/o/L82cy.webp",
+        "https://i.aagag.com/o/L82d3.webp",
+        "https://i.aagag.com/o/L82d9.webp",
+        "https://i.aagag.com/o/L82dJ.webp",
+        "https://i.aagag.com/o/L82dW.webp",
+        "https://i.aagag.com/o/L82dv.webp",
+        "https://i.aagag.com/o/L82dz.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9040112",
+          "text": "변호사 자격있는 교수인가보네"
+        },
+        {
+          "id": "9040113",
+          "text": "와 저것도 천운아님?"
+        },
+        {
+          "id": "9040114",
+          "text": "비밀이라며...? 만화로 모두가 알게 되는건가"
+        },
+        {
+          "id": "9040117",
+          "text": "히어로가 따로 있나 내가 어려울 때 선심으로 도와주는 분이 진짜 히어로 지"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T20:04:00.942376+09:00",
+      "sourceTitles": [
+        "교통사고난 뒤 병원에서 귀인을 만남.",
+        "교통사고난 뒤 병원에서 귀인을 만남.",
+        "교통사고난 뒤 병원에서 귀인을 만남.",
+        "교통사고난 뒤 귀인을 만난.Manhwa"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-28T11:04:11.747935+00:00",
+      "collectedAt": "2026-11-28T20:04:11.747954+09:00",
+      "firstPublishedAt": "2026-11-28T11:04:11.834310+00:00"
+    },
     {
       "id": "aagag-1673161-0",
       "url": "https://aagag.com/issue/?idx=1673161",
