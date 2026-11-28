@@ -1,8 +1,8 @@
 {
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
-  "date": "2026-11-28",
-  "collectedAt": "2026-11-28T14:58:45.627912+00:00",
+  "date": "2026-11-29",
+  "collectedAt": "2026-11-28T15:00:06.547491+00:00",
   "windowEnd": "2026-11-28T23:58:45.323209+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -4513,6 +4513,56 @@
       "firstPublishedAt": "2026-11-28T11:24:59.587723+00:00"
     },
     {
+      "id": "aagag-1673229-0",
+      "url": "https://aagag.com/issue/?idx=1673229",
+      "source": "애객",
+      "title": "LG 임찬규 결혼, 손나은 처형됨",
+      "publishedAt": "2026-11-28T23:56:54+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L84LO.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L84LO.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 2,
+      "commentsPartial": false,
+      "kCount": 16,
+      "commentCount": 2,
+      "laughingComments": 1,
+      "score": 16,
+      "kPerComment": 8.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9040803",
+          "text": "헨리 8세?"
+        },
+        {
+          "id": "9040806",
+          "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ처형됨이라고 쓰니까 어감이 이상하잖아 ㅋㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T23:59:57.301083+09:00",
+      "sourceTitles": [
+        "헐 손나은 처형된다네요.",
+        "에이핑크 손나은 처형된다",
+        "LG 임찬규 결혼, 손나은 처형됨",
+        "LG 임찬규 결혼, 손나은 처형됨",
+        "LG 임찬규 결혼, 손나은 처형됨"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-28T15:00:06.481007+00:00",
+      "collectedAt": "2026-11-29T00:00:06.481026+09:00",
+      "firstPublishedAt": "2026-11-28T15:00:06.576491+00:00"
+    },
+    {
       "id": "aagag-1520865-0",
       "url": "https://aagag.com/issue/?idx=1520865",
       "source": "애객",
@@ -8605,7 +8655,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
