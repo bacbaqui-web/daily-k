@@ -1,0 +1,228 @@
+{
+  "command": "publish-news",
+  "payload": {
+    "brief": {
+      "cutoffAt": "2026-11-28T09:00:00+09:00",
+      "date": "2026-11-28",
+      "edition": "am",
+      "events": [],
+      "generatedAt": "2026-11-28T09:01:31.718835+09:00",
+      "generationMode": "codex-cli",
+      "id": "2026-11-28-am",
+      "intro": "11월 28일 아침 주요 뉴스입니다.",
+      "keywords": [
+        "자본시장",
+        "뉴욕증시",
+        "오픈AI"
+      ],
+      "overview": [
+        "이재명 대통령이 민간 주도 자본시장대전환위원회에 힘을 실었습니다.",
+        "뉴욕증시에서 기술주가 반등했고, 오픈AI는 애플에 맞소송을 냈습니다."
+      ],
+      "schemaVersion": 1,
+      "stories": [
+        {
+          "category": "정치·경제",
+          "emphasis": [
+            "관계 부처가 원칙적으로 수용"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 27일 현지 소식입니다.",
+          "fallbackNote": "전날 저녁 회차 마감 이후 나온 보도입니다.",
+          "id": "capital-market-reform-direct-report-20261128",
+          "keyFacts": {
+            "detail": "위원회가 정한 개혁 과제는 관계 부처가 원칙적으로 수용하고, 이견은 대통령실에 직접 보고하도록 했습니다.",
+            "result": "이재명 대통령이 김용범 자본시장대전환위원장에게 위원회 운영과 구성 권한을 맡기겠다고 밝혔습니다."
+          },
+          "publishedAt": "2026-11-27T23:13:12+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-27T23:13:12+09:00",
+              "title": "이 대통령, 자본시장 개혁위에 전권…부처 이견은 직접 보고",
+              "url": "https://mobile.newsis.com/view/NISX20261127_0003886927",
+              "verifiedAt": "2026-11-28T09:01:31.718835+09:00"
+            }
+          ],
+          "representativeUrl": "https://mobile.newsis.com/view/NISX20261127_0003886927",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 98,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "위원회가 정한 개혁 과제는 관계 부처가 원칙적으로 수용하고, 이견은 대통령실에 직접 보고하도록 했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "뉴시스",
+              "publishedAt": "2026-11-27T23:13:12+09:00",
+              "title": "이 대통령, 자본시장 개혁위에 전권…부처 이견은 직접 보고",
+              "url": "https://mobile.newsis.com/view/NISX20261127_0003886927",
+              "verifiedAt": "2026-11-28T09:01:31.718835+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "이재명 대통령이 김용범 자본시장대전환위원장에게 위원회 운영과 구성 권한을 맡기겠다고 밝혔습니다.",
+            "위원회가 정한 개혁 과제는 관계 부처가 원칙적으로 수용하고, 이견은 대통령실에 직접 보고하도록 했습니다."
+          ],
+          "timeline": {
+            "change": "이재명 대통령이 김용범 자본시장대전환위원장에게 위원회 운영과 구성 권한을 맡기겠다고 밝혔습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "Asia/Seoul",
+            "issueId": "capital-market-reform-direct-report-20261128",
+            "issueTitle": "이 대통령, 자본시장 개혁위에 전권…부처 이견은 직접 보고",
+            "stage": "발표"
+          },
+          "title": "이 대통령, 자본시장 개혁위에 전권…부처 이견은 직접 보고",
+          "topicKey": "capital-market-reform-direct-report-20261128",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "이재명 대통령이 김용범 자본시장대전환위원장에게 위원회 운영과 구성 권한을 맡기겠다고 밝혔습니다.",
+          "whyItMatters": "위원회가 정한 개혁 과제는 관계 부처가 원칙적으로 수용하고, 이견은 대통령실에 직접 보고하도록 했습니다."
+        },
+        {
+          "category": "국제·경제",
+          "emphasis": [
+            "2.31%"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 27일 현지 소식입니다.",
+          "id": "nasdaq-black-friday-rebound-20261128",
+          "keyFacts": {
+            "detail": "인공지능 관련 기술주가 반등했고 S&P 500도 1.60% 올랐습니다.",
+            "result": "추수감사절 다음 날 조기 폐장한 뉴욕증시에서 나스닥이 2.31% 오른 24,129.50에 마감했습니다."
+          },
+          "publishedAt": "2026-11-28T03:12:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T03:12:00+09:00",
+              "title": "뉴욕증시 기술주 반등…나스닥 2.31% 상승",
+              "url": "https://www.yna.co.kr/view/AKR20261128004800072",
+              "verifiedAt": "2026-11-28T09:01:31.718835+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/view/AKR20261128004800072",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 93,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "인공지능 관련 기술주가 반등했고 S&P 500도 1.60% 올랐습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T03:12:00+09:00",
+              "title": "뉴욕증시 기술주 반등…나스닥 2.31% 상승",
+              "url": "https://www.yna.co.kr/view/AKR20261128004800072",
+              "verifiedAt": "2026-11-28T09:01:31.718835+09:00"
+            }
+          ],
+          "status": "확정",
+          "summary": [
+            "추수감사절 다음 날 조기 폐장한 뉴욕증시에서 나스닥이 2.31% 오른 24,129.50에 마감했습니다.",
+            "인공지능 관련 기술주가 반등했고 S&P 500도 1.60% 올랐습니다."
+          ],
+          "timeline": {
+            "change": "추수감사절 다음 날 조기 폐장한 뉴욕증시에서 나스닥이 2.31% 오른 24,129.50에 마감했습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "America/New_York",
+            "issueId": "nasdaq-black-friday-rebound-20261128",
+            "issueTitle": "뉴욕증시 기술주 반등…나스닥 2.31% 상승",
+            "stage": "발표"
+          },
+          "title": "뉴욕증시 기술주 반등…나스닥 2.31% 상승",
+          "topicKey": "nasdaq-black-friday-rebound-20261128",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "추수감사절 다음 날 조기 폐장한 뉴욕증시에서 나스닥이 2.31% 오른 24,129.50에 마감했습니다.",
+          "whyItMatters": "인공지능 관련 기술주가 반등했고 S&P 500도 1.60% 올랐습니다."
+        },
+        {
+          "category": "과학·기술",
+          "emphasis": [
+            "반소를 냈습니다"
+          ],
+          "eventAt": null,
+          "eventTimeNote": "11월 27일 현지 소식입니다.",
+          "id": "openai-apple-counterclaim-20261128",
+          "keyFacts": {
+            "detail": "함께 피소된 오픈AI 직원들도 이직의 자유와 사생활이 침해됐다며 반소를 제기했습니다.",
+            "result": "애플에 영업비밀 침해 소송을 당한 오픈AI가 애플도 자사 기밀을 빼갔다고 주장하며 반소를 냈습니다."
+          },
+          "publishedAt": "2026-11-28T06:01:00+09:00",
+          "relatedArticles": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T06:01:00+09:00",
+              "title": "오픈AI, 영업비밀 소송에서 애플에 맞소송",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261128007300091",
+              "verifiedAt": "2026-11-28T09:01:31.718835+09:00"
+            }
+          ],
+          "representativeUrl": "https://www.yna.co.kr/amp/view/AKR20261128007300091",
+          "scoreComponents": {
+            "domesticImpact": 90,
+            "importance": 91,
+            "interest": 85,
+            "reliability": 95
+          },
+          "scoreReason": "함께 피소된 오픈AI 직원들도 이직의 자유와 사생활이 침해됐다며 반소를 제기했습니다.",
+          "sources": [
+            {
+              "kind": "news",
+              "language": "ko",
+              "name": "연합뉴스",
+              "publishedAt": "2026-11-28T06:01:00+09:00",
+              "title": "오픈AI, 영업비밀 소송에서 애플에 맞소송",
+              "url": "https://www.yna.co.kr/amp/view/AKR20261128007300091",
+              "verifiedAt": "2026-11-28T09:01:31.718835+09:00"
+            }
+          ],
+          "status": "보도",
+          "summary": [
+            "애플에 영업비밀 침해 소송을 당한 오픈AI가 애플도 자사 기밀을 빼갔다고 주장하며 반소를 냈습니다.",
+            "함께 피소된 오픈AI 직원들도 이직의 자유와 사생활이 침해됐다며 반소를 제기했습니다."
+          ],
+          "timeline": {
+            "change": "애플에 영업비밀 침해 소송을 당한 오픈AI가 애플도 자사 기밀을 빼갔다고 주장하며 반소를 냈습니다.",
+            "eventDate": "2026-11-27",
+            "eventEndDate": null,
+            "eventTimezone": "America/Los_Angeles",
+            "issueId": "openai-apple-counterclaim-20261128",
+            "issueTitle": "오픈AI, 영업비밀 소송에서 애플에 맞소송",
+            "stage": "보도"
+          },
+          "title": "오픈AI, 영업비밀 소송에서 애플에 맞소송",
+          "topicKey": "openai-apple-counterclaim-20261128",
+          "uncertainty": "후속 상황은 추가 확인이 필요합니다.",
+          "whatChanged": "애플에 영업비밀 침해 소송을 당한 오픈AI가 애플도 자사 기밀을 빼갔다고 주장하며 반소를 냈습니다.",
+          "whyItMatters": "함께 피소된 오픈AI 직원들도 이직의 자유와 사생활이 침해됐다며 반소를 제기했습니다."
+        }
+      ],
+      "timezone": "Asia/Seoul"
+    },
+    "operationId": "publish-news-2026-11-28-am",
+    "schemaVersion": 1
+  },
+  "recordedAt": "2026-11-28T09:01:41.167270+09:00",
+  "result": {
+    "id": "2026-11-28-am",
+    "operationId": "publish-news-2026-11-28-am",
+    "recordedAt": "2026-11-28T09:01:41.167270+09:00",
+    "sha256": "51b1132d53515f24bfdec31b8b78aa1cc79c5f94119b919ec00460af325d0733",
+    "windowId": "2026-11-28-am"
+  }
+}

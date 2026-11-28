@@ -1,6 +1,69 @@
 {
-  "editionCount": 144,
+  "editionCount": 145,
   "issues": [
+    {
+      "categories": [
+        "과학·기술"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-28T09:01:31.718835+09:00",
+      "firstCoveredDate": "2026-11-28",
+      "id": "openai-apple-counterclaim-20261128",
+      "lastCoveredAt": "2026-11-28T09:01:31.718835+09:00",
+      "lastCoveredDate": "2026-11-28",
+      "latest": {
+        "archive": false,
+        "change": "애플에 영업비밀 침해 소송을 당한 오픈AI가 애플도 자사 기밀을 빼갔다고 주장하며 반소를 냈습니다.",
+        "editionId": "2026-11-28-am",
+        "stage": "보도",
+        "storyId": "openai-apple-counterclaim-20261128",
+        "title": "오픈AI, 영업비밀 소송에서 애플에 맞소송"
+      },
+      "path": "openai-apple-counterclaim-20261128.json",
+      "title": "오픈AI, 영업비밀 소송에서 애플에 맞소송"
+    },
+    {
+      "categories": [
+        "국제·경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-28T09:01:31.718835+09:00",
+      "firstCoveredDate": "2026-11-28",
+      "id": "nasdaq-black-friday-rebound-20261128",
+      "lastCoveredAt": "2026-11-28T09:01:31.718835+09:00",
+      "lastCoveredDate": "2026-11-28",
+      "latest": {
+        "archive": false,
+        "change": "추수감사절 다음 날 조기 폐장한 뉴욕증시에서 나스닥이 2.31% 오른 24,129.50에 마감했습니다.",
+        "editionId": "2026-11-28-am",
+        "stage": "발표",
+        "storyId": "nasdaq-black-friday-rebound-20261128",
+        "title": "뉴욕증시 기술주 반등…나스닥 2.31% 상승"
+      },
+      "path": "nasdaq-black-friday-rebound-20261128.json",
+      "title": "뉴욕증시 기술주 반등…나스닥 2.31% 상승"
+    },
+    {
+      "categories": [
+        "정치·경제"
+      ],
+      "eventCount": 1,
+      "firstCoveredAt": "2026-11-28T09:01:31.718835+09:00",
+      "firstCoveredDate": "2026-11-28",
+      "id": "capital-market-reform-direct-report-20261128",
+      "lastCoveredAt": "2026-11-28T09:01:31.718835+09:00",
+      "lastCoveredDate": "2026-11-28",
+      "latest": {
+        "archive": false,
+        "change": "이재명 대통령이 김용범 자본시장대전환위원장에게 위원회 운영과 구성 권한을 맡기겠다고 밝혔습니다.",
+        "editionId": "2026-11-28-am",
+        "stage": "발표",
+        "storyId": "capital-market-reform-direct-report-20261128",
+        "title": "이 대통령, 자본시장 개혁위에 전권…부처 이견은 직접 보고"
+      },
+      "path": "capital-market-reform-direct-report-20261128.json",
+      "title": "이 대통령, 자본시장 개혁위에 전권…부처 이견은 직접 보고"
+    },
     {
       "categories": [
         "사회"
@@ -13553,7 +13616,7 @@
     }
   ],
   "schemaVersion": 1,
-  "storyCount": 1065,
+  "storyCount": 1068,
   "unlinkedStoryCount": 0,
-  "updatedAt": "2026-11-27T21:00:04.999681+09:00"
+  "updatedAt": "2026-11-28T09:01:31.718835+09:00"
 }
