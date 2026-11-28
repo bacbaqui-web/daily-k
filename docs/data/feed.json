@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T01:32:18.638883+00:00",
+  "collectedAt": "2026-11-28T01:34:26.478666+00:00",
   "windowEnd": "2026-11-28T10:29:24.576651+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -5903,79 +5903,6 @@
       "firstPublishedAt": "2026-11-27T17:14:49.591749+00:00"
     },
     {
-      "id": "aagag-1672888-0",
-      "url": "https://aagag.com/issue/?idx=1672888",
-      "source": "애객",
-      "title": "뮤지컬판에서 대참사 난 사건.jpg",
-      "publishedAt": "2026-11-27T10:26:07+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7oOj.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7oOn.webp",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7oOv.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "이미 트위터에서는 누군지 검거완료됨"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7oOj.webp",
-        "https://i.aagag.com/o/L7oOn.webp",
-        "https://i.aagag.com/o/L7oOv.webp"
-      ],
-      "videos": [],
-      "excerpt": "이미 트위터에서는 누군지 검거완료됨",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 12,
-      "commentCount": 4,
-      "laughingComments": 1,
-      "score": 12,
-      "kPerComment": 3.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9034112",
-          "text": "이런 건 티 안내도 되는데"
-        },
-        {
-          "id": "9034136",
-          "text": "버릴순 있는데 몰래 버려야지"
-        },
-        {
-          "id": "9034142",
-          "text": "더 심각한건 대부분 뜯어보지도 않음 ㅋㅋㅋ 심지어 지금 2개 작품 진행중 ㅋㅌㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9034139",
-          "text": "연예인이라는 직업이 순전히 팬때문에 돈버는건데 개돼지취급 해버리네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-27T10:34:00.662954+09:00",
-      "sourceTitles": [
-        "뮤지컬판에서 대참사 난 사건.jpg",
-        "실시간 뮤지컬판에서 대참사 난 사건.jpg",
-        "실시간 뮤지컬판에서 대참사 난 사건.jpg",
-        "실시간 뮤지컬판에서 대참사 난 사건.jpg"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-27T01:34:12.193630+00:00",
-      "collectedAt": "2026-11-27T10:34:12.193647+09:00",
-      "firstPublishedAt": "2026-11-27T01:34:12.290335+00:00"
-    },
-    {
       "id": "aagag-1672967-0",
       "url": "https://aagag.com/issue/?idx=1672967",
       "source": "애객",
@@ -8836,7 +8763,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 22,
+  "candidateCount": 176,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
