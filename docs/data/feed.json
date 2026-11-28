@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T12:12:03.429065+00:00",
+  "collectedAt": "2026-11-28T12:13:03.082662+00:00",
   "windowEnd": "2026-11-28T21:12:03.039639+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7850,6 +7850,55 @@
       "firstPublishedAt": "2026-11-27T13:59:51.347499+00:00"
     },
     {
+      "id": "aagag-1673213-0",
+      "url": "https://aagag.com/issue/?idx=1673213",
+      "source": "애객",
+      "title": "옆에서 본 오늘자 산타 카리나",
+      "publishedAt": "2026-11-28T21:07:15+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L83Uu.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L83Uu.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9040327",
+          "text": "선물주머니"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T21:12:57.240353+09:00",
+      "sourceTitles": [
+        "옆에서 본 오늘자 산타 카리나",
+        "ㅇㅎ) 오늘자 산타 카리나 .gif",
+        "ㅇㅎ?) 옆에서 본 오늘자 산타 카리나",
+        "카리나 !!!!!!"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-28T12:13:02.978421+00:00",
+      "collectedAt": "2026-11-28T21:13:02.978437+09:00",
+      "firstPublishedAt": "2026-11-28T12:13:03.155998+00:00"
+    },
+    {
       "id": "aagag-1673160-0",
       "url": "https://aagag.com/issue/?idx=1673160",
       "source": "애객",
@@ -8383,7 +8432,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
