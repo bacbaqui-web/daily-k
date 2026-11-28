@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T13:44:51.207812+09:00",
-  "windowEnd": "2026-11-28T13:38:46.965135+09:00",
+  "collectedAt": "2026-11-28T04:55:17.833273+00:00",
+  "windowEnd": "2026-11-28T13:55:17.342965+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -4871,71 +4871,6 @@
       "firstPublishedAt": "2026-11-27T08:56:17.544755+00:00"
     },
     {
-      "id": "aagag-1672925-0",
-      "url": "https://aagag.com/issue/?idx=1672925",
-      "source": "애객",
-      "title": "한국인 VS 일본인 mp4",
-      "publishedAt": "2026-11-27T13:36:07+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7kcy.mp4",
-          "poster": ""
-        },
-        {
-          "type": "text",
-          "text": "흠 일본인이 이긴거 같은디"
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7kcy.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "흠 일본인이 이긴거 같은디",
-      "reportedCommentCount": 4,
-      "commentsPartial": false,
-      "kCount": 16,
-      "commentCount": 4,
-      "laughingComments": 1,
-      "score": 16,
-      "kPerComment": 4.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9035034",
-          "text": "착해보인다 진짜"
-        },
-        {
-          "id": "9035038",
-          "text": "리센느 흥하자"
-        },
-        {
-          "id": "9035039",
-          "text": "리더가 싸움을 말리는게 아니라 조용히 싸우라고 함 ㅋㅋㅋㅋㅋ 맴버들은 또 그와중에 음소거로 싸움 ㅋㅋㅋㅋㅋㅋ 그리고 멤버가 찍은거임 ㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9035043",
-          "text": "이들도 조만간 세계적 탑 스타가 될텐데.. 재계약도 하고 계속 이렇게 보는이들한테 행복함을 줬으면 좋겠다.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-27T13:48:22.123470+09:00",
-      "sourceTitles": [
-        "신라 VS 왜 mp4",
-        "일본인 VS 한국인 싸움 영상 유출.mp4",
-        "한국인 VS 일본인 mp4",
-        "한국인 VS 일본인 mp4"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-27T04:48:31.829565+00:00",
-      "collectedAt": "2026-11-27T13:48:31.829581+09:00",
-      "firstPublishedAt": "2026-11-27T04:48:32.089272+00:00"
-    },
-    {
       "id": "aagag-1672993-0",
       "url": "https://aagag.com/issue/?idx=1672993",
       "source": "애객",
@@ -9199,9 +9134,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 306,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
