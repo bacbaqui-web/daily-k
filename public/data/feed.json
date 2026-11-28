@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T16:44:24.023420+09:00",
-  "windowEnd": "2026-11-28T16:39:11.076487+09:00",
+  "collectedAt": "2026-11-28T07:54:53.808855+00:00",
+  "windowEnd": "2026-11-28T16:54:53.475969+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -2192,111 +2192,6 @@
       "sourceTitlesFetchedAt": "2026-11-28T01:32:18.541704+00:00",
       "collectedAt": "2026-11-28T10:32:18.541726+09:00",
       "firstPublishedAt": "2026-11-28T01:32:18.680584+00:00"
-    },
-    {
-      "id": "aagag-1672958-0",
-      "url": "https://aagag.com/issue/?idx=1672958",
-      "source": "애객",
-      "title": "코리안 해밍웨이 ㄷㄷㄷ",
-      "publishedAt": "2026-11-27T16:30:17+09:00",
-      "content": [
-        {
-          "type": "image",
-          "src": "https://i.aagag.com/o/L7sQ2.webp",
-          "alt": ""
-        },
-        {
-          "type": "text",
-          "text": "ㅠㅠㅠㅠ"
-        }
-      ],
-      "images": [
-        "https://i.aagag.com/o/L7sQ2.webp"
-      ],
-      "videos": [],
-      "excerpt": "ㅠㅠㅠㅠ",
-      "reportedCommentCount": 15,
-      "commentsPartial": false,
-      "kCount": 29,
-      "commentCount": 15,
-      "laughingComments": 1,
-      "score": 29,
-      "kPerComment": 1.9333333333333333,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9035707",
-          "text": "그래서 샀다"
-        },
-        {
-          "id": "9035712",
-          "text": "아 왜"
-        },
-        {
-          "id": "9035731",
-          "text": "응 오늘도 샀어 삼성전자 배당그 들어왔어~"
-        },
-        {
-          "id": "9035714",
-          "text": "젊은이의 애별다 목록은 누르지 말아야 했다"
-        },
-        {
-          "id": "9035730",
-          "text": "그대 박쥐를 보았는가"
-        },
-        {
-          "id": "9035710",
-          "text": "팔았어야 했다"
-        },
-        {
-          "id": "9035721",
-          "text": "친한동생이 \"형 고점 신경쓰이면 이제 싹 팔고 주식 좀 접었다가 나중에 해버려.\" 이 충고를 들었을때가 고점에서 살짝 휘청했다 전고점 돌파했던 전고점... 웃기는건 그놈도 안팜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
-        },
-        {
-          "id": "9035711",
-          "text": "시장에 피가 낭자하고 공포가 만연했다."
-        },
-        {
-          "id": "9035719",
-          "text": "크아악!!"
-        },
-        {
-          "id": "9035716",
-          "text": "그렇게 하지 말았어야 했다"
-        },
-        {
-          "id": "9035724",
-          "text": "카페를 차렸다"
-        },
-        {
-          "id": "9035742",
-          "text": "내가 후회하는 건 왜 샀지가 아니라 왜 그 때 안팔았지야."
-        },
-        {
-          "id": "9035751",
-          "text": "아버지!~"
-        },
-        {
-          "id": "9035774",
-          "text": "내렸어야했다"
-        },
-        {
-          "id": "9035775",
-          "text": "느낌은 분명 방귀였는데.."
-        }
-      ],
-      "commentsFetchedAt": "2026-11-27T16:47:11.829398+09:00",
-      "sourceTitles": [
-        "코리안 해밍웨이 ㄷㄷㄷ",
-        "코리안 해밍웨이 ㄷㄷㄷ",
-        "한국의 헤밍웨이...jpg",
-        "코리안 해밍웨이 ㄷㄷㄷ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 4,
-      "sourceTitlesFetchedAt": "2026-11-27T07:47:25.527631+00:00",
-      "collectedAt": "2026-11-27T16:47:25.527649+09:00",
-      "firstPublishedAt": "2026-11-27T07:47:25.626162+00:00"
     },
     {
       "id": "aagag-946401-0",
@@ -9804,9 +9699,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 286,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
