@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T06:02:38.549699+00:00",
+  "collectedAt": "2026-11-28T06:05:28.066145+00:00",
   "windowEnd": "2026-11-28T15:02:38.224036+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8292,6 +8292,63 @@
       "firstPublishedAt": "2026-11-28T03:21:14.603034+00:00"
     },
     {
+      "id": "aagag-1673138-0",
+      "url": "https://aagag.com/issue/?idx=1673138",
+      "source": "애객",
+      "title": "여친의 습관을 발견한 남친",
+      "publishedAt": "2026-11-28T14:46:14+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7jN9.mp4",
+          "poster": ""
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7jN9.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9039114",
+          "text": "난 거기 말고 다른곳을 받쳐주고 싶은데"
+        },
+        {
+          "id": "9039155",
+          "text": "입벌리고 있는줄 몰랐네"
+        },
+        {
+          "id": "9039165",
+          "text": "바스트를 받쳐야지..."
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T15:05:13.594843+09:00",
+      "sourceTitles": [
+        "여친의 습관을 발견한 남친",
+        "ㅇㅎ) 여친의 특이한 습관을 발견한 남친",
+        "여자들 마스카라 할 때 특징",
+        "여자가 화장을 할때"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-28T06:05:27.989043+00:00",
+      "collectedAt": "2026-11-28T15:05:27.989061+09:00",
+      "firstPublishedAt": "2026-11-28T06:05:28.104990+00:00"
+    },
+    {
       "id": "aagag-1673095-0",
       "url": "https://aagag.com/issue/?idx=1673095",
       "source": "애객",
@@ -9140,7 +9197,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
