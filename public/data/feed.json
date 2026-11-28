@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T08:11:21.504778+00:00",
+  "collectedAt": "2026-11-28T08:13:10.852301+00:00",
   "windowEnd": "2026-11-28T17:11:21.194838+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9899,7 +9899,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
@@ -9926,6 +9926,47 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1673161-0",
+      "url": "https://aagag.com/issue/?idx=1673161",
+      "source": "애객",
+      "title": "🍆)여장에 눈을 떠 버린 소꿉친구.manhwa",
+      "publishedAt": "2026-11-28T17:06:06+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/KKN4e.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/KKN4e.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 0,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 0,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [],
+      "commentsFetchedAt": "2026-11-28T17:12:58.591919+09:00",
+      "sourceTitles": [
+        "🍆)여장에 눈을 떠 버린 소꿉친구.manhwa",
+        "여장에 눈을 떠 버린 소꿉친구.manhwa",
+        "🍆)여장에 눈을 떠 버린 소꿉친구.manhwa",
+        "혐) 여장에 눈을 떠 버린 소꿉친구 manhwa ㅎㄷㄷㄷ",
+        "혐) 소꿉친구에게 고백 받는 manhwa ㅎㄷㄷㄷ"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 5,
+      "sourceTitlesFetchedAt": "2026-11-28T08:13:10.777715+00:00",
+      "collectedAt": "2026-11-28T17:13:10.777734+09:00",
+      "firstPublishedAt": "2026-11-28T08:13:10.886824+00:00"
+    },
     {
       "id": "aagag-1673154-0",
       "url": "https://aagag.com/issue/?idx=1673154",
