@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T07:40:34.031148+00:00",
+  "collectedAt": "2026-11-28T07:41:22.619721+00:00",
   "windowEnd": "2026-11-28T16:39:11.076487+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -9831,6 +9831,62 @@
   },
   "mode": "snapshot",
   "comicPosts": [
+    {
+      "id": "aagag-1673154-0",
+      "url": "https://aagag.com/issue/?idx=1673154",
+      "source": "애객",
+      "title": "물수제비 뜨는 만화",
+      "publishedAt": "2026-11-28T16:32:02+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7NH4.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7NH4.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 4,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 4,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9039466",
+          "text": "ㅎㅎㅎㅎ 센스있구마이"
+        },
+        {
+          "id": "9039471",
+          "text": "누가 흐뭇 짤좀 가져와줘요! 좋다:)"
+        },
+        {
+          "id": "9039491",
+          "text": "7컷에 담백하게 담았네. 이런건 커뮤니티에서 만나는 보물같은 존재같아"
+        },
+        {
+          "id": "9039493",
+          "text": "이거 [호랑이 들어와요]던기?"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T16:41:08.120461+09:00",
+      "sourceTitles": [
+        "물수제비 뜨는 만화             1",
+        "물수제비.manhwa",
+        "물수제비 뜨는 만화"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-28T07:41:22.546497+00:00",
+      "collectedAt": "2026-11-28T16:41:22.546513+09:00",
+      "firstPublishedAt": "2026-11-28T07:41:22.679680+00:00"
+    },
     {
       "id": "aagag-1193021-0",
       "url": "https://aagag.com/issue/?idx=1193021",
