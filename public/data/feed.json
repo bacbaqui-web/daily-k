@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T02:16:43.805450+00:00",
+  "collectedAt": "2026-11-28T02:18:43.372408+00:00",
   "windowEnd": "2026-11-28T11:16:43.426012+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7825,6 +7825,71 @@
       "firstPublishedAt": "2026-11-28T00:57:06.214853+00:00"
     },
     {
+      "id": "aagag-1673095-0",
+      "url": "https://aagag.com/issue/?idx=1673095",
+      "source": "애객",
+      "title": "허윤진 이상한 의상",
+      "publishedAt": "2026-11-28T11:09:24+09:00",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7nmG.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7nmI.webp",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "https://i.aagag.com/o/L7nmH.webp",
+          "alt": ""
+        }
+      ],
+      "images": [
+        "https://i.aagag.com/o/L7nmG.webp",
+        "https://i.aagag.com/o/L7nmI.webp",
+        "https://i.aagag.com/o/L7nmH.webp"
+      ],
+      "videos": [],
+      "excerpt": "",
+      "reportedCommentCount": 3,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 3,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9038256",
+          "text": ""
+        },
+        {
+          "id": "9038257",
+          "text": "마스크여?"
+        },
+        {
+          "id": "9038272",
+          "text": "혹시 뒷모습도 있나요!"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T11:18:36.176532+09:00",
+      "sourceTitles": [
+        "미국가서 롤링스톤 화보 찍은 르세라핌",
+        "ㅇㅎ?) 르세라핌 허윤진 자신감..jpg",
+        "허윤진 이상한 의상",
+        "르세라핌) 허윤진, 그림판으로 지운거 아님."
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-28T02:18:43.260331+00:00",
+      "collectedAt": "2026-11-28T11:18:43.260349+09:00",
+      "firstPublishedAt": "2026-11-28T02:18:43.419419+00:00"
+    },
+    {
       "id": "aagag-1673019-0",
       "url": "https://aagag.com/issue/?idx=1673019",
       "source": "애객",
@@ -8694,7 +8759,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
