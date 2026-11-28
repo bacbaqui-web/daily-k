@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T22:50:45.753381+09:00",
-  "windowEnd": "2026-11-28T22:42:35.654758+09:00",
+  "collectedAt": "2026-11-28T14:01:18.116378+00:00",
+  "windowEnd": "2026-11-28T23:01:17.759146+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -7909,124 +7909,6 @@
       "firstPublishedAt": "2026-11-28T02:18:43.419419+00:00"
     },
     {
-      "id": "aagag-1673019-0",
-      "url": "https://aagag.com/issue/?idx=1673019",
-      "source": "애객",
-      "title": "시그니처 지원 라방",
-      "publishedAt": "2026-11-27T22:50:11+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e6v.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e7p.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e81.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e8D.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e8J.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e8P.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7e8c.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7e6v.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7e7p.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7e81.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7e8D.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7e8J.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7e8P.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7e8c.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9037000",
-          "text": "볼살 귀엽네.."
-        },
-        {
-          "id": "9037008",
-          "text": "얼굴이 3개네"
-        },
-        {
-          "id": "9037009",
-          "text": "막짤 귀엽. 잘 웃는 여자 좋"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-27T22:59:41.239579+09:00",
-      "sourceTitles": [
-        "시그니처 지원 라방",
-        "최근 시그니처 지원.mp4",
-        "ㅇㅎ?) 편한 복장으로 라방하는 지지원 .gif",
-        "ㅇㅎ?) 노출없는 지지원 라방...gif",
-        "시그니처 지원 라방"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 5,
-      "sourceTitlesFetchedAt": "2026-11-27T13:59:51.223953+00:00",
-      "collectedAt": "2026-11-27T22:59:51.223971+09:00",
-      "firstPublishedAt": "2026-11-27T13:59:51.347499+00:00"
-    },
-    {
       "id": "aagag-1673213-0",
       "url": "https://aagag.com/issue/?idx=1673213",
       "source": "애객",
@@ -8673,9 +8555,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 308,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
