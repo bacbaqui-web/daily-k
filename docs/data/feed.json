@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T05:27:01.132901+00:00",
+  "collectedAt": "2026-11-28T05:28:18.343314+00:00",
   "windowEnd": "2026-11-28T14:27:00.991950+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -8483,6 +8483,109 @@
       "firstPublishedAt": "2026-11-27T11:09:49.643380+00:00"
     },
     {
+      "id": "aagag-1673136-0",
+      "url": "https://aagag.com/issue/?idx=1673136",
+      "source": "애객",
+      "title": "ㅇㅎ 어제 뮤직뱅크 하이키 옐",
+      "publishedAt": "2026-11-28T14:26:07+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7yqw.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7yrz.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7yrt.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7yr2.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7yrn.mp4",
+          "poster": ""
+        },
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7yr8.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "제목처럼 정말 unbelievable"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7yqw.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L7yrz.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L7yrt.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L7yr2.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L7yrn.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        },
+        {
+          "src": "https://i.aagag.com/L7yr8.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "제목처럼 정말 unbelievable",
+      "reportedCommentCount": 1,
+      "commentsPartial": false,
+      "kCount": 0,
+      "commentCount": 1,
+      "laughingComments": 0,
+      "score": 0,
+      "kPerComment": 0.0,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9039031",
+          "text": "최고다"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T14:28:10.580109+09:00",
+      "sourceTitles": [
+        "ㅇㅎ?) 하이키 옐 어제자 뮤직뱅크...gif",
+        "ㅇㅎ 어제 뮤직뱅크 하이키 옐",
+        "ㅇㅎ?) 하이키 옐 어제자 뮤직뱅크...gif",
+        "어제자 뮤직뱅크 하이키 옐"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 4,
+      "sourceTitlesFetchedAt": "2026-11-28T05:28:18.254711+00:00",
+      "collectedAt": "2026-11-28T14:28:18.254732+09:00",
+      "firstPublishedAt": "2026-11-28T05:28:18.479003+00:00"
+    },
+    {
       "id": "aagag-1673012-0",
       "url": "https://aagag.com/issue/?idx=1673012",
       "source": "애객",
@@ -8969,7 +9072,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
