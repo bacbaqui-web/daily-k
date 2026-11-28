@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T05:43:45.778554+00:00",
+  "collectedAt": "2026-11-28T05:47:33.101533+00:00",
   "windowEnd": "2026-11-28T14:43:45.451891+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -948,6 +948,74 @@
       "sourceTitlesFetchedAt": "2026-11-27T21:27:17.092445+00:00",
       "collectedAt": "2026-11-28T06:27:17.092478+09:00",
       "firstPublishedAt": "2026-11-27T21:27:17.502303+00:00"
+    },
+    {
+      "id": "aagag-1673124-0",
+      "url": "https://aagag.com/issue/?idx=1673124",
+      "source": "애객",
+      "title": "의외로 AI가 아닌 것",
+      "publishedAt": "2026-11-28T14:30:09+09:00",
+      "content": [
+        {
+          "type": "video",
+          "src": "https://i.aagag.com/L7x3P.mp4",
+          "poster": ""
+        },
+        {
+          "type": "text",
+          "text": "......"
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "src": "https://i.aagag.com/L7x3P.mp4",
+          "poster": "",
+          "type": "video/mp4"
+        }
+      ],
+      "excerpt": "......",
+      "reportedCommentCount": 5,
+      "commentsPartial": false,
+      "kCount": 34,
+      "commentCount": 5,
+      "laughingComments": 4,
+      "score": 34,
+      "kPerComment": 6.8,
+      "portalLinks": [],
+      "comments": [
+        {
+          "id": "9039045",
+          "text": "이거 중독성있네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+          "id": "9039047",
+          "text": "어설픈자는 살아남지못하는 강호의 세계인가"
+        },
+        {
+          "id": "9039049",
+          "text": "타이밍 죽인다 ㅋㅋㅋㅋ 음원 내줘라야"
+        },
+        {
+          "id": "9039075",
+          "text": "ㅋㅋㅋ아직은 인간이 위다"
+        },
+        {
+          "id": "9039092",
+          "text": "닭이랑 얼마나 라포를 쌓았는지 감도 안오넼ㅋㅋㅋㅋㅋㅋ"
+        }
+      ],
+      "commentsFetchedAt": "2026-11-28T14:47:27.779761+09:00",
+      "sourceTitles": [
+        "의외로 합주 가능한 동물...",
+        "의외로 AI가 아닌 것",
+        "의외로 AI가 아닌 것"
+      ],
+      "sourceHistoryPartial": false,
+      "sourceHistoryCount": 3,
+      "sourceTitlesFetchedAt": "2026-11-28T05:47:32.985005+00:00",
+      "collectedAt": "2026-11-28T14:47:32.985021+09:00",
+      "firstPublishedAt": "2026-11-28T05:47:33.151058+00:00"
     },
     {
       "id": "aagag-1600808-0",
@@ -9072,7 +9140,7 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 0,
+  "candidateCount": 22,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
