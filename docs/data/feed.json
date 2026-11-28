@@ -2,7 +2,7 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T11:04:11.804317+00:00",
+  "collectedAt": "2026-11-28T11:09:53.695352+00:00",
   "windowEnd": "2026-11-28T20:01:58.926728+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
@@ -7775,82 +7775,6 @@
       "firstPublishedAt": "2026-11-27T13:59:51.347499+00:00"
     },
     {
-      "id": "aagag-1672996-0",
-      "url": "https://aagag.com/issue/?idx=1672996",
-      "source": "애객",
-      "title": "트리플에스 박소현 라방 수위 ㄷㄷ",
-      "publishedAt": "2026-11-27T20:04:24+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7qul.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7qur.mp4",
-          "poster": ""
-        },
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7qux.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7qul.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7qur.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        },
-        {
-          "src": "https://i.aagag.com/L7qux.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 3,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 3,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9036544",
-          "text": "어우 좋다"
-        },
-        {
-          "id": "9036549",
-          "text": "얼마나 하고 봤더니"
-        },
-        {
-          "id": "9036560",
-          "text": "얘도 이쁘네 뜨겠다 자기PR은 제대로 했네"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-27T20:09:35.116129+09:00",
-      "sourceTitles": [
-        "ㅇㅎ?) 트리플에스 박소현 라방...gif",
-        "ㅇㅎ?) 트리플에스 박소현 라방...gif",
-        "트리플에스 박소현 라방 수위 ㄷㄷ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-27T11:09:49.533738+00:00",
-      "collectedAt": "2026-11-27T20:09:49.533754+09:00",
-      "firstPublishedAt": "2026-11-27T11:09:49.643380+00:00"
-    },
-    {
       "id": "aagag-1673160-0",
       "url": "https://aagag.com/issue/?idx=1673160",
       "source": "애객",
@@ -8384,7 +8308,7 @@
     }
   ],
   "partialCommentPosts": 2,
-  "candidateCount": 22,
+  "candidateCount": 128,
   "collectionStatus": "partial",
   "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
