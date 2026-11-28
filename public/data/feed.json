@@ -2,8 +2,8 @@
   "rolling24Hours": true,
   "retentionBasis": "firstPublishedAt",
   "date": "2026-11-28",
-  "collectedAt": "2026-11-28T09:08:23.667009+09:00",
-  "windowEnd": "2026-11-28T09:04:03.692226+09:00",
+  "collectedAt": "2026-11-28T00:18:47.239490+00:00",
+  "windowEnd": "2026-11-28T09:18:46.920242+09:00",
   "scoreVersion": "aagag-v1",
   "posts": [
     {
@@ -8270,54 +8270,6 @@
       "firstPublishedAt": "2026-11-27T03:24:40.114868+00:00"
     },
     {
-      "id": "aagag-1672865-0",
-      "url": "https://aagag.com/issue/?idx=1672865",
-      "source": "애객",
-      "title": "ㅇㅎ) GTA6 하고 있는 남친 꼬시는 법 ㄷㄷ",
-      "publishedAt": "2026-11-27T09:04:02+09:00",
-      "content": [
-        {
-          "type": "video",
-          "src": "https://i.aagag.com/L7R8L.mp4",
-          "poster": ""
-        }
-      ],
-      "images": [],
-      "videos": [
-        {
-          "src": "https://i.aagag.com/L7R8L.mp4",
-          "poster": "",
-          "type": "video/mp4"
-        }
-      ],
-      "excerpt": "",
-      "reportedCommentCount": 1,
-      "commentsPartial": false,
-      "kCount": 0,
-      "commentCount": 1,
-      "laughingComments": 0,
-      "score": 0,
-      "kPerComment": 0.0,
-      "portalLinks": [],
-      "comments": [
-        {
-          "id": "9033714",
-          "text": "...암살하는법이 아니라?"
-        }
-      ],
-      "commentsFetchedAt": "2026-11-27T09:08:37.790147+09:00",
-      "sourceTitles": [
-        "GTA6 하고 있는 남친 꼬시는 누나",
-        "ㅇㅎ) GTA6 하고 있는 남친 꼬시는 법 ㄷㄷ",
-        "ㅇㅎ) GTA6 하고 있는 남친 꼬시는 법 ㄷㄷ"
-      ],
-      "sourceHistoryPartial": false,
-      "sourceHistoryCount": 3,
-      "sourceTitlesFetchedAt": "2026-11-27T00:08:48.131067+00:00",
-      "collectedAt": "2026-11-27T09:08:48.131085+09:00",
-      "firstPublishedAt": "2026-11-27T00:08:48.244020+00:00"
-    },
-    {
       "id": "aagag-1673051-0",
       "url": "https://aagag.com/issue/?idx=1673051",
       "source": "애객",
@@ -8653,9 +8605,9 @@
     }
   ],
   "partialCommentPosts": 3,
-  "candidateCount": 306,
-  "collectionStatus": "complete",
-  "collectionMessage": "일부 글은 표시 댓글 수보다 적은 댓글이 반환됐습니다. 순위는 실제 읽은 댓글 기준입니다.",
+  "candidateCount": 0,
+  "collectionStatus": "partial",
+  "collectionMessage": "전체 수집이 끝나기 전의 중간 결과입니다.",
   "sources": [
     {
       "name": "애객",
